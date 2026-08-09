@@ -1,0 +1,29 @@
+# Archivos temporales de Antigravity IDE
+.gemini/tmp/
+*.log
+
+# Entornos virtuales Python y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Power BI - Excluir temporales o datos pesados locales (conservando archivos PBIP metadata/JSON)
+*.pbix.cache
+*.Data/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credenciales y variables de entorno secretas
+.env
+*.pem
+*.key
+
+# Archivos temporales de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

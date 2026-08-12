@@ -28,10 +28,11 @@ Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a
 Por favor, ejecuta la inicialización y preséntame el siguiente menú para que elija cómo trabajar hoy:
    - [1] Analista Financiero de Proyectos de Inversión (VAN, TIR, Riesgo, Entregables en Drive)
    - [2] Ciencia de Datos (PySpark, Python, SQL, Power BI Project .pbip -> Entregables en Descargas)
-   - [3] Desarrollador Web Showroom (Inspirado en desarrollosas.com.ar / Despliegue GitHub Pages)
-   - [4] Registrar/Guardar Mejoras Confirmadas (Auto-Documentación + Backup)
-   - [5] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
-   - [6] Crear y Configurar un Nuevo Perfil de Agente Futuro
+   - [3] Desarrollador Web Showroom (Showroom Energy CPY / Extracción de PDFs / GitHub Pages)
+   - [4] Agregar / Actualizar Nuevos Proyectos de Inversión en el Showroom Web (PDFs en Descargas)
+   - [5] Registrar/Guardar Mejoras Confirmadas (Auto-Documentación + Backup Preventivo)
+   - [6] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
+   - [7] Crear y Configurar un Nuevo Perfil de Agente Futuro
 
 Dime cuando la inicialización esté completa y qué número de opción deseas que activemos.
 ```

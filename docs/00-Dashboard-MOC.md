@@ -71,4 +71,6 @@ graph TD
 ## 📜 Historial de Mejoras Continuas
 - [[Historial-Mejoras/00-Registro-Inicial|00-Registro Inicial de Arquitectura]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_maquetacion-energy-cpy|2026-08-12 Desarrollador Web Showroom — Maquetación Benchmark Energy CPY]]
+- [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_buenas-practicas-github|2026-08-12 Desarrollador Web Showroom — Integración de Buenas Prácticas Oficiales de GitHub]]
+
 

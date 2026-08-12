@@ -27,3 +27,7 @@ desktop.ini
 # Archivos temporales de Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Scratch temporales
+scratch/
+

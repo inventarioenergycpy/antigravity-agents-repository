@@ -33,6 +33,7 @@ graph TD
     MOC --> AF["01-Analista-Financiero"]
     MOC --> CD["02-Ciencia-de-Datos"]
     MOC --> DW["03-Desarrollador-Web-Showroom"]
+    MOC --> PA["04-Planificador-de-Agentes"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-Documentación"]
@@ -60,7 +61,10 @@ graph TD
 ### 3. [[Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom]]
 - **Entregables**: Repositorios Web Dedicados en GitHub (`inventarioenergycpy/<proyecto-web>`) con GitHub Pages independiente.
 
-### 4. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+### 4. [[Agentes/04-Planificador-Disenador-de-Agentes|Planificador y Diseñador de Agentes AI]]
+- **Entregables**: Investigación verídica, diseño pre-implementación, roadmap de pruebas parciales, pruebas piloto y auto-documentación de nuevos agentes.
+
+### 5. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
 - Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---

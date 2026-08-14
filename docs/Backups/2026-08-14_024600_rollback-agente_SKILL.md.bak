@@ -17,8 +17,6 @@ Esta habilidad se activa cuando el usuario solicita revertir la configuración d
 
 3. **Ejecutar el Rollback**:
    - Copiar el contenido del archivo `.bak` seleccionado desde `docs/Backups/` sobre `.agents/skills/<nombre-agente>/SKILL.md`.
-   - Asegurar que la versión restaurada mantenga o reactive la estructura de la **Metodología de Desarrollo en 6 Etapas**.
-
 
 4. **Registrar la Reversión en Obsidian**:
    - Crear una entrada en `docs/Historial-Mejoras/YYYY-MM-DD_<nombre-agente>_ROLLBACK.md` documentando que se ha restaurado la versión anterior.

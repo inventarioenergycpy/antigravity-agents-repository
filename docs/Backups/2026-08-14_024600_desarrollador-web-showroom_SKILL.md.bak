@@ -67,30 +67,9 @@ inventarioenergycpy/<nombre-proyecto-web>/
 
 ---
 
-## ⚙️ Metodología de Desarrollo en 6 Etapas
-
-Cada desarrollo o actualización de sitio web showroom seguirá las 6 etapas estandarizadas:
-
-1. **Etapa 1: Investigación en Fuentes Confiables**:
-   - Análisis de requerimientos de la presentación PDF, referentes estéticos y marcas institucionales.
-2. **Etapa 2: Diseño Pre-Implementación & Tesis**:
-   - Definición de la estructura visual HTML5, paleta de colores Dark Mode/Glassmorphism y tarjetas de proyectos.
-3. **Etapa 3: Diagramación de Etapas & Pruebas Parciales**:
-   - Pruebas unitarias de renderizado de diapositivas PNG, accesibilidad y componentes CSS/JS.
-4. **Etapa 4: Presentación de Prueba Piloto (Sujeta a Aprobación)**:
-   - Prototipo web local presentado al usuario para revisión de diseño, contenido y navegación modal.
-5. **Etapa 5: Pruebas sobre el Modelo Final**:
-   - Ejecución de las 17 verificaciones automatizadas de responsividad, enlaces de activos y velocidad.
-6. **Etapa 6: Documentación & Despliegue Dedicado**:
-   - Creación/push del repositorio independiente en GitHub (`inventarioenergycpy/<nombre-web>`), habilitación de GitHub Pages y registro en Obsidian `docs/Proyectos/`.
-
----
-
 ## 🔄 Protocolo de Mejora Continua & Auto-Documentación
 
 Cuando el usuario aprueba o solicita guardar una mejora (ej. *"guarda esta página como referente"*, *"aplica las buenas prácticas de GitHub"*):
 1. **Backup Preventivo**: Generar una copia de respaldo en `docs/Backups/YYYY-MM-DD_HHmmss_desarrollador-web-showroom_SKILL.md.bak`.
 2. **Actualización del SKILL**: Actualizar este archivo incorporando los patrones de diseño, componentes y flujos validados.
 3. **Registro Histórico en Obsidian**: Crear una nota detallada en `docs/Historial-Mejoras/YYYY-MM-DD_desarrollador-web-showroom_<descripcion>.md` especificando contexto, reglas agregadas, impacto y enlace al backup.
-
-

@@ -15,10 +15,8 @@ Antes de modificar el archivo `SKILL.md` destino:
 2. Guardarlo en `docs/Backups/` con la nomenclatura:
    `YYYY-MM-DD_HHmmss_<nombre-agente>_SKILL.md.bak`
 
-### 2. Actualizar la Configuración del Agente y Auditar las 6 Etapas
+### 2. Actualizar la Configuración del Agente
 1. Modificar `.agents/skills/<nombre-agente>/SKILL.md` incorporando la nueva regla o patrón validado.
-2. Verificar que la habilidad mantenga la estructura obligatoria de **Metodología de Desarrollo en 6 Etapas** (Investigación -> Diseño & Tesis -> Pruebas Parciales -> Prueba Piloto -> Pruebas Finales -> Documentación & Repositorio Dedicado).
-
 
 ### 3. Crear Registro Histórico o Ficha de Proyecto en Obsidian
 1. **Para Mejoras de Agentes**: Crear una nota en `docs/Historial-Mejoras/YYYY-MM-DD_<nombre-agente>_<breve-descripcion>.md`.
@@ -64,4 +62,3 @@ tags:
 ### 4. Sincronizar Cambios con Git
 1. Ejecutar commit en Git resguardando los backups, `SKILL.md` actualizados y notas de Obsidian.
 2. Confirmar al usuario mostrando los enlaces al backup y al registro histórico.
-

@@ -35,27 +35,6 @@ Al entregar una solución de Power BI en repositorio dedicado o carpeta local, o
 
 ---
 
-## ⚙️ Metodología de Desarrollo en 6 Etapas
-
-Todo proyecto o desarrollo de ciencia de datos seguirá las siguientes etapas:
-
-1. **Etapa 1: Investigación en Fuentes Confiables**:
-   - Validación de fuentes de datos, esquemas de bases de datos, APIs verídicas y requisitos de ingesta de datos.
-2. **Etapa 2: Diseño Pre-Implementación & Tesis**:
-   - Definición de la arquitectura de datos (pipeline ETL, modelo de datos en estrella/copo de nieve, transformaciones PySpark/Pandas).
-3. **Etapa 3: Diagramación de Etapas & Pruebas Parciales**:
-   - Pruebas unitarias parciales de limpieza, parsing de tipos de datos y consultas SQL parciales.
-4. **Etapa 4: Presentación de Prueba Piloto (Sujeta a Aprobación)**:
-   - Prototipo inicial de dataset procesado o informe de Power BI borrador presentado al usuario para validación de métricas.
-5. **Etapa 5: Pruebas sobre el Modelo Final**:
-   - Validación de integridad de datos, rendimiento de consultas y test de carga masiva.
-6. **Etapa 6: Documentación & Persistencia**:
-   - Depósito final en `%USERPROFILE%\Downloads\` o creación de repositorio dedicado en GitHub (`inventarioenergycpy/<nombre-proyecto-datos>`) con su registro en Obsidian `docs/Proyectos/`.
-
----
-
 ## 🔄 Protocolo de Mejora Continua
 
 Cuando el usuario confirme una optimización en las consultas SQL, una técnica de PySpark o un estándar de informe en Power BI (ej. *"guarda esta estructura de Power BI"*), invocar el skill `auto-documentacion-agente` para actualizar este archivo y registrar la mejora en Obsidian.
-
-

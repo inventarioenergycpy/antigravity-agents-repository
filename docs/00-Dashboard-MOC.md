@@ -21,6 +21,8 @@ Bienvenido a la Bóveda de Obsidian para la gestión estructurada de agentes con
 - **Cuenta GitHub**: `inventarioenergycpy`
 - **Correo Electrónico**: `inventario.energycpy@gmail.com`
 - **Modo de Autenticación**: Inicio directo con Google OAuth.
+- **Protocolo de Desarrollo**: **Metodología Estandarizada en 6 Etapas** aplicada al 100% de las habilidades (`Investigación en Fuentes Confiables -> Diseño & Tesis -> Pruebas Parciales -> Prueba Piloto con Aprobación -> Pruebas Finales -> Auto-Documentación & Bóveda Obsidian`).
+
 
 ---
 

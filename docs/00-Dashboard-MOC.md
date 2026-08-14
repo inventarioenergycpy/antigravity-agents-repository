@@ -24,11 +24,13 @@ Bienvenido a la Bóveda de Obsidian para la gestión estructurada de agentes con
 
 ---
 
-## 🤖 Arquitectura del Sistema de Agentes y Resguardo
+## 🤖 Arquitectura del Sistema de Agentes y Repositorios Dedicados
 
 ```mermaid
 graph TD
-    MOC["00-Dashboard-MOC"] --> AF["01-Analista-Financiero"]
+    Hub["antigravity-agents-repository (Hub Bóveda Central)"] --> MOC["00-Dashboard-MOC"]
+    
+    MOC --> AF["01-Analista-Financiero"]
     MOC --> CD["02-Ciencia-de-Datos"]
     MOC --> DW["03-Desarrollador-Web-Showroom"]
     MOC --> NA["Nuevos Agentes Futuros"]
@@ -36,6 +38,11 @@ graph TD
     MOC --> AutoDoc["Auto-Documentación"]
     AutoDoc --> Backup["Bóveda de Backups (docs/Backups/)"]
     AutoDoc --> Historial["Histórico de Mejoras (docs/Historial-Mejoras/)"]
+    
+    MOC --> ProyectosHub["Proyectos Independientes (docs/Proyectos/)"]
+    ProyectosHub --> RepoWeb["Repo Web: inventarioenergycpy/showroom-<nombre>"]
+    ProyectosHub --> RepoData["Repo Data: inventarioenergycpy/pipeline-<nombre>"]
+    ProyectosHub --> RepoFin["Repo Finanzas: inventarioenergycpy/modelo-<nombre>"]
     
     Backup --> Rollback["Habilidad Rollback-Agente"]
 ```
@@ -45,13 +52,16 @@ graph TD
 ## 📂 Áreas de la Bóveda Obsidian
 
 ### 1. [[Agentes/01-Analista-Financiero|Analista Financiero]]
-- **Entregables**: Google Drive (`inventario.energycpy@gmail.com`).
+- **Entregables**: Google Drive (`inventario.energycpy@gmail.com`) / Repositorios Financieros Dedicados.
 
 ### 2. [[Agentes/02-Ciencia-de-Datos|Ciencia de Datos]]
-- **Entregables**: Carpetas locales `%USERPROFILE%\Downloads` (Power BI `.pbip`).
+- **Entregables**: Carpetas locales `%USERPROFILE%\Downloads` / Repositorios de Datos Dedicados.
 
 ### 3. [[Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom]]
-- **Entregables**: Showroom maquetado en `showroom-web/` listo para GitHub Pages.
+- **Entregables**: Repositorios Web Dedicados en GitHub (`inventarioenergycpy/<proyecto-web>`) con GitHub Pages independiente.
+
+### 4. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+- Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---
 
@@ -72,5 +82,7 @@ graph TD
 - [[Historial-Mejoras/00-Registro-Inicial|00-Registro Inicial de Arquitectura]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_maquetacion-energy-cpy|2026-08-12 Desarrollador Web Showroom — Maquetación Benchmark Energy CPY]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_buenas-practicas-github|2026-08-12 Desarrollador Web Showroom — Integración de Buenas Prácticas Oficiales de GitHub]]
+- [[Historial-Mejoras/2026-08-14_protocolo-multi-repositorio-proyectos|2026-08-14 Redefinición Bóveda Central de Agentes 100% y Protocolo Multi-Repositorio por Proyecto]]
+
 
 

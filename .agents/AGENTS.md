@@ -7,14 +7,17 @@
 
 ---
 
-## 2. Política Estricta de Almacenamiento y Entregables
+## 2. Propósito del Repositorio y Política de Almacenamiento
 
-### A. Informes y Documentos de Google Workspace
-- **Regla**: Todos los informes, análisis financieros, presentaciones ejecutivas y tablas de cálculo creadas mediante herramientas de Google (Google Docs, Google Slides, Google Sheets) se almacenan en el **Google Drive** de `inventario.energycpy@gmail.com`.
+### A. Repositorio Central de Agentes (`antigravity-agents-repository`)
+- **Regla Estricta**: Este repositorio está destinado **100% exclusivamente a la documentación de agentes, habilidades (`.agents/skills/`), reglas globales (`.agents/AGENTS.md`), respaldos (`docs/Backups/`) y la Bóveda de Obsidian (`docs/`)**.
+- No debe contener código fuente final ni prototipos pesados de proyectos individuales.
 
-### B. Soluciones Locales, Proyectos y Scripts
-- **Regla**: Todo código ejecutable (Python, PySpark, SQL) y proyectos **Power BI Project (`.pbip` / `.pbit`)** se depositan en la carpeta local de **Descargas del Sistema**:
-  - Windows: `%USERPROFILE%\Downloads` (ej. `C:\Users\<Usuario>\Downloads\`).
+### B. Informes y Documentos de Google Workspace
+- **Regla**: Todos los informes, análisis financieros, presentaciones ejecutivas y planillas creadas en Google Workspace (Docs, Slides, Sheets) se almacenan en el **Google Drive** de `inventario.energycpy@gmail.com`.
+
+### C. Entregables Locales de Trabajo Directo
+- **Regla**: Entregables temporales, scripts de un solo uso o borradores de Power BI Project (`.pbip`) se depositan en la carpeta local de **Descargas del Sistema** (`%USERPROFILE%\Downloads`).
 
 ---
 
@@ -49,4 +52,30 @@ Cuando el usuario apruebe o solicite guardar una mejora (ej. *"guarda esta mejor
 ## 5. Integración con la Bóveda de Obsidian
 
 - La raíz del repositorio actúa como Bóveda de Obsidian (Opción A).
-- Toda documentación creada o modificada debe incluir metadatos YAML frontmatter y enlaces relacionales (`[[00-Dashboard-MOC]]`, `[[docs/Backups/]]`, etc.).
+- Toda documentación creada o modificada debe incluir metadatos YAML frontmatter y enlaces relacionales (`[[00-Dashboard-MOC]]`, `[[docs/Backups/]]`, `[[docs/Proyectos/]]`, etc.).
+
+---
+
+## 6. Protocolo Multi-Repositorio: Creación de Repositorios Dedicados por Proyecto
+
+Cada vez que un agente desarrolle un nuevo proyecto (página web showroom, aplicación de análisis de datos, modelo financiero dinámico u otro sistema) cuya naturaleza sea distinta a los anteriores:
+
+1. **Parametrización del Nuevo Repositorio**:
+   - Inicializar una nueva carpeta local independiente (ej. `C:\Users\Usuario\.gemini\antigravity-ide\scratch\<nombre-proyecto>`).
+   - Crear y vincular un nuevo repositorio remoto en GitHub bajo la cuenta del usuario:
+     `https://github.com/inventarioenergycpy/<nombre-proyecto-kebab-case>.git`
+
+2. **Estructura Interna del Repositorio de Proyecto**:
+   - `README.md`: Descripción ejecutiva del proyecto, objetivos y enlace a su despliegue (ej. GitHub Pages).
+   - `docs/`: Documentación técnica puntual del proyecto y notas de arquitectura.
+   - `src/` o raíz del proyecto: Código fuente ejecutable, componentes e interfaz.
+   - `assets/`: Recursos gráficos e imágenes URL-safe.
+
+3. **Registro Cruzado en la Bóveda Central (`antigravity-agents-repository`)**:
+   - Crear una nota de registro en `docs/Proyectos/YYYY-MM-DD_<nombre-proyecto>.md` especificando:
+     - Nombre del proyecto y objetivo.
+     - Agente responsable del desarrollo.
+     - Enlace al repositorio de GitHub creado (`https://github.com/inventarioenergycpy/<nombre-proyecto>`).
+     - Enlace al despliegue o demo activa.
+   - Actualizar el índice general en `docs/00-Dashboard-MOC.md` en la sección `[[Proyectos/|Proyectos Desarrollados]]`.
+

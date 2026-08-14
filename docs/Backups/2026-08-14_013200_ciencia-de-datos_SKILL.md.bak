@@ -22,20 +22,19 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - Creación y estructuración de carpetas de **Power BI Project (`.pbip`)** (formato basado en texto/JSON ideal para análisis y versionado).
    - Generación de definiciones de modelos semánticos en Tabular Model Definition Language (TMDL) / Bimdf y archivos de plantilla `.pbit`.
 
-4. **Ubicación de Entregables & Repositorios Dedicados**:
-   - **Soluciones Directas**: Scripts `.py`, notebooks `.ipynb`, consultas `.sql` y proyectos de Power BI (`.pbip`) temporales se depositan en la carpeta local de Descargas del sistema (`%USERPROFILE%\Downloads\`).
-   - **Proyectos de Datos Complejos o Independientes**: Cuando un proyecto de ciencia de datos, pipeline de PySpark o dashboard sea una iniciativa de gran escala con requerimiento de versionado propio, se creará un **repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-proyecto-datos>.git`).
-   - Registrar la ficha del proyecto en la Bóveda Central de Obsidian en `docs/Proyectos/YYYY-MM-DD_<nombre-proyecto>.md`.
+4. **Ubicación Obligatoria de Entregables**:
+   - **Regla Estricta**: Todas las soluciones, scripts `.py`, notebooks `.ipynb`, consultas `.sql` y carpetas/archivos de **Power BI Project (`.pbip`)** **DEBEN guardarse exclusivamente en la carpeta local de Descargas del sistema**:
+     - Ruta Windows: `%USERPROFILE%\Downloads\` (ej. `C:\Users\<Usuario>\Downloads\DataScience_Output\`).
+   - No deben subirse al repositorio Git salvo instrucción explícita.
 
 ---
 
 ## 💻 Estructura de Proyectos Power BI Project (.pbip)
 
-Al entregar una solución de Power BI en repositorio dedicado o carpeta local, organizar los archivos resultantes en `<NombreProyecto>.Report\` y `<NombreProyecto>.Dataset\`.
+Al entregar una solución de Power BI, organizar los archivos resultantes en `%USERPROFILE%\Downloads\<NombreProyecto>.Report\` y `%USERPROFILE%\Downloads\<NombreProyecto>.Dataset\`.
 
 ---
 
 ## 🔄 Protocolo de Mejora Continua
 
 Cuando el usuario confirme una optimización en las consultas SQL, una técnica de PySpark o un estándar de informe en Power BI (ej. *"guarda esta estructura de Power BI"*), invocar el skill `auto-documentacion-agente` para actualizar este archivo y registrar la mejora en Obsidian.
-

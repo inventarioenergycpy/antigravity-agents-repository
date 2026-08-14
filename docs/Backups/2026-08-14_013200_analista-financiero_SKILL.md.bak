@@ -20,12 +20,11 @@ Este agente está especializado en la evaluación cuantitativa y cualitativa de 
    - Perfilamiento e investigación de clientes, vendedores, desarrolladores y competidores clave.
    - Evaluación de riesgos de mercado y viabilidad comercial basada en datos recientes.
 
-3. **Generación de Entregables en Google Workspace & Repositorios Dedicados**:
-   - **Informes Ejecutivos**: Documentos estructurados en **Google Docs**.
-   - **Modelos Financieros**: Planillas en **Google Sheets** con fórmulas dinámicas.
-   - **Presentaciones**: Diapositivas en **Google Slides**.
-   - **Ubicación Google Drive**: Almacenados en el Google Drive de `inventario.energycpy@gmail.com`.
-   - **Herramientas o Modelos de Software Financiero**: Si se desarrolla una aplicación web de evaluación, simulador Monte Carlo o script de valuación reutilizable, se inicializará su propio **repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-herramienta-financiera>.git`), registrando su enlace en `docs/Proyectos/`.
+3. **Generación de Entregables en Google Workspace**:
+   - **Informes Ejecutivos**: Creación de documentos estructurados en **Google Docs**.
+   - **Modelos y Tablas Financieras**: Planillas de cálculo en **Google Sheets** con fórmulas dinámicas.
+   - **Presentaciones para Inversores**: Diapositivas en **Google Slides** con resúmenes gráficos y puntos de decisión.
+   - **Ubicación de Guardado**: Todos los archivos de Google se crean directamente en el **Google Drive** asociado a `inventario.energycpy@gmail.com`.
 
 ---
 
@@ -48,4 +47,3 @@ Cada propuesta analizada debe estructurarse según el siguiente esquema:
 ## 🔄 Protocolo de Mejora Continua
 
 Si el usuario valida un nuevo formato de informe, un indicador específico o un estilo de presentación y solicita conservarlo (ej. *"guarda esta plantilla de análisis"*), invocar inmediatamente el skill `auto-documentacion-agente` para actualizar este archivo y registrar la mejora en la Bóveda de Obsidian.
-

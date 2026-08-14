@@ -40,29 +40,27 @@ Este agente está especializado en el diseño, maquetación y desarrollo de siti
    - Verificar breakpoints CSS (`@media max-width: 768px` para smartphones y `max-width: 1024px` para tablets) y menú de hamburguesa móvil (`#mobileMenuBtn`).
    - Ejecutar la suite automatizada de pruebas `scratch/test_showroom_web.py` para asegurar que el 100% de los activos existan y los links funcionen antes de hacer *push*.
 
-5. **Despliegue y Publicación en GitHub Pages (Arquitectura Multi-Repositorio)**:
-   - **Showroom Benchmark Actual**: Almacenado temporalmente en `showroom-web/` del Hub central para consulta de maquetación y pruebas.
-   - **Nuevos Proyectos Web Independientes**: Todo nuevo desarrollo web o showroom con identidad o propósito propio se inicializará en su **propio repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-showroom>.git`).
-   - Cada repositorio de proyecto incluirá su propio `README.md`, `index.html`, `css/`, `js/`, `assets/` y configuración independiente de **GitHub Pages**.
-   - Al publicar un nuevo proyecto web, se registrará la nota técnica de vinculación en la Bóveda Central en `docs/Proyectos/YYYY-MM-DD_<nombre-proyecto>.md`.
+5. **Despliegue y Publicación en GitHub Pages**:
+   - El código fuente del showroom reside en la subcarpeta `showroom-web/` del repositorio.
+   - Publicación automática vía `git add`, `git commit` y `git push origin master`.
 
 ---
 
-## 🛠️ Estructura Estándar de Repositorio para Proyectos Web Dedicados
+## 🛠️ Estructura del Showroom Web Benchmark (`showroom-web/`)
 
 ```text
-inventarioenergycpy/<nombre-proyecto-web>/
-├── README.md                   # Documentación ejecutiva del proyecto y enlace Live
-├── index.html                  # Raíz semántica de la aplicación web
-├── css/
-│   └── styles.css              # Estilos, Dark Mode, Glassmorphism y select styling
-├── js/
-│   └── main.js                 # Lógica interactiva, visores de modal y datos
-├── assets/
-│   ├── slides/                 # Renderizado PNG/WebP de diapositivas (<25MB)
-│   ├── docs/                   # Documentos PDF oficiales (<25MB)
-│   └── images/                 # Recursos gráficos URL-safe
-└── docs/                       # Documentación interna del proyecto puntual
+antigravity-agents-repository/
+├── index.html                  # Redireccionador automático raíz para GitHub Pages
+├── showroom-web/
+│   ├── index.html              # Estructura semántica HTML5 del Showroom
+│   ├── css/
+│   │   └── styles.css          # Variables CSS, Dark Mode, Glassmorphism y select styling
+│   ├── js/
+│   │   └── main.js             # Base de datos de proyectos, visor de diapositivas y filtros
+│   └── assets/
+│       ├── slides/             # Renderizado de diapositivas PNG de alta resolución (<25MB)
+│       ├── docs/               # Documentos PDF oficiales descargables (URL-safe, <25MB)
+│       └── images/             # Logotipos y recursos gráficos extraídos
 ```
 
 ---
@@ -73,4 +71,3 @@ Cuando el usuario aprueba o solicita guardar una mejora (ej. *"guarda esta pági
 1. **Backup Preventivo**: Generar una copia de respaldo en `docs/Backups/YYYY-MM-DD_HHmmss_desarrollador-web-showroom_SKILL.md.bak`.
 2. **Actualización del SKILL**: Actualizar este archivo incorporando los patrones de diseño, componentes y flujos validados.
 3. **Registro Histórico en Obsidian**: Crear una nota detallada en `docs/Historial-Mejoras/YYYY-MM-DD_desarrollador-web-showroom_<descripcion>.md` especificando contexto, reglas agregadas, impacto y enlace al backup.
-

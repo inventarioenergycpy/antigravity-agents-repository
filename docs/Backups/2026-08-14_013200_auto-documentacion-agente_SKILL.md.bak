@@ -18,14 +18,8 @@ Antes de modificar el archivo `SKILL.md` destino:
 ### 2. Actualizar la Configuración del Agente
 1. Modificar `.agents/skills/<nombre-agente>/SKILL.md` incorporando la nueva regla o patrón validado.
 
-### 3. Crear Registro Histórico o Ficha de Proyecto en Obsidian
-1. **Para Mejoras de Agentes**: Crear una nota en `docs/Historial-Mejoras/YYYY-MM-DD_<nombre-agente>_<breve-descripcion>.md`.
-2. **Para Nuevos Proyectos Desarrollados**: Crear una nota de proyecto en `docs/Proyectos/YYYY-MM-DD_<nombre-proyecto>.md` especificando:
-   - Nombre del proyecto y objetivo estratégico.
-   - Agente responsable.
-   - Enlace al repositorio remoto dedicado: `https://github.com/inventarioenergycpy/<nombre-proyecto>`.
-   - Enlace al despliegue Live (ej. GitHub Pages) o ruta local.
-   - Actualizar el índice general en `docs/00-Dashboard-MOC.md`.
+### 3. Crear Registro Histórico en Obsidian
+1. Crear una nota en `docs/Historial-Mejoras/YYYY-MM-DD_<nombre-agente>_<breve-descripcion>.md` con el siguiente formato:
 
 ```markdown
 ---
@@ -60,6 +54,5 @@ tags:
 ```
 
 ### 4. Sincronizar Cambios con Git
-1. Ejecutar commit en Git resguardando los backups, `SKILL.md` actualizados y notas de Obsidian.
+1. Ejecutar commit en Git resguardando el backup, el `SKILL.md` actualizado y la nota de Obsidian.
 2. Confirmar al usuario mostrando los enlaces al backup y al registro histórico.
-

@@ -26,13 +26,15 @@ Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a
 
 📋 MENÚ DE SELECCIÓN DE AGENTE O ACCIÓN:
 Por favor, ejecuta la inicialización y preséntame el siguiente menú para que elija cómo trabajar hoy:
-   - [1] Analista Financiero de Proyectos de Inversión (VAN, TIR, Riesgo, Entregables en Drive)
-   - [2] Ciencia de Datos (PySpark, Python, SQL, Power BI Project .pbip -> Entregables en Descargas)
-   - [3] Desarrollador Web Showroom (Showroom Energy CPY / Extracción de PDFs / GitHub Pages)
-   - [4] Agregar / Actualizar Nuevos Proyectos de Inversión en el Showroom Web (PDFs en Descargas)
-   - [5] Registrar/Guardar Mejoras Confirmadas (Auto-Documentación + Backup Preventivo)
-   - [6] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
-   - [7] Crear y Configurar un Nuevo Perfil de Agente Futuro
+   - [1] Analista Financiero de Proyectos de Inversión (VAN, TIR, EBITDA, WACC, Entregables en Drive)
+   - [2] Ciencia de Datos (PySpark, Python, SQL, Power BI Project .pbip -> Entregables en Descargas o Repo Dedicado)
+   - [3] Desarrollador Web Showroom (Showroom Web Energy CPY / Repositorios Dedicados en GitHub / GitHub Pages)
+   - [4] Planificador y Diseñador de Agentes AI (Investigación Verídica, Tesis, Pruebas Parciales y Prueba Piloto)
+   - [5] Asesor Legal en Intermediación Financiera (Estrategia 3 Capas, Anti-Circunvención, Overprice, CCCN & ICC)
+   - [6] Agregar / Actualizar Nuevos Proyectos en Repositorios Dedicados
+   - [7] Registrar/Guardar Mejoras Confirmadas (Auto-Documentación + Backup Preventivo .bak)
+   - [8] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
+   - [9] Crear y Configurar un Nuevo Perfil de Agente Futuro
 
 Dime cuando la inicialización esté completa y qué número de opción deseas que activemos.
 ```

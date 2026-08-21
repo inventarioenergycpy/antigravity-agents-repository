@@ -32,6 +32,7 @@ Este repositorio es el **Hub Bóveda Central 100% dedicado** al almacenamiento d
 | **2** | **Ciencia de Datos** | Procesamiento distribuido masivo de datos (PySpark, Python, SQL) y tableros Power BI Project (`.pbip`). | Entregables locales en `%USERPROFILE%\Downloads\` o repositorios de datos dedicados. |
 | **3** | **Desarrollador Web Showroom** | Diseño y desarrollo de plataformas web interactivas Dark Mode / Glassmorphic para proyectos de inversión. | Repositorios web dedicados en GitHub (`inventarioenergycpy/<nombre-web>`) con GitHub Pages independiente. |
 | **4** | **Planificador y Diseñador de Agentes** | Investigación verídica, diseño pre-implementación, tesis, pruebas piloto y auto-documentación para nuevos agentes futuros. | Fichas técnicas, `SKILL.md` estructurado y mapa MOC en Obsidian. |
+| **5** | **Asesor Legal en Intermediación Financiera** | Estrategia documental en 3 capas, blindaje anti-circunvención (NCNDA), mandatos, fee sharing, overprice y contratos de corretaje (CCCN / ICC). | Minutas legales, adendas y registros de trazabilidad en Google Drive (`inventario.energycpy@gmail.com`). |
 
 ---
 
@@ -55,6 +56,7 @@ antigravity-agents-repository/
 │       ├── ciencia-de-datos/
 │       ├── desarrollador-web-showroom/
 │       ├── planificador-agentes/
+│       ├── asesor-legal-financiero/
 │       ├── auto-documentacion-agente/
 │       └── rollback-agente/
 ├── docs/                                   # Bóveda de Obsidian (Obsidian Vault Layer)

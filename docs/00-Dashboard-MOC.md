@@ -36,6 +36,7 @@ graph TD
     MOC --> CD["02-Ciencia-de-Datos"]
     MOC --> DW["03-Desarrollador-Web-Showroom"]
     MOC --> PA["04-Planificador-de-Agentes"]
+    MOC --> LF["05-Asesor-Legal-Financiero"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-Documentación"]
@@ -66,7 +67,10 @@ graph TD
 ### 4. [[Agentes/04-Planificador-Disenador-de-Agentes|Planificador y Diseñador de Agentes AI]]
 - **Entregables**: Investigación verídica, diseño pre-implementación, roadmap de pruebas parciales, pruebas piloto y auto-documentación de nuevos agentes.
 
-### 5. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+### 5. [[Agentes/05-Asesor-Legal-Financiero|Asesor Legal en Intermediación Financiera]]
+- **Entregables**: Estrategia documental en 3 capas, blindaje anti-circunvención (NCNDA), contratos de corretaje con overprice, mandatos, fee sharing y trazabilidad probatoria en Google Drive (`inventario.energycpy@gmail.com`).
+
+### 6. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
 - Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---
@@ -92,11 +96,13 @@ graph TD
 - [[Historial-Mejoras/2026-08-14_registro-agente-planificador|2026-08-14 Creación e Integración del Agente Planificador y Diseñador de Agentes AI]]
 - [[Historial-Mejoras/2026-08-14_estandarizacion-estricta-protocolo-6-etapas|2026-08-14 Estandarización Secuencial del Protocolo de 6 Etapas en todas las Skills]]
 - [[Historial-Mejoras/2026-08-20_ciencia-de-datos_ingenieria-inversa-pbip-tmdl|2026-08-20 Ciencia de Datos — Integración de Estrategias de Ingeniería Inversa y Documentación TMDL / PBIP]]
+- [[Historial-Mejoras/2026-08-21_registro-agente-legal-financiero|2026-08-21 Asesor Legal en Intermediación Financiera — Integración de Estrategia Documental en 3 Capas y Marco CCCN/ICC]]
 
 ---
 
 ## 🗂️ Proyectos y Soluciones en Repositorios Dedicados
 - [[Proyectos/2026-08-20_protelem-indicadores-gerencia-comercial|2026-08-20 PROTELEM - Indicadores Gerencia Comercial (Documentación & Arquitectura Semántica)]]
+
 
 
 

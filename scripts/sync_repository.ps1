@@ -10,7 +10,7 @@ Set-Location $repoPath
 
 # Pull cambios remotos
 Write-Host "📥 Descargando cambios remotos (git pull)..." -ForegroundColor Cyan
-git pull origin main --rebase
+git pull origin master --rebase
 
 # Ver cambios locales
 $status = git status --porcelain
@@ -23,7 +23,7 @@ if ($status) {
     git commit -m $commitMsg
     
     Write-Host "📤 Enviando cambios a GitHub (git push)..." -ForegroundColor Cyan
-    git push origin main
+    git push origin master
     Write-Host "✔ Repositorio sincronizado exitosamente." -ForegroundColor Green
 } else {
     Write-Host "✔ No hay cambios locales pendientes de subir." -ForegroundColor Green

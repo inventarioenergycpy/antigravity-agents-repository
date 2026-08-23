@@ -53,4 +53,5 @@ tags:
 ## 📂 Listado de Proyectos Activos
 
 - [[Proyectos/2026-08-14_showroom-energycpy|2026-08-14 Showroom Web Energy CPY]] — Repositorio dedicado: [inventarioenergycpy/showroom-energycpy](https://github.com/inventarioenergycpy/showroom-energycpy) | Demo Live: [GitHub Pages](https://inventarioenergycpy.github.io/showroom-energycpy/)
+- [[Proyectos/2026-08-23_dashboard-gestion-intermediacion|2026-08-23 Dashboard de Gestión e Intermediación Financiera]] — Repositorio dedicado: [inventarioenergycpy/dashboard-gestion-intermediacion](https://github.com/inventarioenergycpy/dashboard-gestion-intermediacion) | Demo Live: [GitHub Pages](https://inventarioenergycpy.github.io/dashboard-gestion-intermediacion/)
 

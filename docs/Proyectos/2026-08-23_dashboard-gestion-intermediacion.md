@@ -39,13 +39,16 @@ Plataforma ejecutiva web tipo Dashboard SPA diseñada para la administración y 
 3. **Capa 3 (Registro & Trazabilidad)**: Carta Formal de Registro de Inversores (*Deal Log*), Anexo Económico (*Deal Specific Addendum*) y minutas de seguimiento.
 
 ## 📂 Componentes del Proyecto
-- `index.html`: Estructura semántica SPA y selector de usuarios acreditados.
-- `css/`: `main.css`, `components.css` y `responsive.css` (Dark Theme Fintech `#070a12`, acentos dorados y semáforos).
+- `index.html`: Estructura semántica SPA, selector de usuarios acreditados, modal de Diff Visual e integración con SheetJS.
+- `css/`: `main.css`, `components.css` y `responsive.css` (Dark Theme Fintech `#070a12`, acentos dorados, semáforos, modales XL y tablas comparativas de Diff).
 - `js/modules/`:
   - `dashboard.js`: KPIs en tiempo real y semáforo de vigencias (🔴 🟡 🟢).
-  - `projects.js`: Gestión de cartera con precios base y overprice proyectado.
-  - `deals.js`: Pipeline multi-deal por fondos y checklist gatekeeper.
-  - `brokers.js`: Directorio de interlocutores y control de vencimientos.
+  - `projects.js`: Gestión de cartera con precios base, overprice proyectado y accesos rápidos de plantilla/carga Excel.
+  - `deals.js`: Pipeline multi-deal por fondos, checklist gatekeeper y botones de exportación/importación masiva.
+  - `brokers.js`: Directorio de interlocutores, control de vencimientos y carga rápida de fondos e inversores.
+  - `templateManager.js`: Generador dinámico de plantillas Excel multi-hoja (`.xlsx`) auto-adaptable ante cambios de esquema en el store.
+  - `smartImporter.js`: Motor de análisis de Excel/CSV, Diff Visual campo por campo, detección de reemplazos, cargas parciales y rollback con snapshots.
   - `compliance.js`: Matriz interactiva en 3 capas y cláusulas esenciales.
-  - `settings.js`: Editor de estados de proyectos y copias de seguridad JSON.
+  - `settings.js`: Gestor central de plantillas Excel, subida de archivos, historial de snapshots y copias de seguridad JSON.
 - `docs/`: Manual operativo para consultores y matriz legal estratégica.
+

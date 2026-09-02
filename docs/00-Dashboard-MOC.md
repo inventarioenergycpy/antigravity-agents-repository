@@ -49,6 +49,8 @@ graph TD
     ProyectosHub --> RepoDash["Repo Finanzas: inventarioenergycpy/dashboard-..."]
     ProyectosHub --> RepoForwarded["Repo VPU: inventarioenergycpy/forwarded-message"]
     
+    MOC --> SyncProtelem["Protocolo Sincronización Red PROTELEM (\\srvfs01\...)"]
+    
     Backup --> Rollback["Habilidad Rollback-Agente"]
 ```
 
@@ -74,7 +76,11 @@ graph TD
 ### 6. [[Agentes/06-Arquitecto-Sistemas-EPEC|Arquitecto de Sistemas EPEC (CIS / MDM / Licitaciones)]]
 - **Entregables**: Arquitectura de Sistemas Comerciales, seguimiento de pliegos licitatorios (929 requerimientos en 35 grupos), benchmarking de proveedores (Oracle C2M/CCS, OPEN, PRETECO/ESC) en Bóveda Central y repositorios dedicados.
 
-### 7. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+### 7. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
+- **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
+- **Propósito**: Sincronizar automáticamente cualquier nueva documentación o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS` hacia la Bóveda Central con backups preventivos `.bak` y sin pérdida de información.
+
+### 8. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
 - Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---

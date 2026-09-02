@@ -7,6 +7,8 @@ agentes_responsables:
   - "[[docs/Agentes/05-Asesor-Legal-Financiero|Asesor Legal en Intermediación Financiera]]"
   - "[[docs/Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom]]"
 fuente_red: "\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS"
+carpeta_copia_replica: "docs/PROTELEM/PROJECTS/"
+archivos_copiados_totales: 1577
 fecha_integracion: 2026-09-02
 tags:
   - #proyecto
@@ -22,22 +24,25 @@ tags:
 
 # Proyecto: Compendio Integrado de Conocimiento Red PROTELEM (EPEC)
 
-## 📌 1. Resumen Ejecutivo y Origen de los Datos
-Este documento constituye la síntesis y preservación al 100% del corpus de conocimiento acumulado por el equipo técnico en la carpeta de red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS`. 
+## 📌 1. Resumen Ejecutivo y Réplica Física de Datos
+Este documento constituye la síntesis y la **réplica física exacta (1.577 archivos copiados)** de la documentación acumulada por el equipo técnico en la carpeta de red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS`.
 
-El conocimiento se estructura en **5 grandes proyectos interconectados en formato Bóveda de Obsidian**, integrados formalmente en las habilidades del ecosistema de agentes **`antigravity-agents-repository`**.
+Todos los archivos, notas `.md`, índices y configuraciones de Obsidian se encuentran **físicamente copiados y respaldados** dentro del repositorio central en:
+`D:\Proyectos\antigravity-agents-repository\docs\PROTELEM\PROJECTS\`
 
 ---
 
-## 🔍 2. Desglose de Proyectos y Dominios Técnicos
+## 🔍 2. Desglose de Proyectos y Rutas de Archivos Físicos Copiados
 
 ```mermaid
 graph TD
-    Red["Red PROTELEM (\\srvfs01\...\PROTELEM\PROJECTS)"] --> P1["1. sigec-explorer\n(Oracle XXSIGEC & Text-to-SQL)"]
-    Red --> P2["2. qvd-explorer\n(Diccionario 505 QVDs Qlik Sense)"]
-    Red --> P3["3. normativa-epec\n(Reglamento Comercial & Reglas BI)"]
-    Red --> P4["4. reportes\n(Sitio de Reportes HTML)"]
-    Red --> P5["5. sistema-epec-oracle\n(Pliego CIS/MDM - 929 req)"]
+    Red["Red PROTELEM (\\srvfs01\...\PROJECTS)"] -->|Copia Física 1.577 Archivos| RepoLocal["docs/PROTELEM/PROJECTS/"]
+    
+    RepoLocal --> P1["1. sigec-explorer (1.050 archivos)\n- docs/PROTELEM/PROJECTS/sigec-explorer/"]
+    RepoLocal --> P2["2. qvd-explorer (508 archivos)\n- docs/PROTELEM/PROJECTS/qvd-explorer/"]
+    RepoLocal --> P3["3. normativa-epec (8 archivos)\n- docs/PROTELEM/PROJECTS/normativa-epec/"]
+    RepoLocal --> P4["4. reportes (3 archivos)\n- docs/PROTELEM/PROJECTS/reportes/"]
+    RepoLocal --> P5["5. sistema-epec-oracle (3 archivos)\n- docs/PROTELEM/PROJECTS/sistema-epec-oracle/"]
 
     P1 --> CD["Agente Ciencia de Datos"]
     P2 --> CD
@@ -49,58 +54,38 @@ graph TD
 
 ---
 
-### 1. `sigec-explorer` (Explorador del Sistema Comercial SIGEC & Text-to-SQL)
-- **Propósito**: Segundo cerebro y herramienta de exploración del esquema Oracle `XXSIGEC` (+500 tablas comerciales) con motor **Text-to-SQL**.
-- **Fase 1 - Catálogo de Esquema**:
-  - `oracle_db.py`: Conector seguro `OracleReadOnly`.
-  - `catalog_builder.py`: Extracción del diccionario Oracle hacia `catalog.json`.
-  - `synonyms.json`: Diccionario configurable usuario ➔ esquema (ej. *"medidas"* ➔ `LECTURAS`, `CABEZA_LECTURAS`).
-  - Frontend en FastAPI para exploración en navegador sin tocar la base de producción.
-- **Fase 2 - Motor Text-to-SQL**:
-  - *Flujo*: Expansión de Tokens (retriever) ➔ Inverted Index sobre `catalog.json` (corte máx 8 tablas) ➔ Generación SQL vía LLM Claude ➔ Validación sintáctica (`sql_validator.py` con blacklist de seguridad) ➔ Confirmación previa en UI antes de ejecutar.
-- **Modelo de Negocio e Ilícitos**:
-  - Modelo de facturación, tarifas vigentes, clases comerciales y frontera legal de actas/legajos de ilícitos.
+### 1. `sigec-explorer` (1.050 archivos copiados)
+- **Ruta Física Interna**: [`docs/PROTELEM/PROJECTS/sigec-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sigec-explorer/)
+- **Punto de Entrada Obsidian**: [[PROTELEM/PROJECTS/sigec-explorer/_index|Home SIGEC Explorer]]
+- **Contenido Copiado**: Catálogo completo de más de 500 tablas del esquema Oracle `XXSIGEC` (en `tablas/`), arquitectura del motor Text-to-SQL (`Arquitectura.md`, `Chat Texto-a-SQL.md`), modelo de facturación, legajos ilícitos, glosario de negocio y decisiones.
 
 ---
 
-### 2. `qvd-explorer` (Diccionario de QVDs de Qlik Sense)
-- **Propósito**: Catálogo navegable de **505 archivos QVD** accesibles desde el Editor de carga de datos de Qlik Sense (EPEC).
-- **Procesamiento Autogenerado**:
-  - Generado mediante el scraper `qs-scrapping` (`python main.py vault` ➔ `qvd_dictionary.json`).
-  - Mapeo de columnas, tipos inferidos y ejemplos con cruces hacia las tablas de origen en `XXSIGEC`.
-- **Sensibilidad de Datos**: Clasificación confidencial por datos reales de clientes en ejemplos.
+### 2. `qvd-explorer` (508 archivos copiados)
+- **Ruta Física Interna**: [`docs/PROTELEM/PROJECTS/qvd-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/qvd-explorer/)
+- **Punto de Entrada Obsidian**: [[PROTELEM/PROJECTS/qvd-explorer/_index|Home QVD Explorer]]
+- **Contenido Copiado**: Diccionario completo de 505 QVDs accesibles desde Qlik Sense (en `qvds/`), catálogo navegable, seguridad y cruces de linaje de datos hacia Oracle `XXSIGEC`.
 
 ---
 
-### 3. `normativa-epec` (Reglamento Comercial & Reglas de Negocio EPEC)
-- **Propósito**: Corpus conceptual canónico de las reglas del negocio de EPEC (Reglamento de Comercialización de la Energía Eléctrica).
-- **Reglas BI para Ciencia de Datos**:
-  - *Tipos de Suministro*: Definitivos (principales, auxiliares, estacionales, condicionales) y Transitorios (obradores, eventos, móviles).
-  - *Demandas y Potencia*: Reglas para demandas máximas leídas/facturadas, factor de potencia, recargos y categorías tarifarias.
-  - *Facturación, Mora e Ilícitos*: Suspensión de servicio, cobros, actas de constatación de ilícitos, liquidación de energía no registrada y recupero.
-  - *Obras y Contribuciones*: Régimen de aportes reembolsables, contribuciones financieras y servidumbres de electroducto.
+### 3. `normativa-epec` (8 archivos copiados)
+- **Ruta Física Interna**: [`docs/PROTELEM/PROJECTS/normativa-epec/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/normativa-epec/)
+- **Punto de Entrada Obsidian**: [[PROTELEM/PROJECTS/normativa-epec/_index|Home Normativa EPEC]]
+- **Contenido Copiado**: Reglamento de Comercialización de la Energía Eléctrica EPEC completo (`Definiciones y glosario.md`, `Demandas de potencia.md`, `Facturacion y cobranza.md`, `Ilicitos y recupero de energia.md`, `Medicion de consumos.md`, `Obras y contribuciones financieras.md`, `Otorgamiento y obligaciones.md`).
 
 ---
 
-### 4. `reportes` (Sitio Interno de Informes Técnicos HTML)
-- **Propósito**: Sitio estático para publicar informes técnicos como páginas HTML autónomas servidas dentro de la red interna de EPEC.
-- **Trazabilidad de Informes**:
-  - Eliminación de archivos sueltos por correo electrónico mediante asignación de **URLs estables por informe**.
-  - Convención de publicación y estructura de carpetas sin backend ni base de datos.
-  - Caso de origen: Expediente de la Cooperativa de Villa General Belgrano.
+### 4. `reportes` (3 archivos copiados)
+- **Ruta Física Interna**: [`docs/PROTELEM/PROJECTS/reportes/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/reportes/)
+- **Punto de Entrada Obsidian**: [[PROTELEM/PROJECTS/reportes/_index|Home Reportes]]
+- **Contenido Copiado**: Convención de publicación de informes técnicos en HTML estático (`Convención de publicación.md`, `Seguridad.md`).
 
 ---
 
-### 5. `sistema-epec-oracle` (Licitación del Nuevo Sistema Comercial EPEC)
-- **Propósito**: Análisis y seguimiento documental del pliego de licitación del nuevo sistema comercial y de facturación de EPEC (CIS – MDM – WFM – CRM – CX – Portal – Motor IA).
-- **Volumen de Requerimientos**:
-  - **929 requerimientos transcriptos** distribuidos en **35 grupos del Anexo**.
-  - Matriz de gobernanza y trazabilidad entre versiones de pliegos.
-- **Plataformas Evaluadas**:
-  - **Oracle Utilities (C2M / CCS)**.
-  - **OPEN (SmartFlex)**.
-  - **PRETECO / ESC Partners**.
-- **Asignación Especial**: Atendido de forma dedicada por el **Agente 6: Arquitecto de Sistemas EPEC** (`arquitecto-sistemas-epec`).
+### 5. `sistema-epec-oracle` (3 archivos copiados)
+- **Ruta Física Interna**: [`docs/PROTELEM/PROJECTS/sistema-epec-oracle/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sistema-epec-oracle/)
+- **Punto de Entrada Obsidian**: [[PROTELEM/PROJECTS/sistema-epec-oracle/_index|Home Sistema EPEC Oracle]]
+- **Contenido Copiado**: Documentación de seguimiento de licitación del nuevo sistema comercial CIS/MDM/WFM/CRM (929 requerimientos en 35 grupos), fuentes de información y modelo de seguridad.
 
 ---
 
@@ -119,5 +104,5 @@ graph TD
 
 ## 🔒 4. Preservación y Resguardos
 
-- Copias preventivas `.bak` generadas en `docs/Backups/` antes de editar cualquier habilidad existente.
+- Todos los 1.577 archivos residen físicamente en `docs/PROTELEM/PROJECTS/`.
 - Sincronización remota asegurada mediante `git push` a `https://github.com/inventarioenergycpy/antigravity-agents-repository.git`.

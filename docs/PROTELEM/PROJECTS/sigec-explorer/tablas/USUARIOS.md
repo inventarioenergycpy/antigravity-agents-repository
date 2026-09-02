@@ -1,0 +1,65 @@
+---
+tipo: tabla
+categoria: base
+owner: XXSIGEC
+num_rows: 5234
+tags:
+  - sigec-explorer
+  - tabla
+  - base
+aliases:
+  - "USUARIOS"
+---
+
+# 📋 USUARIOS
+
+**Filas estimadas:** 5,234
+
+## Columnas
+
+| Columna | Tipo | Null | Rol |
+|---|---|---|---|
+| `USR_NUMERO` | NUMBER | NO | 🔑 PK |
+| `USR_CODIGO` | VARCHAR2 | NO |  |
+| `USR_NOMBRE` | VARCHAR2 | NO |  |
+| `SEC_CODIGO` | VARCHAR2 | NO | 🔗 → [[SECTORES]] |
+| `SCF_CODIGO` | NUMBER | NO | 🔗 → [[SUCURSALES]] |
+| `USR_CLAVE` | VARCHAR2 | YES |  |
+| `PRT_CODIGO` | VARCHAR2 | YES | 🔗 → [[IMPRESORAS]] |
+| `GRU_CODIGO` | VARCHAR2 | YES | 🔗 → [[GRUPOS_USUARIO]] |
+| `URC_CODIGO` | NUMBER | YES |  |
+| `PRT_CODIGO_2` | VARCHAR2 | YES |  |
+| `AGE_CODIGO` | VARCHAR2 | NO |  |
+| `USR_FECHA_FIN` | DATE | YES |  |
+| `USR_CLAVE_OLD` | VARCHAR2 | YES |  |
+| `USR_OBSERVA` | VARCHAR2 | YES |  |
+| `USR_CLAVE_COL` | VARCHAR2 | YES |  |
+| `USR_EJEC_ORD` | VARCHAR2 | YES |  |
+| `USR_IMPRESION_PDF` | VARCHAR2 | YES |  |
+
+## FK declaradas → otras tablas
+
+- **USR_DENTRO_DE**: `SCF_CODIGO` → [[SUCURSALES]] (`SCF_CODIGO`)
+- **USR_IMPRIMIENDO_EN**: `PRT_CODIGO` → [[IMPRESORAS]] (`PRT_CODIGO`)
+- **USR_PERTENECER_A**: `GRU_CODIGO` → [[GRUPOS_USUARIO]] (`GRU_CODIGO`)
+- **USR_PERTENECIENTE_A**: `SEC_CODIGO` → [[SECTORES]] (`SEC_CODIGO`)
+
+## Tablas que referencian esta tabla
+
+- [[ASIENTOS_CONTABLES]] via `USR_NUMERO_AUTORIZACION`
+- [[CONTROL_REPORTES]] via `USR_NUMERO`
+- [[DOCUMENTOS]] via `USR_NUMERO`, `USR_NUMERO_AUTORIZADOR`
+- [[ROLES_USUARIOS_SIGEC]] via `USR_NUMERO`
+- [[SECTORES_USUARIOS]] via `USR_NUMERO`
+- [[XXCO_ARCHIVOS]] via `USR_NUMERO_ALTA`
+- [[XXCO_LOTE_EQUIPO]] via `USR_NUMERO_CREACION`
+- [[XXCO_MOVIMIENTOS_EQUIPOS]] via `USR_NUMERO_MOVIMIENTO`
+- [[XX_ASIGNACION_COLECTORAS]] via `USR_NUMERO`
+- [[XX_COLECTORAS]] via `USR_NUMERO`
+- [[XX_PROCESOS_COLECTORAS]] via `USR_NUMERO`, `USR_NUMERO_TOMA`
+
+## FK inferidas (alta confianza)
+
+- `AGE_CODIGO` → [[AGENCIAS]] _AGE_CODIGO es PK de AGENCIAS_
+- `PRT_CODIGO` → [[IMPRESORAS]] _PRT_CODIGO es PK de IMPRESORAS_
+- `GRU_CODIGO` → [[GRUPOS_USUARIO]] _GRU_CODIGO es PK de GRUPOS_USUARIO_

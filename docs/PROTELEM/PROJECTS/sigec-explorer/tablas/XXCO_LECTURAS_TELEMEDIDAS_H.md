@@ -1,0 +1,46 @@
+---
+tipo: tabla
+categoria: hist
+owner: XXSIGEC
+num_rows: 1900079903
+tags:
+  - sigec-explorer
+  - tabla
+  - hist
+aliases:
+  - "XXCO_LECTURAS_TELEMEDIDAS_H"
+---
+
+# 📂 XXCO_LECTURAS_TELEMEDIDAS_H
+
+**Filas estimadas:** 1,900,079,903
+
+## Columnas
+
+| Columna | Tipo | Null | Rol |
+|---|---|---|---|
+| `MED_CODIGO` | VARCHAR2 | NO |  |
+| `MED_NOMBRE` | VARCHAR2 | YES |  |
+| `MED_NUMERO_EQUIPO` | NUMBER | NO |  |
+| `CDR_CODIGO` | VARCHAR2 | NO |  |
+| `CDR_UNIDAD` | VARCHAR2 | YES |  |
+| `LEC_FECHA_LECTURA` | DATE | NO |  |
+| `LEC_FECHA_LECTURA_ANT` | DATE | YES |  |
+| `LEC_VALOR_LEIDO` | NUMBER | YES |  |
+| `LEC_VALOR_LEIDO_ANT` | NUMBER | YES |  |
+| `LEC_FECHA_CARGA` | DATE | YES |  |
+| `CRM_NUMERO` | NUMBER | NO |  |
+| `LTE_FECHA_PROCESO` | DATE | YES |  |
+| `LTE_FECHA_CARGA` | DATE | YES |  |
+| `CRM_PROGRAMADO` | DATE | YES |  |
+| `CRM_INICIO` | DATE | YES |  |
+| `CRM_FIN` | DATE | YES |  |
+| `TM_CODIGO` | VARCHAR2 | YES |  |
+| `LTE_ORIGEN` | VARCHAR2 | YES |  |
+
+## FK inferidas (alta confianza)
+
+- `MED_NUMERO_EQUIPO` → [[XXCO_LECTURAS_TELEMEDIDAS]] _MED_NUMERO_EQUIPO es PK de XXCO_LECTURAS_TELEMEDIDAS_
+- `LEC_FECHA_LECTURA` → [[XXCO_LECTURAS_TELEMEDIDAS]] _LEC_FECHA_LECTURA es PK de XXCO_LECTURAS_TELEMEDIDAS_
+- `MED_CODIGO` → [[XXCO_LECTURAS_TELEMEDIDAS]] _MED_CODIGO es PK de XXCO_LECTURAS_TELEMEDIDAS_
+- `CRM_NUMERO` → [[XXCO_LECTURAS_TELEMEDIDAS]] _CRM_NUMERO es PK de XXCO_LECTURAS_TELEMEDIDAS_

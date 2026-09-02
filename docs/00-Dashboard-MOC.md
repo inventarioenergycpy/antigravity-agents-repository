@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dashboard MOC - Repositorio de Agentes Antigravity IDE"
 tags:
   - #moc

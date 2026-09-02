@@ -1,0 +1,54 @@
+---
+tipo: tabla
+categoria: base
+owner: XXSIGEC
+num_rows: 487667
+tags:
+  - sigec-explorer
+  - tabla
+  - base
+aliases:
+  - "CRONOGRAMAS_FACTURACION"
+---
+
+# 📋 CRONOGRAMAS_FACTURACION
+
+**Filas estimadas:** 487,667
+
+## Columnas
+
+| Columna | Tipo | Null | Rol |
+|---|---|---|---|
+| `GRF_CODIGO` | VARCHAR2 | NO |  |
+| `URC_CODIGO` | NUMBER | NO |  |
+| `MPA_TIPO_MEDIO` | VARCHAR2 | NO |  |
+| `TFA_CODIGO` | VARCHAR2 | NO |  |
+| `CRF_ANIO` | NUMBER | NO |  |
+| `CRF_PERIODO` | NUMBER | NO |  |
+| `CRF_FECHA_LECTURA` | DATE | NO |  |
+| `CRF_FECHA_PREVISTA` | DATE | NO |  |
+| `CRF_FECHA_FACTURACION` | DATE | YES |  |
+| `CRF_DIAS_VENC_1` | NUMBER | NO |  |
+| `CRF_DIAS_VENC_2` | NUMBER | YES |  |
+| `CRF_DIAS_VENC_3` | NUMBER | YES |  |
+| `CRF_ESTADO` | VARCHAR2 | NO |  |
+| `CRF_FECHA_PRECIOS` | DATE | YES |  |
+| `CRF_DIAS_VENC` | NUMBER | YES |  |
+| `CRF_FECHA_LECTURA_MIN` | DATE | NO |  |
+| `CPR_NUMERO_DEBITO` | NUMBER | YES |  |
+| `CRF_SIT_DEBIAUT` | VARCHAR2 | YES |  |
+| `CRF_FECHA_DEBIAUT` | DATE | YES |  |
+| `CRF_FECHA_BOLETIN_PROT` | DATE | YES |  |
+| `CRF_FECHA_PROCESO_BOLETIN` | DATE | YES |  |
+| `CRF_CANT_CNT_PENDIENTES_FACT` | NUMBER | YES |  |
+| `CRF_CANT_CNT_SIN_TOMAR_ESTADO` | NUMBER | YES |  |
+| `CRF_CANT_CNT_FACTURABLE_N` | NUMBER | YES |  |
+| `CRF_CANT_CNT_FACTURABLE_S` | NUMBER | YES |  |
+| `CRF_CANT_CNT_FACTURABLE_A` | NUMBER | YES |  |
+| `CRF_FECHA_ULTIMA_VALIDACION` | DATE | YES |  |
+| `CRF_FACTURO_ADVERTENCIAS` | VARCHAR2 | YES |  |
+| `CRF_FECHA_ULT_VALID_CORTE_ADV` | DATE | YES |  |
+| `CRF_CANT_CNT_FACTURABLE_R` | NUMBER | YES |  |
+| `CRF_NUMERO_BIMESTRE` | NUMBER | YES |  |
+| `CRF_ANIO_BIMESTRE` | NUMBER | YES |  |
+| `CRF_NRO_LIQUIDACION` | NUMBER | YES |  |

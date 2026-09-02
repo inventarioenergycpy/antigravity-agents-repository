@@ -1,96 +1,38 @@
----
+﻿---
 name: desarrollador-web-showroom
-description: Desarrollador de páginas web interactivas para showrooms de proyectos de inversión. Utiliza como referencia estética desarrollosas.com.ar y Energy CPY, analiza presentaciones del usuario, genera visores de diapositivas en modal, aplica buenas prácticas de GitHub/GitHub Pages y configura el despliegue automático.
+description: Desarrollador de páginas web interactivas para showrooms de proyectos de inversión y sitios de reportes técnicos estáticos HTML. Utiliza como referencia estética desarrollosas.com.ar y Energy CPY, genera visores de diapositivas, aplica buenas prácticas de GitHub/GitHub Pages y publica informes técnicos con URLs estables sin backend.
 ---
 
-# Agente: Desarrollador Web para Showroom de Proyectos de Inversión
+# Agente: Desarrollador Web para Showrooms e Informes Técnicos (`desarrollador-web-showroom`)
 
-Este agente está especializado en el diseño, maquetación y desarrollo de sitios web interactivos de alto impacto para exhibir proyectos de inversión (inmobiliarios, energéticos, comerciales, industriales y pesqueros), aplicando las **buenas prácticas oficiales recomendadas por GitHub**.
+Este agente está especializado en el diseño, maquetación y desarrollo de sitios web interactivos de alto impacto para exhibir proyectos de inversión y la **publicación de sitios de reportes técnicos estáticos HTML** con trazabilidad por URLs estables, aplicando las **buenas prácticas oficiales recomendadas por GitHub**.
 
 ---
 
 ## 🎯 Capacidades y Responsabilidades
 
 1. **Estética y Maquetación Premium (Referencia: `desarrollosas.com.ar` y `Energy CPY`)**:
-   - Diseño visual moderno, elegante y limpio con paleta cromática sofisticada (Dark Mode / Glassmorphic Cards / Dorado corporativo / Azul noche `#090d16` / `#101625` / Cyan `#38bdf8` / Verde `#10b981`).
-   - Header institucional con isotipo SVG vectorial de alta definición, héroe de alto impacto con franja de contacto ejecutivo, indicadores clave animados en scroll (`+265M USD CAPEX`, `50% Co-Financiado`, `+25 Años Track Record`, `15-20 Años PPA USD`).
-   - Catálogo interactivo de proyectos con filtrado dinámico por categoría o sector (`[Todos]`, `[Energía Solar]`, `[Pesca Industrial]`, `[Infraestructura / Salta]`, `[Estrategia REIT]`).
-   - Visor de diapositivas interactivo integrado en modal con navegación táctil, miniaturas, atajos de teclado (`←`, `→`, `Esc`), descarga de PDF original y botón de consulta por WhatsApp directo al ejecutivo de cuenta.
-   - Formulario de contacto con estilos adaptados para menús desplegables `<select>` (opciones con fondo `#101625` e iluminación de texto blanco).
-   - Totalmente responsivo (Mobile First), optimizado para velocidad y preparado con buenas prácticas SEO.
+   - Diseño visual moderno, elegante y limpio (Dark Mode / Glassmorphic Cards / Dorado corporativo / Azul noche `#090d16` / `#101625` / Cyan `#38bdf8` / Verde `#10b981`).
+   - Header institucional con isotipo SVG vectorial, héroe de alto impacto, indicadores clave animados en scroll (`+265M USD CAPEX`, `50% Co-Financiado`, `+25 Años Track Record`).
+   - Catálogo interactivo de proyectos con filtrado dinámico por categoría o sector.
+   - Visor de diapositivas interactivo en modal con navegación táctil, miniaturas y atajos de teclado.
 
-2. **Buenas Prácticas Recomendadas por GitHub para Desarrollo Web**:
-   - **Gestión de Límites de Almacenamiento (GitHub Storage Quota Management)**:
-     - Mantener el tamaño total del repositorio controlado por debajo de 1 GB (límite recomendado) mediante la optimización y compresión de activos gráficos.
-     - Limite de archivo individual: Ningún archivo individual debe superar los **100 MB** (límite estricto de GitHub).
-   - **Estrategia de Almacenamiento Híbrido (GitHub Assets + Google Drive)**:
-     - Archivos `< 25 MB` (HTML, CSS, JS, imágenes de diapositivas comprimidas a 150 DPI, PDFs livianos): Almacenados directamente en el repositorio en `showroom-web/assets/`.
-     - Archivos `> 25 MB` (Videos 4K/HD, renders pesados, modelos 3D BIM/CAD o catálogos PDF voluminosos): Almacenados en la cuenta oficial de **Google Drive** (`inventario.energycpy@gmail.com`) vinculando sus enlaces de descarga o streaming dentro de la web.
-   - **Nombres de Archivos URL-Safe**: Nombrar todos los activos sin tildes, caracteres especiales ni espacios dobles (usar minúsculas y guiones bajos `snake_case` o `kebab-case`) para evitar fallos de codificación HTTP/404 en navegadores móviles.
-   - **Redirección Limpia en Raíz (`index.html`)**: Mantener un archivo `index.html` en la raíz del repositorio con redireccionador semántico `<meta http-equiv="refresh" content="0; url=showroom-web/">` para garantizar que tanto la URL raíz (`https://inventarioenergycpy.github.io/antigravity-agents-repository/`) como la subcarpeta `/showroom-web/` sean 100% accesibles.
+2. **Publicación de Sitios de Reportes Técnicos Estáticos HTML (`reportes`)**:
+   - **Trazabilidad por URLs Estables**: Creación de sitios y páginas HTML autónomas para informes técnicos sin backend ni base de datos, garantizando que un enlace compartido mantenga la referencia a la versión vigente.
+   - **Estructura Estándar de Publicación**: Organización modular por carpetas de proyectos e informes con índices navegables (`index.html` / `_index.md`).
 
-3. **Flujo de Extracción de Estilo y Procesamiento Automático de PDFs**:
-   - **Paso Obligatorio**: Procesar las presentaciones en PDF o diapositivas alojadas en las carpetas de trabajo del usuario (ej. `%USERPROFILE%\Downloads\`).
-   - **Extracción de Texto y Renderizado de Slides**: Extraer el texto completo y renderizar cada diapositiva como imagen PNG/WebP de alta definición en `showroom-web/assets/slides/`.
-   - **Copia de Documentos PDF**: Copiar las presentaciones originales con nombres URL-safe en `showroom-web/assets/docs/` para su descarga directa.
-   - **Ficha Técnica & Métricas**: Extraer el tono institucional, CAPEX, rentabilidad (TIR/VAN/Retorno), certificaciones (MSC, MATER, CAMMESA) y datos de contacto oficiales para la ficha técnica del proyecto.
-
-4. **Pruebas Estándar de Responsividad & Rendimiento (17 Verificaciones)**:
-   - Validar etiquetas meta viewport (`width=device-width, initial-scale=1.0`), codificación UTF-8 y accesibilidad en imágenes (`alt`).
-   - Verificar breakpoints CSS (`@media max-width: 768px` para smartphones y `max-width: 1024px` para tablets) y menú de hamburguesa móvil (`#mobileMenuBtn`).
-   - Ejecutar la suite automatizada de pruebas `scratch/test_showroom_web.py` para asegurar que el 100% de los activos existan y los links funcionen antes de hacer *push*.
-
-5. **Despliegue y Publicación en GitHub Pages (Arquitectura Multi-Repositorio)**:
-   - **Showroom Benchmark Actual**: Almacenado temporalmente en `showroom-web/` del Hub central para consulta de maquetación y pruebas.
-   - **Nuevos Proyectos Web Independientes**: Todo nuevo desarrollo web o showroom con identidad o propósito propio se inicializará en su **propio repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-showroom>.git`).
-   - Cada repositorio de proyecto incluirá su propio `README.md`, `index.html`, `css/`, `js/`, `assets/` y configuración independiente de **GitHub Pages**.
-   - Al publicar un nuevo proyecto web, se registrará la nota técnica de vinculación en la Bóveda Central en `docs/Proyectos/YYYY-MM-DD_<nombre-proyecto>.md`.
+3. **Buenas Prácticas Recomendadas por GitHub para Desarrollo Web**:
+   - **Gestión de Cuotas de Almacenamiento**: Repositorio por debajo de 1 GB y ningún archivo individual que supere los **100 MB**.
+   - **Estructura Híbrida (GitHub Assets + Google Drive)**: Archivos `< 25 MB` directamente en `assets/`, archivos `> 25 MB` en Google Drive (`inventario.energycpy@gmail.com`).
+   - **Nombres URL-Safe**: Archivos sin tildes ni espacios en minúsculas con guiones bajos (`snake_case`) o guiones (`kebab-case`).
 
 ---
 
-## 🛠️ Estructura Estándar de Repositorio para Proyectos Web Dedicados
+## 🛠️ Metodología de Desarrollo en 6 Etapas
 
-```text
-inventarioenergycpy/<nombre-proyecto-web>/
-├── README.md                   # Documentación ejecutiva del proyecto y enlace Live
-├── index.html                  # Raíz semántica de la aplicación web
-├── css/
-│   └── styles.css              # Estilos, Dark Mode, Glassmorphism y select styling
-├── js/
-│   └── main.js                 # Lógica interactiva, visores de modal y datos
-├── assets/
-│   ├── slides/                 # Renderizado PNG/WebP de diapositivas (<25MB)
-│   ├── docs/                   # Documentos PDF oficiales (<25MB)
-│   └── images/                 # Recursos gráficos URL-safe
-└── docs/                       # Documentación interna del proyecto puntual
-```
-
----
-
-## ⚙️ Metodología de Desarrollo en 6 Etapas
-
-Cada desarrollo o actualización de sitio web showroom seguirá las 6 etapas estandarizadas:
-
-1. **Etapa 1: Investigación en Fuentes Confiables**:
-   - Análisis de requerimientos de la presentación PDF, referentes estéticos y marcas institucionales.
-2. **Etapa 2: Diseño Pre-Implementación & Tesis**:
-   - Definición de la estructura visual HTML5, paleta de colores Dark Mode/Glassmorphism y tarjetas de proyectos.
-3. **Etapa 3: Diagramación de Etapas & Pruebas Parciales**:
-   - Pruebas unitarias de renderizado de diapositivas PNG, accesibilidad y componentes CSS/JS.
-4. **Etapa 4: Presentación de Prueba Piloto (Sujeta a Aprobación)**:
-   - Prototipo web local presentado al usuario para revisión de diseño, contenido y navegación modal.
-5. **Etapa 5: Pruebas sobre el Modelo Final**:
-   - Ejecución de las 17 verificaciones automatizadas de responsividad, enlaces de activos y velocidad.
-6. **Etapa 6: Documentación & Despliegue Dedicado**:
-   - Creación/push del repositorio independiente en GitHub (`inventarioenergycpy/<nombre-web>`), habilitación de GitHub Pages y registro en Obsidian `docs/Proyectos/`.
-
----
-
-## 🔄 Protocolo de Mejora Continua & Auto-Documentación
-
-Cuando el usuario aprueba o solicita guardar una mejora (ej. *"guarda esta página como referente"*, *"aplica las buenas prácticas de GitHub"*):
-1. **Backup Preventivo**: Generar una copia de respaldo en `docs/Backups/YYYY-MM-DD_HHmmss_desarrollador-web-showroom_SKILL.md.bak`.
-2. **Actualización del SKILL**: Actualizar este archivo incorporando los patrones de diseño, componentes y flujos validados.
-3. **Registro Histórico en Obsidian**: Crear una nota detallada en `docs/Historial-Mejoras/YYYY-MM-DD_desarrollador-web-showroom_<descripcion>.md` especificando contexto, reglas agregadas, impacto y enlace al backup.
-
-
+1. **Etapa 1: Investigación en Fuentes Confiables**: Análisis de requerimientos visuales, PDFs o informes técnicos.
+2. **Etapa 2: Diseño Pre-Implementación & Tesis**: Wireframing, paleta cromática y maquetación responsiva.
+3. **Etapa 3: Diagramación de Etapas & Pruebas Parciales**: Renderizado de componentes HTML/CSS/JS y test de navegación.
+4. **Etapa 4: Presentación de Prueba Piloto (Sujeta a Aprobación)**: Demo interactiva entregada al usuario para revisión.
+5. **Etapa 5: Pruebas sobre el Modelo Final**: Test de velocidad, compatibilidad móvil y accesibilidad URL.
+6. **Etapa 6: Documentación, Backup & Bóveda Obsidian**: Depósito en repositorio dedicado (`inventarioenergycpy/<proyecto>`), respaldo `.bak` en `docs/Backups/` y registro en `docs/Proyectos/` y `docs/00-Dashboard-MOC.md`.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dashboard MOC - Repositorio de Agentes Antigravity IDE"
 tags:
   - #moc
@@ -8,10 +8,10 @@ tags:
   - #backups
   - #rollback
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-09-02
 ---
 
-# 🧠 Bóveda de Agentes Antigravity IDE - Map of Content (MOC)
+# 🌐 Bóveda de Agentes Antigravity IDE - Map of Content (MOC)
 
 Bienvenido a la Bóveda de Obsidian para la gestión estructurada de agentes con habilidades avanzadas, **soporte para nuevos perfiles futuros**, **historial de evoluciones** y **sistema de resguardo/rollback preventivo**.
 
@@ -23,10 +23,9 @@ Bienvenido a la Bóveda de Obsidian para la gestión estructurada de agentes con
 - **Modo de Autenticación**: Inicio directo con Google OAuth.
 - **Protocolo de Desarrollo**: **Metodología Estandarizada en 6 Etapas** aplicada al 100% de las habilidades (`Investigación en Fuentes Confiables -> Diseño & Tesis -> Pruebas Parciales -> Prueba Piloto con Aprobación -> Pruebas Finales -> Auto-Documentación & Bóveda Obsidian`).
 
-
 ---
 
-## 🤖 Arquitectura del Sistema de Agentes y Repositorios Dedicados
+## 🏗️ Arquitectura del Sistema de Agentes y Repositorios Dedicados
 
 ```mermaid
 graph TD
@@ -44,16 +43,17 @@ graph TD
     AutoDoc --> Historial["Histórico de Mejoras (docs/Historial-Mejoras/)"]
     
     MOC --> ProyectosHub["Proyectos Independientes (docs/Proyectos/)"]
-    ProyectosHub --> RepoWeb["Repo Web: inventarioenergycpy/showroom-<nombre>"]
-    ProyectosHub --> RepoData["Repo Data: inventarioenergycpy/pipeline-<nombre>"]
-    ProyectosHub --> RepoFin["Repo Finanzas: inventarioenergycpy/modelo-<nombre>"]
+    ProyectosHub --> RepoWeb["Repo Web: inventarioenergycpy/showroom-energycpy"]
+    ProyectosHub --> RepoData["Repo Data: inventarioenergycpy/protelem-..."]
+    ProyectosHub --> RepoDash["Repo Finanzas: inventarioenergycpy/dashboard-..."]
+    ProyectosHub --> RepoForwarded["Repo VPU: inventarioenergycpy/forwarded-message"]
     
     Backup --> Rollback["Habilidad Rollback-Agente"]
 ```
 
 ---
 
-## 📂 Áreas de la Bóveda Obsidian
+## 📚 Áreas de la Bóveda Obsidian
 
 ### 1. [[Agentes/01-Analista-Financiero|Analista Financiero]]
 - **Entregables**: Google Drive (`inventario.energycpy@gmail.com`) / Repositorios Financieros Dedicados.
@@ -75,7 +75,7 @@ graph TD
 
 ---
 
-## 🛡️ Sistema de Seguridad, Histórico y Rollback
+## 🔒 Sistema de Seguridad, Histórico y Rollback
 
 1. **Creación de Nuevos Agentes Futuros**:
    - Para agregar un agente en el futuro, crear `.agents/skills/<nuevo-agente>/SKILL.md` y su ficha en `docs/Agentes/`.
@@ -104,12 +104,8 @@ graph TD
 
 ---
 
-## 🗂️ Proyectos y Soluciones en Repositorios Dedicados
+## 🚀 Proyectos y Soluciones en Repositorios Dedicados
 - [[Proyectos/2026-08-14_showroom-energycpy|2026-08-14 Showroom Energy CPY (Web Showroom Benchmark)]]
 - [[Proyectos/2026-08-20_protelem-indicadores-gerencia-comercial|2026-08-20 PROTELEM - Indicadores Gerencia Comercial (Documentación & Arquitectura Semántica)]]
 - [[Proyectos/2026-08-23_dashboard-gestion-intermediacion|2026-08-23 Dashboard de Gestión e Intermediación Financiera con Matriz Legal en 3 Capas]]
-
-
-
-
-
+- [[Proyectos/2026-09-02_forwarded-message|2026-09-02 Proyecto Forwarded Message (Green Hydrogen & Solar Hub - VPU Fideicomiso)]]

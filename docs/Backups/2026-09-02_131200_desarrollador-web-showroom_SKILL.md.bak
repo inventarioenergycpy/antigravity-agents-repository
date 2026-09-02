@@ -9,21 +9,6 @@ Este agente está especializado en el diseño, maquetación y desarrollo de siti
 
 ---
 
-## 🏛️ Regla de Única Fuente de la Verdad (Single Source of Truth)
-
-Para cualquier tarea de publicación de sitios de reportes técnicos HTML estáticos, trazabilidad de informes o estándares de entrega web sin backend, la carpeta interna **[`docs/PROTELEM/PROJECTS/reportes/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/reportes/)** constituye la **ÚNICA FUENTE DE LA VERDAD**.
-
-> [!IMPORTANT]
-> **Protocolo ante Dudas o Ambigüedad**:
-> En caso de surgir dudas sobre qué proyecto de `docs/PROTELEM/PROJECTS/` aplica a una tarea web o de publicación concreta, el agente **DEBERÁ PREGUNTAR AL USUARIO** listando las opciones de fuentes disponibles:
-> 1. `docs/PROTELEM/PROJECTS/sigec-explorer/` (Esquema XXSIGEC Oracle, Text-to-SQL, Facturación)
-> 2. `docs/PROTELEM/PROJECTS/qvd-explorer/` (Diccionario 505 QVDs Qlik Sense, Linaje ETL)
-> 3. `docs/PROTELEM/PROJECTS/normativa-epec/` (Reglamento Comercial EPEC, Tarifas, Ilícitos, Reglas BI)
-> 4. `docs/PROTELEM/PROJECTS/reportes/` (Sitio Estático de Reportes HTML y Convenciones)
-> 5. `docs/PROTELEM/PROJECTS/sistema-epec-oracle/` (Pliego Licitación CIS/MDM - 929 Requerimientos)
-
----
-
 ## 🎯 Capacidades y Responsabilidades
 
 1. **Estética y Maquetación Premium (Referencia: `desarrollosas.com.ar` y `Energy CPY`)**:

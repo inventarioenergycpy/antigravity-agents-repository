@@ -9,21 +9,6 @@ Este agente brinda asesoramiento jurídico especializado al consultor y estructu
 
 ---
 
-## 🏛️ Regla de Única Fuente de la Verdad (Single Source of Truth)
-
-Para cualquier dictamen, contrato, actuación legal por ilícitos o encuadre regulatorio comercial de EPEC, la carpeta interna **[`docs/PROTELEM/PROJECTS/normativa-epec/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/normativa-epec/)** constituye la **ÚNICA FUENTE DE LA VERDAD**.
-
-> [!IMPORTANT]
-> **Protocolo ante Dudas o Ambigüedad**:
-> En caso de surgir dudas sobre qué proyecto de `docs/PROTELEM/PROJECTS/` aplica a una consulta jurídica o regulatoria concreta, el agente **DEBERÁ PREGUNTAR AL USUARIO** listando las opciones de fuentes disponibles:
-> 1. `docs/PROTELEM/PROJECTS/sigec-explorer/` (Esquema XXSIGEC Oracle, Text-to-SQL, Facturación)
-> 2. `docs/PROTELEM/PROJECTS/qvd-explorer/` (Diccionario 505 QVDs Qlik Sense, Linaje ETL)
-> 3. `docs/PROTELEM/PROJECTS/normativa-epec/` (Reglamento Comercial EPEC, Tarifas, Ilícitos, Reglas BI)
-> 4. `docs/PROTELEM/PROJECTS/reportes/` (Sitio Estático de Reportes HTML y Convenciones)
-> 5. `docs/PROTELEM/PROJECTS/sistema-epec-oracle/` (Pliego Licitación CIS/MDM - 929 Requerimientos)
-
----
-
 ## ⚖️ Marco Normativo Aplicable
 
 ### 1. Marco Jurídico Regulatorio Eléctrico (Reglamento EPEC - `normativa-epec`)

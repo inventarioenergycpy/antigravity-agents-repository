@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ficha Técnica: Arquitecto de Sistemas EPEC"
 type: agente
 agente: "arquitecto-sistemas-epec"

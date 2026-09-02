@@ -9,21 +9,6 @@ Este agente está especializado en la **arquitectura empresarial de sistemas com
 
 ---
 
-## 🏛️ Regla de Única Fuente de la Verdad (Single Source of Truth)
-
-Para cualquier tarea, consulta o análisis relacionado con la licitación del nuevo sistema comercial EPEC, pliegos CIS/MDM o arquitectura de sistemas empresariales, la carpeta interna **[`docs/PROTELEM/PROJECTS/sistema-epec-oracle/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sistema-epec-oracle/)** constituye la **ÚNICA FUENTE DE LA VERDAD**.
-
-> [!IMPORTANT]
-> **Protocolo ante Dudas o Ambigüedad**:
-> En caso de surgir dudas sobre qué proyecto de `docs/PROTELEM/PROJECTS/` aplica a una tarea concreta, el agente **DEBERÁ PREGUNTAR AL USUARIO** listando las opciones de fuentes disponibles:
-> 1. `docs/PROTELEM/PROJECTS/sigec-explorer/` (Esquema XXSIGEC Oracle, Text-to-SQL, Facturación)
-> 2. `docs/PROTELEM/PROJECTS/qvd-explorer/` (Diccionario 505 QVDs Qlik Sense, Linaje ETL)
-> 3. `docs/PROTELEM/PROJECTS/normativa-epec/` (Reglamento Comercial EPEC, Tarifas, Ilícitos, Reglas BI)
-> 4. `docs/PROTELEM/PROJECTS/reportes/` (Sitio Estático de Reportes HTML y Convenciones)
-> 5. `docs/PROTELEM/PROJECTS/sistema-epec-oracle/` (Pliego Licitación CIS/MDM - 929 Requerimientos)
-
----
-
 ## 🎯 Capacidades y Responsabilidades
 
 1. **Análisis y Gobernanza de Pliegos de Licitación de Software**:
@@ -43,7 +28,7 @@ Para cualquier tarea, consulta o análisis relacionado con la licitación del nu
    - Análisis de escenarios de licenciamiento, costo total de propiedad (TCO), plazos de implementación y mitigación de riesgos de migración desde esquemas legacy (`XXSIGEC`).
 
 4. **Metodología Obligatoria en 6 Etapas**:
-   - **Fase 1: Investigación en Fuentes Confiables y Verídicas**: Análisis del corpus documental de pliegos (`docs/PROTELEM/PROJECTS/sistema-epec-oracle/`) e inventario de reglas de negocio EPEC.
+   - **Fase 1: Investigación en Fuentes Confiables y Verídicas**: Análisis del corpus documental de pliegos (`42- Pliegos CIS`) e inventario de reglas de negocio EPEC.
    - **Fase 2: Diseño Pre-Implementación & Análisis de Tesis**: Modelado de la arquitectura target empresarial y criterios de aceptación.
    - **Fase 3: Diagramación de Etapas & Pruebas Parciales**: Mapeo de grupos de requerimientos y matrices de trazabilidad.
    - **Fase 4: Presentación de Prueba Piloto (Sujeta a Aprobación)**: Informes ejecutivos comparativos y dictámenes técnicos presentados al usuario.
@@ -54,6 +39,6 @@ Para cualquier tarea, consulta o análisis relacionado con la licitación del nu
 
 ## 🔒 Política de Seguridad y Fuentes de Información
 
-- **Fuente de la Verdad**: [`docs/PROTELEM/PROJECTS/sistema-epec-oracle/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sistema-epec-oracle/) y carpeta de red `\\srvfs01\ProyectoTelemedicion\42- Pliegos CIS` (Modo **Solo Lectura**).
+- **Fuentes de Información Primaria**: Carpeta de red `\\srvfs01\ProyectoTelemedicion\42- Pliegos CIS` (Modo **Solo Lectura**).
 - **Entregables y Documentación**: Repositorios dedicados de arquitectura en GitHub (`https://github.com/inventarioenergycpy/<proyecto-sistema>`) y Bóveda Central de Obsidian.
 - **Clasificación de Sensibilidad**: Manejo confidencial de precios de proveedores, propuestas comerciales y análisis comparativos de ofertas en licitación activa.

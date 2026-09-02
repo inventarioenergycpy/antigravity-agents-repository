@@ -9,24 +9,6 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
 
 ---
 
-## 🏛️ Regla de Única Fuente de la Verdad (Single Source of Truth)
-
-Para cualquier tarea, consulta o desarrollo de ciencia de datos, SQL, QVDs o reglas BI de EPEC, las siguientes carpetas internas constituyen la **ÚNICA FUENTE DE LA VERDAD**:
-- **Esquema Oracle `XXSIGEC` & Text-to-SQL**: [`docs/PROTELEM/PROJECTS/sigec-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sigec-explorer/)
-- **Diccionario QVD Qlik Sense & ETL**: [`docs/PROTELEM/PROJECTS/qvd-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/qvd-explorer/)
-- **Reglas BI & Reglamento Comercial EPEC**: [`docs/PROTELEM/PROJECTS/normativa-epec/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/normativa-epec/)
-
-> [!IMPORTANT]
-> **Protocolo ante Dudas o Ambigüedad**:
-> En caso de surgir dudas sobre cuál proyecto de `docs/PROTELEM/PROJECTS/` aplica a una tarea analítica concreta, el agente **DEBERÁ PREGUNTAR AL USUARIO** listando las opciones de fuentes disponibles:
-> 1. `docs/PROTELEM/PROJECTS/sigec-explorer/` (Esquema XXSIGEC Oracle, Text-to-SQL, Facturación)
-> 2. `docs/PROTELEM/PROJECTS/qvd-explorer/` (Diccionario 505 QVDs Qlik Sense, Linaje ETL)
-> 3. `docs/PROTELEM/PROJECTS/normativa-epec/` (Reglamento Comercial EPEC, Tarifas, Ilícitos, Reglas BI)
-> 4. `docs/PROTELEM/PROJECTS/reportes/` (Sitio Estático de Reportes HTML y Convenciones)
-> 5. `docs/PROTELEM/PROJECTS/sistema-epec-oracle/` (Pliego Licitación CIS/MDM - 929 Requerimientos)
-
----
-
 ## 🎯 Capacidades y Responsabilidades
 
 1. **Aplicación de Reglas de Negocio EPEC en Informes y Reportes BI (Normativa EPEC)**:

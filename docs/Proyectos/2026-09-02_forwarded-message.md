@@ -5,7 +5,7 @@ agente_responsable: "[[docs/Agentes/01-Analista-Financiero|Analista Financiero]]
 repositorio_github: "https://github.com/inventarioenergycpy/forwarded-message"
 despliegue_url: "https://github.com/inventarioenergycpy/forwarded-message"
 fecha_creacion: 2026-09-02
-fecha_actualizacion: 2026-09-02
+fecha_actualizacion: 2026-09-03
 tags:
   - #proyecto
   - #financiero
@@ -18,79 +18,99 @@ tags:
   - #escritura-83
   - #escritura-65
   - #defensa-nacional
-  - #inversores
+  - #tierras-raras
+  - #convemar
 ---
 
-# 🚀 Proyecto: Trono Raíz 2035 – Green Hydrogen & Solar Energy Conversion Hub ("Forwarded Message")
+# ⚡ Ficha de Proyecto: Forwarded Message (Proyecto Trono Raíz 2035)
 
-## 🎯 1. Resumen Ejecutivo y Alcance Ampliado
-
-El **Proyecto Trono Raíz 2035** (originalmente referenciado como *Forwarded Message*) constituye un **Vehículo de Propósito Único (VPU)** formalizado mediante el **Fideicomiso de Estructuración Financiera (Art. 1685 del CCyCN)** con blindaje patrimonial, fiscal, aduanero y cambiario del **Régimen RIGI por 30 años (Ley 27.742 y Decreto 105/2026)**.
-
-Se formaliza y respalda normativamente a través de:
-1. **Escritura Pública Nº 65** (29/04/2026) otorgada ante el Escribano Alejandro J. Carranza Yofre (Registro Notarial 726, Córdoba).
-2. **Escritura Pública Nº 83** (03/06/2026 - Actuación Notarial A023574004 a A023574006) otorgada por el Lead Structurer & Legal Promoter **José Javier Brouwer de Koning** (DNI 22.372.473 / CUIT 20-22372473-7).
-3. **Presentación Administrativa Oficial**: Presentado el 4 de mayo de 2026 ante el Ministro de Desarrollo Productivo de Santa Fe (Lic. Gustavo Puccini) y el Director Provincial de Contrataciones Especiales (Dr. Carlos M. Pauli) bajo los expedientes `EE-2026-00014511-APPSF-PE` (Santa Fe) y `SUAC 0465-993111026` (Córdoba), notificado a Banco Macro SA y Macro Security SAU.
-
----
-
-## 🔬 2. El "Capital SISTEMA" y Componentes Tecnológicos
-
-El núcleo del VPU es el **Capital SISTEMA**, una arquitectura de activos tangibles e intangibles sinergizados sobre la red existente del SADI:
-
-* **Hito Operativo Inicial**: Operación del primer tramo de **0,5 MW** en los primeros 6 meses.
-* **Baterías Virtuales (G1 a G10)**: Gestión algorítmica predictiva inmaterial bajo la **Ley 24.766 de Secreto Industrial** que desplaza carga y mitiga el *curtailment*. Evoluciona desde la gestión de despacho básico (G1) hasta la autonomía predictiva con aislamiento de flujo atómico (G9) y tokenización financiera (G10), enmarcado en los Decretos 450/2025 y 452/2025.
-* **Ratio de Eficiencia 7,4**: Multiplicador de conversión energética que permite generar rendimientos económicos de escala sin obra civil pesada.
-* **Gestión Dinámica de Líneas (DLR a 80°C)**: Operación de conductores según condiciones climáticas en tiempo real bajo protocolos internacionales **CIGRE / IEEE**.
-* **Integración SMR (Small Modular Reactor)**: Evolución algorítmica de mutación de carga base que integra energía solar y eólica con potencia nuclear SMR para garantizar estabilidad continua.
-* **Proyecto "Granja Marítima Abisal 2035" (Escritura Nº 83)**:
-  * Incorporación de prospección offshore, desarrollo metalúrgico y matriz de simulación térmica ($1450^\circ\text{C} \pm 15^\circ\text{C}$) bajo el **Decreto 713/2024 (Iniciativa Privada)**.
-  * Certificación de Huella Térmica (CHT), drones, ROVs y microzonificación adaptativa en la Milla 201.
-  * **Soporte Físico en Chubut**: Licencia Ejecutable Cifrada de Caja Negra sobre el **Derecho Real de Superficie de 12.500 hectáreas en predio costero militar de la Provincia del Chubut** para acopio, tierras raras y minerales estratégicos.
-  * **Posicionamiento geopolítico de YPF y Argentina** en la CONVEMAR.
-  * **Fondo de Fortalecimiento para la Defensa y Soberanía de la Plataforma Extendida**: Asignación de recursos de las regalías del grupo promotor hacia el **Ministerio de Defensa** para patrullaje y vigilancia sobre la Milla 201 y la Plataforma Continental Extendida.
+- **Repositorio Dedicado**: [`https://github.com/inventarioenergycpy/forwarded-message`](https://github.com/inventarioenergycpy/forwarded-message)
+- **Agente Responsable**: `[[docs/Agentes/01-Analista-Financiero|01 - Analista Financiero & Modelador Económico]]`
+- **Vehículo de Propósito Único (VPU)**: Fideicomiso de Estructuración Financiera (Art. 1685 CCyCN) tramitado ante autoridades provinciales de Santa Fe (Expte. `EE-2026-00014511-APPSF-PE`) y Córdoba (`SUAC 0465-993111026`).
+- **Escrituras Públicas Matrices**:
+  - **Escritura Pública Nº 65** (29/04/2026): Afectación fiduciaria del *Capital SISTEMA*, servidumbres de electroducto (Ley 19.552) y Camino de Sirga (15 m).
+  - **Primer Testimonio - Escritura Pública Nº 83** (03/06/2026): Adenda Complementaria Particular y Reglas de Gobierno (Esc. Alejandro J. Carranza Yofre - Reg. Notarial 726).
 
 ---
 
-## 🏛️ 3. Marco Jurídico, Gobernanza y "Doble Escudo"
+## 🧭 Arquitectura Bimodal del Proyecto
 
-* **Patrimonio de Afectación Inexpugnable (Art. 1685 CCyCN)**: Inembargabilidad e inafectabilidad absoluta por 30 años durante el RIGI.
-* **Inmunidad de Flujos (Fallo CSJN "TGS c/ Santa Cruz")**: Preeminencia federal que respalda la inembargabilidad del CBU US$ y activos líquidos frente a jurisdicciones locales.
-* **Gobernanza**: Comité de Administración de 3 miembros (Promotor, Fiduciario, Tercero Independiente). Mayoría simple para gestión y **unanimidad obligatoria** para modificaciones estructurales, emisión de Warrants o cesión de regalías.
-* **Cláusula de Arbitraje ("Doble Escudo")**:
-  1. *Fondo del Contrato*: Arbitraje de Derecho ante la **Cámara de Comercio Internacional (CCI)** en Nueva York o la Bolsa de Comercio de Buenos Aires bajo la Convención de Nueva York de 1958.
-  2. *Urgencia Territorial*: Facultad reservada a tribunales locales ordinarios exclusivamente para el dictado de medidas cautelares o tutela posesoria de la traza.
+```mermaid
+graph TD
+    subgraph Vector_Terrestre ["Vector Terrestre (Corredor SADI Santa Fe - Córdoba)"]
+        T1["Líneas SADI + DLR a 80°C"] --> T2["Baterías Virtuales G1-G10"]
+        T2 --> T3["Ratio Eficiencia 7,4"]
+        T3 --> T4["Urea Verde & Fertilizantes"]
+        T4 --> T5["Créditos CBAM & Warrants RWA"]
+    end
 
----
+    subgraph Vector_Offshore_Defensa ["Vector Marítimo y Complejo Minero-Militar"]
+        M1["Granja Marítima Abisal 2035 (CONVEMAR)"] --> M2["Milla 201+ & Costras Polimetálicas"]
+        M2 --> M3["Predio Costero Chubut (12.500 ha MinDef)"]
+        M3 --> M4["Tierras Raras & Minerales Críticos"]
+        M4 --> M5["Transmutación & Reactores SMR"]
+    end
 
-## 💼 4. Cascada de Distribució de Fondos y Regalías (*Waterfall*)
+    subgraph VPU_Gobierno ["Gobernanza Notarial, RIGI & Defensa Nacional"]
+        G1["VPU Fideicomiso (Art. 1685 CCyCN)"]
+        G2["Régimen RIGI & Súper RIGI (30 Años)"]
+        G3["Fondo Soberano MinDef (Res. 27/2025)"]
+        G4["Validación Dra. Tarditti (Catálisis/H2)"]
+    end
 
-### A. Saneamiento e Infraestructura Prioritaria (Cláusula Décima)
-* **80% de recursos netos** destinados a saneamiento y obras en el Tramo San Lorenzo - Timbúes / Córdoba Integral y Ampliación general.
-* **90% de recursos netos** destinados al Tramo Puerto General San Martín.
-* **Aporte de Capital Privado**: Invitación formal a **GENNEIA, AGD, Bunge** y otros inversores para participar en el capital privado de cada tramo tras el cumplimiento de obligaciones prioritarias.
-
-### B. Regalías Extraordinarias (51% Público / 49% Promotor - Cláusula Séptima)
-* 51% distribuido en entes estatales (Ministerio de Obras de Santa Fe, Ministerio de Producción de Santa Fe, Ministerio de Desarrollo Productivo de Córdoba - Secretaría de Trabajo).
-* 49% para el Promotor.
-
-### C. Regalías Ordinarias y Reconocimiento al Equipo Promotor (Cláusula Octava)
-El Promotor cede el **50% de las regalías ordinarias netas** al Equipo Promotor:
-* **Integrantes del Equipo Promotor**: Arq. Juan Carlos Camarero, Lic. Javier Camarero, Dr. Diego Manuel Caballero, Dr. Lucas Merlo, Sr. Bautista Rosales, Sr. Ariel Carreras, Sr. Gabriel Oyola, Sra. Beatriz Nicolaza Rivero.
-* **Participaciones Específicas**:
-  * *Tramo San Lorenzo - Timbúes*: 5% Ariel Carreras, 5% Arq. Juan Carlos Camarero, 20% Dr. Diego Manuel Caballero.
-  * *Tramo Provincia de Córdoba*: 10% Arq. Juan Carlos Camarero, 10% Dr. Diego Manuel Caballero.
-  * *Bonos Verdes en Nueva York*: 80% neto al Dr. Diego Manuel Caballero y Lic. Manuel Caballero (para Córdoba: 80% neto al Arq. Juan Carlos Camarero y Lic. Javier Camarero).
-  * *Ampliación (5.000 a 13.500 MW)*: 49% de todos los ingresos netos extraordinarios asignados al conjunto del Equipo Promotor.
-
-### D. Fondos Especiales y Validación Científica (Cláusulas Novena, 12ª y 13ª)
-* **Fondo Notarial y Jurídico (0,5% de ingresos netos del Promotor)**: Dra. Julieta Daiana Luque Brouwer de Koning y Escribano Dr. Alejandro Carranza Yofre.
-* **Validación Científica & Rampa Crítica**: A cargo de la **Dra. Ana María Tarditti** (15 años de expertise en catálisis e hidrógeno) con un **Fondo de Éxito del 0,5%** de los ingresos netos del Promotor activado tras validar el hito inicial de 0,5 MW. Ensayos con universidades e institutos bajo normas IEC/IEEE e INVAP.
-* **Desacople de Commodities (Cláusula Adicional)**: Capacidad de almacenamiento a **5 años** para stock de producción física y emisión de Warrants Tokenizados, anulando el estrés de caídas en el mercado spot.
+    Vector_Terrestre --> VPU_Gobierno
+    Vector_Offshore_Defensa --> VPU_Gobierno
+```
 
 ---
 
-## 🔗 5. Repositorios y Documentos Asociados
-* **Repositorio Dedicado GitHub**: [inventarioenergycpy/forwarded-message](https://github.com/inventarioenergycpy/forwarded-message)
-* **Ruta Local**: `D:\Proyectos\forwarded-message`
-* **Escritura 65 & 83**: Copias notariales asociadas al Fideicomiso Trono Raíz 2035.
+## 🏛️ Componentes Estratégicos Incorporados (Escrituras 65 y 83)
+
+### 1. Granja Marítima Abisal 2035 y CONVEMAR (Milla 201+)
+- Monetización de los derechos soberanos otorgados por la **CONVEMAR** al Estado Nacional hace 31 años sobre el lecho y subsuelo marítimo.
+- Muestreo y prospección georreferenciada con drones y vehículos submarinos autónomos (ROVs) de costras polimetálicas ricas en cobalto, níquel, telurio y manganeso.
+
+### 2. Predio Costero Militar de Chubut (12.500 Hectáreas)
+- Constitución de **Derecho Real de Superficie** (arts. 2114 a 2128 del Código Civil y Comercial) sobre el predio fiscal de defensa en la Provincia del Chubut.
+- Destino: Polo de acopio, telecomunicaciones, refinación y valorización de minerales estratégicos y tierras raras bajo régimen RIGI.
+
+### 3. Activos Intangibles bajo Secreto Industrial (Ley 24.766)
+- **Matriz de Simulación Térmica y Balance Exergético ($1450^\circ\text{C} \pm 15^\circ\text{C}$)** y Certificación de Huella Térmica (CHT).
+- **Ecosistema de Baterías Virtuales G1 a G10**: Algoritmos MPC, aislamiento de flujo atómico G9 y tokenización financiera G10.
+- **Licencia Ejecutable Cifrada de Caja Negra**: Explotación tecnológica sin entrega de código fuente.
+- **Mutación Algorítmica con Acople Nuclear**: Evolución de carga base soportada por reactores modulares (**SMR**).
+
+### 4. Fondo de Fortalecimiento para la Defensa y Soberanía
+- Asignación específica de fondos extraída directamente de las utilidades del Holding promotor y destinada exclusivamente al **Ministerio de Defensa (Resolución MinDef 27/2025)**.
+- Financiamiento del patrullaje marítimo de la Armada Argentina en la Milla 201+ y la modernización logística de las reservas militares en tierra en Chubut.
+
+---
+
+## 📊 Métricas Financieras Consolidadas
+
+| Métrica Financiera | Valor Consolidado |
+| :--- | :--- |
+| **Inversión CAPEX Inicial (Hito 0,5 MW)** | US$ 16,5 Millones |
+| **Inversión CAPEX Total Progresiva (13.500 MW + Chubut)** | US$ 1.735,0 Millones |
+| **Margen EBITDA Operativo en Régimen** | > 80% sostenido |
+| **Valor Actual Neto (VAN a 10 Años - WACC 9,5%)** | **US$ 1.842,5 Millones** |
+| **Valor Actual Neto (VAN a 30 Años - Régimen RIGI)** | **US$ 5.120,0 Millones** |
+| **Tasa Interna de Retorno (TIR Anual en US$)** | **38,6%** |
+| **Período de Recupero (Payback Descontado)** | **4,8 Años** |
+
+---
+
+## 🔒 Doble Escudo Notarial y Jurisdicción Arbitral
+
+1. **Fondo y Materia Económica**: Arbitraje de Derecho ante la **Cámara de Comercio Internacional (CCI / ICC) en Nueva York** bajo las reglas del RIGI (Ley 27.742) y la Convención de Nueva York de 1958.
+2. **Urgencia Territorial**: Medidas cautelares expeditas de preservación de traza y despeje de electroducto en los tribunales locales de Santa Fe y Córdoba.
+3. **Inmunidad de Flujos**: Preeminencia federal ratificada por la Corte Suprema de Justicia de la Nación (**Fallo "TGS c/ Provincia de Santa Cruz"**) blindando el CBU US$ frente a embargos provinciales o municipales.
+
+---
+
+## 📚 Enlaces y Referencias en la Bóveda
+
+- [[00-Dashboard-MOC]]
+- [[docs/Agentes/01-Analista-Financiero]]
+- [[docs/Agentes/05-Asesor-Legal-Financiero]]
+- [[docs/Configuracion-Credenciales-GitHub]]

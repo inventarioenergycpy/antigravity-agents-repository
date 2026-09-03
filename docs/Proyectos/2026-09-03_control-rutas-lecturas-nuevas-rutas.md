@@ -25,28 +25,20 @@ tags:
 ## ðŸŽ¯ Objetivos y Alcance de la TransformaciÃ³n
 
 1. **Modelado Dimensional en Estrella (Star Schema)**:
-   - DescomposiciÃ³n de la tabla ancha y monolÃ­tica `GEOREF_VM_SUMINISTROS` (66 columnas) en un modelo estrella en **Power Query (Lenguaje M)** con claves subrogadas enteras (`Int64`), reduciendo la redundancia de texto en mÃ¡s del 65% y maximizando la compresiÃ³n columnar VertiPaq.
-   - **Dimensiones Creadas**:
-     * `Dim_Red_Electrica` (exclusivamente con `DISTRIBUIDOR`, `SUBESTACION`, `SEA`).
+   - DescomposiciÃ³n de la tabla `GEOREF_VM_SUMINISTROS` en un modelo estrella en **Power Query (Lenguaje M)** con claves subrogadas enteras (`Int64`).
+   - **Dimensiones Activas Creadas**:
+     * `Dim_Red_Electrica` (exclusivamente con `DISTRIBUIDOR`, `SUBESTACION`, `SEA` - *sin PCT ni ORIGEN*).
      * `Dim_Tarifa` (`GRUPO_TARIFARIO`, `CODIGO_TARIFA`, `TARIFA`, `CLASE`, `DESCRIPCION_CLASE`, `TENSION`).
      * `Dim_Geografia` (`BAR_CODIGO`, `BARRIO`, `BARRIO_GEOREF`, `LOCALIDAD`, `AGF_CODIGO`, `CP`).
      * `Dim_Medidor` (`MEDIDOR_MARCA`, `MEDIDOR_FASES`, `GRUPO_FASES_MEDIDOR`, `TELEMEDIBLE`, `SENSIBILIDAD`).
-     * `Dim_Catastro_Manzana` (`DESCRIPCION_MANZANAS_CATASTRAL`, `DISTRITO_CATASTRAL`, `ZONA_CATASTRAL`, `MANZANA_CATASTRAL`, `ORIGEN_DC`).
      * `Dim_Ruta_Actual` (`DISTRITO`, `DISTRITO_DESCRIPCION`, `GRUPO_LECTURA`, `RUTA_LECTURA`).
      * `Dim_Estado_Servicio` (`ESTADO_SERVICIO`, `ESTADO_CONTRATO`, `TIPO_CLIENTE`, `FACTURA_DIGITAL`, `ESTADO_RELEVAMIENTO`).
+   - **Atributos Catastrales en Fact Table**: La dimensiÃ³n catastral separada fue descartada por requerimiento, manteniendo `DESCRIPCION_MANZANAS_CATASTRAL`, `DISTRITO_CATASTRAL`, `ZONA_CATASTRAL`, `MANZANA_CATASTRAL`, `LOTE_CATASTRAL`, `PH_CATASTRAL`, `ORIGEN_DC`, `DC`, `PCT`, `ORIGEN`, `DISTRITO` y `GRUPO_LECTURA` directamente en `GEOREF_VM_SUMINISTROS`.
 
 2. **ReorganizaciÃ³n AlgorÃ­tmica de Rutas (`TABLA_RUTAS_NUEVAS`)**:
-   - **Nomenclatura Catastral Oficial (16 dÃ­gitos)**:
-     - Departamento: 2 dÃ­gitos
-     - PedanÃ­a: 2 dÃ­gitos
-     - Pueblo / Localidad: 2 dÃ­gitos
-     - CircunscripciÃ³n: 2 dÃ­gitos
-     - SecciÃ³n: 2 dÃ­gitos
-     - Manzana: 3 dÃ­gitos
-     - Parcela / Lote: 3 dÃ­gitos
-   - **Clave de Manzana**: `LEFT(DC, LEN(DC) - 3)` agrupando todos los suministros de la misma manzana fÃ­sica.
-   - **Cobertura 100%**: EliminaciÃ³n del filtro excluyente `CANT_SUMI >= 3` (ahora `CANT_SUMI >= 1`) para evitar suministros huÃ©rfanos.
-   - **Bin Packing de Rutas**: AsignaciÃ³n secuencial de `ID_RUTA_NUEVA` por manzana atÃ³mica dentro de cada `GRUPO_LECTURA` con lÃ­mite Ã³ptimo de hasta **180 suministros por ruta**.
+   - **AgrupaciÃ³n Directa**: AgrupaciÃ³n por `DISTRITO`, `GRUPO_LECTURA` y `DESCRIPCION_MANZANAS_CATASTRAL` (clave de manzana de 13 dÃ­gitos derivada de la nomenclatura oficial `DC` de 16 dÃ­gitos).
+   - **Cobertura 100%**: CondiciÃ³n `CANT_SUMI >= 1` erradicando casos huÃ©rfanos.
+   - **Bin Packing de Rutas**: AsignaciÃ³n secuencial de `ID_RUTA_NUEVA` por manzana atÃ³mica dentro de cada par `(DISTRITO, GRUPO_LECTURA)` con lÃ­mite Ã³ptimo de hasta **180 suministros por ruta**.
 
 ---
 
@@ -56,7 +48,7 @@ tags:
 * `Dim_Tarifa[ID_TARIFA_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_TARIFA_KEY]` (1:N, Single)
 * `Dim_Geografia[ID_GEOGRAFIA_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_GEOGRAFIA_KEY]` (1:N, Single)
 * `Dim_Medidor[ID_MEDIDOR_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_MEDIDOR_KEY]` (1:N, Single)
-* `Dim_Catastro_Manzana[ID_MANZANA_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_MANZANA_KEY]` (1:N, Single)
 * `Dim_Ruta_Actual[ID_RUTA_ACTUAL_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_RUTA_ACTUAL_KEY]` (1:N, Single)
 * `Dim_Estado_Servicio[ID_ESTADO_KEY]` âž” `GEOREF_VM_SUMINISTROS[ID_ESTADO_KEY]` (1:N, Single)
-* `Dim_Catastro_Manzana[DESCRIPCION_MANZANAS_CATASTRAL]` âž” `TABLA_RUTAS_NUEVAS[DESCRIPCION_MANZANAS_CATASTRAL]` (1:N, Single)
+* `relevamiento_castastral[REL_SUMINISTRO]` âž” `GEOREF_VM_SUMINISTROS[SUMINISTRO]` (1:N, Single)
+* `GEOREF_VM_SUMINISTROS[DESCRIPCION_MANZANAS_CATASTRAL]` âž” `TABLA_RUTAS_NUEVAS[DESCRIPCION_MANZANAS_CATASTRAL]` (N:M / 1:N)

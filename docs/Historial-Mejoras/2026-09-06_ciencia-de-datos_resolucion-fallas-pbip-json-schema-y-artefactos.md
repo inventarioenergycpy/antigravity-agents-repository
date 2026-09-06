@@ -65,6 +65,10 @@ Durante la inicialización y reconstrucción del proyecto Power BI Project (`.pb
 - **Causa**: `PBIProjectUtils.EnsureNotLong` valida que las rutas absolutas no excedan 260 caracteres. El nombre de proyecto original `Control de rutas de lecturas - Nuevas Rutas - proyecto.Report` concatenado con las subcarpetas profundas de visuales personalizados (`CustomVisuals\massFilter2E7137AC...\resources\massFilter2E7137AC....pbiviz.json`) alcanzaba 263 caracteres, provocando un desbordamiento de ruta.
 - **Solución**: Refactorización de nombres a identificadores cortos y limpios (`Control_Rutas.pbip`, `Control_Rutas.Report`, `Control_Rutas.Dataset`), reduciendo la ruta máxima a 205 caracteres.
 
+### 🔴 Incidente 10: Reporte sin tablas o sin datos cargados al abrir el `.pbip`
+- **Causa**: La existencia de un archivo dummy `model.bim` (con 0 tablas) forzaba a Power BI Desktop a ignorar la subcarpeta TMDL `definition/` (donde residen las 22 tablas reales).
+- **Solución**: Eliminación del archivo dummy `model.bim` para permitir la deserialización nativa de la carpeta `definition/` (TMDL). Además, se proveyó la versión pre-compilada `Control_Rutas.pbix` (306 MB) con el caché de datos e informes pre-cargados para acceso directo e instantáneo.
+
 ---
 
 ## 🏛️ Reglas Preventivas Incorporadas a la Habilidad del Agente

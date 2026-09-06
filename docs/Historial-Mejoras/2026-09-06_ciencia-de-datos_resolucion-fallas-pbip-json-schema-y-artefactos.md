@@ -49,6 +49,10 @@ Durante la inicialización y reconstrucción del proyecto Power BI Project (`.pb
 - **Causa**: Clave de propiedad `$schema` escrita como cadena vacía `""` por reemplazos automáticos de formateadores JSON.
 - **Solución**: Reescritura estricta de la clave `"$schema"` en todos los manifiestos.
 
+### 🔴 Incidente 6: `DatasetDefinition: Required artifact is missing in ...\definition.pbism`
+- **Causa**: En la versión Abril 2026 (v2.153.1206.0+), Power BI Desktop exige que la carpeta `.Dataset\` contenga obligatoriamente el artefacto `definition.pbism` (Power BI Semantic Model) en lugar de la extensión previa `definition.pbi-dataset`.
+- **Solución**: Se creó `definition.pbism` con el esquema canónico `https://developer.microsoft.com/json-schemas/fabric/item/semanticModel/definitionProperties/1.0.0/schema.json` y versión `"1.0"`, eliminando el manifiesto anterior `definition.pbi-dataset`.
+
 ---
 
 ## 🏛️ Reglas Preventivas Incorporadas a la Habilidad del Agente

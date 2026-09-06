@@ -55,9 +55,9 @@ Para cualquier tarea, consulta o desarrollo de ciencia de datos, SQL, QVDs o reg
      2. *Esquemas Canónicos en Power BI April 2026*:
         - Root `.pbip`: `https://developer.microsoft.com/json-schemas/fabric/pbip/pbipProperties/1.0.0/schema.json`
         - `.Report/definition.pbir`: `https://developer.microsoft.com/json-schemas/fabric/item/report/definitionProperties/1.0.0/schema.json`
-        - `.Dataset/definition.pbi-dataset`: `https://developer.microsoft.com/json-schemas/fabric/pbip/pbimProperties/1.0.0/schema.json`
+        - `.Dataset/definition.pbism`: `https://developer.microsoft.com/json-schemas/fabric/item/semanticModel/definitionProperties/1.0.0/schema.json` (reemplaza a `definition.pbi-dataset`)
      3. *Strict PBIP Artifacts Scoping*: En proyectos locales de Power BI Desktop, el objeto `artifacts` en `.pbip` admite **únicamente** la propiedad `report` (`artifacts[0].report`). La propiedad `semanticModel` es exclusiva del entorno Cloud.
-     4. *Evitar Fallback a `model.bim`*: La presencia de `definition.pbi-dataset` dentro de la carpeta `.Dataset\` indica a Power BI Desktop que el modelo es TMDL (en `definition/`), evitando el error `Missing required artifact model.bim`.
+     4. *Evitar Fallback a `model.bim`*: La presencia de `definition.pbism` dentro de la carpeta `.Dataset\` indica a Power BI Desktop que el modelo es TMDL (en `definition/`), evitando el error `Missing required artifact model.bim` o `Required artifact is missing in definition.pbism`.
    - **Query Folding & DAX**: Optimización M, jerarquías DAX (`PARALLELPERIOD`, `ALLSELECTED`) y semaforización.
    - **Informes Técnicos Protelem Style**: Documentación estructurada en 4 etapas operativas (Extracción, Consolidación, Enriquecimiento, Presentación).
 

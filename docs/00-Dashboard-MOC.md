@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dashboard MOC - Repositorio de Agentes Antigravity IDE"
 tags:
   - #moc
@@ -124,3 +124,4 @@ graph TD
 - [[Proyectos/2026-09-02_forwarded-message|2026-09-02 Proyecto Forwarded Message (Green Hydrogen, Solar Hub & Granja Marítima Abisal - VPU Fideicomiso)]]
 - [[Proyectos/2026-09-02_protelem-conocimiento-integrado|2026-09-02 Compendio Integrado de Conocimiento Red PROTELEM (5 Proyectos EPEC)]]
 - 2026-09-04 | [[docs/Historial-Mejoras/2026-09-04_ciencia-de-datos_historial-fallas-y-soluciones-tmdl-pbip|Ciencia de Datos - Historial de Fallas y Soluciones TMDL / PBIP]]
+- 2026-09-06 | [[docs/Historial-Mejoras/2026-09-06_ciencia-de-datos_resolucion-fallas-pbip-json-schema-y-artefactos|Ciencia de Datos - Resolución de Fallas PBIP JSON Schema y Artefactos (Power BI Release 2026)]]

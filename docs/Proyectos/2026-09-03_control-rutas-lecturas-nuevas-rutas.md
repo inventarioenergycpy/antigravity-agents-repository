@@ -59,8 +59,10 @@ tags:
 ## 🛠️ Historial de Incidentes y Resoluciones TMDL
 
 Para el detalle exhaustivo de diagnósticos y soluciones aplicadas, consultar:  
-👉 **[[docs/Historial-Mejoras/2026-09-04_ciencia-de-datos_historial-fallas-y-soluciones-tmdl-pbip|Historial de Fallas y Soluciones TMDL / PBIP]]**
+👉 **[[docs/Historial-Mejoras/2026-09-04_ciencia-de-datos_historial-fallas-y-soluciones-tmdl-pbip|Historial de Fallas y Soluciones TMDL / PBIP]]**  
+👉 **[[docs/Historial-Mejoras/2026-09-06_ciencia-de-datos_resolucion-fallas-pbip-json-schema-y-artefactos|Resolución de Fallas PBIP JSON Schema y Artefactos (Power BI Release 2026)]]**
 
 1. **Incidente UTF-8 BOM (2026-09-03)**: Resuelto mediante eliminación del preámbulo BOM en `.tmdl`.
 2. **Incidente Jerarquía de Fechas (2026-09-03)**: Resuelto armonizando tilde en `'Jerarquía de fechas'`.
 3. **Incidente Doble UTF-8 / Mojibake (2026-09-04)**: Resuelto corrigiendo bytes de `Variación` (`0xC3 0xB3`) y limpiando comentarios en M.
+4. **Incidente $schema JSON & PBIP Artifacts (2026-09-06)**: Resuelto ajustando URLs de esquema canónicas de Fabric 2026, vinculación `.Dataset\definition.pbi-dataset` y reescritura estricta de la clave `"$schema"`.

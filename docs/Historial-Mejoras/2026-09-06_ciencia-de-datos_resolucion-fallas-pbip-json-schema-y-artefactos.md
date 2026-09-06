@@ -61,6 +61,10 @@ Durante la inicialización y reconstrucción del proyecto Power BI Project (`.pb
 - **Causa**: El validador estricto `PBIProjectShredder.CheckRequiredArtifactAsync` verifica la existencia física de `model.bim` en `.Dataset\` antes de delegar la resolución al motor TMDL.
 - **Solución**: Adición del manifiesto sintáctico `model.bim` con compatibilidad `1567` (`powerBI_V3`), conviviendo con `definition.pbism`, `definition.pbi-dataset` y la carpeta modular TMDL `definition/`.
 
+### 🔴 Incidente 9: `FilePathTooLongError: La ruta de acceso especificada o el nombre de archivo son demasiado largos`
+- **Causa**: `PBIProjectUtils.EnsureNotLong` valida que las rutas absolutas no excedan 260 caracteres. El nombre de proyecto original `Control de rutas de lecturas - Nuevas Rutas - proyecto.Report` concatenado con las subcarpetas profundas de visuales personalizados (`CustomVisuals\massFilter2E7137AC...\resources\massFilter2E7137AC....pbiviz.json`) alcanzaba 263 caracteres, provocando un desbordamiento de ruta.
+- **Solución**: Refactorización de nombres a identificadores cortos y limpios (`Control_Rutas.pbip`, `Control_Rutas.Report`, `Control_Rutas.Dataset`), reduciendo la ruta máxima a 205 caracteres.
+
 ---
 
 ## 🏛️ Reglas Preventivas Incorporadas a la Habilidad del Agente

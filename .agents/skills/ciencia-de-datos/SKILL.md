@@ -61,6 +61,9 @@ Para cualquier tarea, consulta o desarrollo de ciencia de datos, SQL, QVDs o reg
      4. *Estrategia Dual de Compatibilidad PBIP (Evitar fallback a `model.bim`)*:
         - La carpeta de modelo debe mantener tanto `definition.pbi-dataset` (usado por el *PBIProjectShredder* para detectar TMDL en lugar de `model.bim`) como `definition.pbism` (usado por el validador de items de Fabric).
         - Crear un enlace simbólico / directorio unión (`mklink /J`) entre `.Dataset` y `.SemanticModel` para garantizar compatibilidad completa con ambas rutas de resolución.
+     5. *Prevención de `FilePathTooLongError` (Límite 260 Caracteres en Windows / PBIProjectUtils)*:
+        - Nombres de carpetas y archivos `.pbip` extremadamente largos causan desbordamiento del límite MAX_PATH al concatenar subcarpetas como `CustomVisuals\<Visual_GUID>\resources\<Visual_GUID>.pbiviz.json`.
+        - Renombrar las carpetas del proyecto a nombres cortos (ej. `Control_Rutas.pbip`, `Control_Rutas.Report`, `Control_Rutas.Dataset`) para asegurar que la ruta absoluta máxima se mantenga por debajo de los 200 caracteres.
    - **Query Folding & DAX**: Optimización M, jerarquías DAX (`PARALLELPERIOD`, `ALLSELECTED`) y semaforización.
    - **Informes Técnicos Protelem Style**: Documentación estructurada en 4 etapas operativas (Extracción, Consolidación, Enriquecimiento, Presentación).
 

@@ -57,6 +57,10 @@ Durante la inicialización y reconstrucción del proyecto Power BI Project (`.pb
 - **Causa**: Al remover `definition.pbi-dataset`, el componente `PBIProjectShredder` de Power BI Desktop no detectaba que la carpeta correspondía a un modelo TMDL y realizaba fallback buscando el archivo único legacy `model.bim`.
 - **Solución**: Implementación de la **Estrategia Dual de Coexistencia de Manifiestos**: mantener de forma simultánea `definition.pbi-dataset` (usado por el *PBIProjectShredder* para identificar TMDL) y `definition.pbism` (usado por la validación de ítems de Fabric), sumado a la creación de un enlace unión de directorio (`mklink /J`) entre `.Dataset` y `.SemanticModel`.
 
+### 🔴 Incidente 8: `Missing required artifact 'model.bim'` (Persistencia en Agosto 2026)
+- **Causa**: El validador estricto `PBIProjectShredder.CheckRequiredArtifactAsync` verifica la existencia física de `model.bim` en `.Dataset\` antes de delegar la resolución al motor TMDL.
+- **Solución**: Adición del manifiesto sintáctico `model.bim` con compatibilidad `1567` (`powerBI_V3`), conviviendo con `definition.pbism`, `definition.pbi-dataset` y la carpeta modular TMDL `definition/`.
+
 ---
 
 ## 🏛️ Reglas Preventivas Incorporadas a la Habilidad del Agente

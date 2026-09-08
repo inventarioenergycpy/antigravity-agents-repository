@@ -112,6 +112,7 @@ graph TD
 - [[Historial-Mejoras/2026-08-28_desarrollador-web-showroom_mejoras-estrategicas-showroom|2026-08-28 Desarrollador Web Showroom - Selector Bilingüe, Filtros Desde-Hasta, Ruteo Silencioso y Gestión de Estados]]
 - [[Historial-Mejoras/2026-09-02_protelem_integracion-conocimiento-y-nuevo-agente-arquitecto|2026-09-02 Integración de Conocimiento Red PROTELEM y Creación del Agente 6: Arquitecto de Sistemas EPEC]]
 - [[Historial-Mejoras/2026-09-03_forwarded-message_integracion-escritura-83-y-vpu-fideicomiso|2026-09-03 Proyecto Forwarded Message - Integración Notarial Escritura Nº 83 y VPU Fideicomiso]]
+- [[Historial-Mejoras/2026-09-08_forwarded-message_presentacion-google-slides|2026-09-08 Proyecto Forwarded Message - Generación de Presentación Ejecutiva Google Slides para Google Drive]]
 - [[Historial-Mejoras/2026-09-03_analista-financiero_regla-replicabilidad-doble-estructura-fehaciente|2026-09-03 Analista Financiero - Regla Elemental de Replicabilidad, Doble Estructura Documental y Memorias de Cálculo]]
 - [[Configuracion-Credenciales-GitHub|Configuración y Resguardo de Credenciales GitHub PAT]]
 

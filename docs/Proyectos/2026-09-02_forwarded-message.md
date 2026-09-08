@@ -113,4 +113,5 @@ graph TD
 - [[00-Dashboard-MOC]]
 - [[docs/Agentes/01-Analista-Financiero]]
 - [[docs/Agentes/05-Asesor-Legal-Financiero]]
+- [`forwarded-message/docs/PRESENTACION_EJECUTIVA_GOOGLE_DRIVE.md`](file:///C:/Users/Usuario/.gemini/antigravity-ide/scratch/forwarded-message/docs/PRESENTACION_EJECUTIVA_GOOGLE_DRIVE.md)
 - [[docs/Configuracion-Credenciales-GitHub]]

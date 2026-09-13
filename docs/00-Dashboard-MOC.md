@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dashboard MOC - Repositorio de Agentes Antigravity IDE"
 tags:
   - #moc
@@ -127,4 +127,6 @@ graph TD
 - 2026-09-04 | [[docs/Historial-Mejoras/2026-09-04_ciencia-de-datos_historial-fallas-y-soluciones-tmdl-pbip|Ciencia de Datos - Historial de Fallas y Soluciones TMDL / PBIP]]
 - 2026-09-06 | [[docs/Historial-Mejoras/2026-09-06_ciencia-de-datos_resolucion-fallas-pbip-json-schema-y-artefactos|Ciencia de Datos - ResoluciÃ³n de Fallas PBIP JSON Schema y Artefactos (Power BI Release 2026)]]
 - [[Historial-Mejoras/2026-09-11_ciencia-de-datos_integracion-conexion-oracle-oracledb-thick|2026-09-11 Ciencia de Datos - Integración de Protocolo de Conexión Oracle (oracledb Modo Thick 64-bit)]]
+- [[Historial-Mejoras/2026-09-13_analista-financiero_reorganizacion-partes-y-comision-contrato-besana|2026-09-13 Analista Financiero - Reorganización de Partes y Comisión 50/50 en Contrato de Corretaje BESANA - ERV]]
+
 

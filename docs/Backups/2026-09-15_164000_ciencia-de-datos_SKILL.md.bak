@@ -15,7 +15,6 @@ Para cualquier tarea, consulta o desarrollo de ciencia de datos, SQL, QVDs o reg
 - **Esquema Oracle `XXSIGEC`, Gua de Conexin & Text-to-SQL**: [`docs/PROTELEM/PROJECTS/sigec-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sigec-explorer/) (Consultar `Conexion-Oracle-Referencia.md` para el protocolo oficial de conexin).
 - **Diccionario QVD Qlik Sense & ETL**: [`docs/PROTELEM/PROJECTS/qvd-explorer/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/qvd-explorer/)
 - **Reglas BI & Reglamento Comercial EPEC**: [`docs/PROTELEM/PROJECTS/normativa-epec/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/normativa-epec/)
-- **Estudio de Satisfacción & Benchmarking CIER (EPEC-AR 2025-2026)**: Repositorio dedicado [`https://github.com/inventarioenergycpy/encuesta-cier-epec`](https://github.com/inventarioenergycpy/encuesta-cier-epec) y ficha técnica [`docs/Proyectos/2026-09-15_encuesta-cier-epec.md`](file:///D:/Proyectos/antigravity-agents-repository/docs/Proyectos/2026-09-15_encuesta-cier-epec.md) (Microdatos N=1.250, Diccionario unificado, Benchmarks Gran Porte >500k, ISCAL, IAOP, Dashboards y Reportes de Satisfacción al Cliente Residencial).
 
 > [!IMPORTANT]
 > **Protocolo ante Dudas o Ambigedad**:

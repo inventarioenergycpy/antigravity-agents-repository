@@ -48,6 +48,7 @@ graph TD
     ProyectosHub --> RepoData["Repo Data: inventarioenergycpy/protelem-..."]
     ProyectosHub --> RepoDash["Repo Finanzas: inventarioenergycpy/dashboard-..."]
     ProyectosHub --> RepoForwarded["Repo VPU: inventarioenergycpy/forwarded-message"]
+    ProyectosHub --> RepoCIER["Repo CIER: inventarioenergycpy/encuesta-cier-epec"]
     
     MOC --> SyncProtelem["Protocolo SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)"]
     

@@ -28,7 +28,8 @@ Comprende el procesamiento, estandarización y modelado de microdatos ($N = 1.25
 ---
 
 ## 🔗 Enlaces y Repositorio Dedicado
-- **Repositorio en GitHub**: [https://github.com/inventarioenergycpy/encuesta-cier-epec](https://github.com/inventarioenergycpy/encuesta-cier-epec)
+- **Repositorio Central (inventarioenergycpy)**: [https://github.com/inventarioenergycpy/encuesta-cier-epec](https://github.com/inventarioenergycpy/encuesta-cier-epec)
+- **Repositorio Réplica (PROTELEM-EPEC)**: [https://github.com/PROTELEM-EPEC/encuesta-cier-epec](https://github.com/PROTELEM-EPEC/encuesta-cier-epec)
 - **Live Dashboard (GitHub Pages)**: [https://inventarioenergycpy.github.io/encuesta-cier-epec/](https://inventarioenergycpy.github.io/encuesta-cier-epec/)
 - **Ubicación Local del Proyecto**: `D:\Proyectos\encuesta_cier` (enlazado a `%USERPROFILE%\.gemini\antigravity-ide\scratch\encuesta_cier`)
 

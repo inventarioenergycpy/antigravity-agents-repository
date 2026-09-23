@@ -14,6 +14,15 @@ aliases:
 
 # 📋 SUCURSALES
 
+> [!info] Significado de Negocio y Mapeo de Distritos
+> Esta tabla representa las **Sucursales y Distritos Operativos/Comerciales** (52 filas).
+> - **Número de Distrito**: `SCF_CODIGO` (PK).
+> - **Nombre del Distrito**: `SCF_DESCRIPCION`.
+> - **Zona del Distrito / Suministro**: `ZON_CODIGO` (FK a [[ZONAS]]).
+> - **Localidad del Distrito**: `AGF_CODIGO` (FK a [[AREAS_GEOGRAFICAS]], obteniendo `AGF_NOMBRE`).
+> - **Mapeo de Sectores**: Cuando se consulte por `SECTOR_ORIGEN` o `SECTOR_DESTINO`, vincular contra esta tabla.
+
+
 **Filas estimadas:** 52
 
 ## Columnas

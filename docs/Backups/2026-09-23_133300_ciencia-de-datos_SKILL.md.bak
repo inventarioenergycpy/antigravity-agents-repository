@@ -44,34 +44,6 @@ Para cualquier tarea, consulta o desarrollo de ciencia de datos, SQL, QVDs o reg
    - **Reglas Tarifarias y Facturacin**: Lgica de cuadros tarifarios, componentes de energa/potencia, recargos por mora, recupero de energa por ilcitos y contribuciones financieras.
 
 3. **Ingeniera Inversa y Explotacin del Esquema Oracle `XXSIGEC` (SIGEC Explorer)**:
-   - **Reglas de Resolución Semántica y Sinónimos SIGEC Explorer**:
-     1. *Sinónimos de Medición*:
-        - El término **"Medidores Activos"** es sinónimo de **"Medidores instalados"** / **"Medidor instalado"** (filtro `eqp_estado IS NULL` en `xxsigec.equipos`).
-     2. *Patrón 'Último Medidor Instalado por Suministro'*:
-        - Cuando se solicite el *último medidor instalado por suministro*, buscar para cada `srv_codigo` el registro en `xxsigec.equipos` cuya fecha de instalación (`eqp_fecha_instal`) sea la más reciente (pudiendo estar retirados o no).
-        - **Patrón SQL Canónico**:
-          ```sql
-          WITH ultimo_medidor AS (
-              SELECT 
-                  srv_codigo,
-                  ste_numero,
-                  ste_tipo,
-                  eqp_fecha_instal,
-                  eqp_fecha_retiro,
-                  eqp_estado,
-                  ROW_NUMBER() OVER (
-                      PARTITION BY srv_codigo 
-                      ORDER BY eqp_fecha_instal DESC NULLS LAST, eqp_orden DESC
-                  ) AS rn
-              FROM xxsigec.equipos
-          )
-          SELECT * FROM ultimo_medidor WHERE rn = 1;
-          ```
-     3. *Mapeo de SECTOR_DESTINO / SECTOR_ORIGEN y Distritos (Tabla SUCURSALES)*:
-        - Para **"número de distrito"**: Usar `xxsigec.sucursales.scf_codigo`.
-        - Para **"nombre del distrito"**: Usar `xxsigec.sucursales.scf_descripcion`.
-        - Para **"zona del distrito"** o **"zona del suministro"**: Usar `xxsigec.sucursales.zon_codigo`.
-        - Para **"localidad del distrito"**: Usar `xxsigec.areas_geograficas.agf_nombre` mediante la relación `xxsigec.sucursales.agf_codigo = xxsigec.areas_geograficas.agf_codigo`.
    - **Mapeo de Tablas Comerciales (+500 tablas)**: Inspeccin de tablas core (`ACCIONES`, `AFIP_*`, `CONTRATOS`, `MEDICION`, `LECTURAS`, `STOCK_EQUIPOS`, `FACTURACION`, etc.) para trazabilidad de legajos comerciales y facturacin.
    - **Patrn de Diseo Motor Text-to-SQL**: Implementacin de arquitecturas de consulta en lenguaje natural:
      1. *Expansin de Tokens*: Diccionario `synonyms.json` para mapear trminos de usuario a tablas/columnas.

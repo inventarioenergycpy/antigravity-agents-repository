@@ -16,6 +16,12 @@ aliases:
 
 # 📋 EQUIPOS
 
+> [!tip] Reglas Semánticas y Consultas Canónicas
+> - **Sinónimos**: *"Medidores Activos"* ≡ *"Medidores instalados"* / *"Medidor instalado"* (`EQP_ESTADO IS NULL`).
+> - **Último Medidor Instalado por Suministro**: Para obtener el equipo con fecha de instalación más reciente (`EQP_FECHA_INSTAL`), independientemente de si fue retirado o sigue activo:
+>   `ROW_NUMBER() OVER (PARTITION BY SRV_CODIGO ORDER BY EQP_FECHA_INSTAL DESC NULLS LAST, EQP_ORDEN DESC) = 1`
+
+
 > [!info] Significado de negocio
 > Instalaciones de medidores: tabla puente entre el punto de medición del suministro (SRV_CODIGO, GRM_NUMERO) y el medidor físico (STE_NUMERO, STE_TIPO). PK (SRV_CODIGO, GRM_NUMERO, EQP_ORDEN). ~4M filas.
 

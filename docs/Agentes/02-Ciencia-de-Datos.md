@@ -31,3 +31,14 @@ Especialista en análisis exploratorio de datos (EDA), procesamiento masivo con 
 - [[00-Dashboard-MOC]]
 - [[docs/PROTELEM/PROJECTS/sigec-explorer/Conexion-Oracle-Referencia|Guía de Conexión Oracle]]
 - `.agents/skills/ciencia-de-datos/SKILL.md`
+
+### 🧭 Reglas Semánticas y Mapeos de Negocio SIGEC
+1. **Sinónimos de Medidores**:
+   - `Medidores Activos` ≡ `Medidores instalados` / `Medidor instalado` (`eqp_estado IS NULL`).
+2. **Último Medidor Instalado**:
+   - `ROW_NUMBER() OVER (PARTITION BY srv_codigo ORDER BY eqp_fecha_instal DESC NULLS LAST, eqp_orden DESC) = 1` sobre `xxsigec.equipos` (incluye activos y dados de baja).
+3. **Mapeo de Distritos y Sectores (Tabla SUCURSALES)**:
+   - *Número de Distrito*: `SUCURSALES.SCF_CODIGO`
+   - *Nombre del Distrito*: `SUCURSALES.SCF_DESCRIPCION`
+   - *Zona del Distrito / Suministro*: `SUCURSALES.ZON_CODIGO`
+   - *Localidad del Distrito*: `AREAS_GEOGRAFICAS.AGF_NOMBRE` (`SUCURSALES.AGF_CODIGO = AREAS_GEOGRAFICAS.AGF_CODIGO`)

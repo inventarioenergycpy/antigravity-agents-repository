@@ -100,6 +100,7 @@ graph TD
 ---
 
 ## ðŸ“œ Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-09-23_ciencia-de-datos_sinonimos-medidores-y-mapeo-distritos-sucursales|2026-09-23 Ciencia de Datos - Sinónimos de Medición, Último Medidor y Mapeo de Distritos SUCURSALES]]
 - [[Historial-Mejoras/00-Registro-Inicial|00-Registro Inicial de Arquitectura]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_maquetacion-energy-cpy|2026-08-12 Desarrollador Web Showroom - MaquetaciÃ³n Benchmark Energy CPY]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_buenas-practicas-github|2026-08-12 Desarrollador Web Showroom - IntegraciÃ³n de Buenas PrÃ¡cticas Oficiales de GitHub]]

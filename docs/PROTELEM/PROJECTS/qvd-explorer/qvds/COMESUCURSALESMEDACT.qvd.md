@@ -1,0 +1,37 @@
+---
+tipo: qvd
+estado: vigente
+conexion: QS_GERENCIA_COMERCIAL
+carpeta: raiz
+num_campos: 6
+scraped: 2026-07-16
+tags:
+  - qvd-explorer
+  - qvd
+---
+
+# 📦 COMESUCURSALESMEDACT.qvd
+
+> [!info] Ficha autogenerada por `qs-scrapping`
+> No editar a mano: se sobreescribe en cada corrida. Comentario humano va en
+> [[Catálogo]] o en notas propias del proyecto.
+
+**Conexión:** QS_GERENCIA_COMERCIAL · **Carpeta:** raiz · **Scrapeado:** 2026-07-16
+
+## Campos
+
+| Campo | Tipo inferido | Ejemplos |
+|---|---|---|
+| `XXQLK_SUCURSALES_CODSUC` | integer | 13 · 14 · 15 · 63 · 8 |
+| `XXQLK_SUCURSALES_DESCSUC` | text | Coronel Olmedo · Grandes Clientes · C.A.C. Noroeste · CAT-0800 · C.A.C. Ruta 20 |
+| `XXQLK_SUCURSALES_CODREP` | text | 9,8,11 · 101 · 176 · 63 · 183 |
+| `XXQLK_SUCURSALES_CODORG` | integer | 111 · 119 · 149 ·  · 1006 |
+| `XXQLK_SUCURSALES_CODURM` | decimal | 1215 · 1211 · 1210,1216 ·  · 1214 |
+| `XXQLK_SUCURSALES_CODDIST` | integer | 1 |
+
+## Posible origen SIGEC
+
+- [[Projects/sigec-explorer/tablas/SUCURSALES\|SUCURSALES]] — match parcial de nombre
+
+---
+- [[_index|← QVD Explorer]] · [[Catálogo]]

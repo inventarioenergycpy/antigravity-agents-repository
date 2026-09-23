@@ -1,50 +1,53 @@
-# Proyecto: Control de Relevamiento Catastral y Georreferenciación (Subestaciones 4223 y 4225)
+# Proyecto: Control de Relevamiento Catastral & Auditoría Espacial WFS (EPEC)
 
-- **Repositorio en GitHub**: [`inventarioenergycpy/control-catastral-georeferencia`](https://github.com/inventarioenergycpy/control-catastral-georeferencia)
-- **Fecha de Creación**: 2026-09-23
-- **Agente Responsable**: `ciencia-de-datos`
-- **Organización / Entorno**: EPEC / Dirección General de Catastro de Córdoba
-
----
-
-## 🎯 Objetivo del Proyecto
-Auditar, corregir y validar de forma integral el relevamiento catastral de 231 suministros eléctricos correspondientes a las Subestaciones **4223** (150 suministros) y **4225** (81 suministros), superponiendo las coordenadas geográficas (`lat`, `lon`) contra el geoservicio WFS oficial de EPEC y aplicando la estructura normativa unificada de nomenclatura catastral (Ley N° 5.057).
+**Fecha**: 2026-09-23  
+**Agente Líder**: `ciencia-de-datos`  
+**Repositorio Dedicado**: [`https://github.com/inventarioenergycpy/control-catastral-georeferencia`](https://github.com/inventarioenergycpy/control-catastral-georeferencia)  
+**Estado**: Activo / En Producción  
 
 ---
 
-## 🔐 Parámetros y Credenciales del Geoservicio WFS
+## 🎯 Objetivo y Alcance
 
-- **URL del Servicio**: `https://maaysp-ws.cba.gov.ar/EPEC/wfs`
-- **Versión OGC**: WFS 1.1.0 / 2.0.0
+Auditoría integral, corrección evolutiva y validación espacial de medidores eléctricos relevados en campo por contratistas de EPEC, cruzándolos contra las capas oficiales del geoservicio WFS provincial (`EPEC:vm_vt_parcelas_subestacion`, `EPEC:t_subestaciones_poly_union_ok` y `EPEC:vt_parcelas_union`).
+
+El proyecto abarca el relevamiento de 3 subestaciones críticas:
+1. **SET 1000-0249** (Detalle #4314): 321 registros (Circunscripción 15, Secciones 05 y 07).
+2. **SET 1000-4223** (Detalle #4268): 150 registros (Circunscripción 16, Sección 32).
+3. **SET 1000-4225** (Detalle #4271): 81 registros (Circunscripción 16, Sección 32 - Barrio Manzana 139).
+
+---
+
+## 📊 Métricas de Validación Espacial (552 Registros)
+
+| Subestación | Total Registros | Georreferenciados | Coincide Original | Corregido 1ra Etapa | Ajustado WFS | Asociación SET WFS |
+|---|---|---|---|---|---|---|
+| **SET 1000-0249** | 321 | 297 (92.5%) | 200 | 0 | 97 | 294 dentro / 3 a <8m |
+| **SET 1000-4223** | 150 | 150 (100%) | 122 | 19 | 9 | 100% dentro del polígono |
+| **SET 1000-4225** | 81 | 81 (100%) | 49 | 1 | 31 (Mza 139) | 100% dentro del polígono |
+| **TOTAL UNIFICADO** | **552** | **528 (95.7%)** | **371 (67.2%)** | **20 (3.6%)** | **137 (24.8%)** | **Validación Espacial 100%** |
+
+---
+
+## 🗺️ Componentes Principales
+
+1. **Dashboard GIS Interactivo (`index.html`)**:
+   - Selector de subestaciones (`Todas`, `0249`, `4223`, `4225`).
+   - Visualización de contornos de subestación (`EPEC:t_subestaciones_poly_union_ok`).
+   - Visualización de 965 parcelas vectoriales oficiales (`EPEC:vm_vt_parcelas_subestacion`).
+   - Selector temporal de 3 etapas (*1. Original*, *2. 1ra Corrección*, *3. Validación WFS*).
+   - Tabla de datos sincronizada con búsqueda en tiempo real y zoom bidireccional.
+2. **Entregables de Planillas Excel**:
+   - `ConectarRelevados_Detalle_de_Subestacion_#4314_-_1000-0249_CORREGIDO_WFS.xlsx` (97 modificaciones resaltadas).
+   - `ConectarRelevados_Detalle_de_Subestacion_#4268_-_1000-4223_CORREGIDO_WFS.xlsx`
+   - `ConectarRelevados_Detalle_de_Subestacion_#4271_-_1000-4225_CORREGIDO_WFS.xlsx`
+   - `Cruce_Espacial_Geoservicio_WFS_SET_4223_4225_0249.xlsx` (Matriz maestra de auditoría multietapa).
+
+---
+
+## 🔑 Credenciales del Geoservicio WFS
+
+- **URL**: `https://maaysp-ws.cba.gov.ar/EPEC/wfs`
 - **Usuario**: `EPEC_comercial`
 - **Contraseña**: `Bratis-c0m3rc14l`
-- **Capas Principales**:
-  - `EPEC:vm_vt_parcelas_subestacion` (Materialized view con polígonos parcelarios vinculados a subestaciones `ctmtbt`).
-  - `EPEC:vt_parcelas_union` (Capa parcelaria general provincial).
-  - `EPEC:t_subestaciones_poly_union_ok` (Polígonos de cobertura de subestaciones).
-
----
-
-## 📐 Marco Normativo Catastral (Ley N° 5.057)
-
-Estructura secuencial jerárquica de 16 dígitos:
-$$\text{11 (Dpto)} - \text{01 (Ped)} - \text{01 (Pue)} - \text{16 (Circ)} - \text{32 (Secc)} - \mathbf{\text{MMM (Manzana)}} - \mathbf{\text{PPP (Parcela/Lote)}}$$
-
-### Regla de Prioridad Funcional:
-Cuando en la dirección de relevamiento o en el registro SIGEC conste de forma explícita la **Manzana y Lote** (ej. `MANZANA 139 LOTE 1` al `30`), este dato tiene **prioridad rectora** para definir la nomenclatura catastral unívoca, resolviendo cualquier imprecisión métrica del GPS.
-
----
-
-## 📦 Entregables Generados en el Repositorio
-
-1. **Dashboard GIS Interactivo (`index.html` / `dashboard_relevamiento_catastral.html`)**:
-   - Visualizador web con mapa Leaflet, polígonos de parcelas WFS, selector de 3 etapas en tiempo real, inspector lateral de medidor y tabla comparativa vinculada.
-2. **Archivos Excel con Validación Normativa y Espacial (`data/`)**:
-   - `ConectarRelevados_Detalle_de_Subestacion_#4268_-_1000-4223_CORREGIDO_WFS.xlsx` (150 registros).
-   - `ConectarRelevados_Detalle_de_Subestacion_#4271_-_1000-4225_CORREGIDO_WFS.xlsx` (81 registros).
-   - `Cruce_Espacial_Geoservicio_WFS_SET_4223_4225.xlsx` (Matriz de auditoría punto a punto).
-3. **Pipeline de Procesamiento en Python (`src/`)**:
-   - `wfs_client.py`: Cliente de consulta y descarga de polígonos WFS.
-   - `spatial_join.py`: Motor de superposición geométrica point-in-polygon con Shapely.
-   - `normative_processor.py`: Motor de asignación de nomenclaturas según Ley 5.057.
-   - `generate_reports.py`: Generador de reportes Excel y datasets JSON.
+- **Capas Activas**: `EPEC:t_subestaciones_poly_union_ok`, `EPEC:vm_vt_parcelas_subestacion`, `EPEC:vt_parcelas_union`

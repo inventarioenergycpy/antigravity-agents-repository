@@ -55,3 +55,15 @@ Si se ingresa una clave incorrecta 5 veces consecutivas:
 - `config/token_vault.json`: Archivo de bóveda con carga útil cifrada en AES-256.
 - `scripts/vault_manager.ps1`: Motor de cifrado, descifrado, conteo de intentos y enlace de recuperación.
 - `desplegar_todo.bat` / `publish.bat`: Scripts de un clic con integración de desbloqueo seguro.
+
+---
+
+## 🌐 Credenciales de Geoservicios WFS (EPEC / Catastro Córdoba)
+
+| Parámetro | Valor |
+| :--- | :--- |
+| **URL del Servicio WFS** | `https://maaysp-ws.cba.gov.ar/EPEC/wfs` |
+| **Usuario** | `EPEC_comercial` |
+| **Contraseña** | `Bratis-c0m3rc14l` |
+| **Capas Principales** | `EPEC:vm_vt_parcelas_subestacion`, `EPEC:vt_parcelas_union`, `EPEC:t_subestaciones_poly_union_ok` |
+| **Versión WFS** | `1.1.0` / `2.0.0` (SRS: `EPSG:4326` / `EPSG:22174`) |

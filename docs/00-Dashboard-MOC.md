@@ -113,3 +113,7 @@ graph TD
 
 
 
+
+
+## 📂 Proyectos Entregados
+- [[docs/Proyectos/2026-09-23_control-catastral-georeferencia|Control de Relevamiento Catastral & Georreferenciación (SET 4223 / 4225)]] (`inventarioenergycpy/control-catastral-georeferencia`)

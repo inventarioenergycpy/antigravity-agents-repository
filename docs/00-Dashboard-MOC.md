@@ -128,19 +128,17 @@ graph TD
 
 ---
 
-## ðŸš€ Proyectos y Soluciones en Repositorios Dedicados
+## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-09-30_propuesta-inversion-avex-rio-cuarto|2026-09-30 Propuesta de Inversión y Adquisición Planta Avícola Avex (Río Cuarto)]] (Agroindustria / Distress M&A / Leaseback ACA)
 - [[Proyectos/2026-08-14_showroom-energycpy|2026-08-14 Showroom Energy CPY (Web Showroom Benchmark)]]
-- [[Proyectos/2026-08-20_protelem-indicadores-gerencia-comercial|2026-08-20 PROTELEM - Indicadores Gerencia Comercial (DocumentaciÃ³n & Arquitectura SemÃ¡ntica)]]
-- [[Proyectos/2026-08-23_dashboard-gestion-intermediacion|2026-08-23 Dashboard de GestiÃ³n e IntermediaciÃ³n Financiera con Matriz Legal en 3 Capas]]
-- [[Proyectos/2026-09-02_forwarded-message|2026-09-02 Proyecto Forwarded Message (Green Hydrogen, Solar Hub & Granja MarÃ­tima Abisal - VPU Fideicomiso)]]
+- [[Proyectos/2026-08-20_protelem-indicadores-gerencia-comercial|2026-08-20 PROTELEM - Indicadores Gerencia Comercial (Documentación & Arquitectura Semántica)]]
+- [[Proyectos/2026-08-23_dashboard-gestion-intermediacion|2026-08-23 Dashboard de Gestión e Intermediación Financiera con Matriz Legal en 3 Capas]]
+- [[Proyectos/2026-09-02_forwarded-message|2026-09-02 Proyecto Forwarded Message (Green Hydrogen, Solar Hub & Granja Marítima Abisal - VPU Fideicomiso)]]
 - [[Proyectos/2026-09-02_protelem-conocimiento-integrado|2026-09-02 Compendio Integrado de Conocimiento Red PROTELEM (5 Proyectos EPEC)]]
-- 2026-09-04 | [[docs/Historial-Mejoras/2026-09-04_ciencia-de-datos_historial-fallas-y-soluciones-tmdl-pbip|Ciencia de Datos - Historial de Fallas y Soluciones TMDL / PBIP]]
-- 2026-09-06 | [[docs/Historial-Mejoras/2026-09-06_ciencia-de-datos_resolucion-fallas-pbip-json-schema-y-artefactos|Ciencia de Datos - ResoluciÃ³n de Fallas PBIP JSON Schema y Artefactos (Power BI Release 2026)]]
-- [[Historial-Mejoras/2026-09-11_ciencia-de-datos_integracion-conexion-oracle-oracledb-thick|2026-09-11 Ciencia de Datos - Integración de Protocolo de Conexión Oracle (oracledb Modo Thick 64-bit)]]
-- [[Historial-Mejoras/2026-09-13_analista-financiero_reorganizacion-partes-y-comision-contrato-besana|2026-09-13 Analista Financiero - Reorganización de Partes y Comisión 50/50 en Contrato de Corretaje BESANA - ERV]]
-
-
-
+- [[docs/Proyectos/2026-09-03_control-rutas-lecturas-nuevas-rutas|2026-09-03 Control de Rutas de Lecturas y Nuevas Rutas Comerciales EPEC]]
+- [[docs/Proyectos/2026-09-15_encuesta-cier-epec|2026-09-15 Encuesta de Calidad de Servicio CIER - EPEC]] (`inventarioenergycpy/encuesta-cier-epec`)
+- [[docs/Proyectos/2026-09-23_control-catastral-georeferencia|2026-09-23 Control de Relevamiento Catastral & Georreferenciación (SET 4223 / 4225)]] (`inventarioenergycpy/control-catastral-georeferencia`)
 
 ## 📂 Proyectos Entregados
 - [[docs/Proyectos/2026-09-23_control-catastral-georeferencia|Control de Relevamiento Catastral & Georreferenciación (SET 4223 / 4225)]] (`inventarioenergycpy/control-catastral-georeferencia`)
+

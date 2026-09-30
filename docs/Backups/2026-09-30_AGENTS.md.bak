@@ -79,4 +79,3 @@ Cada vez que un agente desarrolle un nuevo proyecto (página web showroom, aplic
      - Enlace al repositorio de GitHub creado (`https://github.com/inventarioenergycpy/<nombre-proyecto>`).
      - Enlace al despliegue o demo activa.
    - Actualizar el índice general en `docs/00-Dashboard-MOC.md` en la sección `[[Proyectos/|Proyectos Desarrollados]]`.
-

@@ -52,6 +52,7 @@ graph TD
     ProyectosHub --> RepoCIER["Repo CIER: inventarioenergycpy/encuesta-cier-epec"]
     
     MOC --> SyncProtelem["Protocolo SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)"]
+    MOC --> SyncObsidian["Protocolo SincronizaciÃ³n Obsidian - GitHub"]
     
     Backup --> Rollback["Habilidad Rollback-Agente"]
 ```
@@ -85,7 +86,10 @@ graph TD
 - **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
 - **PropÃ³sito**: Sincronizar automÃ¡ticamente cualquier nueva documentaciÃ³n o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\DocumentaciÃ³n\PROTELEM\PROJECTS` hacia la BÃ³veda Central con backups preventivos `.bak` y sin pÃ©rdida de informaciÃ³n.
 
-### 9. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
+### 9. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
+- **Propósito**: Vincular la Bóveda Obsidian con `antigravity-agents-repository`, habilitando el plugin nativo `obsidian-git` para auto-pull al arranque y auto-backup periódico cada 10 minutos.
+
+### 10. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
 - Fichas tÃ©cnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---

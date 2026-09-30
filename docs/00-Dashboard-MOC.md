@@ -39,6 +39,8 @@ graph TD
     MOC --> ASE["06-Arquitecto-Sistemas-EPEC"]
     MOC --> PYT["07-Procesador-Cursos-YouTube"]
     MOC --> TAV["08-Transcriptor-Analizador-Audiovisual"]
+    MOC --> PEM["09-Profesor-Experto-Mercado-Electrico"]
+    MOC --> AAA["10-Alumno-Auditor-Academico"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-DocumentaciÃ³n"]
@@ -84,17 +86,22 @@ graph TD
 - **Entregables**: Ingesta automatizada de playlists, extracción de transcripciones, resúmenes de clases y estructura de notas `.md` en `docs/Cursos/` (`[[Cursos/00-Indice-General-Cursos|Índice General de Cursos]]`).
 
 ### 8. [[Agentes/08-Transcriptor-Analizador-Audiovisual|Transcriptor y Analizador Audiovisual de Cursos]]
-- **Entregables**: Transcripción profunda de audio, detección y catalogación de diapositivas/pizarras, integración de esquemas unifilares y marcos regulatorios en las 70 clases de diplomaturas en `docs/Cursos/`.|Procesador y Documentador de Cursos Académicos YouTube]]
-- **Entregables**: Ingesta automatizada de playlists, extracción de transcripciones, resúmenes de clases y estructura de notas `.md` en `docs/Cursos/` (`[[Cursos/00-Indice-General-Cursos|Índice General de Cursos]]`).
+- **Entregables**: Transcripción profunda de audio, detección y catalogación de diapositivas/pizarras, integración de esquemas unifilares y marcos regulatorios en las 70 clases de diplomaturas en `docs/Cursos/`.
 
-### 9. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)]]
+### 9. [[Agentes/09-Profesor-Experto-Mercado-Electrico|Profesor Experto en Mercado Eléctrico y Transición]]
+- **Entregables**: Rúbricas académicas de posgrado/diplomatura, formulación de evaluaciones de grado sobre MEM/CAMMESA y control dialéctico de calidad técnica.
+
+### 10. [[Agentes/10-Alumno-Auditor-Academico|Alumno Auditor e Investigador Académico]]
+- **Entregables**: Auditoría de notas `.md`, resolución de exámenes de cátedra y ejecución del circuito de 10 iteraciones de enriquecimiento de diapositivas y clases.
+
+### 11. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)]]
 - **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
 - **PropÃ³sito**: Sincronizar automÃ¡ticamente cualquier nueva documentaciÃ³n o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\DocumentaciÃ³n\PROTELEM\PROJECTS` hacia la BÃ³veda Central con backups preventivos `.bak` y sin pÃ©rdida de informaciÃ³n.
 
-### 10. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
+### 12. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
 - **Propósito**: Vincular la Bóveda Obsidian con `antigravity-agents-repository`, habilitando el plugin nativo `obsidian-git` para auto-pull al arranque y auto-backup periódico cada 10 minutos.
 
-### 11. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
+### 13. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
 - Fichas tÃ©cnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---

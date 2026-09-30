@@ -1,20 +1,20 @@
 ---
-title: "Launch of the Diploma in Energy Transition"
-video_id: "iHGj_oTSVWw"
-url: "https://www.youtube.com/watch?v=iHGj_oTSVWw"
-duracion: "43m 6s"
-modulo: "Diplomatura en Transición Energética"
+title: "🔴Clase 5 - MÓDULO 04 "Transporte Energético" - Diplomatura en Transición Energética"
+video_id: "Y4k5w5ahcBM"
+url: "https://www.youtube.com/watch?v=Y4k5w5ahcBM"
+duracion: "112m 36s"
+modulo: "MÓDULO 04 "Transporte Energético" - Diplomatura en Transición Energética"
 transcripcion_palabras: 0
 tags: ["#curso", "#transicion-energetica", "#seu", "#clase", "#aprendizaje"]
 created: 2026-09-30
 ---
 
-# 📺 Launch of the Diploma in Energy Transition
+# 📺 🔴Clase 5 - MÓDULO 04 "Transporte Energético" - Diplomatura en Transición Energética
 
-- 🔗 **Enlace Directo YouTube**: [https://www.youtube.com/watch?v=iHGj_oTSVWw](https://www.youtube.com/watch?v=iHGj_oTSVWw)
-- ⏱️ **Duración**: 43m 6s
-- 🆔 **ID de Video**: `iHGj_oTSVWw`
-- 📦 **Módulo Pertteneciente**: Diplomatura en Transición Energética
+- 🔗 **Enlace Directo YouTube**: [https://www.youtube.com/watch?v=Y4k5w5ahcBM](https://www.youtube.com/watch?v=Y4k5w5ahcBM)
+- ⏱️ **Duración**: 112m 36s
+- 🆔 **ID de Video**: `Y4k5w5ahcBM`
+- 📦 **Módulo Pertteneciente**: MÓDULO 04 "Transporte Energético" - Diplomatura en Transición Energética
 - 🏛️ **Canal / Organización**: SomoslaSEU
 - 📊 **Volumen de Contenido Audiovisual**: 0 palabras transcritas.
 
@@ -23,7 +23,7 @@ created: 2026-09-30
 ## 🎯 Documentación y Aprendizaje Extraído de la Clase
 
 *(No se pudo extraer transcripción automática para este video: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iHGj_oTSVWw! This is )*
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Y4k5w5ahcBM! This is )*
 
 ---
 

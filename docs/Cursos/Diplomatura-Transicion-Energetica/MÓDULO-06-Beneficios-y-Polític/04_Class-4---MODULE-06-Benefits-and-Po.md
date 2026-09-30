@@ -1,20 +1,20 @@
 ---
-title: "Launch of the Diploma in Energy Transition"
-video_id: "iHGj_oTSVWw"
-url: "https://www.youtube.com/watch?v=iHGj_oTSVWw"
-duracion: "43m 6s"
-modulo: "Diplomatura en Transición Energética"
+title: "🔴Class 4 - MODULE 06 "Benefits and Policies of the Energy Transition" - DTE"
+video_id: "RwuWeeykScI"
+url: "https://www.youtube.com/watch?v=RwuWeeykScI"
+duracion: "65m 45s"
+modulo: "MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - Diplomatura en Transición Energética"
 transcripcion_palabras: 0
 tags: ["#curso", "#transicion-energetica", "#seu", "#clase", "#aprendizaje"]
 created: 2026-09-30
 ---
 
-# 📺 Launch of the Diploma in Energy Transition
+# 📺 🔴Class 4 - MODULE 06 "Benefits and Policies of the Energy Transition" - DTE
 
-- 🔗 **Enlace Directo YouTube**: [https://www.youtube.com/watch?v=iHGj_oTSVWw](https://www.youtube.com/watch?v=iHGj_oTSVWw)
-- ⏱️ **Duración**: 43m 6s
-- 🆔 **ID de Video**: `iHGj_oTSVWw`
-- 📦 **Módulo Pertteneciente**: Diplomatura en Transición Energética
+- 🔗 **Enlace Directo YouTube**: [https://www.youtube.com/watch?v=RwuWeeykScI](https://www.youtube.com/watch?v=RwuWeeykScI)
+- ⏱️ **Duración**: 65m 45s
+- 🆔 **ID de Video**: `RwuWeeykScI`
+- 📦 **Módulo Pertteneciente**: MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - Diplomatura en Transición Energética
 - 🏛️ **Canal / Organización**: SomoslaSEU
 - 📊 **Volumen de Contenido Audiovisual**: 0 palabras transcritas.
 
@@ -23,7 +23,7 @@ created: 2026-09-30
 ## 🎯 Documentación y Aprendizaje Extraído de la Clase
 
 *(No se pudo extraer transcripción automática para este video: 
-Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iHGj_oTSVWw! This is )*
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=RwuWeeykScI! This is )*
 
 ---
 

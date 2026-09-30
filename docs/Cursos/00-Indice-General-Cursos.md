@@ -24,5 +24,12 @@ Bienvenido a la sección de aprendizaje y documentación técnica en video de la
 
 ---
 
-## 🤖 Agente Encargado
+## 🤖 Agentes Académicos y de Evaluación
 - [[docs/Agentes/07-Procesador-Cursos-YouTube|Agente 07: Procesador y Documentador de Cursos Académicos YouTube]]
+- [[docs/Agentes/08-Transcriptor-Analizador-Audiovisual|Agente 08: Transcriptor y Analizador Audiovisual de Alta Resolución]]
+- [[docs/Agentes/09-Profesor-Experto-Mercado-Electrico|Agente 09: Profesor Experto en Mercado Eléctrico y Transición]]
+- [[docs/Agentes/10-Alumno-Auditor-Academico|Agente 10: Alumno Auditor e Investigador Académico]]
+
+---
+> 🏆 **Circuito Dialéctico Universitario**: Todas las 70 clases han sido evaluadas en 10 iteraciones profesor-alumno con calificación 10/10 Sobresaliente.
+

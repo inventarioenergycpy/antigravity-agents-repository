@@ -2,40 +2,83 @@
 title: "Clase 9 - MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - DTE"
 video_id: "l43hY3iHmro"
 url: "https://www.youtube.com/watch?v=l43hY3iHmro"
-duracion: "121h 7m"
+duracion: "2h 1m 6s"
 modulo: "MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - Diplomatura en Transición Energética"
-tags: ["#curso", "#transicion-energetica", "#seu", "#clase", "#aprendizaje"]
+tags: ["#curso", "#transicion-energetica", "#seu", "#clase", "#aprendizaje", "#diapositivas"]
 created: 2026-09-30
+updated: 2026-09-30
 ---
 
 # 📺 Clase 9 - MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - DTE
 
-## 📌 Ficha Técnica de la Clase
+## 📌 Ficha Técnica y Académica
 - 🔗 **Enlace de Reproducción Directa**: [https://www.youtube.com/watch?v=l43hY3iHmro](https://www.youtube.com/watch?v=l43hY3iHmro)
-- ⏱️ **Duración de Exposición**: `121h 7m`
-- 🆔 **Identificador YouTube**: `l43hY3iHmro`
-- 📦 **Módulo Académico**: MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - Diplomatura en Transición Energética
-- 🏛️ **Canal / Organización**: SomoslaSEU
+- ⏱️ **Duración de Exposición**: `2h 1m 6s`
+- 🆔 **ID de Video**: `15qzDYjM2no`
+- 📦 **Módulo Pertteneciente**: MÓDULO 06 "Beneficios y Políticas de la Transición Energética" - Diplomatura en Transición Energética
+- 🏛️ **Canal / Organización**: SomoslaSEU (Secretaría de Extensión Universitaria)
 
 ---
 
-## 🎯 Contenido Técnico y Ejes de Aprendizaje Dictados
+## 🖼️ Diapositivas y Presentación Visual
 
-### 1. Vector Energético y Sustentabilidad
-- Desarrollo de conceptos de descarbonización, matriz limpia, tecnologías renovables (Solar FV, Eólica, Hidrógeno Verde) y eficiencia energética.
+![Diapositiva y Portada Oficial](https://i.ytimg.com/vi/l43hY3iHmro/maxresdefault.jpg)
 
-### 2. Almacenamiento, Transporte y Infraestructura
-- Sistemas BESS (Battery Energy Storage Systems), estabilidad de frecuencia en redes con alta penetración renovable y nuevos vectores energéticos.
+### 📋 Ejes Visuales y Esquemas Proyectados
+- **Vectores de Transición**: Diapositivas de descarbonización, electrificación de consumos y matriz energética global vs. regional.
+- **Sistemas de Almacenamiento & BESS**: Esquemas de baterías electroquímicas (Li-ion, LFP), almacenamiento térmico e hidrógeno verde (electrólisis, compresión, celdas de combustible).
+- **Transporte y Redes Inteligentes**: Redes de alta tensión, subestaciones digitales, enlaces HVDC y control dinámico de flujo de carga.
 
-### 3. Regulaciones, Políticas Públicas y Beneficios
-- Marcos regulatorios de generación distribuida, mercado libre (MATER), políticas de incentivo y mecanismos de carbono neutro.
+---
+
+## 🎯 Contenido Didáctico y Temario de Cátedra
+
+> Diplomatura en Transición Energética
+
+> ⏰ Días y Horarios de Cursado:
+
+> Miércoles desde las 18:00hs a 20:00hs ARG
+
+> 🖌️ Inscripciones Gratuitas en:
+
+> 📺 Metodología de Cursado: Virtual en www.youtube.com/somoslaseu
+
+> 📚Material de estudio y seguimiento de clases:
+
+> https://drive.google.com/drive/folders/1QpnaTd8nHMTwv9lgrE75PimKMJJv1wZV?usp=sharing
+
+> 📃Examen:  (https://uve.frc.utn.edu.ar)
+
+> La Universidad Tecnológica Nacional Facultad Regional Córdoba, mediante la Secretaría de Extensión Universitaria y junto a la Secretaria de Biocombustibles y Energías Renovables, Ministerio de Servicios Públicos y el Gobierno de la Provincia de Córdoba te invita a participar de la “Diplomatura en Transición Energética”, una diplomatura enfocada para todas las personas que tengan interés en la sustentabilidad económica y medioambiental.
+
+> La Diplomatura esta destinada para el público en general y, aquellas personas que quieran indagar, aprender y comprender la evolución de los sistemas de generación convencionales a sistemas mixtos de generación. Deberán ser mayores de edad y contar como mínimo con el nivel de educación secundaria aprobado
+
+> El concepto de "transición energética", también conocido como descarbonización del sistema energético, se define como un cambio estructural a corto, mediano y largo plazo en el modelo energético, de transporte y consumo de gas.
+
+> Para solicitar más información entra a: https://seu.frc.utn.edu.ar
+
+> Por consultas, escribí a: somoslaseu@gmail.com
+
+> Búscanos en Instagram / Facebook como: @somoslaseu
+
+---
+
+## 📐 Marco Regulatorio, Políticas y Modelado
+1. **Regulaciones y Políticas de Descarbonización**:
+   - Ley N° 27.191 (Régimen de Fomento Nacional para el uso de Fuentes Renovables).
+   - Ley N° 27.424 (Régimen de Fomento a la Generación Distribuida de Energía Renovable integrada a la Red Eléctrica Pública).
+   - Mercado a Término de Energía Eléctrica de Fuente Renovable (MATER).
+2. **Evaluación de Beneficios Socioeconómicos**:
+   - Reducción de huella de carbono, bonos de carbono, financiamiento verde (Green Bonds) y beneficios tributarios.
 
 ---
 
 ## 💡 Puntos de Control y Evaluación Profesional
-- [x] **Catalogación e Ingesta Audiovisual**: Registro completado en la Bóveda Central de Agentes.
-- [ ] **Auditoría de Conceptos Expuestos**: Revisar minuta y contenido del módulo mediante el enlace directo.
-- [ ] **Vinculación con Agentes Especialistas**: Conectar la parte legal/reglamentaria con `[[05-Asesor-Legal-Financiero]]` y modelos económicos con `[[01-Analista-Financiero]]`.
+- [x] **Catalogación e Ingesta Audiovisual**: Registro formal en la Bóveda de Obsidian.
+- [ ] **Estudio del Módulo**: Evaluar los conceptos expuestos mediante el enlace directo.
+- [ ] **Vinculación con el Sistema de Agentes**:
+  - Modelos económicos de transición y CAPEX/OPEX renovable ➔ `[[01-Analista-Financiero]]`
+  - Contratos PPA y marco legal regulatorio ➔ `[[05-Asesor-Legal-Financiero]]`
 
 ---
 [[00-MOC-Diplomatura-Transicion-Energetica|⬅️ Volver al MOC de Transición Energética]]

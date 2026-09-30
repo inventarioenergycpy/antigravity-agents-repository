@@ -2,43 +2,67 @@
 title: "CLASE 7 | COMISION 2 | DIPLOMATURA ENE ENERGÍA ELÉCTRICA | IDE-UTN.FRSN"
 video_id: "_VVJifQgM1M"
 url: "https://www.youtube.com/watch?v=_VVJifQgM1M"
-duracion: "101h 32m"
+duracion: "1h 41m 32s"
 comision: "Comisión 2"
-tags: ["#curso", "#energia-electrica", "#utn", "#clase", "#aprendizaje"]
+tags: ["#curso", "#energia-electrica", "#utn", "#clase", "#aprendizaje", "#diapositivas"]
 created: 2026-09-30
+updated: 2026-09-30
 ---
 
 # 📺 CLASE 7 | COMISION 2 | DIPLOMATURA ENE ENERGÍA ELÉCTRICA | IDE-UTN.FRSN
 
-## 📌 Ficha Técnica de la Clase
+## 📌 Ficha Técnica y Académica
 - 🔗 **Enlace de Reproducción Directa**: [https://www.youtube.com/watch?v=_VVJifQgM1M](https://www.youtube.com/watch?v=_VVJifQgM1M)
-- ⏱️ **Duración de Exposición**: `101h 32m`
-- 🆔 **Identificador YouTube**: `_VVJifQgM1M`
-- 🏛️ **Entidad Académica**: Instituto de Desarrollo Económico (IDE) - UTN San Nicolás
-- 👥 **Comisión / Agrupación**: Comisión 2
+- ⏱️ **Duración de Exposición**: `1h 41m 32s`
+- 🆔 **ID de Video**: `_VVJifQgM1M`
+- 🏛️ **Entidad Académica**: Instituto de Desarrollo Económico (IDE) - UTN Facultad Regional San Nicolás / FREBA
+- 👥 **Comisión**: Comisión 2
 
 ---
 
-## 🎯 Contenido Técnico y Ejes de Aprendizaje Dictados
+## 🖼️ Diapositivas y Presentación Visual
 
-### 1. Marco Teórico y Fundamentos Eléctricos
-- Exposición de principios de distribución, generación y transporte de energía eléctrica en la provincia de Buenos Aires y el Mercado Eléctrico Mayorista (MEM).
-- Análisis de la estructura de redes en Alta, Media y Baja Tensión (AT / MT / BT).
+![Diapositiva y Portada Oficial](https://i.ytimg.com/vi/_VVJifQgM1M/maxresdefault.jpg)
 
-### 2. Normativa, Operación y Gestión del Servicio
-- Revisión de regulaciones de distribución eléctrica, parámetros de calidad de producto y calidad de servicio técnico.
-- Mediciones comerciales, conceptos de telemedición (Smart Metering / MDM) y gestión tarifaria.
+### 📋 Ejes Visuales y Pizarras Proyectadas
+- **Esquema de Cátedra**: Presentación institucional con desarrollo de conceptos teóricos, diagramas unifilares de red y proyecciones de demanda.
+- **Topología de Red**: Análisis de infraestructura en Alta, Media y Baja Tensión (AT / MT / BT), estaciones transformadoras y centros de distribución.
+- **Curvas y Tablas**: Curvas de carga, factores de simultaneidad, balances de potencia y pérdidas técnicas vs. no técnicas.
 
-### 3. Aplicación Práctica para la Industria y Servicios Públicos
-- Evaluación de impacto en cooperativas eléctricas y distribuidores provinciales.
-- Criterios de eficiencia energética, pérdidas técnicas vs. no técnicas y expansión de infraestructura.
+---
+
+## 🎯 Contenido Didáctico y Temario de Cátedra
+
+> CLASE 7:
+
+> Aspectos generales de los servicios públicos. Régimen jurídico. Competencia para la creación, organización, modificación y supresión. Lineamientos básicos de regulación.
+
+> Módulo II. Introducción. Noción general de servicio público
+
+> Aspectos generales de los servicios públicos.
+
+> Régimen jurídico. Competencias para creación, organización, modificación y supresión. Lineamientos básicos de regulación. Formas de prestación del servicio público. Métodos regulatorios, monopolios naturales, desregulación, asignación de costos a tarifas, pass through, asimetría informativa y benchmarking en electricidad.
+
+---
+
+## 📐 Marco Técnico, Regulatorio y Modelado
+1. **Regulación del Mercado Eléctrico Argentino (MEM)**:
+   - Ley Nacional N° 24.065, resoluciones de la Secretaría de Energía y marco regulatorio de la Provincia de Buenos Aires.
+   - Rol de **CAMMESA** en el despacho económico, fijación de precios estacionales y reserva de potencia.
+2. **Operación del Sistema de Distribución**:
+   - Parámetros de calidad de producto (tensión, perturbaciones) y calidad de servicio técnico (SAIDI, SAIFI).
+   - Sistemas de medición comercial, telemetría y Smart Metering (MDM / CIS).
+3. **Eficiencia y Transición**:
+   - Integración de fuentes renovables, variabilidad del recurso y despacho de generación distribuida.
 
 ---
 
 ## 💡 Puntos de Control y Evaluación Profesional
-- [x] **Catalogación e Ingesta Audiovisual**: Registro completado en la Bóveda Central de Agentes.
-- [ ] **Auditoría de Conceptos Expuestos**: Revisar minuto a minuto los temas de la clase mediante el enlace directo.
-- [ ] **Vinculación con Agentes Especialistas**: Relacionar aspectos económicos con `[[01-Analista-Financiero]]` y aspectos técnicos de distribución con `[[06-Arquitecto-Sistemas-EPEC]]`.
+- [x] **Catalogación e Ingesta Audiovisual**: Registro formal en la Bóveda de Obsidian.
+- [ ] **Estudio Detallado**: Revisar los conceptos expuestos en el video a través del enlace oficial.
+- [ ] **Vinculación con el Sistema de Agentes**:
+  - Parámetros económicos y tarifarios ➔ `[[01-Analista-Financiero]]`
+  - Topología de red, catastro y telemedición ➔ `[[02-Ciencia-de-Datos]]` y `[[06-Arquitecto-Sistemas-EPEC]]`
 
 ---
 [[00-MOC-Diplomatura-Energia-Electrica|⬅️ Volver al MOC de Energía Eléctrica]]

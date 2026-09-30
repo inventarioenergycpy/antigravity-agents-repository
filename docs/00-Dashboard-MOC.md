@@ -37,6 +37,7 @@ graph TD
     MOC --> PA["04-Planificador-de-Agentes"]
     MOC --> LF["05-Asesor-Legal-Financiero"]
     MOC --> ASE["06-Arquitecto-Sistemas-EPEC"]
+    MOC --> PYT["07-Procesador-Cursos-YouTube"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-DocumentaciÃ³n"]
@@ -77,11 +78,14 @@ graph TD
 ### 6. [[Agentes/06-Arquitecto-Sistemas-EPEC|Arquitecto de Sistemas EPEC (CIS / MDM / Licitaciones)]]
 - **Entregables**: Arquitectura de Sistemas Comerciales, seguimiento de pliegos licitatorios (929 requerimientos en 35 grupos), benchmarking de proveedores (Oracle C2M/CCS, OPEN, PRETECO/ESC) en BÃ³veda Central y repositorios dedicados.
 
-### 7. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)]]
+### 7. [[Agentes/07-Procesador-Cursos-YouTube|Procesador y Documentador de Cursos Académicos YouTube]]
+- **Entregables**: Ingesta automatizada de playlists, extracción de transcripciones, resúmenes de clases y estructura de notas `.md` en `docs/Cursos/` (`[[Cursos/00-Indice-General-Cursos|Índice General de Cursos]]`).
+
+### 8. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)]]
 - **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
 - **PropÃ³sito**: Sincronizar automÃ¡ticamente cualquier nueva documentaciÃ³n o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\DocumentaciÃ³n\PROTELEM\PROJECTS` hacia la BÃ³veda Central con backups preventivos `.bak` y sin pÃ©rdida de informaciÃ³n.
 
-### 8. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
+### 9. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
 - Fichas tÃ©cnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
 ---

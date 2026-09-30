@@ -11,7 +11,7 @@ created: 2026-08-09
 updated: 2026-09-03
 ---
 
-# ðŸ§­ BÃ³veda de Agentes Antigravity IDE - Map of Content (MOC)
+# Bobeda de Agentes Antigravity IDE - Map of Content (MOC)
 
 Bienvenido a la BÃ³veda de Obsidian para la gestiÃ³n estructurada de agentes con habilidades avanzadas, **soporte para nuevos perfiles futuros**, **historial de evoluciones** y **sistema de resguardo/rollback preventivo**.
 

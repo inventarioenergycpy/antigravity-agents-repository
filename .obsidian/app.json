@@ -1,1 +1,10 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "attachmentFolderPath": "docs/assets",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "livePreview": true,
+  "alwaysUpdateLinks": true
+}

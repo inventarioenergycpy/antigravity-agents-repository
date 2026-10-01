@@ -71,6 +71,8 @@ IAOP: Índice de Aprovechamiento de Oportunidades Positivas
 - `data/processed/microdata_epec_2025_2026.xlsx`: Base de microdatos unificada ($N=1.250$ encuestas x 120+ atributos).
 - `data/processed/diccionario_unificado.xlsx`: Diccionario formal de variables y etiquetas CIER.
 - `data/processed/comparativo_distribuidores_500k.xlsx`: Matriz de benchmarking para distribuidoras de gran porte.
+- `data/processed/evolucion_importancia_relativa_2025_2026.xlsx`: Matriz de evolución de ponderaciones relativas, rankings y cuadrantes IPA 2025-2026.
+- `docs/evolucion_importancia_relativa_2025_2026.md`: Informe técnico y ejecutivo de la Matriz de Importancia vs. Desempeño (IPA).
 - `docs/resumen_ejecutivo_indices.md`: Análisis exhaustivo de índices y notas promedio por atributo.
 - `docs/comparativo_distribuidores_500k.md`: Diagnóstico competitivo regional.
 - `index.html`, `app.js`, `style.css`, `data_bundle.js`: Dashboard directivo interactivo.

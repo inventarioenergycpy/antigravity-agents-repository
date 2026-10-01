@@ -119,7 +119,8 @@ graph TD
 
 ---
 
-## ðŸ“œ Historial de Mejoras Continuas
+## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-01_ciencia-de-datos_adecuacion-nomenclatura-cuadrantes-matriz-mejora|2026-10-01 Ciencia de Datos - Adecuación de Nomenclatura Ejecutiva y Orden de Intervención en Cuadrantes de la Matriz de Mejora CIER]]
 - [[Historial-Mejoras/2026-09-23_ciencia-de-datos_sinonimos-medidores-y-mapeo-distritos-sucursales|2026-09-23 Ciencia de Datos - Sinónimos de Medición, Último Medidor y Mapeo de Distritos SUCURSALES]]
 - [[Historial-Mejoras/00-Registro-Inicial|00-Registro Inicial de Arquitectura]]
 - [[Historial-Mejoras/2026-08-12_desarrollador-web-showroom_maquetacion-energy-cpy|2026-08-12 Desarrollador Web Showroom - MaquetaciÃ³n Benchmark Energy CPY]]

@@ -129,6 +129,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-14_ciencia-de-datos_creacion-repositorio-sigec-ruta-nueva-catastro-georef|2026-10-14 Ciencia de Datos - Creación Repositorio Dedicado sigec-ruta-nueva-catastro-georef en protelemepec-coder]]
 - [[Historial-Mejoras/2026-10-14_ciencia-de-datos_reasignacion-rutas-lectura-catastrales-distrito1-g16|2026-10-14 Ciencia de Datos - Reorganización Catastral de Rutas de Lectura (Piloto Distrito 1 / Grupo 16 - Bin-Packing 180±20)]]
 - [[Historial-Mejoras/2026-10-09_ciencia-de-datos_creacion-repo-adelat-cier-benchmarking|2026-10-09 Ciencia de Datos - Creación Repositorio Dedicado Benchmarking Canales de Atención ADELAT 2026 vs CIER EPEC]]
 - [[Historial-Mejoras/2026-10-05_creacion-agente-11-copiloto-orquestador-skills|2026-10-05 Creación e Integración del Agente 11: Copiloto Orquestador y Selector Dinámico de Habilidades]]

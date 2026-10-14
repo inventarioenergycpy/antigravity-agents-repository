@@ -66,3 +66,19 @@ Para el detalle exhaustivo de diagnósticos y soluciones aplicadas, consultar:
 2. **Incidente Jerarquía de Fechas (2026-09-03)**: Resuelto armonizando tilde en `'Jerarquía de fechas'`.
 3. **Incidente Doble UTF-8 / Mojibake (2026-09-04)**: Resuelto corrigiendo bytes de `Variación` (`0xC3 0xB3`) y limpiando comentarios en M.
 4. **Incidente $schema JSON & PBIP Artifacts (2026-09-06)**: Resuelto ajustando URLs de esquema canónicas de Fabric 2026, vinculación `.Dataset\definition.pbi-dataset` y reescritura estricta de la clave `"$schema"`.
+
+---
+
+## 🚀 Escalamiento Algorítmico al Distrito 1 Completo (2026-10-14)
+
+- **Universo Procesado**: **585.472 suministros** correspondientes a los 20 grupos cíclicos regulares de lectura del Distrito 1.
+- **Rutas Históricas Reemplazadas**: 1.941 rutas anteriores con alta dispersión y desbalance (10 a >1.000 suministros).
+- **Nuevas Rutas Creadas**: **3.669 rutas homogéneas** numeradas jerárquicamente por grupo (`01001` a `20253`).
+- **Media Global**: **159,6 suministros/ruta** (Mediana global: 167 suministros/ruta).
+- **Nuevo Identificador Catastral**: `1-{GRUPO}-{MANZANA_WFS}-{PARCELA}` asignado al 100% de los suministros con trazabilidad cartográfica WFS.
+- **Entregables Generados**:
+  * Padrón general: `C:\Users\jidiaz\Downloads\padron_nuevas_rutas_distrito1_completo.csv` (95,17 MB, 585.472 filas).
+  * Matriz de rutas: `C:\Users\jidiaz\Downloads\resumen_todas_rutas_nuevas_distrito1.csv` (0,39 MB, 3.669 rutas).
+  * Resumen de grupos: `C:\Users\jidiaz\Downloads\resumen_comparativo_grupos_distrito1.csv`.
+  * Script fuente: `scripts/escalar_nuevas_rutas_distrito1.py`.
+

@@ -41,6 +41,7 @@ graph TD
     MOC --> TAV["08-Transcriptor-Analizador-Audiovisual"]
     MOC --> PEM["09-Profesor-Experto-Mercado-Electrico"]
     MOC --> AAA["10-Alumno-Auditor-Academico"]
+    MOC --> CO["11-Copiloto-Orquestador-de-Skills"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-DocumentaciÃ³n"]
@@ -94,15 +95,23 @@ graph TD
 ### 10. [[Agentes/10-Alumno-Auditor-Academico|Alumno Auditor e Investigador Académico]]
 - **Entregables**: Auditoría de notas `.md`, resolución de exámenes de cátedra y ejecución del circuito de 10 iteraciones de enriquecimiento de diapositivas y clases.
 
-### 11. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)]]
-- **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
-- **PropÃ³sito**: Sincronizar automÃ¡ticamente cualquier nueva documentaciÃ³n o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\DocumentaciÃ³n\PROTELEM\PROJECTS` hacia la BÃ³veda Central con backups preventivos `.bak` y sin pÃ©rdida de informaciÃ³n.
+### 11. [[Agentes/11-Copiloto-Orquestador-de-Skills|Copiloto Orquestador y Selector Dinámico de Habilidades]]
+- **Entregables**: Diagnóstico semántico de consultas, despacho dinámico de agentes especialistas, investigación de estándares Google / desarrolladores reconocidos y creación de nuevas habilidades bajo la Metodología en 6 Etapas.
 
-### 12. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
+### 12. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
+- **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
+- **Propósito**: Sincronizar automáticamente cualquier nueva documentación o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS` hacia la Bóveda Central con backups preventivos `.bak` y sin pérdida de información.
+
+### 13. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
 - **Propósito**: Vincular la Bóveda Obsidian con `antigravity-agents-repository`, habilitando el plugin nativo `obsidian-git` para auto-pull al arranque y auto-backup periódico cada 10 minutos.
 
-### 13. [[Proyectos/README|Ãndice de Proyectos e Repositorios Dedicados]]
-- Fichas tÃ©cnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
+### 14. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+- Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
+
+### 15. [[docs/PROTELEM/00-Indice-PROTELEM-EPEC|Organización PROTELEM-EPEC: Repositorios y Documentación Unificada]]
+- **Repositorios**: `PROTELEM-EPEC/facturacion-reverse-engineering` (Modelo SIGEC, Tarifas, Impuestos, Motor JS) y `PROTELEM-EPEC/demo-dashboard` (Factura Digital UI).
+- **Proyectos de Red**: `docs/PROTELEM/PROJECTS/` (SIGEC Explorer, QVD Explorer, Normativa EPEC, Oracle CIS/MDM).
+- **Sincronización**: Multi-bóveda y visualización unificada en Obsidian con auto-pull/push.
 
 ---
 
@@ -120,6 +129,9 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-14_ciencia-de-datos_reasignacion-rutas-lectura-catastrales-distrito1-g16|2026-10-14 Ciencia de Datos - Reorganización Catastral de Rutas de Lectura (Piloto Distrito 1 / Grupo 16 - Bin-Packing 180±20)]]
+- [[Historial-Mejoras/2026-10-09_ciencia-de-datos_creacion-repo-adelat-cier-benchmarking|2026-10-09 Ciencia de Datos - Creación Repositorio Dedicado Benchmarking Canales de Atención ADELAT 2026 vs CIER EPEC]]
+- [[Historial-Mejoras/2026-10-05_creacion-agente-11-copiloto-orquestador-skills|2026-10-05 Creación e Integración del Agente 11: Copiloto Orquestador y Selector Dinámico de Habilidades]]
 - [[Historial-Mejoras/2026-10-01_ciencia-de-datos_adecuacion-nomenclatura-cuadrantes-matriz-mejora|2026-10-01 Ciencia de Datos - Adecuación de Nomenclatura Ejecutiva y Orden de Intervención en Cuadrantes de la Matriz de Mejora CIER]]
 - [[Historial-Mejoras/2026-09-23_ciencia-de-datos_sinonimos-medidores-y-mapeo-distritos-sucursales|2026-09-23 Ciencia de Datos - Sinónimos de Medición, Último Medidor y Mapeo de Distritos SUCURSALES]]
 - [[Historial-Mejoras/00-Registro-Inicial|00-Registro Inicial de Arquitectura]]
@@ -142,6 +154,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-09_adelat-cier-benchmarking|2026-10-09 Benchmarking Canales de Atención: ADELAT 2026 (Parte II) vs. Encuesta CIER EPEC-AR]] (`protelemepec-coder/adelat-cier-benchmarking`)
 - [[docs/Proyectos/2026-09-30_propuesta-inversion-avex-rio-cuarto|2026-09-30 Propuesta de Inversión y Adquisición Planta Avícola Avex (Río Cuarto)]] (Agroindustria / Distress M&A / Leaseback ACA)
 - [[Proyectos/2026-08-14_showroom-energycpy|2026-08-14 Showroom Energy CPY (Web Showroom Benchmark)]]
 - [[Proyectos/2026-08-20_protelem-indicadores-gerencia-comercial|2026-08-20 PROTELEM - Indicadores Gerencia Comercial (Documentación & Arquitectura Semántica)]]

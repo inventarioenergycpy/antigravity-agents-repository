@@ -42,11 +42,12 @@ graph TD
     MOC --> PEM["09-Profesor-Experto-Mercado-Electrico"]
     MOC --> AAA["10-Alumno-Auditor-Academico"]
     MOC --> CO["11-Copiloto-Orquestador-de-Skills"]
+    MOC --> FRE["12-Especialista-Facturacion-Reverse-Engineering"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
-    MOC --> AutoDoc["Auto-DocumentaciÃ³n"]
-    AutoDoc --> Backup["BÃ³veda de Backups (docs/Backups/)"]
-    AutoDoc --> Historial["HistÃ³rico de Mejoras (docs/Historial-Mejoras/)"]
+    MOC --> AutoDoc["Auto-Documentación"]
+    AutoDoc --> Backup["Bóveda de Backups (docs/Backups/)"]
+    AutoDoc --> Historial["Histórico de Mejoras (docs/Historial-Mejoras/)"]
     
     MOC --> ProyectosHub["Proyectos Independientes (docs/Proyectos/)"]
     ProyectosHub --> RepoWeb["Repo Web: inventarioenergycpy/showroom-energycpy"]
@@ -55,6 +56,7 @@ graph TD
     ProyectosHub --> RepoForwarded["Repo VPU: inventarioenergycpy/forwarded-message"]
     ProyectosHub --> RepoCIER["Repo CIER: inventarioenergycpy/encuesta-cier-epec"]
     ProyectosHub --> RepoSolar["Repo Solar: asesoramiento-parque-solar-fotovoltaico"]
+    ProyectosHub --> RepoFact["Repo Facturación: PROTELEM-EPEC/facturacion-reverse-engineering"]
     
     MOC --> SyncProtelem["Protocolo SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)"]
     MOC --> SyncObsidian["Protocolo SincronizaciÃ³n Obsidian - GitHub"]
@@ -99,38 +101,45 @@ graph TD
 ### 11. [[Agentes/11-Copiloto-Orquestador-de-Skills|Copiloto Orquestador y Selector Dinámico de Habilidades]]
 - **Entregables**: Diagnóstico semántico de consultas, despacho dinámico de agentes especialistas, investigación de estándares Google / desarrolladores reconocidos y creación de nuevas habilidades bajo la Metodología en 6 Etapas.
 
-### 12. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
+### 12. [[Agentes/12-Especialista-Facturacion-Reverse-Engineering|Especialista en Reverse Engineering de Facturación EPEC]]
+- **Habilidad**: `.agents/skills/facturacion-reverse-engineering/SKILL.md`
+- **Protocolo de Arranque**: Sincronización mandatoria y automática contra `PROTELEM-EPEC/facturacion-reverse-engineering` (rama `main`) antes de cada uso.
+- **Entregables**: Reconstrucción por ingeniería inversa de la factura EPEC, simulador interactivo offline, motor JS puro de prorrateos tarifarios, mapeo de 31 tablas de SIGEC y auditoría de ordenanzas/tasas municipales.
+
+### 13. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
 - **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
 - **Propósito**: Sincronizar automáticamente cualquier nueva documentación o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS` hacia la Bóveda Central con backups preventivos `.bak` y sin pérdida de información.
 
-### 13. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
+### 14. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
 - **Propósito**: Vincular la Bóveda Obsidian con `antigravity-agents-repository`, habilitando el plugin nativo `obsidian-git` para auto-pull al arranque y auto-backup periódico cada 10 minutos.
 
-### 14. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+### 15. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
 - Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
-### 15. [[docs/PROTELEM/00-Indice-PROTELEM-EPEC|Organización PROTELEM-EPEC: Repositorios y Documentación Unificada]]
+### 16. [[docs/PROTELEM/00-Indice-PROTELEM-EPEC|Organización PROTELEM-EPEC: Repositorios y Documentación Unificada]]
 - **Repositorios**: `PROTELEM-EPEC/facturacion-reverse-engineering` (Modelo SIGEC, Tarifas, Impuestos, Motor JS) y `PROTELEM-EPEC/demo-dashboard` (Factura Digital UI).
 - **Proyectos de Red**: `docs/PROTELEM/PROJECTS/` (SIGEC Explorer, QVD Explorer, Normativa EPEC, Oracle CIS/MDM).
 - **Sincronización**: Multi-bóveda y visualización unificada en Obsidian con auto-pull/push.
 
 ---
 
-## ðŸ›¡ï¸ Sistema de Seguridad, HistÃ³rico y Rollback
+## 🛡️ Sistema de Seguridad, Histórico y Rollback
 
-1. **CreaciÃ³n de Nuevos Agentes Futuros**:
+1. **Creación de Nuevos Agentes Futuros**:
    - Para agregar un agente en el futuro, crear `.agents/skills/<nuevo-agente>/SKILL.md` y su ficha en `docs/Agentes/`.
 2. **Backups Preventivos**:
-   - Cada mejora genera automÃ¡ticamente una copia de respaldo en `[[docs/Backups/README|docs/Backups/]]`.
-3. **Registro HistÃ³rico**:
-   - Cada cambio queda registrado cronolÃ³gicamente en `docs/Historial-Mejoras/`.
-4. **Capacidad de Rollback / ReversiÃ³n**:
-   - Si un cambio no resulta satisfactorio, la habilidad `rollback-agente` restaura cualquier versiÃ³n anterior almacenada en `docs/Backups/`.
+   - Cada mejora genera automáticamente una copia de respaldo en `[[docs/Backups/README|docs/Backups/]]`.
+3. **Registro Histórico**:
+   - Cada cambio queda registrado cronológicamente en `docs/Historial-Mejoras/`.
+4. **Capacidad de Rollback / Reversión**:
+   - Si un cambio no resulta satisfactorio, la habilidad `rollback-agente` restaura cualquier versión anterior almacenada en `docs/Backups/`.
 
 ---
 
 ## 📜 Historial de Mejoras Continuas
-- [[Historial-Mejoras/2026-10-14_copiloto-orquestador_creacion-repositorio-asesoramiento-parque-solar-fotovoltaico|2026-10-14 Copiloto Orquestador - Creación Repositorio Dedicado asesoramiento-parque-solar-fotovoltaico]]
+- [[Historial-Mejoras/2026-10-20_ciencia-de-datos_creacion-modelo-f218-ocasa-op26211|2026-10-20 Ciencia de Datos - Creación y Normalización del Archivo de Datos F-218 OCASA (O.P. 26211)]]
+- [[Historial-Mejoras/2026-10-19_creacion-agente-12-facturacion-reverse-engineering|2026-10-19 Creación e Integración del Agente 12: Especialista en Reverse Engineering de Facturación EPEC]]
+- [[Historial-Mejoras/2026-10-14_copiloto-orquestador_creacion-repositorio-asesoramiento-parque-solar-fotovoltaico|2026-10-14 Copiloto Orquestador - Creación Repositorio Dedicado asesoramiento-parque-solar-fotovoltaico]]ositorio-asesoramiento-parque-solar-fotovoltaico|2026-10-14 Copiloto Orquestador - Creación Repositorio Dedicado asesoramiento-parque-solar-fotovoltaico]]
 - [[Historial-Mejoras/2026-10-14_ciencia-de-datos_creacion-repositorio-sigec-ruta-nueva-catastro-georef|2026-10-14 Ciencia de Datos - Creación Repositorio Dedicado sigec-ruta-nueva-catastro-georef en protelemepec-coder]]
 - [[Historial-Mejoras/2026-10-14_ciencia-de-datos_reasignacion-rutas-lectura-catastrales-distrito1-g16|2026-10-14 Ciencia de Datos - Reorganización Catastral de Rutas de Lectura (Piloto Distrito 1 / Grupo 16 - Bin-Packing 180±20)]]
 - [[Historial-Mejoras/2026-10-09_ciencia-de-datos_creacion-repo-adelat-cier-benchmarking|2026-10-09 Ciencia de Datos - Creación Repositorio Dedicado Benchmarking Canales de Atención ADELAT 2026 vs CIER EPEC]]
@@ -157,6 +166,8 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-20_memo-gtic-accesos-tramites-comerciales-xxww-sigec|2026-10-20 Memorándum Técnico: Solicitud de Accesos a Datos de Oficina Virtual (XXWW) y SIGEC para Gestión de Trámites Comerciales (GTIC EPEC)]]
+- [[docs/Proyectos/2026-10-20_procedimiento-carga-y-control-plantilla-f218|2026-10-20 Instructivo Operativo: Procedimiento de Carga, Control de Duplicidad y Normalización de Plantillas F-218]]
 - [[docs/Proyectos/2026-10-14_asesoramiento-parque-solar-fotovoltaico|2026-10-14 Asesoramiento para Parque Solar Fotovoltaico Georreferenciado (Simulador Growatt & Lecturas SIGEC)]] (`inventarioenergycpy/asesoramiento-parque-solar-fotovoltaico`)
 - [[docs/Proyectos/2026-10-09_adelat-cier-benchmarking|2026-10-09 Benchmarking Canales de Atención: ADELAT 2026 (Parte II) vs. Encuesta CIER EPEC-AR]] (`protelemepec-coder/adelat-cier-benchmarking`)
 - [[docs/Proyectos/2026-09-30_propuesta-inversion-avex-rio-cuarto|2026-09-30 Propuesta de Inversión y Adquisición Planta Avícola Avex (Río Cuarto)]] (Agroindustria / Distress M&A / Leaseback ACA)

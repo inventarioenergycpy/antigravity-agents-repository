@@ -57,8 +57,9 @@ graph TD
     ProyectosHub --> RepoCIER["Repo CIER: inventarioenergycpy/encuesta-cier-epec"]
     ProyectosHub --> RepoSolar["Repo Solar: asesoramiento-parque-solar-fotovoltaico"]
     ProyectosHub --> RepoFact["Repo Facturación: PROTELEM-EPEC/facturacion-reverse-engineering"]
+    ProyectosHub --> RepoAMI["Repo AMI: PROTELEM-EPEC/despliegue-medidores-inteligentes-ami"]
     
-    MOC --> SyncProtelem["Protocolo SincronizaciÃ³n Red PROTELEM (\\srvfs01\...)"]
+    MOC --> SyncProtelem["Protocolo Sincronización Red PROTELEM (\\srvfs01\...)"]
     MOC --> SyncObsidian["Protocolo SincronizaciÃ³n Obsidian - GitHub"]
     
     Backup --> Rollback["Habilidad Rollback-Agente"]
@@ -167,6 +168,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-21_despliegue-medidores-inteligentes-ami|2026-10-21 Plan Maestro de Despliegue de Medidores Inteligentes AMI y Concentradores PLC]] (`PROTELEM-EPEC/despliegue-medidores-inteligentes-ami`)
 - [[docs/Proyectos/2026-10-21_analisis-cier-atributos-foco-cronograma-sigec-reclamos-ersep|2026-10-21 Análisis Integral CIER: Diagnóstico de Atributos Foco (IC1, AT1, FE1), Cronograma SIGEC, Casuística RO/RC y Quiebre de Notificaciones NT]]
 - [[docs/Proyectos/Prompt-Retomar-Sesion-CIER-Foco-SIGEC|2026-10-21 Prompt Maestro para Retomar Sesión: Análisis CIER, Cronograma SIGEC y Reclamos RC/RO/NT]]
 - [[docs/Proyectos/2026-10-20_memo-gtic-accesos-tramites-comerciales-xxww-sigec|2026-10-20 Memorándum Técnico: Solicitud de Accesos a Datos de Oficina Virtual (XXWW) y SIGEC para Gestión de Trámites Comerciales (GTIC EPEC)]]

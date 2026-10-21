@@ -78,7 +78,16 @@ graph TD
 
 ---
 
-### C. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
+### C. Repositorio: `despliegue-medidores-inteligentes-ami`
+- **Repositorio Remoto**: [https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami](https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami)
+- **Ruta Local**: `D:\Proyectos\despliegue-medidores-inteligentes-ami`
+- **Rama Activa**: `main`
+- **Ficha en Bóveda**: `[[docs/Proyectos/2026-10-21_despliegue-medidores-inteligentes-ami|Plan Maestro de Despliegue AMI]]`
+- **Objetivo**: Planificación de stock físico con Verificación Primitiva (`VP 20d`), 400.000 medidores AMI (Sanxing y CLOU), 6.000 concentradores PLC, gobernanza de subestaciones (`SET OK`) y coordinación de 50 cuadrillas contratistas (188.000 USE).
+
+---
+
+### D. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
 - **Única Fuente de la Verdad (SSOT)** documentada para datos históricos de EPEC:
   1. `[[docs/PROTELEM/PROJECTS/sigec-explorer/|SIGEC Explorer]]`: Catálogo completo de 1.036 tablas del esquema Oracle comercial.
   2. `[[docs/PROTELEM/PROJECTS/qvd-explorer/|QVD Explorer]]`: Diccionario de 505 QVDs Qlik Sense con linaje de datos.

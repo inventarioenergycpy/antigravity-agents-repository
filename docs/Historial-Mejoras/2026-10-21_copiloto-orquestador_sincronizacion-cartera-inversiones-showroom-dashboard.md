@@ -26,3 +26,8 @@ updated: 2026-10-21
 2. **Arquitectura SSOT**: Implementación de `projects-master.json` sincronizado entre Dashboard y Showroom.
 3. **Visor One-Pager de 1 Página A4**: Implementación del modal interactivo con la marca de agua `ENERGY CPY — PRIVATE INVESTMENT ADVISORY` y motor de impresión CSS A4.
 4. **Manejo Confidencial Private Placement**: Protección de montos para los hoteles de ultra-lujo de Bariloche y Córdoba, con llamado a la acción para solicitud de invitación y firma de NDA.
+
+## 🛠️ Corrección Crítica de Carga y Visualización Offline (file:///)
+Tras una prueba en navegador directo se identificaron y solucionaron dos restricciones:
+1. **Showroom Web**: Se restauró la definición completa del diccionario `TRANSLATIONS` y la declaración de variables de estado de sesión (`currentLang`, `currentProjectId`, `currentSlideIndex`), eliminando el error que interrumpía el ciclo de renderizado en `DOMContentLoaded`.
+2. **Dashboard de Gestión**: Los navegadores modernos bloquean por seguridad los módulos ES (`type="module"`) cuando se abren archivos locales con protocolo `file:///` (doble clic). Se compiló un paquete universal autocontenido (`js/bundle.js`) que permite ejecutar y visualizar el 100% del dashboard con sus 26 proyectos y semáforos tanto localmente mediante doble clic como en servidores HTTP.

@@ -138,6 +138,8 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-22_analisis-cier-ic1-at1-fe1-campana-factura-digital-ahorro-postal|2026-10-22 Ciencia de Datos & Finanzas - Diagnóstico Atributos CIER Cuadrante I (IC1, AT1, FE1), Modelo de Ahorro Correo F-218 y Campaña de Factura Digital]]
+- [[Historial-Mejoras/2026-10-22_copiloto-orquestador_protocolo-snapshot-local-minima-interferencia-red|2026-10-22 Copiloto Orquestador - Protocolo Obligatorio de Snapshot Local de Mínima Interferencia de Red (\\srvfs01) y Fuentes Online]]
 - [[Historial-Mejoras/2026-10-21_copiloto-orquestador_exclusividad-onepager-y-flujo-leads-showroom|2026-10-21 Copiloto Orquestador - Exclusividad de Resumen Ejecutivo One-Pager A4 y Nuevo Flujo de Derivación de Leads vía inventario.energycpy]]
 - [[Historial-Mejoras/2026-10-21_copiloto-orquestador_visor-onepager-a4-dashboard-gestion|2026-10-21 Copiloto Orquestador - Integración de Visor y Exportador One-Pager A4 Nativo con Marca de Agua en Dashboard de Gestión]]
 - [[Historial-Mejoras/2026-10-21_ciencia-de-datos_analisis-cier-atributos-foco-cronograma-sigec-reclamos-ersep|2026-10-21 Ciencia de Datos - Diagnóstico Atributos Foco CIER (IC1, AT1, FE1), Cronograma SIGEC y Casuística RO/RC/NT/ERSeP]]
@@ -170,6 +172,9 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-22_estrategia-campana-captacion-factura-digital|2026-10-22 Plan Estratégico y Modelo de Campañas de Captación para Factura Digital (Base 922.958 Titulares EPEC)]] (`inventarioenergycpy/encuesta-cier-epec`)
+- [[docs/Proyectos/2026-10-22_estimacion-ahorro-financiero-factura-digital-epec|2026-10-22 Modelo Financiero: Estimación del Ahorro Anual por Migración a Factura Digital y Sensibilidad WhatsApp]] (`inventarioenergycpy/encuesta-cier-epec`)
+- [[docs/Proyectos/2026-10-22_analisis-critico-cier-ic1-at1-fe1-sigec-redes|2026-10-22 Análisis Crítico Atributos CIER Cuadrante I: IC1, AT1 y FE1 frente a Canales Masivos, SIGEC y Migración a Factura Digital]] (`inventarioenergycpy/encuesta-cier-epec`)
 - [[docs/Proyectos/2026-10-21_despliegue-medidores-inteligentes-ami|2026-10-21 Plan Maestro de Despliegue de Medidores Inteligentes AMI y Concentradores PLC]] (`PROTELEM-EPEC/despliegue-medidores-inteligentes-ami`)
 - [[docs/Proyectos/2026-10-21_analisis-cier-atributos-foco-cronograma-sigec-reclamos-ersep|2026-10-21 Análisis Integral CIER: Diagnóstico de Atributos Foco (IC1, AT1, FE1), Cronograma SIGEC, Casuística RO/RC y Quiebre de Notificaciones NT]]
 - [[docs/Proyectos/Prompt-Retomar-Sesion-CIER-Foco-SIGEC|2026-10-21 Prompt Maestro para Retomar Sesión: Análisis CIER, Cronograma SIGEC y Reclamos RC/RO/NT]]

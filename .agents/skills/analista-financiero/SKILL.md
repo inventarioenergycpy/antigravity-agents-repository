@@ -79,6 +79,12 @@ Todo documento o informe debe concluir obligatoriamente con dos secciones de cie
    - **Ubicación Google Drive**: Almacenados en el Google Drive de `inventario.energycpy@gmail.com`.
    - **Herramientas de Software Financiero**: Repositorios dedicados en GitHub (`https://github.com/inventarioenergycpy/<nombre-herramienta>.git`) con ficha técnica en `docs/Proyectos/`.
 
+4. **Modelado de Unit Economics y Logística en Servicios Públicos (EPEC / F-218)**:
+   - Capacidad de auditar y modelar costos directos e indirectos por suministro en distribución física postal vs. canales digitales.
+   - Parámetros contractuales vigentes en EPEC (Licitación OCASA O.P. 26211): Impresión ($ 39,57 s/IVA) + Distribución ($ 236,98 s/IVA) = **$ 276,55 s/IVA** ($ 334,63 c/IVA) por factura papel.
+   - **Costo Anual Postal por Suministro**: **$ 4.015,51 c/IVA al año** (12 facturas).
+   - Análisis de sensibilidad y trade-off de canales de mensajería (SMS masivo a ~$ 12 vs. WhatsApp a tarifas cotizadas) con cálculo de Payback y ROI de campañas de captación sobre padrones residenciales.
+
 ---
 
 ## 📈 Estructura Estándar de Informe y Evaluación de Inversión

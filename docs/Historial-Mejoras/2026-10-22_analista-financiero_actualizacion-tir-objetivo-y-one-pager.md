@@ -75,3 +75,10 @@ Para optimizar el posicionamiento institucional y confidencialidad comercial en 
    - Actual: **Complejo de Refinación y Poliductos NOA - Salta Argentina**
 
 Actualizado de manera sincronizada en data/projects-master.json, js/main.js y el selector de derivación de consultas en index.html.
+
+#### G. Blindaje de Confidencialidad en Tarjetas del Catálogo
+- Se eliminó la visualización del valor numérico exacto de la TIR calculada (ej. 25.5%, 31.0%, etc.) en todas las tarjetas de la plataforma.
+- En su lugar, la métrica de rentabilidad de cada tarjeta exhibe única y exclusivamente el **valor categorizado**:
+  - Valor principal (.metric-val): **TIR > 15%** o **TIR > 9%**
+  - Etiqueta descriptiva (.metric-lbl): **Rentabilidad**
+- Los datos de modelado financiero profundo (DCF, WACC, cash flows exactos) quedan preservados bajo el protocolo de análisis en el One-Pager confidencial y Data Room.

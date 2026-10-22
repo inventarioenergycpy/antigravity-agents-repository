@@ -86,3 +86,14 @@ Actualizado de manera sincronizada en data/projects-master.json, js/main.js y el
 #### H. Corrección de Alcance en Renderizado de Tarjetas
 - Se corrigió la definición de la variable de alcance local const tirCategory = getTirCategory(p.tir, isEn); dentro del bucle de enderProjectCards().
 - Se restauró la visualización inmediata de los 24 proyectos en la grilla del catálogo del showroom.
+
+#### I. Actualización de Parámetros de Inversión y Presentación
+1. **Proyecto Pozo Salta — Infraestructura & Secado de Cuttings (pozo-salta)**:
+   - Se eliminaron todas las menciones a USD 15M CAPEX.
+   - Se fijó el **Monto oficial en USD 1.860M**, reflejando la escala completa del complejo industrial de secado de cuttings y el plan integral de desarrollo sobre las 25 áreas hidrocarburíferas.
+   - Se explicitó la **alta flexibilidad estructural** para acordar esquemas a medida con socios inversores (por bloques individuales de áreas o complejo integral).
+2. **Proyecto 6.6 — Pesca Industrial de Gran Escala en Patagonia (pesca-gran-escala)**:
+   - Se actualizó la modalidad a **Venta de Activo** por un monto de **USD 310M** (16 buques industriales, cuotas federales CITP y planta procesadora en tierra).
+   - Se procesó y vinculó la nueva presentación oficial en PDF ubicada en descargas (Proyectos de Pesca Industrial en Argentina.pdf), renderizando sus 13 diapositivas en alta definición (1920x1080) e integrando el PDF en el repositorio de documentos.
+3. **Métrica Consolidada del Portafolio**:
+   - El volumen estructurado total asciende a **USD 4,136.5M** (+4.1B USD) en 24 proyectos.

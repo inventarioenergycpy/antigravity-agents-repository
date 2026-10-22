@@ -138,6 +138,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-21_copiloto-orquestador_exclusividad-onepager-y-flujo-leads-showroom|2026-10-21 Copiloto Orquestador - Exclusividad de Resumen Ejecutivo One-Pager A4 y Nuevo Flujo de Derivación de Leads vía inventario.energycpy]]
 - [[Historial-Mejoras/2026-10-21_copiloto-orquestador_visor-onepager-a4-dashboard-gestion|2026-10-21 Copiloto Orquestador - Integración de Visor y Exportador One-Pager A4 Nativo con Marca de Agua en Dashboard de Gestión]]
 - [[Historial-Mejoras/2026-10-21_ciencia-de-datos_analisis-cier-atributos-foco-cronograma-sigec-reclamos-ersep|2026-10-21 Ciencia de Datos - Diagnóstico Atributos Foco CIER (IC1, AT1, FE1), Cronograma SIGEC y Casuística RO/RC/NT/ERSeP]]
 - [[Historial-Mejoras/2026-10-20_ciencia-de-datos_creacion-modelo-f218-ocasa-op26211|2026-10-20 Ciencia de Datos - Creación y Normalización del Archivo de Datos F-218 OCASA (O.P. 26211)]]

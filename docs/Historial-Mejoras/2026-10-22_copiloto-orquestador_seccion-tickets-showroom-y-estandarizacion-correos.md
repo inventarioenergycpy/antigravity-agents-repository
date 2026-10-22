@@ -71,3 +71,19 @@ tags:
 
 5. **Actualización del Bundle Universal**:
    - Se regeneró `js/bundle.js` integrando el nuevo módulo para compatibilidad total con servidores web (`http://`) y apertura local por doble clic (`file:///`).
+
+---
+
+## ⚡ 3. Sincronización Automática en Tiempo Real y Carga de los 3 Casos Oficiales
+
+1. **Incorporación de los 3 Casos Oficiales de la Captura de Correo**:
+   - ECPY-SOLAR-VM30: *Parque Solar 30 MW Vaca Muerta (USD 30M)* - Hora 15:45 - Asignado a Javier Diaz.
+   - ECPY-SOLAR-SLT50: *Parque Solar Fotovoltaico MATER 50 MW - Salta (USD 50M)* - Hora 15:33 - Asignado a Javier Diaz.
+   - ECPY-AGRO-MDZ17K: *Estancia Productiva 17.000 ha con Riego Mendoza (USD 60M)* - Hora 15:20 - Asignado a Javier Diaz.
+   - Se depuraron de forma automática las muestras preliminares anteriores.
+
+2. **Arquitectura de Sincronización en Vivo**:
+   - **BroadcastChannel API (energycpy_inquiries_channel)**: Comunica instantáneamente la pestaña del Showroom con el Dashboard al momento exacto en que se presiona *'Enviar Solicitud a Consultores'*.
+   - **Event Listener storage**: Detecta cualquier actualización del almacenamiento local compartido en la misma sesión.
+   - **Polling Reactivo de 2.5s**: Verifica periódicamente si existen nuevos tickets y actualiza la tabla y el badge de pendientes con animación visual.
+   - **Archivo Central data/inquiries-master.json**: Respaldado en ambos repositorios para persistencia en frío y despliegues estáticos.

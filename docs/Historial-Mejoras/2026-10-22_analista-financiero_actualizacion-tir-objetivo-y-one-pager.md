@@ -42,3 +42,10 @@ Se realizó una auditoría técnica profunda del comportamiento al pulsar el bot
 - Repositorios sincronizados:
   - showroom-energycpy: Commit 807b98 en rama eat/cartera-inversiones-sincronizada.
   - ntigravity-agents-repository: Documentación histórica incorporada en master.
+
+#### D. Ajuste de Tarjetas de Métricas Ejecutivas (Stats Grid)
+- Se removió la tarjeta de estadística Track Record en Pesca Industrial (+25 Años / 600M USD/año).
+- La grilla ejecutiva (.stats-grid) queda armónicamente balanceada en 3 pilares estratégicos de alto impacto:
+  1. **Volumen Total en Portafolio**: USD 4,111.5M (+4.1B USD) en 24 proyectos.
+  2. **CAPEX Solar Pre-Financiado**: 50% co-financiado respaldado por fabricante global.
+  3. **Plazo PPA Indexado en Dólares**: 20 Años bajo régimen MATER / PPA.

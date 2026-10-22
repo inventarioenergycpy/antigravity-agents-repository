@@ -97,3 +97,19 @@ Actualizado de manera sincronizada en data/projects-master.json, js/main.js y el
    - Se procesó y vinculó la nueva presentación oficial en PDF ubicada en descargas (Proyectos de Pesca Industrial en Argentina.pdf), renderizando sus 13 diapositivas en alta definición (1920x1080) e integrando el PDF en el repositorio de documentos.
 3. **Métrica Consolidada del Portafolio**:
    - El volumen estructurado total asciende a **USD 4,136.5M** (+4.1B USD) en 24 proyectos.
+
+#### J. Sincronización Integral con el Dashboard de Control (dashboard-gestion-intermediacion)
+Para garantizar la coherencia de datos al 100% entre la capa de exhibición pública (Showroom) y la consola operativa interna (Dashboard de Intermediación):
+1. **Unificación y Saneamiento de Cartera**:
+   - data/projects-master.json: Actualizado exactamente a los **24 activos estratégicos oficiales**.
+   - Se removió planta-avicola-avex.
+   - Se unificó salta-garrido-25areas dentro de pozo-salta.
+2. **Actualización de Parámetros Clave**:
+   - pozo-salta: Monto total de **USD 1.860M** con esquema de socios inversores flexible (eliminación de USD 15M CAPEX).
+   - pesca-gran-escala: Monto de venta de **USD 310M**.
+   - efipampa-medanito: Denominación Oferta de Refineria y explotacion de pozos - La Pampa Argentina.
+   - efinor-salta: Denominación Complejo de Refinación y Poliductos NOA - Salta Argentina.
+   - Calificación de rentabilidades TIR (TIR > 15% y TIR > 9%), EBITDA, estructura de capital y marcos regulatorios inyectados.
+3. **Sincronización de Capas de Almacenamiento Local (Store & Bundle)**:
+   - Sincronizados js/store.js y js/bundle.js (DEFAULT_PROJECTS).
+   - Mecanismo reactivo de purga en loadData() que elimina proyectos obsoletos de localStorage y actualiza automáticamente los precios base, denominaciones y montos visibles al usuario.

@@ -67,6 +67,13 @@ En los 24 proyectos del portafolio se incorporaron de manera estructurada (en ta
 
 ---
 
+
+### E. Portada Institucional (Logo EnergyCPY sobre Fondo Blanco)
+- Para evitar previews confusas o recortes de diapositivas prestadas en los **19 proyectos sin presentación interactiva**, se actualizó su imagen de portada (`coverImage`):
+  - **Activo Oficial**: [`assets/images/logo_energy_cpy_cover_white.png`](file:///D:/Proyectos/showroom-energycpy/assets/images/logo_energy_cpy_cover_white.png) y [`assets/images/logo_energy_cpy_white.png`](file:///D:/Proyectos/showroom-energycpy/assets/images/logo_energy_cpy_white.png).
+  - **Diseño & Encuadre**: Formato canvas de 800x440 px con fondo blanco puro (`#ffffff`), logo circular EnergyCPY *"Área desarrollo sostenible"* centrado y protegido por un degradé superior sutil (`.has-white-bg`) para garantizar legibilidad óptima de tags y badges.
+  - **Commit Asociado**: `7dcb865 feat(showroom): actualizar imagen previa con logo EnergyCPY fondo blanco para proyectos sin presentacion`.
+
 ## 🧪 2. Validación Automatizada y Verificación
 
 1. **Suite de Pruebas Automatizadas (`validate_showroom.py`)**:

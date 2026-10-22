@@ -49,3 +49,18 @@ Se realizó una auditoría técnica profunda del comportamiento al pulsar el bot
   1. **Volumen Total en Portafolio**: USD 4,111.5M (+4.1B USD) en 24 proyectos.
   2. **CAPEX Solar Pre-Financiado**: 50% co-financiado respaldado por fabricante global.
   3. **Plazo PPA Indexado en Dólares**: 20 Años bajo régimen MATER / PPA.
+
+#### E. Regla de Negocio: Clasificación Escalonada de TIR en el Resumen
+Siguiendo las instrucciones directas para la presentación ejecutiva de rentabilidades:
+- **TIR entre 9% y 14.99%**: Se categoriza e indica formalmente como **TIR > 9%** (e.g. eit-strategy con TIR neta institucional del 13.5% y mandatos fiduciarios de estructuración soberana).
+- **TIR $\ge$ 15%**: Se categoriza e indica formalmente como **TIR > 15%** (e.g. Parques Solares 18.5% - 24.0%, Oil & Gas 27.5% - 45.0%, Minería 29.0% - 42.0%, Pesca 28.0% - 32.5%, Hotelería 25.5% - 65.0%).
+
+**Implementación técnica aplicada**:
+1. Función universal getTirCategory(tir, isEn) en js/main.js que parsea dinámicamente el valor numérico de la TIR y asigna el tramo correspondiente.
+2. En las **Tarjetas del Catálogo**: La métrica 3 exhibe la tasa modelada y la etiqueta TIR > 15% o TIR > 9%.
+3. En el **Resumen Ejecutivo 1 Pág (One-Pager)**:
+   - Barra de Deal Terms: Exhibe la categoría (TIR > 15% / TIR > 9%) junto a la TIR proyectada modelada.
+   - Grilla de 4 Métricas Clave: Etiqueta dinámica ${tirCategory} con valor ${tirProjectVal}.
+   - Bloque de Protocolo del Analista Financiero: Ítems separados para *Calificación de Rentabilidad* (TIR > 15% / TIR > 9%) y *TIR Proyectada del Activo*.
+   - Mensaje de derivación directa de leads por WhatsApp: Integra la calificación y el valor modelado.
+4. En data/projects-master.json: Sincronización completa de los 24 proyectos con las notas metodológicas DCF actualizadas.

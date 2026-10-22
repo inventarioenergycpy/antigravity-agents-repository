@@ -82,3 +82,7 @@ Actualizado de manera sincronizada en data/projects-master.json, js/main.js y el
   - Valor principal (.metric-val): **TIR > 15%** o **TIR > 9%**
   - Etiqueta descriptiva (.metric-lbl): **Rentabilidad**
 - Los datos de modelado financiero profundo (DCF, WACC, cash flows exactos) quedan preservados bajo el protocolo de análisis en el One-Pager confidencial y Data Room.
+
+#### H. Corrección de Alcance en Renderizado de Tarjetas
+- Se corrigió la definición de la variable de alcance local const tirCategory = getTirCategory(p.tir, isEn); dentro del bucle de enderProjectCards().
+- Se restauró la visualización inmediata de los 24 proyectos en la grilla del catálogo del showroom.

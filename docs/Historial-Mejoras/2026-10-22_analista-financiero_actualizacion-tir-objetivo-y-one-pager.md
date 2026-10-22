@@ -64,3 +64,14 @@ Siguiendo las instrucciones directas para la presentación ejecutiva de rentabil
    - Bloque de Protocolo del Analista Financiero: Ítems separados para *Calificación de Rentabilidad* (TIR > 15% / TIR > 9%) y *TIR Proyectada del Activo*.
    - Mensaje de derivación directa de leads por WhatsApp: Integra la calificación y el valor modelado.
 4. En data/projects-master.json: Sincronización completa de los 24 proyectos con las notas metodológicas DCF actualizadas.
+
+#### F. Actualización de Denominación de Activos Downstream y Upstream
+Para optimizar el posicionamiento institucional y confidencialidad comercial en el catálogo y One-Pager:
+1. efipampa-medanito:
+   - Anterior: Venta Refipampa y Yacimiento Medanito (500 Pozos)
+   - Actual: **Oferta de Refineria y explotacion de pozos - La Pampa Argentina**
+2. efinor-salta:
+   - Anterior: REFINOR — Complejo de Refinación y Poliductos NOA
+   - Actual: **Complejo de Refinación y Poliductos NOA - Salta Argentina**
+
+Actualizado de manera sincronizada en data/projects-master.json, js/main.js y el selector de derivación de consultas en index.html.

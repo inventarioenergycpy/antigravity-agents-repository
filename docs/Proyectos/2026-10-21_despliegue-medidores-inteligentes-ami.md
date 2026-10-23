@@ -73,9 +73,19 @@ Conforme a la **Resolución 247/2019 de la Secretaría de Comercio**, todo lote 
 
 ---
 
+## 📈 4. Tasas Reales y Equilibrio Relevamiento / Instalación / Stock (Zona A) — 2026-10-23
+* **Instalación MI Zona A (Nov-25..Abr-26)**: **7.559/mes** (SIGEC `EQUIPOS` ⨝ `STOCK_EQUIPOS`, marcas CLOU+NSEN).
+* **Relevamiento Zona A (Nov-25..Abr-26)**: **3.620/mes** (`georef.relevamiento`, SET `1000-%`, DISTINCT `rel_medidor_id`); reciente May-Sep-26: 4.338/mes.
+* **Backlog relevado no telemedido**: **162.156** · **Stock neto Zona A (90%)**: **316.980**.
+* **Conclusión**: al ritmo histórico la restricción es la **mano de obra** → cierre Zona A **Jul-2030**; ~234k medidores ociosos en Dic-2027. Para cumplir el plazo de OP 27132/27134 (25-01-2028) se requieren ~**26.400 inst/mes** y ~**12.900 relev/mes**.
+* Informe: `docs/05_equilibrio_relevamiento_instalacion_stock_zona_a.md` · Scripts: `scripts/analisis_tasas_instalacion_relevamiento.py`, `scripts/simulacion_equilibrio_zona_a.py`.
+* Histórico: [[Historial-Mejoras/2026-10-23_copiloto-orquestador_equilibrio-relevamiento-instalacion-ami-zona-a]]
+
+---
+
 ## 📂 Componentes del Proyecto
 * `README.md`: Memoria técnica maestra.
 * `index.html`, `style.css`, `app.js`: Tablero SPA ejecutivo interactivo.
-* `data/`: Datasets JSON estructurados de entregas y diagnóstico territorial.
-* `docs/`: 4 informes de ingeniería (análisis de licitación, protocolo SET, compatibilidad y cuadrillas) y pliegos PDF.
+* `data/`: Datasets JSON estructurados de entregas y diagnóstico territorial; tasas mensuales y simulación de equilibrio (`tasas_instalacion_relevamiento.json`, `simulacion_equilibrio_zona_a.csv/json`).
+* `docs/`: 5 informes de ingeniería (análisis de licitación, protocolo SET, compatibilidad, cuadrillas y equilibrio relevamiento/instalación) y pliegos PDF.
 * `assets/img/`: Cartografía GIS de planes Zona A y diagrama Gantt de entregas.

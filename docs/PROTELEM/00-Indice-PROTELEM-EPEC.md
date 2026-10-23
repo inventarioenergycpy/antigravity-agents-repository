@@ -82,8 +82,17 @@ graph TD
 - **Repositorio Remoto**: [https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami](https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami)
 - **Ruta Local**: `D:\Proyectos\despliegue-medidores-inteligentes-ami`
 - **Rama Activa**: `main`
+- **Acceso Directo en Bóveda**: `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/|Carpeta de Documentación Viva]]`
 - **Ficha en Bóveda**: `[[docs/Proyectos/2026-10-21_despliegue-medidores-inteligentes-ami|Plan Maestro de Despliegue AMI]]`
-- **Objetivo**: Planificación de stock físico con Verificación Primitiva (`VP 20d`), 400.000 medidores AMI (Sanxing y CLOU), 6.000 concentradores PLC, gobernanza de subestaciones (`SET OK`) y coordinación de 50 cuadrillas contratistas (188.000 USE).
+- **Objetivo**: Plan Maestro Contractual para instalar **360.000 medidores inteligentes** (neto de 10% de reserva = 40.000 u.) al **25 de enero de 2028** con relevamiento anticipado ($\ge$ 15 días). Distribución: 316.980 en Zona A (88,05%) y 43.020 en Interior (11,95%: Río Cuarto completo 13.000 u., San Francisco 24.154 u., Villa María 5.176 u., Villa Allende 690 u.).
+
+#### 📋 Principales Documentos Técnicos Disponibles:
+1. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/01_analisis_licitacion_5573_ordenes_provision.md|01. Análisis de Licitación 5573 y Órdenes de Provisión]]`
+2. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/02_metodologia_despliegue_set_concentradores_plc.md|02. Metodología de Despliegue SET y Concentradores PLC]]`
+3. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/03_compatibilidad_marcas_y_fronteras_electricas.md|03. Compatibilidad de Marcas y Fronteras Eléctricas]]`
+4. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/04_plan_de_accion_cuadrillas_y_relevamientos.md|04. Plan de Acción de Cuadrillas y Relevamientos]]`
+5. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/05_equilibrio_relevamiento_instalacion_stock_zona_a.md|05. Equilibrio Relevamiento vs. Instalación vs. Stock Zona A]]`
+6. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/06_plan_maestro_despliegue_contractual_360k.md|06. Plan Maestro Contractual de Despliegue 360k]]`
 
 ---
 

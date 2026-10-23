@@ -78,7 +78,9 @@ Conforme a la **Resolución 247/2019 de la Secretaría de Comercio**, todo lote 
 * **Relevamiento Zona A (Nov-25..Abr-26)**: **3.620/mes** (`georef.relevamiento`, SET `1000-%`, DISTINCT `rel_medidor_id`); reciente May-Sep-26: 4.338/mes.
 * **Backlog relevado no telemedido**: **162.156** · **Stock neto Zona A (90%)**: **316.980**.
 * **Conclusión**: al ritmo histórico la restricción es la **mano de obra** → cierre Zona A **Jul-2030**; ~234k medidores ociosos en Dic-2027. Para cumplir el plazo de OP 27132/27134 (25-01-2028) se requieren ~**26.400 inst/mes** y ~**12.900 relev/mes**.
-* Informe: `docs/05_equilibrio_relevamiento_instalacion_stock_zona_a.md` · Scripts: `scripts/analisis_tasas_instalacion_relevamiento.py`, `scripts/simulacion_equilibrio_zona_a.py`.
+* **Plan Maestro Contractual (360k a Ene-2028)**: Despliegue en 12 meses (Feb-27 a Ene-28) con relevamiento previo a 15-30 días. Distribución: **316.980 en Zona A** (88,05%) y **43.020 en Interior** (11,95%: Río Cuarto completo 13.000 u., San Francisco 24.154 u., Villa María 5.176 u., Villa Allende 690 u.). Sin quiebres de stock.
+* Informes: `docs/05_equilibrio_relevamiento_instalacion_stock_zona_a.md`, `docs/06_plan_maestro_despliegue_contractual_360k.md`.
+* Scripts: `scripts/analisis_tasas_instalacion_relevamiento.py`, `scripts/simulacion_equilibrio_zona_a.py`, `scripts/plan_maestro_despliegue_360k.py`.
 * Histórico: [[Historial-Mejoras/2026-10-23_copiloto-orquestador_equilibrio-relevamiento-instalacion-ami-zona-a]]
 
 ---
@@ -86,6 +88,6 @@ Conforme a la **Resolución 247/2019 de la Secretaría de Comercio**, todo lote 
 ## 📂 Componentes del Proyecto
 * `README.md`: Memoria técnica maestra.
 * `index.html`, `style.css`, `app.js`: Tablero SPA ejecutivo interactivo.
-* `data/`: Datasets JSON estructurados de entregas y diagnóstico territorial; tasas mensuales y simulación de equilibrio (`tasas_instalacion_relevamiento.json`, `simulacion_equilibrio_zona_a.csv/json`).
-* `docs/`: 5 informes de ingeniería (análisis de licitación, protocolo SET, compatibilidad, cuadrillas y equilibrio relevamiento/instalación) y pliegos PDF.
+* `data/`: Datasets JSON estructurados de entregas y diagnóstico territorial; tasas mensuales y plan maestro 360k (`plan_maestro_despliegue_360k.csv/json`).
+* `docs/`: 6 informes de ingeniería (licitación, protocolo SET, compatibilidad, cuadrillas, equilibrio de tasas y plan maestro contractual) y pliegos PDF.
 * `assets/img/`: Cartografía GIS de planes Zona A y diagrama Gantt de entregas.

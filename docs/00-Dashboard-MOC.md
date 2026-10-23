@@ -139,6 +139,7 @@ graph TD
 
 ## 📜 Historial de Mejoras Continuas
 - [[Historial-Mejoras/2026-10-23_copiloto-orquestador_equilibrio-relevamiento-instalacion-ami-zona-a|2026-10-23 Copiloto Orquestador - Equilibrio Relevamiento vs Instalación vs Stock AMI Zona A (7.559 inst/mes, 3.620 relev/mes, Reserva 10%)]]
+- [[Historial-Mejoras/2026-10-23_ciencia-de-datos_control-geoespacial-dibujo-poligonos-rutas-redistribucion-manzanas|2026-10-23 Ciencia de Datos - Control Geoespacial de Rutas, Dibujo de Polígonos Disjuntos y Redistribución de Manzanas (Distrito 1)]]
 - [[Historial-Mejoras/2026-10-23_ciencia-de-datos_controles-topologicos-calles-alturas-georef-distrito1|2026-10-23 Ciencia de Datos - Controles Topológicos de Rutas, Enriquecimiento de Manzanas con Calles y Alturas, Triangulación de 2 Vecinos y Control Geo +-70m (Distrito 1)]]
 - [[Historial-Mejoras/2026-10-23_ciencia-de-datos_reasignacion-rutas-conexo-calles-compartidas-distrito1|2026-10-23 Ciencia de Datos - Reasignación de Rutas de Lectura Conexas, Maximización de Calles Internas Compartidas y Escalamiento al Distrito 1 (585.727 Suministros)]]
 - [[Historial-Mejoras/2026-10-23_copiloto-orquestador_configuracion-boveda-obsidian-proyectos|2026-10-23 Copiloto Orquestador - Configuración y Apertura de Bóveda Maestra de Proyectos en Obsidian (D:\Proyectos)]]

@@ -76,9 +76,24 @@ Para el detalle exhaustivo de diagnósticos y soluciones aplicadas, consultar:
 - **Nuevas Rutas Creadas**: **3.669 rutas homogéneas** numeradas jerárquicamente por grupo (`01001` a `20253`).
 - **Media Global**: **159,6 suministros/ruta** (Mediana global: 167 suministros/ruta).
 - **Nuevo Identificador Catastral**: `1-{GRUPO}-{MANZANA_WFS}-{PARCELA}` asignado al 100% de los suministros con trazabilidad cartográfica WFS.
-- **Entregables Generados**:
-  * Padrón general: `C:\Users\jidiaz\Downloads\padron_nuevas_rutas_distrito1_completo.csv` (95,17 MB, 585.472 filas).
-  * Matriz de rutas: `C:\Users\jidiaz\Downloads\resumen_todas_rutas_nuevas_distrito1.csv` (0,39 MB, 3.669 rutas).
-  * Resumen de grupos: `C:\Users\jidiaz\Downloads\resumen_comparativo_grupos_distrito1.csv`.
-  * Script fuente: `scripts/escalar_nuevas_rutas_distrito1.py`.
+
+---
+
+## 🌟 Evolución Topológica: Ruteo Conexo con Maximización de Calles Internas Compartidas (2026-10-23)
+
+- **Problema Corregido**: Se erradicó la fragmentación y falta de contigüidad espacial del barrido 1D anterior, integrando el grafo de calles perimetrales de la capa oficial WFS (`EPEC:vm_manzanas_calles_new`) y las direcciones de suministros en SIGEC.
+- **Universo Consolidado**: **585.727 suministros** asignados al 100% (0 cuentas huérfanas).
+- **Rutas Conexas Generadas**: **3.300 rutas homogéneas compactas**.
+- **Media Global**: **177,4 suministros/ruta** (altamente balanceadas en torno al target óptimo de 180).
+- **Calles Internas Compartidas**: Promedio de **10,16 calles compartidas por ruta** en rutas multi-manzana, garantizando que el tomador de estado recorra ambas aceras de forma continua.
+- **Código de Trazabilidad Catastral Enriquecido (`CTC-GEO`)**:
+  `1-{GRUPO}-{DPPO}-{PED}-{PUEB}-{CIRC}-{SECC}-{MZA}-{PARC}-{GEO_QUAD}`
+  con columnas explícitas de centroide lat/lon, cuadrante espacial (`GEO_QUAD`), calles perimetrales, listado y conteo de calles compartidas en ruta, y orden secuencial peatonal (`orden_lectura_sugerido`).
+- **Entregables Actualizados**:
+  * Padrón general: `C:\Users\jidiaz\Downloads\padron_nuevas_rutas_distrito1_completo.csv` (105,4 MB, 585.727 filas).
+  * Padrón Parquet: `D:\Proyectos\sigec-ruta-nueva-catastro-georef\data\summary\padron_nuevas_rutas_distrito1_completo.parquet` (32,8 MB).
+  * Matriz de rutas: `D:\Proyectos\sigec-ruta-nueva-catastro-georef\data\summary\resumen_todas_rutas_nuevas_distrito1.csv` (3.300 rutas).
+  * Resumen de grupos: `D:\Proyectos\sigec-ruta-nueva-catastro-georef\data\summary\resumen_comparativo_grupos_distrito1.csv`.
+  * Script en producción: `D:\Proyectos\sigec-ruta-nueva-catastro-georef\scripts\escalar_nuevas_rutas_distrito1.py`.
+
 

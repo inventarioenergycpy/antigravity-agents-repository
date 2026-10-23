@@ -48,6 +48,18 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - **Soluciones Directas**: Scripts `.py`, notebooks `.ipynb`, consultas `.sql`, archivos `.html` interactivos y libros `.xlsx` se depositan en `%USERPROFILE%\Downloads\`.
    - **Proyectos de Datos Complejos o Repositorios GIS**: Creación de un **repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-proyecto>.git`) registrando su ficha en `docs/Proyectos/`.
 
+6. **Protocolo de Ingesta de Archivos de Red y Concurrencia (Excel, PBIP, CSVs en `\\srvfs01`)**:
+   - **Regla Estricta**: Queda prohibido abrir o analizar planillas o modelos directamente sobre la ruta UNC compartida (Pandas, OpenPyXL, DuckDB, PySpark).
+   - **Snapshot Local Inmediato**: Todo acceso a archivos compartidos de red (ej. `\\srvfs01\Control_de_Gestion\...\LIQUIDACION_CORREO_2025.xls`, `Resumen_Detalle_F218.xlsx` o proyectos `.pbip`) debe resolverse a través de `scripts/network_snapshot.py` (`get_local_snapshot`).
+   - **Caché Inteligente (Delta Cache)**: Si la copia local en `data/network_cache/` posee idéntico tamaño y timestamp de modificación, se reutiliza al instante (0 ms de red).
+   - **Streaming No Bloqueante**: La transferencia inicial se realiza en bloques binarios con permisos compartidos de lectura y el archivo remoto se cierra de inmediato para no generar `Sharing Violation` con otros trabajadores que utilicen Excel.
+   - **Estrictamente Solo Lectura**: El análisis, parsing y cruces de datos corren 100% sobre la copia local. El agente jamás sobrescribe ni bloquea el original en la red.
+
+7. **Ruteo Catastral Conexo y Maximización de Calles Internas Compartidas**:
+   - **Regla Estricta**: Queda prohibido agrupar manzanas para nuevas rutas de lectura mediante simples barridos unidimensionales (como ordenación pura por circunscripción, sección o coordenadas) que generen rutas fragmentadas o saltos geográficos.
+   - **Grafo Topológico Vial y Espacial**: La asignación de rutas debe construirse mediante algoritmos de agrupamiento conexo que evalúen la capa WFS provincial (`vm_manzanas_calles_new`) y las calles de los suministros, maximizando la cantidad de calles internas perimetrales compartidas entre manzanas de la misma ruta para permitir el barrido de ambas aceras de forma continua.
+   - **Código de Trazabilidad Catastral Enriquecido (`CTC-GEO`)**: Los padrones deben incorporar atributos geocodificados: centroide lat/lon, cuadrante geográfico (`GEO_QUAD`), calles perimetrales, listado y conteo de calles compartidas en ruta, y orden secuencial peatonal.
+
 ---
 
 ## 📂 Estructura de Repositorios Dedicados (GIS / Catastro / Power BI)

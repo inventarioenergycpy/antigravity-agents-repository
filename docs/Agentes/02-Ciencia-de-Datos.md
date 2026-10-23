@@ -48,6 +48,18 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - **Soluciones Directas**: Scripts `.py`, notebooks `.ipynb`, consultas `.sql`, archivos `.html` interactivos y libros `.xlsx` se depositan en `%USERPROFILE%\Downloads\`.
    - **Proyectos de Datos Complejos o Repositorios GIS**: Creación de un **repositorio de GitHub dedicado** (`https://github.com/inventarioenergycpy/<nombre-proyecto>.git`) registrando su ficha en `docs/Proyectos/`.
 
+6. **Protocolo de Ingesta de Archivos de Red y Concurrencia (Excel, PBIP, CSVs en `\\srvfs01`)**:
+   - **Regla Estricta**: Queda prohibido abrir o analizar planillas o modelos directamente sobre la ruta UNC compartida (Pandas, OpenPyXL, DuckDB, PySpark).
+   - **Snapshot Local Inmediato**: Todo acceso a archivos compartidos de red (ej. `\\srvfs01\Control_de_Gestion\...\LIQUIDACION_CORREO_2025.xls`, `Resumen_Detalle_F218.xlsx` o proyectos `.pbip`) debe resolverse a través de `scripts/network_snapshot.py` (`get_local_snapshot`).
+   - **Caché Inteligente (Delta Cache)**: Si la copia local en `data/network_cache/` posee idéntico tamaño y timestamp de modificación, se reutiliza al instante (0 ms de red).
+   - **Streaming No Bloqueante**: La transferencia inicial se realiza en bloques binarios con permisos compartidos de lectura y el archivo remoto se cierra de inmediato para no generar `Sharing Violation` con otros trabajadores que utilicen Excel.
+   - **Estrictamente Solo Lectura**: El análisis, parsing y cruces de datos corren 100% sobre la copia local. El agente jamás sobrescribe ni bloquea el original en la red.
+
+7. **Ruteo Catastral Conexo y Maximización de Calles Internas Compartidas**:
+   - **Agrupamiento Conexo Ponderado**: Modelado y empaquetamiento espacial (Bin-Packing 180 ± 20) combinando la cartografía de manzanas con la capa WFS provincial de calles (`vm_manzanas_calles_new`) y las direcciones de los suministros.
+   - **Maximización de Ejes Viales Internos**: Priorización topológica de manzanas que comparten calles perimetrales para que el tomador de estado cubra ambas aceras de forma continua, erradicando saltos espaciales y rutas fragmentadas.
+   - **Código de Trazabilidad Catastral Enriquecido (`CTC-GEO`)**: Estructuración del identificador jerárquico `1-{GRUPO}-{MZA_WFS}-{PARC}-{GEO_QUAD}` junto a métricas explícitas de geoposición (centroide, cuadrante espacial), catálogo de calles compartidas en ruta y orden de lectura sugerido.
+
 ---
 
 ## 📂 Estructura de Repositorios Dedicados (GIS / Catastro / Power BI)

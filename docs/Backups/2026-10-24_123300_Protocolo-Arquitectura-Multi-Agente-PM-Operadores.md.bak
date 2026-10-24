@@ -1,0 +1,139 @@
+---
+title: "Protocolo Oficial: Arquitectura Multi-Agente PM (Gemini 3.8 Flash High) y 3 Operadores (Gemini 3.7 Flash High)"
+tags:
+  - #arquitectura
+  - #multi-agente
+  - #agile
+  - #qa
+  - #copiloto-orquestador
+  - #metodologia-6-etapas
+created: 2026-10-24
+updated: 2026-10-24
+---
+
+# 🏛️ Arquitectura Operativa Multi-Agente: Squad Ágil de 4 Agentes con Triple QA
+
+Este protocolo establece la estructura formal de trabajo colaborativo para la ejecución de proyectos complejos dentro del ecosistema **`antigravity-agents-repository`**, integrando un **Project Manager (PM)** de alto nivel cognitivo y **tres Agentes Operadores** especializados, bajo un ciclo ágil por Sprints, la **Metodología en 6 Etapas** y un **Protocolo de Validación y QA en 3 Instancias**.
+
+---
+
+## 👥 1. Composición del Squad de 4 Agentes
+
+```mermaid
+graph TD
+    User["👤 Usuario / Product Owner"] <--> PM["👑 Project Manager (PM)\n[Gemini 3.8 Flash High]\nPlanificación Ágil, Full Stack Backlog y Sprints"]
+    
+    PM --> Orquestador["🧭 Copiloto Orquestador\n(copiloto-orquestador-skills)\nAsignación Dinámica de Skills"]
+    
+    Orquestador --> Op1["⚙️ Operador 1\n[Gemini 3.7 Flash High]\nEjecución Técnica & Algorítmica"]
+    Orquestador --> Op2["📋 Operador 2\n[Gemini 3.7 Flash High]\nDominio, Negocio & Regulación"]
+    Orquestador --> Op3["🔍 Operador 3\n[Gemini 3.7 Flash High]\nQA, Integración & UX/Replicabilidad"]
+    
+    Op1 <--> Op2
+    Op2 <--> Op3
+    Op3 <--> Op1
+    
+    Op1 & Op2 & Op3 --> TripleQA["🛡️ Validación Cruzada en 3 Instancias (QA Gate)"]
+    TripleQA --> PM
+```
+
+### Roles y Responsabilidades
+
+| Rol | Modelo Base | Habilidad Central | Responsabilidades Principales |
+| :--- | :--- | :--- | :--- |
+| **Project Manager (PM)** | `Gemini 3.8 Flash (High)` | `copiloto-orquestador-skills` + `planificador-agentes` | • Definición del Full Stack Backlog y roadmap ágil.<br>• Despacho dinámico de habilidades para los 3 operadores.<br>• Dirección de Sprints y compuertas de paso (stage gates).<br>• Conducción del proceso de Triple QA antes de la entrega final. |
+| **Operador 1: Core Execution** | `Gemini 3.7 Flash (High)` | Asignada dinámicamente (`ciencia-de-datos`, `facturacion-reverse-engineering`, etc.) | • Desarrollo del núcleo técnico, algorítmico o cuantitativo.<br>• Scripts Python/SQL/PySpark, cálculos matemáticos y scraping.<br>• Ejecución de pruebas parciales unitarias. |
+| **Operador 2: Dominio & Negocio** | `Gemini 3.7 Flash (High)` | Asignada dinámicamente (`asesor-legal-financiero`, `analista-financiero`, etc.) | • Verificación de conformidad normativa (EPEC, CCCN, CAMMESA).<br>• Modelado de reglas de negocio, tablas SIGEC y cuadros tarifarios.<br>• Garantía de consistencia sectorial y veracidad documental. |
+| **Operador 3: QA & UX** | `Gemini 3.7 Flash (High)` | Asignada dinámicamente (`desarrollador-web-showroom`, `auto-documentacion-agente`) | • Pruebas de integración, visualización (Power BI, UI web, Obsidian).<br>• Verificación de replicabilidad y manuales de procedimiento.<br>• Automatización de backups `.bak` y registro histórico. |
+
+---
+
+## 🔄 2. Rueda de Proceso Ágil: Full Stack Backlog y Sprints
+
+Toda tarea encomendada se gestiona mediante un ciclo iterativo estructurado:
+
+1. **Definición del Full Stack Backlog**:
+   - El PM analiza el requerimiento macro y desglosa el stack completo de trabajo: componentes de datos/backend, capas de lógica de negocio, módulos de interfaz/reportes y protocolos de persistencia.
+2. **Planificación de Sprints (Sprint Planning)**:
+   - Los objetivos se dividen en Sprints ejecutables con entregables tangibles e incrementales.
+   - Para cada Sprint, el PM asigna las habilidades exactas a cada Operador a través de `copiloto-orquestador-skills`.
+3. **Ejecución Coordinada (Sprint Execution)**:
+   - Los Operadores desarrollan concurrentemente los módulos asignados, comunicándose mediante interfaces desacopladas.
+4. **Compuerta de Validación (Sprint Review & QA Gate)**:
+   - Se somete el incremento de software/análisis a la validación en 3 instancias.
+5. **Retrospectiva & Documentación (Sprint Retrospective)**:
+   - Si el entregable supera el QA, se asienta en la Bóveda Obsidian y se planifica el siguiente Sprint.
+
+---
+
+## 📐 3. Articulación con la Metodología Obligatoria en 6 Etapas
+
+El grupo de 4 avanza estrictamente por las seis fases obligatorias del repositorio:
+
+```text
+[Fase 1: Investigación Verídica] ──► PM y Operador 2 validan fuentes oficiales y normativas.
+               │
+               ▼
+[Fase 2: Diseño & Tesis]        ──► PM y Operador 1 formulan la arquitectura y especificación.
+               │
+               ▼
+[Fase 3: Pruebas Parciales]     ──► Operadores 1 y 3 ejecutan pruebas unitarias y componentes modulares.
+               │
+               ▼
+[Fase 4: Prueba Piloto]         ──► Presentación interactiva al Usuario para APROBACIÓN explícita.
+               │ (Aprobado)
+               ▼
+[Fase 5: Pruebas Finales]       ──► Pruebas de estrés, casos borde e integración de datos.
+               │
+               ▼
+[Fase 6: Auto-Doc & Backups]    ──► Operador 3 y PM generan .bak preventivo, nota histórica y MOC.
+```
+
+---
+
+## 🛡️ 4. Protocolo Obligatorio de QA en 3 Instancias (Multi-Perspective QA)
+
+Ningún entregable se presentará como definitivo sin haber superado de forma explícita y documentada tres filtros independientes de evaluación:
+
+```mermaid
+graph LR
+    Entregable["📦 Entregable del Sprint"] --> QA1["🔍 Instancia 1: QA Técnico & Algorítmico\n(Código, Complejidad, Sintaxis, Performance)"]
+    QA1 --> QA2["⚖️ Instancia 2: QA de Negocio & Dominio\n(Normativa EPEC, SIGEC, Legal CCCN, CAMMESA)"]
+    QA2 --> QA3["🎨 Instancia 3: QA de Usabilidad & UX\n(Legibilidad, Replicabilidad, Visualización, Enlaces)"]
+    QA3 --> Aprobacion["✅ Aprobado para Presentación Final"]
+```
+
+### Detalle de las Tres Instancias de QA:
+
+1. **Instancia 1: QA Técnico, Algorítmico y de Infraestructura**:
+   - **Evaluador**: Operador 1 + PM.
+   - **Criterios de Evaluación**:
+     - Cero errores de sintaxis o runtime (Python, SQL, JavaScript, DAX/TMDL).
+     - Eficiencia algorítmica y control de complejidad temporal/espacial.
+     - Cumplimiento del **Protocolo de Snapshot Local de Mínima Interferencia** (no retener handles sobre `\\srvfs01`).
+     - Modularidad y tipado adecuado.
+
+2. **Instancia 2: QA de Negocio, Dominio y Conformidad Normativa**:
+   - **Evaluador**: Operador 2 + PM.
+   - **Criterios de Evaluación**:
+     - Exactitud con las tablas maestras de SIGEC (Oracle 19c) y cuadros tarifarios vigentes de EPEC.
+     - Coherencia con leyes argentinas (Ley 26.994 CCCN), ordenanzas municipales (OIM) y fondos provinciales (FODEP).
+     - Validación cruzada contra la Única Fuente de la Verdad (SSOT) documentada en `docs/PROTELEM/PROJECTS/`.
+
+3. **Instancia 3: QA de Usabilidad, Replicabilidad e Integridad de Entrega (UX)**:
+   - **Evaluador**: Operador 3 + PM.
+   - **Criterios de Evaluación**:
+     - Visualización impecable (estética premium, tablas formateadas, diagramas legibles).
+     - Replicabilidad paso a paso: cualquier profesional debe poder reproducir el resultado.
+     - Enlaces funcionales con esquema `file:///` hacia la Bóveda de Obsidian y scripts locales.
+     - Auto-documentación completa y resguardo preventivo `.bak` verificado.
+
+---
+
+## 🚀 5. Protocolo de Inicio de Operaciones
+
+Para activar este Squad en cualquier misión:
+1. El Usuario introduce el requerimiento u objetivo de negocio.
+2. El **PM (Gemini 3.8 Flash High)** formula el diagnóstico semántico inicial y desglosa el **Full Stack Backlog**.
+3. El PM ejecuta `copiloto-orquestador-skills` y define la terna de habilidades para los **Operadores 1, 2 y 3 (Gemini 3.7 Flash High)**.
+4. Se presenta el plan de Sprints al Usuario para dar inicio a la rueda de procesos.

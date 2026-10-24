@@ -60,6 +60,38 @@ function Check-DownloadsPath {
     }
 }
 
+function Show-SquadInfo {
+    Write-Host "`n🤖 ARQUITECTURA MULTI-AGENTE ACTIVADA (SQUAD DE 4 AGENTES)" -ForegroundColor Yellow
+    Write-Host " ----------------------------------------------------------------------" -ForegroundColor Gray
+    Write-Host " • Project Manager (PM) : Gemini 3.8 Flash High (Planificación Ágil & Backlog)" -ForegroundColor White
+    Write-Host " • Operador 1 (Core)    : Gemini 3.7 Flash High (Algoritmos / Datos / Código)" -ForegroundColor Cyan
+    Write-Host " • Operador 2 (Dominio) : Gemini 3.7 Flash High (Normativa EPEC / SIGEC / Legal)" -ForegroundColor Cyan
+    Write-Host " • Operador 3 (QA & UX) : Gemini 3.7 Flash High (Validación, Tests & Replicabilidad)" -ForegroundColor Cyan
+    Write-Host " • Protocolo de Validación: TRIPLE QA (Técnico -> Dominio -> UX/Replicabilidad)" -ForegroundColor Green
+    Write-Host " • Protocolo Rector     : docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md" -ForegroundColor Gray
+    Write-Host " ----------------------------------------------------------------------" -ForegroundColor Gray
+    Write-Host " 12 Agentes Especialistas disponibles en .agents/skills/ y docs/Agentes/" -ForegroundColor Yellow
+}
+
+function Copy-PromptInicio {
+    Write-Host "`n📋 Copiando Prompt Maestro de Inicio Rápido al Portapapeles..." -ForegroundColor Yellow
+    $promptFile = Join-Path $PSScriptRoot "..\PROMPT_INICIO_RAPIDO.md"
+    if (Test-Path $promptFile) {
+        $content = Get-Content $promptFile -Raw
+        # Extraer el bloque de código
+        if ($content -match '(?s)```text\r?\n(.*?)\r?\n```') {
+            $promptText = $matches[1]
+            Set-Clipboard -Value $promptText
+            Write-Host "  ✔ ¡Prompt copiado con éxito al Portapapeles! Listo para pegar en Antigravity IDE." -ForegroundColor Green
+        } else {
+            Set-Clipboard -Value $content
+            Write-Host "  ✔ Archivo copiado al Portapapeles." -ForegroundColor Green
+        }
+    } else {
+        Write-Host "  ⚠️ No se encontró el archivo PROMPT_INICIO_RAPIDO.md." -ForegroundColor Red
+    }
+}
+
 do {
     Show-Header
     Write-Host "Seleccione una opción:" -ForegroundColor White
@@ -67,9 +99,11 @@ do {
     Write-Host " 2. Sincronizar Repositorio (Pull/Push desde GitHub)" -ForegroundColor Cyan
     Write-Host " 3. Verificar Entorno Local y Ruta de Descargas" -ForegroundColor Cyan
     Write-Host " 4. Inicializar Entorno Completo (setup_environment.ps1)" -ForegroundColor Cyan
+    Write-Host " 5. Ver Arquitectura Multi-Agente Squad de 4 y Roles" -ForegroundColor Cyan
+    Write-Host " 6. Copiar Prompt Maestro de Inicio Rápido al Portapapeles" -ForegroundColor Cyan
     Write-Host " 0. Salir" -ForegroundColor Red
     Write-Host ""
-    $choice = Read-Host "Opción [0-4]"
+    $choice = Read-Host "Opción [0-6]"
 
     switch ($choice) {
         "1" {
@@ -86,6 +120,14 @@ do {
         }
         "4" {
             & "$PSScriptRoot\setup_environment.ps1"
+            Pause
+        }
+        "5" {
+            Show-SquadInfo
+            Pause
+        }
+        "6" {
+            Copy-PromptInicio
             Pause
         }
         "0" {

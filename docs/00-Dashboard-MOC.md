@@ -60,7 +60,8 @@ graph TD
     ProyectosHub --> RepoAMI["Repo AMI: PROTELEM-EPEC/despliegue-medidores-inteligentes-ami"]
     
     MOC --> SyncProtelem["Protocolo Sincronización Red PROTELEM (\\srvfs01\...)"]
-    MOC --> SyncObsidian["Protocolo SincronizaciÃ³n Obsidian - GitHub"]
+    MOC --> SyncObsidian["Protocolo Sincronización Obsidian - GitHub"]
+    MOC --> MultiAgente["Protocolo Multi-Agente PM + 3 Operadores (Triple QA)"]
     
     Backup --> Rollback["Habilidad Rollback-Agente"]
 ```
@@ -122,6 +123,12 @@ graph TD
 - **Proyectos de Red**: `docs/PROTELEM/PROJECTS/` (SIGEC Explorer, QVD Explorer, Normativa EPEC, Oracle CIS/MDM).
 - **Sincronización**: Multi-bóveda y visualización unificada en Obsidian con auto-pull/push.
 
+### 17. [[Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo de Arquitectura Multi-Agente: PM (Gemini 3.8 Flash High) y 3 Operadores (Gemini 3.7 Flash High)]]
+- **Composición del Squad**: Project Manager (PM) con modelo Gemini 3.8 Flash High y 3 Agentes Operadores con modelo Gemini 3.7 Flash High.
+- **Orquestación Dinámica**: El PM utiliza el Copiloto Orquestador (`copiloto-orquestador-skills`) para asignar dinámicamente qué habilidades tendrán los 3 operadores según el objetivo.
+- **Planificación Ágil**: Definición de Full Stack Backlog y división en Sprints bajo la Metodología en 6 Etapas.
+- **Validación en 3 Instancias de QA**: QA Técnico y Algorítmico (Instancia 1), QA de Dominio y Regulación EPEC/Legal (Instancia 2), y QA de Usabilidad y Replicabilidad UX (Instancia 3).
+
 ---
 
 ## 🛡️ Sistema de Seguridad, Histórico y Rollback
@@ -138,6 +145,8 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-24_copiloto-orquestador_apendice-tecnico-buenas-practicas-multi-agente|2026-10-24 Copiloto Orquestador - Apéndice Técnico Normativo, Patrón Blackboard, Guardrails Deterministas y Arquetipos Multi-Agente]]
+- [[Historial-Mejoras/2026-10-24_copiloto-orquestador_arquitectura-multi-agente-pm-3-operadores-triple-qa|2026-10-24 Copiloto Orquestador - Arquitectura Multi-Agente Squad de 4 (PM Gemini 3.8 Flash High + 3 Operadores Gemini 3.7 Flash High) con Triple QA]]
 - [[Historial-Mejoras/2026-10-23_copiloto-orquestador_equilibrio-relevamiento-instalacion-ami-zona-a|2026-10-23 Copiloto Orquestador - Equilibrio Relevamiento vs Instalación vs Stock AMI Zona A (7.559 inst/mes, 3.620 relev/mes, Reserva 10%)]]
 - [[Historial-Mejoras/2026-10-23_ciencia-de-datos_control-geoespacial-dibujo-poligonos-rutas-redistribucion-manzanas|2026-10-23 Ciencia de Datos - Control Geoespacial de Rutas, Dibujo de Polígonos Disjuntos y Redistribución de Manzanas (Distrito 1)]]
 - [[Historial-Mejoras/2026-10-23_ciencia-de-datos_controles-topologicos-calles-alturas-georef-distrito1|2026-10-23 Ciencia de Datos - Controles Topológicos de Rutas, Enriquecimiento de Manzanas con Calles y Alturas, Triangulación de 2 Vecinos y Control Geo +-70m (Distrito 1)]]

@@ -145,6 +145,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-24_sprint2_visor-cartografico-interactivo-rutas-distrito1|2026-10-24 Squad Arquetipo A - Consolidación Sprint 2: Visor Cartográfico Interactivo Web de Nuevas Rutas de Lectura (Distrito 1, 3.299 Rutas, Leaflet, 60 FPS)]]
 - [[Historial-Mejoras/2026-10-24_sprint1_consolidacion-control-geoespacial-rutas-poligonos-distrito1|2026-10-24 Squad Arquetipo A - Consolidación Sprint 1: Control Geoespacial, Polígonos de Rutas y Redistribución Disjunta Distrito 1 (585.727 Suministros, 3.299 Rutas)]]
 - [[Historial-Mejoras/2026-10-24_copiloto-orquestador_apendice-tecnico-buenas-practicas-multi-agente|2026-10-24 Copiloto Orquestador - Apéndice Técnico Normativo, Patrón Blackboard, Guardrails Deterministas y Arquetipos Multi-Agente]]
 - [[Historial-Mejoras/2026-10-24_copiloto-orquestador_arquitectura-multi-agente-pm-3-operadores-triple-qa|2026-10-24 Copiloto Orquestador - Arquitectura Multi-Agente Squad de 4 (PM Gemini 3.8 Flash High + 3 Operadores Gemini 3.7 Flash High) con Triple QA]]

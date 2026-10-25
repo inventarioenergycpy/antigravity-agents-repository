@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EPEC Catastro & GeoRef - Visor Provincial de Manzanas de Alta Resolución</title>
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  <style>
+    :root {
+      --bg-dark: #0a0e17;
+      --bg-panel: rgba(15, 23, 42, 0.85);
+      --bg-panel-solid: #0f172a;
+      --accent-cyan: #38bdf8;
+      --accent-blue: #2563eb;
+      --accent-emerald: #10b981;
+      --accent-amber: #f59e0b;
+      --accent-rose: #f43f5e;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --border-subtle: rgba(255, 255, 255, 0.1);
+      --border-glow: rgba(56, 189, 248, 0.3);
+      --glass-blur: blur(12px);
+    }
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body, html {
+      width: 100%;
+      height: 100%;
+      font-family: 'Inter', sans-serif;
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      overflow: hidden;
+    }
+    
+    #map {
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      background: #080c14;
+    }
+    
+    /* Top Floating Header & Filter Bar */
+    .top-header {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      right: 16px;
+      z-index: 1000;
+      background: var(--bg-panel);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 12px 20px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 0 15px rgba(56, 189, 248, 0.1);
+    }
+    
+    .brand-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .brand-logo {
+      width: 38px;
+      height: 38px;
+      background: linear-gradient(135deg, #0284c7, #38bdf8);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Outfit', sans-serif;
+      font-weight: 800;
+      font-size: 18px;
+      color: #fff;
+      box-shadow: 0 4px 10px rgba(2, 132, 199, 0.4);
+    }
+    
+    .brand-text h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .brand-text p {
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+    
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    
+    .filter-item {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+    
+    .filter-label {
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--accent-cyan);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    select, input {
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      color: var(--text-main);
+      padding: 7px 12px;
+      font-size: 12px;
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      transition: all 0.2s ease;
+      min-width: 170px;
+    }
+    
+    select:focus, input:focus {
+      border-color: var(--accent-cyan);
+      box-shadow: 0 0 8px var(--border-glow);
+    }
+    
+    .btn-reset {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      color: var(--text-main);
+      padding: 7px 14px;
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      height: 33px;
+      align-self: flex-end;
+    }
+    
+    .btn-reset:hover {
+      background: rgba(255, 255, 255, 0.15);
+      border-color: var(--accent-cyan);
+    }
+    
+    /* Stats Floating HUD */
+    .kpi-hud {
+      position: absolute;
+      bottom: 24px;
+      left: 20px;
+      z-index: 1000;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    
+    .kpi-card {
+      background: var(--bg-panel);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 10px 16px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+      min-width: 140px;
+    }
+    
+    .kpi-title {
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .kpi-val {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-top: 2px;
+    }
+    
+    .kpi-val.cyan { color: var(--accent-cyan); }
+    .kpi-val.emerald { color: var(--accent-emerald); }
+    .kpi-val.amber { color: var(--accent-amber); }
+    
+    /* Info Card Modal (Right Side) */
+    .detail-card {
+      position: absolute;
+      top: 100px;
+      right: 20px;
+      width: 320px;
+      z-index: 1000;
+      background: var(--bg-panel);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+      display: none;
+      animation: fadeIn 0.25s ease;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .detail-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 12px;
+      margin-bottom: 12px;
+    }
+    
+    .detail-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--accent-cyan);
+    }
+    
+    .close-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 18px;
+      cursor: pointer;
+      line-height: 1;
+    }
+    
+    .close-btn:hover {
+      color: var(--text-main);
+    }
+    
+    .detail-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 6px 0;
+      font-size: 12px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    }
+    
+    .detail-label {
+      color: var(--text-muted);
+    }
+    
+    .detail-value {
+      font-weight: 600;
+      text-align: right;
+      max-width: 170px;
+      word-break: break-word;
+    }
+    
+    /* Loading Toast */
+    .loader-toast {
+      position: absolute;
+      top: 90px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 2000;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid var(--accent-cyan);
+      border-radius: 20px;
+      padding: 8px 20px;
+      font-size: 12px;
+      font-weight: 600;
+      display: none;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    }
+    
+    .spinner {
+      width: 14px;
+      height: 14px;
+      border: 2px solid rgba(56, 189, 248, 0.2);
+      border-top-color: var(--accent-cyan);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Navigation & Hierarchy Controls -->
+  <header class="top-header">
+    <div class="brand-title">
+      <div class="brand-logo">E</div>
+      <div class="brand-text">
+        <h1>EPEC Catastro & GeoRef <span style="font-size: 10px; padding: 2px 7px; background: rgba(56,189,248,0.2); border-radius: 6px; color: var(--accent-cyan);">PROVINCIAL</span></h1>
+        <p>Visor Dinámico de Manzanas Sintéticas de Alta Resolución (Base EPEC:parcelas_union)</p>
+      </div>
+    </div>
+    
+    <div class="filter-group">
+      <div class="filter-item">
+        <label class="filter-label">1. Departamento</label>
+        <select id="selDepto" onchange="onDeptoChange()">
+          <!-- Populated from catalog -->
+        </select>
+      </div>
+      
+      <div class="filter-item">
+        <label class="filter-label">2. Circunscripción / Pedanía</label>
+        <select id="selSubdiv" onchange="onSubdivChange()">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+      
+      <div class="filter-item">
+        <label class="filter-label">3. Búsqueda Rápida</label>
+        <input type="text" id="inputSearch" placeholder="Nomenclatura o Calle..." oninput="onSearchInput()">
+      </div>
+      
+      <button class="btn-reset" onclick="resetView()">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+        Reajustar
+      </button>
+    </div>
+  </header>
+
+  <!-- Loading Toast -->
+  <div id="loaderToast" class="loader-toast">
+    <div class="spinner"></div>
+    <span id="loaderMsg">Cargando manzanas sintéticas...</span>
+  </div>
+
+  <!-- Map Container -->
+  <div id="map"></div>
+
+  <!-- Dynamic Stats HUD -->
+  <div class="kpi-hud">
+    <div class="kpi-card">
+      <div class="kpi-title">Manzanas en Vista</div>
+      <div id="kpiMzas" class="kpi-val cyan">0</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Parcelas Constitutivas</div>
+      <div id="kpiParcs" class="kpi-val emerald">0</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Superficie Total</div>
+      <div id="kpiArea" class="kpi-val amber">0 ha</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Suministros Evaluados</div>
+      <div class="kpi-val">1.208.097</div>
+    </div>
+  </div>
+
+  <!-- Inspection Modal Card -->
+  <div id="detailCard" class="detail-card">
+    <div class="detail-header">
+      <div>
+        <div style="font-size: 10px; color: var(--text-muted); text-transform: uppercase;">Manzana Sintética HR</div>
+        <div id="detMza" class="detail-title">11-01-01-01-24-025</div>
+      </div>
+      <button class="close-btn" onclick="closeDetail()">&times;</button>
+    </div>
+    
+    <div class="detail-row">
+      <span class="detail-label">Departamento</span>
+      <span id="detDepto" class="detail-value">Capital</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Partición</span>
+      <span id="detPart" class="detail-value">11_C01</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Parcelas Contenidas</span>
+      <span id="detCantParc" class="detail-value" style="color: var(--accent-emerald);">24</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Superficie Neta</span>
+      <span id="detArea" class="detail-value">0.65 ha</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Perímetro</span>
+      <span id="detPerim" class="detail-value">325 m</span>
+    </div>
+    <div class="detail-row">
+      <span class="detail-label">Rango Alturas</span>
+      <span id="detAlturas" class="detail-value">100 - 250</span>
+    </div>
+    <div class="detail-row" style="flex-direction: column; gap: 4px; padding-top: 8px;">
+      <span class="detail-label">Calles Perimetrales:</span>
+      <span id="detCalles" class="detail-value" style="text-align: left; max-width: 100%; color: var(--accent-cyan);">OBISPO TREJO, SAN LORENZO, RIVERA INDARTE</span>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Hierarchical Catalog JS -->
+  <script src="data/catalogo_jerarquico_data.js"></script>
+
+  <script>
+    // Initialize Map with Canvas renderer for ultra-smooth 60 FPS
+    const canvasRenderer = L.canvas({ padding: 0.5 });
+    
+    const map = L.map('map', {
+      center: [-31.417, -64.183],
+      zoom: 14,
+      renderer: canvasRenderer,
+      zoomControl: false
+    });
+    
+    L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+    // Dark Base Layer
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; CartoDB &copy; EPEC GeoRef',
+      maxZoom: 19
+    }).addTo(map);
+
+    // State Variables
+    let currentLayerGroup = L.layerGroup().addTo(map);
+    let currentGeoJsonFeatures = [];
+    let selectedLayer = null;
+    window.CACHE_PARTICIONES = window.CACHE_PARTICIONES || {};
+
+    // Block styles
+    const defaultStyle = {
+      color: '#38bdf8',
+      weight: 1.2,
+      opacity: 0.85,
+      fillColor: '#0284c7',
+      fillOpacity: 0.22,
+      renderer: canvasRenderer
+    };
+
+    const hoverStyle = {
+      color: '#10b981',
+      weight: 2.2,
+      opacity: 1,
+      fillColor: '#10b981',
+      fillOpacity: 0.45
+    };
+
+    const selectedStyle = {
+      color: '#f59e0b',
+      weight: 3.0,
+      opacity: 1,
+      fillColor: '#f59e0b',
+      fillOpacity: 0.55
+    };
+
+    // Initialize Selectors from Catalog
+    function initHierarchy() {
+      const selDepto = document.getElementById('selDepto');
+      selDepto.innerHTML = '';
+      
+      const cat = window.CATALOGO_JERARQUICO || {};
+      for (const dId in cat) {
+        const dObj = cat[dId];
+        const opt = document.createElement('option');
+        opt.value = dId;
+        opt.textContent = `${dObj.nombre} (${Object.keys(dObj.subdivisiones).length} circ/ped)`;
+        selDepto.appendChild(opt);
+      }
+      
+      // Default to Capital (11)
+      selDepto.value = '11';
+      onDeptoChange();
+    }
+
+    function onDeptoChange() {
+      const deptoId = document.getElementById('selDepto').value;
+      const selSubdiv = document.getElementById('selSubdiv');
+      selSubdiv.innerHTML = '';
+      
+      const cat = window.CATALOGO_JERARQUICO || {};
+      const deptoObj = cat[deptoId];
+      if (!deptoObj) return;
+
+      const subKeys = Object.keys(deptoObj.subdivisiones).sort();
+      for (const sk of subKeys) {
+        const sub = deptoObj.subdivisiones[sk];
+        const opt = document.createElement('option');
+        opt.value = sub.part_id;
+        opt.textContent = `${sk} (${sub.cant_manzanas.toLocaleString()} mzas, ${sub.cant_parcelas.toLocaleString()} parcs)`;
+        selSubdiv.appendChild(opt);
+      }
+
+      // Default to first subdivision (or C01 for Capital)
+      if (deptoId === '11') {
+        selSubdiv.value = '11_C01';
+      }
+      onSubdivChange();
+    }
+
+    function onSubdivChange() {
+      const partId = document.getElementById('selSubdiv').value;
+      if (!partId) return;
+      cargarParticion(partId);
+    }
+
+    function showLoader(msg) {
+      const toast = document.getElementById('loaderToast');
+      document.getElementById('loaderMsg').textContent = msg;
+      toast.style.display = 'flex';
+    }
+
+    function hideLoader() {
+      document.getElementById('loaderToast').style.display = 'none';
+    }
+
+    function cargarParticion(partId) {
+      showLoader(`Cargando partición ${partId}...`);
+      closeDetail();
+
+      // Check in-memory cache
+      if (window.CACHE_PARTICIONES[partId]) {
+        renderFeatures(window.CACHE_PARTICIONES[partId], partId);
+        hideLoader();
+        return;
+      }
+
+      // Inject JS chunk dynamically
+      const script = document.createElement('script');
+      script.src = `data/manzanas_por_circ/mzas_${partId}.js`;
+      
+      script.onload = () => {
+        if (window.LOADED_PARTITION) {
+          window.CACHE_PARTICIONES[partId] = window.LOADED_PARTITION;
+          renderFeatures(window.LOADED_PARTITION, partId);
+        }
+        hideLoader();
+      };
+      
+      script.onerror = () => {
+        hideLoader();
+        alert(`Error al cargar datos de partición ${partId}`);
+      };
+      
+      document.head.appendChild(script);
+    }
+
+    function renderFeatures(geoJsonData, partId) {
+      currentLayerGroup.clearLayers();
+      currentGeoJsonFeatures = geoJsonData.features || [];
+      
+      let totParcs = 0;
+      let totArea = 0;
+
+      const geoLayer = L.geoJSON(geoJsonData, {
+        style: defaultStyle,
+        onEachFeature: (feature, layer) => {
+          const p = feature.properties || {};
+          totParcs += (p.cant_parcelas || 0);
+          totArea += (p.area_ha || 0);
+
+          layer.on({
+            mouseover: (e) => {
+              if (selectedLayer !== layer) {
+                layer.setStyle(hoverStyle);
+              }
+            },
+            mouseout: (e) => {
+              if (selectedLayer !== layer) {
+                layer.setStyle(defaultStyle);
+              }
+            },
+            click: (e) => {
+              selectManzana(feature, layer);
+              L.DomEvent.stopPropagation(e);
+            }
+          });
+        }
+      });
+
+      currentLayerGroup.addLayer(geoLayer);
+
+      // Update KPIs
+      document.getElementById('kpiMzas').textContent = currentGeoJsonFeatures.length.toLocaleString();
+      document.getElementById('kpiParcs').textContent = totParcs.toLocaleString();
+      document.getElementById('kpiArea').textContent = totArea.toFixed(1) + ' ha';
+
+      // Fit map bounds smoothly
+      const bounds = geoLayer.getBounds();
+      if (bounds.isValid()) {
+        map.flyToBounds(bounds, { duration: 1.0, maxZoom: 16 });
+      }
+    }
+
+    function selectManzana(feature, layer) {
+      if (selectedLayer) {
+        selectedLayer.setStyle(defaultStyle);
+      }
+      selectedLayer = layer;
+      selectedLayer.setStyle(selectedStyle);
+
+      const p = feature.properties || {};
+      document.getElementById('detMza').textContent = p.mza_wfs || 'S/D';
+      document.getElementById('detDepto').textContent = (window.CATALOGO_JERARQUICO[p.depto] || {}).nombre || p.depto;
+      document.getElementById('detPart').textContent = p.particion || '';
+      document.getElementById('detCantParc').textContent = (p.cant_parcelas || 0).toLocaleString();
+      document.getElementById('detArea').textContent = (p.area_ha || 0).toFixed(2) + ' ha';
+      document.getElementById('detPerim').textContent = (p.perimetro_m || 0).toFixed(0) + ' m';
+      document.getElementById('detAlturas').textContent = p.rango_alturas || 'S/D';
+      document.getElementById('detCalles').textContent = p.calles_perimetrales || 'S/D';
+
+      document.getElementById('detailCard').style.display = 'block';
+    }
+
+    function closeDetail() {
+      document.getElementById('detailCard').style.display = 'none';
+      if (selectedLayer) {
+        selectedLayer.setStyle(defaultStyle);
+        selectedLayer = null;
+      }
+    }
+
+    function onSearchInput() {
+      const q = document.getElementById('inputSearch').value.trim().toUpperCase();
+      if (!q) {
+        currentLayerGroup.eachLayer((gl) => {
+          if (gl.setStyle) gl.setStyle(defaultStyle);
+        });
+        return;
+      }
+
+      currentLayerGroup.eachLayer((gl) => {
+        if (gl.eachLayer) {
+          gl.eachLayer((layer) => {
+            const p = (layer.feature && layer.feature.properties) || {};
+            const mza = (p.mza_wfs || '').toUpperCase();
+            const calles = (p.calles_perimetrales || '').toUpperCase();
+
+            if (mza.includes(q) || calles.includes(q)) {
+              layer.setStyle({
+                color: '#f59e0b',
+                fillColor: '#f59e0b',
+                fillOpacity: 0.65,
+                weight: 2.5
+              });
+            } else {
+              layer.setStyle({
+                color: '#334155',
+                fillColor: '#0f172a',
+                fillOpacity: 0.05,
+                weight: 0.8
+              });
+            }
+          });
+        }
+      });
+    }
+
+    function resetView() {
+      document.getElementById('inputSearch').value = '';
+      closeDetail();
+      onSubdivChange();
+    }
+
+    // Launch
+    window.addEventListener('DOMContentLoaded', () => {
+      initHierarchy();
+    });
+  </script>
+</body>
+</html>

@@ -145,6 +145,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-25_fase2_escalamiento-provincial-manzanas-alta-resolucion-convergencia-1.2M|2026-10-25 Squad Arquetipo A - Escalamiento Provincial Unificado de Manzanas de Alta Resolución y Motor de Convergencia en 1.2M Suministros (771.428 Alta Certeza, 91.60% en Capital, 33.655 Manzanas HR, 580.330 Parcelas)]]
 - [[Historial-Mejoras/2026-10-25_sprint3_propagacion-vecindad-ruta-knn-orden-lectura|2026-10-25 Squad Arquetipo A - Consolidación Sprint 3: Propagación por Vecindad de Ruta y Resolución de Ambigüedades (86.88% Alta Certeza, 94.67% Cobertura Territorial, 66.529 Suministros)]]
 - [[Historial-Mejoras/2026-10-25_sprint2_motor-convergencia-4partes-asignacion-parcelaria-suministros|2026-10-25 Squad Arquetipo A - Consolidación Sprint 2: Motor de Convergencia en 4 Partes para Asignación Parcelaria de Suministros (83.33% Alta Certeza, 66.529 Suministros)]]
 - [[Historial-Mejoras/2026-10-25_sprint1_recomposicion-manzanas-alta-resolucion-disolucion-parcelaria|2026-10-25 Squad Arquetipo A - Consolidación Sprint 1: Recomposición de Manzanas de Alta Resolución por Disolución Parcelaria e Ingesta Incremental WFS (1.617 Manzanas, 34.891 Parcelas)]]

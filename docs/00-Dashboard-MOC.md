@@ -189,6 +189,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-25_vector-convergente-asignacion-parcelaria-epec-parcelas-union|2026-10-25 Asignación Parcelaria Multivariada y Recomposición de Manzanas de Alta Resolución (Vector Bottom-Up EPEC:parcelas_union)]]
 - [[docs/Proyectos/2026-10-22_estrategia-campana-captacion-factura-digital|2026-10-22 Plan Estratégico y Modelo de Campañas de Captación para Factura Digital (Base 922.958 Titulares EPEC)]] (`inventarioenergycpy/encuesta-cier-epec`)
 - [[docs/Proyectos/2026-10-22_estimacion-ahorro-financiero-factura-digital-epec|2026-10-22 Modelo Financiero: Estimación del Ahorro Anual por Migración a Factura Digital y Sensibilidad WhatsApp]] (`inventarioenergycpy/encuesta-cier-epec`)
 - [[docs/Proyectos/2026-10-22_analisis-critico-cier-ic1-at1-fe1-sigec-redes|2026-10-22 Análisis Crítico Atributos CIER Cuadrante I: IC1, AT1 y FE1 frente a Canales Masivos, SIGEC y Migración a Factura Digital]] (`inventarioenergycpy/encuesta-cier-epec`)

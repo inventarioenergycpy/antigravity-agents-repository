@@ -11,7 +11,7 @@ tags:
   - #squad-multi-agente
 created: 2026-10-25
 actualizado: 2026-10-25
-estado: SPRINT 1 EN EJECUCIÓN (Aprobado por el Usuario)
+estado: SPRINTS 1, 2 Y 3 COMPLETADOS (86.88% Alta Certeza, 94.67% Cobertura Territorial)
 autor: Project Manager (Gemini 3.8 Flash High) & Squad Arquetipo A
 ---
 
@@ -113,22 +113,22 @@ El cruce entre `georef.vw_suministros` y las parcelas descargadas opera sobre un
 ## 4. Plan de Sprints
 
 ### Sprint 1: Pipeline de Ingesta Incremental y Recomposición de Manzanas Sintéticas
-- [ ] **E1.1**: Desarrollo del script de descarga incremental WFS por bloques espaciales (BBOX / chunks) de `EPEC:vt_parcelas_union` y `EPEC:vm_vt_parcelas_calles`.
-- [ ] **E1.2**: Normalización geométrica y persistencia local en formato Parquet / GeoPackage con tolerancia a interrupciones de red.
-- [ ] **E1.3**: Pipeline de disolución topológica (`unary_union`) agrupado por nomenclatura de manzana para sintetizar la Capa Maestra de Manzanas de Alta Resolución.
-- [ ] **E1.4**: Enriquecimiento de atributos por manzana (calles perimetrales, rangos de alturas y superficie neta).
+- [x] **E1.1**: Desarrollo del script de descarga incremental WFS por bloques espaciales (BBOX / chunks) de `EPEC:vt_parcelas_union` y `EPEC:vm_vt_parcelas_calles`.
+- [x] **E1.2**: Normalización geométrica y persistencia local en formato Parquet / GeoPackage con tolerancia a interrupciones de red.
+- [x] **E1.3**: Pipeline de disolución topológica (`unary_union`) agrupado por nomenclatura de manzana para sintetizar la Capa Maestra de Manzanas de Alta Resolución.
+- [x] **E1.4**: Enriquecimiento de atributos por manzana (calles perimetrales, rangos de alturas y superficie neta).
 
 ### Sprint 2: Motor de Convergencia en 4 Partes (Fase 1 - Alta Certeza)
-- [ ] **E2.1**: Extracción de `georef.vw_suministros` (Distrito 1) con normalización de DC, cuaterna, calle y altura.
-- [ ] **E2.2**: Implementación del motor de convergencia multivariada (DC exacta y coincidencia $\ge 3$ partes).
-- [ ] **E2.3**: Consolidación del primer lote de suministros ancla de Alta Certeza.
+- [x] **E2.1**: Extracción de `georef.vw_suministros` (Distrito 1) con normalización de DC, cuaterna, calle y altura.
+- [x] **E2.2**: Implementación del motor de convergencia multivariada (DC exacta y coincidencia $\ge 3$ partes).
+- [x] **E2.3**: Consolidación del primer lote de suministros ancla de Alta Certeza.
 
 ### Sprint 3: Propagación por Vecindad de Ruta (Orden $\pm 3$) y Casos Parciales
-- [ ] **E3.1**: Algoritmo de convalidación con vecinos inmediatos de la misma ruta de lectura (`orden_lectura ± 3`).
-- [ ] **E3.2**: Resolución de suministros ambiguos y etiquetado de Asignaciones Parciales a Manzana.
-- [ ] **E3.3**: Reporte estadístico de cobertura y matriz de excepciones.
+- [x] **E3.1**: Algoritmo de convalidación con vecinos inmediatos de la misma ruta de lectura (`orden_lectura ± 3`).
+- [x] **E3.2**: Resolución de suministros ambiguos y etiquetado de Asignaciones Parciales a Manzana.
+- [x] **E3.3**: Reporte estadístico de cobertura y matriz de excepciones.
 
 ### Sprint 4: Visor Geoespacial Interactivo Parcela-Suministro (1 a N) y Consolidación
-- [ ] **E4.1**: Generación del visor web Leaflet Canvas con capas conmutables: Manzanas Sintéticas de Alta Resolución, Parcelas y Suministros.
-- [ ] **E4.2**: Despliegue interactivo de PHs con tarjeta modal de suministros asociados.
+- [x] **E4.1**: Generación del visor web Leaflet Canvas con capas conmutables: Manzanas Sintéticas de Alta Resolución, Parcelas y Suministros.
+- [x] **E4.2**: Despliegue interactivo de PHs con tarjeta modal de suministros asociados.
 - [ ] **E4.3**: Documentación formal, backups `.bak` y sincronización con GitHub.

@@ -145,6 +145,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-25_sprint3_propagacion-vecindad-ruta-knn-orden-lectura|2026-10-25 Squad Arquetipo A - Consolidación Sprint 3: Propagación por Vecindad de Ruta y Resolución de Ambigüedades (86.88% Alta Certeza, 94.67% Cobertura Territorial, 66.529 Suministros)]]
 - [[Historial-Mejoras/2026-10-25_sprint2_motor-convergencia-4partes-asignacion-parcelaria-suministros|2026-10-25 Squad Arquetipo A - Consolidación Sprint 2: Motor de Convergencia en 4 Partes para Asignación Parcelaria de Suministros (83.33% Alta Certeza, 66.529 Suministros)]]
 - [[Historial-Mejoras/2026-10-25_sprint1_recomposicion-manzanas-alta-resolucion-disolucion-parcelaria|2026-10-25 Squad Arquetipo A - Consolidación Sprint 1: Recomposición de Manzanas de Alta Resolución por Disolución Parcelaria e Ingesta Incremental WFS (1.617 Manzanas, 34.891 Parcelas)]]
 - [[Historial-Mejoras/2026-10-24_sprint2_optimizacion-visor-geoespacial-separacion-poligonos-canvas-interactivo|2026-10-24 Squad Arquetipo A - Consolidación Sprint 2: Optimización Visor Geoespacial, Separación de Polígonos >10ha, Pintado por Ruta Nueva y Canvas Interactivo sin Bloqueo de Cursor]]

@@ -210,32 +210,68 @@ Comprende la migración completa de la página de auditoría de campo y relevami
 
 ---
 
-## 🧭 7. Roadmap de Sprints
+## ⚡ 7. Sprint 6: Secciones Tarifas y Lecturas (Matrices Tarifarias, PCT y Cuadrantes MDM)
+
+Comprende la migración completa de las dos últimas secciones del informe Power BI:
+1. **Página `TARIFAS`** (`ReportSection5007fbda819c24e70b01`)
+2. **Página `LECTURAS`** (`ReportSection5765ed7d9baec9ee31e9`)
+
+### 7.1. Reglas de Negocio Precalculadas en Script (ETL)
+
+| Campo Calculado Qlik Sense | Expresión Qlik Script | Lógica DAX Original |
+| :--- | :--- | :--- |
+| `cuadrantes_medidos` | Concatenación de cuadrantes según medidor y facturación (E, EAR, EAP, EAV, DR, DP, DV) | Concatenación DAX de cuadrantes con valores positivos |
+| `factura_resto_pico_valle` | `ApplyMap('Map_Tarifas_RestoPicoValle', Text(TARIFA), Null())` | `IF(CONTAINS(t_Tarifas, ...), "Factura RESTO - PICO - VALLE")` |
+| `[m_conteo_pct]` | `Count(DISTINCT PCT)` | `CountNonNull(vt_protelem_[PCT])` |
+| `suministro_plan` | `Alt(suministro_plan, If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 1, 0))` | Indicador de pertenencia al Plan AMI |
+
+### 7.2. Mapeo de Componentes Visuales
+
+| Componente Visual | Hoja / Tipo Qlik Sense | Métrica / Dimensión Maestra |
+| :--- | :--- | :--- |
+| **KPI Total PCTs** | TARIFAS / KPI Card | `Count(DISTINCT PCT)` |
+| **Pivot: Tarifa x Telemedible** | TARIFAS / Tabla Dinámica | Filas: `TIPO_CLIENTE`, `TARIFA` \| Cols: `TELEMEDIBLE` \| Medida: `Count(SUMINISTRO)` |
+| **Pivot: Tarifa x Zona** | TARIFAS / Tabla Dinámica | Filas: `TIPO_CLIENTE`, `TARIFA` \| Cols: `ZONA` \| Medida: `Count(SUMINISTRO)` |
+| **Pivot: Plan x Tipo Medidor** | TARIFAS / Tabla Dinámica | Filas: `NOMBRES_TELEMEDIBLE`, `suministro_plan` \| Cols: `MedidorTipo` \| Medida: `Count(DISTINCT SUMINISTRO)` |
+| **Pivot: PCT x Tipo Medidor** | TARIFAS / Tabla Dinámica | Filas: `PCT` \| Cols: `MedidorTipo` \| Medida: `Count(DISTINCT SUMINISTRO)` |
+| **Mapa Plan AMI** | TARIFAS / Map Object | Lat/Long: `DC_LATITUD`, `DC_LONGITUD` \| Color por `suministro_plan` (Verde vs Azul) |
+| **Tablas Operativas (2)** | TARIFAS / Tablas | 1: `TELEMEDIBLE`, `SUMINISTRO` \| 2: `TIPO_CLIENTE`, `TELEMEDIBLE`, `TARIFA`, `ZONA`, `DISTRITO`, `SUMINISTRO` |
+| **Pivot Central de Lecturas** | LECTURAS / Tabla Dinámica | Filas: `cuadrantes_medidos` \| Cols: `TELEMEDIDA_STE_MARCA` \| Medida: `Count(DISTINCT MEDIDOR)` |
+
+---
+
+## 🏆 8. Roadmap de Sprints: 100% COMPLETADO
 
 - [x] **Sprint 1**: Extracción de Datos, Cruce de Catálogo QVD EPEC, Ingesta Estática Excel y Arquitectura Base.
 - [x] **Sprint 2**: Sección Suministros (KPIs, Matrices Tarifarias y por Medidor, Tabla de Detalle y Filtros).
 - [x] **Sprint 3**: Sección Ordenativos (Control de Ordenativos, Gestión de Asignación, Mapas y Seguimiento Operativo).
 - [x] **Sprint 4**: Sección Telemetría (KPIs de Comunicación, Diagnósticos por SET/Plan/Marca, Mapa de Enlace y Tabla Detalle).
 - [x] **Sprint 5**: Sección Relevamiento (Auditoría de Campo, Semáforos Protelem, Novedades, Acometidas/Tapas y Mapa).
-- [ ] **Sprint 6**: Secciones Tarifas y Lecturas (Páginas `ReportSection5007fbda819c24e70b01` y `ReportSection5765ed7d9baec9ee31e9`).
+- [x] **Sprint 6**: Secciones Tarifas y Lecturas (Matrices Tarifarias, PCT, Cuadrantes MDM y Mapas de Despliegue).
 
 ---
 
-## 🔒 8. Checkpoint de Estado Guardado y Continuación
+## 🚀 9. Guía de Ejecución y Despliegue Maestro en Qlik Sense
 
-- **Fecha de Resguardo**: 2026-10-26
-- **Entregables Verificados en Downloads**:
-  - `01_EXTRACTOR_TELEMETRIA_XXCO_ULTIMA_TELEMEDICION.qvs`
-  - `02_EXTRACTOR_COMPLEMENTO_COLUMNAS_ORACLE.qvs`
-  - `03_CARGA_ESTATICA_EXCEL_POLIGONOS_RANGOS.qvs`
-  - `04_MODELO_UNIFICADO_QLIK_SENSE_AMI_ZONA_A.qvs`
-  - `05_SPRINT2_SECCION_SUMINISTROS_MEDIDAS_Y_VISUALES.qvs`
-  - `06_SPRINT3_SECCION_ORDENATIVOS_MEDIDAS_Y_VISUALES.qvs`
-  - `07_SPRINT4_SECCION_TELEMETRIA_MEDIDAS_Y_VISUALES.qvs`
-  - `08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs`
-  - `09_SPRINT5_SECCION_RELEVAMIENTO_MEDIDAS_Y_VISUALES.qvs`
-- **Punto de Partida para el Próximo Sprint**:
-  - **Sprint 6: Secciones Tarifas y Lecturas** (`TARIFAS` y `LECTURAS`).
+Para implementar y cargar la aplicación en Qlik Sense Desktop o Qlik Sense Enterprise:
+
+1. **Paso 1: Ejecutar Extractores QVD en Qlik Sense**:
+   - `01_EXTRACTOR_TELEMETRIA_XXCO_ULTIMA_TELEMEDICION.qvs` $\rightarrow$ Genera `JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD`.
+   - `02_EXTRACTOR_COMPLEMENTO_COLUMNAS_ORACLE.qvs` $\rightarrow$ Genera `JIDIAZ_EXT_COMPLEMENTO_SUMINISTROS.QVD`.
+   - `08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs` $\rightarrow$ Genera `JIDIAZ_EXT_RELEVAMIENTO.QVD`.
+   - `03_CARGA_ESTATICA_EXCEL_POLIGONOS_RANGOS.qvs` $\rightarrow$ Genera `Master_Poligonos.qvd` y `Master_Rango_Medidores.qvd`.
+2. **Paso 2: Cargar Script Maestro de la App**:
+   - Abrir la aplicación Qlik Sense y pegar el contenido de **`04_MODELO_UNIFICADO_QLIK_SENSE_AMI_ZONA_A.qvs`**.
+   - Ejecutar la recarga (**Load Data**). El modelo se genera libre de loops sintéticos, con relaciones asociativas optimizadas.
+3. **Paso 3: Configurar Hojas y Elementos Maestros (Master Items)**:
+   - Crear las 6 hojas corporativas utilizando los catálogos entregados:
+     - Hoja 1: `Suministros` (`05_SPRINT2...qvs`)
+     - Hoja 2: `Control de Ordenativos` (`06_SPRINT3...qvs`)
+     - Hoja 3: `Gestión de Asignación` (`06_SPRINT3...qvs`)
+     - Hoja 4: `Telemetría` (`07_SPRINT4...qvs`)
+     - Hoja 5: `Relevamiento` (`09_SPRINT5...qvs`)
+     - Hoja 6: `Tarifas y Lecturas` (`10_SPRINT6...qvs`)
+
 
 
 

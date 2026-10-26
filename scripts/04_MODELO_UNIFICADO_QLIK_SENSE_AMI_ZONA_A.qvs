@@ -295,7 +295,13 @@ LOAD
     Date(MonthStart(FECHA_EJECUCION), 'YYYY-MM')                                        AS PERIODO_EJECUCION,
     Year(FECHA_GENERACION)                                                              AS ANIO_GENERACION,
     Month(FECHA_GENERACION)                                                             AS MES_GENERACION,
-    Date(MonthStart(FECHA_GENERACION), 'YYYY-MM')                                       AS PERIODO_GENERACION
+    Date(MonthStart(FECHA_GENERACION), 'YYYY-MM')                                       AS PERIODO_GENERACION,
+
+    // 9. Cuadrantes y Canales de Medición MDM (Sprint 6)
+    If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0 and Match(factura_resto_pico_valle, 'Factura RESTO - PICO - VALLE') > 0,
+       'E,EAR,EAP,EAV,DR,DP,DV',
+       If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 'E,EAR', 'E')
+    )                                                                                   AS cuadrantes_medidos
 RESIDENT [Padron_Base];
 
 DROP TABLE [Padron_Base];

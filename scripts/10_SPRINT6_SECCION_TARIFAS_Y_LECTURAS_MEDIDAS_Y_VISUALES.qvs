@@ -1,0 +1,184 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SPRINT 6: SECCIONES TARIFAS Y LECTURAS (MATRICES TARIFARIAS, PCT Y CUADRANTES MDM)
+/// Páginas Power BI Equivalentes:
+///   - ReportSection5007fbda819c24e70b01 ("TARIFAS")
+///   - ReportSection5765ed7d9baec9ee31e9 ("LECTURAS")
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// ==============================================================================
+
+TRACE >>> ==========================================================;
+TRACE >>> INICIANDO SPRINT 6: SECCIONES TARIFAS Y LECTURAS;
+TRACE >>> ==========================================================;
+
+// ------------------------------------------------------------------------------
+// 1. LÓGICA DE CANALES Y CUADRANTES DE MEDICIÓN (cuadrantes_medidos)
+// ------------------------------------------------------------------------------
+// Permite auditar qué canales de energía activa, reactiva y demanda (E, EAR, EAP, EAV, DR, DP, DV)
+// son transmitidos efectivamente por cada marca de medidor inteligente (CLOU, NANSEN, etc.).
+
+[Canales_Lectura_Temp]:
+LOAD
+    Num(MEDIDOR)                                        AS MEDIDOR,
+    // En caso de medidores monofásicos estándar el canal base es Energía Activa ('E')
+    // En medidores inteligentes multifunción se concatenan los cuadrantes tarifarios medidos
+    If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0 and Match(factura_resto_pico_valle, 'Factura RESTO - PICO - VALLE') > 0,
+       'E,EAR,EAP,EAV,DR,DP,DV',
+       If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 'E,EAR', 'E')
+    )                                                   AS cuadrantes_medidos
+RESIDENT [vt_protelem];
+
+LEFT JOIN ([vt_protelem])
+LOAD
+    MEDIDOR,
+    cuadrantes_medidos
+RESIDENT [Canales_Lectura_Temp];
+
+DROP TABLE [Canales_Lectura_Temp];
+
+TRACE >>> ==========================================================;
+TRACE >>> SPRINT 6: PRE-CÁLCULO DE CUADRANTES Y TARIFAS FINALIZADO;
+TRACE >>> ==========================================================;
+
+
+/// ==============================================================================
+/// CATÁLOGO DE ELEMENTOS MAESTROS (MASTER ITEMS) PARA QLIK SENSE
+/// ==============================================================================
+
+/*
+----------------------------------------------------------------------------------
+A. MEDIDAS MAESTRAS (MASTER MEASURES)
+----------------------------------------------------------------------------------
+
+1. [m_conteo_pct]
+   - Nombre: Total Transformadores / PCTs
+   - Descripción: Recuento distintivo de Puestos de Conexión / Transformación en el área.
+   - Expresión:
+       Count(DISTINCT PCT)
+   - Expresión DAX Equivalente:
+       CountNonNull(vt_protelem_[PCT])
+   - Formato Numérico: '#.##0'
+   - Etiqueta en Tarjeta: 'Cantidad PCT'
+
+2. [m_conteo_suministros_tarifas]
+   - Nombre: Suministros por Tarifa
+   - Descripción: Recuento total de suministros categorizados en la matriz.
+   - Expresión:
+       Count(SUMINISTRO)
+   - Formato Numérico: '#.##0'
+
+3. [m_conteo_medidores_lecturas]
+   - Nombre: Equipos con Lectura en Cuadrante
+   - Descripción: Recuento único de medidores clasificados por combinación de cuadrantes.
+   - Expresión:
+       Count(DISTINCT MEDIDOR)
+   - Formato Numérico: '#.##0'
+
+4. [m_porcentaje_suministros_plan]
+   - Nombre: % Cobertura Plan AMI
+   - Descripción: Porcentaje de suministros integrados en el plan de despliegue AMI.
+   - Expresión:
+       Count({<suministro_plan={1}>} DISTINCT SUMINISTRO) / Count(DISTINCT SUMINISTRO)
+   - Formato Numérico: '0,0%'
+
+
+----------------------------------------------------------------------------------
+B. DIMENSIONES MAESTRAS (MASTER DIMENSIONS)
+----------------------------------------------------------------------------------
+
+1. [d_tarifa_tipo_cliente]
+   - Campo: TIPO_CLIENTE
+   - Etiqueta: 'Tipo de Cliente / Cartera'
+   - Valores: Residencial, Comercial, Industrial, etc.
+
+2. [d_tarifa_codigo]
+   - Campo: TARIFA
+   - Etiqueta: 'Código de Tarifa'
+
+3. [d_tarifa_resto_pico_valle]
+   - Campo: factura_resto_pico_valle
+   - Etiqueta: 'Facturación Diferenciada'
+   - Valores: 'Factura RESTO - PICO - VALLE', Null
+
+4. [d_tarifa_pct]
+   - Campo: PCT
+   - Etiqueta: 'Puesto de Conexión / Transformación (PCT)'
+
+5. [d_lecturas_cuadrantes]
+   - Campo: cuadrantes_medidos
+   - Etiqueta: 'Cuadrantes de Medición Registrados'
+   - Valores: 'E', 'E,EAR', 'E,EAR,EAP,EAV,DR,DP,DV'
+
+6. [d_lecturas_marca]
+   - Campo: TELEMEDIDA_STE_MARCA
+   - Etiqueta: 'Marca Concentrador / MDM'
+
+
+----------------------------------------------------------------------------------
+C. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA: "TARIFAS"
+----------------------------------------------------------------------------------
+
+1. Tarjeta KPI 1: Cantidad de PCTs
+   - Posición: Superior izquierda (x: 54, y: 135, w: 255, h: 120)
+   - Medida: [m_conteo_pct]
+   - Título: 'Total Puestos PCT'
+   - Formato: '#.##0'
+
+2. Tabla Dinámica 1: Suministros por Tarifa vs Tipo de Medidor Telemedible
+   - Posición: Superior derecha (x: 682, y: 11, w: 417, h: 288)
+   - Filas: [d_tarifa_tipo_cliente], [d_tarifa_codigo]
+   - Columnas: [d_telemedible_tipo_medidor] (CLOU, NANSEN, CHUPETE, OTROS)
+   - Medida: [m_conteo_suministros_tarifas]
+   - Totales: Habilitados en filas y columnas.
+
+3. Tabla Dinámica 2: Suministros por Tarifa vs Zona Territorial
+   - Posición: Superior centro (x: 348, y: 38, w: 293, h: 256)
+   - Filas: [d_tarifa_tipo_cliente], [d_tarifa_codigo]
+   - Columnas: [ZONA]
+   - Medida: [m_conteo_suministros_tarifas]
+
+4. Tabla Dinámica 3: Matriz de Despliegue (Marca / Plan vs Tipo Medidor)
+   - Posición: Inferior izquierda (x: 28, y: 491, w: 281, h: 210)
+   - Filas: [NOMBRES_TELEMEDIBLE], [suministro_plan]
+   - Columnas: [MedidorTipo] (MONOFASICO, TRIFASICO)
+   - Medida: Count(DISTINCT SUMINISTRO)
+
+5. Tabla Dinámica 4: Matriz de Transformadores (PCT vs Tipo Medidor)
+   - Posición: Centro izquierda (x: 28, y: 294, w: 281, h: 180)
+   - Filas: [d_tarifa_pct]
+   - Columnas: [MedidorTipo]
+   - Medida: Count(DISTINCT SUMINISTRO)
+
+6. Mapa Georreferenciado: Suministros por Plan de Despliegue AMI
+   - Posición: Inferior derecha (x: 996, y: 510, w: 283, h: 210)
+   - Tipo: Map Object (Point Layer)
+   - Latitud: DC_LATITUD
+   - Longitud: DC_LONGITUD
+   - Dimensión: SUMINISTRO
+   - Coloreo por Dimensión [suministro_plan]:
+       - 1 ('En Plan') -> Verde EPEC (rgb(39, 174, 96))
+       - 0 ('Fuera de Plan') -> Gris / Azul (rgb(41, 128, 185))
+
+7. Tablas de Detalle Operativo (2):
+   - Tabla 1 (x: 362, y: 13, w: 246, h: 288): [TELEMEDIBLE], [SUMINISTRO]
+   - Tabla 2 (x: 394, y: 385, w: 569, h: 298): [TIPO_CLIENTE], [TELEMEDIBLE], [TARIFA], [ZONA], [DISTRITO], [SUMINISTRO]
+
+8. Filtros / Slicers Laterales:
+   - Slicer 1: [d_tarifa_tipo_cliente]
+   - Slicer 2: [d_tarifa_resto_pico_valle] ('Factura RESTO - PICO - VALLE')
+
+
+----------------------------------------------------------------------------------
+D. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA: "LECTURAS"
+----------------------------------------------------------------------------------
+
+1. Tabla Dinámica Central: Matriz de Cuadrantes Medidos x Marca MDM
+   - Posición: Pantalla central (x: 287, y: 48, w: 949, h: 626)
+   - Filas: [d_lecturas_cuadrantes] (cuadrantes_medidos)
+   - Columnas: [d_lecturas_marca] (STE_MARCA)
+   - Medida: [m_conteo_medidores_lecturas] (Count(DISTINCT MEDIDOR))
+   - Configuración:
+       - Ordenamiento descendente por volumen de medidores.
+       - Totales generales en filas y columnas.
+       - Barra de datos visual interna o mapa de calor de intensidad de lectura.
+*/

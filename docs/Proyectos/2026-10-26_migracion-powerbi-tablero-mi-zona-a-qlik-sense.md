@@ -179,18 +179,49 @@ Comprende la migración completa de la página de telemetría de medidores intel
 
 ---
 
-## 🧭 6. Roadmap de Sprints
+## 🛠️ 6. Sprint 5: Sección Relevamiento (Auditoría de Campo, Semáforos Protelem y Novedades)
+
+Comprende la migración completa de la página de auditoría de campo y relevamiento de suministros:
+- **Página Power BI**: `Relevamiento` (`ReportSectiond4110ead790635916b9b`)
+- **Filtro de Alcance de Hoja**: `ESTADO_RELEVAMIENTO`
+- **Extractor Dedicado**: [`08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs`](file:///D:/Usuarios/jidiaz/Downloads/08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs) (consulta a `GEOREF.RELEVAMIENTO` en Oracle 19c)
+
+### 6.1. Reglas de Negocio Precalculadas en Script (ETL)
+
+| Campo Calculado Qlik Sense | Expresión Qlik Script | Lógica DAX Original |
+| :--- | :--- | :--- |
+| `Semaforo_protelem_num` | `(Tarifa_MI + FiltroMed + FiltroTelemed)` | Suma de indicadores de consistencia (Tarifa MI + Filtro Medidor + Filtro Telemedible) |
+| `Semaforo_protelem_color` | `Pick(Match((Tarifa_MI + FiltroMed + FiltroTelemed), 0, 1, 2, 3, 5, 6), 'Verde', 'Rojo', 'Rojo', 'Rojo', 'Amarillo', 'Rojo')` | `SWITCH(Semaforo_protelem_num, 0, "Verde", 1, "Rojo", ..., "Amarillo")` |
+| `Filtro_novedad` | `If(FiltroTelemed <> 0, TELEMEDIBLE, If(FiltroMed <> 0, 'NPF_Medidor', FiltroTar))` | `IF(FiltroTelemed <> 0, TELEMEDIBLE, IF(FiltroMed <> 0, "NPF_Medidor", FiltroTar))` |
+| `MedidorMarca` | Obtenido por `IntervalMatch` contra `Master_Rango_Medidores.qvd` | `CALCULATE(MAX(t_Rango_Medidores[Marca]), FILTER(...))` |
+| `[Medidor - txt]` | `Text(MEDIDOR)` | `CONVERT(vt_protelem_[MEDIDOR], STRING)` |
+| `FECHA_ACTUALIZACION` | `Date(Floor(Alt(REL_FECHA_MODIF, REL_FECHA_ALTA)))` | Fecha del relevamiento de campo desde `GEOREF.RELEVAMIENTO` |
+
+### 6.2. Mapeo de Componentes Visuales
+
+| Componente Visual | Tipo de Objeto Qlik Sense | Métrica / Dimensión Maestra |
+| :--- | :--- | :--- |
+| **KPI Última Actualización** | KPI Card | `Date(Min(FECHA_ACTUALIZACION), 'DD/MM/YYYY')` |
+| **Pivot: Semáforo x Tipo Medidor** | Tabla Dinámica (Cross-Tab 1) | Filas: `Semaforo_protelem_color` ('Verde', 'Amarillo', 'Rojo') \| Cols: `MedidorTipo` \| Medida: `Count(DISTINCT SUMINISTRO)` |
+| **Pivot: Novedades x Tipo Medidor**| Tabla Dinámica (Cross-Tab 2) | Filas: `Filtro_novedad` \| Cols: `MedidorTipo` \| Medida: `Count(DISTINCT SUMINISTRO)` |
+| **Mapa Georreferenciado** | Map Object (Mitad Izquierda) | Lat/Long: `DC_LATITUD`, `DC_LONGITUD` \| Dim: `SUMINISTRO` \| Color por `Semaforo_protelem_color` \| Tooltips: Medidor, Marca, Telemedición |
+| **Tabla Detalle Operativo (9 cols)**| Tabla Operativa Detalle | `SUMINISTRO`, `CONTRATO`, `MEDIDOR`, `MedidorTipo`, `Filtro_novedad`, `TARIFA`, `SUBESTACION`, `ACOMETIDA`, `TAPA` |
+| **Filtro por Polígono / SET** | FilterByList / Slicer | Dim: `t_poligonos.SETs` (enlazado directamente a `SUBESTACION`) |
+
+---
+
+## 🧭 7. Roadmap de Sprints
 
 - [x] **Sprint 1**: Extracción de Datos, Cruce de Catálogo QVD EPEC, Ingesta Estática Excel y Arquitectura Base.
 - [x] **Sprint 2**: Sección Suministros (KPIs, Matrices Tarifarias y por Medidor, Tabla de Detalle y Filtros).
 - [x] **Sprint 3**: Sección Ordenativos (Control de Ordenativos, Gestión de Asignación, Mapas y Seguimiento Operativo).
 - [x] **Sprint 4**: Sección Telemetría (KPIs de Comunicación, Diagnósticos por SET/Plan/Marca, Mapa de Enlace y Tabla Detalle).
-- [ ] **Sprint 5**: Sección Relevamiento (Página `ReportSectiond4110ead790635916b9b`, estados de relevamiento, fotos, inconsistencias de campo y control de calidad).
+- [x] **Sprint 5**: Sección Relevamiento (Auditoría de Campo, Semáforos Protelem, Novedades, Acometidas/Tapas y Mapa).
 - [ ] **Sprint 6**: Secciones Tarifas y Lecturas (Páginas `ReportSection5007fbda819c24e70b01` y `ReportSection5765ed7d9baec9ee31e9`).
 
 ---
 
-## 🔒 7. Checkpoint de Estado Guardado y Continuación
+## 🔒 8. Checkpoint de Estado Guardado y Continuación
 
 - **Fecha de Resguardo**: 2026-10-26
 - **Entregables Verificados en Downloads**:
@@ -201,8 +232,11 @@ Comprende la migración completa de la página de telemetría de medidores intel
   - `05_SPRINT2_SECCION_SUMINISTROS_MEDIDAS_Y_VISUALES.qvs`
   - `06_SPRINT3_SECCION_ORDENATIVOS_MEDIDAS_Y_VISUALES.qvs`
   - `07_SPRINT4_SECCION_TELEMETRIA_MEDIDAS_Y_VISUALES.qvs`
+  - `08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs`
+  - `09_SPRINT5_SECCION_RELEVAMIENTO_MEDIDAS_Y_VISUALES.qvs`
 - **Punto de Partida para el Próximo Sprint**:
-  - **Sprint 5: Sección Relevamiento** (`ReportSectiond4110ead790635916b9b`).
+  - **Sprint 6: Secciones Tarifas y Lecturas** (`TARIFAS` y `LECTURAS`).
+
 
 
 

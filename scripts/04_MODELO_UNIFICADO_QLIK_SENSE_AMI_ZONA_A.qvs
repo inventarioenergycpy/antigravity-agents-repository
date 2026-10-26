@@ -68,6 +68,7 @@ LOAD
     Text(SEA)                               AS SEA,
     Text(DISTRIBUIDOR)                      AS DISTRIBUIDOR,
     Num(SUBESTACION)                        AS SUBESTACION,
+    Num(SUBESTACION)                        AS SETs,
     Text(TELEMEDIBLE)                       AS TELEMEDIBLE,
     Num(ID_EQUIPO_ACTUAL)                   AS MEDIDOR,
     Text(ID_RUTA_LECTURA)                   AS RUTA_LECTURA,
@@ -158,6 +159,22 @@ RESIDENT [Temp_Ordenativos];
 DROP TABLE [Temp_Ordenativos];
 
 TRACE >>> ==========================================================;
+TRACE >>> [PASO 3.2]: CRUCE CON EXTRACTOR DE RELEVAMIENTO (GEOREF.RELEVAMIENTO);
+TRACE >>> ==========================================================;
+
+// Cruce con extractor de relevamiento para incorporar acometidas, tapas y auditoría de campo
+LEFT JOIN ([Padron_Base])
+LOAD
+    Num(SUMINISTRO)                         AS SUMINISTRO,
+    Num(MEDIDOR_RELEVADO)                   AS MEDIDOR_RELEVADO,
+    Text(ACOMETIDA)                         AS ACOMETIDA,
+    Text(TAPA)                              AS TAPA,
+    Text(REL_OBSERVACIONES)                 AS REL_OBSERVACIONES,
+    Date(FECHA_ACTUALIZACION)               AS FECHA_ACTUALIZACION,
+    1                                       AS FLAG_RELEVADO
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_RELEVAMIENTO.QVD] (qvd);
+
+TRACE >>> ==========================================================;
 TRACE >>> [PASO 4]: CRUCE CON EXTRACTOR DE TELEMETRÍA (XXCO_ULTIMA_TELEMEDICION_VM);
 TRACE >>> ==========================================================;
 
@@ -180,6 +197,7 @@ TRACE >>> ==========================================================;
 LOAD
     Desde,
     Hasta,
+    Text(Marca)                             AS MedidorMarca,
     [Medidor Tipo]                          AS Rango_Medidor_Tipo,
     [Medidor Telemedicion]                  AS Rango_Medidor_Telemedicion,
     MI_CC                                   AS Rango_MI_CC
@@ -196,6 +214,7 @@ LEFT JOIN ([Bridge_Intervalo_Medidor])
 LOAD
     Desde,
     Hasta,
+    MedidorMarca,
     Rango_Medidor_Tipo,
     Rango_Medidor_Telemedicion,
     Rango_MI_CC
@@ -206,6 +225,7 @@ DROP TABLE [Rango_Medidores_Base];
 LEFT JOIN ([Padron_Base])
 LOAD
     MEDIDOR,
+    MedidorMarca,
     Rango_Medidor_Tipo,
     Rango_Medidor_Telemedicion,
     Alt(Rango_MI_CC, 0)                     AS FiltroMed
@@ -253,6 +273,7 @@ LOAD
     // 7. Tipo de Medidor
     If(Len(Trim(Rango_Medidor_Tipo)) > 0, Rango_Medidor_Tipo, MEDIDOR_FASE) AS MedidorTipo,
     Rango_Medidor_Telemedicion AS MedidorTipoTelemedicion,
+    Text(MEDIDOR) AS [Medidor - txt],
 
     // 8. Reglas de Negocio de Ordenativos Precalculadas en Script (Sprint 3)
     If(Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO), 'PENDIENTES', 'EJECUTADOS') AS EJECUTADOSvsPENDIENTES,

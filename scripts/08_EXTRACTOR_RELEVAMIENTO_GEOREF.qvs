@@ -1,0 +1,56 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT EXTRACTOR 3: RELEVAMIENTO DE CAMPO (GEOREF.RELEVAMIENTO)
+/// Origen: Base de Datos Oracle EPEC (GEOREF.RELEVAMIENTO)
+/// Conexión: LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+/// Destino: [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_RELEVAMIENTO.QVD]
+/// Propósito: Extraer datos de campo de acometidas, tapas, novedades y fecha de actualización
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+
+TRACE >>> [EXTRACTOR RELEVAMIENTO]: Conectando a Oracle EPEC;
+
+LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+
+TRACE >>> [EXTRACTOR RELEVAMIENTO]: Extrayendo datos desde GEOREF.RELEVAMIENTO;
+
+[EXT_RELEVAMIENTO]:
+LOAD
+    Num("REL_SUMINISTRO")                           AS "SUMINISTRO",
+    Num("REL_MEDIDOR")                              AS "MEDIDOR_RELEVADO",
+    Text("REL_ACOMETIDA")                           AS "ACOMETIDA",
+    Text("REL_TAPA")                                AS "TAPA",
+    Text("REL_OBSERVACIONES")                       AS "REL_OBSERVACIONES",
+    Text("REL_ESTADO")                              AS "REL_ESTADO",
+    Date(Floor("REL_FECHA_ALTA"))                   AS "REL_FECHA_ALTA",
+    Date(Floor(Alt("REL_FECHA_MODIF", "REL_FECHA_ALTA"))) AS "FECHA_ACTUALIZACION",
+    Text("REL_TIPO_VIVIENDA")                       AS "REL_TIPO_VIVIENDA",
+    Timestamp(Now())                                AS "FECHA_EXTRACCION_QVD";
+SELECT 
+    "REL_SUMINISTRO",
+    "REL_MEDIDOR",
+    "REL_ACOMETIDA",
+    "REL_TAPA",
+    "REL_OBSERVACIONES",
+    "REL_ESTADO",
+    "REL_FECHA_ALTA",
+    "REL_FECHA_MODIF",
+    "REL_TIPO_VIVIENDA"
+FROM "GEOREF"."RELEVAMIENTO";
+
+TRACE >>> [EXTRACTOR RELEVAMIENTO]: Guardando QVD en repositorio JIDIAZ;
+
+STORE [EXT_RELEVAMIENTO] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_RELEVAMIENTO.QVD] (qvd);
+
+DROP TABLE [EXT_RELEVAMIENTO];
+
+DISCONNECT;
+
+TRACE >>> [EXTRACTOR RELEVAMIENTO]: Proceso finalizado y conexion cerrada exitosamente.;

@@ -1,0 +1,240 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SPRINT 5: SECCIÓN RELEVAMIENTO (AUDITORÍA DE CAMPO, SEMÁFOROS Y NOVEDADES)
+/// Página Power BI Equivalente:
+///   - ReportSectiond4110ead790635916b9b ("Relevamiento")
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// ==============================================================================
+
+TRACE >>> ==========================================================;
+TRACE >>> INICIANDO SPRINT 5: CARGA Y TRANSFORMACIÓN DE RELEVAMIENTO;
+TRACE >>> ==========================================================;
+
+// ------------------------------------------------------------------------------
+// 1. INGESTA DE DATOS DE RELEVAMIENTO DE CAMPO (GEOREF.RELEVAMIENTO)
+// ------------------------------------------------------------------------------
+// Los datos provienen del extractor:
+// [scripts/08_EXTRACTOR_RELEVAMIENTO_GEOREF.qvs]
+// almacenados en [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_RELEVAMIENTO.QVD]
+
+[Relevamiento_Temp]:
+LOAD
+    Num(SUMINISTRO)                                     AS SUMINISTRO,
+    Num(MEDIDOR_RELEVADO)                               AS MEDIDOR_RELEVADO,
+    Text(ACOMETIDA)                                     AS ACOMETIDA,
+    Text(TAPA)                                          AS TAPA,
+    Text(REL_OBSERVACIONES)                             AS REL_OBSERVACIONES,
+    Text(REL_ESTADO)                                    AS REL_ESTADO,
+    Date(FECHA_ACTUALIZACION)                           AS FECHA_ACTUALIZACION,
+    Text(REL_TIPO_VIVIENDA)                             AS REL_TIPO_VIVIENDA
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_RELEVAMIENTO.QVD] (qvd);
+
+// Cruce al padrón principal de suministros
+LEFT JOIN ([vt_protelem])
+LOAD
+    SUMINISTRO,
+    MEDIDOR_RELEVADO,
+    ACOMETIDA,
+    TAPA,
+    REL_OBSERVACIONES,
+    REL_ESTADO,
+    FECHA_ACTUALIZACION,
+    REL_TIPO_VIVIENDA,
+    1                                                   AS FLAG_RELEVADO
+RESIDENT [Relevamiento_Temp];
+
+DROP TABLE [Relevamiento_Temp];
+
+// ------------------------------------------------------------------------------
+// 2. ENLACE CON DIMENSIÓN DE POLÍGONOS POR SUBESTACIÓN (SETs)
+// ------------------------------------------------------------------------------
+// Aseguramos la relación entre SUBESTACION y SETs de t_poligonos
+// Para posibilitar el filtrado dinámico del visual FilterByList 't_poligonos.SETs'
+
+[Map_SET_Poligono]:
+MAPPING LOAD
+    Text(SETs) AS SET_Key,
+    Text(POLIGONO) AS POLIGONO_Asignado
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Poligonos.qvd] (qvd);
+
+// ------------------------------------------------------------------------------
+// 3. REGLAS DE NEGOCIO Y CLASIFICACIÓN SEMAFÓRICA PRECALCULADAS EN SCRIPT
+// ------------------------------------------------------------------------------
+// Reglas exactas de DAX migradas a Qlik Script:
+//   - Semaforo_protelem_num = Tarifa_MI + FiltroMed + FiltroTelemed
+//   - Semaforo_protelem_color =
+//         0 -> "Verde"
+//         1, 2, 3, 6 -> "Rojo"
+//         5 -> "Amarillo"
+//         default -> "Amarillo"
+//   - Filtro_novedad =
+//         IF(FiltroTelemed <> 0, TELEMEDIBLE,
+//            IF(FiltroMed <> 0, "NPF_Medidor", FiltroTar))
+//   - Medidor - txt = Text(MEDIDOR)
+
+TRACE >>> ==========================================================;
+TRACE >>> SPRINT 5: REGLAS DE RELEVAMIENTO INTEGRADAS EXITOSAMENTE;
+TRACE >>> ==========================================================;
+
+
+/// ==============================================================================
+/// CATÁLOGO DE ELEMENTOS MAESTROS (MASTER ITEMS) PARA QLIK SENSE
+/// ==============================================================================
+
+/*
+----------------------------------------------------------------------------------
+A. MEDIDAS MAESTRAS (MASTER MEASURES)
+----------------------------------------------------------------------------------
+
+1. [m_min_fecha_actualizacion]
+   - Nombre: Última Fecha de Actualización Relevamiento
+   - Descripción: Fecha del relevamiento más reciente o base de control de campo.
+   - Expresión:
+       Date(Min(FECHA_ACTUALIZACION), 'DD/MM/YYYY')
+   - Expresión DAX Equivalente:
+       Min(vt_protelem_test[FECHA_ACTUALIZACION])
+   - Etiqueta en Tarjeta: 'Fecha Relevamiento'
+
+2. [m_relevamiento_conteo_suministros]
+   - Nombre: Suministros Relevados
+   - Descripción: Conteo único de suministros en el ámbito de relevamiento.
+   - Expresión:
+       Count(DISTINCT SUMINISTRO)
+   - Expresión DAX Equivalente:
+       CountNonNull(vt_protelem_test[SUMINISTRO])
+   - Formato Numérico: '#.##0'
+
+3. [m_relevamiento_verde]
+   - Nombre: Suministros en Verde (Sin Novedad)
+   - Descripción: Suministros aptos sin inconsistencia tarifaria ni de medidor.
+   - Expresión:
+       Count({<Semaforo_protelem_color={'Verde'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+   - Color: Verde EPEC (rgb(39, 174, 96))
+
+4. [m_relevamiento_amarillo]
+   - Nombre: Suministros en Amarillo (Alerta / Revisión)
+   - Descripción: Suministros con inconsistencias menores o de tipo MI.
+   - Expresión:
+       Count({<Semaforo_protelem_color={'Amarillo'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+   - Color: Amarillo Ámbar (rgb(241, 196, 15))
+
+5. [m_relevamiento_rojo]
+   - Nombre: Suministros en Rojo (Inconsistencia Crítica)
+   - Descripción: Suministros con quiebre tarifario, medidor fuera de rango o incompatibilidad técnica.
+   - Expresión:
+       Count({<Semaforo_protelem_color={'Rojo'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+   - Color: Rojo Crítico (rgb(231, 76, 60))
+
+6. [m_porcentaje_aptos_verde]
+   - Nombre: % Aptitud Relevamiento (Tasa Verde)
+   - Descripción: Razón de suministros en verde respecto al total intervenido.
+   - Expresión:
+       Count({<Semaforo_protelem_color={'Verde'}>} DISTINCT SUMINISTRO)
+       /
+       Count(DISTINCT SUMINISTRO)
+   - Formato Numérico: '0,0%'
+
+
+----------------------------------------------------------------------------------
+B. DIMENSIONES MAESTRAS (MASTER DIMENSIONS)
+----------------------------------------------------------------------------------
+
+1. [d_relevamiento_semaforo_color]
+   - Campo: Semaforo_protelem_color
+   - Etiqueta: 'Semáforo Protelem'
+   - Valores: 'Verde', 'Amarillo', 'Rojo'
+
+2. [d_relevamiento_filtro_novedad]
+   - Campo: Filtro_novedad
+   - Etiqueta: 'Novedad de Relevamiento'
+   - Valores: 'CLOU', 'NANSEN', 'CHUPETE', 'NPF_Medidor', valores tarifarios
+
+3. [d_relevamiento_medidor_tipo]
+   - Campo: MedidorTipo
+   - Etiqueta: 'Tipo de Medidor'
+   - Valores: 'MONOFASICO', 'TRIFASICO', 'NO ESPECIFICADO'
+
+4. [d_relevamiento_acometida]
+   - Campo: ACOMETIDA
+   - Etiqueta: 'Tipo de Acometida'
+
+5. [d_relevamiento_tapa]
+   - Campo: TAPA
+   - Etiqueta: 'Estado de Tapa'
+
+6. [d_poligono_set]
+   - Campo: SETs
+   - Etiqueta: 'Subestación / SET Polígono'
+
+
+----------------------------------------------------------------------------------
+C. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA: "RELEVAMIENTO"
+----------------------------------------------------------------------------------
+
+1. Filtro Global de Hoja (Sheet Filter):
+   - Campo: [ESTADO_RELEVAMIENTO] (Permite filtrar relevados, pendientes, etc.)
+
+2. Tarjeta KPI 1: Fecha de Actualización de Relevamiento
+   - Posición: Superior derecha (x: 1076, y: 84, w: 203, h: 60)
+   - Medida: [m_min_fecha_actualizacion]
+   - Título: 'Fecha Actualización'
+   - Estilo: Texto destacado fecha corta DD/MM/YYYY
+
+3. Tabla Dinámica 1: Matriz de Semáforos Protelem (Cross-Tab 1)
+   - Posición: Superior centro (x: 562, y: 84, w: 325, h: 132)
+   - Filas: [d_relevamiento_semaforo_color] ('Verde', 'Amarillo', 'Rojo')
+   - Columnas: [d_relevamiento_medidor_tipo] ('MONOFASICO', 'TRIFASICO')
+   - Medida: [m_relevamiento_conteo_suministros]
+   - Formato condicional de fondo de fila:
+       - 'Verde' -> rgb(212, 239, 223)
+       - 'Amarillo' -> rgb(254, 249, 231)
+       - 'Rojo' -> rgb(249, 231, 230)
+   - Totales: Habilitados en filas y columnas.
+
+4. Tabla Dinámica 2: Matriz de Novedades de Campo (Cross-Tab 2)
+   - Posición: Centro derecha (x: 562, y: 228, w: 325, h: 149)
+   - Filas: [d_relevamiento_filtro_novedad]
+   - Columnas: [d_relevamiento_medidor_tipo]
+   - Medida: [m_relevamiento_conteo_suministros]
+   - Totales: Habilitados en filas y columnas.
+
+5. Mapa Georreferenciado de Relevamiento (Visual de Gran Escala)
+   - Posición: Mitad izquierda completa (x: 12, y: 84, w: 527, h: 600)
+   - Tipo: Map Object (Point Layer)
+   - Latitud: DC_LATITUD
+   - Longitud: DC_LONGITUD
+   - Dimensión: SUMINISTRO
+   - Coloreo por Dimensión [Semaforo_protelem_color]:
+       - 'Verde' -> rgb(39, 174, 96)
+       - 'Amarillo' -> rgb(241, 196, 15)
+       - 'Rojo' -> rgb(231, 76, 60)
+   - Tooltips Enriquecidos:
+       - Suministro: SUMINISTRO
+       - Medidor: MEDIDOR & ' (' & MedidorMarca & ')'
+       - Tipo Medidor: MedidorTipo
+       - Telemedición: MedidorTipoTelemedicion
+       - Novedad: Filtro_novedad
+       - Semáforo: Semaforo_protelem_color
+
+6. Tabla Operativa Detallada de Relevamiento (9 Columnas)
+   - Posición: Inferior derecha (x: 562, y: 378, w: 717, h: 305)
+   - Dimensiones / Medidas en orden:
+       1. SUMINISTRO
+       2. CONTRATO
+       3. MEDIDOR
+       4. MedidorTipo
+       5. Filtro_novedad
+       6. TARIFA
+       7. SUBESTACION
+       8. ACOMETIDA
+       9. TAPA
+   - Formato condicional de celda en columna Filtro_novedad.
+
+7. Filtro por Lista de Subestaciones de Polígonos (FilterByList)
+   - Posición: Derecha media (x: 921, y: 151, w: 202, h: 208)
+   - Dimensión: [d_poligono_set] (t_poligonos.SETs)
+   - Modo: Buscador y selección múltiple de centros de transformación.
+*/

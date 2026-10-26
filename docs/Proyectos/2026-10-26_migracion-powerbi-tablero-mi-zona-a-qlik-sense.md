@@ -144,21 +144,55 @@ Para erradicar la sobrecarga de DAX en tiempo de renderizado y minimizar el uso 
 
 ---
 
-## 🧭 5. Roadmap de Sprints
+## 📡 5. Sprint 4: Sección Telemetría (Estado de Comunicación y Diagnóstico AMI)
+
+Comprende la migración completa de la página de telemetría de medidores inteligentes de Zona A:
+- **Página Power BI**: `Telemetria` (`ReportSection5bc8ee0e61c683a81806`)
+- **Filtro de Alcance de Hoja**: `TELEMEDIBLE in ('CLOU', 'NANSEN')`
+
+### 5.1. Reglas de Negocio Precalculadas en Script (ETL)
+
+| Campo Calculado Qlik Sense | Expresión Qlik Script | Lógica DAX Original |
+| :--- | :--- | :--- |
+| `Estado_Telemetria` | `If(IsNull(FLAG_TIENE_TELEMETRIA), 'Nunca telemedido', Estado_Telemetria)` | `SWITCH(IF([Nunca telemedido]=-1, -1, [Telemetria_<6]), -1, "Nunca telemedido", 0, "Ok", 1, "Sin telemetria")` |
+| `[Telemetria_<6]` | `If(IsNull(FLAG_TIENE_TELEMETRIA), 1, Alt([Telemetria_<6], 1))` | `IF(TODAY() - RELATED(LEC_ACTUAL_FECHA) < 6, 0, 1)` |
+| `FLAG_TELEMETRIA_OK` | `If(IsNull(FLAG_TIENE_TELEMETRIA), 0, If(Estado_Telemetria = 'Ok', 1, 0))` | Filtro DAX sobre `Estado_Telemetria = "Ok"` |
+| `FLAG_SIN_TELEMETRIA` | `If(Estado_Telemetria = 'Sin telemetria', 1, 0)` | Filtro DAX sobre `Estado_Telemetria = "Sin telemetria"` |
+| `FLAG_NUNCA_TELEMEDIDO` | `If(IsNull(FLAG_TIENE_TELEMETRIA), 1, 0)` | `IF(ISBLANK(EQUIPO_NUMERO), -1, 0)` |
+| `suministro_plan` | `Alt(suministro_plan, If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 1, 0))` | Columna de plan AMI de despliegue |
+| `PERIODO_ULTIMA_TELEMEDIDA` | `Date(MonthStart(FECHA_ULTIMA_TELEMEDIDA), 'YYYY-MM')` | Jerarquía temporal de `LEC_ACTUAL_FECHA` |
+
+### 5.2. Mapeo de Componentes Visuales
+
+| Componente Visual | Tipo de Objeto Qlik Sense | Métrica / Dimensión Maestra |
+| :--- | :--- | :--- |
+| **KPI Medidores Instalados** | KPI Card Principal | `Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)` |
+| **KPI % Telemetría OK** | KPI Card (Verde) | `Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_TELEMETRIA_OK={1}>} DISTINCT SUMINISTRO) / Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)` |
+| **KPI % Sin Telemetría** | KPI Card (Ámbar) | `Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_SIN_TELEMETRIA={1}>} DISTINCT SUMINISTRO) / Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)` |
+| **KPI % Nunca Telemedido** | KPI Card (Rojo) | `Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_NUNCA_TELEMEDIDO={1}>} DISTINCT SUMINISTRO) / Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)` |
+| **Diagnóstico x Subestación** | Tabla con formato semafórico | Dim: `SUBESTACION` \| Medidas: `Total Medidores`, `Sum([Telemetria_<6])` (`no telemide`), `no telemide_%` |
+| **Diagnóstico x Plan Despliegue** | Tabla de Diagnóstico | Dim: `suministro_plan` \| Medidas: `Total Medidores`, `no telemide`, `no telemide_%` |
+| **Diagnóstico x Marca / Modelo** | Tabla de Diagnóstico | Dim: `TELEMEDIBLE` \| Medidas: `Total Medidores`, `no telemide`, `no telemide_%` |
+| **Mapa Georreferenciado** | Map Object (Point Layer) | Lat/Long: `DC_LATITUD`, `DC_LONGITUD` \| Dim: `SUMINISTRO` \| Color por `Estado_Telemetria` (Verde/Amarillo/Rojo) |
+| **Tabla Detalle Operativa (11 cols)** | Tabla Detalle | `SUMINISTRO`, `CONTRATO`, `MEDIDOR`, `MedidorTipo`, `TELEMEDIBLE`, `Estado_Telemetria`, `SUBESTACION`, `CALLE`, `ALTURA`, `BARRIO`, `RAZON_SOCIAL` |
+| **Paneles de Filtro** | Filter Panes | `TELEMEDIBLE`, `suministro_plan`, `TARIFA`, `Estado_Telemetria`, `BARRIO`, buscadores de `SUBESTACION` y `MEDIDOR` |
+
+---
+
+## 🧭 6. Roadmap de Sprints
 
 - [x] **Sprint 1**: Extracción de Datos, Cruce de Catálogo QVD EPEC, Ingesta Estática Excel y Arquitectura Base.
 - [x] **Sprint 2**: Sección Suministros (KPIs, Matrices Tarifarias y por Medidor, Tabla de Detalle y Filtros).
 - [x] **Sprint 3**: Sección Ordenativos (Control de Ordenativos, Gestión de Asignación, Mapas y Seguimiento Operativo).
-- [ ] **Sprint 4**: Sección Telemetría (Página `ReportSection5bc8ee0e61c683a81806`, análisis de última telemedida, histogramas y estados de comunicación).
+- [x] **Sprint 4**: Sección Telemetría (KPIs de Comunicación, Diagnósticos por SET/Plan/Marca, Mapa de Enlace y Tabla Detalle).
 - [ ] **Sprint 5**: Sección Relevamiento (Página `ReportSectiond4110ead790635916b9b`, estados de relevamiento, fotos, inconsistencias de campo y control de calidad).
 - [ ] **Sprint 6**: Secciones Tarifas y Lecturas (Páginas `ReportSection5007fbda819c24e70b01` y `ReportSection5765ed7d9baec9ee31e9`).
 
 ---
 
-## 🔒 6. Checkpoint de Estado Guardado y Continuación
+## 🔒 7. Checkpoint de Estado Guardado y Continuación
 
 - **Fecha de Resguardo**: 2026-10-26
-- **Commit Git**: `8d3157d` - *feat(qlik): migracion Power BI Tablero MI Zona A - Sprints 1, 2 y 3*
 - **Entregables Verificados en Downloads**:
   - `01_EXTRACTOR_TELEMETRIA_XXCO_ULTIMA_TELEMEDICION.qvs`
   - `02_EXTRACTOR_COMPLEMENTO_COLUMNAS_ORACLE.qvs`
@@ -166,9 +200,10 @@ Para erradicar la sobrecarga de DAX en tiempo de renderizado y minimizar el uso 
   - `04_MODELO_UNIFICADO_QLIK_SENSE_AMI_ZONA_A.qvs`
   - `05_SPRINT2_SECCION_SUMINISTROS_MEDIDAS_Y_VISUALES.qvs`
   - `06_SPRINT3_SECCION_ORDENATIVOS_MEDIDAS_Y_VISUALES.qvs`
-- **Punto de Partida para la Próxima Sesión**:
-  - **Sprint 4: Sección Telemetría** (`ReportSection5bc8ee0e61c683a81806`).
-  - Métricas a implementar: `MEDIDORES INSTALADOS`, `TELEMETRIA OK`, `SIN TELEMETRIA`, `NUNCA TELEMIDIERON`, ratios `no telemide_%` y tablas de diagnóstico por `SUBESTACION`, `suministro_plan` y `TELEMEDIBLE`.
+  - `07_SPRINT4_SECCION_TELEMETRIA_MEDIDAS_Y_VISUALES.qvs`
+- **Punto de Partida para el Próximo Sprint**:
+  - **Sprint 5: Sección Relevamiento** (`ReportSectiond4110ead790635916b9b`).
+
 
 
 

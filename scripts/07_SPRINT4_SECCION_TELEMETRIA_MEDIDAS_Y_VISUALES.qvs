@@ -1,0 +1,259 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SPRINT 4: SECCIÓN TELEMETRÍA (ESTADO DE COMUNICACIÓN, ENLACE & DIAGNÓSTICO AMI)
+/// Página Power BI Equivalente:
+///   - ReportSection5bc8ee0e61c683a81806 ("Telemetria")
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// ==============================================================================
+
+TRACE >>> ==========================================================;
+TRACE >>> INICIANDO SPRINT 4: SECCIÓN TELEMETRÍA AMI ZONA A;
+TRACE >>> ==========================================================;
+
+// ------------------------------------------------------------------------------
+// 1. INGESTA Y CRUCE OPTIMIZADO DE TELEMETRÍA (XXCO_ULTIMA_TELEMEDICION_VM)
+// ------------------------------------------------------------------------------
+// Los datos de telemetría son generados previamente por el script:
+// [scripts/01_EXTRACTOR_TELEMETRIA_XXCO_ULTIMA_TELEMEDICION.qvs]
+// hacia [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD]
+
+[Telemetria_Diagnostico_Temp]:
+LOAD
+    Num(MEDIDOR)                                        AS MEDIDOR,
+    Text(STE_MARCA)                                     AS TELEMEDIDA_STE_MARCA,
+    Date(FECHA_ULTIMA_TELEMEDIDA)                       AS FECHA_ULTIMA_TELEMEDIDA,
+    Timestamp(LEC_ACTUAL_FECHA)                         AS LEC_ACTUAL_FECHA,
+    [Telemetria_<6],
+    Estado_Telemetria,
+    1                                                   AS FLAG_TIENE_TELEMETRIA,
+    Year(FECHA_ULTIMA_TELEMEDIDA)                       AS ANIO_ULTIMA_TELEMEDIDA,
+    Month(FECHA_ULTIMA_TELEMEDIDA)                      AS MES_ULTIMA_TELEMEDIDA,
+    Date(MonthStart(FECHA_ULTIMA_TELEMEDIDA), 'YYYY-MM') AS PERIODO_ULTIMA_TELEMEDIDA
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD] (qvd);
+
+// ------------------------------------------------------------------------------
+// 2. REGLAS DE NEGOCIO PRECALCULADAS EN SCRIPT PARA RENDIMIENTO ASOCIATIVO
+// ------------------------------------------------------------------------------
+// Mapeo exacto de DAX Power BI:
+//   - 'Nunca telemedido': Si el medidor no figura en XXCO_ULTIMA_TELEMEDICION_VM (FLAG_TIENE_TELEMETRIA IS NULL)
+//   - 'Telemetria_<6': 0 si Today() - UltimaLectura < 6 días; 1 si >= 6 días o nulo
+//   - 'Estado_Telemetria':
+//         - 'Nunca telemedido' (flag = -1)
+//         - 'Ok' (Telemetria_<6 = 0)
+//         - 'Sin telemetria' (Telemetria_<6 = 1)
+//   - 'no telemide' = SUM(Telemetria_<6)
+//   - 'no telemide_%' = SUM(Telemetria_<6) / DISTINCTCOUNT(MEDIDOR)
+
+LEFT JOIN ([vt_protelem])
+LOAD
+    MEDIDOR,
+    TELEMEDIDA_STE_MARCA,
+    FECHA_ULTIMA_TELEMEDIDA,
+    LEC_ACTUAL_FECHA,
+    ANIO_ULTIMA_TELEMEDIDA,
+    MES_ULTIMA_TELEMEDIDA,
+    PERIODO_ULTIMA_TELEMEDIDA,
+    FLAG_TIENE_TELEMETRIA,
+
+    // Estado Telemetría Unificado
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 'Nunca telemedido', Estado_Telemetria) AS Estado_Telemetria,
+
+    // Flag de comunicación < 6 días (1 = no telemide, 0 = telemide ok)
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 1, Alt([Telemetria_<6], 1))          AS [Telemetria_<6],
+
+    // Flags booleanos precalculados para Set Analysis instantáneo
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 0, If(Estado_Telemetria = 'Ok', 1, 0)) AS FLAG_TELEMETRIA_OK,
+    If(Estado_Telemetria = 'Sin telemetria', 1, 0)                          AS FLAG_SIN_TELEMETRIA,
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 1, 0)                                 AS FLAG_NUNCA_TELEMEDIDO,
+
+    // Plan de Despliegue (suministro_plan) normalizado
+    Alt(suministro_plan, If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 1, 0)) AS suministro_plan
+RESIDENT [Telemetria_Diagnostico_Temp];
+
+DROP TABLE [Telemetria_Diagnostico_Temp];
+
+TRACE >>> ==========================================================;
+TRACE >>> SPRINT 4: TRANSFORMACIÓN DE TELEMETRÍA FINALIZADA;
+TRACE >>> ==========================================================;
+
+
+/// ==============================================================================
+/// CATÁLOGO DE ELEMENTOS MAESTROS (MASTER ITEMS) PARA QLIK SENSE
+/// ==============================================================================
+
+/*
+----------------------------------------------------------------------------------
+A. MEDIDAS MAESTRAS (MASTER MEASURES)
+----------------------------------------------------------------------------------
+
+1. [m_medidores_instalados]
+   - Nombre: Medidores Inteligentes Instalados
+   - Descripción: Conteo único de suministros con medidores inteligentes (CLOU y NANSEN).
+   - Expresión Script Optimizada:
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)
+   - Expresión DAX Equivalente:
+       CALCULATE(DISTINCTCOUNT(vt_protelem_[SUMINISTRO]), FILTER(vt_protelem_, vt_protelem_[TELEMEDIBLE] in {"CLOU","NANSEN"}))
+   - Formato Numérico: '#.##0'
+   - Etiqueta en Visuales: 'Medidores Instalados'
+
+2. [m_telemetria_ok_pct]
+   - Nombre: % Telemetría OK (< 6 días)
+   - Descripción: Razón porcentual de medidores inteligentes con telemetría activa reciente.
+   - Expresión Script Optimizada:
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_TELEMETRIA_OK={1}>} DISTINCT SUMINISTRO)
+       /
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)
+   - Expresión DAX Equivalente:
+       DIVIDE(CALCULATE(DISTINCTCOUNT(SUMINISTRO), Estado_Telemetria="Ok"), CALCULATE(DISTINCTCOUNT(SUMINISTRO), ALL()))
+   - Formato Numérico: '0,0%'
+   - Color Condicional: Verde EPEC (rgb(39, 174, 96))
+
+3. [m_sin_telemetria_pct]
+   - Nombre: % Sin Telemetría (>= 6 días)
+   - Descripción: Razón porcentual de medidores que han perdido comunicación por 6 o más días.
+   - Expresión Script Optimizada:
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_SIN_TELEMETRIA={1}>} DISTINCT SUMINISTRO)
+       /
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '0,0%'
+   - Color Condicional: Amarillo/Ámbar Alerta (rgb(241, 196, 15))
+
+4. [m_nunca_telemedieron_pct]
+   - Nombre: % Nunca Telemedieron
+   - Descripción: Medidores desplegados que nunca registraron una lectura en el concentrador MDM.
+   - Expresión Script Optimizada:
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}, FLAG_NUNCA_TELEMEDIDO={1}>} DISTINCT SUMINISTRO)
+       /
+       Count({<TELEMEDIBLE={'CLOU','NANSEN'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '0,0%'
+   - Color Condicional: Rojo Crítico (rgb(231, 76, 60))
+
+5. [m_no_telemide_count]
+   - Nombre: Cantidad Medidores Sin Telemetría (no telemide)
+   - Descripción: Sumatoria de medidores con corte de comunicación reciente.
+   - Expresión:
+       Sum([Telemetria_<6])
+   - Formato Numérico: '#.##0'
+
+6. [m_no_telemide_pct]
+   - Nombre: Tasa de Falla Telemetría (no telemide %)
+   - Descripción: Razón entre medidores sin comunicación y el total de medidores del grupo.
+   - Expresión:
+       Sum([Telemetria_<6]) / Count(DISTINCT MEDIDOR)
+   - Formato Numérico: '0,00%'
+
+7. [m_total_medidores_grupo]
+   - Nombre: Total Medidores en Grupo
+   - Descripción: Recuento distintivo de medidores en la dimensión seleccionada.
+   - Expresión:
+       Count(DISTINCT MEDIDOR)
+   - Formato Numérico: '#.##0'
+
+
+----------------------------------------------------------------------------------
+B. DIMENSIONES MAESTRAS (MASTER DIMENSIONS)
+----------------------------------------------------------------------------------
+
+1. [d_telemetria_estado]
+   - Campo: Estado_Telemetria
+   - Etiqueta: 'Estado de Telemetría'
+   - Valores: 'Ok', 'Sin telemetria', 'Nunca telemedido'
+
+2. [d_telemetria_subestacion]
+   - Campo: SUBESTACION
+   - Etiqueta: 'Subestación (SET)'
+
+3. [d_telemetria_plan]
+   - Campo: suministro_plan
+   - Etiqueta: 'Plan de Despliegue AMI'
+   - Formato / Valores: 1 = 'En Plan', 0 = 'Fuera de Plan'
+
+4. [d_telemetria_tipo_medidor]
+   - Campo: TELEMEDIBLE
+   - Etiqueta: 'Tipo / Marca Telemedible'
+   - Valores: 'CLOU', 'NANSEN', 'CHUPETE', 'OTROS'
+
+5. [d_telemetria_jerarquia_fecha]
+   - Tipo: Jerarquía Drill-Down
+   - Campos: ANIO_ULTIMA_TELEMEDIDA -> MES_ULTIMA_TELEMEDIDA -> PERIODO_ULTIMA_TELEMEDIDA
+   - Etiqueta: 'Jerarquía Temporal de Última Telemedición'
+
+
+----------------------------------------------------------------------------------
+C. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA: "TELEMETRÍA"
+----------------------------------------------------------------------------------
+
+1. Filtro Global de Hoja (Sheet Filter):
+   - Pre-selección / Set Analysis recomendado: [TELEMEDIBLE] = {'CLOU', 'NANSEN'}
+
+2. Tarjeta KPI 1: Medidores Instalados (Visual Principal Destacado)
+   - Posición: Superior izquierda
+   - Medida: [m_medidores_instalados]
+   - Subtítulo: 'Parque Total CLOU y NANSEN en Zona A'
+   - Formato: '#.##0'
+
+3. Bloque de 3 KPIs de Estado de Enlace:
+   - KPI 2A: Nunca Telemedieron -> [m_nunca_telemedieron_pct] (Rojo rgb(231, 76, 60))
+   - KPI 2B: Sin Telemetría -> [m_sin_telemetria_pct] (Ámbar rgb(241, 196, 15))
+   - KPI 2C: Telemetría OK -> [m_telemetria_ok_pct] (Verde rgb(39, 174, 96))
+
+4. Tabla de Diagnóstico 1: Pérdida de Comunicación por Subestación (SET)
+   - Dimensión: [SUBESTACION]
+   - Columnas:
+       1. Total Medidores: [m_total_medidores_grupo]
+       2. Sin Enlace: [m_no_telemide_count]
+       3. Tasa de Falla: [m_no_telemide_pct]
+   - Formato Condicional de Celda en Tasa de Falla:
+       - Si > 15% -> Fondo Rojo suave (rgb(249, 231, 230)), Texto Rojo oscuro
+       - Si entre 5% y 15% -> Fondo Amarillo suave (rgb(254, 249, 231))
+       - Si <= 5% -> Fondo Verde suave (rgb(212, 239, 223))
+
+5. Tabla de Diagnóstico 2: Pérdida de Comunicación por Plan de Despliegue
+   - Dimensión: [suministro_plan]
+   - Columnas: [m_total_medidores_grupo], [m_no_telemide_count], [m_no_telemide_pct]
+
+6. Tabla de Diagnóstico 3: Pérdida de Comunicación por Marca Telemedible
+   - Dimensión: [TELEMEDIBLE] (CLOU vs NANSEN)
+   - Columnas: [m_total_medidores_grupo], [m_no_telemide_count], [m_no_telemide_pct]
+
+7. Mapa Georreferenciado: Calidad de Enlace y Fallas de Comunicación
+   - Tipo: Map Object (Point Layer)
+   - Latitud: DC_LATITUD
+   - Longitud: DC_LONGITUD
+   - Dimensión: SUMINISTRO
+   - Coloreo por Dimensión [Estado_Telemetria]:
+       - 'Ok' -> Verde (rgb(39, 174, 96))
+       - 'Sin telemetria' -> Amarillo (rgb(241, 196, 15))
+       - 'Nunca telemedido' -> Rojo (rgb(231, 76, 60))
+   - Tooltips Enriquecidos:
+       - Suministro: SUMINISTRO
+       - Medidor: MEDIDOR
+       - Subestación: SUBESTACION
+       - Razón Social: RAZON_SOCIAL
+       - Marca: TELEMEDIBLE
+       - Estado: Estado_Telemetria
+       - Última Lectura: Date(FECHA_ULTIMA_TELEMEDIDA, 'DD/MM/YYYY')
+
+8. Tabla Operativa Detallada de Telemetría (11 Columnas)
+   - Dimensiones / Medidas en orden:
+       1. SUMINISTRO
+       2. CONTRATO
+       3. MEDIDOR
+       4. MedidorTipo (Monofásico / Trifásico)
+       5. TELEMEDIBLE (CLOU / NANSEN)
+       6. Estado_Telemetria
+       7. SUBESTACION
+       8. CALLE
+       9. ALTURA
+       10. BARRIO
+       11. RAZON_SOCIAL
+   - Formato condicional de celda en columna 6 (Estado_Telemetria) respetando la paleta semafórica oficial.
+
+9. Paneles de Filtrado (Filter Panes):
+   - Filtro 1: [TELEMEDIBLE]
+   - Filtro 2: [suministro_plan]
+   - Filtro 3: [TARIFA]
+   - Filtro 4: [Estado_Telemetria]
+   - Filtro 5: [BARRIO]
+   - Buscador de texto: [SUBESTACION], [MEDIDOR], [SUMINISTRO]
+*/

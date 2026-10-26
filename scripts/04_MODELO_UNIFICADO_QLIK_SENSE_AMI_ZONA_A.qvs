@@ -238,9 +238,17 @@ LOAD
     // 5. Filtro Telemedible
     If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN', 'CHUPETE') > 0, 1, 0) AS FiltroTelemed,
 
-    // 6. Estado de Telemetría definitivo
-    If(IsNull(FLAG_TIENE_TELEMETRIA), 'Nunca telemedido', Estado_Telemetria) AS Estado_Telemetria_Final,
+    // 6. Estado de Telemetría definitivo, Flags y Diagnóstico (Sprint 4)
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 'Nunca telemedido', Estado_Telemetria) AS Estado_Telemetria,
     If(IsNull(FLAG_TIENE_TELEMETRIA), -1, 0) AS [Nunca telemedido],
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 1, Alt([Telemetria_<6], 1)) AS [Telemetria_<6],
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 0, If(Estado_Telemetria = 'Ok', 1, 0)) AS FLAG_TELEMETRIA_OK,
+    If(Estado_Telemetria = 'Sin telemetria', 1, 0) AS FLAG_SIN_TELEMETRIA,
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 1, 0) AS FLAG_NUNCA_TELEMEDIDO,
+    Alt(suministro_plan, If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN') > 0, 1, 0)) AS suministro_plan,
+    Year(FECHA_ULTIMA_TELEMEDIDA) AS ANIO_ULTIMA_TELEMEDIDA,
+    Month(FECHA_ULTIMA_TELEMEDIDA) AS MES_ULTIMA_TELEMEDIDA,
+    Date(MonthStart(FECHA_ULTIMA_TELEMEDIDA), 'YYYY-MM') AS PERIODO_ULTIMA_TELEMEDIDA,
 
     // 7. Tipo de Medidor
     If(Len(Trim(Rango_Medidor_Tipo)) > 0, Rango_Medidor_Tipo, MEDIDOR_FASE) AS MedidorTipo,

@@ -1,0 +1,475 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT DE TRANSFORMACIÓN Y MODELADO DE DATOS (APP QLIK SENSE)
+/// Módulo: Capa 2 - Transformación, Reglas de Negocio Precalculadas y Modelo Dimensional
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// Arquitectura: Pre-cálculo masivo en Script -> Set Analysis Mínimo en Frontend
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='$#.##0,00;$-#.##0,00';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+SET FirstWeekDay=0;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='es-AR';
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 1]: TABLAS DE MAPEO Y CONFIGURACIÓN TARIFARIA;
+TRACE >>> ==========================================================;
+
+// Mapeo de Tarifas RESTO - PICO - VALLE
+[Map_Tarifas_RestoPicoValle]:
+MAPPING LOAD
+    Text(Tarifa),
+    'Factura RESTO - PICO - VALLE'
+INLINE [
+Tarifa
+0
+32
+33
+136
+137
+138
+139
+146
+147
+149
+157
+162
+163
+233
+241
+245
+262
+301
+302
+303
+311
+312
+321
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+350
+351
+352
+353
+354
+355
+356
+357
+358
+371
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+516
+533
+534
+543
+544
+547
+550
+562
+572
+574
+576
+587
+588
+589
+592
+606
+609
+662
+704
+712
+713
+801
+811
+812
+821
+822
+823
+824
+831
+833
+835
+901
+902
+923
+924
+925
+926
+2411
+3550
+3551
+];
+
+// Mapeo Maestro de Tarifas (desde QVD de Tarifas o Excel)
+// Si existe en lib://, se lee desde QVD, de lo contrario se usa la definición canónica
+[Map_Tarifas_MI]:
+MAPPING LOAD
+    Text(TarClaTe) AS TarClaTe,
+    Num(MI) AS MI
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Tarifas.qvd] (qvd);
+
+[Map_Tarifas_FiltroCE]:
+MAPPING LOAD
+    Text(TarClaTe) AS TarClaTe,
+    Text(FiltroCE_MI) AS FiltroCE_MI
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Tarifas.qvd] (qvd);
+
+[Map_Tarifas_Desc]:
+MAPPING LOAD
+    Text(TarClaTe) AS TarClaTe,
+    Text(DESCRIPCION) AS DESCRIPCION_TARIFA_MAESTRA
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Tarifas.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 2]: INGESTA DE EXTRACTORES Y DATOS TELEMEDIDOS;
+TRACE >>> ==========================================================;
+
+// 1. Cargar Extractor Oracle GEOREF (Generado en Sprint 1)
+[GEOREF_EXTRACTOR]:
+LOAD
+    Num(SUMINISTRO)                         AS SUMINISTRO,
+    Text(ESTADO_RELEVAMIENTO_GEOREF)        AS ESTADO_RELEVAMIENTO_GEOREF,
+    Text(DC)                                AS DC_GEOREF,
+    Text(ORIGEN_DC)                         AS ORIGEN_DC_GEOREF
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_SUMINI_FECHA_TELEMEDIBLE.QVD] (qvd);
+
+// 2. Cargar Última Telemedida por Medidor
+[TELEMEDIDAS_ULTIMA]:
+LOAD
+    Num(EQUIPO_NUMERO)                      AS MEDIDOR,
+    Date(Floor(LEC_ACTUAL_FECHA))           AS FECHA_ULTIMA_TELEMEDIDA,
+    Timestamp(LEC_ACTUAL_FECHA)             AS TIMESTAMP_ULTIMA_TELEMEDIDA,
+    Text(STE_MARCA)                         AS TELEMEDIDA_STE_MARCA,
+    Text(MEDIDOR_FASE)                      AS TELEMEDIDA_MEDIDOR_FASE,
+    Num(E)                                  AS TELE_E,
+    Num(EAR)                                AS TELE_EAR,
+    Num(EAP)                                AS TELE_EAP,
+    Num(EAV)                                AS TELE_EAV,
+    Num(DP)                                 AS TELE_DP,
+    Num(DV)                                 AS TELE_DV,
+    Num(DR)                                 AS TELE_DR,
+    Num(IE)                                 AS TELE_IE,
+    Num(ERT)                                AS TELE_ERT,
+    Num(IEV)                                AS TELE_IEV,
+    Num(IEP)                                AS TELE_IEP,
+    Num(IER)                                AS TELE_IER,
+    // Pre-cálculo de Cuadrantes Medidos en Script
+    Trim(
+        If(Num(E)   >= 0, 'E,', '') &
+        If(Num(EAR) >= 0, 'EAR,', '') &
+        If(Num(EAP) >= 0, 'EAP,', '') &
+        If(Num(EAV) >= 0, 'EAV,', '') &
+        If(Num(IE)  >= 0, 'IE,', '') &
+        If(Num(IER) >= 0, 'IER,', '') &
+        If(Num(IEP) >= 0, 'IEP,', '') &
+        If(Num(IEV) >= 0, 'IEV,', '') &
+        If(Num(ERT) >= 0, 'ERT,', '') &
+        If(Num(DR)  >= 0, 'DR,', '') &
+        If(Num(DP)  >= 0, 'DP,', '') &
+        If(Num(DV)  >= 0, 'DV', '')
+    )                                       AS CUADRANTES_MEDIDOS,
+    1                                       AS FLAG_TIENE_REGISTRO_TELEMEDIDA
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Capa_TELEMEDIDAS_ultima_telemedida.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 3]: RANGOS DE MEDIDORES E INTERVALMATCH;
+TRACE >>> ==========================================================;
+
+[RANGO_MEDIDORES_TABLA]:
+LOAD
+    Num(Desde)                  AS Desde,
+    Num(Hasta)                  AS Hasta,
+    Text([Medidor Tipo])        AS Rango_Medidor_Tipo,
+    Text([Medidor Telemedicion])AS Rango_Medidor_Telemedicion,
+    Num(MI_CC)                  AS Rango_MI_CC,
+    Num([MI_C.ESP])             AS Rango_MI_CESP,
+    Text(CH_Compatibilidad)     AS Rango_CH_Compatibilidad
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Rango_Medidores.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 4]: TABLA MAESTRA CONSOLIDADA: vt_protelem_ami;
+TRACE >>> ==========================================================;
+
+[vt_protelem_raw]:
+LOAD
+    Num(CLIENTE)                            AS CLIENTE,
+    Num(SUMINISTRO)                         AS SUMINISTRO,
+    Text(ESTADO_SERVICIO)                   AS ESTADO_SERVICIO,
+    Text(TIPO_CLIENTE)                      AS TIPO_CLIENTE,
+    Text(GRUPO_LECTURA)                     AS GRUPO_LECTURA,
+    Text(CONTRATO)                          AS CONTRATO,
+    Text(ESTADO_CONTRATO)                   AS ESTADO_CONTRATO,
+    Date(Floor(FECHA_FIN))                  AS FECHA_FIN,
+    Text(SEA)                               AS SEA,
+    Text(DISTRIBUIDOR)                      AS DISTRIBUIDOR,
+    Num(SUBESTACION)                        AS SUBESTACION,
+    Text(PCT)                               AS PCT,
+    Text(TELEMEDIBLE)                       AS TELEMEDIBLE,
+    Text(SRV_TELEMEDIBLE)                   AS SRV_TELEMEDIBLE,
+    Num(MEDIDOR)                            AS MEDIDOR,
+    Date(Floor(FECHA_INSTALACION))          AS FECHA_INSTALACION,
+    Date(Floor(FECHA_RETIRO))               AS FECHA_RETIRO,
+    Text(PROTELEM)                          AS PROTELEM,
+    Text(TIPO_ORDENATIVO)                   AS TIPO_ORDENATIVO,
+    Date(Floor(FECHA_GENERACION))           AS FECHA_GENERACION,
+    Date(Floor(FECHA_EJECUCION))            AS FECHA_EJECUCION,
+    Text(SECTOR_EJECUTANTE)                 AS SECTOR_EJECUTANTE,
+    Text(ZONA)                              AS ZONA,
+    Num(DISTRITO)                           AS DISTRITO,
+    Text(DISTRITO_DESCRIPCION)              AS DISTRITO_DESCRIPCION,
+    Text(REL_ID)                            AS REL_ID,
+    Date(Floor(REL_FECHA_ALTA))             AS REL_FECHA_ALTA,
+    Date(Floor(FECHA_ACTUALIZACION))        AS FECHA_ACTUALIZACION,
+    Text(ESTADO_RELEVAMIENTO)               AS ESTADO_RELEVAMIENTO,
+    Text(MEDIDOR_RELEVADO)                  AS MEDIDOR_RELEVADO,
+    Text(MEDIDOR_RELEVADO_ID)               AS MEDIDOR_RELEVADO_ID,
+    Text(ACOMETIDA)                         AS ACOMETIDA,
+    Text(TAPA)                              AS TAPA,
+    Text(NUMERO_ORDENATIVO)                 AS NUMERO_ORDENATIVO,
+    Num(DC_LATITUD)                         AS DC_LATITUD,
+    Num(DC_LONGITUD)                        AS DC_LONGITUD,
+    Text(RUTA_LECTURA)                      AS RUTA_LECTURA,
+    Num(ORDEN_LECTURA)                      AS ORDEN_LECTURA,
+    Date(Floor(TELEMEDIBLE_DESDE))          AS TELEMEDIBLE_DESDE,
+    Text(MEDIDOR_FASE)                      AS MEDIDOR_FASE,
+    Text(TARIFA)                            AS TARIFA,
+    Text(CLASE)                             AS CLASE,
+    Text(TENSION)                           AS TENSION,
+    Text(TARIFA & CLASE & TENSION)          AS TarClaTe,
+    Text(SECTOR_RESPONSABLE)                AS SECTOR_RESPONSABLE,
+    Date(Floor(FECHA_INICIO))               AS FECHA_INICIO,
+    Text(USUARIO_RESPONSABLE)               AS USUARIO_RESPONSABLE,
+    Text(RAZON_SOCIAL)                      AS RAZON_SOCIAL,
+    Num(DEMANDA_CNT_PICO)                   AS DEMANDA_CNT_PICO,
+    Num(DEMANDA_CNT_FUERA)                  AS DEMANDA_CNT_FUERA,
+    Text(OBSERVACIONES_MEDIDOR)             AS OBSERVACIONES_MEDIDOR,
+    Text(ORD_DATOS_ADICIONALES)             AS ORD_DATOS_ADICIONALES,
+    Text(ORD_DATOS_RESULTADO)               AS ORD_DATOS_RESULTADO,
+    Text(DESCRIPCION_TARIFA)                AS DESCRIPCION_TARIFA,
+    Text(DESCRIPCION_CLASE)                 AS DESCRIPCION_CLASE,
+    Text(REL_DATO_CATASTRAL)                AS REL_DATO_CATASTRAL,
+    Text(REL_OBSERVACIONES)                 AS REL_OBSERVACIONES,
+    Text(CALLE)                             AS CALLE,
+    Text(ALTURA)                            AS ALTURA,
+    Text(BARRIO)                            AS BARRIO,
+    Text(DOMICILIO_PISO)                    AS DOMICILIO_PISO,
+    Text(DOMICILIO_DEPTO)                   AS DOMICILIO_DEPTO,
+    Text(ORIGEN)                            AS ORIGEN,
+    Text(ZONA & SUBESTACION)                AS [Zona-Set],
+    Text(foto_med_relevado)                 AS foto_med_relevado,
+    Text(foto_tapa_relevada)                AS foto_tapa_relevada,
+    Text(foto_acomet_relevada)              AS foto_acomet_relevada,
+    Text(MEDIDOR_MARCA)                     AS MEDIDOR_MARCA,
+    Num(suministro_plan)                    AS suministro_plan,
+    Text(ORD_RESULTADO)                     AS ORD_RESULTADO,
+    Text(ORD_ESTADO)                        AS ORD_ESTADO,
+    Text(ORD_SITUACION)                     AS ORD_SITUACION,
+    Text(SECTOR_ASIGNADO)                   AS SECTOR_ASIGNADO,
+    Text(REL_TIPO_PH)                       AS REL_TIPO_PH,
+    Num(DISTRITO_CATA)                      AS DISTRITO_CATA,
+    Num(ZONA_CATA)                          AS ZONA_CATA,
+    Num(MZA_CATA)                           AS MZA_CATA,
+    Num(LOTE_CATA)                          AS LOTE_CATA,
+    Num(PH_CATA)                            AS PH_CATA,
+    Num(LOTE_PARTE_DIARIO)                  AS LOTE_PARTE_DIARIO,
+    Date(Floor(FECHA_INCREMENTAL))          AS FECHA_INCREMENTAL,
+    Num(MEDIDOR_SUMI_ACTUAL)                AS MEDIDOR_SUMI_ACTUAL,
+    Num(PORT_LECT)                          AS PORT_LECT
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/vt_protelem.qvd] (qvd);
+
+// Enlace de Rangos de Medidor vía IntervalMatch
+[Bridge_Intervalo_Medidor]:
+IntervalMatch(MEDIDOR)
+LOAD
+    Desde,
+    Hasta
+RESIDENT [RANGO_MEDIDORES_TABLA];
+
+LEFT JOIN ([Bridge_Intervalo_Medidor])
+LOAD
+    Desde,
+    Hasta,
+    Rango_Medidor_Tipo,
+    Rango_Medidor_Telemedicion,
+    Rango_MI_CC
+RESIDENT [RANGO_MEDIDORES_TABLA];
+
+DROP TABLE [RANGO_MEDIDORES_TABLA];
+
+// Consolidación Final de vt_protelem con Enriquecimiento y Flags Precalculados
+[vt_protelem]:
+NoConcatenate
+LOAD
+    *,
+    // 1. Clasificación Fases
+    If(MEDIDOR_FASE = 'M', 'MONOFASICO',
+       If(MEDIDOR_FASE = 'T', 'TRIFASICO', 'NO ESPECIFICADO')) AS nombre_FASES,
+
+    // 2. Clasificación Telemedible
+    If(TELEMEDIBLE = 'OTROS', 'NO INTELIGENTE RELEVADOS', TELEMEDIBLE) AS NOMBRES_TELEMEDIBLE,
+
+    // 3. Factura Resto-Pico-Valle
+    ApplyMap('Map_Tarifas_RestoPicoValle', Text(TARIFA), Null()) AS factura_resto_pico_valle,
+
+    // 4. Mapeos de Tarifas Maestras
+    ApplyMap('Map_Tarifas_MI', TarClaTe, 0) AS Tarifa_MI,
+    ApplyMap('Map_Tarifas_FiltroCE', TarClaTe, 'S/D') AS FiltroTar,
+
+    // 5. Ordenativos: Ejecutados vs Pendientes
+    If(Len(Trim(ORD_RESULTADO)) > 0, 'EJECUTADOS', 'PENDIENTES') AS EJECUTADOSvsPENDIENTES,
+
+    // 6. Ordenativos: Asignación
+    If(ORD_SITUACION = 'P', 'ORDENATIVOS SIN ASIGNAR',
+       If(ORD_SITUACION = 'I' and (IsNull(ORD_RESULTADO) or Len(Trim(ORD_RESULTADO)) = 0),
+          'ORDENATIVOS ASIGNADOS SIN EJECUTAR',
+          'ORDENATIVOS EJECUTADOS')) AS ASIGNACION,
+
+    // 7. Filtro Telemedible Binario
+    If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN', 'CHUPETE') > 0, 1, 0) AS FiltroTelemed,
+
+    // 8. Clave de Medidor Texto
+    Text(MEDIDOR) AS [Medidor - txt]
+RESIDENT [vt_protelem_raw];
+
+DROP TABLE [vt_protelem_raw];
+
+// Incorporar atributos del rango de medidor a vt_protelem
+LEFT JOIN ([vt_protelem])
+LOAD
+    MEDIDOR,
+    Rango_Medidor_Tipo,
+    Rango_Medidor_Telemedicion,
+    Alt(Rango_MI_CC, 0) AS FiltroMed
+RESIDENT [Bridge_Intervalo_Medidor];
+
+DROP TABLE [Bridge_Intervalo_Medidor];
+
+// Incorporar Telemetría y Semáforos Precalculados
+LEFT JOIN ([vt_protelem])
+LOAD
+    MEDIDOR,
+    FECHA_ULTIMA_TELEMEDIDA,
+    TIMESTAMP_ULTIMA_TELEMEDIDA,
+    CUADRANTES_MEDIDOS,
+    // Cálculo Telemetría: Nunca telemedido vs Ok vs Sin telemetría
+    If(IsNull(FLAG_TIENE_REGISTRO_TELEMEDIDA), -1, 0) AS [Nunca telemedido],
+    If(IsNull(FLAG_TIENE_REGISTRO_TELEMEDIDA), 1,
+       If((Today() - FECHA_ULTIMA_TELEMEDIDA) < 6, 0, 1)) AS [Telemetria_<6],
+    If(IsNull(FLAG_TIENE_REGISTRO_TELEMEDIDA), 'Nunca telemedido',
+       If((Today() - FECHA_ULTIMA_TELEMEDIDA) < 6, 'Ok', 'Sin telemetria')) AS Estado_Telemetria
+RESIDENT [TELEMEDIDAS_ULTIMA];
+
+// Cálculo de Semáforos Protelem y Novedad Precalculados
+[vt_protelem_final]:
+NoConcatenate
+LOAD
+    *,
+    // Semáforo Protelem Numérico
+    (Num(Tarifa_MI) + Num(FiltroMed) + Num(FiltroTelemed)) AS Semaforo_protelem_num,
+    
+    // Semáforo Protelem Color
+    Pick(
+        Match((Num(Tarifa_MI) + Num(FiltroMed) + Num(FiltroTelemed)), 0, 1, 2, 3, 5, 6),
+        'Verde', 'Rojo', 'Rojo', 'Rojo', 'Amarillo', 'Rojo'
+    ) AS Semaforo_protelem_color,
+
+    // Filtro Novedad
+    If(FiltroTelemed <> 0, TELEMEDIBLE,
+       If(FiltroMed <> 0, 'NPF_Medidor', FiltroTar)) AS Filtro_novedad,
+
+    // Medidor Tipo con Fallback
+    If(Len(Trim(Rango_Medidor_Tipo)) > 0, Rango_Medidor_Tipo, MEDIDOR_FASE) AS MedidorTipo,
+    Rango_Medidor_Telemedicion AS MedidorTipoTelemedicion
+RESIDENT [vt_protelem];
+
+DROP TABLE [vt_protelem];
+
+// Unir con Datos Georreferenciales de Oracle (GEOREF_EXTRACTOR)
+LEFT JOIN ([vt_protelem_final])
+LOAD
+    SUMINISTRO,
+    ESTADO_RELEVAMIENTO_GEOREF,
+    DC_GEOREF,
+    ORIGEN_DC_GEOREF
+RESIDENT [GEOREF_EXTRACTOR];
+
+DROP TABLE [GEOREF_EXTRACTOR];
+
+RENAME TABLE [vt_protelem_final] TO [vt_protelem];
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 5]: DIMENSIÓN POLÍGONOS;
+TRACE >>> ==========================================================;
+
+[t_poligonos]:
+LOAD
+    Num(SETs)                           AS SETs,
+    Num(POLIGONO)                       AS POLIGONO,
+    Text(TELEMEDIBLE)                   AS POLIGONO_TELEMEDIBLE,
+    Text([ZONA ])                       AS [ZONA_POLIGONO],
+    Num(DISTRITO)                       AS POLIGONO_DISTRITO,
+    Text(OBSERVACION)                   AS POLIGONO_OBSERVACION,
+    Text([CONTRATISTA-DESPLEGADA])      AS [CONTRATISTA-DESPLEGADA],
+    Text(ETAPA)                         AS ETAPA,
+    Text(ORDEN)                         AS POLIGONO_ORDEN,
+    Text([CONTRATISTA-PROPUESTA])       AS [CONTRATISTA-PROPUESTA],
+    Text([Zona-Set])                    AS [Zona-Set],
+    Text([MEDIDOR A INSTALAR])          AS [MEDIDOR A INSTALAR]
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Poligonos.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [FASE 6]: CALENDARIO MAESTRO CANÓNICO;
+TRACE >>> ==========================================================;
+
+[RangoFechas]:
+LOAD
+    Min(FECHA_GENERACION) AS FechaMin,
+    Max(Today())          AS FechaMax
+RESIDENT [vt_protelem];
+
+LET vFechaMin = Num(Peek('FechaMin', 0, 'RangoFechas'));
+LET vFechaMax = Num(Peek('FechaMax', 0, 'RangoFechas'));
+DROP TABLE [RangoFechas];
+
+[t_FECHAS]:
+LOAD
+    Date($(vFechaMin) + IterNo() - 1)       AS Fecha,
+    Year($(vFechaMin) + IterNo() - 1)       AS Año,
+    Month($(vFechaMin) + IterNo() - 1)      AS Mes,
+    Dual(Month($(vFechaMin) + IterNo() - 1) & '-' & Year($(vFechaMin) + IterNo() - 1),
+         Year($(vFechaMin) + IterNo() - 1)*100 + Month($(vFechaMin) + IterNo() - 1)) AS MesAño,
+    Week($(vFechaMin) + IterNo() - 1)       AS Semana,
+    Day($(vFechaMin) + IterNo() - 1)        AS Día,
+    WeekDay($(vFechaMin) + IterNo() - 1)    AS DiaSemana
+AUTOGENERATE 1
+WHILE $(vFechaMin) + IterNo() - 1 <= $(vFechaMax);
+
+TRACE >>> ==========================================================;
+TRACE >>> CARGA DE MODELO Y PRECALCULOS FINALIZADA EXITOSAMENTE;
+TRACE >>> ==========================================================;

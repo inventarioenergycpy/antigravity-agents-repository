@@ -1,0 +1,88 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT EXTRACTOR 2: COLUMNAS COMPLEMENTARIAS DE GEOREF & RELEVAMIENTO
+/// Origen: Base de Datos Oracle EPEC (GEOREF.VW_SUMINISTROS)
+/// Conexión: LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+/// Destino: [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_COMPLEMENTO_SUMINISTROS.QVD]
+/// Propósito: Completar atributos de relevamiento, catastro y PROTELEM no presentes en QVDs estándar
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+
+TRACE >>> [EXTRACTOR COMPLEMENTARIO]: Conectando a Oracle EPEC;
+
+LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+
+TRACE >>> [EXTRACTOR COMPLEMENTARIO]: Extrayendo columnas complementarias desde GEOREF.VW_SUMINISTROS;
+
+[EXT_COMPLEMENTO_SUMINISTROS]:
+LOAD
+    Num("SUMINISTRO")                               AS "SUMINISTRO",
+    Text("ESTADO_RELEVAMIENTO")                     AS "ESTADO_RELEVAMIENTO",
+    Text("DC")                                      AS "DC",
+    Text("ORIGEN_DC")                               AS "ORIGEN_DC",
+    Text("PROTELEM")                                AS "PROTELEM",
+    Text("TIPO_ORDENATIVO")                         AS "TIPO_ORDENATIVO_GEOREF",
+    Date(Floor("FECHA_GENERACION"))                 AS "FECHA_GENERACION_GEOREF",
+    Date(Floor("FECHA_IMPRESION"))                  AS "FECHA_IMPRESION_GEOREF",
+    Date(Floor("FECHA_EJECUCION"))                  AS "FECHA_EJECUCION_GEOREF",
+    Text("ASIGNADO")                                AS "ASIGNADO_GEOREF",
+    Text("SECTOR_EJECUTANTE")                       AS "SECTOR_EJECUTANTE_GEOREF",
+    Text("INCORE")                                  AS "INCORE",
+    Text("RETIRO_A_PEDIDO")                         AS "RETIRO_A_PEDIDO",
+    Num("DC_LATITUD")                               AS "DC_LATITUD",
+    Num("DC_LONGITUD")                              AS "DC_LONGITUD",
+    Num("DISTRITO_CATASTRAL")                       AS "DISTRITO_CATA",
+    Num("ZONA_CATASTRAL")                           AS "ZONA_CATA",
+    Num("MANZANA_CATASTRAL")                        AS "MZA_CATA",
+    Num("LOTE_CATASTRAL")                           AS "LOTE_CATA",
+    Num("PH_CATASTRAL")                             AS "PH_CATA",
+    Text("BARRIO_GEOREF")                           AS "BARRIO_GEOREF",
+    Text("MEDIDOR_MARCA")                           AS "MEDIDOR_MARCA_GEOREF",
+    Text("MEDIDOR_FASES")                           AS "MEDIDOR_FASES_GEOREF",
+    Num("RENABAP")                                  AS "RENABAP",
+    Text("SENSIBILIDAD")                            AS "SENSIBILIDAD",
+    Timestamp(Now())                                AS "FECHA_EXTRACCION_QVD";
+SELECT 
+    "SUMINISTRO",
+    "ESTADO_RELEVAMIENTO",
+    "DC",
+    "ORIGEN_DC",
+    "PROTELEM",
+    "TIPO_ORDENATIVO",
+    "FECHA_GENERACION",
+    "FECHA_IMPRESION",
+    "FECHA_EJECUCION",
+    "ASIGNADO",
+    "SECTOR_EJECUTANTE",
+    "INCORE",
+    "RETIRO_A_PEDIDO",
+    "DC_LATITUD",
+    "DC_LONGITUD",
+    "DISTRITO_CATASTRAL",
+    "ZONA_CATASTRAL",
+    "MANZANA_CATASTRAL",
+    "LOTE_CATASTRAL",
+    "PH_CATASTRAL",
+    "BARRIO_GEOREF",
+    "MEDIDOR_MARCA",
+    "MEDIDOR_FASES",
+    "RENABAP",
+    "SENSIBILIDAD"
+FROM "GEOREF"."VW_SUMINISTROS";
+
+TRACE >>> [EXTRACTOR COMPLEMENTARIO]: Guardando QVD en repositorio JIDIAZ;
+
+STORE [EXT_COMPLEMENTO_SUMINISTROS] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_COMPLEMENTO_SUMINISTROS.QVD] (qvd);
+
+DROP TABLE [EXT_COMPLEMENTO_SUMINISTROS];
+
+DISCONNECT;
+
+TRACE >>> [EXTRACTOR COMPLEMENTARIO]: Proceso finalizado y conexion cerrada.;

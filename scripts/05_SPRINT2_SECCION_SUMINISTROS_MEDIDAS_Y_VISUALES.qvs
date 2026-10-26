@@ -1,0 +1,191 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SPRINT 2: SECCIÓN SUMINISTROS (CATÁLOGO DE MEDIDAS, DIMENSIONES Y VISUALES)
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// Arquitectura: Pre-cálculo de agregaciones y Set Analysis óptimo para Qlik Sense
+/// ==============================================================================
+
+/// ------------------------------------------------------------------------------
+/// 1. VARIABLES DE MEDIDAS MAESTRAS (MASTER MEASURES)
+/// Pegar en el Editor de Script o crear como Elementos Maestros (Master Items)
+/// ------------------------------------------------------------------------------
+
+// 1.1 Total Suministros (Universo total sin filtros o fijado en Zona A)
+SET eTotalSuministros = "Count({1} DISTINCT SUMINISTRO)";
+SET eTotalSuministrosZonaA = "Count({1<ZONA={'A'}>} DISTINCT SUMINISTRO)";
+
+// 1.2 Suministros Selección (Respeta todos los filtros activos del usuario)
+SET eSuministrosSeleccion = "Count(DISTINCT SUMINISTRO)";
+
+// 1.3 Tarjetas KPI de Medidores Inteligentes por Marca / Tipo
+SET eSuministrosCLOU = "Count({<TELEMEDIBLE={'CLOU'}>} DISTINCT SUMINISTRO)";
+SET eSuministrosNANSEN = "Count({<TELEMEDIBLE={'NANSEN'}>} DISTINCT SUMINISTRO)";
+SET eSuministrosCHUPETE = "Count({<TELEMEDIBLE={'CHUPETE'}>} DISTINCT SUMINISTRO)";
+SET eSuministrosNoInteligente = "Count({<TELEMEDIBLE={'OTROS'}>} DISTINCT SUMINISTRO)";
+
+// 1.4 Estado de Telemetría sobre Medidores Inteligentes
+SET eSuministrosConTelemetria = "Count({<Estado_Telemetria={'Ok'}>} DISTINCT SUMINISTRO)";
+SET eSuministrosSinTelemetria = "Count({<Estado_Telemetria={'Sin telemetria'}>} DISTINCT SUMINISTRO)";
+SET eSuministrosNuncaTelemedido = "Count({<Estado_Telemetria={'Nunca telemedido'}>} DISTINCT SUMINISTRO)";
+
+// 1.5 Porcentajes de Conectividad (Base: Medidores Inteligentes Instalados)
+SET ePorcTelemetriaOk = "Num(Count({<Estado_Telemetria={'Ok'}, FiltroTelemed={1}>} DISTINCT SUMINISTRO) / Count({<FiltroTelemed={1}>} DISTINCT SUMINISTRO), '0,00%')";
+SET ePorcSinTelemetria = "Num(Count({<Estado_Telemetria={'Sin telemetria'}, FiltroTelemed={1}>} DISTINCT SUMINISTRO) / Count({<FiltroTelemed={1}>} DISTINCT SUMINISTRO), '0,00%')";
+SET ePorcNuncaTelemedido = "Num(Count({<Estado_Telemetria={'Nunca telemedido'}, FiltroTelemed={1}>} DISTINCT SUMINISTRO) / Count({<FiltroTelemed={1}>} DISTINCT SUMINISTRO), '0,00%')";
+
+// 1.6 Ordenativos Ejecutados y Pendientes
+SET eOrdenativosEjecutados = "Count({<EJECUTADOSvsPENDIENTES={'EJECUTADOS'}>} DISTINCT SUMINISTRO)";
+SET eOrdenativosPendientes = "Count({<EJECUTADOSvsPENDIENTES={'PENDIENTES'}>} DISTINCT SUMINISTRO)";
+
+// 1.7 Expresión de Color Dinámico para Semáforo Protelem
+SET eColorSemaforoProtelem = "If(Semaforo_protelem_color='Verde', RGB(40,167,69), If(Semaforo_protelem_color='Rojo', RGB(220,53,69), RGB(255,193,7)))";
+
+// 1.8 Fecha de Última Actualización del Tablero
+SET eFechaActualizacion = "Date(Max(Alt(FECHA_ACTUALIZACION, FECHA_ACTUALIZACION_TELEMEDIDA, Today())), 'DD/MM/YYYY')";
+
+
+/// ------------------------------------------------------------------------------
+/// 2. DEFINICIÓN DE DIMENSIONES MAESTRAS (MASTER DIMENSIONS)
+/// ------------------------------------------------------------------------------
+
+/*
+1. [Dim_Marca_Telemedible]:
+   Campo: NOMBRES_TELEMEDIBLE
+   Etiqueta: 'Tecnología / Marca'
+   Valores: 'CLOU', 'NANSEN', 'CHUPETE', 'NO INTELIGENTE RELEVADOS'
+
+2. [Dim_Fases]:
+   Campo: nombre_FASES
+   Etiqueta: 'Fases Medidor'
+   Valores: 'MONOFASICO', 'TRIFASICO', 'NO ESPECIFICADO'
+
+3. [Dim_Tarifa_Agrupada]:
+   Campo: TARIFA
+   Etiqueta: 'Cuadro Tarifario EPEC'
+
+4. [Dim_Clase_Tension]:
+   Jerarquía Drill-Down: [CLASE] -> [TENSION]
+   Etiqueta: 'Clase y Tensión'
+
+5. [Dim_Ubicacion_Electrica]:
+   Jerarquía Drill-Down: [ZONA] -> [DISTRIBUIDOR] -> [SUBESTACION] -> [SETs]
+   Etiqueta: 'Jerarquía Red Eléctrica'
+
+6. [Dim_Poligono_Contratista]:
+   Campo: [CONTRATISTA-DESPLEGADA]
+   Etiqueta: 'Contratista Desplegada'
+*/
+
+
+/// ------------------------------------------------------------------------------
+/// 3. ESPECIFICACIÓN TÉCNICA DE LOS OBJETOS VISUALES (PÁGINA SUMINISTROS)
+/// ------------------------------------------------------------------------------
+
+/*
+================================================================================
+A. BANNER SUPERIOR DE TARJETAS KPI (CARDS)
+================================================================================
+1. KPI Total Suministros:
+   - Medida: $(eTotalSuministrosZonaA)
+   - Título: 'TOTAL SUMINISTROS ZONA A'
+   - Formato: #.##0
+
+2. KPI Suministros Selección:
+   - Medida: $(eSuministrosSeleccion)
+   - Título: 'SUMINISTROS SELECCIÓN'
+   - Formato: #.##0
+
+3. KPI Suministros CLOU:
+   - Medida: $(eSuministrosCLOU)
+   - Título: 'CLOU'
+   - Formato: #.##0
+
+4. KPI Suministros NANSEN:
+   - Medida: $(eSuministrosNANSEN)
+   - Título: 'NANSEN'
+   - Formato: #.##0
+
+5. KPI Suministros CHUPETE:
+   - Medida: $(eSuministrosCHUPETE)
+   - Título: 'CHUPETE'
+   - Formato: #.##0
+
+6. KPI Común Relevados:
+   - Medida: $(eSuministrosNoInteligente)
+   - Título: 'COMÚN RELEVADOS (NO INTELIGENTE)'
+   - Formato: #.##0
+
+7. KPI Fecha de Actualización:
+   - Medida: $(eFechaActualizacion)
+   - Título: 'FECHA ACTUALIZACIÓN'
+
+================================================================================
+B. TABLAS DINÁMICAS (PIVOT TABLES)
+================================================================================
+1. Pivot Table 1: 'Suministros por Tarifa y Clase'
+   - Dimensión Fila 1: ZONA
+   - Dimensión Fila 2: TARIFA
+   - Dimensión Columna 1: CLASE
+   - Medida: Count(DISTINCT SUMINISTRO)
+   - Totales: Mostrar totales en filas y columnas
+
+2. Pivot Table 2: 'Medidores por Marca y Plan'
+   - Dimensión Fila 1: NOMBRES_TELEMEDIBLE (Etiqueta: 'MARCA')
+   - Dimensión Fila 2: suministro_plan (Etiqueta: 'PLAN')
+   - Dimensión Columna 1: nombre_FASES (Etiqueta: 'FASES')
+   - Medida: Count(DISTINCT SUMINISTRO)
+   - Ordenamiento: Descendente por cantidad de suministros
+
+================================================================================
+C. GRÁFICO COMBINADO TEMPORAL (COMBO CHART): 'EJECUTADOS POR DÍA / MES'
+================================================================================
+- Dimensión: Dual(Month(FECHA_EJECUCION)&'-'&Year(FECHA_EJECUCION), Year(FECHA_EJECUCION)*100+Month(FECHA_EJECUCION))
+- Medida Barras: Count({<EJECUTADOSvsPENDIENTES={'EJECUTADOS'}>} DISTINCT SUMINISTRO)
+  - Etiqueta: 'Suministros Ejecutados'
+- Medida Línea: RangeSum(Above(Count({<EJECUTADOSvsPENDIENTES={'EJECUTADOS'}>} DISTINCT SUMINISTRO), 0, RowNo()))
+  - Etiqueta: 'Acumulado Ejecutados'
+
+================================================================================
+D. TABLA DE DETALLE OPERATIVO: 'LISTADO DETALLES DE SUMINISTROS'
+================================================================================
+- Dimensiones:
+  1. ZONA
+  2. DISTRITO
+  3. NOMBRES_TELEMEDIBLE
+  4. SUMINISTRO
+  5. CONTRATO
+  6. ESTADO_SERVICIO
+  7. ESTADO_CONTRATO
+  8. FECHA_INICIO
+  9. FECHA_FIN
+  10. RAZON_SOCIAL
+  11. TARIFA
+  12. CLASE
+  13. TENSION
+  14. DEMANDA_CNT_PICO
+  15. DEMANDA_CNT_FUERA
+  16. PCT
+  17. BARRIO
+  18. MEDIDOR_MARCA
+  19. MEDIDOR_FASE
+  20. MEDIDOR
+  21. TELEMEDIBLE_DESDE
+  22. DC_LATITUD
+  23. DC_LONGITUD
+  24. CALLE
+  25. ALTURA
+  26. DOMICILIO_PISO
+  27. DOMICILIO_DEPTO
+- Expresión de Color de Fondo (en columna MEDIDOR o SUMINISTRO):
+  $(eColorSemaforoProtelem)
+
+================================================================================
+E. PANEL DE FILTROS LATERALES (FILTER PANES)
+================================================================================
+1. Filtro Tecnología: NOMBRES_TELEMEDIBLE
+2. Filtro Zona / Distrito: ZONA, DISTRITO_DESCRIPCION
+3. Filtro Régimen Tarifario: factura_resto_pico_valle, TIPO_CLIENTE, TARIFA
+4. Búsqueda Directa: SUMINISTRO, RAZON_SOCIAL, MEDIDOR
+*/
+
+TRACE >>> [SPRINT 2]: Catálogo de medidas y especificación de visuales para Suministros completado exitosamente.;

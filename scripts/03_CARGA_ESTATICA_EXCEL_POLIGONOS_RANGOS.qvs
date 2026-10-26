@@ -1,0 +1,65 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT 3: CARGA ESTÁTICA DESDE EXCEL DE POLÍGONOS Y RANGOS DE MEDIDORES
+/// Fuentes:
+///   1. MASTER_POLIGONOS.xlsx -> Pestaña "POLIGONOS"
+///   2. Master_Rango_Medidores.xlsx -> Pestaña "Hoja1"
+/// Destinos:
+///   - [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Poligonos.qvd]
+///   - [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Rango_Medidores.qvd]
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+
+TRACE >>> [CARGA ESTATICA]: Cargando MASTER_POLIGONOS.xlsx (Pestaña POLIGONOS);
+
+[t_poligonos]:
+LOAD
+    Num("SETs")                             AS "SETs",
+    Num("POLIGONO")                         AS "POLIGONO",
+    Text("TELEMEDIBLE")                     AS "POLIGONO_TELEMEDIBLE",
+    Text("ZONA ")                           AS "ZONA_POLIGONO",
+    Num("DISTRITO")                         AS "POLIGONO_DISTRITO",
+    Text("CONTRATISTA-DESPLEGADA")          AS "CONTRATISTA-DESPLEGADA",
+    Text("OBSERVACION")                     AS "POLIGONO_OBSERVACION",
+    Text("ETAPA")                           AS "ETAPA",
+    Text("ORDEN")                           AS "POLIGONO_ORDEN",
+    Text("CONTRATISTA-PROPUESTA")           AS "CONTRATISTA-PROPUESTA",
+    Text("Zona-Set")                        AS "Zona-Set",
+    Text("MEDIDOR A INSTALAR")              AS "MEDIDOR A INSTALAR"
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/MASTER_POLIGONOS.xlsx]
+(ooxml, embedded labels, table is [POLIGONOS]);
+
+TRACE >>> [CARGA ESTATICA]: Guardando Master_Poligonos.qvd;
+STORE [t_poligonos] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Poligonos.qvd] (qvd);
+DROP TABLE [t_poligonos];
+
+TRACE >>> [CARGA ESTATICA]: Cargando Master_Rango_Medidores.xlsx (Pestaña Hoja1);
+
+[t_Rango_Medidores]:
+LOAD
+    Num("Año")                              AS "Año",
+    Num("Cantidad")                         AS "Cantidad",
+    Num("Desde")                            AS "Desde",
+    Num("Hasta")                            AS "Hasta",
+    Text("Marca")                           AS "Marca",
+    Text("Modelo")                          AS "Modelo",
+    Num("I nominal")                        AS "I nominal",
+    Num("I MAX")                            AS "I MAX",
+    Num("LIMITE TECNICO (KW)")              AS "LIMITE TECNICO (KW)",
+    Text("Medidor Conexión")                AS "Medidor Conexión",
+    Text("Medidor Tipo")                    AS "Medidor Tipo",
+    Text("Medidor Telemedicion")            AS "Medidor Telemedicion",
+    Num("MI_CC")                            AS "MI_CC",
+    Num("MI_C.ESP")                         AS "MI_C.ESP",
+    Text("CH_Compatibilidad")               AS "CH_Compatibilidad"
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Rango_Medidores.xlsx]
+(ooxml, embedded labels, header is 3 lines, table is [Hoja1])
+WHERE IsNum(Num("Desde")) AND IsNum(Num("Hasta")) AND Num("Desde") > 0;
+
+TRACE >>> [CARGA ESTATICA]: Guardando Master_Rango_Medidores.qvd;
+STORE [t_Rango_Medidores] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Rango_Medidores.qvd] (qvd);
+DROP TABLE [t_Rango_Medidores];
+
+TRACE >>> [CARGA ESTATICA]: Proceso de generacion de QVDs estaticos finalizado con exito.;

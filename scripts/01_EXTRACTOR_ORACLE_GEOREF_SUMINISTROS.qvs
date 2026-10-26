@@ -1,0 +1,46 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT EXTRACTOR: ORACLE GEOREF A QVD
+/// Módulo: Sprint 1 - Capa de Extractores (Raw Staging)
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// Destino: [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_SUMINI_FECHA_TELEMEDIBLE.QVD]
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='$#.##0,00;$-#.##0,00';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+
+TRACE >>> [FASE 1 - EXTRACTOR]: Conectando a Base de Datos Oracle EPEC;
+
+LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+
+TRACE >>> [FASE 1 - EXTRACTOR]: Extrayendo datos de GEOREF.VW_SUMINISTROS;
+
+[EXT_SUMINI_FECHA_TELEMEDIBLE]:
+LOAD
+    Num("SUMINISTRO")               AS "SUMINISTRO",
+    Text("ESTADO_RELEVAMIENTO")     AS "ESTADO_RELEVAMIENTO_GEOREF",
+    Text("DC")                      AS "DC",
+    Text("ORIGEN_DC")               AS "ORIGEN_DC",
+    Timestamp(Now())                AS "FECHA_EXTRACCION_QVD";
+SELECT 
+    "SUMINISTRO",
+    "ESTADO_RELEVAMIENTO",
+    "DC",
+    "ORIGEN_DC"
+FROM "GEOREF"."VW_SUMINISTROS";
+
+TRACE >>> [FASE 1 - EXTRACTOR]: Almacenando QVD en repositorio de desarrollo JIDIAZ;
+
+STORE [EXT_SUMINI_FECHA_TELEMEDIBLE] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_SUMINI_FECHA_TELEMEDIBLE.QVD] (qvd);
+
+DROP TABLE [EXT_SUMINI_FECHA_TELEMEDIBLE];
+
+DISCONNECT;
+
+TRACE >>> [FASE 1 - EXTRACTOR]: Extracción finalizada y buffer liberado con éxito.;

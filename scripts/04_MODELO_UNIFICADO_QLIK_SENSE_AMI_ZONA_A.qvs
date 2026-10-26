@@ -1,0 +1,313 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT MAESTRO UNIFICADO DE LA APP QLIK SENSE: TABLERO MI - ZONA A
+/// Arquitectura:
+///   1. QVDs Equivalentes Oficiales: COMEDIMSUMINISTROCONTRATO, COMEORDENATIVOS, COMETARIFAS
+///   2. Extractor de Telemetría: JIDIAZ_EXT_ULTIMA_TELEMEDICION (desde XXCO_ULTIMA_TELEMEDICION_VM)
+///   3. Extractor de Complemento: JIDIAZ_EXT_COMPLEMENTO_SUMINISTROS (desde GEOREF.VW_SUMINISTROS)
+///   4. Datos Estáticos de Polígonos: Master_Poligonos.qvd (pestaña POLIGONOS)
+///   5. Datos Estáticos de Rangos: Master_Rango_Medidores.qvd (pestaña Hoja1)
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='$#.##0,00;$-#.##0,00';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+SET FirstWeekDay=0;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='es-AR';
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 1]: MAPEOS TARIFARIOS (RESTO-PICO-VALLE Y MI);
+TRACE >>> ==========================================================;
+
+[Map_Tarifas_RestoPicoValle]:
+MAPPING LOAD
+    Text(Tarifa),
+    'Factura RESTO - PICO - VALLE'
+INLINE [
+Tarifa
+0,32,33,136,137,138,139,146,147,149,157,162,163,233,241,245,262,301,302,303,311,312,321,331,332,333,334,335,336,337,338,339,340,350,351,352,353,354,355,356,357,358,371,402,403,404,405,406,407,408,409,410,411,516,533,534,543,544,547,550,562,572,574,576,587,588,589,592,606,609,662,704,712,713,801,811,812,821,822,823,824,831,833,835,901,902,923,924,925,926,2411,3550,3551
+];
+
+[Map_Tarifas_MI]:
+MAPPING LOAD
+    Text(TarClaTe) AS TarClaTe,
+    Num(MI) AS MI
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Tarifas.qvd] (qvd);
+
+[Map_Tarifas_FiltroCE]:
+MAPPING LOAD
+    Text(TarClaTe) AS TarClaTe,
+    Text(FiltroCE_MI) AS FiltroCE_MI
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Tarifas.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 2]: INGESTA DE TABLA PRINCIPAL (PADRÓN EQUIVALENTE);
+TRACE >>> ==========================================================;
+
+// Ingesta de padrón base desde el QVD equivalente oficial de Qlik Sense
+// (COMEDIMSUMINISTROCONTRATO.QVD o vt_protelem.qvd consolidado)
+[Padron_Base]:
+LOAD
+    Num(CODIGO_SUMINISTRO)                  AS SUMINISTRO,
+    Num(ID_CLIENTE)                         AS CLIENTE,
+    Num(NRO_CONTRATO)                       AS CONTRATO,
+    Text(ESTADO_ACTUAL_SERVICIO)            AS ESTADO_SERVICIO,
+    Text(GRUPO_CONTRATO)                    AS TIPO_CLIENTE,
+    Text(ID_GRUPO_LECTURA)                  AS GRUPO_LECTURA,
+    Text(ESTADO_ACTUAL_CONTRATO)            AS ESTADO_CONTRATO,
+    Date(Floor(FECHA_FIN_CONTRATO))         AS FECHA_FIN,
+    Text(SEA)                               AS SEA,
+    Text(DISTRIBUIDOR)                      AS DISTRIBUIDOR,
+    Num(SUBESTACION)                        AS SUBESTACION,
+    Text(TELEMEDIBLE)                       AS TELEMEDIBLE,
+    Num(ID_EQUIPO_ACTUAL)                   AS MEDIDOR,
+    Text(ID_RUTA_LECTURA)                   AS RUTA_LECTURA,
+    Num(ORDEN_LECTURA)                      AS ORDEN_LECTURA,
+    Text(ID_TARIFA_BASE)                    AS TARIFA,
+    Text(ID_CLASE)                          AS CLASE,
+    Text(ID_TENSION)                        AS TENSION,
+    Text(ID_TARIFA_BASE & ID_CLASE & ID_TENSION) AS TarClaTe,
+    Text(SUMINISTRO_CALLE)                  AS CALLE,
+    Text(SUMINISTRO_NRO_CALLE)              AS ALTURA,
+    Num(LATITUD)                            AS LATITUD,
+    Num(LONGITUD)                           AS LONGITUD,
+    Text('A' & SUBESTACION)                 AS [Zona-Set]
+FROM [lib://QS_GERENCIA_COMERCIAL/COMEDIMSUMINISTROCONTRATO.QVD] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 3]: CRUCE CON EXTRACTOR COMPLEMENTARIO (GEOREF);
+TRACE >>> ==========================================================;
+
+// Left Join con el extractor complementario creado desde GEOREF.VW_SUMINISTROS
+LEFT JOIN ([Padron_Base])
+LOAD
+    Num(SUMINISTRO)                         AS SUMINISTRO,
+    Text(ESTADO_RELEVAMIENTO)               AS ESTADO_RELEVAMIENTO,
+    Text(DC)                                AS DC,
+    Text(ORIGEN_DC)                         AS ORIGEN_DC,
+    Text(PROTELEM)                          AS PROTELEM,
+    Text(TIPO_ORDENATIVO_GEOREF)            AS TIPO_ORDENATIVO,
+    Date(FECHA_GENERACION_GEOREF)           AS FECHA_GENERACION,
+    Date(FECHA_EJECUCION_GEOREF)            AS FECHA_EJECUCION,
+    Text(ASIGNADO_GEOREF)                   AS ASIGNADO,
+    Text(SECTOR_EJECUTANTE_GEOREF)          AS SECTOR_EJECUTANTE,
+    Text(INCORE)                            AS INCORE,
+    Text(RETIRO_A_PEDIDO)                   AS RETIRO_A_PEDIDO,
+    Num(DC_LATITUD)                         AS DC_LATITUD,
+    Num(DC_LONGITUD)                        AS DC_LONGITUD,
+    Num(DISTRITO_CATA)                      AS DISTRITO_CATA,
+    Num(ZONA_CATA)                          AS ZONA_CATA,
+    Num(MZA_CATA)                           AS MZA_CATA,
+    Num(LOTE_CATA)                          AS LOTE_CATA,
+    Num(PH_CATA)                            AS PH_CATA,
+    Text(BARRIO_GEOREF)                     AS BARRIO,
+    Text(MEDIDOR_MARCA_GEOREF)              AS MEDIDOR_MARCA,
+    Text(MEDIDOR_FASES_GEOREF)              AS MEDIDOR_FASE
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_COMPLEMENTO_SUMINISTROS.QVD] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 3.1]: CRUCE CON ORDENATIVOS (COMEORDENATIVOS 2025/2026);
+TRACE >>> ==========================================================;
+
+// Cruce con ordenativos desde QVDs oficiales de Gerencia Comercial
+[Temp_Ordenativos]:
+LOAD
+    Num(SRV_CODIGO)                         AS SUMINISTRO,
+    Num(ORD_NUMERO)                         AS NUMERO_ORDENATIVO,
+    Text(ORD_ESTADO)                        AS ORD_ESTADO,
+    Text(ORD_SITUACION)                     AS ORD_SITUACION,
+    Text(ORD_RESULTADO)                     AS ORD_RESULTADO,
+    Text(ORD_DATOS_RESULTADOS)              AS ORD_DATOS_RESULTADO,
+    Text(ORD_DATOS_ADICIONALES)             AS ORD_DATOS_ADICIONALES,
+    Text(SEC_CODIGO_ORIGEN)                 AS SECTOR_ASIGNADO
+FROM [lib://QS_GERENCIA_COMERCIAL/COMEORDENATIVOS_2026.qvd] (qvd);
+
+CONCATENATE ([Temp_Ordenativos])
+LOAD
+    Num(SRV_CODIGO)                         AS SUMINISTRO,
+    Num(ORD_NUMERO)                         AS NUMERO_ORDENATIVO,
+    Text(ORD_ESTADO)                        AS ORD_ESTADO,
+    Text(ORD_SITUACION)                     AS ORD_SITUACION,
+    Text(ORD_RESULTADO)                     AS ORD_RESULTADO,
+    Text(ORD_DATOS_RESULTADOS)              AS ORD_DATOS_RESULTADO,
+    Text(ORD_DATOS_ADICIONALES)             AS ORD_DATOS_ADICIONALES,
+    Text(SEC_CODIGO_ORIGEN)                 AS SECTOR_ASIGNADO
+FROM [lib://QS_GERENCIA_COMERCIAL/COMEORDENATIVOS_2025.qvd] (qvd);
+
+LEFT JOIN ([Padron_Base])
+LOAD
+    SUMINISTRO,
+    NUMERO_ORDENATIVO,
+    ORD_ESTADO,
+    ORD_SITUACION,
+    ORD_RESULTADO,
+    ORD_DATOS_RESULTADO,
+    ORD_DATOS_ADICIONALES,
+    SECTOR_ASIGNADO
+RESIDENT [Temp_Ordenativos];
+
+DROP TABLE [Temp_Ordenativos];
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 4]: CRUCE CON EXTRACTOR DE TELEMETRÍA (XXCO_ULTIMA_TELEMEDICION_VM);
+TRACE >>> ==========================================================;
+
+LEFT JOIN ([Padron_Base])
+LOAD
+    Num(MEDIDOR)                            AS MEDIDOR,
+    Text(STE_MARCA)                         AS TELEMEDIDA_STE_MARCA,
+    Date(FECHA_ULTIMA_TELEMEDIDA)           AS FECHA_ULTIMA_TELEMEDIDA,
+    Timestamp(LEC_ACTUAL_FECHA)             AS LEC_ACTUAL_FECHA,
+    [Telemetria_<6],
+    Estado_Telemetria,
+    1                                       AS FLAG_TIENE_TELEMETRIA
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 5]: RANGOS DE MEDIDORES ESTÁTICOS (Hoja1) E INTERVALMATCH;
+TRACE >>> ==========================================================;
+
+[Rango_Medidores_Base]:
+LOAD
+    Desde,
+    Hasta,
+    [Medidor Tipo]                          AS Rango_Medidor_Tipo,
+    [Medidor Telemedicion]                  AS Rango_Medidor_Telemedicion,
+    MI_CC                                   AS Rango_MI_CC
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Rango_Medidores.qvd] (qvd);
+
+[Bridge_Intervalo_Medidor]:
+IntervalMatch(MEDIDOR)
+LOAD
+    Desde,
+    Hasta
+RESIDENT [Rango_Medidores_Base];
+
+LEFT JOIN ([Bridge_Intervalo_Medidor])
+LOAD
+    Desde,
+    Hasta,
+    Rango_Medidor_Tipo,
+    Rango_Medidor_Telemedicion,
+    Rango_MI_CC
+RESIDENT [Rango_Medidores_Base];
+
+DROP TABLE [Rango_Medidores_Base];
+
+LEFT JOIN ([Padron_Base])
+LOAD
+    MEDIDOR,
+    Rango_Medidor_Tipo,
+    Rango_Medidor_Telemedicion,
+    Alt(Rango_MI_CC, 0)                     AS FiltroMed
+RESIDENT [Bridge_Intervalo_Medidor];
+
+DROP TABLE [Bridge_Intervalo_Medidor];
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 6]: PRE-CÁLCULO DE REGLAS DE NEGOCIO Y FLAGS;
+TRACE >>> ==========================================================;
+
+[vt_protelem]:
+NoConcatenate
+LOAD
+    *,
+    // 1. Fases normalizadas
+    If(MEDIDOR_FASE = 'M', 'MONOFASICO',
+       If(MEDIDOR_FASE = 'T', 'TRIFASICO', 'NO ESPECIFICADO')) AS nombre_FASES,
+
+    // 2. Telemedible descriptivo
+    If(TELEMEDIBLE = 'OTROS', 'NO INTELIGENTE RELEVADOS', TELEMEDIBLE) AS NOMBRES_TELEMEDIBLE,
+
+    // 3. Facturación Resto-Pico-Valle
+    ApplyMap('Map_Tarifas_RestoPicoValle', Text(TARIFA), Null()) AS factura_resto_pico_valle,
+
+    // 4. Semáforo Tarifario
+    ApplyMap('Map_Tarifas_MI', TarClaTe, 0) AS Tarifa_MI,
+    ApplyMap('Map_Tarifas_FiltroCE', TarClaTe, 'S/D') AS FiltroTar,
+
+    // 5. Filtro Telemedible
+    If(Match(TELEMEDIBLE, 'CLOU', 'NANSEN', 'CHUPETE') > 0, 1, 0) AS FiltroTelemed,
+
+    // 6. Estado de Telemetría definitivo
+    If(IsNull(FLAG_TIENE_TELEMETRIA), 'Nunca telemedido', Estado_Telemetria) AS Estado_Telemetria_Final,
+    If(IsNull(FLAG_TIENE_TELEMETRIA), -1, 0) AS [Nunca telemedido],
+
+    // 7. Tipo de Medidor
+    If(Len(Trim(Rango_Medidor_Tipo)) > 0, Rango_Medidor_Tipo, MEDIDOR_FASE) AS MedidorTipo,
+    Rango_Medidor_Telemedicion AS MedidorTipoTelemedicion,
+
+    // 8. Reglas de Negocio de Ordenativos Precalculadas en Script (Sprint 3)
+    If(Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO), 'PENDIENTES', 'EJECUTADOS') AS EJECUTADOSvsPENDIENTES,
+    If(ORD_SITUACION = 'P', 'ORDENATIVOS SIN ASIGNAR',
+       If(ORD_SITUACION = 'I' and (Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO)),
+          'ORDENATIVOS ASIGNADOS SIN EJECUTAR',
+          'ORDENATIVOS EJECUTADOS'
+       )
+    ) AS ASIGNACION,
+    If(Len(Trim(ORD_RESULTADO)) > 0, 1, 0)                                              AS FLAG_ORD_EJECUTADO,
+    If(Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO), 1, 0)                     AS FLAG_ORD_PENDIENTE,
+    If(ORD_SITUACION = 'P', 1, 0)                                                       AS FLAG_ORD_SIN_ASIGNAR,
+    If(ORD_SITUACION = 'I' and (Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO)), 1, 0) AS FLAG_ORD_ASIG_SIN_EJEC,
+
+    // Jerarquías Temporales para Gráficos
+    Year(FECHA_EJECUCION)                                                               AS ANIO_EJECUCION,
+    Month(FECHA_EJECUCION)                                                              AS MES_EJECUCION,
+    Day(FECHA_EJECUCION)                                                                AS DIA_EJECUCION,
+    Date(MonthStart(FECHA_EJECUCION), 'YYYY-MM')                                        AS PERIODO_EJECUCION,
+    Year(FECHA_GENERACION)                                                              AS ANIO_GENERACION,
+    Month(FECHA_GENERACION)                                                             AS MES_GENERACION,
+    Date(MonthStart(FECHA_GENERACION), 'YYYY-MM')                                       AS PERIODO_GENERACION
+RESIDENT [Padron_Base];
+
+DROP TABLE [Padron_Base];
+
+// Cálculo de Semáforos numéricos y de color en segunda pasada
+[vt_protelem_ami]:
+NoConcatenate
+LOAD
+    *,
+    (Num(Tarifa_MI) + Num(FiltroMed) + Num(FiltroTelemed)) AS Semaforo_protelem_num,
+    Pick(
+        Match((Num(Tarifa_MI) + Num(FiltroMed) + Num(FiltroTelemed)), 0, 1, 2, 3, 5, 6),
+        'Verde', 'Rojo', 'Rojo', 'Rojo', 'Amarillo', 'Rojo'
+    ) AS Semaforo_protelem_color,
+    If(FiltroTelemed <> 0, TELEMEDIBLE,
+       If(FiltroMed <> 0, 'NPF_Medidor', FiltroTar)) AS Filtro_novedad
+RESIDENT [vt_protelem];
+
+DROP TABLE [vt_protelem];
+RENAME TABLE [vt_protelem_ami] TO [vt_protelem];
+
+TRACE >>> ==========================================================;
+TRACE >>> [PASO 7]: DIMENSIÓN ESTÁTICA POLÍGONOS (Pestaña POLIGONOS);
+TRACE >>> ==========================================================;
+
+[t_poligonos]:
+LOAD
+    SETs,
+    POLIGONO,
+    POLIGONO_TELEMEDIBLE,
+    ZONA_POLIGONO,
+    POLIGONO_DISTRITO,
+    [CONTRATISTA-DESPLEGADA],
+    POLIGONO_OBSERVACION,
+    ETAPA,
+    POLIGONO_ORDEN,
+    [CONTRATISTA-PROPUESTA],
+    [Zona-Set],
+    [MEDIDOR A INSTALAR]
+FROM [lib://QS_QVDs_DESARROLLO/JIDIAZ/Master_Poligonos.qvd] (qvd);
+
+TRACE >>> ==========================================================;
+TRACE >>> MODELO UNIFICADO CARGADO EXITOSAMENTE;
+TRACE >>> ==========================================================;

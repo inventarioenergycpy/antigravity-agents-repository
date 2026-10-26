@@ -1,0 +1,358 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SPRINT 3: SECCIÓN ORDENATIVOS (CONTROL DE ORDENATIVOS & GESTIÓN DE ASIGNACIÓN)
+/// Páginas Power BI Equivalentes:
+///   - 25c8dd2c1083b40231b0 ("Control de Ordenativos")
+///   - ReportSection158c797dac10109b5bd7 ("Ordenativos")
+/// Generado por: Squad Ágil Multi-Agente (PM Gemini 3.8 Flash High + Agentes 11 & 02)
+/// ==============================================================================
+
+TRACE >>> ==========================================================;
+TRACE >>> INICIANDO SPRINT 3: CARGA Y TRANSFORMACIÓN DE ORDENATIVOS;
+TRACE >>> ==========================================================;
+
+// ------------------------------------------------------------------------------
+// 1. INGESTA DE TABLAS DE ORDENATIVOS OFICIALES (COMEORDENATIVOS DE GERENCIA COMERCIAL)
+// ------------------------------------------------------------------------------
+// Priorizamos los QVDs corporativos oficiales de Qlik Sense EPEC:
+// COMEORDENATIVOS_2026.qvd y COMEORDENATIVOS_2025.qvd (XXSIGEC.ORDENATIVOS)
+// Para completar atributos que no están en el padrón base ni en VW_SUMINISTROS.
+
+[Ordenativos_Raw]:
+LOAD
+    Num(SRV_CODIGO)                                     AS SUMINISTRO,
+    Num(ORD_NUMERO)                                     AS NUMERO_ORDENATIVO,
+    Num(CNT_NUMERO)                                     AS CONTRATO,
+    Text(ORD_ESTADO)                                    AS ORD_ESTADO,
+    Text(ORD_SITUACION)                                 AS ORD_SITUACION,
+    Text(ORD_RESULTADO)                                 AS ORD_RESULTADO,
+    Text(ORD_DATOS_RESULTADOS)                          AS ORD_DATOS_RESULTADO,
+    Text(ORD_DATOS_ADICIONALES)                         AS ORD_DATOS_ADICIONALES,
+    Date(Floor(FECHA_GENERACION))                       AS FECHA_GENERACION,
+    Date(Floor(ORD_FECHA_INICIO))                       AS FECHA_EJECUCION_ORD,
+    Date(Floor(ORD_FECHA_FIN))                          AS FECHA_FIN_ORD,
+    Text(SEC_CODIGO_ORIGEN)                             AS SECTOR_ASIGNADO,
+    Text(SEC_CODIGO_DESTINO)                            AS SECTOR_EJECUTANTE_ORD,
+    Text(TOR_CODIGO)                                    AS TIPO_ORDENATIVO_ORD,
+    Text(EJECUTADO)                                     AS FLAG_EJECUTADO_SIGEC
+FROM [lib://QS_GERENCIA_COMERCIAL/COMEORDENATIVOS_2026.qvd] (qvd);
+
+CONCATENATE ([Ordenativos_Raw])
+LOAD
+    Num(SRV_CODIGO)                                     AS SUMINISTRO,
+    Num(ORD_NUMERO)                                     AS NUMERO_ORDENATIVO,
+    Num(CNT_NUMERO)                                     AS CONTRATO,
+    Text(ORD_ESTADO)                                    AS ORD_ESTADO,
+    Text(ORD_SITUACION)                                 AS ORD_SITUACION,
+    Text(ORD_RESULTADO)                                 AS ORD_RESULTADO,
+    Text(ORD_DATOS_RESULTADOS)                          AS ORD_DATOS_RESULTADO,
+    Text(ORD_DATOS_ADICIONALES)                         AS ORD_DATOS_ADICIONALES,
+    Date(Floor(FECHA_GENERACION))                       AS FECHA_GENERACION,
+    Date(Floor(ORD_FECHA_INICIO))                       AS FECHA_EJECUCION_ORD,
+    Date(Floor(ORD_FECHA_FIN))                          AS FECHA_FIN_ORD,
+    Text(SEC_CODIGO_ORIGEN)                             AS SECTOR_ASIGNADO,
+    Text(SEC_CODIGO_DESTINO)                            AS SECTOR_EJECUTANTE_ORD,
+    Text(TOR_CODIGO)                                    AS TIPO_ORDENATIVO_ORD,
+    Text(EJECUTADO)                                     AS FLAG_EJECUTADO_SIGEC
+FROM [lib://QS_GERENCIA_COMERCIAL/COMEORDENATIVOS_2025.qvd] (qvd);
+
+// ------------------------------------------------------------------------------
+// 2. ENRIQUECIMIENTO Y PRE-CÁLCULO DE REGLAS DE NEGOCIO EN SCRIPT
+// ------------------------------------------------------------------------------
+// Reglas exactas migradas de DAX a Qlik Script para máximo rendimiento de motor asociativo:
+//   - EJECUTADOSvsPENDIENTES = IF(ORD_RESULTADO=BLANK(), "PENDIENTES", "EJECUTADOS")
+//   - ASIGNACION = IF(ORD_SITUACION="P", "ORDENATIVOS SIN ASIGNAR",
+//                     IF(ORD_SITUACION="I" && ORD_RESULTADO=BLANK(), "ORDENATIVOS ASIGNADOS SIN EJECUTAR", "ORDENATIVOS EJECUTADOS"))
+
+[Ordenativos_Consolidados]:
+NoConcatenate
+LOAD
+    SUMINISTRO,
+    NUMERO_ORDENATIVO,
+    CONTRATO,
+    ORD_ESTADO,
+    ORD_SITUACION,
+    ORD_RESULTADO,
+    ORD_DATOS_RESULTADO,
+    ORD_DATOS_ADICIONALES,
+    FECHA_GENERACION,
+    FECHA_EJECUCION_ORD,
+    FECHA_FIN_ORD,
+    SECTOR_ASIGNADO,
+    SECTOR_EJECUTANTE_ORD,
+    TIPO_ORDENATIVO_ORD,
+    FLAG_EJECUTADO_SIGEC,
+
+    // Pre-cálculo: Estado de Ejecución
+    If(Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO), 'PENDIENTES', 'EJECUTADOS') AS EJECUTADOSvsPENDIENTES,
+
+    // Pre-cálculo: Clasificación de Asignación Operativa
+    If(ORD_SITUACION = 'P', 'ORDENATIVOS SIN ASIGNAR',
+       If(ORD_SITUACION = 'I' and (Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO)),
+          'ORDENATIVOS ASIGNADOS SIN EJECUTAR',
+          'ORDENATIVOS EJECUTADOS'
+       )
+    ) AS ASIGNACION,
+
+    // Flags booleanos precalculados para Set Analysis ultrarrápido
+    If(Len(Trim(ORD_RESULTADO)) > 0, 1, 0)                                              AS FLAG_ORD_EJECUTADO,
+    If(Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO), 1, 0)                     AS FLAG_ORD_PENDIENTE,
+    If(ORD_SITUACION = 'P', 1, 0)                                                       AS FLAG_ORD_SIN_ASIGNAR,
+    If(ORD_SITUACION = 'I' and (Len(Trim(ORD_RESULTADO)) = 0 or IsNull(ORD_RESULTADO)), 1, 0) AS FLAG_ORD_ASIG_SIN_EJEC,
+
+    // Jerarquías Temporales para Gráficos Combinados
+    Year(FECHA_EJECUCION_ORD)                                                           AS ANIO_EJECUCION,
+    Month(FECHA_EJECUCION_ORD)                                                          AS MES_EJECUCION,
+    Day(FECHA_EJECUCION_ORD)                                                            AS DIA_EJECUCION,
+    Date(MonthStart(FECHA_EJECUCION_ORD), 'YYYY-MM')                                    AS PERIODO_EJECUCION,
+
+    Year(FECHA_GENERACION)                                                              AS ANIO_GENERACION,
+    Month(FECHA_GENERACION)                                                             AS MES_GENERACION,
+    Date(MonthStart(FECHA_GENERACION), 'YYYY-MM')                                       AS PERIODO_GENERACION
+RESIDENT [Ordenativos_Raw];
+
+DROP TABLE [Ordenativos_Raw];
+
+// Cruce al Padrón Principal de la Aplicación
+LEFT JOIN ([vt_protelem])
+LOAD
+    SUMINISTRO,
+    NUMERO_ORDENATIVO,
+    ORD_ESTADO,
+    ORD_SITUACION,
+    ORD_RESULTADO,
+    ORD_DATOS_RESULTADO,
+    ORD_DATOS_ADICIONALES,
+    SECTOR_ASIGNADO,
+    EJECUTADOSvsPENDIENTES,
+    ASIGNACION,
+    FLAG_ORD_EJECUTADO,
+    FLAG_ORD_PENDIENTE,
+    FLAG_ORD_SIN_ASIGNAR,
+    FLAG_ORD_ASIG_SIN_EJEC,
+    ANIO_EJECUCION,
+    MES_EJECUCION,
+    DIA_EJECUCION,
+    PERIODO_EJECUCION,
+    ANIO_GENERACION,
+    MES_GENERACION,
+    PERIODO_GENERACION
+RESIDENT [Ordenativos_Consolidados];
+
+DROP TABLE [Ordenativos_Consolidados];
+
+TRACE >>> ==========================================================;
+TRACE >>> SPRINT 3: CARGA DE DATOS FINALIZADA CON ÉXITO;
+TRACE >>> ==========================================================;
+
+
+/// ==============================================================================
+/// CATÁLOGO DE ELEMENTOS MAESTROS (MASTER ITEMS) PARA QLIK SENSE
+/// ==============================================================================
+
+/*
+----------------------------------------------------------------------------------
+A. MEDIDAS MAESTRAS (MASTER MEASURES)
+----------------------------------------------------------------------------------
+
+1. [m_cuenta_ordenativos_ejecutado]
+   - Nombre: Ordenativos Ejecutados
+   - Descripción: Total de suministros / ordenativos intervenidos y ejecutados con resultado.
+   - Expresión Script Optimizada:
+       Count({<FLAG_ORD_EJECUTADO={1}>} DISTINCT SUMINISTRO)
+   - Expresión DAX Equivalente:
+       Count({<EJECUTADOSvsPENDIENTES={'EJECUTADOS'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+   - Etiqueta en Gráfico: 'Ejecutados'
+
+2. [m_cuenta_ordenativos_pendiente]
+   - Nombre: Ordenativos Pendientes
+   - Descripción: Total de suministros / ordenativos sin resultado de ejecución cargado.
+   - Expresión Script Optimizada:
+       Count({<FLAG_ORD_PENDIENTE={1}>} DISTINCT SUMINISTRO)
+   - Expresión DAX Equivalente:
+       Count({<EJECUTADOSvsPENDIENTES={'PENDIENTES'}>} DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+   - Etiqueta en Gráfico: 'Pendientes'
+
+3. [m_ordenativos_sin_asignar]
+   - Nombre: Ordenativos Sin Asignar
+   - Descripción: Ordenativos en situación Pendiente ('P') sin cuadrilla ni sector de trabajo.
+   - Expresión:
+       Count({<FLAG_ORD_SIN_ASIGNAR={1}>} DISTINCT NUMERO_ORDENATIVO)
+   - Formato Numérico: '#.##0'
+
+4. [m_ordenativos_asignados_sin_ejecutar]
+   - Nombre: Ordenativos Asignados Sin Ejecutar
+   - Descripción: Ordenativos impresos ('I') asignados a sector ejecutor pero aún sin resultado.
+   - Expresión:
+       Count({<FLAG_ORD_ASIG_SIN_EJEC={1}>} DISTINCT NUMERO_ORDENATIVO)
+   - Formato Numérico: '#.##0'
+
+5. [m_porcentaje_ejecucion_ordenativos]
+   - Nombre: % Ejecución Ordenativos
+   - Descripción: Razón porcentual entre ordenativos ejecutados y el total de ordenativos emitidos.
+   - Expresión:
+       Count({<FLAG_ORD_EJECUTADO={1}>} DISTINCT NUMERO_ORDENATIVO)
+       /
+       Count(DISTINCT NUMERO_ORDENATIVO)
+   - Formato Numérico: '0,0%'
+
+6. [m_cuenta_suministros_ordenativos]
+   - Nombre: Total Suministros Intervenidos
+   - Descripción: Conteo único de suministros asociados a ordenativos.
+   - Expresión:
+       Count(DISTINCT SUMINISTRO)
+   - Formato Numérico: '#.##0'
+
+
+----------------------------------------------------------------------------------
+B. DIMENSIONES MAESTRAS (MASTER DIMENSIONS)
+----------------------------------------------------------------------------------
+
+1. [d_ord_ejecutados_vs_pendientes]
+   - Campo: EJECUTADOSvsPENDIENTES
+   - Etiqueta: 'Estado Ejecución (ORD)'
+   - Valores: 'EJECUTADOS', 'PENDIENTES'
+
+2. [d_ord_asignacion]
+   - Campo: ASIGNACION
+   - Etiqueta: 'Estado de Asignación'
+   - Valores:
+       - 'ORDENATIVOS ASIGNADOS SIN EJECUTAR'
+       - 'ORDENATIVOS SIN ASIGNAR'
+       - 'ORDENATIVOS EJECUTADOS'
+
+3. [d_ord_sector_ejecutante]
+   - Campo: SECTOR_EJECUTANTE
+   - Etiqueta: 'Sector Ejecutante'
+
+4. [d_ord_sector_asignado]
+   - Campo: SECTOR_ASIGNADO
+   - Etiqueta: 'Sector Asignado'
+
+5. [d_ord_tipo]
+   - Campo: TIPO_ORDENATIVO
+   - Etiqueta: 'Tipo de Ordenativo'
+
+6. [d_ord_jerarquia_ejecucion]
+   - Tipo: Jerarquía Drill-Down
+   - Campos: ANIO_EJECUCION -> MES_EJECUCION -> DIA_EJECUCION
+   - Etiqueta: 'Jerarquía Temporal de Ejecución'
+
+
+----------------------------------------------------------------------------------
+C. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA 1: "CONTROL DE ORDENATIVOS"
+----------------------------------------------------------------------------------
+
+1. Filtros Superiores / Laterales (Filter Panes):
+   - Filtro 1: [GRUPO_LECTURA] (Título: 'Grupo de Lectura')
+   - Filtro 2: [EJECUTADOSvsPENDIENTES] (Título: 'Ejecutados vs Pendientes')
+   - Filtro 3: [ESTADO_RELEVAMIENTO] (Título: 'Estado Relevamiento')
+   - Filtro 4: [SECTOR_EJECUTANTE] (Título: 'Sector Ejecutante')
+   - Filtro 5: [PERIODO_EJECUCION] (Título: 'Año-Mes Ejecución')
+   - Buscador de Suministro: Campo [SUMINISTRO] en modo búsqueda multilínea.
+
+2. Tarjeta KPI 1: Ordenativos Ejecutados
+   - Medida Principal: [m_cuenta_ordenativos_ejecutado]
+   - Color de Métrica: Verde EPEC (rgb(39, 174, 96))
+   - Icono: Check / Éxito
+
+3. Tarjeta KPI 2: Ordenativos Pendientes
+   - Medida Principal: [m_cuenta_ordenativos_pendiente]
+   - Color de Métrica: Rojo Alerta (rgb(231, 76, 60))
+   - Icono: Alerta / Pendiente
+
+4. Tabla Dinámica: Ejecución por Tipo de Medidor (Cross-Tab)
+   - Fila: [d_ord_ejecutados_vs_pendientes] (Valores: 'EJECUTADOS', 'PENDIENTES')
+   - Columna: [MedidorTipo] (Valores: 'MONOFASICO', 'TRIFASICO', etc.)
+   - Medida: Count(DISTINCT SUMINISTRO)
+   - Configuración: Totales habilitados en filas y columnas. Formato '#.##0'.
+
+5. Gráfico Combinado 1: Evolución Anual y Mensual de Ejecución
+   - Dimensión X: [PERIODO_EJECUCION] (o drill-down ANIO_EJECUCION -> MES_EJECUCION)
+   - Barras: Count({<FLAG_ORD_EJECUTADO={1}>} DISTINCT NUMERO_ORDENATIVO) (Color: Azul EPEC rgb(41, 128, 185))
+   - Línea Secundaria: [m_porcentaje_ejecucion_ordenativos] (Eje secundario en %)
+
+6. Gráfico Combinado 2: Evolución Mensual y Diaria de Ejecución
+   - Dimensión X: [DIA_EJECUCION]
+   - Barras: Count({<FLAG_ORD_EJECUTADO={1}>} DISTINCT NUMERO_ORDENATIVO)
+
+7. Mapa Georreferenciado: Distribución Territorial de Ordenativos
+   - Tipo: Map Object (Point Layer)
+   - Latitud: DC_LATITUD
+   - Longitud: DC_LONGITUD
+   - Dimensión: SUMINISTRO
+   - Coloreo: Por Dimensión [EJECUTADOSvsPENDIENTES]
+       - 'EJECUTADOS' -> Verde (rgb(39, 174, 96))
+       - 'PENDIENTES' -> Naranja/Rojo (rgb(231, 76, 60))
+   - Tooltip Enriquecido:
+       - Suministro: SUMINISTRO
+       - Razón Social: RAZON_SOCIAL
+       - Dirección: CALLE & ' ' & ALTURA
+       - Sector Ejecutante: SECTOR_EJECUTANTE
+       - Tipo Ordenativo: TIPO_ORDENATIVO
+       - Estado: EJECUTADOSvsPENDIENTES
+
+8. Tabla Operativa 1: Detalle Operativo de Ordenativos (17 Columnas)
+   - Dimensiones / Medidas en orden:
+       1. NUMERO_ORDENATIVO
+       2. SECTOR_ASIGNADO
+       3. SECTOR_EJECUTANTE
+       4. FECHA_EJECUCION
+       5. ORD_RESULTADO
+       6. ORD_DATOS_RESULTADO
+       7. SUMINISTRO
+       8. RAZON_SOCIAL
+       9. PCT
+       10. DC_LATITUD
+       11. DC_LONGITUD
+       12. TIPO_ORDENATIVO
+       13. PROTELEM
+       14. MEDIDOR
+       15. OBSERVACIONES_MEDIDOR
+       16. CALLE
+       17. ALTURA
+   - Estilo: Encabezados resaltados, alineación derecha para números, formato de fecha 'DD/MM/YYYY'.
+
+9. Tabla Operativa 2: Seguimiento de Estados y Situación (9 Columnas)
+   - Dimensiones / Medidas:
+       1. SUMINISTRO
+       2. CONTRATO
+       3. NUMERO_ORDENATIVO
+       4. ORD_ESTADO
+       5. ORD_SITUACION
+       6. ORD_RESULTADO
+       7. FECHA_GENERACION
+       8. FECHA_EJECUCION
+       9. SECTOR_EJECUTANTE
+
+
+----------------------------------------------------------------------------------
+D. ESPECIFICACIÓN DE OBJETOS VISUALES - HOJA 2: "GESTIÓN DE ASIGNACIÓN"
+----------------------------------------------------------------------------------
+
+1. Slicer Superior Destacado:
+   - Dimensión: [ASIGNACION]
+   - Modos de Selección: 'ORDENATIVOS SIN ASIGNAR', 'ORDENATIVOS ASIGNADOS SIN EJECUTAR', 'ORDENATIVOS EJECUTADOS'
+
+2. Tarjetas KPI:
+   - KPI 1: Ejecutados -> [m_cuenta_ordenativos_ejecutado]
+   - KPI 2: Pendientes -> [m_cuenta_ordenativos_pendiente]
+   - KPI 3: Sin Asignar -> [m_ordenativos_sin_asignar]
+   - KPI 4: Asignados sin Ejecutar -> [m_ordenativos_asignados_sin_ejecutar]
+
+3. Tabla Dinámica de Asignación x Tipo de Medidor:
+   - Fila: [d_ord_ejecutados_vs_pendientes]
+   - Columna: [MedidorTipo]
+   - Medida: Count(DISTINCT SUMINISTRO)
+
+4. Mapa de Gestión de Cuadrillas:
+   - Capa de Puntos georreferenciada con color por [ASIGNACION]:
+       - 'ORDENATIVOS SIN ASIGNAR' -> Rojo oscuro
+       - 'ORDENATIVOS ASIGNADOS SIN EJECUTAR' -> Amarillo/Ámbar
+       - 'ORDENATIVOS EJECUTADOS' -> Verde EPEC
+
+5. Tabla de Seguimiento Operativo:
+   - Columnas: SUMINISTRO, CONTRATO, NUMERO_ORDENATIVO, ORD_ESTADO, ORD_SITUACION, ORD_RESULTADO, FECHA_GENERACION, FECHA_EJECUCION, SECTOR_EJECUTANTE
+*/

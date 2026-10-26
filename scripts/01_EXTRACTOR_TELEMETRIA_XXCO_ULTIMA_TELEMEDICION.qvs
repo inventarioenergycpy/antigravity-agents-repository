@@ -1,0 +1,50 @@
+/// ==============================================================================
+/// EPEC - PROTELEM / TELEMEDICIÓN AMI ZONA A
+/// SCRIPT EXTRACTOR 1: TELEMETRÍA (XXCO_ULTIMA_TELEMEDICION_VM)
+/// Origen: Base de Datos Oracle EPEC (Esquema XXSIGEC / PRODEBS_SEE)
+/// Conexión: LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+/// Destino: [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD]
+/// ==============================================================================
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD/MM/YYYY';
+SET TimestampFormat='DD/MM/YYYY hh:mm:ss[.fff]';
+
+TRACE >>> [EXTRACTOR TELEMETRIA]: Iniciando conexion con Oracle EPEC;
+
+LIB CONNECT TO 'Oracle_jidiaz_prod (epec_jidiaz)';
+
+TRACE >>> [EXTRACTOR TELEMETRIA]: Extrayendo datos de XXSIGEC.XXCO_ULTIMA_TELEMEDICION_VM;
+
+[EXT_ULTIMA_TELEMEDICION]:
+LOAD
+    Num("STE_NUMERO")                               AS "EQUIPO_NUMERO",
+    Num("STE_NUMERO")                               AS "MEDIDOR",
+    Text("STE_MARCA")                               AS "STE_MARCA",
+    Date(Floor("LEC_FECHA_ULTIMA_LECTURA"))          AS "FECHA_ULTIMA_TELEMEDIDA",
+    Timestamp("LEC_FECHA_ULTIMA_LECTURA")            AS "LEC_ACTUAL_FECHA",
+    Date(Floor("ULTIMA_ACTUALIZACION"))              AS "FECHA_ACTUALIZACION_TELEMEDIDA",
+    // Pre-calculo binario de conectividad (< 6 dias = Ok, >= 6 dias = Sin telemetria)
+    If((Today() - Floor("LEC_FECHA_ULTIMA_LECTURA")) < 6, 0, 1) AS "Telemetria_<6",
+    If((Today() - Floor("LEC_FECHA_ULTIMA_LECTURA")) < 6, 'Ok', 'Sin telemetria') AS "Estado_Telemetria",
+    Timestamp(Now())                                AS "FECHA_EXTRACCION_QVD";
+SELECT 
+    "STE_NUMERO",
+    "STE_MARCA",
+    "LEC_FECHA_ULTIMA_LECTURA",
+    "ULTIMA_ACTUALIZACION"
+FROM "XXSIGEC"."XXCO_ULTIMA_TELEMEDICION_VM";
+
+TRACE >>> [EXTRACTOR TELEMETRIA]: Almacenando QVD en repositorio de desarrollo JIDIAZ;
+
+STORE [EXT_ULTIMA_TELEMEDICION] INTO [lib://QS_QVDs_DESARROLLO/JIDIAZ/JIDIAZ_EXT_ULTIMA_TELEMEDICION.QVD] (qvd);
+
+DROP TABLE [EXT_ULTIMA_TELEMEDICION];
+
+DISCONNECT;
+
+TRACE >>> [EXTRACTOR TELEMETRIA]: Extraccion de telemetria finalizada exitosamente.;

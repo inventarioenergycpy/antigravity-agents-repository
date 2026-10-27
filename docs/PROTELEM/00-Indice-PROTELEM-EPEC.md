@@ -76,6 +76,14 @@ graph TD
 - **Rama Activa**: `main`
 - **Objetivo**: Interfaz web interactiva de factura digital, visualización de cargos desglosados y componentes gráficos para usuarios de EPEC.
 
+
+### C. Repositorio: `auditoria-relevamiento-conectar`
+- **Repositorio Remoto**: [https://github.com/PROTELEM-EPEC/auditoria-relevamiento-conectar](https://github.com/PROTELEM-EPEC/auditoria-relevamiento-conectar)
+- **Ruta Local**: `D:\Proyectos\auditoria-relevamiento-conectar`
+- **Rama Activa**: `main`
+- **Objetivo**: Auditoría integral, catálogo de reglas de negocio para agentes IA y resolución determinista contra Oracle SIGEC de los 1.348 casos observados con error de la contratista CONECTAR.
+- **Acceso Directo en Bóveda**: `[[docs/Proyectos/2026-10-27_auditoria-relevamiento-conectar|Ficha Técnica del Proyecto]]`
+
 ---
 
 ### C. Repositorio: `despliegue-medidores-inteligentes-ami`

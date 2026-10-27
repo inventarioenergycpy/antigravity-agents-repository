@@ -17,6 +17,8 @@ Bienvenido a la BÃ³veda de Obsidian para la gestiÃ³n estructurada de agentes
 
 ---
 
+- [[docs/Proyectos/2026-10-27_auditoria-relevamiento-conectar|2026-10-27 Auditoría de Relevamientos CONECTAR: Reglas de Negocio y Resolución SIGEC]] (`PROTELEM-EPEC/auditoria-relevamiento-conectar`)
+
 ## ðŸ“Œ Datos del Entorno
 - **Cuenta GitHub**: `inventarioenergycpy`
 - **Correo ElectrÃ³nico**: `inventario.energycpy@gmail.com`
@@ -193,6 +195,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-26_migracion-powerbi-tablero-mi-zona-a-qlik-sense|2026-10-26 Conversión de Power BI a Qlik Sense (Tablero MI - Zona A, Capa Extractores Oracle & Modelo)]]
 - [[docs/Proyectos/2026-10-25_vector-convergente-asignacion-parcelaria-epec-parcelas-union|2026-10-25 Asignación Parcelaria Multivariada y Recomposición de Manzanas de Alta Resolución (Vector Bottom-Up EPEC:parcelas_union)]]
 - [[docs/Proyectos/2026-10-22_estrategia-campana-captacion-factura-digital|2026-10-22 Plan Estratégico y Modelo de Campañas de Captación para Factura Digital (Base 922.958 Titulares EPEC)]] (`inventarioenergycpy/encuesta-cier-epec`)
 - [[docs/Proyectos/2026-10-22_estimacion-ahorro-financiero-factura-digital-epec|2026-10-22 Modelo Financiero: Estimación del Ahorro Anual por Migración a Factura Digital y Sensibilidad WhatsApp]] (`inventarioenergycpy/encuesta-cier-epec`)

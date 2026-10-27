@@ -96,3 +96,20 @@ Cuando el usuario confirme una nueva técnica o metodología:
 1. Generar backup preventivo en `docs/Backups/YYYY-MM-DD_HHmmss_ciencia-de-datos_SKILL.md.bak`.
 2. Actualizar este archivo `SKILL.md` y `docs/Agentes/02-Ciencia-de-Datos.md`.
 3. Registrar la nota histórica en `docs/Historial-Mejoras/YYYY-MM-DD_ciencia-de-datos_<descripcion>.md`.
+
+8. **Auditoría Integral y Resolución de Relevamientos de Medidores (CONECTAR / SIGEC / WFS)**:
+   - **Regla Estricta**: Queda prohibido evaluar inconsistencias de campo de medidores sin contrastación directa contra la base relacional productiva de Oracle SIGEC (`XXSIGEC.EQUIPOS`, `XXSIGEC.SERVICIOS`, `GEOREF.VW_SUMINISTROS`).
+   - **Manejo de las 19 Tipologías de Error de Terreno**:
+     * `MEDIDOR INEXISTENTE`: Cotejo contra `XXSIGEC.STOCK_EQUIPOS` para descartar error patrimonial vs. digitación errónea de la cuadrilla.
+     * `LOCALIDAD / BARRIO INVALIDO`: Cruce entre texto de campo y codificación oficial `AGF_CODIGO` / `BAR_CODIGO`.
+     * `MEDIDOR RETIRADO`: Comprobación de si el medidor fue reactivado, si el suministro tiene medidor activo de reemplazo, o si está activo en otro suministro.
+     * `MEDIDOR NO COINCIDE`: Identificación de cruce de acometidas contiguas en nichos dobles (`NORMALIZADO_OTRO_SUMI`).
+   - **Estrategia de Chunking en Lotes de <= 900**:
+     * Para eludir la limitación `ORA-01795` de Oracle y evitar miles de round-trips de red, particionar siempre las consultas `IN (...)` en lotes de hasta 900 elementos e indexar los resultados en diccionarios hash en memoria RAM ($O(1)$).
+   - **Heurística de Detección de Errores de Tipeo**:
+     * Extracción mediante regex `r'(?:correcto|figura|es)\s*(?:en\s*sigec)?\s*(?:es)?\s*:?\s*(\d{6,8})'` sobre las observaciones de los equipos de campo y PROTELEM para rescatar medidores válidos tipeados erróneamente (`CORREGIDO_TIPEO`).
+   - **Matriz de Salida Determinista**:
+     * Clasificación estricta en 7 estados operativos: `CORREGIDO`, `CORREGIDO_REEMPLAZO`, `CORREGIDO_TIPEO`, `NORMALIZADO_OTRO_SUMI`, `DIVERGENCIA`, `ACTUALIZADO_RECIENTE` y `PENDIENTE`.
+   - **Análisis de Cohortes Temporales**:
+     * Cálculo de `ES_CASO_VIEJO` para medir la auto-corrección natural en casos de 2022-2023 vs. la focalización de inspecciones en casos recientes de 2024-2026.
+   - **Repositorio Dedicado Oficial**: Toda documentación viva, scripts y datasets se gestionan en `https://github.com/PROTELEM-EPEC/auditoria-relevamiento-conectar.git`.

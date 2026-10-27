@@ -49,6 +49,7 @@ graph TD
   - *Mercado Eléctrico Argentino (MEM / CAMMESA / Regulación)* ➔ `profesor-experto-mercado-electrico`
   - *Auditoría Académica / Resolución de Evaluaciones* ➔ `alumno-auditor-academico`
   - *Satisfacción al Cliente / Matrices IPA Cuadrantes CIER* ➔ `survey-analytics-and-prioritization`
+  - *Auditoría de Relevamientos de Medidores CONECTAR / Normalización SIGEC / Discrepancias de Campo* ➔ `ciencia-de-datos` & repositorio `PROTELEM-EPEC/auditoria-relevamiento-conectar`
   - *Sincronización Red y Carpetas Corporativas* ➔ `sincronizacion-red-protelem`
   - *Rollback / Restauración Preventiva* ➔ `rollback-agente`
 

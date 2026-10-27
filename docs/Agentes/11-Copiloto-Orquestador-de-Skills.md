@@ -68,3 +68,5 @@ graph TD
 - [[docs/Proyectos/README|Índice de Proyectos]]
 - [[docs/Backups/README|Bóveda de Backups]]
 - [[docs/Historial-Mejoras/README|Historial de Mejoras]]
+
+- **Nuevo Repositorio EPEC Orquestado**: [[docs/Proyectos/2026-10-27_auditoria-relevamiento-conectar|Auditoría Relevamiento CONECTAR (PROTELEM-EPEC)]]

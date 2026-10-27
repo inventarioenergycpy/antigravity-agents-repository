@@ -1,0 +1,784 @@
+"""
+Script generador del Excel Ejecutivo con Gráficas Nativas de Ingeniería:
+Simulación de Despliegue AMI EPEC 307k vs. Cooperativas 93k (Horizonte 22 Meses)
++ Diagnóstico de Relevamiento por Plan (Planes 17, 18, 19, 8, 12, 6)
++ Nueva Asignación Tecnológica Zona A:
+    CLOU:   Plan 8, Plan 6, Plan 17
+    NANSEN: Plan 18, Plan 19, Plan 12
+Licitación Pública N° 5573 / Res. 0653/2026
+"""
+
+import os, sys
+import xlsxwriter
+import pandas as pd
+
+sys.stdout.reconfigure(encoding="utf-8")
+
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(BASE, "data")
+DOWNLOADS_DIR = r"C:\Users\jidiaz\Downloads"
+
+EXCEL_LOCAL = os.path.join(DATA_DIR, "Simulacion_Despliegue_AMI_EPEC_307k_Interior_22m.xlsx")
+EXCEL_DOWNLOADS = os.path.join(DOWNLOADS_DIR, "Simulacion_Despliegue_AMI_EPEC_307k_Interior_22m.xlsx")
+
+# 1. Definición de la Línea de Tiempo (Feb-2027 a Dic-2028 = 23 periodos)
+periodos = [
+    {"mes": "2027-02", "mes_idx": 0, "sx": 34000, "clou": 0},
+    {"mes": "2027-03", "mes_idx": 1, "sx": 31000, "clou": 42000},
+    {"mes": "2027-04", "mes_idx": 2, "sx": 45000, "clou": 0},
+    {"mes": "2027-05", "mes_idx": 3, "sx": 45000, "clou": 0},
+    {"mes": "2027-06", "mes_idx": 4, "sx": 45000, "clou": 0},
+    {"mes": "2027-07", "mes_idx": 5, "sx": 0,     "clou": 0},
+    {"mes": "2027-08", "mes_idx": 6, "sx": 0,     "clou": 0},
+    {"mes": "2027-09", "mes_idx": 7, "sx": 0,     "clou": 41500},
+    {"mes": "2027-10", "mes_idx": 8, "sx": 0,     "clou": 23500}, # 18k descontados a Coop en Esc. A
+    {"mes": "2027-11", "mes_idx": 9, "sx": 0,     "clou": 0},
+    {"mes": "2027-12", "mes_idx": 10, "sx": 0,    "clou": 0},     # 75k descontados a Coop en Esc. A
+    {"mes": "2028-01", "mes_idx": 11, "sx": 0,    "clou": 0},
+    {"mes": "2028-02", "mes_idx": 12, "sx": 0,    "clou": 0},
+    {"mes": "2028-03", "mes_idx": 13, "sx": 0,    "clou": 0},
+    {"mes": "2028-04", "mes_idx": 14, "sx": 0,    "clou": 0},
+    {"mes": "2028-05", "mes_idx": 15, "sx": 0,    "clou": 0},
+    {"mes": "2028-06", "mes_idx": 16, "sx": 0,    "clou": 0},
+    {"mes": "2028-07", "mes_idx": 17, "sx": 0,    "clou": 0},
+    {"mes": "2028-08", "mes_idx": 18, "sx": 0,    "clou": 0},
+    {"mes": "2028-09", "mes_idx": 19, "sx": 0,    "clou": 0},
+    {"mes": "2028-10", "mes_idx": 20, "sx": 0,    "clou": 0},
+    {"mes": "2028-11", "mes_idx": 21, "sx": 0,    "clou": 0},
+    {"mes": "2028-12", "mes_idx": 22, "sx": 0,    "clou": 0}
+]
+
+# Parámetros Interior
+censo = {
+    "Rio_Cuarto": 88224,
+    "Villa_Maria": 63282,
+    "San_Francisco": 36776,
+    "Villa_Allende": 14855
+}
+total_censo_int = sum(censo.values())
+stock_total_int = 107000
+ritmo_mensual_teorico_int = total_censo_int / 22 # 9233.5
+
+data_rows = []
+stk_ing_acum = 0
+inst_cap_acum = 0
+inst_int_acum = 0
+inst_rc_acum = 0
+inst_vm_acum = 0
+inst_sf_acum = 0
+inst_va_acum = 0
+stk_rem_interior = stock_total_int
+
+for p in periodos:
+    m = p["mes"]
+    idx = p["mes_idx"]
+    sx = p["sx"]
+    clou = p["clou"]
+    ing_mes = sx + clou
+    stk_ing_acum += ing_mes
+    
+    # Capital: 20k/mes entre Mar-27 y Dic-27 (idx 1 a 10)
+    if 1 <= idx <= 10:
+        inst_cap = 20000
+    else:
+        inst_cap = 0
+    inst_cap_acum += inst_cap
+    
+    # Interior: 22 meses entre Mar-27 y Dic-28 (idx 1 a 22)
+    if idx == 0:
+        inst_int = 0
+        rc = vm = sf = va = 0
+        estado_int = "Inicio de Acopio en Almacén"
+    else:
+        if stk_rem_interior <= 0:
+            inst_int = 0
+            rc = vm = sf = va = 0
+            estado_int = "AGOTADO (0 STOCK)"
+        elif stk_rem_interior >= ritmo_mensual_teorico_int:
+            inst_int = ritmo_mensual_teorico_int
+            rc = censo["Rio_Cuarto"] / 22
+            vm = censo["Villa_Maria"] / 22
+            sf = censo["San_Francisco"] / 22
+            va = censo["Villa_Allende"] / 22
+            stk_rem_interior -= inst_int
+            estado_int = f"Activo (Stock: {stk_rem_interior:,.0f})"
+        else:
+            inst_int = stk_rem_interior
+            factor = stk_rem_interior / ritmo_mensual_teorico_int
+            rc = (censo["Rio_Cuarto"] / 22) * factor
+            vm = (censo["Villa_Maria"] / 22) * factor
+            sf = (censo["San_Francisco"] / 22) * factor
+            va = (censo["Villa_Allende"] / 22) * factor
+            stk_rem_interior = 0
+            estado_int = "AGOTAMIENTO DEFINITIVO DE STOCK"
+            
+    inst_int_acum += inst_int
+    inst_rc_acum += rc
+    inst_vm_acum += vm
+    inst_sf_acum += sf
+    inst_va_acum += va
+    
+    inst_total_mes = inst_cap + inst_int
+    inst_total_acum = inst_cap_acum + inst_int_acum
+    stk_remanente_almacen = stk_ing_acum - inst_total_acum
+    
+    # Cuadrillas
+    cuad_cap = round(inst_cap / (22 * 18), 1) if inst_cap > 0 else 0
+    cuad_int = round(inst_int / (22 * 14), 1) if inst_int > 0 else 0
+    cuad_tot = cuad_cap + cuad_int
+    
+    data_rows.append({
+        "mes": m,
+        "mes_nro": idx if idx > 0 else "-",
+        "sx": sx,
+        "clou": clou,
+        "ing_mes": ing_mes,
+        "stk_ing_acum": stk_ing_acum,
+        "inst_cap": inst_cap,
+        "inst_cap_acum": inst_cap_acum,
+        "inst_int": inst_int,
+        "inst_int_acum": inst_int_acum,
+        "rc": rc,
+        "rc_acum": inst_rc_acum,
+        "vm": vm,
+        "vm_acum": inst_vm_acum,
+        "sf": sf,
+        "sf_acum": inst_sf_acum,
+        "va": va,
+        "va_acum": inst_va_acum,
+        "inst_tot_mes": inst_total_mes,
+        "inst_tot_acum": inst_total_acum,
+        "stk_remanente": stk_remanente_almacen,
+        "estado_int": estado_int,
+        "cuad_cap": cuad_cap,
+        "cuad_int": cuad_int,
+        "cuad_tot": cuad_tot
+    })
+
+# 2. Diagnóstico de Relevamiento por Plan (Zona A) con la NUEVA tecnología asignada
+planes_relevamiento = [
+    {
+        "plan": "Plan 8", "grupo": 8, "no_rel": 27534, "pct_no_rel": 0.996814,
+        "rel": 88, "pct_rel": 0.003186, "total": 27622, "tecnologia": "CLOU",
+        "prioridad": "1° URGENCIA MÁXIMA", "ventana_relev": "Mar-27 a Ago-27 (6 meses)",
+        "ritmo_relev": 4589, "cuadrillas_relev": 10.4,
+        "diagnostico": "Casi 100% virgen (solo 88 relevados). 10 cuadrillas de catastro censan 4.589 u/m para recibir CLOU en Septiembre."
+    },
+    {
+        "plan": "Plan 17", "grupo": 17, "no_rel": 19100, "pct_no_rel": 0.549056,
+        "rel": 15687, "pct_rel": 0.450944, "total": 34787, "tecnologia": "CLOU",
+        "prioridad": "2° URGENCIA INMEDIATA", "ventana_relev": "Ene-27 a Abr-27 (4 meses)",
+        "ritmo_relev": 4775, "cuadrillas_relev": 10.8,
+        "diagnostico": "15.687 aéreos listos se instalan con CLOU E1 en May-Jun. Los 19k subterráneos se completan en Sep con CLOU E2."
+    },
+    {
+        "plan": "Plan 12", "grupo": 12, "no_rel": 10459, "pct_no_rel": 0.473301,
+        "rel": 11639, "pct_rel": 0.526699, "total": 22098, "tecnologia": "NANSEN",
+        "prioridad": "3° PRIORIDAD MEDIA", "ventana_relev": "Mar-27 a May-27 (3 meses)",
+        "ritmo_relev": 3486, "cuadrillas_relev": 7.9,
+        "diagnostico": "52,7% relevado. Relevar 10.459 suministros pendientes antes de que lleguen las cuadrillas en Julio-Agosto."
+    },
+    {
+        "plan": "Plan 18", "grupo": 18, "no_rel": 2543, "pct_no_rel": 0.076486,
+        "rel": 30705, "pct_rel": 0.923514, "total": 33248, "tecnologia": "NANSEN",
+        "prioridad": "4° REMATE / LISTO", "ventana_relev": "Ene-27 a Feb-27 (2 meses)",
+        "ritmo_relev": 1272, "cuadrillas_relev": 2.9,
+        "diagnostico": "92,4% relevado. Absorbe el primer lote Sanxing/Nansen desde Feb-27. Rematar remanente de 2.543."
+    },
+    {
+        "plan": "Plan 19", "grupo": 19, "no_rel": 2483, "pct_no_rel": 0.084433,
+        "rel": 26925, "pct_rel": 0.915567, "total": 29408, "tecnologia": "NANSEN",
+        "prioridad": "4° REMATE / LISTO", "ventana_relev": "Ene-27 a Feb-27 (2 meses)",
+        "ritmo_relev": 1242, "cuadrillas_relev": 2.8,
+        "diagnostico": "91,6% relevado. Homogéneo con los casi 10.000 medidores Nansen activos preexistentes."
+    },
+    {
+        "plan": "Plan 6", "grupo": 6, "no_rel": 923, "pct_no_rel": 0.072821,
+        "rel": 11752, "pct_rel": 0.927179, "total": 12675, "tecnologia": "CLOU",
+        "prioridad": "4° REMATE / LISTO", "ventana_relev": "Ene-27 a Feb-27 (2 meses)",
+        "ritmo_relev": 462, "cuadrillas_relev": 1.0,
+        "diagnostico": "92,7% relevado listo. Pegado al Plan 4 CLOU. Absorbe primer lote CLOU E1 desde Marzo/Abril."
+    }
+]
+
+# 3. Nueva Secuencia de Despliegue Mensual por Plan en Zona A (Mar-27 a Dic-27)
+# Nueva asignación: CLOU: 8, 6, 17 | NANSEN: 18, 19, 12
+despliegue_nuevo = [
+    {"mes": "2027-03", "p18_ns": 20000, "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 0,     "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-04", "p18_ns": 13248, "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 6752, "p17_cl": 0,     "p8_cl": 0,     "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-05", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 5923, "p17_cl": 14077, "p8_cl": 0,     "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-06", "p18_ns": 0,     "p19_ns": 18390, "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 1610,  "p8_cl": 0,     "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-07", "p18_ns": 0,     "p19_ns": 11018, "p12_ns": 8982,  "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 0,     "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-08", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 13116, "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 0,     "densas": 6884,  "tot_cap": 20000},
+    {"mes": "2027-09", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 19100, "p8_cl": 900,   "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-10", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 20000, "densas": 0,     "tot_cap": 20000},
+    {"mes": "2027-11", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 6722,  "densas": 13278, "tot_cap": 20000},
+    {"mes": "2027-12", "p18_ns": 0,     "p19_ns": 0,     "p12_ns": 0,     "p6_cl": 0,    "p17_cl": 0,     "p8_cl": 0,     "densas": 20000, "tot_cap": 20000}
+]
+
+def create_excel_workbook(file_path):
+    wb = xlsxwriter.Workbook(file_path)
+    
+    # Formatos de texto y celdas
+    f_title = wb.add_format({'bold': True, 'font_size': 16, 'font_name': 'Segoe UI', 'font_color': '#0f172a'})
+    f_subtitle = wb.add_format({'italic': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#475569'})
+    f_kpi_label = wb.add_format({'bold': True, 'font_size': 9, 'font_name': 'Segoe UI', 'font_color': '#64748b', 'align': 'center', 'bg_color': '#f8fafc', 'border': 1, 'border_color': '#cbd5e1'})
+    f_kpi_val_blue = wb.add_format({'bold': True, 'font_size': 18, 'font_name': 'Segoe UI', 'font_color': '#2563eb', 'align': 'center', 'bg_color': '#ffffff', 'border': 1, 'border_color': '#cbd5e1'})
+    f_kpi_val_green = wb.add_format({'bold': True, 'font_size': 18, 'font_name': 'Segoe UI', 'font_color': '#059669', 'align': 'center', 'bg_color': '#ffffff', 'border': 1, 'border_color': '#cbd5e1'})
+    f_kpi_val_purple = wb.add_format({'bold': True, 'font_size': 18, 'font_name': 'Segoe UI', 'font_color': '#7c3aed', 'align': 'center', 'bg_color': '#ffffff', 'border': 1, 'border_color': '#cbd5e1'})
+    f_kpi_val_amber = wb.add_format({'bold': True, 'font_size': 18, 'font_name': 'Segoe UI', 'font_color': '#d97706', 'align': 'center', 'bg_color': '#ffffff', 'border': 1, 'border_color': '#cbd5e1'})
+    f_kpi_val_red = wb.add_format({'bold': True, 'font_size': 18, 'font_name': 'Segoe UI', 'font_color': '#dc2626', 'align': 'center', 'bg_color': '#ffffff', 'border': 1, 'border_color': '#cbd5e1'})
+    
+    f_th_navy = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#0f172a', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_blue = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#1e3a8a', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_purple = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#581c87', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_amber = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#92400e', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_green = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#065f46', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_cyan = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#0e7490', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    f_th_rose = wb.add_format({'bold': True, 'font_size': 10, 'font_name': 'Segoe UI', 'font_color': '#ffffff', 'bg_color': '#9f1239', 'align': 'center', 'valign': 'vcenter', 'border': 1, 'text_wrap': True})
+    
+    f_td_text = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_center = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'align': 'center', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_num = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'num_format': '#,##0', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_num_bold = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'num_format': '#,##0', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_pct = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'num_format': '0.0%', 'border': 1, 'border_color': '#e2e8f0', 'align': 'center'})
+    f_td_green = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'num_format': '#,##0', 'font_color': '#059669', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_red = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'num_format': '#,##0', 'font_color': '#dc2626', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_amber = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'num_format': '#,##0', 'font_color': '#d97706', 'border': 1, 'border_color': '#e2e8f0'})
+    f_td_total = wb.add_format({'font_name': 'Segoe UI', 'font_size': 10, 'bold': True, 'bg_color': '#f1f5f9', 'num_format': '#,##0', 'border': 1, 'border_color': '#94a3b8'})
+    f_td_prio_urg = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'font_color': '#991b1b', 'bg_color': '#fee2e2', 'align': 'center', 'border': 1})
+    f_td_prio_med = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'font_color': '#92400e', 'bg_color': '#fef3c7', 'align': 'center', 'border': 1})
+    f_td_prio_ok = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'font_color': '#166534', 'bg_color': '#dcfce7', 'align': 'center', 'border': 1})
+    f_tag_clou = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'font_color': '#0284c7', 'bg_color': '#e0f2fe', 'align': 'center', 'border': 1})
+    f_tag_nansen = wb.add_format({'font_name': 'Segoe UI', 'font_size': 9, 'bold': True, 'font_color': '#15803d', 'bg_color': '#dcfce7', 'align': 'center', 'border': 1})
+
+    # ==========================================
+    # HOJA 1: TABLERO Y GRÁFICAS EJECUTIVAS
+    # ==========================================
+    ws_dash = wb.add_worksheet("Tablero y Gráficas")
+    ws_dash.hide_gridlines(False)
+    ws_dash.set_column('A:A', 3)
+    ws_dash.set_column('B:G', 16)
+    
+    ws_dash.write('B2', "Tablero Ejecutivo: Simulación Despliegue AMI EPEC 307k", f_title)
+    ws_dash.write('B3', "Licitación N° 5573 · Nueva Asignación Tecnológica: CLOU (Planes 8, 6, 17) y NANSEN (Planes 18, 19, 12)", f_subtitle)
+    
+    # Tarjetas KPI
+    ws_dash.merge_range('B5:C5', "STOCK TOTAL EPEC", f_kpi_label)
+    ws_dash.merge_range('B6:C6', "307.000", f_kpi_val_blue)
+    
+    ws_dash.merge_range('D5:E5', "ZONA A (CAPITAL 10m)", f_kpi_label)
+    ws_dash.merge_range('D6:E6', "200.000", f_kpi_val_purple)
+    
+    ws_dash.merge_range('F5:G5', "INTERIOR (CUOTA 22m)", f_kpi_label)
+    ws_dash.merge_range('F6:G6', "107.000", f_kpi_val_amber)
+    
+    ws_dash.merge_range('B8:C8', "TOTAL PLANES CLOU (8, 6, 17)", f_kpi_label)
+    ws_dash.merge_range('B9:C9', "75.084", f_kpi_val_blue)
+    
+    ws_dash.merge_range('D8:E8', "TOTAL PLANES NANSEN (18, 19, 12)", f_kpi_label)
+    ws_dash.merge_range('D9:E9', "84.754", f_kpi_val_green)
+    
+    ws_dash.merge_range('F8:G8', "QUIEBRE PLAN 8 (PEND. RELEV)", f_kpi_label)
+    ws_dash.merge_range('F9:G9', "27.534 (99,7%)", f_kpi_val_red)
+
+    # ==========================================
+    # HOJA 2: CRONOGRAMA MAESTRO
+    # ==========================================
+    ws_data = wb.add_worksheet("Cronograma Maestro")
+    ws_data.set_row(0, 28)
+    ws_data.set_row(1, 26)
+    
+    headers = [
+        ("Periodo", 12, f_th_navy),
+        ("Mes N° Int.", 11, f_th_navy),
+        ("Ingreso Sanxing", 14, f_th_blue),
+        ("Ingreso CLOU (EPEC)", 14, f_th_blue),
+        ("Ingreso Mes EPEC", 14, f_th_blue),
+        ("Stock EPEC Acumulado", 16, f_th_blue),
+        ("Inst. Capital Mensual", 15, f_th_purple),
+        ("Inst. Capital Acumulada", 16, f_th_purple),
+        ("Inst. Interior Mensual", 15, f_th_amber),
+        ("Inst. Interior Acumulada", 16, f_th_amber),
+        ("D28 Río Cuarto Mes", 14, f_th_navy),
+        ("D8 Villa María Mes", 14, f_th_navy),
+        ("D18 San Francisco Mes", 14, f_th_navy),
+        ("D23 Villa Allende Mes", 14, f_th_navy),
+        ("Inst. Total Provincial Mes", 16, f_th_green),
+        ("Inst. Total Provincial Acum.", 17, f_th_green),
+        ("Stock Remanente Almacén", 17, f_th_green),
+        ("Estado Stock Interior", 22, f_th_navy),
+        ("Cuadrillas Capital", 13, f_th_navy),
+        ("Cuadrillas Interior", 13, f_th_navy),
+        ("Cuadrillas Totales", 13, f_th_navy)
+    ]
+    
+    for c_idx, (h_title, h_width, h_fmt) in enumerate(headers):
+        ws_data.set_column(c_idx, c_idx, h_width)
+        ws_data.write(1, c_idx, h_title, h_fmt)
+        
+    ws_data.merge_range(0, 0, 0, 1, "CALENDARIO", f_th_navy)
+    ws_data.merge_range(0, 2, 0, 5, "FLUJO DE STOCK EPEC (LICITACIÓN 5573)", f_th_blue)
+    ws_data.merge_range(0, 6, 0, 7, "ZONA A (CÓRDOBA CAPITAL)", f_th_purple)
+    ws_data.merge_range(0, 8, 0, 9, "INTERIOR DE LA PROVINCIA", f_th_amber)
+    ws_data.merge_range(0, 10, 0, 13, "DESGLOSE DISTRITAL DEL INTERIOR (MENSUAL)", f_th_navy)
+    ws_data.merge_range(0, 14, 0, 16, "CONSOLIDADO PROVINCIAL Y ALMACÉN", f_th_green)
+    ws_data.merge_range(0, 17, 0, 20, "OPERACIÓN Y CUADRILLAS", f_th_navy)
+    
+    for r_idx, r in enumerate(data_rows, start=2):
+        ws_data.write(r_idx, 0, r["mes"], f_td_center)
+        ws_data.write(r_idx, 1, str(r["mes_nro"]), f_td_center)
+        ws_data.write(r_idx, 2, r["sx"], f_td_num)
+        ws_data.write(r_idx, 3, r["clou"], f_td_num)
+        ws_data.write(r_idx, 4, r["ing_mes"], f_td_num_bold)
+        ws_data.write(r_idx, 5, r["stk_ing_acum"], f_td_num_bold)
+        ws_data.write(r_idx, 6, r["inst_cap"], f_td_num)
+        ws_data.write(r_idx, 7, r["inst_cap_acum"], f_td_num_bold)
+        ws_data.write(r_idx, 8, r["inst_int"], f_td_num)
+        ws_data.write(r_idx, 9, r["inst_int_acum"], f_td_num_bold)
+        ws_data.write(r_idx, 10, r["rc"], f_td_num)
+        ws_data.write(r_idx, 11, r["vm"], f_td_num)
+        ws_data.write(r_idx, 12, r["sf"], f_td_num)
+        ws_data.write(r_idx, 13, r["va"], f_td_num)
+        ws_data.write(r_idx, 14, r["inst_tot_mes"], f_td_num_bold)
+        ws_data.write(r_idx, 15, r["inst_tot_acum"], f_td_num_bold)
+        
+        if r["stk_remanente"] == 0:
+            ws_data.write(r_idx, 16, r["stk_remanente"], f_td_red)
+        elif r["stk_remanente"] < 20000:
+            ws_data.write(r_idx, 16, r["stk_remanente"], f_td_amber)
+        else:
+            ws_data.write(r_idx, 16, r["stk_remanente"], f_td_green)
+            
+        ws_data.write(r_idx, 17, r["estado_int"], f_td_text)
+        ws_data.write(r_idx, 18, r["cuad_cap"], f_td_center)
+        ws_data.write(r_idx, 19, r["cuad_int"], f_td_center)
+        ws_data.write(r_idx, 20, r["cuad_tot"], f_td_center)
+        
+    last_row = len(data_rows) + 1
+
+    # ==========================================
+    # HOJA 3: DETALLE DISTRITOS INTERIOR
+    # ==========================================
+    ws_int = wb.add_worksheet("Detalle Distritos Interior")
+    ws_int.set_column('A:A', 4)
+    ws_int.set_column('B:B', 12)
+    ws_int.set_column('C:C', 20)
+    ws_int.set_column('D:D', 28)
+    ws_int.set_column('E:K', 16)
+    
+    ws_int.write('B2', "Resumen de Cobertura y Déficit en el Interior (107k Stock vs. 203k Suministros)", f_title)
+    ws_int.write('B3', "Distribución proporcional para horizonte de 22 meses (Agotamiento en Feb-2028 / Mes 12)", f_subtitle)
+    
+    int_summary_headers = [
+        "Prioridad", "Distrito", "Nombre Distrito", "Localidad",
+        "Suministros Censo", "Participación %", "Ritmo Mensual (u/m)",
+        "Medidores Instalados", "Suministros Pendientes", "Cobertura Final %"
+    ]
+    for c_i, h in enumerate(int_summary_headers, start=1):
+        ws_int.write(4, c_i, h, f_th_navy)
+        
+    int_dist_data = [
+        (1, 28, "Río Cuarto", "RÍO CUARTO", 88224, 0.4343, 4010.2, 46471, 41753, 0.5267),
+        (2, 8,  "Villa María", "VILLA MARÍA + VILLA NUEVA", 63282, 0.3115, 2876.5, 33333, 29949, 0.5267),
+        (3, 18, "San Francisco", "SAN FRANCISCO", 36776, 0.1810, 1671.6, 19371, 17405, 0.5267),
+        (4, 23, "Villa Allende", "VILLA ALLENDE (inc. 13 en D1)", 14855, 0.0731, 675.2, 7825, 7030, 0.5267)
+    ]
+    for r_i, d in enumerate(int_dist_data, start=5):
+        ws_int.write(r_i, 1, d[0], f_td_center)
+        ws_int.write(r_i, 2, d[1], f_td_center)
+        ws_int.write(r_i, 3, d[2], f_td_text)
+        ws_int.write(r_i, 4, d[3], f_td_text)
+        ws_int.write(r_i, 5, d[4], f_td_num)
+        ws_int.write(r_i, 6, d[5], f_td_pct)
+        ws_int.write(r_i, 7, d[6], f_td_num)
+        ws_int.write(r_i, 8, d[7], f_td_num_bold)
+        ws_int.write(r_i, 9, d[8], f_td_red)
+        ws_int.write(r_i, 10, d[9], f_td_pct)
+        
+    tot_row = 5 + len(int_dist_data)
+    ws_int.write(tot_row, 1, "TOTAL", f_td_total)
+    ws_int.write(tot_row, 2, "-", f_td_total)
+    ws_int.write(tot_row, 3, "Interior Consolidado", f_td_total)
+    ws_int.write(tot_row, 4, "-", f_td_total)
+    ws_int.write(tot_row, 5, 203137, f_td_total)
+    ws_int.write(tot_row, 6, 1.0, f_td_total)
+    ws_int.write(tot_row, 7, 9233.5, f_td_total)
+    ws_int.write(tot_row, 8, 107000, f_td_total)
+    ws_int.write(tot_row, 9, 96137, f_td_total)
+    ws_int.write(tot_row, 10, 0.5267, f_td_total)
+
+    # Tabla mensual acumulada distrital
+    start_table2_row = tot_row + 3
+    ws_int.write(start_table2_row - 1, 1, "Evolución Mensual Acumulada por Distrito del Interior", f_title)
+    
+    headers_int_monthly = [
+        "Periodo", "Mes N°", "D28 Río Cuarto Acum.", "D8 Villa María Acum.",
+        "D18 San Francisco Acum.", "D23 Villa Allende Acum.", "Total Interior Acumulado", "Stock Interior Remanente"
+    ]
+    for c_i, h in enumerate(headers_int_monthly, start=1):
+        ws_int.write(start_table2_row, c_i, h, f_th_cyan)
+        
+    r_cur_row = start_table2_row + 1
+    for r in data_rows:
+        ws_int.write(r_cur_row, 1, r["mes"], f_td_center)
+        ws_int.write(r_cur_row, 2, str(r["mes_nro"]), f_td_center)
+        ws_int.write(r_cur_row, 3, r["rc_acum"], f_td_num)
+        ws_int.write(r_cur_row, 4, r["vm_acum"], f_td_num)
+        ws_int.write(r_cur_row, 5, r["sf_acum"], f_td_num)
+        ws_int.write(r_cur_row, 6, r["va_acum"], f_td_num)
+        ws_int.write(r_cur_row, 7, r["inst_int_acum"], f_td_num_bold)
+        
+        stk_rem_i = stock_total_int - r["inst_int_acum"]
+        if stk_rem_i <= 0:
+            ws_int.write(r_cur_row, 8, 0, f_td_red)
+        else:
+            ws_int.write(r_cur_row, 8, stk_rem_i, f_td_green)
+            
+        r_cur_row += 1
+        
+    last_int_row = r_cur_row - 1
+
+    # ==============================================================
+    # HOJA 4: RELEVAMIENTO Y PLANES ZONA A (NUEVA ASIGNACIÓN TECNOLÓGICA)
+    # ==============================================================
+    ws_rel = wb.add_worksheet("Relevamiento y Planes Zona A")
+    ws_rel.set_column('A:A', 3)
+    ws_rel.set_column('B:B', 14)
+    ws_rel.set_column('C:C', 18)
+    ws_rel.set_column('D:D', 15)
+    ws_rel.set_column('E:E', 18)
+    ws_rel.set_column('F:F', 15)
+    ws_rel.set_column('G:G', 16)
+    ws_rel.set_column('H:H', 18)
+    ws_rel.set_column('I:I', 22)
+    ws_rel.set_column('J:J', 24)
+    ws_rel.set_column('K:K', 16)
+    ws_rel.set_column('L:L', 15)
+    
+    ws_rel.write('B2', "Diagnóstico de Relevamiento de Suministros por Plan (Zona A - Córdoba Capital)", f_title)
+    ws_rel.write('B3', "Nueva Asignación Tecnológica: CLOU (Planes 8, 6, 17) y NANSEN (Planes 18, 19, 12)", f_subtitle)
+    
+    rel_headers = [
+        "Plan (GRL)", "Suministros NO Relevados", "% No Relevado",
+        "Suministros Relevados", "% Relevado", "Suministro Total",
+        "Tecnología Asignada", "Prioridad de Relevamiento", "Ventana Exigida de Relev.",
+        "Ritmo Relev. Req. (u/m)", "Cuadrillas Relev. (18 u/d)"
+    ]
+    for c_i, h in enumerate(rel_headers, start=1):
+        ws_rel.write(4, c_i, h, f_th_navy)
+        
+    for r_i, p in enumerate(planes_relevamiento, start=5):
+        ws_rel.write(r_i, 1, p["plan"], f_td_center)
+        ws_rel.write(r_i, 2, p["no_rel"], f_td_red if p["no_rel"] > 5000 else f_td_num)
+        ws_rel.write(r_i, 3, p["pct_no_rel"], f_td_pct)
+        ws_rel.write(r_i, 4, p["rel"], f_td_green if p["rel"] > 20000 else f_td_num)
+        ws_rel.write(r_i, 5, p["pct_rel"], f_td_pct)
+        ws_rel.write(r_i, 6, p["total"], f_td_num_bold)
+        
+        # Tag de tecnología
+        if p["tecnologia"] == "CLOU":
+            ws_rel.write(r_i, 7, p["tecnologia"], f_tag_clou)
+        else:
+            ws_rel.write(r_i, 7, p["tecnologia"], f_tag_nansen)
+        
+        if "URGENCIA" in p["prioridad"]:
+            ws_rel.write(r_i, 8, p["prioridad"], f_td_prio_urg)
+        elif "MEDIA" in p["prioridad"]:
+            ws_rel.write(r_i, 8, p["prioridad"], f_td_prio_med)
+        else:
+            ws_rel.write(r_i, 8, p["prioridad"], f_td_prio_ok)
+            
+        ws_rel.write(r_i, 9, p["ventana_relev"], f_td_text)
+        ws_rel.write(r_i, 10, p["ritmo_relev"], f_td_num)
+        ws_rel.write(r_i, 11, p["cuadrillas_relev"], f_td_center)
+        
+    tot_rel_row = 5 + len(planes_relevamiento)
+    ws_rel.write(tot_rel_row, 1, "TOTAL", f_td_total)
+    ws_rel.write(tot_rel_row, 2, 63042, f_td_total)
+    ws_rel.write(tot_rel_row, 3, 0.3944, f_td_total)
+    ws_rel.write(tot_rel_row, 4, 96796, f_td_total)
+    ws_rel.write(tot_rel_row, 5, 0.6056, f_td_total)
+    ws_rel.write(tot_rel_row, 6, 159838, f_td_total)
+    ws_rel.write(tot_rel_row, 7, "CLOU (3) + NANSEN (3)", f_td_total)
+    ws_rel.write(tot_rel_row, 8, "-", f_td_total)
+    ws_rel.write(tot_rel_row, 9, "Ene-27 a Sep-27", f_td_total)
+    ws_rel.write(tot_rel_row, 10, 7005, f_td_total)
+    ws_rel.write(tot_rel_row, 11, 15.9, f_td_total)
+
+    # Tabla Despliegue Mensual por Plan en Zona A (NUEVA ASIGNACIÓN TECNOLÓGICA)
+    sec2_row = tot_rel_row + 3
+    ws_rel.write(sec2_row - 1, 1, "Despliegue Mensual de Medidores por Plan en Zona A (Nueva Asignación - 200k en 10m)", f_title)
+    
+    headers_plan_desp = [
+        "Periodo", "Plan 18 (NANSEN)", "Plan 19 (NANSEN)", "Plan 12 (NANSEN)",
+        "Plan 6 (CLOU)", "Plan 17 (CLOU)", "Plan 8 (CLOU)", "Cuencas Densas Ady.", "Total Capital Mes"
+    ]
+    for c_i, h in enumerate(headers_plan_desp, start=1):
+        if "NANSEN" in h:
+            ws_rel.write(sec2_row, c_i, h, f_th_green)
+        elif "CLOU" in h:
+            ws_rel.write(sec2_row, c_i, h, f_th_blue)
+        else:
+            ws_rel.write(sec2_row, c_i, h, f_th_purple)
+        
+    cur_p_row = sec2_row + 1
+    for row in despliegue_nuevo:
+        ws_rel.write(cur_p_row, 1, row["mes"], f_td_center)
+        ws_rel.write(cur_p_row, 2, row["p18_ns"], f_td_num)
+        ws_rel.write(cur_p_row, 3, row["p19_ns"], f_td_num)
+        ws_rel.write(cur_p_row, 4, row["p12_ns"], f_td_num)
+        ws_rel.write(cur_p_row, 5, row["p6_cl"], f_td_num)
+        ws_rel.write(cur_p_row, 6, row["p17_cl"], f_td_num)
+        ws_rel.write(cur_p_row, 7, row["p8_cl"], f_td_num)
+        ws_rel.write(cur_p_row, 8, row["densas"], f_td_num)
+        ws_rel.write(cur_p_row, 9, row["tot_cap"], f_td_num_bold)
+        cur_p_row += 1
+        
+    last_p_row = cur_p_row - 1
+    
+    # Fila de totales por plan
+    ws_rel.write(cur_p_row, 1, "TOTAL", f_td_total)
+    ws_rel.write(cur_p_row, 2, 33248, f_td_total)
+    ws_rel.write(cur_p_row, 3, 29408, f_td_total)
+    ws_rel.write(cur_p_row, 4, 22098, f_td_total)
+    ws_rel.write(cur_p_row, 5, 12675, f_td_total)
+    ws_rel.write(cur_p_row, 6, 34787, f_td_total)
+    ws_rel.write(cur_p_row, 7, 27622, f_td_total)
+    ws_rel.write(cur_p_row, 8, 40162, f_td_total)
+    ws_rel.write(cur_p_row, 9, 200000, f_td_total)
+
+    # ==========================================
+    # HOJA 5: ESCENARIOS COOPERATIVAS
+    # ==========================================
+    ws_esc = wb.add_worksheet("Escenarios Cooperativas")
+    ws_esc.set_column('A:A', 4)
+    ws_esc.set_column('B:B', 30)
+    ws_esc.set_column('C:D', 42)
+    
+    ws_esc.write('B2', "Análisis Comparativo: Escenario A (CLOU) vs. Escenario B (SANXING)", f_title)
+    ws_esc.write('B3', "Evaluación de impacto sobre stock, flujo de entregas y cumplimiento de plazos", f_subtitle)
+    
+    ws_esc.write('B5', "Criterio de Evaluación", f_th_navy)
+    ws_esc.write('C5', "Escenario A: Descuento de CLOU (OP 27133)", f_th_green)
+    ws_esc.write('D5', "Escenario B: Descuento de SANXING (OP 27131)", f_th_amber)
+    
+    esc_rows = [
+        ("Stock EPEC Resultante", "200.000 Sanxing + 107.000 CLOU = 307.000 MI", "107.000 Sanxing + 200.000 CLOU = 307.000 MI"),
+        ("Disponibilidad en Almacén", "Temprana (Feb-Jun 2027: 200k Sanxing disponibles)", "Tardía (CLOU entrega en Sep, Oct y Dic 2027)"),
+        ("Cumplimiento Zona A (200k en 10m)", "100% Factible (Planes 18 y 19 activos en Mar-Jun)", "Incumplible (Parálisis de 4 meses entre Abr y Ago)"),
+        ("Abastecimiento Interior (107k)", "100% Homogéneo en Sanxing (Stock asegurado en Jun-27)", "Tensión de stock (Sanxing al límite exacto sin margen)"),
+        ("Lote absorbido por Cooperativas", "CLOU E4 (16/12/2027) de 75k + 18k de CLOU E3", "Sanxing E4 y E5 de Mayo-Junio 2027"),
+        ("Alineación con Concentradores", "3.000 Sanford y 1.605 Nicema asignados por zona", "Incompatibilidad de cabeceras PLC en subestaciones"),
+        ("Meses de Parálisis de Cuadrillas", "0 Meses (Flujo continuo)", "4 Meses (Mayo, Junio, Julio, Agosto 2027)"),
+        ("Dictamen Técnico", "RECOMENDADO / FACTIBLE", "DESACONSEJADO / CRÍTICO")
+    ]
+    
+    for r_i, (crit, ea, eb) in enumerate(esc_rows, start=6):
+        ws_esc.write(r_i, 1, crit, f_td_text)
+        if crit == "Dictamen Técnico":
+            ws_esc.write(r_i, 2, ea, f_td_green)
+            ws_esc.write(r_i, 3, eb, f_td_red)
+        else:
+            ws_esc.write(r_i, 2, ea, f_td_text)
+            ws_esc.write(r_i, 3, eb, f_td_text)
+
+    # ==========================================
+    # CREACIÓN DE GRÁFICAS NATIVAS
+    # ==========================================
+    
+    # GRÁFICA 1: Curva de Instalación vs. Descenso de Stock
+    chart1 = wb.add_chart({'type': 'line'})
+    chart1.set_title({'name': 'Curva de Instalación Acumulada vs. Descenso de Stock Remanente', 'name_font': {'size': 11, 'bold': True}})
+    chart1.set_x_axis({'name': 'Mes / Periodo', 'name_font': {'size': 9}})
+    chart1.set_y_axis({'name': 'Medidores Acumulados', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart1.set_legend({'position': 'top'})
+    chart1.set_size({'width': 650, 'height': 330})
+    
+    chart1.add_series({
+        'name':       ['Cronograma Maestro', 1, 16],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 16, last_row, 16],
+        'line':       {'color': '#10b981', 'width': 2.5},
+        'marker':     {'type': 'circle', 'size': 5, 'color': '#10b981'}
+    })
+    chart1.add_series({
+        'name':       ['Cronograma Maestro', 1, 15],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 15, last_row, 15],
+        'line':       {'color': '#2563eb', 'width': 2.5},
+        'marker':     {'type': 'square', 'size': 5, 'color': '#2563eb'}
+    })
+    chart1.add_series({
+        'name':       ['Cronograma Maestro', 1, 7],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 7, last_row, 7],
+        'line':       {'color': '#8b5cf6', 'width': 1.8, 'dash_type': 'dash'},
+    })
+    chart1.add_series({
+        'name':       ['Cronograma Maestro', 1, 9],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 9, last_row, 9],
+        'line':       {'color': '#f59e0b', 'width': 1.8, 'dash_type': 'dash'},
+    })
+    ws_dash.insert_chart('B11', chart1)
+    
+    # GRÁFICA 2: Ritmo Mensual de Instalación: Zona A vs. Interior
+    chart2 = wb.add_chart({'type': 'column'})
+    chart2.set_title({'name': 'Ritmo Mensual de Instalación: Zona A (Capital) vs. Interior', 'name_font': {'size': 11, 'bold': True}})
+    chart2.set_x_axis({'name': 'Mes / Periodo', 'name_font': {'size': 9}})
+    chart2.set_y_axis({'name': 'Medidores / Mes', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart2.set_legend({'position': 'top'})
+    chart2.set_size({'width': 650, 'height': 330})
+    
+    chart2.add_series({
+        'name':       ['Cronograma Maestro', 1, 6],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 6, last_row, 6],
+        'fill':       {'color': '#8b5cf6'},
+        'border':     {'color': '#7c3aed'}
+    })
+    chart2.add_series({
+        'name':       ['Cronograma Maestro', 1, 8],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 8, last_row, 8],
+        'fill':       {'color': '#f59e0b'},
+        'border':     {'color': '#d97706'}
+    })
+    chart2.add_series({
+        'name':       ['Cronograma Maestro', 1, 4],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 4, last_row, 4],
+        'fill':       {'color': '#0ea5e9'},
+        'border':     {'color': '#0284c7'}
+    })
+    ws_dash.insert_chart('L11', chart2)
+    
+    # GRÁFICA 3: Desglose Mensual por Distrito del Interior
+    chart3 = wb.add_chart({'type': 'column', 'subtype': 'stacked'})
+    chart3.set_title({'name': 'Interior: Ritmo Mensual Proporcional por Distrito (Agotamiento en Feb-2028 / Mes 12)', 'name_font': {'size': 11, 'bold': True}})
+    chart3.set_x_axis({'name': 'Mes / Periodo', 'name_font': {'size': 9}})
+    chart3.set_y_axis({'name': 'Medidores / Mes', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart3.set_legend({'position': 'top'})
+    chart3.set_size({'width': 650, 'height': 330})
+    
+    chart3.add_series({
+        'name':       ['Cronograma Maestro', 1, 10],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 10, last_row, 10],
+        'fill':       {'color': '#1e40af'}
+    })
+    chart3.add_series({
+        'name':       ['Cronograma Maestro', 1, 11],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 11, last_row, 11],
+        'fill':       {'color': '#0284c7'}
+    })
+    chart3.add_series({
+        'name':       ['Cronograma Maestro', 1, 12],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 12, last_row, 12],
+        'fill':       {'color': '#d97706'}
+    })
+    chart3.add_series({
+        'name':       ['Cronograma Maestro', 1, 13],
+        'categories': ['Cronograma Maestro', 2, 0, last_row, 0],
+        'values':     ['Cronograma Maestro', 2, 13, last_row, 13],
+        'fill':       {'color': '#e11d48'}
+    })
+    ws_dash.insert_chart('B29', chart3)
+    
+    # GRÁFICA 4: Evolución Acumulada por Distrito del Interior
+    chart4 = wb.add_chart({'type': 'line'})
+    chart4.set_title({'name': 'Interior: Curvas Acumuladas por Distrito (52,67% Cobertura al Agotarse Stock)', 'name_font': {'size': 11, 'bold': True}})
+    chart4.set_x_axis({'name': 'Mes / Periodo', 'name_font': {'size': 9}})
+    chart4.set_y_axis({'name': 'Medidores Acumulados', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart4.set_legend({'position': 'top'})
+    chart4.set_size({'width': 650, 'height': 330})
+    
+    first_int_r = start_table2_row + 1
+    chart4.add_series({
+        'name':       ['Detalle Distritos Interior', start_table2_row, 3],
+        'categories': ['Detalle Distritos Interior', first_int_r, 1, last_int_row, 1],
+        'values':     ['Detalle Distritos Interior', first_int_r, 3, last_int_row, 3],
+        'line':       {'color': '#1e40af', 'width': 2.2},
+        'marker':     {'type': 'circle', 'size': 4, 'color': '#1e40af'}
+    })
+    chart4.add_series({
+        'name':       ['Detalle Distritos Interior', start_table2_row, 4],
+        'categories': ['Detalle Distritos Interior', first_int_r, 1, last_int_row, 1],
+        'values':     ['Detalle Distritos Interior', first_int_r, 4, last_int_row, 4],
+        'line':       {'color': '#0284c7', 'width': 2.2},
+        'marker':     {'type': 'square', 'size': 4, 'color': '#0284c7'}
+    })
+    chart4.add_series({
+        'name':       ['Detalle Distritos Interior', start_table2_row, 5],
+        'categories': ['Detalle Distritos Interior', first_int_r, 1, last_int_row, 1],
+        'values':     ['Detalle Distritos Interior', first_int_r, 5, last_int_row, 5],
+        'line':       {'color': '#d97706', 'width': 2.2},
+        'marker':     {'type': 'diamond', 'size': 4, 'color': '#d97706'}
+    })
+    chart4.add_series({
+        'name':       ['Detalle Distritos Interior', start_table2_row, 6],
+        'categories': ['Detalle Distritos Interior', first_int_r, 1, last_int_row, 1],
+        'values':     ['Detalle Distritos Interior', first_int_r, 6, last_int_row, 6],
+        'line':       {'color': '#e11d48', 'width': 2.2},
+        'marker':     {'type': 'triangle', 'size': 4, 'color': '#e11d48'}
+    })
+    ws_dash.insert_chart('L29', chart4)
+
+    # GRÁFICA 5: Estado de Relevamiento por Plan (Zona A)
+    chart5 = wb.add_chart({'type': 'bar', 'subtype': 'stacked'})
+    chart5.set_title({'name': 'Zona A: Suministros Relevados vs. Pendientes de Relevamiento por Plan', 'name_font': {'size': 11, 'bold': True}})
+    chart5.set_x_axis({'name': 'Suministros', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart5.set_y_axis({'name': 'Plan de Lectura', 'name_font': {'size': 9}})
+    chart5.set_legend({'position': 'top'})
+    chart5.set_size({'width': 650, 'height': 330})
+    
+    chart5.add_series({
+        'name':       ['Relevamiento y Planes Zona A', 4, 4],
+        'categories': ['Relevamiento y Planes Zona A', 5, 1, tot_rel_row - 1, 1],
+        'values':     ['Relevamiento y Planes Zona A', 5, 4, tot_rel_row - 1, 4],
+        'fill':       {'color': '#10b981'},
+        'border':     {'color': '#059669'}
+    })
+    chart5.add_series({
+        'name':       ['Relevamiento y Planes Zona A', 4, 2],
+        'categories': ['Relevamiento y Planes Zona A', 5, 1, tot_rel_row - 1, 1],
+        'values':     ['Relevamiento y Planes Zona A', 5, 2, tot_rel_row - 1, 2],
+        'fill':       {'color': '#ef4444'},
+        'border':     {'color': '#dc2626'}
+    })
+    ws_dash.insert_chart('B47', chart5)
+
+    # GRÁFICA 6: Despliegue Mensual por Plan en Zona A (NUEVA ASIGNACIÓN TECNOLÓGICA)
+    chart6 = wb.add_chart({'type': 'column', 'subtype': 'stacked'})
+    chart6.set_title({'name': 'Zona A: Despliegue por Plan con Nueva Tecnología (CLOU: 8,6,17 | NANSEN: 18,19,12)', 'name_font': {'size': 11, 'bold': True}})
+    chart6.set_x_axis({'name': 'Mes / Periodo (2027)', 'name_font': {'size': 9}})
+    chart6.set_y_axis({'name': 'Medidores / Mes', 'name_font': {'size': 9}, 'num_format': '#,##0'})
+    chart6.set_legend({'position': 'top'})
+    chart6.set_size({'width': 650, 'height': 330})
+    
+    col_colors_new = [
+        (2, "#15803d"), # P18 Nansen (Verde Oscuro)
+        (3, "#22c55e"), # P19 Nansen (Verde Claro)
+        (4, "#86efac"), # P12 Nansen (Verde Lima)
+        (5, "#0284c7"), # P6 CLOU (Azul Cielo)
+        (6, "#2563eb"), # P17 CLOU (Azul Royal)
+        (7, "#1e3a8a"), # P8 CLOU (Azul Marino)
+        (8, "#94a3b8")  # Cuencas Densas (Gris)
+    ]
+    for c_idx, color in col_colors_new:
+        chart6.add_series({
+            'name':       ['Relevamiento y Planes Zona A', sec2_row, c_idx],
+            'categories': ['Relevamiento y Planes Zona A', sec2_row + 1, 1, last_p_row, 1],
+            'values':     ['Relevamiento y Planes Zona A', sec2_row + 1, c_idx, last_p_row, c_idx],
+            'fill':       {'color': color}
+        })
+    ws_dash.insert_chart('L47', chart6)
+    
+    wb.close()
+    print(f"Archivo Excel generado con éxito: {file_path}")
+
+create_excel_workbook(EXCEL_LOCAL)
+create_excel_workbook(EXCEL_DOWNLOADS)

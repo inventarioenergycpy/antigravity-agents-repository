@@ -147,6 +147,8 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-27_qlik_especificacion-disposicion-visual-layout-grilla-24-columnas|2026-10-27 Qlik Sense - Especificación y Codificación de Disposición Visual de Gráficos (Grilla 24 Cols equivalente a Power BI PBIP)]]
+- [[Historial-Mejoras/2026-10-27_despliegue-ami_grafica-instalacion-sostenida-deficit-amarillo-naranja|2026-10-27 Despliegue AMI - Actualización de Gráfica: Curva de Instalación Acumulada vs. Descenso de Stock Remanente con Instalación Sostenida y Déficit en Amarillo-Naranja]]
 - [[Historial-Mejoras/2026-10-25_fase2_escalamiento-provincial-manzanas-alta-resolucion-convergencia-1.2M|2026-10-25 Squad Arquetipo A - Escalamiento Provincial Unificado de Manzanas de Alta Resolución y Motor de Convergencia en 1.2M Suministros (771.428 Alta Certeza, 91.60% en Capital, 33.655 Manzanas HR, 580.330 Parcelas)]]
 - [[Historial-Mejoras/2026-10-25_sprint3_propagacion-vecindad-ruta-knn-orden-lectura|2026-10-25 Squad Arquetipo A - Consolidación Sprint 3: Propagación por Vecindad de Ruta y Resolución de Ambigüedades (86.88% Alta Certeza, 94.67% Cobertura Territorial, 66.529 Suministros)]]
 - [[Historial-Mejoras/2026-10-25_sprint2_motor-convergencia-4partes-asignacion-parcelaria-suministros|2026-10-25 Squad Arquetipo A - Consolidación Sprint 2: Motor de Convergencia en 4 Partes para Asignación Parcelaria de Suministros (83.33% Alta Certeza, 66.529 Suministros)]]
@@ -195,6 +197,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-27_especificacion-disposicion-visual-qlik-sense|2026-10-27 Especificación y Codificación de Disposición Visual en Qlik Sense (Blueprints Grilla 24x12, Bundle JSON & Visor)]]
 - [[docs/Proyectos/2026-10-26_migracion-powerbi-tablero-mi-zona-a-qlik-sense|2026-10-26 Conversión de Power BI a Qlik Sense (Tablero MI - Zona A, Capa Extractores Oracle & Modelo)]]
 - [[docs/Proyectos/2026-10-25_vector-convergente-asignacion-parcelaria-epec-parcelas-union|2026-10-25 Asignación Parcelaria Multivariada y Recomposición de Manzanas de Alta Resolución (Vector Bottom-Up EPEC:parcelas_union)]]
 - [[docs/Proyectos/2026-10-22_estrategia-campana-captacion-factura-digital|2026-10-22 Plan Estratégico y Modelo de Campañas de Captación para Factura Digital (Base 922.958 Titulares EPEC)]] (`inventarioenergycpy/encuesta-cier-epec`)

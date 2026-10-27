@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visor de Layout Qlik Sense - Tablero MI Zona A (Equivalencia Power BI)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #0f172a;
+      --card-bg: #1e293b;
+      --border-color: #334155;
+      --primary: #38bdf8;
+      --accent: #818cf8;
+      --kpi-bg: #064e3b;
+      --kpi-border: #10b981;
+      --kpi-text: #a7f3d0;
+      --pivot-bg: #3b0764;
+      --pivot-border: #a855f7;
+      --pivot-text: #e9d5ff;
+      --table-bg: #1e3a8a;
+      --table-border: #3b82f6;
+      --table-text: #bfdbfe;
+      --map-bg: #7c2d12;
+      --map-border: #f97316;
+      --map-text: #ffedd5;
+      --chart-bg: #1e1b4b;
+      --chart-border: #6366f1;
+      --chart-text: #c7d2fe;
+      --filter-bg: #1f2937;
+      --filter-border: #6b7280;
+      --filter-text: #e5e7eb;
+      --shape-bg: #18181b;
+      --shape-border: #52525b;
+      --shape-text: #a1a1aa;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-dark);
+      color: #f8fafc;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: #090d16;
+      border-bottom: 1px solid var(--border-color);
+      padding: 16px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .brand-badge {
+      background: linear-gradient(135deg, #0284c7, #6366f1);
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #f1f5f9;
+    }
+    .header-actions {
+      display: flex;
+      gap: 12px;
+    }
+    .btn {
+      background: #1e293b;
+      border: 1px solid var(--border-color);
+      color: #cbd5e1;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background: #334155;
+      color: #fff;
+    }
+    .btn-primary {
+      background: #0284c7;
+      border-color: #38bdf8;
+      color: #fff;
+    }
+    .btn-primary:hover {
+      background: #0369a1;
+    }
+
+    /* Tabs */
+    .tabs-bar {
+      background: #111827;
+      border-bottom: 1px solid var(--border-color);
+      padding: 8px 24px;
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+    }
+    .tab-btn {
+      background: transparent;
+      border: 1px solid transparent;
+      color: #94a3b8;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+    .tab-btn:hover {
+      color: #f1f5f9;
+      background: rgba(255, 255, 255, 0.05);
+    }
+    .tab-btn.active {
+      background: #1e293b;
+      border-color: #38bdf8;
+      color: #38bdf8;
+    }
+
+    /* Canvas / Workspace */
+    .workspace {
+      flex: 1;
+      padding: 24px;
+      display: flex;
+      gap: 24px;
+      align-items: flex-start;
+    }
+    .canvas-container {
+      flex: 1;
+      background: #020617;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 10px 25px -5px rgba(0,0,0,0.5);
+      overflow-x: auto;
+    }
+    .canvas-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #1e293b;
+      font-size: 13px;
+      color: #94a3b8;
+    }
+    .grid-canvas {
+      display: grid;
+      grid-template-columns: repeat(24, 1fr);
+      gap: 8px;
+      background: #0b1120;
+      border: 1px dashed #1e293b;
+      border-radius: 8px;
+      padding: 8px;
+      position: relative;
+    }
+
+    /* Tiles / Cards */
+    .grid-tile {
+      border-radius: 6px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid;
+    }
+    .grid-tile:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 16px -2px rgba(0,0,0,0.6);
+      z-index: 10;
+    }
+    .grid-tile.selected {
+      outline: 2px solid #fff;
+      box-shadow: 0 0 15px rgba(56, 189, 248, 0.8);
+    }
+
+    /* Tipos */
+    .tile-kpi { background: var(--kpi-bg); border-color: var(--kpi-border); color: var(--kpi-text); }
+    .tile-pivot-table { background: var(--pivot-bg); border-color: var(--pivot-border); color: var(--pivot-text); }
+    .tile-table { background: var(--table-bg); border-color: var(--table-border); color: var(--table-text); }
+    .tile-map { background: var(--map-bg); border-color: var(--map-border); color: var(--map-text); }
+    .tile-combochart, .tile-barchart, .tile-linechart { background: var(--chart-bg); border-color: var(--chart-border); color: var(--chart-text); }
+    .tile-filterpane, .tile-FilterByList507A2DBEC31244C8AAABDE9BA541F723 { background: var(--filter-bg); border-color: var(--filter-border); color: var(--filter-text); }
+    .tile-text-image, .tile-action-button { background: var(--shape-bg); border-color: var(--shape-border); color: var(--shape-text); }
+
+    .tile-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 4px;
+      margin-bottom: 6px;
+    }
+    .tile-type-badge {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: rgba(0,0,0,0.4);
+      letter-spacing: 0.3px;
+    }
+    .tile-coords {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      opacity: 0.7;
+    }
+    .tile-title {
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 1.3;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .tile-metrics {
+      font-size: 10px;
+      opacity: 0.85;
+      margin-top: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Sidebar Inspector */
+    .sidebar-inspector {
+      width: 360px;
+      background: #0f172a;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 20px;
+      position: sticky;
+      top: 90px;
+      max-height: calc(100vh - 120px);
+      overflow-y: auto;
+    }
+    .inspector-title {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      color: #38bdf8;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .prop-group {
+      margin-bottom: 14px;
+    }
+    .prop-label {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: #94a3b8;
+      letter-spacing: 0.5px;
+      margin-bottom: 4px;
+    }
+    .prop-value {
+      font-size: 13px;
+      background: #1e293b;
+      padding: 8px 12px;
+      border-radius: 6px;
+      border: 1px solid #334155;
+      font-family: 'JetBrains Mono', monospace;
+      color: #f1f5f9;
+      word-break: break-all;
+    }
+    .badge-code {
+      display: inline-block;
+      background: #0284c7;
+      color: white;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: bold;
+    }
+    .legend-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid #1e293b;
+      font-size: 12px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-left">
+      <div class="brand-badge">Qlik Sense Grid 24 Cols</div>
+      <h1>Blueprint de Disposición Visual: Tablero MI - Zona A</h1>
+    </div>
+    <div class="header-actions">
+      <button class="btn" onclick="copiarJSON()">📋 Copiar JSON Bundle</button>
+      <a class="btn btn-primary" href="qlik_sense_app_sheets_bundle.json" download="qlik_sense_app_sheets_bundle.json">📥 Descargar Bundle Qlik</a>
+    </div>
+  </header>
+
+  <div class="tabs-bar" id="tabsBar"></div>
+
+  <div class="workspace">
+    <div class="canvas-container">
+      <div class="canvas-info">
+        <div>
+          <strong id="activeSheetTitle" style="color: #f1f5f9; font-size: 15px;"></strong>
+          <span id="activeSheetDims" style="margin-left: 12px;"></span>
+        </div>
+        <div>Grilla Qlik Sense: <strong>24 Columnas</strong> &times; <strong id="activeSheetRows"></strong> Filas</div>
+      </div>
+      <div class="grid-canvas" id="gridCanvas"></div>
+      
+      <div class="legend-bar">
+        <div class="legend-item"><div class="legend-dot" style="background:var(--kpi-border)"></div> KPI Card</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--pivot-border)"></div> Pivot Table (Matriz)</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--table-border)"></div> Tabla Detalle</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--chart-border)"></div> Gráfico Combo / Barras</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--map-border)"></div> Mapa Georreferenciado</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--filter-border)"></div> Panel de Filtro / Slicer</div>
+      </div>
+    </div>
+
+    <div class="sidebar-inspector" id="inspector">
+      <div class="inspector-title">🔍 Inspector de Objeto Qlik</div>
+      <div id="inspectorContent">
+        <p style="color: #64748b; font-size: 13px;">Haz clic en cualquier gráfico de la grilla para inspeccionar sus coordenadas exactas, dimensiones y medidas de Qlik Sense.</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const pagesData = [{"page_id": "ReportSectioncf0c0c9985bb2d9803d9", "display_name": "Suministros", "canvas_width": 1280.0, "canvas_height": 720.0, "qlik_grid_cols": 24, "visuals": [{"id": "14a0a8c506473d5b7c38", "pbi_type": "shape", "qlik_type": "text-image", "title": "Medida: titulo_tablero_MI_zona", "pbi_coords": {"x": 244.2857142857143, "y": 0.0, "width": 687.1428571428572, "height": 37.142857142857146, "z": 10000}, "qlik_cell": {"col": 5, "row": 0, "colspan": 13, "rowspan": 1}}, {"id": "aae91f2b9557be611e0e", "pbi_type": "card", "qlik_type": "kpi", "title": "Suministros Con Telemetría", "pbi_coords": {"x": 6.503422482534754, "y": 76.41521416978337, "width": 186.9733963728742, "height": 107.29720358478583, "z": 2000}, "qlik_cell": {"col": 0, "row": 1, "colspan": 4, "rowspan": 2}}, {"id": "a252285069e5d0ee4630", "pbi_type": "card", "qlik_type": "kpi", "title": "SUMINISTROS SELECCION", "pbi_coords": {"x": 213.77256404117787, "y": 78.44864735456069, "width": 188.27675365094566, "height": 107.86689011252095, "z": 14000}, "qlik_cell": {"col": 4, "row": 1, "colspan": 4, "rowspan": 2}}, {"id": "ad74b3810609c16b1da2", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 421.0966057441253, "y": 78.04106979041705, "width": 128.4425940300614, "height": 105.68061534118976, "z": 15000}, "qlik_cell": {"col": 8, "row": 1, "colspan": 2, "rowspan": 2}}, {"id": "9caef72563bbca6a8c95", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 560.9201891186226, "y": 76.41521416978337, "width": 133.32016089196247, "height": 105.68061534118976, "z": 17000}, "qlik_cell": {"col": 11, "row": 1, "colspan": 2, "rowspan": 2}}, {"id": "4d441e71b86634099474", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 705.6213393550208, "y": 76.41521416978337, "width": 133.32016089196247, "height": 104.05475972055606, "z": 16000}, "qlik_cell": {"col": 13, "row": 1, "colspan": 2, "rowspan": 2}}, {"id": "fc2eb93146e9497990cf", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 851.9483452120528, "y": 76.41521416978337, "width": 182.09582951097312, "height": 104.05475972055606, "z": 19000}, "qlik_cell": {"col": 16, "row": 1, "colspan": 3, "rowspan": 2}}, {"id": "f245569d93a2a6075b96", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 1047.0510196880955, "y": 76.41521416978337, "width": 133.32016089196247, "height": 104.05475972055606, "z": 21000}, "qlik_cell": {"col": 20, "row": 1, "colspan": 2, "rowspan": 2}}, {"id": "77ff69e8843b20a049c0", "pbi_type": "image", "qlik_type": "text-image", "title": "", "pbi_coords": {"x": 1198.2555924070284, "y": 94.29962599675393, "width": 68.28593606661492, "height": 71.5376473078823, "z": 8000}, "qlik_cell": {"col": 22, "row": 2, "colspan": 1, "rowspan": 1}}, {"id": "5824f9f129a0b0157c03", "pbi_type": "card", "qlik_type": "kpi", "title": "NANSEN", "pbi_coords": {"x": 9.755133723802132, "y": 193.47681885540894, "width": 182.07794509914615, "height": 107.29720358478583, "z": 3000}, "qlik_cell": {"col": 0, "row": 3, "colspan": 3, "rowspan": 2}}, {"id": "f7f790d0b5aa920059a5", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "Medidores por Marca y Plan", "pbi_coords": {"x": 212.85714285714286, "y": 198.57142857142858, "width": 325.7142857142857, "height": 287.14285714285717, "z": 1000}, "qlik_cell": {"col": 4, "row": 3, "colspan": 6, "rowspan": 5}}, {"id": "6831d12e806479ce4995", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "Suministros por Tarifa y Clase", "pbi_coords": {"x": 550.0, "y": 200.0, "width": 290.0, "height": 287.14285714285717, "z": 18000}, "qlik_cell": {"col": 10, "row": 3, "colspan": 5, "rowspan": 5}}, {"id": "e8f59096b27c6a74770e", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR SUMINISTRO", "pbi_coords": {"x": 851.4285714285714, "y": 200.0, "width": 208.57142857142858, "height": 120.00000000000001, "z": 0}, "qlik_cell": {"col": 16, "row": 3, "colspan": 4, "rowspan": 2}}, {"id": "2af70700cbd9d7ecba1e", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "RAZON SOCIAL", "pbi_coords": {"x": 1070.0, "y": 200.0, "width": 197.14285714285717, "height": 120.00000000000001, "z": 9000}, "qlik_cell": {"col": 20, "row": 3, "colspan": 4, "rowspan": 2}}, {"id": "8a2cb580ec32eb250b0d", "pbi_type": "card", "qlik_type": "kpi", "title": "CLOU", "pbi_coords": {"x": 10.0, "y": 305.7142857142857, "width": 181.41285714285715, "height": 107.14285714285715, "z": 11000}, "qlik_cell": {"col": 0, "row": 5, "colspan": 3, "rowspan": 2}}, {"id": "559ba3d0b7505cc7901a", "pbi_type": "azureMap", "qlik_type": "map", "title": "MAPA", "pbi_coords": {"x": 851.4285714285714, "y": 330.0, "width": 415.7142857142857, "height": 372.8571428571429, "z": 4000}, "qlik_cell": {"col": 16, "row": 6, "colspan": 8, "rowspan": 6}}, {"id": "c25b846ed8db4ae70bc1", "pbi_type": "card", "qlik_type": "kpi", "title": "CHUPETE", "pbi_coords": {"x": 11.428571428571429, "y": 418.5714285714286, "width": 181.41285714285715, "height": 107.14285714285715, "z": 12000}, "qlik_cell": {"col": 0, "row": 7, "colspan": 3, "rowspan": 2}}, {"id": "1d7e2f829aa6e0255d1c", "pbi_type": "tableEx", "qlik_type": "table", "title": "LISTADO DETALLES DE SUMISTROS", "pbi_coords": {"x": 212.85714285714286, "y": 504.28571428571433, "width": 627.13, "height": 197.13000000000002, "z": 5000}, "qlik_cell": {"col": 4, "row": 8, "colspan": 12, "rowspan": 3}}, {"id": "4afdaa7487c1732c61ad", "pbi_type": "lineStackedColumnComboChart", "qlik_type": "combochart", "title": "EJECUTADOS POR DIA", "pbi_coords": {"x": 244.3791722296395, "y": 488.758344459279, "width": 1033.9118825100134, "height": 227.28971962616822, "z": 6000}, "qlik_cell": {"col": 5, "row": 8, "colspan": 19, "rowspan": 4}}, {"id": "ee851df920cd76a222ee", "pbi_type": "card", "qlik_type": "kpi", "title": "COMUN RELEVADOS NO INTELIGENTE", "pbi_coords": {"x": 11.428571428571429, "y": 531.4285714285714, "width": 181.41285714285715, "height": 107.14285714285715, "z": 13000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 3, "rowspan": 2}}, {"id": "f57e6a90710c5ddb3559", "pbi_type": "actionButton", "qlik_type": "action-button", "title": "EJECUTADOS POR MES", "pbi_coords": {"x": 0.0, "y": 557.1161548731642, "width": 205.07343124165553, "height": 92.28304405874499, "z": 7000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 4, "rowspan": 2}}, {"id": "b9932057c181ddefb93b", "pbi_type": "card", "qlik_type": "kpi", "title": "Fecha de actualización", "pbi_coords": {"x": 11.428571428571429, "y": 648.5714285714287, "width": 181.42857142857144, "height": 60.00000000000001, "z": 20000}, "qlik_cell": {"col": 0, "row": 11, "colspan": 3, "rowspan": 1}}], "qlik_grid_rows": 12}, {"page_id": "ReportSection158c797dac10109b5bd7", "display_name": "Ordenativos", "canvas_width": 1280.0, "canvas_height": 720.0, "qlik_grid_cols": 24, "visuals": [{"id": "1f0e8de50cd88ba71a39", "pbi_type": "shape", "qlik_type": "text-image", "title": "Medida: titulo_tablero_MI_zona", "pbi_coords": {"x": 244.2857142857143, "y": 0.0, "width": 687.1428571428572, "height": 37.142857142857146, "z": 14000}, "qlik_cell": {"col": 5, "row": 0, "colspan": 13, "rowspan": 1}}, {"id": "21a10ba00d00cd22d875", "pbi_type": "azureMap", "qlik_type": "map", "title": "", "pbi_coords": {"x": 0.0, "y": 77.27034120734908, "width": 488.81889763779526, "height": 413.2283464566929, "z": 6000}, "qlik_cell": {"col": 0, "row": 1, "colspan": 9, "rowspan": 7}}, {"id": "e8de532683ba522e8c1b", "pbi_type": "card", "qlik_type": "kpi", "title": "EJECUTADOS", "pbi_coords": {"x": 492.1784776902887, "y": 77.27034120734908, "width": 188.13648293963254, "height": 107.50656167979002, "z": 3000}, "qlik_cell": {"col": 9, "row": 1, "colspan": 4, "rowspan": 2}}, {"id": "4731a084e0e0c0000db1", "pbi_type": "card", "qlik_type": "kpi", "title": "PENDIENTES", "pbi_coords": {"x": 680.3149606299212, "y": 77.27034120734908, "width": 181.41732283464566, "height": 107.50656167979002, "z": 4000}, "qlik_cell": {"col": 13, "row": 1, "colspan": 3, "rowspan": 2}}, {"id": "14faa1d6105973ae5300", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 861.7322834645669, "y": 77.95275590551181, "width": 350.0787401574803, "height": 107.71653543307086, "z": 5000}, "qlik_cell": {"col": 16, "row": 1, "colspan": 7, "rowspan": 2}}, {"id": "a21ecb8231447d32d646", "pbi_type": "image", "qlik_type": "text-image", "title": "", "pbi_coords": {"x": 1211.811023622047, "y": 93.54330708661416, "width": 68.03149606299212, "height": 72.28346456692913, "z": 12000}, "qlik_cell": {"col": 23, "row": 2, "colspan": 1, "rowspan": 1}}, {"id": "ddd7d69ee2ce00aa7817", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 492.1784776902887, "y": 184.7769028871391, "width": 263.7270341207349, "height": 129.34383202099738, "z": 2000}, "qlik_cell": {"col": 9, "row": 3, "colspan": 5, "rowspan": 2}}, {"id": "3b7625d053a783d21a7b", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR SUMIS", "pbi_coords": {"x": 755.9055118110236, "y": 184.7769028871391, "width": 144.46194225721786, "height": 129.34383202099738, "z": 0}, "qlik_cell": {"col": 14, "row": 3, "colspan": 3, "rowspan": 2}}, {"id": "1776d88bc386a2eb7ae9", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "NRO PARTE DIARIO", "pbi_coords": {"x": 899.9999999999999, "y": 185.66929133858267, "width": 144.56692913385825, "height": 130.39370078740157, "z": 13000}, "qlik_cell": {"col": 17, "row": 3, "colspan": 3, "rowspan": 2}}, {"id": "2c54a3ad08270c30c80d", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "ESTADO ORDENATIVOS", "pbi_coords": {"x": 1044.5669291338581, "y": 185.66929133858267, "width": 235.2755905511811, "height": 127.55905511811022, "z": 1000}, "qlik_cell": {"col": 20, "row": 3, "colspan": 4, "rowspan": 2}}, {"id": "4b2ddf1688107a77752e", "pbi_type": "tableEx", "qlik_type": "table", "title": "LISTADO DE ORDENATIVOS", "pbi_coords": {"x": 492.1784776902887, "y": 314.12073490813646, "width": 787.8215223097112, "height": 176.3779527559055, "z": 7000}, "qlik_cell": {"col": 9, "row": 5, "colspan": 15, "rowspan": 3}}, {"id": "355ca0591526db28d6d2", "pbi_type": "lineStackedColumnComboChart", "qlik_type": "combochart", "title": "EJECUTADOS POR MES", "pbi_coords": {"x": 243.7795275590551, "y": 490.39370078740154, "width": 1036.0629921259842, "height": 228.18897637795274, "z": 8000}, "qlik_cell": {"col": 5, "row": 8, "colspan": 19, "rowspan": 4}}, {"id": "a437d5a3c30288d1eeab", "pbi_type": "lineStackedColumnComboChart", "qlik_type": "combochart", "title": "EJECUTADOS POR DIA", "pbi_coords": {"x": 244.3791722296395, "y": 488.758344459279, "width": 1033.9118825100134, "height": 227.28971962616822, "z": 9000}, "qlik_cell": {"col": 5, "row": 8, "colspan": 19, "rowspan": 4}}, {"id": "aab8e6f842ea9ba106e4", "pbi_type": "actionButton", "qlik_type": "action-button", "title": "EJECUTADOS POR DIA", "pbi_coords": {"x": 0.0, "y": 555.407209612817, "width": 205.07343124165553, "height": 100.82777036048063, "z": 11000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 4, "rowspan": 2}}, {"id": "f6f61a662aad18c6d62a", "pbi_type": "actionButton", "qlik_type": "action-button", "title": "EJECUTADOS POR MES", "pbi_coords": {"x": 0.0, "y": 557.1161548731642, "width": 205.07343124165553, "height": 92.28304405874499, "z": 10000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 4, "rowspan": 2}}], "qlik_grid_rows": 12}, {"page_id": "ReportSection5bc8ee0e61c683a81806", "display_name": "Telemetria", "canvas_width": 1280.0, "canvas_height": 900.0, "qlik_grid_cols": 24, "visuals": [{"id": "c01e183b0766de4d9da3", "pbi_type": "shape", "qlik_type": "text-image", "title": "Medida: titulo_tablero_MI_zona", "pbi_coords": {"x": 421.42857142857144, "y": 0.0, "width": 687.1428571428572, "height": 37.142857142857146, "z": 12000}, "qlik_cell": {"col": 8, "row": 0, "colspan": 13, "rowspan": 1}}, {"id": "9fbb93c58904c6659d58", "pbi_type": "card", "qlik_type": "kpi", "title": "MEDIDORES INSTALADOS", "pbi_coords": {"x": 4.838709677419355, "y": 99.99999999999999, "width": 225.80645161290323, "height": 193.5483870967742, "z": 2000}, "qlik_cell": {"col": 0, "row": 2, "colspan": 4, "rowspan": 3}}, {"id": "5fc246244e6cc9519dbd", "pbi_type": "card", "qlik_type": "kpi", "title": "NUNCA TELEMIDIERON", "pbi_coords": {"x": 244.70918241069214, "y": 97.99438990182327, "width": 194.78260869565216, "height": 60.56265984654731, "z": 5000}, "qlik_cell": {"col": 5, "row": 2, "colspan": 4, "rowspan": 1}}, {"id": "8b96408a7c71ae760090", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "TARIFA", "pbi_coords": {"x": 456.4516129032258, "y": 98.38709677419355, "width": 140.32258064516128, "height": 64.51612903225806, "z": 9000}, "qlik_cell": {"col": 9, "row": 2, "colspan": 3, "rowspan": 1}}, {"id": "e087f091d6de10cf4925", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 615.7161689688771, "y": 100.69352897346249, "width": 90.78924743508912, "height": 163.42064538316043, "z": 16000}, "qlik_cell": {"col": 12, "row": 2, "colspan": 2, "rowspan": 3}}, {"id": "e22e832c333264e0bfa5", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 720.0, "y": 101.11111111111111, "width": 115.55555555555556, "height": 163.33333333333334, "z": 17000}, "qlik_cell": {"col": 14, "row": 2, "colspan": 2, "rowspan": 3}}, {"id": "963f70bcce6101984c43", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 861.2903225806451, "y": 106.45161290322581, "width": 396.7741935483871, "height": 172.58064516129033, "z": 15000}, "qlik_cell": {"col": 16, "row": 2, "colspan": 7, "rowspan": 3}}, {"id": "fe56253fa454c050c069", "pbi_type": "card", "qlik_type": "kpi", "title": "SIN TELEMETRIA", "pbi_coords": {"x": 244.70918241069214, "y": 163.46753568187447, "width": 194.78260869565216, "height": 60.56265984654731, "z": 7000}, "qlik_cell": {"col": 5, "row": 3, "colspan": 4, "rowspan": 1}}, {"id": "736ac0933a8ac64ab5b3", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "PLAN", "pbi_coords": {"x": 456.4516129032258, "y": 164.51612903225808, "width": 140.32258064516128, "height": 59.67741935483871, "z": 10000}, "qlik_cell": {"col": 9, "row": 3, "colspan": 3, "rowspan": 1}}, {"id": "623b0e50035178a54584", "pbi_type": "card", "qlik_type": "kpi", "title": "TELEMETRIA OK", "pbi_coords": {"x": 244.70918241069214, "y": 230.5775101064269, "width": 194.78260869565216, "height": 60.56265984654731, "z": 6000}, "qlik_cell": {"col": 5, "row": 4, "colspan": 4, "rowspan": 1}}, {"id": "59fdae9739200100ac6d", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "MARCA", "pbi_coords": {"x": 456.4516129032258, "y": 230.6451612903226, "width": 140.32258064516128, "height": 59.67741935483871, "z": 14000}, "qlik_cell": {"col": 9, "row": 4, "colspan": 3, "rowspan": 1}}, {"id": "5a40723578de7424b3c0", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 367.741935483871, "y": 322.5806451612903, "width": 396.7741935483871, "height": 172.58064516129033, "z": 13000}, "qlik_cell": {"col": 7, "row": 5, "colspan": 7, "rowspan": 3}}, {"id": "c64d584ca28efc42bbec", "pbi_type": "azureMap", "qlik_type": "map", "title": "", "pbi_coords": {"x": 777.4193548387096, "y": 298.38709677419354, "width": 480.64516129032256, "height": 601.6129032258065, "z": 0}, "qlik_cell": {"col": 15, "row": 5, "colspan": 9, "rowspan": 10}}, {"id": "90eab2209b13bb93d0c6", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "Estado telemetría", "pbi_coords": {"x": 3.2258064516129035, "y": 361.2903225806452, "width": 177.41935483870967, "height": 104.83870967741936, "z": 3000}, "qlik_cell": {"col": 0, "row": 6, "colspan": 3, "rowspan": 2}}, {"id": "a0b68223d0096e208e0b", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR SUMI", "pbi_coords": {"x": 1.6129032258064517, "y": 474.19354838709677, "width": 179.03225806451613, "height": 104.83870967741936, "z": 8000}, "qlik_cell": {"col": 0, "row": 8, "colspan": 3, "rowspan": 2}}, {"id": "66c4de3095bc266e3749", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR MED", "pbi_coords": {"x": 187.77777777777777, "y": 474.44444444444446, "width": 171.11111111111111, "height": 104.44444444444444, "z": 18000}, "qlik_cell": {"col": 4, "row": 8, "colspan": 3, "rowspan": 2}}, {"id": "5286a7974c8aa212273d", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 367.741935483871, "y": 495.16129032258067, "width": 396.7741935483871, "height": 201.61290322580646, "z": 4000}, "qlik_cell": {"col": 7, "row": 8, "colspan": 7, "rowspan": 3}}, {"id": "0148d26c5cbad0bb3728", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR SET", "pbi_coords": {"x": 1.6129032258064517, "y": 593.5483870967741, "width": 179.03225806451613, "height": 106.45161290322581, "z": 11000}, "qlik_cell": {"col": 0, "row": 10, "colspan": 3, "rowspan": 2}}, {"id": "3747cf65987ecd496ee8", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 3.2258064516129035, "y": 706.4516129032259, "width": 761.2903225806451, "height": 190.32258064516128, "z": 1000}, "qlik_cell": {"col": 0, "row": 12, "colspan": 14, "rowspan": 3}}], "qlik_grid_rows": 15}, {"page_id": "ReportSectiond4110ead790635916b9b", "display_name": "Relevamiento", "canvas_width": 1280.0, "canvas_height": 720.0, "qlik_grid_cols": 24, "visuals": [{"id": "50766c700ba054eb1305", "pbi_type": "shape", "qlik_type": "text-image", "title": "Medida: titulo_tablero_MI_zona", "pbi_coords": {"x": 421.42857142857144, "y": 0.0, "width": 687.1428571428572, "height": 37.142857142857146, "z": 6000}, "qlik_cell": {"col": 8, "row": 0, "colspan": 13, "rowspan": 1}}, {"id": "9dd83331568d8f9a68ae", "pbi_type": "azureMap", "qlik_type": "map", "title": "", "pbi_coords": {"x": 12.857142857142858, "y": 84.28571428571429, "width": 527.1428571428572, "height": 600.0, "z": 0}, "qlik_cell": {"col": 0, "row": 1, "colspan": 10, "rowspan": 10}}, {"id": "4c4928c445ee7e59e425", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 562.7296587926509, "y": 83.98950131233596, "width": 325.8792650918635, "height": 132.7034120734908, "z": 1000}, "qlik_cell": {"col": 11, "row": 1, "colspan": 6, "rowspan": 2}}, {"id": "3f2d6db69c47d1283270", "pbi_type": "card", "qlik_type": "kpi", "title": "Fecha de actualización", "pbi_coords": {"x": 1076.745406824147, "y": 83.98950131233596, "width": 203.25459317585302, "height": 60.47244094488189, "z": 4000}, "qlik_cell": {"col": 20, "row": 1, "colspan": 4, "rowspan": 1}}, {"id": "cd096fb5b11760a160bc", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "Set", "pbi_coords": {"x": 921.259842519685, "y": 151.6535433070866, "width": 202.6771653543307, "height": 208.34645669291336, "z": 5000}, "qlik_cell": {"col": 17, "row": 3, "colspan": 4, "rowspan": 3}}, {"id": "aa6a6c73920dac74ea9e", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 562.7296587926509, "y": 228.4514435695538, "width": 325.8792650918635, "height": 149.501312335958, "z": 3000}, "qlik_cell": {"col": 11, "row": 4, "colspan": 6, "rowspan": 2}}, {"id": "93dd2c8ea74e84036e90", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 562.7296587926509, "y": 377.9527559055118, "width": 717.270341207349, "height": 305.7217847769029, "z": 2000}, "qlik_cell": {"col": 11, "row": 6, "colspan": 13, "rowspan": 5}}], "qlik_grid_rows": 12}, {"page_id": "ReportSection5007fbda819c24e70b01", "display_name": "TARIFAS", "canvas_width": 1280.0, "canvas_height": 720.0, "qlik_grid_cols": 24, "visuals": [{"id": "8818e0397e8435805584", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 362.61300754581384, "y": 13.246137261947538, "width": 246.7093065037729, "height": 288.10348544735893, "z": 5000}, "qlik_cell": {"col": 7, "row": 0, "colspan": 5, "rowspan": 5}}, {"id": "039277bb36159b5b6ef8", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "Suministros por Tarifa y Clase", "pbi_coords": {"x": 682.8571428571429, "y": 11.428571428571429, "width": 417.14285714285717, "height": 288.5714285714286, "z": 4000}, "qlik_cell": {"col": 13, "row": 0, "colspan": 8, "rowspan": 5}}, {"id": "1a419f20441ddd6bd2fa", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 1129.2332015810277, "y": 11.590370104204096, "width": 150.67481135465326, "height": 112.59216672655407, "z": 7000}, "qlik_cell": {"col": 21, "row": 0, "colspan": 3, "rowspan": 2}}, {"id": "36782eca812f298bfc5d", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "Suministros por Tarifa y Clase", "pbi_coords": {"x": 348.35159337635696, "y": 38.933413377357546, "width": 293.02516384011204, "height": 256.14087748261545, "z": 9000}, "qlik_cell": {"col": 7, "row": 1, "colspan": 5, "rowspan": 4}}, {"id": "29420a918ac03c1cbbad", "pbi_type": "card", "qlik_type": "kpi", "title": "", "pbi_coords": {"x": 54.640316205533594, "y": 135.77290693496226, "width": 254.98814229249012, "height": 120.87100251527129, "z": 2000}, "qlik_cell": {"col": 1, "row": 2, "colspan": 5, "rowspan": 2}}, {"id": "b5c533a0b8f5b05bcdae", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 1129.2332015810277, "y": 155.64211282788358, "width": 134.11713977721882, "height": 144.05174272367947, "z": 6000}, "qlik_cell": {"col": 21, "row": 3, "colspan": 3, "rowspan": 2}}, {"id": "f91a3a0e8b9cbac60bc9", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 28.148041681638517, "y": 294.72655407833275, "width": 281.4804168163852, "height": 180.47862019403522, "z": 1000}, "qlik_cell": {"col": 1, "row": 5, "colspan": 5, "rowspan": 3}}, {"id": "919740ad798b01f0d394", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 394.07258354293924, "y": 385.79374775422207, "width": 569.5839022637441, "height": 298.03808839381963, "z": 8000}, "qlik_cell": {"col": 7, "row": 6, "colspan": 11, "rowspan": 5}}, {"id": "9d3d7c4fa4c37008dac6", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 28.148041681638517, "y": 491.7628458498024, "width": 281.4804168163852, "height": 210.28242903341717, "z": 3000}, "qlik_cell": {"col": 1, "row": 8, "colspan": 5, "rowspan": 4}}, {"id": "58d3ef74ea8a27864a10", "pbi_type": "azureMap", "qlik_type": "map", "title": "MAPA", "pbi_coords": {"x": 996.7718289615523, "y": 509.97628458498025, "width": 283.13618397412864, "height": 210.28242903341717, "z": 0}, "qlik_cell": {"col": 19, "row": 8, "colspan": 5, "rowspan": 4}}], "qlik_grid_rows": 12}, {"page_id": "ReportSection5765ed7d9baec9ee31e9", "display_name": "LECTURAS", "canvas_width": 1280.0, "canvas_height": 720.0, "qlik_grid_cols": 24, "visuals": [{"id": "49449a46017d17b52fe9", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 287.87936873043253, "y": 48.85225651183098, "width": 949.1295550870019, "height": 626.3557174195472, "z": 0}, "qlik_cell": {"col": 5, "row": 1, "colspan": 18, "rowspan": 10}}], "qlik_grid_rows": 12}, {"page_id": "25c8dd2c1083b40231b0", "display_name": "Control de Ordenativos", "canvas_width": 1280.0, "canvas_height": 1500.0, "qlik_grid_cols": 24, "visuals": [{"id": "f1b85ba1447020590072", "pbi_type": "shape", "qlik_type": "text-image", "title": "Medida: titulo_tablero_MI_zona", "pbi_coords": {"x": 244.2857142857143, "y": 0.0, "width": 687.1428571428572, "height": 37.142857142857146, "z": 12000}, "qlik_cell": {"col": 5, "row": 0, "colspan": 13, "rowspan": 1}}, {"id": "6feba8eaddab3ec2401b", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 0.0, "y": 77.77777777777777, "width": 237.77777777777777, "height": 107.77777777777777, "z": 5000}, "qlik_cell": {"col": 0, "row": 1, "colspan": 4, "rowspan": 2}}, {"id": "952e08aa88808eca1e95", "pbi_type": "card", "qlik_type": "kpi", "title": "EJECUTADOS", "pbi_coords": {"x": 244.44444444444443, "y": 44.44444444444444, "width": 187.77777777777777, "height": 106.66666666666666, "z": 3000}, "qlik_cell": {"col": 5, "row": 1, "colspan": 4, "rowspan": 2}}, {"id": "deac5b67a697090e2d0d", "pbi_type": "card", "qlik_type": "kpi", "title": "PENDIENTES", "pbi_coords": {"x": 442.22222222222223, "y": 44.44444444444444, "width": 182.22222222222223, "height": 106.66666666666666, "z": 4000}, "qlik_cell": {"col": 8, "row": 1, "colspan": 3, "rowspan": 2}}, {"id": "79a3f5bbac63ee6318ea", "pbi_type": "azureMap", "qlik_type": "map", "title": "", "pbi_coords": {"x": 640.0, "y": 44.44444444444444, "width": 621.1111111111111, "height": 258.88888888888886, "z": 6000}, "qlik_cell": {"col": 12, "row": 1, "colspan": 12, "rowspan": 4}}, {"id": "19b1f8e3954680ed2da5", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "ESTADO ORDENATIVOS", "pbi_coords": {"x": 0.0, "y": 187.77777777777777, "width": 235.55555555555554, "height": 127.77777777777777, "z": 1000}, "qlik_cell": {"col": 0, "row": 3, "colspan": 4, "rowspan": 2}}, {"id": "10b2debee41be91eea06", "pbi_type": "pivotTable", "qlik_type": "pivot-table", "title": "", "pbi_coords": {"x": 244.44444444444443, "y": 157.77777777777777, "width": 380.0, "height": 145.55555555555554, "z": 2000}, "qlik_cell": {"col": 5, "row": 3, "colspan": 7, "rowspan": 2}}, {"id": "132d10730bb04c69dd68", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 0.0, "y": 322.5, "width": 236.25, "height": 90.0, "z": 14000}, "qlik_cell": {"col": 0, "row": 5, "colspan": 4, "rowspan": 2}}, {"id": "6019d969153010448930", "pbi_type": "tableEx", "qlik_type": "table", "title": "LISTADO DE ORDENATIVOS", "pbi_coords": {"x": 244.44444444444443, "y": 314.44444444444446, "width": 1016.6666666666666, "height": 174.44444444444443, "z": 7000}, "qlik_cell": {"col": 5, "row": 5, "colspan": 19, "rowspan": 3}}, {"id": "60bdc88041ac8a21c607", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 2.5, "y": 423.75, "width": 225.0, "height": 103.75, "z": 13000}, "qlik_cell": {"col": 0, "row": 7, "colspan": 4, "rowspan": 2}}, {"id": "469a31d7e0b3b2b5907a", "pbi_type": "lineStackedColumnComboChart", "qlik_type": "combochart", "title": "EJECUTADOS POR MES", "pbi_coords": {"x": 243.7795275590551, "y": 490.39370078740154, "width": 1036.0629921259842, "height": 228.18897637795274, "z": 8000}, "qlik_cell": {"col": 5, "row": 8, "colspan": 19, "rowspan": 4}}, {"id": "556b8b592002b3c07e7c", "pbi_type": "tableEx", "qlik_type": "table", "title": "", "pbi_coords": {"x": 244.44444444444443, "y": 503.3333333333333, "width": 1016.6666666666666, "height": 221.11111111111111, "z": 15000}, "qlik_cell": {"col": 5, "row": 8, "colspan": 19, "rowspan": 4}}, {"id": "4f893713e3805606ed67", "pbi_type": "actionButton", "qlik_type": "action-button", "title": "EJECUTADOS POR DIA", "pbi_coords": {"x": 0.0, "y": 555.407209612817, "width": 205.07343124165553, "height": 100.82777036048063, "z": 10000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 4, "rowspan": 2}}, {"id": "b59cf3e80b8db1870e54", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "NRO PARTE DIARIO", "pbi_coords": {"x": 2.2222222222222223, "y": 548.8888888888889, "width": 225.55555555555554, "height": 130.0, "z": 11000}, "qlik_cell": {"col": 0, "row": 9, "colspan": 4, "rowspan": 2}}, {"id": "776f4e3dc042018e1000", "pbi_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "qlik_type": "FilterByList507A2DBEC31244C8AAABDE9BA541F723", "title": "BUSCAR SUMIS", "pbi_coords": {"x": 0.0, "y": 693.3333333333334, "width": 227.77777777777777, "height": 106.66666666666666, "z": 0}, "qlik_cell": {"col": 0, "row": 12, "colspan": 4, "rowspan": 2}}, {"id": "531953244a850a752646", "pbi_type": "lineStackedColumnComboChart", "qlik_type": "combochart", "title": "EJECUTADOS POR DIA", "pbi_coords": {"x": 244.44444444444443, "y": 750.0, "width": 1016.6666666666666, "height": 226.66666666666666, "z": 9000}, "qlik_cell": {"col": 5, "row": 12, "colspan": 19, "rowspan": 4}}, {"id": "78b8ad6f713eb7905cee", "pbi_type": "slicer", "qlik_type": "filterpane", "title": "", "pbi_coords": {"x": 2.5, "y": 812.5, "width": 203.75, "height": 150.0, "z": 16000}, "qlik_cell": {"col": 0, "row": 14, "colspan": 4, "rowspan": 2}}], "qlik_grid_rows": 25}];
+    let activePageIndex = 0;
+    let activeVisual = null;
+
+    function renderTabs() {
+      const bar = document.getElementById('tabsBar');
+      bar.innerHTML = '';
+      pagesData.forEach((p, idx) => {
+        const btn = document.createElement('button');
+        btn.className = `tab-btn ${idx === activePageIndex ? 'active' : ''}`;
+        btn.innerText = p.display_name;
+        btn.onclick = () => {
+          activePageIndex = idx;
+          activeVisual = null;
+          renderTabs();
+          renderCanvas();
+          renderInspector(null);
+        };
+        bar.appendChild(btn);
+      });
+    }
+
+    function renderCanvas() {
+      const page = pagesData[activePageIndex];
+      document.getElementById('activeSheetTitle').innerText = page.display_name;
+      document.getElementById('activeSheetDims').innerText = `(Original PBI: ${page.canvas_width} &times; ${page.canvas_height} px)`;
+      document.getElementById('activeSheetRows').innerText = page.qlik_grid_rows;
+
+      const canvas = document.getElementById('gridCanvas');
+      canvas.innerHTML = '';
+      canvas.style.gridTemplateRows = `repeat(${page.qlik_grid_rows}, 54px)`;
+
+      page.visuals.forEach((v) => {
+        const q = v.qlik_cell;
+        const tile = document.createElement('div');
+        tile.className = `grid-tile tile-${v.qlik_type} ${activeVisual === v ? 'selected' : ''}`;
+        tile.style.gridColumn = `${q.col + 1} / span ${q.colspan}`;
+        tile.style.gridRow = `${q.row + 1} / span ${q.rowspan}`;
+
+        const titleText = v.title || v.pbi_type || 'Sin Título';
+        const dimsText = (v.dims && v.dims.length) ? v.dims.map(d => d.split('.').pop()).join(', ') : '';
+        const measText = (v.measures && v.measures.length) ? v.measures.join(', ') : '';
+
+        tile.innerHTML = `
+          <div>
+            <div class="tile-header">
+              <span class="tile-type-badge">${v.qlik_type}</span>
+              <span class="tile-coords">C${q.col} R${q.row} [${q.colspan}x${q.rowspan}]</span>
+            </div>
+            <div class="tile-title" title="${titleText}">${titleText}</div>
+          </div>
+          <div class="tile-metrics" title="${dimsText || measText}">${measText || dimsText || ''}</div>
+        `;
+
+        tile.onclick = (e) => {
+          e.stopPropagation();
+          activeVisual = v;
+          renderCanvas();
+          renderInspector(v);
+        };
+
+        canvas.appendChild(tile);
+      });
+    }
+
+    function renderInspector(v) {
+      const c = document.getElementById('inspectorContent');
+      if (!v) {
+        c.innerHTML = '<p style="color: #64748b; font-size: 13px;">Haz clic en cualquier gráfico de la grilla para inspeccionar sus coordenadas exactas, dimensiones y medidas de Qlik Sense.</p>';
+        return;
+      }
+      const q = v.qlik_cell;
+      const p = v.pbi_coords;
+      c.innerHTML = `
+        <div class="prop-group">
+          <div class="prop-label">Título del Gráfico</div>
+          <div class="prop-value" style="font-weight: 700; color: #38bdf8;">${v.title || 'Sin Título'}</div>
+        </div>
+        <div class="prop-group">
+          <div class="prop-label">Tipo de Objeto Qlik Sense</div>
+          <div class="prop-value"><span class="badge-code">${v.qlik_type}</span> (Origen PBI: ${v.pbi_type})</div>
+        </div>
+        <div class="prop-group">
+          <div class="prop-label">Posición en Grilla Qlik (24 Cols)</div>
+          <div class="prop-value">
+            Columna Inicial: <strong>${q.col}</strong><br>
+            Fila Inicial: <strong>${q.row}</strong><br>
+            Ancho (Colspan): <strong>${q.colspan} columnas</strong><br>
+            Alto (Rowspan): <strong>${q.rowspan} filas</strong>
+          </div>
+        </div>
+        <div class="prop-group">
+          <div class="prop-label">Coordenadas PBI Píxeles</div>
+          <div class="prop-value">X=${p.x.toFixed(0)}px, Y=${p.y.toFixed(0)}px, W=${p.width.toFixed(0)}px, H=${p.height.toFixed(0)}px</div>
+        </div>
+        <div class="prop-group">
+          <div class="prop-label">Dimensiones (${v.dims ? v.dims.length : 0})</div>
+          <div class="prop-value">${v.dims && v.dims.length ? v.dims.join('<br>') : '<em style="color:#64748b">Ninguna</em>'}</div>
+        </div>
+        <div class="prop-group">
+          <div class="prop-label">Medidas / Expresiones (${v.measures ? v.measures.length : 0})</div>
+          <div class="prop-value">${v.measures && v.measures.length ? v.measures.join('<br>') : '<em style="color:#64748b">Ninguna</em>'}</div>
+        </div>
+      `;
+    }
+
+    function copiarJSON() {
+      const jsonStr = JSON.stringify(pagesData, null, 2);
+      navigator.clipboard.writeText(jsonStr).then(() => {
+        alert('¡Especificación JSON copiada al portapapeles!');
+      }).catch(err => {
+        console.error(err);
+      });
+    }
+
+    // Iniciar
+    renderTabs();
+    renderCanvas();
+  </script>
+</body>
+</html>

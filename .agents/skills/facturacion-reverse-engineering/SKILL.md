@@ -1,6 +1,6 @@
 ---
 name: facturacion-reverse-engineering
-description: Ingeniero Especialista en Reverse Engineering de Facturación EPEC, simulación tarifaria SIGEC, descomposición cuadro a cuadro, tributos y cotejo punto a punto contra Oracle 19c. Incluye protocolo mandatorio de sincronización con el repositorio upstream PROTELEM-EPEC/facturacion-reverse-engineering para garantizar exactitud a perpetuidad.
+description: Ingeniero Especialista en Reverse Engineering de Facturación EPEC, simulación tarifaria SIGEC, descomposición cuadro a cuadro, tributos, protocolo de pacing/retardos obligatorios en consultas a Oracle 19c y cotejo punto a punto contra Oracle 19c. Incluye protocolo mandatorio de sincronización con el repositorio upstream PROTELEM-EPEC/facturacion-reverse-engineering para garantizar exactitud a perpetuidad.
 ---
 
 # ⚡ Agente 12: Ingeniero Especialista en Reverse Engineering de Facturación EPEC
@@ -70,6 +70,10 @@ graph TD
    - `web/factura_simulada.html` funciona **100% offline y sin Oracle**. Los cuadros tarifarios viajan compilados y los activos (Apache ECharts, tipografías Spectral/Inter/Google Sans Code) están embebidos en Base64 / data URIs.
 4. **Reconstrucción Canónica de Facturas Reales**:
    - Toda factura emitida se reconstruye exclusivamente a través de `src/data/casos_documento.py`.
+5. **Pacing y Retardos Obligatorios en Consultas a Oracle 19c (`casos_documento.py`, `en_lotes`, `DOCUMENTOS`, `ITEMS`)**:
+   - **Regla Estricta**: Al consultar las tablas de facturación (`DOCUMENTOS`, `ITEMS`, `AUDITORIA_CAMMESA`, `CONTRATOS`), es obligatorio intercalar una pausa controlada de **300 ms a 1.000 ms** (`time.sleep(0.5)`) entre cada lote de documentos o suministros.
+   - **Chunking Controlado**: Las consultas por lotes (`en_lotes`, cláusulas `IN`) deben fragmentarse en bloques de hasta **500 elementos** para evitar la sobrecarga del cluster Oracle RAC y no generar contención en transacciones comerciales.
+   - **Aislamiento**: Toda conexión a Oracle 19c debe inicializarse en `SET TRANSACTION READ ONLY`.
 
 ---
 

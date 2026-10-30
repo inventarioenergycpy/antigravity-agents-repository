@@ -1,10 +1,10 @@
 # Directivas y Reglas Globales de Agentes - Antigravity IDE
 
 ## 1. Identificación y Credenciales del Entorno
-- **Cuenta de GitHub**: `inventarioenergycpy`
-- **Correo de Contacto / Google Drive**: `inventario.energycpy@gmail.com`
-- **Forma de Autenticación**: Registro directo asociado a la cuenta de Gmail.
-
+- **Cuenta de GitHub Principal**: inventarioenergycpy
+- **Organización de Proyectos EPEC**: PROTELEM-EPEC (https://github.com/PROTELEM-EPEC) y repositorios satélites en protelemepec-coder.
+- **Correo de Contacto / Google Drive**: inventario.energycpy@gmail.com
+- **Forma de Autenticación**: Registro directo asociado a la cuenta de Gmail y credenciales PAT / SSH para las organizaciones de GitHub.
 ---
 
 ## 2. Propósito del Repositorio y Política de Almacenamiento
@@ -62,9 +62,10 @@ Cuando el usuario apruebe o solicite guardar una mejora (ej. *"guarda esta mejor
 Cada vez que un agente desarrolle un nuevo proyecto (página web showroom, aplicación de análisis de datos, modelo financiero dinámico u otro sistema) cuya naturaleza sea distinta a los anteriores:
 
 1. **Parametrización del Nuevo Repositorio**:
-   - Inicializar una nueva carpeta local independiente (ej. `C:\Users\Usuario\.gemini\antigravity-ide\scratch\<nombre-proyecto>`).
-   - Crear y vincular un nuevo repositorio remoto en GitHub bajo la cuenta del usuario:
-     `https://github.com/inventarioenergycpy/<nombre-proyecto-kebab-case>.git`
+   - Inicializar una nueva carpeta local independiente (ej. D:\Proyectos\<nombre-proyecto> o en el scratchpad del disco activo).
+   - Crear y vincular el repositorio remoto en GitHub bajo la organización que corresponda:
+     - https://github.com/inventarioenergycpy/<nombre-proyecto-kebab-case>.git (Proyectos generales, financieros, showrooms y ciencia de datos).
+     - https://github.com/PROTELEM-EPEC/<nombre-proyecto-kebab-case>.git o protelemepec-coder (Proyectos específicos de EPEC, Facturación SIGEC, Dashboards Comerciales y Telemedición).
 
 2. **Estructura Interna del Repositorio de Proyecto**:
    - `README.md`: Descripción ejecutiva del proyecto, objetivos y enlace a su despliegue (ej. GitHub Pages).
@@ -80,3 +81,55 @@ Cada vez que un agente desarrolle un nuevo proyecto (página web showroom, aplic
      - Enlace al despliegue o demo activa.
    - Actualizar el índice general en `docs/00-Dashboard-MOC.md` en la sección `[[Proyectos/|Proyectos Desarrollados]]`.
 
+---
+
+## 7. Protocolo de Acceso Concurrente a Entornos de Red (UNC / `\\srvfs01`) y Recursos Online: Snapshot Local de Mínima Interferencia
+
+### A. Principio Rector de Concurrencia Compartida
+En las carpetas de red compartidas (UNC como `\\srvfs01\ProyectoTelemedicion`, carpetas de facturación `Control_de_Gestion\DEPARTAMENTO FACTURACION`, etc.) u orígenes online, los archivos (Excel `.xlsx`/`.xls`, proyectos Power BI `.pbip`, videos MP4 de cátedra, etc.) son utilizados concurrentemente por múltiples trabajadores. 
+
+**REGLA ESTRICTA**: Queda terminantemente prohibido abrir, parsear o procesar archivos directamente sobre la ruta de red durante tiempos prolongados (Pandas, OpenCV `cv2.VideoCapture`, DuckDB, PySpark o scripts analíticos). Retener el *file handle* sobre el servidor SMB genera bloqueos de uso compartido (`Sharing Violation` / Código 32) que impiden a otros usuarios abrir o guardar sus planillas en Excel.
+
+### B. Procedimiento Operativo Obligatorio (Pipeline de Snapshot Local)
+Cada vez que una acción operativa o una habilidad requiera consultar un archivo de red u online:
+
+1. **Localización Inmediata y Mínima Interferencia**:
+   - Localizar el archivo de red e iniciar de forma inmediata su snapshot local hacia la carpeta:  
+     `data/network_cache/<nombre-origen>/<subcarpetas>/<archivo>` (excluida del control de versiones en `.gitignore`).
+2. **Caché Inteligente (Delta Cache)**:
+   - Comparar previamente tamaño (`st_size`) y fecha/hora de modificación (`st_mtime`).
+   - Si el archivo ya existe localmente y no ha cambiado en la red, **reutilizar de inmediato la copia local** (tiempo de interferencia de red = **0 milisegundos**).
+3. **Copia en Streaming No Bloqueante**:
+   - Si el archivo es nuevo o fue modificado en la red, transferir una copia binaria en bloques (buffer de 4 MB a 8 MB) preservando atributos de fecha con `shutil.copystat` / `os.utime`.
+   - **Liberar y cerrar el handle de red en milisegundos** tan pronto finaliza la copia, dejando el recurso 100% disponible para el resto del personal.
+4. **Procesamiento Exclusivamente Local**:
+   - Todo análisis tabular, extracción de texto, cómputo estadístico o visión artificial de cuadros debe ejecutarse **única y exclusivamente sobre la copia local** en `data/network_cache/`.
+5. **Estrictamente Solo Lectura (Snapshot de Análisis)**:
+   - Los agentes jamás deben escribir, sobrescribir ni modificar directamente el archivo original en la red compartida, garantizando la indemnidad total de los datos corporativos.
+6. **Módulo de Soporte Oficial**:
+   - Emplear la utilidad estándar [`scripts/network_snapshot.py`](file:///C:/Users/jidiaz/.gemini/antigravity-ide/scratch/antigravity-agents-repository/scripts/network_snapshot.py) invocando `get_local_snapshot(remote_path)`.
+
+---
+
+## 8. Protocolo de Consultas Seguras a Bases de Datos (Oracle y Motores Relacionales/NoSQL): Pacing, Retardos Obligatorios (Throttling) y Protección contra Sobrecarga
+
+### A. Principio Rector de No-Saturación de Servidores de Base de Datos
+En entornos corporativos y de producción (como el cluster Oracle RAC `epec2-scan2.epec.net / PRODEBS_SEE`, esquemas `XXSIGEC`, o cualquier motor SQL/NoSQL corporativo), las bases de datos atienden transacciones en tiempo real de facturación, usuarios comerciales y cuadrillas de terreno.
+
+**REGLA ESTRICTA**: Queda terminantemente prohibido disparar ráfagas continuas de consultas en bucle (*hammering* / *loop flooding*), queries masivas sin paginar o barridos no particionados sin retardo.
+
+### B. Retardo Preventivo Inter-Consulta Obligatorio (Pacing / Throttle Delay)
+Toda ejecución de consultas iterativas, por lotes o en bucles sobre bases de datos DEBE incorporar obligatoriamente una pausa controlada entre cada consulta individual o bloque:
+1. **Rango Operativo Estandarizado**: Mínimo **300 ms a 1.000 ms** (0,3 s a 1,0 s) de retardo entre lotes / queries en scripts Python (`time.sleep(0.5)` o equivalente en otros lenguajes).
+2. **Consultas Masivas / Lotes Grandes**: Si cada consulta extrae $\ge 500$ registros o involucra joins pesados (ej. `DOCUMENTOS`, `ITEMS`, `AUDITORIA_CAMMESA`), elevar el retardo a **1.000 ms - 2.000 ms** (1 s - 2 s) entre chunks para permitir al motor de base de datos desocupar buffers y CPU.
+
+### C. Estrategia de Loteado Óptimo (Chunking Controlado $\le 500$ - $900$ elementos)
+1. Particionar siempre cláusulas `IN (...)` en lotes de tamaño máximo recomendado de **500 a 900 elementos** (evita la limitación `ORA-01795` de Oracle y reduce el número total de llamadas a la base de datos).
+2. Aplicar el retardo de pacing al finalizar cada lote antes de abrir la siguiente solicitud.
+
+### D. Aislamiento Transaccional y Modo Solo Lectura
+1. Abrir la sesión inmediatamente con `cur.execute("SET TRANSACTION READ ONLY")` (o equivalente en el motor correspondiente) para garantizar snapshot isolation determinista y evitar bloqueos en tablas transaccionales.
+2. Cerrar explícitamente cursores y conexiones en bloques `finally:` o context managers `with conn:` al terminar la extracción, liberando recursos del pool de conexiones.
+
+### E. Backoff Exponencial y Detección de Fricción
+Si se detecta lentitud inusual en la respuesta, bloqueos temporales o advertencias de contención (`ORA-01013`, timeouts de socket, latencia $\ge 2.000$ ms), el agente debe aplicar backoff exponencial duplicando el retardo (ej. $0,5\text{s} \to 1\text{s} \to 2\text{s} \to 4\text{s}$) e informar al usuario antes de reintentar.

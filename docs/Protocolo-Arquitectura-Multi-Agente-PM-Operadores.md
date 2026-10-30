@@ -142,6 +142,7 @@ graph LR
      - Cero errores de sintaxis o runtime (Python, SQL, JavaScript, DAX/TMDL).
      - Eficiencia algorítmica y control de complejidad temporal/espacial.
      - Cumplimiento del **Protocolo de Snapshot Local de Mínima Interferencia** (no retener handles sobre `\\srvfs01`).
+     - Cumplimiento del **Protocolo de Consultas Seguras a Bases de Datos**: retardo obligatorio (throttling de 300 ms a 1.000 ms) entre consultas/chunks, modo READ ONLY y chunking <= 500-900 en Oracle y motores corporativos para evitar sobrecargas.
      - Modularidad, esquemas tipados y tests unitarios deterministas con exit code 0.
 
 2. **Instancia 2: QA de Negocio, Dominio y Conformidad Normativa**:
@@ -315,6 +316,9 @@ inputs_recursos:
   - "file:///ruta/absoluta/a_la_normativa_o_ssot"
 restricciones_operativas:
   - "Protocolo SMB: tiempo de lectura < 2000 ms"
+  - "DB Pacing: retardo inter-consulta >= 300 ms (time.sleep(0.5))"
+  - "DB Chunking: lotes <= 500 elementos en cláusulas IN"
+  - "DB Conexión: SET TRANSACTION READ ONLY y cierre seguro"
   - "Memoria máxima: < 2 GB"
 criterios_aceptacion_dod:
   - qa_tecnico: "Test determinista en scripts/test_<nombre>.py exitoso (exit 0)"
@@ -323,6 +327,16 @@ criterios_aceptacion_dod:
 entregables_esperados:
   - "file:///ruta/al/entregable_principal"
 ```
+
+---
+
+### 6.7. Protocolo de Consultas Seguras a Bases de Datos (Oracle y Motores Relacionales): Pacing y Retardo Obligatorio (Throttling)
+- **Principio**: En bases de datos productivas o compartidas (Oracle 19c RAC `PRODEBS_SEE`, esquemas `XXSIGEC`, o almacenes analíticos), ráfagas continuas de queries saturan las colas de procesamiento, consumen CPU y degradan el servicio para otros operadores.
+- **Norma**:
+  1. *Pacing Inter-Consulta Obligatorio*: En toda consulta iterativa o por lotes, insertar un retardo mínimo de **300 ms a 1.000 ms** (`time.sleep(0.5)` en Python) entre solicitudes consecutivas.
+  2. *Chunking Controlado*: Limitar cláusulas `IN (...)` a bloques de **500 a 900 elementos**, aplicando la pausa entre bloque y bloque.
+  3. *Snapshot Isolation Read-Only*: Abrir con `SET TRANSACTION READ ONLY` y liberar conexiones inmediatamente al finalizar.
+  4. *Backoff Exponencial*: Duplicar el retardo si se detecta latencia $\ge 2.000$ ms o contención de bloqueos (`ORA-01013`).
 
 ---
 

@@ -28,7 +28,7 @@ created: 2026-09-02
    - Trazabilidad de cambios entre versiones de pliegos y matriz de inconsistencias.
 2. **Arquitectura Empresarial Objetivo**:
    - Mapeo de módulos core: CIS, MDM, WFM, CRM, Portal de Autogestión y Motor IA.
-   - Definición de integraciones con la infraestructura legacy `XXSIGEC` y bases Oracle EPEC.
+   - Definición de integraciones con la infraestructura legacy `XXSIGEC` y bases Oracle EPEC, aplicando obligatoriamente el protocolo de consultas seguras con `SET TRANSACTION READ ONLY` y pausas de pacing (300 ms a 1.000 ms) entre consultas para evitar la sobrecarga del entorno transaccional.
 3. **Benchmarking de Proveedores**:
    - Análisis técnico-económico comparativo entre Oracle C2M/CCS, OPEN SmartFlex y propuestas integradoras.
 4. **Metodología en 6 Etapas**:

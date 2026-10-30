@@ -74,8 +74,9 @@ graph TD
 
 1. **Simulación Interactiva Paso a Paso**:
    - Reconstrucción de la factura tal como se imprime en papel, visualizando el recorrido de cada regla y encendiendo las tablas de SIGEC que consulta.
-2. **Auditoría Transaccional contra Oracle 19c**:
-   - Cotejo de importes facturados contra `XXSIGEC.DOCUMENTOS`, `XXSIGEC.CONCEPTOS_DOCUMENTOS`, `XXSIGEC.TARIFAS` y parámetros de medición.
+2. **Auditoría Transaccional contra Oracle 19c (con Pacing y Throttling)**:
+   - Cotejo de importes facturados contra `XXSIGEC.DOCUMENTOS`, `XXSIGEC.ITEMS`, `XXSIGEC.CONCEPTOS_DOCUMENTOS`, `XXSIGEC.TARIFAS` y parámetros de medición.
+   - **Protocolo de Pacing Obligatorio**: Pausa de **300 ms a 1.000 ms** (`time.sleep(0.5)`) entre lotes/queries, fragmentación en chunks de <= 500 elementos y sesión en `SET TRANSACTION READ ONLY` para proteger el cluster productivo contra sobrecargas.
 3. **Prorrateo de Cuadros Tarifarios y Días de Vigencia**:
    - Modelado exacto del mes comercial de 30 días y transiciones entre resoluciones tarifarias del ERSeP.
 4. **Desglose Impositivo Integral**:

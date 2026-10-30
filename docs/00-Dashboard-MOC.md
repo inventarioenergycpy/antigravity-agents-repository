@@ -151,6 +151,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|2026-10-30 Copiloto Orquestador & Ecosistema de Agentes - Protocolo Obligatorio de Pacing, Retardos Inter-Consulta (Throttling >= 300ms a 1000ms) y Protección contra Sobrecarga en Oracle y Bases de Datos]]
 - [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|2026-10-30 Copiloto Orquestador & Squad Ágil - Adaptabilidad Multi-Generacional: Ranking de Mejor a Peor en Configuración Más Alta y Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + Operadores Top-2)]]
 - [[Historial-Mejoras/2026-10-28_dashboard-intermediacion_reingenieria-ui-stitch-design-md|2026-10-28 Dashboard de Gestión de Inversiones - Reingeniería de Interfaz Gráfica con Google Stitch, DESIGN.md y Ergonomía PC/Móviles en Rama de Desarrollo]]
 - [[Historial-Mejoras/2026-10-28_desarrollador-web_integracion-google-stitch-design-md-ux-responsive|2026-10-28 Desarrollador Web - Integración de Google Stitch, Estándar DESIGN.md, Pautas PC/Móviles y Batería de Pruebas UX]]
@@ -236,5 +237,6 @@ graph TD
 
 
 ## 📈 Registro de Mejoras y Evolución Reciente
+- **2026-10-30 (13:45)**: `[Copiloto Orquestador & Ecosistema]` Implementación transversal del Protocolo de Consultas Seguras a Bases de Datos (Oracle 19c y motores SQL): retardos obligatorios (pacing / throttling de 300 ms a 1.000 ms), chunking controlado (<= 500-900), `SET TRANSACTION READ ONLY` y protección contra sobrecarga en todos los agentes asociados. Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|Nota Histórica]].
 - **2026-10-30 (11:15)**: `[Copiloto Orquestador & PM]` Incorporación de la Fase 0 de Ensamblaje Adaptativo del Squad: evaluación de modelos Gemini disponibles en su configuración más alta, ranking de mejor a peor y asignación dinámica de los dos mejores (`Top-1` para PM y `Top-2` para los 3 Operadores). Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|Nota Histórica]].
 - **2026-10-28 (14:40)**: `[Copiloto Orquestador]` Incorporación formal de Planes 14 y 15 (Centro de Córdoba) al plan AMI con salvedad estricta de red 100% subterránea (cámaras de transformación, antenas remotas, absorción de 6.339 trifásicos y enlace con CLOU E4). Ver nota: [[Historial-Mejoras/2026-10-28_copiloto-orquestador_incorporacion-planes-14-15-centro-subterraneo|Nota Histórica]].

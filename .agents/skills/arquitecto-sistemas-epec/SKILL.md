@@ -52,7 +52,9 @@ Para cualquier tarea, consulta o análisis relacionado con la licitación del nu
 
 ---
 
-## 🔒 Política de Seguridad y Fuentes de Información
+## 🔒 Política de Seguridad, Fuentes de Información y Consultas a Base de Datos (Pacing y Throttling)
+
+- **Protocolo de Consultas a Oracle y Diccionarios de Datos**: Al explorar tablas maestras, vistas del sistema (`ALL_TABLES`, `ALL_VIEWS`, `SYS`), esquemas de pliegos o datos de `XXSIGEC`, se debe aplicar mandatoriamente `SET TRANSACTION READ ONLY`, paginación estricta y retardos preventivos de **300 ms a 1.000 ms** entre consultas sucesivas para evitar sobrecargar los nodos del cluster productivo.
 
 - **Fuente de la Verdad**: [`docs/PROTELEM/PROJECTS/sistema-epec-oracle/`](file:///D:/Proyectos/antigravity-agents-repository/docs/PROTELEM/PROJECTS/sistema-epec-oracle/) y carpeta de red `\\srvfs01\ProyectoTelemedicion\42- Pliegos CIS` (Modo **Solo Lectura**).
 - **Entregables y Documentación**: Repositorios dedicados de arquitectura en GitHub (`https://github.com/inventarioenergycpy/<proyecto-sistema>`) y Bóveda Central de Obsidian.

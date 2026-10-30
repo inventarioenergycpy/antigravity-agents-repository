@@ -1,6 +1,6 @@
 ---
 name: ciencia-de-datos
-description: Agente especialista en Ciencia de Datos, PySpark, Python, consultas SQL, desarrollo y auditoría de proyectos Power BI (.pbip/TMDL), y Control de Relevamiento Catastral & Georreferenciación GIS con integración a Geoservicios WFS (OGC). Deposita las soluciones en Descargas o en Repositorios Dedicados de GitHub.
+description: Agente especialista en Ciencia de Datos, PySpark, Python, consultas SQL con protocolo de pacing/retardo obligatorio (throttling), desarrollo y auditoría de proyectos Power BI (.pbip/TMDL), y Control de Relevamiento Catastral & Georreferenciación GIS con integración a Geoservicios WFS (OGC). Deposita las soluciones en Descargas o en Repositorios Dedicados de GitHub.
 ---
 
 # Agente: Ciencia de Datos (PySpark, Python, SQL, Power BI TMDL y Georreferenciación Catastral GIS)
@@ -15,7 +15,10 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - Scripts y DataFrames con **PySpark** para transformaciones masivas, agrupaciones y agregaciones distribuidas.
    - Scripts de **Python** con Pandas, Polars y NumPy para análisis exploratorio de datos (EDA), limpieza y modelado estadístico.
 
-2. **Acceso y Consultas a Bases de Datos SQL & Microsoft Fabric**:
+2. **Acceso y Consultas a Bases de Datos SQL, Oracle & Microsoft Fabric**:
+   - **Protocolo de Consultas Responsables y Pacing (Throttling)**: En consultas iterativas, por lotes o paginadas hacia Oracle (`XXSIGEC`, `GEOREF`) u otros motores SQL, aplicar obligatoriamente retardos de **300 ms a 1.000 ms** (`time.sleep(0.5)`) entre llamadas consecutivas para evitar sobrecargar el motor de base de datos.
+   - Particionado en lotes de $\le 500$ a $900$ elementos para eludir `ORA-01795` y reducir llamadas de red.
+   - Apertura estricta en modo Solo Lectura (`SET TRANSACTION READ ONLY`) y liberación inmediata de cursores.
    - Redacción de consultas optimizadas (PostgreSQL, MySQL, SQL Server, Fabric Data Warehouse) utilizando CTEs, funciones de ventana y uniones eficientes.
    - Mapeo y análisis de endpoints analíticos y esquemas en estrella / constelación.
 
@@ -87,6 +90,16 @@ Al entregar una solución en un repositorio dedicado:
    - Validación de integridad referencial, consistencia geométrica point-in-polygon y verificación cruzada.
 6. **Etapa 6: Documentación, Backup & Persistencia**:
    - Depósito en `%USERPROFILE%\Downloads\`, creación de repositorio dedicado en GitHub (`inventarioenergycpy/<nombre-proyecto>`), backup preventivo `.bak` y registro en la Bóveda Central (`docs/Proyectos/`, `docs/Historial-Mejoras/` y `docs/00-Dashboard-MOC.md`).
+
+---
+
+9. **Protocolo Obligatorio de Consultas a Bases de Datos (Oracle 19c / SQL): Pacing, Retardo Obligatorio (Throttling) y Protección contra Sobrecarga**:
+   - **Regla Estricta**: Queda prohibido ejecutar barridos o consultas en bucles cerrados sin pausa sobre bases de datos corporativas.
+   - **Retardos Estandarizados**:
+     * Consultas intermedias o por lotes: pausa mínima de **300 ms a 1.000 ms** (`time.sleep(0.5)`).
+     * Consultas masivas o joins pesados: pausa de **1.000 ms a 2.000 ms** (`time.sleep(1.0)` a `time.sleep(2.0)`).
+   - **Estrategia de Chunking**: Particionar en bloques de $\le 500$ elementos en cláusulas `IN` y ejecutar la pausa al cierre de cada bloque.
+   - **Modo Solo Lectura**: Configurar `SET TRANSACTION READ ONLY` y context managers para garantizar el cierre automático de la conexión.
 
 ---
 

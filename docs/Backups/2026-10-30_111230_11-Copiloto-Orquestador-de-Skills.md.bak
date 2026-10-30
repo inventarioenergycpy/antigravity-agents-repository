@@ -1,0 +1,81 @@
+---
+title: "Agente 11 - Copiloto Orquestador, Selector Dinámico de Habilidades & PM del Squad Ágil"
+type: agente
+agente: "copiloto-orquestador-skills"
+tags:
+  - #agente
+  - #copiloto
+  - #orquestador
+  - #skills
+  - #dispatcher
+  - #project-manager
+  - #squad-agil
+  - #wbs
+  - #stage-gate
+  - #google-standards
+created: 2026-10-05
+updated: 2026-10-28
+---
+
+# 🧭 Agente 11: Copiloto Orquestador & Project Manager del Squad Ágil
+
+## 📋 Descripción General
+El **Agente 11 (Copiloto Orquestador)** es el despachador inteligente central y **Project Manager (PM - Gemini 3.8 Flash High)** del ecosistema Antigravity IDE. Su rol es:
+1. Comprender la naturaleza multidimensional de las consultas del usuario y seleccionar dinámicamente las habilidades especialistas óptimas.
+2. Coordinar el **Squad Ágil de 4 Agentes** aplicando la **Compuerta de Clarificación Interactiva** (preguntas de planificación y verificación) antes de iniciar tareas.
+3. Descomponer los objetivos en una estructura **WBS Jerárquica Secuencial (Etapas ➔ Tareas ➔ Subtareas)** formalizadas bajo contratos tipados sobre el **Patrón Blackboard**.
+4. Dirigir la **Compuerta Stage-Gate de Validación Continua** etapa por etapa bajo el protocolo de **Triple QA (Técnico, Dominio y UX)**.
+5. En caso de requerir una habilidad inexistente, investigar en estándares oficiales de **Google DeepMind**, **Anthropic**, **Microsoft AutoGen** y desarrolladores de referencia mundial para concebirla bajo la **Metodología en 6 Etapas**.
+
+---
+
+## 🎯 Habilidad Principal
+- **Ruta local**: [`.agents/skills/copiloto-orquestador-skills/SKILL.md`](file:///D:/Proyectos/antigravity-agents-repository/.agents/skills/copiloto-orquestador-skills/SKILL.md)
+- **Identificador de Skill**: `copiloto-orquestador-skills`
+- **Protocolo Multi-Agente Asociado**: [`docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md`](file:///D:/Proyectos/antigravity-agents-repository/docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md)
+
+---
+
+## 🧭 Arquitectura de Enrutamiento y Gestión del PM
+
+```mermaid
+graph TD
+    UserQuery["🎯 Objetivo del Usuario"] --> Copilot["Agente 11: Copiloto Orquestador & PM"]
+    
+    Copilot --> ClarifGate["🚦 Compuerta de Clarificación e Inception\n(Preguntas de Planificación + Verificación)"]
+    ClarifGate --> UserAlign["👤 Respuestas y Criterios Acordados"]
+    
+    UserAlign --> ModeChoice{"¿Modalidad Requerida?"}
+    
+    ModeChoice -- "Squad Ágil Multi-Agente" --> WBSPlan["📐 WBS Jerárquico: Etapas ➔ Tareas ➔ Subtareas"]
+    WBSPlan --> BlackBoard["⚙️ Despacho Secuencial (Patrón Blackboard en Disco)"]
+    BlackBoard --> StageGate["🛡️ Validación Stage-Gate Continua (Triple QA)"]
+    StageGate --> FinalDone["🏁 Incremento Validado y Persistencia en Obsidian"]
+    
+    ModeChoice -- "Especialista Individual" --> SingleDispatch["🧭 Despacho a Agente Monotarea (01 al 12)"]
+    
+    ModeChoice -- "Nueva Skill Requerida" --> Research["🔎 Investigación en Google DeepMind & Desarrolladores Líderes"]
+    Research --> NewSkill["📐 Diseño Pre-Implementación y Prueba Piloto"]
+```
+
+---
+
+## ⚙️ Responsabilidades y Capacidades Principales
+
+1. **Inception & Clarificación Guiada**:
+   - Interroga proactivamente sobre el alcance, fuentes primarias de datos (SSOT), restricciones y tolerancias numéricas antes de comenzar.
+2. **WBS Jerárquico y Contratos Tipados**:
+   - Organiza el trabajo en tareas atómicas y subtareas con dependencias secuenciales claras, evitando carreras y colisiones.
+3. **Stage-Gate Enforcement con Triple QA**:
+   - Actúa como gatekeeper inflexible: ninguna etapa avanza si no aprueba la verificación técnica determinista, de negocio/regulatoria y de usabilidad.
+4. **Patrón Blackboard**:
+   - Garantiza que toda la comunicación pesada de datos viaje a través del sistema de archivos local (`data/`, `scratch/`), preservando la ventana de contexto.
+
+---
+
+## 🔗 Referencias Relacionales
+- [[00-Dashboard-MOC]]
+- [[docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo Rector Multi-Agente PM y 3 Operadores]]
+- [[docs/Proyectos/README|Índice de Proyectos]]
+- [[docs/Backups/README|Bóveda de Backups]]
+- [[docs/Historial-Mejoras/README|Historial de Mejoras]]

@@ -8,7 +8,7 @@ tags:
   - #backups
   - #rollback
 created: 2026-08-09
-updated: 2026-09-03
+updated: 2026-10-30
 ---
 
 # Bobeda de Agentes Antigravity IDE - Map of Content (MOC)
@@ -78,8 +78,10 @@ graph TD
 ### 2. [[Agentes/02-Ciencia-de-Datos|Ciencia de Datos (PySpark, Python, SQL, Power BI TMDL & Reglas BI EPEC)]]
 - **Entregables**: Descargas / Repositorios de Datos / Motor Text-to-SQL / Diccionario 505 QVDs Qlik Sense / Reglas BI Normativa EPEC.
 
-### 3. [[Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom e Informes TÃ©cnicos]]
-- **Entregables**: Repositorios Web Dedicados en GitHub (`inventarioenergycpy/<proyecto-web>`) / Sitios EstÃ¡ticos de Reportes HTML.
+### 3. [[Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom, Reportes e Interfaces]]
+- **Entregables**: Repositorios Web Dedicados en GitHub (inventarioenergycpy/<proyecto-web>) / Sitios Estáticos de Reportes HTML.
+- **Pipeline Google Stitch & DESIGN.md**: Prototipado rápido asistido con Google Stitch (stitch.withgoogle.com), especificación de tokens en DESIGN.md, maquetación responsive Vanilla CSS optimizada para PC y móviles, y batería de validación UX (Core Web Vitals, Touch Targets ≥ 48px, WCAG 2.2 AA).
+- **Guía Maestra**: [[docs/Protocolos/Guia-Maestra-Diseno-Web-Google-Stitch-DESIGN-MD|Guía Maestra de Diseño Web con Google Stitch y DESIGN.md]].
 
 ### 4. [[Agentes/04-Planificador-Disenador-de-Agentes|Planificador y DiseÃ±ador de Agentes AI]]
 - **Entregables**: InvestigaciÃ³n verÃ­dica, diseÃ±o pre-implementaciÃ³n, roadmap de pruebas parciales, pruebas piloto y auto-documentaciÃ³n de nuevos agentes.
@@ -125,10 +127,12 @@ graph TD
 - **Proyectos de Red**: `docs/PROTELEM/PROJECTS/` (SIGEC Explorer, QVD Explorer, Normativa EPEC, Oracle CIS/MDM).
 - **Sincronización**: Multi-bóveda y visualización unificada en Obsidian con auto-pull/push.
 
-### 17. [[Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo de Arquitectura Multi-Agente: PM (Gemini 3.8 Flash High) y 3 Operadores (Gemini 3.7 Flash High)]]
-- **Composición del Squad**: Project Manager (PM) con modelo Gemini 3.8 Flash High y 3 Agentes Operadores con modelo Gemini 3.7 Flash High.
+### 17. [[Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo de Arquitectura Multi-Agente Adaptativa: Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + 3 Operadores Top-2) y Triple QA]]
+- **Fase 0 de Armado Adaptativo**: Análisis en tiempo real de los modelos Gemini disponibles en su configuración más alta, ordenamiento estricto del mejor al peor (`M1 > M2 > ... > Mn`) y selección de los **dos mejores** para estructurar el Squad.
+- **Composición del Squad**: Project Manager (PM) sobre el mejor modelo disponible (`Top-1`) y 3 Agentes Operadores sobre el segundo mejor modelo disponible (`Top-2`).
 - **Orquestación Dinámica**: El PM utiliza el Copiloto Orquestador (`copiloto-orquestador-skills`) para asignar dinámicamente qué habilidades tendrán los 3 operadores según el objetivo.
 - **Planificación Ágil**: Definición de Full Stack Backlog y división en Sprints bajo la Metodología en 6 Etapas.
+  - **Compuerta de Inception & WBS Jerárquico**: Formulación obligatoria de preguntas de planificación y verificación antes de iniciar, estructuración en Etapas, Tareas y Subtareas, y validación continua Stage-Gate por etapas.
 - **Validación en 3 Instancias de QA**: QA Técnico y Algorítmico (Instancia 1), QA de Dominio y Regulación EPEC/Legal (Instancia 2), y QA de Usabilidad y Replicabilidad UX (Instancia 3).
 
 ---
@@ -147,6 +151,12 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|2026-10-30 Copiloto Orquestador & Squad Ágil - Adaptabilidad Multi-Generacional: Ranking de Mejor a Peor en Configuración Más Alta y Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + Operadores Top-2)]]
+- [[Historial-Mejoras/2026-10-28_dashboard-intermediacion_reingenieria-ui-stitch-design-md|2026-10-28 Dashboard de Gestión de Inversiones - Reingeniería de Interfaz Gráfica con Google Stitch, DESIGN.md y Ergonomía PC/Móviles en Rama de Desarrollo]]
+- [[Historial-Mejoras/2026-10-28_desarrollador-web_integracion-google-stitch-design-md-ux-responsive|2026-10-28 Desarrollador Web - Integración de Google Stitch, Estándar DESIGN.md, Pautas PC/Móviles y Batería de Pruebas UX]]
+- [[Historial-Mejoras/2026-10-28_copiloto-orquestador_documentacion-propuesta-despliegue-mi-2027|2026-10-28 Despliegue AMI - Documentación de la Propuesta Operativa 2027: Escenarios de Contratistas (14k vs. 21k u./mes), Gestión Dinámica de Stock y Balance de Fases]]
+- [[Historial-Mejoras/2026-10-28_pm-squad_mejora-gestion-clarificacion-wbs-stage-gate|2026-10-28 PM & Squad Ágil - Mejora en Gestión y Organización: Compuerta de Clarificación Interactiva, WBS Jerárquico y Stage-Gate con Triple QA]]
+- [[Historial-Mejoras/2026-10-28_copiloto-orquestador_integracion-graficas-excel-simulacion-ami-307k|2026-10-28 Copiloto Orquestador - Integración y Carga de Gráficas Nativas de Excel (Simulación AMI 307k vs. 93k Cooperativas) en Documentación Oficial y README]]
 - [[Historial-Mejoras/2026-10-27_qlik_especificacion-disposicion-visual-layout-grilla-24-columnas|2026-10-27 Qlik Sense - Especificación y Codificación de Disposición Visual de Gráficos (Grilla 24 Cols equivalente a Power BI PBIP)]]
 - [[Historial-Mejoras/2026-10-27_despliegue-ami_grafica-instalacion-sostenida-deficit-amarillo-naranja|2026-10-27 Despliegue AMI - Actualización de Gráfica: Curva de Instalación Acumulada vs. Descenso de Stock Remanente con Instalación Sostenida y Déficit en Amarillo-Naranja]]
 - [[Historial-Mejoras/2026-10-25_fase2_escalamiento-provincial-manzanas-alta-resolucion-convergencia-1.2M|2026-10-25 Squad Arquetipo A - Escalamiento Provincial Unificado de Manzanas de Alta Resolución y Motor de Convergencia en 1.2M Suministros (771.428 Alta Certeza, 91.60% en Capital, 33.655 Manzanas HR, 580.330 Parcelas)]]
@@ -223,3 +233,8 @@ graph TD
 ## 📂 Proyectos Entregados
 - [[docs/Proyectos/2026-09-23_control-catastral-georeferencia|Control de Relevamiento Catastral & Georreferenciación (SET 4223 / 4225)]] (`inventarioenergycpy/control-catastral-georeferencia`)
 
+
+
+## 📈 Registro de Mejoras y Evolución Reciente
+- **2026-10-30 (11:15)**: `[Copiloto Orquestador & PM]` Incorporación de la Fase 0 de Ensamblaje Adaptativo del Squad: evaluación de modelos Gemini disponibles en su configuración más alta, ranking de mejor a peor y asignación dinámica de los dos mejores (`Top-1` para PM y `Top-2` para los 3 Operadores). Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|Nota Histórica]].
+- **2026-10-28 (14:40)**: `[Copiloto Orquestador]` Incorporación formal de Planes 14 y 15 (Centro de Córdoba) al plan AMI con salvedad estricta de red 100% subterránea (cámaras de transformación, antenas remotas, absorción de 6.339 trifásicos y enlace con CLOU E4). Ver nota: [[Historial-Mejoras/2026-10-28_copiloto-orquestador_incorporacion-planes-14-15-centro-subterraneo|Nota Histórica]].

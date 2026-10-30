@@ -19,11 +19,12 @@ Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a
    - Si NO existe localmente en ninguna de las ubicaciones anteriores, clónalo con 'git clone https://github.com/inventarioenergycpy/antigravity-agents-repository.git' en la carpeta de proyectos activa (priorizando el disco D:\ o el workspace actual).
    - Si YA existe, navega a su directorio y ejecuta 'git pull origin master' para sincronizar la última versión de agentes, habilidades, backups y notas de Obsidian.
 
-2. Escaneo Dinámico del Repositorio (Auto-Discovery de Agentes y Reglas):
+2. Escaneo Dinámico del Repositorio y Ranking de Modelos Gemini (Auto-Discovery):
    - Lee las directivas globales en '.agents/AGENTS.md'.
    - Realiza un escaneo completo de la carpeta '.agents/skills/' leyendo el 'SKILL.md' de cada habilidad instalada.
    - Revisa 'docs/Agentes/' y 'docs/00-Dashboard-MOC.md' para identificar todos los perfiles activos (12 agentes especialistas) y protocolos maestros.
-   - Revisa el protocolo rector 'docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md' (Squad de 4 agentes con Triple QA).
+   - Revisa el protocolo rector 'docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md' (Squad Adaptativo de 4 agentes con Selección Dinámica Top-2 de Modelos Gemini y Triple QA).
+   - Analiza cuáles son los modelos de Gemini disponibles en el entorno en su configuración más alta, ordénalos del mejor al peor (M1 > M2 > ... > Mn) y toma los dos mejores para preparar la estructura del Squad (Top-1 para el PM y Top-2 para los 3 Operadores).
    - Revisa 'docs/Proyectos/' y 'docs/PROTELEM/00-Indice-PROTELEM-EPEC.md' para reconocer los proyectos desarrollados en repositorios dedicados de 'inventarioenergycpy' y 'PROTELEM-EPEC'.
 
 3. Política de Almacenamiento y Repositorios Dedicados:
@@ -51,7 +52,7 @@ Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a
 
 5. Generación Dinámica del Menú de Trabajo:
    - Construye y preséntame el Menú de Selección interactivo estructurado de forma dinámica, listando:
-     a) Squad Ágil Multi-Agente: Opción de activar el equipo de 4 (PM en Gemini 3.8 Flash High + 3 Operadores en Gemini 3.7 Flash High) configurados según el arquetipo del proyecto (A: GIS/Catastro, B: Facturación SIGEC, C: Finanzas/Showroom, D: Académico/MEM).
+     a) Squad Ágil Multi-Agente Adaptativo: Muestra el ranking ordenado (de mejor a peor en su configuración más alta) de los modelos Gemini detectados y presenta la opción de activar el equipo de 4 con los dos mejores (PM en Top-1 + 3 Operadores en Top-2) configurados según el arquetipo del proyecto (A: GIS/Catastro, B: Facturación SIGEC, C: Finanzas/Showroom, D: Académico/MEM).
      b) Todos los Agentes Especialistas descubiertos en '.agents/skills/' (1 al 12: Analista Financiero, Ciencia de Datos & GIS, Desarrollador Web, Planificador AI, Asesor Legal, Arquitecto EPEC, Procesador YouTube, Transcriptor Audiovisual, Profesor MEM, Alumno Auditor, Copiloto Orquestador, Especialista Facturación EPEC).
      c) Las Acciones Operativas del Sistema:
         - [A] Agregar / Actualizar Nuevos Proyectos en Repositorios Dedicados (inventarioenergycpy o PROTELEM-EPEC)

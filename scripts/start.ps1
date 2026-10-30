@@ -43,7 +43,7 @@ function Sync-Repository {
         $status = git status -sb
         Write-Host "Estado local: $status" -ForegroundColor Gray
         
-        git pull --rebase origin main
+        git pull --rebase origin master
         Write-Host "✔ Sincronización completada con éxito." -ForegroundColor Green
     } catch {
         Write-Host "⚠️ Ocurrió una advertencia durante la sincronización: $_" -ForegroundColor Red
@@ -61,12 +61,13 @@ function Check-DownloadsPath {
 }
 
 function Show-SquadInfo {
-    Write-Host "`n🤖 ARQUITECTURA MULTI-AGENTE ACTIVADA (SQUAD DE 4 AGENTES)" -ForegroundColor Yellow
+    Write-Host "`n🤖 ARQUITECTURA MULTI-AGENTE ADAPTATIVA (SQUAD DE 4 AGENTES - TOP-2 GEMINI)" -ForegroundColor Yellow
     Write-Host " ----------------------------------------------------------------------" -ForegroundColor Gray
-    Write-Host " • Project Manager (PM) : Gemini 3.8 Flash High (Planificación Ágil & Backlog)" -ForegroundColor White
-    Write-Host " • Operador 1 (Core)    : Gemini 3.7 Flash High (Algoritmos / Datos / Código)" -ForegroundColor Cyan
-    Write-Host " • Operador 2 (Dominio) : Gemini 3.7 Flash High (Normativa EPEC / SIGEC / Legal)" -ForegroundColor Cyan
-    Write-Host " • Operador 3 (QA & UX) : Gemini 3.7 Flash High (Validación, Tests & Replicabilidad)" -ForegroundColor Cyan
+    Write-Host " • Fase 0 (Armado)      : Evalúa modelos Gemini en config. más alta (Mejor a Peor)" -ForegroundColor Magenta
+    Write-Host " • Project Manager (PM) : Top-1 Gemini disponible (Clarificación, WBS & Arbitraje)" -ForegroundColor White
+    Write-Host " • Operador 1 (Core)    : Top-2 Gemini disponible (Algoritmos / Datos / Código)" -ForegroundColor Cyan
+    Write-Host " • Operador 2 (Dominio) : Top-2 Gemini disponible (Normativa EPEC / SIGEC / Legal)" -ForegroundColor Cyan
+    Write-Host " • Operador 3 (QA & UX) : Top-2 Gemini disponible (Validación, Tests & Replicabilidad)" -ForegroundColor Cyan
     Write-Host " • Protocolo de Validación: TRIPLE QA (Técnico -> Dominio -> UX/Replicabilidad)" -ForegroundColor Green
     Write-Host " • Protocolo Rector     : docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md" -ForegroundColor Gray
     Write-Host " ----------------------------------------------------------------------" -ForegroundColor Gray
@@ -99,7 +100,7 @@ do {
     Write-Host " 2. Sincronizar Repositorio (Pull/Push desde GitHub)" -ForegroundColor Cyan
     Write-Host " 3. Verificar Entorno Local y Ruta de Descargas" -ForegroundColor Cyan
     Write-Host " 4. Inicializar Entorno Completo (setup_environment.ps1)" -ForegroundColor Cyan
-    Write-Host " 5. Ver Arquitectura Multi-Agente Squad de 4 y Roles" -ForegroundColor Cyan
+    Write-Host " 5. Ver Arquitectura Multi-Agente Squad de 4 y Roles (Top-2 Gemini)" -ForegroundColor Cyan
     Write-Host " 6. Copiar Prompt Maestro de Inicio Rápido al Portapapeles" -ForegroundColor Cyan
     Write-Host " 0. Salir" -ForegroundColor Red
     Write-Host ""

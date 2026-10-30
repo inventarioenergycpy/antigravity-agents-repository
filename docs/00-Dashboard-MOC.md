@@ -151,6 +151,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-10-30_squad-finanzas_proyecto-pistacho-alcaparra-neuquen-etapa4|2026-10-30 Squad Ágil [S-C] - Investigación, Modelado DCF v2.0 Bancable (USD 30k/ha, DSRA & Ley 3502) y Estructuración Fiduciaria del Complejo Pistacho & Alcaparra en Neuquén (Etapas 1-4)]]
 - [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|2026-10-30 Copiloto Orquestador & Ecosistema de Agentes - Protocolo Obligatorio de Pacing, Retardos Inter-Consulta (Throttling >= 300ms a 1000ms) y Protección contra Sobrecarga en Oracle y Bases de Datos]]
 - [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|2026-10-30 Copiloto Orquestador & Squad Ágil - Adaptabilidad Multi-Generacional: Ranking de Mejor a Peor en Configuración Más Alta y Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + Operadores Top-2)]]
 - [[Historial-Mejoras/2026-10-28_dashboard-intermediacion_reingenieria-ui-stitch-design-md|2026-10-28 Dashboard de Gestión de Inversiones - Reingeniería de Interfaz Gráfica con Google Stitch, DESIGN.md y Ergonomía PC/Móviles en Rama de Desarrollo]]
@@ -208,6 +209,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-10-30_proyecto-pistacho-alcaparra-neuquen|2026-10-30 Complejo Agroindustrial Integrado de Pistacho y Alcaparra en Neuquén (Blended Finance, Fideicomiso CCCN & Tesis USD 30k/ha)]] (`inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen`)
 - [[docs/Proyectos/2026-10-27_especificacion-disposicion-visual-qlik-sense|2026-10-27 Especificación y Codificación de Disposición Visual en Qlik Sense (Blueprints Grilla 24x12, Bundle JSON & Visor)]]
 - [[docs/Proyectos/2026-10-26_migracion-powerbi-tablero-mi-zona-a-qlik-sense|2026-10-26 Conversión de Power BI a Qlik Sense (Tablero MI - Zona A, Capa Extractores Oracle & Modelo)]]
 - [[docs/Proyectos/2026-10-25_vector-convergente-asignacion-parcelaria-epec-parcelas-union|2026-10-25 Asignación Parcelaria Multivariada y Recomposición de Manzanas de Alta Resolución (Vector Bottom-Up EPEC:parcelas_union)]]
@@ -237,6 +239,7 @@ graph TD
 
 
 ## 📈 Registro de Mejoras y Evolución Reciente
+- **2026-10-30 (16:10)**: `[Squad Ágil S-C: Finanzas & Legal]` Estructuración y modelado DCF a 20 años v2.0 Bancable del Complejo de Pistacho y Alcaparra en San Patricio del Chañar, Neuquén (300 ha central, escalable 200-500 ha, VAN USD 6,37M, TIR 16,94%, TIR Equity 17,74%, DSCR >= 1,85x, Ley Prov. 3502) y publicación de repo dedicado para continuar en Etapa 5. Ver ficha: [[docs/Proyectos/2026-10-30_proyecto-pistacho-alcaparra-neuquen|Proyecto]] y [[Historial-Mejoras/2026-10-30_squad-finanzas_proyecto-pistacho-alcaparra-neuquen-etapa4|Nota Histórica]].
 - **2026-10-30 (13:45)**: `[Copiloto Orquestador & Ecosistema]` Implementación transversal del Protocolo de Consultas Seguras a Bases de Datos (Oracle 19c y motores SQL): retardos obligatorios (pacing / throttling de 300 ms a 1.000 ms), chunking controlado (<= 500-900), `SET TRANSACTION READ ONLY` y protección contra sobrecarga en todos los agentes asociados. Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|Nota Histórica]].
 - **2026-10-30 (11:15)**: `[Copiloto Orquestador & PM]` Incorporación de la Fase 0 de Ensamblaje Adaptativo del Squad: evaluación de modelos Gemini disponibles en su configuración más alta, ranking de mejor a peor y asignación dinámica de los dos mejores (`Top-1` para PM y `Top-2` para los 3 Operadores). Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_adaptabilidad-ranking-top2-modelos-gemini|Nota Histórica]].
 - **2026-10-28 (14:40)**: `[Copiloto Orquestador]` Incorporación formal de Planes 14 y 15 (Centro de Córdoba) al plan AMI con salvedad estricta de red 100% subterránea (cámaras de transformación, antenas remotas, absorción de 6.339 trifásicos y enlace con CLOU E4). Ver nota: [[Historial-Mejoras/2026-10-28_copiloto-orquestador_incorporacion-planes-14-15-centro-subterraneo|Nota Histórica]].

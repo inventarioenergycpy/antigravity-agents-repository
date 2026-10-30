@@ -6,7 +6,7 @@ tags:
   - #antigravity
   - #dashboard
 created: 2026-08-14
-updated: 2026-09-02
+updated: 2026-10-30
 ---
 
 # 📂 Índice de Proyectos e Repositorios Dedicados
@@ -22,6 +22,8 @@ Cada vez que un agente cree un nuevo proyecto (Showroom Web, Análisis de Datos,
 ---
 
 ## 🚀 Listado de Proyectos y Ofertas de Inversión Documentadas
+
+0. [[docs/Proyectos/2026-10-30_proyecto-pistacho-alcaparra-neuquen|2026-10-30 Complejo Agroindustrial Integrado de Pistacho y Alcaparra en Neuquén (San Patricio del Chañar)]] — Repositorio: [inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen](https://github.com/inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen) | Sector: Agroindustria & Blended Finance | Escala: 200–500 ha (Base 300 ha, CAPEX USD 9,31M) | Facturación Madurez: USD 30.271/ha | VAN: USD 6,37M | TIR Proyecto: 16,94% | TIR Equity: 17,74% | Estado: Etapa 4 Auditada (Continuación en Etapa 5)
 
 1. [[docs/Proyectos/2026-09-30_propuesta-inversion-avex-rio-cuarto|2026-09-30 Propuesta de Inversión y Adquisición Planta Avícola Avex (Río Cuarto)]] — Sector: Agroindustrial / Proteína Animal | Inversión: USD 56,5M | ROI Anual: 15,93% | TIR: 17,65%
 2. [[docs/Proyectos/2026-09-02_forwarded-message|2026-09-02 Proyecto Trono Raíz 2035 - Green Hydrogen & Solar Hub (Forwarded Message)]] — Repositorio: [inventarioenergycpy/forwarded-message](https://github.com/inventarioenergycpy/forwarded-message) | Sector: Hidrógeno Verde, RIGI & VPU Fideicomiso

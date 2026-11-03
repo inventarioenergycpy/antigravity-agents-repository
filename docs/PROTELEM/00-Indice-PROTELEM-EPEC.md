@@ -8,7 +8,7 @@ tags:
   - #repositorios
   - #obsidian
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-11-03
 ---
 
 # 🏢 Índice Maestro: Documentación Unificada PROTELEM-EPEC & inventarioenergycpy
@@ -104,7 +104,13 @@ graph TD
 
 ---
 
-### D. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
+### D. Repositorios Solares: `SimuladorFotovoltaico` y `asesoramiento-parque-solar-fotovoltaico`
+- **Repositorio Remoto PROTELEM**: [https://github.com/PROTELEM-EPEC/SimuladorFotovoltaico](https://github.com/PROTELEM-EPEC/SimuladorFotovoltaico) (Privado)
+- **Repositorio Satélite / Código Fuente**: [https://github.com/protelemepec-coder/asesoramiento-parque-solar-fotovoltaico](https://github.com/protelemepec-coder/asesoramiento-parque-solar-fotovoltaico)
+- **Análisis de Sinergia y Potenciación**: [[docs/PROTELEM/2026-11-03_analisis-sinergia-skill-solar-protelem-epec-simulador|Análisis Estratégico de Sinergia Multi-Skill: Simulador Solar EPEC]]
+- **Objetivo**: Simulación fotovoltaica georreferenciada on-grid con radiación satelital NASA POWER, consumos históricos de Oracle SIGEC y modelos comerciales Growatt/Huawei para dimensionamiento de autoconsumo e inyección a red (Ley 27.424 y Ley Provincial 10.604 de Córdoba).
+
+### E. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
 - **Única Fuente de la Verdad (SSOT)** documentada para datos históricos de EPEC:
   1. `[[docs/PROTELEM/PROJECTS/sigec-explorer/|SIGEC Explorer]]`: Catálogo completo de 1.036 tablas del esquema Oracle comercial.
   2. `[[docs/PROTELEM/PROJECTS/qvd-explorer/|QVD Explorer]]`: Diccionario de 505 QVDs Qlik Sense con linaje de datos.

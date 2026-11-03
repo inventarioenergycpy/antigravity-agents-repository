@@ -226,3 +226,4 @@ gantt
 - [[docs/Agentes/11-Copiloto-Orquestador-de-Skills]]
 - [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina]]
 - [[docs/Proyectos/2026-10-14_asesoramiento-parque-solar-fotovoltaico]]
+

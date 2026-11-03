@@ -109,3 +109,4 @@ graph TD
 - [[docs/Proyectos/2026-10-14_asesoramiento-parque-solar-fotovoltaico]]
 - [[docs/Agentes/12-Especialista-Facturacion-Reverse-Engineering]]
 - [[docs/Agentes/06-Arquitecto-Sistemas-EPEC]]
+

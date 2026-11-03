@@ -200,7 +200,79 @@ El ingreso al Mercado Eléctrico Mayorista (MEM) como Agente Generador Renovable
 
 ---
 
-## 📋 5. Checklist Maestro de Auditoría para Nuevos Proyectos Solares
+---
+
+## 🏗️ 5. Protocolo de Auditoría y Certificación de Estado Ready to Build (RTB)
+
+Para que un parque solar fotovoltaico alcance el estado **Ready to Build (RTB)** —momento en el cual los riesgos de desarrollo han sido mitigados al 100%, se alcanza el Cierre Financiero (*Financial Close*) y se emite la orden de inicio (*Notice to Proceed - NTP*) al contratista EPC—, el proyecto debe verificar el cumplimiento estricto de los **9 Pilares de Madurez**:
+
+```mermaid
+graph TD
+    subgraph "COMPUERTA DE MADUREZ: READY TO BUILD (RTB)"
+        P1["1. Tierra & Servidumbres (Land & ROW)
+Contrato Notarial >= 25-30 años inscripto"] --> RTB{"Compuerta RTB
+100% De-risked"}
+        P2["2. Estudios Geotécnicos & Topografía
+Curvas nivel <= 0.5m, Pull-out tests, Hidrología"] --> RTB
+        P3["3. Recurso Solar & Yield Bancable
+TMY satelital dual, PVSyst congelado, P50/P90 IE"] --> RTB
+        P4["4. Acceso a Red & Transporte
+Acceso CAMMESA/Transportista firme, POI ET 33/132kV"] --> RTB
+        P5["5. Permisos Socioambientales & EIA
+DIA firme, Audiencia Pública, IFC Standards 1-8"] --> RTB
+        P6["6. Ingeniería Básica Congelada
+MDL, SLD unifilar, 3D Layout, STS, BOS 1500V"] --> RTB
+        P7["7. Offtake Comercial & PPA
+Contrato PPA MATER / LOI firme, Prioridad Despacho"] --> RTB
+        P8["8. Estructura Corporativa & SPV
+SPV constituida, RIGI Ley 27.742, cuentas de reserva"] --> RTB
+        P9["9. Permiso de Construcción Municipal
+Building Permit y ordenanza de radicación"] --> RTB
+    end
+    
+    RTB --> FC["🏁 Cierre Financiero (Financial Close)"]
+    FC --> NTP["🚀 Notice to Proceed (NTP) / EPC Construction"]
+```
+
+### Los 9 Pilares de Madurez y Certificación Ready to Build (RTB):
+
+1. **Pilar 1: Tierra y Servidumbres (Land & Right of Way - ROW)**:
+   - Título de dominio perfecto o contrato de arrendamiento/usufructo público o privado por $\ge 25-30$ años inscripto en el Registro de la Propiedad Inmueble.
+   - Servidumbres de paso y electroducto constituidas para la línea de evacuación (33 kV / 132 kV) hasta el Punto de Conexión (POI).
+   - Estudio de títulos inmobiliarios (*Title Due Diligence*) con libre de gravámenes, embargos o hipotecas.
+2. **Pilar 2: Estudios de Sitio, Topografía y Geotecnia**:
+   - Levantamiento topográfico con LIDAR o dron con curvas de nivel $\le 0,5\text{ m}$ y modelo digital de elevaciones (DEM).
+   - Estudio geotécnico completo con calicatas, agresividad química del suelo (sulfatos/cloruros) y ensayos de tracción vertical y lateral (*pull-out tests*) de perfiles de acero hincados.
+   - Estudio hidrológico de escorrentías y riesgo de inundación con período de retorno de 100 años (CIRSOC / HEC-RAS).
+3. **Pilar 3: Recurso Solar y Reporte de Producción Bancable**:
+   - Serie horaria típica TMY obtenida de bases satelitales duales de largo plazo (Solargis, PVGIS 5.3, Meteonorm 8.2).
+   - Simulación PVSyst $\ge 7.4$ / $8.x$ con diseño 3D congelado, cálculo de sombras lejanas y *backtracking*.
+   - Informe de Rendimiento Energético Independiente (*Independent Engineer Report - IE*) con curvas P50, P90, P95 y P99 (incertidumbre global $\le 6\%$).
+4. **Pilar 4: Interconexión Eléctrica y Capacidad de Evacuación (Grid Connection)**:
+   - Autorización de Acceso a la Capacidad de Transporte emitida por CAMMESA y la transportista/distribuidora troncal (Transener, EPEN, EPEC, etc.).
+   - Estudio Eléctrico de Detalle aprobado: flujo de potencia, cortocircuito trifásico/monofásico (IEC 60909), estabilidad transitoria y dinámica (PSS/E o DigSILENT).
+   - Convenio de Conexión listo para firma con especificación del campo/celda en la Estación Transformadora (POI).
+5. **Pilar 5: Permisos y Licencias Socioambientales (Permitting & EIA)**:
+   - Estudio de Impacto Ambiental (EIA/MIA) aprobado y **Declaración de Impacto Ambiental (DIA)** emitida y firme por la autoridad ambiental competente.
+   - Proceso de Audiencia Pública cumplido sin objeciones sustantivas.
+   - Permisos sectoriales aprobados: Autoridad de Aguas / Recursos Hídricos, Vialidad Nacional/Provincial (cruce de rutas), ANAC (zonas de aproximación aérea) y Patrimonio Arqueológico.
+   - Cumplimiento de las 8 Normas de Desempeño de la Corporación Financiera Internacional (IFC) y Principios de Ecuador IV.
+6. **Pilar 6: Ingeniería Básica Consolidada (Basic Engineering & MDL)**:
+   - Lista Maestra de Documentos (MDL / DPP List) emitida en versión Aprobada Para Construcción (APC / IFC).
+   - Diagrama Unifilar General (Single Line Diagram - SLD) en continua (1.500 Vcc), media tensión (33 kV) y alta tensión (132 kV).
+   - Especificaciones técnicas congeladas: módulos bifaciales N-Type TOPCon, inversores string, centros de transformación (STS) y seguidores con protección de viento CIRSOC 102.
+7. **Pilar 7: Estructuración Comercial y Offtake (PPA / MATER)**:
+   - Contrato PPA firmado a 10-20 años con Gran Usuario (MATER) o distribuidor/cooperativa, o contrato de adjudicación oficial.
+   - Asignación de Prioridad de Despacho otorgada por CAMMESA (Res. MEyM 281-E/17 o Res. SE 330/23).
+8. **Pilar 8: Estructura Societaria y Vehículo de Proyecto (SPV)**:
+   - Sociedad de Propósito Específico (SPV) constituida, capitalizada y con CUIT activo.
+   - Encuadre en el Régimen RIGI (Ley 27.742) o Ley 27.191 para exenciones fiscales y aduaneras.
+   - Modelo financiero bancable congelado con DSCR $\ge 1,20x$ sobre escenario P90.
+9. **Pilar 9: Permisos Municipales de Construcción (Building Permit)**:
+   - Planos de obra civil, eléctrica y seguridad presentados y visados por el Municipio local.
+   - Ordenanza o resolución de habilitación de radicación y exención de tasas emitida.
+
+## 📋 6. Checklist Maestro de Auditoría para Nuevos Proyectos Solares
 
 | Eje de Evaluación | Ítems Obligatorios a Verificar | Criterio de Aprobación Bancable |
 | :--- | :--- | :--- |

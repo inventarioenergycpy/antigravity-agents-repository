@@ -58,3 +58,4 @@ Se formalizó la propuesta de diseño para un **Simulador Fotovoltaico Multi-Niv
 - [[docs/PROTELEM/2026-11-03_analisis-sinergia-skill-solar-protelem-epec-simulador]]
 - [[docs/Agentes/13-Desarrollador-Parques-Solares-Renovables]]
 - [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina]]
+

@@ -77,6 +77,9 @@ graph TD
 
 ---
 
+5. **Auditoría y Certificación Ready to Build (RTB)**:
+   - Verificación de los **9 Pilares de Madurez**: 1) Tierra & Servidumbres (Land & ROW $\ge 25-30$ años); 2) Topografía & Pull-out tests; 3) Recurso solar bancable (TMY dual, P50/P90 IE); 4) Conexión a red CAMMESA firme; 5) Licencias socioambientales y DIA firme; 6) Ingeniería básica congelada (MDL / SLD); 7) Offtake PPA / MATER; 8) SPV capitalizada con RIGI (Ley 27.742); 9) Permiso de construcción municipal.
+
 ## 🔗 Referencias Cruzadas en la Bóveda Obsidian
 - [[00-Dashboard-MOC]]
 - [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina]]

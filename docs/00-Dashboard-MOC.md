@@ -8,7 +8,7 @@ tags:
   - #backups
   - #rollback
 created: 2026-08-09
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # Bobeda de Agentes Antigravity IDE - Map of Content (MOC)
@@ -45,6 +45,7 @@ graph TD
     MOC --> AAA["10-Alumno-Auditor-Academico"]
     MOC --> CO["11-Copiloto-Orquestador-de-Skills"]
     MOC --> FRE["12-Especialista-Facturacion-Reverse-Engineering"]
+    MOC --> DPS["13-Desarrollador-Parques-Solares-Renovables"]
     MOC --> NA["Nuevos Agentes Futuros"]
     
     MOC --> AutoDoc["Auto-Documentación"]
@@ -58,6 +59,7 @@ graph TD
     ProyectosHub --> RepoForwarded["Repo VPU: inventarioenergycpy/forwarded-message"]
     ProyectosHub --> RepoCIER["Repo CIER: inventarioenergycpy/encuesta-cier-epec"]
     ProyectosHub --> RepoSolar["Repo Solar: asesoramiento-parque-solar-fotovoltaico"]
+    ProyectosHub --> RepoCutralCo["Repo Solar: PSFV Cutral Có II (30 MWac / 36.29 MWdc)"]
     ProyectosHub --> RepoFact["Repo Facturación: PROTELEM-EPEC/facturacion-reverse-engineering"]
     ProyectosHub --> RepoAMI["Repo AMI: PROTELEM-EPEC/despliegue-medidores-inteligentes-ami"]
     ProyectosHub --> RepoSanAntonio["Repo Minero: Mina San Antonio (San Juan, Au)"]
@@ -113,22 +115,28 @@ graph TD
 - **Protocolo de Arranque**: Sincronización mandatoria y automática contra `PROTELEM-EPEC/facturacion-reverse-engineering` (rama `main`) antes de cada uso.
 - **Entregables**: Reconstrucción por ingeniería inversa de la factura EPEC, simulador interactivo offline, motor JS puro de prorrateos tarifarios, mapeo de 31 tablas de SIGEC y auditoría de ordenanzas/tasas municipales.
 
-### 13. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
+### 13. [[Agentes/13-Desarrollador-Parques-Solares-Renovables|Desarrollador de Parques Solares Fotovoltaicos y Energías Renovables]]
+- **Habilidad**: `.agents/skills/desarrollador-parques-solares-renovables/SKILL.md`
+- **Modelo Rector**: [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina|Modelo Maestro de Ingeniería para Parques Solares y Renovables en Argentina]].
+- **Proyecto de Referencia**: [[docs/Proyectos/2026-11-02_psfv-cutral-co-ii-30mw|PSFV Cutral Có II (30 MWac / 36.29 MWdc - Data Room FCS)]].
+- **Entregables**: Ciclo de vida en 7 fases (Origination a COD), modelado PVSyst, interconexión MT/AT (33/132 kV), dimensionamiento de trackers 1 eje con backtracking y protección de viento CIRSOC 102, sismo INPRES-CIRSOC 103, y encuadre en CAMMESA (Cap. XXXVI, Anexo 30, SMEC/SOTR), MATER, RIGI (Ley 27.742) e Iniciativa Privada.
+
+### 14. [[Protocolo-Sincronizacion-Red-PROTELEM|Protocolo Operativo de Sincronización Red PROTELEM (\\srvfs01\...)]]
 - **Habilidad**: `.agents/skills/sincronizacion-red-protelem/SKILL.md`
 - **Propósito**: Sincronizar automáticamente cualquier nueva documentación o proyecto guardado en la red `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS` hacia la Bóveda Central con backups preventivos `.bak` y sin pérdida de información.
 
-### 14. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
+### 15. [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Operativo: Sincronización de Obsidian con GitHub]]
 - **Propósito**: Vincular la Bóveda Obsidian con `antigravity-agents-repository`, habilitando el plugin nativo `obsidian-git` para auto-pull al arranque y auto-backup periódico cada 10 minutos.
 
-### 15. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
+### 16. [[Proyectos/README|Índice de Proyectos e Repositorios Dedicados]]
 - Fichas técnicas, enlaces a repositorios remotos y URLs live de cada proyecto desarrollado por los agentes.
 
-### 16. [[docs/PROTELEM/00-Indice-PROTELEM-EPEC|Organización PROTELEM-EPEC: Repositorios y Documentación Unificada]]
+### 17. [[docs/PROTELEM/00-Indice-PROTELEM-EPEC|Organización PROTELEM-EPEC: Repositorios y Documentación Unificada]]
 - **Repositorios**: `PROTELEM-EPEC/facturacion-reverse-engineering` (Modelo SIGEC, Tarifas, Impuestos, Motor JS) y `PROTELEM-EPEC/demo-dashboard` (Factura Digital UI).
 - **Proyectos de Red**: `docs/PROTELEM/PROJECTS/` (SIGEC Explorer, QVD Explorer, Normativa EPEC, Oracle CIS/MDM).
 - **Sincronización**: Multi-bóveda y visualización unificada en Obsidian con auto-pull/push.
 
-### 17. [[Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo de Arquitectura Multi-Agente Adaptativa: Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + 3 Operadores Top-2) y Triple QA]]
+### 18. [[Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo de Arquitectura Multi-Agente Adaptativa: Selección Dinámica Top-2 de Modelos Gemini (PM Top-1 + 3 Operadores Top-2) y Triple QA]]
 - **Fase 0 de Armado Adaptativo**: Análisis en tiempo real de los modelos Gemini disponibles en su configuración más alta, ordenamiento estricto del mejor al peor (`M1 > M2 > ... > Mn`) y selección de los **dos mejores** para estructurar el Squad.
 - **Composición del Squad**: Project Manager (PM) sobre el mejor modelo disponible (`Top-1`) y 3 Agentes Operadores sobre el segundo mejor modelo disponible (`Top-2`).
 - **Orquestación Dinámica**: El PM utiliza el Copiloto Orquestador (`copiloto-orquestador-skills`) para asignar dinámicamente qué habilidades tendrán los 3 operadores según el objetivo.
@@ -211,6 +219,8 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-11-02_psfv-cutral-co-ii-30mw|2026-11-02 Parque Solar Fotovoltaico Cutral Có II (30 MWac / 36.29 MWdc - P50 72,49 GWh/año, Trina 720Wp, Huawei 330kW, ARCTECH Skysmart II & Ord. 2959/2025)]] (Energía Solar Utility-Scale / Cutral Có, Neuquén / Sol Litio & FCS Ingeniería)
+- [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina|2026-11-02 Modelo Maestro de Ingeniería para Parques Solares Fotovoltaicos y Energías Renovables en Argentina (Estándares IEC, IEEE, IFC, CAMMESA, MATER, RIGI & IP)]]
 - [[docs/Proyectos/2026-11-02_proyecto-minero-oro-san-antonio|2026-11-02 Proyecto Minero de Oro 'Mina San Antonio' (2.708 ha, NI 43-101, ALS 65,7 g/t Au, Canon 2025 al día & Valuación USD 3.500M (USD 3.5B) & 35,68M Oz Au)]] (Minería Metalífera / Iglesia, San Juan / CBR Compañía Minera S.A.)
 - [[docs/Proyectos/2026-10-30_proyecto-pistacho-alcaparra-neuquen|2026-10-30 Complejo Agroindustrial Integrado de Pistacho y Alcaparra en Neuquén (Blended Finance, Fideicomiso CCCN & Tesis USD 30k/ha)]] (`inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen`)
 - [[docs/Proyectos/2026-10-27_especificacion-disposicion-visual-qlik-sense|2026-10-27 Especificación y Codificación de Disposición Visual en Qlik Sense (Blueprints Grilla 24x12, Bundle JSON & Visor)]]
@@ -242,6 +252,7 @@ graph TD
 
 
 ## 📈 Registro de Mejoras y Evolución Reciente
+- **2026-11-03 (00:15)**: `[Squad Ágil S-C: Renovables & Finanzas]` Ingesta, ingeniería inversa y documentación técnica integral del Data Room "Cutral Có II - FCS" (30 MWac / 36.29 MWdc, 50.400 módulos Trina 720Wp bifaciales, inversores Huawei SUN2000-330KTL, STS 9000/3000 kVA, trackers ARCTECH Skysmart II, interconexión ET Cutral Có #151 en 33 kV y Ordenanza 2959/2025). Creación del Modelo Maestro de Ingeniería para Parques Solares y Renovables en Argentina bajo estándares internacionales (IEC 62548, IEC 62446, IEC 61724, IEEE 1547/2800, IFC) y marco nacional (CAMMESA Anexo 30, MATER, RIGI Ley 27.742 e Iniciativa Privada). Creación e integración del Agente 13: Desarrollador de Parques Solares Fotovoltaicos y Energías Renovables (`.agents/skills/desarrollador-parques-solares-renovables/SKILL.md`). Ver ficha: [[docs/Proyectos/2026-11-02_psfv-cutral-co-ii-30mw|Proyecto]], [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina|Modelo]] y [[Historial-Mejoras/2026-11-02_creacion-skill-desarrollador-parques-solares-renovables_cutral-co-ii|Nota Histórica]].
 - **2026-11-02 (23:55)**: `[Squad Agil S-C: Finanzas & Legal]` Ingesta, auditoría legal, modelado DCF integral (USD 3.5B / 35,68M Oz Au), generación de modelo Excel en Downloads, script Google Apps Script (.gs), resolución de sincronización en ramas de producción (`main`/`master`) en Showroom y Dashboard, y aplicación de blindaje de confidencialidad para inversores (**Blind Teaser**). Ver ficha: [[docs/Proyectos/2026-11-02_proyecto-minero-oro-san-antonio|Proyecto]] y [[Historial-Mejoras/2026-11-02_analista-financiero_integracion-mina-san-antonio-usd-3500m-blind-teaser|Nota Histórica]].
 - **2026-10-30 (16:10)**: `[Squad Ágil S-C: Finanzas & Legal]` Estructuración y modelado DCF a 20 años v2.0 Bancable del Complejo de Pistacho y Alcaparra en San Patricio del Chañar, Neuquén (300 ha central, escalable 200-500 ha, VAN USD 6,37M, TIR 16,94%, TIR Equity 17,74%, DSCR >= 1,85x, Ley Prov. 3502) y publicación de repo dedicado para continuar en Etapa 5. Ver ficha: [[docs/Proyectos/2026-10-30_proyecto-pistacho-alcaparra-neuquen|Proyecto]] y [[Historial-Mejoras/2026-10-30_squad-finanzas_proyecto-pistacho-alcaparra-neuquen-etapa4|Nota Histórica]].
 - **2026-10-30 (13:45)**: `[Copiloto Orquestador & Ecosistema]` Implementación transversal del Protocolo de Consultas Seguras a Bases de Datos (Oracle 19c y motores SQL): retardos obligatorios (pacing / throttling de 300 ms a 1.000 ms), chunking controlado (<= 500-900), `SET TRANSACTION READ ONLY` y protección contra sobrecarga en todos los agentes asociados. Ver nota: [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|Nota Histórica]].

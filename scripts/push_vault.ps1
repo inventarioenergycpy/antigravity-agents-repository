@@ -4,7 +4,11 @@ param(
     [string]$Passphrase = "mapache91"
 )
 
-$VaultPath = "D:\Proyectos\antigravity-agents-repository\config\token_vault.json"
+if (!(Test-Path $RepoPath)) { $RepoPath = "$PSScriptRoot\.." }
+$VaultPath = Join-Path $RepoPath "config\token_vault.json"
+if (!(Test-Path $VaultPath)) {
+    $VaultPath = Join-Path $PSScriptRoot "..\config\token_vault.json"
+}
 if (!(Test-Path $VaultPath)) {
     Write-Host "Error: No existe el archivo de boveda $VaultPath"
     exit 1

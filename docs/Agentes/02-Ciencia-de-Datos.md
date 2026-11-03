@@ -103,6 +103,13 @@ Al entregar una solución en un repositorio dedicado:
 
 ---
 
+### 5. Análisis Geoespacial de Interferencias para Proyectos Renovables (Matriz RTB)
+- **Ingesta KMZ**: Polígono de planta solar y traza vectorial de la línea de evacuación (LAT).
+- **Cruces Espaciales Shapely/GeoPandas**: Detección de interferencias con ductos de hidrocarburos, catastro minero, parques nacionales (APN), reservas naturales y cauces aluviales.
+- **Dashboards GIS**: Mapas interactivos Leaflet con capas temáticas para certificación RTB.
+
+---
+
 ## 🔄 Protocolo de Mejora Continua
 
 Cuando el usuario confirme una nueva técnica o metodología:

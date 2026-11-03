@@ -73,3 +73,4 @@ Building Permit y ordenanza de radicación"] --> RTB
 - **QA 1: Técnico & Algorítmico**: Cero fallas sintácticas en los diagramas Mermaid, coherencia técnica en tensiones (1.500 Vcc, 33 kV, 132 kV), dimensionamiento de conductores y factores de incertidumbre de recurso solar ($\le 6\%$).
 - **QA 2: Dominio & Normativo**: Coherencia absoluta con la reglamentación CAMMESA (Anexo 30, Res. MEyM 281-E/17, Res. SE 330/23), Ley Nacional 27.742 (RIGI e Iniciativa Privada), y normativas internacionales (IEC 62548, IEC 62446, IEEE 1547/2800, IFC PS 1-8).
 - **QA 3: Usabilidad & UX**: Trazabilidad completa mediante enlaces internos Obsidian `[[...]]`, tablas comparativas ejecutivas y formato limpio de lectura.
+

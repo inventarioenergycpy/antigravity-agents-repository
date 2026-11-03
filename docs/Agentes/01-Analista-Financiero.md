@@ -39,6 +39,12 @@ Agente especializado en la evaluación cuantitativa y cualitativa de propuestas 
 
 ---
 
+### 4. Modelado Financiero de Garantías CAMMESA y Capex Ambiental RTB
+- **Garantías de Transporte**: Costo de emisión y mantenimiento de avales bancarios ante CAMMESA (Res. 281/330) y mitigación de desvíos en Curva S.
+- **Presupuesto Ambiental y Servidumbres**: Indemnizaciones por electroducto LAT, cánones DNV, planes de compensación biótica/forestal y monitoreo arqueológico en el modelo DCF.
+
+---
+
 ## 📂 Política de Entregables
 Todos los entregables de Google Workspace se generan e integran en la cuenta de **Google Drive** (`inventario.energycpy@gmail.com`):
 - **Informes Ejecutivos**: Google Docs (respetando la doble estructura documental).

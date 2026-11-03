@@ -204,73 +204,102 @@ El ingreso al Mercado Eléctrico Mayorista (MEM) como Agente Generador Renovable
 
 ## 🏗️ 5. Protocolo de Auditoría y Certificación de Estado Ready to Build (RTB)
 
-Para que un parque solar fotovoltaico alcance el estado **Ready to Build (RTB)** —momento en el cual los riesgos de desarrollo han sido mitigados al 100%, se alcanza el Cierre Financiero (*Financial Close*) y se emite la orden de inicio (*Notice to Proceed - NTP*) al contratista EPC—, el proyecto debe verificar el cumplimiento estricto de los **9 Pilares de Madurez**:
+Para que un parque solar fotovoltaico alcance el estado **Ready to Build (RTB)** —momento en el cual los riesgos de desarrollo han sido mitigados al 100%, se logra el Cierre Financiero (*Financial Close*) y se emite la orden de inicio (*Notice to Proceed - NTP*) al contratista EPC—, el agente debe auditar y verificar el cumplimiento estricto de la **Matriz Maestra de 58 Requisitos en 7 Categorías** (procedente de la norma de desarrollo bancable `Etapas_Proyectos_FV`):
 
 ```mermaid
 graph TD
-    subgraph "COMPUERTA DE MADUREZ: READY TO BUILD (RTB)"
-        P1["1. Tierra & Servidumbres (Land & ROW)
-Contrato Notarial >= 25-30 años inscripto"] --> RTB{"Compuerta RTB
-100% De-risked"}
-        P2["2. Estudios Geotécnicos & Topografía
-Curvas nivel <= 0.5m, Pull-out tests, Hidrología"] --> RTB
-        P3["3. Recurso Solar & Yield Bancable
-TMY satelital dual, PVSyst congelado, P50/P90 IE"] --> RTB
-        P4["4. Acceso a Red & Transporte
-Acceso CAMMESA/Transportista firme, POI ET 33/132kV"] --> RTB
-        P5["5. Permisos Socioambientales & EIA
-DIA firme, Audiencia Pública, IFC Standards 1-8"] --> RTB
-        P6["6. Ingeniería Básica Congelada
-MDL, SLD unifilar, 3D Layout, STS, BOS 1500V"] --> RTB
-        P7["7. Offtake Comercial & PPA
-Contrato PPA MATER / LOI firme, Prioridad Despacho"] --> RTB
-        P8["8. Estructura Corporativa & SPV
-SPV constituida, RIGI Ley 27.742, cuentas de reserva"] --> RTB
-        P9["9. Permiso de Construcción Municipal
-Building Permit y ordenanza de radicación"] --> RTB
+    subgraph "COMPUERTA DE MADUREZ: READY TO BUILD (RTB) - 58 REQUISITOS"
+        C1["1. EPE: Producción de Energía (5 ítems)<br>.pan, .ond, TMY satelital, PVSyst congelado"] --> RTB{"Compuerta RTB<br>100% De-risked"}
+        C2["2. Emplazamiento & Sitio (7 ítems)<br>LIDAR <=0.5m, Pull-out tests, Hidrología 100a"] --> RTB
+        C3["3. Información General (2 ítems)<br>KMZ planta + KMZ traza línea evacuación LAT"] --> RTB
+        C4["4. Diseño & BOS (6 ítems)<br>Layout 3D, SLD 1.500V/33kV/132kV, Viento CIRSOC 102"] --> RTB
+        C5["5. Interconexión Eléctrica (7 ítems)<br>Acceso CAMMESA, Garantías bancarias, Curva S, POI ET"] --> RTB
+        C6["6. Permisos & Licencias (9 ítems)<br>Contrato usufructo >=25a, Cruces DNV, Building Permit"] --> RTB
+        C7["7. Ambiental & Social Dual (22 ítems)<br>DIA Planta + DIA LAT, No interferencia ductos/minería, INAI"] --> RTB
     end
     
     RTB --> FC["🏁 Cierre Financiero (Financial Close)"]
-    FC --> NTP["🚀 Notice to Proceed (NTP) / EPC Construction"]
+    FC --> NTP["🚀 Notice to Proceed (NTP) / EPC Turnkey (FIDIC Silver Book)"]
 ```
 
-### Los 9 Pilares de Madurez y Certificación Ready to Build (RTB):
+### 📋 5.1 Matriz Maestra de Due Diligence y Compuertas RTB (58 Requisitos Oficiales)
 
-1. **Pilar 1: Tierra y Servidumbres (Land & Right of Way - ROW)**:
-   - Título de dominio perfecto o contrato de arrendamiento/usufructo público o privado por $\ge 25-30$ años inscripto en el Registro de la Propiedad Inmueble.
-   - Servidumbres de paso y electroducto constituidas para la línea de evacuación (33 kV / 132 kV) hasta el Punto de Conexión (POI).
-   - Estudio de títulos inmobiliarios (*Title Due Diligence*) con libre de gravámenes, embargos o hipotecas.
-2. **Pilar 2: Estudios de Sitio, Topografía y Geotecnia**:
-   - Levantamiento topográfico con LIDAR o dron con curvas de nivel $\le 0,5\text{ m}$ y modelo digital de elevaciones (DEM).
-   - Estudio geotécnico completo con calicatas, agresividad química del suelo (sulfatos/cloruros) y ensayos de tracción vertical y lateral (*pull-out tests*) de perfiles de acero hincados.
-   - Estudio hidrológico de escorrentías y riesgo de inundación con período de retorno de 100 años (CIRSOC / HEC-RAS).
-3. **Pilar 3: Recurso Solar y Reporte de Producción Bancable**:
-   - Serie horaria típica TMY obtenida de bases satelitales duales de largo plazo (Solargis, PVGIS 5.3, Meteonorm 8.2).
-   - Simulación PVSyst $\ge 7.4$ / $8.x$ con diseño 3D congelado, cálculo de sombras lejanas y *backtracking*.
-   - Informe de Rendimiento Energético Independiente (*Independent Engineer Report - IE*) con curvas P50, P90, P95 y P99 (incertidumbre global $\le 6\%$).
-4. **Pilar 4: Interconexión Eléctrica y Capacidad de Evacuación (Grid Connection)**:
-   - Autorización de Acceso a la Capacidad de Transporte emitida por CAMMESA y la transportista/distribuidora troncal (Transener, EPEN, EPEC, etc.).
-   - Estudio Eléctrico de Detalle aprobado: flujo de potencia, cortocircuito trifásico/monofásico (IEC 60909), estabilidad transitoria y dinámica (PSS/E o DigSILENT).
-   - Convenio de Conexión listo para firma con especificación del campo/celda en la Estación Transformadora (POI).
-5. **Pilar 5: Permisos y Licencias Socioambientales (Permitting & EIA)**:
-   - Estudio de Impacto Ambiental (EIA/MIA) aprobado y **Declaración de Impacto Ambiental (DIA)** emitida y firme por la autoridad ambiental competente.
-   - Proceso de Audiencia Pública cumplido sin objeciones sustantivas.
-   - Permisos sectoriales aprobados: Autoridad de Aguas / Recursos Hídricos, Vialidad Nacional/Provincial (cruce de rutas), ANAC (zonas de aproximación aérea) y Patrimonio Arqueológico.
-   - Cumplimiento de las 8 Normas de Desempeño de la Corporación Financiera Internacional (IFC) y Principios de Ecuador IV.
-6. **Pilar 6: Ingeniería Básica Consolidada (Basic Engineering & MDL)**:
-   - Lista Maestra de Documentos (MDL / DPP List) emitida en versión Aprobada Para Construcción (APC / IFC).
-   - Diagrama Unifilar General (Single Line Diagram - SLD) en continua (1.500 Vcc), media tensión (33 kV) y alta tensión (132 kV).
-   - Especificaciones técnicas congeladas: módulos bifaciales N-Type TOPCon, inversores string, centros de transformación (STS) y seguidores con protección de viento CIRSOC 102.
-7. **Pilar 7: Estructuración Comercial y Offtake (PPA / MATER)**:
-   - Contrato PPA firmado a 10-20 años con Gran Usuario (MATER) o distribuidor/cooperativa, o contrato de adjudicación oficial.
-   - Asignación de Prioridad de Despacho otorgada por CAMMESA (Res. MEyM 281-E/17 o Res. SE 330/23).
-8. **Pilar 8: Estructura Societaria y Vehículo de Proyecto (SPV)**:
-   - Sociedad de Propósito Específico (SPV) constituida, capitalizada y con CUIT activo.
-   - Encuadre en el Régimen RIGI (Ley 27.742) o Ley 27.191 para exenciones fiscales y aduaneras.
-   - Modelo financiero bancable congelado con DSCR $\ge 1,20x$ sobre escenario P90.
-9. **Pilar 9: Permisos Municipales de Construcción (Building Permit)**:
-   - Planos de obra civil, eléctrica y seguridad presentados y visados por el Municipio local.
-   - Ordenanza o resolución de habilitación de radicación y exención de tasas emitida.
+| Id | Categoría | Requisito Documental Auditado | Criticidad | Ente Emisor / Regulador | Criterio de Aprobación Bancable |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| **1** | **EPE** | Archivo `.pan`, PV module data file (PVsyst format) | **Alta** | Fabricante Tier-1 / PVSyst | Curvas I-V, coeficientes térmicos y bifacialidad calibrados. |
+| **2** | **EPE** | Archivo `.ond`, Inverter data file (PVsyst format) | **Alta** | Fabricante Tier-1 / PVSyst | Rangos MPPT, curvas de eficiencia europea y límites de tensión. |
+| **3** | **EPE** | TMY o datos meteorológicos satelitales duales | 🚨 **Fatal Flaw** | Solargis / PVGIS / Meteonorm | Serie horaria multianual representativa; incertidumbre global $\le 6\%$. |
+| **4** | **EPE** | Estudios previos / existentes del recurso solar | **Media** | Desarrollador / Consultor | Comparativa histórica de bases de radiación GHI y DNI. |
+| **5** | **EPE** | Configuración eléctrica (DC/AC ratio, strings) | **Alta** | Ingeniería Básica | Ratio DC/AC optimizado (1.20 - 1.25); pérdidas de string $< 1,5\%$. |
+| **6** | **Emplazamiento** | Reporte de estudio topográfico de sitio | **Alta** | Agrimensura Profesional | Memoria técnica con puntos GPS georreferenciados en POSGAR/WGS84. |
+| **7** | **Emplazamiento** | Topografía detallada (CAD/GIS/DEM) | 🚨 **Fatal Flaw** | Agrimensor / LIDAR | Curvas de nivel $\le 0,5\text{ m}$; pendientes del predio $\le 2\% - 3\%$. |
+| **8** | **Emplazamiento** | Diseño de drenajes y escorrentías | **Alta** | Hidráulica / Obras Viales | Zanjas perimetrales y badenes dimensionados para lluvia crítica. |
+| **9** | **Emplazamiento** | Estudio hidrológico de cuenca de aporte | 🚨 **Fatal Flaw** | Hidrólogo / DPA / HEC-HMS | Caudales pico calculados para período de retorno T = 100 años. |
+| **10** | **Emplazamiento** | Estudio de inundabilidad (mancha de inundación) | 🚨 **Fatal Flaw** | Hidrólogo / HEC-RAS | Verificación de cota de implantación por encima de crecida centenaria. |
+| **11** | **Emplazamiento** | Pruebas de carga en sitio (*pull-out tests*) | 🚨 **Fatal Flaw** | Laboratorio Geotécnico | Ensayos de tracción vertical y lateral sobre perfiles hincados. |
+| **12** | **Emplazamiento** | Estudio geotécnico (calicatas y resistividad) | 🚨 **Fatal Flaw** | Geotecnista Certificado | Perfil estratigráfico, agresividad de cloruros/sulfatos y resistividad. |
+| **13** | **Info General** | `.kmz` del proyecto (predio parque solar) | 🚨 **Fatal Flaw** | SIG / Proyectista | Polígono georreferenciado WGS84 del loteo y superficie total. |
+| **14** | **Info General** | `.kmz` de la ruta de la línea de transmisión (LAT) | 🚨 **Fatal Flaw** | SIG / Proyectista | Traza vectorial WGS84 de la línea de evacuación hasta la ET. |
+| **15** | **Diseño** | Plano de implantación general (*layout* 3D) | 🚨 **Fatal Flaw** | Ingeniería Básica | Disposición de trackers, pitch, separación de filas y viales. |
+| **16** | **Diseño** | Diagrama unifilar (Single Line Diagram - SLD) | 🚨 **Fatal Flaw** | Ingeniería Eléctrica | Esquema unifilar completo en 1.500 Vcc, 33 kV y 132 kV. |
+| **17** | **Diseño** | Otros documentos de ingeniería básica (MDL / DPP) | **Alta** | EPC / Proyectista | Lista Maestra de Documentos emitida y congelada para construcción. |
+| **18** | **Diseño** | Validaciones estructurales o de carga (viento/sismo) | 🚨 **Fatal Flaw** | Calculista Estructural | Memoria de cálculo bajo CIRSOC 102 (viento) e INPRES-CIRSOC 103 (sismo). |
+| **19** | **Diseño** | Planos y dibujos constructivos | **Alta** | EPC / Proyectista | Planos de fundaciones, zanjas de MT, salas de control y cercado. |
+| **20** | **Diseño** | Diseños y cálculos de servicios auxiliares (SCADA/Meteo) | **Alta** | Automatización / Control | Estación meteorológica Clase A (IEC 61724-1), CCTV y telemetría. |
+| **21** | **Interconexión** | Acuerdos de interconexión con transportista/distribuidora | 🚨 **Fatal Flaw** | Transportista / EPEC / EPEN | Convenio técnico-económico de conexión al SADI formalizado. |
+| **22** | **Interconexión** | Estudios de interconexión eléctrica aprobados | 🚨 **Fatal Flaw** | Especialista Eléctrico / CAMMESA | Flujo de potencia, cortocircuito IEC 60909 y estabilidad PSS/E. |
+| **23** | **Interconexión** | Informes periódicos de avance a la CAMMESA | **Alta** | Desarrollador / PMO | Reportes de cumplimiento de hitos de desarrollo según Los Procedimientos. |
+| **24** | **Interconexión** | Garantías bancarias de reserva de transporte | 🚨 **Fatal Flaw** | Banco Emisor / CAMMESA | Boletas de garantía vigentes para respaldar la asignación MATER. |
+| **25** | **Interconexión** | Aprobación de reserva de capacidad CAMMESA | 🚨 **Fatal Flaw** | CAMMESA / Sec. Energía | Asignación de Prioridad de Despacho (Res. 281-E/17 o SE 330/23). |
+| **26** | **Interconexión** | Curva S entregada a la CAMMESA | **Alta** | Planificador / PMO | Cronograma físico-financiero comprometido de obras e hitos. |
+| **27** | **Interconexión** | Estudio de disponibilidad de espacio en ET (POI) | 🚨 **Fatal Flaw** | Transportista / Dueño de ET | Factibilidad de celda de reserva o ampliación física en la ET. |
+| **28** | **Permisos** | Contratos de arrendamiento / usufructo notarial | 🚨 **Fatal Flaw** | Escribano / Registro Propiedad | Contrato notarial registrado por plazo $\ge 25-30$ años. |
+| **29** | **Permisos** | Certificados de tradición y libertad (dominio) | 🚨 **Fatal Flaw** | Registro de la Propiedad | Título perfecto libre de embargos, gravámenes o hipotecas. |
+| **30** | **Permisos** | Licencia de construcción (*Building Permit*) | 🚨 **Fatal Flaw** | Municipio Local | Permiso municipal de obras civiles y habilitación de radicación. |
+| **31** | **Permisos** | Permisos de DNV para cruce con línea de transmisión | **Alta** | Dirección Nacional de Vialidad | Permiso formal de cruce aéreo/subterráneo de rutas nacionales. |
+| **32** | **Permisos** | Permiso de cruce en rutas concesionadas / autopistas | **Alta** | Órgano Control Concesiones | Autorización específica con empresa concesionaria vial. |
+| **33** | **Permisos** | Permisos de cruce y ocupación municipal para LAT | **Alta** | Municipios atravesados | Permiso de uso de banquinas y vías comunales para la traza. |
+| **34** | **Permisos** | Servidumbres o permisos de ocupación pública para LAT | 🚨 **Fatal Flaw** | Escribanía / Catastro | Franja de servidumbre de electroducto constituida e inscripta. |
+| **35** | **Permisos** | Certificado de compatibilidad de uso de suelo | **Alta** | Planeamiento Urbano | Certificado de aptitud de uso industrial / generación renovable. |
+| **36** | **Permisos** | Aprobaciones aeronáuticas (ANAC) | **Alta** | ANAC | Dictamen de no afectación de conos de aproximación ni deslumbramiento. |
+| **37** | **Ambiental/Social** | Interferencias con hidrocarburos: proyecto parque | 🚨 **Fatal Flaw** | Sec. Energía / Operadoras | Libre de gasoductos, oleoductos y pozos activos en el polígono. |
+| **38** | **Ambiental/Social** | Interferencias con hidrocarburos: línea transmisión | 🚨 **Fatal Flaw** | Transportadoras de Gas/Petróleo | Acuerdos de cruce y distancias mínimas de seguridad con ductos. |
+| **39** | **Ambiental/Social** | Interferencias con minería: proyecto parque | 🚨 **Fatal Flaw** | Dirección Prov. de Minería | Libre de concesiones mineras, cateos o pedimentos en el predio. |
+| **40** | **Ambiental/Social** | Interferencias con minería: línea de transmisión | **Alta** | Dirección Prov. de Minería | No afectación de derechos mineros vigentes a lo largo de la LAT. |
+| **41** | **Ambiental/Social** | Licencia ambiental del proyecto (EIA + DIA) | 🚨 **Fatal Flaw** | Autoridad Ambiental Prov. | Declaración de Impacto Ambiental (DIA) firme para la planta. |
+| **42** | **Ambiental/Social** | Licencia ambiental de la línea de transmisión (LAT) | 🚨 **Fatal Flaw** | Autoridad Ambiental Prov. | Declaración de Impacto Ambiental (DIA) firme para la línea. |
+| **43** | **Ambiental/Social** | Plan de Manejo Ambiental (PMA) | **Alta** | Autoridad Ambiental | Programas de monitoreo, mitigación y gestión de residuos. |
+| **44** | **Ambiental/Social** | Certificado de presencia de comunidades étnicas | 🚨 **Fatal Flaw** | INAI / Asuntos Indígenas | Certificado oficial negativo o identificación de comunidades. |
+| **45** | **Ambiental/Social** | Consultas previas con comunidades indígenas | 🚨 **Fatal Flaw** | INAI / Comunidades | Cumplimiento del Convenio 169 de la OIT sin litigios pendientes. |
+| **46** | **Ambiental/Social** | Socializaciones con la comunidad y Audiencia Pública | **Alta** | Autoridad Ambiental / Municipio | Audiencia pública cumplida sin objeciones sustantivas. |
+| **47** | **Ambiental/Social** | Consultas de procesos de restitución de tierras | **Alta** | Registro de Tierras / Justicia | Certificado de ausencia de reclamos territoriales en trámite. |
+| **48** | **Ambiental/Social** | Permiso de aprovechamiento forestal: proyecto parque | **Alta** | Dirección de Bosques Nativos | Autorización de desmonte / tala / poda selectiva en el predio. |
+| **49** | **Ambiental/Social** | Permiso de aprovechamiento forestal: línea transmisión | **Alta** | Dirección de Bosques Nativos | Permiso de apertura de picada / franja de seguridad de la LAT. |
+| **50** | **Ambiental/Social** | Plan de compensación biótica: planta solar | **Alta** | Autoridad Ambiental | Plan de reforestación o enriquecimiento de flora nativa. |
+| **51** | **Ambiental/Social** | Plan de compensación biótica: línea transmisión | **Alta** | Autoridad Ambiental | Plan de restauración de corredores ecológicos afectados. |
+| **52** | **Ambiental/Social** | Aprobación del programa de arqueología preventiva | **Alta** | Patrimonio Cultural Prov. | Protocolo de preservación y hallazgos fortuitos aprobado. |
+| **53** | **Ambiental/Social** | Aprobación del proyecto de prospección arqueológica | **Alta** | Patrimonio Cultural Prov. | Campaña en terreno con dictamen de no afectación patrimonial. |
+| **54** | **Ambiental/Social** | Permiso de ocupación de cauce: proyecto parque | **Alta** | Recursos Hídricos / DPA | Permiso de cruce o intervención de cauces temporarios. |
+| **55** | **Ambiental/Social** | Permiso de ocupación de cauce: línea transmisión | **Alta** | Recursos Hídricos / DPA | Autorización de tendido aéreo/subterráneo sobre cauces hídricos. |
+| **56** | **Ambiental/Social** | Interferencia con áreas de reserva nacional (APN) | 🚨 **Fatal Flaw** | Parques Nacionales | Certificado de no superposición con Parques/Reservas Nacionales. |
+| **57** | **Ambiental/Social** | Interferencia con áreas de reserva provincial y local | 🚨 **Fatal Flaw** | Dirección de Áreas Protegidas | No afectación de reservas naturales provinciales o municipales. |
+| **58** | **Ambiental/Social** | Interferencia con ecosistemas estratégicos (RAMSAR/AICA) | 🚨 **Fatal Flaw** | Secretaría de Ambiente | Compatibilidad y no afectación de humedales o sitios RAMSAR. |
+
+---
+
+### 🚦 5.2 Protocolo de Dictamen RTB y Clasificación de Riesgos
+
+El agente emitirá uno de los tres dictámenes formales tras auditar los 58 ítems:
+
+1. **APROBADO RTB (100% De-risked / Bankable)**:
+   - Cumplimiento del 100% de los **23 ítems calificados como Fatal Flaw**.
+   - Al menos el 90% de los ítems de criticidad Alta resueltos y los restantes con cronograma contractual mitigado en el contrato EPC.
+2. **CONDICIONADO A FINANCIAL CLOSE (CP-FC)**:
+   - Los Fatal Flaws principales están aprobados (DIA, CAMMESA, Terreno), pero restan emitir boletas de garantía de transporte, pólizas de caución o permisos de cruce vial DNV en fase final de tramitación administrativa.
+3. **RECHAZADO / NO RTB (Fatal Flaws Activos)**:
+   - Cualquier incumplimiento en: DIA ambiental provincial, superposición no autorizada con ductos de hidrocarburos o áreas protegidas (APN), falta de titularidad perfecta del predio, o ausencia de capacidad firme asignada por CAMMESA.
+
+---
 
 ## 📋 6. Checklist Maestro de Auditoría para Nuevos Proyectos Solares
 

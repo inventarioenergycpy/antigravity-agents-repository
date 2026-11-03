@@ -77,8 +77,12 @@ graph TD
 
 ---
 
-5. **Auditoría y Certificación Ready to Build (RTB)**:
-   - Verificación de los **9 Pilares de Madurez**: 1) Tierra & Servidumbres (Land & ROW $\ge 25-30$ años); 2) Topografía & Pull-out tests; 3) Recurso solar bancable (TMY dual, P50/P90 IE); 4) Conexión a red CAMMESA firme; 5) Licencias socioambientales y DIA firme; 6) Ingeniería básica congelada (MDL / SLD); 7) Offtake PPA / MATER; 8) SPV capitalizada con RIGI (Ley 27.742); 9) Permiso de construcción municipal.
+5. **Auditoría y Certificación Ready to Build (RTB) bajo Matriz de 58 Requisitos**:
+   - Ejecución de auditorías técnicas de bancabilidad mediante la **Matriz Oficial de 58 Requisitos en 7 Categorías** (`Etapas_Proyectos_FV`): EPE (5), Emplazamiento (7), Información General (2), Diseño (6), Interconexión CAMMESA (7), Permisos y Licencias (9) y Ambiental & Social Dual (22).
+   - Clasificación de criticidad: detección y bloqueo automático ante **23 Fatal Flaws** (DIA firme, servidumbres LAT, cruces de ductos de hidrocarburos, concesiones mineras, APN y reservas naturales, consultas indígenas INAI y reserva CAMMESA).
+   - Emisión del Dictamen Técnico RTB para Cierre Financiero (*Financial Close*) y emisión del *Notice to Proceed* (NTP) bajo FIDIC Silver Book.
+
+---
 
 ## 🔗 Referencias Cruzadas en la Bóveda Obsidian
 - [[00-Dashboard-MOC]]

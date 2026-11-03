@@ -75,3 +75,29 @@ Para cualquier dictamen, contrato, actuación legal por ilícitos o encuadre reg
 4. **Etapa 4: Presentación de Prueba Piloto** (Minuta contractual o dictamen legal sujeto a aprobación del consultor).
 5. **Etapa 5: Pruebas sobre el Modelo Final Implementado** (Revisión de casos borde y validez probatoria de firmas).
 6. **Etapa 6: Auto-Documentación y Respaldo** (Registro en Obsidian, backup preventivo `.bak` en `docs/Backups/` y entrada en `docs/Historial-Mejoras/`).
+
+
+---
+
+## ☀️ 4. Due Diligence Legal, Regulatorio y Permitting para Parques Solares y Líneas de Transmisión (Matriz RTB)
+
+En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables`), este agente asume el blindaje legal, societario y de compuertas regulatorias conforme a la matriz bancable de proyectos renovables:
+
+### 1. Régimen de Tierras y Servidumbres de Evacuación (Land & ROW)
+- **Títulos de Propiedad y Usufructo (Ítems 28 y 29)**: Redacción y auditoría de contratos notariales de arrendamiento o constitución de derecho real de usufructo (CCCN Arts. 2129 a 2153) a plazo no menor a **25 a 30 años**, con inscripción en el Registro General de la Propiedad Inmueble y verificación de libre de gravámenes, embargos o hipotecas (*Title Due Diligence*).
+- **Servidumbres de Electroducto de la LAT (Ítems 33 y 34)**: Constitución de servidumbres administrativas o voluntarias de electroducto (Ley Nacional 19.552 y leyes provinciales) para la traza de la línea de media o alta tensión (33 kV / 132 kV) hasta la Subestación Transformadora (POI).
+
+### 2. Permisos Viales, Ferroviarios y Municipales (Cruces de Infraestructura)
+- **Permisos de Vialidad Nacional DNV (Ítem 31)**: Tramitación y supervisión de permisos de cruce y paralelismo sobre rutas nacionales según reglamentación técnica de la DNV.
+- **Rutas Concesionadas y Autopistas (Ítem 32)**: Acuerdos técnicos y pólizas de seguro con empresas concesionarias viales.
+- **Permisos Municipales y Building Permit (Ítems 30 y 35)**: Gestión de ordenanzas de radicación, certificado de compatibilidad de uso de suelo y obtención del Permiso de Construcción (*Building Permit*).
+- **Aprobaciones Aeronáuticas (Ítem 36)**: Gestión ante la ANAC para certificar la no afectación de conos de aproximación aeroportuarios ni riesgo de deslumbramiento óptico (*glare*).
+
+### 3. Licencias Ambientales, Comunidades Originarias e Interferencias de Subsuelo
+- **Licencia Ambiental Dual (Ítems 41 y 42)**: Verificación de la Declaración de Impacto Ambiental (DIA) formalmente firme e inimpugnable, distinguiendo la DIA del parque solar de la DIA específica de la Línea de Transmisión (LAT).
+- **Pueblos Originarios y Convenio 169 OIT (Ítems 44, 45 y 47)**: Emisión del certificado negativo de comunidades étnicas ante el Instituto Nacional de Asuntos Indígenas (INAI); en caso afirmativo, conducción del proceso vinculante de Consulta Previa, Libre e Informada (Convenio 169 OIT) y certificado de libre reclamo territorial.
+- **No Interferencia con Hidrocarburos y Minería (Ítems 37 a 40)**: Certificación de libre afectación de concesiones mineras, cateos o manifestaciones de descubrimiento; y convenios de convivencia con operadoras petroleras/gasíferas para el cruce seguro de gasoductos, oleoductos y poliductos.
+
+### 4. Interconexión y Garantías Bancarias CAMMESA (Ítems 21 a 27)
+- **Convenios de Interconexión**: Firma de acuerdos de acceso a la capacidad de transporte con Transportistas Troncales (Transener, Transba, Distrocuyo, EPEN, etc.) y Distribuidoras (EPEC).
+- **Garantías Bancarias y Curva S**: Instrumentación de boletas de garantía bancaria exigidas por CAMMESA (Res. MEyM 281-E/17 y Res. SE 330/23) para reserva de potencia y supervisión legal de hitos contractuales de la Curva S para evitar ejecuciones de avales.

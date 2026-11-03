@@ -135,3 +135,19 @@ Cada evaluación o proyecto de análisis financiero seguirá el protocolo estand
 ## 🛡️ Protocolo de Mejora Continua
 
 Si el usuario valida un nuevo formato de informe, un indicador específico o un estilo de presentación y solicita conservarlo (ej. *"guarda esta plantilla de análisis"*), invocar inmediatamente el skill `auto-documentacion-agente` para actualizar este archivo, generar el backup `.bak` preventivo y registrar la mejora en la Bóveda de Obsidian.
+
+
+---
+
+## ☀️ 5. Modelado Financiero de Garantías CAMMESA, Curva S y Costos Ambientales RTB
+
+En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables`), este agente asume el modelado económico de los costos de desarrollo, mitigación y garantías bancarias de proyectos solares:
+
+### 1. Costo y Riesgo de Garantías Bancarias de Transporte CAMMESA (Ítems 24 y 26)
+- **Emisión y Mantenimiento de Avales**: Modelado del costo financiero anual (típicamente $1,5\% - 3,5\%$ anual sobre el monto garantizado en USD) para la boleta de garantía bancaria o póliza de caución requerida por CAMMESA según Res. MEyM 281-E/17 y Res. SE 330/23.
+- **Análisis de Riesgo de Ejecución por Desvío de Curva S**: Evaluación de contingencias financieras ante demoras en los hitos de la Curva S física-financiera y estimación de costos de reposición de avales.
+
+### 2. Presupuestación de Compensaciones Ambientales y Servidumbres en Capex/Opex
+- **Servidumbres de Paso y Cruces de Infraestructura (Ítems 31 a 34)**: Cuantificación del costo de indemnización notarial por constitución de servidumbres de electroducto y cánones viales (DNV/concesionarios).
+- **Planes de Compensación Biótica y Forestal (Ítems 48 a 51)**: Integración en el Capex de los costos de desmonte selectivo, viveros de especies nativas, planes de rescate de fauna y programas de reforestación obligatorios por la DIA.
+- **Arqueología Preventiva (Ítems 52 y 53)**: Presupuesto de honorarios de arqueólogos de campo y monitoreo durante el movimiento de suelos.

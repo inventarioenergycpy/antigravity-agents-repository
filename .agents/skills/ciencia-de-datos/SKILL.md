@@ -126,3 +126,23 @@ Cuando el usuario confirme una nueva técnica o metodología:
    - **Análisis de Cohortes Temporales**:
      * Cálculo de `ES_CASO_VIEJO` para medir la auto-corrección natural en casos de 2022-2023 vs. la focalización de inspecciones en casos recientes de 2024-2026.
    - **Repositorio Dedicado Oficial**: Toda documentación viva, scripts y datasets se gestionan en `https://github.com/PROTELEM-EPEC/auditoria-relevamiento-conectar.git`.
+
+
+---
+
+## 🛰️ 6. Análisis Espacial de Interferencias y GIS para Parques Solares y Líneas de Transmisión (Matriz RTB)
+
+En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables`), este agente asume la validación geoespacial automatizada mediante scripts de Python (`geopandas`, `shapely`, `rasterio` y `pyproj`):
+
+### 1. Procesamiento y Validación Cartográfica Vectorial (Ítems 13 y 14)
+- **Ingesta de `.kmz` / `.kml`**: Extracción del polígono perimetral del parque solar y de la traza de la Línea de Transmisión (LAT), reproyección de coordenadas a POSGAR / WGS84 (`EPSG:4326` a `EPSG:22174` / `EPSG:5345`).
+- **Validación de Superficie y Buffer**: Verificación de densidad de ocupación territorial ($1,3 - 1,6\text{ ha/MWac}$) y generación de zona de amortiguamiento (*buffer* de 50 m a 200 m) a lo largo de la traza de evacuación.
+
+### 2. Análisis Espacial de Interferencias Críticas (Fatal Flaws Cartográficos)
+- **Cruce con Catastro de Hidrocarburos (Ítems 37 y 38)**: Superposición geométrica de la planta y la LAT contra capas de gasoductos troncales, oleoductos, poliductos y pozos activos (crucial en cuencas productivas como Neuquina / Vaca Muerta, Golfo San Jorge y Cuyana).
+- **Cruce con Catastro Minero (Ítems 39 y 40)**: Intersección con concesiones mineras registradas, cateos y manifestaciones de descubrimiento.
+- **Áreas Protegidas y Ecosistemas Estratégicos (Ítems 56, 57 y 58)**: Detección automática de superposición con Parques Nacionales (APN), reservas naturales provinciales/municipales, sitios RAMSAR y Áreas de Importancia para la Conservación de Aves (AICAs).
+- **Hidrografía y Cauces Aluviales (Ítems 9, 10, 54 y 55)**: Cruce con capas de cuencas hídricas, arroyos temporarios y escorrentías para identificar cruces de cauces que demanden permisos de ocupación ante Recursos Hídricos.
+
+### 3. Entregables GIS Interactivos
+- Exportación de capas en formato GeoJSON / GeoPackage y compilación de visualizadores cartográficos interactivos (Leaflet / HTML) con selector de capas de interferencias y cuadro de diagnóstico para el informe de Due Diligence.

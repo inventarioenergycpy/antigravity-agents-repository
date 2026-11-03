@@ -53,6 +53,14 @@ Todos los instrumentos legales definitivos, contratos marco, adendas y registros
 
 ---
 
+### 4. Marco de Due Diligence Legal & Permitting para Parques Renovables (Matriz RTB)
+- **Tierra y Servidumbres (Land & ROW)**: Contratos notariales $\ge 25-30$ años, Title Due Diligence y servidumbres de electroducto para la línea de evacuación (LAT).
+- **Permitting Vial & Municipal**: Permisos DNV para cruce de rutas nacionales, rutas concesionadas, licencias de construcción y certificado de uso de suelo.
+- **Licencia Ambiental Dual & Social**: DIA firme para planta y para LAT, dictamen INAI de comunidades étnicas, Convenio 169 OIT y no interferencia con ductos de hidrocarburos ni concesiones mineras.
+- **Interconexión CAMMESA**: Acuerdos de conexión, boletas de garantía bancaria de transporte y seguimiento de la Curva S.
+
+---
+
 ## 🔗 Referencias Cruzadas
 * [[00-Dashboard-MOC|Dashboard Principal MOC]]
 * `.agents/skills/asesor-legal-financiero/SKILL.md`

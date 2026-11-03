@@ -46,7 +46,7 @@ Integración arquitectónica y financiera entre el **Dashboard de Gestión de In
 11. **Canteras y Yacimiento de Mármol** (San Luis): USD 50M — Venta Directa.
 12. **Yacimiento de Oro en Producción 28 t/d** (San Juan): USD 100M - 200M — Socio Inversor para ampliación.
 13. **Yacimiento de Litio** (Catamarca): USD 11M — Venta (Exploración OK / Salmueras).
-14. **Proyecto Minero de Oro 'Mina San Antonio'** (Iglesia, San Juan): USD 25M - 50M — Venta / Socio Inversor (Concesión 2.708 ha, NI 43-101, leyes hasta 65,7 g/t Au, Oro Visible, Canon 2025 al día, Plan Art. 217 aprobado e IIA integrado).
+14. **Proyecto Minero de Oro 'Mina San Antonio'** (Iglesia, San Juan): USD 3.500M (USD 3.5B) — Venta / Socio Inversor (Concesión 2.708 ha, 35,68M Oz Au in-situ, NI 43-101, leyes hasta 65,7 g/t Au, Oro Visible, Canon 2025 al día, Plan Art. 217 aprobado e IIA integrado). (Concesión 2.708 ha, NI 43-101, leyes hasta 65,7 g/t Au, Oro Visible, Canon 2025 al día, Plan Art. 217 aprobado e IIA integrado).
 
 ### E. Petróleo, Gas & Infraestructura Downstream/Upstream (7 Proyectos)
 15. **Refipampa + Yacimiento Medanito (500 Pozos)** (La Pampa): USD 180M — Venta Integral (Dataroom Listo).

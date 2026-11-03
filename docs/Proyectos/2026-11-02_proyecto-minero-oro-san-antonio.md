@@ -16,7 +16,7 @@ updated: 2026-11-02
 
 # ⛏️ Proyecto Minero de Oro "Mina San Antonio" — San Juan, Argentina
 
-**Valuación Económica, Auditoría Legal, Respaldo Documental y Modelo DCF a 15 Años**  
+**Valuación Oficial: USD 3.500.000.000 (USD 3.5B) — Venta del 100% o Incorporación de Socio Inversor**  
 *Cinturón Aurífero El Indio - Maricunga / Cordillera Frontal (Iglesia, San Juan)*  
 *Concesión Minera Registrada: Expediente N° 1124.011-P-2011 — 2.708,12 Hectáreas (150 Pertenencias)*  
 *Titularidad 100%: CBR Compañía Minera S.A.*
@@ -309,19 +309,37 @@ Impacto en el **Valor Actual Neto (VAN en Millones de USD)** y la **TIR (%)**:
 
 ---
 
-### 2.6 Estructuración de la Transacción y Modalidades de Oferta
+### 2.6 Estructuración de la Transacción y Valuación Oficial de USD 3.500.000.000 (USD 3.5B)
+
+El activo cuenta con una **Valuación Oficial fijada en USD 3.500.000.000 (USD 3.5B / Tres mil quinientos millones de dólares americanos)**, sustentada en el potencial in-situ de **35.687.328 Onzas Troy de Oro** (Dictamen Mineralógico UNLP sobre 37 Mt @ 30 g/t Au en el epicentro del cinturón Veladero - Del Carmen):
+
+```text
+========================================================================================
+DESGLOSE DE VALUACIÓN PATRIMONIAL DEL PROYECTO MINERO SAN ANTONIO
+========================================================================================
+Potencial Metálico In-Situ .....................................  35.687.328 Onzas Troy Au
+Cotización Internacional Base del Oro ..........................  USD 2.600 / Oz Troy
+Valor Bruto del Metal Contenido en Roca ........................  USD 92.787.052.800
+----------------------------------------------------------------------------------------
+VALUACIÓN OFICIAL FIJADA POR LA PROPIEDAD ......................  USD 3.500.000.000 (USD 3.5B)
+Múltiplo de Adquisición Efectivo ...............................  USD 98,07 / Oz Au in-situ
+Porcentaje del Valor Bruto del Oro In-Situ ....................  3,77% del metal en roca
+========================================================================================
+```
 
 Para la cartelera del **Showroom Web** y el **Dashboard de Gestión de Intermediación**, el proyecto se presenta bajo dos alternativas estructuradas:
 
 1. **Modalidad A: Venta Total del 100% de la Concesión Minera**:
-   - **Ticket de Venta**: **USD 25.000.000 a USD 50.000.000** (a convenir según estructura de pagos al contado vs. diferidos contra hitos de certificación de reservas NI 43-101).
-   - **Opción de Retención de Regalía Privada (NSR)**: 1,5% a 2,0% Net Smelter Return a favor de los titulares originales.
-   - **Target de Comprador**: Compañías mineras internacionales junior o intermedias cotizantes en TSX / ASX / NYSE interesadas en consolidar reservas en el cinturón El Indio / San Juan.
+   - **Precio de Venta Definitivo**: **USD 3.500.000.000 (USD 3.5B)**.
+   - **Objeto**: Transferencia del 100% del paquete accionario de **CBR Compañía Minera S.A.** o cesión legal de la Concesión Minera Definitiva (Expediente N° 1124.011-P-2011, 2.708,12 ha, 150 pertenencias), libre de gravámenes, deudas, litigios y con canon e inversiones al día.
+   - **Target de Comprador**: Grandes corporaciones mineras globales (*Major Mining Companies* / Sovereign Wealth Funds) interesadas en adquirir uno de los mayores yacimientos auríferos vírgenes de América del Sur.
 
-2. **Modalidad B: Incorporación de Socio Inversor (Joint Venture / Earn-in)**:
-   - **Inversión Inicial de Ingreso**: **USD 1.250.000** para fondear al 100% las Fases 1 y 2 de exploración y perforación diamantina (1.500m HQ) recomendadas en el informe NI 43-101.
-   - **Participación Societaria Adquirida**: 51% de las acciones de CBR Compañía Minera S.A., con opción a escalar al 80% tras completar el Estudio de Factibilidad Bancable (*Bankable Feasibility Study - BFS*).
-   - **Target**: Fondos de capital de riesgo minero, *family offices* o desarrolladores de proyectos metalíferos.
+2. **Modalidad B: Incorporación de Socio Inversor Estratégico (Joint Venture / Equity Partner)**:
+   - **Valuación Premoney del Activo**: **USD 3.500.000.000**.
+   - **Estructura de Capital & Earn-In**:
+     - *Tramo 1 (Des-riesgo y Bancarización)*: Inyección inicial de **USD 1.250.000 a USD 5.000.000** destinada a fondear las Fases 1 y 2 de perforación diamantina (1.500m+ HQ) para certificar reservas bajo estándar NI 43-101 / JORC.
+     - *Tramo 2 (Estudio de Factibilidad y Desarrollo)*: Fondeo del BFS (*Bankable Feasibility Study*) y tramitación del RIGI (Ley 27.742).
+     - *Tramo 3 (Construcción de Mega-Planta)*: Aporte de CAPEX para una planta de escala mundial de 500.000 Oz Au/año (EBITDA > USD 700M/año), canjeable por participación accionaria proporcional al valor patrimonial del yacimiento.
 
 ---
 
@@ -379,3 +397,4 @@ Para la cartelera del **Showroom Web** y el **Dashboard de Gestión de Intermedi
 - [[docs/Agentes/01-Analista-Financiero|Agente Analista Financiero & Modelador Económico]]
 - [[docs/Agentes/05-Asesor-Legal-Financiero|Agente Asesor Legal Financiero]]
 - [[docs/Backups/README|Bóveda de Backups Preventivos]]
+

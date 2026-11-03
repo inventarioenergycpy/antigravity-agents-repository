@@ -58,3 +58,4 @@ tags:
 - [[00-Dashboard-MOC]]
 - [[docs/Proyectos/2026-11-02_proyecto-minero-oro-san-antonio]]
 - [[docs/Proyectos/2026-10-21_sincronizacion-cartera-inversiones-showroom-dashboard]]
+

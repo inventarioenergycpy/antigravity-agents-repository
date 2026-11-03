@@ -101,3 +101,4 @@ graph TD
 - **Instancia 1: QA Técnico & Algorítmico**: Cero inconsistencias en la matriz de 58 requisitos, validación sintáctica de diagramas Mermaid, coherencia técnica en estándares (IEC 62548, 62446, 61724, IEEE 1547/2800, CIRSOC 102/103).
 - **Instancia 2: QA de Dominio & Regulación**: Conformidad absoluta con Los Procedimientos de CAMMESA (Res. 281/330), reglamentación de la DNV para cruces de rutas, normativa ambiental provincial para DIAs duales, y marco legal de tierras (CCCN) y comunidades (Convenio 169 OIT / INAI).
 - **Instancia 3: QA de Usabilidad & UX**: Tablas ejecutivas de auditoría, vínculos bidireccionales en Obsidian (`[[...]]`), trazabilidad histórica y respaldos preventivos `.bak` asegurados.
+

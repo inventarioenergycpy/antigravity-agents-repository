@@ -31,7 +31,7 @@ Este repositorio es el **Hub Bóveda Central 100% dedicado** al almacenamiento d
 
 ---
 
-## 🤖 Catálogo de 12 Agentes Especialistas Disponibles
+## 🤖 Catálogo de 15 Agentes Especialistas Disponibles
 
 | # | Agente Especialista | Dominio y Enfoque | Entregables Principales | Vinculación |
 | :-: | :--- | :--- | :--- | :--- |
@@ -46,7 +46,10 @@ Este repositorio es el **Hub Bóveda Central 100% dedicado** al almacenamiento d
 | **9** | [Profesor Experto MEM](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/09-Profesor-Experto-Mercado-Electrico.md) | Cátedra avanzada MEM, CAMMESA, despacho económico, regulación BESS y renovables. | Rúbricas de posgrado, monografías académicas. | `inventarioenergycpy` |
 | **10** | [Alumno Auditor Académico](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/10-Alumno-Auditor-Academico.md) | Auditoría dialéctica de apuntes, resolución de exámenes y mejora continua. | Evaluaciones resueltas, notas complementarias. | `inventarioenergycpy` |
 | **11** | [Copiloto Orquestador](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/11-Copiloto-Orquestador-de-Skills.md) | Ranking Top-2 de modelos Gemini, despacho inteligente, PM del Squad Ágil y nuevas skills. | Enrutamiento adaptativo, WBS y mantenimiento del MOC. | Central |
-| **12** | [Especialista Facturación EPEC](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/12-Especialista-Facturacion-Reverse-Engineering.md) | Reverse engineering de facturación SIGEC (31 tablas), motor de cálculo JS puro, tributos (OIM, FODEP, ERSeP). | Repositorio `PROTELEM-EPEC/facturacion-reverse-engineering`. | `PROTELEM-EPEC` |
+| **12** | [Especialista Facturación EPEC](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/12-Especialista-Facturacion-Reverse-Engineering.md) | Reverse engineering de facturación SIGEC (31 tablas), motor de cálculo JS puro, tributos (OIM, FODEP, ERSeP). | Repositorio `PROTELEM-EPEC/facturacion-reverse-engineering`. | `PROTELEM-EPEC` |
+| **13** | [Desarrollador Parques Solares](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/13-Desarrollador-Parques-Solares-Renovables.md) | Auditoría RTB 58 ítems, PVSyst, interconexión MT/AT (33/132 kV), MATER/CAMMESA, RIGI. | Data Room Cutral Có II, repositorios solares dedicados. | `inventarioenergycpy` / `PROTELEM-EPEC` |
+| **14** | [Investigador de Talento Laboral](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/14-Investigador-Mercado-Laboral-Talento.md) | Diagnóstico integral de perfil, matriz FODA, macro-tendencias IA, salarios US/LATAM/AR, radar ATS. | Repositorio dedicado `career-market-intelligence`. | `inventarioenergycpy` |
+| **15** | [Experto en Bienes Raíces e Inversiones](file:///D:/Proyectos/antigravity-agents-repository/docs/Agentes/15-Experto-Inmobiliario-Bienes-Raices-Financiero.md) | Inteligencia inmobiliaria en Córdoba Capital e Interior, tasación CMA, escalamiento patrimonial (Trade-Up), DCF. | Repositorio dedicado `real-estate-investment-intelligence`. | `inventarioenergycpy` |
 
 ---
 
@@ -71,7 +74,7 @@ antigravity-agents-repository/
 │   ├── Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md # Protocolo rector Squad Adaptativo Top-2 y Triple QA
 │   ├── Protocolo-Sincronizacion-Obsidian-GitHub.md
 │   ├── Protocolo-Sincronizacion-Red-PROTELEM.md
-│   ├── Agentes/                            # Fichas técnicas de los 12 agentes
+│   ├── Agentes/                            # Fichas técnicas de los 15 agentes
 │   ├── Proyectos/                          # Registro e índice de proyectos en repositorios dedicados
 │   ├── PROTELEM/                           # Documentación unificada de la organización EPEC
 │   ├── Cursos/                             # Bóveda de diplomaturas y material académico

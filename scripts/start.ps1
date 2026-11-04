@@ -73,7 +73,7 @@ function Show-SquadInfo {
     Write-Host " • Snapshot SMB Red \\srvfs01: Delta Cache no bloqueante (tiempo red = 0 ms)" -ForegroundColor Green
     Write-Host " • Protocolo Rector     : docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md" -ForegroundColor Gray
     Write-Host " ----------------------------------------------------------------------" -ForegroundColor Gray
-    Write-Host " 12 Agentes Especialistas disponibles en .agents/skills/ y docs/Agentes/" -ForegroundColor Yellow
+    Write-Host " 15 Agentes Especialistas disponibles en .agents/skills/ y docs/Agentes/" -ForegroundColor Yellow
 }
 
 function Copy-PromptInicio {

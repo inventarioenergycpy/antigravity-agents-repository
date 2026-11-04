@@ -1,66 +1,76 @@
-# 📋 Prompt Maestro de Inicio Rápido Dinámico Multi-PC (Antigravity IDE)
-
-> **Instrucciones**: Copie el bloque de texto dentro de la caja de código a continuación y péguelo en el chat de **Antigravity IDE** cada vez que inicie una nueva sesión de trabajo desde cero en cualquier computadora.
-
-```text
-Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a mi repositorio estructurado de agentes.
-
-📌 DATOS DE MI CUENTA Y REPOSITORIO CENTRAL:
-- Cuenta de GitHub Principal: inventarioenergycpy
-- Organización de Proyectos EPEC: PROTELEM-EPEC (https://github.com/PROTELEM-EPEC) y repositorios satélites en protelemepec-coder
-- Email de contacto / Google Drive: inventario.energycpy@gmail.com
-- Repositorio GitHub Central: https://github.com/inventarioenergycpy/antigravity-agents-repository.git
-- Workspace Local Objetivo: Detectar dinámicamente la ruta activa en el sistema. Puede ubicarse en 'D:\Proyectos\antigravity-agents-repository', en el scratchpad de Gemini ('%USERPROFILE%\.gemini\antigravity-ide\scratch\antigravity-agents-repository'), o enlazado mediante Junctions/Symlinks en cualquier otra partición o disco del sistema (ej. D:\, C:\).
-
-⚙️ PASOS DE INICIALIZACIÓN Y CONFIGURACIÓN AUTOMÁTICA DINÁMICA:
-
-1. Detección y Sincronización Git:
-   - Identifica el espacio de trabajo actual o busca la carpeta local 'antigravity-agents-repository' (verificando tanto en 'D:\Proyectos\', en el workspace abierto en el IDE, como en las rutas de '.gemini' o scratchpads en los discos disponibles).
-   - Si NO existe localmente en ninguna de las ubicaciones anteriores, clónalo con 'git clone https://github.com/inventarioenergycpy/antigravity-agents-repository.git' en la carpeta de proyectos activa (priorizando el disco D:\ o el workspace actual).
-   - Si YA existe, navega a su directorio y ejecuta 'git pull origin master' para sincronizar la última versión de agentes, habilidades, backups y notas de Obsidian.
-
-2. Escaneo Dinámico del Repositorio y Ranking de Modelos Gemini (Auto-Discovery):
-   - Lee las directivas globales en '.agents/AGENTS.md' (incluyendo el Protocolo SMB de Mínima Interferencia y el Protocolo de Consultas a Bases de Datos con Pacing/Throttling obligatorio).
-   - Realiza un escaneo completo de la carpeta '.agents/skills/' leyendo el 'SKILL.md' de cada habilidad instalada.
-   - Revisa 'docs/Agentes/' y 'docs/00-Dashboard-MOC.md' para identificar todos los perfiles activos (12 agentes especialistas) y protocolos maestros.
-   - Revisa el protocolo rector 'docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md' (Squad Adaptativo de 4 agentes con Selección Dinámica Top-2 de Modelos Gemini y Triple QA).
-   - Analiza cuáles son los modelos de Gemini disponibles en el entorno en su configuración más alta, ordénalos del mejor al peor (M1 > M2 > ... > Mn) y toma los dos mejores para preparar la estructura del Squad (Top-1 para el PM y Top-2 para los 3 Operadores).
-   - Revisa 'docs/Proyectos/' y 'docs/PROTELEM/00-Indice-PROTELEM-EPEC.md' para reconocer los proyectos desarrollados en repositorios dedicados de 'inventarioenergycpy' y 'PROTELEM-EPEC'.
-
-3. Política de Almacenamiento y Repositorios Dedicados:
-   - Repositorio Central (antigravity-agents-repository): 100% exclusivo para documentación, habilidades (.agents/skills/), respaldos (.bak en docs/Backups/) y Bóveda Obsidian (docs/).
-   - Flexibilidad de Almacenamiento Local: El entorno '.gemini', extensiones y scratchpads pueden estar reubicados o enlazados entre discos (ej. 'D:\Proyectos\', 'D:\Usuarios\...'). Respeta siempre la unidad y ruta física donde resida el workspace.
-   - Google Workspace (Docs, Slides, Sheets): Almacenados en Google Drive de 'inventario.energycpy@gmail.com'.
-   - Soluciones y Entregables Locales (Power BI .pbip, scripts Python, SQL): Carpeta de Descargas (%USERPROFILE%\Downloads) o directorio asignado del proyecto.
-   - Proyectos Independientes (Web Showrooms, Pipelines de Datos, Apps Financieras, Soluciones EPEC):
-     • Repositorios dedicados en GitHub bajo 'inventarioenergycpy/<nombre-proyecto>.git'.
-     • Repositorios dedicados en GitHub bajo la organización 'PROTELEM-EPEC/<nombre-proyecto>.git' (ej. 'facturacion-reverse-engineering' y 'demo-dashboard') o en 'protelemepec-coder' (ej. 'adelat-cier-benchmarking', 'sigec-ruta-nueva-catastro-georef', 'asesoramiento-parque-solar-fotovoltaico').
-     • Ficha técnica cruzada en 'docs/Proyectos/' o 'docs/PROTELEM/00-Indice-PROTELEM-EPEC.md'.
-
-4. Metodología Obligatoria en 6 Etapas & Protocolo de Triple QA:
-   - Toda tarea o desarrollo seguirá estrictamente:
-     • Fase 1: Investigación en Fuentes Confiables y Verídicas.
-     • Fase 2: Diseño Pre-Implementación & Análisis de Tesis.
-     • Fase 3: Diagramación de Etapas & Pruebas Parciales.
-     • Fase 4: Presentación de Prueba Piloto (Sujeta a Aprobación del Usuario).
-     • Fase 5: Pruebas sobre el Modelo Final Implementado.
-     • Fase 6: Auto-Documentación, Backup Preventivo (.bak en docs/Backups/) e Histórico en Obsidian (docs/Historial-Mejoras/).
-   - Validación Obligatoria en 3 Instancias de QA (Multi-Perspective QA) antes de entregar cualquier resultado:
-     • Instancia 1: QA Técnico & Algorítmico (cero errores runtime, tests deterministas, protocolo snapshot SMB y pacing en consultas a base de datos con retardo obligatorio >= 300ms a 1000ms).
-     • Instancia 2: QA de Negocio, Dominio & Regulación (conformidad con SIGEC, tarifas EPEC, CCCN, CAMMESA).
-     • Instancia 3: QA de Usabilidad, Replicabilidad & UX (diseño de tablas, enlaces funcionales, respaldo verificado).
-
-5. Generación Dinámica del Menú de Trabajo:
-   - Construye y preséntame el Menú de Selección interactivo estructurado de forma dinámica, listando:
-     a) Squad Ágil Multi-Agente Adaptativo: Muestra el ranking ordenado (de mejor a peor en su configuración más alta) de los modelos Gemini detectados y presenta la opción de activar el equipo de 4 con los dos mejores (PM en Top-1 + 3 Operadores en Top-2) configurados según el arquetipo del proyecto (A: GIS/Catastro, B: Facturación SIGEC, C: Finanzas/Showroom, D: Académico/MEM).
-     b) Todos los Agentes Especialistas descubiertos en '.agents/skills/' (1 al 12: Analista Financiero, Ciencia de Datos & GIS, Desarrollador Web, Planificador AI, Asesor Legal, Arquitecto EPEC, Procesador YouTube, Transcriptor Audiovisual, Profesor MEM, Alumno Auditor, Copiloto Orquestador, Especialista Facturación EPEC).
-     c) Las Acciones Operativas del Sistema:
-        - [A] Agregar / Actualizar Nuevos Proyectos en Repositorios Dedicados (inventarioenergycpy o PROTELEM-EPEC)
-        - [B] Registrar / Guardar Mejoras Confirmadas (Auto-Documentación + Backup Preventivo .bak)
-        - [C] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
-        - [D] Crear y Configurar un Nuevo Perfil de Agente Futuro
-        - [E] Sincronizar Proyectos y Repositorios PROTELEM-EPEC (Red \\srvfs01 y upstream GitHub)
-        - [F] Ver el menú de inicio rápido para actualizar las opciones a mostrar.
-
-Dime cuando la inicialización y el escaneo estén completos y presenta el menú dinámico para que elija con qué agente o acción trabajar.
-```
+# 📋 Prompt Maestro de Inicio Rápido Dinámico Multi-PC (Antigravity IDE)
+
+> **Instrucciones**: Copie el bloque de texto dentro de la caja de código a continuación y péguelo en el chat de **Antigravity IDE** cada vez que inicie una nueva sesión de trabajo desde cero en cualquier computadora.
+
+```text
+Hola Antigravity. Deseo iniciar mi sesión de trabajo desde cero vinculándome a mi repositorio estructurado de agentes.
+
+📌 DATOS DE MI CUENTA Y REPOSITORIO CENTRAL:
+- Cuenta de GitHub Principal: inventarioenergycpy
+- Organización de Proyectos EPEC: PROTELEM-EPEC (https://github.com/PROTELEM-EPEC) y repositorios satélites en protelemepec-coder
+- Email de contacto / Google Drive: inventario.energycpy@gmail.com
+- Repositorio GitHub Central: https://github.com/inventarioenergycpy/antigravity-agents-repository.git
+- Workspace Local Objetivo: Detectar dinámicamente la ruta activa en el sistema. Puede ubicarse en 'D:\Proyectos\antigravity-agents-repository', en 'C:\Users\majon\.gemini\antigravity-ide\Proyectos\antigravity-agents-repository' (en entornos sin partición D:), en el scratchpad de Gemini ('%USERPROFILE%\.gemini\antigravity-ide\scratch\antigravity-agents-repository'), o enlazado mediante Junctions/Symlinks en cualquier otra partición o disco del sistema.
+
+⚙️ PASOS DE INICIALIZACIÓN Y CONFIGURACIÓN AUTOMÁTICA DINÁMICA:
+
+1. Detección y Sincronización Git:
+   - Identifica el espacio de trabajo actual o busca la carpeta local 'antigravity-agents-repository' (verificando tanto en 'D:\Proyectos\', en 'C:\Users\majon\.gemini\antigravity-ide\Proyectos\', en el workspace abierto en el IDE, como en las rutas de '.gemini' o scratchpads en los discos disponibles).
+   - Si NO existe localmente en ninguna de las ubicaciones anteriores, clónalo con 'git clone https://github.com/inventarioenergycpy/antigravity-agents-repository.git' en la carpeta de proyectos activa (priorizando 'D:\Proyectos\' o 'C:\Users\majon\.gemini\antigravity-ide\Proyectos\').
+   - Si YA existe, navega a su directorio y ejecuta 'git pull origin master' para sincronizar la última versión de agentes, habilidades, backups y notas de Obsidian.
+
+2. Auditoría de Organización de la PC y Validación de Credenciales Git (Health Check):
+   - Estructura de Proyectos y Particiones: Controlar si la PC donde se ejecuta la sesión está correctamente estructurada (verificar unidades disponibles; si no existe D:\, comprobar que la carpeta unificada de proyectos resida en '%USERPROFILE%\.gemini\antigravity-ide\Proyectos\' con sus Junctions hacia los repositorios satélites).
+   - Espacio en Disco: Verificar espacio libre en la unidad del sistema (alertar si es inferior a 20 GB).
+   - Entorno Python y Toolchain: Verificar existencia y operatividad del entorno virtual '.venv' y de las librerías críticas para los squads (pandas, geopandas, shapely, pvlib, duckdb, matplotlib, scipy, openpyxl, requests, pymupdf), así como Git y Node.js/npm.
+   - Vigencia del Token Classic de GitHub: Comprobar que el token clásico almacenado en '.env' o en Git Credential Manager esté vigente y activo contra la API de GitHub (https://api.github.com/user) con permisos válidos para 'inventarioenergycpy' y 'PROTELEM-EPEC'.
+
+3. Escaneo Dinámico del Repositorio y Ranking de Modelos Gemini (Auto-Discovery):
+   - Lee las directivas globales en '.agents/AGENTS.md' (incluyendo el Protocolo SMB de Mínima Interferencia y el Protocolo de Consultas a Bases de Datos con Pacing/Throttling obligatorio de 300ms a 1000ms).
+   - Realiza un escaneo completo de la carpeta '.agents/skills/' leyendo el 'SKILL.md' de cada habilidad instalada.
+   - Revisa 'docs/Agentes/' y 'docs/00-Dashboard-MOC.md' para identificar todos los perfiles activos (1 al 15) y protocolos maestros.
+   - Revisa el protocolo rector 'docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md' (Squad Adaptativo de 4 agentes con Selección Dinámica Top-2 de Modelos Gemini y Triple QA).
+   - Analiza cuáles son los modelos de Gemini disponibles en el entorno en su configuración más alta, ordénalos del mejor al peor (M1 > M2 > ... > Mn) y toma los dos mejores para preparar la estructura del Squad (Top-1 para el PM y Top-2 para los 3 Operadores).
+   - Revisa 'docs/Proyectos/' y 'docs/PROTELEM/00-Indice-PROTELEM-EPEC.md' para reconocer los proyectos desarrollados en repositorios dedicados de 'inventarioenergycpy' y 'PROTELEM-EPEC'.
+
+4. Política de Almacenamiento y Repositorios Dedicados:
+   - Repositorio Central (antigravity-agents-repository): 100% exclusivo para documentación, habilidades (.agents/skills/), respaldos (.bak en docs/Backups/) y Bóveda Obsidian (docs/). Cero binarios pesados o datasets crudos.
+   - Flexibilidad de Almacenamiento Local: Respeta siempre la unidad y ruta física donde resida el workspace (D:\, C:\Users\majon\.gemini\antigravity-ide\Proyectos\, etc.).
+   - Google Workspace (Docs, Slides, Sheets): Almacenados en Google Drive de 'inventario.energycpy@gmail.com'.
+   - Soluciones y Entregables Locales (Power BI .pbip, scripts Python, Data Rooms): Carpeta de Descargas (%USERPROFILE%\Downloads) o directorio asignado del proyecto.
+   - Proyectos Independientes (Web Showrooms, Pipelines de Datos, Apps Financieras, Soluciones EPEC, Minería, Real Estate, Renovables, Talento):
+     • Repositorios dedicados en GitHub bajo 'inventarioenergycpy/<nombre-proyecto>.git' (ej. 'real-estate-investment-intelligence', 'career-market-intelligence', 'showroom-energycpy', 'dashboard-gestion-intermediacion', 'proyecto-pistacho-alcaparra-neuquen').
+     • Repositorios dedicados en GitHub bajo la organización 'PROTELEM-EPEC/<nombre-proyecto>.git' (ej. 'facturacion-reverse-engineering', 'demo-dashboard', 'relevamiento-alumbrado-publico-medidores', 'auditoria-relevamiento-conectar') o en 'protelemepec-coder' (ej. 'adelat-cier-benchmarking', 'sigec-ruta-nueva-catastro-georef', 'asesoramiento-parque-solar-fotovoltaico').
+     • Ficha técnica cruzada en 'docs/Proyectos/' o 'docs/PROTELEM/00-Indice-PROTELEM-EPEC.md'.
+
+5. Metodología Obligatoria en 6 Etapas & Protocolo de Triple QA:
+   - Toda tarea o desarrollo seguirá estrictamente:
+     • Fase 1: Investigación en Fuentes Confiables y Verídicas.
+     • Fase 2: Diseño Pre-Implementación & Análisis de Tesis.
+     • Fase 3: Diagramación de Etapas & Pruebas Parciales.
+     • Fase 4: Presentación de Prueba Piloto (Sujeta a Aprobación del Usuario).
+     • Fase 5: Pruebas sobre el Modelo Final Implementado.
+     • Fase 6: Auto-Documentación, Backup Preventivo (.bak en docs/Backups/) e Histórico en Obsidian (docs/Historial-Mejoras/).
+   - Validación Obligatoria en 3 Instancias de QA (Multi-Perspective QA) antes de entregar cualquier resultado:
+     • Instancia 1: QA Técnico & Algorítmico (cero errores runtime, tests deterministas, protocolo snapshot SMB y pacing en consultas a base de datos con retardo obligatorio >= 300ms a 1000ms).
+     • Instancia 2: QA de Negocio, Dominio & Regulación (conformidad con SIGEC, tarifas EPEC, CCCN, CAMMESA, CPI Ley 9445, estándares IEC/IEEE).
+     • Instancia 3: QA de Usabilidad, Replicabilidad & UX (diseño de tablas, enlaces funcionales, respaldo verificado).
+
+6. Generación Dinámica del Menú de Trabajo y Sección Final de Alertas y Diagnóstico:
+   - Construye y preséntame el Menú de Selección interactivo estructurado de forma dinámica, listando:
+     a) Squad Ágil Multi-Agente Adaptativo: Muestra el ranking ordenado (de mejor a peor en su configuración más alta) de los modelos Gemini detectados y presenta la opción de activar el equipo de 4 con los dos mejores (PM en Top-1 + 3 Operadores en Top-2) configurados según el arquetipo del proyecto (A: GIS/Catastro, B: Facturación SIGEC, C: Finanzas/Showroom, D: Renovables/Due Diligence RTB, E: Académico/MEM).
+     b) Todos los Agentes Especialistas descubiertos en '.agents/skills/' (1 al 15: Analista Financiero, Ciencia de Datos & GIS, Desarrollador Web, Planificador AI, Asesor Legal, Arquitecto EPEC, Procesador YouTube, Transcriptor Audiovisual, Profesor MEM, Alumno Auditor, Copiloto Orquestador, Especialista Facturación EPEC, Desarrollador Parques Solares y Renovables, Investigador Talento y Mercado Laboral, Experto en Bienes Raíces e Inversiones Inmobiliarias).
+     c) Las Acciones Operativas del Sistema:
+        - [A] Agregar / Actualizar Nuevos Proyectos en Repositorios Dedicados (inventarioenergycpy o PROTELEM-EPEC)
+        - [B] Registrar / Guardar Mejoras Confirmadas (Auto-Documentación + Backup Preventivo .bak)
+        - [C] Ejecutar Rollback / Reversión a una Versión Anterior desde Backup
+        - [D] Crear y Configurar un Nuevo Perfil de Agente Futuro
+        - [E] Sincronizar Proyectos y Repositorios PROTELEM-EPEC (Red \\srvfs01 y upstream GitHub)
+        - [F] Ver el menú de inicio rápido para actualizar las opciones a mostrar.
+   - Bloque de Alertas y Diagnóstico de la PC (Obligatorio al final de la salida):
+     • Presenta un cuadro resumen con el semáforo de estado de la PC (Unidades, Espacio Libre en Disco, Estado de la Carpeta de Proyectos, Entorno .venv/librerías y Vigencia del Token de GitHub).
+     • Destaca claramente cualquier alerta detectada (ej. token próximo a vencer, espacio en disco < 20 GB, librerías pendientes o repositorios desalineados).
+     • Incluye una explicación ejecutiva de por qué conviene tener la PC correctamente estructurada antes de continuar (garantizar que ningún script de simulación o GIS falle por dependencias rotas, evitar interrupciones o bloqueos en push/commits automáticos por credenciales inválidas, prevenir saturación de disco durante descargas pesadas de Data Rooms, y resguardar la pulcritud de la bóveda central de Obsidian).
+
+Dime cuando la inicialización, la auditoría de la PC y el escaneo estén completos y presenta el menú dinámico junto con el bloque de alertas para que elija con qué agente o acción trabajar.
+```

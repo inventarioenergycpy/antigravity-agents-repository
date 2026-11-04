@@ -6,3 +6,4 @@ if exist "%VENV_ACTIVATE%" (
 ) else (
     echo [ERROR] No se encontro el entorno virtual en %VENV_ACTIVATE%
 )
+

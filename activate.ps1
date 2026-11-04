@@ -7,3 +7,4 @@ if (Test-Path $venvActivate) {
 } else {
     Write-Warning "No se encontró el entorno virtual en $venvActivate"
 }
+

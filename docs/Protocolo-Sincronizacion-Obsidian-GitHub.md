@@ -169,7 +169,7 @@ python -c "import os, json, hashlib, time; repo=os.path.abspath('.'); appdata=os
 1. **Error de Rutas Largas en Windows (`Filename too long`)**:
    - Solución: Ejecutar `git config core.longpaths true` en la raíz del repositorio.
 2. **Aislamiento Multi-Cuenta en Git Credential Manager (GCM)**:
-   - Se configuró `git config --global credential.useHttpPath true` para aislar las credenciales por URL completa.
+   - Se configuró aislamiento multi-cuenta mediante git config --local credential.username <usuario> y claves diferenciadas en Windows Credential Manager (git:https://<usuario>@github.com).
    - Cuenta 1 (`inventarioenergycpy`): Remoto `https://inventarioenergycpy@github.com/...` con token clásico registrado en Windows Credential Manager (`git:https://inventarioenergycpy@github.com`).
    - Cuenta 2 (`jidiazepec`): Remoto `https://jidiazepec@github.com/...` con identidad aislada (`user.name = jidiazepec`, `user.email = jidiaz@epec.com.ar`) en `C:\projets_vs` y `App_Central_Bicentenario`.
 3. **Conflictos de Fusión**:

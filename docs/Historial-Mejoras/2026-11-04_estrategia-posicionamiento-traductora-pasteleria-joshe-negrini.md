@@ -34,3 +34,4 @@ Se desarrolló un análisis estratégico profundo de oferta laboral y posicionam
 - **QA 1: Técnico & Algorítmico**: Verificación de consistencia en rangos de tarifas de mercado (datos contrastados de ProZ y Upwork), conversiones de unidades culinarias ($^\circ\text{F}$ a $^\circ\text{C}$, tazas a gramos) y sintaxis de diagramas Mermaid.
 - **QA 2: Dominio & Negocio**: Análisis de mercado de servicios lingüísticos (LSP), nicho de transcreación publicitaria de alimentos, regulaciones de etiquetado y viabilidad de cobro en USD desde Argentina.
 - **QA 3: Usabilidad & UX**: Propuesta de textos listos para copiar y pegar en LinkedIn (titular, extracto y micro-portfolio) con presentación limpia y ejecutiva.
+

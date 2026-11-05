@@ -93,3 +93,4 @@ graph LR
 - **Fase de Madurez (Mes 7 en adelante)**:
   - Contratos fijos de localización + traducción de libros o cursos completos.
   - Facturación estimada: **\$2.000 a \$3.500+ USD/mes** trabajando a distancia desde Argentina.
+

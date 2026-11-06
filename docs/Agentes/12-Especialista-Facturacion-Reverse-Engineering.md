@@ -81,6 +81,12 @@ graph TD
    - Modelado exacto del mes comercial de 30 días y transiciones entre resoluciones tarifarias del ERSeP.
 4. **Desglose Impositivo Integral**:
    - Determinación de quién cobra qué en la factura, base legal aplicable y porcentaje de incidencia sobre la energía neta.
+5. **Auditoría de Convenios Interinstitucionales y Alumbrado Público (Vialidad Provincial - EPEC - Cooperativas)**:
+   - **Mapeo de Suministros y Contratos de Peaje**: Desdoblamiento y vinculación de suministros mayores de electrificación rural en cooperativas (`xxsigec.servicios`, `xxsigec.contratos`).
+   - **Normalización Impositiva OIM (Ordenanza Impositiva Municipal)**: Concatenación y verificación de alícuotas del OIM (`xxsigec.impuestos_localidad.oim_porcentaje`) cruzando obligatoriamente:
+     $$\text{contratos.agf\_codigo\_oim} = \text{impuestos\_localidad.agf\_codigo} \quad \text{y} \quad \text{contratos.oim\_tipo} = \text{impuestos\_localidad.oim\_tipo}$$
+     garantizando la exacta liquidación tributaria municipal conforme a las ordenanzas tarifarias locales vigentes.
+   - **Estandarización de Domicilios y Dependencias Comerciales**: Composición determinista de domicilios normalizados (`srv_calle` + `srv_nro` / `srv_direccion`) y asignación de sucursales comerciales (`scf_descripcion`).
 
 ---
 

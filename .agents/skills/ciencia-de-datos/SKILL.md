@@ -63,6 +63,17 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - **Grafo Topológico Vial y Espacial**: La asignación de rutas debe construirse mediante algoritmos de agrupamiento conexo que evalúen la capa WFS provincial (`vm_manzanas_calles_new`) y las calles de los suministros, maximizando la cantidad de calles internas perimetrales compartidas entre manzanas de la misma ruta para permitir el barrido de ambas aceras de forma continua.
    - **Código de Trazabilidad Catastral Enriquecido (`CTC-GEO`)**: Los padrones deben incorporar atributos geocodificados: centroide lat/lon, cuadrante geográfico (`GEO_QUAD`), calles perimetrales, listado y conteo de calles compartidas en ruta, y orden secuencial peatonal.
 
+8. **Georreferenciación de Infraestructura Vial e Interoperabilidad IDECOR (WFS)**:
+   - **Capas Viales y Radios Urbanos Provinciales**:
+     - Conexión y consulta optimizada al geoservicio WFS de IDECOR (`https://idecor-ws.mapascordoba.gob.ar/geoserver/wfs`):
+       - `idecor:radios_urbanos`: Polígonos de límites de radios y ejidos urbanos/pretendidos oficiales de Municipios y Comunas (EPSG:4326 / EPSG:22174).
+       - `idecor:red_vial_provincial`: 27.984 tramos viales de la Dirección Provincial de Vialidad (DPV), incluyendo rutas primarias (`RP`), secundarias (`S`), terciarias (`T`) y derivadores.
+       - `idecor:red_vial_nacional`: 4.161 tramos viales de Vialidad Nacional (DNV), incluyendo autopistas (`AU`), autovías y rutas troncales (`RN9`, `RN19`, `RN7`, `RN36`).
+   - **Análisis Topológico Espacial Avanzado**:
+     - Cálculo de kilometraje de traza vial intramuros (`muni_poly.intersection(route_geom).length * factor_escala`).
+     - Detección de proximidad y derivadores periurbanos (`muni_poly.distance(route_geom)`) para clasificar accesos ruteros inmediatos (< 2 km a 5 km).
+     - Homologación geométrica de puntos de intersección de rutas (`Point-in-Polygon` con Shapely/GeoPandas) para asignación inequívoca de jurisdicciones municipales/comunales en convenios de alumbrado público e infraestructura de servicios.
+
 ---
 
 ## 📂 Estructura de Repositorios Dedicados (GIS / Catastro / Power BI)

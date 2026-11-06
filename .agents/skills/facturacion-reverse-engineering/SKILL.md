@@ -87,6 +87,12 @@ graph TD
    - Determinación precisa de bases imponibles y alícuotas de las 124 municipalidades de Córdoba, fondos provinciales (FODEP) y resoluciones ERSeP.
 4. **Análisis de Sensibilidad y Salto de Escalas**:
    - Identificación del costo marginal del próximo kWh y detección del umbral de escalón de cascada tarifaria.
+5. **Auditoría de Convenios Interinstitucionales y Alumbrado Público (Vialidad Provincial - EPEC - Cooperativas)**:
+   - **Mapeo de Suministros y Contratos de Peaje**: Desdoblamiento y vinculación de suministros mayores de electrificación rural en cooperativas (`xxsigec.servicios`, `xxsigec.contratos`).
+   - **Normalización Impositiva OIM (Ordenanza Impositiva Municipal)**: Concatenación y verificación de alícuotas del OIM (`xxsigec.impuestos_localidad.oim_porcentaje`) cruzando obligatoriamente:
+     $$\text{contratos.agf\_codigo\_oim} = \text{impuestos\_localidad.agf\_codigo} \quad \text{y} \quad \text{contratos.oim\_tipo} = \text{impuestos\_localidad.oim\_tipo}$$
+     garantizando la exacta liquidación tributaria municipal conforme a las ordenanzas tarifarias locales vigentes.
+   - **Estandarización de Domicilios y Dependencias Comerciales**: Composición determinista de domicilios normalizados (`srv_calle` + `srv_nro` / `srv_direccion`) y asignación de sucursales comerciales (`scf_descripcion`).
 
 ---
 

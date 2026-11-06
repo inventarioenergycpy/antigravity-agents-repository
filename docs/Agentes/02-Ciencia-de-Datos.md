@@ -63,6 +63,17 @@ Este agente está diseñado para el análisis masivo de datos, procesamiento dis
    - **Maximización de Ejes Viales Internos**: Priorización topológica de manzanas que comparten calles perimetrales para que el tomador de estado cubra ambas aceras de forma continua, erradicando saltos espaciales y rutas fragmentadas.
    - **Código de Trazabilidad Catastral Enriquecido (`CTC-GEO`)**: Estructuración del identificador jerárquico `1-{GRUPO}-{MZA_WFS}-{PARC}-{GEO_QUAD}` junto a métricas explícitas de geoposición (centroide, cuadrante espacial), catálogo de calles compartidas en ruta y orden de lectura sugerido.
 
+8. **Georreferenciación de Infraestructura Vial e Interoperabilidad IDECOR (WFS)**:
+   - **Capas Viales y Radios Urbanos Provinciales**:
+     - Conexión y consulta optimizada al geoservicio WFS de IDECOR (`https://idecor-ws.mapascordoba.gob.ar/geoserver/wfs`):
+       - `idecor:radios_urbanos`: Polígonos de límites de radios y ejidos urbanos/pretendidos oficiales de Municipios y Comunas (EPSG:4326 / EPSG:22174).
+       - `idecor:red_vial_provincial`: 27.984 tramos viales de la Dirección Provincial de Vialidad (DPV), incluyendo rutas primarias (`RP`), secundarias (`S`), terciarias (`T`) y derivadores.
+       - `idecor:red_vial_nacional`: 4.161 tramos viales de Vialidad Nacional (DNV), incluyendo autopistas (`AU`), autovías y rutas troncales (`RN9`, `RN19`, `RN7`, `RN36`).
+   - **Análisis Topológico Espacial Avanzado**:
+     - Cálculo de kilometraje de traza vial intramuros (`muni_poly.intersection(route_geom).length * factor_escala`).
+     - Detección de proximidad y derivadores periurbanos (`muni_poly.distance(route_geom)`) para clasificar accesos ruteros inmediatos (< 2 km a 5 km).
+     - Homologación geométrica de puntos de intersección de rutas (`Point-in-Polygon` con Shapely/GeoPandas) para asignación inequívoca de jurisdicciones municipales/comunales en convenios de alumbrado público e infraestructura de servicios.
+
 ---
 
 ## 📂 Estructura de Repositorios Dedicados (GIS / Catastro / Power BI)

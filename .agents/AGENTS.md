@@ -62,7 +62,7 @@ Cuando el usuario apruebe o solicite guardar una mejora (ej. *"guarda esta mejor
 Cada vez que un agente desarrolle un nuevo proyecto (página web showroom, aplicación de análisis de datos, modelo financiero dinámico u otro sistema) cuya naturaleza sea distinta a los anteriores:
 
 1. **Parametrización del Nuevo Repositorio**:
-   - Inicializar una nueva carpeta local independiente (ej. D:\Proyectos\<nombre-proyecto> o en el scratchpad del disco activo).
+   - Inicializar una nueva carpeta local independiente (ej. D:\Proyectos\<nombre-proyecto>, en C:\Users\majon\.gemini\antigravity-ide\Proyectos\<nombre-proyecto> en entornos sin disco D:, o en el scratchpad del disco activo).
    - Crear y vincular el repositorio remoto en GitHub bajo la organización que corresponda:
      - https://github.com/inventarioenergycpy/<nombre-proyecto-kebab-case>.git (Proyectos generales, financieros, showrooms y ciencia de datos).
      - https://github.com/PROTELEM-EPEC/<nombre-proyecto-kebab-case>.git o protelemepec-coder (Proyectos específicos de EPEC, Facturación SIGEC, Dashboards Comerciales y Telemedición).

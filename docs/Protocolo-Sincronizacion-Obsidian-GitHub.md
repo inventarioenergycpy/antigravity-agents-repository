@@ -18,45 +18,63 @@ Este documento formaliza el protocolo técnico, las configuraciones realizadas y
 
 ---
 
-## 📌 1. Arquitectura de Integración y Almacenamiento
+## 📌 1. Arquitectura de Integración Multi-Bóveda y Doble Cuenta GitHub
 
-La integración opera en dos niveles complementarios:
+La integración opera bajo un esquema multi-bóveda con sincronización paralela y aislamiento estricto de credenciales en Git Credential Manager:
 
 ```mermaid
 graph TD
-    subgraph Local["Entorno Local (Windows)"]
-        ObsidianApp["Obsidian Desktop App"]
-        GlobalConfig["%APPDATA%\\obsidian\\obsidian.json\n(Registro de Bóveda Activa)"]
-        RepoLocal["Repositorio Local:\nantigravity-agents-repository\n(Raíz = Bóveda Obsidian)"]
-        PluginGit[".obsidian/plugins/obsidian-git/\n(Motor de Sincronización Nativo)"]
-        VaultDocs["docs/ (Notas, Cursos, Backups, Historial)"]
-    end
-
-    subgraph Remoto["Nube (GitHub)"]
-        RepoGitHub["inventarioenergycpy/\nantigravity-agents-repository.git\n(Rama: master)"]
-    end
-
+    ObsidianApp["💎 Obsidian Desktop App\n(Multi-Vault Switcher)"]
+    GlobalConfig["⚙️ %APPDATA%\\obsidian\\obsidian.json\n(Registro de Ambas Bóvedas)"]
     ObsidianApp --> GlobalConfig
-    GlobalConfig --> RepoLocal
-    RepoLocal --> PluginGit
-    RepoLocal --> VaultDocs
-    PluginGit <-->|"Auto-Pull / Auto-Push (10 min)\n+ Comandos Ctrl+P"| RepoGitHub
+
+    subgraph Vault1["📂 Bóveda 1: Hub Central de Agentes (inventarioenergycpy)"]
+        Repo1["C:\\Users\\majon\\.gemini\\antigravity-ide\\scratch\\antigravity-agents-repository\n(Junction: Proyectos\\antigravity-agents-repository)"]
+        PluginGit1[".obsidian/plugins/obsidian-git/\n(Auto-Pull / Auto-Push 10 min)"]
+        Docs1["docs/ (15 Agentes, MOCs, Cursos, PROTELEM, Backups)"]
+        Repo1 --> PluginGit1
+        Repo1 --> Docs1
+    end
+
+    subgraph Vault2["📁 Bóveda 2: Centro de Proyectos (jidiazepec / PROTELEM)"]
+        Repo2["C:\\projets_vs\n(Junction: Proyectos\\projets_vs)"]
+        PluginGit2[".obsidian/plugins/obsidian-git/\n(Auto-Pull / Auto-Push 10 min)"]
+        Docs2["agentes/, docs/, plantillas/, proyectos/"]
+        Repo2 --> PluginGit2
+        Repo2 --> Docs2
+    end
+
+    GlobalConfig --> Repo1
+    GlobalConfig --> Repo2
+
+    subgraph Cloud["🌐 Nube (GitHub Dual Accounts)"]
+        GH1["🐙 inventarioenergycpy/\nantigravity-agents-repository.git"]
+        GH2["⚡ jidiazepec/\nprojets_vs.git"]
+    end
+
+    PluginGit1 <-->|"Credencial: git:https://inventarioenergycpy@github.com\n(Token Clásico / PAT)"| GH1
+    PluginGit2 <-->|"Credencial: git:https://jidiazepec@github.com\n(GCM / PAT jidiazepec)"| GH2
 ```
 
 ---
 
 ## ⚙️ 2. Configuraciones Técnicas Realizadas
 
-### A. Registro Global de la Bóveda (`%APPDATA%\obsidian\obsidian.json`)
-Permite que la aplicación Obsidian abra automáticamente el repositorio central como bóveda activa al iniciarse:
+### A. Registro Global Multi-Bóveda (`%APPDATA%\obsidian\obsidian.json`)
+Permite que Obsidian reconozca y liste ambas bóvedas en el Selector de Bóvedas (`Open another vault`), alternando entre el Hub de Agentes y el Centro de Proyectos con 1 solo clic:
 
 ```json
 {
   "vaults": {
-    "21370a6259624e48": {
-      "path": "C:\\Users\\Usuario\\.gemini\\antigravity-ide\\scratch\\antigravity-agents-repository",
-      "ts": 1790775873130,
+    "7da1bbfc5338cdd9": {
+      "path": "C:\\Users\\majon\\.gemini\\antigravity-ide\\scratch\\antigravity-agents-repository",
+      "ts": 1793842280171,
       "open": true
+    },
+    "f7737f13415e9084": {
+      "path": "C:\\projets_vs",
+      "ts": 1793842279171,
+      "open": false
     }
   },
   "insider": false
@@ -150,8 +168,10 @@ python -c "import os, json, hashlib, time; repo=os.path.abspath('.'); appdata=os
 
 1. **Error de Rutas Largas en Windows (`Filename too long`)**:
    - Solución: Ejecutar `git config core.longpaths true` en la raíz del repositorio.
-2. **Autenticación Git / Permisos Remotos**:
-   - Las credenciales se gestionan a través de Git Credential Manager vinculado a la cuenta `inventarioenergycpy` o según el protocolo en [[Configuracion-Credenciales-GitHub]].
+2. **Aislamiento Multi-Cuenta en Git Credential Manager (GCM)**:
+   - Se configuró aislamiento multi-cuenta mediante git config --local credential.username <usuario> y claves diferenciadas en Windows Credential Manager (git:https://<usuario>@github.com).
+   - Cuenta 1 (`inventarioenergycpy`): Remoto `https://inventarioenergycpy@github.com/...` con token clásico registrado en Windows Credential Manager (`git:https://inventarioenergycpy@github.com`).
+   - Cuenta 2 (`jidiazepec`): Remoto `https://jidiazepec@github.com/...` con identidad aislada (`user.name = jidiazepec`, `user.email = jidiaz@epec.com.ar`) en `C:\projets_vs` y `App_Central_Bicentenario`.
 3. **Conflictos de Fusión**:
    - `obsidian-git` está configurado con `syncMethod: "merge"`, permitiendo resolver discrepancias línea a línea sin sobrescribir información.
 

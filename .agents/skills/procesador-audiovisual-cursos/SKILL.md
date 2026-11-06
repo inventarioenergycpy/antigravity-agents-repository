@@ -15,9 +15,10 @@ Esta habilidad define el estándar de excelencia operativa para procesar grabaci
 [1. Ingesta y Catálogo] ➔ [2. Transcripción Minutada] ➔ [3. Visión Artificial & Slides] ➔ [4. Naming & Deduplicación] ➔ [5. Documentación Obsidian]
 ```
 
-### 1. Ingesta y Catálogo JSON
+### 1. Ingesta, Catálogo JSON y Snapshot de Video de Red (Mínima Interferencia)
 - **Objetivo**: Descargar o localizar los archivos de video `.mp4` en el almacenamiento local o de red (`\\srvfs01\...`).
 - **Registro Central**: Mantener `docs/Cursos/catalogo_descargas_videos.json` con `video_id`, `url`, `title`, `duration`, `target_subfolder`, y rutas de archivo.
+- **Regla Estricta de Concurrencia de Red**: Queda prohibido abrir videos directamente sobre la ruta UNC de red mediante `cv2.VideoCapture` o FFmpeg. Antes de procesar fotogramas, invocar `scripts/network_snapshot.py` (`get_local_snapshot`) para generar una copia de trabajo local en `data/network_cache/` mediante streaming binario no bloqueante con **Delta Cache** (si el video ya está local y coincide en tamaño/timestamp, no se retransfiere, 0 ms de interferencia). La extracción de diapositivas se ejecuta 100% sobre el archivo local.
 
 ### 2. Transcripción de Audio y Minutado
 - **Archivos Generados**:

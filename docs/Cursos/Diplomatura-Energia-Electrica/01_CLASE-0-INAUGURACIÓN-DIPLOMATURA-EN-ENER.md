@@ -28,3 +28,17 @@ created: 2026-09-30
 
 ---
 [[00-MOC-Diplomatura-Energia-Electrica|⬅️ Volver al MOC de Energía Eléctrica]]
+
+
+---
+
+## 🖼️ Registro y Desglose Exhaustivo de Diapositivas Proyectadas
+
+> **Total de Diapositivas / Filminas Identificadas**: `0` láminas de presentación.
+> **Algoritmo de Detección**: Visión artificial con filtrado de expositores/webcam, detección morfológica de texto y vinculación minutada con transcripción de audio.
+
+*No se identificaron diapositivas proyectadas continuas en este video (sesión netamente expositiva o sin filminas detectables).*
+
+
+---
+

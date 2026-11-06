@@ -174,6 +174,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-11-06_auditoria-vialidad-cooperativas-sigec-anexo-documentacion|2026-11-06 Squad Ágil & PROTELEM - Auditoría Integral de Suministros de Alumbrado Vial: Vialidad Provincial, Cooperativas, Ingesta Nuevos Anexos Red y Cruce Comercial SIGEC (EPEC)]]
 - [[Historial-Mejoras/2026-11-02_analista-financiero_integracion-mina-san-antonio-usd-3500m-blind-teaser|2026-11-02 Analista Financiero & Squad - Integración de Mina San Antonio (USD 3.5B), Respaldo en Bóveda, Blind Teaser Confidencial y Sincronización Web en Producción]]
 - [[Historial-Mejoras/2026-10-30_squad-finanzas_proyecto-pistacho-alcaparra-neuquen-etapa4|2026-10-30 Squad Ágil [S-C] - Investigación, Modelado DCF v2.0 Bancable (USD 30k/ha, DSRA & Ley 3502) y Estructuración Fiduciaria del Complejo Pistacho & Alcaparra en Neuquén (Etapas 1-4)]]
 - [[Historial-Mejoras/2026-10-30_copiloto-orquestador_protocolo-retardos-throttling-consultas-bases-datos|2026-10-30 Copiloto Orquestador & Ecosistema de Agentes - Protocolo Obligatorio de Pacing, Retardos Inter-Consulta (Throttling >= 300ms a 1000ms) y Protección contra Sobrecarga en Oracle y Bases de Datos]]
@@ -233,6 +234,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/PROTELEM/2026-11-06_auditoria-suministros-vialidad-cooperativas-sigec|2026-11-06 Alumbrado Público Vialidad Provincial: Auditoría Integral de Suministros, Cooperativas, GUDIS y Base Comercial SIGEC]]
 - [[docs/Proyectos/2026-11-04_real-estate-investment-intelligence|2026-11-04 Real Estate Investment Intelligence (Valuación CMA, Escalamiento Patrimonial y Modelado DCF Córdoba)]] (`inventarioenergycpy/real-estate-investment-intelligence`)
 - [[docs/Proyectos/2026-11-04_career-market-intelligence|2026-11-04 Career Market Intelligence & Talent Radar (Diagnóstico 360°, Tendencias WEF, Salarios y Radar de Vacantes)]] (`inventarioenergycpy/career-market-intelligence`)
 - [[docs/Proyectos/2026-11-04_estrategia-inmobiliaria-urca-opcion3-casa-mas-efectivo|2026-11-04 Estrategia Inmobiliaria "1 x 2" (Opción 3): Venta/Permuta Residencia Urca (Mario Arruabarrena 1319) por Casa en Bajo Palermo/Villa Cabrera más Excedente en Efectivo (USD 105k-112k)]]

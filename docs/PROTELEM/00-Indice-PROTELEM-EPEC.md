@@ -8,7 +8,7 @@ tags:
   - #repositorios
   - #obsidian
 created: 2026-10-14
-updated: 2026-11-03
+updated: 2026-11-06
 ---
 
 # 🏢 Índice Maestro: Documentación Unificada PROTELEM-EPEC & inventarioenergycpy
@@ -117,6 +117,17 @@ graph TD
   3. `[[docs/PROTELEM/PROJECTS/normativa-epec/|Normativa EPEC]]`: Reglamento comercial, resoluciones tarifarias y regímenes sancionatorios.
   4. `[[docs/PROTELEM/PROJECTS/sistema-epec-oracle/|Sistema EPEC Oracle (CIS/MDM)]]`: Pliego licitatorio con 929 requerimientos en 35 grupos funcionales.
   5. `[[docs/PROTELEM/PROJECTS/reportes/|Reportes]]`: Guías de diseño de tableros ejecutivos HTML.
+
+### F. Proyecto Alumbrado Público para Vialidad Provincial (Convenio SUAF / EPEC / Cooperativas)
+- **Ubicación en Red**: `\\srvfs01\ProyectoTelemedicion\38 - Informes Protelem\29 - Alumbrado Publico para Vialidad\`
+- **Documento Maestro de Auditoría**: `[[docs/PROTELEM/2026-11-06_auditoria-suministros-vialidad-cooperativas-sigec|Auditoría Integral de Suministros: Vialidad Provincial, Cooperativas y SIGEC]]`
+- **Alcance Relevado**: 4.069 luminarias totales (2.238 en 21 contratos EPEC + 1.831 en 64 contratos Cooperativas).
+- **Archivos de Red Relevados**:
+  - `ANEXO I - Vialidad Provincial.docx` (Expediente formal DPV / EPEC).
+  - `ANEXO I - Vialidad Provincial.xlsx` (Resumen Auditoría, Anexo1-EPEC y ANEXO1-COOP).
+  - `VIALIDAD PCIAL. ANEXO 1 - aux.xlsx` (Variantes auxiliares de alta).
+  - `VIALIDAD PCIAL. Cooperativas -EPEC_Vialidad_Provincial_actualizado_3_11_26_actualizado.xlsx` (Facturación mensualizada 2026).
+- **Cruce en Vivo SIGEC**: Mapeo de 26 Cooperativas Eléctricas, suministros en autopistas/distribuidores (ej. `SRV_CODIGO: 2077749` en Villa Nueva) y contratos de Peaje GUDIS (ej. `SRV_CODIGO: 1300052` / `GD7264XI` en Arroyito).
 
 ---
 

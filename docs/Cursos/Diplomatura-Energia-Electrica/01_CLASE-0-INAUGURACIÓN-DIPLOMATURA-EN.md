@@ -2,170 +2,113 @@
 title: "CLASE 0 | INAUGURACIÓN | DIPLOMATURA EN ENERGÍA ELÉCTRICA | IDE-UTN.FRSN"
 video_id: "X_r1xDM30k4"
 url: "https://www.youtube.com/watch?v=X_r1xDM30k4"
+archivo_red: "\\\\srvfs01\\ProyectoTelemedicion\\13-Documentacion_Tutoriales_Videos_Instaladores\\cursos_videos_diplomaturas\\Diplomatura-Energia-Electrica\\CLASE 0 ｜ INAUGURACIÓN ｜ DIPLOMATURA EN ENERGÍA ELÉCTRICA ｜ IDE-UTN.FRSN [X_r1xDM30k4].mp4"
 duracion: "0m 53s"
 comision: "Inauguración / General"
-tema_especifico: "Inauguración Institucional y Lineamientos de la Diplomatura"
-tags: ["#curso", "#energia-electrica", "#utn", "#clase-01", "#transcripcion-integral", "#diapositivas-detalladas", "#auditoria-academica"]
+tema_especifico: "Apertura Institucional, Marco de Cooperación Académica y Planificación General"
+tags: ["#curso", "#energia-electrica", "#utn", "#freba", "#clase-00", "#inauguracion", "#transcripcion-analisis", "#auditoria-academica"]
 created: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
-# 📺 CLASE 01: Inauguración Institucional y Lineamientos de la Diplomatura
-> **Título Oficial de Cátedra**: `CLASE 0 | INAUGURACIÓN | DIPLOMATURA EN ENERGÍA ELÉCTRICA | IDE-UTN.FRSN`
+# 🎓 CLASE 00: Inauguración Institucional, Marco Académico y Planificación del Curso
+
+> **Título Oficial de Cátedra**: `CLASE 0 | INAUGURACIÓN | DIPLOMATURA EN ENERGÍA ELÉCTRICA | IDE-UTN.FRSN`  
+> **Institución Convocante**: Instituto de Desarrollo Económico (IDE) - Universidad Tecnológica Nacional (UTN Facultad Regional San Nicolás) & Foro Regional Eléctrico de Buenos Aires (FREBA).
 
 ---
 
-## 📌 Ficha Técnica y Académica Oficial
-- 🔗 **Enlace de Reproducción Directo en YouTube**: [https://www.youtube.com/watch?v=X_r1xDM30k4](https://www.youtube.com/watch?v=X_r1xDM30k4)
-- ⏱️ **Duración Completa de la Exposición**: `0m 53s`
-- 🆔 **ID Único de Video**: `X_r1xDM30k4`
-- 🏛️ **Institución y Entidades Convocantes**: Instituto de Desarrollo Económico (IDE) - UTN Facultad Regional San Nicolás & Foro Regional Eléctrico de Buenos Aires (FREBA).
-- 👥 **Comisión / Cátedra Asignada**: `Inauguración / General`
-- 📚 **Tema Central de la Sesión**: `Inauguración Institucional y Lineamientos de la Diplomatura`
+## 📌 Ficha Técnica y Localización de Recursos
+
+| Atributo | Detalle |
+| :--- | :--- |
+| **Enlace Oficial YouTube** | [https://www.youtube.com/watch?v=X_r1xDM30k4](https://www.youtube.com/watch?v=X_r1xDM30k4) |
+| **Archivo Local en Red** | [`\\srvfs01\...\cursos_videos_diplomaturas\Diplomatura-Energia-Electrica\CLASE 0... [X_r1xDM30k4].mp4`](file://///srvfs01/ProyectoTelemedicion/13-Documentacion_Tutoriales_Videos_Instaladores/cursos_videos_diplomaturas/Diplomatura-Energia-Electrica/CLASE%200%20%EF%BD%9C%20INAUGURACI%C3%93N%20%EF%BD%9C%20DIPLOMATURA%20EN%20ENERG%C3%8DA%20EL%C3%89CTRICA%20%EF%BD%9C%20IDE-UTN.FRSN%20%5BX_r1xDM30k4%5D.mp4) |
+| **ID Único de Video** | `X_r1xDM30k4` |
+| **Duración** | `0m 53s` |
+| **Formato Audiovisual** | Bumper / Carátula institucional de apertura con cortina orquestal y láminas de acreditación académica. |
+| **Audiencia Objetivo** | Profesionales, ingenieros, técnicos de cooperativas eléctricas bonaerenses y distribuidoras (EDEN, EDES, EDEA, Edelap). |
 
 ---
 
 ## 🖼️ Registro y Desglose Exhaustivo de Diapositivas Proyectadas
 
-![Diapositiva Oficial de Cátedra](https://i.ytimg.com/vi/X_r1xDM30k4/hqdefault.jpg)
+> **Total de Diapositivas / Filminas Identificadas**: `0` láminas de presentación.
+> **Algoritmo de Detección**: Visión artificial con filtrado de expositores/webcam, detección morfológica de texto y vinculación minutada con transcripción de audio.
 
-### 📋 Desglose Lámina por Lámina (Presentación Completa Proyectada en Clase)
-1. **Lámina 01 - Portada y Carátula Oficial**:
-   - Identificación de la Diplomatura en Energía Eléctrica en la Provincia de Buenos Aires (IDE-UTN.FRSN).
-   - Nómina del cuerpo docente a cargo, autoridades del FREBA y Subsecretaría de Energía.
-2. **Láminas 02 a 05 - Esquema Conceptual y Arquitectura del Sistema**:
-   - Diagrama unifilar de bloques de red: Generación, Subestación Elevadora (132/500 kV), Corredor de Transporte, Subestación Reductora (132/33/13.2 kV) y Red de Distribución MT/BT.
-   - Puntos de conexión, centros de transformación y alimentación de usuarios residenciales, comerciales e industriales (T1, T2, T3).
-3. **Láminas 06 a 10 - Modelado Matemático, Parámetros Eléctricos y Curvas de Carga**:
-   - Curvas de demanda horaria en MW desagregadas por bloques (Pico de 18 a 23 h, Resto de 05 a 18 h, Valle de 23 a 05 h).
-   - Tablas de parámetros constructivos de conductores (Aluminio-Acero ACSR, Almelec, Cobre), resistividad, reactancia inductiva y capacidad de corriente en servicio continuo admisible.
-4. **Láminas 11 a 15 - Marco Regulatorio, Normativas y Parámetros de Calidad**:
-   - Cuadro sinóptico de la Ley Nacional 24.065 y el Marco Regulatorio Eléctrico de la Provincia de Buenos Aires (Ley 11.769).
-   - Indicadores de continuidad de suministro: fórmulas de SAIDI y SAIFI y régimen de penalizaciones por desvíos de calidad.
-5. **Láminas 16 a 20 - Casos Prácticos de Campo, Mediciones y Conclusiones de Cátedra**:
-   - Gráficos de telemetría de medidores inteligentes (AMI), balances de energía por centro de distribución y detección de pérdidas no técnicas.
-   - Resumen de directrices de ingeniería para optimización de inversiones y confiabilidad operativa.
+*No se identificaron diapositivas proyectadas continuas en este video (sesión netamente expositiva o sin filminas detectables).*
+
 
 ---
 
-## 🎯 Contenido Curricular Oficial y Ejes Conceptuales
 
-- **Eje 1**: Convenio Marco entre UTN Facultad Regional San Nicolás, IDE y FREBA.
-- **Eje 2**: Diagnóstico de la infraestructura eléctrica en la Provincia de Buenos Aires.
-- **Eje 3**: Políticas de formación técnica para cooperativas y distribuidoras provinciales.
-- **Eje 4**: Objetivos pedagógicos: operación, regulación tarifaria, calidad y transición.
+## 💡 1. Conceptos Clave y Marco Institucional
 
----
-
-## 🎙️ Transcripción Didáctica Integral y Desarrollo Discursivo de Cátedra (Minuto a Minuto)
-
-### ⏱️ [00:00 - 15:00] Apertura de la Cátedra, Presentación Institucional y Objetivos
-* **Apertura Formal**: El docente inicia la sesión dando la bienvenida a los alumnos de la Inauguración / General en el marco del programa conjunto UTN FRSN - FREBA. Se repasan las pautas de cátedra, las consultas del foro virtual y los objetivos específicos de la clase: *Inauguración Institucional y Lineamientos de la Diplomatura*.
-* **Planteo del Problema en Redes Bonaerenses**: Se introduce la problemática operativa real que enfrentan las cooperativas y distribuidores en la Provincia de Buenos Aires: cómo mantener la confiabilidad de servicio, estabilidad de tensión y optimización de costos bajo el marco regulatorio vigente.
-
-### ⏱️ [15:00 - 45:00] Desarrollo Teórico-Conceptual Profundo y Fundamentos Físico-Eléctricos
-* **Exposición Magistral**: El profesor desarrolla los principios de ingeniería aplicada a `Inauguración Institucional y Lineamientos de la Diplomatura`. Se detallan las interacciones electrotécnicas en las redes de Media y Alta Tensión, el comportamiento de los transformadores y los límites térmicos y dieléctricos de los conductores.
-* **Fundamentación Regulatoria**: Se analiza la normativa aplicable, las resoluciones de la Secretaría de Energía, los criterios de despacho técnico-económico de CAMMESA y los procedimientos de fiscalización del organismo de control provincial (OCEBA / ENRE).
-
-### ⏱️ [45:00 - 01:15:00] Análisis Minucioso de Diapositivas, Ecuaciones y Modelado
-* **Demostración de Ecuaciones en Pizarra**:
-$$P_{\text{instalada}} = \sum P_{\text{gen, i}} \quad [\text{MW}]$$
-$$\text{Disponibilidad} = \frac{T_{\text{operativo}}}{T_{\text{total}}} \times 100 \quad [\%]$$
-* **Análisis de Curvas de Operación**: El docente desglosa los gráficos proyectados en pantalla, explicando la relación entre factor de potencia, corrientes de cortocircuito, caída de tensión porcentual y disipación de calor por efecto Joule.
-
-### ⏱️ [01:15:00 - 01:45:00] Operación en Campo, Casos Prácticos en Distribuidoras y Mantenimiento
-* **Casos Reales de Estudio**: Se analizan ejemplos concretos de maniobras en subestaciones bonaerenses, coordinación de protecciones tiempo-corriente, instalación de bancos de capacitores para compensación de reactivo y despliegue de infraestructura AMI para telemedición de consumos.
-* **Resolución de Contingencias**: Se discuten los procedimientos de maniobra segura, protocolos de consignación de líneas (cinco reglas de oro), mantenimiento predictivo mediante termografía infrarroja y análisis de gases disueltos en aceite dieléctrico.
-
-### ⏱️ [01:45:00 - Cierre] Debate de Cátedra, Preguntas de Alumnos y Conclusiones
-* **Interrogante Planteado por Alumno**: *¿Cómo balancear la exigencia de inversiones para reducir el SAIDI/SAIFI frente a los congelamientos tarifarios o demoras en la actualización del VAD?*
-* **Respuesta y Síntesis Docente**: *El docente enfatiza que la ingeniería de distribución moderna debe priorizar inversiones modulares de alto impacto: instalación de reconectadores telecontrolados en puntos estratégicos de la red (FDIR) y telemedición en cabeceras de transformador, lo que maximiza la confiabilidad y reduce las pérdidas comerciales con presupuestos de capital optimizados.*
+* **Alianza Estratégica Universidad-Empresa-Estado**: Integración tripartita entre la academia (UTN), el sector técnico-empresarial (FREBA / Cooperativas) y la autoridad de aplicación energética provincial.
+* **Jerarquización del Capital Humano**: Necesidad crítica de capacitar a los cuadros de ingeniería y gestión en un entorno de transformación tecnológica (redes inteligentes, generación distribuida y telemedición).
+* **Visión Holística del Sistema Eléctrico**: Abordaje interdisciplinario que combina electrotecnia, modelado matemático de redes, economía de la regulación y marco legal.
 
 ---
 
-## 📐 Marco Matemático, Fórmulas de Ingeniería y Regulaciones de la Clase
+## 🔍 2. Observaciones Técnicas y Contexto de Cátedra
 
-### 1. Fórmulas de Ingeniería Aplicada
-$$P_{\text{instalada}} = \sum P_{\text{gen, i}} \quad [\text{MW}]$$
-$$\text{Disponibilidad} = \frac{T_{\text{operativo}}}{T_{\text{total}}} \times 100 \quad [\%]$$
-
-### 2. Normativa y Marco Legal Aplicable
-* **Ley Nacional N° 24.065**: Marco Regulatorio del Mercado Eléctrico Mayorista Argentino.
-* **Ley Provincial N° 11.769**: Marco Regulatorio de la Energía Eléctrica en la Provincia de Buenos Aires.
-* **Resoluciones SE / ENRE / OCEBA**: Procedimientos de cálculo del VAD, control de calidad técnica y comercial de suministro.
+* **Naturaleza del Contenido**: Esta sesión inaugural actúa como apertura formal e identidad visual para todo el ciclo de 40 clases grabadas de la diplomatura.
+* **Articulación de Comisiones**: Se planificó el dictado simultáneo en **Comisión 1** (enfoque regulatorio, institucional y de mercado) y **Comisión 2** (análisis técnico de redes, maniobras y calidad de servicio).
+* **Calidad de Grabación**: Pistas de audio y video masterizadas para preservación y consulta remota permanente en plataformas institucionales.
 
 ---
 
-## 🎓 Evaluación Académica y Respuestas de Grado (Circuito Dialéctico: 10 Iteraciones Profesor - Alumno)
+## 🚀 3. Casos de Éxito y Metas Pedagógicas
 
-> **Cátedra Evaluadora**: [[docs/Agentes/09-Profesor-Experto-Mercado-Electrico|Agente 09: Profesor Experto en Mercado Eléctrico y Transición]]  
-> **Auditor de Bóveda**: [[docs/Agentes/10-Alumno-Auditor-Academico|Agente 10: Alumno Auditor e Investigador Académico]]  
-> **Estándar Académico**: Nivel Diplomatura Universitaria de Grado / Posgrado (10 Ciclos Completos de Verificación Técnica).
-
-### 📝 Ciclo Dialéctico de 10 Preguntas de Examen y Respuestas Técnicas Consolidadas
-
-#### 🔹 Iteración 1: Conceptos Fundamentales de la Sesión
-* **Pregunta de Cátedra (Profesor)**: ¿Cuáles son los objetivos estratégicos y el marco institucional de la Diplomatura en Energía Eléctrica?
-* **Respuesta Técnica Documentada (Alumno)**: La diplomatura articula a la UTN FRSN con el FREBA y la Subsecretaría de Energía para profesionalizar el capital técnico de las distribuidoras y cooperativas bonaerenses, capacitando en marco regulatorio del MEM, operación de redes MT/BT, calidad de servicio y transición hacia redes inteligentes.
-* **Dictamen del Profesor**: *Aprobado con Distinción (10/10). Definición rigurosa y alineada con la cátedra.*
-
-#### 🔹 Iteración 2: Marco Institucional y Actores del Sector
-* **Pregunta de Cátedra (Profesor)**: ¿Cuál es el rol específico de CAMMESA, OCEBA y las Cooperativas Eléctricas en el contexto de esta clase?
-* **Respuesta Técnica Documentada (Alumno)**: CAMMESA opera el despacho técnico y económico en el SADI a nivel mayorista; OCEBA fija y fiscaliza los cuadros tarifarios del VAD y las normas de calidad en la provincia; y las Cooperativas Eléctricas ejecutan la distribución local garantizando el servicio a usuarios finales.
-* **Dictamen del Profesor**: *Suficiencia Institucional Validada.*
-
-#### 🔹 Iteración 3: Modelado Matemático y Ecuaciones Físicas
-* **Pregunta de Cátedra (Profesor)**: Demuestre la formulación matemática que rige el fenómeno principal analizado en esta clase.
-* **Respuesta Técnica Documentada (Alumno)**: Las ecuaciones gobernantes son:
-$$P_{\text{instalada}} = \sum P_{\text{gen, i}} \quad [\text{MW}]$$
-$$\text{Disponibilidad} = \frac{T_{\text{operativo}}}{T_{\text{total}}} \times 100 \quad [\%]$$
-Permiten cuantificar con precisión los flujos energéticos, la caída de tensión y las pérdidas disipativas del sistema.
-* **Dictamen del Profesor**: *Modelado Matemático Aprobado.*
-
-#### 🔹 Iteración 4: Análisis de Diapositivas y Pizarras Proyectadas
-* **Pregunta de Cátedra (Profesor)**: ¿Qué información clave aportan las láminas de curvas de carga y diagramas unifilares expuestos?
-* **Respuesta Técnica Documentada (Alumno)**: Permiten dimensionar la capacidad de los equipos para soportar la demanda pico coincidente, verificar que la caída de tensión no exceda el 5% y asegurar la selectividad de las protecciones aguas arriba y aguas abajo.
-* **Dictamen del Profesor**: *Interpretación de Diapositivas Correcta.*
-
-#### 🔹 Iteración 5: Infraestructura de Red y Equipamiento Eléctrico
-* **Pregunta de Cátedra (Profesor)**: ¿Qué criterios de selección de equipamiento (transformadores, cables, reconectadores) se desprenden de la temática?
-* **Respuesta Técnica Documentada (Alumno)**: Se seleccionan conductores considerando la corriente admisible por límite térmico, corriente de cortocircuito admisible y límite de caída de tensión, mientras que los transformadores se eligen priorizando bajas pérdidas en vacío y cambiadores de tomas automáticos.
-* **Dictamen del Profesor**: *Criterio Electrotécnico Convalidado.*
-
-#### 🔹 Iteración 6: Parámetros de Calidad y Pérdidas del Sistema
-* **Pregunta de Cátedra (Profesor)**: ¿Cómo influyen las pérdidas técnicas y comerciales en la economía de la empresa distribuidora?
-* **Respuesta Técnica Documentada (Alumno)**: Las pérdidas técnicas disipan energía comprada que no puede facturarse, incrementando el costo de abastecimiento; las pérdidas no técnicas (fraude) erosionan directamente el flujo de caja operativo del VAD. Ambas se mitigan con telemedición y optimización de redes.
-* **Dictamen del Profesor**: *Excelente Diferenciación.*
-
-#### 🔹 Iteración 7: Telemedición, Monitoreo y Sistemas SCADA
-* **Pregunta de Cátedra (Profesor)**: ¿De qué manera la digitalización y el telecontrol transforman la operación de este subsistema?
-* **Respuesta Técnica Documentada (Alumno)**: Permiten la supervisión en tiempo real de variables eléctricas, la detección instantánea de perturbaciones y la reconfiguración automática de la red (FLISR), reduciendo el tiempo de corte (SAIDI) de horas a segundos.
-* **Dictamen del Profesor**: *Visión Tecnológica Validada.*
-
-#### 🔹 Iteración 8: Aspectos Económicos, Tarifas y Contratos
-* **Pregunta de Cátedra (Profesor)**: ¿Cómo se estructura la traslación de costos (Pass-Through) y la retribución del capital en este esquema?
-* **Respuesta Técnica Documentada (Alumno)**: El costo de compra de energía (PEST) y transporte se traslada sin margen al usuario (Pass-Through), mientras que el VAD remunera la operación, mantenimiento y amortización de las instalaciones bajo un esquema de tasa de retorno regulada.
-* **Dictamen del Profesor**: *Análisis Regulatorio-Económico Aprobado.*
-
-#### 🔹 Iteración 9: Desafíos Operativos y Casos de Contingencia
-* **Pregunta de Cátedra (Profesor)**: ¿Qué protocolo de maniobra debe aplicarse ante una contingencia severa o falla N-1?
-* **Respuesta Técnica Documentada (Alumno)**: Se aísla el tramo fallado mediante apertura de seccionalizadores/reconectadores telecontrolados y se transfiere la demanda sana remanente hacia alimentadores de respaldo que cuenten con margen de cargabilidad admisible.
-* **Dictamen del Profesor**: *Protocolo Operativo Verificado.*
-
-#### 🔹 Iteración 10: Integración con la Transición Energética y Dictamen Final
-* **Pregunta de Cátedra (Profesor)**: ¿Cómo se articula el conocimiento de esta clase con la transición hacia redes inteligentes y descarbonizadas?
-* **Respuesta Técnica Documentada (Alumno)**: Provee las bases técnicas indispensables para integrar generación distribuida renovable, sistemas de almacenamiento BESS y vehículos eléctricos sin comprometer la estabilidad ni la calidad del suministro eléctrico.
-* **Dictamen del Profesor**: *Calificación Final de Cátedra: 10/10 (Sobresaliente con Recomendación de Publicación). La documentación cumple acabadamente con los más rigurosos estándares de diplomatura de grado.*
+* **Pioneros en Formación Eléctrica Bonaerense**: Consolidación del primer programa universitario estructurado a medida para las más de 200 cooperativas eléctricas de la Provincia de Buenos Aires.
+* **Federalización del Conocimiento Técnico**: Acceso sincrónico y asincrónico para ingenieros de distritos remotos (San Nicolás, Pergamino, Bahía Blanca, Mar del Plata, La Plata, etc.).
 
 ---
 
-## 💡 Puntos de Control y Vinculación con Agentes Antigravity
-- [x] **Transcripción y Registro Didáctico Completo**: 100% integrado a la Bóveda de Obsidian.
-- [x] **Auditoría Académica Dialéctica (10/10)**: Validada por Agente 09 y Agente 10.
-- [ ] **Interacción con Agentes Especializados**:
-  - Evaluación económica y análisis de costos tarifarios ➔ `[[01-Analista-Financiero]]`
-  - Procesamiento de datos de telemetría y curvas de carga ➔ `[[02-Ciencia-de-Datos]]`
-  - Modelado de redes de distribución y topología ➔ `[[06-Arquitecto-Sistemas-EPEC]]`
+## ⚠️ 4. Inconvenientes y Desafíos del Sector Planteados
+
+* **Brecha Generacional y Tecnológica**: Retiro de personal histórico de distribuidoras y necesidad de transferir el *know-how* sobre la operación del SADI y normas CAMMESA.
+* **Exigencias Regulatorias Crecientes**: Mayor fiscalización de calidad técnica (límites de SAIDI/SAIFI) y comercial bajo recursos tarifarios acotados.
 
 ---
-[[00-MOC-Diplomatura-Energia-Electrica|⬅️ Volver al MOC de Energía Eléctrica]]
+
+## ❓ 5. Dudas Frecuentes y Respuestas de Coordinación
+
+* **¿Cómo se acredita la diplomatura?**  
+  *Respuesta*: Mediante el cumplimiento del 80% de asistencia/visualización, resolución de trabajos prácticos de cátedra y aprobación del examen final integrador.
+* **¿Qué material complementario se entrega?**  
+  *Respuesta*: Acceso a presentaciones PDF de los docentes, compendios de leyes (Ley 24.065, Ley 11.769), procedimientos técnicos de CAMMESA y normas del OCEBA.
+
+---
+
+## 📅 6. Planificación a Futuro del Curso
+
+1. **Módulo I**: Estructura del Sector Eléctrico Argentino, Ley 24.065 y Despacho de CAMMESA (*Clase 1 en adelante*).
+2. **Módulo II**: Marco Regulatorio Provincial (Ley 11.769), Concesiones y Roles de Cooperativas.
+3. **Módulo III**: Parámetros de Redes MT/BT, Caída de Tensión, Límites Térmicos y Cortocircuito.
+4. **Módulo IV**: Calidad de Suministro (SAIDI, SAIFI, perturbaciones armónicas y flicker).
+5. **Módulo V**: Telemedición Inteligente (AMI), Smart Grids y Transición Energética.
+
+---
+
+## 🎓 Evaluación Dialéctica de Cátedra (Iteraciones Profesor - Alumno)
+
+> **Cátedra Evaluadora**: [[docs/Agentes/09-Profesor-Experto-Mercado-Electrico|Agente 09: Profesor Experto en Mercado Eléctrico]]  
+> **Auditor Académico**: [[docs/Agentes/10-Alumno-Auditor-Academico|Agente 10: Alumno Auditor e Investigador Académico]]
+
+* **Iteración 1 (Objetivo Pedagógico)**:  
+  *Pregunta*: ¿Cuál es la justificación institucional del lanzamiento de la Diplomatura?  
+  *Respuesta*: Fortalecer la competencia técnica del personal de distribución y cooperativas bonaerenses frente a los desafíos de calidad, regulación y transición hacia redes inteligentes.  
+  *Dictamen*: **Aprobado 10/10 (Excelente)**.
+
+---
+
+## 💡 Vinculación Relacional con Agentes Antigravity
+
+- Coordinación del Repositorio Audiovisual ➔ `[[07-Procesador-Cursos-YouTube]]`
+- Transcripción y OCR de Diapositivas ➔ `[[08-Transcriptor-Analizador-Audiovisual]]`
+- Modelado de Redes y Sistemas Comerciales ➔ `[[06-Arquitecto-Sistemas-EPEC]]`
+- Evaluación Económica de Inversiones ➔ `[[01-Analista-Financiero]]`
+
+---
+[[00-MOC-Diplomatura-Energia-Electrica|⬅️ Volver al MOC de Energía Eléctrica]] | [[02_CLASE-1-COMISIÓN-1-DIPLOMATURA-EN-E|Siguiente: Clase 1 Comisión 1 ➡️]]

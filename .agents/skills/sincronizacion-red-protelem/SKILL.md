@@ -1,4 +1,4 @@
-﻿---
+---
 name: sincronizacion-red-protelem
 description: Protocolo automatizado para escanear, copiar físicamente e integrar dinámicamente todos los archivos y proyectos guardados en la carpeta de red \\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS hacia docs/PROTELEM/PROJECTS/ dentro de antigravity-agents-repository, generando backups preventivos .bak y enriqueciendo las habilidades de los agentes sin perder nada de información.
 ---
@@ -33,14 +33,18 @@ graph TD
 
 ## 📋 Pasos Detallados del Protocolo
 
-### 1. Escaneo de Red e Identificación de Novedades
-- Ejecutar lectura recursiva sobre `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS`.
-- Identificar carpetas o notas creadas, modificadas o ampliadas por el equipo.
+### 1. Escaneo de Red e Identificación de Novedades (Mínima Interferencia)
+- Ejecutar lectura rápida de metadatos (tamaño y timestamp de modificación) sobre `\\srvfs01\ProyectoTelemedicion\Documentación\PROTELEM\PROJECTS`.
+- Identificar carpetas o notas creadas, modificadas o ampliadas por el equipo, minimizando el tiempo de consulta sobre el recurso compartido para no saturar el servidor SMB.
 
-### 2. Copia Física Integral de Archivos (Fisica Mirroring)
-- **REGLA MANDATORIA**: Copiar físicamente el 100% de las carpetas y archivos desde la red hacia la carpeta interna del repositorio:
-  `D:\Proyectos\antigravity-agents-repository\docs\PROTELEM\PROJECTS\`
+### 2. Copia Física Integral de Archivos y Snapshot de Mínima Interferencia
+- **REGLA MANDATORIA DE CONCURRENCIA**: Todo acceso a los archivos de red debe emplear el protocolo de snapshot no bloqueante (`scripts/network_snapshot.py`):
+  - Utilizar apertura con permisos compartidos de lectura (`FILE_SHARE_READ | FILE_SHARE_WRITE`) en streaming por bloques, liberando el handle de red en milisegundos.
+  - Implementar **Delta Cache**: Si el archivo ya existe en destino con idéntico tamaño y fecha de modificación, se omite la transferencia física (interferencia = 0 ms).
+  - Copiar físicamente el 100% de las carpetas y archivos modificados desde la red hacia la carpeta interna del repositorio:
+    `D:\Proyectos\antigravity-agents-repository\docs\PROTELEM\PROJECTS\` (o `data/network_cache/` para archivos masivos temporales de análisis).
 - Garantizar que **ningún archivo, nota o configuración sea omitido o reemplazado sintéticamente**.
+- **Estrictamente Solo Lectura**: Este proceso nunca sobrescribe ni altera los archivos originales en `\\srvfs01`.
 
 ### 3. Clasificación de Dominio por Agente Especialista
 Mapear cada novedad identificada según el perfil del agente correspondiente:

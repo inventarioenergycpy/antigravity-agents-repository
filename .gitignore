@@ -30,4 +30,31 @@ desktop.ini
 
 # Scratch temporales
 scratch/
+temp_video_staging/
 
+# Binarios y descargas pesadas
+*.exe
+*.zip
+*.mp4
+*.m4a
+*.webm
+docs/Cursos/**/diapositivas/
+
+# Enlaces y junctions a repositorios externos de PROTELEM-EPEC
+docs/PROTELEM/facturacion-reverse-engineering/
+docs/PROTELEM/demo-dashboard/
+
+# Cache y Staging Local de Archivos de Red (\\srvfs01) u Online
+data/network_cache/
+data/staging/
+data/cache_parcelas_wfs/
+data/manzanas_por_circ/
+
+# Datasets crudos y binarios pesados locales
+data/*.parquet
+data/*.geojson
+data/*.xlsx
+data/*.json
+data/*.js
+data/summary/*.parquet
+data/summary/*.geojson

@@ -51,6 +51,12 @@ Diseñador, maquetador y desarrollador de sitios web interactivos para showrooms
    - **Sincronización Multicanal**: Mapeo biunívoco de estados y doble canal (`BroadcastChannel` + `window.onstorage`) para ecosistemas sincronizados (Dashboard <---> Showroom).
    - **Pruebas Deterministas Automatizadas**: Ejecución obligatoria de script de validación con salida estricta `Exit Code 0` previa a cualquier `git commit` o despliegue a producción.
 
+5. **Módulo Estándar de Exportación Imprimible con Marca de Agua y Registro Corporativo (`EnergyCPYPrintExportModule`)**:
+   - **Marca de Agua Registrada**: Inserción obligatoria de `logo Energy CPY 4v fondo transparente_.png` centrada al medio de cada hoja imprimible (`50%/50%`), al máximo tamaño admisible (`94% x 90%`, `object-fit: contain`) y con **60% de transparencia (`opacity: 0.40`)**.
+   - **Registro Corporativo y Consultores**: Inclusión automática del membrete oficial (`ENERGY CPY — Área Desarrollo Sostenible`), dominios oficiales y contactos de **Javier Ignacio Diaz** (`+54 9 351 2064791`) y **Daniel Gonzalez** (`+54 9 2974 23-3028`) respetando **Zero-Email-Exposure** en vistas públicas.
+   - **Tipografía Imprimible de Alto Contraste**: Fondo blanco (`#ffffff`), fuentes negras oscuras (`#000000` / `#111827`) y contenedores translúcidos (`rgba(255,255,255,0.20)`) para no ocultar la marca de agua.
+   - **Motor de Tablas Transpuestas en Impresión**: Cuando una tabla ancha supera el margen de la hoja a imprimir, conmuta automáticamente en la versión imprimible a **tablas individuales transpuestas (filas por columnas) por cada oferta/proyecto** más una **tabla resumen comparativa de los totales al final**.
+
 ---
 
 ## 🌐 Plataforma de Despliegue y Trazabilidad
@@ -62,6 +68,7 @@ Diseñador, maquetador y desarrollador de sitios web interactivos para showrooms
 ## 🔗 Referencias Relacionales
 - [[00-Dashboard-MOC]]
 - [[docs/Protocolos/Guia-Maestra-Diseno-Web-Google-Stitch-DESIGN-MD|Guía Maestra de Diseño Web con Google Stitch y DESIGN.md]]
+- [[docs/Protocolos/Modulo-Exportacion-Imprimible-Marca-Agua-EnergyCPY|Módulo de Exportación Imprimible con Marca de Agua y Registro Corporativo]]
 - [[docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo Multi-Agente PM y 3 Operadores (Triple QA)]]
 - [[docs/Proyectos/README|Índice de Proyectos]]
 - [[docs/Backups/README|Bóveda de Backups]]

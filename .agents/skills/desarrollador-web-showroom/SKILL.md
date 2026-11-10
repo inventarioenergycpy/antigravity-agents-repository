@@ -168,7 +168,16 @@ graph TD
 
 ---
 
-### 5. Buenas Prácticas Recomendadas por GitHub para Desarrollo Web
+### 5. Módulo Estándar de Exportación Imprimible con Marca de Agua y Registro Corporativo (`EnergyCPYPrintExportModule`)
+Cada vez que el agente construya o actualice una vista de exportación o impresión en páginas del ecosistema (`Imprimir Resumen Ejecutivo`, `One-Pager`, `Catálogo de Cartera` o `Presentación Ejecutiva`), DEBE aplicar el módulo documentado en `docs/Protocolos/Modulo-Exportacion-Imprimible-Marca-Agua-EnergyCPY.md`:
+- **Marca de Agua Centrada al 60% de Transparencia**: Uso de `logo Energy CPY 4v fondo transparente_.png` centrada al medio de la hoja (`top: 50%; left: 50%; transform: translate(-50%, -50%)`), al máximo tamaño que quepa (`width: 94%; height: 90%; object-fit: contain`) y con **transparencia del 60% (`opacity: 0.40`)**.
+- **Datos Registrados de la Empresa y Consultores**: Membrete institucional `ENERGY CPY — Área Desarrollo Sostenible`, URLs oficiales (`inventarioenergycpy.github.io`) y datos de contacto de los consultores **Javier Ignacio Diaz (`+54 9 351 2064791`)** y **Daniel Gonzalez (`+54 9 2974 23-3028`)** cumpliendo **Zero-Email-Exposure** en vistas de cliente.
+- **Contraste Tipográfico Negro sobre Fondo Blanco**: En `@media print` y `.print-preview`, fondo de hoja blanco (`#ffffff`), tipografía 100% en negro puro (`#000000`) y gris carbón oscuro (`#111827`), y contenedores translúcidos (`rgba(255, 255, 255, 0.20)`) para que la marca de agua sea nítidamente visible a través del contenido.
+- **Transposición Automática de Tablas Anchas en Impresión**: Cuando una tabla comparativa no entra en el margen horizontal de la hoja a imprimir, solo para la versión imprimible se oculta la tabla horizontal (`.screen-only-wide-table`) y se reemplaza por **tablas individuales transpuestas (filas por columnas) para cada oferta/proyecto** seguidas de una **tabla resumen comparativa de los totales al final** (`.print-only-transposed-wrapper`).
+
+---
+
+### 6. Buenas Prácticas Recomendadas por GitHub para Desarrollo Web
 - **Gestión de Cuotas de Almacenamiento**: Repositorio por debajo de 1 GB y ningún archivo individual que supere los **100 MB**.
 - **Estructura Híbrida (GitHub Assets + Google Drive)**: Archivos `< 25 MB` directamente en `assets/`, archivos `> 25 MB` en Google Drive (`inventario.energycpy@gmail.com`).
 - **Nombres URL-Safe**: Archivos sin tildes ni espacios en minúsculas con guiones bajos (`snake_case`) o guiones (`kebab-case`).

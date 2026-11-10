@@ -1,8 +1,10 @@
 ---
-title: "Propuesta Integral Llave en Mano (EPC + Project Finance): Hub Renovable RIGI (Solar 250 MWac + BESS Grid-Forming 100 MW / 400 MWh + Red de Pabellones de Electrogasolineras + Arquitectura H2V-Ready) con 50% Financiación del Líder Fotovoltaico de Turquía"
+title: "Propuesta Integral Llave en Mano (EPC + Project Finance): Hub Renovable RIGI (Solar 250 MWac + BESS Grid-Forming 100 MW / 400 MWh + Red de Pabellones de Electrogasolineras + Arquitectura H2V-Ready) con 50% Financiación del Socio Fotovoltaico de Turquía"
 fecha: "2026-11-10"
+repositorio_dedicado: "https://github.com/inventarioenergycpy/hub-renovable-rigi-llave-en-mano.git"
+ruta_local: "C:\\Users\\majon\\.gemini\\antigravity-ide\\Proyectos\\hub-renovable-rigi-llave-en-mano"
 squad: "Squad Ágil Multi-Agente S-D / S-C / S-E (Agentes 01, 02, 05, 06, 09, 10, 12 y 13 Enriquecidos)"
-estado: "Propuesta Ejecutiva Bancable Validada por Triple QA"
+estado: "Repositorio Dedicado Inicializado y Validado por Triple QA"
 capex_total_usd: 240000000
 financiacion_turquia_usd: 120000000
 tir_proyecto_pct: 24.48
@@ -13,13 +15,24 @@ tags:
   - "#propuesta-llave-en-mano"
   - "#rigi"
   - "#turquia-pv"
+  - "#daxler-confidencial"
   - "#bess-grid-forming"
   - "#venta-potencia"
   - "#electrogasolineras"
   - "#hidrogeno-verde"
 ---
 
-# 🌐 Propuesta Ejecutiva de Servicio "Llave en Mano" (Full Turnkey EPC + Ingeniería Financiera): Ecosistema Híbrido Solar + BESS + Electrogasolineras + H2V-Ready bajo Acuerdo RIGI y Alianza 50% con Gigante Fotovoltaico de Turquía
+# 🌐 Ficha Técnica de Proyecto: Hub Renovable RIGI "Llave en Mano" (`inventarioenergycpy/hub-renovable-rigi-llave-en-mano`)
+
+> [!IMPORTANT]
+> **REPOSITORIO DEDICADO EN GITHUB Y REGLA DE CONFIDENCIALIDAD (BLIND TEASER vs. DOSSIER RESERVADO)**
+> - **Repositorio GitHub**: `https://github.com/inventarioenergycpy/hub-renovable-rigi-llave-en-mano.git`
+> - **Workspace Local Vinculado**: [`C:\Users\majon\.gemini\antigravity-ide\Proyectos\hub-renovable-rigi-llave-en-mano`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/README.md)
+> - **Protocolo de Confidencialidad sobre la Fábrica Asociada (`Daxler Energy — Daxler Enerji A.Ş.`)**:
+>   1. En la **Presentación Comercial Externa ([`01-Presentacion-Comercial-Blind-Teaser.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/01-Presentacion-Comercial-Blind-Teaser.md))** **NO se menciona el nombre de la empresa (`Daxler`)**, exponiendo únicamente sus logros verificables ($38\text{ años}$ en ingeniería eléctrica desde 1988, planta robotizada con IA de $100.000\text{ m}^2$, capacidad de $1\text{ GW/año}$ en tecnología *N-Type TOPCon / SMBB Bifacial*, Centro de I+D acreditado bajo Ley 5746 y financiación del 50% del proyecto) para proteger el mandato bajo acuerdo **NCNDA**.
+>   2. El **Estudio de Mercado, Oportunidades y Matriz de Riesgos de Daxler Energy** se documenta en forma reservada en [`02-Estudio-Mercado-Oportunidades-Riesgos-Daxler-Reservado.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/02-Estudio-Mercado-Oportunidades-Riesgos-Daxler-Reservado.md).
+>   3. El **Catálogo de Entes Oficiales de Referencia para Cálculos** se encuentra en [`03-Marco-Entes-Oficiales-Referencia-Calculos.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/03-Marco-Entes-Oficiales-Referencia-Calculos.md).
+>   4. La **Tarea Automatizada de Monitoreo Web de Noticias, Licitaciones, Requisitos y Análisis Financiero** reside en [`scripts/radar_licitaciones_y_oportunidades.py`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/scripts/radar_licitaciones_y_oportunidades.py) y genera el reporte [`reports/Reporte-Radar-Licitaciones-Oportunidades.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/reports/Reporte-Radar-Licitaciones-Oportunidades.md).
 
 ## 📌 1. Resumen Ejecutivo y Tesis de Inversión
 
@@ -232,3 +245,4 @@ Nuestro equipo gestiona de punta a punta las **7 Fases del Ciclo de Vida** y cer
    - Pleno cumplimiento del **Título VII de la Ley 27.742 (RIGI)** ($\text{CAPEX } \text{USD } 240\text{M} > \text{USD } 200\text{M}$, alícuota Ganancias 25%, amortización acelerada en 2 ejercicios, 0% arancel de importación y 0% retenciones de exportación desde el año 3), **Decreto PEN 450/2025**, **Res. SE 400/2025**, **Res. SE 67/2025 (AlmaGBA)** y estándares **IEC 62548 / IEC 62446 / IEEE 2800**.
 3. **Instancia 3 — QA de Usabilidad, Replicabilidad y Bancabilidad (`APROBADO 10/10`)**:
    - Estructura modular lista para presentación ante el directorio del inversor turco, bancos comerciales/ECAs, clientes corporativos MATER y autoridades de aplicación del RIGI.
+

@@ -96,10 +96,35 @@ graph TD
 
 ---
 
+## ⚖️ 5. Fundamentos Tarifarios y Regulatorios de las Diplomaturas y Reforma MEM 2025–2026
+
+En articulación con las 70 clases de las Diplomaturas (IDE-UTN.FRSN y SomoslaSEU), el motor de ingeniería inversa de facturación EPEC incorpora los siguientes principios regulatorios y ecuaciones de liquidación:
+
+### 1. Ecuación Canónica de Desagregación Tarifaria, Factor de Nodo y Pass-Through
+$$\text{Tarifa Final Usuario} = \underbrace{\left(\text{PEST} \times FN_k\right) + \text{Peaje de Transporte AT/MT}}_{\text{Pass-Through Puro (Margen Comercial = 0)}} + \underbrace{\text{VAD (CAPEX + OPEX + Pérdidas Reconocidas)}}_{\text{Retribución Propia de la Distribuidora}} + \text{Carga Tributaria}$$
+- **Pass-Through Neutro**: El Precio Estacional de la Energía y Potencia en el MEM ($\text{PEST}$, afectado por el Factor de Nodo $FN_k$) y los cargos de transporte se trasladan al usuario final exactamente al costo mayorista facturado por CAMMESA, sin recargo ni margen comercial para la distribuidora.
+- **Intangibilidad de la Factura Eléctrica (Decreto PEN N.º 450/2025 y Res. SE N.º 400/2025)**: Prohibición regulatoria de incluir en la factura eléctrica tasas municipales ajenas al servicio eléctrico o cargos locales encubiertos, exigiendo desglose transparente de abastecimiento MEM, transporte, VAD e impuestos de ley.
+- **Contractualización en el Mercado a Término (MAT)**: Bajo el Decreto 450/2025, la distribuidora incorpora progresivamente precios de contratos bilaterales a término en su mix de costo de abastecimiento trasladable a tarifa.
+
+### 2. Liquidación de Generación Distribuida bajo Esquema *Net Billing* (Ley 27.424 / Dec. 986/2018 y Ley Córdoba 10.604)
+- **Diferencia Estructural entre *Net Billing* y *Net Metering***: En Argentina rige estrictamente el **Balance Neto de Facturación (*Net Billing*)**, nunca la compensación física 1:1 de kWh (*Net Metering*):
+  $$\text{Importe Neto antes de Impuestos} = \left(E_{\text{consumida red}} \times T_{\text{minorista plena}}\right) - \left(E_{\text{inyectada red}} \times P_{\text{inyección PEST}}\right) + \text{Cargos Fijos / Potencia VAD}$$
+  - La energía demandada desde la red ($E_{\text{consumida red}}$) se valoriza a la **tarifa minorista plena** del cuadro tarifario (que incluye PEST + Transporte + VAD).
+  - La energía excedente inyectada a la red ($E_{\text{inyectada red}}$) se remunera exclusivamente al **Precio Estacional Mayorista ($\text{PEST}$)** de compra de la distribuidora en el MEM (discriminado por bandas Pico, Resto y Valle cuando existe medición telemedida de cuatro cuadrantes), garantizando que el Usuario-Generador retribuya íntegramente el **VAD** por el uso bidireccional de la red física de distribución.
+- **Generación Distribuida Comunitaria Virtual y Algoritmo de Reparto LET**: Liquidación de créditos de energía inyectada por un parque solar comunitario remoto asignados porcentualmente a múltiples suministros asociados dentro del área de concesión de EPEC, descontando el crédito valorizado a tarifa de inyección sobre el bloque de energía de cada factura individual.
+
+### 3. Penalización por Bajo Factor de Potencia ($\cos\varphi$) y Excesos de Capacidad
+- **Umbral Normativo de Energía Reactiva**:
+  $$\cos\varphi = \frac{P}{\sqrt{P^2 + Q^2}} \ge 0,95 \quad \Longleftrightarrow \quad \tan\varphi = \frac{E_{\text{reactiva}}}{E_{\text{activa}}} \le 0,329$$
+  Cuando el factor de potencia medio mensual o de banda cae por debajo del umbral reglamentario, el motor aplica el recargo porcentual escalonado sobre el importe de energía activa o facturación de energía reactiva excedente, incentivando la instalación de bancos de capacitores automáticos.
+
+---
+
 ## 📚 Documentación Técnica de Enlace
 
 * **Repositorio Dedicado**: [PROTELEM-EPEC/facturacion-reverse-engineering](https://github.com/PROTELEM-EPEC/facturacion-reverse-engineering)
 * **Recorrido del Modelo**: [`docs/modelo_facturacion_sigec.md`](file:///D:/Proyectos/facturacion-reverse-engineering/docs/modelo_facturacion_sigec.md)
 * **Glosario de 31 Tablas SIGEC**: [`docs/glosario_tablas.md`](file:///D:/Proyectos/facturacion-reverse-engineering/docs/glosario_tablas.md)
 * **Suite de Consultas SQL (A a M)**: [`docs/modelo_factura_documentado.sql`](file:///D:/Proyectos/facturacion-reverse-engineering/docs/modelo_factura_documentado.sql)
+* **Tratados Académicos**: `[[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica]]` y `[[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica]]`
 * **Ficha de Agente en Obsidian**: `[[docs/Agentes/12-Especialista-Facturacion-Reverse-Engineering]]`

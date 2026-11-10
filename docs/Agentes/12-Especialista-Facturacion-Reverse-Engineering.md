@@ -95,3 +95,10 @@ graph TD
 * [[docs/Proyectos/2026-10-19_facturacion-reverse-engineering|Proyecto Dedicado: Facturación Reverse Engineering]]
 * [[docs/Agentes/06-Arquitecto-Sistemas-EPEC|Agente 06: Arquitecto de Sistemas EPEC]]
 * [[docs/Agentes/02-Ciencia-de-Datos|Agente 02: Ciencia de Datos]]
+
+---
+
+## ⚖️ Enriquecimiento Académico (70 Clases Diplomaturas + Net Billing y Decreto 450/2025)
+- **Desagregación Tarifaria y Pass-Through**: Modelado estricto de $\text{Tarifa} = (\text{PEST} \cdot FN_k + \text{Transporte})_{Pass-Through} + \text{VAD} + \text{Tributos}$, incorporando la prohibición de tasas municipales ajenas encubiertas (**Decreto PEN 450/2025**) y la contractualización progresiva en el Mercado a Término (MAT).
+- **Liquidación Exacta de Generación Distribuida (*Net Billing* Ley 27.424 / Dec. 986/2018 y Ley Cba 10.604)**: Valorización de la energía consumida a tarifa minorista plena (con VAD) y de la energía inyectada a Precio Estacional Mayorista ($	ext{PEST}$), preservando la remuneración de la red de distribución, más el algoritmo de reparto LET para Generación Distribuida Comunitaria Virtual y penalización por $\cos\varphi < 0,95$.
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

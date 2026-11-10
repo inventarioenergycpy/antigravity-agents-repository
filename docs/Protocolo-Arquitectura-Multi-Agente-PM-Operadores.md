@@ -340,6 +340,17 @@ entregables_esperados:
 
 ---
 
+### 6.8. Blindaje de Entregables Web, Showrooms y Dashboards: Rack de Comprobaciones de Integridad (Zero-Undefined Guardrail)
+- **Principio**: En soluciones web de inversión, dashboards de gestión o reportes HTML (Arquetipo C y proyectos afines), anomalías de hidratación de datos o desincronización de esquemas pueden exponer la cadena `undefined` o `null` en la interfaz visual, comprometiendo la seriedad y el grado de inversión del entregable.
+- **Norma (Rack de 5 Comprobaciones Obligatorias)**:
+  1. *Zero-Undefined Guardrail*: Queda prohibido inyectar propiedades directamente en template literals sin fallbacks defensivos en cascada (`item.title || (item.es && item.es.title) || item.id || 'Sin título'`).
+  2. *Contrato de Esquemas & SSOT*: Dualidad obligatoria en esquemas JSON bilingües; las propiedades primarias deben existir tanto en la raíz como dentro de bloques idiomáticos específicos (`es`/`en`).
+  3. *Auto-Sanación de Persistencia (`localStorage` Self-Healing)*: En el método `loadData()`, la aplicación debe sanar reactivamente cualquier dato corrupto, nulo o cadena `"undefined"` heredada en la caché local del cliente sustituyéndola por la semilla oficial sin requerir limpieza manual.
+  4. *Sincronización Multicanal*: En ecosistemas acoplados (ej. Dashboard <---> Showroom), garantizar mapeo biunívoco exhaustivo de estados y doble canal (`BroadcastChannel` para pestañas simultáneas y `window.onstorage` para eventos desacoplados).
+  5. *Test Suite Determinista Pre-Deploy*: Todo entregable web debe incluir un script ejecutable (ej. `test_sync_integrity.py`) con salida obligatoria `Exit Code 0` que valide el 100% de los elementos, ausencia de `undefined` en bundles y exactitud matemática de las métricas de cartera.
+
+---
+
 ## 🗺️ 7. Matriz de Arquetipos Operativos Contextuales
 
 El PM utiliza el Copiloto Orquestador para instanciar la terna operativa (sobre el modelo `Top-2` detectado en Fase 0) según el dominio del desafío:

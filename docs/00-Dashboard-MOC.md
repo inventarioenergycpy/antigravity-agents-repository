@@ -89,7 +89,8 @@ graph TD
 ### 3. [[Agentes/03-Desarrollador-Web-Showroom|Desarrollador Web Showroom, Reportes e Interfaces]]
 - **Entregables**: Repositorios Web Dedicados en GitHub (inventarioenergycpy/<proyecto-web>) / Sitios Estáticos de Reportes HTML.
 - **Pipeline Google Stitch & DESIGN.md**: Prototipado rápido asistido con Google Stitch (stitch.withgoogle.com), especificación de tokens en DESIGN.md, maquetación responsive Vanilla CSS optimizada para PC y móviles, y batería de validación UX (Core Web Vitals, Touch Targets ≥ 48px, WCAG 2.2 AA).
-- **Guía Maestra**: [[docs/Protocolos/Guia-Maestra-Diseno-Web-Google-Stitch-DESIGN-MD|Guía Maestra de Diseño Web con Google Stitch y DESIGN.md]].
+- **Rack de Comprobaciones de Integridad**: Blindaje Zero-Undefined (fallbacks en cascada obligatorios), contrato de esquemas SSOT (dualidad raíz/bilingüe), auto-sanación de localStorage, sincronización multicanal y test suite determinista pre-deploy con exit code 0.
+- **Guía Maestra**: [[docs/Protocolo-Arquitectura-Multi-Agente-PM-Operadores|Protocolo Multi-Agente PM y 3 Operadores (Triple QA)]].
 
 ### 4. [[Agentes/04-Planificador-Disenador-de-Agentes|Planificador y DiseÃ±ador de Agentes AI]]
 - **Entregables**: InvestigaciÃ³n verÃ­dica, diseÃ±o pre-implementaciÃ³n, roadmap de pruebas parciales, pruebas piloto y auto-documentaciÃ³n de nuevos agentes.

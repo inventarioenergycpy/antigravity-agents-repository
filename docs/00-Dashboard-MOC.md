@@ -8,7 +8,7 @@ tags:
   - #backups
   - #rollback
 created: 2026-08-09
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 # Bobeda de Agentes Antigravity IDE - Map of Content (MOC)
@@ -174,6 +174,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-11-10_squad-arquetipo-c_sincronizacion-automatica-dashboard-showroom|2026-11-10 Squad Ágil Arquetipo C - Sincronización Automática Bidireccional Dashboard-Showroom, Corrección de Persistencia y Bloqueo de Gestión en Diente Oro Verde]]
 - [[Historial-Mejoras/2026-11-06_auditoria-vialidad-cooperativas-sigec-anexo-documentacion|2026-11-06 Squad Ágil & PROTELEM - Auditoría Integral de Suministros de Alumbrado Vial: Vialidad Provincial, Cooperativas, Ingesta Nuevos Anexos Red y Cruce Comercial SIGEC (EPEC)]]
 - [[Historial-Mejoras/2026-11-02_analista-financiero_integracion-mina-san-antonio-usd-3500m-blind-teaser|2026-11-02 Analista Financiero & Squad - Integración de Mina San Antonio (USD 3.5B), Respaldo en Bóveda, Blind Teaser Confidencial y Sincronización Web en Producción]]
 - [[Historial-Mejoras/2026-10-30_squad-finanzas_proyecto-pistacho-alcaparra-neuquen-etapa4|2026-10-30 Squad Ágil [S-C] - Investigación, Modelado DCF v2.0 Bancable (USD 30k/ha, DSRA & Ley 3502) y Estructuración Fiduciaria del Complejo Pistacho & Alcaparra en Neuquén (Etapas 1-4)]]
@@ -273,6 +274,7 @@ graph TD
 
 
 ## 📈 Registro de Mejoras y Evolución Reciente
+- **2026-11-10 (10:50)**: `[Squad Ágil S-C: Finanzas & Showroom Web]` Implementación de la arquitectura híbrida de sincronización automática en doble capa (BroadcastChannel `'energycpy_projects_channel'` + cross-localStorage `'energycpy_project_statuses'` y script maestro `sync_portfolio.py`), corrección de la falla de persistencia en Dashboard (delegación `e.currentTarget` en botones de acción) y actualización de 'Yacimiento de Oro Diente Oro Verde' a 'Bloqueado por Gestión' (Dashboard) y 'En trámite' (Showroom). Ver nota: [[Historial-Mejoras/2026-11-10_squad-arquetipo-c_sincronizacion-automatica-dashboard-showroom|Nota Histórica]].
 - **2026-11-04 (23:15)**: `[Squad Ágil S-C: Inversiones Inmobiliarias & Finanzas]` Diseño integral de la **Estrategia Inmobiliaria Dual "1 x 2" (Opción 3)** para la residencia en **Mario Arruabarrena 1319 (Barrio Urca)**: valuación re-calibrada (4 dorms, 3 baños, 2 estudios, pileta, 2 cocheras cubiertas, patio c/ asador y patio de luz), scouting de casas testigo de 3 dormitorios en Bajo Palermo y Villa Cabrera (USD 120k-135k), análisis de modalidades de salida (Venta Efectivo con posesión diferida vs. Permuta con saldo a favor "Trade-Up"), y modelado financiero del excedente líquido en dólares (USD 105k-112k al 7,8%-8,5% en ONs rindiendo USD 700/mes netos sin fricción locativa). Ver ficha: [[docs/Proyectos/2026-11-04_estrategia-inmobiliaria-urca-opcion3-casa-mas-efectivo|Estrategia Urca Opción 3]] y [[Historial-Mejoras/2026-11-04_estrategia-inmobiliaria-urca-opcion3-casa-mas-efectivo|Nota Histórica]].
 - **2026-11-04 (22:30)**: `[Copiloto Orquestador & Ecosistema]` Configuración integral de **Obsidian Multi-Bóveda y Acceso Dual a GitHub**: corrección de registro en `%APPDATA%\obsidian\obsidian.json` integrando las dos bóvedas completas (`antigravity-agents-repository` y `projets_vs`), instalación y automatización de obsidian-git en projets_vs, creación de Directory Junction en `Proyectos\projets_vs`, y resolución de aislamiento de credenciales en Git Credential Manager (`credential.useHttpPath true` y cmdkey). Ver protocolo: [[Protocolo-Sincronizacion-Obsidian-GitHub|Protocolo Obsidian]] y [[Historial-Mejoras/2026-11-04_configuracion-obsidian-multi-boveda-dual-github|Nota Histórica]].
 - **2026-11-04 (18:25)**: `[Squad Ágil S-C: Talento, Carrera & Mercado Laboral]` Análisis estratégico de inserción laboral freelance internacional para Joshe Negrini (`career-market-intelligence`): posicionamiento de nicho en **Traducción Culinaria & Pastelería de Alta Gama**, matriz de servicios, roadmap de captación (LinkedIn, ProZ, Upwork) y proyección de ingresos en USD. Ver ficha: [[docs/Proyectos/2026-11-04_estrategia-traduccion-freelance-joshe-negrini|Estrategia Joshe Negrini]] y [[Historial-Mejoras/2026-11-04_estrategia-posicionamiento-traductora-pasteleria-joshe-negrini|Nota Histórica]].

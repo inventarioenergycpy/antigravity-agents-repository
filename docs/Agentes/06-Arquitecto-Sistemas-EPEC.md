@@ -39,3 +39,10 @@ created: 2026-09-02
 ## 🔗 Referencias
 - [[00-Dashboard-MOC]]
 - [[Proyectos/2026-09-02_protelem-conocimiento-integrado|Conocimiento Integrado PROTELEM]]
+
+---
+
+## ⚡ Enriquecimiento Académico (70 Clases Diplomaturas + Smart Grids / AMI / FLISR)
+- **Infraestructura AMI en 4 Cuadrantes y MDM (VEE)**: Integración de medidores bidireccionales 15-minutales ($+P, -P, Q_1..Q_4$) mediante protocolos **DLMS/COSEM (IEC 62056), Modbus, MQTT, 4G/NB-IoT y RF Mesh** con concentradores DCU, HES y motor de Validación, Estimación y Edición (VEE).
+- **Telecontrol FLISR, Protecciones y Calidad SAIDI/SAIFI**: Coordinación de reconectadores (*reclosers* 1R+2L) y seccionalizadores bajo lógica **FLISR** para reducir el **SAIDI** de horas a segundos; protecciones **ANSI 87T, 50/51 y 21** (IEC 61850); monitoreo de calidad de onda ($\text{THD}_V \le 5\%$ según IEEE 519 / IEC 61000) y Contabilidad Regulatoria en el CIS para bonificaciones automáticas y RTI del VAD.
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

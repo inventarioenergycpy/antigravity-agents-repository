@@ -157,3 +157,26 @@ En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables
 
 ### 3. Entregables GIS Interactivos
 - Exportación de capas en formato GeoJSON / GeoPackage y compilación de visualizadores cartográficos interactivos (Leaflet / HTML) con selector de capas de interferencias y cuadro de diagnóstico para el informe de Due Diligence.
+
+---
+
+## ⚡ 7. Analítica Eléctrica de Redes: Curvas de Carga, Factores de Simultaneidad, Caída de Tensión y Pérdidas Técnicas vs. No Técnicas (Diplomaturas)
+
+En articulación con las 70 clases de las Diplomaturas (IDE-UTN.FRSN y SomoslaSEU), este agente ejecuta el procesamiento analítico en Python/DuckDB/PySpark de variables eléctricas de distribución y transporte:
+
+### 1. Modelado de Curvas de Carga, Factor de Carga ($FC$) y Factor de Simultaneidad ($FS$)
+- **Caracterización Horaria por Bandas (Pico 18–23h, Resto 05–18h, Valle 23–05h)**:
+  $$FC = \frac{E_{\text{período}}}{P_{\max} \cdot T} \le 1,0 \quad ; \quad FS = \frac{P_{\max,\text{coincidente}}}{\sum_{i=1}^n P_{\max,\text{individual}, i}} < 1,0$$
+  El cálculo vectorizado de $FS$ sobre perfiles 15-minutales de telemedición AMI permite dimensionar transformadores de distribución MT/BT y conductores evitando el sobredimensionamiento de capital (CAPEX) y detectando transformadores sobrecargados en picos de verano/invierno (electrificación y movilidad eléctrica).
+
+### 2. Cálculo Vectorizado de Caída de Tensión ($\Delta V\%$), Cortocircuito y Flujo Nodal
+- **Verificación Normativa en Redes de Media y Baja Tensión ($\Delta V \le 5\%$)**:
+  $$\Delta V_{3\phi}(\%) = \frac{\sqrt{3} \cdot I \cdot L \cdot (R \cos\varphi + X \sin\varphi)}{V_n} \times 100 \le 5\% \quad ; \quad \Delta V_{1\phi}(\%) = \frac{2 \cdot I \cdot L \cdot (R \cos\varphi + X \sin\varphi)}{V_n} \times 100 \le 5\%$$
+  $$I_{cc, 3\phi} = \frac{S_n}{\sqrt{3} \cdot V_n \cdot (u_{cc}\% / 100)}$$
+- **Ecuaciones Nodales de Flujo de Potencia en AT**:
+  $$S_k = P_k + jQ_k = V_k \sum_{m=1}^N Y_{km}^* V_m^* \quad [\text{MVA}]$$
+
+### 3. Balance de Energía y Desagregación de Pérdidas Técnicas ($3I^2R$) vs. Pérdidas No Técnicas
+- **Ecuación de Balance en Cabecera de Alimentador o Centro de Transformación (SETA)**:
+  $$E_{\text{cabecera SMEC/DCU}} = \sum E_{\text{facturada/medida usuarios}} + \underbrace{\int_0^T 3 \cdot I(t)^2 \cdot R_{\text{red}}\,dt + P_{\text{fe}}\cdot T}_{\text{Pérdidas Técnicas (Joule + Hierro)}} + \underbrace{E_{\text{no técnica}}}_{\text{Hurto, Fraude y Errores de Medición}}$$
+  Mediante el cruce en DuckDB/Pandas entre la medición totalizadora del concentrador DCU en la subestación y la suma de los medidores asociados (`XXSIGEC.SERVICIOS` / `GEOREF`), el agente aísla e identifica geográficamente las subestaciones con anomalías de pérdidas no técnicas para direccionar inspecciones de terreno.

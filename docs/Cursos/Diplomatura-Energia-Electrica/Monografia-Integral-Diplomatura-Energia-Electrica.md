@@ -220,17 +220,51 @@ A continuación se destacan momentos clave registrados en las diapositivas y tra
 
 ---
 
-## 📚 7. Bibliografía y Fuentes Normativas de Referencia
+## 📚 7. Compendio de Ecuaciones de Ingeniería de las 40 Clases (Comisiones 1 y 2)
 
-1. **Leyes y Decretos Nacionales**:
-   - Ley Nacional N.º 24.065: *Régimen del Sector Eléctrico Nacional*.
+A lo largo de las 40 clases de la Diplomatura se formalizaron los modelos físico-matemáticos que gobiernan la operación de redes de AT/MT/BT, protecciones y tarifas:
+
+1. **Factor de Carga ($FC$) y Factor de Simultaneidad ($FS$) (Clases 02, 06, 21, 24, 28)**:
+   $$FC = \frac{E_{\text{período}}}{P_{\max} \cdot T} \le 1.0 \quad ; \quad FS = \frac{P_{\max,\text{coincidente}}}{\sum_{i=1}^n P_{\max,i}} < 1.0$$
+2. **Potencia Natural o Impedancia Característica en 500 kV / 132 kV ($SIL$) y Flujo de Potencia (Clases 04, 05, 26)**:
+   $$SIL = \frac{V_n^2}{Z_c} \quad \text{con} \quad Z_c = \sqrt{\frac{L}{C}} \quad ; \quad P_{ij} = \frac{V_i V_j}{X} \sin(\delta_i - \delta_j) \quad ; \quad Q_{ij} = \frac{V_i^2 - V_i V_j \cos(\delta_i - \delta_j)}{X}$$
+3. **Protección Diferencial Porcentual de Transformador ANSI 87T y Sobrecorriente Inversa IEC 51 (Clases 06, 27)**:
+   $$|I_1 - n \cdot I_2| > I_{\text{pickup}} + k \cdot (|I_1| + |n \cdot I_2|) \quad ; \quad t_{\text{disparo}} = \frac{A}{(I / I_s)^p - 1} \cdot TD$$
+4. **Caída de Tensión longitudinal y Límite de Cortocircuito en MT/BT (Clases 07, 08, 28, 29)**:
+   $$\Delta V_{3\phi}(\%) = \frac{\sqrt{3} \cdot I \cdot L \cdot (R \cos\varphi + X \sin\varphi)}{V_n} \times 100 \le 5\% \quad ; \quad I_{cc,3\phi} = \frac{S_n}{\sqrt{3} \cdot V_n \cdot (u_{cc}\% / 100)}$$
+5. **Calidad de Onda (Armónicos $\text{THD}_V$ según IEEE 519 / IEC 61000) y Factor de Potencia (Clases 09, 30)**:
+   $$\text{THD}_V = \frac{\sqrt{\sum_{h=2}^{\infty} V_h^2}}{V_1} \times 100 \le 5\% \quad ; \quad \cos\varphi = \frac{P}{\sqrt{P^2 + Q^2}} \ge 0.95$$
+
+---
+
+## 🌐 8. Contraste con la Realidad Operativa y Regulatoria 2025–2026 en Argentina
+
+Los conceptos dictados en las 40 clases de la Diplomatura (en particular en las Clases 01, 04, 10 a 22 y 31 a 40 sobre reforma estructural, mercado a término, expansión del transporte, contabilidad regulatoria y generación distribuida) se articulan de manera directa con los hitos reales del sector eléctrico argentino en 2025–2026:
+
+1. **Reforma del MEM — Decreto PEN N.º 450/2025 y Resolución SE N.º 400/2025 (Dictados bajo Ley Bases N.º 27.742)**:
+   - Establece un período de transición de **24 meses** para normalizar el Mercado Eléctrico Mayorista, restableciendo la **libre contratación en el Mercado a Término (MAT)** con obligación para las distribuidoras de contractualizar gradualmente su demanda.
+   - **CAMMESA** retorna progresivamente a su función técnica original de **Organismo Encargado del Despacho (OED)**, dejando de actuar como comprador/vendedor centralizado de combustibles y energía.
+   - **Desregulación del abastecimiento de combustibles** para generadores térmicos y **transparencia en la facturación eléctrica** (prohibición de incluir tasas municipales ajenas o tributos encubiertos en las boletas de luz).
+2. **Almacenamiento en Nodos Críticos — Licitación BESS "AlmaGBA" (713 MW adjudicados)**:
+   - Primera licitación a gran escala de sistemas BESS en el SADI para mitigar picos de demanda y déficit de transporte en el AMBA (Edenor y Edesur). Se ofertaron 1.347 MW (27 proyectos) y se adjudicaron **más de 713 MW** (bloques de 4 horas de descarga continua) a precios en torno a **USD 10.161/MW-mes** (frente al tope de pliego de USD 15.000/MW-mes), con contratos PPA a 15 años celebrados directamente con las distribuidoras y garantía de última instancia de CAMMESA.
+3. **Expansión del Transporte en 500 kV y 132 kV (FITBA / FREBA y Obras Privadas bajo RIGI)**:
+   - Mientras en la Provincia de Buenos Aires el **FREBA** y el **FITBA** canalizan obras para mallar el sistema de 132 kV superando las limitaciones del método de beneficiarios, a nivel nacional el **Parque Eólico Olavarría (180 MW, PCR y Acindar, USD 250–275M)** —aprobado bajo el **RIGI**— financia obras de reemplazo de capacitores serie en las ETs Olavarría y Ezeiza sobre el corredor de 500 kV Bahía Blanca – Ezeiza/Abasto.
+
+---
+
+## 📚 9. Bibliografía y Fuentes Normativas de Referencia
+
+1. **Leyes, Decretos y Resoluciones Nacionales**:
+   - Ley Nacional N.º 15.336 y Ley Nacional N.º 24.065: *Régimen del Sector Eléctrico Nacional*.
+   - **Decreto PEN N.º 450/2025** y **Resolución SE N.º 400/2025**: *Modernización, Desregulación y Normalización del MEM (Ley de Bases N.º 27.742)*.
    - Decreto PEN N.º 1398/92 y N.º 1192/92 (Constitución de CAMMESA).
-   - Resoluciones Secretaría de Energía N.º 61/92: *Los Procedimientos para la Programación de la Operación, el Despacho de Cargas y el Cálculo de Precios (Los Procedimientos)*.
+   - Resoluciones Secretaría de Energía N.º 61/92: *Los Procedimientos de CAMMESA*.
+   - Ley Nacional N.º 27.191 (*Fomento Renovables y MATER*) y Ley Nacional N.º 27.424 (*Generación Distribuida y Decreto 986/2018*).
 2. **Normativa Provincial de Buenos Aires**:
    - Ley Provincial N.º 11.769: *Marco Regulatorio de la Energía Eléctrica en la Provincia de Buenos Aires*.
-   - Decreto Provincial N.º 186/97 y modificaciones.
-   - Reglamentos de Suministro y Normas de Calidad de OCEBA.
+   - Decreto Provincial N.º 186/97, Decreto N.º 1208 (Contratos de Concesión Municipal) y Decreto N.º 193 (Subanexo de Control de Calidad para distribuidores $> 5.000$ usuarios e Índice de Ruralidad Relevante).
+   - Reglamentos de Suministro, Contabilidad Regulatoria y Normas de Calidad de OCEBA.
 3. **Material Académico**:
    - Clases grabadas de la Diplomatura en Energía Eléctrica (IDE-UTN.FRSN, 40 clases).
-   - Catálogo de videos: [`docs/Cursos/catalogo_descargas_videos.json`](file:///C:/Users/jidiaz/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Cursos/catalogo_descargas_videos.json).
-   - Base de diapositivas: [`docs/Cursos/resumen_extraccion_diapositivas.json`](file:///C:/Users/jidiaz/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Cursos/resumen_extraccion_diapositivas.json).
+   - Catálogo de videos: [`docs/Cursos/catalogo_descargas_videos.json`](file:///C:/Users/majon/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Cursos/catalogo_descargas_videos.json).
+   - Base de diapositivas: [`docs/Cursos/resumen_extraccion_diapositivas.json`](file:///C:/Users/majon/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Cursos/resumen_extraccion_diapositivas.json).

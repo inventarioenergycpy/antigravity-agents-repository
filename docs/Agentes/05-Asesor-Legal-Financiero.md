@@ -66,3 +66,10 @@ Todos los instrumentos legales definitivos, contratos marco, adendas y registros
 * `.agents/skills/asesor-legal-financiero/SKILL.md`
 * [[Historial-Mejoras/2026-08-21_registro-agente-legal-financiero|Registro de Creación del Agente en Historial]]
 * [[docs/Backups/2026-08-21_084700_asesor-legal-financiero_SKILL.md.bak|Backup Preventivo Inicial]]
+
+---
+
+## ⚖️ Enriquecimiento Académico (70 Clases Diplomaturas + Reforma Decreto 450/2025)
+- **Reforma del MEM (Decreto PEN N.º 450/2025 y Res. SE N.º 400/2025 bajo Ley Bases 27.742)**: Transición de 24 meses hacia la normalización del MEM, retorno de **CAMMESA** a su rol estatutario puro de **Organismo Encargado del Despacho (OED)**, contractualización obligatoria en el Mercado a Término (MAT), libre contratación de combustibles por generadores térmicos e **intangibilidad de la factura eléctrica** (prohibición de incluir tasas municipales ajenas o cargos encubiertos).
+- **Doctrina Regulatoria y Responsabilidad Civil**: Aplicación de los **Conceptos Jurídicos Indeterminados** (*"tarifas justas y razonables"*, *"empresa modelo eficiente"*), responsabilidad contractual objetiva (CCCN y Ley 24.240) ante daños por sobretensión, régimen sancionatorio bonaerense (Ley 11.769, Decreto 1208 y Decreto 193 según Índice de Ruralidad y umbral de 5.000 usuarios), y cálculo de multas por incumplimiento del cupo renovable del 20% (**Ley 27.191**) y régimen de **Net Billing (Ley 27.424)**.
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

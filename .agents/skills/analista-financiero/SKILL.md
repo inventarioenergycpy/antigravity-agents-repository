@@ -151,3 +151,30 @@ En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables
 - **Servidumbres de Paso y Cruces de Infraestructura (Ítems 31 a 34)**: Cuantificación del costo de indemnización notarial por constitución de servidumbres de electroducto y cánones viales (DNV/concesionarios).
 - **Planes de Compensación Biótica y Forestal (Ítems 48 a 51)**: Integración en el Capex de los costos de desmonte selectivo, viveros de especies nativas, planes de rescate de fauna y programas de reforestación obligatorios por la DIA.
 - **Arqueología Preventiva (Ítems 52 y 53)**: Presupuesto de honorarios de arqueólogos de campo y monitoreo durante el movimiento de suelos.
+
+---
+
+## 🌿 6. Modelado Financiero de la Transición Energética, LCOE / LCOS, Licitación BESS AlmaGBA, Hidrógeno Verde y Finanzas Sostenibles (Diplomaturas)
+
+Incorpora los modelos cuantitativos de las 70 clases de las Diplomaturas (IDE-UTN.FRSN y SomoslaSEU) y los parámetros reales del mercado argentino 2025–2026:
+
+### 1. Costo Nivelado de la Energía ($\text{LCOE}$), del Almacenamiento ($\text{LCOS}$) y del Hidrógeno Verde ($\text{LCOH}$)
+- **Fórmula Canónica de $\text{LCOE}$ y Precio PPA Nivelado**:
+  $$\text{LCOE} = \frac{\sum_{t=0}^{N} \frac{\text{CAPEX}_t + \text{OPEX}_t}{(1 + WACC)^t}}{\sum_{t=1}^{N} \frac{E_{\text{bruta}, t} \cdot (1 - f_{\text{curtailment}}) \cdot (1 - d)^{t-1}}{(1 + WACC)^t}} \quad [\text{USD/MWh}]$$
+  *Regla de Sensibilidad MATER*: En proyectos adjudicados bajo **MATER Referencial A** en CAMMESA, modelar explícitamente un escenario de sensibilidad con recorte programado ($f_{\text{curtailment}}$) de hasta el **8% anual** sobre la energía facturable hasta la habilitación de las ampliaciones de transporte.
+- **Modelado Financiero de Centrales de Almacenamiento BESS (Benchmark Real "AlmaGBA" 2025–2026)**:
+  - **Parámetros Técnicos de Ciclo**: Baterías $\text{LiFePO}_4$ con eficiencia de ida y vuelta $\eta_{\text{RTE}} \approx 88\% - 92\%$, descarga continua de **4 horas**, degradación anual de capacidad y *augmentation* (reposición de racks en el año 8–10).
+  - **Ingresos por Pago de Capacidad Firme + Energía**: En el marco de la licitación **AlmaGBA** (713 MW adjudicados sobre 1.347 MW ofertados en Edenor/Edesur con garantía de última instancia de CAMMESA a **15 años**), el canon de potencia adjudicado se ubica en **~USD 10.161 / MW-mes** (frente al precio tope de pliego de USD 15.000 / MW-mes), complementado por el margen de arbitraje horario valle-pico y remuneración de operación.
+- **Modelado de Hidrógeno Verde ($\text{H}_2$) y Amoníaco Verde ($\text{NH}_3$ Haber-Bosch)**:
+  - Consumo eléctrico de electrólisis: **$50 - 55\text{ kWh/kg }\text{H}_2$**.
+  - Comparativa económica de vectores de exportación: Licuar hidrógeno a $-253^\circ\text{C}$ consume ~30% de su energía contenida; convertirlo en **Amoníaco Verde ($\text{N}_2 + 3\text{H}_2 \rightarrow 2\text{NH}_3$)** permite licuarlo a **$-33^\circ\text{C}$** reduciendo drásticamente el CAPEX/OPEX logístico naviero y portuario.
+
+### 2. Instrumentos de Finanzas Verdes, Mercados de Carbono y Proyectos RIGI (Ley 27.742)
+- **Bonos Verdes (*Green Bonds* - ICMA) y Bonos Vinculados a la Sostenibilidad (*SLBs*)**:
+  - Modelado de la reducción del costo de la deuda gracias al **Greenium** ($15\text{ a }50\text{ bps}$ de menor tasa frente a un bono convencional equivalente) y penalidades de *step-up* de cupón en SLBs ante incumplimiento de metas de reducción de emisiones (Identidad de Kaya).
+- **Monetización de Atributos Ambientales**:
+  - **Certificados I-REC**: Ingreso marginal en USD/MWh por venta de certificados de energía renovable trazables.
+  - **Créditos de Carbono y Ajuste en Frontera CBAM (Unión Europea)**: Cuantificación del ahorro impositivo por tonelada de $\text{CO}_2$ evitada en industrias electrointensivas exportadoras (siderurgia, aluminio, fertilizantes).
+- **Casos Testigo de Estructuración RIGI en Energía (2025–2026)**:
+  1. **PSFV El Quemado (YPF Luz — Mendoza)**: **305 MW** bifaciales, CAPEX de **USD 211–220 millones** ($\approx \text{USD } 0,69 - 0,72\text{ M/MW}$), primer proyecto renovable adherido al RIGI.
+  2. **Parque Eólico Olavarría (PCR y ArcelorMittal Acindar — PBA)**: **180 MW** (30 aerogeneradores de 6 MW), CAPEX de **USD 250–275 millones**, estructurado para descarbonizar el acero de Acindar (mitigación CBAM) e incluyendo en su CAPEX la ampliación de capacitores serie en el corredor de 500 kV Bahía Blanca – Ezeiza.

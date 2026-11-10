@@ -207,13 +207,50 @@ Toda intervención técnica o desarrollo conducido por este agente cumplirá est
 - [[docs/Proyectos/2026-11-02_psfv-cutral-co-ii-30mw|PSFV Cutral Có II (30 MWac / 36.29 MWdc) - Memoria Integral y Data Room]]
 - [[docs/Modelos/Modelo-Ingenieria-Parques-Solares-Renovables-Argentina|Modelo Maestro de Ingeniería para Parques Solares y Renovables en Argentina]]
 - [[docs/Proyectos/2026-10-14_asesoramiento-parque-solar-fotovoltaico|Asesoramiento Parque Solar Georreferenciado Sferco (Growatt & EPEC)]]
+- [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Integral: Diplomatura en Transición Energética (30 Clases)]]
+- [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Integral: Diplomatura en Energía Eléctrica (40 Clases)]]
 
 ---
 
-## 🔗 8. Enlaces Relacionales en Obsidian
+## 🔋 8. Conocimiento Avanzado de las Diplomaturas y Realidad del Mercado Argentino 2025–2026 (BESS AlmaGBA, HVDC/500kV, MATER Referencial A, RIGI e Hidrógeno Verde)
+
+Incorpora el acervo técnico y regulatorio de las 70 clases de las Diplomaturas (IDE-UTN.FRSN y SomoslaSEU) articulado con los hitos reales del SADI en 2025–2026:
+
+### 1. Hibridación con Almacenamiento BESS ($\text{LiFePO}_4$), PCS Grid-Forming y Licitación "AlmaGBA"
+- **Química y Rendimiento de Ciclo Completo**: Uso estándar de baterías **Litio-Ferrofosfato ($\text{LiFePO}_4$ / LFP)** por su seguridad térmica intrínseca y vida útil de $6.000 - 8.000\text{ ciclos}$, con eficiencia de ciclo completo (*Round-Trip Efficiency*):
+  $$\eta_{\text{RTE}} = \frac{E_{\text{descarga AC}}}{E_{\text{carga AC}}} \times 100 \approx 88\% - 92\%$$
+- **Inversores Bidireccionales PCS: Grid-Following vs. Grid-Forming**:
+  - En nodos débiles con baja potencia de cortocircuito ($SCR < 2$) o alta penetración renovable, exigir inversores **Grid-Forming (GFM)** capaces de operar como fuentes de tensión ideales, sintetizar **inercia virtual instantánea ($H_{\text{sint}}$)**, limitar el $RoCoF$ ($df/dt$), sostener tensión ante huecos profundos y proveer arranque en negro (*Black Start*).
+- **Benchmark Real Argentino — Licitación BESS "AlmaGBA" (CAMMESA / SE 2025–2026)**:
+  - Primera licitación a gran escala de almacenamiento BESS en nodos críticos del AMBA (Edenor y Edesur) para *peak shaving* y desplazamiento de generación térmica forzada, con módulos de **4 horas de descarga continua**.
+  - Sobre una meta inicial de **500 MW**, se ofertaron **1.347 MW** (27 proyectos) y se adjudicaron **más de 713 MW** (incluyendo *BESS Nuevo Puerto*, *BESS Costanera* y *BESS Chingolo*) a precios competitivos de **~USD 10.161/MW-mes** (frente al tope de pliego de USD 15.000/MW-mes), bajo contratos PPA de capacidad a **15 años** firmados directamente con Edenor y Edesur y con **CAMMESA** como garante de pago de última instancia.
+
+### 2. Asignación de Prioridad de Despacho MATER Pleno vs. MATER Referencial A (8% Curtailment)
+- **Ley 27.191 (Cupo del 20% para Grandes Usuarios $\ge 300\text{ kW}$)**: Penalidad por incumplimiento equivalente al costo marginal de generación con gasoil importado liquidado por CAMMESA.
+- **MATER Pleno vs. MATER Referencial A**:
+  - *MATER Pleno*: Para nodos con capacidad de evacuación vacante al 100%.
+  - *MATER Referencial A*: Mecanismo habilitado por CAMMESA para destrabar proyectos en corredores de 132 kV / 500 kV saturados, asignando prioridad de despacho condicionada a aceptar una probabilidad de **recorte o vertimiento programado (*curtailment*) de hasta el 8% anual** de la energía generada hasta tanto entren en servicio las obras de ampliación de transporte. En el modelo PVSyst / DCF de estos proyectos debe deducirse explícitamente el factor $f_{\text{curtailment}} \le 8\%$.
+
+### 3. Transporte en 500 kV ($SIL$, Efecto Ferranti), HVDC VSC y Proyectos RIGI Reales
+- **Física de Transmisión en 500 kV (HVAC) vs. HVDC VSC**:
+  - En líneas de CA de 500 kV, la potencia natural es $SIL = V_n^2 / Z_c$ ($Z_c = \sqrt{L/C}$) y la transferencia activa responde a $P_{ij} = \frac{V_i V_j}{X_L}\sin(\delta_i - \delta_j)$. En horas valle ($P < SIL$) se produce sobretensión por **Efecto Ferranti** (mitigado con reactores shunt), mientras que para aumentar el límite de estabilidad angular en corredores largos se instalan **bancos de capacitores serie**.
+  - Para distancias aéreas superiores a **600–800 km**, la transmisión **HVDC VSC** (con transistores IGBT multinivel MMC) supera técnicamente y económicamente al HVAC ($P_{\text{loss, HVDC}} = 2 I_{DC}^2 R_{DC} \ll P_{\text{loss, HVAC}}$), eliminando las corrientes capacitivas y controlando independientemente $P$ y $Q$.
+- **Casos Reales Aprobados bajo el RIGI (Ley 27.742) en Argentina**:
+  1. **Parque Solar Fotovoltaico "El Quemado" (YPF Luz — Las Heras, Mendoza)**: **305 MW** con más de 500.000 paneles bifaciales, inversión de **USD 211–220 millones**, primer parque renovable aprobado bajo el RIGI en iniciar operaciones, vinculado al SADI mediante nueva subestación GIS en conjunto con Distrocuyo.
+  2. **Parque Eólico "Olavarría" (PCR y ArcelorMittal Acindar — PBA)**: **180 MW** (30 aerogeneradores de 6 MW), inversión de **USD 250–275 millones** para abastecer y descarbonizar las plantas siderúrgicas de Acindar, incorporando **obras de ampliación de transporte en 500 kV** (reemplazo de capacitores serie en las ETs Olavarría y Ezeiza sobre el corredor Bahía Blanca – Ezeiza/Abasto).
+
+### 4. Acoplamiento con Hidrógeno Verde ($\text{H}_2$) y Amoníaco Verde ($\text{NH}_3$ Haber-Bosch)
+- **Dimensionamiento de Electrolizadores (Alcalinos y PEM)**: Consumo específico de **$50 - 55\text{ kWh}$ de electricidad renovable por cada $\text{kg de H}_2$** producido ($2\text{H}_2\text{O} \rightarrow 2\text{H}_2 + \text{O}_2$). Los electrolizadores PEM se prefieren para acoplamiento directo a parques solares/eólicos variables por su respuesta dinámica en milisegundos.
+- **Vector de Exportación — Amoníaco Verde ($\text{NH}_3$)**: Dado que licuar hidrógeno puro exige **$-253^\circ\text{C}$** (consumiendo ~30% de su energía y causando fragilización metalúrgica), los proyectos de escala gigavatio integran una planta **Haber-Bosch Verde** ($\text{N}_2 + 3\text{H}_2 \rightarrow 2\text{NH}_3$) que licúa el amoníaco a solo **$-33^\circ\text{C}$**, aprovechando buques metaneros/gaseros LPG existentes.
+
+---
+
+## 🔗 9. Enlaces Relacionales en Obsidian
 - [[00-Dashboard-MOC]]
 - [[docs/Agentes/01-Analista-Financiero]]
 - [[docs/Agentes/02-Ciencia-de-Datos]]
 - [[docs/Agentes/06-Arquitecto-Sistemas-EPEC]]
+- [[docs/Agentes/09-Profesor-Experto-Mercado-Electrico]]
+- [[docs/Agentes/10-Alumno-Auditor-Academico]]
 - [[docs/Agentes/11-Copiloto-Orquestador-de-Skills]]
 

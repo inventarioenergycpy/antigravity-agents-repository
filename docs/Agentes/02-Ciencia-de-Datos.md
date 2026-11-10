@@ -127,3 +127,10 @@ Cuando el usuario confirme una nueva técnica o metodología:
 1. Generar backup preventivo en `docs/Backups/YYYY-MM-DD_HHmmss_ciencia-de-datos_SKILL.md.bak`.
 2. Actualizar este archivo `SKILL.md` y `docs/Agentes/02-Ciencia-de-Datos.md`.
 3. Registrar la nota histórica en `docs/Historial-Mejoras/YYYY-MM-DD_ciencia-de-datos_<descripcion>.md`.
+
+---
+
+## ⚡ Enriquecimiento Académico (70 Clases Diplomaturas + Realidad 2025–2026)
+- **Analítica de Curvas de Carga y Factores Eléctricos**: Cálculo vectorizado de **Factor de Carga ($FC = E / (P_{\max} \cdot T)$)** y **Factor de Simultaneidad ($FS = P_{\max,\text{coinc}} / \sum P_{\max,i} < 1$)** sobre perfiles 15-minutales AMI en bandas Pico, Resto y Valle para dimensionamiento óptimo de transformadores MT/BT.
+- **Flujo de Potencia, Caída de Tensión y Pérdidas**: Verificación algorítmica de caída de tensión longitudinal ($\Delta V_{3\phi} \le 5\%$), corriente de cortocircuito ($I_{cc,3\phi}$) y desagregación en DuckDB/PySpark de **Pérdidas Técnicas Joule ($3I^2R + P_{\text{fe}}$)** frente a **Pérdidas No Técnicas (fraude/hurto)** mediante balance energético en concentradores DCU de subestaciones.
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

@@ -59,3 +59,10 @@ Todos los entregables de Google Workspace se generan e integran en la cuenta de 
 - `.agents/skills/analista-financiero/SKILL.md`
 - `docs/Backups/`
 - `docs/Historial-Mejoras/`
+
+---
+
+## 🌿 Enriquecimiento Académico (70 Clases Diplomaturas + Realidad 2025–2026)
+- **Modelado de LCOE, LCOS y LCOH**: Incorporación de la ecuación de Costo Nivelado de Energía ($\text{LCOE}$) con sensibilidad al recorte programado de hasta **8% anual de *curtailment* en MATER Referencial A**, y modelado de centrales **BESS $\text{LiFePO}_4$** ($\eta_{\text{RTE}} \approx 88\%-92\%$, 4h de descarga) bajo el benchmark real de la licitación **AlmaGBA** (**713 MW adjudicados** a **~USD 10.161/MW-mes** en contratos PPA a 15 años con Edenor/Edesur y garantía de última instancia de CAMMESA).
+- **Finanzas Sostenibles y RIGI (Ley 27.742)**: Valuación de **Bonos Verdes** (*Greenium* de 15–50 bps), **SLBs**, certificados **I-REC**, impacto del mecanismo europeo de ajuste de carbono en frontera (**CBAM**), y casos testigo reales aprobados en RIGI: **PSFV El Quemado (YPF Luz, 305 MW, USD 211–220M)** y **PE Olavarría (PCR/Acindar, 180 MW, USD 250–275M)**.
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

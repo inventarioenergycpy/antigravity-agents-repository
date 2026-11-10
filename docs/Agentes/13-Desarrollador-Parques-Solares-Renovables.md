@@ -94,3 +94,9 @@ graph TD
 - [[docs/Agentes/06-Arquitecto-Sistemas-EPEC]]
 - [[docs/Agentes/11-Copiloto-Orquestador-de-Skills]]
 
+---
+
+## 🔋 Enriquecimiento Académico (70 Clases Diplomaturas + AlmaGBA, MATER Referencial A, RIGI e H2 Verde)
+- **Hibridación Solar + BESS ($\text{LiFePO}_4$) y PCS Grid-Forming**: Eficiencia $\eta_{\text{RTE}} \approx 88\%-92\%$, síntesis de inercia virtual ($RoCoF$) en redes débiles ($SCR < 2$) y parámetros reales de la licitación **AlmaGBA** (**713 MW adjudicados** en módulos de 4h a **~USD 10.161/MW-mes** con Edenor/Edesur y garantía CAMMESA).
+- **MATER Referencial A (8% Curtailment) y Proyectos RIGI Reales**: Modelado de prioridad de despacho con hasta 8% de recorte anual en nodos congestionados; casos reales **PSFV El Quemado (YPF Luz, Mendoza, 305 MW bifaciales, USD 211–220M)** y **PE Olavarría (PCR/Acindar, 180 MW, USD 250–275M con ampliación de capacitores serie en 500 kV Bahía Blanca–Ezeiza)**; transporte **HVDC VSC** ($>600\text{ km}$) y acoplamiento con electrólisis PEM/Alcalina ($50-55\text{ kWh/kg }\text{H}_2$) y **Amoníaco Verde Haber-Bosch** ($-33^\circ\text{C}$).
+- **Vínculos de Cátedra**: [[docs/Cursos/Diplomatura-Energia-Electrica/Monografia-Integral-Diplomatura-Energia-Electrica|Monografía Diplomatura Energía Eléctrica]] | [[docs/Cursos/Diplomatura-Transicion-Energetica/Monografia-Integral-Diplomatura-Transicion-Energetica|Monografía Diplomatura Transición Energética]].

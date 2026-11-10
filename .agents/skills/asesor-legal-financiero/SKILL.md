@@ -1,4 +1,4 @@
-﻿---
+---
 name: asesor-legal-financiero
 description: Agente Experto en Legal en el marco de leyes internacionales y argentinas (CCCN Ley 26.994, Reglamento EPEC). Especializado en estrategia documental para intermediación financiera, protección anti-circunvención (NCNDA), contratos de corretaje con overprice, mandatos, fee sharing, trazabilidad probatoria, régimen de ilícitos/recupero de energía y gestión en Google Drive.
 ---
@@ -101,3 +101,29 @@ En articulación con el **Agente 13** (`desarrollador-parques-solares-renovables
 ### 4. Interconexión y Garantías Bancarias CAMMESA (Ítems 21 a 27)
 - **Convenios de Interconexión**: Firma de acuerdos de acceso a la capacidad de transporte con Transportistas Troncales (Transener, Transba, Distrocuyo, EPEN, etc.) y Distribuidoras (EPEC).
 - **Garantías Bancarias y Curva S**: Instrumentación de boletas de garantía bancaria exigidas por CAMMESA (Res. MEyM 281-E/17 y Res. SE 330/23) para reserva de potencia y supervisión legal de hitos contractuales de la Curva S para evitar ejecuciones de avales.
+
+---
+
+## ⚖️ 5. Derecho Regulatorio del Sector Eléctrico y Transición Energética (Doctrina de las Diplomaturas y Reforma Decreto 450/2025)
+
+En articulación con las 70 clases de las Diplomaturas (IDE-UTN.FRSN y SomoslaSEU), este agente integra el plexo jurídico-regulatorio del SADI y de la distribución eléctrica:
+
+### 1. Marco Nacional (Leyes 15.336 y 24.065) y Reforma Estructural por Decreto PEN N.º 450/2025 y Res. SE N.º 400/2025
+- **Desintegración Vertical y Prohibición de Concentración (Arts. 30 a 32 Ley 24.065)**:
+  - **Generación**: Actividad de interés general en libre competencia (no es servicio público).
+  - **Transporte y Distribución**: Servicios públicos monopólicos naturales regulados por tarifa/peaje y sujetos al principio de Acceso Abierto no discriminatorio (*Open Access*). Los transportistas tienen prohibido comprar o vender energía eléctrica.
+- **Reforma del MEM 2025–2026 (Decreto PEN N.º 450/2025 y Res. SE N.º 400/2025 en el marco de la Ley de Bases N.º 27.742)**:
+  - Fija un período de transición de **24 meses** para normalizar las transacciones del MEM.
+  - Restablece la **libre contratación en el Mercado a Término (MAT)** con obligación para las distribuidoras de contractualizar gradualmente su demanda, y habilita a los generadores térmicos a contratar directamente sus combustibles.
+  - **Retorno de CAMMESA a su rol estatutario de OED**: CAMMESA (Decreto 1192/92) deja de actuar como comprador/vendedor centralizado de combustibles y energía, limitándose al despacho técnico y liquidación económica. En licitaciones de almacenamiento como **AlmaGBA (713 MW BESS)**, los contratos PPA a 15 años se firman directamente entre los generadores y las distribuidoras (Edenor/Edesur), actuando CAMMESA solo como garante de última instancia.
+  - **Intangibilidad Legal de la Factura Eléctrica**: Prohibición expresa de incluir en las facturas de electricidad tasas municipales ajenas al servicio eléctrico o tributos locales encubiertos.
+
+### 2. Doctrina de los Conceptos Jurídicos Indeterminados, Servicio Esencial y Responsabilidad Civil (CCCN / Ley 24.240)
+- **Conceptos Jurídicos Indeterminados en Regulación Tarifaria**: Términos legales como *"tarifas justas y razonables"*, *"confiabilidad adecuada"* o *"empresa modelo eficiente"* no otorgan discrecionalidad arbitraria al regulador (ENRE / ERSeP / OCEBA), sino que exigen motivación técnica fundada en estudios de costos de ingeniería, contabilidad regulatoria y tasa de costo de capital ($WACC$) en las Revisiones Tarifarias Integrales (**RTI**).
+- **Naturaleza de Servicio Esencial y Derecho del Consumidor**: Conforme al Código Civil y Comercial de la Nación (**CCCN**) y la **Ley de Defensa del Consumidor N.º 24.240** (y Art. 2 Ley PBA 11.769), la responsabilidad de la distribuidora ante daños en artefactos por sobretensiones o interrupciones anormales es de **naturaleza contractual objetiva**, eximiéndose únicamente mediante prueba fehaciente de caso fortuito o fuerza mayor externa a sus instalaciones.
+- **Régimen Provincial Bonaerense (Ley 11.769)**: Modelo de Contrato de Concesión Provincial y Municipal (Decreto 1208), Subanexo de Calidad y Sanciones diferenciado según umbral de **5.000 usuarios** e **Índice de Ruralidad Relevante** (Decreto 193), y rol del **FREBA / FITBA** para obras de transmisión en 132 kV.
+
+### 3. Régimen Sancionatorio de Energías Renovables (Ley 27.191) y Generación Distribuida (Ley 27.424 / Ley Cba 10.604)
+- **Obligación Legal del 20% Renovable y Multas (Ley 27.191)**: Los Grandes Usuarios del MEM con demanda $\ge 300\text{ kW}$ deben cubrir al menos el $20\%$ de su consumo con fuentes renovables (vía PPA en **MATER Pleno / Referencial A**, autogeneración o compras conjuntas CAMMESA). El incumplimiento devenga una penalidad equivalente a:
+  $$\text{Multa Ley 27.191} = \left(E_{\text{obligatoria 20\%}} - E_{\text{renovable consumida}}\right) \times CMg_{\text{gasoil CAMMESA}}$$
+- **Marco Jurídico del *Net Billing* (Ley 27.424 y Decreto 986/2018)**: Instrumentación contractual del Usuario-Generador y de la Generación Distribuida Comunitaria Virtual, garantizando la exención de impuestos nacionales sobre la inyección y el pago íntegro del VAD a la distribuidora sobre la energía tomada de la red.

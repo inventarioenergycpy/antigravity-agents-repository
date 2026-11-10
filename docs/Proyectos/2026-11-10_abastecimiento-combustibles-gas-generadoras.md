@@ -64,8 +64,10 @@ Energy CPY provee un servicio integral de **Brokerage, Agregación de Demanda y 
 
 ## 🔗 Enlaces Relacionados
 - Repositorio Dedicado: [https://github.com/inventarioenergycpy/abastecimiento-combustibles-gas-generadoras](https://github.com/inventarioenergycpy/abastecimiento-combustibles-gas-generadoras)
+- Dossier y Presentación del Equipo: [`E:\Proyectos\abastecimiento-combustibles-gas-generadoras\docs\05-Presentacion-Iniciativa-Equipo-Trabajo-Negociaciones.md`](file:///E:/Proyectos/abastecimiento-combustibles-gas-generadoras/docs/05-Presentacion-Iniciativa-Equipo-Trabajo-Negociaciones.md)
 - Estudio Técnico de Precios: [`E:\Proyectos\abastecimiento-combustibles-gas-generadoras\docs\01-Estudio-Mercado-Precios-Combustibles.md`](file:///E:/Proyectos/abastecimiento-combustibles-gas-generadoras/docs/01-Estudio-Mercado-Precios-Combustibles.md)
 - Estudio Logístico: [`E:\Proyectos\abastecimiento-combustibles-gas-generadoras\docs\02-Analisis-Logistica-Interna-Importacion.md`](file:///E:/Proyectos/abastecimiento-combustibles-gas-generadoras/docs/02-Analisis-Logistica-Interna-Importacion.md)
 - Directorio de Generadoras: [`E:\Proyectos\abastecimiento-combustibles-gas-generadoras\docs\03-Listado-Generadoras-PlanGas-Potenciales-Clientes.md`](file:///E:/Proyectos/abastecimiento-combustibles-gas-generadoras/docs/03-Listado-Generadoras-PlanGas-Potenciales-Clientes.md)
 - Marco Legal y Brokerage: [`E:\Proyectos\abastecimiento-combustibles-gas-generadoras\docs\04-Marco-Regulatorio-Decreto450-Res400-Oportunidad-Brokerage.md`](file:///E:/Proyectos/abastecimiento-combustibles-gas-generadoras/docs/04-Marco-Regulatorio-Decreto450-Res400-Oportunidad-Brokerage.md)
 - Dashboard Central MOC: [[00-Dashboard-MOC]]
+

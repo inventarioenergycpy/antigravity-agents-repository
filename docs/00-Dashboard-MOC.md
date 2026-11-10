@@ -68,6 +68,7 @@ graph TD
     ProyectosHub --> RepoCareer["Repo Carrera: inventarioenergycpy/career-market-intelligence"]
     ProyectosHub --> RepoRealEstate["Repo Real Estate: inventarioenergycpy/real-estate-investment-intelligence"]
     ProyectosHub --> RepoHubRigi["Repo Hub RIGI: inventarioenergycpy/hub-renovable-rigi-llave-en-mano"]
+    ProyectosHub --> RepoCombustibles["Repo Combustibles: inventarioenergycpy/abastecimiento-combustibles-gas-generadoras"]
     
     MOC --> SyncProtelem["Protocolo Sincronización Red PROTELEM (\\srvfs01\...)"]
     MOC --> SyncObsidian["Protocolo Sincronización Obsidian - GitHub"]
@@ -239,6 +240,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-11-10_abastecimiento-combustibles-gas-generadoras|2026-11-10 Abastecimiento Estratégico y Brokerage de Gas Natural y Combustibles para Generadoras en el MEM (Decreto 450/2025, Res. SE 400/2025 & Pool USD 171.9M/año)]] (`inventarioenergycpy/abastecimiento-combustibles-gas-generadoras`)
 - [[docs/Proyectos/2026-11-10_propuesta-llave-en-mano-rigi-turquia-bess-electrogasolineras-h2v|2026-11-10 Hub Renovable RIGI Llave en Mano (EPC + Project Finance: Solar 250 MWac + BESS Grid-Forming + 10 Electrogasolineras + Bus H2V-Ready + Radar Web de Licitaciones)]] (`inventarioenergycpy/hub-renovable-rigi-llave-en-mano`)
 - [[docs/PROTELEM/2026-11-06_auditoria-suministros-vialidad-cooperativas-sigec|2026-11-06 Alumbrado Público Vialidad Provincial: Auditoría Integral de Suministros, Cooperativas, GUDIS y Base Comercial SIGEC]]
 - [[docs/Proyectos/2026-11-04_real-estate-investment-intelligence|2026-11-04 Real Estate Investment Intelligence (Valuación CMA, Escalamiento Patrimonial y Modelado DCF Córdoba)]] (`inventarioenergycpy/real-estate-investment-intelligence`)

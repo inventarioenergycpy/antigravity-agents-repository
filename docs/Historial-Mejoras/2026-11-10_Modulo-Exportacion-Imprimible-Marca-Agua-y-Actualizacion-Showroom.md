@@ -58,3 +58,4 @@ Se documentó y estandarizó el **Módulo de Exportación de Información Imprim
   - [`js/main.js`](file:///C:/Users/majon/.gemini/antigravity-ide/scratch/showroom-energycpy/js/main.js)
   - [`scripts/generate_catalog_pdf.py`](file:///C:/Users/majon/.gemini/antigravity-ide/scratch/showroom-energycpy/scripts/generate_catalog_pdf.py)
   - [`assets/pdf/Energy_CPY_Catalogo_Resumenes_Ejecutivos_Showroom_2026.pdf`](file:///C:/Users/majon/.gemini/antigravity-ide/scratch/showroom-energycpy/assets/pdf/Energy_CPY_Catalogo_Resumenes_Ejecutivos_Showroom_2026.pdf)
+

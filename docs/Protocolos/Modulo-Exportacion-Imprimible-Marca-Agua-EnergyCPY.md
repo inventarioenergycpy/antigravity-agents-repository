@@ -27,7 +27,10 @@ Establecer un módulo estandarizado, reutilizable y obligatorio para el **Agente
 ### Pilar 1: Registro Oficial de Marca de Agua (`WATERMARK_REGISTRY`)
 - **Imagen Oficial**: `logo Energy CPY 4v fondo transparente_.png` (almacenada como `assets/images/logo-energy-cpy-4v-transparente.png` y/o embebida en URI Base64 para portabilidad offline).
 - **Transparencia**: **60% de transparencia** (`opacity: 0.40` en CSS).
-- **Posicionamiento y Escala**: Centrada exactamente en el medio de la hoja imprimible (`top: 50%; left: 50%; transform: translate(-50%, -50%)`) ocupando el **máximo tamaño que quepa en la hoja** (`width: 94%; height: 90%; object-fit: contain;`).
+- **Posicionamiento, Escala y Repetición en CADA Hoja (Cualquier Tamaño de Papel)**:
+  - El contenedor global de marca de agua (`body > #ecpyGlobalPrintWatermark` o `body > .page-watermark`) debe ubicarse como **hijo directo de `<body>`** con `position: fixed !important; top: 0 !important; left: 0 !important; right: 0 !important; bottom: 0 !important; width: 100% !important; height: 100% !important; transform: none !important; z-index: 0 !important;` y su imagen interna con `width: 94% !important; height: 90% !important; max-width: 94% !important; max-height: 90% !important; object-fit: contain !important; object-position: center center !important; opacity: 0.40 !important;`.
+  - En `@page` **no se debe bloquear `size: A4 portrait`** (solo definir `margin: 8mm;` o `10mm;`), asegurando que el logotipo aparezca centrado al tamaño máximo proporcional **en cada hoja que se vaya a imprimir sin importar el tamaño u orientación que se configure** (A4, Carta/Letter, Oficio/Legal, A3, Vertical u Horizontal).
+  - En `@media print`, `body` y todos los contenedores intermedios (`#onePagerModal`, `.one-pager-modal-container`, `.one-pager-sheet-scroll`, `.one-pager-sheet`, `.container`) deben declarar `background: transparent !important; transform: none !important; animation: none !important; filter: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important;` para no atrapar el contexto `position: fixed` ni pintar fondos blancos opacos sobre la marca de agua en las páginas 2, 3, ... $N$.
 - **Visibilidad Garantizada**: En modo imprimible (`@media print` y `.print-preview`), todos los contenedores, tarjetas y tablas ubicadas por encima de la marca de agua deben utilizar fondos translúcidos (`background: rgba(255, 255, 255, 0.18)` a `0.25`) para no tapar nunca el logotipo central.
 
 ### Pilar 2: Registro Oficial de Datos de la Empresa y Consultores (`COMPANY_REGISTRY`)
@@ -56,3 +59,4 @@ Establecer un módulo estandarizado, reutilizable y obligatorio para el **Agente
 - [[00-Dashboard-MOC]]
 - [[docs/Agentes/03-Desarrollador-Web-Showroom|Agente 03: Desarrollador Web para Showrooms]]
 - [[.agents/skills/desarrollador-web-showroom/SKILL|Skill: desarrollador-web-showroom]]
+

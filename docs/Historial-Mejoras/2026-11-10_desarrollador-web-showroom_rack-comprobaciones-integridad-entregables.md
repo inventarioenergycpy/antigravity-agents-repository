@@ -42,3 +42,4 @@ Se formalizó de manera mandatoria en la habilidad [`.agents/skills/desarrollado
 - [`docs/Backups/2026-11-10_114300_desarrollador-web-showroom_SKILL.md.bak`](file:///C:/Users/Usuario/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Backups/2026-11-10_114300_desarrollador-web-showroom_SKILL.md.bak)
 - [`docs/Backups/2026-11-10_114300_03-Desarrollador-Web-Showroom.md.bak`](file:///C:/Users/Usuario/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Backups/2026-11-10_114300_03-Desarrollador-Web-Showroom.md.bak)
 - [`docs/Backups/2026-11-10_114300_Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md.bak`](file:///C:/Users/Usuario/.gemini/antigravity-ide/scratch/antigravity-agents-repository/docs/Backups/2026-11-10_114300_Protocolo-Arquitectura-Multi-Agente-PM-Operadores.md.bak)
+

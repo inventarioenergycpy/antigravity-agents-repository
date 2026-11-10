@@ -43,3 +43,4 @@ Siguiendo el protocolo de repositorios dedicados por proyecto y la Metodología 
 ## 🔗 Enlaces Relacionales
 - [[00-Dashboard-MOC|🏠 Dashboard MOC Principal]]
 - [[docs/Proyectos/2026-11-10_propuesta-llave-en-mano-rigi-turquia-bess-electrogasolineras-h2v|🌐 Ficha del Proyecto Hub Renovable RIGI Llave en Mano]]
+

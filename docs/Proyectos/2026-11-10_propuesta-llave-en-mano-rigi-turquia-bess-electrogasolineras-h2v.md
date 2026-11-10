@@ -4,13 +4,19 @@ fecha: "2026-11-10"
 repositorio_dedicado: "https://github.com/inventarioenergycpy/hub-renovable-rigi-llave-en-mano.git"
 ruta_local: "C:\\Users\\majon\\.gemini\\antigravity-ide\\Proyectos\\hub-renovable-rigi-llave-en-mano"
 squad: "Squad Ágil Multi-Agente S-D / S-C / S-E (Agentes 01, 02, 05, 06, 09, 10, 12 y 13 Enriquecidos)"
-estado: "Repositorio Dedicado Inicializado y Validado por Triple QA"
-capex_total_usd: 240000000
-financiacion_turquia_usd: 120000000
-tir_proyecto_pct: 24.48
-tir_equity_pct: 39.77
-payback_proyecto_anios: 3.68
-payback_equity_anios: 2.36
+estado: "Repositorio Dedicado Inicializado y Recalibrado con Precios Actuales CAMMESA y Stress Test P90 (Triple QA)"
+capex_base_p50_usd: 265000000
+capex_peor_caso_p90_usd: 275000000
+financiacion_turquia_pct: 50.0
+tir_proyecto_base_p50_pct: 14.03
+tir_equity_base_p50_pct: 20.09
+payback_proyecto_base_p50_anios: 6.11
+payback_equity_base_p50_anios: 4.65
+tir_proyecto_peor_caso_p90_pct: 9.16
+tir_equity_peor_caso_p90_pct: 12.01
+payback_proyecto_peor_caso_p90_anios: 8.52
+payback_equity_peor_caso_p90_anios: 7.66
+margen_ganancia_neta_minimo_p90_pct: 19.20
 tags:
   - "#propuesta-llave-en-mano"
   - "#rigi"
@@ -20,14 +26,17 @@ tags:
   - "#venta-potencia"
   - "#electrogasolineras"
   - "#hidrogeno-verde"
+  - "#stress-test-p90"
 ---
 
 # 🌐 Ficha Técnica de Proyecto: Hub Renovable RIGI "Llave en Mano" (`inventarioenergycpy/hub-renovable-rigi-llave-en-mano`)
 
 > [!IMPORTANT]
-> **REPOSITORIO DEDICADO EN GITHUB Y REGLA DE CONFIDENCIALIDAD (BLIND TEASER vs. DOSSIER RESERVADO)**
+> **REPOSITORIO DEDICADO EN GITHUB, REGLA DE CONFIDENCIALIDAD Y AUDITORÍA DE PRECIOS ACTUALES (P50 / P90)**
 > - **Repositorio GitHub**: `https://github.com/inventarioenergycpy/hub-renovable-rigi-llave-en-mano.git`
 > - **Workspace Local Vinculado**: [`C:\Users\majon\.gemini\antigravity-ide\Proyectos\hub-renovable-rigi-llave-en-mano`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/README.md)
+> - **Auditoría de Precios Actuales CAMMESA y Stress Test de Peor Caso Admisible (P90)**:
+>   - Documentada en [`05-Auditoria-Precios-Actuales-y-Stress-Test-Peor-Caso.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/05-Auditoria-Precios-Actuales-y-Stress-Test-Peor-Caso.md): corrige el doble cómputo de energía pico BESS aplicando estrictamente el pliego oficial **CAMMESA *AlmaGBA* (Res. SE 67/2025) / *AlmaSADI* (Res. SE 50/2026 y 155/2026)** (**Potencia Firme $\text{USD } 9.000\text{–}10.500/\text{MW-mes}$ + Energía Variable `PES` $\text{USD } 10,0/\text{MWh}$**), CAPEX *All-In* local ($\text{USD } 265\text{M}$ P50 / $\text{USD } 275\text{M}$ P90) y tasa ECA *All-In* ($7,20\%$ P50 / $7,80\%$ P90), arrojando un **Payback Proyecto de 6,11 años (P50) a 8,52 años (P90)** y un **Payback Equity de 4,65 años (P50) a 7,66 años (P90)** con un **Margen Neto Mínimo Contable $\ge 19,20\%$ en el Peor Caso P90**.
 > - **Protocolo de Confidencialidad sobre la Fábrica Asociada (`Daxler Energy — Daxler Enerji A.Ş.`)**:
 >   1. En la **Presentación Comercial Externa ([`01-Presentacion-Comercial-Blind-Teaser.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/01-Presentacion-Comercial-Blind-Teaser.md))** **NO se menciona el nombre de la empresa (`Daxler`)**, exponiendo únicamente sus logros verificables ($38\text{ años}$ en ingeniería eléctrica desde 1988, planta robotizada con IA de $100.000\text{ m}^2$, capacidad de $1\text{ GW/año}$ en tecnología *N-Type TOPCon / SMBB Bifacial*, Centro de I+D acreditado bajo Ley 5746 y financiación del 50% del proyecto) para proteger el mandato bajo acuerdo **NCNDA**.
 >   2. El **Estudio de Mercado, Oportunidades y Matriz de Riesgos de Daxler Energy** se documenta en forma reservada en [`02-Estudio-Mercado-Oportunidades-Riesgos-Daxler-Reservado.md`](file:///C:/Users/majon/.gemini/antigravity-ide/Proyectos/hub-renovable-rigi-llave-en-mano/docs/02-Estudio-Mercado-Oportunidades-Riesgos-Daxler-Reservado.md).

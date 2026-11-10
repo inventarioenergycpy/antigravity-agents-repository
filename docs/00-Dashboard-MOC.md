@@ -236,6 +236,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-11-10_propuesta-llave-en-mano-rigi-turquia-bess-electrogasolineras-h2v|2026-11-10 Propuesta Integral Llave en Mano (EPC + Project Finance): Hub Renovable RIGI (Solar 250 MWac + BESS Grid-Forming 100 MW / 400 MWh + 10 Pabellones de Electrogasolineras + Bus H2V-Ready) con 50% Financiación del Líder Fotovoltaico de Turquía]]
 - [[docs/PROTELEM/2026-11-06_auditoria-suministros-vialidad-cooperativas-sigec|2026-11-06 Alumbrado Público Vialidad Provincial: Auditoría Integral de Suministros, Cooperativas, GUDIS y Base Comercial SIGEC]]
 - [[docs/Proyectos/2026-11-04_real-estate-investment-intelligence|2026-11-04 Real Estate Investment Intelligence (Valuación CMA, Escalamiento Patrimonial y Modelado DCF Córdoba)]] (`inventarioenergycpy/real-estate-investment-intelligence`)
 - [[docs/Proyectos/2026-11-04_career-market-intelligence|2026-11-04 Career Market Intelligence & Talent Radar (Diagnóstico 360°, Tendencias WEF, Salarios y Radar de Vacantes)]] (`inventarioenergycpy/career-market-intelligence`)

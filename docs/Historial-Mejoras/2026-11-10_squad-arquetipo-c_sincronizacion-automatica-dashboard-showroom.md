@@ -114,12 +114,14 @@ graph TD
 ## 📂 6. Archivos Modificados y Creados
 
 1. **Dashboard (`dashboard-gestion-intermediacion`)**:
-   - [`data/projects-master.json`](file:///E:/Proyectos/dashboard-gestion-intermediacion/data/projects-master.json): `mineria-diente-oro-verde` actualizado a `bloqueado_por_gestion`.
-   - [`js/store.js`](file:///E:/Proyectos/dashboard-gestion-intermediacion/js/store.js): Mapeo bidireccional y emisión en `updateProject`/`addProject`.
-   - [`js/modules/projects.js`](file:///E:/Proyectos/dashboard-gestion-intermediacion/js/modules/projects.js): Corrección de delegación de eventos (`e.currentTarget`) y preservación de campos.
+   - [`data/projects-master.json`](file:///E:/Proyectos/dashboard-gestion-intermediacion/data/projects-master.json): `mineria-diente-oro-verde` actualizado a `bloqueado_por_gestion`. Inyección de campos `title` y `description` a nivel raíz en todos los 25 proyectos para compatibilidad plena con la tabla de gestión y búsqueda.
+   - [`js/store.js`](file:///E:/Proyectos/dashboard-gestion-intermediacion/js/store.js): Mapeo bidireccional y emisión en `updateProject`/`addProject`. Auto-reparación defensiva de `existing.title` y `existing.description` en `loadData()` ante lecturas de `localStorage` con valores `undefined`.
+   - [`js/modules/projects.js`](file:///E:/Proyectos/dashboard-gestion-intermediacion/js/modules/projects.js): Fallbacks robustos `proj.title || proj.es.title || proj.id` en renderizado de tabla, búsqueda y edición. Corrección de delegación de eventos (`e.currentTarget`) y preservación de campos.
+   - [`js/modules/deals.js`](file:///E:/Proyectos/dashboard-gestion-intermediacion/js/modules/deals.js): Fallbacks idénticos en selectores de proyectos en filtros y modal de sub-gestiones.
    - [`scripts/build_bundle.py`](file:///E:/Proyectos/dashboard-gestion-intermediacion/scripts/build_bundle.py): Rutas dinámicas multiplataforma.
-   - [`scripts/sync_portfolio.py`](file:///E:/Proyectos/dashboard-gestion-intermediacion/scripts/sync_portfolio.py): Nuevo script maestro de sincronización de cartera.
+   - [`scripts/sync_portfolio.py`](file:///E:/Proyectos/dashboard-gestion-intermediacion/scripts/sync_portfolio.py): Nuevo script maestro de sincronización de cartera con inyección automática de títulos y descripciones raíz.
    - [`desplegar_todo.bat`](file:///E:/Proyectos/dashboard-gestion-intermediacion/desplegar_todo.bat) y [`publish.bat`](file:///E:/Proyectos/dashboard-gestion-intermediacion/publish.bat): Integración del paso de sincronización automática previa al deploy.
 2. **Showroom Web (`showroom-energycpy`)**:
-   - [`js/main.js`](file:///E:/Proyectos/showroom-energycpy/js/main.js): Inserción del listener `initProjectsBroadcastListener()`, escucha de `storage` event y actualización de `PROJECTS_DATA`.
-   - [`data/projects-master.json`](file:///E:/Proyectos/showroom-energycpy/data/projects-master.json): Archivo espejo maestro incorporado.
+   - [`js/main.js`](file:///E:/Proyectos/showroom-energycpy/js/main.js): Inserción del listener `initProjectsBroadcastListener()`, escucha de `storage` event y actualización de `PROJECTS_DATA` con títulos y descripciones a nivel raíz y en bloque `es`. Fallbacks `cardTitle`, `onePagerTitle`, y defensas ante idiomas en modales, buscador y tarjetas.
+   - [`data/projects-master.json`](file:///E:/Proyectos/showroom-energycpy/data/projects-master.json): Archivo espejo maestro incorporado y sincronizado.
+

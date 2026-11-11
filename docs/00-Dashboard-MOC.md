@@ -177,6 +177,7 @@ graph TD
 ---
 
 ## 📜 Historial de Mejoras Continuas
+- [[Historial-Mejoras/2026-11-11_squad-topologia-subestaciones-y-fusion-parcelaria|2026-11-11 Squad Ágil Arquetipo A - Topología de Subestaciones, Fusión Parcelaria, Log de Excepciones y Tarifa Social EPEC]]
 - [[Historial-Mejoras/2026-11-11_resolucion-geoespacial-zonas-cooperativas-epec|2026-11-11 Squad Ágil & Ciencia de Datos - Resolución Geoespacial Oficial de Zonas EPEC para Cooperativas AMI (Cruce WFS Radios Urbanos vs. Límites Zonas y Validación Oracle SIGEC)]]
 - [[Historial-Mejoras/2026-11-11_ingesta-entregas-cooperativas-epec-ami-2027|2026-11-11 Squad Ágil & Arquitecto EPEC - Ingesta Oficial de Entregas a 38 Cooperativas AMI (47.254 u.), Recalibración de Stock y Nueva Pestaña Interactiva]]
 - [[Historial-Mejoras/2026-11-10_squad-renovables-finanzas_creacion-repo-hub-renovable-rigi-daxler-radar-licitaciones|2026-11-10 Squad Ágil S-D / S-C - Inicialización del Repositorio Dedicado hub-renovable-rigi-llave-en-mano: Blind Teaser Confidencial, Estudio de Mercado y Riesgos de Daxler Energy (Turquía), Catálogo de Entes Oficiales y Radar Web de Licitaciones]]
@@ -242,6 +243,7 @@ graph TD
 ---
 
 ## 🚀 Proyectos y Soluciones en Repositorios Dedicados
+- [[docs/Proyectos/2026-11-11_plan-relevamiento-topologia-set-parcelario|2026-11-11 Plan de Relevamiento, Topología de Subestaciones & Fusión Parcelaria EPEC (5.296 SETs, 386k Parcelas, 110k Excepciones de Frontera y Tarifa Social Dec. 43/19)]] (`PROTELEM-EPEC/plan-relevamiento-topologia-set-parcelario`)
 - [[docs/Proyectos/2026-11-10_abastecimiento-combustibles-gas-generadoras|2026-11-10 Abastecimiento Estratégico y Brokerage de Gas Natural y Combustibles para Generadoras en el MEM (Decreto 450/2025, Res. SE 400/2025 & Pool USD 171.9M/año)]] (`inventarioenergycpy/abastecimiento-combustibles-gas-generadoras`)
 - [[docs/Proyectos/2026-11-10_propuesta-llave-en-mano-rigi-turquia-bess-electrogasolineras-h2v|2026-11-10 Hub Renovable RIGI Llave en Mano (EPC + Project Finance: Solar 250 MWac + BESS Grid-Forming + 10 Electrogasolineras + Bus H2V-Ready + Radar Web de Licitaciones)]] (`inventarioenergycpy/hub-renovable-rigi-llave-en-mano`)
 - [[docs/PROTELEM/2026-11-06_auditoria-suministros-vialidad-cooperativas-sigec|2026-11-06 Alumbrado Público Vialidad Provincial: Auditoría Integral de Suministros, Cooperativas, GUDIS y Base Comercial SIGEC]]

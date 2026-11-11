@@ -1,0 +1,3450 @@
+[00:00:28] Bueno, vamos. Arrancando. Buenos días a
+[00:00:31] todos. ¿Cómo están? Esperamos que bien.
+[00:00:35] Vamos a dar comienzo a la clase 15
+[00:00:40] del módulo 4.
+[00:00:43] Esta clase refiere a estructura
+[00:00:46] tarifaria, categorías tarifarias,
+[00:00:48] componentes de la tarifa y va a estar a
+[00:00:51] cargo de Eduardo Ponzano,
+[00:00:54] ya lo conocen,
+[00:00:57] asiduo compañero, profe de la
+[00:01:00] diplomatura y vamos a contar con la
+[00:01:03] presencia también de Emiliano Carrera, a
+[00:01:06] quien les voy a presentar en esta
+[00:01:07] oportunidad.
+[00:01:09] Eh, Emiliano también es ingeniero,
+[00:01:12] es ingeniero electrónico, tiene un
+[00:01:15] magíster en administración de negocios.
+[00:01:18] Eh, se inició también en la empresa
+[00:01:22] social de energía eléctrica en ese de la
+[00:01:25] provincia e empresa social de de energía
+[00:01:28] de la provincia de Buenos Aires en el
+[00:01:29] año 1995
+[00:01:31] en el área de transacciones económicas
+[00:01:33] haciéndose cargo de proyección de
+[00:01:35] demanda, administración, declaraciones a
+[00:01:37] camesa.
+[00:01:39] con posterioridad, con motivo de la
+[00:01:41] privatización, pasó a trabajar en EDEA
+[00:01:45] desde el año 1997 hasta el 2003 estuvo
+[00:01:48] como responsable de tarifas. 2004 al
+[00:01:52] 2023 estuvo como jefe de departamento de
+[00:01:54] ingeniería regulatoria y tarifas y desde
+[00:01:57] el año 2023 hasta la actualidad está
+[00:02:00] como gerente corporativo de mercado y
+[00:02:02] tarifas del grupo DESA.
+[00:02:05] También es docente en materia de equidad
+[00:02:07] energética en la maestría de desarrollo
+[00:02:09] energético sustentable de LITBA y eh es
+[00:02:12] miembro del Consejo de Administración
+[00:02:14] del Instituto de Energía, que es,
+[00:02:16] digamos, quien este generó esta
+[00:02:18] diplomatura en conjunto con la UT. Así
+[00:02:22] que bueno, hechas las presentaciones.
+[00:02:25] Gracias Eduardo. Gracias Emiliano. Les
+[00:02:28] vamos a dar la palabra. Va a arrancar
+[00:02:30] Eduardo, ¿no?
+[00:02:32] Sí, sí.
+[00:02:37] Cuando quieras te escuchamos.
+[00:02:39] Estamos en eso.
+[00:02:45] Bueno, nuevamente, buenos días. Este,
+[00:02:49] vamos a
+[00:02:51] tomar esta retomar esta esta costumbre
+[00:02:55] de compartir
+[00:02:57] por medio informático
+[00:03:01] este proceso de
+[00:03:04] de conocimiento que estamos tratando de
+[00:03:07] [carraspeo] de avanzar entre todos.
+[00:03:09] [suspiro]
+[00:03:20] que termina recién. Vamos a encalar hoy
+[00:03:23] la clase 15, donde la temática abordar
+[00:03:28] comprende estructura tarifaria,
+[00:03:30] categorías tarifarias, componentes de la
+[00:03:32] tarifa, pas y bad, cargos fijos y
+[00:03:35] variables, pérdidas emitidas e
+[00:03:37] impuestos.
+[00:03:38] En esta primera parte que voy a tener a
+[00:03:42] mi cargo, vamos a ver algunas cuestiones
+[00:03:44] más bien generales y conceptuales de la
+[00:03:46] tarifa y en la segunda parte que va a
+[00:03:49] llevar adelante Emiliano ahí este se va
+[00:03:53] a profundizar ya en cuestiones
+[00:03:55] cuantitativas, no solo cualitativas de
+[00:03:58] la cuestión tarifaria.
+[00:04:01] Bien, entonces
+[00:04:04] vamos a a comenzar esta parte de la
+[00:04:06] charla. tratando de plantearnos por qué
+[00:04:11] en un a una empresa distribuidora de
+[00:04:14] energía eléctrica es necesario regularle
+[00:04:17] tarifas y regularles la calidad del
+[00:04:19] producto que prestan y del servicio que
+[00:04:21] brindan.
+[00:04:22] Eso se debe, como ustedes saben, ya, a
+[00:04:25] que por
+[00:04:27] [carraspeo]
+[00:04:28] su naturaleza
+[00:04:30] la actividad de distribución eléctrica
+[00:04:32] está actualmente y desde hace mucho
+[00:04:34] tiempo categorizada como una actividad
+[00:04:38] monopólica,
+[00:04:39] siendo un monoponio natural. ¿Qué
+[00:04:41] significa esto? Un monopolio natural se
+[00:04:44] entiende por tal cuando para el conjunto
+[00:04:47] de la sociedad la forma más económica de
+[00:04:50] producir un bien o prestar un servicio
+[00:04:52] es que haya un único oferente y no
+[00:04:55] múltiples oferentes en competencia.
+[00:04:58] Bien, ahora,
+[00:05:01] obviamente,
+[00:05:03] siendo la actividad monopólica y
+[00:05:05] habiendo un solo oferente,
+[00:05:07] este, algo hay que hacer con los precios
+[00:05:11] y con la calidad del producto y del
+[00:05:13] servicio que se brinda, porque si no el
+[00:05:15] monopolista podría abusar de su posición
+[00:05:18] dominante el mercado y realmente poner
+[00:05:20] los precios que le parecieran
+[00:05:23] más convenientes y brindar
+[00:05:26] la calidad que le saliera, digamos.
+[00:05:27] digamos, ¿no? Bueno, entonces decíamos
+[00:05:29] la actividad de distribución eléctrica
+[00:05:31] reconocida como un monopolio natural y
+[00:05:33] que tiene a través de un contrato de
+[00:05:36] concesión que es el que formaliza la
+[00:05:38] relación entre el poder concedente, en
+[00:05:43] nuestro caso de la provincia de Buenos
+[00:05:45] Aires, para las cuatro distribuidoras
+[00:05:48] que forman parte del grupo de esa. La
+[00:05:50] concesión fue otorgada por la provincia
+[00:05:52] cuando todavía no estaban todas
+[00:05:54] integradas el mismo grupo, sino que
+[00:05:55] tenían perteneci distintos grupos
+[00:05:57] económicos. Y este para las cerca de 200
+[00:06:02] cooperativas las concesiones son
+[00:06:04] otorgadas por cada uno de los
+[00:06:05] municipios. Sin embargo, tanto en las
+[00:06:09] concesiones provinciales como en las
+[00:06:11] concesiones municipales,
+[00:06:14] el contrato de concesión obedece
+[00:06:17] exactamente al mismo modelo que fue
+[00:06:19] parte del decreto reglamentario de la
+[00:06:22] ley de marco regulatorio 11769.
+[00:06:27] Bien.
+[00:06:29] [resoplido]
+[00:06:31] Eh, decíamos entonces que como hay el
+[00:06:33] monopolista es un único ferente, el
+[00:06:36] poder concedente a través del contrato
+[00:06:39] de concesión regula la forma de
+[00:06:41] determinar la remuneración por el
+[00:06:43] servicio, que es lo que nosotros
+[00:06:45] conocemos como tarifa, y también cuáles
+[00:06:48] son los niveles mínimos de calidad con
+[00:06:51] que ese servicio debe ser prestado. Y
+[00:06:54] obviamente si esas condiciones de
+[00:06:56] calidad tanto en el producto técnico,
+[00:06:58] sea la energía eléctrica como en el
+[00:07:00] servicio, todas las actividades conexas
+[00:07:02] que brinda el distribuidor a los
+[00:07:04] usuarios no cumple con ese estándar
+[00:07:07] mínimo de calidad, el contrato de
+[00:07:09] concesión también establece penalidades
+[00:07:13] de forma tal de que el
+[00:07:17] concesionario reciba una señal que le
+[00:07:21] indique que el no cumplimiento de los
+[00:07:23] niveles de calidad Obviamente no es
+[00:07:25] gratis, tiene un costo. En situaciones
+[00:07:27] extremas puede llegar a dar inclusive a
+[00:07:31] la revocación de la concesión y la
+[00:07:33] transferencia a otro concesionario si
+[00:07:36] las faltas en términos de calidad fueran
+[00:07:38] muy graves. Toquemos madera. Por ahora
+[00:07:40] esto no está ocurriendo.
+[00:07:45] Bien. ¿Y cuáles serían los aspectos del
+[00:07:49] cálculo de tarifas? Por un lado,
+[00:07:52] tendríamos que atender a el
+[00:07:54] requerimiento de ingreso. Cuando decimos
+[00:07:56] requerimiento de ingresos, en nuestra
+[00:07:58] jerga nos estamos refiriendo, poniéndolo
+[00:08:01] en términos más cotidianos, a cuánta
+[00:08:03] plata necesita el distribuidor para
+[00:08:05] funcionar.
+[00:08:07] Obviamente esa cuánta plata necesita el
+[00:08:10] distribuidor para funcionar no es una
+[00:08:13] pregunta hacia el concesionario, "Che,
+[00:08:15] ¿cuánto te hace falta?" y que él nos
+[00:08:17] diga, "Mirá, pero si hizo tantos
+[00:08:18] millones, ¿no?" Digamos, estos ingresos
+[00:08:21] se pueden determinar bajo distintas
+[00:08:24] modalidades que hay en el mercado, en en
+[00:08:28] el [carraspeo] en el conocimiento de de
+[00:08:30] cálculo de tarifario. Este, y en todos
+[00:08:33] los casos, a través de esas mecánicas se
+[00:08:36] determinan cuántos serían los ingresos
+[00:08:38] que necesita el distribuidor para
+[00:08:40] prestar el servicio con la calidad
+[00:08:43] mínima que le estamos pidiendo. ¿Por
+[00:08:45] qué? introduzco junto con la tarifa el
+[00:08:47] tema de la calidad, porque obviamente si
+[00:08:50] yo le pido más calidad y bueno, va a
+[00:08:52] tener que tener mejores instalaciones,
+[00:08:55] mejor este atención usuarios, etcétera,
+[00:08:57] etcétera, y eso obviamente va a tener
+[00:09:00] costos más altos. Recíprocamente, si yo
+[00:09:03] tuvieran exigencias de calidad bajas,
+[00:09:06] obviamente él necesitaría menos ingresos
+[00:09:09] para funcionar porque la
+[00:09:13] tanto la calidad de las instalaciones
+[00:09:15] como el la calidad del producto y del
+[00:09:17] servicio serían menores.
+[00:09:22] Y luego que se haya hecho el
+[00:09:23] requerimiento de ingreso, o sea, cuánto
+[00:09:25] necesita el distribuidor para funcionar,
+[00:09:28] viene el tema de calcular las tarifas. O
+[00:09:30] sea, cómo ese requerimiento de ingresos
+[00:09:33] lo voy a asignar a los distintos grupos
+[00:09:37] en que voy a categurar los categorizar
+[00:09:39] los usuarios, que es lo que nosotros
+[00:09:41] conocemos como categorías tarifarias,
+[00:09:43] residencial, rural, eh servicio general,
+[00:09:46] el umbrado público, medianas demandas,
+[00:09:49] grandes demandas, etcétera, etcétera.
+[00:09:51] Bueno, cada uno de esos grupos vemos
+[00:09:53] cómo lo voy a asignar a través de un
+[00:09:56] mecanismo que vamos a ver un poquito,
+[00:09:58] ¿no? No en sumo detalle, pero por lo
+[00:10:00] menos con un sobrevuelo, con un
+[00:10:02] mecanismo cómo voy a ir asignándole
+[00:10:06] los
+[00:10:08] importes que el instructor necesita para
+[00:10:10] funcionar a los precios que van a pagar
+[00:10:14] los usuarios.
+[00:10:16] Obviamente eh cuando uno hace todo este
+[00:10:19] proceso de diseño, el último paso, ¿cuál
+[00:10:21] sería? Una vez que yo determiné las
+[00:10:24] tarifas, tengo lo que se llama
+[00:10:26] estructura de mercado, es decir,
+[00:10:29] distribuidos, cómo se van este agrupando
+[00:10:32] distintos tipos de usuarios y este cómo
+[00:10:36] es la modalidad de consumo de cada uno
+[00:10:39] que ahora en unos momentos vamos a ver
+[00:10:41] con qué con qué mecanismo se puede
+[00:10:44] modo, es decir, cómo toma energía
+[00:10:46] eléctrica su usuario de la red. Bueno,
+[00:10:49] una vez que tengo, insisto, las tarifas
+[00:10:52] y la estructura de mercado, tengo que
+[00:10:55] entrearlas
+[00:10:57] ambas y ver cuánto es lo que esas
+[00:11:00] tarifas aplicadas a la estructura de
+[00:11:03] mercado producen como ingreso o producen
+[00:11:05] como importe de producido tarifario, que
+[00:11:09] es lo que llamamos. Y bueno, ese
+[00:11:11] producido tarifario debería ser similar
+[00:11:14] en lo ideal, tendría que tener
+[00:11:17] coincidencia lo más perfecta posible con
+[00:11:19] el requerimiento de ingresos. Así nos
+[00:11:21] aseguramos que el diseño tarifario que
+[00:11:25] hemos hecho le permite al distribuidor
+[00:11:28] obtener el requerimiento de ingreso que
+[00:11:30] previamente habíamos también
+[00:11:32] establecido.
+[00:11:34] Si hay alguna duda, alguna pregunta, por
+[00:11:36] favor, este, avísenme y lo vamos
+[00:11:39] aclarando sobre la marcha.
+[00:11:41] Bien,
+[00:11:43] vamos a ver un poquito entonces esta
+[00:11:45] primera parte relativa [carraspeo]
+[00:11:47] a el ingreso que requiere el
+[00:11:50] distribuidor. Obviamente una cuestión
+[00:11:53] central es la sostenibilidad del
+[00:11:56] servicio. ¿Qué decimos con esto? que
+[00:12:00] cuando yo determine el requerimiento de
+[00:12:02] ingresos, no solamente debo pensar en la
+[00:12:05] prestación actual del servicio, sino
+[00:12:07] también tengo que pensar que el
+[00:12:09] requerimiento de ingreso que le estoy
+[00:12:11] dando le va a ser suficiente para
+[00:12:14] mantener el servicio a lo largo del
+[00:12:16] tiempo y para ir atendiendo a futuro
+[00:12:18] tanto a los clientes actuales y su
+[00:12:20] crecimiento de manda como los clientes
+[00:12:22] futuros que se vayan incorporando.
+[00:12:28] Ya comentamos que la calidad de producto
+[00:12:29] y servicio es un factor importante, o
+[00:12:32] inclusive podríamos decir determinante
+[00:12:34] porque requerimiento de ingreso sin
+[00:12:37] establecer una calidad de servicio no
+[00:12:39] nos dice nada y recíprocamente una
+[00:12:42] calidad de servicio sin vincularla con
+[00:12:44] cuánto ingreso requiere tampoco nos dice
+[00:12:47] nada.
+[00:12:49] ¿Cuáles son los negocios del
+[00:12:51] distribuidor? Eso es otro tema, o sea,
+[00:12:52] cuáles son las actividades que el
+[00:12:54] distribuidor desarrolla
+[00:12:56] a través de ese contrato de concesión
+[00:12:58] que tiene.
+[00:13:01] Obviamente podemos hacer
+[00:13:04] o podemos dividir estas actividades en
+[00:13:08] en costos que originan y pensar en dos
+[00:13:12] grandes grupos. un grupo de costos que
+[00:13:14] el distribuidor puede gerenciar, es
+[00:13:16] decir, costos sobre los cuales él puede
+[00:13:18] actuar para reducirlos en búsqueda de
+[00:13:20] mayor eficiencia, con lo cual obtendría
+[00:13:22] a igualdad de esquema tarifario y de
+[00:13:25] niveles tarifarios un mayor beneficio
+[00:13:27] para él. Y también hay una parte de los
+[00:13:30] costos que tiene que afrontar por estos
+[00:13:32] negocios que determinamos no
+[00:13:34] gerenciables, es decir, costos sobre los
+[00:13:37] que él poco o nada puede actuar para
+[00:13:41] lograr mayor eficiencia y por lo tanto
+[00:13:45] maximizar su ingreso.
+[00:13:48] Y por último, una pregunta sustantiva
+[00:13:51] que suele ser una de las cosas que más
+[00:13:53] este se nos pregunta cuando estamos en
+[00:13:57] un proceso de determinación de tarifa. O
+[00:13:59] sea, la actividad del exibidor debe ser
+[00:14:01] rentable. ¿Y por qué? Bueno, vamos a
+[00:14:03] hablar un poquito de todas estas cosas
+[00:14:05] en las próximas filmina.
+[00:14:08] Entrando
+[00:14:11] por los negocios del distribuidor,
+[00:14:14] obviamente tenemos por un lado lo que de
+[00:14:17] vuelta en la jerga decimos los fierros,
+[00:14:19] las instalaciones físicas, las líneas,
+[00:14:21] los cables, los transformadores, los
+[00:14:23] equipos de medición, etcétera, etcétera,
+[00:14:25] etcétera.
+[00:14:28] La obligación que va a tener que asumir
+[00:14:30] el distribuidor con respecto a estas
+[00:14:32] instalaciones físicas es operarlas,
+[00:14:35] mantenerlas, reponerlas cuando haya
+[00:14:39] finalizado su vida útil por la
+[00:14:40] adolescencia o bien cuando hayan
+[00:14:43] experimentado una falla.
+[00:14:46] la va a tener que ampliar lo que tiene
+[00:14:48] que ver con la sustentabilidad que
+[00:14:50] hablamos hace un momento. Y todas estas
+[00:14:53] cuestiones son parte esencial de su
+[00:14:55] responsabilidad en la prestación de
+[00:14:57] servicio como concesionaria.
+[00:15:00] Y luego está la otra parte, él a través
+[00:15:05] de los fierros, como decíamos recién,
+[00:15:08] hace circular la energía eléctrica de
+[00:15:10] los puntos donde la compra a nivel
+[00:15:12] mayorista en bloque hacia los puntos de
+[00:15:15] salida de su sistema donde cada uno de
+[00:15:17] los usuarios consume esa energía. Bueno,
+[00:15:20] el proceso de la compra y el proceso de
+[00:15:23] la venta, más allá del tema de la
+[00:15:26] operación, mantenimiento, etcétera,
+[00:15:27] etcétera, las instalaciones, configura
+[00:15:30] una actividad de naturaleza comercial.
+[00:15:33] En los contratos de concesión que
+[00:15:34] actualmente tenemos en la provincia, las
+[00:15:36] dos actividades vienen juntas, más allá
+[00:15:38] que haya algunas categorías de usuarios
+[00:15:41] que puedan elegir libremente su
+[00:15:43] suministrador, o sea, pueden elegir a
+[00:15:46] quién le compran la energía y que no sea
+[00:15:48] el distribuidor. Y en ese caso lo que el
+[00:15:50] distribuidor debe percibir es un ingreso
+[00:15:53] que le compense el uso de las
+[00:15:57] instalaciones que este usuario está
+[00:15:58] haciendo para que la energía que le
+[00:16:00] compra otro suministrador transite a
+[00:16:03] través de la red del distribuidor.
+[00:16:05] Bueno,
+[00:16:06] [tos] como digo acá esta actividad puede
+[00:16:09] estar totalmente
+[00:16:11] integrada o parcialmente integrada h
+[00:16:13] según lo que establezca el contrato de
+[00:16:15] concesión en el poder concedente. Y
+[00:16:18] también dice, y o sus instancias
+[00:16:20] superiores. ¿Por qué ponemos esto? Yendo
+[00:16:22] al caso argentino, ustedes saben que la
+[00:16:24] regulación nacional a la cual deben
+[00:16:27] sujetarse todos los actores que
+[00:16:31] coparticipan del mercado eléctrico
+[00:16:32] mayorista establece que hay determinados
+[00:16:34] grupos de usuarios que pueden elegir
+[00:16:36] libremente su suministrador. Entonces,
+[00:16:38] mi contrato de concesión debe respetar
+[00:16:41] esto.
+[00:16:45] Bien. Y obviamente tenemos para
+[00:16:49] finalizar una función que más allá que
+[00:16:53] el distribuidor además de las
+[00:16:55] instalaciones físicas
+[00:16:58] tenga la comercialización, pero no la
+[00:17:00] lleve adelante porque ese grupo de
+[00:17:01] usuarios le puede comprar libremente la
+[00:17:03] energía a otro suministrador, hay tareas
+[00:17:06] de administración y servicio al usuario
+[00:17:07] que son inevitables, tanto que el
+[00:17:10] usuario sea lo que llamamos cautivo, o
+[00:17:13] sea, que compra tanto el servicio
+[00:17:16] como la energía al distribuidor o bien
+[00:17:18] cuando es un usuario entre comillas
+[00:17:20] libre que solamente compra el servicio
+[00:17:23] de redes al distribuidor y la energía la
+[00:17:25] compra otro subministrador. Bueno, esta
+[00:17:27] tercera actividad es la que tiene que
+[00:17:30] ver con administración, es decir,
+[00:17:32] estructura general de la empresa,
+[00:17:34] etcétera, etcétera, y también los
+[00:17:36] servicios al usuario, la facturación, o
+[00:17:38] sea, tanto que el usuario sea libre como
+[00:17:40] cautivo, yo lo tengo que facturar.
+[00:17:42] Obviamente el contenido de la factura va
+[00:17:44] a ser diferente en cada uno de esos
+[00:17:46] casos, pero tengo que facturarle. Por
+[00:17:48] ejemplo, tengo que atender sus reclamos
+[00:17:50] si tiene problemas con la calidad del
+[00:17:52] producto, con la calidad del servicio,
+[00:17:54] tengo que dar alta y bajas de de
+[00:17:56] instalaciones, etcétera, etcétera.
+[00:18:02] Bien,
+[00:18:04] volviendo entonces al requerimiento de
+[00:18:05] ingresos, tenemos los costos propios de
+[00:18:07] la actividad que se determinan como
+[00:18:10] valor agregado de distribución o lo que
+[00:18:13] comúnmente designamos como B, eh, y que
+[00:18:17] se origina en la actividad que hace el
+[00:18:19] distribuidor, que con esa actividad
+[00:18:21] agrega valor a la cadena de la industria
+[00:18:23] eléctrica.
+[00:18:25] Y como dijimos recién, tenemos los estos
+[00:18:27] serían los costos gerenciables y ahora
+[00:18:29] vamos a los no gerenciables, son los
+[00:18:30] costos externos. a la actividad o pas,
+[00:18:33] es decir, pase a través, que son los que
+[00:18:36] son costos que si bien integran la
+[00:18:38] cadena del valor de industria eléctrica,
+[00:18:39] corresponden a actividades externas a la
+[00:18:42] del distribuidor. Hm. Por [carraspeo]
+[00:18:44] ejemplo, el traspaso de costos de
+[00:18:45] producción y de transporte de energía. Y
+[00:18:48] lo vamos a ver ahora con un pequeño
+[00:18:51] grafiquito. [carraspeo] Aquí tenemos
+[00:18:53] algo muy esquemático de cómo podríamos
+[00:18:56] representar los distintos eslabones de
+[00:18:58] la industria eléctrica. Y estos van
+[00:19:02] desde la central de producción
+[00:19:04] eléctrica.
+[00:19:06] Un primer transformador que lo que hace
+[00:19:08] es elevar la tensión para transmitirla a
+[00:19:12] grandes distancias o a distancias
+[00:19:13] importantes hacia puntos de entrada a
+[00:19:17] los sistemas de los distribuidores. Ya
+[00:19:19] todos a esta altura de campeonato saben
+[00:19:21] que la razón que se eleva la atención es
+[00:19:23] para poder transmitir la misma potencia
+[00:19:26] con menos corriente. ¿Y por qué hay que
+[00:19:28] hacer? Hay que mandar con menos
+[00:19:29] corriente. Bueno, la sección de los
+[00:19:32] conductores
+[00:19:34] depende
+[00:19:36] claramente de la cantidad de corriente
+[00:19:38] que yo quiero transmitir. A más
+[00:19:40] corriente, preciso más sección del
+[00:19:42] conductor.
+[00:19:43] Además
+[00:19:45] de la del cuadrado a la corriente
+[00:19:47] depende las pérdidas por le aire azul.
+[00:19:49] Por lo tanto, este, [carraspeo] si yo
+[00:19:52] logro transmitir la misma potencia con
+[00:19:54] menos corriente, voy a precisar
+[00:19:57] sección de conductor, lo cual implica
+[00:20:00] menos material para el conductor, menos
+[00:20:02] tamaño o menos este menos resistencia de
+[00:20:05] la estructura, no tengo tanta exigencia
+[00:20:07] en la estructura de soporte
+[00:20:09] y una serie de otras ventajas. Y este
+[00:20:12] obviamente para lograr esto lo que tengo
+[00:20:15] que hacer es elevar la atención. Por eso
+[00:20:18] este esta parte de transporte en la
+[00:20:22] entre las regiones eléctricas argentinas
+[00:20:24] se hace típicamente en 500 kV. Cuando
+[00:20:27] digo regiones me refiero NEA, no a
+[00:20:29] Centro, eh provincia de Buenos Aires,
+[00:20:32] Comague, etcétera, etcétera.
+[00:20:35] Y luego en
+[00:20:38] después que llegamos a cada una de estas
+[00:20:41] regiones con el sistema de est alta
+[00:20:43] tensión se hace otro proceso de
+[00:20:47] transporte pero en menores tensiones,
+[00:20:49] típicamente algo en 220,
+[00:20:52] una sola que yo recuerdo en 330 kV que
+[00:20:55] era la la vinculación de Futalefu con
+[00:20:57] Puerto Madrid. Eh, y después este
+[00:21:00] tenemos, digo, típicamente 132 kV y
+[00:21:04] algunas instalaciones en 66 kW.
+[00:21:07] Así llegamos a este punto. Acá
+[00:21:10] obviamente el transporte lo
+[00:21:11] ejemplificamos con un solo sistema, pero
+[00:21:14] como explicaba recién habría dos por lo
+[00:21:16] menos. Y este aquí tenemos la
+[00:21:20] subestación a través de la cual ahora la
+[00:21:22] tensión se reduce porque obviamente
+[00:21:25] manejar estos niveles de tensión para
+[00:21:27] transmitir está bien, pero para la
+[00:21:29] distribución sería y sobre todo para el
+[00:21:31] consumo sería altamente peligroso.
+[00:21:33] Entonces se reduce la tensión y de allí
+[00:21:36] se banda, bueno, a las industrias, por
+[00:21:38] ejemplo, si son industrias con
+[00:21:40] importante demanda, es posible que la
+[00:21:42] alimentación esté en 13,2, en 33 kV o
+[00:21:45] aún puede que esté en 132. En ese caso,
+[00:21:49] a la entrada de la industria se hará una
+[00:21:51] un rebaje. Y tenemos la red de
+[00:21:54] distribución donde, bueno, la la tensión
+[00:21:56] típica de distribución en nuestra país,
+[00:21:59] la provincia en particular, es la famosa
+[00:22:02] red de 380 220 que debemos pasar por las
+[00:22:05] puertas de nuestra casa, las que la
+[00:22:07] tenemos como instalación aérea y los que
+[00:22:08] no a través de cable subterráneo.
+[00:22:13] esta
+[00:22:15] instalación de de transformación, que es
+[00:22:18] donde llega el transporte y donde
+[00:22:20] arranca la distribución, a veces puede
+[00:22:22] ser jurisdicción del transportista, a
+[00:22:25] veces puede ser jurisdicción del
+[00:22:26] distribuidor, a veces puede ser
+[00:22:27] compartida. En nuestra provincia estas
+[00:22:30] estaciones donde el transporte llega y
+[00:22:32] de la cual se conecta el distribuidor se
+[00:22:35] manejan lo que se llame se llama a
+[00:22:37] predio completo a cargo del
+[00:22:39] transportista. En el caso de la
+[00:22:41] provincia de Buenos Aires, el transporte
+[00:22:43] dentro de la provincia lo hace la
+[00:22:45] empresa Transa, que tiene la
+[00:22:47] calificación en el mercado mayorista de
+[00:22:49] transportista por distribución troncal.
+[00:22:51] Entonces, las estaciones de 132 33
+[00:22:55] las opera toda trasba y bueno, hay un
+[00:22:58] punto límite dentro de la estación donde
+[00:23:01] se dice, bueno, a partir de este buón de
+[00:23:03] acá para adante, que básicamente va para
+[00:23:06] fuera de la estación, esto es
+[00:23:08] responsabilidad del distribuidor y de
+[00:23:10] acá hacia aguas arriba, o sea, hacia
+[00:23:12] mayor extensión lo maneja el
+[00:23:14] transportista. Bueno,
+[00:23:19] producción transporte es lo que estamos
+[00:23:21] marcando con el óvalo en tono verde
+[00:23:25] y
+[00:23:27] lo que estamos marcando con el óvalo
+[00:23:30] color naranja es lo que se trata de
+[00:23:31] distribución. Y acá, bueno, tenemos la
+[00:23:33] frontera que le decía, según cómo
+[00:23:36] determina la regulación, el naranja
+[00:23:39] podrá venir más abajo, con lo cual
+[00:23:41] tomaría toda la estación de de
+[00:23:43] reducción, podría ir más arriba, que es
+[00:23:45] más parecido a nuestra provincia, con lo
+[00:23:47] cual toda la estación de transformación
+[00:23:50] de muy alta tensión a alta este o a
+[00:23:53] media está a cargo del transportista o
+[00:23:55] puede estar compartido como está
+[00:23:57] mostrado aquí en el dibujo.
+[00:24:02] Bueno, vamos [carraspeo] a hablar un
+[00:24:04] poquito de los traspasos de los costos
+[00:24:06] de compra que dijimos en estos costos el
+[00:24:08] distribuidor poco puede hacer para
+[00:24:10] manejarlos y constituyen lo que llamamos
+[00:24:13] el paseru. Típicamente, ¿qué incluir en
+[00:24:16] este concepto? Bueno, por un lado,
+[00:24:22] los costos de compra, energía y
+[00:24:23] potencia.
+[00:24:25] Por otro lado, los costos de transporte.
+[00:24:30] Y por otro lado, los costos de
+[00:24:32] administración y otros costos del
+[00:24:34] mercado mayorista donde uno participa
+[00:24:36] para hacer la compra de energía y
+[00:24:38] potencia y para comprar el transporte.
+[00:24:42] ¿Qué dice nuestro marco regulatorio
+[00:24:44] sobre este PASRU?
+[00:24:47] Está establecido en la ley de marco
+[00:24:50] regulatorio que tiene un texto ordenado
+[00:24:52] según el decreto del poder ejecutivo
+[00:24:54] provincial 18684
+[00:24:57] que en su artículo 42 incisos A y B
+[00:25:02] dice, obviamente aquí lo extracté, por
+[00:25:03] eso están los puntos suspensivos para
+[00:25:05] que quede lo que esos incisos del
+[00:25:09] artículo 42 respecto de los costos de
+[00:25:12] Pasru dice [carraspeo] el A. Los tarifas
+[00:25:15] de distribución reflejarán los costos de
+[00:25:16] adquisición de la electricidad en virtud
+[00:25:18] de contratos otorgados por la provincia
+[00:25:21] o las municipalidades, según que se
+[00:25:23] trate, como les explicaba hoy, de una
+[00:25:25] empresa como DNDsDA o EDLAB o de
+[00:25:29] cooperativas eléctricas.
+[00:25:33] Y [carraspeo] el inciso B califica cómo
+[00:25:37] deben ser esos costos de adquisición.
+[00:25:39] Dice, "Los costos de adquisición de
+[00:25:40] transporte
+[00:25:42] y su expansión serán valores máximos a
+[00:25:45] reconocer con el objetivo de ordenar, de
+[00:25:49] obtener, perdón, el mínimo costo posible
+[00:25:51] para el usuario de acuerdo con la
+[00:25:52] calidad del servicio requerido." O sea,
+[00:25:55] por un lado me dice qué costos puedo
+[00:25:57] pasar y por el otro lado me dice hasta
+[00:26:00] dónde puedo o hasta dónde esos costos
+[00:26:03] que voy a a transmitir a través del
+[00:26:05] PASRU son admisibles.
+[00:26:08] Fíjense que acá vuelve con lo que
+[00:26:11] comentábamos hace un rato de hablar de
+[00:26:14] la calidad. [carraspeo]
+[00:26:17] Bueno, ¿y qué dice el marco regulatorio?
+[00:26:20] también mismo instrumento legal que
+[00:26:23] nombrábamos recién con respecto a los
+[00:26:26] costos que hay que reconocerle al
+[00:26:28] distribuidor.
+[00:26:30] Bueno, el costo propio de distribución a
+[00:26:32] reconocer dice este el mercatorio,
+[00:26:35] deberá proveer a los distribuidores que
+[00:26:37] operan en forma económica y prudente que
+[00:26:41] dosicativos
+[00:26:43] importantes en los cuales uno puede
+[00:26:45] hacer muchos juicios de valor. recursos
+[00:26:47] necesarios para
+[00:26:51] atender los costos normales y razonables
+[00:26:53] de comercialización y de explotación.
+[00:26:55] [resoplido]
+[00:26:59] Atender los costos de capital,
+[00:27:01] amortización y renovación de equipos de
+[00:27:03] instalaciones.
+[00:27:07] Atender el costo de expasión de las
+[00:27:09] redes, lo que hablábamos hace un rato de
+[00:27:10] la sustentabilidad. Si yo no aseguro
+[00:27:13] este concepto, digo, bueno, hoy estoy
+[00:27:14] prestando el servicio. Mañana cuando los
+[00:27:17] mismos usuarios que tengo hoy tengan un
+[00:27:19] crecimiento niveles de de demanda o
+[00:27:22] aparezca nuevo usuario, ¿cómo los
+[00:27:23] atiendan? ¿No? Entonces, bueno, tiene
+[00:27:26] que atender los costos de expansión de
+[00:27:27] las redes,
+[00:27:31] tributar los impuestos, obviamente el
+[00:27:33] Estado no nos perdona en esto. Hm.
+[00:27:36] y obtener una tasa de rentabilidad, tema
+[00:27:39] que hace un rato prometimos que íbamos a
+[00:27:42] comentar y que era una de las cuestiones
+[00:27:43] a tener en cuenta. Vamos a hablar un
+[00:27:45] poco de la tasa de rentabilidad.
+[00:27:52] ¿Por qué la actividad del estivor debe
+[00:27:54] ser rentable?
+[00:28:00] Voy a aprovechar para tomar un poquito
+[00:28:01] de agua.
+[00:28:06] Nuestro marco regulatorio, estamos
+[00:28:07] hablando siempre del mismo instrumento
+[00:28:09] legal,
+[00:28:10] incluye dentro de los costos propios de
+[00:28:12] reconocer la obtención de una tasa de
+[00:28:15] rentabilidad equiparable a otras
+[00:28:17] actividad de riesgo similar o compatible
+[00:28:19] nacional e internacionalmente. ¿Por qué
+[00:28:21] es esto?
+[00:28:23] preste el servicio, quien lo preste va a
+[00:28:26] tener que invertir dinero.
+[00:28:29] Aquel que tiene el capital, que va a
+[00:28:31] invertir el dinero, ¿por qué decide
+[00:28:34] invertirlo en un en una empresa de
+[00:28:37] distribución eléctrica o en una
+[00:28:38] cooperativa y no decide invertirlo en
+[00:28:42] una fábrica de cubierta, no sé, o lo que
+[00:28:45] sea? Bueno, obviamente esa decisión
+[00:28:48] tiene que ver con dos cuestiones, con el
+[00:28:51] riesgo que tiene la actividad
+[00:28:55] y con
+[00:28:57] la rentabilidad que puede obtener de esa
+[00:29:00] actividad. Obviamente cuando la
+[00:29:01] actividad es más riesgosa, la
+[00:29:02] rentabilidad que uno busca es mayor.
+[00:29:04] Cuando la la el riesgo de la actividad
+[00:29:07] es menor, bueno, no se conforma con
+[00:29:09] menos rentabilidad. Bueno, la industria
+[00:29:12] eléctrica no es una industria de alto
+[00:29:13] riesgo, digamos. Tengo un contrato de
+[00:29:15] concesión, me asegura un área, voy a
+[00:29:18] tener exclusividad en [carraspeo] esa
+[00:29:19] área porque tengo el reconocimiento a
+[00:29:22] través de contrato de concesión de un
+[00:29:24] monopolio natural con respaldo legal.
+[00:29:27] Entonces, una actividad relativamente
+[00:29:28] con bajo riesgo, ¿no? Obviamente el
+[00:29:30] riesgo propio de la actividad de manejar
+[00:29:33] un un
+[00:29:35] un
+[00:29:36] insumo, digamos, este con cierto nivel
+[00:29:40] de de peligro como es la la energía
+[00:29:42] eléctrica, pero bueno, des el punto de
+[00:29:43] vista de la actividad, del desarrollo de
+[00:29:46] la actividad, no es una actividad
+[00:29:47] necesariamente de alto riesgo.
+[00:29:49] Bien, y la tasa de rentabilidad que yo
+[00:29:53] le reconozco y como dice aquí que sea
+[00:29:55] equiparable a actividades de riesgo
+[00:29:57] similar a nivel local o a nivel
+[00:29:59] internacional, es lo que va a dar la
+[00:30:01] señal para que ese inversor ponga su
+[00:30:05] dinero en una distribuidora energía
+[00:30:07] eléctrica y no lo coloque, como decía,
+[00:30:10] en otra actividad industrial, comercial
+[00:30:12] o especulativa.
+[00:30:17] Bueno,
+[00:30:19] volviendo un poco al BAT,
+[00:30:27] habíamos dicho ya que son los costos que
+[00:30:30] cual el distribuidor puede operar
+[00:30:32] buscando mayor eficiencia. Y
+[00:30:35] recapitulando [carraspeo]
+[00:30:35] lo que ya comentamos, está compuesto por
+[00:30:37] los costos asociados a sus redes,
+[00:30:40] capital, operación y mantenimiento y
+[00:30:42] expansión. es lo que llamamos Badpga
+[00:30:46] Taifera, los costos administrativos y de
+[00:30:49] servicio de los usuarios.
+[00:30:52] El Vada sería ese costo de
+[00:30:53] administración que hoy pusimos abajo y
+[00:30:55] que dijimos, bueno, me compra energía a
+[00:30:58] mí, se la compro un tercero, yo tengo
+[00:31:00] que sí o sí algunos costos de
+[00:31:01] administración que tengo que tener en la
+[00:31:03] tarifa, la estructura general de la
+[00:31:04] empresa, el tema de la prestación de los
+[00:31:08] servicios como facturación, atención al
+[00:31:10] cliente, etcétera, etcétera. y el BAR
+[00:31:14] comercial, el BAR C, que es en el caso
+[00:31:17] que yo, además de prestarle el servicio
+[00:31:19] de redes, también le entregue energía
+[00:31:22] eléctrica que compre nivel mayorista y
+[00:31:24] revendo a nivel minorista.
+[00:31:27] Y obviamente voy a tener que gestionar
+[00:31:31] las pérdidas, que es lo que llamamos
+[00:31:33] como body. Ustedes saben que las
+[00:31:36] pérdidas básicamente pueden ser
+[00:31:38] básicamente no son de dos tipos. Por un
+[00:31:41] lado, las pérdidas técnicas determinadas
+[00:31:44] por cuestiones de la física. Lo que
+[00:31:46] decíamos hoy desde Jul, por ejemplo,
+[00:31:48] cuando un cuando por un conductor que
+[00:31:50] tiene una resistencia R pasa una
+[00:31:52] corriente de intensidad I, esa corriente
+[00:31:55] produce una pérdida que es I² por R. Hm.
+[00:31:59] Esa es pérdida técnica. Y después están
+[00:32:01] las pérdidas no técnicas, que tienen que
+[00:32:04] ver, por ejemplo, con la gente que no
+[00:32:07] termina de convencerse que para recibir
+[00:32:09] energía la tiene que pagar.
+[00:32:11] Entonces dice, "Bueno, este aparatito
+[00:32:14] del medidor en realidad es
+[00:32:16] prescindible." Bueno, y se cuelga de la
+[00:32:18] red. Bueno, ahí tenemos pérdidas no
+[00:32:20] técnicas. Un breve comentario sobre la
+[00:32:23] sobre el tema de la gestión de las
+[00:32:24] pérdidas.
+[00:32:26] Primero, las pérdidas técnicas uno puede
+[00:32:31] reducirlas en cierta medida,
+[00:32:33] por ejemplo, aumentando sección de
+[00:32:35] conductor,
+[00:32:38] tratando de alguna forma lograr que la
+[00:32:40] corriente que circula por las redes sea
+[00:32:43] la menor posible, por ejemplo, este,
+[00:32:46] controlando lo que se llama el factor de
+[00:32:48] potencia. Hm. para que la mayor cantidad
+[00:32:52] de la corriente que circula por red sea
+[00:32:54] solo utilizada para potencia activa y no
+[00:32:57] tenga una componente potencia reactiva.
+[00:32:59] Pero bueno, en definitiva,
+[00:33:02] esas pérdidas técnicas van a tener un
+[00:33:03] nivel que algo puedo hacer, pero no
+[00:33:05] demasiado. Y las no técnicas también uno
+[00:33:09] diría, bueno, yo puedo aspirar, digamos,
+[00:33:12] por lo que expliqué recién, que era
+[00:33:13] claro que técnica cero, ¿no?
+[00:33:16] Siempre poder uno optimizar, pero va a
+[00:33:18] haber un nivel de pérdidas técnicas. Y
+[00:33:19] las pérdidas no técnicas las puedes
+[00:33:21] llevar a cero. Sí, teóricamente sí.
+[00:33:24] Ahora hay una curva, creo que después
+[00:33:27] Emy la muestra, donde cuando uno mira
+[00:33:32] reducción de pérdidas no técnicas
+[00:33:34] respecto del costo, es una especie de
+[00:33:37] curva con una pancita hacia abajo, ¿no?
+[00:33:39] O sea, va bajando, bajando, bajando a
+[00:33:42] las pérdidas, pero el costo va subiendo.
+[00:33:44] Hay un punto donde en realidad por más
+[00:33:46] que yo siga invirtiendo este no voy a
+[00:33:48] lograr una reducción o o lo que gasto,
+[00:33:52] mejor dicho, voy a lograr, pero lo que
+[00:33:54] invierto en reducir las pérdidas
+[00:33:56] técnicas va a ser mucho más de lo que me
+[00:33:58] ahorro por evitarla.
+[00:34:00] Entonces, hay de alguna forma un nivel
+[00:34:02] óptimo de pérdidas técnicas y también no
+[00:34:04] técnicas.
+[00:34:07] Bien, el costo de redes
+[00:34:16] hasta bueno, tenemos este lo habíamos
+[00:34:20] mencionado recién los costos de las
+[00:34:22] redes y es lo que conforman el famoso
+[00:34:24] BP.
+[00:34:26] ¿Cómo obtener el BAR P? Ahora nos vamos
+[00:34:28] a empezar a meter un poquito ya en en
+[00:34:31] cómo ir armando nuestro nuestro esquema
+[00:34:33] de tarifa. Primero determinar con algún
+[00:34:37] método. Yo acá tomé el ejemplo del valor
+[00:34:39] nuevo de reposición, el BNR eso, por
+[00:34:42] cada una de las etapas de la red,
+[00:34:44] entendiendo portales. El nivel de en
+[00:34:48] alta tensión, si es que lo tengo, en la
+[00:34:50] provincia de Buenos Aires solo idea alta
+[00:34:53] tensión, luego la transformación alta
+[00:34:55] media, luego la red de media tensión,
+[00:34:58] las transformaciones media,
+[00:35:01] las transformaciones media baja y la red
+[00:35:03] baja. Hm.
+[00:35:04] Y lo que se hace allí es calcular la
+[00:35:07] componente anualizada del BATP que
+[00:35:09] nombrábamos recién, costo de redes,
+[00:35:11] operación, mantenimiento, expansión, h
+[00:35:14] correspondiente a los costos de capital
+[00:35:16] en base al valor nuevo de reposición y
+[00:35:18] al factor de recuperación de capital o
+[00:35:20] al factor de amortización.
+[00:35:26] ¿Y por qué estamos hablando de dos
+[00:35:27] factores distintos? Un factor de
+[00:35:29] recuperación de capital y un factor de
+[00:35:31] amortización.
+[00:35:33] El factor de recuperación de capital es
+[00:35:35] aquel que yo aplico cuando las redes las
+[00:35:38] construyo con capital propio. Entonces,
+[00:35:42] lo que tengo que poner para ir
+[00:35:45] recuperando una anualidad que a lo largo
+[00:35:47] de la vida útil me permita recuperar
+[00:35:50] toda la inversión que yo hice en la red,
+[00:35:53] tiene que tener dos componentes. Por un
+[00:35:55] lado, todos los años ir dándome una
+[00:35:57] cuota para ir recuperando ese costo y
+[00:35:59] por otro lado, me tiene que dar una
+[00:36:01] rentabilidad sobre el capital que tengo
+[00:36:03] invertido. Todavía no recuperé.
+[00:36:05] Ahí se usa el factor de recuperación de
+[00:36:07] capital, cuya expresión matemática es la
+[00:36:09] que está aquí abajo. En cambio, si yo la
+[00:36:12] red la hice con un capital de tercero,
+[00:36:14] por ejemplo, viene un industrial, me
+[00:36:16] pide una gran ampliación del sistema y
+[00:36:18] le digo, "Bueno, no hay problema, yo le
+[00:36:20] puedo suministrar energía, pero este
+[00:36:23] obviamente
+[00:36:25] la parte de mi o de mi tarifa que
+[00:36:27] contempla la expansión de mi sistema no
+[00:36:29] contempla una expansión puntual tan
+[00:36:31] importante como la que usted me pide.
+[00:36:33] Entonces, yo puedo acordar con el
+[00:36:35] empresario que él pague la ampliación de
+[00:36:37] la red que requiere para su suministro y
+[00:36:39] después, bueno, veré cómo de alguna
+[00:36:42] forma le puedo reintegrar o no esa
+[00:36:44] inversión que él hace. Bueno, en este
+[00:36:45] caso lo que se utiliza es el factor de
+[00:36:48] recuperación de capital, cuya expresión
+[00:36:50] matemática es la que está aquí abajo. Y
+[00:36:52] la única diferencia conceptual que tiene
+[00:36:54] con el factor de el factor de
+[00:36:56] amortización, la diferencia que tiene
+[00:36:58] con el factor de recuperación de capital
+[00:37:00] es que en este caso lo único que me
+[00:37:03] provee es una cuota anual que a lo largo
+[00:37:05] de la vida útil, si yo la fui
+[00:37:07] conservando, la fui guardando, me da el
+[00:37:11] la cantidad de de dinero necesaria para
+[00:37:13] reponer la instalación, como dije
+[00:37:15] recién, el final de su vida útil, porque
+[00:37:17] obviamente yo no le podía decir aquel
+[00:37:19] que me pagó la instalación, no sé, una
+[00:37:21] red, supongamos, 30 años de vida útil,
+[00:37:23] cuando al año 31 ir a tocarle timbre y
+[00:37:26] decirle, "Señor, ahora me tiene que
+[00:37:27] volver a pagar la red porque la tengo
+[00:37:28] que cambiar." más allá de que no se
+[00:37:30] cambie, pero habrá que mantenerlo,
+[00:37:31] repararla, ¿no? Bien, [tos] este factor
+[00:37:34] de amortización lo que me permite es
+[00:37:37] hacer una previsión para que cuando
+[00:37:39] lleguen situaciones de este tipo que
+[00:37:40] requieran actuar sobre la instalación
+[00:37:42] que en su momento pagó ese empresario
+[00:37:45] para alimentar su fábrica, yo no le
+[00:37:47] tenga que ir a tocar timbe, sino que
+[00:37:48] tenga acumulado, guardados los recursos
+[00:37:51] para hacer las inversiones que la red
+[00:37:53] pida.
+[00:37:57] Bueno, ahora vamos a ver cómo obtener el
+[00:38:00] BATP.
+[00:38:02] Primero, determinar los costos de
+[00:38:03] operación de mantenimiento.
+[00:38:05] Hay una dos variantes en base a los
+[00:38:08] costos relevados de la empresa, que
+[00:38:10] pueden ser costos reales o de una
+[00:38:12] empresa modelo,
+[00:38:14] o a la variante B con un porcentaje el
+[00:38:16] valor nuevo de reposición.
+[00:38:22] Después cuando este la parte de la
+[00:38:24] exposición de de Emiliano van a ver un
+[00:38:27] poquito ejemplos concretos de esto.
+[00:38:29] Bueno, para cada etapa de red qué se
+[00:38:31] hace el siguiente cálculo. El BAP de la
+[00:38:35] etapa va a ser el costo de capital de la
+[00:38:37] etapa, o sea, alta, transformación alta,
+[00:38:39] media, media, eh cada una de esas
+[00:38:41] etapas. el costo de capital, o sea,
+[00:38:43] cuarto invertí en la red más el costo de
+[00:38:45] operación y mantenimiento
+[00:38:47] para esa red dividido la potencia máxima
+[00:38:50] la entrada de la etapa
+[00:38:52] y obviamente las etapas son las que
+[00:38:54] comentábamos recién.
+[00:39:02] Bien, entrando ahora al tema del cálculo
+[00:39:04] de tarifa, obviamente tenemos por un
+[00:39:07] lado fundamentos técnicos parachinar,
+[00:39:09] para asignar los costos por uso de la
+[00:39:11] red. Uno de esos conceptos es dónde está
+[00:39:15] ubicada la categoría de usuarios en la
+[00:39:18] red. Hm. Y esto como se asigna en
+[00:39:21] función de la potencia máxima que cada
+[00:39:23] grupo de usuarios demanda. y luego
+[00:39:26] identificar
+[00:39:27] qué parte de la red usa cada categoría
+[00:39:29] de usuarios. Por ejemplo, si yo tengo
+[00:39:31] usuarios industriales en media tensión,
+[00:39:34] no puedo pensar que ellos tengan que
+[00:39:36] pagar parte de los costos de la red
+[00:39:37] baja. Esto que estamos hablando siempre
+[00:39:40] en términos del cálculo técnico de
+[00:39:42] tarifa.
+[00:39:43] El cálculo técnico de tarifa en general
+[00:39:45] siempre después puede ser intervenido
+[00:39:48] por el poder concedente con algunos
+[00:39:50] criterios de naturaleza política que
+[00:39:52] pueden establecer, por ejemplo, o no,
+[00:39:55] subsidios cruzados entre categorías, por
+[00:39:58] ejemplo. Hm. Pero siempre es tener como
+[00:40:02] espejo el cálculo técnico. ¿Por qué?
+[00:40:04] Porque después cuando el poder
+[00:40:06] concedente interviene políticamente en
+[00:40:09] la tarifa, si tiene el cálculo técnico
+[00:40:12] de asignación de costos, puede saber qué
+[00:40:14] impacto tiene sobre el requerimiento de
+[00:40:18] ingresos distribuidor, las decisiones
+[00:40:19] políticas que está tomando y en todo
+[00:40:21] caso los beneficios que por un lado,
+[00:40:24] cómo tendría que compensarlos por el
+[00:40:26] otro para mantener el requerimiento de
+[00:40:27] ingreso del distribuidor.
+[00:40:30] Bueno, y identificar cómo usa la red
+[00:40:34] cada categoria de usuarios es mediante
+[00:40:36] campaña de medición.
+[00:40:41] Aquí tenemos un un esquema donde hemos
+[00:40:45] representado todas las etapas, ¿no? La
+[00:40:48] etapa de alta,
+[00:40:50] la red de alta, la transformación alta
+[00:40:53] media. Podemos tener, si nuestra empresa
+[00:40:56] tiene red de alta, grandes usuarios en
+[00:40:58] alta tensión. Luego tenemos
+[00:41:01] la transformación media. Voy a tener red
+[00:41:05] de media tensión. Puedo tener grandes
+[00:41:07] grandes usuarios en la barra de
+[00:41:10] transformación alta media. También puedo
+[00:41:13] tener una red de aquí que vaya a una
+[00:41:16] barra de tensiones menores, perdón, a la
+[00:41:19] misma tensión, una transformación barra
+[00:41:21] de tensiones menores y por ejemplo puedo
+[00:41:23] tener pequeñas demandas rurales en baja
+[00:41:25] tensión. Hm. Y por este lado, bueno,
+[00:41:28] podría tener después la transformación
+[00:41:30] media, una red de media de un poco menos
+[00:41:33] tensión que la de arriba. Transformación
+[00:41:35] media baja, puedo tener grandes usuarios
+[00:41:37] en media. Aquí tengo una red de baja,
+[00:41:40] tengo pequeños demandas en baja tensión
+[00:41:43] urbana y medianas demandas. Y en este
+[00:41:46] esquema es lo que veíamos recién un
+[00:41:47] poco, yo les decía el ejemplo del
+[00:41:48] usuario en media tensión. Obviamente,
+[00:41:52] supongamos que yo arranque hasta con
+[00:41:54] alta atención este usuario y bueno, va a
+[00:41:56] usar parte de esta red, parte de esta
+[00:41:58] transformación,
+[00:42:00] parte de esta transformación,
+[00:42:02] pero llega acá y digo, bueno, no le
+[00:42:04] puedo cargar nada de lo que hay acá
+[00:42:06] abajo des el punto de vista, insisto, de
+[00:42:08] cálculo técnico de tarifa, ¿no? Después
+[00:42:11] la decisión política era, si yo este us
+[00:42:13] para estos usuarios de abajo quiero
+[00:42:15] hacer que la tarifa se un poco más baja
+[00:42:17] y bueno, tendré que ver cómo recupera en
+[00:42:20] el requerimiento de ingreso esa
+[00:42:22] producido tarifario que esta categoría
+[00:42:24] no le dan y por ejemplo podrá cargar
+[00:42:26] algo más acá arriba y recíprocamente tal
+[00:42:28] vez si quiere fomentar la industria y
+[00:42:30] bueno podrá decir parte de los costos de
+[00:42:33] los grandes usuarios, bueno, los voy a
+[00:42:34] transferir
+[00:42:36] a [carraspeo] pequeñas demandas. Eso
+[00:42:38] depende de la decisión, de las
+[00:42:39] decisiones políticas del poder
+[00:42:41] concedente.
+[00:42:45] Bien,
+[00:42:47] una campaña de medición, ¿qué se mide y
+[00:42:50] cómo
+[00:42:51] se mide potencia activa cada cierto
+[00:42:54] intervalo de tiempo, por ejemplo, cada
+[00:42:55] 15 minutos, cada cada media hora, cada
+[00:42:58] hora, con registradores que permanecen
+[00:43:01] instalados unas o dos semanas en cada
+[00:43:04] punto de registro.
+[00:43:06] Esos puntos de registro
+[00:43:08] son elegidos en base a un muestreo
+[00:43:10] estadístico, o sea, no se puede medir
+[00:43:12] absolutamente a todos los usuarios. Hay
+[00:43:14] que buscar con un muestre estadístico
+[00:43:16] usar los representativos de la
+[00:43:17] categoría, o sea, del grupo de usuario
+[00:43:20] que usan el mismo la mism
+[00:43:24] que tienen categorías de consumo
+[00:43:25] similares. Bueno, ahí se hace entre
+[00:43:28] ellos un muestro estadístico y se define
+[00:43:30] dónde estarán los medidores. El otro
+[00:43:32] tema es cuánto debe durar la campaña de
+[00:43:34] medición. Bueno, un una de las
+[00:43:37] características más
+[00:43:40] frecuentemente encontradas en la demanda
+[00:43:43] de energía eléctrica y con la cual todos
+[00:43:44] nosotros estamos más o menos
+[00:43:46] familiarizados es la estacionalidad. O
+[00:43:48] sea, no es lo mismo la demanda de
+[00:43:50] energía eléctrica en invierno, por
+[00:43:52] ejemplo, para un uso residencial que en
+[00:43:54] verano. Hm. Aunque ahora tal vez se ha
+[00:43:57] emparejado mucho en el sentido de que
+[00:43:59] muchos elementos de calefacción
+[00:44:01] funcionan con energía eléctrica, lo
+[00:44:03] mismo que los elementos de refrigeración
+[00:44:04] del verano. Pero bueno, así todo este
+[00:44:08] hay siempre o puede haber una diferencia
+[00:44:10] de comportamiento en el consumo entre el
+[00:44:12] invierno y el verano. Ni hablar si
+[00:44:14] estamos hablando de algunas industrias,
+[00:44:16] como por ejemplo puede ser la industria
+[00:44:18] agropecuaria, eh eh lo que tiene que ver
+[00:44:20] con con la con el tema de de semilleros
+[00:44:24] y demás. están sus actividades muy
+[00:44:26] localizadas en determinadas épocas del
+[00:44:29] año con alta demanda y en otras épocas
+[00:44:31] con baja. Bueno,
+[00:44:33] esta es la campaña de medición que
+[00:44:35] contemple [carraspeo][tos]
+[00:44:37] todas estas estacionalidades porque si
+[00:44:38] me quedara solo con la parte de alta
+[00:44:39] demanda alguno de baja, bueno, le
+[00:44:41] estaría cargando de más o de menos
+[00:44:43] costos de red.
+[00:44:47] Y la campaña de medición [carraspeo]
+[00:44:49] entonces brinde información sobre la
+[00:44:51] modalidad de consumo y el uso que hacen
+[00:44:54] cada criterio de usuario de las
+[00:44:55] instalaciones.
+[00:45:03] Siguiendo con la campaña de medición,
+[00:45:05] [carraspeo]
+[00:45:06] una de las cosas que obtenemos es la
+[00:45:07] distribución del consumo por banda
+[00:45:09] horaria.
+[00:45:11] Ustedes [carraspeo] saben que en general
+[00:45:12] la energía no tiene un precio uniforme a
+[00:45:13] lo largo de todo el día. sino que en los
+[00:45:17] momentos de mayor demanda el precio
+[00:45:19] suele ser alto. ¿Y por qué es más alto?
+[00:45:21] Bueno, porque hay que incorporar más
+[00:45:23] equipos de producción a la red y en
+[00:45:25] general los equipos van entrando en
+[00:45:28] servicio en donde el inverso a su costo
+[00:45:32] de funcionamiento. O sea, primero entran
+[00:45:34] los más baratos, después un poquito más
+[00:45:35] caro, después un poquito más caro.
+[00:45:37] Obviamente
+[00:45:38] cuanto más alta es la demanda, más
+[00:45:40] equipo voy a tener. Por lo tanto, voy a
+[00:45:43] tener equipos más caros funcionando. Y
+[00:45:45] este
+[00:45:47] el costo de esa banda horaria que
+[00:45:49] llamamos pico, este seguramente puede
+[00:45:53] ser un poco más alto que en las otras
+[00:45:55] dos bandas que son del resto y del
+[00:45:57] valle.
+[00:46:00] Bueno, es esto. ¿Cómo distribuir el
+[00:46:03] consumo de energía por banda? Es muy
+[00:46:05] importante para los usuarios que no
+[00:46:08] tienen medición discriminada por banda
+[00:46:10] horaria, típicamente las pequeñas
+[00:46:12] demandas residenciales, más allá de que
+[00:46:14] ahora con la aparición de todo el
+[00:46:17] instrumental de medición digital se
+[00:46:20] puede ir migrando este a que estos
+[00:46:22] usuarios también tengan medición por
+[00:46:24] bando pero hoy por hoy la verdad la
+[00:46:26] mayoría o en la provincia que yo
+[00:46:28] recuerde creo que ninguno tiene medición
+[00:46:30] discriminada de los usuarios
+[00:46:32] residenciales por bando área.
+[00:46:38] Bueno, obviamente estas proporciones de
+[00:46:41] consumo por banda horaria intervienen en
+[00:46:43] qué? en el cálculo del traspaso de
+[00:46:45] categoría para esos usuarios e costos,
+[00:46:47] perdón, el traspaso de cortos para esa
+[00:46:49] categoría de usuario.
+[00:46:53] Y además hay dos factores muy
+[00:46:55] importantes que son el factor de
+[00:46:57] coincidencia
+[00:46:59] interno
+[00:47:01] y el factor de coincidencia externo y
+[00:47:04] que se usan se usan para poder asignar
+[00:47:07] los costos de la etapa de red también a
+[00:47:10] a cada categoría de usuario.
+[00:47:13] interno tiene que ver
+[00:47:16] cómo colabora cada uno de los usuarios,
+[00:47:20] el nivel de demanda máxima de cada
+[00:47:22] usuario en el nivel de demanda máxima
+[00:47:24] conjunta. ¿Qué quiere decir esto? Que,
+[00:47:26] por ejemplo, si estamos mirando la
+[00:47:27] categoría residencial, no todos los
+[00:47:30] usuarios residenciales van a tener su
+[00:47:32] máxima demanda exactamente en el mismo
+[00:47:34] horario, ¿cierto? Bueno,
+[00:47:37] este factor de coincidencia interno,
+[00:47:39] entonces que va a ser siempre un factor
+[00:47:40] menor que uno, dice, bueno, al nivel al
+[00:47:44] momento de máxima demanda de la
+[00:47:46] categoría residencial,
+[00:47:49] ¿cuánto es el porcentaje en que todos
+[00:47:51] los usuarios aportan a eso? 70, 80, 90%
+[00:47:55] habrá un porcentaje y el externo
+[00:47:58] mide la otra cara de la moneda. O sea,
+[00:48:02] yo a una etapa de red, en una etapa de
+[00:48:05] red, por ejemplo, van a participar
+[00:48:06] distintos grupos de usuarios y ahí hay
+[00:48:09] que ver
+[00:48:11] cómo contribuye. Algo parecido a lo que
+[00:48:13] explicamos con el interno, cómo
+[00:48:14] contribuye cada uno de esos grupos de
+[00:48:17] usuarios, el máximo de esos grupos de
+[00:48:19] usuarios, el máximo conjunto del grupo
+[00:48:22] al a la máxima demanda de grupo sobre
+[00:48:25] ese sobre esa etapa de la red. Estos son
+[00:48:28] los dos conceptos de los factores de
+[00:48:31] coincidencia, interno y externo.
+[00:48:36] Y aquí lo tenemos explicitado como lo
+[00:48:39] que les comentaba recién.
+[00:48:47] Bien, vamos ya acercándose al final.
+[00:48:52] Una actividad importante en el cálculo
+[00:48:55] tarifario, como les decía hace unos
+[00:48:57] momentos, es definir las categorías de
+[00:49:00] usuarios, es decir, cómo agrupar
+[00:49:01] usuarios que tengan similares
+[00:49:03] características, que tengan una potencia
+[00:49:06] máxima que no supere un valor, que estén
+[00:49:08] ubicados en determinados puntos de la
+[00:49:10] red, puntos, me refiero a etapas, o sea,
+[00:49:12] que usen determinadas etapas de la red.
+[00:49:14] Hm. Entonces, por ejemplo, tenemos
+[00:49:15] pequeñas demandas en nuestra provincia,
+[00:49:18] menores de de tomando un ejemplo, no es
+[00:49:20] exactamente el de la provincia de Buenos
+[00:49:22] Aires, pero bastante cercano como para
+[00:49:24] darles una idea, ¿no? Pequeñas demandas
+[00:49:26] que pueden ser urbanas y de tipo
+[00:49:28] residencial o de servicio general, o
+[00:49:30] sea, residencial, consumo gareño,
+[00:49:33] servicio general, todo lo demás que no
+[00:49:35] es residencial, salvo este lo que son
+[00:49:38] medianas y grandes demandas en baja
+[00:49:40] tensión. Bueno, grande, no, mediana,
+[00:49:42] grande no creo que encontremos y este
+[00:49:44] eventualmente el ombrado público, ¿no?
+[00:49:45] Que llama parte y también podemos tener
+[00:49:48] las rurales que pueden ser residenciales
+[00:49:50] y no residenciales.
+[00:49:53] [carraspeo]
+[00:49:55] En este caso, típicamente se las
+[00:49:57] alimenta con la red de baja tensión, o
+[00:49:59] sea, van a usar todas las etapas de la
+[00:50:01] red y solo se les mide el total de
+[00:50:04] energía activa consumida en el periodo
+[00:50:05] de facturación. Para estimar la potencia
+[00:50:07] demandada se usa un concepto que se
+[00:50:09] llama tiempo de utilización, que se
+[00:50:11] obtiene de la campaña de medición. Este
+[00:50:13] tipo de usuario paga un cargo fijo y un
+[00:50:16] cargo variable típicamente.
+[00:50:20] ¿Cómo es la estructura de una tarifa de
+[00:50:22] pequeñas demandas? Ahora vamos a ver
+[00:50:24] cómo metemos ese concepto de BP, BC,
+[00:50:27] bada, este los coeficientes de
+[00:50:30] participación en el consumo en pico, B y
+[00:50:33] resto en un ejemplo típico de cálculos
+[00:50:37] tarifarios para usuarios de baja
+[00:50:39] tensión. Bueno, por un lado van a pagar
+[00:50:41] un cargo fijo que tendrá
+[00:50:45] un val comercial y este 1 B CP es un
+[00:50:51] porcentaje que tiene en cuenta comisión
+[00:50:53] por cobranza que pueden hacernos de
+[00:50:55] tercero, que tiene en cuenta un
+[00:50:58] porcentaje de incobildidad, siempre
+[00:51:00] habrá una parte de la de las facturas
+[00:51:02] que no se pueden cobrar. [resoplido]
+[00:51:05] Luego
+[00:51:07] tenemos un cargo variable que cuando uno
+[00:51:09] lo mira así dice a la flauta asusta,
+[00:51:11] pero si lo vamos a empezar a a ordenar
+[00:51:14] un poquito, vamos a ver que no es tan
+[00:51:15] complicado como parece. Este cargo
+[00:51:18] variable tiene distintas partes.
+[00:51:22] Por un lado tiene el traspaso de los
+[00:51:24] costos de energía o paso de energía.
+[00:51:27] Este, alfa P, alfa R, alfa B. ¿Qué son?
+[00:51:32] son los coeficientes que yo saco de la
+[00:51:34] campaña de medición que me dicen
+[00:51:37] típicamente un usero residencial
+[00:51:40] del 100% de la energía que toma, el
+[00:51:43] tanto por cento lo toma en pico, el
+[00:51:46] tanto por cento lo toma en resto, el
+[00:51:48] tanto por cento lo toma en valle.
+[00:51:51] Luego lo que dice PEP es el precio con
+[00:51:54] que yo compro energía en el pico, el PE
+[00:51:58] el que la compro en el resto y el PEB el
+[00:52:01] que la compro en el valle.
+[00:52:03] [carraspeo]
+[00:52:04] Y por último, ¿qué es estos términos?
+[00:52:07] Este es el precio en que yo lo compro,
+[00:52:10] pero yo después lo tengo que vender.
+[00:52:12] Para relacionar el precio de compra con
+[00:52:14] el precio de venta, que tengo que
+[00:52:16] incorporar las pérdidas. Entonces, acá
+[00:52:18] están las pérdidas de energía en pico,
+[00:52:20] las pérdidas de energía en resto y las
+[00:52:22] pérdidas de energía en valle.
+[00:52:25] Bueno, acá tengo ya el traspaso de los
+[00:52:27] costos de energía. Ahora tengo que
+[00:52:28] traspasar los costos de potencia.
+[00:52:39] Bueno, los costos de potencia tengo el
+[00:52:42] precio de la potencia por uno más las
+[00:52:44] pérdidas de potencia. T1 dice, porque
+[00:52:46] estoy hablando de la categoría
+[00:52:48] residencial y dividido el tiempo de
+[00:52:51] utilización. El tiempo de utilización es
+[00:52:53] la relación que hay entre la energía y
+[00:52:55] la potencia. Hm. O sea, entre la energía
+[00:52:59] que toma el residencial y la potencia
+[00:53:01] máxima que consume en la campaña de
+[00:53:03] medición determino este valor, el tiempo
+[00:53:06] de utilización y después lo uso en el
+[00:53:09] cálculo de la tarifa para traspasar el
+[00:53:11] costo de potencia. Y por último, ¿qué
+[00:53:14] tengo que traspasarle? Y los costos
+[00:53:17] valorado de distribución. Entonces voy a
+[00:53:19] tener el valor agregado de potencia de
+[00:53:22] la de los que se asignan los useros
+[00:53:24] residenciales
+[00:53:27] que va a tener una parte de vamos a
+[00:53:29] poner que mi instalación arranque en
+[00:53:31] media, una parte de media, una parte de
+[00:53:33] transformación media
+[00:53:36] de media de menos tensión transformación
+[00:53:38] media baja y red baja por el factor de
+[00:53:41] coincidencia interno y dividido el
+[00:53:44] tiempo de utilización porque esto
+[00:53:46] recuerden que tiene unidades de
+[00:53:47] potencia.
+[00:53:49] y multiplicado por el valor agregado de
+[00:53:52] administración y multiplicado por este
+[00:53:56] porcentaje que les hablaba hoy, que es o
+[00:53:58] que contempla comisión por cobranza de
+[00:54:00] tercero, pérdidas este, perdón,
+[00:54:03] incobabilidad, etcétera. Bueno, este es
+[00:54:06] como haríamos la estructura de una
+[00:54:08] tarifa de medianas demandas, de pequeñas
+[00:54:10] demandas, perdón.
+[00:54:12] A continuación tenemos una de mediana.
+[00:54:15] Voy a mostrar nada más que la
+[00:54:16] clasificación, no voy a mostrar cómo es
+[00:54:19] el cálculo, después lo pueden ver, cómo
+[00:54:21] es la estructura, perdón, la van a poder
+[00:54:22] ver. Y vamos a ir al otro extremo
+[00:54:27] que son los usuarios en alta.
+[00:54:31] [resoplido]
+[00:54:31] H,
+[00:54:33] un usuario
+[00:54:35] en alta, que son los que tienen
+[00:54:36] potenciw,
+[00:54:40] pueden tener baja tensión, media tensión
+[00:54:44] o alta tensión la la alimentación.
+[00:54:48] Y aquí
+[00:54:50] se les mide o se les factura
+[00:54:54] la energía consumida
+[00:54:57] durante el periodo de facturación
+[00:54:59] abierta en punta, en resto y en valle,
+[00:55:01] porque su equipo de medición permite
+[00:55:03] hacer eso, permite acumular cuánto
+[00:55:05] consumieron en punta, cuánto en resto y
+[00:55:07] cuánto en valle durante el periodo
+[00:55:09] queido. y la potencia máxima que se
+[00:55:12] demanda en el periodo de facturación,
+[00:55:15] que se la discrimina en punta y fuera de
+[00:55:17] punta. Y ahora vamos a ver por qué. Y
+[00:55:18] además un cargo fijo
+[00:55:22] y vamos a ver la estructura de los
+[00:55:24] cargos tarifarios.
+[00:55:27] El cargo fijo simplemente tiene en
+[00:55:29] cuenta el costo comercial de la
+[00:55:31] categoría que se asigna la categoría de
+[00:55:34] grandes usuarios, el componente
+[00:55:35] comercial del valor de la distribución.
+[00:55:39] Luego tenemos un cargo por potencia en
+[00:55:42] punta y un cargo por potencia en fuera
+[00:55:44] de punta. Vamos a ver el de potencia en
+[00:55:46] punta. Tenemos el precio de la potencia
+[00:55:49] en punta para esta categoría de usuario
+[00:55:52] por uno más las pérdidas
+[00:55:54] de potencia para esa categoría de
+[00:55:57] usuario. Esto es paso de potencia. Para
+[00:55:59] fuera de punta exactamente lo mismo,
+[00:56:01] pero obviamente voy a tener que
+[00:56:03] contemplar el precio de la potencia en
+[00:56:06] fuera de punta, ¿no? Bien. Luego acá
+[00:56:09] tenemos la parte de valor distribución,
+[00:56:12] tenemos el Bad P por el factor de
+[00:56:14] coincidencia interno por uno más vaga. Y
+[00:56:18] abajo tenemos exactamente lo mismo. Y
+[00:56:23] acá hay un bichito que se llama
+[00:56:26] [carraspeo]
+[00:56:27] coeficiente de asignación, que les
+[00:56:29] comentaba recién que íbamos a ver que
+[00:56:31] había un coeficiente dando vuelta. ¿Para
+[00:56:33] qué se pone este coeficiente? Este
+[00:56:36] coeficiente reparte
+[00:56:38] un valor del 100% en un porcentaje acá
+[00:56:41] sobre este cargo en potencia en punta y
+[00:56:44] un porcentaje acá en cargo por potencia
+[00:56:46] fuera de punta. Por ejemplo, 70%
+[00:56:50] 30%. ¿Por qué se hace esto? Si yo no
+[00:56:54] hiciera esta asignación, dijera este le
+[00:56:57] pongo 100%, este le pongo cero. Listo.
+[00:56:59] No cobro un cargo por potencia fuera de
+[00:57:01] punta.
+[00:57:03] Todo el cargo es de punta. Ah, pero
+[00:57:05] entonces no serio va a decir, "¿Y si yo
+[00:57:07] me voy de la punta, entonces no pago
+[00:57:09] potencia?" Okay. ¿En qué horario ocurre
+[00:57:12] la punta? Y no sé, el sistema este está
+[00:57:14] ocurriendo entre las 20 y las 23
+[00:57:16] fenómeno. En la 20 y la 23, si me lo
+[00:57:19] permite mi proceso productivo,
+[00:57:22] paro la fábrica, no hago nada, bajo poco
+[00:57:26] consumo cero, entonces no me van a poder
+[00:57:29] cobrar nada por cargo, por potencia.
+[00:57:31] [resoplido]
+[00:57:33] Y luego
+[00:57:34] fuera del punto, bueno, vuelvo a
+[00:57:36] demandar el 100%.
+[00:57:39] ¿Qué es lo que va a pasar si una
+[00:57:41] cantidad importante de usuario empieza a
+[00:57:42] tener este comportamiento? Seguramente
+[00:57:44] la punta se va a correr, va a salir del
+[00:57:47] horario que teníamos previsto y ahora va
+[00:57:49] a estar en otro horario y este
+[00:57:51] empresario vibaracho va a decir, "Uy, ya
+[00:57:54] ahora estoy de vuelta dentro de la punta
+[00:57:56] porque el horario de punta cambió. Otra
+[00:57:58] vez tengo que cambiar mi esquema
+[00:57:59] productivo. Bueno, y para no aburrirlo,
+[00:58:01] esto podría ser un pin pongón de nunca
+[00:58:03] acabar. Con estos porcentaje de
+[00:58:06] asignación, lo que uno busca es que la
+[00:58:09] señal de punta sea más fuerte que la de
+[00:58:11] fuera de punta, pero no sea 100% y que
+[00:58:14] acá siempre haya algo de señal para que
+[00:58:17] el incentivo para salir de la punta no
+[00:58:19] sea tan grande que esté
+[00:58:22] produciendo un permanente desplazamiento
+[00:58:25] del horario de punta.
+[00:58:28] Bueno, y ahora vamos a la parte de
+[00:58:32] cargos por energía que son sers
+[00:58:34] sencillos. El cargo de energía en punta,
+[00:58:37] precio de energía en punta por uno de
+[00:58:39] malas pérdidas de punta.
+[00:58:41] En resto lo mismo, pero precio en resto
+[00:58:45] y pérdidas en resto. Y en valle precio
+[00:58:47] en valle por pérdidas en valle y tenemos
+[00:58:50] paso de energía en pico, en resto y en
+[00:58:52] valle. Y obviamente acá no tenemos que
+[00:58:54] pasar BAD porque todo el BAD está cargo
+[00:58:56] por potencia, ¿no? Bueno,
+[00:59:01] esto es lo que les quería contar por hoy
+[00:59:03] y espero que haber podido ser claro en
+[00:59:08] el intento de transmitir estas ideas y
+[00:59:10] quedo a disposición si hay alguna
+[00:59:11] consulta.
+[00:59:15] Gracias, Eduardo.
+[00:59:19] No sé si hay alguna pregunta,
+[00:59:20] comentario.
+[00:59:26] Bueno, parece que no.
+[00:59:29] Hacemos un recreíto, ¿les parece? 10
+[00:59:32] minutos, eh, 9:20 nos reencontramos. Así
+[00:59:36] arranca Emiliano.
+[00:59:39] Bueno, gracias Eduardo. Nos vemos.
+[00:59:42] Gracias a ustedes. Que tengan muy buen
+[00:59:44] día.
+[00:59:58] Bueno, eh seguimos con la segunda parte
+[01:00:01] de la clase. Como decía Eduardo, vamos a
+[01:00:03] ver básicamente cuestiones que tienen
+[01:00:05] que ver, bueno, con los puntos que están
+[01:00:06] acá y más de un enfoque más
+[01:00:08] cuantitativo. Vamos a ver números
+[01:00:11] e y algunos conceptos.
+[01:00:15] Perdón, no está como presentación o me
+[01:00:17] parece a mí.
+[01:00:18] No, no está como presentación. Dame un
+[01:00:19] segundo. Ahí vamos. Ahí va,
+[01:00:22] ahí está.
+[01:00:22] Gracias.
+[01:00:23] Este,
+[01:00:26] bueno, lo que vemos acá es un gráfico de
+[01:00:28] la oferta de la demanda. Lo que sería la
+[01:00:31] curva de color bordó. Es la curva que
+[01:00:34] representa la oferta.
+[01:00:36] En teoría, si yo tengo que abastecer
+[01:00:40] unidades de demanda aú cada vez mayores,
+[01:00:43] el productor o la oferta eh lo hace a un
+[01:00:47] costo unitario mayor, mientras que la
+[01:00:50] demanda eh cuando
+[01:00:54] está dispuesta a pagar un precio menor a
+[01:00:56] mayor cantidad de unidades.
+[01:00:59] En algún punto estas curvas se
+[01:01:00] encuentran.
+[01:01:02] Eh, lo que dice la teoría es que bueno
+[01:01:04] que el mercado se encuentra en estas
+[01:01:06] curvas se encuentran en un punto y ese
+[01:01:08] es un punto de equilibrio.
+[01:01:12] Lo que ha pasado en el sector energético
+[01:01:15] en general en los últimos años es que ha
+[01:01:17] habido precios que son controles de
+[01:01:20] precios, precios pisados, precios que no
+[01:01:22] reconocen los costos. En definitiva, que
+[01:01:25] lo que hacen es que cuando eso sucede,
+[01:01:27] la oferta, acá estamos nosotros, pero
+[01:01:30] esto es válido para [carraspeo]
+[01:01:32] para nosotros, para los generadores,
+[01:01:33] para el gas, para la para el combustible
+[01:01:36] líquido, eh se restringe la oferta, ¿sí?
+[01:01:40] Porque la oferta no puede producir todas
+[01:01:42] las unidades que está solicitando la
+[01:01:44] demanda. Pero además
+[01:01:47] también tenemos subsidios en el sector.
+[01:01:49] Hay diversa cantidad de subsidios que
+[01:01:51] todavía están y eso aún
+[01:01:55] hace que la demanda se ubique por esta
+[01:01:57] zona, ¿no es cierto? O sea, tiende a
+[01:01:59] demandar más unidades, con lo cual esto
+[01:02:02] se agrava, aumenta lo que se denomina lo
+[01:02:05] que es la escasez o restricción de
+[01:02:07] oferta.
+[01:02:08] Eh, y en general lo que vemos cuando se
+[01:02:13] producen por ahí calidad de servicio,
+[01:02:15] cortes de energía
+[01:02:17] por encima de los que serían los
+[01:02:19] recomendables, importación de energía
+[01:02:22] eléctrica, falta de gas, importación de
+[01:02:25] gas, eh falta de combustible,
+[01:02:27] importación de combustible. O sea, la
+[01:02:29] importación y la falta y la escasez es
+[01:02:31] lo que nos está diciendo que eh hay una
+[01:02:34] oferta que no está debidamente
+[01:02:35] remunerada.
+[01:02:36] Cuando en nuestro sector se habla de
+[01:02:39] normalización o reforma del sector, se
+[01:02:43] le cambia el nombre de alguna manera, lo
+[01:02:45] que se está buscando es ir hasta este
+[01:02:48] punto, ¿no es cierto? O sea, llevar el
+[01:02:50] sector de esta zona a este punto de
+[01:02:53] equilibrio.
+[01:02:55] Y ese es el contexto en el que nosotros
+[01:02:57] estamos.
+[01:03:00] En lo que es el sector eléctrico e las
+[01:03:04] digamos los la actividad está segmentada
+[01:03:07] en generación transporte y distribución.
+[01:03:09] Nosotros estamos acá. Lo importante de
+[01:03:12] esto es que generación y transporte es
+[01:03:13] jurisdicción federal y distribución. La
+[01:03:16] particularidad que tiene es que
+[01:03:19] jurisdicción federal es solo de nor y de
+[01:03:22] sur. Eh, mientras que el resto de la
+[01:03:24] distribución se eh se presta bajo
+[01:03:27] jurisdicción provincial. digamos, esa la
+[01:03:30] particularidad que tiene la distribución
+[01:03:32] dentro de lo que es el sector eléctrico
+[01:03:34] y dentro de lo que es la reforma del
+[01:03:36] sector, lo que está sucediendo ahora,
+[01:03:39] las modificaciones de las leyes que son
+[01:03:41] de nuestro marco normativo,
+[01:03:44] eh hay dos puntos que me parece que son
+[01:03:47] importantes. Por un lado, lo que una de
+[01:03:49] las modificaciones lo que hace es que
+[01:03:52] introduce la posibilidad de que aparezca
+[01:03:55] una figura nueva que es la figura del
+[01:03:56] comercializador
+[01:03:58] y por otro lado hay un incentivo para
+[01:04:01] que se produzcan contratos
+[01:04:03] eh entre los generadores y la demanda,
+[01:04:05] los distribuidores o los o los usuarios.
+[01:04:08] Y en el caso de que nosotros contratemos
+[01:04:11] esa energía, ese precio de compra o
+[01:04:16] promedio de alguna manera se traslade al
+[01:04:18] precio final de la misma manera que hoy
+[01:04:20] hacemos el passhr de los precios, como
+[01:04:22] explicaba Eduardo, de los precios que
+[01:04:25] sanciona a la Secretaría de Energía.
+[01:04:28] Básicamente esas son las dos cambios que
+[01:04:31] yo veo como que son importantes y la
+[01:04:32] resolución 400. 400 es un instrumento
+[01:04:35] que es transitorio, digamos, estamos en
+[01:04:36] una transición
+[01:04:40] y yendo eh arrancando, mejor dicho, por
+[01:04:43] el tema del Pathrough e
+[01:04:47] digamos hoy vimos en la primera parte de
+[01:04:50] la clase mostró las fórmulas de lo que
+[01:04:51] sería el pathro.
+[01:04:54] Eh, como las normas del mercado cambian,
+[01:04:57] tienen su dinámica, eh, voy teniendo
+[01:04:59] distintos precios o su la secretaría
+[01:05:03] define precios, bonificaciones y demás.
+[01:05:07] Hoy estamos parados en una situación en
+[01:05:09] la cual la oferta está dividida, en lo
+[01:05:11] que yo tengo una oferta EPOT y una
+[01:05:13] oferta asignada, generación EPOT y
+[01:05:15] generación asignada. Y por otro lado, yo
+[01:05:18] tengo eh tres segmentos de demanda, la
+[01:05:20] demanda residencial, la demanda goodi y
+[01:05:24] la demanda no residencial. La demanda
+[01:05:26] residencial ve la generación asignada,
+[01:05:29] los woodies están mirando el spot y la
+[01:05:31] no residencial ven un mix de ambas
+[01:05:33] ofertas, ¿no es cierto? Yo tengo tres
+[01:05:36] precios en definitiva y yo hago el
+[01:05:38] traslado de esos precios, ¿no? Eh, más
+[01:05:41] allá de cómo es lo que me asegura la
+[01:05:44] normativa es que esos precios se
+[01:05:46] trasladan a los usuarios.
+[01:05:48] Y lo que vemos en este gráfico, que es
+[01:05:50] una proyección que había hecho Camesa en
+[01:05:53] octubre, dice octubre del 25 de cuando
+[01:05:55] estaba eh se estaba para aprobar la
+[01:05:58] normativa, Camesa lo que dice, bueno, en
+[01:06:00] definitiva, vamos a pasar de un esquema
+[01:06:02] de recomendación de la generación a un
+[01:06:04] esquema nuevo donde vamos a tener en
+[01:06:07] principio dos precios, el del goody y el
+[01:06:09] residencial y un un mix y que este va a
+[01:06:13] ser el comportamiento que van a tener
+[01:06:14] durante el año donde se ve que la
+[01:06:17] generación asignada tiene un precio un
+[01:06:20] poco más estable durante el año y lo que
+[01:06:22] es la spot tiene un pico en el invierno.
+[01:06:25] Eh, en la realidad, digamos, como
+[01:06:28] estamos ahora es que los picos estos
+[01:06:30] invierno están más altos de lo previsto
+[01:06:32] porque, bueno, ustedes saben, los
+[01:06:33] precios de los combustible son más
+[01:06:35] altos, pero el precio del petróleo y
+[01:06:36] demás, eso lo que ha producido es un un
+[01:06:39] pico de invierno más alto. Por ahí lo
+[01:06:41] que hay que tener presente, además de
+[01:06:43] estos precios, es que los precios tienen
+[01:06:45] una estacionalidad y que esa
+[01:06:47] estacionalidad
+[01:06:49] tienen picos de costos en el invierno.
+[01:06:55] Eso para tener en cuenta respecto de lo
+[01:06:58] que es el costo en el MEM y lo que es
+[01:07:00] [carraspeo] el passw de los costos en el
+[01:07:01] mercado eléctrico mayorista.
+[01:07:05] Para lo que es la determinación del BAD
+[01:07:08] y para ver eh cómo se calculan las
+[01:07:10] tarifas y cuáles son los costos, primero
+[01:07:12] hay que entender cuáles son las
+[01:07:14] metodologías de ificaciones de de
+[01:07:16] tarifas o cómo se remunera la
+[01:07:17] distribución.
+[01:07:20] Para remoner la distribución hay dos
+[01:07:22] metodologías eh grandes metodologías, la
+[01:07:24] que se utiliza en la provincia, la que
+[01:07:26] se utiliza en la Argentina y la que se
+[01:07:27] utiliza en las mayores mayor la mayor
+[01:07:30] cantidad de países la metodología de
+[01:07:31] Pricecamp, que está establecida en
+[01:07:34] nuestro marco normativo, el marco
+[01:07:36] normativo de la provincia
+[01:07:38] y que lo que establece esta metodología
+[01:07:40] es que fija una tarifa para un periodo,
+[01:07:43] ¿sí? Ese periodo es de 5 años, podría
+[01:07:46] ser diferente, pero la ley lo
+[01:07:49] especifica, son 5 años y ese precio se
+[01:07:52] mantiene fijo, vamos a decir, para en
+[01:07:55] principio para ese periodo de 5 años.
+[01:07:58] Eh, si el precio se mantiene fijo y yo
+[01:08:00] sé que voy a car un precio durante 5
+[01:08:02] años, de alguna manera tengo un
+[01:08:04] incentivo para eh bajar mis costos y ser
+[01:08:09] más eficiente.
+[01:08:11] Esa mayor eficiencia es una mayor
+[01:08:13] rentabilidad para el prestador. O sea,
+[01:08:15] el price cap supone que el distribuidor
+[01:08:19] que es eficiente puede tener un una
+[01:08:23] mejora en su rentabilidad y cuando pasan
+[01:08:26] los 5 años y hace la nueva RTI, esa
+[01:08:30] mejora de rentabilidad o esa mejora de
+[01:08:31] eficiencia de alguna manera se traslada
+[01:08:33] al usuario. Esta sería la idea de lo que
+[01:08:37] es el price cap. Sí, en el promedio de
+[01:08:40] estos 5 años, como hay inflación,
+[01:08:44] estas tarifas eh se ajustan con eh
+[01:08:49] con la inflación o con las variaciones
+[01:08:50] de precio. Lo que hay que tener presente
+[01:08:52] es que el regulador no asegura un
+[01:08:55] ingreso, sino que lo que asegura es un
+[01:08:58] precio en el PRCAM. Si no es que yo
+[01:09:01] tenga un ingreso asegurado, ese ingreso
+[01:09:04] puede ser mayor o menor en función de
+[01:09:06] como es la demanda.
+[01:09:08] Eh, lo que a mí me aseguran es un
+[01:09:10] precio. Eso es el price cap así puro.
+[01:09:16] Eh, bueno, es una metodología que
+[01:09:20] nació en Gran Bretaña, se utilizó las
+[01:09:22] privatizaciones,
+[01:09:24] se utilizó en las privatizaciones de la
+[01:09:26] Argentina.
+[01:09:27] Se aprovecharon las oportunidades para
+[01:09:29] introducir y eficiencia en las empresas
+[01:09:31] que eran del Estado. Se aplican en mayor
+[01:09:32] cantidad de países.
+[01:09:35] El control de calidad.
+[01:09:38] Eh, en principio esto quiere decir que
+[01:09:41] no me asegura calidad, simplemente que
+[01:09:43] yo tengo una multa,
+[01:09:45] como decía Eduardo, y si no cumplo la
+[01:09:46] calidad, pago la multa. Pero eso es pos
+[01:09:51] y las los problemas que tiene o algunos
+[01:09:55] problemas que señalan y que se tratan de
+[01:09:57] mejorar es que prioriza la reducción de
+[01:10:00] costos y la rentabilidad
+[01:10:02] y el método mismo va en detrimento a las
+[01:10:05] inversiones y la calidad. No es que no
+[01:10:06] se mejore la calidad, pero como que no
+[01:10:09] lo prioriza. Por este motivo se intenta
+[01:10:12] complementar el método de Pricecap con
+[01:10:14] algún plan de inversiones complementario
+[01:10:16] que mejorar la calidad, es decir, si lo
+[01:10:17] está buscando complementar con este tipo
+[01:10:20] de de
+[01:10:22] metas o de normas que son
+[01:10:24] complementarias.
+[01:10:27] Eso no significa que no sea priceap.
+[01:10:28] Sigue siendo PRCAP, pero tiene algún
+[01:10:31] incentivo para la inversión y para la
+[01:10:32] calidad adicional, digamos.
+[01:10:37] Y el otro método que es el método del
+[01:10:42] Costpl
+[01:10:44] que quizá tiene no tiene la mejor este
+[01:10:48] fama en la Argentina, pero la verdad que
+[01:10:50] se usa en Estados Unidos, se usó
+[01:10:52] siempre, siempre funcionó bien, limita
+[01:10:54] la rentabilidad, o sea, acá sí hay una
+[01:10:57] rentabilidad asegurada o podríamos decir
+[01:10:59] que tiende a asegurar la rentabilidad
+[01:11:02] de manera tal de que si uno tiene en un
+[01:11:03] periodo una rentabilidad mayor a la
+[01:11:05] esperada, se traslada al usuario del
+[01:11:07] otro periodo y si es por debajo de la
+[01:11:09] perada se eh se incrementa la tarifa al
+[01:11:13] periodo siguiente. El periodo son de las
+[01:11:15] revisiones son de un año
+[01:11:19] y este eh se utiliza en Estados Unidos y
+[01:11:23] por ahí lo que a nosotros por ahí no no
+[01:11:26] nos parece más como que no
+[01:11:30] más problemático es que el regulador
+[01:11:33] participa en todas las decisiones, o
+[01:11:35] sea, hay una participación más activa
+[01:11:37] del regulador
+[01:11:39] y que no hay incentivo para la
+[01:11:41] eficiencia, o sea, por el incentivo está
+[01:11:43] más para aumentar la inversión.
+[01:11:46] Un punto a favor que tiene es que por
+[01:11:47] este método, así como está planteado en
+[01:11:50] digamos en el estado puro, sin
+[01:11:52] modificar, como yo estoy pactando
+[01:11:54] inversiones y acordando inversiones,
+[01:11:56] puedo acordar con el regulador
+[01:11:59] incorporación de tecnología, por
+[01:12:01] ejemplo, el tema inteligente que en este
+[01:12:02] momento se está llevando adelante por
+[01:12:04] parte de los distribuidores. Si fuera un
+[01:12:06] CPL, eso estaría eh avalado,
+[01:12:10] consensuado, acordado con el regulador,
+[01:12:12] ¿no es cierto? y quizás sea más fácil de
+[01:12:14] implementar nuevas tecnologías.
+[01:12:17] Podría ser una ventaja de este método,
+[01:12:19] ¿no?
+[01:12:24] Bueno, eh lo que es la normativa de la
+[01:12:27] provincia respecto a tarifas, hay un
+[01:12:30] capítulo de tarifas, es el capítulo nu.
+[01:12:34] Eh, la ley lo que me asegura es en el
+[01:12:38] capítulo 42 que la tarifa pueda
+[01:12:41] recuperar los costos del mercado
+[01:12:43] eléctrico mayorista, el transporte y su
+[01:12:45] expansión.
+[01:12:47] Eh, acá vemos una tarifa promedio de la
+[01:12:49] provincia de Buenos Aires para un
+[01:12:51] consumo promedio de 186 kWh mes en
+[01:12:54] dólares por megwti hora. Vemos cuánto es
+[01:12:58] el costo que está reconocido en la
+[01:12:59] tarifa. Es esta parte de color naranja.
+[01:13:04] Además, la tarifa reconoce una un
+[01:13:08] porcentaje de pérdidas técnicas y no
+[01:13:10] técnicas. Lo vamos a ver sobre el final.
+[01:13:14] Eh,
+[01:13:16] la parte de color azul es estos 80 por
+[01:13:19] megidora. La parte que remunera el
+[01:13:22] servicio de red es la prestación del
+[01:13:23] distribuidor, que es el valor agregado
+[01:13:24] de distribución,
+[01:13:26] posibilita recuperar los costos de
+[01:13:28] comercialización,
+[01:13:29] renovar y y OIM, renovar y expandir las
+[01:13:33] redes. Y el tema de la rentabilidad y
+[01:13:36] acá eh
+[01:13:39] voy a repetir lo que dijo Eduardo. Digo,
+[01:13:41] esta parte es importante o me parece
+[01:13:44] importante que
+[01:13:46] la ley o algunas leyes especifican cuál
+[01:13:48] es la rentabilidad.
+[01:13:50] Eso tiene algún problema.
+[01:13:52] La ley nuestra no lo especifica, ni la
+[01:13:55] provincial ni la nacional,
+[01:13:57] pero nos dice que tiene que ser
+[01:13:59] comparable a niveles internacionales,
+[01:14:02] con lo cual no es poco lo que dice, pues
+[01:14:04] lo que no está diciendo en definitiva es
+[01:14:06] bueno, alguien que viene a invertir a la
+[01:14:08] Argentina o un inversor local inclusive
+[01:14:11] va a tener una rentabilidad parecida a
+[01:14:13] la que tiene en otros países y me parece
+[01:14:15] un criterio importante que se utiliza
+[01:14:18] para la rentabilidad que acota la
+[01:14:19] discusión, si bien puede ser un tema
+[01:14:20] discutido, acota
+[01:14:22] Y también es válido para otras
+[01:14:24] cuestiones, ¿no?, de la prestación del
+[01:14:25] servicio. Fijar un estándar
+[01:14:27] internacional para la rentabilidad
+[01:14:29] podría usarse para otros también.
+[01:14:33] La parte del del FREBA, la parte que va
+[01:14:35] al fidecomiso, eh son estos 11 que están
+[01:14:38] acá, que son en principio son para la
+[01:14:40] expansión de transporte.
+[01:14:44] Yo lo pongo acá en cuando armo la tarifa
+[01:14:46] por jurisdicción provincial, pero es
+[01:14:49] parte del costo de adquisición de la
+[01:14:50] energía.
+[01:14:53] Y por último, la parte de impuestos,
+[01:14:54] impuestos nacionales, este gris oscuro y
+[01:14:58] los provinciales que lo vamos al final a
+[01:15:00] ver lo vamos a ver al final de la clase
+[01:15:02] también que es la parte de Grisclar. O
+[01:15:05] sea, esta sería la composición de una
+[01:15:08] factura
+[01:15:10] y por ahí otro punto a tener en cuenta
+[01:15:11] que lo que nosotros facturamos y
+[01:15:14] cobramos como distribuidores de alguna
+[01:15:15] manera sostiene todo el servicio, ¿no es
+[01:15:18] cierto? sostiene la generación, el
+[01:15:20] transporte y la distribución.
+[01:15:24] No sé si hubo una pregunta y yo me la
+[01:15:26] pasé
+[01:15:30] bien.
+[01:15:32] Sigo.
+[01:15:33] Dale.
+[01:15:35] Eh, de los métodos para ya yendo a los
+[01:15:37] métodos para calcular el para hacer el
+[01:15:40] cálculo, los métodos, si bien hay varios
+[01:15:42] métodos, se se dividen en dos grandes
+[01:15:46] alternativas.
+[01:15:48] la alternativa del BNR y la alternativa
+[01:15:50] del flujo de fondos. El BAD se divide
+[01:15:55] también en dos grandes partes, lo que es
+[01:15:57] los gastos de explotación y la
+[01:15:58] remuneración de capital. Yo puse 50
+[01:16:01] porque también es un valor promedio
+[01:16:03] estándar de referencia para tener una
+[01:16:06] noción de cuánto representa una parte y
+[01:16:08] la otra.
+[01:16:10] los métodos de BNR que tienen que ver
+[01:16:12] con la valorización de la red, que
+[01:16:14] después se puede despreciar o no, y
+[01:16:16] sobre la cual se aplica rentabilidad y
+[01:16:18] hay distintos métodos para reconocer el
+[01:16:21] capital a partir de la de la red.
+[01:16:25] en general se acompañan con una empresa
+[01:16:28] modelo, que lo que nos dice la empresa
+[01:16:31] modelo es que es reconocer los costos de
+[01:16:34] una empresa modelo eficiente, que no es
+[01:16:37] lo que surge de nuestra contabilidad.
+[01:16:41] Y el método flujo de fondos. Acá se es
+[01:16:44] un flujo de fondos, con lo cual la parte
+[01:16:46] de las inversiones se contempla
+[01:16:49] en este método eh en principio no. Si
+[01:16:53] bien hay formas de contemplarlas, pero
+[01:16:55] hay es como una se contemplan, pero de
+[01:16:59] una manera eh que no exactamente, vamos
+[01:17:03] a decirlo. Y acá sí, acá se cargan flujo
+[01:17:06] de fondo como efectivamente se producen
+[01:17:08] las inversiones. Entonces, el que quiere
+[01:17:10] ver las inversiones, incorporar las
+[01:17:12] inversiones en la en las tarifas a que
+[01:17:13] influyen directamente. Cuando vamos al
+[01:17:16] OIM no quiere decir que si yo un flujo
+[01:17:18] de fondo tenga que ir a la contabilidad.
+[01:17:20] Podría ser un flujo de fondos por
+[01:17:22] empresa modelo, pero en [carraspeo]
+[01:17:23] general si uno va al esquema de flujo de
+[01:17:25] fondos
+[01:17:27] y tiende a ir a la contabilidad, es como
+[01:17:29] que se agarra más de la parte financiera
+[01:17:32] y se desprende más de la red. En
+[01:17:34] realidad el método de BNR al agarrar al
+[01:17:38] al apoyarme en la red acá, después me
+[01:17:41] apoyo acá en la red, digamos. tiene algo
+[01:17:43] que ver, desde mi punto de vista, con la
+[01:17:46] realidad y con los costos de la
+[01:17:47] prestación del servicio.
+[01:17:52] Bueno, lo que decía es el mecanismo del
+[01:17:53] artículo 44 de la actualización del BAT
+[01:17:56] por la por variaciones de costo
+[01:18:01] que son las variaciones que que el
+[01:18:03] distribuidor no controla, la inflación
+[01:18:05] básicamente
+[01:18:10] tarifa en términos reales debería quedar
+[01:18:14] fija para el periodo de 5 años, ¿no es
+[01:18:16] cierto? O sea, con lo que se define en
+[01:18:18] la RTI, uno tendría que funcionar,
+[01:18:21] cumplir con sus obligaciones durante los
+[01:18:23] 5 años.
+[01:18:28] Bien.
+[01:18:30] Bueno, ya entrando en cuáles son los
+[01:18:32] driver de costos de la distribución, qué
+[01:18:35] es lo que nos genera los costos.
+[01:18:38] E
+[01:18:40] bueno, uno de los drivers más
+[01:18:41] importantes es la dispersión de nuestra
+[01:18:43] demanda. No es lo mismo si yo tengo la
+[01:18:46] demanda concentrada
+[01:18:48] que si yo tengo toda la demanda
+[01:18:49] dispersa. Si yo tengo en una zona una
+[01:18:53] unidad de potencia de 1 mega, voy a
+[01:18:57] tener un costo. Si yo ese mega tengo
+[01:18:58] todo disperso, voy a tener un costo más
+[01:19:00] alto, ¿no es cierto? Entonces, si yo
+[01:19:03] tengo una mayor dispersión, yo voy a
+[01:19:05] usar más kilómetros de red para
+[01:19:07] abastecer la misma unidad de potencia.
+[01:19:09] Eso lo llamamos dispersión. kilómetro de
+[01:19:12] red. Sumo todo, baja, media alta, no
+[01:19:14] discriminación subterránea. En principio
+[01:19:18] voy a tomar como un gran driver grueso
+[01:19:21] en los kilómetros de red. Y con eso
+[01:19:25] digo, bueno, eh estas empresas tienen
+[01:19:28] dispersión. Sobre este gráfico. Lo que
+[01:19:30] estamos viendo son las empresas de la
+[01:19:31] provincia de Buenos Aires y las empresas
+[01:19:33] de jurisdicción federal, que son las que
+[01:19:35] habitualmente nos comparamos o nos
+[01:19:36] comparan, pero nos comparan en peso por
+[01:19:40] kilow. o peso por megwh peso por unidad
+[01:19:44] de demanda, pero en realidad esa
+[01:19:45] comparación debería tener en cuenta los
+[01:19:48] kilómetros. Lógicamente, si yo uso más
+[01:19:51] kilómetros para abastecer la misma
+[01:19:52] demanda, lógicamente yo voy a tener un
+[01:19:55] costo mayor.
+[01:19:56] Este es un cálculo donde vemos que los
+[01:19:58] puntos estos surgen de la revisión
+[01:20:01] tarifaria del año 2016, donde se
+[01:20:04] modelaron las empresas y nos dan que los
+[01:20:06] puntos de las tarifas aprobadas, de las
+[01:20:10] que fueron aprobadas, se ubican
+[01:20:13] cerca o en proximidad de una recta y que
+[01:20:17] esa recta explica la variación de costos
+[01:20:19] entre las empresas de la provincia de
+[01:20:21] Bursales y las empresas de Capital
+[01:20:22] Federal. son mayores, no se muestra que
+[01:20:25] son un tanto mayor, ¿no es cierto? Un
+[01:20:28] este 50% y a veces un poco más
+[01:20:32] dependiendo las empresas, ¿no? Es lo
+[01:20:33] mismo del app que dez.
+[01:20:36] [resoplido]
+[01:20:37] Este,
+[01:20:39] bien, esto para eh mencionar que la
+[01:20:42] comparación tarifara, si la vemos en
+[01:20:43] pesos por kilowa, no no estamos mirando
+[01:20:47] los costos de la distribución.
+[01:20:50] No tenemos que tener presente que las
+[01:20:53] empresas tienen dispersiones diferentes
+[01:20:54] y por lo tanto van a tener costos
+[01:20:55] mayores.
+[01:20:59] El otro concepto que hay para fijar
+[01:21:02] tarifas es el de tarifa media. Como
+[01:21:04] explicaba Eduardo, el caso de la baja
+[01:21:06] tensión y la media tensión es uno donde
+[01:21:08] yo estoy discriminando tarifas media y
+[01:21:10] baja, pero aún dentro de lo que es la
+[01:21:13] misma tensión, yo eh voy a cobrar una
+[01:21:16] tarifa para baja tensión, por ejemplo,
+[01:21:20] que es a todos los sueros de la misma,
+[01:21:21] pero el servicio de red no es homogéneo.
+[01:21:24] La calidad no es homogénea. Esto es un
+[01:21:27] gráfico donde vemos cómo es la calidad
+[01:21:28] de servicio
+[01:21:30] en el área de concesión nacional y vemos
+[01:21:33] que tiene una mejor calidad en la zona
+[01:21:36] metropolitana y cuando nos vamos a la
+[01:21:38] zona del con urbano, la que le empeora
+[01:21:40] empeora bastante, mientras que tengo un
+[01:21:42] said de no sé si se alcanza a ver, eh,
+[01:21:45] tengo de cuatro, voy a zonas que por ahí
+[01:21:47] son el doble, este es el saifi, perdón,
+[01:21:50] tengo entre 0 y 37
+[01:21:53] en las zonas metropolitanas, por
+[01:21:55] ejemplo,
+[01:21:56] Nor de sur. Cuando me voy al con urbano,
+[01:21:59] me paso a 38, o sea, me voy casi al
+[01:22:03] doble y me voy más todavía.
+[01:22:05] Eh, lo que vemos es que los usuarios
+[01:22:08] pagan la misma tarifa teniendo calidad
+[01:22:11] de servicio diferente y esa calidad
+[01:22:13] diferente tiene que ver con la también
+[01:22:16] con la densidad, con el costo. Pero el
+[01:22:18] costo tiene que ver con la densidad. Si
+[01:22:20] yo tengo mayor densidad de carga, voy a
+[01:22:22] usar subterráneo y al tener subterráneo
+[01:22:25] voy a tener un costo
+[01:22:27] un costo más alto, pero este voy a tener
+[01:22:31] una calidad mejor, ¿no es cierto?
+[01:22:35] Y y esa calidad no la va a reconocer la
+[01:22:38] tarifa. Así que los los este las
+[01:22:43] calidades son heterogéneas en el
+[01:22:45] servicio y los costos también son
+[01:22:46] heterogéneos. Lo que pasa yo voy a
+[01:22:48] determinar tarifas medias y esa tarifa
+[01:22:51] media es un promedio de los costos de la
+[01:22:53] red.
+[01:22:57] Bien,
+[01:22:59] bueno, ahora sí vemos cómo son las
+[01:23:01] tarifas en viendo esta parte pasamos a
+[01:23:04] ver cómo son las tarifas en en dólares
+[01:23:06] por megwhora en la Argentina. Esta es
+[01:23:10] una comparación tarifaria que hace Adera
+[01:23:13] y este yo si la comparaciones para
+[01:23:19] diversos consumos y diversas tarifas, yo
+[01:23:22] seleccioné las dos más representativas
+[01:23:25] representativas que son un residencial
+[01:23:27] de 250 kW mes, que es un consumo
+[01:23:30] promedio de la Argentina.
+[01:23:33] ¿Cómo son las tarifas?
+[01:23:35] Bueno, estas son las barras completas
+[01:23:38] que contemplan la parte de costo del
+[01:23:40] mem,
+[01:23:42] que es la de color celeste, la parte del
+[01:23:44] bar, que es la de color bordó y la parte
+[01:23:46] gris que es la de impuestos.
+[01:23:49] La parte del mem es similar porque el
+[01:23:51] costo de adquisición de compra en el
+[01:23:53] mercado eléctrico mayorista es parecida
+[01:23:55] para todas las distribuidores y lo que
+[01:23:56] vemos es que la diferencia
+[01:23:59] está en el BAD. Esta diferencia, esta
+[01:24:03] heterogeneidad tiene que ver con lo que
+[01:24:04] estamos viendo, la el tema de la
+[01:24:08] dispersión,
+[01:24:09] pero también hay una diferencia en
+[01:24:12] cuanto a las actualizaciones tarifarias,
+[01:24:14] las realizaciones de las revisiones,
+[01:24:18] algún subsidio cruzado, uno ve acá de
+[01:24:20] norte y de sur y la verdad que son mucho
+[01:24:24] más bajas que las distribuid de la
+[01:24:26] provincia de Buenos Aires.
+[01:24:28] Si mirábamos el gran fico anterior,
+[01:24:30] vimos una relación. Cuando vemos acá,
+[01:24:31] vemos que esa relación es mayor. Cuando
+[01:24:34] vamos a lo que es una tarifa T3 de baja
+[01:24:37] tensión, vemos que las tarifas,
+[01:24:41] las diferencias en el BAT se achican.
+[01:24:44] ¿Sí? Entonces acá vemos también que por
+[01:24:47] ahí por capacidad de pago, por
+[01:24:50] decisiones políticas, por atrasos en las
+[01:24:53] en las revisiones tarifarias o en las
+[01:24:55] actualizaciones de
+[01:24:57] costo, se ve que hay diferencias que
+[01:25:00] tienen origen en estos por estos
+[01:25:02] aspectos y eh no solo por la dispersión,
+[01:25:05] pero lo importante a tener en cuenta es
+[01:25:07] que ya la dispersión nos pone una
+[01:25:08] diferencia de costo. Por más que yo
+[01:25:11] equipare toda la desconexiones, el mismo
+[01:25:13] criterio, las mismas actualizaciones,
+[01:25:15] voy a ver una diferencia en las tarifas
+[01:25:17] entre una distribuidora y otra
+[01:25:19] distribuidora. No es que eso obedezca
+[01:25:20] una cuestión política exclusivamente.
+[01:25:22] Sí.
+[01:25:25] Este bien, provincia de Buenos Aires,
+[01:25:28] PBA sur, norte, eh Atlántica, La Plata.
+[01:25:34] Estamos en, digamos, en los promedios de
+[01:25:38] nivel nacional y cuando nos vamos para
+[01:25:41] lo que es este tarifa T3 también estamos
+[01:25:46] en los promedios a nivel nacional. Sí,
+[01:25:48] son estos colores que están acá. PB
+[01:25:49] Azur, La Plata, Atlántica Norte. Estamos
+[01:25:53] dentro de lo que serían los promedios o
+[01:25:56] los los valores medios.
+[01:26:01] Bien.
+[01:26:03] Y si nos vamos al plano internacional,
+[01:26:07] vamos a hablar de lo que es la región
+[01:26:10] de Sudamérica.
+[01:26:13] Eh, este es un trabajo que hacemos con
+[01:26:16] el SIER, lo hacemos en el área de
+[01:26:19] mercado y tarifa con los países de
+[01:26:21] Sudamérica. El trabajo de CIER también
+[01:26:22] comprende Centroamérica, pero yo lo
+[01:26:25] quité porque no es comparable. Esta es
+[01:26:27] una extracción
+[01:26:29] del informe del CER que contiene los
+[01:26:31] países del los que nos vamos a comparar.
+[01:26:36] Eh, también 200 kW hor mes. Esto es
+[01:26:39] enero del año 2025. Venimos retrasados,
+[01:26:42] pero no ha habido mucho cambio, pero es
+[01:26:44] la última, el último trabajo del cierto
+[01:26:48] lo mismo que veíamos o algo muy similar
+[01:26:50] a lo que veíamos en el cuadro anterior,
+[01:26:52] pero ahora ya comparándonos a nivel
+[01:26:54] internacional, lo que vemos que acá dice
+[01:26:57] AR es Argentina, no están identificadas
+[01:27:00] las empresas. Sí, el no identifica las
+[01:27:03] empresas de ni la de las provincias de
+[01:27:05] Buenos Aires ni de y de sur ni ninguna
+[01:27:07] otra ni tampoco la de otros países,
+[01:27:10] simplemente les pone un código.
+[01:27:12] Pero lo que vemos es que Argentina tiene
+[01:27:15] una dispersión y que está, digamos,
+[01:27:17] también en los niveles comparables a los
+[01:27:20] de otros países en el precio final de la
+[01:27:22] energía. O sea, la tarifa de un T1R,
+[01:27:27] siempre hablando de lo que es no CEF,
+[01:27:30] está en los niveles eh comparables en
+[01:27:32] Sudamérica. Y vemos que Argentina tiene
+[01:27:36] su dispersión, ¿no es cierto? Que hay
+[01:27:38] barras por acá, hay otras por acá, pero
+[01:27:42] vemos otros países también tienen cierta
+[01:27:44] dispersión, no somos los únicos que
+[01:27:46] tenemos dispersión.
+[01:27:48] Eh, y la parte de impuestos que lo vamos
+[01:27:51] a ver al final, eh, lo que es gris
+[01:27:54] contempla el IVA. Colombia, por ejemplo,
+[01:27:57] no graba con el IVA la energía eléctrica
+[01:28:00] y Argentina y creo que Brasil son los
+[01:28:03] que ponen impuestos provinciales o
+[01:28:07] impuestos adicionales a IBA. Los demás
+[01:28:09] países solamente varios graban
+[01:28:12] únicamente con el IVA y consumo de
+[01:28:14] energía eléctrica.
+[01:28:16] Si nos vamos a lo que es eh lo que es la
+[01:28:18] tarifa de una tarifa de media tensión,
+[01:28:21] también vimos Argentinas en la mitad de
+[01:28:23] la tabla acerca de los valores medios y
+[01:28:26] bueno, con una dispersión este
+[01:28:29] también con cierta dispersión, quizá más
+[01:28:32] dispersión de lo que tiene Brasil o lo
+[01:28:33] que tiene en otros países.
+[01:28:37] Bien,
+[01:28:40] esto es para ver dónde estamos parados a
+[01:28:42] nivel nacional y a nivel internacional
+[01:28:45] con los países de la región, ¿no es
+[01:28:46] cierto? Que son los comparables.
+[01:28:48] Emiliano,
+[01:28:49] ¿sí
+[01:28:50] te puedo hacer una pregunta? Fernando,
+[01:28:52] ¿cómo andas?
+[01:28:52] Sí, sí, Fernando, ¿cómo andás?
+[01:28:55] Ahí veo eh en la parte de Argentina que
+[01:28:58] todas tienen en el íem otros impuestos,
+[01:29:01] excepto IVA.
+[01:29:02] Sí.
+[01:29:03] eh es el que más preponderancia tiene.
+[01:29:06] Incluso después veo que Ecuador y Perú
+[01:29:08] casi no tiene impuestos.
+[01:29:10] Sí, Ecuador y Ecuador y esto es
+[01:29:12] Paraguay, pero puede ser que este
+[01:29:14] Ecuador no estoy seguro. Capaz me olvidé
+[01:29:15] algo. Acá es Paraguay que tiene Sí. El
+[01:29:18] que no tiene seguro es Colombia. Acá
+[01:29:20] estos estos me queda la duda. Colombia
+[01:29:22] no tiene,
+[01:29:24] Brasil sí tiene. Fíjate que por ahí en
+[01:29:26] ese sentido, en ese sentido somos los
+[01:29:27] que más este impuestos tenemos con
+[01:29:30] respecto a a dólares por megwh
+[01:29:34] Argentina.
+[01:29:34] Eh, no hice la comparación en dólares
+[01:29:37] por megwh preferí evitarlo, pero sí
+[01:29:40] vamos a lo conceptual
+[01:29:43] porque el IVA no es igual. Sí, vos me
+[01:29:46] decís, el IVA del 21
+[01:29:49] creo que es más alto que los demás
+[01:29:51] países.
+[01:29:53] Además tenemos otros impuestos.
+[01:29:56] Además tenemos otros impuestos que
+[01:29:58] algunos tienen, otros no. Por ejemplo,
+[01:30:00] Brasil tiene, por ahí en alguna
+[01:30:01] juricción tiene, otra no, no lo sé. Pero
+[01:30:04] sí, si miras acá ves que hay eh para un
+[01:30:08] usuario residencial, un hogar ves un
+[01:30:10] color naranja
+[01:30:12] y si ves acá, bueno, este es Argentina
+[01:30:15] también, fíjate acá, yo lo ordené por
+[01:30:17] tarifa esto, no puse los impuestos
+[01:30:19] porque también
+[01:30:20] no, pero fíjate que la mayoría de los
+[01:30:21] que tienen color naranja que se ve con
+[01:30:23] preponderancia son Argentina,
+[01:30:24] básicamente.
+[01:30:25] Claro. Exacto. Pero también tener
+[01:30:27] presente que nuestra nuestra
+[01:30:29] jurisdicción es provincial, que los
+[01:30:31] demás países no tienen jurisdicción
+[01:30:34] provincial. Brasil anel fija la tarifa
+[01:30:36] de todo el país con la dispersión y
+[01:30:38] demás. Igual hay algún impuesto. Esto
+[01:30:41] por ahí yo no lo tengo bien relevado
+[01:30:44] como para decirte y qué es este color
+[01:30:46] naranja que hay en Brasil. Pero lo que
+[01:30:47] si vos decís, no es correcto que
+[01:30:49] Argentina tiene algo distintivo digamos.
+[01:30:53] Exacto.
+[01:30:54] Sí. Por ahí lo vamos a ver más
+[01:30:57] conceptualmente este tema cuando veamos
+[01:30:59] la parte de subsidios, que por ahí el
+[01:31:01] estrés que tenemos nosotros es que sube
+[01:31:03] la tarifa, me aumenta la morosidad,
+[01:31:05] estamos tratando de ser competitivo y
+[01:31:07] tengo un impuesto ahí y de alguna manera
+[01:31:10] este me está comiendo capacidad de pago.
+[01:31:12] Sí, pero no es un dato menor esto de los
+[01:31:13] naranjas, digamos, gráfico.
+[01:31:17] No, no, no es un dato.
+[01:31:20] Gracias. El trabajo del cier tiene algún
+[01:31:22] detalle más donde te explica algo más,
+[01:31:25] pero no mucho más.
+[01:31:27] Okay.
+[01:31:27] No te no es tampoco el objetivo del
+[01:31:30] trabajo hacer foco en los impuestos.
+[01:31:33] Está bueno anotarlo.
+[01:31:34] Sí, los impuestos son impuestos, no
+[01:31:37] están las tasas y esas que se incorporan
+[01:31:39] en la factura, digamos. Eso no está.
+[01:31:43] Okay.
+[01:31:46] Bien.
+[01:31:51] que si queré se ve acá.
+[01:31:59] Sí, sí,
+[01:32:00] sí, sí. Se nota ahí
+[01:32:02] en la apertura de costos.
+[01:32:07] Acá lo notas, pero bueno, es como que es
+[01:32:10] parejo. Y esto tampoco este eh
+[01:32:13] comparación queera tampoco es del todo
+[01:32:17] eh
+[01:32:19] no estoy digamos convencido de lo que
+[01:32:21] está haciendo Adá con todo lo que está
+[01:32:23] poniendo acá Ada, se entiend lo que digo
+[01:32:26] no estoy del todo de acuerdo o no me
+[01:32:28] convence del todo. Por eso vamos a mirar
+[01:32:31] lo que es solamente la parte de bordó,
+[01:32:33] pero se ve que todas las provincias
+[01:32:35] tienen impuestos, digamos. O sea, y
+[01:32:38] general todas hacemos lo mismo, digamos,
+[01:32:42] o parecido.
+[01:32:47] Bueno, dejando de lado el tema de
+[01:32:48] impuestos y yendo a lo que es la tarifa,
+[01:32:50] si nos concentramos solo en lo que es la
+[01:32:52] tarifa,
+[01:32:54] eh,
+[01:32:58] vamos a mirar lo que son las funciones o
+[01:33:01] lo que es la tanto lo que es de
+[01:33:03] distribución. Yo puse distribución y
+[01:33:05] generación, lo puse transporte y lo puse
+[01:33:07] acá.
+[01:33:09] Eh,
+[01:33:11] ¿qué comprende cada la definición de
+[01:33:14] comercial es subjetiva, pero en
+[01:33:17] definitiva la función comercial
+[01:33:19] comprende dentro de lo que es comercial,
+[01:33:22] atención al cliente, facturación y
+[01:33:24] cobranza, otro, sí? No es que está
+[01:33:26] acotada esto solo, pero hay una función
+[01:33:29] comercial que en general representa el
+[01:33:33] 15% para tener un valor de referencia.
+[01:33:35] No es que siempre sea así, pero si voy a
+[01:33:37] la barra de la tarifa y la función
+[01:33:39] comercial es un 15% del total y el costo
+[01:33:44] eh está en función de los usuarios. Mi
+[01:33:46] driver son los usuarios y cómo están
+[01:33:49] dispuersos dispersos. Por eso voy a
+[01:33:51] tener los cargos por usuario, o sea, los
+[01:33:53] que pongo en la factura. por mes, son
+[01:33:56] por usuario, que son los que reflejan el
+[01:33:58] costo comercial o en teoría o en general
+[01:34:00] debieran ser así. Estamos viendo un
+[01:34:02] concepto grueso para separar la paja del
+[01:34:05] trigo, ¿no es cierto? En cuanto a los
+[01:34:07] costos de la función técnica son más
+[01:34:09] pesados, son el 30% del total.
+[01:34:13] comprende lo que es el mantenimiento,
+[01:34:16] guardar reclamo ingeniería y acá está
+[01:34:19] básicamente el grueso de lo que es el
+[01:34:22] capital. La red de distribución, como
+[01:34:23] explicaba Eduardo, ese BATP es el grueso
+[01:34:26] del capital, que es lo que yo acá llamo
+[01:34:30] la red de distribución. ¿Sí?
+[01:34:32] Eh, la parte de la tarifa que nos va a
+[01:34:35] permitir amortizar la red y hacer las
+[01:34:37] inversiones es esta parte que está acá
+[01:34:39] comprendido en lo que uno podría decir
+[01:34:41] costo técnico, costo de red
+[01:34:43] exclusivamente de red. Eso va a depender
+[01:34:46] de dos drivers, los kilómetros de red
+[01:34:47] que tengo y la potencia máxima del año.
+[01:34:52] Por eso cargamos esos costos, lo
+[01:34:55] abrimos, por ejemplo, en baja tensión y
+[01:34:57] media tensión para tratar de separar las
+[01:34:58] etapas y lo cargamos por la potencia
+[01:35:01] máxima del año sin importar
+[01:35:05] la promedio en definitiva no interesa
+[01:35:09] en el extremo cuánto tiempo está
+[01:35:11] presente esa potencia, sino con que esté
+[01:35:13] en la potencia máxima presente, ahí le
+[01:35:16] marcamos la potencia y la teoría indica
+[01:35:19] que ese sería lo más lo la el traslado
+[01:35:23] teórico, ¿no es cierto? Podemos ver que
+[01:35:24] en la práctica eso se aparta un poco,
+[01:35:25] pues bueno, son cuestiones ya de
+[01:35:27] implementación y lo que es
+[01:35:28] administración o también se lo llama
+[01:35:30] apoyo, porque en definitiva es apoyo a
+[01:35:32] estas dos funciones, es lo que sería
+[01:35:34] staff,
+[01:35:36] que comprende áreas como contable,
+[01:35:38] compras, impuestos, informática,
+[01:35:40] etcétera, etcétera.
+[01:35:43] El driver son justamente los costos
+[01:35:45] comerciales y los costos que tengan en
+[01:35:47] general. En general, cuanto más costo
+[01:35:49] tenga acá, más voy a tener de
+[01:35:51] administración apoyo. En general se
+[01:35:54] modelan o se se comparan como un
+[01:35:57] porcentaje de estos costos que tengo
+[01:35:59] acá, ¿no es cierto? Que serían los
+[01:36:00] costos primarios o costos directos
+[01:36:05] y estos serían indirectos si lo queremos
+[01:36:07] ver de esa manera. representan un 9% que
+[01:36:10] después en la tarifa yo lo voy a preter
+[01:36:12] en comercial y técnica eh con los
+[01:36:14] porcentajes de esto con este 1530, ¿no
+[01:36:17] es cierto?
+[01:36:19] Para lo que es este la potencia en el
+[01:36:22] MEM, lo que es hoy la potencia del MEM
+[01:36:25] que ha estado subiendo, se están
+[01:36:28] incrementando ese valor para justamente
+[01:36:29] reconocer el costo de la inversión.
+[01:36:33] Representa aproximadamente el 10% de la
+[01:36:35] tarifa. Acá esto también es en teoría eh
+[01:36:38] reconoce la idea de la potencia cuando
+[01:36:42] se originó en el modelo allá en los 90s
+[01:36:44] y y y la teoría creo que el gobierno
+[01:36:47] está apuntando, es a que este precio
+[01:36:51] remunere la el capital de generación.
+[01:36:54] Sí, esto hoy no es así, pero sería la
+[01:36:58] idea.
+[01:37:00] Eh, como de alguna manera ese precio
+[01:37:02] está remunerando la oferta eh del
+[01:37:05] sistema,
+[01:37:08] ese precio debería cargarse sobre la
+[01:37:10] potencia máxima del año y Camesa,
+[01:37:12] justamente con estos cambios lo ha
+[01:37:14] cargado o lo está cargando, está
+[01:37:16] tratando de cargarlo sobre el máximo
+[01:37:18] requerimiento del año, ¿no es cierto?
+[01:37:21] Y para lo que es energía de transporte
+[01:37:23] en el MEM, que es el mantenimiento de la
+[01:37:26] red, el mantenimiento de las máquinas y
+[01:37:28] el combustible,
+[01:37:30] esto sí, el driver es la energía
+[01:37:32] consumida. O sea, el que es directo de
+[01:37:35] la energía consumida es el costo de
+[01:37:37] generación, básicamente
+[01:37:39] el costo de combustible y el OIM. Y eso
+[01:37:43] es lo que se carga en principio en los
+[01:37:45] cargos variables. Después vamos a ver
+[01:37:47] que ahora vamos a ver que no es
+[01:37:49] exactamente así. y que bueno que uno va
+[01:37:51] también tratando de armar la tarifa como
+[01:37:54] va pudiendo, pero esto sería la teoría,
+[01:37:57] ¿no es cierto? de cuáles son o quiénes
+[01:37:59] son los drivers de costo, lo que sería
+[01:38:01] un ideal, digamos,
+[01:38:06] el tema de la dispersión para para ver
+[01:38:09] el driver, eh, como lo estábamos viendo
+[01:38:12] en general, si nosotros miramos la
+[01:38:15] provincia de Buenos Aires y cómo es la
+[01:38:17] Argentina,
+[01:38:18] vemos que eh hay un spread de dispersión
+[01:38:22] que es bastante importante entre lo que
+[01:38:23] es enoran 10 km de red para abastecer
+[01:38:27] una unidad de potencia. Si nos vamos a
+[01:38:31] Edea, estoy en el doble. El AP está por
+[01:38:34] acá más parecido. Si me voy a Eden y
+[01:38:37] Edes estoy en tres veces. La cantidad de
+[01:38:40] kilómetros cruzan de nor y de sur. O
+[01:38:42] sea, hay una diferencia significativa.
+[01:38:46] Eh, inclusive hay distribuidoras que
+[01:38:49] tienen una dispersión aún mayor y que
+[01:38:52] lógicamente las tarifas por lo general
+[01:38:55] son mayores en estas distribuidoras que
+[01:38:57] en estas distribuidoras. No siempre es
+[01:38:59] así, pero es lo general. Por lo tanto,
+[01:39:02] si yo quisiera compararme con algunas
+[01:39:05] que que están en una, vamos a decir,
+[01:39:07] dispersión comparable, me tendré que
+[01:39:09] comparar con estas que están acá, ¿no es
+[01:39:11] cierto?
+[01:39:14] Bueno,
+[01:39:17] bien.
+[01:39:18] Y el otro yendo, siguiendo con los
+[01:39:21] kilómetros eh de red, si yo miro la
+[01:39:25] dotación de personal, esto es personal
+[01:39:27] propio, es el dato que está disponible,
+[01:39:29] que está en la páginaadera.
+[01:39:32] Eh, yo tendría que hacer una comparación
+[01:39:33] más completa, comparar el personal,
+[01:39:36] contemplar también la tercerización
+[01:39:39] y los kilómetros de redes, si son
+[01:39:41] aéreos, si son subterráneos, si son de
+[01:39:43] media, si son de bajos, los costos son
+[01:39:45] distintos, ¿no es cierto? Pero haciendo
+[01:39:49] esta comparación bien gruesa,
+[01:39:51] veo que la dotación que tengo en función
+[01:39:53] del kilómetro son los puntos, ¿no? Estos
+[01:39:55] puntos que tengo acá. Y cuando veo una
+[01:39:59] tarifa, que por ahí la tarifa refleja la
+[01:40:01] dispersión, no no me no encuentro una
+[01:40:04] recta que que tenga una buena regresión
+[01:40:08] con con las tarifas, veo que con el
+[01:40:11] personal sí da. O sea, si bien las
+[01:40:13] tarifas pueden estar, vamos a decir,
+[01:40:16] influenciadas, distorsionadas o
+[01:40:19] afectadas por algún componente, se ve
+[01:40:22] que la dotación de personal propio
+[01:40:25] guarda una relación con los kilómetros
+[01:40:27] de real. Sí. Y ahí veo una relación más
+[01:40:30] alta, una correlación más alta. Quiere
+[01:40:32] decir que si yo miro la dotación
+[01:40:35] encuentro que están relacionados con los
+[01:40:37] kilómetros.
+[01:40:39] Esa dotación, ¿cómo la tomas, Emiliano?
+[01:40:41] ¿Qué tomas de esa? ¿Qué tomas? ¿Qué qué
+[01:40:43] grupo tomass?
+[01:40:43] Son puntos de empresas
+[01:40:46] acá. Son puntos de empresas.
+[01:40:48] Son las empresas de la Argentina, las
+[01:40:50] que están en la página heladera. Lo
+[01:40:52] mismo que acá. Nada más que acá te puse
+[01:40:54] el nombre y apellido.
+[01:40:55] Acá
+[01:40:56] acá está el nombre y apellido.
+[01:40:58] Y acá no.
+[01:41:00] Okay,
+[01:41:00] pero son las mismas empresas, no está
+[01:41:02] totalizado de esa. Podríamos hacer una
+[01:41:04] totalización de de esa,
+[01:41:07] eh, pero bueno, la realidad es que ya
+[01:41:10] vemos que yo puedo hacer un promedio si
+[01:41:13] quiero, pero bueno, también tengo que
+[01:41:16] tener en cuenta que del es distinta, es
+[01:41:18] distinta de ni las tarifas son
+[01:41:20] distintas,
+[01:41:21] en fin, son pretadores distintos. Si yo
+[01:41:25] quisiera ver la votación en ningún punto
+[01:41:27] podría hacer un total,
+[01:41:31] pero eso ya corre por mi cuenta. La
+[01:41:33] publicación de Adera lo que te pone es
+[01:41:35] la la el personal de la distribuidora. y
+[01:41:37] cería
+[01:41:42] y bastante bien,
+[01:41:45] lo cual me sorprendió gratamente
+[01:41:49] a mí también,
+[01:41:49] porque también muestra que la provincia
+[01:41:51] de Buenos Aires eh viendo solamente la
+[01:41:54] dotación de las distribuidoras y sin
+[01:41:55] entrar en las cooperativas, pero que
+[01:41:57] estamos porque si no es fácil decir que
+[01:42:01] la provincia es ineficiente. Si estamos
+[01:42:03] diciendo que la distribuidora tiene una
+[01:42:04] dotación de personal elevada o más
+[01:42:07] elevada que otras jurisdicciones,
+[01:42:10] están diciendo que somos ineficientes y
+[01:42:13] no me no me no me satisface eso.
+[01:42:16] Entonces digo, miro la dotación que
+[01:42:18] tienen las empresas, bueno, están sobre
+[01:42:19] una curva, yo podría agrupar de esa y
+[01:42:22] por ahí me daría un poco mejor, no lo
+[01:42:23] sé, pero en definitiva eh hay una
+[01:42:28] relación en la adaptación de de las
+[01:42:30] empresas con los kilómetros. Si tengo
+[01:42:31] que tener en cuenta los kilómetros.
+[01:42:37] Bueno, y el otro driver que es la
+[01:42:39] potencia también.
+[01:42:42] Mirar un poco, eh, tener en cuenta cómo
+[01:42:45] es la potencia o cómo fue el
+[01:42:47] comportamiento de la demanda. Yo para
+[01:42:50] pasar rápido por este tema y sin dejar
+[01:42:53] de verlo, lo que estamos viendo acá son
+[01:42:56] las curva de carga del SADI del año
+[01:42:58] 2007, que son las más antiguas que
+[01:43:01] encontré en los informes de Camesa. Sí,
+[01:43:05] esta es la curva de verano.
+[01:43:09] Sí,
+[01:43:12] la curva típica de verano o la curva de
+[01:43:15] verano. Y estas son las curvas de
+[01:43:17] invierno.
+[01:43:20] Eh, la de que era que es la típica que
+[01:43:23] es la de color verde. Sí, vemos que
+[01:43:27] tiene un comportamiento,
+[01:43:29] yo puse de la década de la 90, siglo XX,
+[01:43:32] de cómo era el siglo XX, donde teníamos
+[01:43:34] un valle, un resto y un pico bien
+[01:43:36] marcado. Y el pico era el horrario pico.
+[01:43:40] íbamos a invierno, si bien levantaba,
+[01:43:42] estaban bien marcados los tramos
+[01:43:44] horarios, el valle, el resto y el pico,
+[01:43:46] ¿no es cierto? Teníamos esa curva. Ya en
+[01:43:49] aquel año, en el 2007, si uno miraba los
+[01:43:51] días de máxima temperatura en el verano,
+[01:43:54] ya eh veíamos como que teníamos un resto
+[01:43:57] más alto, pero el pico se seguía dando
+[01:43:59] en horario de pico y en el invierno
+[01:44:02] teníamos también un resto más alto, pero
+[01:44:04] el pico se sigue dando en el horario del
+[01:44:06] pico. Esto es porque a partir del 2001
+[01:44:08] 2002 se incorporó
+[01:44:11] equipamiento para confortérmico, ya sea
+[01:44:14] aire acondicionado quizás lo más
+[01:44:15] popular, pero también para calefacción.
+[01:44:18] Eso lo que hizo fue que le dio una
+[01:44:21] sensibilidad a la demanda en función de
+[01:44:23] la temperatura. Entonces, los picos de
+[01:44:25] potencia varían con la temperatura.
+[01:44:28] Podríamos decir que es una
+[01:44:29] estacionalidad, pero es algo más que
+[01:44:31] eso. Dentro del mismo verano, cuando
+[01:44:33] hace calor sube más y si baja la
+[01:44:35] temperatura baja. Quiere decir que hay
+[01:44:38] una demanda de energía que yo tengo que
+[01:44:41] ofrecer, que yo tengo que satisfacer,
+[01:44:43] que para el confort térmico, ¿no es
+[01:44:44] cierto?
+[01:44:47] con el transcurso de los años y el mayor
+[01:44:49] equipamiento o un uso más intensivo,
+[01:44:54] los equipamientos se verifica
+[01:44:57] y el lucio intensivo quizás también,
+[01:44:59] pero más difícil, pero cuando uno va a
+[01:45:03] lo que es verano 2025, creo que este es
+[01:45:05] el último informe de camisa que te
+[01:45:07] publica la curva así, todo está pegado
+[01:45:08] de los informes de camesa,
+[01:45:10] ya vemos que en el día típico de verano
+[01:45:12] ya tengo el pico que no está en el pico,
+[01:45:15] o sea, diurno y bueno, si veo el spread
+[01:45:18] que tengo entre un día típico y un día
+[01:45:21] máxima temperatura, veo que es un spread
+[01:45:23] importante. O sea, gran parte del parque
+[01:45:26] térmico térmico está siendo solicitado
+[01:45:29] el sistema de transporte en nuestras
+[01:45:30] redes para abastecer este confort
+[01:45:32] térmico. Cuando voy al invierno
+[01:45:35] veo también un comportamiento parecido
+[01:45:38] que si bien el resto no supera el pico,
+[01:45:42] se parecen. Es como que tengo dos picos.
+[01:45:45] Con lo cual, esto de la señal de
+[01:45:47] potencia pico que tiene nuestro nuestras
+[01:45:49] tarifas y y mismo también hasta los
+[01:45:52] horarios, eh eso ha sido modificado.
+[01:45:56] mismo patrón de consumo cambió eh
+[01:46:00] nuestra demanda y este también la forma
+[01:46:04] en que tenemos que fijar nuestras
+[01:46:05] tarifas porque cambiaron [carraspeo]
+[01:46:06] nuestros costos básicamente.
+[01:46:14] Por eso
+[01:46:17] la digamos
+[01:46:20] la el criterio de cargar la potencia
+[01:46:24] máxima
+[01:46:26] se vuelve como más significativo,
+[01:46:28] digamos, porque tengo los costos
+[01:46:31] orientados a esa potencia máxima, tengo
+[01:46:34] las restricciones para abastecer esos
+[01:46:37] picos de potencia.
+[01:46:41] Bueno, y estas son las curvas de
+[01:46:42] potencia máxima registradas en las
+[01:46:44] cuatro distribuidoras. Acá sí le ponemos
+[01:46:46] nombre y apellido donde vemos Eds eh
+[01:46:51] Edea que tiene un pico de verano
+[01:46:53] parecido el invierno a pesar de ser una
+[01:46:55] zona atlántica que tiene su su pico de
+[01:46:58] verano, también tiene su pico de
+[01:46:59] invierno, para calefaccionar
+[01:47:03] el app que vemos que tiene un pico en el
+[01:47:05] invierno importante, esto también por
+[01:47:07] los suministros que están en los barrios
+[01:47:08] de conmedior comunitario y eh Edén, que
+[01:47:12] por ahí es la más que se ve más clara,
+[01:47:15] los picos de potencia en el verano, pero
+[01:47:17] en definitiva lo que veo es que las
+[01:47:20] máximas potencias las tengo en el verano
+[01:47:23] y son horario diurno. Sí,
+[01:47:26] esto ha sido un patrón que se cambió
+[01:47:29] respecto de lo que fue la concesión.
+[01:47:33] Habrá que viendo como evolución esto,
+[01:47:34] ¿no es cierto?
+[01:47:38] Bueno, yendo por ahí a ilustrar lo que
+[01:47:41] el tema de la asignación de costos para
+[01:47:43] ver un teórico, esto es una corva
+[01:47:44] teórica, es un gráfico que pretende
+[01:47:47] ilustrar, que yo me tengo que ir al pico
+[01:47:50] de demanda que tengo máximo en el año y
+[01:47:54] veo cómo es la curva de cada grupo
+[01:47:56] tarifario. Acá ya la tengo agrupada la
+[01:47:58] demanda, una curva típica.
+[01:48:01] me fijo cómo participa cada categoría
+[01:48:04] tarifaria en ese pico y voy a asignar
+[01:48:06] los costos en función de esa
+[01:48:08] participación, por lo menos los costos
+[01:48:09] de la función técnica y los costos de
+[01:48:13] potencia en el mercado eléctrico
+[01:48:14] mayorista.
+[01:48:18] Como en teoría yo debería asignar los
+[01:48:21] costos por la potencia,
+[01:48:23] pero los que tengo medición de potencia
+[01:48:26] son solamente medianas y grandes
+[01:48:28] demanda. Si yo tuviera medición de
+[01:48:31] potencia en las pequeñas demandas, sería
+[01:48:34] mucho más fácil, mucho más sencillo y la
+[01:48:37] señal se transferiría
+[01:48:39] de una forma mucho más justa. Como no
+[01:48:41] hay medición de potencia, como decía
+[01:48:44] Eduardo, tengo factores que se
+[01:48:45] determinan en cada revisión tarifaria.
+[01:48:47] Básicamente es el tiempo de uso el
+[01:48:49] factor de carga y con ese factor de
+[01:48:51] carga le paso los costos de la red. Sí,
+[01:48:54] hacemos, se hace la campaña de medición
+[01:48:56] y en función de la campaña de medición
+[01:48:58] se determinan cómo son los consumos o
+[01:49:01] los patrones de consumo de todos estos
+[01:49:04] usuarios, que es una parte importante de
+[01:49:06] la demanda. Y en función de esos
+[01:49:08] patrones voy a decir, bueno, este
+[01:49:09] usuario tiene tanta energía, tiene tanta
+[01:49:11] potencia asociada y le voy a facturar o
+[01:49:14] le voy a trasladar el costo en función
+[01:49:15] de esa potencia.
+[01:49:18] Para hacer eso,
+[01:49:21] hay un factor de carga primario que me
+[01:49:24] establece cuál es la relación entre la
+[01:49:25] energía y la potencia. Sí, si esta es la
+[01:49:28] energía consumida por un grupo
+[01:49:29] tarifario, podría ser el residencial y
+[01:49:32] esta es la potencia máxima del usuario.
+[01:49:36] Eh, esa potencia máxima es la máxima
+[01:49:39] capacidad del usuario, del grupo de los
+[01:49:41] residenciales. Por ejemplo, este es un
+[01:49:42] grupo, puede estar tomando algún
+[01:49:44] distribuidor.
+[01:49:46] La demanda que ve en mi instalación es
+[01:49:49] esta, tiene que estar diseñada para la
+[01:49:50] potencia máxima y el uso de esa demanda
+[01:49:54] es lo que está de color naranja. Quiere
+[01:49:57] decir que si yo tengo una curva de carga
+[01:50:00] de los residenciales,
+[01:50:02] visto como una demanda agrupada,
+[01:50:04] agregada y es esta, el factor de uso me
+[01:50:06] da el 50%, quiere decir que estoy usando
+[01:50:09] el 50% de mi capacidad.
+[01:50:14] Eh, se entiende que si yo estoy usando
+[01:50:17] el 50%,
+[01:50:19] estoy haciendo el uso más eficiente. A
+[01:50:20] medida que yo eh utilizo esta incremento
+[01:50:26] la demanda en esta zona, estoy
+[01:50:28] utilizando una capacidad que ya tengo
+[01:50:30] instalada. Sí, eso sería un uso más
+[01:50:33] eficiente.
+[01:50:36] Perdón.
+[01:50:47] Bueno, eso con el factor de carga.
+[01:50:51] De ahí paso eh de la energía del usuario
+[01:50:54] que yo le estoy facturando a la potencia
+[01:50:57] que tiene ese grupo de usuarios. Con
+[01:50:59] este factor de carga, este número
+[01:51:01] sencillo, paso a la potencia. Y después
+[01:51:03] tengo el factor de coincidencia interno,
+[01:51:07] que acá ya estaría aplicado, que es la
+[01:51:08] coincidencia que hay entre un usuario y
+[01:51:11] la demanda del grupo.
+[01:51:13] Con eso llego a la demanda del grupo
+[01:51:18] y por otro lado el de conciencia
+[01:51:20] externo, que si bien yo tengo un grupo
+[01:51:22] que tiene una demanda, un grupo de
+[01:51:24] usuarios, tiene el pico en un horario,
+[01:51:27] pero yo le voy a trasladar el costo de
+[01:51:31] cada etapa en el pico de la etapa. Si yo
+[01:51:33] el pico de la tapa lo tengo acá y la
+[01:51:35] demanda de los usuarios tiene este
+[01:51:37] comportamiento, yo voy a mirar la
+[01:51:39] potencia que me pone cuando yo tengo el
+[01:51:41] pico, cuando mis instalaciones están
+[01:51:43] viendo el pico. O sea, miro la demanda
+[01:51:45] acá, miro la demanda acá y hago este
+[01:51:47] cociente y eso le llamo factor de
+[01:51:49] coincidencia externo. Tan sencillo como
+[01:51:52] eso. Esto es eh teniendo en cuenta que
+[01:51:56] yo estoy facturando potencias máximas,
+[01:51:58] que es lo que mido. Y si yo sumo todas
+[01:52:01] esas potencias máximas, estoy
+[01:52:02] sobrefacturando la potencia. Entonces,
+[01:52:04] de alguna manera tengo que aplicar estos
+[01:52:06] dos factores, el factor de coincidencia
+[01:52:08] interno y el factor de coinciencia
+[01:52:10] externo para eh considerar la incidencia
+[01:52:15] que tiene la potencia esa que yo estoy
+[01:52:17] facturando
+[01:52:19] eh en relación a la potencia que están
+[01:52:21] viendo mis instalaciones. ¿Sí?
+[01:52:25] Bien, con estos dos factores evito la
+[01:52:27] sobrefacturación de potencia y traslado
+[01:52:30] el costo eh de la red en forma
+[01:52:33] equitativa, vamos a decir.
+[01:52:37] Bien,
+[01:52:39] bueno, haciendo un resumen o barra
+[01:52:41] conclusiones de esta primera parte de la
+[01:52:43] clase, los costos o los driver de costo
+[01:52:45] de la distribución principales son dos,
+[01:52:47] la potencia máxima del año. Esto porque
+[01:52:49] la red tiene que estar diseñada para
+[01:52:51] abastecer esa potencia máxima.
+[01:52:53] eh la dispersión de la demanda, mayor
+[01:52:56] dispersión, más costo para abastecer la
+[01:52:58] la misma cantidad de demanda.
+[01:53:02] Eh,
+[01:53:03] por eso los costos se cargan a la
+[01:53:05] potencia máxima.
+[01:53:08] Esa potencia tiene que estar afectada
+[01:53:09] por factores de simultaneidad o factores
+[01:53:11] de coincidencia.
+[01:53:14] Y bueno, si no tengo eh medición de
+[01:53:17] potencia, si no la tengo, tengo que usar
+[01:53:19] estos factores. Si la tuviera eh lo
+[01:53:22] tengo que usar, pero ya me desago del
+[01:53:24] factor de carga. Ya por lo menos no
+[01:53:26] tengo que estimar ese factor de carga.
+[01:53:28] Me quedarían solamente los de
+[01:53:30] simultaneidad o los de coincidencia,
+[01:53:33] mientras que voy utilizando un factor de
+[01:53:35] carga como si todos los usuarios
+[01:53:38] residenciales tuvieran ese factor de
+[01:53:40] carga. Y eso no es así.
+[01:53:46] Bien, yendo más a lo que es el cuadro
+[01:53:47] tarifario, a las categorías tarifarias,
+[01:53:49] tenemos la categoría residencial. Dentro
+[01:53:52] de lo que es residencial, tenemos la
+[01:53:53] residencial estacional. El encuadre de
+[01:53:56] la residencial son casas destinadas a
+[01:53:59] vivienda única, a hogares.
+[01:54:02] La distribuidora hay 1,200,000 de estos
+[01:54:04] usuarios.
+[01:54:06] El estacional es una variante dentro del
+[01:54:08] R, no es una categoría en sí mismo y es
+[01:54:11] aquel que tiene un consumo en un periodo
+[01:54:15] mayor o igual al al 1.75 del promedio.
+[01:54:21] Eh, hay 190,000 usuarios abastecidos por
+[01:54:25] las distribuidoras provinciales en esta
+[01:54:26] categoría. El 80% está en la costa
+[01:54:28] atlántica, ¿no?
+[01:54:31] Usuarios generales son establecimientos
+[01:54:33] comerciales, industriales y otros.
+[01:54:35] Sí,
+[01:54:37] son 140,000. También está la variante
+[01:54:40] estacional del usuario general. Son
+[01:54:43] 29,000. No, no están todos en la costa
+[01:54:46] atlántica, o sea, está en la mitad,
+[01:54:47] porque también la exigencia de
+[01:54:48] estacionalidad es menor.
+[01:54:53] La tarifa estacional lo que lo que
+[01:54:56] pretende es lo que se compone de un
+[01:54:59] cargo fijo más alto, o sea, trata de
+[01:55:01] cargar, de trasladar el costo de red al
+[01:55:04] cargo fijo de manera tal que el
+[01:55:07] [carraspeo] usuario pague el costo de
+[01:55:08] red cuando no está presente, que en
+[01:55:11] teoría sería la mayor parte del año.
+[01:55:14] Ese es el objetivo de la tarifa
+[01:55:16] estacional. se aplica en la provincia de
+[01:55:19] Buenos Aires porque, bueno, también hay
+[01:55:20] una gran estacionalidad, está toda la
+[01:55:22] costa atlántica, nosotros no solo los
+[01:55:24] distribuidores, sino también las
+[01:55:25] cooperativas que tienen este
+[01:55:29] propiedades destinadas a turismo y y eso
+[01:55:33] permite recuperar los costos
+[01:55:36] en una manera más adecuada o más
+[01:55:38] equitativa. La tarifa debrado público
+[01:55:40] son 102 municipios. Esto lo voy poniendo
+[01:55:43] porque también uno va abriendo las
+[01:55:46] tarifas, puede abrir tarifas, pero en la
+[01:55:48] medida que quedan pocos usuarios,
+[01:55:51] eh la idea es que la tarifa tenga una
+[01:55:53] cantidad de usuarios significativos. Si
+[01:55:55] no, puedo seguir abriendo tarifa y,
+[01:55:56] bueno, voy abriendo en la medida que que
+[01:55:59] aparezca una demanda que sea
+[01:56:01] significativa.
+[01:56:03] La tarifa rural, la apertura entre
+[01:56:05] residencial y no residencial es por los
+[01:56:06] precios del MEM. En realidad, tarifa
+[01:56:08] rural es una.
+[01:56:10] Eh, yo puedo ir abriendo la tarifa
+[01:56:12] residencial o la general en función de
+[01:56:14] que Camesa me vaya abriendo precios,
+[01:56:17] pero en definitiva voy a estar dentro de
+[01:56:18] la general. En la rural hay un precio
+[01:56:21] resencial, un no resencial. Tuvimos que
+[01:56:23] abrir la rural.
+[01:56:25] La tarifa rural son los conectados en
+[01:56:27] media tensión o conectados al
+[01:56:29] transformador, no pueden conectarse a la
+[01:56:31] red urbana. Y en las distribuidoras hay
+[01:56:34] 11,600 usuarios dentro de esta
+[01:56:35] categoría.
+[01:56:38] Y yendo a mediana grande demanda, baja y
+[01:56:41] media tensión para lo que es T2, la
+[01:56:44] potencia contratada, T3, tengo baja de
+[01:56:47] media de tensión, también tengo menor a
+[01:56:50] 300 y mayor igual a 300.
+[01:56:53] Esto es por la categoría de goodi que se
+[01:56:56] se definió en el MEM hace ya unos años y
+[01:56:58] quedó una tarifa y otra, pero en
+[01:57:00] definitiva las tarifas son similares.
+[01:57:03] Y la T5, que es la misma tarifa que la
+[01:57:06] T3, debería tener eh el mismo BAT que la
+[01:57:10] T3, pero hoy no lo está teniendo, no
+[01:57:13] está equilibrada la tarifa T3. Hoy si un
+[01:57:15] usuario se ingresa al mercado, ve una
+[01:57:17] mejora un poco por los impuestos,
+[01:57:20] también veo una mejora por el B.
+[01:57:23] Este,
+[01:57:25] pero en teoría debería ser el mismo Bad
+[01:57:28] y los costos los mismo, ¿no es cierto?
+[01:57:36] Bien, el cuadro del AP mantiene eh hoy
+[01:57:42] la estructura de la concesión nacional.
+[01:57:45] Eh, se incorporó la provincia en el
+[01:57:48] 2011.
+[01:57:50] En el año 2016 con la revisión tarifaria
+[01:57:52] se introdujeron algunas modificaciones o
+[01:57:54] adaptaciones
+[01:57:56] como el agregado tarifari o la tarifa
+[01:57:58] rural, el fondo compensador, pero la
+[01:58:00] estructura que tiene es la de
+[01:58:03] jurisdicción nacional. La idea de esta
+[01:58:05] revisión tarifa tratar de equipararlas
+[01:58:08] a las distribuidoras de la provincia de
+[01:58:09] Buenos Aires para que quede con la misma
+[01:58:11] estructura y también con la misma
+[01:58:13] estructura de PATU y de cargo de
+[01:58:15] potencia, energía y las mismas tarifas.
+[01:58:21] Bueno, si entramos al cuadro tarifario,
+[01:58:23] no sé si se llega a ver bien ahí cómo
+[01:58:25] está compuesto el cuadro tarifario.
+[01:58:28] Cuadro tarifario, tiene una tarifa
+[01:58:30] tarifa de pequeñas demandas, la
+[01:58:32] residencial, la residencial estacional,
+[01:58:35] la T1G, como decíamos,
+[01:58:37] la T2 de medianas irán de demanda, la T3
+[01:58:42] separada en lo que es mayor y mayor a
+[01:58:44] 300 y menor a 300.
+[01:58:47] e
+[01:58:50] la T4
+[01:58:52] y la tarifa de PG.
+[01:58:55] Sí, esta sería la estructura
+[01:58:58] del cuadro tarifario. Vamos a decir, yo
+[01:59:00] le puse cuadro tarifario abreviado
+[01:59:04] sintético porque el cuadro tarifario, yo
+[01:59:06] no lo empiece a desplegar, tiene más
+[01:59:07] hojas y más tarifas,
+[01:59:10] ¿no es cierto?
+[01:59:12] ¿Qué tiene? Además tiene una tarifa seis
+[01:59:15] de peaje que sería la misma que la T5,
+[01:59:18] pero sería la que está equiparada, la
+[01:59:21] que le corresponde a los usuarios que
+[01:59:22] están en T2 cuando se pasan al mercado.
+[01:59:24] Tiene una T4 no R, que es lo que recién
+[01:59:27] mencionaba. Tiene pérdidas que se cobran
+[01:59:30] o se facturan a los usuarios que están
+[01:59:31] en la tarifa T4. Se facturan aparte, se
+[01:59:34] cargan sobre el consumo de energía bajo
+[01:59:37] coseno fío, penalización por exceso de
+[01:59:39] rectivo por consumo de rectivo, cargos
+[01:59:41] de conexión y reconexión,
+[01:59:44] tarifa para distribuidores.
+[01:59:47] La tarifa de para los distribuidores
+[01:59:49] tiene la misma estructura que la tarifa
+[01:59:51] T3 o que la tarifa T5. Tiene un B menor
+[01:59:55] y después lo que se hace es un pass
+[01:59:57] through de los costos de adquisición. O
+[02:00:00] sea, si la cooperativa tiene más useros
+[02:00:02] residenciales o usuarios Woody, se le
+[02:00:04] factura en función de sus usuarios, ¿no
+[02:00:06] es cierto?
+[02:00:08] Después vienen las residenciales CF, que
+[02:00:11] también refleja un cambio en el meme. En
+[02:00:12] el meme había N1, N2 y N3. Había N1, N2
+[02:00:16] y N3. Ahora hay CF y no CF. Lo que
+[02:00:18] estamos viendo acá sería el no CF, el
+[02:00:20] que no entra en el subsidio o en el
+[02:00:21] esquema de subsidio, que lo vamos a ver
+[02:00:23] la próxima clase. La tarifa social
+[02:00:25] provincial, clubes de barrio y precios
+[02:00:28] de inyección, que son los precios que se
+[02:00:31] le reconocen a los que ingresan con
+[02:00:33] energía, que tienen generación y le
+[02:00:35] inyectan la red. Todo eso está en el
+[02:00:38] cuadro tarifal,
+[02:00:40] [carraspeo]
+[02:00:41] pero lo central sería lo que estamos
+[02:00:44] viendo acá.
+[02:00:48] El cuadro tarifario se complementa,
+[02:00:50] nuestra factura se complementa con un
+[02:00:51] cargo que se aprueba en conjunto con el
+[02:00:54] cuadro tarifario, pero no está en el
+[02:00:56] cuadro tarifario, que es el cargo
+[02:00:58] transitario transitorio, cargo
+[02:01:00] tarifario. Transitorio.
+[02:01:02] Este cargo tiene origen el año 2002. Es
+[02:01:05] un cargo que quedó de de de algún
+[02:01:07] momento que se comenzó a aplicar o
+[02:01:09] seiginó en algún momento donde
+[02:01:13] la nación trataba de evitar que las
+[02:01:15] provincias ajustaran el BAT y entonces
+[02:01:18] este Camesa facturaba, te pedían el
+[02:01:20] cuadro tarifario, vos le informabas el
+[02:01:22] cuadro tarifario, miraban si había un
+[02:01:23] aumento y te trasladaban ese camisa te
+[02:01:26] facturaba ese aumento.
+[02:01:29] Entonces era difícil hacer el passw de
+[02:01:31] esa de ese costo. Entonces se apareció o
+[02:01:34] alguien se le ocurrió un cargo de este
+[02:01:36] tipo
+[02:01:39] para recuperar ese costo, ese costo
+[02:01:41] mayorista. Eh, pero bueno, después eso
+[02:01:44] se eliminó.
+[02:01:46] esa metodología que que aplicaba la
+[02:01:49] Secretaría de Energía no no se suspendió
+[02:01:52] y eh perdió vigencia de mi punto de
+[02:01:55] vista este cargo y lo que pasa que luego
+[02:01:58] en el 2019 se volvió a utilizar para
+[02:02:00] compensar un aumento de tarifa que se
+[02:02:02] postergó, se le cambió el nombre, se le
+[02:02:04] puso ICT
+[02:02:06] y este creo que ahí quedó consolidado.
+[02:02:13] El el path debe ser coinciente con
+[02:02:15] camisa, o sea, los precios
+[02:02:19] se deben corresponder con con la
+[02:02:21] demanda,
+[02:02:22] la potencia se debe corresponder con la
+[02:02:25] potencia, por además las fechas deben
+[02:02:28] ser coincidentes, o sea, si Camesa
+[02:02:30] determina un precio a partir de esa
+[02:02:32] fecha, yo tendría que trasladarle el
+[02:02:35] usuario a partir de esa fecha, de manera
+[02:02:37] tal que esté pagando ese costo y que
+[02:02:38] también si ingresa al mercado esté
+[02:02:40] viendo el mismo precio de un lado del
+[02:02:41] otro.
+[02:02:43] Eh, con lo cual si la si se pudiera
+[02:02:47] hacer coincidir los precios, ese cargo
+[02:02:49] no tendría mucha razón de ser.
+[02:02:52] Y el hecho de tener un cargo que
+[02:02:54] compensa parcialmente MEM y BAT no es lo
+[02:02:57] que prevé la regulación, además de que
+[02:02:59] por ahí es un cargo que lo estamos
+[02:03:02] cargando por fuera del cuadro tarifario
+[02:03:04] y y nada, resulta confuso eh tanto para
+[02:03:08] la aplicación como para la explicación.
+[02:03:12] Hay que explicar cómo son las tarifas y
+[02:03:14] demás. Bueno, llega este ítem que es
+[02:03:17] difícil de explicar.
+[02:03:20] Em,
+[02:03:22] al final del día, [carraspeo]
+[02:03:25] si bien tiene que haber una asignación
+[02:03:28] de costos, señales por tarifas, este,
+[02:03:32] que reflejen los costos
+[02:03:35] al distribuidor, acá lo que vemos es
+[02:03:38] cómo es la composición de mem y bad en
+[02:03:40] T5. El mem es solo por las pérdidas, el
+[02:03:43] resto casi todo BAD. Acá está la tarifa,
+[02:03:45] o sea, que está el grado tarifero.
+[02:03:46] También no están los impuestos. Al final
+[02:03:49] del día, el distribuidor tiene que
+[02:03:50] recuperar el costo de compra y el B.
+[02:03:53] Puedo abrir la tarifa, puedo asignar
+[02:03:55] costo, pero en definitiva no tengo que
+[02:03:57] perder de vista que recuperar
+[02:03:59] [carraspeo]
+[02:04:00] tanto el costo propio como el costo de
+[02:04:02] abastecimiento para pagar la camisa.
+[02:04:04] sería lo primario, digamos, más allá de
+[02:04:08] todas las tarifas que tenga o todas las
+[02:04:09] que pueda haber de eh subtarifas,
+[02:04:13] tramos,
+[02:04:15] subgrupo, etcétera.
+[02:04:20] Bien, si vamos a la composición de los
+[02:04:24] cargos, cómo están compuestas las
+[02:04:26] tarifas,
+[02:04:28] vemos que en una demanda residencial,
+[02:04:30] para tener una idea, este es el caro
+[02:04:31] fijo y este es el variable del tramo
+[02:04:33] uno.
+[02:04:36] Vemos que el caro fijo básicamente es
+[02:04:38] BAD,
+[02:04:40] como corresponde. Hay una parte que
+[02:04:44] pequeña deo tarifario. Y si vamos al
+[02:04:47] cargo variable, vemos que básicamente en
+[02:04:49] el cargo variable tenemos mesmas
+[02:04:51] pérdidas y hay algo de Bad que se fue
+[02:04:54] introduciendo
+[02:04:56] este y que estaba también en la
+[02:04:58] concesión, pero básicamente vemos que la
+[02:05:01] mayor parte es mem.
+[02:05:04] Eh, y si vamos a las a las medianas y
+[02:05:08] grandes demandas, esta es una T3, pero
+[02:05:10] la composición es parecida.
+[02:05:13] Vemos que el BAD está en el carro fijo,
+[02:05:15] están los cargos de potencia, algo que
+[02:05:17] está en el variable, lo que es los
+[02:05:19] cargos de potencia M están en las
+[02:05:21] potencias
+[02:05:23] y como decíamos los costos de generación
+[02:05:26] están en los cargos variables, ¿no?
+[02:05:28] Exarem está acá.
+[02:05:32] Así que vemos que el cuadro tarifario
+[02:05:34] [carraspeo]
+[02:05:35] mantiene esa lógica, respeta ese
+[02:05:37] criterio
+[02:05:39] eh de lo que es eh BAT y costo del MEM,
+[02:05:44] básicamente. Y después en un segundo
+[02:05:47] plano lo que es costos comerciales que
+[02:05:49] tiene el BAT, pero bueno, hay algo de
+[02:05:50] costo de red también en el B en perdón
+[02:05:52] en los caróficos.
+[02:05:57] Si miramos las tarifas de las tarifas de
+[02:06:03] pequeñas demandas, vamos a decir,
+[02:06:06] residenciales de la provincia de Buenos
+[02:06:07] Aires, hay dos tarifas que son
+[02:06:11] particulares. Uno es la estacional,
+[02:06:14] que es [carraspeo] esta curva que está
+[02:06:15] acá. Acá vemos lo que sería el monto de
+[02:06:16] la factura antes de impuesto, eh,
+[02:06:21] en función del consumo.
+[02:06:24] Una tarifa residencial. Estos quiebres
+[02:06:28] que se ven acá son los tramos. Cuando
+[02:06:30] paso de un tramo ahora a otro, perdón,
+[02:06:33] lo que estamos viendo, perdón, me voy a
+[02:06:35] pasar esta, eh, esto sería cargo
+[02:06:38] variable uno, sería un tramo menor a
+[02:06:41] 100. C. Es otro tramo. Son tramos de la
+[02:06:45] misma eh tarifa. Entonces, acá veo los
+[02:06:48] tramos y los altitos que va pegando en
+[02:06:50] cada trama.
+[02:06:52] No se distorsiona la curva. No tiene
+[02:06:54] ninguna distorsión la o no tiene ninguna
+[02:06:56] distorsión significativa la curva del
+[02:06:57] residencial.
+[02:06:59] La curva del estacional es esta,
+[02:07:03] la que es el color naranja. Y la rural
+[02:07:06] es esta tarifa que está acá.
+[02:07:09] La estacional, como decíamos, tiene el
+[02:07:11] BAT en el cargo fijo para recuperar los
+[02:07:14] costos de red cuando el consumo es cero
+[02:07:16] en el extremo. Alguien que utiliza el
+[02:07:18] departamento en verano. Hoy está
+[02:07:20] cambiando. ¿Por qué? Porque nosotros lo
+[02:07:22] que vemos en la costa es que viene más
+[02:07:24] gente fuera del verano y también vemos
+[02:07:28] departamentos que tenemos como una
+[02:07:30] estacionada de invierno, es decir, que
+[02:07:32] hay consumos estacionales que en
+[02:07:34] realidad hay gente que se está
+[02:07:35] calefaccionando en invierno y que
+[02:07:36] cuadran como estacional. Pero bueno, en
+[02:07:39] definitiva, ya sea una u otra variable,
+[02:07:41] hay una estacionalidad.
+[02:07:43] Con la medición de potencia se evita
+[02:07:45] esta tarifa, o sea, esta tarifa está
+[02:07:47] hecha de alguna manera con con la
+[02:07:50] intención de cuando el departamento está
+[02:07:53] vacío esté pagando los costos fijos
+[02:07:56] versus un residencial que está todo el
+[02:07:58] año y después esta curva originalmente
+[02:08:01] cruzada con la residencial que hoy queda
+[02:08:03] medio en paralelo o no cruza.
+[02:08:06] eh quedó un poco distorsionada. La
+[02:08:09] ventaja que tiene es esta, ¿no? Yo tengo
+[02:08:12] el departamento vacío y recupero los
+[02:08:14] costos fijos. Y la T4 quedó parecida a
+[02:08:17] la residencial también con un incremento
+[02:08:20] acá cuando el costo es cuando el consumo
+[02:08:22] es bajo, pero el rural no se da tanto
+[02:08:24] que está no está en esta zona, está más
+[02:08:26] para acá, tiene un consumo más elevado.
+[02:08:28] El estacional sí suele tener un consumo
+[02:08:30] más bajo y suele estar presente en algún
+[02:08:33] periodo del año en el verano.
+[02:08:37] Pero el rural está más por esta zona y
+[02:08:41] el origen de tener la tarifa rural
+[02:08:44] estaba vinculada con la expansión, que
+[02:08:46] la expansión de la red estaba a su
+[02:08:47] cargo. Así estaba en la concesión,
+[02:08:49] contemplada en la concesión, pero
+[02:08:51] después con esto fue evolucionando y
+[02:08:54] finalmente con el subanexo e en la
+[02:08:56] revisión tarifaria la última, la que
+[02:08:58] tenemos ahora, la creción de área
+[02:09:00] rentabilizada y no rentabilizada.
+[02:09:03] Si yo digo que un rural está fuera del
+[02:09:05] área no rentabilizada,
+[02:09:07] ya queda eh digamos a cargo su
+[02:09:11] expansión. También podría ser un
+[02:09:13] residencial que está fuera del área
+[02:09:15] rentabilizada y también tiene a cargo su
+[02:09:17] expansión. O sea, la señal de la
+[02:09:19] expansión, que era una señal valiosa,
+[02:09:23] porque a mí lo que me simplificaba era
+[02:09:25] que en definitiva, cualquier usuario de
+[02:09:28] cualquier categoría se le ocurra ir a
+[02:09:31] vivir a medio del campo, hacer un
+[02:09:33] desarrollo inmobiliario
+[02:09:37] para algún emprendimiento turístico o
+[02:09:39] alguien me dice hace poco, "No, ¿qué va
+[02:09:40] a pasar cuando vengan los data center?"
+[02:09:42] No va a pasar nada porque cualquier
+[02:09:44] demanda que tengas está a cargo su
+[02:09:46] expansión.
+[02:09:48] siempre que esté fuera de la zona
+[02:09:49] rentabilizada, ¿no es cierto? Después
+[02:09:51] podríamos discutir la zona
+[02:09:53] rentabilizada, pero si está fuera del
+[02:09:54] área tiene que pagar la expansión, con
+[02:09:56] lo cual ya tengo cubierto [carraspeo]
+[02:09:58] ese riesgo y ya está esa señal, con lo
+[02:10:00] cual la tarifa rural me dio que desde mi
+[02:10:03] punto de vista perdió algo de
+[02:10:04] relevancia.
+[02:10:07] Bien,
+[02:10:10] bueno, eh, y yendo ya al tema de las
+[02:10:12] pérdidas, bueno, lo que vimos en la
+[02:10:14] parte querido Eduardo, el tema de cómo
+[02:10:16] se calculan las pérdidas técnicas.
+[02:10:17] Nosotros en la provincia tenemos una una
+[02:10:19] resolución que nos especifica la
+[02:10:21] metodología para el cálculo de pérdidas.
+[02:10:25] Eso lo estamos haciendo,
+[02:10:28] eh lo estamos presentando en la
+[02:10:29] provincia.
+[02:10:31] Eh, así que el cálculo de pérdidas
+[02:10:33] técnicas tengo una resolución que me que
+[02:10:35] me establece cómo hacer el cálculo y que
+[02:10:38] además lo tengo que presentar. Y en baja
+[02:10:41] tensión, generalmente se producen en
+[02:10:43] baja tensión la pérdida no técnica
+[02:10:44] producto del fraude de conexiones
+[02:10:46] directa. No digo que haya en medias,
+[02:10:47] pero es más difícil.
+[02:10:50] E
+[02:10:51] las pérdidas este no técnicas que vamos
+[02:10:55] a decir que están en la baja tensión.
+[02:11:01] Eh, como lo explicaba Eduardo al
+[02:11:04] principio de la clase, eh, yo tengo un
+[02:11:08] costo de pérdidas. Sí, lo que vemos en
+[02:11:10] este gráfico es
+[02:11:12] los costos por año y las pérdidas no
+[02:11:15] técnicas. Nos vamos a parar en uno de
+[02:11:17] los extremos. Acá, por ejemplo, yo eh
+[02:11:22] no hago ningún control de pérdidas, no
+[02:11:25] tengo ningún costo de gestión de
+[02:11:28] pérdidas no técnicas, me voy a tomar esa
+[02:11:30] licencia. Si me tomo esa licencia, las
+[02:11:33] pérdidas se me van a estar en un punto
+[02:11:35] alto, ¿no es cierto? O sea, voy a tener
+[02:11:37] pérdidas altas. Si empiezo a tomar
+[02:11:40] acciones y empiezo a este
+[02:11:44] eso me va a generar costo, me voy a ir,
+[02:11:47] me podría llegar a un punto donde este
+[02:11:49] sería otro extremo donde las pérdidas,
+[02:11:51] vamos a decir serían cero, ¿no? Esto
+[02:11:53] como un extremo, ¿no?
+[02:11:56] El el eficiente o el costo eficiente,
+[02:11:58] que es lo que me tiene que reconocer la
+[02:12:00] tarifa siempre en todos los casos para
+[02:12:02] lo que es mi gestión, pero también para
+[02:12:04] el abastecimiento. Siempre tiene que ser
+[02:12:06] el costo tiene que ser eficiente. es el
+[02:12:08] costo mínimo suma de los dos. O sea, ese
+[02:12:12] costo tiene que comprender el costo de
+[02:12:14] mi gestión y el costo de las pérdidas no
+[02:12:17] técnicas. Y ese es el mínimo que debería
+[02:12:19] reconocer la tarifa. O sea, sería este
+[02:12:21] punto que está acá. Bien, esto es
+[02:12:23] teórico. Lo importante es entender cómo
+[02:12:25] se comporta este costo. Si me corro para
+[02:12:28] acá, voy a tener un costo más alto y acá
+[02:12:31] voy a ganar por este lado, pero voy a
+[02:12:33] ganar por este lado, pero pierdo por
+[02:12:35] este. El punto óptimo sería un punto
+[02:12:37] donde yo encuentro un equilibrio entre
+[02:12:40] mi costo de gestión y donde ya no me
+[02:12:42] conviene seguir bajando las pérdidas,
+[02:12:44] ¿no es cierto?
+[02:12:50] Nosotros, como decía, estos años tuvimos
+[02:12:53] un precio de la energía y tenemos
+[02:12:57] todavía un precio eh subsidiado que es
+[02:13:02] al precio que declaramos las pérdidas no
+[02:13:04] técnicas. Con lo cual esta curva, si
+[02:13:07] estas fuera un teórico donde [carraspeo]
+[02:13:10] lo que yo le pago a camisa es
+[02:13:12] efectivamente el costo de las pérdidas,
+[02:13:14] yo estaría con esta curva. Pero la
+[02:13:16] verdad es que yo tengo estoy pagando las
+[02:13:18] pérdidas bastante más bajas de lo que
+[02:13:20] cuestan de lo que cuestan lo que cuesta
+[02:13:22] esa energía, con lo cual eh tengo menos
+[02:13:26] incentivo a bajar las pérdidas. ¿Sí?
+[02:13:28] Entonces, yo en definitiva, mi óptimo no
+[02:13:31] está acá, sino que está más tirado para
+[02:13:33] el lado de la derecha. Yo estaría por
+[02:13:35] acá, ¿no es cierto? Porque esta curva no
+[02:13:37] es esta, sino que es esta. Si yo miro la
+[02:13:41] los datos de Adera, que son los que
+[02:13:43] están públicos y los que estamos lo que
+[02:13:45] yo les mostraba el tema de los
+[02:13:46] kilómetros y uno mira cómo [resoplido]
+[02:13:47] fue la evolución de las pérdidas en la
+[02:13:49] distribución tomando los distribuidores,
+[02:13:52] vemos que en el 2011 había un 12%
+[02:13:54] promedio de los distribuidores en
+[02:13:56] Argentina. El 12% era el coeficiente de
+[02:13:58] pérdida total y hoy estamos en un 15%.
+[02:14:01] Qui quiere decir que hubo un incremento
+[02:14:03] quizá también por la capacidad de pago,
+[02:14:06] eso es una problemática, no digo que no,
+[02:14:08] pero también por un incentivo menor
+[02:14:12] incentivo que tiene el distribuidor a
+[02:14:14] gestionar las pérdidas. O sea, el
+[02:14:15] incremento de pérdida se ve que me estoy
+[02:14:18] desplazando hacia la derecha, se ve en
+[02:14:21] los coeficientes de pérdida que tienen
+[02:14:23] todas las distribuidoras.
+[02:14:27] Bien, esto sería el justificativo por el
+[02:14:30] cual debería haber en el reconocimiento
+[02:14:33] de costos parte de mi gestión de
+[02:14:36] pérdidas y aún también un porcentaje de
+[02:14:39] pérdidas no técnicas que sería el
+[02:14:41] óptimo.
+[02:14:46] Bien,
+[02:14:47] vamos a lo que son las pérdidas no
+[02:14:49] técnicas. Esto es un gráfico para tratar
+[02:14:52] de ilustrar eh qué son las perdiantes,
+[02:14:57] qué son.
+[02:15:00] Esto es una mirada de del Street Bewer
+[02:15:02] que saqué. Como yo vi en Mar de Plata,
+[02:15:04] elegí Mar de Plata.
+[02:15:06] Esto, si ustedes pueden ver acá, esto
+[02:15:08] sería el puerto del Mar de Plata. Si ven
+[02:15:10] acá la imagen esta que está acá es una
+[02:15:12] imagen de
+[02:15:14] del maps.
+[02:15:17] Si yo miro en algunos este
+[02:15:20] relajevamientos que hay, puedo ver de
+[02:15:23] color celeste esto azul son los varios
+[02:15:27] barrios Renab, los barrios que son
+[02:15:29] populares, los que cumplen algunos
+[02:15:31] requisitos de vulnerabilidad.
+[02:15:34] Si esta es la costa, este es el centro
+[02:15:36] de Mar Plata, yo me voy a este barrio
+[02:15:39] que es el autódromo, que es un barrio
+[02:15:41] Renabap y que está en el límite con la
+[02:15:44] zona rural. Me voy al límite.
+[02:15:47] ¿Qué es esto que estoy viendo acá? Sí,
+[02:15:48] estoy viendo un tejido urbano donde
+[02:15:51] están las calles, pero ve veo que está
+[02:15:53] rodeado por zona rural. Miro esta calle,
+[02:15:56] miro para allá, para adelante. Es decir,
+[02:15:59] me paro acá, me paro acá, miro la calle,
+[02:16:02] es esta que está acá. Acá ya se ve que
+[02:16:05] tengo un cable que me atraviesa, que es
+[02:16:07] una conexión irregular. Esa conexión
+[02:16:09] irregular es la que estoy viendo acá.
+[02:16:11] Esa conexión irregular está acá y está
+[02:16:12] entrando en esta casa que está acá. Acá
+[02:16:13] está la cometida. la cantidad también de
+[02:16:15] R. Si miro para esta calle para dentro y
+[02:16:19] miro para la derecha, veo que acá, por
+[02:16:21] ejemplo, hay una hay una casa, una
+[02:16:24] propiedad que tiene varios pilares y
+[02:16:26] tiene las acometidas y tiene la conexión
+[02:16:28] regular.
+[02:16:30] La idea que se pretende transmitir o que
+[02:16:32] yo pretendo transmitir es decir, hay
+[02:16:34] zonas vulnerables, ¿sí? ¿Hay barrios con
+[02:16:37] dificultad de pago? Sí.
+[02:16:39] ¿Hay conexiones clandestinas? Sí, pero
+[02:16:41] no es que están todos con una conexión
+[02:16:43] clandestina. Si yo paso por acá y corto
+[02:16:45] este gancho, que seguramente lo hacemos
+[02:16:49] y posiblemente
+[02:16:51] esto ya lo se va a volver a conectar,
+[02:16:53] digamos. No creo que lo convenza de que
+[02:16:55] no se conecte, pero sí convenzo de que
+[02:16:58] no se conectan o logro de que no se
+[02:17:00] conecten en forma directa estos que
+[02:17:02] están acá. Si yo este lo dejo acá y lo
+[02:17:04] dejo y lo dejo acá, lo más probable es
+[02:17:05] que estos que están acá se me conecten
+[02:17:06] en forma. Esto es para mostrar cómo es
+[02:17:09] la dinámica de las pérdidas y cómo son
+[02:17:12] los barrios. Habrá barrios más
+[02:17:14] complicados que otros. Este es un barrio
+[02:17:17] humilde, digamos. Sí. Y vemos que aún en
+[02:17:20] los barrios humildes
+[02:17:22] e la gente se está conectada, ¿no es
+[02:17:24] cierto? Tiene una encontramos usuarios
+[02:17:27] con conexiones regulares, ¿no? Con el
+[02:17:30] pilar y su conexión regular, así como
+[02:17:33] también otros que están en una condición
+[02:17:35] irregular.
+[02:17:40] yendo a los reconocimientos y a los
+[02:17:42] valores de pérdidas, acá ponemos las
+[02:17:45] empresas con nombre y apellido
+[02:17:47] y los porcentajes de pérdida. Estas
+[02:17:49] serían las pérdidas este
+[02:17:53] totales técnicas, este 8,5
+[02:17:56] que tengo reconocidas o que surgen del
+[02:17:59] cálculo de la resolución 599
+[02:18:02] es lo que se ve acá de color celeste.
+[02:18:05] Esta es Edén, Edesa y LAAP. Sí, como
+[02:18:08] tienen distintas pérdidas y además
+[02:18:10] tienen distintas etapas. En algún caso
+[02:18:13] cuando el promedio me da más alto y en
+[02:18:15] algún caso me da más bajo.
+[02:18:18] Eh, pero en definitiva las cuatro están
+[02:18:21] calculadas con la misma metodología y
+[02:18:23] veo que los porcentajes cuando los
+[02:18:25] refiero a los globales, en una me da un
+[02:18:27] porcentaje y en otra me da otro.
+[02:18:29] Si voy a las reconocidas,
+[02:18:32] veo que eh
+[02:18:35] las no técnicas que quedarían por
+[02:18:37] diferencia. Veo que en el tengo una NDE
+[02:18:41] y en el a los porcentajes de pérdidas no
+[02:18:43] técnicas reconocidas son estos valores
+[02:18:45] que están acá. Viene me están dando
+[02:18:47] negativas porque tengo unas técnicas más
+[02:18:49] altas que las eh que las reconocidas
+[02:18:52] realmente que las reconocidas son siete
+[02:18:54] mientras que las surge las que surgen de
+[02:18:56] acuerdo 8,5. O sea, que en el caso de
+[02:18:59] Eden, no tendría pérdidas eh no técnicas
+[02:19:03] reconocidas. Y bueno, lo que está de
+[02:19:05] color gris es lo que no está reconocido,
+[02:19:06] ¿no es cierto?
+[02:19:09] Esto yendo a eh los valores de
+[02:19:12] reconocidos por
+[02:19:15] claramente eh cada tarifa tiene un
+[02:19:19] coeficiente
+[02:19:20] que está referido a la venta, ¿no es
+[02:19:22] cierto? O sea, cuando yo, si bien
+[02:19:24] nosotros estamos acostumbrados a ver
+[02:19:26] como distribuidores los costos respecto
+[02:19:28] del costo de compra, al usuario, yo se
+[02:19:31] lo tengo que cargar con la venta.
+[02:19:32] Entonces, cada unidad de energía que le
+[02:19:34] vendo le tengo que cargar un porcentaje
+[02:19:37] de las partidas que tengo que
+[02:19:38] reconocidas. Entonces, alguno, al T1 le
+[02:19:39] recargo acá de 14%, al T406 y así. Estos
+[02:19:43] son los porcentajes que le cargo a cada
+[02:19:45] tarifa, ¿no es cierto?
+[02:19:47] Bien.
+[02:19:50] Y por último
+[02:19:52] llegamos a la parte de impuestos.
+[02:19:56] No vamos a profundizar mucho.
+[02:20:00] Este,
+[02:20:01] lo que sí vamos a decir
+[02:20:12] eh lo que sí vamos a decir
+[02:20:16] es que e
+[02:20:20] estos son los impuestos, los impuestos
+[02:20:21] que tenemos en la provincia de Buenos
+[02:20:23] Aires, que son el artículo, bueno, el
+[02:20:25] IVA,
+[02:20:27] que ya lo mencionamos, el artículo 74,
+[02:20:29] el artículo 75,
+[02:20:32] el fondo compensador,
+[02:20:34] que ustedes tienen una clase especial de
+[02:20:36] fondo compensador que compensa
+[02:20:38] diferencia de costo en la prestación y
+[02:20:40] la ley 7290
+[02:20:42] que es para obras estratégicas, obras
+[02:20:45] prioritarias se administra a través de
+[02:20:46] la dirección provincial de energía y
+[02:20:49] bueno, la 75 es la contribución
+[02:20:50] municipal y bueno, este impuesto que es
+[02:20:54] mínimo que es de la un impuesto de la
+[02:20:56] provincia de Buenos Aires, los totales
+[02:20:58] son los que están viendo acá abajo y son
+[02:21:00] los que veíamos en los gráficos que
+[02:21:02] veíamos,
+[02:21:03] en los que vimos al principio, son los
+[02:21:05] impuestos que graban la energía
+[02:21:07] eléctrica en la provincia de Buenos
+[02:21:08] Aires.
+[02:21:10] Así que con esto ya estamos terminando.
+[02:21:14] Vamos a ver un esto es un resumen que le
+[02:21:16] dejo más que nada, resumen conclusión
+[02:21:21] donde
+[02:21:23] Emiliano, ¿puedo hacer una consulta?
+[02:21:25] Sí.
+[02:21:26] Respecto al impuesto anterior, la
+[02:21:29] contribución municipal, ¿a qué refiere
+[02:21:31] ese 6%?
+[02:21:34] Mira, refiere a la contribución
+[02:21:37] municipal.
+[02:21:40] ¿Qué es la contribución municipal? Esa
+[02:21:42] es 6%.
+[02:21:44] No sé, tiene alguna finalidad, perdón.
+[02:21:47] Sí,
+[02:21:47] en realidad digamos cuando se redacta el
+[02:21:50] marco regulatorio
+[02:21:52] se establece a efectos de unificar
+[02:21:55] todos los impuestos o tasas que puede
+[02:21:58] comprar cobrar el municipio a una
+[02:22:00] distribuidora eléctrica como para que no
+[02:22:02] hubiera diferencias entre los todos los
+[02:22:05] municipios de la provincia. Esa por un
+[02:22:08] lado y la provincial lo mismo, que ahora
+[02:22:10] está en una alícota de 0,01, lo mismo es
+[02:22:13] representativa o tendía a unificar todos
+[02:22:17] los impuestos provinciales que se cobran
+[02:22:18] por impuesto automotor eh e
+[02:22:22] inmobiliario. ¿Sí? Así que esas dos
+[02:22:24] contribuciones estableció en el marco
+[02:22:25] regulatorio con esa única finalidad,
+[02:22:29] unificar el criterio para poder
+[02:22:30] trasladar a la tarifa y a todos los
+[02:22:32] usuarios de la provincia un único
+[02:22:33] porcentaje y no que cada municipio
+[02:22:35] cobrara, por ejemplo, tasa e por
+[02:22:39] utilización del espacio público, eh por
+[02:22:43] distintos conceptos de manera diferente,
+[02:22:45] porque la potestad imponible de cada
+[02:22:47] municipio puede que sea diferente. ¿Sí?
+[02:22:50] Así que esa fue la finalidad y en el
+[02:22:53] artículo 74 75 van a ver qué dice
+[02:22:56] específicamente este que cubre o que
+[02:22:58] pretende cubrir esa esa contribución. En
+[02:23:01] el 2017 los dos se bajaron al 001. Uno,
+[02:23:05] la provincial era 06 por 1000, perdón, y
+[02:23:09] la municipal siempre fue el 6%. En el
+[02:23:11] 2017 se redujeron las dos alícotas al
+[02:23:14] 0,01.
+[02:23:16] La municipal volvió a subir casi, les
+[02:23:18] digo, inmediatamente, mientras que la
+[02:23:20] provincial sigue estando desde el 2017
+[02:23:22] en el 001.
+[02:23:24] Esa es un poco la historieta de de estas
+[02:23:26] dos contribuciones.
+[02:23:29] Gracias, Guillermina. por nada.
+[02:23:36] Pal me
+[02:23:47] este
+[02:23:49] vamos a ver si vemos las conclusiones
+[02:23:53] medio rápido.
+[02:23:56] El tema de la mensión de potencia
+[02:23:59] que es importante
+[02:24:02] a partir de la mensión inteligente,
+[02:24:03] permite asignar mejor los costos,
+[02:24:07] introducir energía renovable,
+[02:24:08] electromovilidad, consumo estacional y
+[02:24:10] consumos estacionales.
+[02:24:14] el área no rentabilizada. Bueno, eso lo
+[02:24:16] dijimos, otra señal positiva que tiene
+[02:24:19] nuestra nuestra normativa
+[02:24:22] y bueno, el tema de la reducción de
+[02:24:24] pérdida que tiene, bueno, un mínimo a
+[02:24:26] partir del cual no es conveniente
+[02:24:27] incrementar los esfuerzos para su
+[02:24:29] reducción y por lo tanto debería debe
+[02:24:32] debe existir un reconocimiento de
+[02:24:33] pérdida no técnica en la tarifa. Esa
+[02:24:36] sería la las conclusiones de la última
+[02:24:38] parte.
+[02:24:44] Bueno, gracias Emiliano. No sé si
+[02:24:47] quieren hacer alguna pregunta, consulta.
+[02:24:56] Parece que no,
+[02:24:59] así que
+[02:25:00] es la última oportunidad.
+[02:25:02] Sí.
+[02:25:04] Eh, bueno,
+[02:25:06] muchas gracias, Eduardo, muchas gracias
+[02:25:08] Emiliano,
+[02:25:10] gracias a todos
+[02:25:13] por participar
+[02:25:14] y bueno, nos vemos el martes próximo.
+[02:25:17] Gracias a todos.
+[02:25:19] Chao. Gracias.
+[02:25:20] Chao. Chao. Buenas noches.
+[02:25:21] Muchas gracias.

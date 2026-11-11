@@ -1,0 +1,3686 @@
+[00:00:01] [música]
+[00:00:06] [música]
+[00:00:11] [música]
+[00:00:20] [música]
+[00:00:22] Lanzamos la primera clase. Ahora les voy
+[00:00:24] a presentar a los dos expositores de
+[00:00:26] hoy.
+[00:00:28] El ingeniero Eduardo Ariel Ponzano es
+[00:00:32] ingeniero recibido en la ONLP, tiene un
+[00:00:35] posgrado en economía y planificación
+[00:00:36] energética y trabaja en el sector
+[00:00:38] eléctrico desde 1978.
+[00:00:41] Trabajo en Deba, para los que no
+[00:00:44] conocen, DEA era la empresa de la
+[00:00:46] provincia de Buenos Aires, cuando el
+[00:00:48] estado prestaba el servicio eléctrico y
+[00:00:50] estaban todas las actividades
+[00:00:51] integradas.
+[00:00:53] Luego pasó a Eceva, donde ocupó diversos
+[00:00:56] cargos ejecutivos y gerenciales y a
+[00:00:58] partir de esa fecha y hasta el 2015 se
+[00:01:00] desempeñó como gerente general de la
+[00:01:02] comercializadora de energía Comesa.
+[00:01:05] Actualmente colabora como asesor en
+[00:01:07] COMESA participando en la gestión del
+[00:01:09] proyecto FREBA FITBA al cual ha
+[00:01:11] acompañado desde su nacimiento en 1999.
+[00:01:14] En representación del Comité Argentino
+[00:01:16] participó en la Comisión de Integración
+[00:01:18] Eléctrica Regional CER, llegando a
+[00:01:20] desempeñarse como coordinador nacional
+[00:01:22] en el subcomité de transacciones
+[00:01:24] económicas. Ha integrado equipos
+[00:01:26] técnicos de reconocidas consultoras
+[00:01:27] nacionales en temas relativos a
+[00:01:29] contratos de concesiones, regímenes y
+[00:01:31] cuadros tarifarios. Desde 1975 y hasta
+[00:01:35] 2015 se desempeñó en diversos cargos
+[00:01:38] docentes en las carreras de ingeniería
+[00:01:40] de la Universidad Nacional de La Plata,
+[00:01:42] ganando sucesivamente concursos como
+[00:01:44] ayudante alumno, ayudante diplomado,
+[00:01:46] jefe de trabajos prácticos y profesor
+[00:01:48] adjunto en las cátedras de electrotecnia
+[00:01:51] general y teoría de circuitos 1. Ese es
+[00:01:55] un currículum abreviado, muy muy
+[00:01:58] abreviado. Del mismo modo del Dr. Juan
+[00:02:01] Manuel Carazales, es abogado con más de
+[00:02:04] 25 años de experiencia en el sector de
+[00:02:07] energía, como les decía, casi 30.
+[00:02:10] Actuó,
+[00:02:11] más de 25,
+[00:02:12] más de 25, tal cual. Actuó como asesor
+[00:02:15] en distintas etapas, en organismos
+[00:02:16] públicos en el ámbito de la energía
+[00:02:18] nacional y provincial, en empresas del
+[00:02:21] sector, tanto de los segmentos de
+[00:02:22] producción como de transporte y
+[00:02:24] distribución de energía eléctrica y de
+[00:02:25] gas natural. fue también síndico de
+[00:02:28] Camesa, actualmente es socio en el
+[00:02:30] estudio Díaz Bobillo Abogados, estudio
+[00:02:33] jurídico especializado en energía y por
+[00:02:36] último es docente de posgrado en la
+[00:02:38] Universidad Austral y en el ITBA. Bueno,
+[00:02:42] los dejo con los dos profesores.
+[00:03:07] Bien.
+[00:03:10] Vamos a esperar a migarnos con la
+[00:03:12] tecnología y que aparezca la
+[00:03:13] presentación.
+[00:03:17] [carraspeo]
+[00:03:18] Gracias.
+[00:03:39] Bueno, como decía y termina en la
+[00:03:41] presentación, vamos a compartir este
+[00:03:43] primer encuentro de la diplomatura de la
+[00:03:45] energía eléctrica en la provincia de
+[00:03:46] Buenos Aires y hemos tenido la suerte de
+[00:03:51] que nos eligieran junto con Juan para
+[00:03:53] hacer la apertura de esta primer
+[00:03:55] encuentro. No llamémoslo clase porque
+[00:03:57] eso parece muy estructurado y la idea no
+[00:04:00] es justamente esa.
+[00:04:06] Bueno, habrán visto en el programa de
+[00:04:08] esta diplomatura que tiene una primera
+[00:04:10] parte que se denomina conceptualización
+[00:04:13] del mercado eléctrico argentino y que
+[00:04:15] allí hay una serie de encuentros en su
+[00:04:17] manera desgradando distintos temas
+[00:04:20] vinculados con esto.
+[00:04:30] En el encuentro [carraspeo] de hoy,
+[00:04:33] este, vamos a comenzar hablando un poco
+[00:04:36] de lo que es una matriz energética y lo
+[00:04:38] que es la energía como elemento central
+[00:04:41] de esta temática que pensamos abordar de
+[00:04:44] aquí hasta noviembre. Tranquilícense, no
+[00:04:46] siempre conmigo, para tener gente mejor.
+[00:04:49] Este, bueno, y dentro de este contexto
+[00:04:52] de la matriz energética, vamos a hacer
+[00:04:54] un pequeño recorrido entre lo que es
+[00:04:57] energía y sociedad,
+[00:04:59] la energía y el medio ambiente.
+[00:05:03] Definición, manifestaciones y
+[00:05:05] propiedades de la energía.
+[00:05:08] principio de conservación de la energía,
+[00:05:14] clasificaciones
+[00:05:15] que de ella podemos hacer, inventarios
+[00:05:18] energéticos
+[00:05:20] y dentro de ello matrices energéticas y
+[00:05:22] luego breve comentarios sobre Argentina
+[00:05:26] en lo que hace matriz energética y
+[00:05:28] finalmente otra forma de formular o de
+[00:05:31] estudiar los inventarios energéticos que
+[00:05:33] son los balances energéticos.
+[00:05:37] Tapo mucho acá, ¿no? Bien,
+[00:05:42] tomando entonces el primero de los
+[00:05:44] puntos que habíamos recién, veamos un
+[00:05:47] poquito de energía y sociedad.
+[00:05:50] Ya todos tenemos internalizado a la
+[00:05:53] energía como un elemento esencial en
+[00:05:55] nuestra vida y en el desarrollo
+[00:05:57] económico, social y tecnológico.
+[00:06:03] Por supuesto que el nivel de de
+[00:06:05] disponibilidad de la energía es
+[00:06:07] determinante la calidad de vida y si no
+[00:06:09] repasemos qué nos pasa cuando tenemos la
+[00:06:11] mala suerte de estar afectados por un
+[00:06:13] conto de energía. No tenemos internet,
+[00:06:15] el celular anda a veces no podemos ver
+[00:06:18] televisión.
+[00:06:19] Este radio, bueno, si tenemos una
+[00:06:21] transistoria tal vez escuchamos algo,
+[00:06:23] este, pero realmente en general nos
+[00:06:25] sentimos perdidos porque nos faltan un
+[00:06:26] montón de la cafetera eléctrica no anda
+[00:06:28] básico.
+[00:06:30] Este, bueno,
+[00:06:32] y las señoras y señoritas que nos
+[00:06:33] acompañan seguramente podrán hacer
+[00:06:35] aportes de otras cosas que no andan como
+[00:06:37] la buclera y todas esas cosas. Bien, yo
+[00:06:39] hace mucho que no lo uso como lo notan.
+[00:06:43] Bueno,
+[00:06:46] algunas imágenes de nuestra vida
+[00:06:48] cotidiana.
+[00:06:50] Cocinamos,
+[00:06:52] nos higienizamos,
+[00:06:54] nos comunicamos
+[00:06:58] por teléfono, por computadora, accedemos
+[00:07:01] a la internet, accedemos a información.
+[00:07:04] El día que nos falte Google vamos a
+[00:07:05] estar perdidos como tú con neblina.
+[00:07:07] Claramente no es como cuando nos falta
+[00:07:09] el Google Maps, pensar que antes había
+[00:07:11] que usar la guía Pus y agarrar el mapa
+[00:07:13] monstruoso ese buscando por coordenada
+[00:07:15] de fila y columna dónde estaba lo que
+[00:07:16] uno necesaba ir y después hacer el
+[00:07:18] dibujito de dónde salía, dónde iba, todo
+[00:07:21] eso ahora el Google Maplifica.
+[00:07:25] Obviamente también dedicamos tiempo a la
+[00:07:27] lectura y al estudio.
+[00:07:31] También este la iluminación es
+[00:07:35] importante tanto para lo que es la
+[00:07:37] seguridad personal como para que es la
+[00:07:38] seguridad vial.
+[00:07:41] El transporte es otro elemento
+[00:07:42] fundamental de nuestra vida y el confort
+[00:07:46] en nuestro hogar también lo es. Y todo
+[00:07:49] eso funciona si está presente la
+[00:07:52] energía.
+[00:08:01] Obviamente un tema también desde hace
+[00:08:04] mucho tiempo en Boga es la cuestión de
+[00:08:07] la vinculación de la energía con el
+[00:08:09] medio ambiente. Ya vemos hoy día, ya
+[00:08:11] todos tenemos internalizado que hab una
+[00:08:13] profunda relación y un fuerte impacto
+[00:08:16] entre el uso de energía, el tipo de
+[00:08:18] energía que se usa y el medio ambiente.
+[00:08:22] La primera interrupción,
+[00:08:23] por supuesto.
+[00:08:24] Hos quedado que nos interrumpíamos.
+[00:08:25] Sí. Sí. Cierre la moto. Esto parece
+[00:08:27] natural, pero no lo es.
+[00:08:29] un comentario sobre la sobre la página
+[00:08:31] anterior,
+[00:08:33] la incidencia de la energía en el la
+[00:08:36] satisfacción de necesidades humanas
+[00:08:39] elementales. Este, y esto ha llevado y
+[00:08:42] seguramente ustedes han visto, ha
+[00:08:44] llevado e en los últimos años a que se
+[00:08:47] estudie como parte de estas necesidades
+[00:08:50] forman este eh digamos tienen que ver
+[00:08:54] con con el estudio de los derechos
+[00:08:55] humanos, sobre todo en el aspecto que se
+[00:08:57] refiere a los derechos económicos, este,
+[00:08:59] sociales y culturales.
+[00:09:02] se ha empezado a estudiar si la energía,
+[00:09:05] si el acceso a la energía también
+[00:09:06] constituye o no un derecho humano en el
+[00:09:08] sentido de que es indispensable para
+[00:09:10] todas las personas y que de alguna
+[00:09:12] manera las sociedades representadas por
+[00:09:15] el Estado eh tienen que hacer algo para
+[00:09:18] asegurar que todos tengan ese acceso a
+[00:09:20] la energía, como los tratados dicen que
+[00:09:22] todos tienen que tener derecho acceso a
+[00:09:24] una vivienda digna, acceso a a distintos
+[00:09:27] este digamos aspectos que hacen esas
+[00:09:29] necesidades básicas. también este que
+[00:09:33] vos mostrabas ha llevado a este estudio
+[00:09:35] que es donde todavía hay una discusión
+[00:09:37] importante porque aunque parece todo muy
+[00:09:41] teórico desde el punto de vista
+[00:09:43] jurídico, este el punto de vista
+[00:09:45] jurídico tiene consecuencias prácticas
+[00:09:47] concretas si se lo considera o no un un
+[00:09:50] derecho humano. Ese comentario no más
+[00:09:52] para
+[00:09:53] Perfecto, ¿no? Muy muy buen aporte,
+[00:09:54] Juan. Y sí, evidentemente comparto
+[00:09:57] plenamente la necesidad de que esto sea
+[00:10:00] considerado como un derecho básico de la
+[00:10:02] persona, porque lo que estamos viendo
+[00:10:04] acá en esta simple esta simple
+[00:10:06] diapositiva es todas las cosas y
+[00:10:08] solamente algunas de la vida de área
+[00:10:11] vinculadas a la energía y cuáles de
+[00:10:13] todas esas cosas, la mayoría de ellas no
+[00:10:15] vamos a poder disfrutar adecuadamente o
+[00:10:17] directamente no vamos a poder
+[00:10:19] disfrutarlas sin la con la ausencia de
+[00:10:21] la energía. no tenemos energía. Muchas
+[00:10:23] de estas cosas o casi todas ellas no van
+[00:10:26] a funcionar.
+[00:10:30] Bueno, retomando lo anterior, decíamos
+[00:10:32] entonces, hay una
+[00:10:35] fuerte vinculación entre lo que es la
+[00:10:36] energía, su uso y el impacto que tiene
+[00:10:39] sobre el medio ambiente.
+[00:10:41] Venimos de una historia
+[00:10:44] desde comienzos del siglo XX y poquito
+[00:10:47] fines fines del siglo XIX de utilización
+[00:10:51] intensiva, cada vez más intensiva de
+[00:10:53] fuentes fósiles.
+[00:10:55] fuentes fósiles que han tenido un
+[00:10:57] impacto negativo en lo que es la calidad
+[00:10:59] del medio ambiente y que últimamente, en
+[00:11:01] los últimos 15, 20 años, ha acentuado es
+[00:11:05] ese efecto negativo con el fenómeno del
+[00:11:08] calentamiento global y las consecuencias
+[00:11:10] que esto tiene.
+[00:11:12] Estas fuentes fósiles obviamente
+[00:11:13] producen un importante deterioro en el
+[00:11:16] medio ambiente en comparación con las
+[00:11:19] energías limpias a la cual estamos todos
+[00:11:21] tratando de migrar. digo todos, me
+[00:11:23] refiero todas las comunidades y más allá
+[00:11:26] de que algunas lo logran con mayor
+[00:11:27] velocidad y otras con menos, es un
+[00:11:29] camino que todos deberíamos recorrer de
+[00:11:31] forma tal de asegurar que nuestra
+[00:11:35] agresión para esta casa común que todos
+[00:11:38] tenemos y que llamamos planeta Tierra no
+[00:11:41] siga deteriorándose en su medio
+[00:11:43] ambiente.
+[00:11:50] Bien.
+[00:11:52] Decíamos entonces, en función de todo lo
+[00:11:55] que hemos estado presentando hasta ahora
+[00:11:56] y comentando, que este en esta primera
+[00:12:01] parte de esta diplomatura
+[00:12:04] es conveniente dedicarle un breve
+[00:12:07] espacio, pero merecido tal vez, a
+[00:12:11] la energía.
+[00:12:19] Y vamos a empezar entonces por definir
+[00:12:21] qué entendemos por energía y cómo esa
+[00:12:24] energía puede manifestarse.
+[00:12:39] Empezamos entonces por la definición que
+[00:12:41] la mecánica clásica, una rama de la
+[00:12:43] física, nos da de la energía.
+[00:12:45] Allí nos dicen que la energía es la
+[00:12:46] capacidad de una fuerza de generar una
+[00:12:48] acción o un trabajo. Toda fuerza que
+[00:12:51] realiza un trabajo sobre un objeto va a
+[00:12:53] provocar un cambio de la energía que ese
+[00:12:56] objeto tiene asociada.
+[00:12:58] [resoplido]
+[00:12:58] En el ejemplo de la figura tenemos un
+[00:13:00] joven que está empujando una caja y
+[00:13:02] obviamente la energía que esa caja
+[00:13:05] recibe a través del movimiento
+[00:13:07] consecuencia de la fuerza que la persona
+[00:13:09] que le está empujando genera, se va a
+[00:13:12] disipar en este caso en forma de perdón,
+[00:13:16] en forma de calor.
+[00:13:18] A ver si la ven. Sí, en forma de calor
+[00:13:21] por el rozamiento que la caja tenga con
+[00:13:23] respecto al piso.
+[00:13:26] Esto tiene que ver con un concepto que
+[00:13:27] vamos a ver un poquito más adelante, que
+[00:13:28] es el tema de conservación de la
+[00:13:30] energía. No es que yo le entrego energía
+[00:13:32] al objeto y de pronto la cantidad total
+[00:13:36] energía aumenta, ¿no? La misma forma que
+[00:13:37] si le entrego se tiene que convertir en
+[00:13:39] alguna otra forma de energía. O la
+[00:13:41] almacena o la pierde.
+[00:13:44] Si se desplaza en forma horizontal,
+[00:13:46] claramente la va a perder en forma de
+[00:13:47] razamiento. Si se desplaza en forma
+[00:13:49] vertical, la va a almacenar en forma de
+[00:13:51] energía potencial.
+[00:13:53] Y si lo hacemos en plano inclinado, un
+[00:13:55] poco y un poco.
+[00:14:02] ¿Cómo se manifiesta la energía? ¿Cómo la
+[00:14:04] podemos encontrar en la naturaleza?
+[00:14:07] La podemos encontrar en forma de energía
+[00:14:09] mecánica,
+[00:14:11] cuerpos en movimiento.
+[00:14:14] La podemos encontrar en forma de energía
+[00:14:16] térmica,
+[00:14:19] la podemos encontrar en forma de energía
+[00:14:21] química.
+[00:14:25] en forma de energía radiante,
+[00:14:29] en forma de energía atómica.
+[00:14:41] Les hice un
+[00:14:43] adelanto recién del principio de
+[00:14:45] conservación de la energía. ¿Qué es lo
+[00:14:47] que dice este principio? Básicamente que
+[00:14:51] la energía no se cree ni se destruye.
+[00:14:55] Cada forma de energía se puede
+[00:14:56] transformar en otra forma de energía,
+[00:14:57] ¿sí? Mediante procesos y el uso de
+[00:15:02] dispositivos adecuados que se llaman
+[00:15:04] dispositivos de conversión.
+[00:15:06] En el proceso de transformación se puede
+[00:15:08] perder una forma de energía, se puede
+[00:15:10] ganar otra forma de energía, pero la
+[00:15:13] cantidad total de energía debe
+[00:15:15] permanecer constante.
+[00:15:19] Y vamos a poner como ejemplo el caso del
+[00:15:21] motor de un automóvil.
+[00:15:24] En este caso, el motor es el dispositivo
+[00:15:25] de conversión, es el que recibe una
+[00:15:28] forma de energía y la transforma en otra
+[00:15:32] o en otras con ese y vamos a ver por
+[00:15:35] qué.
+[00:15:39] La energía que ingresa al motor es el
+[00:15:41] combustible que tiene una cantidad de
+[00:15:43] energía química que se manifiesta o se
+[00:15:47] evidencia cuando es combustionada en el
+[00:15:49] interior del motor y produce el
+[00:15:51] movimiento de el mecanismo mecánico.
+[00:15:55] ese movimiento a la salida del motor es
+[00:15:58] una energía mecánica que se conectará,
+[00:16:01] bueno, si es un motor de un automóvil a
+[00:16:03] la transmisión de la transmisión a las
+[00:16:04] ruedas y eso provocará el movimiento del
+[00:16:06] automóvil. Pero aquí tenemos
+[00:16:11] un tercer actor que nos dice que no toda
+[00:16:14] la energía química que suministra el
+[00:16:15] combustible se transforma en energía
+[00:16:18] mecánica, sino que parte de esa energía
+[00:16:20] se pierde en forma de calor. Obviamente,
+[00:16:24] bueno, uno puede con el vicio de la
+[00:16:26] mecánica, que es una de mis pasiones,
+[00:16:28] comentar que en realidad no toda energía
+[00:16:30] calórica se pierde, porque, por ejemplo,
+[00:16:32] la calefacción del automóvil utiliza
+[00:16:34] parte de la energía residual de la
+[00:16:36] combustión en la calefacción interna del
+[00:16:38] automóvil en épocas invernales o en
+[00:16:41] época de de baja temperatura. Bien,
+[00:16:52] algunas
+[00:16:55] relaciones que podemos establecer entre
+[00:16:57] la energía de entrada y la energía de
+[00:17:00] salida.
+[00:17:01] La energía de entrada uno lo intuia al
+[00:17:03] ver el dibujo y por lo que comentamos
+[00:17:05] recién, que es igual a la energía útil
+[00:17:07] de salida. ¿Dónde está? Perdón que la
+[00:17:09] perdí.
+[00:17:11] Acá la energía útil de salida más las
+[00:17:15] pérdidas. Eh, la suma de estas dos me
+[00:17:17] debe dar energía de entrada. ¿Por qué?
+[00:17:19] Porque eso justamente es lo que
+[00:17:21] comentábamos recién como principio de
+[00:17:23] conservación de la energía.
+[00:17:25] También es muy frecuente hablar en el
+[00:17:30] caso de los dispositivos de conversión,
+[00:17:33] como es en este caso de nuestro ejemplo,
+[00:17:35] el motor de combustión interna del
+[00:17:37] rendimiento. Hm. El rendimiento se lo
+[00:17:40] define como la relación entre energía a
+[00:17:42] la salida o energía útil con respecto a
+[00:17:44] la energía de entrada.
+[00:17:46] Y finalmente también es importante en
+[00:17:49] todo dispositivo de conversión analizar,
+[00:17:52] opa,
+[00:17:54] analizar las pérdidas h que son la
+[00:17:57] energía a la entrada menos la energía
+[00:17:59] útil que tengo a la salida del
+[00:18:00] dispositivo.
+[00:18:07] Cuando me termine de mi car remoto,
+[00:18:09] seguramente terminamos la exposición,
+[00:18:10] pero bueno.
+[00:18:13] Y eso que los chicos me lo advirtieron,
+[00:18:15] ojo que el motor de avanzar es el de
+[00:18:16] retroceder y viceversa, pero le vengo en
+[00:18:18] todos los tiros, nos falla uno. Bueno,
+[00:18:22] ¿cómo clasificamos la energía?
+[00:18:24] Obviamente hay varias formas, una ya la
+[00:18:26] vimos, lo vamos a repetir ahora, entre
+[00:18:28] la energía limpia y la energía
+[00:18:30] contaminante, ¿no?
+[00:18:36] Pero acá vamos a ver algunas otras
+[00:18:37] alternativas. Por ejemplo, desde el
+[00:18:40] punto de vista de si la energía va a
+[00:18:42] estar disponible de manera permanente o
+[00:18:45] va a tener un agotamiento a lo largo del
+[00:18:48] tiempo, tiempo que puede ser muy largo,
+[00:18:49] muy corto, pero se va a terminar.
+[00:18:52] Podemos hacer una clasificación,
+[00:18:55] aleluya, envoqué el motor, el botón en
+[00:18:57] renovables, si está disponible en
+[00:18:59] cantidades infinitas o
+[00:19:03] ah, perdón, como podemos tener la
+[00:19:05] energía eólica, la energía solar y no
+[00:19:09] renovable si tiene un horizonte temporal
+[00:19:12] de finitud.
+[00:19:14] Típico ejemplo, las energías de origen
+[00:19:16] fósil, el petróleo, el carbón, el gas
+[00:19:18] natural.
+[00:19:20] Desde la forma en que la obtenemos,
+[00:19:23] podemos pensar en que estamos en
+[00:19:25] presencia de energía primaria que se
+[00:19:26] obtienen de la naturaleza en su forma
+[00:19:28] original y en general para ser
+[00:19:31] utilizadas requieren un proceso de
+[00:19:33] conversión.
+[00:19:35] ¿Por qué digo en general? Bueno, por
+[00:19:36] ejemplo, en los comienzos de la edad de
+[00:19:38] vapor normalmente en las calderas se
+[00:19:40] quemaba directamente el carbón mineral.
+[00:19:42] Ahí no había un proceso de conversión
+[00:19:43] previo de energía primaria y energía
+[00:19:45] primaria a la energía útil que lo
+[00:19:47] aporta. Pero en general la energía
+[00:19:50] primaria más en la conforme fue
+[00:19:52] avanzando en la tecnología requiere
+[00:19:55] proceso de transformación para llevarlo
+[00:19:57] a una forma de energía que sea la que
+[00:19:58] finalmente se utilice.
+[00:20:02] Y energía secundaria que es la que acabo
+[00:20:04] de nombrar recién, que es la que se
+[00:20:06] obtiene luego de hacer transformaciones
+[00:20:08] en energía primaria y que es la más
+[00:20:10] adecuada para usos finales. Hemos puesto
+[00:20:13] ahí en el dibujito dos ejemplos, la
+[00:20:15] energía eléctrica y los derivados del
+[00:20:19] petróleo, que pueden ser las naftas, que
+[00:20:22] puede ser el gasoil y el crosén de
+[00:20:25] aviación, etcétera. Eduardo, ahí un una
+[00:20:28] cosa interesante es esta denominación de
+[00:20:31] de la clasificación de renovable y no
+[00:20:33] renovable que eh que así empezó a
+[00:20:37] dividirse cuando había cuando el el
+[00:20:40] principal eh la principal cuestión sobre
+[00:20:42] el fósil era la posibilidad de continuar
+[00:20:45] explotando por su carácter no renovable,
+[00:20:47] ¿no? Hoy, como mostraste en un slide
+[00:20:50] anterior, e ya la preocupación del fósil
+[00:20:53] no es tanto este el carácter no
+[00:20:57] renovable, ¿no? sin no la consecuencia
+[00:20:58] climática, el agotamiento, sino la
+[00:21:01] consecuencia climática y y este porque
+[00:21:04] de hecho con las nuevas tecnologías de
+[00:21:06] la explotación no convencional se han
+[00:21:08] descubierto reservas explotables,
+[00:21:10] comercialmente este digamos explotables
+[00:21:13] que darían un horizonte de explotación
+[00:21:16] muy largo y no no por eso dejan de ser
+[00:21:18] no renovables, pero sí que digamos
+[00:21:21] tirarían este por un tiempo este muy
+[00:21:23] largo de décadas, ¿no? Y sin embargo
+[00:21:26] queremos dejar de usarlas, como bien
+[00:21:28] dijiste dijiste antes, ¿no? Así que hoy
+[00:21:30] hoy muchas veces se habla más, ¿no? De
+[00:21:33] de limpia y fósil o o limpia o este
+[00:21:37] carbono cero o no, no. Ya ya como que lo
+[00:21:40] la cuestión de de lo de lo no renovable
+[00:21:43] eh pasó un segundo plano, ¿no? En la
+[00:21:45] consideración de ese de esa fuente de
+[00:21:47] energía. Tal cual, Juan, en el sentido
+[00:21:49] que vos estás comentando, recuerdo un
+[00:21:50] tema que ahora ya casi no se habla
+[00:21:52] porque como bien este comenta Juan,
+[00:21:55] ahora la preocupación es cuán
+[00:21:57] contaminante es la energía que estamos
+[00:21:58] usando o el proceso que estamos llevando
+[00:22:00] adelante para utilizar energía. Pero
+[00:22:03] hasta no hace mucho tiempo había un
+[00:22:04] concepto que alguno de ustedes tal vez
+[00:22:06] llegó a escuchar que era la famosa
+[00:22:08] relación reservas producción,
+[00:22:11] que la primera vez que lo escuchamos
+[00:22:13] este entramos en una suerte de pánico
+[00:22:15] porque decían relación reserva
+[00:22:17] producción de petróleo 5 años. Decía que
+[00:22:19] dentro de 5 años no hay más petróleo.
+[00:22:21] Claro.
+[00:22:21] ¿Qué hago con el auto? No, ¿cómo era el
+[00:22:24] tema? En realidad, ese concepto tenía
+[00:22:26] que ver con el costo de explotación y el
+[00:22:28] costo de desarrollo de los nuevos
+[00:22:30] cimientos que comentaba recién Juan.
+[00:22:33] Lo que uno decía relación reservas
+[00:22:35] producciones
+[00:22:37] con lo que hasta ahora tengo descubierto
+[00:22:40] y que es económico explotar respecto de
+[00:22:43] la velocidad con que lo voy consumiendo,
+[00:22:45] tengo para 5 años.
+[00:22:47] Claro.
+[00:22:48] ¿Qué es lo que pasaba? que en realidad
+[00:22:50] cuando uno empezaba a ese horizonte
+[00:22:52] estar muy cerca del fin, se empezaban a
+[00:22:55] desarrollar nacimientos que hasta ese
+[00:22:57] momento no eran económicos, pero que a
+[00:23:00] partir de ahí, cuando el más barato se
+[00:23:02] acabó, empezaban a ser convenientes
+[00:23:05] y entonces el horizonte recibción pegaba
+[00:23:08] otro salto y el precio también pegaba
+[00:23:11] otro salto. Pero bueno, eso era un
+[00:23:13] concepto que hasta hace 15, 20 años era
+[00:23:16] una preocupación de casi todos los que
+[00:23:18] estamos vinculados a la energía de una
+[00:23:20] otra forma y que hoy día, como bien
+[00:23:21] comenta Jen y te agradezco la
+[00:23:23] interrupción porque estuvo justa, este,
+[00:23:25] la preocupación es cuánto estamos
+[00:23:27] contaminando y no cuánto nos va a durar
+[00:23:29] esta energía.
+[00:23:31] Bien.
+[00:23:42] Vamos a hablar un poquito de la
+[00:23:43] transformación de la energía y sus usos.
+[00:23:46] Y aquí hemos este aprovechado un gráfico
+[00:23:48] que está bastante interesante publicado
+[00:23:50] en la página de Lenargas y que verán que
+[00:23:53] tenemos dividido en cuatro sectores.
+[00:23:56] Fuentes de energía primaria, procesos de
+[00:23:59] transformación, fuentes de energía
+[00:24:01] secundaria producto de ese proceso de
+[00:24:03] transformación y finalmente
+[00:24:05] aplicaciones.
+[00:24:06] Les pido que presten especial atención a
+[00:24:09] las flechitas amarillas que hay después
+[00:24:11] del proceso de transformación y la que
+[00:24:14] hay después de fuente secundaria. Por lo
+[00:24:16] que vamos a comentar ahora, por ejemplo,
+[00:24:19] la fuente primaria solar
+[00:24:21] a través de un dispositivo de
+[00:24:23] conversión, que puede ser el panel
+[00:24:24] fotovoltaico,
+[00:24:27] se puede usar para generar electricidad.
+[00:24:30] Electricidad que a su vez puede ser
+[00:24:32] aplicada a usos residenciales, a uso del
+[00:24:35] transporte, a la industria, al
+[00:24:38] explotación agropecuaria y a comercial y
+[00:24:42] servicios públicos.
+[00:24:44] Luego tenemos la eólica, el equipamiento
+[00:24:46] de conversión podía ser un aerogenerador
+[00:24:48] de vuelta básicamente la energía
+[00:24:50] secundaria por excelencia electricidad y
+[00:24:53] vuelve a tener el mismo aspecto de
+[00:24:55] aplicación que veíamos recién.
+[00:24:58] Luego la hídrica, luego la nuclear.
+[00:25:01] Bueno, vamos a hacer un un pequeño
+[00:25:03] comentario.
+[00:25:05] Por energía o fuente primaria hídrica
+[00:25:08] entendemos la energía que tiene el
+[00:25:10] movimiento del agua, que puede ser
+[00:25:13] movimiento del agua a partir de un
+[00:25:16] embalse donde se acumula y la liberación
+[00:25:18] del agua a través de conductos que
+[00:25:20] pasando por una turbina genera energía
+[00:25:23] mecánica y eso mueve un generador de
+[00:25:25] energía eléctrica.
+[00:25:27] Eso sería una central de embalse si
+[00:25:29] tiene la capacidad de regular
+[00:25:32] la cantidad de agua acumulada y cómo va
+[00:25:34] a producir energía a lo largo del
+[00:25:36] tiempo.
+[00:25:38] Perdón,
+[00:25:39] regula
+[00:25:40] variando la altura del embalse,
+[00:25:43] acumula y después tiene la posibilidad
+[00:25:45] de ir liberando en distinta grado en
+[00:25:48] función de la densidad de energía. Una
+[00:25:50] cosa que
+[00:25:53] en este tema hace que el árbol a veces
+[00:25:55] esconda al bosque, ¿para qué se hace una
+[00:25:57] central de almacenamiento de agua?
+[00:26:01] Para generar energía eléctrica. No, para
+[00:26:03] controlar las crecidas. La generación de
+[00:26:06] energía eléctrico, aunque parezca
+[00:26:07] mentira, es un subproducto del embalse.
+[00:26:11] su producto que por su importancia digo,
+[00:26:14] nos el árbol nos termina tapando el
+[00:26:16] bosque, pero la verdad lo fundamental de
+[00:26:20] los embalses es la protección de las
+[00:26:22] crecidas y permitir, por ejemplo, que un
+[00:26:26] régimen hídrico que tenga la
+[00:26:27] variabilidad de las estaciones y por lo
+[00:26:29] tanto pueda generar periodo de tierra
+[00:26:33] fácilmente cultivable y periodos de
+[00:26:34] sequía o periodos de inundación y
+[00:26:35] periodos de sequía, con la regulación
+[00:26:38] que produce el embalse permite ir
+[00:26:40] manejando a lo largo del tiempo la
+[00:26:42] liberación de agua para que esos saltos
+[00:26:44] no sean tan bruscos, sean lo menos
+[00:26:46] bruscos posible. Por ese motivo, cuando
+[00:26:48] uno tiene una central que tiene
+[00:26:50] capacidad de acumulación, suele ponerse
+[00:26:53] aguas abajo, es decir, más adelante de
+[00:26:56] cuando el agua ya ha sido liberada por
+[00:26:57] la central, un segundo dique que es de
+[00:26:59] compensación.
+[00:27:01] Entonces, por ejemplo, si esa central de
+[00:27:03] acumulación yo la uso para generar
+[00:27:05] energía en el pico, voy a liberar mucha
+[00:27:08] agua.
+[00:27:09] Entonces tenía un efecto negativo aguas
+[00:27:12] abajo con el lique compensador lo que
+[00:27:14] hace es contener esa liberación en
+[00:27:17] relativamente poco tiempo del agua y
+[00:27:19] luego ir liberándola a lo largo del día
+[00:27:22] para que después del dique compensador
+[00:27:25] el flujo de agua sea lo más constante
+[00:27:27] posible.
+[00:27:29] Otro tipo de central hidráulica son lo
+[00:27:32] que se llaman centrales de pasada, donde
+[00:27:34] la capacidad de acumulación de agua está
+[00:27:37] restringida a días, a semanas, no más de
+[00:27:39] eso. Ejemplo típico en nuestro medio,
+[00:27:42] salto grande y así está.
+[00:27:45] Y por último tenemos lo que son las
+[00:27:49] pequeñas
+[00:27:51] emprendimientos hidráulicos centrales de
+[00:27:53] pasada que están muy en auge con el tema
+[00:27:56] justamente del desarrollo de pequeñas
+[00:27:58] fuerte de energía limpia que se pueden
+[00:28:00] instalar en lugares donde hay una
+[00:28:02] corriente de agua más o menos constante,
+[00:28:04] se pone una pequeña turbina que solo con
+[00:28:07] el paso del agua, sin hacer un logro de
+[00:28:08] embalse ni nada por el estilo, puede
+[00:28:10] generar energía eléctrica
+[00:28:13] Y un último caso sería el tema de aunque
+[00:28:19] ya prácticamente han caído en desuso
+[00:28:22] porque han sido reemplazadas por
+[00:28:24] tecnologías de mejor eficiencia
+[00:28:27] en lo que son las centrales de bombeo.
+[00:28:29] En Argentina hay una que se hizo en
+[00:28:33] cerca de la central nuclear en Valse Río
+[00:28:35] Tercero, que más allá de que haya
+[00:28:37] entrado en Desus, si alguno tiene la
+[00:28:38] oportunidad de visitarla, yo les sugiero
+[00:28:40] que lo hagan porque la verdad que es
+[00:28:42] entrar en una película de Jay Bong. Hay
+[00:28:44] un túnel carretero que se mete más de 2
+[00:28:46] km adentro de la montaña o del cerro
+[00:28:48] hasta llegar a la central. Uno va por
+[00:28:50] ese triun y el golpe se encuentra cabada
+[00:28:52] en la roca, una nave inmensa, iluminada
+[00:28:55] donde están los generadores, generadores
+[00:28:57] bombas. O sea, ¿por qué se hizo esa
+[00:28:59] central? Cuando se construyó la central
+[00:29:02] atómica de embalse, que era la central
+[00:29:04] en ese momento más grande de Argentina,
+[00:29:07] con una potencia de 600 MW, era
+[00:29:10] necesario mantenerla generando lo más
+[00:29:12] constante posible. Pero la central
+[00:29:13] nuclear no puede estar variando su carga
+[00:29:15] de manera permanente, no puede, no es
+[00:29:17] conveniente.
+[00:29:19] Pero, ¿qué problema había? que el nivel
+[00:29:20] de demanda en el valle a lo mejor era
+[00:29:23] más chico que la capacidad de generación
+[00:29:24] de la central,
+[00:29:26] entonces obviamente había que hacerlo
+[00:29:28] así clar cual no era positivo. que
+[00:29:30] diseñó esta central de bombeo con el
+[00:29:32] sentido justamente que cuando bajaba la
+[00:29:34] demanda del sistema y habría que bajar
+[00:29:37] la capacidad de generación de la
+[00:29:39] central, en lugar de bajarla
+[00:29:41] hacían que la central de bombeo bombeara
+[00:29:44] agua hacia un receptáculo superior,
+[00:29:48] consumiendo energía y aplanando la curva
+[00:29:50] sin que tuviera el valle y luego en
+[00:29:52] horario de pico podía devolver la
+[00:29:55] energía de arriba hacia abajo y las
+[00:29:56] máquinas en lugar de funcionar de bomba,
+[00:29:58] funcionaban como generador.
+[00:30:00] variantes de de cómo aprovechar la
+[00:30:03] energía de origen hídrico, ¿no?
+[00:30:06] Obviamente tenemos la nuclear y después
+[00:30:08] tenemos en la parte de abajo todo lo que
+[00:30:10] son, bueno, una parte energía renovable
+[00:30:13] como biomasa, ¿no? Después tenemos
+[00:30:15] nuestras viejas y contaminantes amigas
+[00:30:18] las energías de origen fosil, ¿no? Gas
+[00:30:20] natural, carbón y petróleo. Bueno,
+[00:30:24] todas las primeras, salvo biomasa, que
+[00:30:27] es binorma, se puede usar para
+[00:30:28] electricidad, pero también se puede usar
+[00:30:31] el gas que se produce de la de la
+[00:30:34] biomasa. Todas las de arriba
+[00:30:37] se encausan como energía secundaria,
+[00:30:40] como electricidad y se pueden aplicar a
+[00:30:42] todos los usos que hay acá en la última
+[00:30:44] columna que es la de aplicaciones.
+[00:30:48] Todo lo que tiene que ver con gas
+[00:30:50] natural también.
+[00:30:52] este podemos clasificarlo como como
+[00:30:54] binorma, digamos, ¿no? O sea, lo puede
+[00:30:56] usar como gas o lo puedo usar como un
+[00:30:58] elemento que podría producir a través de
+[00:31:02] central térmica electricidad. Y por
+[00:31:04] último, el carbónio y el petróleo, que
+[00:31:06] bueno, obviamente se pueden usar como
+[00:31:09] electricidad o el caso del petróleo se
+[00:31:12] pueden refinar para producir subcoducto
+[00:31:14] como gas, como gas natural este licuado,
+[00:31:18] como gas natural comprimido, como
+[00:31:21] naftas, como gasoil y eso a su vez tiene
+[00:31:24] aplicaciones en estos sectores, sobre
+[00:31:26] todo en lo que tiene que ver con el
+[00:31:27] sector de transporte.
+[00:31:29] Bien, vamos bien.
+[00:31:32] Bueno,
+[00:31:35] eh
+[00:31:36] recuerdo una anécdota, siempre es bueno
+[00:31:38] hacer una distensción, una profesor que
+[00:31:41] universidad
+[00:31:43] que bueno, el hombre tenía un problema
+[00:31:45] de adicción, tenía un poco de tartamudeo
+[00:31:48] y claro, a veces hay un poquito aburrida
+[00:31:51] la clase, entonces un día nos miró a
+[00:31:53] todos y me dijo, "A mí no me preocupa
+[00:31:56] que vino el reló cada 5 minutos.
+[00:31:59] Lo que me molesta es que lo golpeen a
+[00:32:01] ver si está parado. [risas]
+[00:32:03] Bueno,
+[00:32:04] bueno,
+[00:32:05] es cierto eso, por Dios. [resoplido]
+[00:32:07] Alguno de mi época, si es que sobrevive
+[00:32:08] alguno, le pueden preguntar y se lo va a
+[00:32:10] confirmar. Bueno, vamos a hablar un
+[00:32:13] poquito de los inventarios energéticos.
+[00:32:18] ¿Por qué son importantes los los
+[00:32:19] inventarios energéticos?
+[00:32:22] Porque con todo lo que hemos comentado
+[00:32:25] hasta ahora de la energía, los usos, las
+[00:32:28] aplicaciones y la fuerte incidencia que
+[00:32:30] tiene en nuestro
+[00:32:33] en nuestro vida diaria, h hay una
+[00:32:37] conclusión evidente sobre la importancia
+[00:32:40] de tener en claro en cada región y o
+[00:32:43] país
+[00:32:46] unas cuantas cosas, tres tengo acá. los
+[00:32:49] requerimientos de energía
+[00:32:50] mayoritariamente secundarias para usos
+[00:32:52] finales. Eh, cuando vimos la
+[00:32:55] clasificación de energía, recuerden que
+[00:32:56] dijimos, si bien la primaria en algunos
+[00:32:58] casos se puede usar de manera directa,
+[00:33:00] lo más frecuente es que lo que se
+[00:33:02] utilice es la energía secundaria.
+[00:33:07] También es importante conocer las
+[00:33:11] fuentes de energía mayormente mayor
+[00:33:14] mayoritariamente, perdón, esto me pasa
+[00:33:17] por invocar a mi expofresor
+[00:33:20] con que esos usos pueden ser
+[00:33:22] satisfechos, ¿no? Y por último,
+[00:33:26] ¿con qué energías primarias cuento para
+[00:33:27] poder producir esa energía secundaria
+[00:33:31] y los eventuales usos finales de esa
+[00:33:33] energía secundaria? Digamos, estas tres
+[00:33:35] cosas son básicas dentro de lo que hemos
+[00:33:40] denominado inventarios energéticos.
+[00:33:44] Me amigué con el control. ¿Vieron? La
+[00:33:45] vengo invocando.
+[00:33:47] Bueno,
+[00:33:51] ¿cómo podemos representar los
+[00:33:52] inventarios energéticos? Bueno, hay
+[00:33:54] varias formas.
+[00:33:56] Hoy vamos a ver dos que son las más
+[00:33:59] utilizadas.
+[00:34:05] Unos son los balances energéticos y
+[00:34:07] otros son las matrices energéticas. Los
+[00:34:09] dos van a representar
+[00:34:12] inventarios energéticos, pero van a
+[00:34:14] estar orientadas a distintas
+[00:34:16] aplicaciones y vamos a ver por qué.
+[00:34:21] La matriz energética, ¿a qué se refiere?
+[00:34:24] a la combinación de fuentes de energía
+[00:34:26] que se utilicen en un área específico o
+[00:34:28] en un país para satisfacer las
+[00:34:30] necesidades energéticas de esa área.
+[00:34:35] En cambio, el balance energético, como
+[00:34:39] su nombre lo indica, balance, es un
+[00:34:41] informe que me permite ver de una sola
+[00:34:45] mirada, valga la redundancia,
+[00:34:48] la producción, la transformación y el
+[00:34:51] consumo de energía para satisfacer las
+[00:34:53] necesidades energéticas de un área
+[00:34:56] determinada en un periodo determinado,
+[00:34:57] un año,
+[00:34:59] lo que sea.
+[00:35:07] Un tema básico que estamos mechando acá
+[00:35:09] antes de seguir con los inventarios es
+[00:35:12] la cuestión de uniformización
+[00:35:15] de unidades. Eh,
+[00:35:19] perdón, de respecto anterior, una voy a
+[00:35:21] tratar de no usar voy a tratar de no
+[00:35:23] usar más palabras difíciles, se lo
+[00:35:24] prometo. Dale.
+[00:35:25] No, no, respecto del anterior sin que
+[00:35:26] vuelvas, no te preocupes. Entonces, y
+[00:35:29] acá porque los abogados estamos
+[00:35:30] aprendiendo un montón, ¿no? Yo yo
+[00:35:32] tendría que ponerme de aquel lado
+[00:35:33] mientras habla Dardo, pero eh la matriz
+[00:35:37] entonces no indica las cantidades de
+[00:35:39] energía que que se generan ni se
+[00:35:42] consumen, sino que eso lo indica el
+[00:35:44] balance.
+[00:35:45] Claro. La la matriz hay puede haber una
+[00:35:49] de producción, energía primaria, una de
+[00:35:52] energía secundaria y si quiero tal vez
+[00:35:54] una de usos, pero tengo que hacer tres.
+[00:35:57] ¿Okay? Y nuevamente se usa para
+[00:35:58] representarlo como ver diaglama de
+[00:36:00] torta. El balance es parecido a lo que
+[00:36:03] vimos recién, que tiene tres tres o
+[00:36:05] cuatro columna. Producción, por ejemplo,
+[00:36:07] típicamente tres. Producción,
+[00:36:09] transformación,
+[00:36:11] uso. Hm. Esa es la diferencia. Ahora lo
+[00:36:14] lo vamos a mirar.
+[00:36:16] Bueno, lo que con la palebrita
+[00:36:18] uniformización me salió de corrido,
+[00:36:20] este, lo que queremos plantearnos es lo
+[00:36:24] siguiente. Hablamos recién, por ejemplo,
+[00:36:27] si estamos tratando de hacer un
+[00:36:29] inventario de energías primarias, que
+[00:36:30] ahí podemos tener petróleo. Normalmente
+[00:36:34] se miden que en barriles o en tonelada
+[00:36:37] en podemos tener este
+[00:36:41] carbón si tonelada.
+[00:36:44] Podemos tener algún otro energético que
+[00:36:47] se mira, por ejemplo, en metros cúbicos.
+[00:36:49] ¿Cómo se para meter todo en la
+[00:36:50] licuadora? No se podrían poner
+[00:36:52] directamente con uno con cada unidad de
+[00:36:54] medida diferente. Por eso es necesario
+[00:36:57] usar una medida uniforme para medir
+[00:36:59] todos los energéticos primarios. Bueno,
+[00:37:01] la más utilizada, perdón, por mucho en
+[00:37:05] la industria
+[00:37:06] es la tonelada de equivalente de
+[00:37:08] petróleo. La tonelada de equivamente de
+[00:37:09] petróleo es la cantidad de energía que
+[00:37:12] produce una tonelada de petróleo crudo
+[00:37:15] al combustionarse.
+[00:37:17] Obviamente
+[00:37:20] ustedes saben que hay petróleos de
+[00:37:21] muchas calidades, petróleos que tienen
+[00:37:23] un poco más de poder calorífico,
+[00:37:24] petróleo que tienen menos, algunos
+[00:37:26] tienen más azufre. El azufre es una mala
+[00:37:29] palabra en los combustibles fósiles
+[00:37:31] porque es muy agresivo con cuando se aún
+[00:37:34] cuando se destila, si queda el remanente
+[00:37:36] de azufre es muy agresivo con los
+[00:37:38] aparatos de conversión. Cuando uno, por
+[00:37:41] ejemplo, quema fibero en una caldera con
+[00:37:43] mucho azufre, deteriora muy rápido todo
+[00:37:46] lo que es el área de caños donde se hace
+[00:37:48] el intercambio entre el calor de la de
+[00:37:50] la
+[00:37:52] del quemado de combustible y el agua que
+[00:37:54] pasa y se evaporiza. O si estamos
+[00:37:56] pensando en un en un motor de combustión
+[00:37:59] interna, se daña muy rápidamente el
+[00:38:02] interior. El otro día veí un artículo
+[00:38:05] que en un momento BMW desarrolló un
+[00:38:07] motor muy revolucionario,
+[00:38:09] extremadamente revolucionario,
+[00:38:12] lo colocó en los autos más premium que
+[00:38:14] tenía la línea y se llevó una sorpresa
+[00:38:17] muy negativa. Los motores empezaron a
+[00:38:19] pedir socorro a 10,000 km, 15000, 20,000
+[00:38:22] km, con lo cual por un motor de
+[00:38:24] combustión interna y BMW.
+[00:38:28] ¿Y qué descubrieron? que habían hecho el
+[00:38:30] desarrollo y lo habían ensayado para los
+[00:38:33] combustibles líquidos de Alemania que
+[00:38:35] tenían un bajísimo contenido de azufre.
+[00:38:38] Cuando se empezó a usar en otros lugares
+[00:38:40] la Comunidad Económica Europea, donde el
+[00:38:43] contenido de azufre era más alto, el
+[00:38:45] material con que estaban construidos
+[00:38:47] esos motores era muy sensible a la al
+[00:38:51] azufre. El azufre porque es dañino. El
+[00:38:54] proceso de combustión se convierte en
+[00:38:55] forma de ácido sulfúrico, por ejemplo, y
+[00:38:57] es terriblemente corrosivo. Bueno, se
+[00:38:59] les estaba comiendo los motores.
+[00:39:01] Tuvieron que rediseñar todo el motor y
+[00:39:03] cambiar todos los materiales del blog,
+[00:39:04] de los pistones, de los aros para que
+[00:39:07] pudiera contener ah para que pudiera
+[00:39:08] soportar, perdón, ese nivel de contenido
+[00:39:11] de azufre en los combustibles.
+[00:39:14] Bueno, volviendo a lo nuestro, entonces,
+[00:39:15] distintas calidades de petróleo podrían
+[00:39:18] producir distintas cantidades de calor.
+[00:39:20] Entonces, se definió un la calidad
+[00:39:23] típica para la tonelad de equivalente de
+[00:39:24] petróleo, que es aquella que produce
+[00:39:27] 41,87
+[00:39:29] GJos, que es una unidad de sistema
+[00:39:32] internacional o 11,630 kWh
+[00:39:38] dos equivalencias que les comentaba
+[00:39:40] recién, por ejemplo, una tonalidad
+[00:39:41] equivalente de petróleo
+[00:39:45] acá, una tonalidad equivalente de
+[00:39:48] petróleo aproximadamente ente equivale a
+[00:39:52] 1,4 toneladas de carbón mineral y una
+[00:39:56] tonelada de equivalente petróleo también
+[00:39:58] es equivalente aproximadamente a 1270
+[00:40:02] m cbicos de gas natural. Esto entonces,
+[00:40:05] ¿para qué sirve?
+[00:40:07] Cuando yo haga tanto la matriz
+[00:40:09] energética como el balance energético y
+[00:40:12] tenga que poner en el mismo contexto
+[00:40:15] distintos tipos de energéticos, voy a
+[00:40:17] usar una unidad común, la tonelada
+[00:40:20] equivalente de petróleo. Más allá que en
+[00:40:23] una segunda instancia pueda convertir
+[00:40:26] las cantidades relativas en porcentaje y
+[00:40:28] también tener una matriz, lo vamos a
+[00:40:29] ver, representada en porcentaje de cada
+[00:40:31] energético. Pero antes de llegar a ese
+[00:40:34] paso, hay que representarlo en unidad
+[00:40:36] uniforme. Y la unidad uniforme es la
+[00:40:38] tonelidad equivalente de petróleo.
+[00:40:49] Y vamos a entrar entonces en las
+[00:40:51] matrices energéticas y vamos a empezar
+[00:40:53] con la matriz energética primaria que
+[00:40:56] nos va a mostrar la participación que
+[00:40:58] tiene los energéticos primarios en los
+[00:41:01] que se capturan directamente como
+[00:41:03] recursos naturales de la naturaleza en
+[00:41:05] el consumo total de energético.
+[00:41:09] [carraspeo] La participación de cada uno
+[00:41:11] de esos energéticos muestra cómo se
+[00:41:12] comporta la demanda de energía en un
+[00:41:14] primaria, en un momento determinado.
+[00:41:19] Y aquí tenemos a la matriz energética
+[00:41:22] representada.
+[00:41:24] Este es el caso de la energía primaria,
+[00:41:27] la matriz de energía de energética de
+[00:41:29] energías primarias en Argentina para el
+[00:41:31] 2024 que está sacada en base a datos del
+[00:41:35] balance energético nacional provisorio
+[00:41:37] del año 2024. Bueno, aquí pueden ver
+[00:41:41] esta ya pasó, como les comentaba recién,
+[00:41:43] al segundo estado, ¿no? O sea, acá ya no
+[00:41:45] aparecen cada uno de los energéticos en
+[00:41:48] toneladas equivalentes en petróleo, sino
+[00:41:50] que están puestos en porcentaje. Pero yo
+[00:41:52] puedo hacer exactamente el mismo dibujo
+[00:41:54] poniendo toneladas equivalentes de
+[00:41:56] petróleo, de gas natural, de petróleo,
+[00:41:58] de energía nuclear, etcétera, etcétera,
+[00:42:00] etcétera.
+[00:42:01] Bien,
+[00:42:05] en esta torta no está la electricidad
+[00:42:07] porque no es primaria.
+[00:42:08] No está la electricidad porque no es
+[00:42:09] primaria. Excto.
+[00:42:14] Bueno, este comentario que tenemos acá
+[00:42:16] es uno de los importantes usos que tiene
+[00:42:19] la matriz energética primaria.
+[00:42:21] Por ejemplo, yo miro esto y digo
+[00:42:23] claramente, Argentina tiene una
+[00:42:25] fuertísima dependencia de fósiles, ¿no?
+[00:42:30] Fíjense que tenemos 52 + 31 tenemos 83%
+[00:42:35] de dependencia de combustible fósil.
+[00:42:37] Claramente tenemos que migrar a ¿Dónde
+[00:42:41] está? No lo encuentro. Bueno, no lo veo.
+[00:42:44] No veo el puntito. Tenemos que migrar a
+[00:42:46] convertir el área gris y el área
+[00:42:48] amarilla
+[00:42:49] que se achiquen
+[00:42:51] y que crezcan todas las áreas que
+[00:42:53] tenemos abajo, como la hídrica, como la
+[00:42:56] solar, como la eólica, como lo que son
+[00:43:00] los alcoholes o aceites vegetales.
+[00:43:02] Sabemos que se está mezclando mucho
+[00:43:03] ahora con los derivados de petróleo para
+[00:43:05] los combustibles. Hm. En algún momento
+[00:43:07] tal vez se puede directamente a
+[00:43:09] biocombustible puro para para uso más
+[00:43:11] doméstico. En algunos maquineras
+[00:43:13] agrícolas y todo se está usando
+[00:43:15] biocombustible puro, pero no en los
+[00:43:17] vehículos de uso doméstico, digamos,
+[00:43:19] ¿no? Bueno,
+[00:43:20] la ventaja que sí tenemos ahí que no
+[00:43:23] tenemos una gran participación de carbón
+[00:43:25] mineral que es de los combustibles
+[00:43:27] fósiles el de mayor nivel de emisiones,
+[00:43:29] ¿no?
+[00:43:30] Exactamente. Y tenemos una participación
+[00:43:31] del gas natural muy importante respecto
+[00:43:34] de otros países en comparación con otros
+[00:43:36] países
+[00:43:37] que de los combustibles fósiles es el de
+[00:43:40] menos emisiones, compar el menos malo
+[00:43:42] comparado con carbón y petróleo.
+[00:43:44] Exactamente. El peor de todo, como vos
+[00:43:45] decí Juan, el carbón.
+[00:43:46] Carbón es terrible,
+[00:43:48] no solamente por el proceso de
+[00:43:49] contaminación, sino por el recibo.
+[00:43:51] Sí, sí, sí. En algunos países sigue
+[00:43:52] siendo la la fuente principal
+[00:43:54] y sí y sí, sí, sí, sí, sí, sí, sí. Este,
+[00:43:57] el gas en cambio a veces se lo llama muy
+[00:44:00] discutido esto porque los más
+[00:44:01] ambientalistas eh rechazan la el
+[00:44:04] concepto, lo se lo llama el el
+[00:44:06] combustible de transición porque es un
+[00:44:08] poco el que podría [carraspeo]
+[00:44:10] predominar dentro de esa transición a
+[00:44:13] los a las energías limpias con un poco
+[00:44:15] menor de impacto ambiental respecto de
+[00:44:18] los otros fósiles.
+[00:44:18] Exacto. Sí. Sí.
+[00:44:20] El G natural.
+[00:44:21] El Gas natural,
+[00:44:23] el que está acá con
+[00:44:24] donde Argentina es es muy fuerte,
+[00:44:26] digamos.
+[00:44:28] que como en un paso hacia Asia, ¿no?
+[00:44:32] Claro, eh estamos en un paso hacia las
+[00:44:34] renovables con el crecimiento de las
+[00:44:35] renovables que han crecido en los
+[00:44:36] últimos 5 o 6 años fuertemente con con
+[00:44:39] llegando a ahora lo vas a seguramente a
+[00:44:41] comentar a a niveles de participación en
+[00:44:44] el en el en el consumo total de energía
+[00:44:47] bastante interesante en algunos momentos
+[00:44:48] superior a 20% y en algunos momentos
+[00:44:51] porque depende de la demanda total, por
+[00:44:53] supuesto. Entonces, de ahí depende la eh
+[00:44:56] qué tanto participan, pero a esa
+[00:44:59] migración es la que dice Eduardo que que
+[00:45:01] a la que deberíamos apuntar, pero en el
+[00:45:03] camino a la migración, que no es breve,
+[00:45:05] el gas es mejor que otros fósiles. Este,
+[00:45:08] en ese aspecto de la en muchos aspectos,
+[00:45:10] no solo en de contaminación, en
+[00:45:11] logística, en precio, etcétera, es más
+[00:45:14] conveniente, pero
+[00:45:17] en el aspecto ambiental, que es el que
+[00:45:18] estamos destacando acá, es el más
+[00:45:20] conveniente.
+[00:45:21] Sí, tal cual.
+[00:45:23] Bueno, gracias Juancito. E
+[00:45:27] vamos a ver ahora un poco la matriz
+[00:45:30] energética secundaria, o sea, de la las
+[00:45:33] energías primarias transformadas en
+[00:45:35] energías que ya pueden ser aplicadas a
+[00:45:37] uso finales.
+[00:45:41] La energía secundaria es el resultado de
+[00:45:43] la transformación de las energías
+[00:45:45] primarias en los aparatos de conversión
+[00:45:48] o a través de los aparatos de conversión
+[00:45:49] en forma útiles y adaptadas al consumo
+[00:45:52] como electricidad, calor, combustibles,
+[00:45:54] procesados, nasta, gasol, querosén,
+[00:45:57] etcétera.
+[00:46:00] Y aquí nuevamente tenemos la
+[00:46:02] representación de la matriz energética
+[00:46:04] para energía secundaria.
+[00:46:07] Entonces, noten que aquí tenemos
+[00:46:10] gas natural distribuido por redes, que
+[00:46:11] es distinto del gas natural de pozo. Es
+[00:46:13] un gas purificado donde se le quitan su
+[00:46:16] productos que se usan para otras cosas,
+[00:46:17] por ejemplo, para producir plástico.
+[00:46:20] Ya acá parece que Juancito bien notaba
+[00:46:23] recién que hoy no aparecieron energía
+[00:46:24] eléctrica, acá sí aparece porque es una
+[00:46:26] de las formas de energía secundaria muy
+[00:46:29] utilizadas hoy día. Tenemos los
+[00:46:31] refinados de petróleo. Bueno, y acá el
+[00:46:35] querosen y fíoquerosen lo mismo. El gas
+[00:46:39] de alto horno y bueno, gasolina natural,
+[00:46:42] biodiesésel, etcétera, etcétera,
+[00:46:43] etcétera.
+[00:46:48] De vuelta esto está hecho en base al
+[00:46:50] balance energético nacional 2024,
+[00:46:52] revisión cero de la Secretaría de
+[00:46:55] Energía.
+[00:46:56] En otras filminas posteriores van a ver
+[00:46:59] que les dejé si alguno quiere meterse
+[00:47:02] las direcciones web donde pueden ver
+[00:47:03] todas estas cosas.
+[00:47:10] Bueno, aquí estamos diciendo este lo que
+[00:47:13] ya hemos comentado con anterioridad,
+[00:47:15] cuáles son todos los posibles usos de
+[00:47:17] esta energía secundaria
+[00:47:20] para medir el impacto ambiental. ¿Se
+[00:47:22] tiene en cuenta la primaria o también la
+[00:47:24] secundaria?
+[00:47:26] Bueno, a ver, eh, básicamente tiene muy
+[00:47:31] fuerte impacto la primaria, pero la
+[00:47:35] secundaria también, porque, por ejemplo,
+[00:47:37] alguna es binorma, lo que decíamos hoy,
+[00:47:40] el carbón es primaria, pero también es
+[00:47:42] secundaria cuando se quema en una
+[00:47:44] central eléctrica y producen muchísima
+[00:47:46] contaminación.
+[00:47:48] El fiel es secundario, pero contamina
+[00:47:51] cuando se quema y si tiene alto
+[00:47:53] contenido de azufre produce que se llama
+[00:47:55] lluvia ácida.
+[00:47:57] Así que
+[00:47:57] sí, sí, sí.
+[00:47:58] Este va por los dos lados.
+[00:48:01] O sea,
+[00:48:01] de hecho cuando cuando se hace el
+[00:48:03] digamos el inventario de de dióxido de
+[00:48:06] carbono emitido o de gases de efecto
+[00:48:08] invernadero, para hacerlo más general,
+[00:48:10] se toma en cuenta la producción y el
+[00:48:13] consumo de energía. Es decir, que no es
+[00:48:16] decir, no solo la producción de primaria
+[00:48:19] y la producción de secundaria, sino el
+[00:48:21] consumo mismo, lo que la la
+[00:48:23] contaminación que se genera en esas en
+[00:48:25] ese en esa cadena.
+[00:48:26] Exacto. Sí. La combustión, por ejemplo,
+[00:48:28] a ver, la nafta, vos decís la nafta es
+[00:48:31] secundario. Sí. Y contamina y sí, ¿por
+[00:48:33] qué contamina? Y uno de los productos
+[00:48:35] que produce es monóxido de carbono. Es
+[00:48:37] el motivo por el cual si vos te encerrás
+[00:48:39] en el garage, poner el auto en marcha,
+[00:48:42] vas a conocer al de arriba rápidamente.
+[00:48:43] [risas]
+[00:48:44] El propio proceso de producción, por
+[00:48:45] ejemplo, el gas. Eh, los dos principales
+[00:48:48] gases de efecto invernadero son el
+[00:48:50] dióxido de carbono y el gas metano. Y el
+[00:48:52] gas metano se produce en gran medida por
+[00:48:54] la actividad agropecuaria, pero mucho en
+[00:48:57] la producción de gas. la propia
+[00:48:59] extracción del gas eh genera emisiones
+[00:49:02] de metano a la a la atmósfera y el
+[00:49:05] metano incluso tiene un efecto
+[00:49:07] invernadero mayor por unidad que el del
+[00:49:10] dióxido de carbono. El dióxido de
+[00:49:11] carbono está mucho más presente y creo
+[00:49:13] esto ya no quiero, pero creo que que
+[00:49:16] tiene más duración en ese efecto eh de
+[00:49:19] calentamiento, pero pero eh el metano se
+[00:49:23] produce sin la quema del gas. Eso a eso
+[00:49:25] me refiero. Todas estas esto estas cosas
+[00:49:27] que estamos hablando, en general el
+[00:49:29] efecto invernadero se produce con la
+[00:49:30] combustión de estos de estos productos,
+[00:49:33] pero el metano en el gas y hay todo un
+[00:49:36] programa de en distintos países de de
+[00:49:40] reducción del metano en la producción de
+[00:49:42] gas.
+[00:49:44] Exacto. Sí. Sí. Inclusive algunos
+[00:49:46] algunos lugares del fondo marino, no en
+[00:49:47] todos, pero hay se produce gas metano
+[00:49:50] que este sube la superficie y juega la
+[00:49:53] atmósfera. como
+[00:49:56] volver a producir energía a partir del
+[00:49:58] plano.
+[00:49:59] Si se puede preguntas.
+[00:50:00] Claro. Sí, los entiendo que los
+[00:50:02] programas estoy
+[00:50:03] Sí se puede combustionar, es es
+[00:50:05] combustible, de hecho. Si así si es
+[00:50:06] combustible lo puedes usar para evitar
+[00:50:09] eso como
+[00:50:11] Claro. Lo que pasa es que a ver si vos
+[00:50:12] lo tenés como un producto de emisión de
+[00:50:15] otro proceso, no siempre es fácil
+[00:50:17] capturar esa parte de la emisión para
+[00:50:19] volver a procesar.
+[00:50:20] El objetivo es que no es que no se
+[00:50:22] escape ese gas. En el proceso de
+[00:50:24] producción
+[00:50:24] también se podría aprovechar eso
+[00:50:28] otra forma de
+[00:50:29] Sí,
+[00:50:31] bien,
+[00:50:31] metano es uno de los gases que conforman
+[00:50:33] el gas natural, así que digamos en la
+[00:50:35] medida que se se puedan evitar esas esas
+[00:50:38] esas emisiones se se incrementa,
+[00:50:40] digamos, el el producto final buscado,
+[00:50:42] ¿no?
+[00:50:44] De todas formas, si a ver si quisiéramos
+[00:50:45] resubir el tema, todo lo que sea
+[00:50:48] pariente de una energía fósil es
+[00:50:50] contaminante.
+[00:50:52] No hay ninguna, ningún derivado de la
+[00:50:54] energía fósil que no contamine.
+[00:50:56] Contamina más, contamina menos, pero
+[00:50:58] contamina. Digamos, si vos querés evitar
+[00:51:01] la contaminación, tenés que dejar lo que
+[00:51:03] es la energía de origen fósil.
+[00:51:04] La biomasa también,
+[00:51:06] ¿no? La biomasa no necesariamente,
+[00:51:08] depende de qué de qué proporción de
+[00:51:10] gases produzca.
+[00:51:14] Bueno, eh también hay otras cosas. A
+[00:51:16] ver, hoy hablábamos como energía
+[00:51:18] primaria la energía proveniente del
+[00:51:21] movimiento del agua y en principio la
+[00:51:25] veíamos
+[00:51:27] con benevolencia, pero atención, las
+[00:51:30] grandes centrales de acumulación
+[00:51:33] hidráulica tienen un fuerte impacto en
+[00:51:35] el medio ambiente.
+[00:51:38] Por ejemplo, la central que han
+[00:51:39] desarrollado en China, que se llama la
+[00:51:41] central de las tres gargantas, que si no
+[00:51:43] me falla la memoria hoy por hoy es la
+[00:51:44] más grande del mundo. El efecto del gran
+[00:51:47] espejo de agua que han generado está
+[00:51:49] teniendo un impacto ambiental, cambia
+[00:51:52] todo este todo el procedimiento. Tuve la
+[00:51:54] suerte de visitar y de hacer un poco el
+[00:51:57] seguimiento de Yasiretá cuando se estaba
+[00:51:59] construyendo y había una división
+[00:52:01] ambiental que analizaba todo el impacto
+[00:52:03] que tenía y que iba a tener el embalse
+[00:52:06] de Yasiretá en todo el contexto.
+[00:52:09] O sea, que también en esos temas hay que
+[00:52:13] ser cuidadoso, ¿no? Bien. Importancia
+[00:52:20] de la matriz primaria y de la matriz
+[00:52:22] secundaria.
+[00:52:27] El análisis conjunto de ambas matrices
+[00:52:30] permite evaluar el grado de dependencia
+[00:52:32] energética, la eficiencia de conversión
+[00:52:35] y la sostenibilidad de un país, así como
+[00:52:38] planificar la transición energética
+[00:52:41] hacia energía renovables y reducir la
+[00:52:43] vulnerabilidad frente a fluctuaciones de
+[00:52:46] precios internacionales e impactos
+[00:52:48] ambientales.
+[00:52:49] como le fui espoleando hoy, este, la
+[00:52:53] diferencia, una de las diferencias que
+[00:52:55] ya vamos identificando en el caso de la
+[00:52:57] matriz energética es que para poder
+[00:53:00] hacer este análisis hay que mirar dos o
+[00:53:02] tres matrices.
+[00:53:04] No nos alcanza con una sola
+[00:53:05] representación.
+[00:53:15] Hay una cosa básica cuando uno quiere
+[00:53:17] producir una migración desde un
+[00:53:18] energético a otro, que es definir una
+[00:53:23] política de precios relativos que
+[00:53:25] favorezcan esa migración.
+[00:53:28] ¿Qué quiero decir?
+[00:53:30] Por más que nosotros estemos convencidos
+[00:53:32] de que tenemos que ir, no sé, a los
+[00:53:35] autos eléctricos o tenemos que ir a los
+[00:53:38] autos impulsados por hidrógeno, que más
+[00:53:41] allá de que hay gente que dice que es
+[00:53:42] más peligroso, es menos peligroso, lo
+[00:53:44] cierto es que la combustión del
+[00:53:45] hidrógeno produce agua, o sea, cero
+[00:53:48] contaminación, vapor de agua. Pero digo,
+[00:53:51] si yo quiero producir la transición de
+[00:53:54] los, por ejemplo, los automóviles
+[00:53:56] impulsados por motores a combustible
+[00:53:57] fósil, automóviles eléctricos,
+[00:54:00] automóviles impulsados con hidrógeno y
+[00:54:02] le pongo a esos automóviles un precio
+[00:54:04] mucho más caro que el automóvil a fósil,
+[00:54:07] si el aparato de conversión para la no
+[00:54:09] contaminante termina siendo mucho más
+[00:54:11] caro que el otro y la gente no va a
+[00:54:13] migrar.
+[00:54:16] Entonces es importante cuando uno quiere
+[00:54:18] impulsar una migración tener en cuenta
+[00:54:21] que los precios relativos acompañan ese
+[00:54:23] proceso de inmigración.
+[00:54:26] Por ejemplo, si yo quiero migrar a uso
+[00:54:29] doméstico el consumo de gas natural por
+[00:54:32] redes o de propano butano envasado a
+[00:54:36] eléctrico, que en general el aparato de
+[00:54:39] conversión, la cocina es más eficiente
+[00:54:41] la que es eléctrica que la que es a gas.
+[00:54:45] sobre todo lo que tiene que ver el
+[00:54:46] horno. No sé si seguramente muchos de
+[00:54:47] ustedes tendrán tal vez una cocina
+[00:54:49] eléctrica y habrán visto que el horno es
+[00:54:51] muchísimo más eficiente que el horno a
+[00:54:53] gas. Cocina más parejo, cocina más
+[00:54:56] rápido, cocina mejor. Bueno, este, si yo
+[00:54:59] quiero producir esa transición,
+[00:55:01] claramente no puedo hacer que la energía
+[00:55:03] eléctrica sea más cara que el gas para
+[00:55:05] cocinar, porque entonces me voy a quedar
+[00:55:06] con el gas.
+[00:55:09] Bueno,
+[00:55:13] por eso muchos casos existen para el
+[00:55:15] estado impulsar que estos precios
+[00:55:17] relativos estimulen los el cumplimiento
+[00:55:20] de los objetivos que se propone. Existen
+[00:55:22] a veces impuestos específicamente
+[00:55:25] este orientados al al consumo de eh
+[00:55:29] dióxido de carbono.
+[00:55:30] Exacto.
+[00:55:31] Sí.
+[00:55:33] Recientemente recordarán que en en
+[00:55:35] Ciudad de Buenos Aires, por lo menos,
+[00:55:37] había una desgrabación de patente de los
+[00:55:39] automóviles híbridos o eléctricos
+[00:55:41] respecto a los de combustible fósil.
+[00:55:43] Esa, como dice Juan, es una señal
+[00:55:44] impositiva para decir, bueno, voy a
+[00:55:46] favorecer la utilización de esta fuente
+[00:55:48] en detrimento de otra que es más
+[00:55:50] contaminante porque el fabricante de los
+[00:55:52] productos no se no se eh compromete y
+[00:55:56] creo que yo que por ahí no es deber de
+[00:55:59] de de del fabricante comprometerse en la
+[00:56:01] transformación de la matriz. Fabrica,
+[00:56:03] mira sus costos y busca la rentabilidad.
+[00:56:06] Pero bueno, pero el el el comunidad sí
+[00:56:09] tiene sus objetivos y bueno, tiene que
+[00:56:11] ordenarlos con las herramientas eh
+[00:56:13] legales que que que se puedan usar y los
+[00:56:15] impuestos es la más típica, ¿no?
+[00:56:17] Exacto. Sí. Sí.
+[00:56:25] Bueno, y cerrando un poco esta parte de
+[00:56:28] de la charla, acá pusimos dos posibles
+[00:56:31] ejemplos, ¿no? Tenemos una estufa, epa,
+[00:56:38] una estufa de tiro balanceado
+[00:56:42] comparado con una un calefactor
+[00:56:44] vitrocerámico eléctrico.
+[00:56:47] El tiro balanceado, ustedes saben que
+[00:56:48] toma aire del exterior, lo combustiona
+[00:56:53] con ese aire y con el gas dentro de una
+[00:56:56] cámara cerrada que no tiene comunicación
+[00:56:58] con el ambiente y expulsa los gases de
+[00:57:01] la combustión, de la combustión, perdón,
+[00:57:03] hacia afuera y por efecto de irradiación
+[00:57:08] del calor que se produce adentro de la
+[00:57:11] cámara cerrada de combustión, va aire
+[00:57:13] caliente al medio ambiente.
+[00:57:17] En este proceso, todo lo que va para
+[00:57:19] fuera es pérdida y en un los mejores
+[00:57:23] tiros balanceados entre un 30 y un 40%
+[00:57:25] del calor se pierde. Aquí en esta
+[00:57:29] vitrocerámica la eficiencia es mucho más
+[00:57:31] grande.
+[00:57:37] Pero en la medida que tengas expulsión
+[00:57:40] de los gases calientes hacia el
+[00:57:41] exterior, buena parte del calor se
+[00:57:43] pierde para fuera.
+[00:57:47] ¿Cómo?
+[00:57:51] Este, bueno,
+[00:57:55] ah, iba a ser un comentario acá. En este
+[00:57:58] caso, a veces la tecnología juega a
+[00:58:00] favor de la sustitución y a veces no. En
+[00:58:03] este caso juega a favor, ¿por qué?
+[00:58:05] Porque el equipamiento de conversión
+[00:58:07] puede ser más barato y sobre todo es
+[00:58:10] mucho más fácil de instalar.
+[00:58:12] Para ponerle la conexión a gasos tiene
+[00:58:14] que llamar el gasista, hacer la cañería,
+[00:58:16] si no la tienen romper la pared,
+[00:58:18] etcétera, etcétera, etcétera. La
+[00:58:20] vitrocerámica en tanto y en cuanto la
+[00:58:22] instalación eléctrica est bien diseñada,
+[00:58:24] el enchufen y está.
+[00:58:26] A veces el cambio tecnológico no es tan
+[00:58:30] fácil.
+[00:58:31] Recuerdo un ejemplo hace mucho tiempo,
+[00:58:35] mucho tiempo digo en la en la crisis del
+[00:58:37] petróleo de Cuba en los 70, algunos la
+[00:58:40] habrán leído, aunque tal vez no la
+[00:58:41] recuerden de haberla vivido
+[00:58:43] personalmente.
+[00:58:44] Uno de los países que fue muy golpeado
+[00:58:46] fue Francia porque tenía una fuertísima
+[00:58:49] dependencia del petróleo.
+[00:58:51] A raíz de eso, hizo dos cosas.
+[00:58:53] desarrolló un plan nuclear muy fuerte
+[00:58:56] que después le quedó medio
+[00:58:58] sobredimensionado porque cuando el
+[00:58:59] petróleo volvió a bajar ya no era tan
+[00:59:02] conveniente, pero lo habían
+[00:59:03] desarrollado.
+[00:59:05] Este, los franceses no no son fenicios,
+[00:59:07] pero son buenos comerciantes. Entonces
+[00:59:09] aprovecharon el exceso de energía que
+[00:59:11] tenían, por ejemplo, para venderlo hacia
+[00:59:13] España o Portugal de los nucleares. Pero
+[00:59:16] otra cosa que pasó en esa época fue
+[00:59:19] como había que alejarse del combustible
+[00:59:22] fósil.
+[00:59:23] porque era caro, muy caro.
+[00:59:26] Empezaron a financiar el cambio, por
+[00:59:30] ejemplo, de todo lo que eran caldeas,
+[00:59:32] horno, etcétera, a combustible de
+[00:59:34] combustible fósil a eléctrico y
+[00:59:36] electricitad de France les pagaba el
+[00:59:39] estudio y la conversión
+[00:59:41] para que usaran energía eléctrica en
+[00:59:43] lugar de petróleo,
+[00:59:45] con lo cual lograban bajar su
+[00:59:48] dependencia. Y ahí está un poco también
+[00:59:50] otros aspectos que comentaba Juan, donde
+[00:59:52] el Estado puede intervenir sobre el
+[00:59:54] mercado para conseguir la transición de
+[00:59:58] un tipo de combustible, un tipo
+[01:00:00] energético hacia otro.
+[01:00:03] Hoy se habla mucho el término muy muy
+[01:00:06] usado es el de la electrificación de los
+[01:00:09] consumos finales, ¿no? Es decir, aquel
+[01:00:11] consumo final que que estaba basado en
+[01:00:13] en otros energéticos, este, reemplazarlo
+[01:00:16] por electricidad y se lo toma como uno
+[01:00:19] de los pilares de la transición
+[01:00:20] energética, ¿no? que que obviamente si
+[01:00:23] esa electricidad está generada con
+[01:00:24] combustible fósil no habría ningún
+[01:00:26] cambio significativo a nivel eh
+[01:00:29] ambiental, pero esto va acompañado del
+[01:00:32] reemplazo de las tecnologías de
+[01:00:34] generación, como decíamos antes, de
+[01:00:36] fósil a a limpia. Entonces, la
+[01:00:38] combinación de de esa de ese reemplazo
+[01:00:41] por energías renovables con la
+[01:00:43] electrificación de los consumos más la
+[01:00:45] eficiencia energética, eh serían esos
+[01:00:47] los tres pilares de la de la transición
+[01:00:49] energética. Y bueno, este este de la
+[01:00:52] electrificación es uno de ello.
+[01:00:54] Exacto.
+[01:00:58] Bueno, algunos comentarios de la matriz
+[01:01:00] energética en el caso argentino.
+[01:01:03] La matriz energética secundaria en
+[01:01:05] Argentina, como ya vimos, se caracteriza
+[01:01:07] por una alta dependencia de los
+[01:01:08] combustibles fósiles, h con un creciente
+[01:01:11] interés y desarrollo en lo que son las
+[01:01:14] energías renovables. Incorporar a la
+[01:01:16] materia energética energías primarias.
+[01:01:19] proveniente de energías renovables. H,
+[01:01:23] pero queda un importante camino por
+[01:01:25] recorrer. Ustedes saben que se había
+[01:01:26] fijado un un horizonte de 20% de las
+[01:01:30] renovables, que ya en este en esta fecha
+[01:01:32] tendría que estar cumplido y bueno,
+[01:01:34] venimos un poco retrasados en ese tema.
+[01:01:44] Históricamente tuvimos una fuerte
+[01:01:47] dependencia de los hidrocarburos como el
+[01:01:49] caso del gas natural y el petróleo que
+[01:01:52] han representado más del 84%, lo veíamos
+[01:01:55] recién en la matriz energética primaria
+[01:01:57] de la oferta energética en el 24 y el
+[01:02:00] gas natural en particular, por suerte,
+[01:02:02] porque de los contaminantes, como bien
+[01:02:03] nos explicaba Juan, es el menos grave. H
+[01:02:07] ya tiene una participación del 52% en la
+[01:02:09] oferta total.
+[01:02:25] Y un poco reiteramos lo que comentábamos
+[01:02:27] recién. Si bien la participación de las
+[01:02:28] renovables ha ido en aumento, en el 2024
+[01:02:31] están aproximadamente en el 11% de la
+[01:02:35] matrice energética primaria. Y dentro de
+[01:02:37] este grupo la que es más significativa
+[01:02:40] es la hidroelectricidad, ¿no? Seguida
+[01:02:42] por la eólica y la solar, este, a las
+[01:02:46] que aún le falta continuar creciendo
+[01:02:48] para alcanzar a las tres la
+[01:02:50] participación deseada. En hídrico, en
+[01:02:52] Argentina ya no le queda tanto para
+[01:02:54] desarrollar, así que va a tener que
+[01:02:56] trabajar o tiene que trabajar y está
+[01:02:57] trabajando mucho más en lo que es eólico
+[01:02:59] y solar.
+[01:03:10] Continuando con el caso argentino,
+[01:03:13] ¿qué futuro vemos para la matriz
+[01:03:15] energética?
+[01:03:20] El objetivo de energía renovable es un
+[01:03:22] objetivo claro y sobre el cual se está
+[01:03:24] trabajando y en ese sentido se está
+[01:03:27] recorriendo, ¿no?
+[01:03:30] Bueno,
+[01:03:32] vamos a ver un poquito en la siguiente
+[01:03:33] parte de la clase en relación con el
+[01:03:36] matter, ¿no? El mercado de de a término
+[01:03:39] de energía renovable que tuvo un
+[01:03:41] desarrollo interesante.
+[01:03:42] Exacto.
+[01:03:46] Acá tenemos, bueno, este testol
+[01:03:50] está perfecto [risas] y renovar
+[01:03:51] renovar en la ronda un dos y la ronda 3
+[01:03:54] o mini rem
+[01:03:56] que es la que dice recién Juan el
+[01:03:59] mercado a término de energía renovable
+[01:04:00] este que está acá
+[01:04:02] el régimen de fomento a la generación de
+[01:04:04] energía con fuentes renovables para
+[01:04:05] autoconsumo e inyección de excedentes a
+[01:04:07] la red de pequeños producciones
+[01:04:09] domiciliarias y el Permer que es el
+[01:04:13] programa de electrificación rural. Hm.
+[01:04:16] para fomentar el uso de energía
+[01:04:17] renovable.
+[01:04:19] Sí,
+[01:04:21] cuando vos decís el 20% es de la
+[01:04:23] eléctrica, o sea, que en la matriz
+[01:04:25] secundaria tengo que tomar la porción de
+[01:04:28] eléctrica y hacerle el 20%.
+[01:04:31] Eh,
+[01:04:33] no, en la primaria está planteado eso.
+[01:04:35] El objetivo de la primaria, el que
+[01:04:36] pusieron la ley, si mal no recuerdo, era
+[01:04:38] el 20% del total de la matriz de toda.
+[01:04:42] Lo puse mal. cubrió el 20% de la demanda
+[01:04:44] eléctrica de fuentes
+[01:04:46] de la demanda eléctrica. Sí, en realidad
+[01:04:47] tendría que pensarlo
+[01:04:49] para, si no me acuerdo mal, habría que
+[01:04:51] repasar la ley en el 20 de la primaria,
+[01:04:55] porque en realidad si yo quisiera,
+[01:04:58] digamos, está bien fomentar el uso de la
+[01:05:00] eléctrica en algún momento, como
+[01:05:01] comentábamos recién, va a desplazar al
+[01:05:02] gas, por ejemplo, pero sería más, me
+[01:05:06] parece a mí,
+[01:05:08] mayor daría mayor impulso
+[01:05:10] eléctrica. entrar directamente
+[01:05:12] es eléctrica.
+[01:05:12] Claro,
+[01:05:13] 20% del consumo de energía eléctrica
+[01:05:15] nacional.
+[01:05:16] Excelente. Bien,
+[01:05:18] gracias por la aclaración.
+[01:05:19] Artículo 5 de la ley 27 191.
+[01:05:24] Pasó la tortuga corriendo y se me
+[01:05:25] escapó.
+[01:05:26] Bueno,
+[01:05:28] dice la demanda eléctrica.
+[01:05:31] No escribí bien, pero dije mal.
+[01:05:35] alguno de
+[01:05:36] Claro, gracias. Claro, no, gracias a
+[01:05:38] ustedes.
+[01:05:40] Bueno, también este obviamente hay que
+[01:05:44] trabajar en la diversificación de la
+[01:05:46] matriz hacia energías más limpias y la
+[01:05:50] sostenibilidad de esa de esa migración,
+[01:05:54] ¿no?
+[01:06:04] En resumen, la matriz energética
+[01:06:07] secundaria en Argentina refleja una
+[01:06:09] fuerte dependencia de los combustibles
+[01:06:12] fósiles con un crecimiento de las
+[01:06:15] energías renovables y la transición
+[01:06:18] hacia una matriz más sostenible. Es un
+[01:06:22] desafío que requiere atención y acción
+[01:06:24] coordinada y continua. Esto está sacado,
+[01:06:28] estos comentarios están sacados de de
+[01:06:31] alguna publicación en internet de Nargas
+[01:06:33] y algunas otras fuentes también.
+[01:06:39] Bueno, y vamos a ir cerrando lo que es
+[01:06:42] esta primera parte de la charla de hoy
+[01:06:44] con una mirada sobre el balance
+[01:06:46] energético.
+[01:06:49] El balance energético, como dijimos hoy,
+[01:06:51] es un informe que proporciona una visión
+[01:06:54] clara, estructurada y yo le agregaría
+[01:06:57] integral de la producción, la
+[01:06:59] transformación y el consumo de energía
+[01:07:02] en un periodo específico y para un área
+[01:07:04] determinada.
+[01:07:06] Por lo tanto, incluye datos sobre la
+[01:07:07] oferta y la demanda de energía, así como
+[01:07:10] las pérdidas que son las que surgen en
+[01:07:12] el proceso de conversión.
+[01:07:22] El objetivo del balance energético es
+[01:07:24] facilitar el análisis de los proceso de
+[01:07:26] transformación energética y ayudar a los
+[01:07:29] responsables políticos para que
+[01:07:30] desarrollen estrategia para el uso
+[01:07:32] eficiente y sostenible de la distintas
+[01:07:36] formas de energía.
+[01:07:38] ¡Epa!
+[01:07:47] Un balance energético puede mostrar en
+[01:07:49] números globales, por ejemplo, que un
+[01:07:51] país produjo 100 unidades de energía,
+[01:07:54] consumió 90 y perdió 10, que es un poco
+[01:07:57] lo que comentábamos acá, ¿no? En la
+[01:07:59] primera en la primera viñeta.
+[01:08:16] Bueno, ahora vamos a ver dos ejemplos de
+[01:08:17] balance energético, uno a nivel nacional
+[01:08:19] y otro a nivel de la provincia de Buenos
+[01:08:21] Aires. En cada caso, como les decía, van
+[01:08:23] a ver que al pie está el sitio de
+[01:08:25] internet donde pueden ir a ver esos
+[01:08:26] balances.
+[01:08:28] El de la el de nivel país es el de 2024
+[01:08:32] y el de la provincia, por lo menos el
+[01:08:34] último que yo encontré es del 2023, pero
+[01:08:36] tiene una revisión a medias del año
+[01:08:38] pasado, actualizada a medi del año
+[01:08:40] pasado.
+[01:08:43] Bueno,
+[01:08:47] los vamos a mostrar en pantalla completa
+[01:08:48] porque si lo insertábamos acá íbamos a
+[01:08:50] ver una linda mancha, pero nada más que
+[01:08:51] eso. No les garantizo que veamos mucho
+[01:08:54] detalle, pero si mucho más que los
+[01:08:56] hubiéramos puesto como una imagen acá
+[01:08:58] dentro, ¿no? Acá abajo tienen
+[01:09:01] donde se puede sacar el dato de lo que
+[01:09:04] vamos a ver ahora,
+[01:09:07] en qué página de internet está.
+[01:09:10] Este es el balance a nivel nacional.
+[01:09:13] Fíjense en que tiene, si miramos la
+[01:09:15] parte de arriba, tiene la oferta,
+[01:09:20] la transformación
+[01:09:22] y el consumo.
+[01:09:25] La diferencia entre la oferta y el
+[01:09:27] consumo nos va a dar las pérdidas en los
+[01:09:29] centros de transformación.
+[01:09:33] Por otro lado, tenemos las formas de
+[01:09:35] energía primaria
+[01:09:38] y las formas de energía secundaria.
+[01:09:42] discriminadas en producción,
+[01:09:44] importación, etcétera, etcétera. Y
+[01:09:45] finalmente una columna que es la oferta
+[01:09:48] primaria, lo que representamos y la
+[01:09:51] oferta interna, perdón, lo que
+[01:09:53] representamos en las dos matrices
+[01:09:55] energéticas, eh, bien digo, matriz
+[01:09:57] energética que les mostré antes, la
+[01:09:59] primaria y la secundaria, serían
+[01:10:01] llevados a porcentaje los datos de, uy,
+[01:10:03] ya, perdón,
+[01:10:06] los datos de esta. ¿Dónde estará? Se me
+[01:10:10] perdió el punterito. Bueno, los datos
+[01:10:13] apareció.
+[01:10:16] Juro que no lo veo. Aquí está. Ahí lo
+[01:10:17] encontré.
+[01:10:18] Bueno, cuando lo arriba lo pierdo. Eh,
+[01:10:21] la columna que está en azul después de
+[01:10:22] oferta es lo que está representada en la
+[01:10:24] matrices que les mostré hoy.
+[01:10:27] Después tenemos la parte la parte de
+[01:10:29] centro de transformación y por último la
+[01:10:31] parte de consumo que también si yo
+[01:10:34] quisiera hacer una representación del
+[01:10:36] consumo energético en forma de matriz
+[01:10:38] debería hacerlo con esta. Ahí lo
+[01:10:41] encontré con esta parte de acá. Claro,
+[01:10:43] cuando lo pongo en lo blanco casi se
+[01:10:44] pierde, ¿eh? Bueno, acá y por último,
+[01:10:48] este
+[01:10:50] tenemos acá abajo, si quieren también un
+[01:10:52] resumen de el proceso y de la de las
+[01:10:55] pérdidas, o sea, el balance de la
+[01:10:57] transformación que me dice cuánto entró,
+[01:10:59] cuánto salió, cuánto perdí. Bueno, vamos
+[01:11:01] a ver algo parecido para el caso de la
+[01:11:03] provincia. Acá tienen en este caso abajo
+[01:11:06] también la página web donde pueden
+[01:11:09] encontrar esto con todo detalle
+[01:11:14] y la estructura es muy similar a la
+[01:11:15] otra, ¿no? Tenemos una primer sección
+[01:11:18] que es la parte de la oferta,
+[01:11:20] una segunda sección que es la parte de
+[01:11:22] centro de transformacia y una tercera
+[01:11:23] que son los consumos. También a nivel
+[01:11:25] horizontal tenemos una sección de formas
+[01:11:27] primarias de energía y de forma
+[01:11:30] secundaria y vuelo, abajo de todo el
+[01:11:33] balance del proceso de transformación.
+[01:11:37] Como habíamos comentado y ahora lo vemos
+[01:11:39] materializado, cuando yo miro el balance
+[01:11:42] de un solo pantallazo, tengo una vista
+[01:11:44] de todo.
+[01:11:45] ¿Cuánto tengo de primaria? ¿Cuánto tengo
+[01:11:47] de secundaria? de cada una, cuánto
+[01:11:49] produzco, cuánto transformo, cuánto
+[01:11:51] tengo como uso final y inclusive en qué
+[01:11:54] uso final. Fíjense bien que acá figuran
+[01:11:56] los distintos usos finales. O sea, miro
+[01:11:58] el balance y tengo una mirada integral
+[01:12:01] en un solo gráfico. En las batrias
+[01:12:04] energéticas puedo tener lo mismo, pero
+[01:12:06] tengo que mirar tres gráficos.
+[01:12:08] Bien.
+[01:12:14] Y ahora
+[01:12:19] reflexión, ponencias y preguntas. Los
+[01:12:21] escuchamos ustedes.
+[01:12:30] Queréis consultarles si alguien abrir el
+[01:12:32] micrófono
+[01:12:34] a los que están conectados.
+[01:12:35] Perfecto.
+[01:12:47] Ah, sí.
+[01:12:51] Okay.
+[01:12:58] Esta pregunta está acá.
+[01:13:04] Sí, tengo un tengo un machete porque yo
+[01:13:06] tampoco me acordaba que era, así que lo
+[01:13:08] voy a ir a ver en la máquina.
+[01:13:10] Un segundo.
+[01:13:30] Se puede.
+[01:13:39] Bueno, según investigué y lo anoté para
+[01:13:42] no olvidarme, la energía secundaria no
+[01:13:44] energética se refiere a la energía que
+[01:13:46] se ha convertido en una forma que no es
+[01:13:48] directamente utilizable para la mayoría
+[01:13:50] de las necesidades cotidianas o
+[01:13:51] industriales.
+[01:13:54] [carraspeo] Por ejemplo, el gas de
+[01:13:55] síntesis, el biodiesel, el etanol
+[01:13:57] ejemplo de secundaria que se generan a
+[01:14:00] partir de fuentes primarias como el
+[01:14:01] carbón g natural, hidroeléctrica o
+[01:14:03] energía solar. Estas fuentes requieren
+[01:14:05] un proceso de conversión que implica
+[01:14:07] diversas tecnologías y sistemas de
+[01:14:10] generación o almacenamiento de energía.
+[01:14:13] Esa es la definición que van a encontrar
+[01:14:15] en internet.
+[01:14:19] ¿Alguna
+[01:14:27] otra consulta, pregunta, comentarios?
+[01:14:32] ¿Vas a preguntar lo que acordamos antes
+[01:14:34] o distinto? [risas]
+[01:14:39] No, no. La pregunta era si cuando haces
+[01:14:41] la de la provincia de Buenos Aires si
+[01:14:42] tiene algo de importada, o sea, del
+[01:14:46] origen de la energía, si viene de otro
+[01:14:49] la producción,
+[01:14:51] sí, si la producción de las primarias o
+[01:14:53] secundarias, ¿podemos volver a poner la
+[01:14:55] presentación?
+[01:14:56] ¿Tiene algún ítem que dice importada o?
+[01:14:59] Sí, sí, sí tiene. Ahora lo lo vemos.
+[01:15:02] Eh, ¿era este? Era este. Ahí está.
+[01:15:06] Bueno, no se va a alcanzar a leer tal
+[01:15:09] vez, pero
+[01:15:12] si miramos acá en la, a ver, en la
+[01:15:15] primera parte
+[01:15:18] acá dice producción,
+[01:15:21] importación,
+[01:15:22] intercambio, etcétera, etcétera. O sea,
+[01:15:24] está contemplada la importación. Sí, sí.
+[01:15:27] No, si si no estuviera digamos en la
+[01:15:29] parte fósil estamos en el horno.
+[01:15:40] ¿Alguna otra consulta? ¿Alguna otra
+[01:15:41] pregunta? ¿Alguna otra ponencia?
+[01:15:46] Puede ser una opinión, digamos, no tiene
+[01:15:47] por qué ser una pregunta.
+[01:15:50] Bueno, muchas gracias y vamos a a pasar
+[01:15:54] a la segunda parte. [aplausos]
+[01:16:19] Bueno, arrancamos. Retomamos la
+[01:16:23] primera charla.
+[01:16:27] Eh, seguimos con el tema de de esta
+[01:16:29] primera de esta de este primer encuentro
+[01:16:32] que es la conceptualización del mercado
+[01:16:34] eléctrico. Vimos los aspectos técnicos y
+[01:16:36] conceptuales de un sistema de energía eh
+[01:16:39] que nos explicó Eduardo y ahora vamos a
+[01:16:41] ver los aspectos más de tipo
+[01:16:44] organización institucional, legal y
+[01:16:46] regulatoria del mercado eléctrico en
+[01:16:49] Argentina. Hm. Ustedes saben que esta
+[01:16:53] primera clase está referida a mercado
+[01:16:54] eléctrico en general, por lo tanto tiene
+[01:16:57] más referencias a la organización
+[01:16:59] nacional que a las organizaciones
+[01:17:01] locales. Después en en las siguientes eh
+[01:17:04] clases va a haber este el tratamiento,
+[01:17:07] digamos, en detalle de lo que es la
+[01:17:09] organización provincial y la regulación
+[01:17:11] provincial.
+[01:17:13] Uh, había empezado.
+[01:17:15] ¿Cuál es el marco en el que funciona el
+[01:17:17] mercado eléctrico en Argentina? Bueno,
+[01:17:19] el marco está dado por dos leyes
+[01:17:20] fundamentales. Una del año 60, que es la
+[01:17:24] 15,336,
+[01:17:25] llamada Ley Federal de la Energía
+[01:17:27] Eléctrica, eh, que tuvo, digamos, una
+[01:17:31] importancia crucial en el desarrollo de
+[01:17:33] de del sector en esos años. Después de
+[01:17:36] de esta ley, eh, fundamentalmente se
+[01:17:39] construyeron las centrales
+[01:17:40] hidroeléctricas más importantes del
+[01:17:42] país, empezando por las del Comagüe. De
+[01:17:44] hecho, la ley tuvo bastante que ver con
+[01:17:47] esos proyectos. Y ahora vamos a ver por
+[01:17:49] qué, qué cosas importantes dijo esta
+[01:17:51] ley, que hacían falta para que se
+[01:17:53] desarrollen inversiones en el sector,
+[01:17:56] eh, sean inversiones del Estado o
+[01:17:57] inversiones privadas, pero había algunos
+[01:17:59] conceptos fundamentales que la
+[01:18:01] legislación del país todavía no tenía en
+[01:18:03] ese momento
+[01:18:05] y 31 años después la ley 24,065
+[01:18:10] que trajo la digamos el le dio el marco
+[01:18:14] a la privatización de eh los servicios y
+[01:18:17] de los este de las actividades
+[01:18:20] eléctricas en el país.
+[01:18:22] Sí, Juan. E algunos comentarios como
+[01:18:25] habíamos estado charlando respecto de
+[01:18:27] qué pasó desde 1960 cuando aparece la
+[01:18:30] ley 15336
+[01:18:32] a 1991 cuando es necesario revisar todo
+[01:18:37] el proceso y sacar un nuevo marco legal.
+[01:18:41] Citando, por ejemplo, algunas cuestiones
+[01:18:43] vinculadas a las fuentes de producción,
+[01:18:47] les voy a enumerar la la lo más
+[01:18:48] importante que fue apareciendo después
+[01:18:51] de la 1536. Por ejemplo, Atucha 1 entró
+[01:18:55] en producción en marzo del 74 en
+[01:18:59] producción comercial.
+[01:19:01] El complejo El Chocón Cerros Colorados
+[01:19:03] puso en operación comercial su primera
+[01:19:05] máquina en diciembre del 72.
+[01:19:09] El despacho unificado de cargas que fue
+[01:19:11] ya concebido en la 1536, pero se puso
+[01:19:15] operativo bajo la dependencia y agua
+[01:19:17] energía en 1979.
+[01:19:21] SEGBA, que es lo más cerquita a la
+[01:19:23] producción del de la 1536 en el 61.
+[01:19:28] El complejo de pasada de salto grande,
+[01:19:31] la central hidráulica de Salto Grande,
+[01:19:33] en mayo del 83,
+[01:19:36] la central nuclear de embalse, que fue
+[01:19:38] la segunda central nuclear argentina y
+[01:19:41] prácticamente el doble de lo que es
+[01:19:43] Atucha. Atucha es más o menos 350, en
+[01:19:45] balse 600 MW. Esa entró a operar en
+[01:19:50] enero del 84
+[01:19:53] y la central de bombeo que les contaba
+[01:19:54] hoy que hay al lado de la deembalse en
+[01:19:57] el 86.
+[01:19:59] Fíjense todas las cosas que fueron
+[01:20:02] pasando, como bien decía Juan, al amparo
+[01:20:06] de la 1536,
+[01:20:08] que inclusive puse en funcionamiento del
+[01:20:10] Consejo Federal de Energía Eléctrica.
+[01:20:11] Hubo también creció [carraspeo] el
+[01:20:13] proceso de interconexión de las
+[01:20:15] distintas regiones del país y bueno,
+[01:20:18] como todo proceso, llegó el momento de
+[01:20:21] revisarlo y cambiarlo y ahí apareció la
+[01:20:24] 2406565
+[01:20:26] del año 91. Esas son las dos leyes a las
+[01:20:30] que solemos llamar marco regulatorio.
+[01:20:32] Sí.
+[01:20:32] Una pequeña consulta. ambas leyes,
+[01:20:35] digamos, una supera la otra o son las
+[01:20:37] las dos están vigentes. La 24,065
+[01:20:40] introdujo varias modificaciones a la
+[01:20:42] 1536
+[01:20:44] y un decreto reciente, decreto 450, que
+[01:20:48] este fue dictado el año pasado, volvió a
+[01:20:52] a hacer algunas modificaciones a la 1536
+[01:20:54] y también varias a la 24,65. Así que
+[01:20:58] esas esas tres normas eh son las que
+[01:21:02] digamos hoy están vigentes. La 1536
+[01:21:04] tiene muchos artículos derogados y
+[01:21:06] varios modificados, pero sigue sigue
+[01:21:08] vigente en en aspectos esenciales.
+[01:21:12] Y vamos a ver cuáles son ahora en un en
+[01:21:14] unos minutos. Este el decreto 450.
+[01:21:18] Alguien se preguntará, ¿por qué un
+[01:21:19] decreto mencionado junto con las leyes?
+[01:21:22] Porque es un decreto que tiene un rango
+[01:21:24] equivalente al de ley, porque fue
+[01:21:26] dictado con facultades delegadas por el
+[01:21:28] Congreso al Poder Ejecutivo. Eh, en la
+[01:21:31] ley de bases eh del año 24 se delegó en
+[01:21:34] el poder ejecutivo eso. Yo estoy
+[01:21:36] diciendo algunas cosas que
+[01:21:38] muchas caras son conocidas y este y lo
+[01:21:43] saben de memoria. Esto lo podrían este
+[01:21:45] estar diciendo muchos de ustedes, pero
+[01:21:47] bueno, estamos en una primera clase y
+[01:21:49] algunos quizás no lo tengan tan claro y
+[01:21:51] los que sí lo tienen claro nunca nos
+[01:21:53] viene mal, viste, repasar y y
+[01:21:56] reorganizarte en la cabeza estos
+[01:21:58] conceptos eh elementales. Entonces, ese
+[01:22:01] decreto 450, si bien fue dictado por el
+[01:22:03] poder ejecutivo, modificó leyes.
+[01:22:05] Normalmente un decreto no puede
+[01:22:06] modificar una ley. Hay hay un hay un
+[01:22:09] tema de congruencia de de jerarquía
+[01:22:12] normativa. una ley puede modificar una
+[01:22:14] ley, un decreto, un decreto, pero en
+[01:22:16] este caso al ser una un decreto dictado
+[01:22:19] por facultades delegadas, como podría
+[01:22:20] ser también el caso de un DNU, es otro
+[01:22:22] de los de los mecanismos de excepción,
+[01:22:25] este sí pueden modificar una ley, por
+[01:22:28] supuesto, hay discusiones sobre el
+[01:22:30] alcance con que lo pueda hacer y demás,
+[01:22:31] pero hoy por hoy tenemos eh la ley 1536
+[01:22:35] y 24,065
+[01:22:37] con un texto modificado y ordenado por
+[01:22:40] el decreto 450, que es el marco
+[01:22:42] regulatorio. Entonces, eh vigente.
+[01:22:45] Después hay algunas reglamentaciones.
+[01:22:47] Les digo esto de marco regulatorio
+[01:22:48] porque hay una cuestión terminológica
+[01:22:50] bastante ambigua. A veces se habla de
+[01:22:51] marco regulatorio como normativa general
+[01:22:54] del sector que incluye normas de
+[01:22:56] inferior jerarquía, pero la este
+[01:22:59] acepción, digamos, estricta de marco
+[01:23:00] regulatorio son estas dos leyes con las
+[01:23:02] modificaciones impuestas por por el
+[01:23:04] decreto mencionado. Bueno, dentro de las
+[01:23:07] reglamentaciones, es decir, la norma
+[01:23:09] inmediatamente eh de jerarquía,
+[01:23:11] inmediatamente inferior a la ley, eh más
+[01:23:14] importantes son estas eh eh es del
+[01:23:17] decreto reglamentario 1398 del 92. esta
+[01:23:20] norma reglamentó la 24,65, es decir,
+[01:23:23] empezó a fijar un poco más de pautas de
+[01:23:25] detalle respecto de los de las de las
+[01:23:28] normas más este digamos de de mayor
+[01:23:31] rango dictadas en la ley. Y por debajo
+[01:23:34] de ese decreto 1398,
+[01:23:36] los procedimientos del MEM, así llamados
+[01:23:39] este sintéticamente,
+[01:23:41] que son las normas dictadas por la
+[01:23:43] Secretaría de Energía. Acá ya estamos en
+[01:23:45] un rango, un escalón inferior. Ley de
+[01:23:48] Congreso, decreto del poder ejecutivo y
+[01:23:50] acá resolución de Secretaría de Energía
+[01:23:52] en el marco de esas normas superiores,
+[01:23:55] eh estableciendo los mecanismos de
+[01:23:57] funcionamiento del mercado eléctrico
+[01:23:59] mayorista, normas que están destinadas a
+[01:24:01] quienes actúan como agentes de ese de
+[01:24:04] ese mercado y fundamentalmente a quien
+[01:24:07] coordina y organiza ese mercado que es
+[01:24:09] Camesa, como vamos a verlo después.
+[01:24:11] Perdón, Jancito, un un simple comentario
+[01:24:14] para tener idea de cómo
+[01:24:16] va cambiando el sistema y cómo la
+[01:24:18] reglamentación tiene que ir acompañando
+[01:24:19] ese cambio, los procedimientos ya van
+[01:24:22] por una versión cerca de la 30.
+[01:24:24] Sí, sí, sí. Eh, o sea, 30 versiones
+[01:24:26] desde el año 92 a hoy.
+[01:24:29] Exacto. Ya hace ya hace años que nadie
+[01:24:31] los imprime porque te gastas eh cuatro
+[01:24:33] resmas y al otro día cambian, así que
+[01:24:36] eh
+[01:24:37] querer descargarlo,
+[01:24:38] ¿no? Claro. Sí, sí, sí, pero la verdad
+[01:24:40] que es es más práctico bajarlos
+[01:24:42] directamente de camisa y mirarlos en la
+[01:24:44] pantalla. Em, bueno, y recientemente una
+[01:24:49] resolución de Secretaría de Energía en
+[01:24:50] el marco de ese decreto 450, de las de
+[01:24:54] las instrucciones que ese decreto da a
+[01:24:56] la Secretaría de Energía, que es la
+[01:24:57] autoridad de aplicación de este marco
+[01:24:59] regulatorio, eh dictó la resolución 400
+[01:25:03] de 2025, que estableció modificaciones
+[01:25:06] importantes a a los procedimientos y a
+[01:25:08] las reglas de funcionamiento del
+[01:25:10] mercado. Ya vamos a repasar un poco las
+[01:25:12] principales, pero esa va a ser objeto de
+[01:25:15] clases específicas relacionadas con eso
+[01:25:18] porque la materia compleja y y que
+[01:25:21] requiere tiempo y nosotros acá no
+[01:25:24] tenemos tiempo ni posibilidad de de
+[01:25:26] decir cosas complejas.
+[01:25:29] Ser un chiste.
+[01:25:31] Eh, muy bien. Eh, normas particulares
+[01:25:34] más relevantes. Recién dijimos las que
+[01:25:35] forman, digamos, abarcan al todo el
+[01:25:38] sector eléctrico en general. Hay algunas
+[01:25:40] normas que se refieren a este
+[01:25:42] subsectores particulares, ¿no? Eh, este
+[01:25:45] por empezar energía nuclear. La ley
+[01:25:48] 24,804 del 97 es una ley que básicamente
+[01:25:51] crea los organismos encargados de de
+[01:25:54] estas actividades. El organismo, la
+[01:25:57] autoridad en materia nuclear, que es la
+[01:25:59] este la autoridad regulatoria nuclear,
+[01:26:02] crea la CONA y crea eh la nucleo
+[01:26:05] Eléctrica Argentina Sociedad Anónima,
+[01:26:07] que es la empresa que opera las
+[01:26:08] centrales eléctricas.
+[01:26:13] Después tenemos la normativa específica
+[01:26:14] de generación renovable, que en parte
+[01:26:18] digamos obviamente que todas estas
+[01:26:19] después están alcanzadas por las normas
+[01:26:21] generales que antes mencioné, pero en el
+[01:26:23] caso de las renovables, estas normas
+[01:26:25] crean mecanismos de estímulo a la
+[01:26:28] creación de nueva generación renovable
+[01:26:31] empezando por la de 2006, la ley 26190
+[01:26:34] que luego es modificada por la 27,191 de
+[01:26:38] 2015 con su decreto reglamentario que es
+[01:26:40] este 531 y este y algunas resoluciones
+[01:26:44] de lo la secretaría de aquel momento que
+[01:26:46] tenía esta denominación de Ministerio de
+[01:26:48] Energía y Minería. Eh, en estas leyes,
+[01:26:51] como decía antes, se crean incentivos
+[01:26:53] fundamentalmente de de tipo tributario o
+[01:26:57] de estabilidad tributaria, de
+[01:26:58] estabilidad este cambiaria.
+[01:27:02] Y este bajo estas normas se
+[01:27:05] establecieron algunos programas que
+[01:27:07] implementaron de alguna manera o dieron
+[01:27:10] un cause a la al ejercicio de esos
+[01:27:12] estímulos. en particular mencionado ya
+[01:27:14] por por Eduardo antes el programa
+[01:27:16] Renovar y este donde se licitaron
+[01:27:20] contratos de abastecimiento con el MEM,
+[01:27:22] contratos de largo plazo de 15 años este
+[01:27:24] bajo en virtuos de los cuales se
+[01:27:26] construyeron nuevas centrales para
+[01:27:28] cumplir con esos contratos de
+[01:27:29] abastecimiento y eh
+[01:27:32] y el programa eh eh del mercado a
+[01:27:35] término de energías renovables, el
+[01:27:36] matter, que es un un programa donde a
+[01:27:39] diferencia del otro donde los contratos
+[01:27:41] eran con el conjunto del MEM, por eso
+[01:27:44] llaman contratos de abastecimiento al
+[01:27:45] MEM firmados este por Camesa como
+[01:27:49] representante de ese mercado mayorista.
+[01:27:52] Eh, en el caso del MAT, a diferencia del
+[01:27:55] otro, es es un contrato entre privados o
+[01:27:57] es un mercado de contratos entre
+[01:27:59] privados, eh generadores y grandes
+[01:28:02] usuarios en general, aunque está
+[01:28:03] admitido también la posibilidad de que
+[01:28:05] participen distribuidores.
+[01:28:08] Por último, generación distribuida,
+[01:28:10] también referido a generación de fuentes
+[01:28:12] renovables, pero en este caso generación
+[01:28:14] en dentro de lo que es el sistema de
+[01:28:15] distribución, usuarios de distribución,
+[01:28:18] ley 27,424.
+[01:28:20] Bueno, la mayoría de ustedes seguramente
+[01:28:23] han se han familiarizado con eso, este,
+[01:28:25] con su decreto reglamentario 986. Digo,
+[01:28:27] se han familiarizado porque está muy
+[01:28:29] vinculado al ámbito de distribución y es
+[01:28:31] la ley, el régimen que crea la figura
+[01:28:33] del usuario generador, ¿no? Aquel que
+[01:28:35] puede crear un un sistema de generación
+[01:28:39] en su domicilio para este para
+[01:28:42] autoconsumo y para la inyección de
+[01:28:44] excedentes en la red.
+[01:28:50] Objetivos de la regulación. Bueno, acá
+[01:28:54] eh tenemos una larga lista que incluye
+[01:28:58] los objetivos originales de esta ley.
+[01:29:00] Vamos ahora a referirnos
+[01:29:01] fundamentalmente a la 24,065 porque lo
+[01:29:04] que es estrictamente mercado eléctrico
+[01:29:06] es un concepto que surge a partir de
+[01:29:08] esta ley del año 91 más que de la 1536
+[01:29:12] que organizó el sector en términos
+[01:29:15] jurisdiccionales, definió que era
+[01:29:17] jurisdicción federal, que era
+[01:29:18] jurisdicción provincial, definió qué
+[01:29:20] actividades necesitaban concesión los
+[01:29:22] servicios públicos de transporte y
+[01:29:23] distribución, las las eh la generación
+[01:29:26] hidroeléctrica eh de mayor magnitud y
+[01:29:30] este fijó las las pautas básicas de esas
+[01:29:32] concesiones
+[01:29:34] y hasta ahí llegó. es una organización
+[01:29:36] más bien de tipo eh como les decía,
+[01:29:38] institucional para un sector que estaba
+[01:29:40] mayormente gestionado por entidades
+[01:29:43] estatales.
+[01:29:45] La ley 24,065 es la que, como les decía
+[01:29:48] antes, crea el marco de esa
+[01:29:50] privatización y este establece esta idea
+[01:29:53] del del mercado eléctrico en el que
+[01:29:57] actuarían los agentes privados de las
+[01:30:00] distintos de los distintos segmentos de
+[01:30:01] de la industria que que vamos a a
+[01:30:03] repasar. Entonces, por eso nos referimos
+[01:30:05] ahora fundamentalmente ya a la segunda
+[01:30:07] ley.
+[01:30:09] Y dentro de esos objetivos, bueno,
+[01:30:10] tenemos esta lista y tenemos una lista
+[01:30:12] de objetivos que agrega después el año
+[01:30:14] pasado el decreto 450 que les mencioné
+[01:30:17] antes que modificó esta ley.
+[01:30:21] Si si tuviéramos que decir cuál es el
+[01:30:23] objetivo central de una regulación de de
+[01:30:25] un servicio eléctrico, un sistema
+[01:30:27] eléctrico en país,
+[01:30:30] creo que podríamos [carraspeo]
+[01:30:31] sintetizarlo diciendo que es el acceso a
+[01:30:34] la energía, ¿no? Al final lo que busca
+[01:30:38] el Estado o el regulador, podríamos
+[01:30:41] decir más más filosóficamente una
+[01:30:43] comunidad respecto de un sistema que que
+[01:30:47] le que le que le sirve a esa comunidad,
+[01:30:49] es que todos los miembros de esa
+[01:30:51] comunidad pueden acceder para cubrir sus
+[01:30:53] distintos fines, puedan acceder a ese a
+[01:30:55] ese sistema y a los beneficios que
+[01:30:58] brinda el consumo de la energía
+[01:30:59] eléctrica.
+[01:31:01] Ahora, cuando hablamos de acceso a la
+[01:31:03] energía, a veces se entiende que acceso
+[01:31:05] a la energía es tener red en la puerta
+[01:31:07] de tu casa, pero el concepto de acceso a
+[01:31:10] la energía va bastante más allá, incluye
+[01:31:13] otras consideraciones
+[01:31:15] que completan, digamos, esa la
+[01:31:17] definición de de esto de acceso a la
+[01:31:20] energía. ¿Y en qué consisten esos
+[01:31:23] conceptos? Bueno, por supuesto, lo
+[01:31:26] primero es tener red, es decir, la
+[01:31:28] disponibilidad de la energía es el
+[01:31:30] primer elemento de este concepto de
+[01:31:32] acceso a la energía. Si no hay
+[01:31:34] disponibilidad física de la energía,
+[01:31:36] difícilmente vamos a poder tener acceso
+[01:31:38] a la energía. Pero también incluye otros
+[01:31:40] dos conceptos que tienen que ver con la
+[01:31:43] confiabilidad y calidad de ese
+[01:31:45] abastecimiento. Si yo tengo energía hoy,
+[01:31:46] pero se me corta mañana, tengo pasado,
+[01:31:49] pero se me corta tras pasado, eso se
+[01:31:52] considera que no es un acceso a la
+[01:31:53] energía en las en los términos estrictos
+[01:31:56] en que este una regulación busca de de
+[01:31:59] ese de ese acceso. Entonces aparece ese
+[01:32:02] segundo concepto que es el de la
+[01:32:03] confiabilidad o seguridad de suministro.
+[01:32:05] A veces se utilizan esos esos términos
+[01:32:09] en forma este digamos equivalente,
+[01:32:12] aunque puede haber alguna diferencia.
+[01:32:14] Seguridad de suministro muchas veces se
+[01:32:16] lo relaciona más estrictamente
+[01:32:20] con un concepto que también mencionó
+[01:32:21] Eduardo, que es la dependencia. ¿Qué tan
+[01:32:24] dependiente es un país de de otros
+[01:32:26] países para asegurarse su abastecimiento
+[01:32:28] de energía? un país que eh digamos
+[01:32:32] depende totalmente de suministro
+[01:32:33] extranjero, se dice a veces que tiene
+[01:32:36] una escasa seguridad de suministro en
+[01:32:38] términos de independencia.
+[01:32:41] [carraspeo]
+[01:32:41] Eh, pero en términos más genéricos,
+[01:32:44] seguridad de y confiabilidad de
+[01:32:46] suministros pueden utilizarse eh de
+[01:32:49] manera más o menos este sinónima en
+[01:32:51] cuanto a que es eh se trata de un
+[01:32:55] servicio que eh confiable en cuanto a su
+[01:32:58] continuidad y su calidad este tanto en
+[01:33:03] el en el servicio como en el producto. Y
+[01:33:05] otra distinción que se suele hacer
+[01:33:07] respecto de este esta idea de seguridad
+[01:33:09] de suministro es seguridad a corto plazo
+[01:33:12] y seguridad a largo plazo, ¿no? Es
+[01:33:14] decir, la seguridad a corto plazo es
+[01:33:16] aquella que atiende las las situaciones
+[01:33:19] eventuales de una emergencia, de un de
+[01:33:22] una de una situación climática puntual o
+[01:33:26] de alguna [carraspeo]
+[01:33:26] este interrupción del abastecimiento de
+[01:33:31] de de derivado de una situación
+[01:33:33] específica de un momento.
+[01:33:36] mientras que la seguridad a largo plazo
+[01:33:38] es aquella que atiende a el crecimiento
+[01:33:42] de la demanda y a los cambios de
+[01:33:43] circunstancia que van a condicionar la
+[01:33:46] la calidad y continuidad del
+[01:33:48] abastecimiento en el largo plazo.
+[01:33:51] Por eso vamos a ver acá que muchas veces
+[01:33:53] cuando se habla de los objetivos se
+[01:33:54] habla de objetivos a largo plazo y no es
+[01:33:58] implementa una frase, sino que eso tiene
+[01:34:00] un impacto concreto, por ejemplo, en eh
+[01:34:03] los cálculos de tarifa.
+[01:34:06] E entonces hablaba de ese segundo
+[01:34:09] concepto que es la seguridad de
+[01:34:10] suministro y el tercer concepto es la
+[01:34:12] posibilidad de los usuarios de pagar el
+[01:34:15] servicio y por lo tanto este poder
+[01:34:18] acceder al servicio este mediante ese
+[01:34:21] pago. Es decir, ahí se habla del
+[01:34:22] concepto de asequibilidad, es decir, el
+[01:34:24] servicio tiene que ser asequible para
+[01:34:26] poder llegar a todos. En este punto
+[01:34:28] quizás haya que hacer una distinción
+[01:34:30] entre asequibilidad de el servicio y
+[01:34:33] asequibilidad de la tarifa. No
+[01:34:35] necesariamente
+[01:34:37] para que todos puedan llegar al
+[01:34:39] servicio. La tarifa tiene que ser
+[01:34:41] asequible para todos, sino que hay otros
+[01:34:44] mecanismos posibles para que todos
+[01:34:45] puedan acceder. El más básico es el de
+[01:34:47] los subsidios. Este, y hay otros
+[01:34:50] elementos que también facilitan, como
+[01:34:52] por ejemplo este la las obras hechas por
+[01:34:57] el Estado o hechas este con mecanismos
+[01:35:00] que facilitan el acceso. Por ejemplo,
+[01:35:02] hace un tiempo había un programa para
+[01:35:06] usuarios que situados en redes, en zonas
+[01:35:09] con red de gas, que no se conectan a la
+[01:35:11] red porque no tienen el dinero
+[01:35:13] suficiente para hacer el el la conexión
+[01:35:15] domiciliaria y el recambio de los de los
+[01:35:17] dispositivos internos necesarios para
+[01:35:20] pasar de garrafa a gas de red. Eh,
+[01:35:23] bueno, hubo un programa de estatal que
+[01:35:27] financiaba esas obras. Bueno, es decir,
+[01:35:29] hay distintos mecanismos que puede
+[01:35:30] emplear el regulador para facilitar y
+[01:35:34] hacer asequible el acceso a la energía,
+[01:35:38] que no se trata necesariamente de
+[01:35:40] tarifas. Y vamos a ver después por
+[01:35:41] [carraspeo] qué, porque las tarifas
+[01:35:42] tienen una regulación en cuanto a qué
+[01:35:44] qué elementos se consideran en su
+[01:35:46] cálculo, ¿no?
+[01:35:49] Bueno, dicho esto, todos estos estos
+[01:35:52] estos objetivos de alguna manera se
+[01:35:54] relacionan con ese gran concepto de del
+[01:35:56] acceso a la energía, ¿no? La protección
+[01:35:58] del derecho de los usuarios, la
+[01:35:59] competitividad de los mercados de
+[01:36:01] producción y demanda. ¿Y esto, ¿por qué
+[01:36:02] se relaciona? Bueno, porque el
+[01:36:04] legislador, así solemos decirlos, cuando
+[01:36:07] se estudia derecho y se habla de la
+[01:36:09] intención de una ley, se habla del
+[01:36:11] legislador, ¿no? El legislador
+[01:36:14] consideró al dictar esta ley y más aún
+[01:36:16] con el decreto 450 que la forma más
+[01:36:19] eficiente de que haya acceso a la
+[01:36:21] energía es que haya marcado, es decir,
+[01:36:24] que haya muchos este sujetos que
+[01:36:26] concurran y compitan tanto en el en el
+[01:36:30] segmento de oferta como en el de
+[01:36:31] demanda.
+[01:36:32] Por eso habla de competitividad de los
+[01:36:34] mercados de producción y demanda. Eh,
+[01:36:37] inversión para suministro a largo plazo.
+[01:36:39] La ley busca que haya inversiones en el
+[01:36:41] sistema. Todos sabemos que la
+[01:36:42] electricidad tiene sus fuentes en los en
+[01:36:45] los recursos naturales, como bien
+[01:36:46] aprendimos, pero para para
+[01:36:49] producirse como como energía secundaria,
+[01:36:51] que es la electricidad. E, incluso para
+[01:36:53] tener sistemas de consumo se necesita
+[01:36:55] inversión. Es decir, este, no podemos
+[01:36:59] tener electricidad, ni podemos tener un
+[01:37:00] sistema seguro, asequible, confiable,
+[01:37:03] etcétera, ni podemos tener acceso a la
+[01:37:05] energía si no hay inversión. Por tanto,
+[01:37:07] la inversión es un elemento clave de la
+[01:37:09] regulación y es un elemento clave del
+[01:37:11] desarrollo de del sistema. Y acá la ley
+[01:37:14] es bastante reiterativa en que cuando se
+[01:37:15] habla de de inversión como objetivo, se
+[01:37:17] habla de inversión a largo plazo. Es
+[01:37:19] decir, la inversión que tiene que
+[01:37:21] permitir el funcionamiento del sistema
+[01:37:22] no es solamente la que me permite tener
+[01:37:24] energía. Hoy iba a decir luz, pero ya
+[01:37:27] muchos ingenieros me han retado y ya sé
+[01:37:30] que hay que decir energía eléctrica.
+[01:37:34] Los ingenieros me retan a mí y mi esposa
+[01:37:36] ni hablar.
+[01:37:38] Este, muy bien.
+[01:37:43] Entonces, para se habla de la inversión
+[01:37:46] a largo plazo, es decir, un sistema que
+[01:37:48] tiene que prever cuál es la necesidad
+[01:37:51] futura de la demanda y ir haciendo
+[01:37:54] oportunamente, no tardíamente, los eh
+[01:37:58] las las acciones necesarias, sea con
+[01:38:00] decisiones centralizadas, sea con
+[01:38:02] decisiones descentralizadas, algo que
+[01:38:04] vamos a ver después, eh las cosas
+[01:38:06] necesarias para eh poder asegurar la
+[01:38:09] energía a a esa a esa demanda futura. un
+[01:38:12] problema que un tema que para para para
+[01:38:16] nuestro país siempre es un una cuestión
+[01:38:19] siempre digamos nos los periodos de
+[01:38:22] mayor consumo nos agarra con algún algún
+[01:38:24] apriete en relación con las reservas
+[01:38:26] existentes, la posibilidad de cubrir la
+[01:38:28] demanda en las horas pico, etcétera.
+[01:38:30] Bueno, es es la ley eh marca mucho esto
+[01:38:34] como objetivo a a considerar el libre
+[01:38:37] acceso a redes. Esto es un elemento
+[01:38:40] central de la existencia de un mercado,
+[01:38:43] ¿no? Vamos a ver después la diferencia
+[01:38:45] entre producto y red, pero no puede
+[01:38:48] haber mercado si no hay acceso abierto a
+[01:38:51] las redes. En un sistema eficiente,
+[01:38:54] los agentes de ese del mercado no
+[01:38:56] instala cada uno su red. Sería carísimo
+[01:38:59] que cada uno tuviera que construirse las
+[01:39:02] este infraestructuras fijas necesarias
+[01:39:04] para acceder al sistema, que que cada
+[01:39:06] uno de nosotros tendiera una línea hasta
+[01:39:09] el hasta el hasta este el Chocón, por
+[01:39:12] ejemplo.
+[01:39:14] Entonces
+[01:39:16] se trata de eficientizar el sistema con
+[01:39:19] una red,
+[01:39:21] digamos, gestionada por un solo gestor,
+[01:39:24] una red, me refiero, por supuesto,
+[01:39:27] después hay segmentaciones, hay
+[01:39:28] transporte
+[01:39:30] de de alta tensión, transporte por
+[01:39:32] distribución troncal, distribuidor,
+[01:39:33] etcétera, pero una sola red eh con un
+[01:39:37] solo gestor para abaratar el costo de de
+[01:39:41] del servicio. Pero si esa si hay un solo
+[01:39:43] gestor y una sola red para que haya
+[01:39:45] mercado que supone concurrencia de
+[01:39:47] muchos agentes, los más posibles,
+[01:39:50] es necesario que todos puedan usar esa
+[01:39:52] red. Por lo tanto, ese que es el gestor
+[01:39:55] de esa red, propietario, concesionario,
+[01:39:57] lo que fuera, pero es el que gestiona
+[01:39:58] esa red, tiene que tener la obligación
+[01:40:02] de brindar acceso a esa red a todos los
+[01:40:04] participantes del mercado. No hay
+[01:40:06] mercado sin acceso abierto a las redes.
+[01:40:08] Por tanto, este es un concepto central
+[01:40:10] de la regulación. Juan,
+[01:40:12] valido tanto para transporte como para
+[01:40:14] distribución.
+[01:40:14] Sí. No, perdóname, no sé si lo vas a
+[01:40:16] comentar después, en todo caso me
+[01:40:18] guardo, pero
+[01:40:20] es importante lo que vos comentabas
+[01:40:22] recién de que la red es la
+[01:40:25] materialización del mercado
+[01:40:28] y cuando el legislador reconoce eso, le
+[01:40:31] prohíbe a las empresas que operan la red
+[01:40:35] que sean controladas por alguna de las
+[01:40:36] dos partes del mercado, o por la oferta
+[01:40:39] o por la demanda.
+[01:40:40] Porque si la oferta o la demanda
+[01:40:42] controlase en la empresa de la red, en
+[01:40:44] realidad controla el mercado.
+[01:40:47] Exacto. Y hay un artículo específico de
+[01:40:48] la ley 24065
+[01:40:51] que prohíbe que el sistema de transporte
+[01:40:55] de transmisión eh esté este gestionado
+[01:40:59] por una empresa
+[01:41:01] generadora o distribuidora o de gran
+[01:41:04] usuario de del sistema. se trata de
+[01:41:07] excluir, sobre todo al transporte de esa
+[01:41:10] de esa situación de posible conflicto de
+[01:41:12] intereses. ¿Por qué? Porque si hay una
+[01:41:13] sola red y yo además soy competidor en
+[01:41:16] el mercado del producto, es decir,
+[01:41:18] compito eh en el lado de la oferta o
+[01:41:20] compito en el lado de la demanda,
+[01:41:22] entonces posiblemente quiera darle un
+[01:41:24] uso a esa red que favorezca mi
+[01:41:27] participación en esos mercados del
+[01:41:29] producto. Entonces la la transmisión,
+[01:41:32] como como decía Eduardo, queda fuera y
+[01:41:36] tiene que ser gestionada por un por un
+[01:41:37] sujeto que no tenga control de esos
+[01:41:41] otros agentes. Si no fuera así,
+[01:41:42] tendríamos una suerte de estrecho
+[01:41:44] eléctrico.
+[01:41:45] Claro, [risas] claro. Exacto. Muy bien.
+[01:41:49] [carraspeo][resoplido] E
+[01:41:51] y ese libre acceso, además, tiene que
+[01:41:53] darse en condiciones no
+[01:41:54] discriminatorias. Es decir, si si yo
+[01:41:57] transportista este le doy a mi empresa
+[01:42:00] amiga generadora o distribuidora eh
+[01:42:03] mejores condiciones que a otros, tarde o
+[01:42:05] temprano voy a a a posibilitar la mayor
+[01:42:09] participación de ese amigo mío en en
+[01:42:11] esos mercados en los que compite en
+[01:42:13] detrimento de los otros. Y esto no es
+[01:42:15] teórico, el eh la historia de la energía
+[01:42:20] empezando por la energía, por el por el
+[01:42:22] petróleo, el gas que empezó en Estados
+[01:42:23] Unidos como industria, eh nace con
+[01:42:28] acciones y conductas anticompetitivas
+[01:42:31] vinculadas al transporte. Es decir, cómo
+[01:42:34] cómo se desarrolló una una pequeña
+[01:42:36] dirección, cómo se desarrolló el sistema
+[01:42:38] de de primero de refinación, pero
+[01:42:41] después de producción también del
+[01:42:43] abstream de petróleo en Estados Unidos y
+[01:42:45] quien fue su su gran este impulsor que
+[01:42:49] fue Rockefeller con su estándar oil con
+[01:42:52] acuerdos privilegiados de transporte de
+[01:42:55] trenes. Primero el petróleo empezó
+[01:42:58] transportándose en en tren.
+[01:43:01] llegó a acuerdos con la empresa
+[01:43:03] ferroviaria secretos, que es otro de los
+[01:43:05] aspectos del acceso abierto, implica
+[01:43:07] necesariamente publicidad de la
+[01:43:08] información. acuerdos secretos en los
+[01:43:10] cuales Standar Oil aseguraba un nivel,
+[01:43:15] un volumen de de productos a
+[01:43:17] transportar. Es decir, el transportista
+[01:43:18] se aseguraba un volumen de trabajo muy
+[01:43:21] importante a cambio de descuentos muy
+[01:43:23] importantes en la tarifa de transporte,
+[01:43:25] descuentos que no tenían los
+[01:43:26] competidores de la estándar hoy. De esa
+[01:43:29] manera eh fue fue, digamos, comiéndose a
+[01:43:32] sus competidores, primero comprando
+[01:43:33] todas las refinerías, llevándolos a,
+[01:43:36] digamos, prácticamente a la quiebra a
+[01:43:38] sus competidores y absorbiéndolos
+[01:43:40] fácilmente. lo mismo después con con con
+[01:43:43] los este con los campos de producción
+[01:43:46] y todo gracias a esa posibilidad de
+[01:43:48] controlar el transporte. Por lo tanto,
+[01:43:50] no es un tema teórico de de academia,
+[01:43:52] sino que el transporte es clave para que
+[01:43:55] haya competencia real y sana en los en
+[01:43:57] los mercados y esa no discriminación es
+[01:44:01] es clave. Lo mismo que la información.
+[01:44:02] La información parece siempre como un
+[01:44:04] elemento menor instrumental, pero si no
+[01:44:07] está uno puede saber si hay si hay
+[01:44:09] capacidad. Porque, ¿qué pasa? El libre
+[01:44:11] acceso es libre acceso a la capacidad
+[01:44:14] disponible. Obviamente no se puede hacer
+[01:44:15] magia, es la capacidad disponible la que
+[01:44:18] a la que el gestor del transporte o el
+[01:44:21] gestor de la red para ser más amplios
+[01:44:23] tiene que ofrecer. ¿Y cuál es la
+[01:44:25] capacidad disponible? nadie la sabe,
+[01:44:26] salvo el gestor. Por lo tanto, es una
+[01:44:28] obligación que si no hay información
+[01:44:31] abierta y transparente podría
+[01:44:33] manipularse muy fácilmente. Entonces, la
+[01:44:36] información es un elemento central de
+[01:44:38] este de este tema del libre acceso.
+[01:44:41] Tarifas justas y razonables es otro de
+[01:44:44] los objetivos. Eh, los ingenieros me me
+[01:44:47] dicen, eh, ustedes los abogados escriben
+[01:44:50] justo y razonable. ¿Qué hago? ¿Cómo lo
+[01:44:51] meto en el Excel justo y razonable? No,
+[01:44:53] no, no hay un un este una casilla
+[01:44:57] [risas]
+[01:44:59] eh bueno, que es justo y razonable, por
+[01:45:01] supuesto, con son términos los abogados
+[01:45:03] decimos para para que parezcan más
+[01:45:05] serios, eh jurídicamente indeterminados,
+[01:45:08] perdón, e términos jurídicamente
+[01:45:11] indeterminados que en realidad lo que
+[01:45:13] significa es que te dan una aproximación
+[01:45:15] a la idea, pero después cómo bajar la
+[01:45:18] sala práctica requieren de una
+[01:45:19] evaluación de las circunstancias de cada
+[01:45:22] caso.
+[01:45:23] Eh,
+[01:45:25] es que la la idea se relaciona siempre
+[01:45:27] con la idea de proporcionalidad, es
+[01:45:29] decir, a un determinado a una
+[01:45:32] determinada relación de proporcionalidad
+[01:45:34] entre lo que se da y lo que se recibe.
+[01:45:38] el decreto 450, después esto por
+[01:45:41] supuesto es una pauta general, después
+[01:45:43] hay reglas más específicas que del
+[01:45:46] régimen tarifario, principios tarifarios
+[01:45:48] que fija la ley, que los vamos a
+[01:45:50] repasar, espero, si nos da el tiempo y y
+[01:45:54] las ganas de almorzar que todos
+[01:45:55] crecientemente vamos a ir teniendo.
+[01:45:58] Bueno, el y el el decreto 450 agrega
+[01:46:01] algo. Tarifas justas y razonables en
+[01:46:04] base a costos reales que cubran las
+[01:46:05] necesidades de inversión. ¿Esto a qué
+[01:46:08] viene? viene a cuento de los años en que
+[01:46:10] esta ley rigió formalmente, pero donde
+[01:46:14] estas cosas en la en la en la en la
+[01:46:16] realidad de las tarifas no siempre
+[01:46:18] estuvieron presentes. Eh, entonces por
+[01:46:22] distintas cuestiones, ¿no? De acá podría
+[01:46:24] uno decir, bueno, era la emergencia.
+[01:46:26] Otro podría decir, "No, esto se tendría
+[01:46:27] que haber solucionado así, asá." Pero lo
+[01:46:29] cierto es que el régimen tarifario
+[01:46:31] previsto en la ley en en muchos momentos
+[01:46:34] eh y diría de 2002 en adelante, en la
+[01:46:37] mayor parte de los años, no eh 2002,
+[01:46:40] digo ley 25,561
+[01:46:42] de emergencia de de inicios de 2002 en
+[01:46:46] adelante. Eh, no siempre los principios
+[01:46:49] tarifarios de la ley, o mayormente casi
+[01:46:51] todo el tiempo no se cumplieron. Y
+[01:46:53] entonces el decreto 450 viene como a
+[01:46:55] querer reforzar esto, a decir,
+[01:46:57] acuérdense que esta ley dice que las
+[01:46:59] tarifas tienen que cumplir con ciertas
+[01:47:01] pautas y una de las principales es que
+[01:47:03] cubra los costos. una discusión sobre
+[01:47:05] eso de reales o no, porque hay distintas
+[01:47:07] formas de evaluar los costos de una de
+[01:47:09] una empresa. Algunos buscan real el
+[01:47:11] costo que efectivamente eh tuvo que
+[01:47:14] incurrir una empresa [carraspeo] para
+[01:47:15] prestar el servicio. Otros se basan en
+[01:47:17] empresas modelos eficientes, por lo
+[01:47:19] tanto no necesariamente son los reales,
+[01:47:20] pero sí los más eficientes y deseables.
+[01:47:23] Entonces, pero bien entendida esta
+[01:47:26] frase, quiere apuntar a que sean los
+[01:47:27] costos que efectivamente
+[01:47:30] este conllevan la prestación de un
+[01:47:32] servicio, pues hay aparece la palabra
+[01:47:34] eficiente en otras en otras partes de la
+[01:47:35] ley, entonces podríamos interpretar que
+[01:47:37] es los costos reales eficientes de la
+[01:47:39] prestación de servicio.
+[01:47:42] Em,
+[01:47:44] uso eficiente del sistema relacionado
+[01:47:45] también con lo que decíamos antes de la
+[01:47:47] red. El uso eficiente del sistema
+[01:47:49] abarata el costo final de la energía y
+[01:47:51] significa que si hay capacidad
+[01:47:53] disponible en la red tiene que usarse
+[01:47:54] esa capacidad. Significa que si hay una
+[01:47:57] inversión que nos trae una producción o
+[01:48:00] un o una transmisión más eficiente de
+[01:48:02] energía versus otra que es más
+[01:48:04] ineficiente, hay que priorizar lo
+[01:48:06] eficiente. Esto, estas estos dilemas de
+[01:48:09] qué inversión priorizar se ha dado mucho
+[01:48:12] en a lo largo de los años porque a veces
+[01:48:15] aparecen otros objetivos también
+[01:48:16] loables. Por ejemplo, podríamos
+[01:48:19] mencionar la idea de que haya generación
+[01:48:21] renovable en todo el país. Entonces,
+[01:48:24] bueno, en el NOA la solar, en el NEA la
+[01:48:27] biomasa, en la cordillera solar y y
+[01:48:31] eólica, en la costa eólica, etcétera.
+[01:48:34] Pero claro, a veces
+[01:48:37] la no todas las tecnologías tienen los
+[01:48:39] mismos costos de de finales de la del
+[01:48:42] producto. Entonces, bueno, eso y pero no
+[01:48:46] está mal que haya una idea eh digamos
+[01:48:49] así federal en cuanto a la distribución
+[01:48:50] geográfica, bueno, que se prioriza y que
+[01:48:52] no. Es toda una discusión. La ley apunta
+[01:48:55] en principio a que el a que el sistema
+[01:48:58] sea lo más eficiente posible para que la
+[01:48:59] energía sea lo más barata posible, más
+[01:49:01] segura posible y y haya haya acceso. Los
+[01:49:04] otros objetivos, bueno, se pueden
+[01:49:06] también perseguir eh quizás con otras
+[01:49:09] herramientas distintas a las a las
+[01:49:11] previstas en esta ley que pasan más bien
+[01:49:14] por lo tarifario, ¿no? Por por la
+[01:49:16] remuneración de los agentes privados.
+[01:49:19] Ed, te noto muy callado y no sé si es
+[01:49:21] que estoy hablando muy rápido.
+[01:49:22] No,
+[01:49:24] ya ten un siete asegurado.
+[01:49:26] Siete, no, pero ahora empiezan las
+[01:49:28] macanas y empieza así.
+[01:49:29] [risas]
+[01:49:31] Bueno, estos son objetivos adicionales
+[01:49:32] fijados en eh por el decreto 450, es
+[01:49:35] decir, incorporados a la ley por el
+[01:49:36] decreto 450,
+[01:49:39] eh que en general no es que no que
+[01:49:42] estuvieran ausentes en la en la versión
+[01:49:44] original de la ley, pero lo que hace el
+[01:49:47] decreto es reforzarlos o subrayarlos de
+[01:49:49] alguna manera. Libertad de elección de
+[01:49:50] los consumidores en tanto sea posible,
+[01:49:53] es decir, que todos los usuarios puedan
+[01:49:55] elegir su proveedor de energía. Dijimos
+[01:49:56] antes que hay una sola red, pero va por
+[01:50:00] medio de esa red podría varios
+[01:50:02] proveedores ofrecer energía a los
+[01:50:05] demandantes. Eso pasa hoy con un
+[01:50:07] segmento de la demanda que son los
+[01:50:09] grandes usuarios que pueden elegir su
+[01:50:11] proveedor a pesar de que la red sea una
+[01:50:13] sola. Eh, la ley lo que busca eso, que
+[01:50:17] esa posibilidad que tienen los grandes
+[01:50:19] usuarios se extienda a todos los
+[01:50:20] usuarios en general. E y eso está desde
+[01:50:23] el comienzo. Acá está reforzado. En
+[01:50:26] otros países esto ocurre. Un un este
+[01:50:29] usuario residencial de electricidad o de
+[01:50:32] gas puede elegir su proveedor y sin
+[01:50:35] mucha dificultad con aplicaciones en el
+[01:50:38] celular. Este, bueno, eso todavía no lo
+[01:50:41] tenemos desarrollado acá, pero es uno de
+[01:50:44] los objetivos de la ley.
+[01:50:45] ¿Puedo puedo hacer un aporte, Juancito,
+[01:50:48] en relación [carraspeo] con lo que le
+[01:50:49] comentaba recién el doctor Carasal?
+[01:50:51] Eh,
+[01:50:53] históricamente
+[01:50:55] aquel actor del sector eléctrico que
+[01:50:58] tenía la relación directa con los
+[01:51:00] usuarios ha sido el distribuidor
+[01:51:03] y siempre se vio como una entidad
+[01:51:05] indisoluble
+[01:51:07] lo que era la prestación del servicio a
+[01:51:10] través de la red, que como bien decía
+[01:51:12] Juan, es un monopolio natural. ¿Qué
+[01:51:14] significa eso? que es la forma más
+[01:51:17] económica para la sociedad de prestar el
+[01:51:18] servicio, sería mucho más caro duplicar
+[01:51:21] la red y triplicarla físicamente.
+[01:51:23] Entonces,
+[01:51:26] se considieron unívoca como como una
+[01:51:28] entidad unívoca el uso de la red con la
+[01:51:31] comercialización.
+[01:51:33] Lo que hace este principio es decir, no
+[01:51:37] tienen por qué ser con unidades como una
+[01:51:38] unidad unívoca. La red es un monopolio
+[01:51:41] natural, está sujeta a concesión y tiene
+[01:51:43] tarifas reguladas. El uso de la red,
+[01:51:47] la comercialización del producto que va
+[01:51:50] a través de la red no tiene por qué ser
+[01:51:52] un monopolio natural.
+[01:51:54] Es más, puede hacer que varios actores
+[01:51:57] compitan en ofrecer ese fluido eléctrico
+[01:52:00] y con eso lograr un menor costo para el
+[01:52:02] usero final. Entonces, esta es la
+[01:52:05] separación que con la cual insiste el
+[01:52:08] decreto 450,
+[01:52:10] que ya estaba en la 24065, pero no se
+[01:52:14] logró implementar en cuando dice lograr
+[01:52:18] estaba para libertad de elección de los
+[01:52:19] consumidores en tanto sea posible.
+[01:52:21] apunta esto. Reforcemos que la
+[01:52:24] comercialización no tiene por qué ser
+[01:52:26] parte del monopolio de uso de la red,
+[01:52:29] perdón, de gestión de la red, no de uso.
+[01:52:31] Claro. Claro.
+[01:52:32] Y es un concepto que no está presente
+[01:52:34] solo en el sistema o en la regulación
+[01:52:35] eléctrica, sino en en muchas actividades
+[01:52:38] de redes, si no todas. Es decir, está
+[01:52:41] también en gas, [carraspeo] en
+[01:52:42] telecomunicaciones, donde creo que se
+[01:52:44] inicio eh esta idea eh de los a veces
+[01:52:49] llamados activos esenciales, ¿no? Es
+[01:52:51] decir, aquellos que eh tienen que
+[01:52:54] ponerse al servicio de terceros este
+[01:52:57] para que para que exista un mercado
+[01:52:59] competitivo. este en trenes también,
+[01:53:03] incluso ha habido proyectos acá para que
+[01:53:06] en algunos casos este se han
+[01:53:08] implementado para que una una
+[01:53:11] vía sea utilizado por trenes de
+[01:53:14] distintos este gestores.
+[01:53:17] Eh, así que bueno, ese es una un
+[01:53:20] aspecto. Este, hoy los transportistas y
+[01:53:22] distribuidores de alguna manera ya
+[01:53:25] brindan este servicio en el caso de
+[01:53:27] distribuidores llamado función técnica
+[01:53:28] de transporte en en el sentido de que
+[01:53:31] son titulares de la vamos al caso de
+[01:53:33] distribución, son titulares del servicio
+[01:53:35] de distribución, son los encargados de
+[01:53:39] de de operar la red, pero por tratarse
+[01:53:42] el usuario de uno de los usuarios
+[01:53:44] facultados para comprarle a un tercero
+[01:53:46] distinto del distribuidor el producto,
+[01:53:50] eh, Entonces, el distribuidor tiene que
+[01:53:51] limitarse a brindar y poner a
+[01:53:54] disposición la red, por supuesto, siendo
+[01:53:56] remunerado por ese servicio,
+[01:53:58] pero permitiendo que el paso de una de
+[01:54:02] un digamos de un volumen de energía
+[01:54:04] eléctrica que en el cual digamos no
+[01:54:07] participa este como parte de la
+[01:54:10] transacción, ¿no? Es decir, no es ni
+[01:54:12] comprador ni vendedor, pasa la ve pasar.
+[01:54:15] Ahí va a dejar esto ahí, pero
+[01:54:18] bien.
+[01:54:20] Diversificación eficiente de la matriz
+[01:54:22] energética. Vamos a a pasar rápido
+[01:54:25] porque si no no vamos a llegar. Medición
+[01:54:26] inteligente, gestión de la demanda. van
+[01:54:28] a ver estas cosas seguramente en varias
+[01:54:30] clases. Hay hay hay un tema muy
+[01:54:32] interesante relacionado con lo que
+[01:54:33] acabamos de decir de de de los sistemas
+[01:54:37] de distribución más modernos eh donde eh
+[01:54:40] y de mercado mayorista también donde las
+[01:54:44] situaciones
+[01:54:45] eh de escasez o de potencial escasez
+[01:54:49] pueden resolverse no solo con
+[01:54:51] inversiones para generar más oferta, que
+[01:54:54] siempre son costosas y que la sociedad
+[01:54:56] de alguna manera las paga. No solo
+[01:54:59] entonces por ese lado, sino también con
+[01:55:01] reducción de la demanda, con reducción
+[01:55:03] de los volúmenes requeridos por los
+[01:55:05] usuarios, eh de tal manera de eh
+[01:55:08] evitarse inversiones, sobre todo cuando
+[01:55:10] esas inversiones son necesarias solo
+[01:55:12] para cubrir picos y quedan ociosas
+[01:55:14] después en gran parte del tiempo.
+[01:55:16] Entonces, muchas veces se eh o se ha
+[01:55:19] empezado cada vez con mayor este
+[01:55:22] intensidad en otros países ya hace
+[01:55:23] tiempo a utilizar esta herramienta de la
+[01:55:26] demanda, gestionar la demanda y
+[01:55:29] administrar la demanda para eh para
+[01:55:32] hacer un uso más eficiente de la red y
+[01:55:34] evitar esas grandes capacidades que por
+[01:55:37] un tiempo prolongado pueden quedar
+[01:55:38] ociosas.
+[01:55:40] Eh, nosotros eh tenemos ya un régimen
+[01:55:43] relacionado con esta gestión de la
+[01:55:45] demanda eh a nivel del mercado
+[01:55:47] mayorista. Obviamente se necesitan
+[01:55:50] sistemas físicos que lo respalden porque
+[01:55:53] tienen que ver con la voluntad de los
+[01:55:55] consumidores de consumir menos para
+[01:55:58] posibilitar una un descenso de ese pico
+[01:56:01] y una y evitar una restricción general
+[01:56:03] del suministro. Ese consumir menos,
+[01:56:06] obviamente si es un corte eh del del
+[01:56:09] suministro, no es voluntario. Lo que se
+[01:56:12] pretende acá es que sea voluntario, que
+[01:56:14] los los consumidores avisen cuando el
+[01:56:17] sistema se los pide. Yo acepto consumir
+[01:56:20] menos. Y eso, ¿por qué lo hacen? porque
+[01:56:22] se les ofrece una remuneración por esa
+[01:56:24] por esa disminución de su consumo.
+[01:56:26] Bueno, todo esto depende de también de
+[01:56:31] herramientas tecnológicas que permitan
+[01:56:33] esa esa regulación y esa y y esa gestión
+[01:56:36] y en particular la medición inteligente
+[01:56:39] es una de ellas.
+[01:56:42] El objetivo, la ley ahora incluye el
+[01:56:44] objetivo de medición inteligente,
+[01:56:46] específicamente y gestión de la demanda.
+[01:56:49] el comercio internacional de la energía.
+[01:56:51] Cuando hablamos de seguridad de
+[01:56:52] suministro,
+[01:56:54] eh hablábamos de cómo un país puede
+[01:56:58] adoptar las medidas necesarias para
+[01:56:59] garantizarse a Gracias. E
+[01:57:05] para garantizarse que el servicio va a
+[01:57:07] ser continuo y este y de calidad. Y una
+[01:57:12] de esas eh una de esas herramientas que
+[01:57:14] tiene el sistema y que tiene el
+[01:57:16] regulador es la integración energética
+[01:57:19] regional y la en definitiva el
+[01:57:21] intercambio internacional de energía.
+[01:57:26] El intercambio internacional de energía,
+[01:57:28] algunos, a ver, vamos a poner estos
+[01:57:30] términos. Argentina tiene en sus leyes,
+[01:57:34] tenía más más subrayado hasta hace un
+[01:57:37] tiempo la idea del autoabastecimiento de
+[01:57:39] energía. abastecimiento lo implica
+[01:57:41] básicamente que las necesidades de de la
+[01:57:45] demanda sean sean satisfechas con lo
+[01:57:49] producido en el país, la energía
+[01:57:50] producida en el país. Y esto estaba en
+[01:57:51] la ley de hidrocarburos 17,319,
+[01:57:54] en la ley de gas y en la ley eléctrica.
+[01:57:58] Eh,
+[01:58:00] pero claro, a veces
+[01:58:03] el autoabastecimiento
+[01:58:05] puede conspirar contra un abastecimiento
+[01:58:07] seguro o incluso más barato, porque
+[01:58:11] muchas veces el el el la producción
+[01:58:13] local no alcanza. Muchas veces para que
+[01:58:15] la producción local aumente es necesario
+[01:58:18] inversiones que después la demanda local
+[01:58:20] no llega a a a digamos
+[01:58:24] a ser suficiente para proveer el retorno
+[01:58:27] de esa inversión. Vamos al caso del gas.
+[01:58:30] Siempre se habla de lo el llamado swing
+[01:58:33] del del consumo de gas, ¿no? En en el
+[01:58:36] gas está muy relacionado con la con
+[01:58:38] calificación. Entonces, el consumo
+[01:58:40] residencial, el consumo total del país,
+[01:58:42] influido por lo residencial aumenta
+[01:58:44] muchísimo en invierno y vuelve a bajar
+[01:58:47] en en en primavera, queda bastante bajo
+[01:58:51] en verano y vuelve a subir, permanece
+[01:58:54] allí en en otoño y vuelve a subir en
+[01:58:56] invierno. Y así todos los años tenemos
+[01:58:58] esa esa variación muy grande de la del
+[01:59:02] consumo del consumo de gas. Eh,
+[01:59:06] la producción de gas necesaria para
+[01:59:08] cubrir ese pico de invierno eh requiere
+[01:59:11] grandes inversiones
+[01:59:13] que muchas veces el consumo promedio del
+[01:59:15] año no llega del país no llega a repagar
+[01:59:20] por ese descenso tan fuerte que se da en
+[01:59:23] el consumo durante los las temporadas de
+[01:59:25] de menos frío. Entonces, ¿qué pasa? A
+[01:59:29] veces es necesario entonces promover la
+[01:59:31] exportación de gas para que la inversión
+[01:59:35] sea su sea este repagable con con las
+[01:59:39] ventas de esa de esa nueva producción.
+[01:59:42] Entonces, bueno, aparece entonces la
+[01:59:44] necesidad de exportar. Bueno, pero si
+[01:59:46] exportamos el gas, ¿qué pasa con el
+[01:59:48] consumo de invierno que es tan alto?
+[01:59:49] ¿Qué hacemos con ese gas?
+[01:59:51] lo dejamos en el país y entonces el
+[01:59:53] exportador no puede comprometer
+[01:59:56] contratos de largo plazo o contratos en
+[01:59:58] firme, como se llamar, de exportación,
+[01:59:59] porque se lo vamos a cortar en el
+[02:00:01] invierno para el uso local. Se dan estos
+[02:00:04] dilemas. Bueno, entonces, ¿qué hacemos?
+[02:00:06] Promovemos la inversión local, pero no
+[02:00:09] podemos asegurar la exportación
+[02:00:10] necesaria para el repago de esa
+[02:00:12] inversión. Entonces ahí aparecen esas,
+[02:00:14] como les decía antes, eh esa tensión
+[02:00:17] entre objetivos de autoabastecimiento,
+[02:00:19] de abastecimiento más económico, más
+[02:00:21] seguro y de inversión. Sí, sí. Una
+[02:00:24] consulta.
+[02:00:28] yo estaba estaba acordado que hace un
+[02:00:30] par de año
+[02:00:32] compraba Bolivia y terminaba vendiendo a
+[02:00:37] compraba gas compraba gas a Bolivia y
+[02:00:40] terminaba en determinado época de Chile.
+[02:00:44] A ver, eh
+[02:00:47] la exportación a Chile es muy anterior
+[02:00:49] al a la a la etapa de importación fuerte
+[02:00:53] de Argentina desde Bolivia.
+[02:00:56] eh
+[02:00:57] la esa exportación importante a Chile y
+[02:01:00] y digamos de volúmenes importantes y y
+[02:01:02] en firmes circunstantes eh se
+[02:01:05] interrumpió en el año a partir del año
+[02:01:08] 2004 por la reducción de la producción y
+[02:01:12] a partir de ahí Argentina empezó a
+[02:01:14] acudir más a para cubrir sus necesidades
+[02:01:16] a recursos importados como el gas de
+[02:01:18] Bolivia más tarde el gas licuado, el gas
+[02:01:21] del de los barcos. Eh,
+[02:01:25] en ese esquema, Argentina prácticamente
+[02:01:26] no exportaba o exportaba volúmenes muy
+[02:01:29] chicos cuando había sobrantes en el
+[02:01:31] país, que puede ser que puntualmente
+[02:01:33] hubiera sobrantes
+[02:01:35] aún aún estando eh con algún volumen
+[02:01:38] importado. Puede haberse dado alguna
+[02:01:40] situación, pero más bien puntual. Es
+[02:01:42] decir, no había eh en cuando
+[02:01:46] comenzó la etapa de grandes
+[02:01:47] importaciones de Bolivia, las
+[02:01:49] exportaciones de Argentina a Chile en
+[02:01:51] volúmenes importantes y en forma firme o
+[02:01:54] constante ya se había este interrumpido.
+[02:01:58] No sé si estoy respondiendo bien tu tu
+[02:02:00] pregunta, pero puede haberse dado una
+[02:02:01] situación puntual. Sí, porque a veces
+[02:02:02] los intercambios en un día puntual,
+[02:02:05] muchas veces ha pasado que este Santiago
+[02:02:08] de Chile necesita más gas para el
+[02:02:09] servicio público y es una exportación si
+[02:02:12] se quiere de de contingencia o de
+[02:02:14] emergencia y se hace una exportación
+[02:02:16] puntual de un volumen limitado mientras
+[02:02:18] a la vez estamos importando. Eso sí ha
+[02:02:21] pasado, pero más de así como te digo, no
+[02:02:24] sistemáticamente, sino este situaciones
+[02:02:27] puntuales, ¿no? De la misma manera
+[02:02:29] también nosotros eh muchas veces estamos
+[02:02:31] exportando o gas o electricidad y para
+[02:02:34] alguna situación de emergencia nos nos
+[02:02:36] este no nos vemos obligados a importar.
+[02:02:39] Pero el tema y tu pregunta puntual, no
+[02:02:42] sé si querías preguntar algo más.
+[02:02:43] No, no era eso, eso y me estaba
+[02:02:45] acordando que hace 15 días puede ser que
+[02:02:46] hubo una además un pico de energía
+[02:02:48] eléctrica que se tuvo que
+[02:02:51] sal salvar desde Uruguay. Puede ser.
+[02:02:53] Sí, sí, sí. es muy habitual porque
+[02:02:54] tenemos una interacción interconexión y
+[02:02:57] una interacción fuerte con con Uruguay.
+[02:02:59] Tenemos una central compartida con ellos
+[02:03:01] que es este salto grande, ¿no? Y tenemos
+[02:03:04] un una como una regularidad de
+[02:03:07] intercambios con Uruguay, con Brasil,
+[02:03:09] eh, y en menor medida con con Bolivia,
+[02:03:12] con Chile, con Paraguay, por supuesto,
+[02:03:13] muy fuerte y con Yasirad de por medio
+[02:03:15] también.
+[02:03:16] E
+[02:03:19] bueno, esto se lo decía simplemente para
+[02:03:20] dejarles el título. El tema
+[02:03:22] autoabastecimiento versus el tema
+[02:03:24] integración regional o comercio
+[02:03:26] internacional de energía a veces son son
+[02:03:30] cuestiones que pueden entrar en en
+[02:03:31] tensión. Es decir, si vamos para un lado
+[02:03:34] este tipo Sabana corta, destapamos el
+[02:03:37] otro objetivo. Pero la ley en esta con
+[02:03:41] estas reformas confía más en un
+[02:03:45] intercambio internacional fluido
+[02:03:48] como forma de integrarse al mundo, de
+[02:03:51] obtener divisas, diríamos objetivos
+[02:03:54] quizás no estrictamente energéticos,
+[02:03:56] pero al en el ámbito energético como
+[02:03:59] como una forma de lograr inversión.
+[02:04:02] y por lo tanto lograr más oferta,
+[02:04:06] abaratamiento de del producto, etcétera,
+[02:04:08] y seguridad de suministro, porque sobre
+[02:04:10] todo con los países donde hay
+[02:04:11] complementariedad, ¿no? Es decir, por
+[02:04:13] ejemplo, Brasil tiene una un parque
+[02:04:15] esencialmente hidroeléctrico, Argentina
+[02:04:17] tiene mayormente térmico, allá de como
+[02:04:21] nos mostró Eduardo, la matriz es
+[02:04:22] diversificada, pero con gran componente
+[02:04:25] térmico. Por lo tanto, a veces Brasil se
+[02:04:27] queda sin agua, le damos nosotros
+[02:04:29] energía térmica. Este, Argentina
+[02:04:33] necesita importación, viene de Brasil
+[02:04:35] quizás en periodos de de alta
+[02:04:36] hidraulicidad, energía más barata que la
+[02:04:38] que estamos teniendo acá. Así que el
+[02:04:40] intercambio regional es algo que que
+[02:04:42] puede traer muchos beneficios y la ley
+[02:04:44] enfatiza eso, liberando además de
+[02:04:47] algunas restricciones que tenía la
+[02:04:49] normativa para ese intercambio
+[02:04:51] internacional, sobre todo para la
+[02:04:52] exportación.
+[02:04:54] sigue teniendo eh que ser autorizada por
+[02:04:56] la secretaría, pero eh la ley busca eh
+[02:05:01] hacerlo más fluido y de hecho hoy hasta
+[02:05:03] hoy en la el comercio internacional está
+[02:05:06] en caso de electricia centralizado en
+[02:05:09] camesa como único exportador importación
+[02:05:12] importador posible desde los años
+[02:05:14] después de la ley de emergencia de 2002.
+[02:05:16] Eh, y ahora se vuelve a abrir esta
+[02:05:19] posibilidad a los agentes del mercado,
+[02:05:21] es decir, un gran usuario o un generador
+[02:05:23] podrían entrar como parte de un contrato
+[02:05:26] de exportación, importación
+[02:05:28] em como lo era antes de esta ley de
+[02:05:30] 2002, ¿no?
+[02:05:33] Y finalmente, un gran un gran objetivo
+[02:05:35] que es el autosuficiencia
+[02:05:36] económicofinanciera del sistema
+[02:05:38] eléctrico argentino, que viene a
+[02:05:40] reforzar lo que ya surgía de la ley
+[02:05:41] original, porque si la ley dice las
+[02:05:43] tarifas tienen que cubrir los costos,
+[02:05:45] entonces la consecuencia lógica es que
+[02:05:47] es autosuficiente des el punto de vista
+[02:05:49] económico y financiero. Pero bueno, como
+[02:05:50] sabemos que eso no ocurrió en muchos
+[02:05:53] momentos, la ley vuelve a plantear esto
+[02:05:55] como un objetivo central, es decir, lo
+[02:05:58] pone como un elemento sin el cual
+[02:06:02] difícilmente haya seguridad de
+[02:06:03] suministro.
+[02:06:08] Eh, espérate,
+[02:06:12] se me queda 90%.
+[02:06:16] Eh, pero me parece que igual vamos a ver
+[02:06:20] acá lo lo introductorio, que era un poco
+[02:06:22] el objetivo de la clase, porque después
+[02:06:24] va a haber otras que que van a
+[02:06:26] profundizar en cada uno de estos temas.
+[02:06:28] ¿Qué cosas importantes trajeron estas
+[02:06:30] leyes? Y sobre todo esto lo trajo la ley
+[02:06:32] 15336.
+[02:06:34] O sea, que son conceptos ya para
+[02:06:37] nosotros eh bastante añejos, pero que no
+[02:06:39] existían hasta ese momento eh y que eran
+[02:06:42] fundamentales para que se pudieran
+[02:06:44] desarrollar inversiones en el sector.
+[02:06:48] En primer lugar, la equiparación de la
+[02:06:50] energía eléctrica con el concepto
+[02:06:51] jurídico de cosa. En el código civil y
+[02:06:55] comercial ahora eh hay un concepto que
+[02:06:58] es la cosa, hay un concepto que es el de
+[02:07:01] los bienes
+[02:07:02] que es más genérico, que incluye
+[02:07:04] derechos que no son cosas y está el
+[02:07:06] concepto de cosa que es un bien
+[02:07:09] tangible, este eh un bien eh material
+[02:07:15] susceptible de comercio, susceptible de
+[02:07:19] valor, susceptible de ser objeto de
+[02:07:21] actos de comercio. La energía no se
+[02:07:25] sabía que era, no estaba calificada
+[02:07:26] jurídicamente, pero estaba discutido si
+[02:07:28] podía entrar o no en ese concepto de
+[02:07:30] cosa por esa característica de material.
+[02:07:33] Eh, y eso, ¿qué consecuencias tenía?
+[02:07:36] Primero, que no se no estaba claro que
+[02:07:38] podía ser objeto de comercio. Segundo,
+[02:07:40] que hasta incluso las figuras del
+[02:07:42] derecho penal podían ser de dudosa
+[02:07:43] aplicación. Por ejemplo, el hurto son
+[02:07:46] tiene por objeto cosas. Y entonces si
+[02:07:48] vos te robabas energía de la red, no
+[02:07:51] estaba claro que estabas hurtando o
+[02:07:53] estabas entrando en una figura este
+[02:07:56] tipificada penalmente. Entonces esto
+[02:07:59] pasó a ser eh este concepto pasó a ser
+[02:08:01] aplicable a la energía eléctrica. H eh
+[02:08:05] después lo lo se se incorporó esto al
+[02:08:08] Código Civil y ahora lo dice el actual
+[02:08:11] Código Civil y Comercial. eh y la
+[02:08:14] calificación jurídica de la venta de
+[02:08:17] energía mayorista como acto comercial de
+[02:08:19] derecho privado. Esto vino en la ley del
+[02:08:21] 60, lo reforzó la 24,065,
+[02:08:25] eh, y lo vuelven a reforzar estas normas
+[02:08:27] nuevas del decreto 450. los la venta de
+[02:08:30] energía en bloques se le llamaba en
+[02:08:32] aquella época, ¿no? Este que es el
+[02:08:34] concepto de de compra y venta mayorista.
+[02:08:37] Eh,
+[02:08:39] es un acto comercial de derecho privado.
+[02:08:42] ¿A qué viene esta calificación? ¿Es pura
+[02:08:45] puramente académica de los abogados? No,
+[02:08:47] lo que viene a decir es acá las partes
+[02:08:50] tienen libertad de actuación y ellos
+[02:08:52] pueden decidir como en cualquier acto de
+[02:08:54] comercio a cuánto vendo, cómo vendo,
+[02:08:57] etcétera.
+[02:08:59] Por lo tanto, ¿qué qué significa eso?
+[02:09:00] Que las regulaciones públicas no
+[02:09:03] interfieren en esas decisiones de las
+[02:09:05] partes de un acuerdo comercial. Ahora,
+[02:09:07] esto al final es tan así, ¿no? No es en
+[02:09:10] términos absolutos así. No, no digo por
+[02:09:13] los las situaciones en donde la la
+[02:09:16] normativa se desvió de estos principios,
+[02:09:18] que eso es un caso aparte, digamos, por
+[02:09:21] emergencia o por lo que sea. En algunos
+[02:09:22] casos las normativas dijeron, "Bueno, no
+[02:09:24] me importa lo que sea, acto jurídico,
+[02:09:26] cosas, no sé, pero eh este el precio va
+[02:09:29] a ser este." Eso ha pasado y mucho, pero
+[02:09:31] refiriéndonos a a la a la situación
+[02:09:34] regular, tampoco esta conceptualización
+[02:09:37] de la libertad contractual eh hay que
+[02:09:40] entenderla en términos absolutos o con
+[02:09:42] un alcance absoluto este o ilimitado. El
+[02:09:46] la misma ley dice que esta actividad se
+[02:09:48] presta en el marco de las
+[02:09:49] reglamentaciones, es decir, hay libertad
+[02:09:52] en un marco. dentro de ese marco que es
+[02:09:54] amplio y y realmente brinda espacio de
+[02:09:56] libertad, e se puede pactar libremente,
+[02:10:01] pero este después nos vamos a encontrar
+[02:10:04] con que esos actos comerciales tienen
+[02:10:06] que pasar por un coordinador de la red
+[02:10:09] porque si no este si no hubiera una
+[02:10:11] coordinación el despacho de esa energía
+[02:10:14] eh podría complicar el funcionamiento de
+[02:10:16] todo el sistema. tiene que pasar por una
+[02:10:18] administración al menos eh informada al
+[02:10:22] al coordinador de la red, etcétera,
+[02:10:24] etcétera, y tiene que cumplir con
+[02:10:25] ciertos parámetros técnicos eh que
+[02:10:27] permita que los haga compatibles con el
+[02:10:30] funcionamiento de la red. Es decir,
+[02:10:32] menciono algunos, pero en definitiva el
+[02:10:33] concepto que nos tiene que quedar es que
+[02:10:35] son actos comerciales sujetos a un marco
+[02:10:38] de reglamentaciones que deben cumplirse.
+[02:10:42] Segmentación de la industria, generación
+[02:10:44] transporte y distribución. lo van a ver
+[02:10:45] muchas veces y la mayoría ya estará
+[02:10:47] familiarizado con esto. Eh, me da un
+[02:10:52] poco de pena no poder este profundizar
+[02:10:54] porque siempre hay cosas interesantes
+[02:10:56] para para recordar. Al menos lo que
+[02:10:58] podría decir acá es que se agrega con la
+[02:11:00] nueva con el nuevo decreto eh en la
+[02:11:03] figura del almacen del almacenador. La
+[02:11:06] ley lo dice almacenista, no sé por qué
+[02:11:08] eligieron esa palabra. Eh, pero este es
+[02:11:12] un nuevo sujeto que participa del
+[02:11:14] mercado eléctrico mayorista. ¿Y a cuento
+[02:11:17] de qué? cuento de de que la tecnología
+[02:11:19] nos trae este nuevo recurso, ¿no? Es
+[02:11:21] decir, con los años cuando cuando
+[02:11:24] Eduardo me enseñó en las primeras armas,
+[02:11:27] una de las características del sistema
+[02:11:28] es que la energía eléctrica no se podía
+[02:11:29] almacenar y eso determinaba la
+[02:11:32] configuración de todo el sistema, ¿no?
+[02:11:34] tenía que estar configurado el sistema
+[02:11:35] de forma tal que cuando uno prendiera
+[02:11:38] este la luz hubiera un generador en ese
+[02:11:41] momento otorgando, poniendo en la red
+[02:11:44] energía que yo estaba consumiendo en el
+[02:11:46] instante, porque si no este no no
+[02:11:50] iba a ser posible eh satisfacer esa
+[02:11:53] demanda. Bueno, hoy la tecnología, si
+[02:11:55] bien el almacenamiento existía ya, pero
+[02:11:57] no en términos comercialmente
+[02:11:59] explotables a nivel de un sistema
+[02:12:00] nacional, el almacenamiento ha ido
+[02:12:02] ganando terreno tecnológicamente y a
+[02:12:04] nivel de costos sobre todo este de forma
+[02:12:06] tal que hoy ya es un recurso importante
+[02:12:08] y en algunos sistemas en el exterior eh
+[02:12:12] es un elemento
+[02:12:14] de de digamos una participación muy
+[02:12:16] fuerte en la oferta de energía este de
+[02:12:20] de esa de esa área, ¿no? Bueno, acá ha
+[02:12:23] empezado, como seguramente muchos de
+[02:12:24] ustedes saben, a
+[02:12:27] incorporarse elementos de
+[02:12:28] almacenamiento. Hubo una licitación de
+[02:12:30] camisa para el GBA, ahora una otra
+[02:12:33] licitación de camesa para otras regiones
+[02:12:35] del país, ¿no?
+[02:12:38] Comercializador es una figura de,
+[02:12:40] digamos, de intermediación en en la
+[02:12:42] parte comercial, no genera ni consume,
+[02:12:44] sino que compra y vende para terceros.
+[02:12:47] Bueno, en definitiva, hay una distinción
+[02:12:50] muy fuerte que la es la la explicó muy
+[02:12:52] bien Eduardo entre el producto y los
+[02:12:54] servicios de red. El producto tiene que
+[02:12:57] ver con la actividad de generación de de
+[02:12:59] la energía eléctrica. El producto es la
+[02:13:00] electricidad barra potencia, pero
+[02:13:03] simplifiquemos diciendo energía
+[02:13:05] eléctrica e eh generación entonces como
+[02:13:10] la actividad destinada a a producir ese
+[02:13:16] esa energía eléctrica
+[02:13:18] que está calificada como actividad de
+[02:13:20] interés general y y que se comercializa
+[02:13:24] mediante actos regidos por el derecho
+[02:13:26] privado. En principio libremente
+[02:13:28] contratos libremente negociados. pero
+[02:13:30] sujeto a reglamentaciones. Mientras que
+[02:13:31] el servicio de red está este dado por
+[02:13:35] los las actividades de transporte y
+[02:13:37] distribución,
+[02:13:39] está calificado como servicio público, a
+[02:13:41] diferencia de la generación que que no
+[02:13:43] que que no lo es. eh por esta este
+[02:13:47] concepto de monopolio natural que este
+[02:13:51] la ley considera que la red este digamos
+[02:13:55] reviste, es decir, una monopolio
+[02:13:57] natural, una actividad donde la
+[02:13:58] existencia de un solo prestador es más
+[02:14:00] económica que la existencia de más de un
+[02:14:02] de un prestador.
+[02:14:05] Como por lo tanto hay una hay un
+[02:14:07] monopolio, entonces la regulación es más
+[02:14:09] intensa y la para para evitar abusos de
+[02:14:12] esa de esa posición monopólica. Y la
+[02:14:17] forma más intensa de la regulación en
+[02:14:19] nuestro sistema es la calificación de
+[02:14:21] una actividad como servicio público que
+[02:14:23] conlleva como consecuencia que el Estado
+[02:14:26] se hace titular de esa actividad. es es
+[02:14:28] el es el único que digamos que puede eh
+[02:14:32] digamos es el único titular de la
+[02:14:34] actividad en términos de que es el que
+[02:14:36] el que decide y dispone sobre esa
+[02:14:38] actividad eh y puede otorgarla a
+[02:14:42] terceros para su gestión eh mediante
+[02:14:46] algún acto de habilitación como puede
+[02:14:47] ser un contrato de concesión em
+[02:14:51] reservándose la regulación y el control
+[02:14:53] de la actividad porque nunca deja de ser
+[02:14:54] de su titularidad, lo cual lo hace
+[02:14:57] también corresponsable de el
+[02:14:59] funcionamiento del del sistema. Eh,
+[02:15:03] bien,
+[02:15:05] esto ya está dicho. La regulación de
+[02:15:08] cada una de estas de estos segmentos
+[02:15:11] depende de un montón de de de
+[02:15:13] condiciones ya de detalle que no tenemos
+[02:15:16] tiempo de mencionar, pero por decir
+[02:15:18] alguna
+[02:15:20] de en relación a la generación y
+[02:15:22] teniendo en cuenta la la normativa
+[02:15:23] actual, sobre todo la resolución 400,
+[02:15:26] particularidades que inciden en la
+[02:15:28] regulación de un generador. Depende de
+[02:15:30] qué tecnología sea su central, si es
+[02:15:32] fósil, si es nuclear, si es nuclear, hoy
+[02:15:34] por hoy es del Estado únicamente, pero
+[02:15:36] térmica fósil, si es hidroeléctrica
+[02:15:39] concesionada ahora o concesionada antes,
+[02:15:41] eh si es renovable, de eso depende la
+[02:15:44] remuneración, las las los productos que
+[02:15:47] puede comercializar o no comercializar.
+[02:15:48] Por ejemplo, renovable no puede
+[02:15:50] comercializar potencia, no no se le
+[02:15:52] remunera la potencia. eh este eh y cada
+[02:15:57] una de ellas tiene un mecanismo de
+[02:15:58] remuneración distinto.
+[02:16:00] Un comentario muy breve respecto de la
+[02:16:02] generación hidro porque es es
+[02:16:04] concesionable y todo el resto no. Por lo
+[02:16:06] que dijimos hoy, las centrales
+[02:16:09] hidroeléctricas no tienen como principal
+[02:16:11] objetivo a la generación sino el control
+[02:16:13] de crecida. Entonces, la concesión tiene
+[02:16:16] que acompañar ese procedimiento. Muy
+[02:16:19] bien el punto.
+[02:16:21] [carraspeo] Definitiva, el uso eléctrico
+[02:16:24] de generación eléctrica de estas de
+[02:16:25] estos de estos embalses, eh,
+[02:16:29] digamos conviven con otros usos que en
+[02:16:31] muchos casos fueron los que originaron
+[02:16:33] como el del riego, por supuesto, el
+[02:16:34] control de crecida, control de
+[02:16:35] inundaciones, riego, este, turismo,
+[02:16:38] etcétera, ¿no?
+[02:16:41] propiedad de la central. También depende
+[02:16:43] si la central es privada, si es del
+[02:16:44] Estado, este, si es binacional. Cada una
+[02:16:48] tiene un régimen diferencial o aspectos
+[02:16:51] diferenciales dentro del régimen
+[02:16:52] general.
+[02:16:54] El tiempo de inicio de sueración, de su
+[02:16:56] operación, como la nueva normativa busca
+[02:16:59] nueva inversión para, digamos, crear
+[02:17:03] ampliar el parque de generación, hoy por
+[02:17:05] hoy muy ajustado respecto de las
+[02:17:07] necesidades de la demanda. Bueno,
+[02:17:10] distingue y promociona la instalación de
+[02:17:12] nueva generación y otorga beneficios o
+[02:17:16] abre más oportunidades de interacción en
+[02:17:18] el mercado a quienes hayan instalado una
+[02:17:21] nueva central de generación y la este
+[02:17:24] pongan en operación después del primero
+[02:17:26] de enero del 25, que es la fecha límite
+[02:17:29] que se fijó. eh la gestión de
+[02:17:32] combustible,
+[02:17:34] si la si el generador asume generadores
+[02:17:38] térmicos, ¿no?, que usan combustible
+[02:17:39] para generar energía, asume la gestión
+[02:17:41] del combustible, es decir, compra
+[02:17:43] combustible, se asegura el
+[02:17:44] abastecimiento futuro, contrata la
+[02:17:47] capacidad de transporte de gas, contrata
+[02:17:49] los barcos que tengan que venir si se
+[02:17:51] trata de combustible importado. Bueno,
+[02:17:52] si asume esa gestión, entonces también
+[02:17:55] ese generador tiene algunos beneficios
+[02:17:57] adicionales o este condiciones de más
+[02:18:01] beneficiosas para la participación en el
+[02:18:02] mercado. ¿Y esto por qué? Porque hoy por
+[02:18:05] hoy la gestión del combustible está
+[02:18:06] centralizada en camesa o hasta hace unos
+[02:18:08] meses centralizada 100% en camesa y esta
+[02:18:13] nueva regulación trata de salir de ese
+[02:18:16] mecanismo de centralización.
+[02:18:18] Eh, transporte y distribución, servicios
+[02:18:21] públicos. Ya vimos lo del monopolio
+[02:18:22] natural, la titularidad estatal. Bueno,
+[02:18:25] más o menos ya esto lo fuimos
+[02:18:27] mencionando y vamos a ir
+[02:18:30] a
+[02:18:32] acá hay algunos algunas páginas
+[02:18:33] relacionadas con el servicio público
+[02:18:35] tanto de transporte como de distribución
+[02:18:37] que no tenemos tiempo de ver acá.
+[02:18:38] Algunas cosas de tarifa ya las dijimos.
+[02:18:41] Este, pero querría ir
+[02:18:44] a algo de lo que es estrictamente
+[02:18:46] mercado.
+[02:18:48] Cuando se habla de mercado eléctrico es
+[02:18:50] un término genérico que no no alude a un
+[02:18:52] concepto específico de la regulación. Es
+[02:18:55] la interacción entre la oferta de la
+[02:18:56] demanda de de electricidad. Si vamos a
+[02:19:00] las a la en ese bajo ese concepto amplio
+[02:19:03] tenemos por un lado las transacciones
+[02:19:05] mayoristas, ¿no?, que se dan en el
+[02:19:07] denominado mercado eléctrico mayorista y
+[02:19:09] el mercado que podría llamarse
+[02:19:11] minorista, en algunos lugares lo llaman
+[02:19:13] minorista. Acá no es muy usual llamarlo
+[02:19:16] mercado minorista, pero es la venta a
+[02:19:18] los usuarios finales que realizan los
+[02:19:20] distribuidores. Ese esa venta del
+[02:19:22] distribuidor a los usuarios propios eh
+[02:19:26] no se da como parte del mercado
+[02:19:28] mayorista, sino que es eh la venta eh
+[02:19:30] este minorista.
+[02:19:33] Como dijimos antes, hay un objetivo del
+[02:19:35] marco regulatorio de que cada vez más
+[02:19:38] segmentos de usuarios eh puedan eh
+[02:19:42] participar en un mercado libre como es
+[02:19:44] el mercado mayorista, donde los
+[02:19:45] compradores le compran a a los
+[02:19:47] generadores con mayor libertad y en
+[02:19:49] algunos casos con con libertad de
+[02:19:53] de de elegir al proveedor.
+[02:19:57] El mercado mayorista está compuesto por
+[02:19:59] dos mercados, dos formas de de o dos
+[02:20:03] ámbitos de actuación dentro de ese
+[02:20:04] mercado, el mercado spot y el mercado a
+[02:20:06] término. El mercado spot son las
+[02:20:09] transacciones eh instantáneas
+[02:20:13] con con precios horarios que se va que
+[02:20:16] va fijando el coordinador del mercado,
+[02:20:17] que es Camesa, de acuerdo a ciertas
+[02:20:19] pautas que vamos a tratar de ver
+[02:20:21] brevemente.
+[02:20:28] Y el mercado a término es un contr es un
+[02:20:30] mercado de contratos a largo plazo. Hm.
+[02:20:33] donde eh
+[02:20:35] en el caso anterior, en el despot se
+[02:20:38] compra a un pool, el comprador compra
+[02:20:40] del pool sin identificar a qué
+[02:20:42] comprador, a qué vendedor le está le
+[02:20:44] está comprando la energía, sino que está
+[02:20:45] comprando al que está a al que está
+[02:20:48] despachando en ese momento en la red,
+[02:20:50] los que están despachando en ese momento
+[02:20:51] en la red de acuerdo al al despacho que
+[02:20:54] realiza Camesa o que coordina Camesa.
+[02:20:57] Mientras que en el mercado de término la
+[02:20:59] relación es bilateral. Un un comprador
+[02:21:03] contrata con un vendedor con nombre de
+[02:21:05] apellido. Es un contrato entre gentes. E
+[02:21:08] eso no significa necesariamente que la
+[02:21:10] energía que se entrega para cumplir con
+[02:21:13] ese contrato haya sido generada por esa
+[02:21:15] por ese sujeto vendedor. ¿Por qué?
+[02:21:17] Porque la energía va a la red y los
+[02:21:19] electrones se mezclan. Término jurídico
+[02:21:22] se mezclan. este
+[02:21:25] y entonces obviamente no es
+[02:21:27] identificable, pero sí es sí se puede
+[02:21:30] identificar si el generador inyectó esa
+[02:21:32] energía necesaria en la red tal como se
+[02:21:35] había comprometido en el contrato y si
+[02:21:37] el eh demandante de la energía este la
+[02:21:42] tomó de la red tal como estaba pactado.
+[02:21:46] Entonces ahí están esos dos mercados.
+[02:21:48] Hay mucho para decir de de ambas cosas,
+[02:21:50] pero ya lo verán en otras clases. ¿Y qué
+[02:21:53] productos se comercializan? Acá necesito
+[02:21:55] ayuda eh técnica, energía y potencia.
+[02:21:58] Mira, lo voy a decir primero, como lo
+[02:22:00] diría mi abuela, ya no está, eh, pero
+[02:22:04] básicamente
+[02:22:05] la energía eléctrica es el cabudal, la
+[02:22:08] cantidad de energía eléctrica que se
+[02:22:10] genera o se o se consume, mientras que
+[02:22:12] la potencia es la capacidad que se
+[02:22:15] consume en un periodo de tiempo, ¿no?
+[02:22:16] Mientras que la capacidad la potencia es
+[02:22:18] la capacidad para generarla en un
+[02:22:20] instante. Pero seguramente eso hay una
+[02:22:22] forma mucho mejor de decirlo,
+[02:22:23] ¿no? No, está está bueno. Y digo, es
+[02:22:25] más, los que tenemos la rama de la
+[02:22:29] ciencia dura como la ingeniería y que
+[02:22:31] tenemos un pensamiento bastante lineal,
+[02:22:33] me incluyo. Hoy por hoy me cuesta
+[02:22:35] diferenciar por qué voy a comercializar
+[02:22:37] la energía distinto de la potencia. Si
+[02:22:39] en la realidad, como dice Juan, la
+[02:22:42] potencia es la energía en un instante de
+[02:22:44] tiempo o la energía es la potencia en un
+[02:22:47] intervalo de tiempo. Pero bueno, lo
+[02:22:49] cierto es que han imaginado esta
+[02:22:51] diferenciación en los contratos como un
+[02:22:54] objetivo más para buscar la posibilidad
+[02:22:58] de que haya más inversión en generación.
+[02:22:59] Exacto. Exacto. Eh, se han dado en los
+[02:23:03] en los cursos se dan 1 ejemplos de estas
+[02:23:04] cosas. La la la canilla es es la
+[02:23:07] capacidad y el agua que pasa por ahí es
+[02:23:09] la energía. Entonces, ¿qué tan qué tan
+[02:23:12] ancha es la canilla? Es que tan grande
+[02:23:14] es la capacidad y y si si según esa
+[02:23:17] capacidad el tiempo que esté abierta la
+[02:23:20] la canilla va va a determinar la
+[02:23:22] cantidad de agua que salió. En algún
+[02:23:24] curso a mí me dijeron, porque la
+[02:23:25] potencia se paga por separado de la
+[02:23:26] energía. En un curso me dijeron, "Cuando
+[02:23:28] vos pedís un taxi y lo tenés esperando,
+[02:23:32] tenés que pagar la espera, la
+[02:23:33] disponibilidad de la disponibilidad de
+[02:23:35] la potencia, esa capacidad que está
+[02:23:37] disponible, pero no se está usando, se
+[02:23:39] paga porque hay una inversión hecha en
+[02:23:41] esa en esa capacidad y después cuando
+[02:23:43] empieza el viaje pagas de otra manera,
+[02:23:46] pero también lo pagas y este bueno,
+[02:23:48] distintos distintas analogías para una
+[02:23:52] para un concepto que que hay que
+[02:23:53] entender y por qué esta diferenciación
+[02:23:56] se hace acá porque cada uno tiene su
+[02:23:58] forma de remuneración, cada uno tiene un
+[02:24:00] mercado distinto. Ahora se crea el
+[02:24:02] mercado a término de la energía y el
+[02:24:05] mercado a término de la potencia como
+[02:24:06] mercados separados, cada uno con sus
+[02:24:09] reglas.
+[02:24:10] Sí. El único, perdón, Juanito, el único
+[02:24:11] comentario que tal vez podríamos hacer
+[02:24:13] es que la regulación de contratos de la
+[02:24:15] 24065
+[02:24:17] estaba más en línea con el concepto
+[02:24:19] físico y esto está más en línea con el
+[02:24:22] concepto comercial. Claro, claro.
+[02:24:25] Exactamente. En en [carraspeo]
+[02:24:28] términos comerciales, la remuneración de
+[02:24:30] la energía viene a cubrir los costos
+[02:24:32] variables de la de la producción de la
+[02:24:34] energía. Básicamente, combustibles en el
+[02:24:36] caso de las térmicas, personal para
+[02:24:38] operación y mantenimiento. Y en el caso
+[02:24:40] de la potencia, la remuneración viene a
+[02:24:42] cubrir los costos fijos que está
+[02:24:43] básicamente dado por el equipamiento de
+[02:24:45] generación, ¿no? Es decir, la central y
+[02:24:47] sus unidades de generación.
+[02:24:51] Em.
+[02:24:54] La infraestructura física, ya voy
+[02:24:56] terminando. ¿Cuál es la infraestructura
+[02:24:57] física del MEM? ¿Sobre qué eh plataforma
+[02:25:01] física opera el MEM? Bueno, la
+[02:25:04] denominación de la regulación es el
+[02:25:07] SADI, el sistema argentino de
+[02:25:09] interconexión.
+[02:25:10] E
+[02:25:12] qué qué compone el SADI? ¿Cómo está
+[02:25:15] compuesto el SADI? Hay dos definiciones
+[02:25:18] en los procedimientos, una más amplia y
+[02:25:19] otra eh más acotada. La más amplia dice
+[02:25:22] que es el conjunto de instalaciones de
+[02:25:24] generación, transporte y distribución
+[02:25:26] interconectados en todo el país. Todo
+[02:25:29] ese conjunto de instalaciones conforman
+[02:25:31] el SADI. Después hay otra definición más
+[02:25:33] vinculada estrictamente a lo al al
+[02:25:35] transporte, la acota, el SAD, a las
+[02:25:37] instalaciones de transporte en alta
+[02:25:39] tensión y regional, el de las
+[02:25:41] distribuidoras por el transportista por
+[02:25:44] distribución troncal.
+[02:25:48] Bien, los de dónde
+[02:25:52] dónde se conecta cada gente del MEM a
+[02:25:55] ese SADI, en los puntos de conexión que
+[02:25:57] se llaman nodos, ¿no? Nodos, nodos de
+[02:25:59] generación,
+[02:26:00] nodos de demanda, etcétera. cada uno.
+[02:26:03] Después la la existencia de este
+[02:26:05] concepto de nodo es también incide en
+[02:26:09] los precios de la energía, [carraspeo]
+[02:26:11] eh porque obviamente la el precio final
+[02:26:15] de la energía no solo tiene que ver con
+[02:26:17] el con la oferta del productor, sino
+[02:26:20] también con el costo de transporte y el
+[02:26:21] transporte. A diferencia de la
+[02:26:23] distribución que se pagan, cada usuario
+[02:26:26] paga eh en forma, digamos, individual
+[02:26:30] dentro de su factura, el servicio de
+[02:26:32] distribución, el transporte se paga
+[02:26:34] centralizadamente a través de Camesa
+[02:26:37] como parte de las transacciones del
+[02:26:38] mercado mayorista. Entonces, ese esa
+[02:26:42] sistema de remuneración del transporte
+[02:26:44] eh se basa en esta en en esta idea de
+[02:26:47] nodos o puntos de conexión h que
+[02:26:50] determina las distancias y determina eh
+[02:26:54] este aspectos de la de la regulación,
+[02:26:57] ¿no? De la remuneración de los de los
+[02:27:00] transportistas.
+[02:27:02] Voy rápido y digo lo más lo más básico
+[02:27:03] ya para para terminar. Finalmente, casi
+[02:27:06] finalmente, eh, coordinación del MEM.
+[02:27:10] ¿Quién coordina el MEM? CAMESA. ¿Qué
+[02:27:12] significa coordinar el MEM? Bueno, hay
+[02:27:14] una coordinación técnica y una
+[02:27:15] coordinación administrativa, digamos. La
+[02:27:18] coordinación técnica tiene que ver con
+[02:27:20] el llamado despacho de cargas. Había un
+[02:27:22] una
+[02:27:23] un departamento de la empresa We Energía
+[02:27:25] que se llamaba Despacho Nacional de
+[02:27:27] Cargas y con ese mismo nombre CAMESA
+[02:27:29] heredó la función de coordinar el
+[02:27:32] despacho de carga, es decir, el despacho
+[02:27:33] de los volúmenes de energía necesarios
+[02:27:35] para cubrir la la demanda.
+[02:27:39] Eso lo perdón Juancito, lo que se
+[02:27:40] determina se denomina, [carraspeo]
+[02:27:41] perdón, en la regulación OED, organismo
+[02:27:44] encargado del despacho.
+[02:27:45] Organismo encargado del despacho.
+[02:27:46] Exactamente. Así lo llama. Así lo llama
+[02:27:48] la normativa. Eh, y la coordinación
+[02:27:51] administrativa, que es la que decíamos
+[02:27:53] antes de administrar el mercado
+[02:27:54] eléctrico mayorista, administra las
+[02:27:56] transacciones, etcétera. El despacho
+[02:27:57] físico lo hace bajo un este un criterio
+[02:28:02] fijado por la regulación, que es el del
+[02:28:04] orden económico, el despacho económico
+[02:28:06] se le llama, por el cual se despacha
+[02:28:09] primero la generación más económica, más
+[02:28:10] barata, por su eficiencia, por su
+[02:28:13] tecnología, etcétera. Y este se va a
+[02:28:15] medida que la demanda va requiriendo
+[02:28:17] mayores volúmenes de energía, se van
+[02:28:19] despachando en orden de mérito de de esa
+[02:28:23] eficiencia o del menor costo para para
+[02:28:26] el sistema.
+[02:28:27] E eso determina también el costo total
+[02:28:30] del sistema y determina de acuerdo a la
+[02:28:33] al régimen original determina la
+[02:28:34] remuneración de todos los generadores.
+[02:28:37] Hoy por hoy no determina la remuneración
+[02:28:39] de todos los generadores, pero vamos
+[02:28:41] camino nuevamente a eso, lo que se llama
+[02:28:43] el sistema de costo marginal, por el
+[02:28:45] cual el última la última unidad
+[02:28:46] despachada determina la remuneración de
+[02:28:49] todos los anteriores también, aún siendo
+[02:28:51] más económicos.
+[02:28:56] actúa bajo funciones regladas por la
+[02:28:58] Secretaría de Energía y ha tenido con el
+[02:29:01] correr de los años este otros roles que
+[02:29:03] se le fueron incorporando a la luz de
+[02:29:04] normas de emergencia y demás como
+[02:29:06] centralizar contratos de abastecimiento
+[02:29:08] que dejaron de ser entre partes privadas
+[02:29:11] o entre agentes y pasaron a hacer
+[02:29:13] contratos con Camesa, actuando Camesa
+[02:29:15] como representante digamos de la demanda
+[02:29:17] del MEM por indicación de la Secretaría
+[02:29:20] de Energía. este ha centralizado la
+[02:29:23] gestión de combustibles también con la
+[02:29:24] idea de al centralizar eficientizar o
+[02:29:26] abaratar y administrar de alguna manera
+[02:29:30] los recursos escasos económicos que eh
+[02:29:33] que existían para la compra de
+[02:29:35] combustibles. Bueno, y otras que no hay
+[02:29:37] tiempo de de mencionar es una sociedad
+[02:29:38] sin fines de lucro, una sociedad anónima
+[02:29:40] sin fines de lucro. un caso rarísimo
+[02:29:42] porque las sociedades anónimas bajo la
+[02:29:43] ley de sociedades comerciales en esencia
+[02:29:45] tienen fines de lucro, pero acá se lo
+[02:29:46] creo con ese formato para darle
+[02:29:48] independencia.
+[02:29:49] Eh, y pero lo cierto es que Camesa no no
+[02:29:53] compra ni vende energía para sí, siempre
+[02:29:54] actúa por terceros y
+[02:29:57] y bien, no tiene fines de lucro. Está su
+[02:30:00] su sus este acciones están distribuidas
+[02:30:04] entre las asociaciones que representan a
+[02:30:06] los distintos segmentos de la industria,
+[02:30:08] generadores, transportistas,
+[02:30:09] distribuidores y segmento que representa
+[02:30:12] la a una parte de la demanda que
+[02:30:13] participa en el MEM, que son los grandes
+[02:30:15] usuarios.
+[02:30:18] pasó por etapas de descentralización
+[02:30:19] inicial, centralización y ahora
+[02:30:21] volviendo a la descentralización con un
+[02:30:23] montón de de cuestiones que no tenemos
+[02:30:25] tiempo. Bueno, creo que lo demás
+[02:30:29] era interesante. No voy a decir que no
+[02:30:32] me da un poco de lástima no por decirlo,
+[02:30:34] pero eh ha llegado el final del tiempo,
+[02:30:37] así que todo creo que va a ser dicho en
+[02:30:40] en otras clases porque es era preliminar
+[02:30:43] y me fijé en el temario y y todo iba a
+[02:30:46] ser parte de alguna clase particular
+[02:30:48] donde lo iban a profundizar, así que
+[02:30:50] creo que lo general está dicho. Perdón,
+[02:30:52] Edward, que abré tan rápido que no te
+[02:30:53] dejé ni espacio. No,
+[02:30:54] no, no, no, pero todo bien. Está subido
+[02:30:57] esto
+[02:30:58] sí va estar subido.
+[02:31:00] Solamente un cortito aporte final. En lo
+[02:31:03] que bien explicaba Juan recién, Camesa,
+[02:31:07] según la filosofía inicial de la 2465 y
+[02:31:10] que ahora se está retomando, tiene dos
+[02:31:12] grandes roles de actuación. Uno como
+[02:31:15] operador del sistema a través del OED y
+[02:31:18] el otro para manejar la parte comercial.
+[02:31:20] Lo del OD está bastante claro. La parte
+[02:31:22] comercial,
+[02:31:24] el mejor ejemplo que le podemos dar para
+[02:31:26] que entiendan qué debería hacer Comesa,
+[02:31:28] que no siempre lo hizo, es actuar como
+[02:31:31] un administrador de consorcio. ¿Qué hace
+[02:31:33] el administrador de consorcio? Le cobra
+[02:31:36] los consorcistas a los propietarios y le
+[02:31:38] paga a los proveedores de bienes y
+[02:31:39] servicio.
+[02:31:41] En muchos momentos, entre la 24065
+[02:31:45] y ahora, eso se perturbó.
+[02:31:50] y Camesa o no cobraba todo lo que tenía
+[02:31:52] que cobrar y por lo tanto no pagaba todo
+[02:31:54] lo que tenía que pagar o tenía que hacer
+[02:31:56] el artilugio para ver cómo lo pagaba o
+[02:31:58] el Estado tenía que venir el subsidio de
+[02:32:00] lo que no se recaudaba de los
+[02:32:02] consumidores, que a su vez no se
+[02:32:04] recaudaba porque los consumidores no
+[02:32:06] podían tener una tarifa que les
+[02:32:07] permitiera pagar. Bueno, todo eso son
+[02:32:10] las distorsiones que fueron ocurriendo
+[02:32:11] del 2002 hasta ahora y que en esta nueva
+[02:32:15] regulación, esta revisión de la
+[02:32:17] regulación, en realidad no es nueva, es
+[02:32:19] una revisión, vuelve a retomar ese rol.
+[02:32:22] Entonces recuerden camesa, si uno se lo
+[02:32:24] quiere ver conceptualmente, dos cosas:
+[02:32:27] operar el sistema, planificar la
+[02:32:29] operación y ejecutarla y manejar la
+[02:32:32] parte comercial. Y la parte comercial
+[02:32:34] como un administrador de consorcio le
+[02:32:36] tiene que cobrar a los que consumen y le
+[02:32:38] tiene que pagar a los que producen.
+[02:32:39] Primero le cobran los que consumen,
+[02:32:40] después le pagan los que producen con
+[02:32:42] diferencia de pocos días. Si no funciona
+[02:32:45] de esa forma, empieza a haber ruido y
+[02:32:48] vaya si lo hubo.
+[02:32:50] Bueno, creo que Juan se merece,
+[02:32:53] [aplausos]
+[02:33:03] ¿no? Por favor, a ustedes por por
+[02:33:04] escucharnos.

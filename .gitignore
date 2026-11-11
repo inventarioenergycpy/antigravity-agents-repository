@@ -39,6 +39,9 @@ temp_video_staging/
 *.m4a
 *.webm
 docs/Cursos/**/diapositivas/
+docs/Cursos/**/*.jpg
+docs/Cursos/**/*.png
+docs/Cursos/**/*.jpeg
 
 # Enlaces y junctions a repositorios externos de PROTELEM-EPEC
 docs/PROTELEM/facturacion-reverse-engineering/

@@ -1,0 +1,3861 @@
+[00:00:26] Buen día. ¿Cómo están? Espero que todos
+[00:00:30] bien. Bueno, vamos a comenzar.
+[00:00:34] Es la clase 11. Vamos a arrancar con
+[00:00:37] régimen de calidad, de servicio de
+[00:00:39] producto, distribuidoras en etapa de
+[00:00:41] régimen,
+[00:00:43] eh distribuidoras en etapa de régimen
+[00:00:45] moderado o exceptuadas y el régimen de
+[00:00:48] sanciones y penalizaciones.
+[00:00:50] Un poco avanzamos con Patricia Lozano
+[00:00:53] los otros días eh en la presentación de
+[00:00:55] lo que es el subanexo D contrato de
+[00:00:58] concesión, así que hoy vamos a ahondar
+[00:01:01] eh en ese suboanexo.
+[00:01:04] nos van a acompañar
+[00:01:07] el doctor Sergio Fernández,
+[00:01:10] es abogado, es egresado de la
+[00:01:12] Universidad Nacional de La Plata,
+[00:01:14] realizó una especialización en derecho
+[00:01:16] de la regulación económica en la
+[00:01:18] Universidad Austral. En cuanto a su
+[00:01:20] actividad laboral, se desempeñó en
+[00:01:22] materia energética en el área legal de
+[00:01:24] coordinación general de la privatización
+[00:01:28] de SEBA y desde el año 97, desde
+[00:01:32] comienzos de de los SEBA, e está allí.
+[00:01:36] Primero integró la gerencia de procesos
+[00:01:38] regulatorios, luego ascendió a jefe del
+[00:01:41] área de organización y procedimientos y
+[00:01:43] desde el año 2018 es gerente de procesos
+[00:01:47] regulatorios del organismo de control.
+[00:01:51] Y también va a estar el ingeniero Pablo
+[00:01:53] San Miguel. Es ingeniero industrial
+[00:01:55] egresado de la Universidad Nacional de
+[00:01:57] La Plata, es ingeniero laboral por la
+[00:01:59] Universidad Tecnológica Nacional. Está
+[00:02:02] cursando la maestría en energía del
+[00:02:04] SEARE
+[00:02:06] y ha realizado innumerables cursos
+[00:02:08] vinculados a la materia y a su
+[00:02:10] profesión. En cuanto a la experiencia
+[00:02:12] laboral, Pablo integró el directorio del
+[00:02:15] Oceva, fue gerente de control de
+[00:02:17] concesiones de Oceva y en el ámbito de
+[00:02:19] la subsecretaría de energía tuvo
+[00:02:21] distintas funciones y tareas como el
+[00:02:23] seguimiento de obras eléctricas y
+[00:02:24] actualmente es asesor en la dirección
+[00:02:27] provincial de energía.
+[00:02:29] En algún momento su historia laboral fue
+[00:02:31] jefe comercial de la cooperativa de
+[00:02:33] Valcarce y ejerció distintas actividades
+[00:02:36] como consultor y auditor como
+[00:02:38] profesional independiente. También se
+[00:02:40] destaca como docente de diversos
+[00:02:42] seminarios o materias de
+[00:02:44] especializaciones, posgrados dictados en
+[00:02:46] la UTN, Facultad Regional de La Plata.
+[00:02:50] Así que hechas las presentaciones,
+[00:02:53] gracias a los dos.
+[00:02:56] Así que bueno, arrancamos con ellos. Va
+[00:02:58] a arrancar Pablo y después Sergio
+[00:03:01] y no es fácil de explicar en poquito
+[00:03:03] tiempo. Eh, por lo tanto, bueno, les
+[00:03:06] pido esa consideración que si hay alguna
+[00:03:09] pregunta que en el momento no da el
+[00:03:11] tiempo para responderla,
+[00:03:13] eh, que me la hagan por mail y yo con
+[00:03:15] todo gusto ahondaré en los detalles y se
+[00:03:18] las contestaré. Así que bueno, voy a voy
+[00:03:21] a empezar a compartir.
+[00:03:23] Si no se ve bien, me avisan, por favor.
+[00:03:34] Ahí se ve bien.
+[00:03:38] Lo que sale.
+[00:03:38] Viene con un poquito delay.
+[00:03:41] Ahora sí. Perfecto.
+[00:03:44] Bueno, muy bien. Vamos a empezar
+[00:03:46] entonces a entender un poco eh el
+[00:03:48] régimen de control desde dónde inicia
+[00:03:54] el régimen de control. eh da inicio en
+[00:03:57] el decreto reglamentario 120 del 97, que
+[00:04:01] posteriormente en el 2004 fue derogado
+[00:04:03] por el nuevo decreto 2479
+[00:04:06] en el cual define las normas de calidad
+[00:04:08] del servicio público por medio del su
+[00:04:10] anexo de ese régimen de control eh se
+[00:04:14] instituyó como una aplicación general a
+[00:04:16] todos los distribuidores del servicio
+[00:04:19] público de energía eléctrica de
+[00:04:21] distribución.
+[00:04:23] Sin embargo, más adelante se observó que
+[00:04:26] los mercados de los distribuidores eran
+[00:04:28] distintos entre sí. Había mucha
+[00:04:31] ruralidad, había pocos usuarios en
+[00:04:35] distribuidoras muy pequeñas, por lo
+[00:04:37] tanto requería un diseño distinto de
+[00:04:42] control y ese nuevo diseño o esas
+[00:04:45] contemplaciones se fue reconocido, se
+[00:04:47] tomó en cuenta por medio del decreto
+[00:04:49] provincial 615 del 2001.
+[00:04:52] Eh, ¿qué diferencia se consideraron?
+[00:04:54] Bueno, el tamaño, la conformación de
+[00:04:56] mercado y el porcentaje de ruralidad.
+[00:04:59] ¿Qué resultados dio la aplicación de ese
+[00:05:02] decreto? Bueno, un régimen de control
+[00:05:06] general que aplica distribuidores de más
+[00:05:08] de 5,000 usuarios, el cual dio inicio el
+[00:05:12] primero de abril del 2003 en aquella
+[00:05:15] época y después un régimen específico
+[00:05:19] que es para distribuidores de menos de
+[00:05:21] 5,000 usuarios.
+[00:05:23] Posteriormente tocó reglamentar cómo se
+[00:05:27] iba a aplicar esa metodología. lo hizo a
+[00:05:29] través de la resolución 382 del 2003 en
+[00:05:32] base al índice de ruralidad relevante y
+[00:05:35] determinó que se controlaría por medio
+[00:05:38] de auditorías init, bases de datos y un
+[00:05:40] montón de información que los
+[00:05:41] distribuidores tenían que conservar en
+[00:05:43] bases de datos propias.
+[00:05:46] Más adelante hubo un ajuste eh sobre esa
+[00:05:50] resolución 382 y se emitió la resolución
+[00:05:53] 125 del 15 para considerar algunos
+[00:05:56] distribuidores que no tenían tanta
+[00:05:58] ruralidad o que contenían otras
+[00:06:00] particularidades y se incorporaron a la
+[00:06:03] cooperativa San Cayetano, Torquis, Puan
+[00:06:05] y demás. eh son aproximadamente unas 13,
+[00:06:08] 14 que ingresaron en ese momento.
+[00:06:12] Bueno, una vez que entendemos que hay
+[00:06:14] distintos tipos de de controles de
+[00:06:17] auditorías y de cumplimiento, de forma
+[00:06:19] de demostrar el cumplimiento de la
+[00:06:21] calidad, tenemos que empezar a entender
+[00:06:24] por dónde comienza la calidad. Y eso nos
+[00:06:27] lleva a leer qué es lo que está escrito
+[00:06:29] en el suanexo D, eh normas de calidad
+[00:06:32] del servicio público y sanciones.
+[00:06:34] Este suanexo D fue actualizado por medio
+[00:06:38] de de la resolución no SEA 168 el 18
+[00:06:41] para dar cumplimiento a las nuevas
+[00:06:44] especificaciones y a las nuevas
+[00:06:46] consideraciones que se tuvieron en
+[00:06:47] cuenta en la RTI que fue aprobada por la
+[00:06:49] resolución 419 del 17.
+[00:06:52] ¿Qué alcance eh incumplimientos se
+[00:06:56] determinan en el suanexo D? Se determina
+[00:06:59] que la calidad de servicio rige para
+[00:07:01] todos los usuarios del área de concesión
+[00:07:04] de todos los distribuidores dentro de la
+[00:07:05] jurisdicción provincial y que no cumplir
+[00:07:08] con los niveles de calidad da lugar a
+[00:07:10] sanciones.
+[00:07:12] Acá lo tendría que haber puesto en
+[00:07:13] comilla, pero nosotros les llamamos de
+[00:07:15] dos tipos. Penalizaciones, que son
+[00:07:17] aquellas que se calculan por
+[00:07:19] apartamientos de los parámetros de
+[00:07:21] calidad. y se destina al usuario y
+[00:07:23] complementarias que son señales
+[00:07:25] regulatorias. Esto no amplío mucho
+[00:07:27] porque después Sergio va a hablar, lo va
+[00:07:29] a explicar más en detalle, así que lo
+[00:07:31] van a poder ver ahí.
+[00:07:34] Bueno, hay que empezar a nombrar
+[00:07:36] entonces obligaciones del distribuidor
+[00:07:38] para poder cumplir con esa calidad.
+[00:07:41] Entonces, la primer obligación es que el
+[00:07:45] distribuidor tiene que prestar un el
+[00:07:47] servicio con un nivel de calidad
+[00:07:48] satisfactorio. Para eso tiene que
+[00:07:50] cumplir las pautas que se establecen en
+[00:07:52] el suanexo de entre otros, ¿no?
+[00:07:56] ¿Qué más tiene que hacer? tiene que
+[00:07:59] realizar trabajos e inversiones a fin de
+[00:08:02] asegurar ese nivel de calidad
+[00:08:05] y que se vincula, por otro lado, a todo
+[00:08:08] lo que se está solicitando de la
+[00:08:10] contabilidad regulatoria.
+[00:08:12] Esas inversiones se declaran en la
+[00:08:15] Dirección Provincial de Energías, se
+[00:08:18] documentan por medio de del manal de
+[00:08:21] cuentas de la contabilidad regulatoria,
+[00:08:23] se les hace un seguimiento, impactan
+[00:08:25] sobre los indicadores de calidad, por lo
+[00:08:27] tanto tiene una vinculación muy
+[00:08:29] importante esos trabajos e inversiones
+[00:08:31] necesarias.
+[00:08:33] Bueno, que hay que tener en cuenta que
+[00:08:35] en ningún caso el distribuidor puede
+[00:08:37] invocar insuficiente abastecimiento de
+[00:08:39] energía eléctrica como exente de
+[00:08:40] responsabilidad.
+[00:08:42] Esto, ¿qué significa? Que cuando un nodo
+[00:08:45] se satura o si no hubiese generación
+[00:08:47] para poder proveer a sus usuarios, eso
+[00:08:50] no es eximiente de su responsabilidad.
+[00:08:52] Por lo tanto, le caberían aplicaciones y
+[00:08:55] sanciones y en el cálculo de esas
+[00:08:58] penalizaciones deben contemplarse.
+[00:09:02] ¿Qué más? ¿Qué otra obligación tiene?
+[00:09:03] Tiene que tener sistemas de adquisición
+[00:09:05] y tratamientos de información adecuada
+[00:09:07] de los datos.
+[00:09:10] tiene que tener un sistema que que
+[00:09:12] asegure un nivel de calidad de tensión
+[00:09:15] suministrada o por lo menos los
+[00:09:16] parámetros para poder medir eh las
+[00:09:20] variables eléctricas y asegurar el
+[00:09:23] cumplimiento de varios de los parámetros
+[00:09:24] que vamos a ver más adelante. Tiene que
+[00:09:26] efectuar campañas de relevamiento,
+[00:09:28] información y cálculo. ¿Según qué? según
+[00:09:31] el suexo de esas campañas las tiene que
+[00:09:34] poner a disposición de los para que los
+[00:09:36] pueda ejecutar su tarea de control.
+[00:09:40] También tiene que determinar y evaluar
+[00:09:42] la causa de los apartamientos a nivel de
+[00:09:45] cada suministro. Esto, ¿qué significa?
+[00:09:48] Significa que para cada usuario, por
+[00:09:50] medio de la evaluación [resoplido]
+[00:09:52] de los cortes, las interrupciones en los
+[00:09:54] niveles de tensión en distintos puntos
+[00:09:55] seleccionados de la red, tiene que poder
+[00:09:58] determinar cuál es la calidad de cada
+[00:10:00] uno de sus usuarios y además tiene que
+[00:10:04] hacer una presentación de esos niveles
+[00:10:06] de calidad agrupados a nivel localidad.
+[00:10:11] Después vamos a ver cuándo se presentan,
+[00:10:13] cómo se presentan, qué resoluciones lo
+[00:10:16] determinan. Pero tengan este concepto en
+[00:10:19] la cabeza. También tiene que hacer un
+[00:10:21] seguimiento de cortes relevantes,
+[00:10:23] realizar su seguimiento, evaluación y
+[00:10:25] propuestas de resolución.
+[00:10:29] Bueno, ¿qué controles deben ejecutarse
+[00:10:32] desde los EVA para que este que esta
+[00:10:34] calidad sea tal cual se establece en el
+[00:10:36] marco regulatorio? Bueno, tiene que
+[00:10:38] hacer controles a las prestadoras por
+[00:10:40] medio de auditorías que las puede
+[00:10:42] ejecutar a su sola iniciativa cuando
+[00:10:45] detecta alguna anomalía o solamente por
+[00:10:47] programación habitual para verificar que
+[00:10:50] los parámetros se estén cumpliendo
+[00:10:52] adecuadamente.
+[00:10:53] Puede disponer cualquier acción
+[00:10:55] complementaria que considere necesaria
+[00:10:57] efectos de completar la tarea de
+[00:10:59] contralor. Esto, ¿qué significa? que
+[00:11:02] cuando hay información que no nos
+[00:11:05] resulta suficiente como para poder
+[00:11:07] determinar cómo se está cumpliendo la
+[00:11:09] calidad del servicio, podemos solicitar
+[00:11:12] a los distribuidores algunas cositas
+[00:11:14] adicionales.
+[00:11:16] ¿Qué más tiene que hacer? tiene que
+[00:11:18] evaluar los informes mensuales y
+[00:11:19] semestrales que las distribuidoras
+[00:11:21] envían y poner a disposición eh cuando
+[00:11:26] sea necesario registradores propios o
+[00:11:28] del distribuidor para verificar la
+[00:11:30] consistencia de la información que se
+[00:11:31] está declarando en el OCEA.
+[00:11:35] Por último, o ya llegando a los últimos,
+[00:11:38] eh tiene que emitir los cronogramas de
+[00:11:41] punto de control para que el
+[00:11:42] distribuidor sepa dónde tiene que ir a
+[00:11:44] medir y qué selección muestral tiene que
+[00:11:48] ejecutar. Y por último, verificar la
+[00:11:50] validez de las declaraciones juradas,
+[00:11:52] entre otras varias.
+[00:11:56] Bueno, ya pasamos a los controles
+[00:11:59] propiamente de calidad que se han
+[00:12:01] establecido. Los controles
+[00:12:03] principalmente son tres. Es calidad de
+[00:12:05] producto técnico, calidad de servicio
+[00:12:07] técnico y calidad de servicio comercial.
+[00:12:11] Dentro del producto se encuentra el
+[00:12:14] nivel de tensión y perturbaciones.
+[00:12:17] Esas perturbaciones son variaciones
+[00:12:19] rápidas, caídas lentas de tensión y
+[00:12:21] armónicas.
+[00:12:22] Y en servicio técnico es frecuencia
+[00:12:25] media de interrupciones y duración
+[00:12:27] media. Para servicio comercial hay
+[00:12:29] varias porque es más variado el abanico.
+[00:12:33] Entonces tenemos la correcta atención al
+[00:12:35] usuario en los locales de atención, el
+[00:12:37] tiempo de utilización, el tiempo
+[00:12:39] utilizado para responder a pedidos de
+[00:12:41] conexión, los errores en la facturación
+[00:12:43] y la facturación estimada, demoras en la
+[00:12:45] atención de reclamos al usuarios, tiempo
+[00:12:47] de restitución, tramitación, quejas,
+[00:12:50] página web. Todo lo que hace a que la
+[00:12:54] atención al usuario, la resolución de
+[00:12:57] sus inconvenientes o sus problemas con
+[00:13:00] el prestador sea adecuadamente tratado.
+[00:13:05] para poder controlar,
+[00:13:08] perdónen que se me fueron unas letritas
+[00:13:10] ahí se requiere información, por lo
+[00:13:12] tanto, esa es otra de las obligaciones
+[00:13:14] que tiene que ejecutar el distribuidor y
+[00:13:17] eso lo llamamos relevamiento de la
+[00:13:19] información en este sentido de la
+[00:13:22] calidad. ¿Qué tiene que hacer el
+[00:13:24] distribuidor? Como ya mencionamos,
+[00:13:25] campañas de medición, detención y
+[00:13:27] relevamiento de curvas de carga.
+[00:13:29] Organización en bases de datos
+[00:13:30] auditables
+[00:13:32] con información de interrupciones. Esas
+[00:13:35] interrupciones tienen que tener
+[00:13:36] topología de las redes, facturación de
+[00:13:37] la energía, los resultados de esas
+[00:13:40] campañas y demás.
+[00:13:42] Y por último, en la parte comercial
+[00:13:44] también tener bases de datos auditables
+[00:13:46] con indicadores de calidad comercial,
+[00:13:48] conexiones pensiones y varios puntos que
+[00:13:51] vamos a ver un poquito más adelante. No
+[00:13:53] sé por qué filmina hoy. No, no, no dice
+[00:13:57] bueno.
+[00:13:59] Eh,
+[00:14:01] ya dijimos que tiene que juntar
+[00:14:02] información, tiene que juntar bastante
+[00:14:04] información. esa información luego la
+[00:14:07] tiene que presentar y se presenta de
+[00:14:10] manera generalmente se presenta de
+[00:14:12] manera semestral. Esto se modificó antes
+[00:14:15] las las presentaciones de de calidad
+[00:14:18] comercial tenían otra frecuencia y
+[00:14:20] demás, pero en un momento desde
+[00:14:24] desde el regulador se tomó la decisión
+[00:14:26] de unificar esas presentaciones
+[00:14:28] básicamente en dos semestres. El primer
+[00:14:30] semestre comienza el primero de
+[00:14:32] diciembre al 31 de mayo de cada año y el
+[00:14:35] segundo semestre el primero de junio al
+[00:14:36] 30 de noviembre. En algún momento hemos
+[00:14:39] charlado de unificarlo del primero de
+[00:14:40] enero al 30 de junio y el primero de
+[00:14:44] julio al 31 de diciembre como para
+[00:14:46] simplificarlo, pero bueno, quizás
+[00:14:48] cometemos algún error en la estadística
+[00:14:52] de los datos y demás por desfasar el
+[00:14:54] mes, entonces todavía está en
+[00:14:55] evaluación. Otra cosa que hay que tener
+[00:14:57] en cuenta es que los distribuidores
+[00:14:59] municipales van defasados respecto de
+[00:15:01] los distribuidores provinciales. Por lo
+[00:15:03] tanto, los semestres, el número de
+[00:15:05] semestre del distribuidor provincial no
+[00:15:06] es coincidente con el número de semestre
+[00:15:09] del distribuidor municipal.
+[00:15:11] Esta información de la cual se debe
+[00:15:14] presentar semestralmente
+[00:15:16] cuenta con una resolución de los EVA que
+[00:15:18] es las 292 del 2004 en donde se detalla
+[00:15:22] para cada tipo de información cuál es su
+[00:15:25] fecha. de presentación, que puede ser
+[00:15:27] antes de la finalización del semestre o
+[00:15:30] del inicio del semestre o posterior. Hay
+[00:15:32] mucha información que se pide antes
+[00:15:34] porque si hay que ejecutar campañas y
+[00:15:37] sortear puntos de control, lo
+[00:15:39] necesitamos
+[00:15:41] exante a que ustedes puedan ejecutar esa
+[00:15:43] tarea. Y por eso muchas veces,
+[00:15:45] principalmente desde el área de control
+[00:15:48] de calidad técnica de los
+[00:15:51] seita que se carguen las tablas en los
+[00:15:54] sistemas de los SEVA con la información
+[00:15:55] necesaria para poder ejecutar los
+[00:15:57] sorteos. Si esa información no está, no
+[00:15:59] se pueden ejecutar los sorteos. Por lo
+[00:16:01] tanto, ya se impide esta tarea de
+[00:16:03] control y la tarea de recolección de
+[00:16:06] datos por parte del distribuidor.
+[00:16:09] Bueno, ¿cómo se remite la información a
+[00:16:11] los EVA? A través de la resolución 251
+[00:16:14] del 2011. La puse en rojo bien grande
+[00:16:17] porque es muy importante.
+[00:16:20] Este, en esa resolución está el
+[00:16:22] protocolo de cómo se tiene que enviar la
+[00:16:25] información. Por lo tanto, eh ahora la
+[00:16:29] vamos a ver un poquito más detallada que
+[00:16:30] cuáles son el índice y las partes que
+[00:16:34] tiene esa resolución, pero quería que se
+[00:16:36] la lleven, que la vayan a leer. Yo
+[00:16:38] después les voy a armar un zip con todas
+[00:16:39] las resoluciones que fui mencionando
+[00:16:42] para que lo tengan, porque muchas veces
+[00:16:44] cuando la buscan en la página de los EVA
+[00:16:46] tiene algunos problemitas con las tild,
+[00:16:48] las eñes y demás, entonces no se ve muy
+[00:16:51] bien. Bueno, yo les voy a pasar un
+[00:16:53] archivo RAR de las que si se ven bien.
+[00:16:57] Bueno, el distribuidor adicionalmente al
+[00:16:59] protocolo que se carga con la resolución
+[00:17:02] 251 del 2011 tiene que presentar un
+[00:17:04] informe semestral. Ese informe semestral
+[00:17:07] hay un modelo tipo en la resolución 1095
+[00:17:10] del 2004.
+[00:17:12] Y en ese informe lo que tiene que hacer
+[00:17:14] es declarar
+[00:17:16] sobre las mediciones que hizo, cuánto,
+[00:17:20] cuál fue el grado de su cumplimiento y
+[00:17:22] qué desvíos detectó en las mediciones
+[00:17:24] que fue ejecutando.
+[00:17:28] Y lo y la parte protocolar, la parte de
+[00:17:31] las tablas, como nosotros lo llamamos,
+[00:17:34] que está protocolizado, lo tiene que
+[00:17:35] hacer, lo tiene que cargar a través del
+[00:17:37] aplicativo web de extranet. Ahí dice
+[00:17:40] intranet, eso, perdón, es por costumbre
+[00:17:43] mía de entrar por intranet. Los
+[00:17:45] distribuidores entran por extranet con
+[00:17:48] clave y usuario propio en la web del
+[00:17:52] organismo y cargan estas tablas que
+[00:17:54] vamos a ver a continuación.
+[00:17:56] Bueno, ¿qué tablas hay dentro de la
+[00:17:58] resolución 251?
+[00:18:01] las que nos permiten dar cumplimiento a
+[00:18:02] los tres controles que mencionamos hace
+[00:18:05] un ratito. Desde la parte de servicio
+[00:18:08] técnico está la tabla de cortes por
+[00:18:10] usuario, la tabla de cortes por CT, que
+[00:18:12] es centro de transformación, el cálculo
+[00:18:15] de la multa, la cadena eléctrica y los
+[00:18:17] reclamos del usuario. En la parte
+[00:18:19] comercial hay tablas de desconexiones,
+[00:18:22] de estimaciones,
+[00:18:24] de conexiones, tabla de multa, tablas de
+[00:18:27] quejas, tablas de reclamos comerciales,
+[00:18:30] suspensiones y rehabilitaciones.
+[00:18:33] Respecto de la base de datos, está
+[00:18:35] listado el centro de transformación y el
+[00:18:37] listado de usuarios. En calidad de
+[00:18:39] producto técnico tenemos el cronograma
+[00:18:42] de usuarios y centros de transformación,
+[00:18:44] los resultados de las mediciones en
+[00:18:47] puntos de usuario y en puntos de
+[00:18:48] transformación, novedad respecto de esas
+[00:18:51] mediciones, las multas calculadas y
+[00:18:54] después ya tenemos una tabla que es de
+[00:18:56] daños de artefactos, instalaciones y una
+[00:18:59] de tablas de feriado. La tabla de
+[00:19:00] feriado parece una pavada, pero es
+[00:19:02] importante porque
+[00:19:04] en base a esa tabla de feriado después
+[00:19:06] se va a verificar la cantidad de días
+[00:19:09] hábiles que transcurrieron para calcular
+[00:19:11] las demoras en las obligaciones
+[00:19:15] existentes.
+[00:19:17] ¿Esto por qué? Porque por generalmente
+[00:19:19] las obligaciones se establecen en días
+[00:19:22] hábiles. Por lo tanto, si hay algún día
+[00:19:24] que es inhábil y ustedes no tienen
+[00:19:25] cargada la tabla de feriados, ese día se
+[00:19:28] cuenta como día hábil al momento de
+[00:19:30] verificar. Parece una pavada, pero
+[00:19:33] termina siendo importante en el cálculo.
+[00:19:35] Y después hay anexos con codificación,
+[00:19:37] que es el el apartado 8o de la
+[00:19:40] resolución 251, en donde están
+[00:19:44] codificados cada una de cada uno de los
+[00:19:47] campos que ustedes tienen que ir
+[00:19:48] rellenando.
+[00:19:51] Ahí está. Hay una parte que está en
+[00:19:52] amarillo, ¿no? Que resulta raro
+[00:19:54] seleccionado ahí algunas algunas franjas
+[00:19:56] en amarillo. Bueno, esas franjas en
+[00:19:59] amarillos, como bien dijimos al
+[00:20:01] principio, había distintos régimenes de
+[00:20:04] calidad, uno general y uno específico.
+[00:20:06] Bueno, el régimen específico, como eran
+[00:20:08] distribuidoras de mercados reducidos, no
+[00:20:11] tienen que presentar la totalidad de las
+[00:20:13] tablas, sino que presentan las tablas
+[00:20:15] que están marcadas en amarillo.
+[00:20:18] Por lo tanto, se le simplifica un poco
+[00:20:20] la tarea y también el cálculo de esas de
+[00:20:24] esas penalizaciones, porque no la tienen
+[00:20:26] que presentar el cálculo de
+[00:20:27] penalizaciones, sino que lo controla in
+[00:20:30] situo al momento de hacer auditorías.
+[00:20:33] Bueno, hasta acá la primera parte, la
+[00:20:35] parte normativa. No sé cómo venimos.
+[00:20:37] Venimos bien.
+[00:20:39] 28 minutos. Bárbaro.
+[00:20:42] Estamos con la presentación. Así que
+[00:20:44] bueno, eh, vamos a arrancar entonces.
+[00:20:48] Sí. Eh,
+[00:20:49] bueno, bien. Ahí veo la de Diorela, que
+[00:20:51] fue compañera mía de la facultad, así
+[00:20:53] que qué grande Dior, eh, calidad de
+[00:20:56] producto técnico. En la calidad de
+[00:20:58] producto técnico tenemos que entender
+[00:20:59] que se regulan o se intenta controlar
+[00:21:03] dos aspectos, el nivel de tensión y las
+[00:21:06] perturbaciones.
+[00:21:09] ¿Cómo se mide? a través de campañas de
+[00:21:10] relevamiento, la determinación de puntos
+[00:21:13] las hace el OSEVA y las mediciones deben
+[00:21:17] ser de al menos 7 días corridos sin
+[00:21:20] error. Este, si durante la medición de
+[00:21:23] calidad de producto se detecta un error
+[00:21:25] en la medición, bueno, se debe mantener
+[00:21:28] el registrador instalado hasta tanto se
+[00:21:30] pueda cumplir con los registros
+[00:21:31] necesarios para cumplir con esa semana.
+[00:21:34] Bueno, en los niveles de tensión,
+[00:21:36] ¿cuáles son los desvíos admisibles en
+[00:21:38] los niveles de tensión? Bueno, eso
+[00:21:40] depende del nivel de tensión al cual se
+[00:21:44] abastece el usuario. No es lo mismo el
+[00:21:47] daño y el impacto que generamos en un
+[00:21:49] usuario que demanda el servicio en alta
+[00:21:51] tensión o media tensión, que alguien que
+[00:21:53] vive en una zona rural. Y también un
+[00:21:56] poco es el reconocimiento de que el
+[00:21:58] servicio no puede prestarse en las
+[00:22:00] mismas condiciones a un usuario de alta
+[00:22:03] tensión que está colgado una línea de
+[00:22:06] alta que a un usuario que está colgado
+[00:22:08] en un alimentador de muchos kilómetros
+[00:22:10] en una zona rural. ¿Por qué? Porque la
+[00:22:14] propia eh caída de tensión por la
+[00:22:17] longitud de los conductores y demás
+[00:22:20] impacta en la calidad del servicio de su
+[00:22:22] usuario.
+[00:22:25] ¿Cómo se cómo se determina el
+[00:22:27] incumplimiento en el nivel de de
+[00:22:29] tensión? Bueno, cuando durante el
+[00:22:31] periodo que estamos midiendo la cantidad
+[00:22:35] de registros en en horas se hace esto,
+[00:22:40] supera el 3% en el periodo que se
+[00:22:42] efectúa la medión. A ello les dejé un
+[00:22:44] ejemplo. Por ejemplo, el límite de
+[00:22:45] tolerancia en medición en una semana
+[00:22:47] son, si una semana tiene 7 días, cada
+[00:22:50] día tiene 24 horas, son 168 horas
+[00:22:52] semanales. El 3% de esas 168 horas
+[00:22:55] semanales son 5,04 horas. Si en el
+[00:23:00] periodo de medición nosotros tenemos
+[00:23:03] desvíos en más de 5,04 horas, bueno,
+[00:23:06] entonces significa que ese punto tiene
+[00:23:08] que penalizar porque está excediendo en
+[00:23:10] más del 3% de su medición los valores
+[00:23:14] que dijimos como desvío admisible.
+[00:23:16] Si
+[00:23:18] el nivel de tensión que se observa en el
+[00:23:21] punto de control
+[00:23:23] no está fuera de ese más menos 7%, por
+[00:23:26] ejemplo, en alta o más 12 en baja,
+[00:23:28] bueno, ese punto no penaliza.
+[00:23:32] Bueno, seguimos con eh nivel de tensión.
+[00:23:35] Entonces, ¿cuántas mediciones hay que
+[00:23:37] ejecutar
+[00:23:39] en centros de transformación de media y
+[00:23:41] baja tensión? Se efectúan mediciones
+[00:23:43] mensuales en las barras de baja de al
+[00:23:47] menos el 3% de los centros de
+[00:23:49] transformación de media tensión a baja
+[00:23:51] tensión. Esto, ¿qué significa? Que si yo
+[00:23:53] tengo 100 centros de transformación
+[00:23:56] por 3 meses, por 3% por 6 meses, me da
+[00:24:00] que ese distribuidor con 100 centros de
+[00:24:02] transformación MTBT tiene que hacer 18
+[00:24:07] puntos de medición para cumplir con las
+[00:24:09] mediciones del semestre.
+[00:24:11] En pequeñas demandas, que son T1 y T4
+[00:24:14] debe efectuar un registro mensual en
+[00:24:17] puntos de suministro del 0,005%
+[00:24:20] que aproximadamente es uno cada 20,000.
+[00:24:25] Este, imaginemos, no me acuerdo bien
+[00:24:27] cuántos usuarios tiene, pero debe tener
+[00:24:31] 200,000. Vamos a poner que tiene
+[00:24:33] 200,000. Bueno, tiene
+[00:24:36] que ser 10 puntos.
+[00:24:38] En 6 meses tiene 600,000. Ahí está
+[00:24:40] Fabián que lo veo que quiere opinar.
+[00:24:44] Este,
+[00:24:46] si tiene 200,000 usuarios, tiene que
+[00:24:48] hacer 10 puntos por mes. En 6 meses
+[00:24:50] tiene que hacer 60 puntos de medición a
+[00:24:52] nivel de usuario. Y esos puntos, además,
+[00:24:55] tienen algunas particularidades porque
+[00:24:57] se hacen en el centro de transformación
+[00:24:58] y se hacen eh algunos controles
+[00:25:03] en el último usuario de de que abastece
+[00:25:06] ese centro de transformación, por lo
+[00:25:08] tanto, permite ver toda la cadena y
+[00:25:10] todos los usuarios alcanzados por el
+[00:25:12] nivel de tensión. cuál cuál es la caída
+[00:25:14] y demás. Eh, por lo tanto, resulta muy
+[00:25:17] importante la esa planificación. Por lo
+[00:25:19] general ejecuta el área técnica de la
+[00:25:21] gerencia de control de concesiones de
+[00:25:22] los EVA y se la comunica a los
+[00:25:24] distribuidores y los distribuidores
+[00:25:26] van haciendo algunos comentarios de
+[00:25:28] algunos puntos que pueden medir, otros
+[00:25:30] que no pueden medir. No es algo eh
+[00:25:34] no es algo que se determine una vez y
+[00:25:36] queda para siempre, sino que hay cierto
+[00:25:38] feedback porque, bueno, hay impedimentos
+[00:25:41] muchas veces para para hacer las tareas
+[00:25:43] y uno tiene que tenerlos contemplados
+[00:25:45] para poder cumplir de la mejor forma
+[00:25:47] posible. Bueno, y luego medianas y
+[00:25:50] grandes demandas hacen lo mismo, un un
+[00:25:53] registro mensual del nivel de tensión en
+[00:25:56] un punto de suministro de al menos el 1%
+[00:25:58] de los usuarios, no pudiendo resultar
+[00:26:01] esta cantidad inferior a 10 registros
+[00:26:03] mensuales. Por lo tanto, ahí tenemos
+[00:26:05] otros 60 puntos
+[00:26:07] de control eh para medir el nivel de
+[00:26:11] tensión y y ver el estado general en el
+[00:26:13] que se está prestando el servicio. Por
+[00:26:16] lo tanto, eh la calidad del producto
+[00:26:19] técnico y el nivel de tensión para el
+[00:26:21] organismo, para la autoridad de
+[00:26:24] aplicación es sumamente importante
+[00:26:25] porque nos permite ver el desvío y qué
+[00:26:28] es lo que le está pasando al usuario. Al
+[00:26:30] poder medir en centros de
+[00:26:32] transformación, bueno, podemos detectar
+[00:26:33] que todos los usuarios que están debajo
+[00:26:35] de ese centro de transformación están
+[00:26:37] sufriendo esa insuficiencia o ese
+[00:26:41] incumplimiento en los límites
+[00:26:42] admisibles.
+[00:26:45] Bueno, esto cuando se detectan esos
+[00:26:48] desvíos, ¿qué debe hacerse? Bueno, a
+[00:26:52] través de la resolución 251, el
+[00:26:54] distribuidor nos informa el cálculo de
+[00:26:57] la penalización, que lo vamos a ver
+[00:26:59] después. Y esa penalización al finalizar
+[00:27:03] el semestre debe ser devuelta a los
+[00:27:06] usuarios en la factura inmediatamente
+[00:27:08] posterior al cierre del semestre
+[00:27:11] como un crédito.
+[00:27:14] Este,
+[00:27:16] bueno, lo otro ya lo mencioné que serán
+[00:27:19] abastecidos en las instalaciones donde
+[00:27:21] se ha dispuesto la medión. es esa multa
+[00:27:24] no se calcula para la totalidad del área
+[00:27:26] de concesión y se traspola, sino que se
+[00:27:29] limita a los usuarios afectados en el
+[00:27:31] punto de medición. Por eso está en la
+[00:27:33] aclaración que está debajo.
+[00:27:37] Bueno, el cálculo de la penalización, la
+[00:27:39] penalización se calcula como energía no
+[00:27:41] suministrada por el costo de esa
+[00:27:43] energía. esa energía no suministrada al
+[00:27:46] usuario está en kilow y el costo de la
+[00:27:48] energía eh no suministrada es por tipo
+[00:27:51] de tarifa. Más adelante está aplicado.
+[00:27:54] La sanción se extenderán. Esto este
+[00:27:56] punto es importante, por eso lo puse en
+[00:27:58] negrita.
+[00:28:00] Eh, esta sanción se calcula al momento
+[00:28:03] de de ejecutarse la medición en el punto
+[00:28:06] seleccionado.
+[00:28:08] Si el distribuidor no aporta evidencia
+[00:28:12] de que ha resuelto los desvíos en ese
+[00:28:15] punto de control, la penalización
+[00:28:17] continúa en el tiempo. Por lo tanto, ese
+[00:28:19] usuario mientras dure el desvío debería
+[00:28:22] seguir viendo el crédito por calidad de
+[00:28:25] producto, que es lo que está en negrita,
+[00:28:27] que dice que las las sanciones se
+[00:28:29] extenderán a posteriori del periodo de
+[00:28:31] medición hasta que el distribuidor te
+[00:28:33] muestre en forma fiaciente mediante la
+[00:28:36] realización de un nuevo registro que el
+[00:28:38] inconveniente ha sido solucionado. Est,
+[00:28:40] en el subanexo hay una formulita de
+[00:28:43] cuánto dura la penalización. dice que si
+[00:28:46] no la resuelven en un tiempo prudente,
+[00:28:48] los CEO pueden ejecutar y emitir una
+[00:28:51] sanción complementaria.
+[00:28:53] Por lo tanto, no es que no pasa nada si
+[00:28:56] no se miden los puntos o si se dejan los
+[00:28:58] puntos con mala calidad de producto
+[00:29:02] técnico sin resolver, no tiene impacto.
+[00:29:08] Bueno, ¿qué más? La energía no
+[00:29:10] suministrada es la cantidad penalizar.
+[00:29:11] ¿Cómo se hace eso? valorizando la
+[00:29:13] totalidad de la energía entregada con
+[00:29:15] los niveles de tensión fuera de los
+[00:29:16] límites permitidos en función de los
+[00:29:18] variables de los valores indicados en la
+[00:29:21] tabla del artículo 6.1, el suanexo D.
+[00:29:26] Ahora la vamos a ver la tabla, no se
+[00:29:27] preocupen, pero es importante dejarlo
+[00:29:30] dejarlo acá sentado. Para conocer esa
+[00:29:33] energía suministrada en malas
+[00:29:34] condiciones, ¿qué se tiene que hacer?
+[00:29:35] Nosotros dijimos que se instalaban en
+[00:29:37] los puntos de medición equipos que
+[00:29:39] realizaban estas mediciones que
+[00:29:41] conservaban registros durante una
+[00:29:42] semana, 7 días corrido, sin errores y
+[00:29:45] demás. Entonces, esos equipos deben
+[00:29:48] medir de manera simultánea el registro
+[00:29:50] de la tensión, que es lo que nos
+[00:29:52] interesa controlar en este punto, la
+[00:29:54] demanda que está abasteciendo la
+[00:29:56] instalación, dónde se está eh efectuando
+[00:30:00] la medición, la demanda, considerémoslo,
+[00:30:03] como potencia y energía. O sea, que
+[00:30:05] nosotros tenemos que saber de ese punto
+[00:30:06] de energía, de ese punto de emisión,
+[00:30:08] cuánta potencia y energía midió y de esa
+[00:30:12] potencia y energía, qué tan desviado
+[00:30:14] estaba el nivel de tensión. Y con eso se
+[00:30:17] determina la cantidad de energía
+[00:30:19] penalizar.
+[00:30:21] Para las mediciones realizadas en los
+[00:30:22] puntos de suministro se podrá determinar
+[00:30:25] eh acá hay otra aclaración que es a
+[00:30:27] veces nos tocaba medir un punto de un
+[00:30:28] usuario en particular. Bueno, en ese
+[00:30:31] punto del usuario, la energía
+[00:30:34] que que la energía y la potencia que
+[00:30:38] debe calcularse en esa semana se puede
+[00:30:40] tomar de la lectura del medidor.
+[00:30:44] Bueno, hablamos del costo de la energía
+[00:30:47] no suministrada. Entonces, para el
+[00:30:49] apartamiento del nivel de tensión,
+[00:30:51] dijimos que la sanción era energía no
+[00:30:53] suministrada y costo de energía. Bueno,
+[00:30:55] la energía no suministrada la obteníamos
+[00:30:57] de los registros y el costo de la
+[00:30:59] energía,
+[00:31:01] si bien surge del cargo variable, que se
+[00:31:04] puede ver en un recuadrito que está en
+[00:31:06] azul, no sé si ven mi puntero, pero si
+[00:31:08] no, a ver,
+[00:31:12] punta, puntero, láser. Acá, acá, acá
+[00:31:16] está el costo de energía no
+[00:31:17] suministrada, 46 valores y demás. Eh,
+[00:31:21] bueno, ese costo de energía
+[00:31:25] no se traslada directamente a la sanción
+[00:31:28] sin ningún tipo de atenuación, porque no
+[00:31:29] es lo mismo tener un desvío del 18%
+[00:31:32] respecto al valor nominal que tener un
+[00:31:34] desvío del 05%, del 1%. Si yo tengo que
+[00:31:38] entregarle al usuario 220 V y me
+[00:31:42] permiten una desviación del 8%, bueno,
+[00:31:45] si me desvié 9, que es 1% más respecto
+[00:31:49] del 8 admisible,
+[00:31:53] tiene un factor de ponderación. Ahora,
+[00:31:56] si me desvié 20% respecto de los 220,
+[00:32:01] bueno, ahí ya tengo una penalización
+[00:32:03] mucho más significativa, que es lo que
+[00:32:04] intentan exponer estas tablas. Por
+[00:32:08] ejemplo, para un suministro en baja
+[00:32:10] tensión, pequeñas demandas y grandes
+[00:32:12] demandas, cuando la variación de
+[00:32:15] tensión, que es lo que estamos
+[00:32:17] observando, está entre 8 a 9% respecto
+[00:32:22] de la tensión nominal, es decir, fíjense
+[00:32:25] que arrancan desde el desde el límite
+[00:32:27] admisible, arrancan del ocho en alta
+[00:32:30] tensión, arrancan del siete, que el
+[00:32:32] siete es el límite admisible. Menos de
+[00:32:34] siete no penaliza, más de siete
+[00:32:36] penaliza. En baja tensión, menos de 8 no
+[00:32:39] penaliza, más de 8 penaliza. Entonces
+[00:32:41] ante un desvío entre el 8 y el 9%
+[00:32:44] este sense
+[00:32:47] se multiplica por 1,25.
+[00:32:51] Es decir, que el Sens tiene un costo
+[00:32:54] razonablemente acotado al porcentaje de
+[00:32:57] desviación respecto al límite admisible.
+[00:33:00] Si me desvío mucho, un 18%, bueno, me
+[00:33:02] aplica todo el censo porque tengo un
+[00:33:04] problema de atención significativo y el
+[00:33:06] usuario no puede vivir con la atención
+[00:33:08] que le estamos entregando. Y ahí está
+[00:33:11] algo que es un principio y es la que es
+[00:33:14] el envío de una señal, en este caso que
+[00:33:17] es económica, para que el distribuidor
+[00:33:20] en su análisis del costo de inversión
+[00:33:22] versus el costo de la penalización tome
+[00:33:24] la decisión de ejecutar la inversión. Si
+[00:33:27] esto no fuese así, el distribuidor nunca
+[00:33:29] tomaría la decisión de ejecutar
+[00:33:31] inversión o le daría lo mismo,
+[00:33:34] solucionar un usuario que tiene un punto
+[00:33:36] desviado, un punto porcentual desviado
+[00:33:38] de respecto al límite que el que tiene
+[00:33:40] 20 puntos desviados.
+[00:33:43] Así que ese es el concepto que subyace
+[00:33:45] por detrás. Esa variación, ¿cómo se
+[00:33:48] calcula? Variación de tensión es la
+[00:33:50] tensión nominal menos la tensión que
+[00:33:53] está observando el usuario sobre la
+[00:33:54] tensión nominal.
+[00:33:56] Y el costo de la energía no suministrada
+[00:33:58] se calcula como 46 veces el cargo
+[00:34:01] variable de la tarifa T3. Acá hay otra
+[00:34:03] cosa que que es importante, eh,
+[00:34:06] principalmente porque hay gente
+[00:34:07] seguramente que no se dedica a hacer
+[00:34:09] mediciones de calidad de producto y
+[00:34:11] demás, que es que el cargo variable debe
+[00:34:14] promediarse a lo largo del semestre
+[00:34:17] porque eh no fue teniendo el mismo valor
+[00:34:23] cada vez que se fue actualizando el BAT.
+[00:34:25] Y tampoco el distribuidor tuvo recursos
+[00:34:29] en cada uno de los momentos como para
+[00:34:31] poder ir atendiendo estas estos desvíos
+[00:34:34] en los niveles de tensión. Por lo tanto,
+[00:34:36] esa cuentita, ese cargo variable se debe
+[00:34:39] promediar en el semestre que se está
+[00:34:41] informando.
+[00:34:43] Bien, vamos a desactivar esto. Está
+[00:34:47] bueno. Perturbaciones. Dijimos que en
+[00:34:50] calidad de producto teníamos dos cosas
+[00:34:52] que nos interesaban medir. Una era el
+[00:34:56] nivel de tensión, el otro eran las
+[00:34:57] perturbaciones.
+[00:34:59] perturbaciones para no volver loco a la
+[00:35:02] mayoría que que seguramente no es
+[00:35:04] ingeniero electricista o eléctrico, eh
+[00:35:08] que se miden básicamente lo que hacen
+[00:35:10] son deformaciones de la onda de tensión.
+[00:35:14] La onda de tensión tiene un esquema
+[00:35:16] sinusoidal
+[00:35:18] este y cada vez que nosotros alteramos
+[00:35:21] esa forma sinusoidal genera problemas.
+[00:35:24] genera problemas porque eh hay equipos
+[00:35:27] que al deformarse la onda no trabajan
+[00:35:29] bien y por lo tanto eh la calidad del
+[00:35:33] servicio que observa el usuario y su uso
+[00:35:36] de ese servicio no es adecuado. Por lo
+[00:35:38] tanto, hay que tratar de tenerlas
+[00:35:40] controladas
+[00:35:41] eh y que esa forma sin usoal se mantenga
+[00:35:45] lo máximo posible. Por lo tanto, ¿qué es
+[00:35:48] lo que se establece? se establece que se
+[00:35:50] van a medir eh variaciones rápidas de
+[00:35:52] tensión, que por lo general se llaman
+[00:35:53] flickers flicker, caídas lentas de
+[00:35:56] tensión y armónicas
+[00:35:58] y tienen límites de esas perturbaciones.
+[00:36:01] Eses límites de perturbaciones, por lo
+[00:36:03] general se utiliza la serie 61001 de la
+[00:36:07] norma IEC, que se establece niveles de
+[00:36:10] referencia y sobre esos niveles se
+[00:36:12] admite hasta un 5%
+[00:36:15] adicional.
+[00:36:16] Eh, una vez que se supere ese 5%, bueno,
+[00:36:20] ahí tenemos problemas y hay que hacer
+[00:36:22] alguna acción como para poder corregir
+[00:36:25] eso. Esas acciones
+[00:36:28] y esas perturbaciones que se observan
+[00:36:33] pueden venir de varios lugares, pero
+[00:36:35] principalmente vienen de usuarios
+[00:36:37] perturbadores.
+[00:36:39] Por lo tanto,
+[00:36:41] acá lo que se prevé es eso. Se prevé que
+[00:36:43] el distribuidor pueda
+[00:36:46] medir estas perturbaciones,
+[00:36:49] ver cuál es la causa que o el usuario
+[00:36:51] que está generando esa perturbación y
+[00:36:52] tenga herramientas como para poder
+[00:36:55] intimar ese usuario para que las
+[00:36:56] corrijas, pero también las puede generar
+[00:36:59] el propio distribuidor, por lo tanto, y
+[00:37:02] ese y ese distribuidor estará afectando
+[00:37:05] al usuario. Así que aplica para los dos
+[00:37:07] lados del mostrador, para el lado del
+[00:37:10] usuario, para el lado de los
+[00:37:11] distribuidores.
+[00:37:13] Y cuando no se controlen las
+[00:37:14] perturbaciones, puede haber otro usuario
+[00:37:16] que esté afectado y no esté generando
+[00:37:18] perturbaciones. Por lo tanto, puede
+[00:37:20] generarse un reclamo por esas
+[00:37:22] perturbaciones.
+[00:37:24] Entonces, ¿qué es lo que tiene que
+[00:37:25] ejecutar el distribuidor? Bueno, tienen
+[00:37:26] que verificar el reclamo, evaluar el
+[00:37:28] nivel de perjuicio a terceros sobre el
+[00:37:32] usuario que está generando las
+[00:37:33] perturbaciones y que las está recibiendo
+[00:37:35] y plantear una solución en un tiempo no
+[00:37:37] mayor a 30 días.
+[00:37:42] Bueno, ¿qué tienen desvíos en el nivel
+[00:37:44] de perturbaciones? ¿A quiénes tenemos
+[00:37:46] que controlar? y principalmente a los
+[00:37:48] grandes usuarios, que son los que
+[00:37:49] introducen muchas de las perturbaciones,
+[00:37:52] a través de los límites que mencionamos
+[00:37:54] recién, puede extender controles a
+[00:37:57] generadores, autogeneradores y
+[00:37:58] microgeneradores.
+[00:38:02] Eh, acá hay este puntito, el tercer
+[00:38:05] punto es importante
+[00:38:07] que dice, "Cuando el distribuidor no
+[00:38:09] efectúe acciones sobre usuarios
+[00:38:11] perturbadores, no dice la palabra, pero
+[00:38:14] se los explico así.
+[00:38:16] tendientes a mantener los valores de
+[00:38:18] emisión dentro de los límites
+[00:38:19] establecidos,
+[00:38:21] el el OSVA los puede sancionar. ¿Por
+[00:38:23] qué? Porque si vos tenés un usuario
+[00:38:25] perturbador y no lo estás intimando para
+[00:38:27] que lo corrija, estás perjudicando al
+[00:38:29] resto de los usuarios de esa red porque
+[00:38:31] le estás deformando la onda al resto.
+[00:38:34] Eh, entonces si no haces nada
+[00:38:38] te puede decir solucional y si no lo
+[00:38:39] solucionas te vamos a aplicar una
+[00:38:42] sanción para que te llegue la señal
+[00:38:43] regulatoria.
+[00:38:45] Paulo, te distribuid. Uy, perdón, me
+[00:38:47] fui.
+[00:38:49] Distribuidor podrá penalizar a los
+[00:38:51] usuarios que excedan los límites de
+[00:38:52] emisiones fijados hasta la interrupción
+[00:38:54] de suministro. Esas penalizaciones
+[00:38:57] tienen primero tienen que ser
+[00:38:58] informadas, OSEBA, consensuadas con el
+[00:39:00] OSEVA y aprobadas por el Oceva.
+[00:39:03] Yo estuve dos años de gerente control de
+[00:39:05] concesiones. Nunca tuvimos una
+[00:39:08] penalización a un usuario por
+[00:39:09] perturbación porque siempre tratan de
+[00:39:11] solucionarlo antes, pero bueno, el marco
+[00:39:14] regulatorio lo prevé y yo se los tengo
+[00:39:16] que decir.
+[00:39:18] Bueno, ahí fue el segundo bloque. ¿Cómo
+[00:39:20] venimos hasta ahora? Bien, perfecto. No
+[00:39:23] sé qué hora es.
+[00:39:28] Bueno, bien. Continuamos. Entonces, ¿a
+[00:39:30] qué hora hacemos el corte?
+[00:39:33] Pablo, ahí me escuchás.
+[00:39:37] Ahí estaba hablando Fabián.
+[00:39:38] Sí, sí, ahí estaba.
+[00:39:43] Me parece que tenés muy bajito el
+[00:39:45] Continúo.
+[00:39:47] Se escucha abajo para Pablo.
+[00:39:50] Bueno, continúe entonces. No, no
+[00:39:51] escucho.
+[00:39:52] Eh, hasta acá.
+[00:39:54] Calidad
+[00:39:56] Pablo.
+[00:39:56] Sí
+[00:39:57] se se escucha
+[00:40:00] ahí.
+[00:40:00] Ah, no.
+[00:40:02] Hay dos personas que querían hacer una
+[00:40:03] pregunta, me parece.
+[00:40:06] Mauro,
+[00:40:07] sí, hay dos personas que querían
+[00:40:09] preguntar, Fabián y no sé si era alguien
+[00:40:12] le podrá avisar que no escucha. Está,
+[00:40:14] está, está perfecto.
+[00:40:15] Era por Mili en realidad.
+[00:40:17] Ah, no, que yo te quería preguntar ahí,
+[00:40:19] ¿me escuchas bien, Pablo?
+[00:40:21] Sí, sí. Eh, cuando te referís a usuarios
+[00:40:23] perturbadores o que generan
+[00:40:24] perturbaciones, que es de conexión
+[00:40:26] directa, de fraude, eso es
+[00:40:28] no no no es el caso más emblemático,
+[00:40:31] acerías bragado. Acería bragado se chupa
+[00:40:34] toda la energía de un nodo, tiene un
+[00:40:37] montón de hornos eléctricos y y entre
+[00:40:40] otras maquinarias, ¿no? y
+[00:40:43] toda esa gran demanda de esos usuarios,
+[00:40:45] de equipos que generan estas
+[00:40:47] perturbaciones que deforman la onda de
+[00:40:49] red, te generan problemas en el en el
+[00:40:52] resto de los usuarios
+[00:40:54] y no tiene la potencia contratada que
+[00:40:56] necesita. Eso es
+[00:40:57] no no no es por la potencia, sino que es
+[00:40:58] por el equipamiento propio que tiene el
+[00:41:00] usuario instalado.
+[00:41:01] Son cargas no lineales, digamos, o sea,
+[00:41:03] no responde a algo, digamos, que que uno
+[00:41:07] esperaría.
+[00:41:08] Bien,
+[00:41:08] exactamente. Cargas lineales se llaman a
+[00:41:11] lo que es una resistencia. O sea,
+[00:41:12] imagínate en tu casa, una una plancha es
+[00:41:16] una resistencia. Bueno, esa esa plancha
+[00:41:19] es una resistencia, eso genera una carga
+[00:41:21] lineal que no produce deformaciones,
+[00:41:25] consume todo potencia activa. Bueno,
+[00:41:28] cuando no se cuando no es así y hay
+[00:41:31] otros tipos de consumo que tienen que
+[00:41:34] generan distorsiones,
+[00:41:36] bueno, eso es un usuario perturbador de
+[00:41:39] forma la onda, pero no es no es por
+[00:41:42] claro es algo intencional o o
+[00:41:44] no es por fraude, digamos, no no es
+[00:41:46] intencional, es un proceso productivo,
+[00:41:48] el no lo que pasa es que dentro de su
+[00:41:50] proceso productivo él debe limitar
+[00:41:53] esas desviaciones. Por eso el
+[00:41:55] distribuidor debe intimarlo a que
+[00:41:57] corrija esas deviaciones, que instale el
+[00:42:00] equipamiento necesario para compensar o
+[00:42:02] filtrar esas perturbaciones, porque si
+[00:42:05] no afecta la red del resto de los
+[00:42:07] usuarios.
+[00:42:09] Bueno,
+[00:42:11] es como que mete ruido, digamos.
+[00:42:13] Exactamente.
+[00:42:16] Pensalo así. Vos en tu casa no querés
+[00:42:18] tener perturbaciones porque
+[00:42:21] y porque son generadas por el por el
+[00:42:22] vecino de al lado, digamos, che, el
+[00:42:24] vecino de al lado que use la red como
+[00:42:26] corresponde porque si no me trae
+[00:42:28] perjuicio en mi suministro. Eso es lo
+[00:42:30] que se
+[00:42:31] Pablo, pregunto a ver si si es parecido
+[00:42:35] el caso.
+[00:42:35] Una soldadora. Pablito
+[00:42:37] también
+[00:42:40] compresor el compresor de la estación de
+[00:42:41] servicio que se prende de repente y
+[00:42:43] capaz que te baja la tensión en el
+[00:42:45] momento. Eso sería
+[00:42:47] también puede ser una perturbación si es
+[00:42:50] monofásico y afecta
+[00:42:53] afecta puede afectar al al usuario
+[00:42:56] lindante.
+[00:42:57] Sí. Si tenés variadores de frecuencia
+[00:43:00] con grandes motores en plantas
+[00:43:02] industriales con digamos frecuencia alta
+[00:43:05] de conmutación
+[00:43:08] eh también que no tiene filtros, ¿no?
+[00:43:09] Obviamente eh puede tener ese mismo
+[00:43:12] problema.
+[00:43:13] Y ahí, ¿dónde se observa? Otro ejemplo
+[00:43:16] que les voy a dar en
+[00:43:18] plantas de bombeo de agua.
+[00:43:21] planta de bombeo de agua por lo general
+[00:43:24] para disminuir los picos de arranque,
+[00:43:26] mejorar la eficiencia y demás.
+[00:43:34] Se fue,
+[00:43:42] se desconectó la compu de Pablo.
+[00:43:46] Guillermina
+[00:43:47] para mí que no le quería responder a
+[00:43:48] Franco que estaba en línea.
+[00:43:51] Me quedé ahí, me quedé ahí con
+[00:43:54] Tengo dos preguntas.
+[00:43:56] Se fue a estudiar. Franco, ahora vuelve.
+[00:43:59] Sí, pero cómo
+[00:44:03] ahí
+[00:44:06] se reconecta.
+[00:44:11] Yo estaba
+[00:44:14] ahí va, me parece. No,
+[00:44:19] ahí te pido la solicitud.
+[00:44:24] uno.
+[00:44:30] Avísame cuando puedo.
+[00:44:32] Ahora sí.
+[00:44:34] Ahora Pablo,
+[00:44:36] error mío. Se me abrió algo y
+[00:44:40] toqué para cerrar y no era cerrar, así
+[00:44:43] que
+[00:44:45] no pasa nada, no pasa nada. Continuamos.
+[00:44:50] Ahí se está viendo.
+[00:44:53] Está muteado, Pablo. Eh,
+[00:44:56] ya se ve igual la pantalla.
+[00:44:58] Ahora se ve
+[00:44:59] como una. Ahí, ahí está.
+[00:45:01] Ahí está.
+[00:45:01] No, les decía que que bueno que está
+[00:45:03] Fabián ahí haciendo algunas
+[00:45:06] aclaraciones. No lo vamos a contradecir
+[00:45:07] porque esto sabe. Así que
+[00:45:10] eh
+[00:45:12] cuando hay especialistas, él es un
+[00:45:14] especialista en la materia. Yo
+[00:45:16] simplemente eh trato de dar lo mejor de
+[00:45:19] mí para explicarlo lo mejor posible. Así
+[00:45:21] que bueno, eh bueno, ahí les di algunos
+[00:45:24] ejemplos. No sé si todas las respuestas
+[00:45:26] si todas las preguntas estaban
+[00:45:27] respondidas y ahí quedó enero.
+[00:45:29] Franco, dale.
+[00:45:30] ¿Qué tal? Yo tengo dos preguntitas.
+[00:45:32] Volviendo al tema de Acería Abragado,
+[00:45:33] que es un caso particular que se conecta
+[00:45:35] en 132 y afecta la cuando hay una
+[00:45:38] perturbación afecta tanto la red de
+[00:45:39] trasba de toda la de todo el norte de la
+[00:45:41] provincia como la red de la
+[00:45:42] distribuidora de las localidades de
+[00:45:45] Abragado 25 de mayo 9 de julio. ¿Quién
+[00:45:48] es el encargado de de obligar a Sería
+[00:45:52] Bragado que no perturbe más, por así
+[00:45:53] decirlo, que no ahí va directamente los
+[00:45:57] porque
+[00:45:57] en este caso, en este, bueno, me parece
+[00:46:00] que tiene una vinculación
+[00:46:02] este con Edén, por lo tanto sería Edén,
+[00:46:05] pero como excede Edén y también afecta
+[00:46:09] al nodo de vinculación, Transba también
+[00:46:11] podría indicarle por principalmente
+[00:46:14] porque me parece que no sé si les paga
+[00:46:16] peaje o es usuario de Den, eh, pero
+[00:46:20] bueno, si es un agente de mem
+[00:46:21] tranquilamente.
+[00:46:23] Claro, es del mem, es del mem, pero la
+[00:46:25] línea de 132 es de es de Den. Es del mem
+[00:46:28] usuario, pero la línea de 132
+[00:46:30] en ese caso, yo lo que recomendaría que
+[00:46:32] los dos lo intimen, porque le está
+[00:46:34] afectando a los dos, está afectando
+[00:46:36] tanto a Trasba para prestar su servicio
+[00:46:37] de transporte como Edén por el uso de la
+[00:46:40] línea y el peaje y demás. Bien, y la
+[00:46:43] segunda pregunta que tengo es del
+[00:46:45] principio, un poco más del principio, de
+[00:46:46] cuando se generan las penalidades por
+[00:46:49] mala calidad de producto y servicio. es
+[00:46:51] netamente económico la penalidad que
+[00:46:53] puede generar eleva y no llegar al punto
+[00:46:56] de decirle, "Lo vengo sancionando desde
+[00:46:58] hace un año, un año y medio, dos y no
+[00:46:59] hace la obra que mejora este este
+[00:47:02] problema o le puede exigir, recalibrame
+[00:47:04] este este tramo de cable, recalibramelo"
+[00:47:07] y porque si no yo te veo que la sanción
+[00:47:09] tuya no vos preferís pagar la multa
+[00:47:12] antes de de hacer la obra. ¿Es económico
+[00:47:14] no más o siempre se ha llegado el punto
+[00:47:16] de decirle hace la obra?
+[00:47:17] No, no. Lo que pasa que tenes que pensar
+[00:47:19] así, este
+[00:47:21] régimen de calidad que nosotros lo
+[00:47:23] llamamos penalizaciones es una sanción
+[00:47:26] más, ¿no? Pero nosotros para
+[00:47:27] diferenciarlo lo llamamos
+[00:47:28] penalizaciones. Esa penalización es casi
+[00:47:31] automática. Debería tener una
+[00:47:33] significancia tal que el distribuidor le
+[00:47:36] dé la señal para que ejecute la obra.
+[00:47:39] Cuando esa penalización
+[00:47:41] se
+[00:47:42] se traslada en el tiempo y el
+[00:47:44] distribuidor no da solución al problema,
+[00:47:46] ya pasa a otro. tipo de análisis. Vos
+[00:47:50] venís con este problema, ya te lo
+[00:47:52] advertimos, venís pagando penalización,
+[00:47:54] la arrastrás, no da solución, por lo
+[00:47:56] tanto vamos a un sumario porque no estás
+[00:47:59] resolviendo el problema del usuario
+[00:48:01] y en ese sumario
+[00:48:04] se puede instruir el OSE va puede tomar
+[00:48:06] la decisión que le parezca correcta.
+[00:48:09] Entre esa decisión que le parezca
+[00:48:10] correcta para atender a la necesidad del
+[00:48:12] usuario, corregir la conducta del
+[00:48:14] distribuidor y resolver el problema, le
+[00:48:17] puede indicar al distribuidor que haga
+[00:48:18] la obra para solucionar el problema,
+[00:48:20] además de sancionarlo económicamente,
+[00:48:23] pero eso al iniciar el sumario ya se
+[00:48:26] transforma en una sanción complementaria
+[00:48:29] y esas sanciones complementarias,
+[00:48:30] después lo va a explicar Sergio,
+[00:48:33] requieren de una resolución del
+[00:48:35] directorio de los SEBA dando la
+[00:48:37] indicación
+[00:48:39] de que de que así sea, pero no no se
+[00:48:41] limita a la sanción económica. Loa puede
+[00:48:44] indicarle que tiene que resolver el
+[00:48:46] problema.
+[00:48:48] Bien, está clarísimo, Pablo. Gracias.
+[00:48:51] Pablo,
+[00:48:51] vamos, seguimos avanzando. No sé,
+[00:48:54] Macarena, dale.
+[00:48:55] ¿Puedo hacer una consulta? Las
+[00:48:56] mediciones de perturbaciones se realizan
+[00:48:59] por 7 días corridos igual a las de
+[00:49:02] calidad de producto.
+[00:49:04] ¿Por qué no lo aclara el anex? No, ahí
+[00:49:07] en realidad porque vos, ¿qué es lo que
+[00:49:10] te pasa con las perturbaciones? Las
+[00:49:11] perturbaciones, vos vas a a ir
+[00:49:13] detectando en tu red alteraciones en tu
+[00:49:17] red y vas a tener reclamos de otros
+[00:49:18] usuarios, vas a tener problemas en tu
+[00:49:20] red porque te van a actuar distintas
+[00:49:22] protecciones, distintos seteos de
+[00:49:24] configuración de la red y ahí vas a
+[00:49:27] tener que empezar a instalar y buscar
+[00:49:30] cuál es el usuario que está generando
+[00:49:31] esa perturbación. Y para eso le vas a
+[00:49:34] instalar, le vas a tener que instalar
+[00:49:35] equipamiento que te permite obtener
+[00:49:37] registro que demuestren que ese es el
+[00:49:38] usuario perturbador. Entonces, son casos
+[00:49:41] más puntuales esas perturbaciones,
+[00:49:44] este,
+[00:49:46] que que el que lo anterior, que digamos
+[00:49:47] que el nivel de tensión que es más
+[00:49:49] general.
+[00:49:49] Claro.
+[00:49:50] Bueno,
+[00:49:51] continúo si les parece porque si no si
+[00:49:54] queda alguna otra relevante la la
+[00:49:55] charlamos después.
+[00:49:58] Bien, vamos a empezar con eh calidad de
+[00:50:02] servicio técnico, interrupciones.
+[00:50:06] Bueno, ¿ a qué suministros se aplican?
+[00:50:10] Se aplican a suministros abastecidos por
+[00:50:12] una única alimentación.
+[00:50:15] Esto es importante aclararlo porque
+[00:50:19] muchas veces se hacen excepcionalidades
+[00:50:22] y en un mismo usuario hay más de un
+[00:50:25] punto de abastecimiento
+[00:50:27] y eso puede generar algunos problemas.
+[00:50:31] Eh, por lo tanto, debe considerarse eso,
+[00:50:33] que se aplican a suministros abastecidos
+[00:50:37] por una única alimentación.
+[00:50:39] Después, el distribuidor no está
+[00:50:41] obligado a la prestación de un servicio
+[00:50:43] eléctrico de reserva o ininterrumpible.
+[00:50:48] ¿Qué significa esto? Que el servicio
+[00:50:50] está previsto que puede tener cortes. ¿Y
+[00:50:54] por qué está previsto que puede tener
+[00:50:55] cortes? Porque garantizar
+[00:50:59] un nivel de de prestación de servicios
+[00:51:02] técnicos sin cortes nos daría
+[00:51:05] prácticamente una tarifa infinita porque
+[00:51:07] hay que ponerle un generador a cada
+[00:51:09] usuario. Entonces, eso es físicamente
+[00:51:13] inviable, prácticamente imposible y se
+[00:51:16] prevé esto, se prevé a que puedan
+[00:51:18] existir algunos tipos de cortes, porque
+[00:51:21] también hay que prever que el
+[00:51:24] distribuidor tiene que ejecutar tareas
+[00:51:26] de mantenimiento, reposición,
+[00:51:27] actualización y demás en la red. Y si
+[00:51:30] nosotros no tenemos un pequeño pulmón,
+[00:51:33] yo estoy intentando como distribuidor
+[00:51:35] mejorar la red y por el otro lado me
+[00:51:37] están penalizando por intentar mejorar
+[00:51:38] la red.
+[00:51:40] Por lo tanto, para tener en cuenta esa
+[00:51:42] situación es que está esta frase de que
+[00:51:47] es interrumpible y más adelante vamos a
+[00:51:50] ver que hay ciertos límites de esas
+[00:51:52] interrupciones y la duración de esas
+[00:51:54] interrupciones.
+[00:51:57] Bueno, eh el suanexo también prevé que
+[00:52:00] se pueda acordar entre las partes, entre
+[00:52:03] el usuario y el distribuidor condiciones
+[00:52:05] particulares de calidad mediante
+[00:52:06] celebración de contratos.
+[00:52:10] Acá, ¿qué es lo que puede surgir? Puede
+[00:52:12] surgir que un usuario necesite un nivel
+[00:52:15] de calidad de servicio superior, es
+[00:52:17] decir, necesita sufrir menos
+[00:52:19] interrupciones.
+[00:52:21] Un ejemplo puede ser un tomógrafo de un
+[00:52:24] hospital, este un equipo de una planta
+[00:52:28] con servidores eh que prestan servicio
+[00:52:31] en la nube y demás, que necesitan
+[00:52:34] tener la menor cantidad de
+[00:52:36] interrupciones posibles. Para tener la
+[00:52:38] menor cantidad de interrupciones
+[00:52:39] posibles, hay que básicamente poner más
+[00:52:42] recursos en la red para tener menos
+[00:52:44] probabilidad de falla. Por lo tanto, eso
+[00:52:47] requiere la celebración de un contrato
+[00:52:50] entre de manera particular, ya que hay
+[00:52:53] cosas que la tarifa
+[00:52:55] para esa categoría de usuario, para ese
+[00:52:57] usuario, no prevé esas condiciones
+[00:53:00] adicionales de mayor calidad de
+[00:53:02] servicio. Por lo tanto, ahí hay una
+[00:53:05] pequeña diferencia que cualquier
+[00:53:06] distribuidor se la va a querer pedir a
+[00:53:08] ese usuario que está reclamando un nivel
+[00:53:11] de servicio mayor.
+[00:53:13] Bueno, esto yo no lo he visto en mi paso
+[00:53:17] por los distintos ámbitos, pero quizás
+[00:53:20] algún distribuidor lo ha podido ejecutar
+[00:53:22] con con algún usuario.
+[00:53:25] Nivel de medición y cálculo de
+[00:53:27] indicadores.
+[00:53:28] Eh, los indicadores se deben calcularse
+[00:53:31] a nivel de suministro, es decir, puedo
+[00:53:35] debo tener identificadas las
+[00:53:38] interrupciones de cada suministro.
+[00:53:42] ¿Qué indicadores tenemos? Bueno, tenemos
+[00:53:45] dos indicadores. Uno que es de
+[00:53:47] frecuencia de interrupciones. ¿Cuántas
+[00:53:50] veces se interrumpe el servicio en un
+[00:53:53] determinado periodo de tiempo?
+[00:53:56] Eso
+[00:53:57] se después se calculan, como vemos abajo
+[00:54:00] en la fotito, el total de usuarios
+[00:54:02] interrumpidos sobre el total de usuarios
+[00:54:04] abastecidos.
+[00:54:06] Eh, y se determina un indicador que se
+[00:54:09] llama SIFI, que es el índice de
+[00:54:12] frecuencia media, interrupción del
+[00:54:13] sistema.
+[00:54:15] Y por otro lado tenemos la duración de
+[00:54:17] esas interrupciones. Cada uno de esas
+[00:54:20] interrupciones, de esa de esa frecuencia
+[00:54:22] de interrupciones tiene una duración.
+[00:54:24] Bueno, esa duración debe calcularse.
+[00:54:28] Eh, ¿y cómo se calcula? Cuando yo
+[00:54:31] observo un corte, digo, bueno, este
+[00:54:33] corte de x cantidad de minutos u horas
+[00:54:37] está afectando a tantos a tantos
+[00:54:40] clientes de este centro de
+[00:54:42] transformación o de este alimentador
+[00:54:45] y me va a dar tiempo por cantidad de
+[00:54:47] clientes una suma de horas
+[00:54:51] de cada una de esas interrupciones, la
+[00:54:53] sumatoria de esa suma de horas en el
+[00:54:55] semestre dividido todos los clientes del
+[00:54:58] área de concesión o de la localidad idad
+[00:55:01] alimentador o de la subestación o sobre
+[00:55:04] lo que se quiera calcular, me va a dar
+[00:55:06] el side, que es el eh índice de duración
+[00:55:10] media de interrupción del sistema.
+[00:55:13] Básicamente intenta reflejar cuánto
+[00:55:15] tiempo estuvo sin suministro ese usuario
+[00:55:17] y el SIF intenta demostrar cuántas
+[00:55:19] interrupciones tuvo ese usuario.
+[00:55:22] Bueno, acá esto
+[00:55:25] es una comparativa que está graficada,
+[00:55:27] pero la información está disponible en
+[00:55:29] la web de los EVA, en un Excel que está
+[00:55:30] publicado. Vemos una comparativa de
+[00:55:33] cuáles son los side scifi de eh las
+[00:55:36] cuatro distribuidoras provinciales. Acá
+[00:55:38] podemos ver particularidades.
+[00:55:41] Vamos a activar el puntero. Por ejemplo,
+[00:55:43] acá, miren, Edes
+[00:55:45] tiene un side de una duración de 146
+[00:55:49] horas. Este semestre
+[00:55:52] no fue el el que abarcó la inundación en
+[00:55:58] Valla Blancas. El que abarcó la
+[00:55:59] inundación fue este que está acá,
+[00:56:01] 162,29.
+[00:56:04] El anterior, este es el uno del un
+[00:56:08] evento del 16 de diciembre del 23, 16 y
+[00:56:12] 17 en donde hubo una tormenta muy muy
+[00:56:17] fuerte y una ráfaga de casi 150 km porh
+[00:56:20] barrió casi toda la provincia de Buenos
+[00:56:22] Aires. Así como le pegó a Edes, también
+[00:56:25] le pegó Edén
+[00:56:27] y también le pegó un poquito a Delap. El
+[00:56:30] que menos sufrió fue Dea, pero observen
+[00:56:33] que Danino, que es un evento de esas
+[00:56:36] características que después fue
+[00:56:38] considerado un evento de fuerza mayor,
+[00:56:40] que lo va a explicar Sergio, y cómo se
+[00:56:42] observa en los indicadores de duración,
+[00:56:44] prácticamente distorsiona toda la serie
+[00:56:47] de deso,
+[00:56:50] este evento de esa de esa temporada y
+[00:56:53] esa ráfaga de viento tan fuerte fue
+[00:56:55] mucho más significativo, fue casi más
+[00:56:58] del doble que La inundación.
+[00:57:01] La inundación, si bien fue severa,
+[00:57:03] porque distorsionó mucho la duración de
+[00:57:05] interrupción, no fue tanto como eh el
+[00:57:10] evento por el temporal de viento. ¿Y por
+[00:57:13] qué? Porque el evento en el temporal de
+[00:57:15] viento afectó muchísimas instalaciones
+[00:57:18] con caídas de ramos sobre las líneas,
+[00:57:20] líneas que hubo que reponer y levantar.
+[00:57:22] Eh, bueno, un montón de de problemas
+[00:57:26] generalizados
+[00:57:28] en todo el área de concesión de desahla
+[00:57:32] blanca y eso hace que los indicadores de
+[00:57:35] safi se alteren.
+[00:57:38] Esto, ¿por qué lo tenemos acá? ¿Por qué
+[00:57:40] se los muestro? Porque nos permite
+[00:57:42] comparar, nos permite ver cómo vienen
+[00:57:44] evolucionando los distintos indicadores.
+[00:57:46] Otra cosa que tienen que tener en cuenta
+[00:57:48] es que estos indicadores tienen
+[00:57:50] piquitos. ¿Ven cómo suben y bajan?
+[00:57:54] Se nota más con los de frecuencia. Los
+[00:57:56] de frecuencia suben y bajan, suben y
+[00:57:58] bajan. Eso se da porque hay
+[00:57:59] estacionalidad.
+[00:58:01] Eh, por lo general en los meses de
+[00:58:04] verano hay más cortes y de mayor
+[00:58:08] duración que en los meses de invierno,
+[00:58:10] por lo general. Por lo tanto, esto
+[00:58:13] cuando uno lo
+[00:58:15] desestacionaliza
+[00:58:18] en en invierno y verano o en el semestre
+[00:58:20] que abarca el invierno o el verano se
+[00:58:23] observa mucho mejor que es una tendencia
+[00:58:25] un poco más eh plana.
+[00:58:29] Pablo,
+[00:58:30] sí,
+[00:58:30] buen día. Te hago una consulta que lo
+[00:58:32] mencionaste ahí al pasar,
+[00:58:35] el tema de la fuerza mayor.
+[00:58:37] Ustedes para para determinar
+[00:58:40] un evento de fuerza mayor, ¿miran los
+[00:58:43] índices estos o se determina en base a
+[00:58:46] otro criterio?
+[00:58:48] No, eso lo va a explicar Sergio. Tiene
+[00:58:50] condiciones particulares la
+[00:58:53] bien.
+[00:58:54] La resolución de de una fuerza mayor
+[00:58:56] tiene casi casi que es más legal que
+[00:58:58] técnica, te diría.
+[00:59:00] este porque tiene que cumplir algunos
+[00:59:02] supuestos, eh, ¿no? Nosotros lo que
+[00:59:05] observamos en el análisis del SFI es el
+[00:59:08] impacto técnico, el impacto que está
+[00:59:10] viendo el usuario, ¿no? No la exhimición
+[00:59:15] para el distribuidor de la causa,
+[00:59:18] porque igual hay que reflejarlo.
+[00:59:20] Ahí les puse una foto, pero ese ese
+[00:59:23] tablero, este tablero que veíamos recién
+[00:59:26] lo va a través de la gerencia de control
+[00:59:28] de concesiones, lo observa y lo tiene
+[00:59:31] por semestre, con fuerza mayor, sin
+[00:59:33] fuerza mayor, con causas eh propias, con
+[00:59:36] causas externas. Así que vamos haciendo
+[00:59:39] un filtro cada vez más finito de lo que
+[00:59:42] observó el usuario. Después las causas
+[00:59:44] de por qué estuvo, por ejemplo, esa
+[00:59:46] duración en ed de 146 horas y y si es
+[00:59:50] eximiente de la penalización o no.
+[00:59:52] Bueno, eso ya lleva otro trámite e que
+[00:59:54] después lo vamos a ver, pero no
+[00:59:57] otra otra consulta de algo que acabas de
+[00:59:59] mencionar. dijiste que la Oceva lo mira
+[01:00:02] por semestre, porque esto nosotros
+[01:00:05] digamos lo informamos ambos índices
+[01:00:08] mensualmente también. Ustedes el
+[01:00:12] lo miran principalmente por semestre,
+[01:00:15] ¿no? E acá está el gráfico semestral.
+[01:00:17] Nosotros la información mensual obten la
+[01:00:20] observamos para ir viendo la evolución
+[01:00:22] mensual y no esperar 6 meses a que
+[01:00:23] ustedes nos manden todo el semestre y
+[01:00:25] además porque es una herramienta de
+[01:00:29] control eh exante, pero que tiene mayor
+[01:00:32] inmediatez. Si nosotros esperamos 6
+[01:00:34] meses para ir a ver lo que te pasó en
+[01:00:35] diciembre porque acuérdense que el
+[01:00:38] periodo va del primero de diciembre al
+[01:00:39] 30 de mayo. Si nosotros y cuando cierra
+[01:00:42] el semestre ustedes tienen 45 días
+[01:00:44] adicionales para presentar la
+[01:00:45] información.
+[01:00:46] O sea, que lo estamos viendo en julio,
+[01:00:49] mediados de agosto con suerte. Y si yo
+[01:00:52] quiero ver cuál fue tu ID sfi de
+[01:00:55] diciembre del año anterior, se me paseó
+[01:00:56] casi un año. Por eso es que se les
+[01:00:59] requiere a los distribuidores eh el
+[01:01:02] informe mensual. Y ese informe mensual
+[01:01:05] después nosotros también lo analizamos y
+[01:01:06] lo comparamos con los que nos presentan
+[01:01:08] semestralmente
+[01:01:09] para ver si nos están declarando lo
+[01:01:12] mismo y si concuerdan los cortes que
+[01:01:15] tuvieron con lo que declararon después
+[01:01:17] en su declaración. El informe mensual
+[01:01:19] para nosotros es muy importante
+[01:01:23] porque cuando hay un corte relevante o
+[01:01:25] algún problema, lo vemos ahí
+[01:01:26] inmediatamente en el informe mensual que
+[01:01:28] usted nos manda.
+[01:01:29] Así que bueno, eh son los dos. Eh
+[01:01:32] nosotros por marco regulatorio
+[01:01:35] calculamos la sanción o controlamos la
+[01:01:38] sanción y la penalización de manera
+[01:01:40] semestral, pero el informe mensual lo
+[01:01:42] utilizamos para ir monitoreando.
+[01:01:45] No sé si respondí tu pregunta.
+[01:01:46] Sí, sí, sí, sí. Perfecto, muchas
+[01:01:48] gracias.
+[01:01:49] No, por favor.
+[01:01:51] Bueno, continúa. Entonces, eh dijimos
+[01:01:54] que el servicio podía llegar a tener
+[01:01:57] interrupciones, por lo tanto, tenemos
+[01:01:59] que hablar de los límites de tolerancia
+[01:02:01] de esas interrupciones.
+[01:02:03] Y acá es donde empieza a ver algunas
+[01:02:06] diferencias.
+[01:02:08] Por ejemplo, que hay un servicio de
+[01:02:10] distribución tipo A y uno tipo B.
+[01:02:13] Eso, ¿qué significa el tipo A?
+[01:02:16] es aquel servicio que está vinculado a
+[01:02:19] la red de transporte en alta tensión de
+[01:02:21] la correspondiente estación
+[01:02:23] transformadora, alta atensión, media
+[01:02:25] atensión. Básicamente,
+[01:02:28] eh,
+[01:02:30] bueno, acá hay muchos distribuidores
+[01:02:32] provinciales, pero eh casi todos los
+[01:02:34] agentes MEM están conectados una
+[01:02:35] estación de alta tensión, media tensión,
+[01:02:37] pero la mayoría de los distribuidores
+[01:02:40] compran energía a través de otro
+[01:02:43] distribuidor, aguas arriba.
+[01:02:45] Entonces, no está vinculado a esa
+[01:02:47] estación transformadora de alta tensión
+[01:02:49] que baja o que reduce a media, sino que
+[01:02:53] esa función la presta, la cumple un
+[01:02:56] distribuidor agas arriba y el
+[01:02:58] distribuidor aguas abajo, por lo general
+[01:03:00] cooperativa, se conecta al distribuidor
+[01:03:02] provincial o al agente de MEM. Entonces,
+[01:03:06] ya no está conectado a la alta, sino que
+[01:03:08] está conectado a través de un sistema de
+[01:03:11] distribución interurbano o hay un
+[01:03:15] elemento más en la red que debe
+[01:03:18] considerarse y ese elemento más puede
+[01:03:21] tener falla. Por lo tanto, esa falla que
+[01:03:23] general las tiene
+[01:03:26] generan un servicio de distribución tipo
+[01:03:28] B.
+[01:03:30] ¿Y para qué se diferencia en A y en B?
+[01:03:33] se diferencian básicamente para poner
+[01:03:35] límites de tolerancias distintos. El
+[01:03:38] tipo A es un poquito más estricto que el
+[01:03:41] tipo B, porque el tipo B tiene un
+[01:03:43] elemento más que considerar y que puede
+[01:03:44] fallar. Y eso es lo que vemos en la
+[01:03:47] tablita de la derecha.
+[01:03:50] Vemos, yo les marqué en naranja dos
+[01:03:52] servicios tipo A, eh, frecuencia para el
+[01:03:55] tipo A, que le voy déjenme un segundo
+[01:03:58] que le voy a poner el puntero acá.
+[01:04:00] frecuencia para el servicio tipo A e
+[01:04:04] interrupción eh
+[01:04:06] y tiempo máximo de interrupción, que es
+[01:04:08] duración para el tipo A. Podría haber
+[01:04:11] hecho lo mismo para el tipo B, pero si
+[01:04:13] yo fuese del AP tendría que utilizar
+[01:04:16] esta. Si fuese
+[01:04:19] punta indio tendría que utilizar esta
+[01:04:21] que está acá.
+[01:04:24] Bueno, ¿qué más tenemos que explicar?
+[01:04:27] tenemos que explicar qué significa
+[01:04:29] interrupciones por semestre y qué
+[01:04:31] significa toda esta tabla, ¿no?
+[01:04:34] Entonces, en un servicio de distribución
+[01:04:36] tipo A, podemos tener básicamente dos
+[01:04:39] divisiones de usuarios. usuarios urbanos
+[01:04:42] que estén en el casco y usuarios
+[01:04:44] rurales.
+[01:04:46] El usuario urbano puede ser del tipo de
+[01:04:49] que puede comprar energía en alta
+[01:04:50] tensión, en media o en baja.
+[01:04:54] En baja puede ser una pequeñida demando,
+[01:04:55] una mediana, un T1, T4, T2 y en baja
+[01:05:00] puede ser un T3, grandes demandas.
+[01:05:03] ¿Cuántas frecuencias? ¿Cuál es el límite
+[01:05:06] tolerable de frecuencia de interrupción
+[01:05:08] que puede tener? Bueno, un usuario
+[01:05:10] urbano de alta tensión de un tipo de
+[01:05:13] distribución A puede tener hasta tres
+[01:05:16] interrupciones en el semestre.
+[01:05:19] Y eso
+[01:05:21] si ese usuario viese hasta tres
+[01:05:24] interrupciones en el semestre,
+[01:05:27] no penalizaría esas tres. A partir de la
+[01:05:29] cuarta penalizaría
+[01:05:32] eso siempre y cuando la duración de la
+[01:05:34] interrupción no exceda
+[01:05:37] estas horas por interrupción que están
+[01:05:39] acá.
+[01:05:41] Es decir, si este usuario vio tres
+[01:05:43] cortes de media hora, que no se supera
+[01:05:45] la duración, bueno, ese usuario para los
+[01:05:48] cálculos no penaliza.
+[01:05:51] Es un un poco lo que intenta demostrar
+[01:05:54] esta tabla. Las horas por interrupción
+[01:05:56] es el límite de tiempo admisible por
+[01:05:58] interrupción en horas.
+[01:06:01] Bueno, vamos a continuar. Esperen que
+[01:06:03] sago el puntero.
+[01:06:05] Bueno, apartamientos.
+[01:06:08] E
+[01:06:11] estas estos apartamientos generan
+[01:06:13] penalizaciones. Dijimos, si no supera el
+[01:06:16] límite de tolerancia, no penaliza. Si
+[01:06:18] supera el límite penaliza. Si penaliza,
+[01:06:21] ¿qué es lo que tiene que hacer el
+[01:06:22] distribuidor? Acreditarle en la factura
+[01:06:25] inmediatamente posterior al cierre del
+[01:06:27] semestre el cálculo de esa penalización.
+[01:06:32] En ningún caso el reintegro podrá
+[01:06:34] superar el monto equivalente a la
+[01:06:36] energía consumida en el semestre
+[01:06:38] valorizada de acuerdo a la categoría. Es
+[01:06:40] decir, si la si el cálculo de la
+[01:06:43] penalización da más que toda la energía
+[01:06:45] del semestre multiplicada por el valor
+[01:06:47] de de esa categoría, bueno, vamos a
+[01:06:51] estar la energía consumida por el valor
+[01:06:52] de la categoría.
+[01:06:54] En caso de tratarse de usuarios de un
+[01:06:56] servicio de transporte, el reintegro no
+[01:06:59] podrá ser superior al 50% del monto que
+[01:07:01] surge valorizar la energía. Es muy
+[01:07:03] similar al anterior, nada más que acá le
+[01:07:05] baja a la mitad. Este,
+[01:07:09] bueno, esto cuándo queda firme, que me
+[01:07:12] parece que lo va lo va a decir Sergio,
+[01:07:14] ¿no? Todo el proceso de cuándo queda
+[01:07:16] firme la sanción y demás.
+[01:07:18] Bien. Bueno, todas las penalizaciones el
+[01:07:21] distribuidor las calcula, las informa a
+[01:07:24] través de la aclaración jurada de la 251
+[01:07:26] y se las devuelve el usuario.
+[01:07:28] Posteriormente
+[01:07:30] el Oceva a través de la gerencia de
+[01:07:31] control de concesiones, el área técnica,
+[01:07:33] ejecuta los controles, valida, recalcula
+[01:07:37] y se y verifica si el distribuidor
+[01:07:39] calculó bien o no esa penalización.
+[01:07:43] Si calculó bien, no hay problema. Si
+[01:07:47] calculó mal, intimamos para que corrijan
+[01:07:49] y en base a lo que resulta se proyecta
+[01:07:53] un acto resolutorio y ese acto
+[01:07:55] resolutorio puede ser que apruebe la
+[01:07:57] penalización declarada por el
+[01:07:59] distribuidor o que sea distinto y deba
+[01:08:02] ajustarse.
+[01:08:04] Por lo tanto, este la resolución lo que
+[01:08:06] hace es dar validez a ese cálculo que
+[01:08:09] que ejecutó el distribuidor
+[01:08:12] o proponer los ajustes necesarios y si
+[01:08:15] hay que devolver eh un monto adicional a
+[01:08:19] cada usuario porque se observó una mayor
+[01:08:21] afectación. Bueno, así es lo que
+[01:08:23] determina. Así es lo que se determina a
+[01:08:25] través de una resolución.
+[01:08:28] Bueno, continuamos. Eh, ¿qué
+[01:08:30] interrupciones se toman en cuenta para
+[01:08:32] el cálculo? Se toman en cuenta aquellas
+[01:08:34] interrupciones superiores a 3 minutos
+[01:08:37] que originen la suspensión del
+[01:08:38] suministro a un usuario o un conjunto de
+[01:08:42] ellos, ya sean las mismas programadas o
+[01:08:44] introspectivas.
+[01:08:46] Eh, el usu esto es importante aclararlo
+[01:08:49] porque hay dos conceptos por detrás.
+[01:08:52] Uno, el margen de los 3 minutos. El
+[01:08:55] margen de los 3 minutos está asociado a
+[01:08:58] maniobras sobre la red que muchas veces
+[01:09:00] tiene que ejecutar el distribuidor, en
+[01:09:02] el cual se produce una pequeña
+[01:09:04] interrupción, pero se restablece el
+[01:09:05] servicio eh bastante rápido.
+[01:09:08] Entonces, esas no se consideran.
+[01:09:11] Eh, y por el otro lado,
+[01:09:14] e
+[01:09:16] las interpricciones programadas son
+[01:09:18] intestivas.
+[01:09:20] Eso nosotros consideramos que
+[01:09:23] sí debe ser tenido en cuenta en el
+[01:09:25] cálculo de la penalización para
+[01:09:27] disminuir el tiempo de las
+[01:09:30] interrupciones programadas y la cantidad
+[01:09:32] de interrupciones programadas
+[01:09:33] intestivas.
+[01:09:35] Es lo que nos permite enviar una señal
+[01:09:39] al distribuidor a través del marco
+[01:09:41] regulatorio para que no se extiendan en
+[01:09:44] los cortes programados y trate de evitar
+[01:09:46] las salidas intempestivas.
+[01:09:49] Bueno, no se computan las interrupciones
+[01:09:52] inferiores a los 3 minutos. Se considera
+[01:09:54] como primera reposición cuando hay una
+[01:09:56] interrupción. Esa interrupción afecta a
+[01:09:58] muchos usuarios. Puede ser que parte de
+[01:10:02] esos usuarios eh puedan ser
+[01:10:04] restablecidos
+[01:10:06] antes que otros. Por lo tanto, esos
+[01:10:09] usuarios que se restablecen antes en una
+[01:10:12] primera eh reposición por medio de una
+[01:10:15] maniobra en la red, eh nosotros lo
+[01:10:19] entendemos de esa manera. Después puede
+[01:10:20] haber muchas maniobras que van
+[01:10:22] reponiendo
+[01:10:24] a muchos más usuarios del mismo corte o
+[01:10:28] a la totalidad de los usuarios de ese
+[01:10:31] corte. Por lo tanto, existe una primera
+[01:10:33] maniobra, un conjunto de maniobras y una
+[01:10:36] última maniobra que eh se llama última
+[01:10:39] reposición a la operación sobre la red
+[01:10:40] afectada por la interrupción que permite
+[01:10:42] restablecer el servicio a todo el
+[01:10:44] conjunto de los usuarios afectados.
+[01:10:47] Eso lo explico porque tienen que
+[01:10:49] informarse en las tablas de calidad para
+[01:10:51] poder calcular el tiempo de corte de
+[01:10:54] cada usuario. Acuérdense
+[01:10:56] por qué tan tan detallista y porque la
+[01:10:58] duración de la interrupción se calcula a
+[01:11:01] nivel de usuario, no es que se calcula a
+[01:11:03] nivel del corte,
+[01:11:05] a nivel del evento, por así decirlo.
+[01:11:09] Bueno, se determinará la responsabilidad
+[01:11:11] de cada prestador en la cadena
+[01:11:12] eléctrica. Esto,
+[01:11:14] esto, ¿por qué? Porque dijimos que había
+[01:11:16] un servicio tipo A y un servicio tipo B
+[01:11:18] o un distribuidor aguas arriba y uno
+[01:11:20] aguas abajo. Muchas veces el
+[01:11:22] distribuidor aguas abajo en su red de
+[01:11:24] distribución no tuvo inconvenientes, no
+[01:11:27] sufrió una interrupción porque no falló
+[01:11:28] nada de su red. Sin embargo,
+[01:11:32] el servicio de alimentación por parte de
+[01:11:34] un distribuidor aguas arriba fue quien
+[01:11:36] observó la falla.
+[01:11:38] Por lo tanto, esa falla el usuario la ve
+[01:11:42] y tiene que calcularse
+[01:11:44] en las penalizaciones,
+[01:11:46] pero no es responsabilidad del
+[01:11:48] distribuidor aguas abajo, sino que es
+[01:11:49] distribuidor de responsabilidad de
+[01:11:51] distribuidor aguas arriba.
+[01:11:55] En ese contexto es que hay
+[01:11:58] eh responsabilidades
+[01:12:01] compartidas, por así decirlo, en la
+[01:12:03] penalidad que tiene que ser acreditada
+[01:12:05] al usuario y esa penalidad tiene que ser
+[01:12:07] repartida de manera proporcional en base
+[01:12:10] a esa responsabilidad.
+[01:12:12] Si fue del distribuidor aguas arriba y
+[01:12:14] sufrió x cantidad de horas de cortes o x
+[01:12:16] cantidad de cortes, bueno, le caberá el
+[01:12:19] proporcional de la sanción por esa
+[01:12:22] afectación. Seguimos.
+[01:12:26] Ya me estoy quedando.
+[01:12:29] Sigo bien.
+[01:12:31] Dale si puede ser.
+[01:12:33] Ya me estoy quedando sin pila, por eso
+[01:12:35] digo en cualquier momento 9:30 dijimos.
+[01:12:38] Bueno,
+[01:12:38] pero te avisamos.
+[01:12:40] Bueno,
+[01:12:41] bien. Se determinará y registrará la
+[01:12:43] información necesaria que permite
+[01:12:45] indicar para cada corte que afectas un
+[01:12:47] usuario final lo que charlábamos recién.
+[01:12:50] ¿Qué causas originaron en el corte? la
+[01:12:53] instalación
+[01:12:55] donde se ubica el motivo de origen de la
+[01:12:57] interrupción y por lo tanto el prestador
+[01:12:59] responsable de la misma.
+[01:13:02] ¿Qué vamos a que vamos a tener que
+[01:13:03] registrar? También la fecha, la hora de
+[01:13:05] inicio, las reposiciones parcial, la
+[01:13:07] reposición final, un montón de
+[01:13:09] información. Bueno, esa información está
+[01:13:12] en la tabla de de cortes de las 251, que
+[01:13:15] es lo que charlamos al principio de la
+[01:13:17] clase. Todo lo que tenemos que presentar
+[01:13:19] para la 251 es lo que nos permite eh
+[01:13:23] sacar es esa penalización, esa
+[01:13:26] proporcionalidad de aqu le corresponde y
+[01:13:28] demás.
+[01:13:31] Bueno, los orígenes pueden ser en
+[01:13:32] instalaciones propias o en instalaciones
+[01:13:36] externas.
+[01:13:38] eh pueden ser forzadas o programadas.
+[01:13:40] Forzadas se llaman aquellas en la cual
+[01:13:42] el distribuidor no planificó la
+[01:13:45] interrupción, sino que se dio porque,
+[01:13:48] por ejemplo, no sé, se cayó un gajo de
+[01:13:50] una planta arriba de de una línea y y
+[01:13:54] produjo una salida forzada.
+[01:13:57] Eh, y tienen distintas distintos eh
+[01:14:01] motivos que puede ser climático,
+[01:14:03] ambientales, la red de alta, de medio de
+[01:14:05] baja, por terceros, por usuarios de
+[01:14:08] media tensión, otras, por ejemplo, le
+[01:14:10] doy un ejemplo.
+[01:14:12] Este,
+[01:14:14] [grito ahogado]
+[01:14:17] acá en en La Plata, eh cerca de diagonal
+[01:14:20] 80, eh una toneladora cortó un estaba
+[01:14:25] haciendo un túnel, obviamente, ¿no? En
+[01:14:27] pleno centro y cortó un cable eh
+[01:14:30] subterráneo de delap. Bueno, del app no
+[01:14:34] tiene la culpa de la acción del tercero.
+[01:14:37] Sin embargo, el usuario vio el corte y
+[01:14:40] ese corte el usuario tiene que ser
+[01:14:42] resarcido. Por lo tanto, el distribuidor
+[01:14:45] tiene que calcular
+[01:14:48] esa interrupción y esa duración
+[01:14:52] y repetir contra el tercero que provocó
+[01:14:54] la afectación del servicio público.
+[01:14:57] Afectar un servicio público no es una
+[01:14:59] babada, tiene consecuencias atapenales.
+[01:15:03] Eh, así que
+[01:15:06] eh nosotros desde los SEBA tratamos de y
+[01:15:10] desde el marco regulatorio, no solo
+[01:15:12] desde los SEBA, tratamos de representar
+[01:15:17] eh esa compensación al usuario por no
+[01:15:20] disponer del servicio. Si la macana se
+[01:15:23] la mandó un tercero, bueno, vayan contra
+[01:15:25] el tercero, pero el usuario tiene que
+[01:15:26] ser compensado por la indisponibilidad.
+[01:15:30] Bueno, instalaciones propias pueden ser
+[01:15:32] en distintos niveles de tensión, 132,
+[01:15:35] 33, 13,2, en trafos, en la red de baja y
+[01:15:39] demás.
+[01:15:41] Las programadas pueden ser por
+[01:15:43] mantenimientos, por ampliaciones, por
+[01:15:44] maniobras, etcéteras.
+[01:15:47] Eh, y la aceptarnos al distribuidor por
+[01:15:50] eh por otro prestador de distribución,
+[01:15:52] como hablamos recién, si un distribuidor
+[01:15:54] aguas abajo eh toma la energía del
+[01:15:57] distribuidor aguas arriba, bueno, puede
+[01:15:59] ser que la falla esté en el aguas
+[01:16:00] arriba, puede ser porque es el origen se
+[01:16:04] dio eh ante un pedido de trasba
+[01:16:08] por saturación de alguno de transporte
+[01:16:09] para que alivie carga.
+[01:16:11] Puede ser por una falla en el SADI, eh,
+[01:16:15] que eso ya excede a la a las facultades
+[01:16:19] de de prevención del distribuidor y de
+[01:16:22] poder evitar ese corte.
+[01:16:24] Y acá lo que intentamos definir es qué
+[01:16:26] está incorporado. Bueno, está
+[01:16:28] incorporado el déficit en abastecimiento
+[01:16:31] originado en los sistemas de generación
+[01:16:32] y transporte, porque dijimos que el
+[01:16:35] distribuidor no puede alegar un déficit
+[01:16:38] en la generación o el transporte. y la
+[01:16:40] posible exclusión, que era lo que me
+[01:16:42] preguntaba uno de de los alumnos hoy.
+[01:16:46] Eh, se solo se excluirán del cómputo
+[01:16:48] aquellas interrupciones que tengan
+[01:16:49] origen en causas de fuerza mayor, las
+[01:16:52] cuales deberán ser acreditadas en los
+[01:16:55] tiempos y mediante los procedimientos
+[01:16:57] aprobados por el organismo de control.
+[01:16:59] Por suerte lo tenemos a Sergio que les
+[01:17:01] va a explicar bien esta parte, así que
+[01:17:05] podemos continuar.
+[01:17:07] Bueno, el cálculo de la energía no
+[01:17:08] suministrada eh es un poco como vimos
+[01:17:11] hoy, hay que determinar una cantidad de
+[01:17:13] energía por un valor para poder este
+[01:17:18] determinar la sanción.
+[01:17:20] ¿Qué es lo que qué es lo que tiene este
+[01:17:23] cálculo? Bueno, tiene básicamente tres
+[01:17:25] componentes. Una energía total de todas
+[01:17:28] las interrupciones mayores a 3 minutos
+[01:17:30] vista por el usuario, una energía que no
+[01:17:32] penaliza. ¿Por qué? porque está dentro
+[01:17:35] de los valores de tolerancia que
+[01:17:37] estuvimos charlando. Y el resultado,
+[01:17:40] perdón, me fui un poquito, y el
+[01:17:43] resultado de de todos los cortes que vi
+[01:17:47] el usuario menos aquellos que se pueden
+[01:17:48] descontar del total de la energía. Eso
+[01:17:52] se hace en un par de calculitos, pero
+[01:17:55] bueno, yo se lo se lo voy a explicar.
+[01:17:57] Entonces, la energía a penalizar,
+[01:18:00] vamos a poner acá, la energía a
+[01:18:01] penalizar es el total de la energía no
+[01:18:03] suministrada menos la que no penaliza.
+[01:18:07] Y vamos a explicar cada uno de ellos. La
+[01:18:09] energía no suministrada total es la
+[01:18:11] duración de cada interrupción, la
+[01:18:14] sumatoria de esa interrupción por un
+[01:18:15] factor llama factor K por el total de la
+[01:18:20] energía facturada en ese semestre sobre
+[01:18:23] 4380.
+[01:18:25] Bueno, vamos a ver entonces qué
+[01:18:26] significa cada término, así no nos
+[01:18:27] mareamos. La duración es la duración de
+[01:18:31] cada interrupción en horas. Acá este
+[01:18:33] loguito significa sumatoria. Entonces,
+[01:18:36] la sumatoria de cada interrupción es el
+[01:18:38] tiempo total de interrupción visto por
+[01:18:40] el usuario en ese semestre.
+[01:18:43] Después existe un factor KI que es un
+[01:18:45] factor representativo de las curvas de
+[01:18:47] carga. Ese factor que intenta demostrar,
+[01:18:50] intenta demostrar que no es lo mismo que
+[01:18:52] un usuario residencial vea un corte a
+[01:18:53] las 2 de la mañana. que los vea a las 9
+[01:18:57] de la noche cuando está mirando la
+[01:18:59] televisión y cocinando para irse a
+[01:19:00] dormir. Entonces este factor KI dice,
+[01:19:04] "Bueno, si esta esta cantidad de horas
+[01:19:07] se dieron a las 2 de la mañana,
+[01:19:10] tienen menor peso que si se dieron a las
+[01:19:14] 9 de la noche. Y esta multiplicación lo
+[01:19:17] que hace es eso, intenta ponderar.
+[01:19:20] Esa ponderación del factor K va por lo
+[01:19:23] general de 05 a 1,5,
+[01:19:26] salvo en el alumbrado público que se
+[01:19:28] hizo una distinción eh aparte de 0 a
+[01:19:33] 2,02. Esta distinción en el alumbrado
+[01:19:36] público, después lo menciono, el decreto
+[01:19:37] en el cual está, se hizo porque el
+[01:19:40] alumbrado público o está prendido o está
+[01:19:42] pagado. No hay
+[01:19:45] este no hay no hay un 05 c que ponderar
+[01:19:49] cuando el alumbrado público está pagado.
+[01:19:50] Entonces, tiene un valor inferior.
+[01:19:52] Digamos, si tuvo un corte a las 2 de la
+[01:19:55] tarde no tiene mucha afectación porque
+[01:19:58] ahí en ese momento el alumbrado público
+[01:19:59] debería estar apagado. Por lo tanto, que
+[01:20:02] que el distribuidor haga un corte para
+[01:20:04] hacer algún tipo de mantenimiento o por
+[01:20:07] alguna falla o por lo que sea, a las 2
+[01:20:09] de la tarde no tiene un impacto en el
+[01:20:11] usuario. Por lo tanto, el factor KI ahí
+[01:20:13] es bastante importante para ese análisis
+[01:20:16] en la penalización. Después, ETF,
+[01:20:19] energía total facturada del usuario en
+[01:20:20] el semestre en kilow. Si un usuario
+[01:20:22] consume 500 eh kW por mes, bueno, son
+[01:20:27] 500 kW por 6 meses.
+[01:20:31] 400
+[01:20:32] eh 4380, ¿de dónde sale esto? sale de 24
+[01:20:37] horas, que tiene un día, por 365 días
+[01:20:39] dividido dos porque hay que calcularlo
+[01:20:41] semestralmente. Entonces son la cantidad
+[01:20:43] de horas de un semestre
+[01:20:46] y n que está acá abajo en la energía no
+[01:20:49] penalizar son las interrupciones
+[01:20:52] ocurridas en el semestre menores al
+[01:20:55] límite fijado de frecuencia y tiempo.
+[01:20:58] Acá estamos hablando de tolerancia. Le
+[01:21:00] estamos diciendo, "Te voy a permitir
+[01:21:02] descontar
+[01:21:04] algunas interrupciones que están dentro
+[01:21:06] de los límites de tolerancia."
+[01:21:08] Por lo tanto, la formulita de cálculo
+[01:21:11] queda de esta manera y ustedes ya
+[01:21:13] conocen.
+[01:21:14] Me falta creo que este que está acá, no
+[01:21:17] sé si no está aclarado el de
+[01:21:18] interrupción. Esto es la cantidad total
+[01:21:22] de interrupciones intotal en el
+[01:21:24] semestre.
+[01:21:26] Un ejemplo es si un usuario vio 20
+[01:21:30] interrupciones en el semestre, bueno,
+[01:21:32] quizás cuatro de ellas se pueden
+[01:21:34] descontar porque están dentro del límite
+[01:21:37] de tolerancia.
+[01:21:39] Bueno, el factor KI que yo les
+[01:21:41] mencionaba, el factor representativo de
+[01:21:43] las curvas de carga, que hay un ejemplo,
+[01:21:45] no sé si este está actualizado, porque
+[01:21:46] yo lo tomé de una resolución de un
+[01:21:49] decreto provincial, el 199 del 0 de no
+[01:21:52] de esta, perdón, de la resolución 492
+[01:21:55] del 2004. Quizás hoy eh hoy han sido
+[01:21:58] actualizados después del RTI del 19,
+[01:22:01] pero bueno, están disponibles igual en
+[01:22:03] en el sistema de calidad de los EVA eh
+[01:22:06] que ingresan por exter los
+[01:22:07] distribuidores. Ahí pueden ver los
+[01:22:09] factores que hay para hacer el cálculo
+[01:22:11] de las penalizaciones. Y acá puede
+[01:22:13] observarse lo que yo les mencionaba.
+[01:22:15] Eh, bueno, hora 1
+[01:22:18] va de la hora 1 a la 24. Creo que hoy
+[01:22:21] está de la 0 a la 23.
+[01:22:24] Eh, de la 0 a la 23 es de las 00 hasta
+[01:22:28] la 1 de la mañana. De la 1 de la mañana,
+[01:22:30] el siguiente es de la 1 de la mañana
+[01:22:32] hasta las 2. Y acá podemos ver la
+[01:22:35] afectación en cada una de las
+[01:22:36] categorías.
+[01:22:38] Eh,
+[01:22:40] por ejemplo, vamos a hacer acá a la hora
+[01:22:44] 10 para un usuario de la tarifa T1, SKI
+[01:22:48] tiene una ponderación de 084.
+[01:22:53] Y para la hora 20 tiene 138. ¿Qué
+[01:22:57] significa? Que un corte a las 10 de la
+[01:22:59] mañana
+[01:23:00] penaliza en un 84%
+[01:23:04] de la duración y un corte a las 8 de la
+[01:23:07] noche penaliza en un eh 138% respecto
+[01:23:11] del original. Acá lo penaliza más y acá
+[01:23:16] lo penaliza menos. Esto es importante.
+[01:23:18] ¿Por qué? Porque los distribuidores
+[01:23:19] podrían observar
+[01:23:22] en qué horario la penalización afecta
+[01:23:25] menos para programar sus tareas de
+[01:23:26] mantenimientos, correcciones y demás. Es
+[01:23:29] bastante laboro, es un poco chino, pero
+[01:23:32] si uno quiere pagar menos penalización
+[01:23:35] es un buen ejercicio.
+[01:23:39] A ver,
+[01:23:39] una consulta, Pablo.
+[01:23:41] Sí.
+[01:23:43] Si el corte es originado por en este en
+[01:23:47] el caso nuestro trasba, por la
+[01:23:48] transportista, el valor de la energía
+[01:23:51] tiene eh tiene es distinto o es el mismo
+[01:23:56] porque eh es vos tenés que pensar que
+[01:23:59] esto se hace desde la óptica del
+[01:24:00] usuario.
+[01:24:02] El usuario ve un corte y dice, "Ah,
+[01:24:05] bueno, un corte independientemente si
+[01:24:07] sea del distribuidor, si sea de la
+[01:24:08] transportista, para mí vale tanto."
+[01:24:11] Hay que pensarlo así, hay que pensarlo
+[01:24:13] como esa compensación que el usuario
+[01:24:16] tiene que tener por observar un corte y
+[01:24:17] por un interrupción en su servicio,
+[01:24:19] independientemente qué fue lo que pasó
+[01:24:21] Aguas arriba, si te lo agarró la
+[01:24:22] tuneladora de del app, si te lo agarró
+[01:24:25] este un gajo de una rama de un vecino
+[01:24:29] haciendo poda o si te cortó trama.
+[01:24:32] Está bien, ¿no? Porque los otros casos
+[01:24:34] uno puede trasladar esa penalidad al a
+[01:24:37] la persona o al ente que provocó esta
+[01:24:39] penalidad, pero en el caso del
+[01:24:41] transportista no, porque tiene su propio
+[01:24:42] esquema de penalidad. E ahí lo que pasa,
+[01:24:46] bueno, ahí ya nos vamos a de la
+[01:24:47] jurisdicción de la parte provincial,
+[01:24:50] pero bueno, las transportistas tienen su
+[01:24:52] propio esquema de penalizaciones
+[01:24:54] que, si mal no recuerdo, se
+[01:24:59] se imputan al costo de transporte y al
+[01:25:04] imputar esa penalización al costo de
+[01:25:06] transporte reducen el costo de
+[01:25:07] transporte por esa penalización. Pero
+[01:25:09] bueno, no en este momento no lo recuerdo
+[01:25:11] bien, pero tengo en la cabeza que el
+[01:25:13] esquema era ese.
+[01:25:18] Bueno, eh no sé si
+[01:25:20] bien, continúa entonces.
+[01:25:25] Bueno, acá vemos un ejemplo entonces de
+[01:25:27] energía penalizada. Por acá le le saqué,
+[01:25:31] no saben de quién es esto, este usuario,
+[01:25:33] de qué distribuidor es. Capaz que si hay
+[01:25:36] alguno del otro lado dice, "Ah, somos
+[01:25:37] nosotros. nosotros tenemos esa energía
+[01:25:40] eh a penalizar. Acá ven un cálculo,
+[01:25:43] ¿ven? Sem a semestre cómo hacemos
+[01:25:45] seguimiento. Por ejemplo, este
+[01:25:47] distribuidor lo que vemos nosotros desde
+[01:25:49] el organismo de control en la tendencia
+[01:25:51] es que se está yendo por encima de la
+[01:25:54] media de la energía penalizada.
+[01:25:58] Eh, eso
+[01:26:00] puede ser por dos motivos. Puede ser
+[01:26:01] porque o tiene muchas más interrupciones
+[01:26:04] o tiene las mismas interrupciones o
+[01:26:06] menos, pero de mayor duración.
+[01:26:09] Por lo tanto, la cantidad de energía a
+[01:26:11] penalizar es mayor y la multa va a ser
+[01:26:13] mayor.
+[01:26:15] Este análisis en energía
+[01:26:18] está bueno porque uno muchas veces mira
+[01:26:21] el número final de la penalización y vos
+[01:26:23] decís, eh, se fue a la miércoles la
+[01:26:25] penalización. Bueno, pero porque muchas
+[01:26:27] veces la penalización está atada a la
+[01:26:29] evolución del del costo variable. El
+[01:26:32] costo variable cambia por precios
+[01:26:36] estacionales o contratos de compra de
+[01:26:37] energía o por aumento de bad. Eh, y no
+[01:26:41] refleja tanto la realidad técnica de lo
+[01:26:44] que está pasando en la red. La energía
+[01:26:46] no suministrada sí refleja la realidad
+[01:26:48] técnica y es un mejor indicador para ver
+[01:26:51] la parte técnica, para ver la parte
+[01:26:53] económica. Así vamos, vayamos a los
+[01:26:55] pesos, multiplicamos esto por la
+[01:26:56] cantidad de pesos y va a dar una curva
+[01:26:59] asintótica porque la inflación fue
+[01:27:01] enorme y el la tarifa tiene que
+[01:27:04] acompañar de cierta medida esa
+[01:27:06] inflación, por lo tanto tiene el mismo
+[01:27:08] sendero.
+[01:27:11] Bueno, cálculo, ¿cómo se calcula? Ya
+[01:27:14] hablamos de energía, dijimos cómo se
+[01:27:16] terminan los cortes mayores a 3 minutos,
+[01:27:18] que hay ciertas tolerancias y demás. Eh,
+[01:27:21] ahí tenemos la energía y tenemos el
+[01:27:23] costo de esa de esa energía. Y acá hay
+[01:27:26] unas diferencias. Eh, en el costo de la
+[01:27:28] energía para las eh pequeñas demandas se
+[01:27:32] calcula con 10 cargos variables y para
+[01:27:36] las tarifas T2 y T3 con 46 cargos
+[01:27:38] variables. Esto lo que intenta reflejar
+[01:27:41] es que eh un corte para una industria
+[01:27:46] eh es más más significativo, más dañoso
+[01:27:51] que para un usuario de una pequeña
+[01:27:53] demanda.
+[01:27:54] Eh, el tema de los cargos variables,
+[01:27:56] bueno, lo hemos discutido un montón de
+[01:27:58] veces. Eh,
+[01:28:01] nosotros entendemos que que se puede
+[01:28:03] revisar de alguna manera, así que
+[01:28:06] seguramente en el RTI se contempla
+[01:28:08] alguna otra fórmula eh más asociada a la
+[01:28:11] evolución del B, porque muchas de estas
+[01:28:14] penalización de servicio
+[01:28:16] eh se dan por eso mismo, por e por el
+[01:28:20] atraso diferencial o el atraso
+[01:28:22] transitorio en el en el BAD otorgado al
+[01:28:25] distribuidor.
+[01:28:27] Por lo tanto, si ustedes tienen mucho
+[01:28:29] bad, la penalización por por los desvíos
+[01:28:31] van a ser grande y si tienen poquito
+[01:28:33] bad, la penalización por los desvios va
+[01:28:35] a ser más chiquita. Nos parece que es
+[01:28:37] algo bastante razonable a considerar.
+[01:28:40] Sí, Pablo, ¿por qué no hay una
+[01:28:42] diferenciación? Discúlpame, Fernando,
+[01:28:45] eh, ¿por qué no hay una diferenciación
+[01:28:47] entre la penalización por calidad de
+[01:28:49] servicio cuando eh hablamos de tarifas
+[01:28:52] de transporte T5, T6 contra las T2, T3,
+[01:28:57] cuando la distribuidora no recauda lo
+[01:29:00] mismo en un caso y en otro? No,
+[01:29:03] eso eh no soy, yo no soy especialista en
+[01:29:05] tarifa. entiendo que es porque la mayor
+[01:29:08] parte del Bad este en ambas tarifas está
+[01:29:12] en los cargos de potencia.
+[01:29:15] digo, por lo tanto, el
+[01:29:18] el suministro T3 respecto del T5, la
+[01:29:21] única diferencia que debería tener es el
+[01:29:24] costo variable de compra de energía al
+[01:29:27] distribuidor o
+[01:29:29] a otro agente del mercado, ¿no?
+[01:29:32] Entonces, la equiparación
+[01:29:35] de al usuario debería resultar distinto,
+[01:29:39] ser un T3 o ser un T5.
+[01:29:43] Y eso iría en la conveniencia de ese
+[01:29:45] usuario de comprarle energía en el en el
+[01:29:48] mema o algún generador o comprar la
+[01:29:49] energía al distribuidor. Hay usuarios
+[01:29:52] que preferirían evitarse la compra de
+[01:29:54] energía en el meme y se la comprarían en
+[01:29:55] el distribuidor y otros que no.
+[01:29:58] Pero la instalación puesta a disposición
+[01:30:00] por parte de distribuidor es la misma
+[01:30:01] para los dos, nada más que en una cumple
+[01:30:04] una función adicional que es la compra
+[01:30:06] de energía, que en la otra no. y la
+[01:30:09] penalización
+[01:30:10] por la instalación puesta a disposición.
+[01:30:13] No hay mucha diferencia si el servicio
+[01:30:15] que le estamos brindando es el mismo.
+[01:30:18] Yo por eso yo entiendo que
+[01:30:19] pero no recauda lo mismo, digamos, una
+[01:30:21] desde el punto de vista de
+[01:30:22] distribuidora,
+[01:30:24] eh, el cobro de de la tarifa no es la
+[01:30:28] misma, digamos,
+[01:30:30] no es la misma
+[01:30:31] como que seríamos más perjudicados
+[01:30:34] cuando hablamos de un cliente del MEM.
+[01:30:38] No, no, no sé si si me has perjudicado,
+[01:30:41] ¿no? Bueno, si querés pasamos un ejemplo
+[01:30:44] concreto y y lo analizamos y lo consulto
+[01:30:46] con la gente de Tarifas para ver ese
+[01:30:48] caso puntual de de qué es lo que está
+[01:30:50] ocurriendo, porque quizás hay que
+[01:30:51] contemplarlo para incluirlo en la RTI.
+[01:30:55] Correcto. Eso es lo que digo.
+[01:30:56] Y eh
+[01:30:59] sí somos conscientes que eh eh el
+[01:31:02] suanexo nuevo del 18 hay algunas
+[01:31:06] formulitas cuando tenés más o menos
+[01:31:08] frecuencia de corte en distintos tipos
+[01:31:10] de usuarios, en este caso justo los T5,
+[01:31:12] que dan cosas eh
+[01:31:16] dan cosas que hay que mejorar,
+[01:31:18] ¿no? Así que quizás es es caso que vos
+[01:31:21] me estás planteando, pero si si querés
+[01:31:22] pasámelo por mail. y lo charlamos con la
+[01:31:26] gente de Tarifa, lo charlamos un poco
+[01:31:27] con Fed Arcilla de los EVA que que está
+[01:31:31] más metido en el en el cálculo puntual,
+[01:31:33] a ver qué es lo que vos estás planteando
+[01:31:35] y si se puede resolver de alguna manera
+[01:31:37] o tener en cuenta para para las
+[01:31:39] modificaciones que que haya que hacer.
+[01:31:41] Perfecto, muchas gracias. Gracias,
+[01:31:43] Fernando.
+[01:31:46] Una consulta, cuando un usuario hace un
+[01:31:49] reclamo y digamos va la cuadrilla o lo
+[01:31:53] que sea y determina que es instalación
+[01:31:55] interna del cliente,
+[01:31:57] es ese reclamo cuando se cierra con con
+[01:32:00] ese motivo, esa causa, no penaliza.
+[01:32:04] No, no debería penalizar.
+[01:32:06] Okay. ¿Y ustedes qué punto de control
+[01:32:08] tienen, digamos, para la determinación
+[01:32:10] de esa de esa causa interna del cliente?
+[01:32:14] No, no, eso quédate tranquilo porque nos
+[01:32:16] va a llegar el reclamo [risas]
+[01:32:18] este nos va a llegar el reclamo del
+[01:32:19] usuario que que ustedes le indicaron que
+[01:32:23] que no era por su culpa, pero pero
+[01:32:26] bueno, igual nosotros eh yo te dije que
+[01:32:28] había muchas veces poníamos
+[01:32:30] registradores en dos puntos de control,
+[01:32:33] eh a la salida del CT y en la punta de
+[01:32:38] de línea. Bien, eso nos permite ver si
+[01:32:42] la afectación fue del usuario o si fue
+[01:32:46] del distribuidor, porque y en y quizás
+[01:32:50] en un mismo en un mismo alimentador o en
+[01:32:53] un mismo CT más de un punto de control y
+[01:32:55] eso nos permite observar a ver si la
+[01:32:58] salida fue en el punto del usuario o si
+[01:33:01] fue en el CT o si fue en el alimentador
+[01:33:04] y nos permite controlar. De hecho, lo
+[01:33:06] hacemos. Hacemos el barrido de la cadena
+[01:33:08] eléctrica.
+[01:33:09] con los puntos de misión que tenemos y
+[01:33:12] seguramente ustedes se han dado cuenta
+[01:33:14] la parte la gente que trabaja en en
+[01:33:16] calidad de servicio técnico que que
+[01:33:19] el organismo está mucho más finito en
+[01:33:21] algunas cuestiones que antes quizás no
+[01:33:23] podía observar porque se han hecho
+[01:33:24] desarrollos informáticos que permiten un
+[01:33:26] mayor control.
+[01:33:30] Luciano, no sé si
+[01:33:31] Okay, sí, sí, me quedó claro, ¿no? Era
+[01:33:33] era para sacarme la duda de que no
+[01:33:35] penalice realmente cuando se se
+[01:33:38] determina que es instalación interna del
+[01:33:39] cliente.
+[01:33:41] No, no, igual ustedes lo tienen informar
+[01:33:43] como corte, pero pero en el motivo de
+[01:33:45] las causas seguramente lo informan como
+[01:33:47] que eh del usuario y no le calculan la
+[01:33:51] penalización. Pero si nosotros vemos ese
+[01:33:54] corte y detectamos que sí penaliza,
+[01:33:57] bueno, ahí es donde vienen los ajustes.
+[01:33:59] Después y la diferencia entre el control
+[01:34:02] y el recálculo que hace el Osea y el y
+[01:34:05] el cálculo que hizo originalmente el
+[01:34:07] distribuidor.
+[01:34:10] Bueno,
+[01:34:13] módulo 3es terminado. Viene el módulo
+[01:34:15] cuatro.
+[01:34:16] Pablo, una consulta.
+[01:34:18] Sí.
+[01:34:20] Eh, bueno, buen día. Mi nombre es
+[01:34:21] Ignacio Mor yo soy de la de la
+[01:34:23] cooperativa Eléctrica de Rojas. Eh, vos
+[01:34:25] sabes que nosotros no nos quedó muy
+[01:34:27] claro el tema de eh te explico el
+[01:34:29] ejemplo, nosotros tenemos una de las
+[01:34:31] localidades de acá del partido de Rojas
+[01:34:33] que tenemos el servicio eh nos lo da
+[01:34:36] Edén en línea de 33.
+[01:34:38] Sí.
+[01:34:38] Eh y cuando hablamos del tema de eh los
+[01:34:42] cortes que tiene en la línea de Edén de
+[01:34:44] 33,
+[01:34:45] ¿cómo es la la responsabilidad
+[01:34:47] compartida en ese caso? Porque nosotros
+[01:34:49] declaramos eh las contingencias, ponemos
+[01:34:52] que el motivo fue por Edén, pero después
+[01:34:54] la penalización sigue a cargo nuestro.
+[01:34:58] Claro, porque ahí hay un concepto que se
+[01:35:00] llama transferencias de penalidades
+[01:35:02] entre distribuidores.
+[01:35:04] Qué raro, ¿no? No sé por qué, pero no me
+[01:35:06] acuerdo de haberlo leído. Eh, lo dije.
+[01:35:10] Ah, bueno. Eh, entonces, eh, ¿qué es lo
+[01:35:12] que pasa ahí? En los puntos de frontera
+[01:35:14] entre distribuidores deberían estar
+[01:35:16] instalados equipos que permitan
+[01:35:18] registrar todos los cortes en el punto
+[01:35:22] de frontera.
+[01:35:24] Ese equipo que puede ser propiedad del
+[01:35:27] aguas arriba generalmente
+[01:35:30] eh es lo que evita las discusiones de
+[01:35:33] qué cortes pertenecen al distribuidor
+[01:35:34] aguas abajos y cuál el aguas arriba.
+[01:35:38] Entonces, en el cálculo de
+[01:35:39] penalizaciones del distribuidor a Was
+[01:35:41] abajo, uno debería solicitarle al
+[01:35:44] distribuidor a Was arriba o reclamarle
+[01:35:46] al distribuidor a WAS arriba. Todos
+[01:35:48] estos cortes son por causas ajenas a mi
+[01:35:52] servicio de distribución y vienen del
+[01:35:54] servicio de distribución aguas arriba. Y
+[01:35:57] ahí en ese reclamo o en esa discusión,
+[01:36:02] a través de ese equipo que registra en
+[01:36:04] el punto de frontera, uno puede
+[01:36:06] dilucidar qué porcentaje le corresponde
+[01:36:09] a cada uno de la penalización que al
+[01:36:12] final el distribuidor aguas abajo le
+[01:36:14] tiene que trasladar al usuario. Por lo
+[01:36:17] tanto, si no tienen instalado el equipo
+[01:36:19] en el punto frontera, bueno, es
+[01:36:21] necesario que lo instalen porque si no
+[01:36:22] se la van a pasar discutiendo sobre
+[01:36:23] estas cosas.
+[01:36:26] Bien. Perfecto. No, no, sí se
+[01:36:28] [carraspeo] se entiende. Eh, en realidad
+[01:36:30] nunca nunca habíamos eh llegado a la
+[01:36:33] discusión porque nunca se lo planteamos
+[01:36:34] porque pensábamos que era
+[01:36:35] responsabilidad de la cooperativa. Eh,
+[01:36:38] pero bueno, me me dejas una una
+[01:36:41] inquietud para hablar con el ingeniero
+[01:36:43] como para poder solucionarlo y que
+[01:36:44] tenemos la posibilidad de
+[01:36:46] decirle a Rostito que esto lo sabe. No
+[01:36:48] sé si sigue estando.
+[01:36:50] Sí, sí, está Fabián, pero justo tener la
+[01:36:52] reunión, pero bueno. Eh,
+[01:36:54] pero nunca lo habíamos hablado. Listo.
+[01:36:56] Perfecto, gracias Pablo. Por nada.
+[01:36:59] Bueno, continuamos
+[01:37:00] volando.
+[01:37:01] Listo. Dale.
+[01:37:03] Vamos a un recreito.
+[01:37:05] Esta parte es más sencillita, así que no
+[01:37:07] es tan no es tan cargoso como la
+[01:37:08] anterior, por eso lo arremací, la parte
+[01:37:10] técnica es mucho más pesada, más densa.
+[01:37:12] Esto es más llevadero. Básicamente el
+[01:37:15] suanexo D en el apartado cuatro tiene 10
+[01:37:19] puntitos con obligaciones.
+[01:37:22] Los incumplimientos de esas obligaciones
+[01:37:24] generan penalizaciones.
+[01:37:26] esas penalizaciones, eh [carraspeo]
+[01:37:29] no todos los puntos generan
+[01:37:30] penalizaciones
+[01:37:32] eh como la como yo se las estoy
+[01:37:34] mencionando, sino que algunos a través
+[01:37:36] de auditoría pueden generar eh un
+[01:37:38] sumario y ese sumario generar sanciones
+[01:37:41] complementarias.
+[01:37:43] Por lo tanto, se los voy a pasar rápido
+[01:37:45] porque esto es más fácil de leer, no
+[01:37:46] hace falta que lo explique tanto.
+[01:37:48] Tenemos calidad de de atención
+[01:37:50] comercial.
+[01:37:52] Este,
+[01:37:53] acá las obligaciones del distribuidor es
+[01:37:55] que tiene que facilitar las
+[01:37:57] tramitaciones, atender todos los
+[01:37:59] reclamos y dar una adecuada solución.
+[01:38:03] Eso, todos esos reclamos tienen que
+[01:38:05] registrarse en un sistema y una base de
+[01:38:07] datos auditables
+[01:38:08] y además debe disponer de un centro de
+[01:38:10] atensión telefónica
+[01:38:12] para atender la mayor cantidad de
+[01:38:14] reclamos posibles y la mayor cantidad de
+[01:38:16] consultas, pero principalmente para
+[01:38:18] seguridad en la vía pública y la falta
+[01:38:20] de suministro debe estar eh las 24 horas
+[01:38:22] de los 365 del año eh disponible.
+[01:38:27] E y acá se los marqué ahí abajo en
+[01:38:30] negrita en el último punto, digo, debe
+[01:38:32] implementar sistema de telegestión para
+[01:38:35] reducir la afluencia de sus locales sin
+[01:38:38] resignar la posibilidad de la atención
+[01:38:40] personalizada.
+[01:38:41] Nosotros entendemos que la atención
+[01:38:43] personalizada es fundamental porque
+[01:38:44] todos los servicios
+[01:38:47] uno llama para hacer un reclamo y está
+[01:38:49] en el teléfono, en el computador, dando
+[01:38:51] vueltas y demás y muchas veces no
+[01:38:53] termina resolviendo el problema. Sin
+[01:38:55] embargo, cuando va a una oficina de
+[01:38:57] atención comercial, sí lo hace y además
+[01:38:59] porque hay una brecha generacional que
+[01:39:01] no todas las personas utilizan los
+[01:39:03] medios digitales, por lo tanto todavía
+[01:39:04] hay que conservar la atención
+[01:39:06] personalizada.
+[01:39:09] Bueno, ¿qué informes hay que presentar
+[01:39:10] de atención comercial con desagregado
+[01:39:13] mensual sobre parámetros comerciales?
+[01:39:15] Hay que presentar las siguientes tablas:
+[01:39:17] el tratamiento de las reclamaciones, las
+[01:39:18] conexiones, facturación estimada,
+[01:39:20] suspensión de suministro por falta de
+[01:39:21] pago y quejas.
+[01:39:23] ¿Qué más hay que hacer? Hay que remitir
+[01:39:25] facturas según la comunicación
+[01:39:27] regulatoria 4 del 19 son cinco facturas
+[01:39:30] de cada categoría tarifaria que se
+[01:39:32] cargan en la extranet de los EVA. Esto
+[01:39:35] nos permite auditar a nosotros que
+[01:39:37] ustedes estén facturando bien.
+[01:39:40] Calidad de atención comercial continúa
+[01:39:41] en remitir el registro de usuarios
+[01:39:43] electrodependientes, remitir la
+[01:39:46] estructura de costos correspondientes a
+[01:39:48] los avistos de suspensión y deuda. Eso
+[01:39:50] se llaman gastos administrativos. Cada
+[01:39:52] tanto se emite alguna resolución
+[01:39:53] reconociéndolos.
+[01:39:55] Eh, el organismo de control e
+[01:39:59] bueno, implementa
+[01:40:01] acciones comerciales de auditoría y
+[01:40:03] demás. Elabora el distribuidor tiene que
+[01:40:05] elaborar varios programitas, entre ellos
+[01:40:08] uno de contingencia por si tiene algún
+[01:40:10] inconveniente en su local de atención
+[01:40:13] comercial o en sus vías de atención
+[01:40:15] comercial digitales y elaborar programas
+[01:40:18] de capacitación. ¿Para qué? para que el
+[01:40:20] personal que atiende al usuario esté
+[01:40:23] instruido y pueda dar la respuesta
+[01:40:24] correspondiente. Muchas veces nosotros
+[01:40:27] lo vemos en en Oseva, atender al usuario
+[01:40:30] requiere del profesional más capacitado,
+[01:40:33] no del ingresante, porque es el que
+[01:40:35] tiene que saber todo el marco
+[01:40:36] regulatorio y todos los posibles desvíos
+[01:40:38] para poder dar la respuesta adecuada.
+[01:40:40] Por lo tanto, es fundamental el puesto
+[01:40:42] de atención al público.
+[01:40:45] Bueno, locales de atención, hay algunas
+[01:40:47] consideraciones a tener. Tienen que
+[01:40:50] estar estructurados a fin de posibilitar
+[01:40:52] una atención adecuada. En eso de
+[01:40:54] estructurado a fin de posibilitar una
+[01:40:55] adesión adecuada y un montón de
+[01:40:57] conceptos adentro que están en el
+[01:40:58] subanexo y que están en resoluciones
+[01:41:00] circulares, otros subanexos que no son
+[01:41:03] el D. Eh, así que bueno, eso está como
+[01:41:06] criterio general, ya tiene que ser
+[01:41:09] adecuado para la atención.
+[01:41:11] Eh, es personal que oriente al usuario,
+[01:41:14] tienen que disponer del reglamento de
+[01:41:15] suministro de conexión, del cuadro
+[01:41:17] tarifario, los libros de queja, el
+[01:41:18] subanexo de el horario de atención no
+[01:41:21] puede ser inferior a 7 horas diarias los
+[01:41:24] días laborales del año, sin excepción y
+[01:41:27] deben respetarse las normas de seguridad
+[01:41:29] higiene y acceso a usuarios con
+[01:41:31] capacidades diferentes.
+[01:41:33] ¿Qué más tiene que tener? eh o que qué
+[01:41:36] más debe cumplir el distribuidor no
+[01:41:38] puede deshabilitar o cerrar una o más
+[01:41:41] oficinas comerciales
+[01:41:43] sin previa autorización del organismo de
+[01:41:45] control. Sí puede abrir. Ustedes pueden
+[01:41:47] abrir todas las oficinas comerciales que
+[01:41:49] quieran y nos informan, pero al momento
+[01:41:51] de cerrarla, si nosotros no autorizamos
+[01:41:54] no lo pueden hacer.
+[01:41:56] En el caso de localidades con un número
+[01:41:58] de usuarios inferior a 5,000,
+[01:42:01] este pueden plantear, el distribuidor
+[01:42:03] puede plantear una modalidad y horario
+[01:42:05] de atención diferente previamente
+[01:42:07] acordadas con el organismo de control.
+[01:42:09] Un ejemplo de eso, ¿qué puede ser? Puede
+[01:42:11] ser que eh durante los en un en un
+[01:42:18] distribuidor de la costa atlándica
+[01:42:20] tenemos un caso que planteó
+[01:42:23] eh reducir una hora de los días de
+[01:42:26] semana, pero compensarla los días
+[01:42:27] sábados cumpliendo
+[01:42:31] las 7 por 5 35 horas de atención, eh,
+[01:42:36] pero incorporando un día más. ¿Por qué?
+[01:42:38] Porque la afluencia de los visitantes a
+[01:42:42] esa localidad de la costa atlántica, por
+[01:42:44] lo general, se da los fines de semana y
+[01:42:45] cuando los usuarios querían hacer su
+[01:42:47] reclamo, la oficina de atención
+[01:42:48] comercial estaba cerrada.
+[01:42:50] Pidió permiso al usuario y nosotros le
+[01:42:52] dijimos que nos parecía que estaba bien.
+[01:42:54] Así que no es que somos tajantes, sino
+[01:42:57] que analizamos
+[01:42:58] la la causa por la cual se solicita la
+[01:43:02] modificación del horario o el día de
+[01:43:04] atención.
+[01:43:06] Bueno, centros de atención telefónica.
+[01:43:07] Tiene que haber atención telefónica
+[01:43:09] gratuita con personal propio, ubicarse
+[01:43:12] dentro de su área de concesión, salvo
+[01:43:14] autorización expresa del organismo y
+[01:43:16] contar con número suficiente de
+[01:43:18] operadores. Esto es importante lo del
+[01:43:21] número de operadores, porque muchas
+[01:43:22] veces cuando hay cortes o demás se
+[01:43:24] colapsa eh la tensión y el usuario no
+[01:43:29] puede efectuar su reclamo.
+[01:43:32] Reclamaciones, receptar toda la
+[01:43:34] reclamación del usuario.
+[01:43:37] quien debe quien debe tener un
+[01:43:39] comprobante por esa reclamación, ese
+[01:43:41] comprobante tiene que tener determinadas
+[01:43:43] características con un código relativo,
+[01:43:45] una fecha de recepción, el motivo, la
+[01:43:47] respuesta, una fecha estimada de
+[01:43:49] resolución y esa respuesta debe estar
+[01:43:52] dada dentro de los 15 días hábiles
+[01:43:55] administrativos de recibida.
+[01:43:58] E los acá hay una particularidad que es
+[01:44:01] que los registros por falta de
+[01:44:03] suministro cuando hay una interrupción,
+[01:44:04] bueno, como hay cargas masivas de
+[01:44:07] reclamo por falta de suministro, es el
+[01:44:09] único caso en el que hay una
+[01:44:10] excepcionalidad y se le permite al
+[01:44:12] distribuidor no darle esa respuesta al
+[01:44:16] usuario que se restituyó al servicio.
+[01:44:18] Sin embargo, sí lo tiene que registrar
+[01:44:20] como corte en las tablas que vimos hace
+[01:44:22] un ratito.
+[01:44:24] Bueno, e informar a los Eva
+[01:44:28] por medio de la resolución 251 todas las
+[01:44:30] reclamaciones y y demás.
+[01:44:34] Bueno, la emisión de facturas. Las
+[01:44:35] facturas tienen que estar basadas en
+[01:44:37] lecturas reales. Tiene que pasar el
+[01:44:39] tomaestado o el lecturista y observar el
+[01:44:42] medidor. Y si no pasa elurista, el
+[01:44:44] lectorista y tenemos eh medidores e
+[01:44:48] inteligentes y que se puede acceder por
+[01:44:51] lectura remoto, bueno, tiene que medirse
+[01:44:54] esto de lecturas reales. Va en
+[01:44:55] contraposición. Básicamente lo que
+[01:44:57] estamos diciendo, che, no estimen
+[01:45:00] eh contenido mínimo según lo normado en
+[01:45:02] el anverso y reverso, tanto en la parte
+[01:45:05] frontal de la factura como en la parte
+[01:45:07] posterior de la factura, hay un montón
+[01:45:09] de información que que el marco
+[01:45:11] regulatorio dispuso que tiene que
+[01:45:12] existir. Bueno, hay que cumplirla.
+[01:45:16] Eh, la factura al usuario le tiene que
+[01:45:17] llegar con al menos 4 días hábiles de
+[01:45:20] anticipación para permitirle un tiempo
+[01:45:22] razonable para el pago. Eh,
+[01:45:26] y cuando no exista disponibilidad para
+[01:45:29] bajarla desde la página web o o la
+[01:45:31] oficina virtual, bueno, eso no exime el
+[01:45:33] distribuidor de la obligación de
+[01:45:37] entregársela al usuario cuatro con 4
+[01:45:39] días hábiles de anticipación.
+[01:45:42] Básicamente lo que quiere lo que lo que
+[01:45:45] se quiere decir es si no llegaste a
+[01:45:47] entregarle la factura al usuario con los
+[01:45:49] 4 días, bueno, correle la fecha de
+[01:45:53] vencimiento porque el usuario no tiene
+[01:45:54] la culpa de que tu proceso de
+[01:45:57] facturación se haya
+[01:46:00] Los Bueno, el último eh puntito es los
+[01:46:04] usuarios deben dar consentimiento
+[01:46:06] expreso para la modalidad de obtención
+[01:46:08] de facturas por medio digital.
+[01:46:10] ¿Qué significa esto? Que la factura
+[01:46:13] siempre es en papel por correo, salvo
+[01:46:16] que el usuario
+[01:46:18] eh hallado su encendimiento por escrito
+[01:46:22] durante la solicitud de conexión de que
+[01:46:25] la quiera recibir de manera digital.
+[01:46:29] conexiones. Eh, para hacer las
+[01:46:32] conexiones, el suministro, el usuario
+[01:46:35] debe completar una declaración jurada
+[01:46:36] habilitada por el distribuidor y los
+[01:46:39] plazos se contabilizan desde que
+[01:46:41] completó todos los trámites y realizó el
+[01:46:43] pago de esa conexión.
+[01:46:46] Estas conexiones tienen que ser
+[01:46:47] informadas por medio de la resolución
+[01:46:50] 251 para ver cuánto tiempo transcurrió
+[01:46:54] desde que el usuario hizo todos los
+[01:46:55] trámites y pagó hasta que realmente se
+[01:46:57] le conectó. ¿Por qué? Porque hay un
+[01:47:01] plazo establecido para realizar la
+[01:47:02] conexión, que son estos que están más
+[01:47:04] abajo. Sin modificaciones de red y hasta
+[01:47:07] 50 kg, es decir, pequeñas demandas y
+[01:47:09] medianas demandas, el distribuidor tiene
+[01:47:12] 5 días hábiles y más de 50 kg, que sería
+[01:47:16] un T3, tiene hasta 10 días hábiles. Y
+[01:47:20] con modificaciones de red para usuario
+[01:47:22] T3, más de 50 kg tienen que convenir la
+[01:47:25] fecha de de conexión, pero debería
+[01:47:28] ejecutarse dentro de un plazo máximo de
+[01:47:30] 150 días.
+[01:47:32] Facturación estimadas. Acá hay algunos
+[01:47:34] límites. Eh, no se pueden ejecutar más
+[01:47:38] de dos lecturas estimadas en un año y la
+[01:47:41] facturación estimada no podrá superar
+[01:47:43] más del 8% en cada categoría. Solo en
+[01:47:46] los casos probados de fuerza mayor y
+[01:47:48] aquello justificado se podrá estimar.
+[01:47:51] Nosotros le dijimos, "No queremos que
+[01:47:52] estimen." Pero si vos tenés un servicio
+[01:47:55] con mucha ruralidad y tenés muchos
+[01:47:58] usuarios rurales, no podés acceder
+[01:47:59] porque estuvo lloviendo una semana
+[01:48:01] entera, bueno, en ese caso vos deberías
+[01:48:05] probar la fuerza mayor y que está
+[01:48:07] justificado y ahí sí podrías estimar
+[01:48:10] hasta esas dos lecturas o hasta el 8%.
+[01:48:13] ¿Por qué no todas las rutas de lectura
+[01:48:15] están en las mismas condiciones? Las
+[01:48:17] lecturas estimadas excedentes en
+[01:48:18] justificación estarán sujetas a
+[01:48:21] penalizaciones. Cuando el distribuidor
+[01:48:23] no ha podido tomar lectura porque el
+[01:48:25] equipo de mensión está dentro de
+[01:48:27] propiedad del usuario, ¿qué qué es eh
+[01:48:29] qué es lo que pasa acá? Hay muchos
+[01:48:30] equipos de dimensión que por lo general
+[01:48:32] están en un sótano o en un campo que hay
+[01:48:34] que abrir muchas tranquas. No tenemos
+[01:48:36] las llaves o el usuario no nos abrió o
+[01:48:38] cambió la llave, no pudimos entrar a
+[01:48:40] tomar la lectura. Bueno, en ese caso hay
+[01:48:42] que cursar intimación al usuario y con
+[01:48:45] esa intimación con evidencia nosotros
+[01:48:47] podemos eximirnos de un exceso
+[01:48:51] eh en la cantidad de estimaciones o en
+[01:48:53] el porcentaje de estimaciones y no
+[01:48:56] debiera ser tenido en cuenta para la
+[01:48:57] aplicación del régimen de sanciones.
+[01:49:05] Ya estoy. Sí, me queda nada. Eh,
+[01:49:08] suspensión del suministro por falta de
+[01:49:10] pago. Eh, tienen que ser notificados con
+[01:49:13] una antelación mínima de 48 horas
+[01:49:15] motivado por falta de pago en el término
+[01:49:16] de la factura y esa notificación no
+[01:49:18] puede ser previa a un día inhábil o
+[01:49:20] feriado.
+[01:49:24] Bueno, disp tiene que haber un libro de
+[01:49:26] quejas y esas quejas tienen que ser
+[01:49:27] remitidas al usuario y la información eh
+[01:49:30] de la web. Hay carácter de información
+[01:49:32] general, hay una resolución específica
+[01:49:34] que es la 105 del 15 y las
+[01:49:36] características que tiene que tener la
+[01:49:37] oficina virtual. Y la última, con esto
+[01:49:41] ya cerramos. Acá están las
+[01:49:42] penalizaciones por cada una de esas eh
+[01:49:45] de esos incumplimientos. Fíjense que yo
+[01:49:48] le les puse para que sea más fácil,
+[01:49:50] respuesta y resolución de reclamo. El
+[01:49:52] punto 44 que vimos recién, si no se
+[01:49:54] cumple, genera esta sanción. El punto 46
+[01:49:57] conexiones, si no se cumplen los plazos,
+[01:49:59] genera esta sanción. Y así cada una. Y
+[01:50:02] son estas cuatro las sanciones que se
+[01:50:03] generan eh, en carácter de penalización
+[01:50:08] y la parte comercial ahí la cerramos.
+[01:50:11] Síntesis. Entonces, de todo esto,
+[01:50:15] el marco regulatorio tiene leyes,
+[01:50:17] decretos, resoluciones circulares, guías
+[01:50:19] regulatorias, comunicaciones
+[01:50:21] regulatorias,
+[01:50:22] etcétera,
+[01:50:24] y el contrato de concesión y todos los
+[01:50:26] anexos poseen obligaciones. Por ende, no
+[01:50:30] es solamente lo que yo les mencioné en
+[01:50:32] esta presentación de su anexo de la
+[01:50:34] calidad del servicio público de
+[01:50:35] distribución tiene que entenderse como
+[01:50:37] un sinónimo de cumplimiento de las
+[01:50:38] obligaciones en su conjunto, no
+[01:50:40] solamente esta partecita. Tienen que
+[01:50:42] cumplir todo. Si ustedes cumplen todas
+[01:50:44] las obligaciones y lo más probable es
+[01:50:46] que el servicio sea de calidad. Si las
+[01:50:48] incumplen, lo más probable que estén
+[01:50:49] desviados y no sea de calidad. Así que
+[01:50:52] bueno, hasta acá la presentación mía.
+[01:50:54] Les agradezco por el tiempo y la
+[01:50:56] paciencia.
+[01:50:58] Gracias, Pablo.
+[01:51:00] Hacemos 5 minutos de recreo y seguimos
+[01:51:04] con Sergio que estamos poquito
+[01:51:06] atrasados. Sí. 5 minutitos n más.
+[01:51:09] Gracias.
+[01:51:22] Estamos medios escasos de tiempo.
+[01:51:25] Eh, Sergio va a presentar toda la clase.
+[01:51:30] La idea es que dejemos las preguntas
+[01:51:31] para el final, así no
+[01:51:34] la puede terminar. De todos modos, el
+[01:51:37] jueves que viene, en caso que quedaran
+[01:51:39] preguntas pendientes, o bien las hacen
+[01:51:42] por mail, eh, y Sergio las puede
+[01:51:45] responder o el jueves que viene, que
+[01:51:49] tenemos eh clases con Pablo San Miguel,
+[01:51:53] eh, puede también quedar abierta a
+[01:51:56] terminar lo que quede pendiente de hoy.
+[01:51:59] Bueno, buenos días. Este,
+[01:52:03] espero que estén vivos después de la
+[01:52:04] clase excepcional del ingeniero San
+[01:52:07] Miguel, este, y que tengan un poquito
+[01:52:10] más de de pilas para para ahora
+[01:52:12] soportarme a mí.
+[01:52:14] Bueno, antes de de ingresar este a
+[01:52:17] tratar el tema específico del de lo que
+[01:52:19] es este el régimen de sanciones
+[01:52:21] previstos en el contrato de concesión,
+[01:52:24] este voy a hacer una una breve
+[01:52:26] referencia a la misión y a la función de
+[01:52:29] los EVA relacionada con el tema y a la
+[01:52:31] ejecución de estas a través de la
+[01:52:33] gerencia competente. Esto lo voy a hacer
+[01:52:35] rápidamente porque entiendo que ya lo lo
+[01:52:38] han visto este en clases anteriores,
+[01:52:40] pero bueno, este la misión de una
+[01:52:42] organización es este la razón
+[01:52:45] fundamental, el propósito de de la
+[01:52:48] creación de esa de esa organización y en
+[01:52:51] tal sentido tenemos que los SEBA este la
+[01:52:54] misión principal es ejercer el control y
+[01:52:56] la fiscalización del cumplimiento de las
+[01:52:59] obligaciones establecidas en el marco y
+[01:53:01] de los contratos de concesión en el
+[01:53:03] ámbito de las áreas concesionales en la
+[01:53:05] provincia de Buenos Aires, control que
+[01:53:07] se ejerce sobre cuatro distribuidoras
+[01:53:10] provinciales y sobre 200 distribuidoras
+[01:53:14] con concesión municipal. Todo ello en
+[01:53:16] una superficie de 300000 km cuad y en un
+[01:53:20] universo de 2,800
+[01:53:23] este usuarios. Cifra este aproximada.
+[01:53:30] No me pasa
+[01:53:31] con este, con este.
+[01:53:33] Ah, con esta
+[01:53:35] no
+[01:53:35] no pasa.
+[01:53:39] Está
+[01:53:40] con qué pasas
+[01:53:41] con las flechitas. Se ve que agarrando.
+[01:53:43] Sí.
+[01:53:44] Bueno,
+[01:53:46] bueno, eh, dentro de las funciones de
+[01:53:49] los CEO, o sea, la función es este cómo
+[01:53:52] se ejecuta la misión, este implica este
+[01:53:55] una distribución de de tareas este en
+[01:53:59] determinados sectores relacionado con el
+[01:54:01] régimen de calidad este eh con el
+[01:54:04] régimen, perdón, de sanciones, este, las
+[01:54:08] funciones de los EVA, este tiene como
+[01:54:11] función reglamentar el procedimiento
+[01:54:13] para la aplicación de sanciones que
+[01:54:15] correspondan por violación de las
+[01:54:17] disposiciones legales, reglamentarias o
+[01:54:19] contractuales y aplicar este las
+[01:54:22] sanciones previstas en la ley, en la
+[01:54:24] reglamentación y en los contratos de
+[01:54:26] concesión, respetando en todos los casos
+[01:54:29] el debido proceso. Obviamente que este
+[01:54:32] el organismo cuenta con un abanico mucho
+[01:54:35] mayor de funciones que bueno que
+[01:54:36] entiendo que ya fueron puestas este
+[01:54:38] oportunamente.
+[01:54:41] ¿Cómo se ejecutan esas funciones? Bueno,
+[01:54:43] esas funciones se ejecutan a través de
+[01:54:45] las gerencias. El organismo tiene este
+[01:54:48] en su estructura orgánica, además del
+[01:54:50] directorio que está compuesto por cinco
+[01:54:52] miembros, tiene cuatro gerencias que ahí
+[01:54:55] están mencionadas, la administración y
+[01:54:57] personal, la gerencia de mercados, la de
+[01:54:59] control de concesiones y procesos
+[01:55:01] regulatorios, cuenta con un consejo
+[01:55:04] asesor y con áreas que dependen
+[01:55:06] directamente del directorio.
+[01:55:09] En cuanto al tema objeto de esta
+[01:55:11] presentación, este, las funciones del
+[01:55:13] organismo son ejecutadas este a través
+[01:55:17] de la gerencia de procesos regulatorios,
+[01:55:19] que tiene a su cargo, entre otras, las
+[01:55:21] de instruir este los sumarios
+[01:55:24] administrativos y aplicar, en su caso
+[01:55:26] las sanciones correspondientes,
+[01:55:29] registrarlas y perseguir su cobro con
+[01:55:32] intervención de resultar necesaria la de
+[01:55:36] la Dirección Provincial de Gestión. y
+[01:55:38] recupero de créditos fiscales.
+[01:55:40] Obviamente que la gerencia cuenta con
+[01:55:42] otras este funciones este como ser por
+[01:55:46] ejemplo intervenir en la autorización de
+[01:55:49] conceptos ajenos, en los recursos
+[01:55:51] administrativos que se intergan contra
+[01:55:53] las este actos administrativos, bueno, y
+[01:55:56] demás que por una cuestión de tiempo no
+[01:55:58] las voy a obviar.
+[01:56:01] La potestad sancionatoria constituye un
+[01:56:04] instrumento contractual
+[01:56:06] para ser utilizado como señal económica
+[01:56:09] con el fin de lograr la conducta
+[01:56:10] esperada por la concesionaria.
+[01:56:13] es un elemento esencial del sistema
+[01:56:15] regulatorio vigente, sin el cual
+[01:56:18] resultaría imposible el ejercicio
+[01:56:19] efectivo de las competencias conferidas
+[01:56:21] a los Oceva para encausar los desvíos e
+[01:56:24] incumplimientos verificados en el
+[01:56:26] sector. La doctrina ha señalado que la
+[01:56:29] potestad sancionatoria de la
+[01:56:30] administración constituye una
+[01:56:32] herramienta esencial para asegurar la
+[01:56:35] eficacia del ordenamiento regulatorio y
+[01:56:37] el cumplimiento de las obligaciones a su
+[01:56:39] cargo. En otras palabras, la potestad
+[01:56:43] sancionatoria es la facultad de los EVA
+[01:56:45] para imponer las sanciones a los
+[01:56:47] concesionarios ante el incumplimiento de
+[01:56:49] las previsiones contempladas en el marco
+[01:56:51] regulatorio conforme al régimen
+[01:56:54] establecido al respecto, las cuales
+[01:56:57] deben este obrar como señal, como
+[01:57:01] incentivo para corregir la conducta del
+[01:57:04] concesionario en beneficio del usuario
+[01:57:07] de los usuarios.
+[01:57:09] En el capítulo 17, la ley 11769,
+[01:57:14] este contempla este todo lo referido a
+[01:57:17] contravenciones y sanciones y se refiere
+[01:57:20] y el artículo 70 este contempla potestad
+[01:57:24] sancionatoria
+[01:57:26] pasible de ser ejercida este sobre los
+[01:57:29] concesionarios de servicios públicos.
+[01:57:31] Ahí vemos que establece que las
+[01:57:33] violaciones o incumplimientos que surgan
+[01:57:35] de los contratos serán sancionadas con
+[01:57:37] el régimen de penalidades allí previsto,
+[01:57:40] que dicho régimen deberá atender o
+[01:57:41] orientar las inversiones hacia el
+[01:57:43] beneficio de los usuarios, responder a
+[01:57:45] un criterio de progresividad, pudiendo
+[01:57:48] prever, entre otras, las sanciones de
+[01:57:51] apercibimiento y multa. También señala
+[01:57:54] que las sanciones serán proporcionadas a
+[01:57:57] la magnitud de los incumplimientos y
+[01:57:59] tendrán en cuenta la reiteración de los
+[01:58:01] mismos, así como los perjuicios
+[01:58:03] suferidos por los usuarios y que su
+[01:58:05] acumulación durante el término de
+[01:58:07] vigencia de la concesión será
+[01:58:10] considerado un cumplimiento grave y
+[01:58:13] puede habilitar la este sanción de
+[01:58:16] caducidad.
+[01:58:18] Los artículos 71 y 72 que integran el
+[01:58:21] mismo capítulo facultan a los EVA en el
+[01:58:23] ejercicio de esa potestad a disponer el
+[01:58:26] secuestros de bienes como una medida
+[01:58:28] precautoria, salvo que esos bienes
+[01:58:30] pertenezcan a un tercero no responsable
+[01:58:33] y a requerir el auxilio de la fuerza
+[01:58:35] pública.
+[01:58:42] Ya entrando en el en el en el tema
+[01:58:44] objeto de la presentación, tenemos que
+[01:58:47] el contrato de concesión en el su anexo
+[01:58:50] de en el punto cinco establece que todos
+[01:58:53] los incumplimientos este por parte de
+[01:58:56] los distribuidores a las obligaciones
+[01:58:58] establecidas este en el marco
+[01:59:00] regulatorio, este en los contratos de
+[01:59:02] concesión, en las licencias técnicas, en
+[01:59:05] los actos administrativos dictados por
+[01:59:07] el OCEA, va a traer como consecuencia la
+[01:59:10] aplicación de sanciones, ya sea bajo el
+[01:59:12] régimen de penalizaciones y o de
+[01:59:15] sanciones este complementarias.
+[01:59:18] Ambas sanciones tienen distinta
+[01:59:20] carácter, distinta naturaleza, objetivo
+[01:59:23] y destino. Así tenemos que las
+[01:59:26] penalizaciones tienen carácter económico
+[01:59:29] y naturaleza contractual, en tanto que
+[01:59:32] las sanciones complementarias tienen
+[01:59:34] carácter disuasivo y se constituyen como
+[01:59:37] una nota típica del poder de policía.
+[01:59:41] En cuanto al objetivo, las
+[01:59:43] penalizaciones
+[01:59:45] tienen por objetivo orientar las
+[01:59:48] inversiones del concesionario hacia el
+[01:59:50] beneficio de los usuarios en el sentido
+[01:59:52] de mejorar la calidad en la prestación
+[01:59:54] del servicio. Y las complementarias
+[01:59:57] tienen por objetivo persuadir al
+[01:59:59] concesionario para que en caso de que
+[02:00:02] cometa infracciones a las disposiciones
+[02:00:04] del marco no deje de prestar y o cumplir
+[02:00:07] adecuadamente con las obligaciones a su
+[02:00:10] cargo. El destino de las penalizaciones
+[02:00:15] son los usuarios, en tanto que este las
+[02:00:18] complementarias se abonan a los EEVA,
+[02:00:22] quien las destinará al fortalecimiento
+[02:00:24] del servicio público este de
+[02:00:26] distribución. En el caso de las
+[02:00:29] penalizaciones,
+[02:00:30] este, si no se pueden identificar los
+[02:00:33] usuarios, este, afectados, el
+[02:00:36] distribuidor, este, las ingresa a una
+[02:00:38] cuenta de acumulación y también que se
+[02:00:41] va a destinar después este a obras.
+[02:00:45] Oye,
+[02:00:47] bueno, la aplicación de una sanción, el
+[02:00:50] contrato establece también que la
+[02:00:51] aplicación de una penalización no
+[02:00:54] excluye la aplicación de una sanción
+[02:00:56] complementaria.
+[02:00:58] En tanto que las primeras responden,
+[02:01:00] como lo dijo el ingeniero San Miguel,
+[02:01:03] responden a incumplimientos este a los
+[02:01:05] parámetros mínimos de calidad y la
+[02:01:08] segunda responden a incumplimiento de
+[02:01:10] otras obligaciones establecidas en el
+[02:01:12] contrato de concesión, ni tampoco releva
+[02:01:15] al distribuidor de eventuales reclamos
+[02:01:18] por daños o perjuicios.
+[02:01:28] Respecto de las causales de exhibición,
+[02:01:30] tenemos que pueden ser objeto de de exhi
+[02:01:34] de de sanción los incumplimientos
+[02:01:37] motivados por caso de fuerza mayor o
+[02:01:40] caso fortuito y o restricciones en el
+[02:01:43] mercado eléctrico mayorista ajenos a su
+[02:01:46] voluntad. En estos casos, el
+[02:01:49] distribuidor debe hacer una presentación
+[02:01:52] al organismo, la cual debe contener toda
+[02:01:55] la documentación probatoria eh
+[02:01:57] correspondiente a fin de acreditar este
+[02:02:00] la causal invocada.
+[02:02:03] La causal invocada. Esa documentación
+[02:02:06] este ingresa por la gerencia técnica,
+[02:02:08] quien efectúa un análisis y un informe
+[02:02:11] técnico y después este la remite a la
+[02:02:14] gerencia de procesos regulatorios. quien
+[02:02:17] este termina de de efectuar el el
+[02:02:22] informe, el análisis, este determinando
+[02:02:25] este la ausencia o no de responsabilidad
+[02:02:28] o decir hacer lugar o no a la causal
+[02:02:30] invocada.
+[02:02:32] Este, así como líneas generales, este,
+[02:02:36] la fuerza mayor, este,
+[02:02:39] se apoya en lo dispuesto en el artículo
+[02:02:41] 1730 del Código Civil y Comercial de la
+[02:02:44] Nación y en el 1700 este 31 en 1730
+[02:02:50] lo define como todo hecho no previsto o
+[02:02:53] que previsto no ha podido este evitarse
+[02:02:56] y en 1731
+[02:02:59] alude a lo que es el hecho de tercero.
+[02:03:02] que para ser considerado este como un
+[02:03:04] eximente de responsabilidad este debe
+[02:03:07] reunir los caracteres del este del caso
+[02:03:11] fuerza mayor. Bueno, esta causal este es
+[02:03:14] interpretada en forma este restringida,
+[02:03:17] en forma restrictiva
+[02:03:19] este la, o sea, la prueba la tiene que
+[02:03:23] hacer este la distribuidora. Este, la
+[02:03:25] jurisprudencia en este sentido ha dicho
+[02:03:28] que el caso fortuito debe ser probado
+[02:03:30] por el deudor que lo invoca, este,
+[02:03:33] correspondiendo, o sea, bastando al
+[02:03:35] acreedor comprobar el incumplimiento.
+[02:03:38] Este, bueno, y
+[02:03:41] hay distintas causales. Entre las
+[02:03:43] causales este que que seanalizan
+[02:03:47] este asiduamente en el organismo,
+[02:03:50] tenemos por ejemplo este las fallas
+[02:03:53] originadas en instalaciones este aguas
+[02:03:55] arriba, este las fallas originadas por
+[02:03:58] vientos, este por huracanes, por este
+[02:04:01] inundaciones,
+[02:04:03] este también están este las este
+[02:04:06] originadas por el robo este de
+[02:04:08] instalaciones, por interrupciones a
+[02:04:11] pedido del usuario. por interrupciones,
+[02:04:13] por pedido para efectuar las tareas de
+[02:04:16] poda, este, etcétera. Cada una este
+[02:04:21] requiere de un análisis este particular.
+[02:04:24] Bueno, el contrato también establece que
+[02:04:27] si el valor de las sanciones supera el
+[02:04:30] 20% de la facturación anual, será
+[02:04:33] considerado como una violación grave y
+[02:04:36] motivo de este resisión causal de
+[02:04:40] resisión del contrato y causal de
+[02:04:42] resisión del contrato. Este, lo cual
+[02:04:45] este tiene que ser comunicado por el
+[02:04:48] OCEVA a la autoridad de aplicación.
+[02:04:53] Las sanciones se mantienen vigentes
+[02:04:55] vigentes durante la la vigencia de la
+[02:04:57] concesión. No obstante ello, si durante
+[02:05:00] este el transcurso de la concesión se
+[02:05:04] producen modificaciones este en las
+[02:05:06] normas de calidad de servicio y en otras
+[02:05:09] normativas de aplicación, este es
+[02:05:12] posible este efectuar este algún tipo de
+[02:05:15] modificación en tanto en cuanto estas
+[02:05:18] este no sean sustanciales y no alteren
+[02:05:22] este el carácter, el procedimiento de
+[02:05:24] aplicación este y los criterios de
+[02:05:26] determinación. este y este los
+[02:05:29] objetivos.
+[02:05:33] Bueno, esta filmina este es solo para
+[02:05:38] visualizarla porque el tema lo lo expuso
+[02:05:41] este Pablo este que todo lo el
+[02:05:45] penalizaciones este
+[02:05:47] por apartamientos a los límites de
+[02:05:50] calidad de producto, calidad de servicio
+[02:05:53] técnico calidad comercial se encuentran
+[02:05:56] previstos en el punto seis. Los niveles
+[02:05:59] de calidad este tienen un control
+[02:06:01] sistemático y semestral, generando la
+[02:06:04] obligación de informar por parte de las
+[02:06:06] distribuidoras.
+[02:06:09] Simplemente también lo dijo Pablo, pero
+[02:06:11] lo voy a reiterar, que para los casos de
+[02:06:14] incumplimientos este de penalizaciones
+[02:06:18] motivadas por la calidad de producto
+[02:06:20] técnico y calidad de servicio técnico,
+[02:06:23] el distribuidor abonará a los usuarios
+[02:06:27] las multas como un crédito en la
+[02:06:29] facturación inmediatamente posterior al
+[02:06:32] periodo de control. En tanto que cuando
+[02:06:35] se trate de incumplimientos a la calidad
+[02:06:37] de servicio comercial,
+[02:06:41] el distribuidor, el crédito ese se
+[02:06:44] efectúa en la próxima factura emitida.
+[02:06:50] Bueno,
+[02:06:52] en cuanto a las sanciones
+[02:06:53] complementarias, este, como dije
+[02:06:56] anteriormente, las sanciones
+[02:06:58] complementarias sancionan este reprimen
+[02:07:01] este incumplimientos a otras
+[02:07:03] obligaciones dispuestas este en el marco
+[02:07:05] regulatorio.
+[02:07:08] Este, estos incumplimientos están
+[02:07:10] previstos, este, en el numeral siete del
+[02:07:14] subanexo D y este se de y se sanciona,
+[02:07:20] entre otros incumplimientos, el
+[02:07:22] relevamiento de entrega, la
+[02:07:24] confiabilidad de información, trabajos
+[02:07:26] en la vía pública
+[02:07:28] por construcción o ampliación, este, el
+[02:07:32] incumplimiento del deber de información
+[02:07:34] que es este esencial para para el el
+[02:07:39] organismo, ya que este sin información
+[02:07:43] este la falta de información constituye
+[02:07:48] este un obstáculo este al ejercicio de
+[02:07:50] control y fiscalización que tiene que
+[02:07:53] realizar el organismo.
+[02:07:55] [grito ahogado][suspiro]
+[02:07:58] Bueno, para la aplicación de las
+[02:08:00] sanciones complementarias
+[02:08:03] se tiene que seguir el procedimiento
+[02:08:05] previsto en el punto 53 del suane anexo
+[02:08:09] de del contrato de concesión y en la
+[02:08:12] resolución este de OSEVA 64 del 24 que
+[02:08:16] es la que aprueba el este el reglamento
+[02:08:20] para la aplicación de sanciones. El
+[02:08:23] procedimiento implica
+[02:08:25] la instrucción de un sumario ante el
+[02:08:28] conocimiento de acciones u omisiones que
+[02:08:30] presuntamente pudieran constituir
+[02:08:32] incumplimientos al marco regulatorio y
+[02:08:35] del marco regulatorio. Esta instrucción
+[02:08:38] puede ser de oficio o por denuncia y se
+[02:08:41] dispone a través del dictado de una
+[02:08:44] resolución que da inicio a dicho proceso
+[02:08:48] y que es irrecurrible.
+[02:08:50] Este, recientemente se han se han visto
+[02:08:53] que algunos concesionarios han recurrido
+[02:08:56] este tipo de resoluciones, los cuales
+[02:08:59] motivó un informe este por parte de la
+[02:09:01] gerencia y su posterior elevación este a
+[02:09:05] la asesoría general de gobierno. Y ahí
+[02:09:07] lo que se sostuvo es que dicho acto no
+[02:09:10] no configura un acto administrativo
+[02:09:13] final en los términos del artículo 86 de
+[02:09:16] la Ley de Procedimientos.
+[02:09:18] este y por lo tanto este y tampoco este
+[02:09:24] eh y tampoco lesiona ningún derecho o
+[02:09:27] interés de de la distribuidora,
+[02:09:29] este y por lo tanto este no no causa
+[02:09:32] este ningún gravamen, sino que
+[02:09:34] simplemente lo que dispone es la
+[02:09:36] apertura de un procedimiento a fin de
+[02:09:38] indagar este los motivos por los cuales
+[02:09:42] este la distribuidora habría incumplido
+[02:09:44] con alguna este norma con alguna norma.
+[02:09:48] Este, y en el marco de ese procedimiento
+[02:09:51] también la distribuidora, este, puede, o
+[02:09:54] sea, tiene la facultad de ejercer su
+[02:09:56] derecho de defensa cuando se hace el
+[02:09:58] acto de imputación y luego de todo eso
+[02:10:02] se emite la resolución final aplicando
+[02:10:06] este o no la sanción, que esa sanción
+[02:10:09] sí, esa resolución es recurrible.
+[02:10:12] Bueno, luego del acto, luego de la
+[02:10:15] instrucción este se designa un
+[02:10:17] instructor. El instructor este formula
+[02:10:20] cargos a través del acto de de
+[02:10:22] imputación.
+[02:10:24] El acto de imputación se le da traslado
+[02:10:26] al distribuidor por un plazo de 10 días
+[02:10:28] para que efectúe el descargo y ofrezca
+[02:10:30] todos los medios de prueba que que
+[02:10:32] estime pertinente.
+[02:10:33] Está la posibilidad de que si el
+[02:10:35] instructor considera que las pruebas
+[02:10:37] este ofrecidas no son suficientes de
+[02:10:39] abrirlo este a prueba.
+[02:10:43] También el instructor cuenta con la
+[02:10:44] posibilidad de convocar a una audiencia,
+[02:10:47] a una audiencia. Producido el descargo
+[02:10:49] de la distribuidora, se da intervención
+[02:10:52] a las gerencias competentes este del
+[02:10:54] organismo para luego pasar este a
+[02:10:57] formular el informe final y el proyecto
+[02:11:00] este de resolución.
+[02:11:02] Este, como dije anteriormente, la falta
+[02:11:04] de descargo este por parte de las
+[02:11:07] distribuidoras este habilita
+[02:11:10] automáticamente la la
+[02:11:13] imposición de de sanción complementaria.
+[02:11:16] Eso está este expresamente previsto en
+[02:11:18] el reglamento de de aplicación de
+[02:11:21] sanciones, este aprobado por la
+[02:11:24] resolución 64 del 24.
+[02:11:27] Bueno, el sumario dictada la resolución,
+[02:11:30] concluyendo el sumario, este se procede
+[02:11:33] este se procede a aplicar o no una
+[02:11:36] sanción y en su caso, para la
+[02:11:39] determinación de la sanción se tiene en
+[02:11:41] cuenta los criterios y las pautas
+[02:11:44] establecidas en el en el punto 71 del
+[02:11:48] suanexo de del contrato de concesión.
+[02:11:51] La resolución esa, como dije, puede ser
+[02:11:54] este objeto de de un recurso de
+[02:11:56] revocatorio, pero previo a ello debe
+[02:11:59] hacerse efectiva este la multa. Este
+[02:12:03] requisito está previsto este tanto en la
+[02:12:07] en el reglamento de aplicación de
+[02:12:09] sanciones como en el contrato de
+[02:12:11] concesión.
+[02:12:12] Este es un requisito es una es un
+[02:12:16] requisito este que de naturaleza
+[02:12:20] contractual
+[02:12:21] este sin el cual este no se procede al
+[02:12:25] tratamiento del fondo de la cuestión y
+[02:12:28] que resulta exigible a pesar de este lo
+[02:12:32] dispuesto por la resolución este 921 del
+[02:12:35] 25 del del Ministerio, ya que esta
+[02:12:38] resolución no modifica el contrato el
+[02:12:41] contrato de concesión.
+[02:12:44] Así que aún estando vigente esta
+[02:12:47] resolución, que después este al final de
+[02:12:49] la clase la la vamos a ver, este hay que
+[02:12:54] en caso de que se quiera recurrir una
+[02:12:56] una resolución este debe hacerse este el
+[02:13:00] pago de la multa.
+[02:13:02] Bueno, en cuanto a los criterios para la
+[02:13:05] determinación de las sanciones
+[02:13:07] complementarias,
+[02:13:08] el punto 71 establece que este
+[02:13:14] se tendrá en cuenta el tipo y gravedad
+[02:13:16] del incumplimiento y los siguientes
+[02:13:18] criterios de gragación, o sea, los
+[02:13:20] antecedentes generales del distribuidor,
+[02:13:22] el peligro para la vida, la salud de las
+[02:13:25] personas, los animales, la magnitud del
+[02:13:28] daño, la diligencia del distribuidor
+[02:13:31] para morir el daño, la intencionalidad y
+[02:13:34] cualquier otra circunstancia que pueda
+[02:13:36] incidir en el mayor en menor grado de
+[02:13:39] probabilidad de la falta.
+[02:13:42] El tope anual máximo global este de
+[02:13:44] sanción este está fijado por el contrato
+[02:13:47] de concesión en un 10% de la energía
+[02:13:51] anual facturada correspondiente al año
+[02:13:54] calendario anterior
+[02:13:56] valorizada al valor unitario que resulte
+[02:13:59] del promedio simple de los cargos
+[02:14:01] variables de la tarifa residencial plena
+[02:14:04] vigentes al momento de determinar la
+[02:14:06] sanción.
+[02:14:07] Llegado a esta instancia de tener que
+[02:14:09] determinar la sanción, este, lo que se
+[02:14:12] hace ordinariamente es dar este
+[02:14:14] intervención a la gerencia de control, a
+[02:14:18] la gerencia, perdón, de de mercados
+[02:14:22] para que informe este el tope, o sea,
+[02:14:24] para que informe este cuál es el el el
+[02:14:28] límite para imponer este una sación y
+[02:14:31] dentro de esos límites, en función de de
+[02:14:34] los criterios y del tipo de de
+[02:14:36] incumplimiento,
+[02:14:37] se procede este a fijar el monto en
+[02:14:40] forma este discrecional, en forma este
+[02:14:43] razonada y no este arbitraria.
+[02:14:49] Bueno, ah, ya estamos llegando. Eh,
+[02:14:55] bueno, con relación a las
+[02:14:56] penalizaciones,
+[02:14:58] este, la resolución 921 del 25 del
+[02:15:03] Ministerio este dispuso dispuso la
+[02:15:07] postergación del pago
+[02:15:10] de las penalizaciones que correspondan
+[02:15:12] por apartamiento a la calidad de
+[02:15:14] producto técnico y de servicio técnica.
+[02:15:17] que no fueran acreditadas a partir del
+[02:15:20] semestre correspondiente al mes de junio
+[02:15:22] del 2017 y las que se apliquen en los
+[02:15:25] semestres siguientes hasta la
+[02:15:27] implementación del primer cuadro
+[02:15:29] tarifario resultante de la revisión
+[02:15:31] tarifaria integral iniciada este por
+[02:15:34] resolución 1133 del 24 en el Ministerio.
+[02:15:38] La postergación solo rige respecto de
+[02:15:40] las este de los apartamientos de calidad
+[02:15:42] de producto técnico y servicio técnico,
+[02:15:45] ¿no? respecto de la calidad de servicio
+[02:15:48] comercial, las cuales deben ser
+[02:15:50] cumplidas y por lo tanto deben ser
+[02:15:53] acreditadas este a los usuarios.
+[02:15:56] también dispuso que el asiento contable
+[02:15:59] de estas penalizaciones, este, en un
+[02:16:01] registro de penalizaciones, este, que se
+[02:16:03] denomina registro de penalizaciones
+[02:16:05] diferidas, este, identificando ahí el
+[02:16:08] concepto, el monto y el semestre
+[02:16:11] correspondiente.
+[02:16:12] y finalmente dispuso la actualización de
+[02:16:16] los montos aplicando los valores del
+[02:16:19] costo de la energía no suministrada
+[02:16:21] resultante del último cuadro tarifario
+[02:16:24] aprobado a la fecha de corte a
+[02:16:26] determinar en el proceso de RTI conforme
+[02:16:29] las pautas establecidas en el suanexo de
+[02:16:32] en el artículo
+[02:16:34] el punto 62 y lo que determina en su
+[02:16:37] caso la autoridad de aplicación
+[02:16:40] respecto de las sanciones
+[02:16:42] complementarias
+[02:16:44] dispuso la suspensión del cobro y o
+[02:16:47] ejecución de las aplicadas que estén
+[02:16:50] firmes en sede administrativa.
+[02:16:53] Ahí yo puse entre paréntesis, se
+[02:16:55] entiende que una una resolución está
+[02:16:57] firme, una en sede administrativa cuando
+[02:17:01] este venció el plazo para impugnar o
+[02:17:04] cuando este interpuesto el recurso se
+[02:17:07] notifica este el resultado del mismo.
+[02:17:11] que no tengan destino a los usuarios y
+[02:17:14] todas las que apliquen el futuro hasta
+[02:17:17] la implementación del primer cuadro
+[02:17:18] tarifario resultante de la RTI.
+[02:17:21] Asimismo y al igual que con las
+[02:17:23] penalizaciones, dispuso su asiento
+[02:17:25] contable en un registro, detallándose la
+[02:17:28] resolución que aplica la sanción, el
+[02:17:30] monto y la fecha de aplicación. Y la
+[02:17:33] actualización de los montos en este caso
+[02:17:35] se hará conforme a los ajustes del BAT a
+[02:17:39] partir de la fecha de notificación de
+[02:17:41] cada una de las sanciones y hasta la
+[02:17:43] fecha de corte a determinar en el
+[02:17:45] proceso de RTI.
+[02:17:48] Bueno, y esto ha sido todo. Quizás
+[02:17:52] una cuestión de tiempo fue bastante
+[02:17:55] ligero, pero bueno, si tienen algunas
+[02:17:57] preguntas y si hay tiempo o
+[02:18:00] estoy disponible.
+[02:18:06] Sí,
+[02:18:12] bueno, preguntas, lo que quieran,
+[02:18:16] comentarios,
+[02:18:19] si quedaron pendientes alguna para Pablo
+[02:18:21] San Miguel también está acá, así que lo
+[02:18:24] que quieran.
+[02:18:27] Los cansamos, ¿eh? Sí, [risas] quedaron
+[02:18:29] todos noqueados después del recreíto.
+[02:18:32] Chao.
+[02:18:35] Eh,
+[02:18:36] arrancaste muy arriba, Pablo.
+[02:18:39] Sí, le di con todo.
+[02:18:50] Todo muy claro.
+[02:18:54] Están saludando muchos deditos.
+[02:19:05] Bueno,
+[02:19:06] quiero aclarar,
+[02:19:07] no sé si quieres aclarar algo
+[02:19:11] por ahí. E voy a hacer un comentario
+[02:19:14] respecto de esta resolución 921
+[02:19:19] que Sergio recién acaba de de explicar.
+[02:19:24] Esto no implica, digamos, se crea esta
+[02:19:26] posibilidad de ir a la cuenta contable.
+[02:19:29] ¿Podés ahí silenciar si no hace eco?
+[02:19:31] Eh, no, pero el
+[02:19:34] el el sonido
+[02:19:36] ahí. Em, ahí está. Perfecto. Gracias.
+[02:19:40] Em,
+[02:19:42] digamos, se o algunos recordarán la
+[02:19:45] existencia del decreto 2088 del 2002,
+[02:19:48] que lo habíamos comentado en la clase
+[02:19:49] anterior con con Pato, donde eh todas
+[02:19:52] las penalizaciones iban a una cuenta
+[02:19:54] contable
+[02:19:55] con la RTI aprobada en el 17 eh
+[02:19:59] teóricamente y con un sendero de cuadro
+[02:20:02] tarifario y de revisión tarifaria este
+[02:20:05] por delante, las penalizaciones debían
+[02:20:07] devolverse al usuario. Ese es el estado
+[02:20:09] normal y habitual que establece el marco
+[02:20:11] regulatorio para cualquier tipo de
+[02:20:12] penalización. Finalizado el semestre,
+[02:20:15] dentro de los 45 días tienen que
+[02:20:17] devolverse al usuario. En este estado de
+[02:20:20] transición tarifaria, luego del
+[02:20:22] congelamiento de las emergencias
+[02:20:24] energéticas, eh salió esta resolución
+[02:20:28] que envía a la cuenta contable todas las
+[02:20:31] penalizaciones y las sanciones
+[02:20:33] complementarias. no quiere decir que no
+[02:20:34] se puedan seguir aplicando,
+[02:20:36] que no se puedan seguir determinando,
+[02:20:39] sino que hasta la implementación de la
+[02:20:40] próxima RTI van a quedar en esa cuenta
+[02:20:42] contable hasta ver qué se debe o qué se
+[02:20:45] va a determinar por parte de la
+[02:20:47] autoridad de aplicación con ellas. Eh,
+[02:20:50] así que digamos estamos en un estado
+[02:20:52] donde eh van a la cuenta contable y un
+[02:20:55] poco esto, ¿qué le devuelvo al usuario?
+[02:20:56] Bueno, está ahí. Entonces, este
+[02:20:59] incentivo a cumplir con las inversiones
+[02:21:03] para lograr la calidad se sigue
+[02:21:05] cumpliendo. Lo único que no sucede es la
+[02:21:07] devolución al usuario, digamos. Eh, no
+[02:21:11] es que se, digamos,
+[02:21:15] no están eximidos del cumplimiento de
+[02:21:17] las inversiones para cumplir esos
+[02:21:19] niveles de calidad. Sí. solamente lo que
+[02:21:21] quedó suspendido es el pago o
+[02:21:24] restitución al usuario de las
+[02:21:26] penalizaciones o al organismo de control
+[02:21:29] en el caso de las sanciones
+[02:21:30] complementarias, que ese es el destino
+[02:21:31] que tienen. Sí. Eh, un poco anudado a la
+[02:21:34] primera parte que había este explicado
+[02:21:38] Pablo. Así que eso quiero que quede
+[02:21:41] claro. Digamos que el estado normal y
+[02:21:42] habitual es que la penalización una vez
+[02:21:44] que está aplicada, está determinada,
+[02:21:46] corresponde su devolución al usuario en
+[02:21:48] este estado de etapa de transición.
+[02:21:50] donde el contrato estamos en esta etapa
+[02:21:53] eh no se devuelve, sino que va a la
+[02:21:55] cuenta contable. Obviamente sobre la
+[02:21:57] cuenta contable eh tiene que estar
+[02:21:59] debidamente individualizada. El OSEA
+[02:22:01] hace controles, se informan a través de
+[02:22:04] la contabilidad regulatoria y ahí es
+[02:22:06] donde OSEVA este revisa lo que se
+[02:22:09] presenta en esa en esa información, en
+[02:22:11] esa cuenta contable para digamos de
+[02:22:13] sanciones complementarias y de
+[02:22:14] penalizaciones. Son dos separadas y por
+[02:22:16] distribuidor obviamente. Así que bueno,
+[02:22:20] nada, un comentario como para que eso
+[02:22:22] quede ahí reforzado.
+[02:22:25] Eh, bueno, no sé si tienen algún
+[02:22:29] comentario.
+[02:22:30] Yo quería repasar un poco si se puede el
+[02:22:33] tema de
+[02:22:34] No te estamos escuchando, David,
+[02:22:36] ¿me escuchan ahí?
+[02:22:38] No, no.
+[02:22:40] ¿Por qué no?
+[02:22:45] Yo sí lo escucho bien, eh, tal vez.
+[02:22:48] Yo también lo escucho bien.
+[02:22:49] Vos te muteaste, parece.
+[02:22:50] Qué volumen.
+[02:22:53] Motéate vos por ahí. Ahí voy, ahí voy.
+[02:22:55] Yo
+[02:22:55] ahí me escuchan.
+[02:22:56] Sí, sí, perdón.
+[02:22:59] No, quería repasar un poco el concepto
+[02:23:00] de fuerza mayor y a veces en
+[02:23:02] aplicaciones concretas, ya que también
+[02:23:05] se abre un poco el tema para otras
+[02:23:07] cosas.
+[02:23:08] Eh, bueno, por ejemplo, el caso nuestro
+[02:23:11] que somos una distribuidora aguas abajo
+[02:23:13] de trasba, eh,
+[02:23:16] eh, puede tener falla, trasba una falla,
+[02:23:20] ellos lo reportan a los EVA, mandan un
+[02:23:22] informe de la perturbación,
+[02:23:24] nosotros cargamos la contingencia
+[02:23:27] y un poco el método de prueba de de ese
+[02:23:31] caso. Nosotros declaramos el el corte,
+[02:23:35] adjuntamos los informes que manda
+[02:23:37] Trasba.
+[02:23:38] A veces también entra en juego lo que es
+[02:23:40] un corte relevante, ya que sea un corte
+[02:23:42] general que no afecta la totalidad o
+[02:23:45] gran parte del lugar. Eh, un poco darle
+[02:23:49] la vuelta eh la vuelta a eso
+[02:23:53] en cuanto a la aplicación.
+[02:23:57] Eh, mira, en el en el caso de de los
+[02:24:01] cortes de trasba, o sea,
+[02:24:03] aguas arriba, este, lo que nosotros este
+[02:24:07] necesitamos este y para que sea este
+[02:24:10] considerado como fuerza mayor, el corte
+[02:24:13] ese el corte de trasbat que reunir esos
+[02:24:16] caracteres para para el enre. Es decir,
+[02:24:20] si el ENRE lo determina que es fuerza
+[02:24:23] mayor, este, ustedes con esa resolución
+[02:24:27] la acompañan dentro de los medios de
+[02:24:30] prueba y este entra eh se le da la la
+[02:24:34] exhibilidad
+[02:24:37] solamente con eso, porque después este
+[02:24:40] el tema del abastecimiento es una una
+[02:24:42] obligación que tienen este todo
+[02:24:45] distribuidor
+[02:24:46] y este el corte por más que sea sea det
+[02:24:49] trva este produce este consecuencias a
+[02:24:52] los usuarios de la cooperativa y frente
+[02:24:55] a esos usuarios este es la cooperativa
+[02:24:57] la que tiene que responder y llegado el
+[02:24:59] caso, bueno, podría repetir este el
+[02:25:03] costo que esa interrupción le originó a
+[02:25:05] Trasba. Pero si a nivel nacional este lo
+[02:25:08] declaran fuerza mayor, este con eso este
+[02:25:13] nosotros también lo declaramos fuerza
+[02:25:15] mayor. Es la única única vía.
+[02:25:20] Todo bien.
+[02:25:27] una consulta y después
+[02:25:30] antes de antes de terminar eh a veces
+[02:25:32] puede causarse también una fuerza mayor
+[02:25:35] interna en un distribuidor por estos
+[02:25:37] efectos climáticos
+[02:25:39] y en esto cas en estos para demostrarlo
+[02:25:41] como fuerza mayor a veces habría que
+[02:25:43] citar a algún
+[02:25:46] algún organismo de servicio
+[02:25:47] meteorológico, algo que acredite que
+[02:25:49] haga un evento extraordinario
+[02:25:52] de de carácter climático, No,
+[02:26:02] ahí estás muteado.
+[02:26:09] Sí, pero ahí. Hola. Hola.
+[02:26:11] Ahí, ahí se escucha.
+[02:26:13] Sí. Con relación a los eventos
+[02:26:14] climáticos, este,
+[02:26:18] necesitamos que sí que que remitan un
+[02:26:21] informe de del Servicio Meteorológico
+[02:26:24] Nacional. Algunas concesionarias este
+[02:26:28] remiten informes de meteorólogos
+[02:26:30] privados, pero que cuando lo hacen así,
+[02:26:33] nosotros pedimos que estén certificados
+[02:26:35] por el Servicio Meteorológico Nacional.
+[02:26:38] Y en esos casos, este, hay una norma,
+[02:26:41] este, en el caso, por ejemplo, de
+[02:26:43] vientos, vamos a poner del diseño de las
+[02:26:45] instalaciones, hay una norma en la
+[02:26:48] provincia de Buenos Aires que establece
+[02:26:50] que este las instalaciones tienen que
+[02:26:53] estar diseñadas este para soportar este
+[02:26:56] vientos de hasta 130 km.
+[02:27:01] La velocidad esa es arbitraria, pero
+[02:27:03] bueno, es lo que está en la en la norma.
+[02:27:07] Este, o sea, que este de 130 para arriba
+[02:27:11] y probado este es causal de fuerza
+[02:27:15] mayor.
+[02:27:18] Esa es un decreto,
+[02:27:20] es una resolución eh de dea que fue
+[02:27:24] ratificada por un decreto provincial el
+[02:27:27] 200469
+[02:27:29] del 78
+[02:27:32] que establece
+[02:27:37] que establece ese diseño, o sea, que
+[02:27:39] tienen que soportar hasta 130 km.
+[02:27:43] Sí, sí, sí. Perfecto, gracias. No, no,
+[02:27:47] ahí entiendo con respecto a este tema
+[02:27:50] que también un argumento válido por ahí
+[02:27:54] eso lo definirán ustedes, pero puede ser
+[02:27:57] lo que eh los decretos de digamos de
+[02:28:00] estado de emergencia en ciertos lugares
+[02:28:03] por parte de la provincia, ¿no? Nada,
+[02:28:05] para el ámbito privado suele tener
+[02:28:09] consideración, ¿no?, importante
+[02:28:11] como fueron, no sé, hace un par de años
+[02:28:13] las nevadas en el sur, en la Patagonia,
+[02:28:15] que fue niveles muy por encima de lo
+[02:28:19] normal de de los últimos 20 años y
+[02:28:21] bueno, hubieron operaciones que tuvieron
+[02:28:22] que detenerse. Salió el ejército a
+[02:28:24] buscar a la gente también, como el caso
+[02:28:27] de Villa Blanca, ¿no?
+[02:28:28] Claro. Sí, sí, obviamente eso también es
+[02:28:31] una prueba contundente que se se tiene
+[02:28:34] en cuenta.
+[02:28:36] Perfecto.
+[02:28:41] Después otro caso este que que se
+[02:28:44] plantea es el que está referido este al
+[02:28:48] al robo de de las instalaciones, ¿no? Al
+[02:28:50] robo de transformadores y demás
+[02:28:53] componentes de una instalación.
+[02:28:56] ese caso este en general este lo
+[02:28:59] rechazamos este o sea se rechaza porque
+[02:29:03] este no no es un evento este imprevisto
+[02:29:07] o o inevitable, sino que es una
+[02:29:09] contingencia este conocida y recurrente
+[02:29:13] en en lo que es la explotación de la
+[02:29:14] infraestructura y que este obligaría o
+[02:29:18] que merecería que que la distribuidora
+[02:29:20] este tome los los recaudos pertinentes,
+[02:29:23] No
+[02:29:27] sé que es difícil, ¿no? Pero bueno,
+[02:29:29] como soldar los trafos a [risas]
+[02:29:32] Sí. O poner un policía en cada en cada
+[02:29:34] columna. Pero bueno, pero jurídicamente
+[02:29:39] no no entraría dentro de lo lo que se
+[02:29:42] entiende por este no es un evento
+[02:29:44] extraordinario, imprevisible,
+[02:29:46] inevitable.
+[02:29:50] Después hay otras causales también.
+[02:29:56] Ezequiel Ezequiel tiene unaunca.
+[02:30:01] Dale, Ezequiel.
+[02:30:03] Sí, no sé si se está escuchando.
+[02:30:06] Sí, sí, sí,
+[02:30:07] sí. Bien, perfecto. Les hago una
+[02:30:09] consulta porque yo estoy en planeamiento
+[02:30:13] y calidad técnica acá en Edea y muchas
+[02:30:16] veces nos surge la duda sobre la
+[02:30:19] información que enviamos. Eh, por un
+[02:30:22] lado, eh, lo la gente de calidad técnica
+[02:30:27] envía semestralmente y mensualmente los
+[02:30:31] eh índices SIDI y SIFI y por mi parte,
+[02:30:35] además, cargo lo que son los pilares
+[02:30:38] técnicos eh IT1, 2, 3, 4.
+[02:30:43] Uno de esos, el IT3,
+[02:30:46] remite información justamente de calidad
+[02:30:49] técnica, de SID scifi y de mediciones eh
+[02:30:53] de calidad de producto.
+[02:30:55] La consulta es eh la siguiente, ¿qué qué
+[02:31:01] información obtienen ustedes de cada uno
+[02:31:04] de ellos y por qué, digamos, se pide por
+[02:31:07] canales separados eh ambos informes?
+[02:31:13] Bien, te contesto yo si quieres,
+[02:31:15] Ezequiel.
+[02:31:15] Sí, Pablo,
+[02:31:16] vos estás hablando de una presentación
+[02:31:19] que se ejecuta
+[02:31:21] en el ámbito de la contabilidad
+[02:31:22] regulatoria ante DPE para el seguimiento
+[02:31:26] de inversiones.
+[02:31:28] Lo explico porque hay gente que vos
+[02:31:30] empezass a nombrar IT, IT, IT y no
+[02:31:32] entiende muy bien eh a qué hace
+[02:31:34] referencia. Bueno, esa esa información
+[02:31:38] es un requerimiento de la Dirección
+[02:31:39] Provincial de Energía.
+[02:31:42] que tal cual como vos mencionás tiene
+[02:31:45] algunas reiterancias respecto de lo que
+[02:31:46] está solicitando los
+[02:31:49] eh, que es y esa reiterancia se da por
+[02:31:51] las propias particularidades de
+[02:31:53] modulares y estancas de las
+[02:31:56] reparticiones de la administración
+[02:31:57] pública y quizás por muchas veces por no
+[02:32:00] disponer de un sistema compartido entre
+[02:32:02] las reparticiones.
+[02:32:05] La realidad es que si uno analizase
+[02:32:10] el marco regulatorio, lo que tiene que
+[02:32:11] pensar es que todos estos procesos son
+[02:32:14] transversales. Uno mide la calidad de
+[02:32:18] servicio, de producto y demás para tener
+[02:32:21] ciertos indicadores de calidad a nivel
+[02:32:24] usuario, a nivel centro de
+[02:32:26] transformación, subestación, localidad.
+[02:32:28] Y ante desvíos significativos en esos
+[02:32:31] parámetros de calidad, debería
+[02:32:33] planificarse la corrección por medio de
+[02:32:35] la inversión.
+[02:32:37] Por lo tanto, el plan de inversión que
+[02:32:39] ustedes presentan en los distintos IT
+[02:32:43] debería estar vinculado a la corrección
+[02:32:46] de los ID a nivel de usuario.
+[02:32:49] Y esa información a su vez está
+[02:32:52] vinculada con otras patas de la
+[02:32:55] contabilidad regulatoria como es el GIS,
+[02:32:58] como es el inventario, como son las
+[02:33:00] unidades constructivas y demás. Es un
+[02:33:03] proceso continuo que quizás desde la
+[02:33:07] autoridad de aplicación o desde los EVA
+[02:33:10] eh nosotros por trabajar distintas
+[02:33:12] personas y distintas reparticiones sobre
+[02:33:14] un mismo proceso,
+[02:33:17] muchas veces requerimos información
+[02:33:19] igual o similar,
+[02:33:21] quizás hasta duplicando la carga que
+[02:33:23] ustedes tienen que hacer, pero porque
+[02:33:24] quien lo analiza en este momento es un
+[02:33:28] equipo distinto de trabajo.
+[02:33:30] no debera ser así, debería unificarse,
+[02:33:33] pero hasta el momento, hasta que se
+[02:33:34] puede hacer, vamos a tener que continuar
+[02:33:36] con esa metodología hasta que ambas
+[02:33:39] reparticiones puedan compartirse la
+[02:33:41] información y sacar conclusiones eh
+[02:33:44] coincidentes y utilizar las mismas
+[02:33:47] herramientas y la información que usted
+[02:33:48] le dispone. No sé si si fue claro con
+[02:33:51] con la pregunta que me hiciste.
+[02:33:53] Sí, sí, sí, sí. Perfecto, muchas
+[02:33:55] gracias.
+[02:34:07] Sí, no, eh,
+[02:34:14] no, lo que también
+[02:34:17] referente a la fuerza mayor, este
+[02:34:19] también este hay casos en los que se
+[02:34:22] hace lugar son, por ejemplo, la las
+[02:34:25] solicitudes este de de interrupción del
+[02:34:28] suministro que piden un usuario y que es
+[02:34:32] el único afectado generalmente para
+[02:34:35] hacer tareas de mantenimiento dentro de
+[02:34:36] su de su este establecimiento, como así
+[02:34:41] también este los pedidos de poda por
+[02:34:44] usuarios único afectados o podas pedidos
+[02:34:47] por instituciones o por municipios este
+[02:34:52] por como consecuencia para garantizar la
+[02:34:54] seguridad pública. En esos casos, este,
+[02:34:56] se hacen lugar a la a la causal y se
+[02:34:59] determina la ausencia de responsabilidad
+[02:35:01] de la distribuidora.
+[02:35:17] ¿Alguna pregunta más? ¿Algún comentario?
+[02:35:25] Guillermina,
+[02:35:26] sí,
+[02:35:27] sí. Buen día, Matías Mesa de la
+[02:35:29] Cooperativa Eléctrica de Piw.
+[02:35:31] Sí, Matías.
+[02:35:31] Sí, disculpen, pero no estoy con la PC
+[02:35:33] escritorio y no tengo cámara web.
+[02:35:37] Eh, le hago una consulta eh un poco eh
+[02:35:41] que no no sé si por ahí ellos me me
+[02:35:44] pueden responder.
+[02:35:46] Ahí nosotros por ahí hay un conflicto
+[02:35:49] por ahí de intereses por ahí con otro
+[02:35:51] organismo, en este caso la el ENACOM,
+[02:35:54] que através en algún momento en el año
+[02:35:56] 2020 la Secretaría de Innovación
+[02:35:58] Pública, que no sé si sigue existiendo,
+[02:36:00] sacó un reglamento de compartición de
+[02:36:02] infraestructura pasiva en la cuales los
+[02:36:06] ISP, que serían las empresas que por ahí
+[02:36:09] hacen despliegue de cables de
+[02:36:11] telecomunicaciones, estamos hablando de
+[02:36:13] de fibra, bueno, nos están solicitando
+[02:36:15] la la apostación, ¿no?, de lo que es la
+[02:36:17] parte eléctrica para hacer su
+[02:36:19] despliegue.
+[02:36:21] El reglamento en sí habla que, bueno,
+[02:36:25] que nosotros debemos eh ceder nuestra
+[02:36:29] nuestra postación, salvo que por
+[02:36:31] cuestiones técnicas no lo podamos eh eh
+[02:36:35] no se pueda sobrecargar el poste. Bueno,
+[02:36:37] esa cuestión está bastante por ahí
+[02:36:39] discutida y bueno y vemos que por ahí
+[02:36:43] esto se termina siempre resolviendo en
+[02:36:45] el lado en el vendría a ser en el Nacom
+[02:36:48] y cuando en los casos de otras
+[02:36:51] cooperativas, como te decía que que
+[02:36:53] conocemos, la verdad que esto por ahí no
+[02:36:54] se tiene en cuenta y como bueno, como
+[02:36:57] siempre se dice, no es un solo cable que
+[02:36:58] después no termina siendo un solo cable
+[02:37:00] de de telecomunicaciones
+[02:37:02] y eh no no tenemos por ahí dónde
+[02:37:06] nosotros eh agarrarnos en el sentido de
+[02:37:09] que haya por ahí desde el lado técnico
+[02:37:13] de los alguna disposición en en la cual
+[02:37:17] también se se requiera y se analice de
+[02:37:19] parte de los nosotros cederlo o no a los
+[02:37:23] postes. entiendo que por ahí hay algunas
+[02:37:25] distribuidoras que que les interesa y
+[02:37:27] hacen un negocio de ese de ese alquiler
+[02:37:30] de esa de la infraestructura, de cada
+[02:37:32] uno de los apoyos, pero bueno, en
+[02:37:34] algunos casos en las cooperativas no no
+[02:37:36] no queremos cederlo o entendemos que no
+[02:37:39] están en condiciones o habría que, por
+[02:37:41] ejemplo, realizar eh modificaciones en
+[02:37:44] la postación o bien tenemos tendidos a a
+[02:37:47] futuros que que por ahí se va a cambiar
+[02:37:49] un preensamblado de 70 95 y bueno, todo
+[02:37:51] esto
+[02:37:54] eh vemos que que por ahí no no tenemos
+[02:37:57] donde apoyarnos técnicamente como para
+[02:38:00] poder hacer fuerza. En este caso nacom,
+[02:38:02] nosotros estamos en el caso de de un ISP
+[02:38:05] ya con dos o tres cartas que van, vienen
+[02:38:07] y bueno, con la amenaza de de que van a
+[02:38:09] ir a a la ENACOM.
+[02:38:14] Eh, mira, con respecto al tema, en la
+[02:38:17] provincia en el año 2002 este sacó un
+[02:38:20] decreto que es el decreto 2059
+[02:38:24] que declaró de interés regulatorio el
+[02:38:26] uso de la postación de la
+[02:38:28] infraestructura. O sea, que en tanto y
+[02:38:31] en cuanto técnicamente este puedan
+[02:38:34] soportar otro tipo de instalaciones,
+[02:38:36] este
+[02:38:38] hay que cederlo siempre y cuando se
+[02:38:40] pongan de acuerdo este con la entre las
+[02:38:44] partes, ¿no? Se hace un convenio, se
+[02:38:46] determina este un monto del alquiler,
+[02:38:50] este pero en principio este el uso de la
+[02:38:54] apostación ha sido declarado de interés
+[02:38:55] regulatorio.
+[02:38:57] Vuelvo a decir, el decreto 2059 del 02.
+[02:39:03] Eh, bueno, está bien. Lo lo voy a leer.
+[02:39:06] Ese decreto no no tenía conocimiento.
+[02:39:09] Está bien. Pero en ese caso, si
+[02:39:12] nosotros, por ejemplo, en cierta traza o
+[02:39:16] nosotros ya tenemos algún proyecto en el
+[02:39:19] cual se contemple, no sé, sumar otro
+[02:39:22] preensamblado o cambiarle por ahí
+[02:39:25] cambiar la la línea. En ese caso,
+[02:39:29] ahí hoy hacen los cálculos que hoy por
+[02:39:32] ahí hoy cómo está la carga del poste,
+[02:39:34] pero no en en lo que nosotros por ahí
+[02:39:36] tenemos proyectado futuro y ahí donde
+[02:39:37] por ahí vemos más que nada en la parte
+[02:39:39] céntrica que va a ser complejo más que
+[02:39:42] nada porque también hay hasta ménsulas,
+[02:39:43] ¿no? En edificios. Está bien, pero
+[02:39:46] e eso lo lo deberías de prever en el
+[02:39:49] contrato que firmen con con la otra
+[02:39:52] empresa, preverlo que a lo mejor lo
+[02:39:55] podés hacer transitoriamente en tanto y
+[02:39:57] en cuanto vos no no lo uses o no
+[02:39:59] necesites no lo necesites, pero este lo
+[02:40:03] podés dejar plasmado en en el contrato
+[02:40:05] con con la empresa.
+[02:40:08] Okay. Bueno, gracias.
+[02:40:11] Obviamente va a primar el servicio
+[02:40:13] público de distribución de energía, ¿no?
+[02:40:18] Sí. Ahí
+[02:40:25] estás muteado, Pablo.
+[02:40:30] Me voy a poner del lado de
+[02:40:31] distribuidores esta vez, eh, porque me
+[02:40:33] ha tocado discutir este tema.
+[02:40:36] E bueno, en principio el tema de los
+[02:40:39] apoyos sí tiene un canon, el canon no
+[02:40:41] está regulado.
+[02:40:43] Eh, en su momento hubo un problema
+[02:40:46] importante porque del otro lado estaba
+[02:40:48] Cablevisión discutiendo el precio del
+[02:40:51] tema de los apoyos y tenía bastante
+[02:40:53] poder eh para discutir eso.
+[02:40:57] Hoy en día, bueno, hay la televisión,
+[02:41:00] bueno, cambió en su forma de transmitir
+[02:41:02] señal, no es cable visión, pero bueno,
+[02:41:04] tienen estos problemas que ustedes están
+[02:41:06] mencionando.
+[02:41:09] Ahí aparecen otras normativas
+[02:41:10] complementarias que es la seguridad de
+[02:41:13] la instalación del servicio público, que
+[02:41:15] la seguridad de ese servicio público
+[02:41:18] requiere que el distribuidor emita las
+[02:41:20] especificaciones técnicas de distancia
+[02:41:22] de seguridad, de capacidad portante de
+[02:41:25] la instalación. Bueno, tenemos los
+[02:41:28] requisitos de seguridad y higiene de la
+[02:41:29] de la persona que va a ir a operar sobre
+[02:41:32] ese poste porque es un poste energizado.
+[02:41:35] Así que hay un montón de cuestiones
+[02:41:36] técnicas en las cual el distribuidor sí
+[02:41:38] tiene competencia porque van a ir a
+[02:41:40] trabajar sobre una instalación de su
+[02:41:43] propiedad y que es de un servicio
+[02:41:45] público de distribución.
+[02:41:47] Bajo bajo ese concepto de que el
+[02:41:50] servicio público de distribución es
+[02:41:53] prioritario versus algún otro servicio
+[02:41:56] accesorio, creo que las condiciones
+[02:41:58] técnicas que el distribuidor impone a
+[02:42:01] esos otros servicios auxiliares deben
+[02:42:04] primar porque el usuario sin teléfono,
+[02:42:07] sin internet, sin cable puede continuar
+[02:42:10] su vida normalmente o dentro de los
+[02:42:13] valores de mayor razonabilidad. sin
+[02:42:15] energía eléctrica prácticamente no puede
+[02:42:18] desarrollar sus actividades cotidianas.
+[02:42:20] Por lo tanto, a mí me parece que no es
+[02:42:24] tan tan eh desvalidos de herramientas
+[02:42:28] legales y técnicas como para discutir
+[02:42:31] esas esos apoyos y esas postaciones,
+[02:42:34] siempre que los fundamentos técnicos
+[02:42:36] sean razonables. Tampoco nos podemos
+[02:42:39] oponer a algo que es razonable porque no
+[02:42:42] podemos llenar la vía pública de cables
+[02:42:46] de 1000 millones de servicios y afectar
+[02:42:49] eh el espacio público, la visual, el
+[02:42:52] medio ambiente y la calidad de vida de
+[02:42:54] la sociedad, porque nosotros no le
+[02:42:55] queremos prestar el apoyo a algún otro
+[02:42:58] servicio. Así que entiendo que debe
+[02:43:01] mediar la la razonabilidad
+[02:43:05] sobre cada fundamento, tanto del
+[02:43:07] operador de telecomunicaciones como del
+[02:43:08] distribuidor y que se respeten las
+[02:43:12] necesidades técnicas para poder llevar
+[02:43:14] esa tarea a cabo. Así que bueno, espero
+[02:43:17] haber contribuido a a la aclaración.
+[02:43:21] E sí, sí, está claro, Pablo. Sí, sí. Sí,
+[02:43:25] lo que pasa que bueno, por ahí nosotros
+[02:43:26] hemos hablado con en este caso con con
+[02:43:28] otras cooperativas, eh, está todo lo que
+[02:43:32] mencionas está dentro por ahí de las
+[02:43:34] exigencias que que nosotros armamos. El
+[02:43:37] tema que por ahí este tipo de empresas
+[02:43:40] se manejan con terciarizadas, dos
+[02:43:41] cuadrillas y en un abrir y cerrar de
+[02:43:44] ojos cable unas cuantas manzanas y y
+[02:43:47] empieza ya un un conflicto porque bueno,
+[02:43:50] no se respeta lo acordado, pero bueno,
+[02:43:51] eso ya pasaría por un tema legal, ¿no?
+[02:43:54] Pero está bien, quedó claro, muy amable.
+[02:43:57] Gracias.
+[02:44:05] Bueno, no hay más preguntas, comentarios
+[02:44:11] ya siendo las 11 en punto. Gracias
+[02:44:14] Sergio, gracias Pablo.
+[02:44:17] La verdad que una clase muy buena,
+[02:44:21] eh, corriendo, pero bueno, creo que que
+[02:44:24] logramos el objetivo que teníamos para
+[02:44:26] hoy.
+[02:44:29] Bueno, los despido. Nos vemos el jueves
+[02:44:32] que viene.
+[02:44:34] Que tengan una buena semana.

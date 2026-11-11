@@ -1,0 +1,1424 @@
+[00:00:00] i
+[00:00:07] como van muy buenas tardes a todos mi
+[00:00:10] nombre es gastón asofis soy de la
+[00:00:12] secretaria de extensión universitaria
+[00:00:14] soy del seu y bueno hoy estamos con la
+[00:00:17] clase y número 2 del módulo 4 de
+[00:00:20] transporte energético de la diplomatura
+[00:00:23] de transición energética
+[00:00:24] así que bueno dije no de donde nos están
+[00:00:27] viendo
+[00:00:29] y lo que voy a hacer es si alguna duda
+[00:00:33] surge al final de la clase la
+[00:00:36] respondemos profe le parece bien cómo le
+[00:00:38] va profe el profe alejandro vecino el
+[00:00:41] ingeniero
+[00:00:43] si me parece perfecto
+[00:00:45] [Música]
+[00:00:46] bueno esto se ha acabado mi cámara y el
+[00:00:48] micrófono y arranque usted tranquilo la
+[00:00:50] clase pero al final del xiv dejamos las
+[00:00:52] dudas buenísimo
+[00:00:54] [Música]
+[00:00:55] éxitos gracias
+[00:01:01] y en
+[00:01:06] bueno buenas tardes a todos
+[00:01:13] no estoy viendo el chats
+[00:01:15] [Música]
+[00:01:19] si alguien tiene alguna duda la vemos
+[00:01:25] si profe si quiere si quiere lo que
+[00:01:27] podemos hacer es que apenas sale una
+[00:01:29] duda lo interrumpo y frenamos ahí la
+[00:01:32] resolvemos básicamente voy a abordar dos
+[00:01:35] temas bien definidos una transición
+[00:01:37] energética y el otro todo lo que tiene
+[00:01:39] que ver con hidrógeno para el tema de
+[00:01:40] transportes
+[00:01:43] y no estoy no estoy viendo a nadie no
+[00:01:46] estoy viendo las conexiones no sé que si
+[00:01:48] estoy en la pantalla correcta
+[00:01:52] como profesor no lo entiendo no te estoy
+[00:01:55] viendo tu usuario y el mío pero no estoy
+[00:01:57] viendo la cantidad de gente
+[00:02:01] lo que pasa profe es que estamos
+[00:02:03] transmitiendo por youtube es un vivo
+[00:02:06] youtube y las preguntas salen hay la
+[00:02:08] gente y por eso le voy a informar las
+[00:02:11] preguntas si yo
+[00:02:14] tranquilo los frenos apenas a ella una
+[00:02:17] pregunta de en el chat
+[00:02:19] bueno antes que nada buenos días buenas
+[00:02:21] tardes a todos
+[00:02:24] y es posible por por curiosidad me
+[00:02:26] cuenta gente está conectada me gustaría
+[00:02:28] dar nos gustaría sol en este momento
+[00:02:30] somos siete profes buenísimo bueno
+[00:02:33] buenas tardes a todos al mencionado
+[00:02:35] disculpen tuve que cancelar la
+[00:02:37] presentación mi anterior estuvo con una
+[00:02:39] neumonía bastante fuerte
+[00:02:42] con lo cual no no no
+[00:02:51] la fémina las están viendo no la
+[00:02:53] presentación
+[00:02:57] hola sí profesor perfecto aquí se ve
+[00:03:00] perfecto bien bien vamos a hacer un
+[00:03:02] breve repaso de los 15-20 minutos de lo
+[00:03:05] que vimos nada
+[00:03:07] la vez pasada conmigo y el tema de hoy
+[00:03:11] es hidrógeno hidrógeno verde vamos a
+[00:03:14] hablar de
+[00:03:15] upstream y downstream downstream vamos a
+[00:03:18] hablar de por qué el hidrógeno de cuáles
+[00:03:20] son esos requerimientos las necesidades
+[00:03:23] del hidrógeno
+[00:03:25] y voy a arrancar haciendo un breve
+[00:03:27] repaso de lo que he hecho hablamos la
+[00:03:29] vez anterior
+[00:03:31] simplemente porque
+[00:03:33] y quiero poner en contexto de por qué
+[00:03:35] hablamos de hidrógeno porque hablamos
+[00:03:37] del hidrógeno y sus distintas variantes
+[00:03:40] hidrógeno hogar de hidrógeno
+[00:03:43] gris hidrógeno negro etcétera y qué
+[00:03:47] alternativas tenemos en ese tipo de
+[00:03:50] combustible
+[00:03:53] uno de los temas más importantes
+[00:03:56] que tenemos que hablar es respecto de un
+[00:03:58] paradigma que estaba implícito habló de
+[00:04:01] ella
+[00:04:03] tenemos que tener en cuenta que hace ya
+[00:04:04] 30 a 40 años que se está hablando el
+[00:04:06] cambio climático con lo cual ya tenemos
+[00:04:08] distintas versiones distintas los
+[00:04:09] dientes distintas
+[00:04:16] fuentes d
+[00:04:19] de
+[00:04:20] información
+[00:04:23] y seguramente distintos tipos de
+[00:04:25] paradigmas en su momento el primero de
+[00:04:27] los paradigmas serán y creo que ustedes
+[00:04:28] mismos lo recordarán era
+[00:04:33] si seguíamos consumiendo combustibles
+[00:04:36] fósiles
+[00:04:37] no renovables no íbamos a poder sostener
+[00:04:41] nuestro modo de vida porque se iba a
+[00:04:43] acabar la energía no iba a haber energía
+[00:04:46] y algo que quedó probado y que lo dijo
+[00:04:50] acaba ban ki-moon y en el año 2012 pero
+[00:04:52] ya le dijeron muchos autores es que no
+[00:04:55] se trata de la extinción de los
+[00:04:57] combustibles fósiles y por ende de un
+[00:05:00] potencial desabastecimiento de energía
+[00:05:01] si no se trata de garantizar el
+[00:05:03] desarrollo humano sostenible por eso
+[00:05:06] hablamos de transición energética por
+[00:05:07] eso hablamos de que hay que hacer una
+[00:05:10] transición porque porque si consumimos
+[00:05:12] dicho de una manera bien sencilla todos
+[00:05:15] los combustibles fósiles que hay en este
+[00:05:16] momento en la tierra
+[00:05:18] no estamos en condiciones
+[00:05:22] d
+[00:05:26] sobrevivir a esos cambios que vamos a
+[00:05:29] producir en el medio ambiente no se
+[00:05:31] trata del agotamiento de las fuentes de
+[00:05:33] energía sino se trata de
+[00:05:37] el agotamiento de la forma de vida que
+[00:05:41] nosotros tenemos
+[00:05:45] un poco de lo que vamos a ver hoy que
+[00:05:48] charlamos voy a hacer un breve resumen
+[00:05:51] de transición energética voy a hablar un
+[00:05:53] poco de la transición energética en
+[00:05:55] alemania pero muy rápido porque esto ya
+[00:05:57] lo vimos en la clase anterior conmigo o
+[00:06:00] sea la primera clase la clase
+[00:06:01] introductoria que tuvimos un tema
+[00:06:03] combinación inteligente fuentes de
+[00:06:05] energías renovables operación de
+[00:06:06] sistemas y mercados cambio de paradigma
+[00:06:09] y así voy a introducir el tema de
+[00:06:12] hidrógeno verde hoy para la
+[00:06:14] clase
+[00:06:18] básicamente la transición energética
+[00:06:20] implica la combinación de múltiples
+[00:06:22] fuentes de energías renovables si
+[00:06:24] analizamos cada una de estas fuentes de
+[00:06:26] energía renovables
+[00:06:28] y la coordinación necesaria entre
+[00:06:29] transmisión y distribución
+[00:06:33] las características son complementarias
+[00:06:35] ninguna fuente de estas fuentes de
+[00:06:37] energía es por sí sola la solución al
+[00:06:39] problema sino su combinación sus
+[00:06:42] distintas características hacen que
+[00:06:44] podamos despachar una serie una cantidad
+[00:06:47] determinada de energía renovable
+[00:06:53] y que esa cantidad de energía renovable
+[00:06:56] sea cada vez mayor a medida que los
+[00:06:58] sistemas van permitiendo que se
+[00:07:00] incorpore mayor cantidad energía
+[00:07:01] eléctrica al sistema
+[00:07:05] en muchos de los casos no estamos
+[00:07:07] hablando de fuentes de energía
+[00:07:11] renovable únicamente en términos de
+[00:07:14] viento y sol que es típicamente las
+[00:07:16] fuentes que nosotros conocemos como
+[00:07:18] energía eólica energía solar sino
+[00:07:20] también hablamos de hidroeléctricas de
+[00:07:22] bioenergías
+[00:07:23] energía marina energía geotérmica si de
+[00:07:26] nuevo las características de estas son
+[00:07:32] la lo que le da complementariedad a la
+[00:07:35] solución del problema
+[00:07:40] si miramos esta filmina básicamente
+[00:07:43] tenemos tres características de tipo
+[00:07:45] kilovatio megavatios gigavatios
+[00:07:52] básicamente estamos hablando
+[00:07:58] de unas características que hacen que el
+[00:08:01] sistema eléctrico
+[00:08:03] puede interactuar con distintas
+[00:08:06] cantidades de energía del tipo de
+[00:08:08] pequeña escala de mediana escala de gran
+[00:08:10] escala
+[00:08:15] la producción de las energías renovables
+[00:08:17] tiene una fluctuación
+[00:08:19] y esto es un
+[00:08:22] gráfico del año 2017 donde se ve el
+[00:08:25] sistema eléctrico alemán básicamente
+[00:08:28] todo el año donde se puede ver
+[00:08:29] claramente
+[00:08:30] eólica solar el consumo de electricidad
+[00:08:34] claramente se ve lo que es el día y la
+[00:08:36] noche cuánto se consume de base
+[00:08:40] y como en determinados momentos fluctúa
+[00:08:42] si eso tiene que ver con el día y la
+[00:08:45] noche con los momentos en los cuales la
+[00:08:46] gente estaba despierta cuando la gente
+[00:08:48] está descansando
+[00:08:50] y se puede ver como el sol el viento
+[00:08:53] básica de biomasa y demás hacen que se
+[00:08:56] puede abastecer
+[00:08:59] un país como alemania con energías
+[00:09:01] renovables al 100%
+[00:09:05] de qué hablamos cuando hablamos de
+[00:09:06] integración al sistema cuál es el
+[00:09:08] desafío en todos los niveles de nuevo el
+[00:09:10] embustero cuida de volver a reiterar
+[00:09:11] kilovatio megavatios gigavatios pequeña
+[00:09:14] escala mediana escala gran escala es muy
+[00:09:17] importante para nosotros tener en cuenta
+[00:09:18] este tipo de
+[00:09:20] escalas y poder verlo como algo
+[00:09:24] importante cuando tomamos un curso como
+[00:09:27] estos tenemos que entender que una cosa
+[00:09:29] es un panel solar en un tejado y otra
+[00:09:31] cosa es un parque eólico de 300
+[00:09:33] megavatios en la patria argentina u otra
+[00:09:35] cosa es un parque solar en jujuy de 500
+[00:09:38] megavatios son soluciones energéticas de
+[00:09:40] energía renovable todas pero una implica
+[00:09:43] una tecnología y otra implica otra
+[00:09:45] tecnología y por eso van a bendiciones
+[00:09:46] fue fito kilovatios megawatts gigavatio
+[00:09:49] constantemente porque porque con
+[00:09:51] cualquiera de las fuentes de energías
+[00:09:52] renovables por eso estas turbinas y
+[00:09:55] cualquiera de las fuentes de energías
+[00:09:56] renovables con sus soluciones de tipo de
+[00:09:58] kilovatio de megavatios de ciudad vatio
+[00:10:01] es pequeña mediana y gran escala pero de
+[00:10:04] la nueva potencia en este caso
+[00:10:07] es la forma en la que se genera este
+[00:10:10] tipo de energía y las soluciones de las
+[00:10:13] que se tienen que hablar y las
+[00:10:14] tecnologías que vamos a hablar
+[00:10:18] de qué tipo de tecnología hablamos la
+[00:10:20] última vez si estoy siendo un poco al
+[00:10:22] repaso de los que vimos lo que vimos la
+[00:10:27] vez pasada
+[00:10:30] básicamente
+[00:10:33] hablamos de sistemas inteligentes de
+[00:10:35] tipos lo que se llama smart energy
+[00:10:38] systems smart grids smart cities
+[00:10:40] smartphones y todo lo que es puertos
+[00:10:42] inteligentes
+[00:10:44] plantas virtuales de energía y mobility
+[00:10:47] sistema de flexibilidad sistema
+[00:10:48] conectado a la red micro grids stand
+[00:10:51] alone sisters y todo lo que tiene que
+[00:10:53] ver con capacidad y bill de todo lo que
+[00:10:55] tiene que ver con capacitiva link son
+[00:10:57] temas que básicamente hacen a la al
+[00:10:59] desarrollo de proyectos que agradan a la
+[00:11:05] ala
+[00:11:06] transferencia de conocimientos
+[00:11:10] de nuevo en pequeña mediana y gran
+[00:11:12] escala entonces distintos tipos de
+[00:11:13] proyectos distintos tipos de tecnologías
+[00:11:15] todo lo que tiene que ver que es muy muy
+[00:11:18] importante
+[00:11:22] todo lo que existe más de tipo
+[00:11:23] inteligente smart energy systems virtual
+[00:11:26] power plants de sistema flexible big
+[00:11:29] beat connected systems son sistemas que
+[00:11:32] tienen que ver con cuestiones que se
+[00:11:34] están relacionadas con la integración en
+[00:11:37] red de grandes volúmenes de energía
+[00:11:39] renovable eso vamos a hablar ahora en un
+[00:11:41] momento lo hablamos la otra vez en la
+[00:11:43] clase anterior pero básicamente es
+[00:11:47] soluciones que tienen que ver con
+[00:11:49] sistemas de red plantas virtuales
+[00:11:52] movilidad eléctrica
+[00:11:54] y todo lo que tiene que ver con la
+[00:11:56] provisión de servicios auxiliares si
+[00:11:59] todo lo que tiene que ver con potencia
+[00:12:00] activa potencia reactiva sistema
+[00:12:02] de forecasting
+[00:12:04] control de potencia activa para todo lo
+[00:12:07] que es control de frecuencia y potencia
+[00:12:09] reactiva para lo que es control de
+[00:12:11] tensión inductiva capacitiva es ahí
+[00:12:14] donde es muy importante toda la visión
+[00:12:16] que se pueda tener de estos de estos
+[00:12:17] temas
+[00:12:22] es importante también hablar de dos
+[00:12:24] temas que suelen confundirse uno de lo
+[00:12:26] que es micro redes y otros lo que son
+[00:12:28] sistemas de tipo estándar o sistemas de
+[00:12:31] tipo estándar lawson sistemas que están
+[00:12:33] conectados
+[00:12:35] y comunicados
+[00:12:39] independientemente en el
+[00:12:41] sistema eléctrico
+[00:12:45] y no tiene el apoyo de ningún tipo de
+[00:12:47] red eléctrica
+[00:12:49] de tipo sistemas de tipo stand alone son
+[00:12:51] sistemas de tipo isla que tienen un
+[00:12:54] apoyo en su propia red pero básicamente
+[00:12:57] son sistemas que están completamente
+[00:12:59] desconectados
+[00:13:05] acá tenemos una buena filmina de nuevo
+[00:13:09] van a ver que se lo voy a rellenar toda
+[00:13:11] la clase de hoy kilovatio megavatios
+[00:13:14] giga vatios pequeña mediana y gran
+[00:13:16] escala la integración del sistema es un
+[00:13:18] desafío en todos los niveles si entonces
+[00:13:20] estamos hablando de tribus distribución
+[00:13:22] o transmisión
+[00:13:24] extra baja o sea domiciliaria redes
+[00:13:26] domiciliarias redistribución los redes
+[00:13:28] de transmisión eléctrica y básicamente
+[00:13:30] ahí tenemos todas las tecnologías de las
+[00:13:33] cuales estamos hablando
+[00:13:34] y hay dos tipos de líneas si se fija en
+[00:13:38] una línea punteada y una línea bien
+[00:13:42] bien sólida esa línea punteada es una
+[00:13:46] línea que tiene que ver con el control y
+[00:13:47] comunicación
+[00:13:51] qué tiene que ver con los datos cómo se
+[00:13:55] comunican entre sistemas y cómo
+[00:13:57] básicamente ven prácticamente todos los
+[00:14:00] sistemas e interactúan entre sí si de
+[00:14:03] manera descentralizada no hay un único
+[00:14:04] sistema que es un sistema central sino
+[00:14:07] que si hay datos que van de un dato de
+[00:14:10] un sistema a otro que tienen que ver con
+[00:14:12] el consumidor con los contadores
+[00:14:13] inteligentes con los productores de
+[00:14:15] electricidad etcétera pero si se pueden
+[00:14:17] fijar no estamos hablando de una
+[00:14:20] de un sistema siempre que presta
+[00:14:23] información a un solo a un solo sector
+[00:14:25] de datos
+[00:14:29] esto simplemente no lo traje para
+[00:14:32] dejarlo como repaso esto tiene que ver
+[00:14:34] con un poco la historia de la transición
+[00:14:36] energética porque no traigo porque tiene
+[00:14:38] que ver con cómo sé cómo ha evolucionado
+[00:14:39] todo esto
+[00:14:43] que el proceso tuvo y de qué manera se
+[00:14:45] llevó adelante
+[00:14:48] 1970 comenzaron los movimientos
+[00:14:50] antinucleares 1973 la primera crisis del
+[00:14:53] petróleo no nos olvidemos una cosa
+[00:14:55] estamos hablando de un país que inició
+[00:14:57] la transición energética
+[00:14:58] donde no había subsidios donde es decir
+[00:15:01] la energía y sus costos eran
+[00:15:04] transparentes a los a las situaciones
+[00:15:06] volátiles que pueden llegar a haber
+[00:15:08] en el globo
+[00:15:11] entonces estamos delante de él
+[00:15:16] una situación de la crisis del petróleo
+[00:15:18] visibilizar la dependencia de la presión
+[00:15:20] energía crisis del petróleo en otros
+[00:15:22] países y un aumento brutal de los costos
+[00:15:25] de energía en alemania
+[00:15:27] se crea en mil 974 se crea la agencia
+[00:15:31] nacional de medio ambiente que luego va
+[00:15:33] a desembocar en el ministerio del medio
+[00:15:35] ambiente conservación natural y
+[00:15:36] seguridad nuclear
+[00:15:38] segunda crisis del petróleo en
+[00:15:41] 1969 73 una crisis seis años más tarde
+[00:15:45] otra crisis del petróleo
+[00:15:48] cinco o seis años más tarde chernóbil
+[00:15:53] entonces básicamente había dos cosas que
+[00:15:55] no podía alemania sostener su
+[00:15:58] dependencia de combustibles fósiles de
+[00:16:00] terceros todo lo que es importación
+[00:16:03] y su dependencia de la energía nuclear
+[00:16:05] porque porque la energía nuclear no era
+[00:16:07] segura a entender de alemania si quieren
+[00:16:10] de eso podemos discutir y debatir a mi
+[00:16:13] entender tampoco tiene tiene estándares
+[00:16:15] seguridad que no son no son lógicos para
+[00:16:17] los países en los que se está
+[00:16:19] desarrollando
+[00:16:20] pero es algo que está en discusión si se
+[00:16:25] quiere
+[00:16:26] y si quieres lo podemos debatir en algún
+[00:16:28] momento
+[00:16:32] si se aprueba el feed in tariff en 1991
+[00:16:35] en alemania se libera el mercado de
+[00:16:37] energía se aprueban las leyes de
+[00:16:38] energías renovables con una
+[00:16:42] establece se establece la meta de cierre
+[00:16:45] de centrales nucleares 2022 eso sucede
+[00:16:48] en el año 2000 fíjense 22 años grandes
+[00:16:51] hasta
+[00:16:52] santiago que alemania iba a cerrar las
+[00:16:55] centrales de energía nuclear
+[00:16:59] y a partir de allí comienza todo un
+[00:17:01] desarrollo no voy a profundizar acá
+[00:17:03] porque el objetivo de esto es
+[00:17:04] simplemente un repaso para meternos en
+[00:17:06] el tema que tiene que ver con el
+[00:17:07] hidrógeno
+[00:17:09] e
+[00:17:11] básicamente con todo lo que tiene que
+[00:17:13] ver con la actualización de la ley de
+[00:17:14] energías renovables que sucedía
+[00:17:16] esa ley tenía determinados tipos de
+[00:17:18] compromisos como en el modo 2010 se
+[00:17:20] fijan metas de energías renovables que
+[00:17:23] era 2010 fíjense para el 2020 el 35 por
+[00:17:26] ciento del 2030 el 50 por ciento y el
+[00:17:28] 2050 el 80 por ciento eso es para el
+[00:17:31] 2010
+[00:17:33] pero
+[00:17:34] cuando las metas se ven cumplidas antes
+[00:17:38] en 2013 se actualizan las metas y al 20
+[00:17:42] a 25 al 45% se lleva fíjense
+[00:17:45] inicialmente en a 2020 35 por ciento lo
+[00:17:49] atrás son cinco años
+[00:17:51] y lo llevan al 2025 pero le suben al 45%
+[00:17:55] porque porque estaban cumpliendo porque
+[00:17:58] los sistemas de promoción de energías
+[00:17:59] renovables que había diseñado alemania
+[00:18:01] en ese momento habían sido muy efectivos
+[00:18:03] y se estaban cumpliendo con lo que hacía
+[00:18:05] falta para
+[00:18:07] lograr esas metas esos objetivos
+[00:18:16] un poco qué efectos tiene la transición
+[00:18:19] energética
+[00:18:20] una toma como ejemplo toma alemania pero
+[00:18:23] básicamente pues se puede hablar de
+[00:18:25] cualquier parte del mundo
+[00:18:28] e
+[00:18:30] qué efectos tiene
+[00:18:32] la transición energética en términos
+[00:18:34] generales una vez
+[00:18:36] fíjense lo que tiene que ver con la
+[00:18:40] cantidad del desarrollo de distintas
+[00:18:42] fuentes de energía le hace distintas
+[00:18:43] fuentes de conocimiento de distintos
+[00:18:46] profesionales como pueden ser cualquiera
+[00:18:47] de ustedes arrollando según acción ante
+[00:18:49] el solar otros en energía eólica otros
+[00:18:52] en biomasa otros eligen eléctrica cada
+[00:18:54] una de éstas de estos nuevos colores que
+[00:18:57] aparecen aquí
+[00:18:58] ustedes vean mis manos cuando lo utilizo
+[00:19:09] me parece que no para fer
+[00:19:15] cuando se ven los distintos colores de
+[00:19:17] las fuentes de energía de las cuales
+[00:19:18] estamos hablando
+[00:19:20] se puede ver las distintas tecnologías
+[00:19:23] que se fueron desarrollando y como al
+[00:19:25] inicio de todo esto año 2002
+[00:19:27] prácticamente no había energía solar
+[00:19:29] instalada ya el fin de
+[00:19:31] 2019 estamos hablando de 20 gigavatios
+[00:19:34] de energía solar y así podemos hablar de
+[00:19:36] 50 productos
+[00:19:39] algunas cuestiones que tienen que ver
+[00:19:40] con la producción bruta de energía entre
+[00:19:43] 2000 en 1990 y 2020 estoy tomando una
+[00:19:46] cantidad de años bien extensa para poder
+[00:19:49] analizar una tendencia de generación
+[00:19:54] acá podemos observar
+[00:19:56] generación renovable y como las otras
+[00:19:59] fuentes de generación tanto gas natural
+[00:20:01] nuclear
+[00:20:02] carbón
+[00:20:05] todas las otras empiezan a decrecer y la
+[00:20:08] generación de energía renovable alcanza
+[00:20:10] los 250 teravatios/hora
+[00:20:17] algunas cuestiones que tienen que ver
+[00:20:19] con el crecimiento económico porque
+[00:20:20] porque hablamos de una situación como
+[00:20:22] esta la república argentina con un
+[00:20:23] déficit fiscal alto con un costo de
+[00:20:25] energía elevado con costos de energía
+[00:20:27] que se tienen que aumentar
+[00:20:29] como tenemos cómo podemos ayudar al
+[00:20:33] desarrollo de la transición energética
+[00:20:35] en la república argentina o mejor dicho
+[00:20:37] la transición energética como ayuda a la
+[00:20:39] economía
+[00:20:40] y eso tiene que ver con el desarrollo
+[00:20:42] del producto bruto interior de todo lo
+[00:20:45] que tiene que ver con la emisión de
+[00:20:46] gases de efecto invernadero pero
+[00:20:47] fundamentalmente con el producto lo que
+[00:20:52] se llama el brou domestic product que es
+[00:20:55] el producto bruto interior como crece
+[00:20:58] este producto bruto a medida que nos
+[00:21:01] abastecemos de fuentes renovables
+[00:21:08] acá vamos a cambiar del tema vamos a
+[00:21:10] cambiar un poco al estilo fin me están
+[00:21:14] diciendo que si ven el mouse así que
+[00:21:15] estaba buenísimo
+[00:21:19] muchas gracias
+[00:21:23] es raro porque no veo a nadie yo estoy
+[00:21:26] hablando para mí mismo
+[00:21:32] y ahora somos 30 fe
+[00:21:37] [Música]
+[00:21:39] bien acá tenemos básicamente
+[00:21:45] en una discusión de cómo se tiene que
+[00:21:48] manejar o cómo se manejan este tipo de
+[00:21:50] sistemas eléctricos este tipo de
+[00:21:52] sistemas tienen una validación que tiene
+[00:21:56] que ver con
+[00:21:58] de tipo tensión adicional de tipo de
+[00:22:02] transmisiones distribución de
+[00:22:03] distribución a generación esa era la
+[00:22:06] forma habitual si el lado derecho de la
+[00:22:09] pantalla sigue el lado derecho de la
+[00:22:11] pantalla era la botonera las empresas de
+[00:22:14] control de la empresa de transmisión le
+[00:22:17] enviaban comandos en las empresas de
+[00:22:18] distribución en las empresas
+[00:22:19] distribución en la generación
+[00:22:23] después de eso tenemos todo lo que tiene
+[00:22:26] que ver con mercados
+[00:22:28] todo lo que tiene como mercados
+[00:22:32] un segundo que voy a apagar el teléfono
+[00:22:42] todo lo que tiene que ver con mercados
+[00:22:43] es cómo se incentiva para evitar la
+[00:22:46] generación
+[00:22:47] de
+[00:22:51] puntos directos que inyectan energía
+[00:22:54] directamente en la red
+[00:22:56] y quien tienen que ver con la generación
+[00:22:58] de manera directa
+[00:23:01] ya sea generación / admisión o
+[00:23:04] generación en distribución técnicamente
+[00:23:06] estamos hablando de lo mismo en términos
+[00:23:08] de qué sucede con el proceso
+[00:23:11] cuál es la tendencia actualmente las
+[00:23:13] empresas de transmisión
+[00:23:15] incentiva a los mercados se le indica el
+[00:23:18] mercado que requiere el mercado se le
+[00:23:21] indica el mercado ya o su operación de
+[00:23:24] trading desde ese producto
+[00:23:26] ahora vamos a poner algunos ejemplos
+[00:23:27] pero vamos a suponer la provisión de
+[00:23:29] potencia activa para por ejemplo ry
+[00:23:32] dispatch para todo lo que tiene que ver
+[00:23:35] con bote linex cosas del estilo
+[00:23:38] e
+[00:23:46] básicamente
+[00:23:49] todo lo que tiene que ver con la
+[00:23:50] operación de planta y finalmente se
+[00:23:52] envían los controles de comandos a las
+[00:23:54] distintas plantas de generación como
+[00:23:57] ustedes podrán ver la tendencia actual
+[00:23:59] no es una tendencia vertical donde la
+[00:24:01] empresa de transmisión le envío un
+[00:24:03] set-point a la empresa de distribución
+[00:24:05] de la empresa de distribución
+[00:24:07] acciona sobre las plantas que están a su
+[00:24:09] a su sistema conectadas sino que va así
+[00:24:13] básicamente estamos delante de una de un
+[00:24:16] sistema
+[00:24:17] llamémoslo más circular si se quiere que
+[00:24:20] es que la empresa de transmisión
+[00:24:21] incentiva en los mercados los mercados
+[00:24:23] reaccionan
+[00:24:24] se produce un trading de productos que
+[00:24:27] básicamente qué sucede ahí la ley de
+[00:24:29] oferta y demanda hace que se pague el
+[00:24:31] precio óptimo por cada producto donde
+[00:24:33] necesito mucho el valor sube donde
+[00:24:36] necesito poco el valor baja básicamente
+[00:24:38] la ley de oferta y demanda tiene su
+[00:24:40] efecto en este algoritmo y cuando
+[00:24:43] finalmente el trader del mercado gana
+[00:24:46] una operación determinada le dice al
+[00:24:47] operador de planta y el operador de
+[00:24:49] planta le envía dos a las plantas pero
+[00:24:52] no un concepto en vertical esto sucede
+[00:24:55] en semáforo verde cuando estamos en una
+[00:24:57] operación en verde cuando estamos en la
+[00:24:58] operación en amarillo o en rojo
+[00:25:00] básicamente en sistemas de situaciones
+[00:25:02] de alarma en situaciones de alerta en el
+[00:25:04] cual el sistema tiene riesgo de salir de
+[00:25:07] funcionamiento
+[00:25:08] parcialmente al menos por supuesto ni
+[00:25:10] hablar totalmente pero digamos de mínimo
+[00:25:12] parcialmente
+[00:25:15] la operación es vertical
+[00:25:20] ahora bien el cambio de paradigma
+[00:25:22] energético implica cambios en las
+[00:25:24] actividades de la economía de un país en
+[00:25:26] un horizonte a largo plazo sobre la base
+[00:25:28] de fuentes de energía generando un
+[00:25:29] cambio de paradigma a lo largo del
+[00:25:31] tiempo
+[00:25:33] no estamos hablando únicamente de una
+[00:25:35] tecnología de eso lo vamos a ir hablando
+[00:25:37] en el resto de la clase de hoy ya nos
+[00:25:39] trabamos en la introducción nos van a
+[00:25:40] ver con si ser batalló en la próxima
+[00:25:43] clase no hablamos únicamente de un
+[00:25:45] cambio de tecnología hablamos de un
+[00:25:48] cambio sociocultural
+[00:25:49] y es un poco de lo que les quiero hablar
+[00:25:51] ahora entonces ya entrar en el tema del
+[00:25:53] hidrógeno verde que es un poco el
+[00:25:54] objetivo de la clase de hoy habiendo
+[00:25:56] hecho un repaso para para asegurarme de
+[00:25:59] tenerlos a todos con el tema con los
+[00:26:01] temas frescos
+[00:26:04] básicamente hablamos de los años 80 años
+[00:26:08] 70 años 60 donde grandes centrales si
+[00:26:11] tenemos un paradigma donde había grandes
+[00:26:12] centrales
+[00:26:14] en conectadas en redes de transmisión
+[00:26:19] distribución medio voltaje
+[00:26:23] y finalmente
+[00:26:25] baja atención a redes domiciliarias
+[00:26:28] donde ninguno de estos casos había
+[00:26:30] ninguna fuente de energía renovable
+[00:26:33] año 90 año 2000 comienza un cambio de
+[00:26:37] paradigma en el cual comenzamos a ver
+[00:26:39] generación de energía renovable y
+[00:26:41] comenzamos a ver generación de energía
+[00:26:42] renovable tanto en transmisión como
+[00:26:44] algunas de distribución pero
+[00:26:46] fundamentalmente en transmisión grandes
+[00:26:48] centrales que empiezan a compartir el
+[00:26:49] escenario
+[00:26:51] y ahí empezamos a ver cómo es importante
+[00:26:54] hacernos cargo del sistema eléctrico
+[00:26:55] pero si nos queremos hacer cargo del
+[00:26:57] sistema eléctrico como fuentes de
+[00:26:58] energía renovable
+[00:27:01] [Música]
+[00:27:02] básicamente tenemos que hacer algo que
+[00:27:06] tenga que ver con
+[00:27:09] el sistema eléctrico parce
+[00:27:11] pero que tenga que ver con todo lo que
+[00:27:13] tiene que ver con seguridad todo lo que
+[00:27:15] es la provisión de servicios auxiliares
+[00:27:17] todo lo que tiene que ver con sistemas
+[00:27:19] de pronósticos todo lo que tiene que ver
+[00:27:20] con despacho plantas virtuales de
+[00:27:23] energía y demás porque porque no podemos
+[00:27:25] estar básicamente
+[00:27:28] haciendo este tipo de tecnología
+[00:27:31] desarrollando nuestro sistema eléctrico
+[00:27:33] y nosotros tratando
+[00:27:36] de
+[00:27:40] de obviar todo el desarrollo que tenga
+[00:27:43] que ver con las tecnologías necesarias
+[00:27:48] qué significa esto no puedo simplemente
+[00:27:50] poner a inyectar energía eléctrica
+[00:27:53] renovable y desentenderme de la
+[00:27:55] seguridad de la operación el sistema
+[00:27:57] si soy responsable por la generación al
+[00:28:00] cien por ciento del 80 al 60 por ciento
+[00:28:02] energía renovable también soy
+[00:28:04] responsable de la seguridad del sistema
+[00:28:06] y de eso es un poco de lo que vamos a
+[00:28:08] empezar a hablar
+[00:28:10] por último el paradigma de lo que se
+[00:28:12] está viviendo en algunas partes del
+[00:28:13] mundo de a poco también en argentina
+[00:28:15] ustedes ya vieron que se empieza a
+[00:28:16] nombrar la movilidad eléctrica que se
+[00:28:18] empiezan por supuesto a nombrar todo lo
+[00:28:20] que de generación distribuida generación
+[00:28:21] solar domiciliaria
+[00:28:24] todo lo que tiene que dar con eso es un
+[00:28:26] poco lo que tenemos acá
+[00:28:28] e
+[00:28:33] y ahí es donde se complejiza el sistema
+[00:28:35] donde tenemos de tipo todos los
+[00:28:37] presentaban multi energy systems todo lo
+[00:28:40] que es district heating y cooling
+[00:28:42] networking micro redes todo lo que tiene
+[00:28:45] que ver con actos eléctricos todo lo que
+[00:28:47] son char sin stations
+[00:28:49] demand site management todo lo que tiene
+[00:28:51] que ver con la parte de la demanda
+[00:28:53] nosotros podemos incentivar para que por
+[00:28:55] ejemplo
+[00:28:56] un lavarropas
+[00:28:59] para nosotros es lo mismo supongo en
+[00:29:00] lavarropas y me voy a dormir y es lo
+[00:29:03] mismo se le va ropas lava entre las 10
+[00:29:05] de la noche y las 11 o entre las 4 y las
+[00:29:07] 5 lo importante que yo quiero la ropa
+[00:29:09] elevada a las 8 de la mañana cuando me
+[00:29:11] levanto cuando puedo entender mis ropas
+[00:29:13] lo mismo la lavaplatos lo mismo
+[00:29:15] determinadas temperaturas de la heladera
+[00:29:16] entonces yo puedo incentivar que
+[00:29:18] determinados consumos de energía del
+[00:29:20] domicilio en el cual vivo y por ende de
+[00:29:22] todos los domicilios
+[00:29:24] varían de acuerdo a que a precios a esos
+[00:29:27] incentivos que veía por decir en una
+[00:29:29] filmina anterior y eso tiene que ver con
+[00:29:31] todo lo que estiman site management todo
+[00:29:33] lo que tiene que ver con control de la
+[00:29:35] demanda
+[00:29:39] bien hasta acá un breve resumen de que
+[00:29:43] de qué hablamos hablamos de un cambio de
+[00:29:45] paradigma
+[00:29:46] hablamos de transición energética
+[00:29:48] hablamos de una serie de cuestiones que
+[00:29:50] tienen que ver con cómo llegamos hasta
+[00:29:53] acá un poco de historia hicimos un breve
+[00:29:56] racconto de qué es de qué cosas hicieron
+[00:29:59] que nosotros hoy por hoy tengamos que
+[00:30:02] analizar la transición energética como
+[00:30:05] con hitos históricos y no simplemente
+[00:30:07] con desarrollo de tecnología y ahora
+[00:30:09] vamos a hablar un poco de hidrógeno de
+[00:30:11] por qué este vector hidrógeno
+[00:30:14] golpea las puertas y seguramente todos
+[00:30:16] ustedes han escuchado del tema ahora en
+[00:30:19] los diarios en las publicaciones
+[00:30:20] técnicas y no tan técnicas a quienes
+[00:30:23] estamos en el tema constantemente de
+[00:30:25] desarrollo de proyectos para la
+[00:30:26] producción de amoniaco metanol
+[00:30:30] y sectores que contengan hidrógeno y es
+[00:30:33] un poco de lo que vamos a hablar la
+[00:30:35] siguiente media hora los siguientes 40
+[00:30:36] minutos
+[00:30:39] básicamente tenemos que analizar el
+[00:30:42] consumo final de energía acá vamos a
+[00:30:43] tomar ejemplo a la unión europea ya no
+[00:30:45] solo un país sino vamos a hablar de la
+[00:30:47] unión europea se pueden fijar que el 62
+[00:30:50] por ciento es energía química le hace
+[00:30:53] productos relacionados con petróleo con
+[00:30:55] carbón y con gas natural
+[00:30:57] después hay un 10 por ciento que son
+[00:30:59] biocombustibles energía eléctrica
+[00:31:02] convencional un 15 por ciento fíjense
+[00:31:05] que uno entendería pensar que no uno
+[00:31:07] tendería a pensar que la energía
+[00:31:08] eléctrica es el 80 por ciento de todo y
+[00:31:11] no y sigue siendo la energía química
+[00:31:13] productos de tipo de oil and gas y
+[00:31:16] carbón y gas natural
+[00:31:19] todo lo que tiene que ver con heating
+[00:31:21] todo lo que tiene que ver con
+[00:31:22] calefacción toda la parte térmica le
+[00:31:25] hace calefacción o frío porque la
+[00:31:27] producción de frío también cuánta
+[00:31:28] energía
+[00:31:30] y finalmente el 8 por ciento son
+[00:31:32] energías menos
+[00:31:42] pregunta simplemente hasta que alguna
+[00:31:44] duda
+[00:31:48] hasta acá por ahora no profe hay un
+[00:31:50] comentario que dice profe está
+[00:31:52] interesante la clase porque arrancamos
+[00:31:54] la diplomatura cambió mucho el panorama
+[00:31:56] energético mundial
+[00:32:00] no por ahora nada más
+[00:32:03] esperamos unos minutitos porque saben
+[00:32:06] llegar un poco medio tarde del summa a
+[00:32:08] youtube pero parece que no habría
+[00:32:10] ninguna duda también lo seguimos es
+[00:32:13] bueno el comentario que han hecho
+[00:32:15] básicamente me imagino que se referirá
+[00:32:17] la situación a la guerra entre rusia y
+[00:32:19] ucrania y como todo el abastecimiento
+[00:32:22] de nuevo si se fijan lo importante de
+[00:32:25] esta filmina el 62%
+[00:32:28] este óleo
+[00:32:31] y carbón
+[00:32:34] la gran mayoría es importado y proviene
+[00:32:36] de orígenes importados
+[00:32:42] quien tiene que ver con lo que está
+[00:32:43] sucediendo y es verdad que desde que se
+[00:32:45] inició la diplomatura fíjense lo
+[00:32:47] dinámico de todo
+[00:32:49] a las filminas que tenemos que preparar
+[00:32:51] y lo que tenemos que hablar es distinto
+[00:32:55] durante una diplomatura imagínense lo
+[00:32:58] que hubiera sido si hablamos de un año
+[00:32:59] de dos o de tres años dotadas y en
+[00:33:01] términos de tecnología estamos hablando
+[00:33:03] de cuestiones que son relativamente
+[00:33:04] sencillas de abordar
+[00:33:08] pero bueno les pregunta profe si va a
+[00:33:11] hablar de las cuatro hélices del modelo
+[00:33:15] cuatro hélices del modelo si ella una
+[00:33:18] pregunta no sé a qué se refiere voy a
+[00:33:21] nombrar todo lo que el modelo de
+[00:33:23] hidrógeno pero no sé cuatro hélices
+[00:33:27] aparentemente no hay ninguna nuevas 840
+[00:33:30] los frenos así bien
+[00:33:35] bien los requisitos por el futuro de
+[00:33:38] suministro de energía eléctrica y porque
+[00:33:39] el hidrógeno básicamente estamos
+[00:33:42] necesitando grandes cantidades de
+[00:33:43] energía
+[00:33:46] la forma de la energía es química
+[00:33:49] de tipo químico
+[00:33:52] y entonces y está una gran cantidad de
+[00:33:54] energía para poder llevar adelante todo
+[00:33:57] lo que es importación de energía que es
+[00:33:58] inevitable
+[00:33:59] llegamos a decir que es inevitable tener
+[00:34:01] que importar energía de la pregunta es
+[00:34:03] qué energía voy a importar
+[00:34:05] voy a importar gas
+[00:34:07] voy a importar agua voy importante
+[00:34:08] hidrógeno voy a importar amoníaco urea
+[00:34:12] metanol
+[00:34:15] y es un poco de la charla la discusión
+[00:34:16] que estamos terminados cuatro factores
+[00:34:19] están impulsando el desarrollo de más
+[00:34:20] que nunca antes
+[00:34:23] en todo lo que es la historia de la
+[00:34:25] humanidad
+[00:34:26] básicamente el cambio climático
+[00:34:28] todo lo que es el
+[00:34:31] conocimiento del tema público un poco el
+[00:34:34] comentario que hacían recién que vos me
+[00:34:36] comentabas de
+[00:34:38] de como en dos meses de diplomatura la
+[00:34:42] realidad geopolítica del nuevo cambio
+[00:34:45] rusia invadió ucrania y se pone en
+[00:34:48] discusión todo el aprovisionamiento
+[00:34:50] energético europeo
+[00:34:55] los costos de energías renovables
+[00:34:57] bajaron abruptamente
+[00:34:59] y hay disponibilidad de capital
+[00:35:02] eso es parte de algo que se está viendo
+[00:35:04] diría para proyectos de generación de
+[00:35:06] energía renovable hay disponibilidad de
+[00:35:09] capital de grandes cantidades de dinero
+[00:35:11] no de pequeñas cantidades dinero estamos
+[00:35:13] hablando de grandes volúmenes de
+[00:35:20] básicamente estamos adelante de una
+[00:35:23] combinación geopolítica social económica
+[00:35:26] y tecnológica que nos lleve al reto de
+[00:35:28] un futuro climática 20 neutro
+[00:35:31] porque no usar simplemente más
+[00:35:33] electricidad renovable porque
+[00:35:34] simplemente decir bueno estar generemos
+[00:35:36] más energía eléctrica y entonces vamos a
+[00:35:38] ir a este gráfico y decir señores si yo
+[00:35:41] incremento en la parte de energía
+[00:35:42] eléctrica solo estoy trabajando en este
+[00:35:44] 15 por ciento del resto no es energía
+[00:35:47] eléctrica solo otra forma de energía
+[00:35:54] qué mercados y ahora vamos a hablar de
+[00:35:56] algunos tipos de mercados esquemas
+[00:35:58] industria movilidad de combustión cuáles
+[00:36:00] son los mercados de hidrógeno
+[00:36:02] y finalmente nos vamos a enfocar en la
+[00:36:05] cadena de valor de la hidrosfera todo lo
+[00:36:06] que es producción quienes quienes
+[00:36:09] trabajaron quienes se han escuchado
+[00:36:10] muchos conceptos de la industria del
+[00:36:12] petróleo del gas van a haber escuchado
+[00:36:14] upstream y downstream que tiene que ver
+[00:36:17] con la producción transporte y
+[00:36:19] procesamiento del petróleo del gas en el
+[00:36:21] caso del del hidrógeno hablemos de la
+[00:36:24] misma curva así como lo produzco
+[00:36:27] upstream como lo transporte y lo
+[00:36:29] distribuyó eso es miente string y el
+[00:36:32] procesamiento posterior downstream como
+[00:36:34] el luego esos productos se van a llevar
+[00:36:36] adelante
+[00:36:47] la producción transporte y distribución
+[00:36:50] básicamente acá acá esto se los dijo
+[00:36:54] como para que lo veamos pero básicamente
+[00:36:56] hablamos de producción de hidrógeno
+[00:36:57] utilizado material de entrada y una
+[00:37:00] fuente de energía reformado con vapor de
+[00:37:03] gas natural y electrólisis de agua
+[00:37:04] mediante gas mediante energía de bolita
+[00:37:06] el transporte de hidrógeno todo lo que
+[00:37:09] sería mi spring transporte distribución
+[00:37:11] el transporte de hidrógeno a la
+[00:37:13] instalación del procesamiento de usuario
+[00:37:15] final por ejemplo el transporte marítimo
+[00:37:17] suministro de una estación de servicio o
+[00:37:20] lo que tiene que ver con pipeline entre
+[00:37:22] países y regiones esto es un poco lo que
+[00:37:24] tenemos entre rusia ucrania polonia
+[00:37:27] república checa y alemania todo lo que
+[00:37:30] tiene que ver con los pipelines que
+[00:37:32] entra vía servicios países transportando
+[00:37:33] gas y el día mañana puede potencialmente
+[00:37:35] transportando hidrógeno o transportando
+[00:37:38] petróleo para ser refinado en las
+[00:37:42] distintas refinerías de la región
+[00:37:45] y todo lo que tiene que ver con el
+[00:37:47] downstream
+[00:37:48] generación de un producto partido de
+[00:37:50] hidrógeno puesta a disposición de
+[00:37:52] hidrógeno para usuarios finales acá es
+[00:37:54] lo que decíamos recién
+[00:37:56] utilizo el hidrógeno para algo y en este
+[00:38:00] caso es para la producción de amoniaco
+[00:38:01] combustibles sintéticos para estaciones
+[00:38:03] de abastecimiento de hidrógeno o redes
+[00:38:05] distribuciones de gas
+[00:38:11] la cadena de valor de hidrógeno es un
+[00:38:13] poco esto que no lo pongo en este
+[00:38:16] gráfico porque este gráfico es muy muy
+[00:38:18] interesante de ver cómo va de abajo
+[00:38:20] hacia arriba
+[00:38:21] la producción de hidrógeno como un
+[00:38:23] material de tipo químico
+[00:38:27] simple forming todo lo que tiene que ver
+[00:38:30] con reformado de gas natural y
+[00:38:32] electrólisis con energía eólica son las
+[00:38:35] dos maneras ahora vamos a analizar un
+[00:38:36] poquito esto el transporte de hidrógeno
+[00:38:39] básicamente hablamos de temas de tipo
+[00:38:41] shipping intercontinental a través de
+[00:38:43] barcos de camiones o de tipo pipeline
+[00:38:46] esto es lo que charlábamos recién todo
+[00:38:48] lo que tiene que ver con caños
+[00:38:49] normalmente eso es regional esto es a
+[00:38:51] nivel de países o de regiones dentro de
+[00:38:53] los países lo que serían argentina la
+[00:38:55] patagonia el noa nea y el centro
+[00:39:00] y el procesamiento es decir el
+[00:39:03] downstream in que transformó ese
+[00:39:04] hidrógeno cuando no tengo que utilizar
+[00:39:06] para algo entonces ahí aparece la
+[00:39:08] producción de amoniaco o combustibles
+[00:39:10] sintéticos
+[00:39:14] estaciones de servicio de hidrógeno para
+[00:39:16] la carga de hidrógeno en los tanques
+[00:39:19] y todo lo que tiene que ver con
+[00:39:20] distribución redes de distribución de
+[00:39:22] gas en las cuales se puede inyectar un
+[00:39:24] porcentaje determinado de hidrógeno
+[00:39:31] si analizamos un poco aquí están las dos
+[00:39:33] variantes de hidrógeno gris a su
+[00:39:35] izquierda de la pantalla y en el centro
+[00:39:37] de la pantalla de hidrógeno azul
+[00:39:39] básicamente los dos estamos hablando de
+[00:39:41] upstream todo lo que es producción de
+[00:39:43] hidrógeno fíjense como en todos los
+[00:39:45] casos cuando hablamos de gris o de azul
+[00:39:48] básicamente hablamos de utilizar el gas
+[00:39:51] natural
+[00:39:52] cuando hablamos de hidrógeno verde
+[00:39:54] usamos agua para un proceso de
+[00:39:57] electrólisis si esto no lo he puesto acá
+[00:40:00] porque es bastante bien básico pero
+[00:40:02] básicamente cuando hablamos de
+[00:40:05] gas hablamos de por ejemplo la presencia
+[00:40:07] vaca muerte con la presencia de vaca
+[00:40:09] muerta
+[00:40:10] hablamos de generación de energía
+[00:40:13] desde gas metano a partir del gas metano
+[00:40:22] acá está el hidrógeno verde básicamente
+[00:40:24] si miramos las diferencias en todos los
+[00:40:26] casos obtenemos h 2 es decir el
+[00:40:29] hidrógeno es hidrógeno la única
+[00:40:31] diferencia es que sus productos
+[00:40:33] obtenemos de derivados en los dos casos
+[00:40:36] tenemos emisiones de co2 que pueden
+[00:40:39] llegar a usar estructuras del tipo de
+[00:40:41] carbón kutcher que nos permiten capturar
+[00:40:44] el carbono
+[00:40:45] pero en algunos en algunos casos
+[00:40:47] seguimos emitiendo co2 al ambiente como
+[00:40:49] en el caso del hidrógeno gris que es el
+[00:40:52] utilizado actualmente
+[00:40:55] tengamos en cuenta importante para
+[00:40:57] seguramente alguien debe tener la duda
+[00:40:59] argentina consume hoy aproximadamente
+[00:41:01] 400 mil toneladas de hidrógeno por año
+[00:41:07] esas 400.000 toneladas de hidrógeno por
+[00:41:10] año
+[00:41:15] el
+[00:41:16] 98% pertenecen a la industria de ávila
+[00:41:19] gas
+[00:41:21] básicamente todo lo que tiene que ver
+[00:41:22] con lo refinado en astas
+[00:41:27] transporte de distribución de acá viene
+[00:41:29] un poco fíjense
+[00:41:30] porque se habla tanto seguramente lo han
+[00:41:32] escuchado en alguna publicación ahora
+[00:41:35] más o menos reciente lo han visto
+[00:41:38] fíjense que tenemos producción de
+[00:41:40] hidrógeno
+[00:41:41] energías renovables con electrólisis y
+[00:41:44] tenemos tres caminos si uno de la
+[00:41:47] licuefacción
+[00:41:49] síntesis para producir amoníaco o
+[00:41:52] síntesis para producir metanol si se
+[00:41:54] fijan el transporte lo que sí sería el
+[00:41:57] ministry de lo que estamos hablando
+[00:41:58] ahora este tipo de transporte marítimo
+[00:42:01] intercontinental suministro de una
+[00:42:03] estación de servicio corremos pipelines
+[00:42:05] entre países y regiones
+[00:42:09] esto que está acá fíjense que el
+[00:42:12] hidrógeno es transportado a menos 253
+[00:42:15] grados centígrados en todo el proceso de
+[00:42:17] licuefacción
+[00:42:20] el amoniaco es transportado pero a menos
+[00:42:22] 33
+[00:42:24] las pérdidas son mucho menores la
+[00:42:27] cantidad de material que se pierde en el
+[00:42:29] proceso de mucho menor y entonces
+[00:42:31] básicamente ahí es donde muchas veces se
+[00:42:35] habla de producir amoniaco junto con el
+[00:42:37] hidrógeno y el amoniaco transportarlo
+[00:42:42] y si no básicamente en la síntesis para
+[00:42:44] producir metanol que es transportado a
+[00:42:46] temperatura ambiente
+[00:42:50] el producto es hidrógeno amoniaco o
+[00:42:52] metanol
+[00:42:55] para darle los usos que ya sabemos que
+[00:42:57] es
+[00:43:00] y componentes
+[00:43:02] todos ellos en base a la generación de
+[00:43:03] hidrógeno si vamos para atrás el origen
+[00:43:06] el
+[00:43:08] upstream fue la generación de energía
+[00:43:11] eólica junto con electrólisis eso
+[00:43:13] produjo hidrógeno y ese hidrógeno lo
+[00:43:15] utilice de distintas maneras
+[00:43:24] básicamente la tenemos para el
+[00:43:27] transporte por el producto tenemos dos
+[00:43:29] posibles formas de transportar los
+[00:43:31] mezcla de hidrógeno en conversión de red
+[00:43:33] de hidrógeno
+[00:43:35] la mezcla de hidrógeno en la adición de
+[00:43:37] hidrógeno a la red de gas natural no se
+[00:43:39] requiere conversiones la infraestructura
+[00:43:41] existente hoy en día ya se añaden
+[00:43:42] pequeñas cantidades a la red de gas
+[00:43:44] normalmente es un 2% pero básicamente es
+[00:43:47] hablando de añadir 15 18 20 % hay un
+[00:43:51] tema de seguridad en los pipelines que
+[00:43:53] que se tienen que tener en cuenta la
+[00:43:55] concentración está limitada debido a
+[00:43:57] factores técnicos aplicaciones de
+[00:43:58] consumo la propia red de gas después de
+[00:44:01] la mezcla de red de gas el hidrógeno ya
+[00:44:02] casi no puede usarlo como material
+[00:44:04] independiente por que compite con el gas
+[00:44:06] natural
+[00:44:09] el hidrógeno es más competitivo en los
+[00:44:11] mercados de usos materiales o
+[00:44:12] aplicaciones de movilidad donde no
+[00:44:14] compite con el gas natural y una red de
+[00:44:17] hidrógeno debe conectar primero los
+[00:44:18] clusters industriales y luego
+[00:44:19] infraestructuras regionales y nacionales
+[00:44:21] alrededor del 75% de tuberías existentes
+[00:44:24] podrían utilizarse como infraestructura
+[00:44:26] de hidrógeno con pequeños ajustes esto
+[00:44:28] es muy importante porque uno muchas
+[00:44:29] veces se pregunta bueno dónde se va a
+[00:44:31] almacenar estas grandes cantidades de
+[00:44:32] hidrógeno y muchas veces en las propias
+[00:44:34] tuberías de transporte hablamos de los
+[00:44:36] volúmenes de hidrógenos necesarios para
+[00:44:38] almacenar allí
+[00:44:46] acá voy a volver a repasar esta filmina
+[00:44:48] porque es importante cuando hablamos de
+[00:44:50] mezcla de hidrógeno o conversión a la
+[00:44:52] red de hidrógeno como de golpe tengamos
+[00:44:56] presente que el hidrógeno que generamos
+[00:44:57] es siempre el mismo ese hidrógeno no
+[00:44:59] importa a nosotros sí nos importa pero
+[00:45:02] llegó un momento que no es importante de
+[00:45:04] cuál es el origen sino entender que
+[00:45:06] tengo hidrógeno en mi mano y que tengo
+[00:45:08] tres procesos de licuefacción
+[00:45:09] para producir todo lo que tiene que ver
+[00:45:13] con hidrógeno puro
+[00:45:14] amoniaco o metanol
+[00:45:21] campos de aplicación básicamente son
+[00:45:23] procesos que tienen que alguna industria
+[00:45:24] con la movilidad con el uso por la
+[00:45:26] producción de energías todo lo que se
+[00:45:28] llama heating and power si yo tengo
+[00:45:31] celdas de combustible que me permiten
+[00:45:33] producir energía grandes volúmenes de
+[00:45:35] energía
+[00:45:36] método de distribución y distribución
+[00:45:39] como el gas industrial
+[00:45:43] como estaciones de servicios para
+[00:45:45] vehículos o todo lo que tiene que ver
+[00:45:47] con vending en la distribución de redes
+[00:45:49] eléctricas
+[00:45:55] para que tengamos una idea de con qué
+[00:45:57] compite el hidrógeno básicamente
+[00:45:59] compiten con el hidrógeno
+[00:46:01] gris ocho centavos por kilovatio
+[00:46:05] con el diésel o la gasolina
+[00:46:07] compite cuando estás hablando de una
+[00:46:09] estación en una estación de servicio
+[00:46:11] cinco centavos por kilovatio hora
+[00:46:14] si no compiten cuando se hace el
+[00:46:16] blending o sea la mezcla de hidrógeno en
+[00:46:19] redistribución compite con lógicamente
+[00:46:21] con el gas natural acá hay que tener en
+[00:46:23] cuenta algo muy importante que es la
+[00:46:24] competencia con el gas natural se da en
+[00:46:26] el marco también de la competencia con
+[00:46:27] vaca muerta cuando hablamos de vaca
+[00:46:30] muerta en argentina es una situación muy
+[00:46:31] especial porque vaca muerta hablamos de
+[00:46:33] volúmenes enormes de gas natural y
+[00:46:36] entonces si alguien me dijera a mí en
+[00:46:37] argentina es un competidor de hidrógeno
+[00:46:39] del gas natural de vaca muerta no no lo
+[00:46:41] es porque porque vaca norte es
+[00:46:42] extremadamente barato
+[00:46:44] una vez que vaca muerta esté produciendo
+[00:46:46] las cantidades que se esperan que se
+[00:46:47] espera de vaca muerta que se produzca la
+[00:46:50] combinación para nuestro país es
+[00:46:52] distinta a la que estoy presentando acá
+[00:46:53] porque porque esta vaca muerta como un
+[00:46:55] granja
+[00:46:56] y una gran sombra que tiene que ver con
+[00:46:58] el tema de los precios
+[00:47:00] no me quiero meter ahí porque si no
+[00:47:02] podemos estar dos horas hablando pero es
+[00:47:04] importante que lo tengamos presente
+[00:47:05] porque porque no es exactamente lo mismo
+[00:47:07] para todos
+[00:47:10] ejemplos de proyectos de amoniaco verde
+[00:47:12] porque les pongo esto porque básicamente
+[00:47:14] quiero que veamos que ya hay cosas en
+[00:47:16] dinamarca en eeuu en australia
+[00:47:19] donde tenemos proyectos de cine de 250
+[00:47:22] megas de d
+[00:47:25] 10 megas en algunos casos y ahí hablamos
+[00:47:28] de participantes de proyectos como
+[00:47:30] pueden ser pistas fortescue metals
+[00:47:34] todo lo que tiene que ver con el
+[00:47:36] desarrollo de electrolizada de sticks el
+[00:47:38] club y fíjense que en todos estos
+[00:47:40] proyectos fueron anunciados a lo largo
+[00:47:42] de 2020 estos proyectos típicamente
+[00:47:43] tienen una preparación de cinco años
+[00:47:45] mínimos con lo cual y gente que está
+[00:47:46] trabajando desde los 20 2015 2012 para
+[00:47:51] poder anunciar el proyecto en 2020
+[00:47:54] estamos hablando de la producción de
+[00:47:56] amoniaco verde de nuevo si vamos a esta
+[00:47:57] gráfica estamos en este punto en el
+[00:48:02] en el camino 2 aquí estamos
+[00:48:04] transportando
+[00:48:05] amoniaco verde con productos
+[00:48:10] renovables y sustentables
+[00:48:13] para ir terminando un poco de la
+[00:48:16] presentación que quería hablarles un
+[00:48:18] poco del tema costos porque porque me
+[00:48:20] imagino que es alguna de la pregunta
+[00:48:21] estando ustedes haciendo se está todo
+[00:48:23] muy bien muy verde desarrollo
+[00:48:25] tecnológico desafiante están está
+[00:48:27] bárbaro pero básicamente quiero saber de
+[00:48:30] quién costos estamos hablando de qué
+[00:48:32] valores estamos hablando y acá tenemos
+[00:48:34] algo muy importante que es que cada
+[00:48:36] kilogramo de hidrógeno producido se
+[00:48:37] vuelve más caro cuanto escuchen esto
+[00:48:40] cuanto menor es la utilización de la
+[00:48:42] capacidad de planta
+[00:48:44] y entonces tengo esto es
+[00:48:46] cuanto menos eficiente soy en la planta
+[00:48:50] es más caro
+[00:48:53] la producción el costo de producción mío
+[00:48:56] aquí me lleva a esto tener factores de
+[00:48:59] plantas de utilidad en plantas muy altos
+[00:49:01] yo con un parque eólico del que
+[00:49:03] estuviera en un factor de capacidad del
+[00:49:05] 20 por ciento mis costos estarían
+[00:49:08] siendo extremadamente altos
+[00:49:14] cuando mi discapacidad de factor de
+[00:49:16] utilización
+[00:49:18] supera el 50 60 por ciento que quiere
+[00:49:21] decir a un uso sumamente eficiente de
+[00:49:24] una gran cantidad de energía
+[00:49:27] puedo básicamente tener esto
+[00:49:30] en la generación
+[00:49:34] el ejemplo de costos de producción de
+[00:49:35] hidrógeno que se muestran efectos de
+[00:49:37] variación tres colores del costo 5 el
+[00:49:39] costo de electricidad fíjense lo
+[00:49:40] siguiente que es muy importante esto que
+[00:49:43] tiene que ver con la con la con los
+[00:49:46] costos de electricidad
+[00:49:50] una cosa es los costos fijos
+[00:49:54] y otra cosa es los costos de
+[00:49:55] electricidad y fíjense cómo cuando tengo
+[00:49:58] bajos costos de electricidad y un alto
+[00:50:01] factor de utilización es mi valor más
+[00:50:04] seguro económicamente más rentable mi
+[00:50:06] costo fijo es muy bajo y mi costo de
+[00:50:08] electricidad son bajos
+[00:50:10] porque tengo bajos costos electricidad
+[00:50:12] porque tiene un factor de capacidad alto
+[00:50:18] algunos desafíos algunos temas que
+[00:50:20] quiero dejarles como resumen de todo lo
+[00:50:22] que estuvimos viendo la integración en
+[00:50:23] redes eléctricas de fuerte definición
+[00:50:25] variable es uno de los mayores desafíos
+[00:50:27] aunque no el único que enfrentan los
+[00:50:29] países en las regiones donde alguna
+[00:50:31] transición energética se está llevando
+[00:50:32] delante esto es un poco también el
+[00:50:34] comentario que teníamos recién respecto
+[00:50:36] del cambio geopolítico que produjo lo
+[00:50:38] que produjo una invasión de rusia a
+[00:50:40] ucrania
+[00:50:42] alemania acelera todos los países la
+[00:50:45] región toda la unión europea acelera su
+[00:50:47] transición energética
+[00:50:49] para no depender del gas ruso
+[00:50:53] rusia tiene una vida limitada y una
+[00:50:55] cantidad de años limitados en los cuales
+[00:50:57] su gas es importante para los demás va a
+[00:51:01] llegar un momento en el cual no es
+[00:51:02] necesario ya partir de ahí hay un
+[00:51:04] problema
+[00:51:07] para rusia no
+[00:51:09] los temas principales a considerar es
+[00:51:11] por un lado el desarrollo del sistema
+[00:51:12] moderno son pronósticos que renovables
+[00:51:14] provisión de servicios auxiliares en
+[00:51:16] bases de energías renovables control de
+[00:51:18] potencia active contando potencia
+[00:51:19] reactiva desarrollo de marcos
+[00:51:21] regulatorios de desarrollo de mercados
+[00:51:23] para la provisión de servicios
+[00:51:24] auxiliares nuevas tecnologías como la
+[00:51:26] integración de vehículos eléctricos en
+[00:51:28] redes de baja tensión acá nos
+[00:51:30] encontramos con nuevas tecnologías como
+[00:51:32] es todas las tecnologías de es la que no
+[00:51:34] es la única de autos conectándose con
+[00:51:37] inverter a la red eléctrica de baja de
+[00:51:40] baja tensión pero qué sucede el bajo el
+[00:51:42] auto es un productor de energía durante
+[00:51:44] la noche porque porque su batería está
+[00:51:47] en condiciones de entregar energía a la
+[00:51:48] red
+[00:51:50] y es un generador y es un consumidor de
+[00:51:52] energía cuando su batería se está
+[00:51:54] cargando entonces el auto tiene dos
+[00:51:56] roles el del productor de energía y el
+[00:51:58] del consumidor de energía
+[00:52:01] entonces el auto se denomina un
+[00:52:03] profesional un productor un consumidor
+[00:52:08] retos y soluciones básicamente estamos
+[00:52:11] hablando de una cobertura de la demanda
+[00:52:12] eso sigue siendo así y va a seguir
+[00:52:14] siendo acción hasta el fin de los días
+[00:52:15] tengo que garantizar la cobertura de la
+[00:52:18] demanda eléctrica el control de la
+[00:52:21] supervisión de la generación distribuida
+[00:52:22] la variabilidad de la producción
+[00:52:25] renovable y de incertidumbre en la
+[00:52:26] predicción hay predicción si es perfecta
+[00:52:29] no hay una incertidumbre determinada si
+[00:52:31] el comportamiento ante perturbaciones
+[00:52:34] contribución de la generación renovable
+[00:52:36] en los servicios sociales del sistema
+[00:52:38] situaciones de excedentes de generación
+[00:52:41] no integrables en el sistema capacidad
+[00:52:43] de transporte y distribución
+[00:52:44] soluciones básicamente es el incremento
+[00:52:46] de la generación flexible y el
+[00:52:48] desarrollo del sistema de gestión de la
+[00:52:50] demanda todo lo que tiene que ver con
+[00:52:52] almacenamiento de vehículos eléctricos
+[00:52:54] desarrollo y adaptación de un centro de
+[00:52:57] control de energías renovables
+[00:52:58] desarrollo y mejora de las herramientas
+[00:52:59] de predicción
+[00:53:01] adaptación de la antena tecnológica los
+[00:53:04] generadores esto tiene que ver con la
+[00:53:06] flexibilidad que los generadores pueden
+[00:53:07] entregar poder se activa potencia
+[00:53:09] reactiva eso es básicamente el diagrama
+[00:53:12] del generador y tiene que ver con la
+[00:53:14] forma en la que un generador eléctrico
+[00:53:16] entrega en la red
+[00:53:19] el desarrollo normativo y tecnológico de
+[00:53:22] esto hablábamos un poco también cuando
+[00:53:23] hablamos de temas de hidrógenos todo lo
+[00:53:25] que es normativa todo lo que es
+[00:53:26] generación
+[00:53:30] legislativa
+[00:53:32] como se puede llevar adelante y el
+[00:53:35] desarrollo y refuerzo de las líneas de
+[00:53:36] transporte de distribución
+[00:53:43] estas 2 filminas las voy a dejar en las
+[00:53:46] filminas que le voy a pasar pero ya las
+[00:53:47] mismos simplemente las de que como me
+[00:53:49] pasó básicamente cuando hablamos de
+[00:53:52] transición energética hablamos de
+[00:53:55] qué áreas
+[00:53:57] vinculan esto y básicamente la buena
+[00:54:01] noticia es que no solo la ingeniería la
+[00:54:03] mala noticia para los ingenieros no
+[00:54:04] somos los únicos
+[00:54:07] básicamente hablamos de ingenierías
+[00:54:09] ciencias políticas ilegales ciencia de
+[00:54:10] la educación ciencias del ambiente
+[00:54:11] psicología social ciencias económicas
+[00:54:14] esas seis formas de estudio esas seis
+[00:54:17] casas de estudio son las que proveen
+[00:54:19] conocimientos al desarrollo de la
+[00:54:21] energía renovable cuando por ejemplo
+[00:54:22] estamos haciendo una diplomatura en la
+[00:54:24] ute n estamos abarcando de distintos
+[00:54:26] puntos de vista
+[00:54:28] profesionales de distintas tres tipos de
+[00:54:30] estas áreas que qué tipo de empresas se
+[00:54:34] vinculan a estas áreas básicamente
+[00:54:36] tenemos de emprendedores startups pymes
+[00:54:38] hasta empresas multinacionales y
+[00:54:40] universidades y centros de investigación
+[00:54:41] pasando por todo lo que es industria
+[00:54:43] metalmecánica pesada que es un punto
+[00:54:45] entre la máquina y la multinacional
+[00:54:50] algunas conclusiones algunos puntos que
+[00:54:52] quiero repasar con ustedes porque porque
+[00:54:54] me parece que independientemente de qué
+[00:54:57] hablamos si hablamos de hidrógeno si
+[00:54:58] hablamos de energía si hablamos a
+[00:54:59] transiciones de la típica que es un
+[00:55:01] punto de charla de hoy
+[00:55:03] hablamos de que la transición energética
+[00:55:05] representa mucho más que un cambio de
+[00:55:07] paradigma energético son sí un cambio
+[00:55:09] sociocultural
+[00:55:12] el desarrollo de industria en nuestro
+[00:55:14] país se va a poder se va a producir
+[00:55:15] considerablemente mucho más rápido que
+[00:55:17] en otras partes del mundo porque porque
+[00:55:19] la tecnología se está desarrollada
+[00:55:22] no tengo que desarrollar paneles de
+[00:55:24] paneles solares o autos eléctricos eso
+[00:55:27] ya está desarrollado nosotros tenemos
+[00:55:29] que luchar contra la las formas de
+[00:55:31] desarrollar estos proyectos y llevar
+[00:55:33] adelante la regulación de los mercados
+[00:55:36] existen desafíos de corto mediano y
+[00:55:38] largo plazo que deben ser analizados con
+[00:55:39] una visión estratégica para el
+[00:55:41] desarrollo del sistema eléctrico y esos
+[00:55:43] desafíos son los desafíos que
+[00:55:47] básicamente tienen que ver con el
+[00:55:49] desarrollo del sistema industrial
+[00:55:51] nacional
+[00:55:52] el desarrollo de las energías renovables
+[00:55:54] se dará de un modo progresivo
+[00:55:55] garantizaban la estabilidad el sistema
+[00:55:57] al tiempo que permitirá desarrollar las
+[00:55:58] tecnologías que se vayan al signo falda
+[00:56:01] y para que eso suceda 100 seguidos crear
+[00:56:03] el trabajar en un cohen de manera
+[00:56:05] conjunta porque esta última producto
+[00:56:07] está últimos comentarios porque la
+[00:56:09] ciencia y la industria no siempre
+[00:56:11] trabajan en la misma dirección
+[00:56:14] si muchas veces el mundo científico
+[00:56:15] tiene su mundo y el mundo industrial
+[00:56:19] tiene su propio mundo el desafío es que
+[00:56:21] tanto el mundo científico como el mundo
+[00:56:23] industrial dialoga de manera más concisa
+[00:56:27] más cercana y que proyectos que la
+[00:56:29] industria necesita sean desarrollados
+[00:56:31] por el mundo científico y no a la
+[00:56:33] inversa
+[00:56:36] bien hasta acá llegamos por hoy
+[00:56:38] si tienen alguna duda con gusto si no
+[00:56:41] quedamos en que les voy a mandar las
+[00:56:43] filminas
+[00:56:45] y nos y nos mantenemos comunicados a la
+[00:56:48] gente de la ocde si les parece
+[00:56:52] bueno profe muchísimas gracias muy
+[00:56:54] interesante la clase
+[00:56:57] no sé si algunos tienen dudas chicos
+[00:57:01] llegamos a tener 20 20 usuarios viendo
+[00:57:04] la clase al final profe no así que
+[00:57:07] estuvo bastante interesante
+[00:57:09] no sé si alguna duda algo que le quieren
+[00:57:12] preguntar el profe
+[00:57:24] no sé si usted profe quiere dejar algún
+[00:57:26] mail de contacto para que eso se lo voy
+[00:57:29] a mandar yo se lo voy a mandar ahora
+[00:57:33] cuando te mande todo a vos te voy a
+[00:57:34] mandar un email quiéres alejandro punto
+[00:57:36] que si no recibe el puntocom
+[00:57:38] el mail quiere mandar melo por acá por
+[00:57:40] el chat que tenemos en el zoom y dorso
+[00:57:43] ahora si los chicos lo pueden ver profe
+[00:57:45] y después los otros cinco
+[00:57:47] segundos
+[00:57:49] dale
+[00:57:51] forma
+[00:57:56] dar un minuto por favor
+[00:57:59] si profundo probablemente ahí están
+[00:58:02] poniendo muy buena la clase muchas
+[00:58:03] gracias
+[00:58:05] bueno me alegro muchísimo que les haya
+[00:58:06] gustado
+[00:58:10] muy claro
+[00:58:21] ay
+[00:58:24] ok profe ailón
+[00:58:41] bien bueno parece que no hay ninguna
+[00:58:44] duda profe
+[00:58:46] todo chicos apenas me pase el material
+[00:58:48] del profe lo voy a subir así que no sea
+[00:58:50] un problema de eso y bueno nos vemos el
+[00:58:53] lunes chicos y usted pero si lo vuelvo a
+[00:58:56] encontrar me parece que no
+[00:58:58] es tan
+[00:59:01] bueno el profe

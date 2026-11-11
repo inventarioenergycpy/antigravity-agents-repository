@@ -1,0 +1,3332 @@
+[00:00:30] E bueno, como les decía, e vamos a
+[00:00:33] contar con la presencia nuevamente del
+[00:00:35] Dr. Fernando Cosiqui. Nos va a hablar en
+[00:00:37] la clase 14 de responsabilidad por los
+[00:00:40] cortes,
+[00:00:41] eh mora, tarifas, judicialización. Así
+[00:00:45] que bueno, vamos a tener una clase más
+[00:00:47] que interesante.
+[00:00:49] E bueno, Fernando, todo tuyo cuando
+[00:00:52] quieras comenzar.
+[00:00:53] Gracias
+[00:00:55] por la introducción. Bueno, eh vamos a
+[00:00:58] dar esta segunda clase. La primera, como
+[00:01:02] recuerdan, habíamos analizado el
+[00:01:03] servicio eléctrico desde una perspectiva
+[00:01:05] general.
+[00:01:07] Habíamos tratado la la condición del
+[00:01:09] servicio público como una condición
+[00:01:11] esencial. Evaluamos la relación de
+[00:01:14] consumo, eh cómo cuál eran los
+[00:01:16] principios del consumidor aplicable a
+[00:01:19] las distribuidoras, a las concesionarias
+[00:01:21] de de de servicio de energía.
+[00:01:23] Distinguimos la función regulatoria del
+[00:01:25] Estado de la función judicial,
+[00:01:28] todo con jurisprudencia aplicable al
+[00:01:31] caso y también evaluamos los daños y
+[00:01:34] perjuicios por la responsabilidad
+[00:01:35] objetiva, por la responsabilidad del
+[00:01:37] riesgo eh de la cosa que implicaba el
+[00:01:40] uso y la utilización, la prestación de
+[00:01:43] de la energía como servicio eh público.
+[00:01:46] En esta segunda clase
+[00:01:49] vamos a avanzar sobre temas más
+[00:01:51] concretos.
+[00:01:52] En una primera parte vamos a explicar el
+[00:01:55] principio de continuidad, cómo se
+[00:01:58] desenvuelve sobre todo en servicios
+[00:02:00] esenciales y a los casos de de
+[00:02:03] electrodependientes.
+[00:02:04] Luego desarrollaremos la mora del
+[00:02:06] usuario, la responsabilidad de los daños
+[00:02:08] y las herramientas judiciales que son
+[00:02:11] las medidas cautelares, los amparos, las
+[00:02:13] medidas autosatisfactivas. cuando existe
+[00:02:16] eh una interrupción del servicio
+[00:02:19] eléctrico y y no se da una respuesta
+[00:02:20] eficiente en el marco de de la
+[00:02:22] distribuidora. Y por último abordaremos
+[00:02:25] eh el tema de las de las tarifas
+[00:02:28] judiciales y del medio ambiente
+[00:02:31] relacionado con con la con la energía,
+[00:02:33] la energía eléctrica, la distribución,
+[00:02:36] el transporte y la generación de energía
+[00:02:38] eléctrica. Pero bueno, arrancamos por
+[00:02:43] las interrupciones. ¿Qué pasa cuando o
+[00:02:45] qué sucede cuando se corta el suministro
+[00:02:48] de energía?
+[00:02:49] La respuesta en una primera o la primer
+[00:02:52] respuesta puede ser sencilla. Podríamos
+[00:02:53] decir, si el servicio se interrumpe
+[00:02:55] directamente es un incumplimiento de la
+[00:02:57] distribuidora.
+[00:02:59] Sin embargo, cuando analizamos los casos
+[00:03:01] concretos, podemos advertir que el
+[00:03:03] problema es mucho más complejo.
+[00:03:06] No todas las interrupciones son iguales,
+[00:03:08] no todas son injustas, no todas son
+[00:03:10] ilegítimas. ¿Puede existir un corte
+[00:03:13] programado por mantenimiento, ocurrió
+[00:03:15] una falla eléctrica o una tormenta de
+[00:03:17] características o de intensidad
+[00:03:19] extraordinaria? Esperemos que la no
+[00:03:21] tenga esa intensidad o esas
+[00:03:23] características. Puede dañarse una
+[00:03:25] instalación por actuación de terceros.
+[00:03:28] Puede existir una deuda de un usuario,
+[00:03:30] una factura eh no paga, un alterador,
+[00:03:33] una alteración de del medidor ilegítima.
+[00:03:37] Eh, lo cierto es que hay que hacerse
+[00:03:38] varias preguntas sobre esta situación.
+[00:03:40] ¿Cuál fue la causa de la interrupción?
+[00:03:42] ¿Cuánto duró? ¿Fue un hecho aislado?
+[00:03:45] ¿Qué procedimiento se siguió ante esa
+[00:03:47] interrupción? ¿Qué información brindó la
+[00:03:50] empresa? ¿Qué medidas adoptó para
+[00:03:52] prevenir la interrupción o para evitar
+[00:03:54] daños mayores?
+[00:03:56] Esto está relacionado con lo que era uno
+[00:03:58] de los caracteres esenciales. La clase
+[00:03:59] anterior hemos visto los caracteres
+[00:04:02] fundamentales del servicio eléctrico y
+[00:04:03] uno de los caracteres esenciales era la
+[00:04:05] continuidad.
+[00:04:07] ¿Qué es la continuidad? La continuidad
+[00:04:09] supone que el servicio no debe
+[00:04:10] interrumpirse sin una causa justificada.
+[00:04:14] Vamos a ver que en algunas situaciones
+[00:04:16] puede haber una prestación continua o
+[00:04:17] discontinua, pero lo cierto es que
+[00:04:20] requiere una permanencia el servicio y
+[00:04:22] en situaciones particulares esa
+[00:04:24] continuidad adquiere
+[00:04:26] una relevancia especial, sobre todo
+[00:04:29] cuando hablamos de servicios esenciales
+[00:04:32] o cuando hablamos de casos de personas
+[00:04:34] que necesitan la energía para una
+[00:04:35] cuestión de salud de manera
+[00:04:37] indefectible, porque podrían poner en
+[00:04:39] riesgo eh esa situación patológica o esa
+[00:04:42] situación de de salud que los afecta.
+[00:04:45] En lo que concierne a los servicios
+[00:04:48] esenciales, tenemos lo que es el decreto
+[00:04:51] 143 del 2003, que establece para la
+[00:04:55] energía un protocolo para generar las
+[00:04:58] para gestionar las interrupciones que se
+[00:05:01] podrían producir en el servicio
+[00:05:02] eléctrico de la provincia de Buenos
+[00:05:03] Aires.
+[00:05:06] ¿Cuáles son los servicios esenciales?
+[00:05:08] Podríamos definirlos como aquellas
+[00:05:10] instituciones cuya operatividad es
+[00:05:12] crítica para la salud, la seguridad, el
+[00:05:15] bienestar público. Como ejemplo, podemos
+[00:05:18] decir que son los hospitales, las
+[00:05:21] estaciones de bombeo, el alumbrado.
+[00:05:24] Aunque las empresas distribuidoras, las
+[00:05:26] concesionarias del servicio, tienen
+[00:05:28] derecho a suspender el servicio por
+[00:05:30] falta de pago, este decreto limita esta
+[00:05:33] facultad priorizando el interés general.
+[00:05:36] ¿Por qué? Porque esto podría poner en
+[00:05:38] peligro la vida, la seguridad, la salud
+[00:05:40] de las personas, el bienestar general.
+[00:05:43] Fernando, perdón, eh, no se está viendo
+[00:05:46] la presentación, eh,
+[00:05:48] si ya la pusiste.
+[00:05:50] Ahí la pongo.
+[00:05:52] Igual no dije mucho para la
+[00:05:53] presentación, pero buenísima lación. Se
+[00:05:56] me estaba pasando.
+[00:06:04] Díganme si la ven.
+[00:06:07] Ahí está queriendo
+[00:06:14] ahí. Ahí está.
+[00:06:16] Ahí está.
+[00:06:17] Sí.
+[00:06:18] Bueno, ahí estamos.
+[00:06:20] servicios esenciales. Justo el primer
+[00:06:22] punto.
+[00:06:23] Perfecto.
+[00:06:24] El alcance, el trámite eh de esta
+[00:06:26] prestación. Bueno, e [carraspeo]
+[00:06:30] decíamos que si bien eh esta protección
+[00:06:34] sobre la continuidad física del servicio
+[00:06:35] no extingue la obligación de de pago del
+[00:06:37] usuario ni anula los derechos de cobro,
+[00:06:40] es eh porque en definitiva está en juego
+[00:06:43] el derecho de propiedad de la
+[00:06:44] concesionaria. Podría, en consecuencia,
+[00:06:45] la distribuidora iniciar un juicio
+[00:06:48] persiguiendo el cobro de la de la deuda
+[00:06:50] que hubiera de tener este esta
+[00:06:54] institución que presta un servicio
+[00:06:55] esencial. La restricción es simplemente
+[00:06:58] una restricción operativa, una
+[00:07:00] restricción procedimental
+[00:07:04] que incluso un trámite específico.
+[00:07:07] 60 días de antelación
+[00:07:10] debe eh notificar a la institución
+[00:07:13] morosa. Es una obligación que debe
+[00:07:16] realizar la distribuidora con 60 días de
+[00:07:18] antelación. debe notificar a la
+[00:07:20] institución morosa y dar intervención
+[00:07:22] inmediata al organismo de control que es
+[00:07:25] eleva.
+[00:07:26] Luego de este de este trámite previo se
+[00:07:31] inicia un proceso de eh conciliación.
+[00:07:35] Se asiste audiencias de conciliación con
+[00:07:38] la contraparte que creo que duran
+[00:07:40] alrededor de 20 días y a partir de ahí,
+[00:07:43] si no llega a un acuerdo, están
+[00:07:45] obligadas las partes a ponerse de
+[00:07:46] acuerdo para establecer un plan de
+[00:07:48] mantenimiento de servicios mínimos.
+[00:07:52] este plan eh de mantenimiento que deben
+[00:07:57] acordar las partes si no se llega a
+[00:07:58] lograr, si hay un desacuerdo sobre cómo
+[00:08:01] debe implementarse ese plan de
+[00:08:03] mantenimiento, es la autoridad de
+[00:08:05] aplicación que debe intervenir
+[00:08:07] directamente para disponer las medidas
+[00:08:10] tendientes a dar continuidad al
+[00:08:12] servicio. decir,
+[00:08:14] no le devuelve a la distribuidora la
+[00:08:16] facultad o la prerrogativa de disponer
+[00:08:17] una medida de interrupción de corte,
+[00:08:20] sino que nuevamente remite a la
+[00:08:22] autoridad de aplicación para que busque
+[00:08:24] la manera de que ese servicio siga
+[00:08:26] igualmente prestado y no cause eh un
+[00:08:29] daño eh tratándose obviamente de un
+[00:08:32] servicio de características esenciales.
+[00:08:35] Esta norma o este decreto es considerado
+[00:08:38] a partir de lo dispuesto por el artículo
+[00:08:39] 12 del Código Civil y Comercial una
+[00:08:41] norma de orden público y por lo tanto su
+[00:08:43] incumplimiento genera es nulo y es
+[00:08:46] considerado un fraude a la ley.
+[00:08:48] Inclusive para la empresa que que presta
+[00:08:51] el servicio de energía al incumplimiento
+[00:08:52] de este proceso, este procedimiento,
+[00:08:55] puede ser considerado una falta grave.
+[00:08:59] También tenemos los casos particulares
+[00:09:03] de los electrodependientes.
+[00:09:06] Nosotros tenemos una norma que es la
+[00:09:08] norma nacional que es la ley 27351
+[00:09:12] que regula eh la
+[00:09:16] cómo debe
+[00:09:19] o regula los beneficios o los derechos
+[00:09:22] que tienen los electodependientes por
+[00:09:23] cuestiones de salud en la nación y una
+[00:09:26] norma provincial que adhiere a esa norma
+[00:09:28] nacional que es la ley 1498.
+[00:09:33] ¿Cuál es o a quién podemos considerar
+[00:09:35] electrodependientes
+[00:09:37] por cuestiones de salud? Son aquellas
+[00:09:39] personas que requieren un suministro
+[00:09:42] eléctrico constante y en niveles de
+[00:09:44] tensión adecuados para alimentar
+[00:09:47] equipamiento médico prescripto por
+[00:09:49] médico matriculado, siendo necesario ese
+[00:09:52] equipamento ese equipamiento para evitar
+[00:09:54] un riesgo en su salud o en su vida.
+[00:09:58] y concretamente, ¿cuáles son las
+[00:10:00] obligaciones de la empresa prestataria
+[00:10:03] de energía o o cuáles son los beneficios
+[00:10:06] que puede tener el electrodependiente en
+[00:10:08] función de de esta situación particular?
+[00:10:12] El primero es que tiene una garantía de
+[00:10:14] suministro eléctrico permanente.
+[00:10:17] El titular del servicio o un conviviente
+[00:10:20] registrado como electrodependiente tiene
+[00:10:22] asegurado el servicio eléctrico en su
+[00:10:24] domicilio con el medidor debidamente
+[00:10:26] identificado.
+[00:10:28] El segundo es que los usuarios
+[00:10:30] electrodependientes reciban la exención
+[00:10:32] del pago de servicio bajo jurisdicción
+[00:10:34] nacional.
+[00:10:36] En tercer eh beneficio es que no se debe
+[00:10:39] abonar los costos de conexión de
+[00:10:41] servicio eléctrico si los hubiera.
+[00:10:44] El cuarto, la empresa distribuidora está
+[00:10:47] obligada a entregar sin sin cargo un
+[00:10:49] equipo electrógeno o fuente alternativa
+[00:10:52] de energía capaz de cubrir las
+[00:10:53] necesidades del usuario, incluyendo
+[00:10:56] inclusive los costos de funcionamiento
+[00:10:59] de ese equipo electrógico.
+[00:11:02] El quinto beneficio y el último digamos
+[00:11:06] es el que habilita o se instrumenta un
+[00:11:09] número telefónico gratuito para atención
+[00:11:11] exclusiva de los usuarios
+[00:11:13] electrodependientes disponible todos los
+[00:11:15] días inclusive en los feriados.
+[00:11:19] ¿Dónde debe registrarse como
+[00:11:22] electrodependiente una persona que reúne
+[00:11:24] las características eh abarcadas por ese
+[00:11:28] concepto o esa definición? Bueno, es el
+[00:11:30] Ministerio de Salud de la Nación el
+[00:11:32] responsable de crear y mantener el
+[00:11:35] registro de electrodependientes por
+[00:11:37] cuestiones de salud. Allí deben
+[00:11:39] inscribirse todos para acceder a sus
+[00:11:40] beneficios. Y la ley, si bien no
+[00:11:43] invalida los registros previos, vamos a
+[00:11:45] ver que la la reglamentación de la
+[00:11:47] provincia de Buenos Aires establece que
+[00:11:49] para mantener esa categoría que tenían
+[00:11:52] aquellos ante la distribuidora deberían
+[00:11:54] renovar o deben renovar ese ese registro
+[00:11:58] ante el Ministerio de Salud para poder
+[00:12:00] mantener aquellos beneficios que otorga
+[00:12:03] eh esa categorización como electrodete.
+[00:12:07] en la provincia de Buenos Aires. Como
+[00:12:09] decíamos, la ley es la ley 1498
+[00:12:13] y el Oceba dictó la resolución 9618 eno
+[00:12:17] en cuyos considerandos explica
+[00:12:19] claramente el funcionamiento del
+[00:12:21] sistema, señalando que con motivo de esa
+[00:12:23] adhesión dee necesario establecer el
+[00:12:25] régimen aplicable en materia de usuarios
+[00:12:28] el que debe ser cumplimentado por todas
+[00:12:30] las distribuidoras provinciales y
+[00:12:32] municipales.
+[00:12:34] En dicha resolución, el ente aclaró que
+[00:12:36] la inscripción y evaluación médica no
+[00:12:38] depende de la provincia ni de la
+[00:12:40] empresa, sino que es el Ministerio de
+[00:12:43] Salud de la Nación el que debe tener a
+[00:12:45] cargo su registro y en su en su caso
+[00:12:48] conferir o denegar aquel beneficio a
+[00:12:51] quien lo solicite.
+[00:12:53] Por lo cual deja claramente en esa
+[00:12:57] resolución de los EVA aclarado que es la
+[00:13:00] obligación de todo usuario inscribirse
+[00:13:02] ante el Ministerio de Nación, no
+[00:13:04] pudiendo eh invocar ese beneficio sin
+[00:13:08] antes pasar esa etapa previa. Vamos a
+[00:13:10] ver que algunos casos jurisprudenciales
+[00:13:12] eh
+[00:13:14] no no es que tomen distancia, pero
+[00:13:15] disponen medias cautelares específicas
+[00:13:17] antes situación y justamente para para
+[00:13:23] explicar o clarificar cómo ha aplicado
+[00:13:26] la jurisprudencia o los jueces de la
+[00:13:29] provincia de Buenos Aires
+[00:13:32] estos recaudos o estos beneficios que
+[00:13:34] otorga
+[00:13:36] la calidad electrodependiente, vamos a
+[00:13:38] ver algunos antecedentes
+[00:13:40] algunos fallos que creo que a ver si
+[00:13:42] están acá, si no lo paso al próximo,
+[00:13:54] empezando por uno de Juzgado Federal de
+[00:13:57] Dolores, la causa luz dueña contra
+[00:14:00] Ministerio de Salud de la Nación. Esta
+[00:14:03] era una acción de amparo. A posterior
+[00:14:05] íbamos a describir cuáles son las
+[00:14:08] herramientas judiciales ante situaciones
+[00:14:10] específicas, pero lo dejo para una etapa
+[00:14:12] posterior cuando hablemos de la
+[00:14:14] interrupción del servicio.
+[00:14:16] Eh, en este caso, en este caso, en este
+[00:14:19] antecedente que es de mayo del 2026, el
+[00:14:22] conflicto no radicaba la en la falta de
+[00:14:26] resolución definitiva respecto del
+[00:14:27] recurso.
+[00:14:29] Concretamente era así, el afectado había
+[00:14:32] planteado la renovación de de su
+[00:14:35] carácter de electro dependiente frente
+[00:14:37] al Ministerio de Salud, pero el
+[00:14:39] Ministerio de Salud no le resolvía la
+[00:14:41] cuestión. Entonces, ¿qué hizo? Inició
+[00:14:43] una acción de amparo a la justicia.
+[00:14:46] Entonces, la justicia
+[00:14:48] lo que resuelve no es sustituir la
+[00:14:51] prerrogativa que que justamente tiene el
+[00:14:53] Ministerio de Salud de definir quién o
+[00:14:56] no
+[00:14:58] reúne los requisitos para ser
+[00:14:59] electorodependiente, sino que la
+[00:15:01] justicia lo que dijo, bueno, si bien no
+[00:15:03] le corresponde sustituir el criterio
+[00:15:05] técnico de la autoridad sanitaria
+[00:15:07] respecto de los requisitos médicos
+[00:15:09] previstos para la inscripción, si le
+[00:15:11] compete ejercer un control judicial
+[00:15:13] sobre la razonabilidad
+[00:15:15] y oportunidad de la actuación
+[00:15:17] administrativa cuando la demora estatal
+[00:15:20] ponía en riesgo la salud de la persona.
+[00:15:23] Entonces, ¿qué es lo que resuelve en esa
+[00:15:25] acción de amparo?
+[00:15:27] Lo intima al Ministerio de Salud para
+[00:15:29] que en el plazo de 10 días se expida
+[00:15:31] concretamente sobre ese planteo, ese
+[00:15:34] recurso que había interpuesto el
+[00:15:36] electodependiente a los efectos de ser
+[00:15:39] incorporado a ese registro.
+[00:15:41] Paralelamente, como esa acción no había
+[00:15:43] sido solo iniciada contra el Ministerio
+[00:15:44] de Salud, sino también contra la empresa
+[00:15:47] Edea,
+[00:15:50] sociedad anónima,
+[00:15:51] eh y como la actuación de DEA no había
+[00:15:54] sido una actuación inadecuada porque se
+[00:15:57] había limitado a ejecutar las
+[00:15:59] consecuencias derivadas de la
+[00:16:00] información que le había suministrado la
+[00:16:02] autoridad administrativa, por lo cual no
+[00:16:04] le confería los beneficios de de
+[00:16:06] electrodependiente a quien lo había
+[00:16:07] solicitado.
+[00:16:09] La justicia le obligó a la a la empresa
+[00:16:12] a mantener las condiciones actuales del
+[00:16:14] suministro con el equipo adicional que
+[00:16:17] ya tenía, porque lo que estaba pidiendo
+[00:16:19] era una renovación. Hasta tanto el
+[00:16:22] Ministerio de Salud se expida en el
+[00:16:24] plazo indicado si correspondía o no
+[00:16:26] correspondía. Vemos como en este caso
+[00:16:28] entonces se resuelve, no no no existe
+[00:16:33] una invasión de jurisdicción de la
+[00:16:35] respecto de las prerrogativas
+[00:16:37] administrativas, sino que simplemente
+[00:16:39] una intimación a cumplirla dentro de los
+[00:16:41] plazos razonables para evitar un daño a
+[00:16:43] la salud. Otro caso, vamos al segundo
+[00:16:47] que está acá discriminado que es de la
+[00:16:50] Cámara Primera de Operación Civil y
+[00:16:52] Comercial de San Isidro. El caso es
+[00:16:55] Domínguez Juana María contra Edenor. En
+[00:16:58] este caso, la actora había promovido una
+[00:17:01] acción por por sí misma y en
+[00:17:03] representación de su hijo. El joven
+[00:17:06] registraba o presentaba una discapacidad
+[00:17:08] grave, requería de un uso permanente de
+[00:17:10] un concentrador de oxígeno conectado
+[00:17:12] interrumpidamente a la red. Y se
+[00:17:14] solicitó también la entrega de un
+[00:17:16] generador de de energía, la inscripción
+[00:17:19] en el registro y el beneficio tarifario,
+[00:17:21] también la exención de los derechos de
+[00:17:24] conexión. El amparo fue rechazado
+[00:17:26] inicialmente porque no se había agotado
+[00:17:28] la vida administrativa. Sin embargo, el
+[00:17:31] juzgado concedió una medida urgente y
+[00:17:33] ordenó a Edenor entregar un equipo o un
+[00:17:36] grupo electrógeno dentro del término 48
+[00:17:38] horas.
+[00:17:39] La empresa apela
+[00:17:41] e informó e informa que instaló
+[00:17:43] igualmente ese equipo y la cámara
+[00:17:46] confirma la tutela. El tribunal valora
+[00:17:49] el síndrome severo de apneas e
+[00:17:51] hipopneas, el retraso mental grave que
+[00:17:53] tenía el menor, los quistes cerebrales
+[00:17:55] congénitos y la necesidad de utilización
+[00:17:58] permanente del concentrador. La urgencia
+[00:18:00] sanitaria justificaba una respuesta
+[00:18:02] material, aunque el amparo a la a la a
+[00:18:06] la resulta, esto lo ordena como medida
+[00:18:08] cautelar, aunque el amparo hubiera sido
+[00:18:09] desestimado, el rechazo de la vía
+[00:18:11] principal no podía significar dejar al
+[00:18:14] paciente sin una fuente alternativa.
+[00:18:15] Vemos cómo se utiliza desde la justicia
+[00:18:18] a veces la medida cautelar. Fíjense, la
+[00:18:20] primera un amparo. Ahora vemos cómo
+[00:18:23] utiliza la concesión de ese beneficio a
+[00:18:26] través de una medida cautelar. Después
+[00:18:27] quizás el amparo se rechace o la
+[00:18:29] autoridad administrativa resuelva
+[00:18:31] rechazar porque no reúne las
+[00:18:33] características de electrodependientes,
+[00:18:34] pero mientras tanto, a los efectos de no
+[00:18:36] causar un daño mayor, se dispone una
+[00:18:38] medida cautelar que ya vamos a ver que
+[00:18:40] son medidas provisionales que están eh
+[00:18:43] generalmente conectadas con un proceso
+[00:18:45] principal.
+[00:18:47] El tercer fallo
+[00:18:49] es eh contra de Sur. Acá la acción fue
+[00:18:53] promovida por una madre en
+[00:18:55] representación de su hija, quien
+[00:18:56] representaba quien presentaba una eh
+[00:18:59] microcefalia
+[00:19:00] vinculada con un síndrome genético de
+[00:19:03] charge, severo compromiso motor y
+[00:19:04] trastornos respiratorios.
+[00:19:07] vivía en el octavo piso de un edificio y
+[00:19:09] necesitaba utilizar habitualmente un
+[00:19:11] nebulizador.
+[00:19:13] La pretensión consistió en mantener el
+[00:19:15] domicilio como edificio protegido, no
+[00:19:17] susceptible de cortes y garantizar la
+[00:19:19] disponibilidad permanente eh del
+[00:19:21] servicio en ese edificio. La Cámara, en
+[00:19:23] este caso sí confirma, admite el amparo,
+[00:19:26] entiende que la prestación era una la
+[00:19:29] prestación consistía en una obligación,
+[00:19:30] en definitiva, de resultado. Se acuerda
+[00:19:32] que lo habíamos visto la clase anterior,
+[00:19:33] que la prestación de energía era una
+[00:19:35] obligación de resultado, que debía
+[00:19:37] mantenerse en condiciones de seguridad y
+[00:19:39] la existencia de fallas inevitables no
+[00:19:41] resultaba suficiente frente a una
+[00:19:43] discapacidad acreditada y un riesgo
+[00:19:45] concreto para la salud. sostuvo que la
+[00:19:47] entrada en vigencia nuevo el régimen,
+[00:19:49] porque esto se planteó en entre el 2018
+[00:19:52] [música] y 2019, lo cual fue eh eh la
+[00:19:55] época en donde se implementa este
+[00:19:57] régimen de de electrodependiente a
+[00:19:59] través de las leyes que que habíamos
+[00:20:00] precitado, no podía invalidar la
+[00:20:02] protección especial que la usuaria ya
+[00:20:04] venía recibiendo por el régimen
+[00:20:06] anterior.
+[00:20:08] El siguiente fallo es de una Cámara
+[00:20:10] Nacional de Apelaciones a lo contencioso
+[00:20:11] administrativo, Farjat contra Estado
+[00:20:13] Nacional.
+[00:20:15] En este el actor presentaba una
+[00:20:18] mielodisplasia y una neutropenia de
+[00:20:20] origen hematooncológico.
+[00:20:23] Necesitaba conservar permanentemente un
+[00:20:25] medicamento entre 2 y 8 gr.
+[00:20:28] Su continuidad en el registro
+[00:20:30] electrodependiente había sido denegada
+[00:20:32] porque la autoridad administrativa había
+[00:20:33] considerado que que un corte de energía
+[00:20:35] no lo colocaba directamente en riesgo a
+[00:20:37] su salud, no colocaba en su salud, en
+[00:20:39] riesgo su vida o su salud. Y entonces
+[00:20:41] interpuso el actor un recurso
+[00:20:42] administrativo y mientras se resolvía
+[00:20:44] ese recurso, solicitó una cautelar para
+[00:20:46] mantener estos beneficios.
+[00:20:49] La tutela fue concedida por el tribunal,
+[00:20:51] quien ponderó que retirar inmediatamente
+[00:20:53] la protección podía generar un peligro
+[00:20:55] para la salud. también consideró su
+[00:20:58] edad, su condición de jubilado. No se
+[00:21:00] resolvió definitivamente en inscripción
+[00:21:02] porque dijimos era un trámite
+[00:21:03] administrativo, pero sí se mantuvo
+[00:21:06] provisionalmente la situación anterior
+[00:21:08] para impedir que la discusión
+[00:21:09] administrativa produjiera o produjera un
+[00:21:13] daño irreversible, un daño irreparable
+[00:21:15] para el reclamante.
+[00:21:18] En el siguiente caso, que es de la
+[00:21:20] Cámara de Apelaciones lo Civil y
+[00:21:23] Comercial Federal,
+[00:21:25] un fallo del año 2023, Rocatagliata
+[00:21:29] contra Poder Ejecutivo Nacional.
+[00:21:33] El caso, en este caso se presentaba una
+[00:21:35] una solución diferente al caso anterior.
+[00:21:39] El usuario había solicitado la
+[00:21:40] inscripción en el registro de
+[00:21:42] electrodependientes y el tratamiento
+[00:21:44] tarifario gratuito y la acción había
+[00:21:46] sido rechazada.
+[00:21:48] La decisión de incorporar a una persona
+[00:21:51] en registro correspondía al Ministerio
+[00:21:52] de Salud y no la distribuidora. Como
+[00:21:54] habíamos dicho anteriormente, la
+[00:21:56] resolución ministerial había desestimado
+[00:21:58] la la solicitud porque el profesional
+[00:22:00] tratante no había prescripto justamente
+[00:22:02] el equipamiento el equipamiento de
+[00:22:05] electricidad adicional que había eh
+[00:22:08] solicitado, por lo cual consideró tanto
+[00:22:11] el Ministerio como la Justicia que no
+[00:22:14] estaba dentro de las condiciones
+[00:22:15] reglamentarias para acceder a ese
+[00:22:17] beneficio. entendió que la pertenencia a
+[00:22:19] un registro transitorio anterior no le
+[00:22:21] generaba automáticamente un derecho
+[00:22:23] adquirido a permanecer en el en el nuevo
+[00:22:25] régimen. Y dijo la Cámara que la
+[00:22:28] sensibilidad del derecho involucrado no
+[00:22:30] elimina la necesidad de demostrar los
+[00:22:32] presupuestos legales. El amparo no puede
+[00:22:34] sustituir la evaluación sanitaria cuando
+[00:22:37] la decisión fue adoptada conforme al
+[00:22:39] procedimiento y no aparecía como una
+[00:22:41] decisión irrazonable, arbitraria o
+[00:22:43] ilegítima.
+[00:22:49] En el siguiente caso, la Cámara Nacional
+[00:22:51] de Apelaciones a lo contencioso
+[00:22:52] Administrativo, caso Canosa contra
+[00:22:55] Estado Nacional, Ministerio de Salud de
+[00:22:56] la Nación.
+[00:22:58] El actor, en este caso, tenía un un
+[00:23:00] certificado único de discapacidad y
+[00:23:02] presentaba diversas comorbilidades.
+[00:23:05] Eh, entre ellas se encontraba un
+[00:23:06] síndrome severo de amnea obstructiva del
+[00:23:09] sueño que requería el uso de un equipo
+[00:23:11] CPAP, que son los equipos que se ponen a
+[00:23:14] la noche para respirar.
+[00:23:16] Eh, y el ministerio lo había rechazado,
+[00:23:19] le había rechazado la renovación de de
+[00:23:21] su certificado electrodependiente. La
+[00:23:23] médica tratante había informado que el
+[00:23:24] equipo disminuía los riesgos
+[00:23:26] cardiovasculares y cerebrales y que era
+[00:23:28] vital contar con con ese sistema de
+[00:23:30] electricidad para que esta persona
+[00:23:32] pudiera vivir. El juez dispuso
+[00:23:35] cautelarmente el mantenimiento del
+[00:23:36] certificado hasta la sentencia y la
+[00:23:38] cámara, el ministerio apeló y la cámara
+[00:23:41] desestimó el recurso. recordó que la la
+[00:23:43] tutela cautelar no exige certeza, sino
+[00:23:45] una probabilidad y que una decisión
+[00:23:47] tardía podría producir un perjuicio
+[00:23:49] irreparable y tornar ilusor el el
+[00:23:50] derecho. Por lo tanto, en este caso
+[00:23:52] concreto, no es que accedió al amparo,
+[00:23:54] sino que lo dispuso como medida
+[00:23:56] cautelar, sin perjuicio de lo que
+[00:23:57] pudiera resolver en definitiva, al
+[00:23:59] momento de dictar una sentencia eh en el
+[00:24:01] juicio de amparo.
+[00:24:04] Y el último de los fallos que estamos
+[00:24:05] viendo es uno contra de Sur de la Cámara
+[00:24:08] Nacional de Apelaciones de lo civil y
+[00:24:10] comercial del del año 2024. Acá los los
+[00:24:15] actores eran padres de un menor que
+[00:24:16] padecía hartogriposis congénita
+[00:24:20] múltiple, dificultades respiratorias e
+[00:24:22] hipoxemia. Necesitaba asistencia
+[00:24:24] respiratoria mecánica continua. El padre
+[00:24:26] había solicitado a Edur que el
+[00:24:28] suministro fuera registrado bajo la
+[00:24:30] categoría de de electrodependiente y
+[00:24:32] había pedido la entrega de un equipo
+[00:24:34] electrógeno. La empresa no brindó una
+[00:24:36] respuesta adecuada y ante nuevo corte,
+[00:24:39] la familia decidió por sí mismo adquirir
+[00:24:42] el equipo generador con sus propios
+[00:24:43] recursos. Los registros de Enre
+[00:24:46] demostraron interrupciones de
+[00:24:48] extraordinaria duración. Una de ellas se
+[00:24:51] extendió por 384 horas y también se
+[00:24:54] acreditaron cortes posteriores. El menor
+[00:24:56] termina falleciendo 5co días después de
+[00:24:58] la promoción del juicio y el juicio
+[00:25:01] prosiguió y la cámara en definitiva,
+[00:25:03] tuvo que resolver la situación.
+[00:25:06] Eh,
+[00:25:07] y bueno, al resolver considera el
+[00:25:10] tribunal que el pedido de registro había
+[00:25:13] puesto suficientemente en conocimiento a
+[00:25:14] la empresa distribuidora de que en el
+[00:25:17] domicilio vivía una persona, un niño con
+[00:25:19] discapacidad que necesitaba una
+[00:25:20] asistencia respiratoria, que esa
+[00:25:22] información imponía una conducta
+[00:25:24] proactiva y que la distribuidora no
+[00:25:26] podía escudarse en trámites burocráticos
+[00:25:29] para permanecer inactiva.
+[00:25:31] Debía verificar la situación, registrar
+[00:25:33] al usuario, proveer el equipo
+[00:25:34] alternativo y prevenir las consecuencias
+[00:25:36] de los cortes. La suma de omisiones e
+[00:25:38] interrupciones determinó una
+[00:25:40] responsabilidad gravada y el tribunal
+[00:25:42] destacó que el caso no se relacionaba
+[00:25:44] con el estrés ordinario que producen los
+[00:25:45] apagones y que la falta de electricidad
+[00:25:48] había puesto en riesgo la vida y y la
+[00:25:51] vida de un menor que después a la a la
+[00:25:53] postre termina falasleciendo por por esa
+[00:25:55] patología que que padecía. ¿Qué hizo? se
+[00:25:58] elevaron las reparaciones, se fijó
+[00:26:00] inclusive un daño punitivo. ¿Se acuerdan
+[00:26:02] que la clase anterior describimos los
+[00:26:04] distintas indemnizaciones que podrían
+[00:26:06] percibir las víctimas de un daño y que a
+[00:26:09] su vez estaba un daño punitivo que es
+[00:26:11] una una sanción accesoria de carácter
+[00:26:13] disuasoria y de carácter penal que
+[00:26:15] podían disponerse ante ante graves
+[00:26:17] incumplimientos de de las empresas
+[00:26:21] frente a los usuarios y consumidores y
+[00:26:24] valoró la desaprensión de la empresa
+[00:26:26] frente a los derechos humanos
+[00:26:27] especialmente protegidos. La pérdida de
+[00:26:29] ingreso y la afectación moral. eh la
+[00:26:32] dejó para un proceso posterior porque no
+[00:26:33] necesariamente podían resolverse en el
+[00:26:35] marco del amparo, que es un proceso
+[00:26:37] sumario restrictivo.
+[00:26:40] Con eso terminamos los que son eh
+[00:26:44] los
+[00:26:47] fallos vinculados
+[00:26:49] a los casos de electrodependientes.
+[00:26:52] Ahora vamos a referirnos a
+[00:26:55] a la calidad, a la eficiencia al del
+[00:26:59] régimen de del servicio eléctrico.
+[00:27:03] En su anexo D establece un marco
+[00:27:05] normativo que regula los estándares de
+[00:27:07] calidad, el régimen de sanciones para
+[00:27:10] los prestadores del servicio público de
+[00:27:12] electricidad en la provincia de Buenos
+[00:27:13] Aires. Establece criterios rigurosos
+[00:27:16] para evaluar el producto técnico, los
+[00:27:18] niveles de tensión, el servicio técnico,
+[00:27:21] analizando la frecuencia, la duración de
+[00:27:22] las interrupciones mediante indicadores
+[00:27:24] específicos.
+[00:27:26] Además, define pautas de calidad
+[00:27:28] comercial. ¿Se acuerdan que la clase
+[00:27:30] anterior habíamos visto eh los
+[00:27:32] requisitos del trato digno, de la
+[00:27:34] atención al usuario, de las precisiones
+[00:27:35] de la facturación, de cómo de la
+[00:27:38] información que se debe brindar?
+[00:27:41] Y las eh empresas distribuidoras también
+[00:27:43] están obligadas a registrar y reportar
+[00:27:45] estos datos también ante los organismos
+[00:27:47] de control, enfrentando multas y
+[00:27:48] créditos directos a favor de los
+[00:27:50] usuarios y no cumplen eh justamente con
+[00:27:54] con estos recaudos mínimos exigidos por
+[00:27:56] por el contrato respectivo. Finalmente,
+[00:27:59] se describen a su vez sanciones
+[00:28:01] complementarias por infracciones graves,
+[00:28:03] faltas de seguridad o incumplimientos en
+[00:28:05] la entrega de información transparente.
+[00:28:10] ¿Qué es la calidad de del servicio
+[00:28:11] técnico? La calidad de servicio técnico
+[00:28:13] o cómo se se evalúa la calidad de
+[00:28:16] servicio técnico se evalúa en base a la
+[00:28:19] frecuencia de las interrupciones y el
+[00:28:21] tiempo de duración de cada una de ellas.
+[00:28:25] Es decir, para su cálculo se
+[00:28:26] contabilizan todas las interrupciones,
+[00:28:29] ya sean programadas o forzadas,
+[00:28:31] superiores a 3 minutos y se excluyen
+[00:28:34] aquellas
+[00:28:36] iguales o inferiores ese tiempo y las
+[00:28:38] originadas por causa mayor debidamente
+[00:28:41] comprobadas.
+[00:28:43] ¿Cómo se ese control, cómo se efectúa?
+[00:28:46] Se efectúa de manera semestral. Se
+[00:28:48] establecen los límites máximos
+[00:28:50] permitivos de cortes y horas sin
+[00:28:53] suministro, dependiendo de del tipo de
+[00:28:55] usuario, ya sea urbano, ya sea rural y
+[00:28:57] su nivel de conexión alta, media o baja
+[00:29:00] tensión.
+[00:29:02] Los indicadores globales son el safi,
+[00:29:05] que es el indicador de frecuencia media
+[00:29:07] de interrupciones del sistema, y el
+[00:29:09] Saidi, que es el índice de duración
+[00:29:11] media de las interrupciones.
+[00:29:14] Las sanciones que se establecen, bueno,
+[00:29:17] pueden [música] ser el organismo de
+[00:29:20] control puede imponer penalizaciones que
+[00:29:22] son de naturaleza económica, cuyo fin es
+[00:29:24] obligar al distribuidor a invertir para
+[00:29:27] mejorar la calidad o sanciones
+[00:29:29] complementarias que actúan como
+[00:29:31] herramientas disuasivas del poder de
+[00:29:33] policía.
+[00:29:35] Eh, también está lo que se llama el
+[00:29:37] reintegro de a los usuarios, las multas
+[00:29:39] que por situaciones individuales deben
+[00:29:41] abonarse a los usuarios afectados a
+[00:29:43] través de un crédito que generalmente se
+[00:29:44] da a la facturación y si no es posible
+[00:29:47] identificar individualmente los usuarios
+[00:29:49] afectados, los fondos correspondientes a
+[00:29:52] las penalidades ingresan una cuenta de
+[00:29:54] acumulación destinada de forma exclusiva
+[00:29:57] a obras e inversiones para evitar
+[00:30:00] futuros cortes de energía.
+[00:30:03] los límites de gravedad de las
+[00:30:05] interrupciones. Bueno, si la acumulación
+[00:30:06] anual de sanciones supera el 20% de la
+[00:30:10] facturación anual del distribuidor, se
+[00:30:12] considera una violación grave que
+[00:30:14] califica como causal de resisión del
+[00:30:16] contrato de concesión. Mira la gravedad
+[00:30:19] que pueden tener cuando las
+[00:30:21] interrupciones exceden este monto de
+[00:30:24] facturación.
+[00:30:26] Los procedimientos generalmente le dan
+[00:30:28] la posibilidad de realizar un descargo a
+[00:30:30] la distribuidora, un descargo que para
+[00:30:32] el cual tiene 10 días hábiles para
+[00:30:34] hacerlo y de no hacerlo se aplican las
+[00:30:36] sanciones con carácter de
+[00:30:37] inaperabilidad.
+[00:30:40] Y las penalizaciones por apartamiento de
+[00:30:41] la calidad del servicio técnico se
+[00:30:43] calculan en base eh a las interrupciones
+[00:30:48] que dependen de la energía no
+[00:30:49] suministrada
+[00:30:51] y ese monto de sanción se calcula
+[00:30:54] multiplicando justamente esta energía
+[00:30:56] faltante por el costo de la energía no
+[00:30:58] suministrada. Es un valor que se ajusta
+[00:31:00] según la categoría carifaria de cada
+[00:31:03] cliente, pero es un cálculo aritmético.
+[00:31:05] Los topes de reintegro están dados eh eh
+[00:31:09] por el nunca pueden ser superiores al
+[00:31:13] monto equivalente a la energía que sí
+[00:31:14] consumió durante el semestre de control.
+[00:31:17] es decir, el 50% eh en en la energía, es
+[00:31:21] decir, el reintegro monetario que recibe
+[00:31:23] un usuario por cortes en ningún caso
+[00:31:25] puede ser superior al equivalente a la
+[00:31:28] energía que sí consumió durante el
+[00:31:30] semestre anterior. Y se le da la
+[00:31:32] posibilidad también de trasladar a las
+[00:31:34] empresas distribuidoras la
+[00:31:35] responsabilidad en el caso de que las
+[00:31:38] fallas provengan de instalaciones de
+[00:31:41] otro distribuidor ajeno o decir puedan
+[00:31:43] ser invocadas como causas externas.
+[00:31:47] Las interrupciones por causas de fuerza
+[00:31:49] mayor o caso fortuito.
+[00:31:53] ¿Qué es el caso fortuito la fuerza
+[00:31:55] mayor? Bueno, el concepto clásico del
+[00:31:57] derecho civil de caso oportuito es aquel
+[00:32:00] que no ha podido preverse o que previsto
+[00:32:02] no ha podido evitarse. La fuerza mayor
+[00:32:05] refiere a una acción incontrastable que
+[00:32:08] el deudor no puede superar, por lo que
+[00:32:11] puede decirse que la ley no hace
+[00:32:13] diferencia concreta entre el caso y la
+[00:32:15] fuerza mayor, pudiendo señalarse, en
+[00:32:17] definitiva, como el hecho imprevisible o
+[00:32:19] inevitable, ajeno al deudor, que impide
+[00:32:23] absolutamente el cumplimiento de la
+[00:32:24] obligación. En particular, cuando
+[00:32:27] aludimos a, por ejemplo, a las fuerzas
+[00:32:29] naturales, eh se indica que son casos
+[00:32:32] fortuitos solo si son extraordinarias y
+[00:32:35] por su y por su intensidad, su gravedad,
+[00:32:39] salen del orden común de las [música] de
+[00:32:42] los eventos naturales.
+[00:32:44] Las interrupciones por causa de fuerza
+[00:32:46] mayor o caso o caso fortuito solo se
+[00:32:49] excluyen del cómputo para los
+[00:32:51] indicadores y para las sanciones que
+[00:32:53] estábamos hablando. si son formalmente
+[00:32:55] aceptadas, si son formal formalmente
+[00:32:58] acreditadas frente al organismo de
+[00:33:00] control, frente a los Eva,
+[00:33:03] para que el distribuidor quede eximido,
+[00:33:05] entonces tiene la obligación de efectuar
+[00:33:07] una presentación en la que adjunte toda
+[00:33:09] la documentación necesaria, probatoria,
+[00:33:12] correspondiente para demostrar que esa
+[00:33:13] interrupción obedeció a causas de fuerza
+[00:33:16] mayor, ajenas a su voluntad y que reúnen
+[00:33:18] justamente la la categorización que
+[00:33:20] estábamos definiendo como de casos
+[00:33:22] fortuitos o fuerza mayor.
+[00:33:25] Eh,
+[00:33:27] además estas interrupciones
+[00:33:30] para que si bien pueden excluirse del
+[00:33:32] pago de las multas, pueden ser de ir
+[00:33:33] siendo consideradas por el organismo de
+[00:33:35] control para los reportes de referencia
+[00:33:38] para evaluar la calidad del servicio
+[00:33:40] real que experimentan los usuarios
+[00:33:41] durante determinados eh tiempos.
+[00:33:45] Vamos ahora a lo que son los cortes
+[00:33:48] programados por mantenimientos o por
+[00:33:50] obra. Por lo general, todas las
+[00:33:52] interrupciones programadas superiores a
+[00:33:54] 3 minutos deberían contabilizarse para
+[00:33:56] el cálculo de los indicadores. Los
+[00:33:58] cortes por mantenimiento están
+[00:34:00] explícitamente clasificados dentro de
+[00:34:02] las interrupciones programadas.
+[00:34:05] Sin embargo, el subanexo, al que
+[00:34:06] estábamos refiniendo establece que estas
+[00:34:08] interrupciones no serán penalizadas
+[00:34:10] económicamente si corresponden a obras
+[00:34:13] específicas y cumplen con una serie de
+[00:34:16] requisitos muy estrictos. Los primeros
+[00:34:20] deben identificarse y dar un aviso
+[00:34:23] previo, es decir, se debe a nominar la
+[00:34:25] obra e informar al organismo de control
+[00:34:28] con 10 días de anticipación, detallando
+[00:34:30] la instalación, la duración, la cantidad
+[00:34:33] de usuarios que van a ser afectados por
+[00:34:35] esa obra. A la vez se debe comunicar a
+[00:34:38] la a la población mediante avisos
+[00:34:41] masivos o por web, el día, la hora, la
+[00:34:44] zona y la duración que va a tener ese
+[00:34:46] corte.
+[00:34:48] La interrupción no puede durar más de 5
+[00:34:51] horas para ninguno de los usuarios
+[00:34:53] afectados. Si excede ese tiempo, se va a
+[00:34:55] penalizar contabilizando el total de las
+[00:34:58] horas de interrupción sin excepciones.
+[00:35:01] Por otra parte, la restricción horaria,
+[00:35:05] los trabajos deberían, en cuanto a la
+[00:35:08] restricción horaria realizarse, por lo
+[00:35:10] menos de que el 80% de su duración
+[00:35:13] ocurra fuera de los horarios de mayor
+[00:35:15] afectación. Este horario crítico es
+[00:35:17] entre las 12 y las 22 horas durante los
+[00:35:19] días hábiles.
+[00:35:21] Y el registro obligatorio, aunque el
+[00:35:23] corte queda exceptuado de toda sanción
+[00:35:26] financiera, debe quedar registrado, como
+[00:35:28] decíamos anterior, también para efectuar
+[00:35:30] los cálculos de desempeño técnico, los
+[00:35:33] índices de servicio que se evalúan
+[00:35:35] concretamente por los organismos de
+[00:35:36] control.
+[00:35:38] Vamos ahora a ver algunos antecedentes
+[00:35:41] jurisprudenciales.
+[00:35:43] Bueno, pasemos de acá son varios por ahí
+[00:35:46] vamos a pasar algunos más rápidos. Los
+[00:35:48] vamos a saltear porque son bastantes
+[00:35:52] vinculados a esto de
+[00:35:56] los cortes. Hay un fallo de este fallo
+[00:35:59] es muy trascendente porque es de la
+[00:36:00] Corte
+[00:36:02] de Suprema de Justicia Nacional
+[00:36:05] y revela la manera de interpretar o
+[00:36:09] analizar
+[00:36:11] cómo deben computarse las penalizaciones
+[00:36:15] en los casos de cortes e interrupciones.
+[00:36:18] El conflicto se había planteado entre
+[00:36:21] entre Edenor
+[00:36:24] y y el Enre. Y el resancionó a Edenor
+[00:36:27] por incumplir los niveles de calidad del
+[00:36:29] servicio eléctrico durante un semestre,
+[00:36:31] comprendido entre marzo y agosto. Y la
+[00:36:35] sanción consistía justamente en otorgar
+[00:36:37] bonificaciones o créditos de las
+[00:36:38] facturas de los de los usuarios
+[00:36:40] afectados por los cortes. ¿Qué se
+[00:36:41] discutía?
+[00:36:43] No era sobre si habían existido o no los
+[00:36:45] cortes, sino sobre cómo debían
+[00:36:46] calcularse.
+[00:36:48] El contrato de de concesión contemplaba
+[00:36:51] concretamente dos indicadores
+[00:36:53] independientes, es decir, la frecuencia,
+[00:36:55] la cantidad de cortte sufrido por el
+[00:36:56] usuario y la duración, el tiempo durante
+[00:37:00] el cual permanecía el usuario sin esa
+[00:37:02] electricidad.
+[00:37:04] Eh, justamente la situación se daba
+[00:37:06] entre los pequeños y mediarios usuarios,
+[00:37:08] en los cuales se admitían seis
+[00:37:10] interrupciones por semestre.
+[00:37:12] y 10 horas por interrupción. Esos eran
+[00:37:15] los límites que que establecía el
+[00:37:19] contrato. Los cortes menores a 3 minutos
+[00:37:21] y lo producido por fuerza mayor, como
+[00:37:23] sabemos, no se computan. [música]
+[00:37:25] Edenor, ¿qué afirmaba? afirmaba que cada
+[00:37:27] corte debía analizarse por separado.
+[00:37:29] Decía, si uno de los seis primeros
+[00:37:31] cortes duraba más de 10 horas, solamente
+[00:37:34] debía bonificarse el tiempo que
+[00:37:36] excediera a esos 10 cortes. Los cortes
+[00:37:39] posteriores de menos de 10 horas no
+[00:37:41] debían ser sancionados y recién la
+[00:37:44] sanción correspondía aplicarse después
+[00:37:46] del séptimo corte. Ahí sí correspondía
+[00:37:49] computar toda su duración. El Enre
+[00:37:52] entendía otra cosa. Entendía que una vez
+[00:37:54] superado alguno de los límites de
+[00:37:56] calidad, nacía la obligación de
+[00:37:57] bonificar al usuario en todos los cortes
+[00:38:00] posteriores. Por eso, cuando uno de esos
+[00:38:03] primeros seis cortes excedía las 10
+[00:38:05] horas,
+[00:38:07] se empezaba a bonificar ese corte, pero
+[00:38:09] a su vez la duración de todos los cortes
+[00:38:11] posteriores, aunque no duraran esas 10
+[00:38:14] horas. Entonces,
+[00:38:17] la Corte, ¿qué es lo que tenía que
+[00:38:19] resolver? Bueno, resolver ese planteo,
+[00:38:20] ese conflicto. ¿Qué interpreta la Corte?
+[00:38:23] La Corte confirma la interpretación de
+[00:38:25] la R y rechaza el planteo del noro que
+[00:38:28] los límites de frecuencia y duración
+[00:38:31] funcionaban de manera independiente. Por
+[00:38:33] lo tanto, bastaba con que se supliera o
+[00:38:35] se superara, perdón, cualquiera de ellos
+[00:38:38] para que corresponda la bonificación del
+[00:38:40] usuario. Esa es la interpretación. Como
+[00:38:42] sabemos, un fallo de la corte genera en
+[00:38:46] algunos casos de doctrina legal, como el
+[00:38:47] caso de la provincia, pero los casos de
+[00:38:48] la corte generan un deber de acatamiento
+[00:38:50] moral de la Corte Nación y seguramente
+[00:38:52] tal ha sido la interpretación que a
+[00:38:55] futuro o a seguido han hecho los
+[00:38:57] tribunales inferiores sobre tal
+[00:38:59] conflictos asimilables o parangonables
+[00:39:01] al mismo.
+[00:39:03] Caso siguiente, siero contra de sur. En
+[00:39:05] este se discutía la responsabilidad de
+[00:39:07] la prestataria del servicio de energía
+[00:39:09] por la interrupción del suministro que
+[00:39:11] había durado aproximadamente 2250 horas.
+[00:39:16] Tiempo terrible de de interrupción de
+[00:39:17] suministro. La distribuidora,
+[00:39:20] en un primer término, ¿qué era lo que
+[00:39:22] cuestionab? La legitimidad de los que
+[00:39:23] habían reclamado, dice, "Los que me
+[00:39:25] reclaman no son titulares del servicio,
+[00:39:26] por lo cual no tengo que responder por
+[00:39:28] nada."
+[00:39:29] Bueno, eh el fallo destaca que la
+[00:39:34] circunstancia de que ninguno de los
+[00:39:35] actores figurara la factura del servicio
+[00:39:37] como titular en modo alguno impedía
+[00:39:40] considerar su calidad de usuarios, ya
+[00:39:42] que bastaba tener que los accionantes
+[00:39:44] habían invocado la ley de defensa del
+[00:39:46] consumidor y y como habíamos visto la
+[00:39:49] clase anterior, el alcance del concepto
+[00:39:51] de consumidor eh es muy amplio ese
+[00:39:55] artículo uno y abarca al sujeto del
+[00:39:57] mercado que adquiere bienes o usa
+[00:39:59] servicios para destinarlos a su propio
+[00:40:00] uso o para satisfacer también sus
+[00:40:02] propias necesidades personales o de su
+[00:40:04] grupo familiar, con lo cual estaban eh
+[00:40:07] también abarcados y rechaza esa defensa
+[00:40:09] de falta de legitimación que había
+[00:40:11] opuesto la la empresa de sur. Por otra
+[00:40:14] parte,
+[00:40:15] se había invocado que ciertas borras de
+[00:40:18] interrupción a lo largo del semestre
+[00:40:20] admitidas por el contrato eh eh digamos
+[00:40:23] que se habían eh dado ciertas límites de
+[00:40:27] admisión del contrato, más ese
+[00:40:31] esa oposición o esa invocación del
+[00:40:33] contrato para eximir de responsabilidad
+[00:40:34] frente al usuario eh no era no era
+[00:40:38] oponible. Digamos, que el contrato no
+[00:40:40] podía en cuanto a las límites horarios
+[00:40:42] de su o las horas admitidas de
+[00:40:45] interrupción ser oponible al usuario en
+[00:40:47] cuanto a su afectación personal, porque
+[00:40:49] esa relación regía la relación entre el
+[00:40:52] usu entre el concesionario y la empresa
+[00:40:54] que da concede el servicio, pero no
+[00:40:56] frente a un tercero, que es el usuario y
+[00:40:58] un tercero ajeno, quien puede invocar
+[00:40:59] sus daños personales por cualquier
+[00:41:01] interrupción o suspensión de servicio,
+[00:41:04] siempre y cuando esté relacionado o
+[00:41:06] justifique de qué manera
+[00:41:08] Eh, ese daño se produjo por un por el
+[00:41:11] riesgo que le ocasionó la interrupción
+[00:41:13] de servicio energético.
+[00:41:15] La demanda tampoco podías delindar su La
+[00:41:18] demandada tampoco podías delindar su
+[00:41:19] responsabilidad como prestataria con
+[00:41:21] fundamento en que el decreto, el defecto
+[00:41:24] de la prestación se originó la
+[00:41:25] generadora porque también Edur había
+[00:41:27] dicho, "No, mira, esto es un problema de
+[00:41:28] la generadora, no es un problema mío."
+[00:41:30] El reglamento justamente eh de concesión
+[00:41:34] eh establecía que de modo alguno podía
+[00:41:37] atribuir eh no podía ser oponible como
+[00:41:39] caso fortuito o fuerza mayor para
+[00:41:41] eximirse de responsabilidad eh la la
+[00:41:43] invocación de de de la responsabilidad
+[00:41:46] de la generadora. Máxime si se pondera
+[00:41:49] que la demandada no demostró cuáles
+[00:41:50] fueron sus medidas de prevención de
+[00:41:52] siniestro ante contingencias que eran
+[00:41:53] tan frecuentes en la ciudad de Buenos
+[00:41:55] Aires, como eran las lluvias de verano,
+[00:41:57] que eran las que habían ocasionado
+[00:41:59] teóricamente esta interrupción de de del
+[00:42:02] servicio de energía. Por otro lado, se
+[00:42:04] concede una indemnización por daño moral
+[00:42:07] y también se otorga una indemnización
+[00:42:09] por daño punitivo, toda vez que la
+[00:42:10] demandada eh como proveedora del
+[00:42:13] servicio de energía eléctrica no había
+[00:42:14] cumplido de manera cabal y eficiente la
+[00:42:17] la prestación de energía que tenía su
+[00:42:19] cargo. Vemos que acá también se aplicó
+[00:42:21] lo que es el daño punitivo como como un
+[00:42:23] elemento de de penalidad accesoria a la
+[00:42:26] reparación eh que había reclamado Cicero
+[00:42:29] por los daños y perjuicios ocasionados
+[00:42:31] por una interrupción por ese periodo. En
+[00:42:34] el caso Méndez contra eh de Surur, acá
+[00:42:38] también eh se resuelve conferir daño
+[00:42:42] cognitivo también por los actores habían
+[00:42:44] reclamado por problemas de tensiones
+[00:42:46] interrupciones varias del servicio de
+[00:42:48] energía. Pero lo relevante es que el
+[00:42:50] daño punitivo acá se fundamenta en la
+[00:42:52] infinidad de de pleitos que ya tenía la
+[00:42:55] empresa por esta interrupción. del sur
+[00:42:56] había sido eh demandada en una
+[00:42:59] multiplicidad de de reclamos
+[00:43:01] jurisdiccionales justamente por la
+[00:43:03] interrupción del servicio, por lo cual
+[00:43:05] la justicia, en este caso la Cámara
+[00:43:08] Nacional de Apelaciones, resuelve
+[00:43:10] conceder el daño punitivo más allá de de
+[00:43:12] la situación particular de la
+[00:43:14] interrupción por la pluralidad de
+[00:43:15] pleitos que tenía Edesur y que eran
+[00:43:18] evaluados como una conducta reprochable
+[00:43:21] para una empresa que que debe tener una
+[00:43:25] un proceder distinto frente a a un a un
+[00:43:28] servicio que estaba prestando.
+[00:43:30] En el tercer caso, también un caso de
+[00:43:33] sur de la Cámara Civil y Comercial
+[00:43:35] Federal,
+[00:43:37] se había dado una interrupción también
+[00:43:39] de 320 horas en el domicilio de la
+[00:43:41] actora. Eh,
+[00:43:44] el Henry había verificado esa
+[00:43:46] información y el argumento de la fuerza
+[00:43:49] mayor no resultaba atendible cuando se
+[00:43:51] trataba de una conducta desaprensiva y
+[00:43:52] reiterada de la empresa. En este caso se
+[00:43:55] confiere, además de la reparación un
+[00:43:57] daño moral porque tuvo en cuenta que la
+[00:43:59] actora vivía en un piso 12, el que
+[00:44:02] supone por ciertamente todo tipo de
+[00:44:04] incomodidades, justamente por la
+[00:44:06] particularidad de de interrumpir el
+[00:44:08] servicio en un edificio y viviendo en un
+[00:44:10] piso 12.
+[00:44:11] el de la Cámara Civil y Comercial
+[00:44:15] Federal Sala 1, Perrota con Sur. La
+[00:44:18] particularidad que tiene que justo que
+[00:44:20] la interrupción del servicio se da en el
+[00:44:21] marco de una boda. Eh, sorpresivamente,
+[00:44:25] sin avisar, eh, este incumplimiento del
+[00:44:28] frigid eléctrico es determinante para
+[00:44:30] responsabilizarla y no pudiendo
+[00:44:32] deslindarse de ella como prestataria,
+[00:44:34] alegando no haber excedido el margen de
+[00:44:36] tolerancia prevista en el contrato de
+[00:44:37] concesión. En tanto ello, solo gravita
+[00:44:39] la relación administrativa que existe
+[00:44:41] entre la empresa y el ente regulador.
+[00:44:42] vemos como eh de algún modo eh se trata
+[00:44:46] de evitar la posibilidad de invocar la
+[00:44:50] las
+[00:44:52] argumentos eh relacionados con lo con la
+[00:44:55] relación que puede tener la empresa
+[00:44:57] distribuidora con el organismo de
+[00:44:59] control o la autoridad de aplicación,
+[00:45:01] cuando eh lo que se está evaluando, o se
+[00:45:04] está analizando justamente es el daño
+[00:45:06] particular que sufre un tercero por la
+[00:45:07] interrupción del servicio.
+[00:45:10] En el caso Resis sur contraor, la acción
+[00:45:13] había sido promovida por una sociedad.
+[00:45:17] En este caso, bueno, justamente fíjense
+[00:45:19] acá que más allá del reclamo que que
+[00:45:22] había hecho la contra la proveedora de
+[00:45:24] electricidad a fin de obtener el
+[00:45:25] resarcimiento por los perjuicios que
+[00:45:27] dijo sufrir un establecimiento que era
+[00:45:28] un establecimiento industrial, eh la
+[00:45:31] cámara rechaza en este caso por
+[00:45:33] improcedente el reclamo en tanto los
+[00:45:35] informes periciales no surgía una
+[00:45:36] diferencia de consumo diario promedio en
+[00:45:38] el periodo de los reclamos y los
+[00:45:40] testimonios no daban cuenta de las
+[00:45:42] supuestas fallas en el en el suministro.
+[00:45:45] y carecían de de fuerza de convicción.
+[00:45:48] Vemos como los elementos probatorios, se
+[00:45:50] acuerdan que habíamos visto la clase
+[00:45:53] anterior cómo era determinante muchas
+[00:45:55] veces la prueba pericial para acreditar
+[00:45:57] eh la la la el alcance de una
+[00:46:01] interrupción, la trazabilidad eh que
+[00:46:04] tuvo en el cumplimiento o no la compañía
+[00:46:06] energética en el la prestación de
+[00:46:08] servicios. En este caso concreto, a
+[00:46:10] pesar de ser una industria que intentó
+[00:46:12] acreditar eh una situación de de
+[00:46:14] interrupción con daños, no lo logró
+[00:46:16] acreditar en este proceso contra Edenor.
+[00:46:20] Eh,
+[00:46:22] en este de la Cámara Civil y Comercial
+[00:46:23] de San Nicolás, Suárez contra empresa
+[00:46:25] distribuidora, el daño se había
+[00:46:26] producido al propietorio de un negocio
+[00:46:29] de venta de lados que perdió todo el
+[00:46:31] producto elaborado en su negocio como
+[00:46:32] consecuencia de los cortes en el
+[00:46:34] suministro eléctrico. había perdido toda
+[00:46:37] la producción en el comercio de la
+[00:46:38] aladería en una época estival. la
+[00:46:41] interrupción prolongada del servicio
+[00:46:43] dañó el derecho y la y la incolumidad eh
+[00:46:48] espiritual, por lo cual, además de la
+[00:46:51] reparación integral por los daños que lo
+[00:46:52] ocasionó la pérdida del producto, que en
+[00:46:54] este caso el helado, se le le reconoció
+[00:46:58] la justicia la indemnización por daño
+[00:47:00] moral, que es es una un daño [música]
+[00:47:03] que que no está relacionado con los
+[00:47:05] daños patrimoniales, sino con los daños
+[00:47:08] extrapatrimoniales, con las
+[00:47:09] efectuaciones espiritual con la
+[00:47:11] afectación de la tranquilidad que le
+[00:47:12] provoca a una persona un determinado una
+[00:47:15] determinada situación específica, como
+[00:47:17] en este caso la interrupción del
+[00:47:19] servicio eléctrico en una en una
+[00:47:20] prestación como era la que explotaba.
+[00:47:23] En el caso de la cochería vicio
+[00:47:26] contra de sur, justamente también en
+[00:47:28] este se daba la situación de
+[00:47:30] interrupción, una cochería, una sociedad
+[00:47:32] que explotaba una cochería y la
+[00:47:34] interrupción se dio durante toda una
+[00:47:35] semana y con motivo de esos de perfectos
+[00:47:37] de su red también se ocasionó o se
+[00:47:39] produjo un daño en la suspensión que que
+[00:47:42] generó la suspensión de servicio de gas
+[00:47:44] que duró más o menos un mes, lo cual
+[00:47:45] generó a la actora un daño emergente y
+[00:47:47] un lucro cesante que dio lugar también a
+[00:47:49] una reparación concreta ordenada por la
+[00:47:52] justicia contra la empresa de Sur.
+[00:47:55] Después tenemos otros fallos de la
+[00:47:57] Cámara de Civil contra de Sur que se da
+[00:48:01] en el caso Lera que que era se da
+[00:48:04] también una indemnización en concepto de
+[00:48:06] daño moral. Se tuvo en cuenta la
+[00:48:09] avanzada de edad, que vivía en un piso
+[00:48:10] elevado, que la interrupción duró casi 7
+[00:48:13] días completos, que tenía problemas de
+[00:48:15] de salud y que justo la interrupción se
+[00:48:17] daba en el marco climático signado por
+[00:48:20] por altas temperaturas. decir, el
+[00:48:22] periodo estival.
+[00:48:25] Vamos a a ir pasando un poco más más
+[00:48:28] rápido estos
+[00:48:31] antecedentes
+[00:48:34] para pasar, pues son más o menos
+[00:48:37] similares. Después cualquier cosa si
+[00:48:39] ustedes los necesitan eh concretamente
+[00:48:43] me los me los piden y yo se los reenvío
+[00:48:47] como hicimos en la clase anterior. Y
+[00:48:50] vamos a pasar a otro tema que son las
+[00:48:55] herramientas eh [carraspeo] judiciales
+[00:48:59] urgentes
+[00:49:01] que existen ante situaciones
+[00:49:04] particulares de extrema gravedad y a las
+[00:49:07] cuales pueden recurrir las personas
+[00:49:09] cuando
+[00:49:11] necesitan una respuesta rápida de la
+[00:49:13] justicia.
+[00:49:15] Y esas son el amparo, las medidas
+[00:49:18] cautelares y autosatisfactivas. ¿Por qué
+[00:49:20] vamos a hablar de esto? ¿Por qué
+[00:49:23] consideré necesario explicar de qué se
+[00:49:26] tratan estas instituciones? Más que nada
+[00:49:29] porque, como vimos en los antecedentes
+[00:49:31] que que estuvimos analizando y a los que
+[00:49:33] vamos a ver a posteriori,
+[00:49:36] eh
+[00:49:38] vemos que el instrumento o el
+[00:49:41] procedimiento o o la herramienta que más
+[00:49:44] se utiliza ante interrupciones
+[00:49:46] injustificadas o ante severos daños que
+[00:49:50] se pudieran causar cuando se encuentran
+[00:49:52] en juego situaciones de salud o ante
+[00:49:56] medidas inapropiadas y y flagrantes e
+[00:49:59] irrazonables. Las herramientas que que
+[00:50:02] utilizan cuando no reciben una respuesta
+[00:50:05] eficiente de la compañía o del de la
+[00:50:08] concesionaria que esté a cargo de la
+[00:50:09] distribución del servicio de energía es
+[00:50:12] generalmente el amparo, es generalmente
+[00:50:15] la medida cautelar o es generalmente la
+[00:50:17] medida autosatisfactiva.
+[00:50:20] y para describir o para
+[00:50:23] entender lo que es el amparo, porque lo
+[00:50:27] vamos a ver, lo podemos ver en un montón
+[00:50:29] de de situaciones particulares de de la
+[00:50:31] vida, pero ahora lo vamos a relacionar
+[00:50:34] justamente con el servicio eléctrico.
+[00:50:36] Podemos utilizar una imagen. Vamos a
+[00:50:37] pensar que que el sistema judicial tiene
+[00:50:40] distintas puertas
+[00:50:43] o muchas puertas, algunas puertas que
+[00:50:45] son las habituales para ingresar, que
+[00:50:47] son los juicios, los reclamos de daños y
+[00:50:50] perjuicios, los reclamos de de procesos
+[00:50:53] sumarios, por un cobro de alquileres o
+[00:50:56] por un reclamo por eh por pensemos, no
+[00:51:00] sé, por un por una división de un
+[00:51:02] condominio, por una sucesión, por una
+[00:51:04] cuestión de familia, por un alimentos.
+[00:51:07] Pero también
+[00:51:09] hay puertas de emergencia que tiene el
+[00:51:12] poder judicial. Esas puertas de
+[00:51:13] emergencia que solo pueden ser
+[00:51:15] utilizadas ante situaciones muy
+[00:51:17] particulares, ante situaciones muy
+[00:51:21] urgentes para proteger derechos que
+[00:51:23] realmente justifican utilizar esa puerta
+[00:51:26] de emergencia. Bien. Y esa puerta de
+[00:51:28] emergencia es la acción de amparo. ¿Qué
+[00:51:31] es el amparo? Es un proceso
+[00:51:32] constitucional destinado a proteger
+[00:51:34] derechos cuando existe una lección
+[00:51:37] actual e inminente y esa lesión aparece
+[00:51:41] como manifiestamente arbitraria y legal.
+[00:51:44] Y por otra parte, no tengo otra otras
+[00:51:46] vías judiciales idóneas o otras u otras
+[00:51:49] vías judiciales que me proporcionen una
+[00:51:51] respuesta igualmente adecuada u oportuna
+[00:51:55] ante este reclamo.
+[00:51:57] No significa que yo no pueda transitar
+[00:51:59] las vías judiciales. Sí, las puedo
+[00:52:00] transitar, pero si las transito,
+[00:52:02] probablemente mi derecho quede inútil o
+[00:52:06] o se haya perdido en el transcurso del
+[00:52:09] tiempo que yo lleve esa que yo
+[00:52:11] implemente esa vía tradicional o esa vía
+[00:52:13] típica que que existe dentro del marco
+[00:52:16] de la justicia. Entonces, el amparo es
+[00:52:18] muy especial. De hecho, el origen del
+[00:52:20] Alparo se da ante situaciones eh
+[00:52:23] concretas, jurisprudenciales que se
+[00:52:25] dieron en 1957,
+[00:52:27] 1958, que son los casos Iri y COD, que
+[00:52:29] uno un caso de una imprenta eh la cual
+[00:52:32] se le impedía trabajar. Y el otro caso
+[00:52:34] era eh, si mal no recuerdo, eh, la
+[00:52:38] prestación era un diario y el otro eh
+[00:52:43] no no me acuerdo bien el el otro la otra
+[00:52:46] situación, pero son dos casos
+[00:52:47] jurisprudenciales que se ti la
+[00:52:48] antigüedad y que no surgió el amparo
+[00:52:50] como una ley específica, sino que la
+[00:52:52] jurisprudencia se dio cuenta de que la
+[00:52:54] justicia no daba una respuesta eficiente
+[00:52:56] entre determinados reclamos y que en
+[00:52:58] definitiva eh había que implementar o
+[00:53:01] crear desde la justicia un sistema nuevo
+[00:53:04] para dar una respuesta eficiente. Bueno,
+[00:53:06] después [música] esa jurisprudencia fue
+[00:53:08] eh canalizada a través de o fue plasmada
+[00:53:12] a través de una normativa concreta y
+[00:53:15] primero las provincias fueron las que la
+[00:53:16] regularon, después fue regulado a nivel
+[00:53:19] nacional y después bueno tenemos lo que
+[00:53:22] es el artículo 43 de la Constitución
+[00:53:25] Nacional que con su reforma de 1994 la
+[00:53:28] tiene regulada, descripta y
+[00:53:31] conceptualizada como una acción
+[00:53:33] específica, obligatoria para a todo lo
+[00:53:35] que es eh el régimen judicial de la
+[00:53:38] Argentina. A la provincia de Buenos
+[00:53:40] Aires, la tenemos en el artículo 20,
+[00:53:42] inciso 2 de la Constitución y que fue
+[00:53:44] reglamentado a la provincia por la ley
+[00:53:45] 13,928.
+[00:53:49] En en términos sencillos, el amparo es
+[00:53:51] una petición urgente dirigida a un juez
+[00:53:53] para que detenga una lesión evidente de
+[00:53:55] un derecho o restablezca rápidamente el
+[00:53:59] derecho vulnerado.
+[00:54:01] El recaudo fundamental, como les dije
+[00:54:03] anteriormente, es la urgencia en el
+[00:54:05] reclamo. La urgencia que se da
+[00:54:07] justamente por el alto riesgo de un
+[00:54:09] derecho fundamental.
+[00:54:11] Una sentencia dictada varios años
+[00:54:14] después de varios años, ya sea
+[00:54:16] jurídicamente correcta. puede
+[00:54:18] convertirse en algo materialmente
+[00:54:19] inútil. Si una persona necesita
+[00:54:21] electricidad para mantener encendido un
+[00:54:24] respirador, no puede esperar el tiempo
+[00:54:26] normal de un proceso jurisdiccional.
+[00:54:29] Entonces,
+[00:54:30] en materia de energía o en materia de
+[00:54:32] estos servicios eléctricos, vamos a ver
+[00:54:34] que el amparo generalmente se se va a
+[00:54:36] dar cuando se produce un corte, un aviso
+[00:54:38] de suspensión emergente, una una
+[00:54:40] negativa a reconectar, una falta de
+[00:54:42] entrega de una fuente alternativa o la
+[00:54:45] la omisión de responder frente entre una
+[00:54:46] situación sanitaria grave. en estas tipo
+[00:54:48] de situaciones donde vamos a ver que se
+[00:54:50] recurre a la acción de amparo y la
+[00:54:53] lección puede ser la lesión puede ser
+[00:54:55] actual o puede ser inminente, es decir,
+[00:54:56] puede ser un amparo preventivo, sé que
+[00:54:58] me van a cortar mañana la luz y yo tengo
+[00:55:01] una situación de necesidad porque me
+[00:55:02] corta la luz y esta persona que tengo
+[00:55:04] acá se me puede llegar a morir.
+[00:55:06] Entonces, no es solamente ante el hecho
+[00:55:08] consumado, sino también ante una lesión
+[00:55:10] que puede ser o producirse en lo
+[00:55:13] inmediato.
+[00:55:17] Como dijimos, el amparo una medida eh
+[00:55:20] una acción rápida, sumaria, eh
+[00:55:22] restrictiva en cuanto a su material
+[00:55:24] probatorio, por lo cual uno no puede
+[00:55:26] introducir en un amparo cuestiones que
+[00:55:28] requieren eh pruebas muy complejas o
+[00:55:31] pruebas que lleven mucho tiempo. Por lo
+[00:55:32] general, las pruebas tienen que ser
+[00:55:34] sencillas, fáciles de de de implementar
+[00:55:38] y y en y producir en un en un periodo
+[00:55:41] muy reducido, porque justamente el
+[00:55:42] amparo, los plazos de los amparos tienen
+[00:55:45] periodos reducidos tantos para
+[00:55:46] contestarse, tantos para para informar
+[00:55:49] como tanto para producir la prueba y al
+[00:55:51] igual que el juez para dictar su
+[00:55:52] pronunciamiento definitivo.
+[00:55:56] Muchas veces pasa que que el amparo
+[00:56:00] no es la acción adecuada para
+[00:56:02] implementar la pretensión que implementó
+[00:56:04] el usuario o el reclamante y el juez
+[00:56:07] como se da cuenta de eso y para no eh
+[00:56:09] generar un perjuicio mayor, lo que busca
+[00:56:11] a veces eh le dice, "Bueno, esto no es
+[00:56:13] la vía apropiada, pero reconduzca la
+[00:56:15] demanda o busque eh articúlele con una
+[00:56:19] demanda ordinaria, como un reclamo
+[00:56:21] ordinario y por ahí eh permite
+[00:56:24] reformular la pretensión para que
+[00:56:26] continúe mediante el proceso judicial
+[00:56:29] que resulta adecuado. Esta reconducción
+[00:56:30] no implica reconocer que el actor tiene
+[00:56:32] razón, sino evitar que un error en la
+[00:56:35] elección de la vida cierre
+[00:56:36] definitivamente el acceso a la justicia.
+[00:56:43] Dentro del amparo también se pueden
+[00:56:44] solicitar medidas cautelares como dentro
+[00:56:46] de cualquier proceso. ¿Qué son las
+[00:56:49] medidas cautelares? Ya, para distinguir
+[00:56:51] el amparo de las medidas cautelares. La
+[00:56:54] de medida cautelar es una decisión
+[00:56:55] judicial provisional destinada a
+[00:56:58] proteger un derecho mientras se tramita
+[00:57:00] el proceso principal.
+[00:57:04] Su finalidad, la finalidad de la medida
+[00:57:05] cautelar no es declarar quién tiene o no
+[00:57:07] tiene razón, sino evitar
+[00:57:11] que cuando llegue la sentencia, la
+[00:57:12] sentencia llegue tarde porque el derecho
+[00:57:17] al cual estoy reclamando se perdió.
+[00:57:19] Porque el derecho sobre el cual estoy
+[00:57:21] reclamando o estoy pidiendo sobre el
+[00:57:24] cual estoy solicitando, quedó abstracto,
+[00:57:26] quedó sin materia en virtud del tiempo
+[00:57:28] transcurrido hasta que llegue la
+[00:57:29] sentación. Entonces aparecen las medidas
+[00:57:31] cautelares como herramientas, como
+[00:57:33] instrumento para tratar de de tutelar
+[00:57:36] ese derecho que estoy reclamando,
+[00:57:37] siempre y cuando estas medidas
+[00:57:39] cautelares, ya vamos a ver de qué se
+[00:57:40] tratan, se den determinados requisitos
+[00:57:43] de procedilidad que les habiliten. Es
+[00:57:47] decir, la medida cutter es un una
+[00:57:49] protección provisional dentro de un
+[00:57:51] proceso o vinculada a él. El amparo
+[00:57:54] busca una sentencia que se resuelva en
+[00:57:56] la pretensión urgente y la cautelar
+[00:57:58] busca conservar la utilidad del proceso
+[00:58:00] mientras esa decisión se adopta. Por eso
+[00:58:04] puede ser que el amparo en definitiva al
+[00:58:06] final sea rechazado y sin embargo se
+[00:58:08] haya concedido a lo largo del proceso
+[00:58:10] una medida cautelar. No existe
+[00:58:11] contradicción entre esa situación.
+[00:58:15] ¿Cuáles son los presupuestos de
+[00:58:17] procedencia de una medida cautelar? Los
+[00:58:19] clásicos son tres: la verosimilitud en
+[00:58:22] el derecho, el peligro, la demora y la
+[00:58:25] contracautela.
+[00:58:27] La verosimilitud en el derecho es una
+[00:58:30] probabilidad razonable de que ese
+[00:58:32] derecho que estoy invocado invocando
+[00:58:35] exista.
+[00:58:36] No requiere certeza, porque la certeza
+[00:58:38] me la va a dar recién la sentencia
+[00:58:40] definitiva. Eh, si yo ya tengo certeza,
+[00:58:43] ya seguramente me va a poder dictar el
+[00:58:45] juez una sentencia definitiva. Requiere
+[00:58:47] una probabilidad razonable.
+[00:58:49] Él el juez no debe comprobar
+[00:58:52] definitivamente que el solicitante tiene
+[00:58:54] razón, debe creer. Es lo que se llamaba
+[00:58:56] fumus de humo de buen derecho
+[00:59:00] en
+[00:59:02] en en fumus humus yuris en latín, pero
+[00:59:04] es humo de buen derecho que es hay un se
+[00:59:08] huele de que esto es realmente puede ser
+[00:59:11] cierto para que otorga una medida
+[00:59:13] cautelar. El segundo recaudo es el
+[00:59:15] peligro, la demora. Significa que el
+[00:59:18] transcurso del tiempo podría agravar la
+[00:59:20] situación y producir un daño irreparable
+[00:59:24] o volver inútil la sentencia.
+[00:59:27] Vemos como la verosimilitud y el derecho
+[00:59:29] y el peligro están de alguna manera
+[00:59:31] relacionados. Cuando el riesgo es
+[00:59:34] extremadamente grave, el análisis
+[00:59:36] inicial, el análisis inicial que puede
+[00:59:39] realizarse respecto de de esa
+[00:59:41] veromisimilitura, el derecho puede ser
+[00:59:43] quizás no tan riguroso, pero esto no
+[00:59:46] significa que los requisitos no tienen
+[00:59:48] que existir o tienen que desaparecer.
+[00:59:50] Tienen que estar siempre esos dos
+[00:59:51] requisitos. Ambos deben estar presentes
+[00:59:54] para que yo pueda conferir una medida
+[00:59:56] cautelar.
+[00:59:58] En algunos los ejemplos que vamos a ver,
+[01:00:00] vamos a ver cómo se da o cómo en qué
+[01:00:02] supuesto se concede la cautelar.
+[01:00:06] Y el último requisito es la
+[01:00:07] contracautela. ¿Qué es la contracautela?
+[01:00:10] es una garantía
+[01:00:13] real, personal o juratoria
+[01:00:16] que puede exigirse al solicitante para
+[01:00:19] responder por los daños que la medida
+[01:00:21] pudiera causar si posteriormente se
+[01:00:23] demuestra que no tenía derecho.
+[01:00:26] Generalmente
+[01:00:27] puede ser una una cantidad de dinero,
+[01:00:30] puede ser una una caución personal o en
+[01:00:33] determinados procesos donde hay
+[01:00:35] situaciones de vulnerabilidad o donde
+[01:00:36] los reclamantes carecen de recurso
+[01:00:38] necesario, puede dispensarse o
+[01:00:40] establecerse esta contracautela con con
+[01:00:44] menor intensidad.
+[01:00:46] Ya vimos qué son los amparos, qué son
+[01:00:48] las medidas cautelares y viene el caso
+[01:00:52] simplemente de escribir, aunque más no
+[01:00:54] sea rápidamente lo que es la medida
+[01:00:56] autosatisfactiva, porque muchas veces se
+[01:00:58] da en el marco de de estos procesos eh
+[01:01:01] donde se reclaman
+[01:01:03] prestaciones vinculadas a la energía de
+[01:01:05] lo que son las medidas
+[01:01:06] autosatisfactivas,
+[01:01:08] eh que es un son medidas quizás más
+[01:01:11] novedosas en lo que hace a a a las eh
+[01:01:14] herramientas procesales.
+[01:01:16] y se diferencian de lo que es una
+[01:01:17] cautelar tradicional. La cautelar, como
+[01:01:20] decíamos, es un instrumento provisional,
+[01:01:22] instrumental, se encuentra vinculado con
+[01:01:24] otro proceso. La medida autosatisfactiva
+[01:01:27] se agota
+[01:01:29] con su propio con su propio
+[01:01:31] cumplimiento. Por ejemplo, si una medida
+[01:01:33] o una persona
+[01:01:35] necesita de manera urgente un grupo
+[01:01:37] electrógeno para mantener funcionando un
+[01:01:39] contenedor, un concentrador de energía,
+[01:01:42] la entrega de ese equipo puede
+[01:01:44] satisfacer materialmente la pretensión o
+[01:01:46] la necesidad y prácticamente el proceso
+[01:01:48] no tiene sentido. Bueno, para ese tipo
+[01:01:49] de particularidades o ese tipo de
+[01:01:51] situaciones puede utilizarse la medida
+[01:01:55] autosatisfactiva. que sí, a diferencias
+[01:01:57] de de lo que es una medida cautelar, se
+[01:02:00] exige un estándar más intenso que la
+[01:02:03] mero merosimilitud que exigíamos para lo
+[01:02:05] que eran las medidas cautelares. Es
+[01:02:07] decir, se requiere una fuerte
+[01:02:09] probabilidad del derecho, ya no una mera
+[01:02:13] probabilidad, una fuerte probabilidad
+[01:02:15] del derecho, una una urgencia
+[01:02:17] impostergable y un riesgo o perjuicio
+[01:02:20] irreparable. Como muchas veces estas
+[01:02:22] medidas como las medidas cautelares se
+[01:02:23] dan ina agudita parte más allá de las
+[01:02:25] posibilidades recursivas que que puede
+[01:02:27] tener la otra parte, es decir, se se
+[01:02:29] solicitan y se las da el juez sin la
+[01:02:32] intervención de de la contraparte. Eh,
+[01:02:34] todos estos recaudos se exigen con con
+[01:02:36] mucha rigurosidad.
+[01:02:39] No puede utilizarse la medida
+[01:02:40] autosatisfativa como un un atajo para
+[01:02:44] evitar los procesos ordinarios. se
+[01:02:45] encuentra reservada para situaciones en
+[01:02:48] las que esperar el desarrollo de otra
+[01:02:50] vía basearía de contenido a a la de a la
+[01:02:54] protección o a la pretensión que se está
+[01:02:55] instalando. Bueno, es un poco
+[01:02:57] descriptivo de alguna manera ahí en el
+[01:03:00] en el
+[01:03:02] en el PowerPoint están las diferencias
+[01:03:04] fundamentales y cuáles son los recaudos
+[01:03:06] o los requisitos que tiene cada una para
+[01:03:10] interpretar y comprender de qué se trata
+[01:03:12] y para un poco eh ilustrar también eh
+[01:03:16] cómo se implementa las medidas
+[01:03:17] cautelares. Vemos como la justicia en
+[01:03:20] algunos antecedentes la fue aplicando.
+[01:03:25] Este es un fallo del primero que vamos a
+[01:03:26] ver es de la Cámara de Apelación lo
+[01:03:28] contencioso administrativo con asiento
+[01:03:29] de San Nicolás, un fallo del año 2024 de
+[01:03:33] Rita contra Edén. Acá la usuaria había
+[01:03:36] pagado una factura, eh, pero la
+[01:03:39] distribuidora le había intimado, le
+[01:03:41] había imputado esa factura a un pago que
+[01:03:43] no tenía nada que ver con lo que había
+[01:03:45] hecho la la usuaria y consideró que el
+[01:03:48] periodo correspondiente continuaba y
+[01:03:50] pago y por eso a partir de ese error de
+[01:03:52] la distribuidora se produjo la
+[01:03:54] suspensión de suministro. ¿Qué hace la
+[01:03:56] actora? promueve una acción de amparo
+[01:03:59] para obtener no solamente la reconexión,
+[01:04:01] sino también la correcta imputación del
+[01:04:03] pago. El juez de primera instancia hace
+[01:04:06] lugar al amparo, ordena imputar el pago
+[01:04:08] a la factura correspondiente, abstenerse
+[01:04:11] y aplicar intereses, informar cualquier
+[01:04:13] diferencia pertinente, conceder un plazo
+[01:04:15] razonable para ordenarla, abonarla y no
+[01:04:17] efectuar suspensiones fundadas en esa
+[01:04:19] obligación.
+[01:04:21] La Cámara termina confirmando la
+[01:04:23] decisión y valora el tribunal que se
+[01:04:25] trataba de una controversa, una
+[01:04:27] controversia concreta, sencilla y
+[01:04:29] documentalmente verificable. Fíjense
+[01:04:30] como cuando se trata de cosas sencillas
+[01:04:33] sí sirve el amparo y no era necesario
+[01:04:36] analizar técnicamente una red,
+[01:04:37] reconstruir varios años de de consumo y
+[01:04:40] realizar una pericia compleja sobre un
+[01:04:42] medidor, por lo cual consideró que se
+[01:04:45] había acreditado que la imputación era
+[01:04:46] claramente equivocada y que había
+[01:04:48] provocado la privación de un servicio
+[01:04:49] esencial. por lo cual debilitó la acción
+[01:04:51] de amparo. Otro fallo de San Nicolás es
+[01:04:54] el Musia contra Edem. En este caso, la
+[01:04:57] distribuidora había suspendido el
+[01:04:58] suministro después de detectar una
+[01:05:00] irregularidad. En este caso, el cable
+[01:05:02] neutro no ingresaba al medidor y esa
+[01:05:04] configuración producía un consumo de
+[01:05:05] energía eh no registrado.
+[01:05:09] El usuario termina cuestionando el
+[01:05:10] procedimiento, cuestiona la factura
+[01:05:12] complementaria, cuestiona también la
+[01:05:14] constitucionalidad del régimen y durante
+[01:05:17] el proceso obtiene como medida cautelar
+[01:05:19] la reconexión, como medida cautelar.
+[01:05:22] Sin embargo, la sentencia definitiva
+[01:05:24] termina rechazando el amparo.
+[01:05:27] La Cámara confirma esa decisión de
+[01:05:29] rechazo de amparo.
+[01:05:32] Dice, "La diferencia con el caso
+[01:05:34] anterior está justamente en la prueba.
+[01:05:36] La irregularidad había sido constatada
+[01:05:38] mediante un acta notarial y corroborada
+[01:05:40] por una pericia eléctrica. El dictamen
+[01:05:42] confirmó que la instalación producía
+[01:05:44] consumo no registrado. Además, la
+[01:05:46] instalación, la estimación había sido
+[01:05:48] efectuada por la distribuidora
+[01:05:50] coincidente con el consumo registrado
+[01:05:52] después de normalizado el medidor.
+[01:05:54] También se acreditó que el usuario había
+[01:05:56] sido citado para efectuar su descargo y
+[01:05:58] no lo había hecho. No existía una
+[01:06:00] actuación caprichosa. no existía una
+[01:06:02] actuación ilegal o manifiestamente
+[01:06:04] ilegítima de de la distribuidora, por lo
+[01:06:07] cual había ejercido facultades
+[01:06:09] reglamentarias con respaldo técnico y
+[01:06:10] respetando el derecho de defensa. Por lo
+[01:06:12] tanto, en este caso concreto, la
+[01:06:14] justicia rechaza el amparo contra la
+[01:06:16] empresa de
+[01:06:18] otro fallo de la Cámara de San Nicolás,
+[01:06:20] centurión contra Edem. En este caso, la
+[01:06:23] actora había solicitado una nueva
+[01:06:24] conexión y la distribuidora lo había
+[01:06:26] rechazado porque el pedido eh porque ya
+[01:06:29] había tenido esta esta misma actor un
+[01:06:31] pedido y existía una deuda de tres
+[01:06:34] facturas correspondiente a otro
+[01:06:35] suministro que estaba a nombre de la
+[01:06:37] misma usuaria.
+[01:06:39] La actora, si bien reconoce la deuda,
+[01:06:41] tiene sostiene que esa deuda estaba
+[01:06:43] prescrta, que es cuando el transcurso
+[01:06:45] del tiempo hace perder el derecho a al
+[01:06:48] reclamante de reclamar justamente de
+[01:06:50] cobrar su crédito porque no haberlo
+[01:06:52] reclamado, no haberlo instado una acción
+[01:06:55] judicial para reclamarlo en un tiempo
+[01:06:57] determinado, se entiende que la deuda
+[01:06:58] está prescrita. Eso había invocado la
+[01:07:00] actora y promueve una acción de amparo y
+[01:07:03] solicito una tutela anticipada para
+[01:07:04] obtener la conexión inmediata. El juez
+[01:07:07] rechaza inimine el amparo, pero concede
+[01:07:10] un plazo para reformular la pretensión
+[01:07:12] por alguna de las vías del Código
+[01:07:14] Procesal contencioso administrativo. La
+[01:07:16] Cámara confirma. ¿Y por qué confirma?
+[01:07:18] Porque dice, para determinar la
+[01:07:20] existencia y exigibilidad de la deuda,
+[01:07:23] su eventual prescripción, la posibilidad
+[01:07:25] de vincular dos suministros diferentes y
+[01:07:27] la legitimidad de condicionar una nueva
+[01:07:29] conexión al pago de una obligación
+[01:07:31] anterior, requiere todo de un proceso
+[01:07:33] muy complejo en el cual el ámbito o la
+[01:07:37] cobertura que da el amparo no lo permite
+[01:07:39] dilucidar, no lo no lo permite discutir
+[01:07:42] y tampoco existía una ilegalidad
+[01:07:44] manifiesta que pudiera comprobarse
+[01:07:45] inmediatamente. Había una controversia
+[01:07:48] jurídica que requería mayor debate.
+[01:07:50] Vemos como acá se hablo de la
+[01:07:52] reconducción. El juez dice, "No, esto no
+[01:07:55] va, el amparo no va, pero te reconduzco
+[01:07:57] el juicio o lo reconduzco al juicio para
+[01:08:00] un proceso contencioso administrativo."
+[01:08:06] Vamos ahora a este fallo de la Cámara,
+[01:08:09] lo contencioso Administrativo con
+[01:08:11] asiento
+[01:08:13] eh en San Nicolás, el caso Petreca, que
+[01:08:15] era el intendente de la ciudad de Junín
+[01:08:17] contra Edén. ¿Qué quería el intendente?
+[01:08:20] Bueno, había promovido una acción
+[01:08:21] colectiva en representación de todos los
+[01:08:23] habitantes de de la ciudad por numerosos
+[01:08:25] cortes que habían ocurrido entre el año
+[01:08:27] 2022 y 2023. había solicitado que Edén
+[01:08:31] fuera condenada a restablecer y
+[01:08:33] regularizar el suministro, a implementar
+[01:08:36] un un plan integral de prestación y
+[01:08:38] mantenimiento, a devolver las tarifas, a
+[01:08:41] reparar los daños, a instrumentar un
+[01:08:43] protocolo de emergencia y a presentar un
+[01:08:45] plan de obras para ampliar el cableado
+[01:08:47] preensamblado. Fíjense la el la que
+[01:08:49] abarcaba la pretensión eh de que había
+[01:08:53] instado el intendente dentro del marco
+[01:08:55] de un amparo.
+[01:08:57] La justicia, si bien reconoce la
+[01:08:59] legitimación del municipio, ya que la
+[01:09:01] legislación provincial habilita a los
+[01:09:02] municipios mediante sus organismos para
+[01:09:03] actuar en protección de los usuarios,
+[01:09:07] no le admite la demanda. Dice, "La
+[01:09:10] prueba reunida indicaba que los cortes
+[01:09:12] se habían producido en un contexto de
+[01:09:14] tormenta, fuertes vientos y caída de
+[01:09:16] árboles y ramas. Los informes de OSEA
+[01:09:18] demostraban que la distribuidora había
+[01:09:20] activado su plan de emergencia,
+[01:09:22] mantenido comunicaciones con el
+[01:09:23] organismo, reparado progresivamente las
+[01:09:25] instalaciones y restablecido el
+[01:09:27] servicio. Y también se había acreditado
+[01:09:29] la incidencia del arborado público y la
+[01:09:31] existencia de advertencias anteriores
+[01:09:33] dirigidas al municipio.
+[01:09:35] La pretensión de restablecimiento de
+[01:09:37] energía se había perdido actualidad
+[01:09:39] porque obviamente el servicio de energía
+[01:09:41] ya se había normalizado y las restantes
+[01:09:44] solicitudes
+[01:09:45] requerían analizar planes de inversión,
+[01:09:48] mantenimiento, tecnología de cableado,
+[01:09:50] responsabilidad por el arbolado,
+[01:09:52] devoluciones de tarifas. Todas esas eh
+[01:09:54] pretensiones excedían claramente el
+[01:09:57] marco breve de discusión que permite la
+[01:09:59] acción de amparo, por lo cual se termina
+[01:10:01] rechazando el mismo.
+[01:10:03] Vamos por otro caso de de la Cámara de
+[01:10:05] San Nicolás, eh Rodríguez Evangelina
+[01:10:09] contra Edén. En este caso se había
+[01:10:11] solicitado una conexión en un inmueble
+[01:10:13] situado en ascensión partido de General
+[01:10:16] Arenales y la empresa había rechazado el
+[01:10:18] pedido porque el loteo no contaba con
+[01:10:20] las obras de infraestructura exigidas
+[01:10:23] por la normativa de ordenamiento
+[01:10:25] territorial.
+[01:10:26] Los usuarios acudieron a MIC y luego los
+[01:10:29] SEBA y el organismo regulador ordenó a
+[01:10:31] Eden efectuar la conexión, pero la
+[01:10:32] empresa interpuso un recurso
+[01:10:34] administrativo,
+[01:10:36] como eso se estaba discutiendo en el
+[01:10:38] ámbito administrativo. ¿Qué hizo? ¿Qué
+[01:10:39] hicieron los actores? Promovieron una
+[01:10:41] acción de amparo para lograr la
+[01:10:42] instalación inmediata. La justicia
+[01:10:45] declara inadmisible, sabía porque no era
+[01:10:48] una negativa arbitraria. era necesario
+[01:10:51] determinar las obligaciones del
+[01:10:52] loteador, las exigencias urbanísticas,
+[01:10:54] la infraestructura requerida y los
+[01:10:56] efectos de una resolución administrativa
+[01:10:58] que todavía estaba recurrida, como
+[01:10:59] dijimos, estaba todavía en debate en el
+[01:11:01] ámbito administrativo. Sin embargo, la
+[01:11:04] cámara reconduce la pretensión a la
+[01:11:06] acción administrativa, por lo cual los
+[01:11:08] actores pudieron reformular la demanda
+[01:11:10] para que continuara ante el órgano
+[01:11:12] competente. El rechazo del amparo no
+[01:11:15] produjo la pérdida absoluta del derecho
+[01:11:16] a obtener una decisión judicial, pero se
+[01:11:19] reconoce que no era la vía adecuada para
+[01:11:21] un reclamo de tales características.
+[01:11:24] Otro fallo de San Nicolás, este del
+[01:11:26] 2014, el Centro de Empleado de Comercio.
+[01:11:28] En este caso, la entidad había
+[01:11:30] denunciado contra Edén deficiencias a la
+[01:11:33] calidad y el nivel de atención del
+[01:11:34] suministro la sede y solicitó a la
+[01:11:36] distribuidora regularizada la
+[01:11:38] regularizara la prestación y realizara
+[01:11:40] las obras necesarias. había pedido una
+[01:11:43] medida cautelar innovativa para que las
+[01:11:45] obras comenzaran dentro de 5 días. El
+[01:11:48] amparo obviamente fue rechazado en
+[01:11:49] límite. Ordenar la realización de obras,
+[01:11:53] exigir exigía determinar cuál era el
+[01:11:55] nivel de atención técnicamente adecuado,
+[01:11:57] qué infraestructura debía adecuarse o
+[01:11:59] ejecutarse, quién debía asumirla, qué
+[01:12:01] parámetros concretos del contrato de
+[01:12:03] concesión resultaban aplicables.
+[01:12:05] [carraspeo] Todo eso requería prueba
+[01:12:06] especializada y resultaba un debate que
+[01:12:09] era incompatible con la estructura
+[01:12:10] abreviada y sumaria que tiene la acción
+[01:12:12] de amparo. La cámara termina confirmando
+[01:12:15] este rechazo, pero suest, como le decía
+[01:12:17] en el caso anterior, permite la
+[01:12:18] reconducción de la pretensión ante una
+[01:12:20] acción contenciosa administrativa.
+[01:12:24] Después tenemos
+[01:12:26] un fallo también de la Cámara
+[01:12:29] Contenciosa Administrativa de San
+[01:12:30] Nicolás, Lombardi contra Amparo 2018. Ya
+[01:12:33] no sé si me pasé ya acá.
+[01:12:36] A ver si no debo andar por acá. Ah, no,
+[01:12:40] me había adelantado una en el en el
+[01:12:42] power.
+[01:12:43] Lombardi contra
+[01:12:46] Amparo. En este caso, el actor explotaba
+[01:12:49] una heladería y una cafetería en Junín.
+[01:12:52] La empresa había detectado un consumo
+[01:12:54] presuntamente anormal y había emitido
+[01:12:56] una factura complementaria y notificó la
+[01:12:59] posibilidad de corte de suministro.
+[01:13:01] Aquel usuario cuestiona la validez de la
+[01:13:03] factura porque dice que eh no había
+[01:13:06] intervenido un escribano ni un
+[01:13:07] funcionario de Oceva y solo se le había
+[01:13:09] entregado un troquel sin firmas. y
+[01:13:11] también explicó que el corte podía poner
+[01:13:13] en peligro su actividad comercial. Él
+[01:13:15] tenía una heladería. Eh, no había
+[01:13:17] llegado el corte todavía. Vemos como acá
+[01:13:19] el amparo se utiliza de una manera
+[01:13:20] quizás preventiva. La justicia consideró
+[01:13:23] que el amparo no era admisible.
+[01:13:27] Eh, para resolver el fondo era necesario
+[01:13:29] determinar si había existido una
+[01:13:30] irregularidad en el medor, si el acta
+[01:13:32] era válida y la estimación del consumo
+[01:13:33] era razonable, lo cual eran cuestiones
+[01:13:35] que exigían mayor debate, mayor
+[01:13:36] discusión y prueba que la propia quedado
+[01:13:38] una acción de amparo. Sin embargo,
+[01:13:40] reconduce la acción a una pretensión y a
+[01:13:42] su vez, esto es importante, concede una
+[01:13:45] medida cautelar, una medida de no
+[01:13:47] innovar para mantener el suministro
+[01:13:49] mientras se sustancia el proceso.
+[01:13:51] Generalmente en el marco de de las
+[01:13:54] acciones de amparo, sobre todo
+[01:13:56] cautelares vinculadas al servicio
+[01:13:57] energético, las medidas cautelares son
+[01:13:59] medidas innovativas o medidas de no
+[01:14:02] innovar. no innovar es que no se cambie
+[01:14:03] la situación, que se mantenga el estatus
+[01:14:06] cuo y la medida innovativa lo que busca
+[01:14:08] sí es modificar una innovación, una
+[01:14:09] modificación, por ejemplo, que se
+[01:14:11] reconecte el servicio de energía, que se
+[01:14:13] me preste un un eh un artefacto de de
+[01:14:16] energía alternativo. Bueno, esas son
+[01:14:18] medidas innovativas, más que nada a modo
+[01:14:21] ejemplificativo.
+[01:14:24] que este es el jugado contencioso de
+[01:14:27] Bahía Blanca para no restringir la la
+[01:14:30] jurisprudencia a la jurisprudencia local
+[01:14:33] de donde estoy yo. En este caso se había
+[01:14:37] cuestionado una factura complementaria,
+[01:14:38] existía una amenaza de suspensión y el
+[01:14:42] actor había solicitado que la
+[01:14:43] distribuidora se abstuviera de cortar el
+[01:14:45] suministro mientras se resolvía la
+[01:14:46] pretensión principal. El tribunal
+[01:14:48] considió que el peligro la demora era
+[01:14:50] particularmente intenso porque se
+[01:14:51] trataba de un servicio indispensable.
+[01:14:53] Como sabemos, [música] la verosimilitud
+[01:14:55] no consistía en afirmar que la que la
+[01:14:57] factura fuera definitivamente inválida,
+[01:14:59] sino consistía en reconocer que el
+[01:15:01] usuario sí tenía derecho a discutirla
+[01:15:03] judicialmente sin que el proceso pudiera
+[01:15:05] eh perdier utilidad y y por eh por ende
+[01:15:09] que se sin que se le cortara la luz y a
+[01:15:11] no advertitirse una grave afectación del
+[01:15:13] interés público, se ordenó a Edes
+[01:15:15] abstenerse de suspender el suministro.
+[01:15:18] La medida fue concedida previa fianza
+[01:15:20] personal. Ahí vemos cómo se utiliza la
+[01:15:22] contracautela personal como instrumento
+[01:15:25] de garantía de los daños que se pudieran
+[01:15:27] ocasionar por la medida cautelar
+[01:15:28] solicitada y la decisión, en definitiva,
+[01:15:30] no perdonó la deuda ni declaró
+[01:15:32] incorrecta la facturación, sino
+[01:15:34] simplemente mantuvo el servicio mientras
+[01:15:35] se resolvía y se discutía el conflicto.
+[01:15:41] Eh,
+[01:15:46] acá hay otro caso de juzgado contencioso
+[01:15:48] también administrativo de Vella Blanca y
+[01:15:49] barra contra Edén. contra Edes Edesa,
+[01:15:54] la distribuidora K había emitido una
+[01:15:55] factura complementaria y la usuaria
+[01:15:57] había impugnado también esa factura por
+[01:15:59] escrito y el reclamo no había recibido
+[01:16:01] respuesta. Bueno, acá también el actor
+[01:16:03] ha solicitado una medida cautelar
+[01:16:05] innovativa para obtener la reconexión.
+[01:16:06] ¿Y qué dice el tribunal?
+[01:16:08] [música]
+[01:16:08] está acreditada la verosimbilitud porque
+[01:16:09] existía una impugnación concreta y clara
+[01:16:12] y existía una falta de respuesta a la
+[01:16:14] empresa, por lo cual mantuvo eh sostuvo
+[01:16:16] que está configurado el peligro porque
+[01:16:18] el corte ya se había producido y la
+[01:16:20] situación tendía a grabarse con el paso
+[01:16:21] del tiempo y se ordenó a Edestablecer
+[01:16:25] inmediatamente el servicio y abstenerse
+[01:16:26] interrumpirlo hasta el dictado
+[01:16:28] definitivo de la sentencia.
+[01:16:31] Eh, bueno, este de Bahía Blanca,
+[01:16:35] bueno, este el de Bahía Blanca, el
+[01:16:38] último que me de la Cámara, apelación de
+[01:16:41] Concesión administrativa de Mar de
+[01:16:42] Plata, pero el caso es un suministro que
+[01:16:44] se da eh en Bahía Blanca en el causa
+[01:16:47] causa de hermosilla con Ededes. El actor
+[01:16:50] acaba solicitado la reconexión inmediata
+[01:16:51] del suministro en un local comercial.
+[01:16:54] El tribunal reconoció que podía existir
+[01:16:56] peligro la demora porque la electricidad
+[01:16:58] era indispensable para el funcionamiento
+[01:16:59] del establecimiento. Sin embargo, ¿qué
+[01:17:01] pasa acá? Rechaza la medida. ¿Por qué?
+[01:17:03] Porque no está acreditada la
+[01:17:04] velocimilitud. La controversia se
+[01:17:06] relacionaba con diversas facturas
+[01:17:08] complementarias, actuación
+[01:17:09] administrativa, pero el actor al
+[01:17:11] plantear el amparo no había producido ni
+[01:17:13] había reclamado, ni había argumentado de
+[01:17:16] una manera clara y sencilla de qué
+[01:17:18] manera eh la conducta de esa eh de la
+[01:17:22] empresa al emitir esa factura
+[01:17:23] complementaria había sido arbitraria,
+[01:17:25] había sido legítima. La urgencia vemos
+[01:17:27] que por sí sola no es suficiente eh para
+[01:17:31] otorgar una medida cautelar y si no se
+[01:17:34] se requiere, sí, ciertamente, un mínimo
+[01:17:36] grado de probabilidad cierta de que el
+[01:17:37] derecho impedía eh o afectaba un derecho
+[01:17:43] constitucional a un derecho grave.
+[01:17:44] Entonces vemos como en estos casos
+[01:17:47] concretos se implementa la acción de
+[01:17:49] amparo correlativamente en algunos casos
+[01:17:51] con alguna medida cautelar, en otros
+[01:17:53] cómo se reconduce el proceso hacia
+[01:17:55] trámites contenciosos administrativos,
+[01:17:59] pero más que nada era para para reflejar
+[01:18:02] cómo cómo la justicia eh aborda esta
+[01:18:05] temática de de las interrupciones del
+[01:18:07] servicio energético y cuál es el
+[01:18:09] instrumento que se utiliza a nivel
+[01:18:11] jurisdiccional ante situaciones tan
+[01:18:13] graves o tan particulares. para para una
+[01:18:16] persona como es la interrupción del
+[01:18:17] servicio de energía en su casa. Vamos
+[01:18:19] ahora a hablar
+[01:18:21] de lo que es, a ver si me pasa
+[01:18:27] la mora del usuario.
+[01:18:30] Bueno,
+[01:18:32] después de esto de la morada vamos a
+[01:18:33] hacer una una interrupción, así seguimos
+[01:18:35] con no los no los agoto, que ya me
+[01:18:39] imagino que los debo estar agotando.
+[01:18:41] Bueno, esto lo vamos a a dar bastante
+[01:18:43] rápido, así que no se aflijan, no se
+[01:18:45] preocupen todavía anticipadamente el
+[01:18:47] artículo 77 de la Ley 11769
+[01:18:51] establece que la falta de energía de
+[01:18:53] pago del suministro de energía por parte
+[01:18:55] de los usuarios habilita al acreedor a
+[01:18:58] proceder a la interrupción y a la
+[01:19:00] desconexión de dicho suministro de
+[01:19:01] energía. Es decir, esa interrupción o o
+[01:19:05] desconexión no exime al concesionario de
+[01:19:07] la obligatoriedad que respecto de las
+[01:19:08] prestaciones eh de suministro estipule
+[01:19:11] el contrato de concesión y especialmente
+[01:19:13] lo que hace el mantenimiento, sobre todo
+[01:19:14] los casos de servicios esenciales.
+[01:19:16] Bueno, ya lo vimos en en lo relacionado
+[01:19:18] con los electrodependientes.
+[01:19:21] Eh,
+[01:19:23] para la percepción de estos importes
+[01:19:26] adeudados por las personas que que deben
+[01:19:28] las facturas, bueno, se se implementan
+[01:19:30] determinados procedimientos. En el caso
+[01:19:31] es un procedimiento ejecutivo que se la
+[01:19:34] da la posibilidad a un título hábil que
+[01:19:37] se emite con una constancia que se hace
+[01:19:39] a través de un procedimiento que lo
+[01:19:40] vamos a ver más adelante, que es el que
+[01:19:42] se realiza a través de los SEGBA, que es
+[01:19:45] quien conforma la deuda y permite la la
+[01:19:48] instrumentación de la misma a través de
+[01:19:50] un de un título ejecutivo.
+[01:19:53] El subanexo e del reglamento de
+[01:19:55] suministro
+[01:19:57] nos indica los derechos del distribuidor
+[01:20:00] frente a la facturas impagas. En caso de
+[01:20:03] no abonarse una factura eh a la fecha de
+[01:20:07] su vencimiento, la misma entra en mora.
+[01:20:09] Es decir, la mora se la mora de la
+[01:20:12] deuda, es decir, los intereses y los
+[01:20:14] accesorios y la incumplimiento, se
+[01:20:16] plasma automáticamente con el
+[01:20:17] vencimiento del periodo que dice la
+[01:20:19] factura.
+[01:20:21] Y transcurrido 15 días de esa mora, el
+[01:20:23] distribuidor se encuentra facultado,
+[01:20:25] tiene la prerrogativa para disponer la
+[01:20:28] suspensión de servicio de energía
+[01:20:29] eléctrica del deudor moroso, previa
+[01:20:32] comunicación feaciente con lo menos de
+[01:20:33] 48 horas de anticipación a ese a ese
+[01:20:36] corte o esa interrupción de suspensión
+[01:20:39] del suministro.
+[01:20:41] ¿Qué implica la suspensión de
+[01:20:42] suministro? La desconexión del usuario
+[01:20:44] de la red de distribución sin el retiro
+[01:20:46] del medidor ni de la instalación de
+[01:20:48] conexión.
+[01:20:51] Vemos que para el supuesto de servicios
+[01:20:52] esenciales, aquellos que se caracterizan
+[01:20:54] por su alto impacto social deberá
+[01:20:55] aplicarse, recuerden, la metodología
+[01:20:57] esta del servicio de mantenimiento de
+[01:20:59] las audiencias de conciliación.
+[01:21:03] ¿Cuándo puede suspender el servicio?
+[01:21:05] Bueno, por la falta de pago de una
+[01:21:06] factura, dijimos, puede estar la
+[01:21:09] posibilidad de que el usuario [música]
+[01:21:11] eh plantee la disconformidad con la
+[01:21:13] factura. En este caso no podrá
+[01:21:14] suspenderse el servicio si tu lugar
+[01:21:16] reclama contra la factura y paga una
+[01:21:18] cantidad equivalente al último consumo
+[01:21:20] facturado por el periodo igual al tiempo
+[01:21:22] que es objeto de la factura en este
+[01:21:24] caso. Después, mientras se realizan los
+[01:21:26] procedimientos tendientes a elucidar el
+[01:21:28] monto concreto y de verificarse que
+[01:21:30] efectivamente estaba bien liquidada esa
+[01:21:32] factura, bueno, se se liquidará el saldo
+[01:21:34] impago con los intereses que y las
+[01:21:36] multas que correspondan
+[01:21:39] por falta de pago de la factura
+[01:21:40] complementaria, por recuperación de de
+[01:21:42] demandas y o consumo no registrados.
+[01:21:45] En caso de incumplimiento por de lo
+[01:21:48] establecido para el uso de potencia y
+[01:21:51] suministro de terceros, cuando hablamos
+[01:21:52] de uso de potencia, la suspensión solo
+[01:21:54] será efec efectivizada si el
+[01:21:56] incumplimiento pusiera en riesgo la
+[01:21:58] seguridad de las instalaciones del
+[01:21:59] distribuidor y previa intimación
+[01:22:01] feaciente a la normalización de esa
+[01:22:03] anomalía al usuario.
+[01:22:06] de los casos previstos en el artículo 5
+[01:22:08] inciso D, que cuando se comprueban
+[01:22:10] hechos que hagan presumir alteraciones
+[01:22:12] intencionales de la medición o consumo
+[01:22:14] de energía eléctrica eh o en caso de
+[01:22:17] conexiones directas de red a
+[01:22:19] distribución o aprobación indebida de
+[01:22:20] energía, cuando por suen casos de de
+[01:22:24] riesgo inseguridad a la vía pública por
+[01:22:26] incumplimiento en el acceso de los
+[01:22:28] medidores y en los casos de comprobarse
+[01:22:31] conexión de equipos de autogeneración de
+[01:22:33] energía y y o energía alternativa no
+[01:22:36] declar aclarados eh por el usuario.
+[01:22:40] Los cortes del suministro. El corte eh
+[01:22:43] se produce 15 días después eh de
+[01:22:46] suspendido suministro. Se produce la el
+[01:22:49] retiro de la conexión domiciliaria y del
+[01:22:51] medidor y equipo de de medición.
+[01:22:55] podrá procederse al corte en dos
+[01:22:56] situaciones, cuando no se da
+[01:22:57] cumplimiento también a lo establecido en
+[01:22:59] el cambio de titularidad del reglamento
+[01:23:01] de concesión y cuando habiéndose
+[01:23:03] suspendido el respectivo servicio, se
+[01:23:05] comprueba que el titular reconectó al
+[01:23:07] mismo a través del equipo de medición
+[01:23:08] como en forma directa a la
+[01:23:10] redistribución, alterando
+[01:23:11] intencionalmente la medición o consumo
+[01:23:13] de energía eléctrica no registrada.
+[01:23:15] decir los casos mismos casos que
+[01:23:16] habíamos visto del del el artículo 5
+[01:23:20] inciso D su anexo
+[01:23:24] para rehabilitar el suministro eh se
+[01:23:27] debe rehabilitar 48 horas corridas de
+[01:23:29] abonad las sumas adeudadas y de abonada
+[01:23:32] la tasa de rehabilitación que es una
+[01:23:34] tasa que se dispone por por haberse
+[01:23:35] suspendido en los casos de corte de
+[01:23:38] suministro los efectos de la
+[01:23:39] rehabilitación además de del plazo y la
+[01:23:42] tasa correspondiente a una conexión
+[01:23:43] nueva
+[01:23:45] debe, además del plazo, se aplicará la
+[01:23:47] tasa, pero no la tasa de de
+[01:23:49] rehabilitación, sino la tasa que
+[01:23:51] corresponde aplicar para una conexión
+[01:23:53] nueva según la categoría tarifaria en la
+[01:23:55] que se encuentra el suministro, de
+[01:23:56] acuerdo a los valores establecidos en el
+[01:23:58] cuadro tarifario respectivo.
+[01:24:01] La MOR en los intereses. Dijimos que el
+[01:24:04] titular de suministro incurre mora por
+[01:24:05] el sobreventimiento del plazo en cuanto
+[01:24:07] a los intereses que se establecen en el
+[01:24:09] artículo 11, eh, son los de la tasa
+[01:24:13] anual vencida vigente en el Banco de la
+[01:24:15] Nación Argentina para sus operaciones de
+[01:24:16] cuento, documento, que es la famosa eh
+[01:24:19] tasa activa, llamada tasa activa, eh o
+[01:24:23] la tasa de interés que establezca el
+[01:24:24] organismo control, que está tiene la
+[01:24:26] facultad de establecer una o fijar una
+[01:24:28] tasa distinta.
+[01:24:30] Se exige también o está la posibilidad
+[01:24:32] de que los distribuidoras tengan la
+[01:24:35] facultad o la prerrogativa de exigir un
+[01:24:38] depósito en garantía eh ante situaciones
+[01:24:42] particulares, por ejemplo, aquellos
+[01:24:44] usuarios que tienen antecedentes de
+[01:24:46] moras o que hayan sufrido más de una
+[01:24:47] suspensión de un suministro o que hagan
+[01:24:50] presumiblemente eh eh eh o que hagan
+[01:24:54] presumir una dificultad que puedan tener
+[01:24:57] eh para cobrarse los consumos. ya sea
+[01:25:00] porque se trate, no sé, de un titular
+[01:25:01] que no es propietario, porque es un
+[01:25:03] titular precario, o los casos de ferias,
+[01:25:06] de circos que son eh tan transitorias
+[01:25:09] que puedan poner en riesgo la
+[01:25:10] cobrabilidad.
+[01:25:12] Y este depósito en garantía no podrá ser
+[01:25:15] exigible a los usuarios que son
+[01:25:17] beneficiarios de tarifa social, a los
+[01:25:19] usuarios electrodependientes o aquellos
+[01:25:21] casos que lo determine específicamente
+[01:25:23] el organismo de control. Este depósito
+[01:25:25] de garantía es el equivalente al consumo
+[01:25:28] registrado en idéntico periodo de
+[01:25:29] facturación del año anterior a su
+[01:25:31] constitución. Bueno, hay unas
+[01:25:33] características más de del depósito que
+[01:25:35] las vamos a a saltar.
+[01:25:41] Eh, concursos y servicios públicos.
+[01:25:44] Bueno, cuando
+[01:25:47] eh ¿qué pasa con las deudas que previas
+[01:25:51] a a una presentación en concurso? Vamos
+[01:25:54] a pensar que yo tengo un usuario que es
+[01:25:56] deudor eh de una factura, eh no le he
+[01:26:00] cortado el suministro y y seguidamente
+[01:26:03] se presenta en concurso. Bueno, la ley
+[01:26:06] establece que los servicios públicos no
+[01:26:08] pueden ser suspendidos por deudas cuyo
+[01:26:10] origen sea de fecha anterior a la
+[01:26:12] apertura del concurso del deudor.
+[01:26:16] En cambio, respecto de las deudas
+[01:26:18] posteriores, los servicios prestados
+[01:26:22] con posterioridad
+[01:26:24] a la apertura del concurso sí deben
+[01:26:26] pagarse a sus respectivos vencimientos.
+[01:26:28] Si el usuario incumple con estos nuevos
+[01:26:30] pagos, la distribuidora sí puede
+[01:26:32] proceder con la suspensión de servicio y
+[01:26:34] en caso de quiebra gozan de un
+[01:26:36] privilegio especial que es el
+[01:26:37] establecido por el artículo 240 de la
+[01:26:40] Ley de Concursos y Quiebras.
+[01:26:43] Las constancias de deudas, bueno, los
+[01:26:45] procedimientos de certificación de
+[01:26:47] deudas dijimos que tienen una vía
+[01:26:48] ejecutiva. El Oceva lo reglamentó a
+[01:26:51] través de la resolución 61406.
+[01:26:53] [carraspeo]
+[01:26:54] Antes el procedimiento era mucho más
+[01:26:55] complejo porque se requería que los
+[01:26:58] formularios estuvieran intervenidos por
+[01:27:00] un contador público. Esto el
+[01:27:01] procedimiento nuevo lo facilita. Eh, si
+[01:27:04] bien lo que hace OSEA eh da el
+[01:27:09] instrumento para que ese título sea
+[01:27:10] ejecutivo, OSEA no realiza auditorías
+[01:27:13] como para verificar si los montos de las
+[01:27:15] deudas son exactos, por lo cual eh
+[01:27:19] lo único que controla son los requisitos
+[01:27:21] intrínsecos y extrínsecos de de ese de
+[01:27:23] ese elemento que le le arrima el
+[01:27:26] distribuidor a través de sus
+[01:27:27] representantes legales. Y la veracedad
+[01:27:30] material, la veracidad material de la
+[01:27:32] deuda sigue siendo responsabilidad
+[01:27:33] exclusiva, obviamente, de los
+[01:27:34] distribuidores. Se generan, a través de
+[01:27:37] esta resolución eh 61406 nuevos
+[01:27:40] formularios, un anexo uno que son para
+[01:27:42] los eh deudas derivadas del consumo
+[01:27:45] normal y habitual de los usuarios, un
+[01:27:46] anexo dos que son para las ventas de
+[01:27:48] energía con los propios agentes del del
+[01:27:50] mercado eléctrico y un anexo 3 que está
+[01:27:52] relacionado con las facturaciones
+[01:27:54] extraordinarias como por ejemplo el
+[01:27:55] recupero de energía. También se
+[01:27:57] implementa un registro de representantes
+[01:28:00] para para evitar demoras, comprobando
+[01:28:02] quién está autorizado a firmar con cada
+[01:28:04] solicitud. Se crea un registro de
+[01:28:06] representantes de conformada y las
+[01:28:07] empresas son las que deben inscribir
+[01:28:09] allí a los representantes legados
+[01:28:11] legales facultados para firmar esos
+[01:28:13] certificados que son después eh avalados
+[01:28:15] por la OCEVA para poder instrumentar el
+[01:28:18] título ejecutivo, que es un
+[01:28:19] procedimiento mucho más sencillo para
+[01:28:21] poder cobrar o recuperar ese monto
+[01:28:24] adeudado por el deudor moroso y que
+[01:28:26] permite darle al título la la habilidad
+[01:28:30] eh similar de cualquier otro otro papel
+[01:28:33] de crédito ejecutivo como es es un
+[01:28:34] pagaré como es un cheque. Esa es la la
+[01:28:38] habilidad que le otorga al conformarse
+[01:28:40] la duda como título ejecutivo. Después
+[01:28:42] vienen algunos fallos que que los vamos
+[01:28:44] a a sortear para no extender demasiado
+[01:28:46] para con el corte que ya estamos ya en
+[01:28:48] una hora y 40 y
+[01:28:51] no sé si les parece hacemos un cortecito
+[01:28:53] de 10 minutos, 15 minutos o mecas y
+[01:28:57] cuando volvemos.
+[01:28:58] Vale, en 10 minutos volvemos.
+[01:29:14] Bueno, vamos a hablar un poquito ahora
+[01:29:17] de lo que es la energía y el medio
+[01:29:19] ambiente. La la preocupaciónmente por la
+[01:29:22] cuestión energética se instala por un
+[01:29:24] lado tomando conciencia de que la
+[01:29:27] explotación de los recursos energéticos
+[01:29:29] tienen un límite. Y por el otro lado,
+[01:29:32] comprendiendo
+[01:29:33] que el ambiente está en riesgo frente al
+[01:29:35] consumo descontrolado de los recursos,
+[01:29:37] los recursos fósiles. En este caso es
+[01:29:40] cierto que los países requieren tanto
+[01:29:42] para su crecimiento demográfico como
+[01:29:44] para su desarrollo socioeconómico de
+[01:29:46] cantidades crecientes de energía, pero
+[01:29:47] también es cierto que el ambiente no
+[01:29:49] permanece imperturbable ante la
+[01:29:51] explotación intensiva de los recursos
+[01:29:54] energéticos.
+[01:29:56] Ya no solo no es válido que los
+[01:29:58] gobiernos se preocupen solo por disponer
+[01:29:59] de energía abundante, barata y segura,
+[01:30:02] sino que también se exige se la
+[01:30:04] actualidad o se demanda que se preserve
+[01:30:06] también el ambiente.
+[01:30:09] Los recursos, toda explotación de
+[01:30:11] recursos naturales, sean o no renovables
+[01:30:13] renovables, tienen eh su efecto sobre el
+[01:30:16] ambiente y en particular en la
+[01:30:18] producción la producción masiva de
+[01:30:20] energía. La mayoría de las personas nos
+[01:30:22] acostumbramos a analizar o a ver sobre
+[01:30:24] el resultado o el impacto final de la
+[01:30:26] producción de energía y olvidamos la
+[01:30:27] cadena de recursos necesarios y acciones
+[01:30:29] que se deben realizar para alcanzar eh
+[01:30:31] toda producción energética. Bueno,
+[01:30:33] nosotros tenemos regulaciones dentro del
+[01:30:36] marco legal provincial y como también
+[01:30:40] del contrato de suministro que y del
+[01:30:43] decreto reglamentario de la norma
+[01:30:45] provincial que se vinculan justamente
+[01:30:47] con esta medidas tuitivas o protectorias
+[01:30:49] del medio ambiente. Entre ellas tenemos
+[01:30:51] el artículo 16 de la Ley 11769,
+[01:30:55] que establece que la reglamentación de
+[01:30:57] esa norma indicará a los agentes
+[01:31:01] de la actividad eléctrica cómo deberán
+[01:31:03] sujetarse a las a la a lo referente a la
+[01:31:07] protección y tutela de medio ambiente y
+[01:31:10] también dispone que el incumplimiento
+[01:31:12] generará sanciones que serán aquellas
+[01:31:14] que provengan de la ley nacional, de los
+[01:31:16] contratos de concesión o de la
+[01:31:17] legislación general.
+[01:31:19] El decreto reglamentario, que es el
+[01:31:21] decreto 2479
+[01:31:23] del 2004
+[01:31:25] establece que la infraestructura física,
+[01:31:27] las instalaciones, la operación de los
+[01:31:29] equipos asociados con la generación, la
+[01:31:31] distribución y el transporte deberán
+[01:31:33] adecuarse a las medidas destinadas a la
+[01:31:35] protección de las cuencas hídricas y de
+[01:31:37] los ecosistemas involucrados, debiendo
+[01:31:39] responder además a los estándares de
+[01:31:41] emisión de contaminantes vigentes o que
+[01:31:43] se establezcan en el futuro en el orden
+[01:31:45] nacional o en el orden provincial. La
+[01:31:48] autoridad de aplicación es el órgano
+[01:31:49] competente en materia eh relativa a la
+[01:31:52] energía eléctrica y determinar las
+[01:31:53] normas a la cual deben sujetarse tanto
+[01:31:55] los generadores, los distribuidores como
+[01:31:57] los usuarios de la energía eléctrica.
+[01:32:03] El ente el Enre a nivel federal y el
+[01:32:06] Ministerio de Infraestructura eh de
+[01:32:08] servicios públicos a nivel provincial
+[01:32:11] son los organismos, en definitiva,
+[01:32:12] facultados para velar por la protección
+[01:32:14] ambiental y dictar las normas a las
+[01:32:16] cuales deben sujetarse los generadores y
+[01:32:18] distribuidores y transportes,
+[01:32:20] transportistas y usuarios del servicio
+[01:32:21] eléctrico. La energía eléctrica se
+[01:32:24] considera una energía limpia para el
+[01:32:26] consumidor final.
+[01:32:28] Las actividades propias, aunque las
+[01:32:30] actividades eh propias de esta industria
+[01:32:32] suponen riesgos ambientales
+[01:32:34] significativos. Vamos a ver cuáles son
+[01:32:36] los puntos eh o los puntos de riesgo
+[01:32:39] según cada una de las de los de las
+[01:32:42] etapas eh que forman parte de la gestión
+[01:32:44] de la energía. En cuanto a la
+[01:32:46] generación, podos decir que los niveles
+[01:32:48] de contaminación dependen de las
+[01:32:50] materias primas utilizadas. El uso de
+[01:32:53] carbón o derivados del petróleo
+[01:32:55] conllevan a altos niveles de emisión de
+[01:32:57] contaminantes como son los gases y los
+[01:32:59] residuos tóxicos. Y si bien el uso del
+[01:33:02] gas natural y de tecnologías renovables
+[01:33:04] como la hidroeléctrica, eólica y solar
+[01:33:06] reducen drásticamente las emisiones, las
+[01:33:09] empresas igual deben responder por otros
+[01:33:11] impactos, como son la alteración del del
+[01:33:14] hábitat para la inundación de las
+[01:33:16] tierras a los casos de represa,
+[01:33:17] [carraspeo]
+[01:33:18] la migración de las poblaciones, la
+[01:33:20] alteración de la flora y la flauna en
+[01:33:22] los casos de de energía hidroeléctrica,
+[01:33:26] la contaminación visual que el riesgo
+[01:33:28] por las aves eh migratorias se las que
+[01:33:31] se trata de las granjas ególicas, que
+[01:33:33] todavía no tenemos muchas acá de la
+[01:33:34] Argentina, el impacto ambiental asociado
+[01:33:37] en la minería de silicio y con la
+[01:33:39] fabricación de los paneles solares en el
+[01:33:41] caso de la energía solar, la generación
+[01:33:43] de residuos de radioactivos para los
+[01:33:45] supuestos de de energía nuclear. Bueno,
+[01:33:48] eso es lo relativo a la generación
+[01:33:51] vinculado con el transporte. Al tener
+[01:33:53] que tenderse líneas a través de grandes
+[01:33:56] distancias, las empresas deben enfrentar
+[01:33:58] la necesidad de tal larga grandes
+[01:34:00] cantidades de de árboles, mantener zonas
+[01:34:02] de seguridad que eviten averías y
+[01:34:04] también son responsables de generar,
+[01:34:06] obviamente, la contaminación, de
+[01:34:08] gestionar la contaminación visual, la
+[01:34:10] contaminación auditiva y los posibles
+[01:34:12] riesgos para la salud que puede generar
+[01:34:14] eh la creación de campos
+[01:34:17] electromagnéticos justamente por estas
+[01:34:18] líneas de alta tensión.
+[01:34:21] En lo que concierne concretamente a la
+[01:34:23] distribución, las responsabilidades de
+[01:34:25] las distribuidoras se encuentran en la
+[01:34:27] mitigación de la contaminación visual,
+[01:34:29] la prevención de la de la
+[01:34:31] electrocopulsión o la colisión de aves
+[01:34:34] con los cables y el mane manejo
+[01:34:35] cuidadoso de los productos químicos. Se
+[01:34:38] destaca especialmente la obligación
+[01:34:39] impuesta a las empresas para relevar y
+[01:34:41] eliminar sustancias altamente tóxicas
+[01:34:43] como son eh el PCB, que es algo que ya
+[01:34:46] estamos tratando de de de desterrarlo
+[01:34:49] totalmente por obviamente las es uno de
+[01:34:51] los contaminantes más altos del mundo. Y
+[01:34:55] y bueno, ante este panorama de de de
+[01:34:59] gravedad o de o de riesgos que se corren
+[01:35:02] en las distintas etapas, cuáles son eh o
+[01:35:06] qué posibles soluciones o acciones se
+[01:35:08] pueden realizar en función de de estos
+[01:35:11] de estos riesgos para evitar o reducir
+[01:35:13] el impacto ambiental a la producción de
+[01:35:15] energía, como por ejemplo liberar eh
+[01:35:18] menos dióxido de carbono a la atmósfera
+[01:35:19] por cada kilowtio. Así se hace cuando se
+[01:35:22] utilizan los vehículos con motores de
+[01:35:24] combustión interna de última generación
+[01:35:26] o cuando se utilizan vehículos híbridos
+[01:35:28] que reducen las emisiones eh al utilizar
+[01:35:31] el motor eléctrico. Las eh
+[01:35:34] las centrales de gasificación, ya sea de
+[01:35:36] carbono o de derivados pesados del
+[01:35:38] petróleo, evitan la emisión a la
+[01:35:39] atmósfera de sustancias como mercurio.
+[01:35:42] diversificar la matriz energética
+[01:35:44] incorporando más fuentes de energía
+[01:35:45] renovables, lo que incluye también el
+[01:35:47] uso de combustibles no fósiles como son
+[01:35:49] el el bioetanol o el biodiesésel
+[01:35:52] optimizando el uso del recurso hídrico,
+[01:35:53] del recurso eólico,
+[01:35:56] ahorrar energía y mejor eficiencia en la
+[01:35:58] en el uso energético,
+[01:36:01] que siempre vemos que que existen
+[01:36:03] campañas de las distribuidoras en tal
+[01:36:05] sentido. Sabemos que los consumos tienen
+[01:36:07] grandes componentes que son el
+[01:36:08] domiciliario, el público, el industrial,
+[01:36:11] el agropecuario, el comercial que abarca
+[01:36:13] también el transporte y los dos primeros
+[01:36:16] eh tienen pautas sociales de consumo que
+[01:36:18] sí se cambian, como son, por ejemplo,
+[01:36:20] materiales, construcciones para la
+[01:36:22] vivienda, cómo usar los
+[01:36:23] electrodomésticos adecuadamente, los
+[01:36:25] artefactos de gas, sistemas eléctricos,
+[01:36:27] climatización del hogar, también para
+[01:36:29] reducir el consumo energético con el
+[01:36:31] tema del alumbrado, la sustitución por
+[01:36:32] las luces LED que se están haciendo en
+[01:36:34] muchas ciudades, como se hizo hizo en la
+[01:36:36] localidad acá de de San Nicolás, donde
+[01:36:38] yo yo estoy viviendo, los semáforos,
+[01:36:40] LED, estas acciones que eh realizadas
+[01:36:44] sin coordinación, aisladas o solo por
+[01:36:46] algunos individuos, sabemos que no
+[01:36:48] tienen un efecto importante, pero si son
+[01:36:50] de gran importancia cuando se adoptan
+[01:36:52] por por una sociedad o por grandes
+[01:36:54] poblaciones. El ejemplo siempre que
+[01:36:57] trato de citar en este en este en esta
+[01:36:59] materia es el ejemplo de Japón, que es
+[01:37:01] un país que prácticamente no posee
+[01:37:03] recursos energéticos propios de
+[01:37:05] importancia, carece de reservas fósiles,
+[01:37:08] por ejemplo, y con un alto producto
+[01:37:10] bruto interno es uno de los países
+[01:37:12] industrializados que consume menos
+[01:37:13] energía. Quizá una una anomalía, una una
+[01:37:17] irregularidad de las estadísticas eh en
+[01:37:20] lo que hace a Japón. Bueno, los
+[01:37:21] contratos de concesión son estrictos en
+[01:37:24] materia ecológica y establecen la
+[01:37:26] obligación explícita de adecuar su
+[01:37:29] accionar para preservar y mejorar los
+[01:37:30] ecosistemas, cumpliendo con todas las
+[01:37:32] normas ambientales y en tal sentido
+[01:37:34] imponen serias multas en caso de que se
+[01:37:36] produzca una contaminación ambiental.
+[01:37:39] el subanexo D contrato de concesión
+[01:37:42] provincial en su artículo 7 inciso 7 y
+[01:37:45] al referirse a la contaminación
+[01:37:47] ambiental dice que el incumplimiento de
+[01:37:49] lo establecido en el marco regulatorio
+[01:37:51] faculta al organismo de control a
+[01:37:54] aplicar una sanción.
+[01:37:56] Esas sanciones son abonadas al organismo
+[01:37:59] de control que las destinará a
+[01:38:00] fortalecer la prestación del servicio
+[01:38:02] público de energía,
+[01:38:04] servicio público de distribución de
+[01:38:06] energía eléctrica.
+[01:38:09] ¿Cómo se determina o cómo se gradúan
+[01:38:11] estas sanciones? Bueno, se tiene en
+[01:38:12] cuenta los antecedentes generales del
+[01:38:15] distribuidor, el peligro que corrió, la
+[01:38:17] vida, la salud, la flora, la fauna, eh
+[01:38:20] la magnitud del daño, la actitud
+[01:38:22] diligente o no que que tuvo el
+[01:38:23] distribuidor al morigerar el daño, las
+[01:38:25] acciones o omisiones, así como el
+[01:38:27] beneficio que obtuvo de de de la
+[01:38:30] situación que generó, la intencionalidad
+[01:38:33] o no de la comisión de la falta, la
+[01:38:34] reiterancia en sanciones similares que
+[01:38:36] hubiera tenido a ella. Eh, y bueno, en
+[01:38:40] base a esos elementos se gradúa la
+[01:38:41] sanción que va a imponer el organismo al
+[01:38:44] a a la empresa distribuidora que cometa
+[01:38:47] esa afectación del medio ambiente, que
+[01:38:49] siempre hay que tener en cuenta eh eh la
+[01:38:51] prevención más que el arribo tardío
+[01:38:54] cuando el daño ya está provocando.
+[01:38:56] Pasamos ahora a lo que es
+[01:39:01] las tasas o las tarifas eh públicas y la
+[01:39:04] judicialización de las tarifas públicas.
+[01:39:09] Eh, si en términos en términos
+[01:39:10] conceptuales la tarifa es el precio que
+[01:39:12] debe pagar el usuario por el servicio
+[01:39:14] prestado. Eh, siempre hay cuestiones
+[01:39:17] controversiales si es de carácter
+[01:39:18] reglamentario, si es de carácter
+[01:39:20] contractual, pero lo cierto es que el
+[01:39:22] Estado es el que puede fijar y puede
+[01:39:24] modificar el precio de las tarifas. Eh,
+[01:39:28] vemos que es un proceso generalmente,
+[01:39:30] pero bueno, es el estado el que termina
+[01:39:31] fijándolas. En definitiva, siempre en el
+[01:39:35] derecho administrativo se le distingue
+[01:39:36] de las tasas, que las tasas eh son por
+[01:39:39] servicios prestados en condiciones de
+[01:39:41] obligatoriedad y exclusividad y que los
+[01:39:42] hace el propio Estado. En cambio, las eh
+[01:39:45] los servicios que no son no tienen esas
+[01:39:47] características y en donde se le se los
+[01:39:49] presta un tercero, se habla de tarifa
+[01:39:51] porque la tarifa generalmente incluye un
+[01:39:53] beneficio, incluye un lucro eh y es el
+[01:39:56] precio del servicio la tarifa. Entonces,
+[01:39:59] que eh se establece regulado por el
+[01:40:02] Estado y no simplemente es el que fija
+[01:40:04] el mercado, sobre todo cuando se da
+[01:40:06] situaciones de de monopolio en cuyo
+[01:40:08] contexto no existe una competitividad ni
+[01:40:11] libre intercambio de estos por los
+[01:40:13] participantes de de la prestación del
+[01:40:15] servicio.
+[01:40:20] La Corte Nacional siempre, bueno, le ha
+[01:40:23] preocupado este tema de las tarifas y y
+[01:40:25] ha tenido también
+[01:40:28] un rol trascendente para interpretar
+[01:40:32] cuál es el rol del Estado en su
+[01:40:34] fijación, en su regulación, en su
+[01:40:36] intervención, hasta dónde puede llegar
+[01:40:38] la justicia en su contralor sobre eh ese
+[01:40:41] acto del Estado, que es un acto en
+[01:40:43] principio discrecional. Eh, ¿hasta dónde
+[01:40:46] se puede eh establecer las tarifas? Eh,
+[01:40:49] si está hay un concesionario y un
+[01:40:51] tercero que puede sufrir un perjuicio
+[01:40:54] y hasta inclusive analizar eh las
+[01:40:58] situaciones particulares cuando hay
+[01:41:01] sujetos o poblaciones vulnerables o
+[01:41:03] hasta los aumentos pueden llegar a ser
+[01:41:05] abruptos o desmedidos. Bueno, la Corte a
+[01:41:07] lo largo del tiempo, a lo largo de los
+[01:41:09] años, ha ha fijado pautas o criterios
+[01:41:12] que eh vienen al caso destacar y que
+[01:41:16] arrancan ya desde el año 1926
+[01:41:20] con el juicio Gómez con empresa
+[01:41:22] ferrocarril central Córdoba, donde
+[01:41:24] refiere al contralor y aprobación del
+[01:41:26] estado de la tarifa. ¿Qué dijo la Corte
+[01:41:28] en este supuesto que era un caso de
+[01:41:29] ferrocarriles? dice que eh consagra el
+[01:41:34] principio de la necesaria intervención
+[01:41:36] oficial en la fijación del precio para
+[01:41:37] la prestación de servicios públicos y
+[01:41:39] deja establecido que esa doctrina no se
+[01:41:41] haya impugna con disposición alguna de
+[01:41:43] las leyes que rigen en materia
+[01:41:45] ferroviaria. Las empresas no pueden
+[01:41:47] aumentar sus tarifas de modo unilateral
+[01:41:49] sin la aprobación del Estado. Si se
+[01:41:51] explota alguna concesión, privilegio
+[01:41:53] monopolio concedido para la explotación
+[01:41:55] de servicios públicos que importe un
+[01:41:56] monopolio, aún cuando solo sea virtual,
+[01:41:59] lleva implícita la condición de que sus
+[01:42:01] precios o tarifas están sometidos al
+[01:42:02] contador de la autoridad administrativa.
+[01:42:04] Vemos cómo le da relevancia a la
+[01:42:06] autoridad administrativa. En el caso eh
+[01:42:09] habla de cómo se debe conformar una
+[01:42:10] tarifa. Eh habla de la razonabilidad de
+[01:42:13] la tarifa. se origina de una proporción
+[01:42:15] entre el costo de la realización de
+[01:42:17] servicio y la cantidad y calidad de la
+[01:42:18] prestación de servicio.
+[01:42:21] En el caso Ventafrida con unión
+[01:42:22] telefónica del año 1939
+[01:42:25] vuelve sobre la prerrogativa del poder
+[01:42:27] ejecutivo. El tribunal aduce que la
+[01:42:29] fijación y revisión de las tarifas es
+[01:42:32] por ley facultad privativa del poder
+[01:42:34] ejecutivo y esta puede usarla tanto
+[01:42:36] respecto del pasado diciéndolo
+[01:42:37] expresamente como del porvenir sin que
+[01:42:40] los jueces tengan facultades para
+[01:42:42] revisarlas dejándolas sin efecto o para
+[01:42:45] modificarlas en cualquier sentido. Ya
+[01:42:47] vamos a ver después cuáles son los
+[01:42:48] límites en prerrogativa de los jueces en
+[01:42:50] el análisis de las tarifas.
+[01:42:53] Eh, otra también en igual sentido es en
+[01:42:56] la causa de 1965 de la Corte en la causa
+[01:42:59] compañía de tranas angloentina en donde
+[01:43:02] expresa que todo régimen de prestación
+[01:43:03] de servicios públicos por medio de
+[01:43:05] concesionarios las tarifas son fijadas o
+[01:43:07] aprobadas por el poder público conforme
+[01:43:09] a lo que dispone la ley o el contrato.
+[01:43:11] Eso es una atribución y no una mera
+[01:43:13] facultad del Estado, ya que la justa
+[01:43:15] retribución del patrimonio aportado por
+[01:43:17] el concesionario tiene su única fuente
+[01:43:19] en las tarifas. Si por motivos políticos
+[01:43:21] de otra índole el gobierno mantiene
+[01:43:23] tarifas inferiores al costo del
+[01:43:24] servicio, debe indemnizar. Ya empieza a
+[01:43:26] intervenir como eh debe indemnizar para
+[01:43:29] el caso particular de eh de que se
+[01:43:32] afecte a un tercero, a un concesionario.
+[01:43:36] En el caso de Prodelco contra el poder
+[01:43:38] ejecutivo, ya estamos refiriéndonos al
+[01:43:40] al límite del contralor judicial.
+[01:43:43] afirmó que si el control de legalidad
+[01:43:45] administrativa y el control de
+[01:43:47] constitucionalidad que compete a los
+[01:43:49] jueces en ejercicio del poder
+[01:43:50] jurisdiccional, no comprende la facultad
+[01:43:53] de sustituir a la administración a la
+[01:43:55] determinación de las políticas o a la
+[01:43:57] apreciación de los criterios de
+[01:43:58] oportunidad, menos aún puede aceptarse
+[01:44:01] la intervención judicial pretendida por
+[01:44:03] los demandantes, en este caso de la
+[01:44:04] Prodelco, con respecto a la fijación o
+[01:44:06] aprobación de tarifas por la prestación
+[01:44:08] de servicios y que esta se realice
+[01:44:11] desnaturalizando el límite marco el
+[01:44:12] limitado marco del amparo. Justo sea en
+[01:44:14] el marco un amparo, así que menos aún
+[01:44:17] podía la justicia intervenir en ese en
+[01:44:19] esa atribución.
+[01:44:21] En el caso de Maruba vemos como eh vemos
+[01:44:26] como el Estado puede modificar las
+[01:44:27] tarifas y cambia las circunstancias eh y
+[01:44:31] garantizando siempre una razonable
+[01:44:33] rentabilidad. ¿Qué dijo la Corte?
+[01:44:34] Resulta ilegítima la pretensión de un
+[01:44:36] régimen tarifario se mantenga inaterado
+[01:44:38] a lo largo del tiempo si las
+[01:44:40] circunstancias imponen su modificación.
+[01:44:42] ya que ello implicaría que la
+[01:44:43] administración
+[01:44:45] renunciara ilegítimamente a su
+[01:44:47] prerrogativa de control de la evolución
+[01:44:48] de los tarifas y que en particular esos
+[01:44:51] poderes estatales no se ejercen en forma
+[01:44:53] discrecional, sino sujetos a la
+[01:44:55] demostración objetiva del fundamento de
+[01:44:57] las modificaciones que se efectúan.
+[01:44:59] Es decir, según los jueces, el Estado
+[01:45:01] puede modificar las tarifas sin
+[01:45:02] perjuicio de que la tasa de retorno del
+[01:45:03] empresario debe ser en cualquier caso
+[01:45:05] razonable. ¿Y por qué dice eso? porque
+[01:45:07] agrega que aún cuando las tarifas no
+[01:45:09] constituyen un precio único inmutable
+[01:45:12] para regir durante todo el tiempo de la
+[01:45:13] concesión, el concesionario tiene
+[01:45:15] derecho a reclamar la indemnización
+[01:45:17] correspondiente en el caso de que los
+[01:45:18] nuevos precios alteren la ecuación
+[01:45:20] económica financiera de la concesión. En
+[01:45:23] el caso, para la determinación de las
+[01:45:24] tarifas, la autoridad de aplicación está
+[01:45:26] obligada a asegurar que concesionario
+[01:45:28] obtenga una razonable rentabilidad.
+[01:45:31] Bueno, esto para para las concesionarias
+[01:45:33] que están actuando ahora renegociando
+[01:45:36] tarifas para para este periodo que
+[01:45:39] viene. En el año 2012, en una causa de
+[01:45:44] Telecom contra Enena, acción declarativa
+[01:45:46] de certeza, eh también se habla de la
+[01:45:49] posibilidad de renegociación si se
+[01:45:51] cambian las circunstancias. Bueno, esto
+[01:45:53] se daba justo en el contexto de la
+[01:45:54] emergencia económica, ¿se acuerda? a la
+[01:45:55] ley 25,561
+[01:45:57] que establecía el 1 a un la emergencia
+[01:45:59] económica,
+[01:46:01] que no el 1 a un, perdón, la devaluación
+[01:46:04] eh de salir del 1 a1 que teníamos hasta
+[01:46:08] eh a ese año hasta el 2001 y el 2002 con
+[01:46:11] ese decreto, creo que era el 214 que
+[01:46:13] modifica todo toda la regulación
+[01:46:15] financiera, económica y y con impacto
+[01:46:19] social que fue muy trascendente para esa
+[01:46:21] época. ¿Y qué dijo la Corte en este
+[01:46:22] momento? La profunda transformación de
+[01:46:24] la realidad económica vigente al momento
+[01:46:27] de la sanción 25561
+[01:46:29] permite concluir que la tarifa del
+[01:46:30] servicio básico de telefonía fija no
+[01:46:33] quedó ceñida con exclusividad las
+[01:46:34] condiciones del pliego y el contrato de
+[01:46:36] transferencia, sino que debió sujetarse
+[01:46:38] también a la negociación contractual
+[01:46:41] impuesta por la ley citada y sus normas
+[01:46:43] complementarias debido a las nuevas
+[01:46:45] condiciones económicas, sociales,
+[01:46:47] financieras imperantes que surgieron del
+[01:46:49] estado de emergencia pública en materia
+[01:46:51] social, económica. financiera y
+[01:46:53] cambiaria declarada a partir del
+[01:46:55] artículo primero de la ley eh de la
+[01:46:57] citada ley. El debido eh debido al
+[01:47:00] fuerte impacto que sobre las tarifas de
+[01:47:02] servicio de telefonía produce el
+[01:47:04] traslado de la presión impositiva a los
+[01:47:05] usuarios consumidores, el numeral tal
+[01:47:07] que era un numeral que se aplicaba para
+[01:47:09] para incrementar junto a otros múltiples
+[01:47:13] factores. En el proceso eh obligó a
+[01:47:15] hacer eh asentar a las partes un proceso
+[01:47:17] de de renegociación. las resoluciones
+[01:47:19] impugnadas no deben ser interpretadas
+[01:47:21] sino a la luz de las nuevas pautas
+[01:47:23] jurídicas económicas imperantes. En el
+[01:47:27] lo propio ocurre en en el juicio de
+[01:47:29] compañía general eh de gas Sociedad
+[01:47:31] Anónima contra Energas, donde la Corte
+[01:47:33] dice que la normativa vigente eh la
+[01:47:36] actora no podía tener ninguna
+[01:47:37] expectativa fundado en derecho acerca de
+[01:47:40] la inalterabilidad del cuadro tarifario
+[01:47:42] estipulado en el contrato en relación al
+[01:47:44] suministro de gas o en su caso de la
+[01:47:45] procedencia de una reparación por parte
+[01:47:46] de la autoridad. Eh, vemos como cuando
+[01:47:49] cambian las circunstancias imperantes y
+[01:47:51] esas circunstancias cambian a raíz de
+[01:47:53] una emergencia económica, se justificaba
+[01:47:55] una un una situación de renegociación de
+[01:47:57] tarifas basada justamente en este nuevo
+[01:48:00] panorama producido por por este evento
+[01:48:03] excepcional y extraordinario.
+[01:48:06] la razonabilidad y
+[01:48:09] gradualidad, perdón, de la tarifa y la
+[01:48:11] protección de los sectores vulnerables.
+[01:48:13] Recién se surge a través de un
+[01:48:15] precedente muy muy trascendente que es
+[01:48:17] el precedente CPI contra el Ministerio
+[01:48:19] de Energía y Minería de la Nación, donde
+[01:48:21] también se habla de de las audiencias
+[01:48:24] públicas que es del año 2016.
+[01:48:27] Eh, en el caso se habían anulado los en
+[01:48:31] este caso la Corte anula los aumentos de
+[01:48:34] tarifa de gas natural. dice que es
+[01:48:36] necesario fijar los criterios rectores
+[01:48:38] con relación a la razonabilidad de la
+[01:48:40] política tarifaria y señala que todo
+[01:48:42] reajuste tarifario, con más razón frente
+[01:48:45] a un retraso como el que nos ocupa, debe
+[01:48:47] incorporar como condición de validez
+[01:48:49] jurídica el criterio de gradualidad. Ahí
+[01:48:52] implementa la gradualidad. Expresión
+[01:48:54] concreta del principio de razonabilidad
+[01:48:57] antes referido. La aplicación de dicho
+[01:49:00] criterio permite la recuperación de
+[01:49:02] retraso invocado y a la vez favorece la
+[01:49:04] previsión de los usuarios dentro de la
+[01:49:06] programación económica individual o
+[01:49:07] familiar, elemento que ha merecido la
+[01:49:10] oportuna ponderación del tribunal.
+[01:49:13] Por lo tanto, el Estado debe velar por
+[01:49:14] la continuidad, universalidad y
+[01:49:16] accesibilidad de los servicios públicos,
+[01:49:18] ponderando la realidad económica
+[01:49:20] concreta de los afectados por la
+[01:49:21] decisión tarifaria, con especial
+[01:49:23] atención de los sectores más
+[01:49:25] vulnerables, evitando de esta forma el
+[01:49:27] perjuicio social provocado por la
+[01:49:29] exclusión de numerosos usuarios de
+[01:49:30] dichos servicios esenciales como
+[01:49:32] consecuencia de una tarifa que por su
+[01:49:34] elevada cuantía pudiera calificarse de
+[01:49:37] confiscatoria, en tanto detraiga de
+[01:49:39] manera irrazonable una proporción
+[01:49:41] excesiva de los ingresos del grupo
+[01:49:43] familiar a considerar. Por lo demás, no
+[01:49:46] debe obviarse que un cálculo tarifario
+[01:49:48] desmesurado o irresonable generará altos
+[01:49:51] niveles de incobrabilidad y terminará
+[01:49:53] afectando el mentado financiamiento y
+[01:49:55] por vía de consecuencia de este círculo
+[01:49:57] vicioso a la calidad y continuidad del
+[01:49:59] servicio eh de servicio eléctrico. Vemos
+[01:50:02] la trascendencia de este fallo porque
+[01:50:04] habla de la gradualabilidad, habla de de
+[01:50:07] la razonabilidad, de cómo deben
+[01:50:09] implementarse los aumentos, que no
+[01:50:10] pueden ser agresivos.
+[01:50:12] En definitiva, es un fallo
+[01:50:14] extremadamente trascendente.
+[01:50:18] ¿Cómo se fijan las taríafas en de los
+[01:50:20] servicios públicos? A ver si tengo pasar
+[01:50:22] al otro. Así hay dos sistemas
+[01:50:27] básicamente son eh
+[01:50:30] eh el de tasa de retorno, que consiste
+[01:50:33] en que el Estado o el ente regulador
+[01:50:35] aprueba cada cierto tiempo tarifas que
+[01:50:38] permiten cubrir costos que
+[01:50:40] razonablemente debe aprobarla o afrontar
+[01:50:43] la empresa, incluyen la retribución por
+[01:50:46] el capital invertido.
+[01:50:48] Este es un criterio que que nace en 1994
+[01:50:52] en un caso
+[01:50:54] de Estados Unidos y permite establecer
+[01:50:58] un límite razonable de ganancias que se
+[01:51:00] debe calcular multiplicando una tasa que
+[01:51:02] se llama tasa de retorno por el capital
+[01:51:04] invertido.
+[01:51:06] Este, ¿cuál es el déficit de ese
+[01:51:08] sistema? Es que no incentiva la gestión
+[01:51:10] eficiente e incluso el prestador pudiere
+[01:51:14] puede aumentar desmedidamente la
+[01:51:16] inversión de activos.
+[01:51:18] para así aumentar sobre la base sobre la
+[01:51:20] cual va a calcular ese ajuste de
+[01:51:22] retorno, lo cual incrementaría esa
+[01:51:23] ganancia de manera indirecta. El otro
+[01:51:26] sistema que existe es el de precio tope,
+[01:51:29] que se origina en el Reino Unido con la
+[01:51:31] privatización del British Telecom. Y
+[01:51:34] este modelo se apoya en los incestivos,
+[01:51:37] en la productividad más que en los
+[01:51:39] costos del servicio y prevée niveles
+[01:51:41] máximos de precios fijados durante un
+[01:51:43] determinado periodo que se incrementan
+[01:51:44] por razón de la inflación.
+[01:51:48] Eh, el prestatario no puede aumentar las
+[01:51:50] tarifas por sobre ese índice de
+[01:51:52] actualización.
+[01:51:53] En otros términos, la rebaja de los
+[01:51:55] costos y el consiguiente aumento de los
+[01:51:57] niveles de eficiencia es un beneficio
+[01:51:58] propio para las empresas al incorporarlo
+[01:52:01] en su rentabilidad y en su patrimonio.
+[01:52:04] En, es decir, si la empresa quiere ganar
+[01:52:06] más, no puede aumentar tarifas, sino que
+[01:52:09] debe disminuir sus costos.
+[01:52:12] Cabe destacar que la ineficiencia del
+[01:52:14] prestador disminuye sus ganancias, de
+[01:52:16] modo que a diferencia del sistema de
+[01:52:18] retornos, la sobreinversión recae sobre
+[01:52:21] la empresa y no sobre el patrimonio del
+[01:52:24] usuario. El interrogante que nos podemos
+[01:52:26] plantear ante este ante este sistema es
+[01:52:27] si la disminución de los costos es
+[01:52:30] necesariamente un caso de de mayor
+[01:52:32] productividad o si quizás es posible
+[01:52:35] alcanzar menores costos con menor
+[01:52:37] productividad y menores inversiones.
+[01:52:40] Puede ocurrir que el menor costo esté
+[01:52:42] provocado por la falta de inversión, en
+[01:52:44] cuyo caso el menor costo eh el costo es
+[01:52:48] menor, pero la productividad
+[01:52:49] evidentemente también es menor y sin
+[01:52:52] embargo el prestador percibe mayores
+[01:52:53] beneficios, ese es el riesgo que corre
+[01:52:55] este sistema. Por eso, en ciertos casos
+[01:52:57] lo que se busca es, además del factor
+[01:52:59] eficiencia, ya mencionado, incorporar
+[01:53:01] también un factor que representa la
+[01:53:04] inversión eh del prestador en el
+[01:53:06] servicio para complementar aquel factor
+[01:53:07] inicial. Ahí vemos como que generalmente
+[01:53:09] los los sistemas tratan de vincular
+[01:53:11] ambos sistemas para tratar de dar una
+[01:53:13] respuesta más adecuada a la prestación
+[01:53:16] de servicio eléctrico.
+[01:53:19] ¿Cuál es el control judicial? Bueno,
+[01:53:22] ¿hasta dónde puede llegar el control o
+[01:53:24] contralor judicial de las tarifas?
+[01:53:28] La justicia puede evaluar solamente si
+[01:53:29] son legales y justas.
+[01:53:32] No puede fijar nuevos precios por eh por
+[01:53:35] iniciativa propia. Eh,
+[01:53:39] no puede juez controlar sin límites,
+[01:53:41] solo debe respetar el meollo de las
+[01:53:43] decisiones estatales del lente regulador
+[01:53:46] o estatales discrecionales. Esas las
+[01:53:48] debe respetar. Solo podría frenar o
+[01:53:51] anular una tarifa si se demuestra que la
+[01:53:53] misma es confiscatoria, es arbitraria,
+[01:53:56] afecta de manera irrazonablemente grave
+[01:53:59] los derechos de los usuarios y de los
+[01:54:00] consumidores.
+[01:54:02] Los magistrados no reemplazan al Estado
+[01:54:04] la decisión económica en cuanto debe
+[01:54:06] costar un servicio. Solo invalidar si
+[01:54:09] esa decisión económica o esa decisión
+[01:54:11] discrecional viola la Constitución o
+[01:54:14] viola claramente o fragrantemente una
+[01:54:16] norma.
+[01:54:18] En lo que concierne concretamente a la
+[01:54:19] provincia de Buenos Aires, tenemos eh
+[01:54:22] regulado el sistema de tarifas en los
+[01:54:23] artículos 40 o a 44 de la Ley 11,769,
+[01:54:30] donde se implementa operativamente un
+[01:54:31] sistema de precios máximos eh calculado,
+[01:54:35] pero cuyo cálculo está diseñado para
+[01:54:36] garantizar también una una tasa de
+[01:54:38] retorno. Es decir, vemos cómo se mezclan
+[01:54:40] o se combinan ambos ambos conceptos de
+[01:54:42] ambos modelos de de sistema de de
+[01:54:44] tarifa.
+[01:54:45] Los precios máximos del artículo 44 lo
+[01:54:47] define explícitamente, que los contratos
+[01:54:50] tendrán un cuadro tarifario validado
+[01:54:51] cada 5 años en el cual se establecerán
+[01:54:54] los valores máximos que corresponden a
+[01:54:56] cada servicio.
+[01:54:58] El artículo 42 inciso B especifica que
+[01:55:00] los costos de adquisición, el
+[01:55:02] transporte, la expansión eh serán
+[01:55:05] tomados como valores máximos a reconocer
+[01:55:07] con con el fin de obtener el mínimo
+[01:55:09] costo posible para los usuarios. Estos
+[01:55:12] valores se recalcunan al finalizar cada
+[01:55:14] periodo de 5 años y permiten ajustes por
+[01:55:17] cambios en costos que los concesionarios
+[01:55:19] no pueden controlar. Vemos que esa
+[01:55:21] polinómica que se determina cada 5 años
+[01:55:23] generalmente establece pautas que cada 3
+[01:55:25] meses se se ajusta por eh directamente
+[01:55:29] el por el valor del el costo de la
+[01:55:31] energía o por el valor y de de la
+[01:55:34] inflación. Eh, pero la la fijación
+[01:55:38] tarifaria o el cálculo tarifario se hace
+[01:55:40] cada 5 años y deben garantizar una tasa
+[01:55:42] de rentabilidad. Estos precios máximos
+[01:55:45] debe garantizar un retorno económico
+[01:55:47] tanto para los distribuidores como para
+[01:55:49] los transportistas. Las tarifas deben
+[01:55:51] proveer los recursos necesarios para
+[01:55:52] cubrir costos normales y razonables,
+[01:55:55] como son los gastos de comercialización,
+[01:55:57] explotación, capital, expansión,
+[01:56:00] impuestos, eh permitirles una tasa de
+[01:56:02] rentabilidad equiparable a las de otras
+[01:56:04] actividades de riesgo similares o o
+[01:56:07] compatibles o comparables a nivel
+[01:56:08] nacional o a nivel internacional.
+[01:56:13] Y referente a las tarifas, viene el caso
+[01:56:14] destacar también lo que se lo que es eh
+[01:56:18] eh las tarifas sociales
+[01:56:21] en el marco de los servicios públicos.
+[01:56:24] En ese sentido, los marcos reguladores
+[01:56:26] generalmente prevén que las tarifas
+[01:56:28] deben ser justas y razonables, pero
+[01:56:31] también deben incluir tarifas sociales.
+[01:56:33] Estas están apoyadas en los derechos de
+[01:56:35] los usuarios, en el acceso igualitario
+[01:56:38] al servicio y en el principio de
+[01:56:39] seguridad social.
+[01:56:42] Se ha dicho que la tarifa de interés
+[01:56:43] social aborda un modo de financiamiento
+[01:56:45] de los costos de inclusión ciudadana por
+[01:56:47] la vía de una combinación de tarifas
+[01:56:51] diferenciales y diversos tipos de
+[01:56:53] subsidios y reducciones impositivas
+[01:56:55] dirigidas a viabilizar el acceso,
+[01:56:57] permanencia y goce del servicio a
+[01:56:59] usuarios y consumidores bajo
+[01:57:01] determinadas condiciones de
+[01:57:02] vulnerabilidad, riesgo o carencia. tiene
+[01:57:05] un doble carácter, un carácter eh
+[01:57:07] social, tanto apunta a a proteger bienes
+[01:57:11] eh como es la la cohesión social, la
+[01:57:14] integridad del medio ambiente, la
+[01:57:15] seguridad, la salud pública y un
+[01:57:17] carácter también económico, el
+[01:57:18] intervenir directamente en la fijación
+[01:57:21] de los precios de la prestación privada.
+[01:57:25] Podemos citar a modo ejemplificativo la
+[01:57:28] ley 12698 que establece la tarifa
+[01:57:32] eléctrica de interés social a la
+[01:57:33] provincia de Buenos Aires. También están
+[01:57:35] las tarifas vinculadas a el tarifario
+[01:57:38] específico para entidades de bienes
+[01:57:40] públicos, que es la ley 27,218 a nivel
+[01:57:43] nacional, a la cual adhiere la provincia
+[01:57:45] con su ley 14,906,
+[01:57:47] eh que son tarifas especiales para
+[01:57:50] aquellas entidades que no tienen fines
+[01:57:51] de lucro, que no tienen por objeto
+[01:57:53] principal o que tienen por objeto
+[01:57:55] principal el bien común, como son las
+[01:57:57] asociaciones, lasunas fundaciones,
+[01:58:00] eh en esos casos tienen un beneficio
+[01:58:03] particular.
+[01:58:05] Concretamente,
+[01:58:06] eh la tarifa social la tenemos
+[01:58:09] reglamentada también por resoluciones de
+[01:58:11] del Ministerio y y de los SEBA y y a
+[01:58:14] quiénes pueden acceder, bueno, la
+[01:58:15] resolución de de los SEBA 2019 del 88
+[01:58:20] que aprobó la implementación del
+[01:58:22] aplicativo de tarifa social, dispone
+[01:58:25] para los usuarios del servicio público
+[01:58:26] de distribución energética una tarifa
+[01:58:29] que puede para accederse requieren
+[01:58:30] determinados recaudos. Finalmente ahí
+[01:58:33] los vemos discriminados. No sé si me
+[01:58:35] pasé en uno acá, acá en este
+[01:58:41] son para los jubilados y pensionados o
+[01:58:43] trabajadores en relación dependencia que
+[01:58:44] perciban una remuneración bruta menor o
+[01:58:47] igual a dos salarios mínimos vitales
+[01:58:49] inmóviles. Hoy los salarios mínimos
+[01:58:51] vitales creo que están rondando los
+[01:58:53] 370,000 380,000 pesos. se van
+[01:58:55] incrementando a medida que va
+[01:58:58] reuniéndose el Consejo Nacional eh a
+[01:59:00] través de resoluciones del poder
+[01:59:02] ejecutivo. Los trabajadores
+[01:59:03] monotributistas también con ingresos
+[01:59:06] mensualizados que no superen también
+[01:59:07] esos salarios. Los beneficiarios de
+[01:59:09] pensiones contributivas también con ese
+[01:59:11] tope, ese límite, los titulares de
+[01:59:13] programas sociales, los trabajadores
+[01:59:15] inscriptos en el régimen de monotributo
+[01:59:17] social, los trabajadores incorporados al
+[01:59:19] régimen especial de seguridad social
+[01:59:21] para casas particulares,
+[01:59:23] eh los titulares de algún seguro de
+[01:59:25] desempleo, los eh [carraspeo] titulares
+[01:59:28] de pensión vitalicia o veteranos de
+[01:59:30] guerra, los titulares de certificado de
+[01:59:31] discapacidad expedido por autoridad
+[01:59:32] competente.
+[01:59:36] haciendo para la última parte de la
+[01:59:39] clase y y terminando ya con esta charla,
+[01:59:43] con esta exposición para la diplomatura,
+[01:59:46] eh vamos a hablar de lo que son las
+[01:59:47] audiencias públicas. Más que nada no no
+[01:59:50] voy a describir las audiencias públicas,
+[01:59:52] sino simplemente referir a a a cómo ha
+[01:59:55] interpretado también la justicia, pues
+[01:59:58] de alguna manera para eso estoy fui
+[02:00:01] citado en el en la diplomatura, para dar
+[02:00:03] un poco la visión que desde el poder
+[02:00:05] judicial tenemos ante determinadas
+[02:00:06] situaciones y la doctrina legal que fue
+[02:00:09] sentada tanto de la justicia nacional
+[02:00:11] como de la justicia provincial, tanto eh
+[02:00:14] en una como en otra se establecen en
+[02:00:16] forma unánime, contundente y uniforme
+[02:00:18] que la celebración de las audiencias
+[02:00:20] públicas o mecanismos efectivos de
+[02:00:22] participación ciudadana, así también se
+[02:00:24] lo llaman, deben ser de forma previa a
+[02:00:27] un aumento tarifario de servicios
+[02:00:28] públicos y es un requisito
+[02:00:30] constitucional obligatorio e ineludible.
+[02:00:33] ¿Y por qué constitucional? porque
+[02:00:34] encuentra fundamento en el artículo 42
+[02:00:39] que refiere al derecho de una
+[02:00:40] información adecuada, a una información
+[02:00:43] veraz,
+[02:00:45] a la garantizarle a los usuarios el
+[02:00:47] derecho a la protección de sus intereses
+[02:00:48] económicos.
+[02:00:50] Entonces, las Cortes, tanto nacional
+[02:00:52] como provincial, han determinado que los
+[02:00:53] usuarios no deben ser meros espectadores
+[02:00:56] frente a decisiones que afectan su
+[02:00:57] patrimonio de manera significativa, como
+[02:00:59] sería un aumento tarifario de un
+[02:01:01] servicio público como es la energía.
+[02:01:04] Otro
+[02:01:06] otro recaudo que ha señalado y que ha
+[02:01:10] acentuado el máximo tribunal, tanto
+[02:01:12] provincias como nacionales, que la misma
+[02:01:14] tiene que ser a previa y no a
+[02:01:15] posteriori. Eh, la audiencia pública
+[02:01:18] debe debe permitir un debate y discusión
+[02:01:21] que la autoridad esté obligada a
+[02:01:22] ponderar antes de fijar el precio. Eh,
+[02:01:25] este requisito no puede ser subsanado,
+[02:01:27] es expofacto, es decir, después del
+[02:01:30] hecho, sino que siempre tiene que ser
+[02:01:31] anteriormente. Entonces, no puede
+[02:01:33] excusarse en no cumplir con este
+[02:01:35] requisito invocando, por ejemplo,
+[02:01:37] aumentos transitorios o de emergencia.
+[02:01:40] Es irrelevante si el gobierno califica
+[02:01:42] el aumento como transitorio o si existen
+[02:01:44] leyes de emergencia, porque el impacto
+[02:01:46] económico en el bolsillo del usuario
+[02:01:48] hace obligatoria igualmente la consulta.
+[02:01:51] Tampoco eh se pueden invocar vacíos
+[02:01:54] legales, por ejemplo, como pasó en el
+[02:01:56] caso de del agua en Buenos Aires, donde
+[02:01:58] se dijo, "Bueno, no hay una normativa
+[02:02:00] que lo establezca de manera
+[02:02:01] obligatoria." La Corte dijo, no obstante
+[02:02:03] que no existe una normativa
+[02:02:04] reglamentaria desde desde el ámbito
+[02:02:07] desde el ámbito eh específico del agua,
+[02:02:11] eh lo cierto es que es una obligación
+[02:02:12] que subsiste porque su fundamento es un
+[02:02:14] fundamento constitucional y no es un
+[02:02:16] fundamento eh legal ordinario. Eh
+[02:02:20] tampoco pueden invocarse audiencias
+[02:02:23] absolutas, es decir, utilizar audiencias
+[02:02:25] públicas cerebradas muchos años atrás
+[02:02:27] para justificar un aumento tarifario
+[02:02:29] actual inválido.
+[02:02:31] o actual. En ese caso, el contexto
+[02:02:33] social y económico va cambiando, por lo
+[02:02:35] tanto, va perdiendo su eficacia
+[02:02:37] informativa y deliberativa aquella
+[02:02:38] audiencia vieja. ¿Y cuál es la
+[02:02:41] consecuencia ante el incumplimiento de
+[02:02:44] estas audiencias públicas? Bueno, es la
+[02:02:45] nulidad de los aumentos tarifarios sin
+[02:02:47] consultos. Eh, en ese caso
+[02:02:51] debe la resolución termina siendo nula
+[02:02:54] la que dispone el aumento. la justicia
+[02:02:56] vuelve a retrotraer la tarifa a los
+[02:02:58] valores previos al aumento y y se obliga
+[02:03:02] a imputar o restituir a favor de los
+[02:03:05] usuarios las sumas que fueron percibidas
+[02:03:08] indebidamente por ese aumento que omitió
+[02:03:10] un recaudo sustancial necesario e
+[02:03:13] imprescindible como es el la audiencia
+[02:03:14] pública, tal como lo han dicho la Corte
+[02:03:17] en los antecedentes de CEPIs en el año
+[02:03:20] 2016, la Corte Nacional y la Corte
+[02:03:23] también nacional en Usuarios y
+[02:03:25] Consumidores del 2020 referente al
+[02:03:27] servicio de gas, donde anularon enormes
+[02:03:29] aumentos en el servicio de gas para
+[02:03:30] usuarios residenciales y determinaron
+[02:03:32] que la audiencia pública debe realizarse
+[02:03:34] para todos los componentes que forman la
+[02:03:36] tarifa final, incluyendo el precio del
+[02:03:39] gas en boca de pozo, ya que este
+[02:03:41] componente impactaba directamente lo que
+[02:03:42] pagaba el consumidor eh al final de de
+[02:03:46] su de su factura.
+[02:03:49] Por lo parte de la provincia, caso
+[02:03:51] Negreli, que es una sentencia del año
+[02:03:54] 2014, la Corte anula un aumento de 180%
+[02:03:58] también en el servicio de agua potable y
+[02:04:00] cloacas [carraspeo] eh dispuesto por un
+[02:04:02] decreto 245 de 2012. Señala que al ser
+[02:04:05] un servicio monopolizado y no medido, el
+[02:04:08] usuario no puede reducir el gasto
+[02:04:10] bajando el consumo e impone un aumento
+[02:04:12] abrupto sin participación previa y en lo
+[02:04:15] cual es manifiestamente ilegítimo o
+[02:04:18] ilegal. por lo cual eh da cuenta de la
+[02:04:20] exigencia, necesidad de de la audiencia
+[02:04:22] pública. Por último, un caso del 2017
+[02:04:25] relativo a los peajes, si bien eh en
+[02:04:28] este caso de vino abstracto porque el
+[02:04:31] Estado y la Defensoría llegaron a un
+[02:04:32] acuerdo eh que incluyó el compromiso de
+[02:04:35] dar información y convocar audiencias
+[02:04:36] ante futuros. Lo cierto que la Corte
+[02:04:38] deja sentado en este antecedente el
+[02:04:40] principio de que los intereses
+[02:04:41] económicos de los usuarios deben
+[02:04:43] protegerse siempre antes de aprobarse
+[02:04:45] los cuadros taliforos. Sí, señala la
+[02:04:47] necesidad previa de la audiencia pública
+[02:04:50] como elemento sustancial y y
+[02:04:53] ilegitimario de cualquier eh aumento
+[02:04:55] tarifario de del servicio público.
+[02:04:58] Bueno, con esto de alguna manera quería
+[02:05:00] dar una ilustración de de estos aspectos
+[02:05:03] vinculados al amor, a la interrupción
+[02:05:04] del servicio, las herramientas
+[02:05:06] jurisdiccionales y y la visión de la
+[02:05:09] justicia vinculada con los aumentos
+[02:05:11] tarifarios y y las audiencias públicas.
+[02:05:15] Y espero que por lo menos hayan les haya
+[02:05:18] servido o hayan les haya sido de
+[02:05:20] utilidad. Y estoy con este tema por
+[02:05:23] finalizado, por lo menos mi exposición.
+[02:05:25] No sé si quieren hacer alguna consulta,
+[02:05:27] alguna pregunta.
+[02:05:33] Sí, buen día. Una consulta eh o un
+[02:05:37] comentario. En algún momento de la
+[02:05:39] exposición
+[02:05:41] habló sobre los cortes programados por
+[02:05:44] mantenimiento que no entraban dentro del
+[02:05:46] cálculo de multas.
+[02:05:48] Eh, yo quería aclarar que eso fue válido
+[02:05:50] hasta el cuarto semestre de de entrada
+[02:05:54] en vigencia del nuevo Subanexo.
+[02:05:57] Ah, bueno, me quedó entonces eso de
+[02:05:59] anterior del subanexo. Claro.
+[02:06:02] Después cambió
+[02:06:02] el 31 de mayo del 2019, o sea, que a
+[02:06:06] partir de
+[02:06:06] eso se cambió después. Bueno, perfecto,
+[02:06:08] gracias por el dato. Creo que ahora
+[02:06:10] están en revisión los subanexos también,
+[02:06:11] así que
+[02:06:13] Correcto.
+[02:06:14] Sí, sí, sí. también como por ahí
+[02:06:17] Fernando, ¿no? Eh, mientras estamos en
+[02:06:20] la etapa de transición tarifaria por
+[02:06:22] haber salido, digamos, de la etapa de
+[02:06:24] congelamiento y de y de emergencias,
+[02:06:27] eh se ha suspendido la devolución a los
+[02:06:29] usuarios de todas esas penalizaciones y
+[02:06:31] hoy van a una cuenta contable
+[02:06:34] hasta tanto, veamos qué sucede con la
+[02:06:37] revisión tarifaria integral. Así que
+[02:06:39] Ah, perfecto, perfecto. Son datos que
+[02:06:41] ustedes lo tienen quizás
+[02:06:42] como como están más actualizados. Yo
+[02:06:45] estoy con jurisprudencia vieja todavía.
+[02:06:47] No, por suerte. Por suerte no validocia
+[02:06:51] sobre esto,
+[02:06:51] ¿no? Perfecto.
+[02:06:53] Por suerte no había jurisprudencia
+[02:06:55] adicional sobre esto.
+[02:06:57] Esa resolución es del año pasado y va
+[02:06:59] toda la cuenta contable.
+[02:07:02] Hasta tanto termine la etapa de
+[02:07:03] transición tarifaria y se apruebe la
+[02:07:05] implementación de la nueva RTI con la
+[02:07:07] que estamos trabajando y con la que
+[02:07:09] estamos también revisando absolutamente
+[02:07:11] todos los suanexos al contrato.
+[02:07:13] Bueno, genial. Perfecta lación variar.
+[02:07:17] Pero bueno, eh desde la jurisprudencia
+[02:07:20] todo lo que contó, lo que está vigente,
+[02:07:22] digamos, hasta ahora son los fallos que
+[02:07:24] han salido. Por suerte todo lo otro no
+[02:07:26] ha sido judicializado, entonces no tiene
+[02:07:29] este no lo ha visto en un caso concreto.
+[02:07:32] Bueno, muchísimas gracias.
+[02:07:36] ¿Alguien más quiere hacer una pregunta,
+[02:07:37] comentario?
+[02:07:45] Bueno, parece que no. Muchísimas
+[02:07:47] gracias, Fernando. Fue gracias, todos
+[02:07:51] los presentes por haberme por haberme
+[02:07:53] escuchado. Disculpen esos errores quizás
+[02:07:57] de de desactualización que uno tiene por
+[02:07:59] estar en otro ámbito y y bueno, lo lo
+[02:08:03] felicito por estar estudiando. Siempre
+[02:08:05] digo, lo cual esto es un aprendizaje
+[02:08:09] mutuo que nos estamos haciendo entre
+[02:08:11] todos nosotros y que nos sirve de algún
+[02:08:13] modo como para crecer como personas y
+[02:08:16] también como profesionales o o como
+[02:08:20] trabajadores donde nos estemos
+[02:08:21] desempeñando, desenvolviendo. Así que
+[02:08:23] bueno, felicitaciones por eso. Muchas
+[02:08:26] gracias.
+[02:08:26] Gracias. Totalmente de acuerdo. La
+[02:08:29] verdad que el conocimiento nos ayuda a
+[02:08:31] todos y es una retroalimentación, ¿no?
+[02:08:33] Lo que para uno es un dato, para otro
+[02:08:36] todo aporta, todo suma
+[02:08:38] y nos ayuda a trabajar un poquito mejor
+[02:08:40] cada día. Así que bueno, muchísimas
+[02:08:42] gracias, Fernando.
+[02:08:43] Gracias. Bueno,
+[02:08:45] y a todos los despido hasta el próximo
+[02:08:47] jueves.

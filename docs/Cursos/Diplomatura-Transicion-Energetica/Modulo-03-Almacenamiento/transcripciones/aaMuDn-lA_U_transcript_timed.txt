@@ -1,0 +1,2136 @@
+[00:00:13] hola chicos cómo va muy buenas tardes a
+[00:00:16] todos
+[00:00:17] mi nombre es gastón and soft y bueno hoy
+[00:00:21] es la clase número 2 del módulo 3 en la
+[00:00:27] clase de hoy es de almacenamiento de la
+[00:00:29] diplomatura de transición energética hoy
+[00:00:32] estamos con de vuelta con el profe
+[00:00:34] hernán son domenico cómo le va a prophet
+[00:00:43] hola buenas tardes a todos y todas
+[00:00:47] para el profe dar la clase de hoy este
+[00:00:50] chico diga no desde donde nos están
+[00:00:51] viendo como un y que no hay por el chat
+[00:00:54] y ya están subida la clase del lunes que
+[00:00:58] fue la número uno de este módulo y
+[00:01:01] también está soy a la
+[00:01:02] lados están los dos en el mismo
+[00:01:05] pf así que bueno ya tienen el material
+[00:01:07] chicos que hay en la descripción del
+[00:01:09] vídeo pueden entrar así que bueno
+[00:01:13] sin más preámbulos lo dejo lo dejo darle
+[00:01:16] clases tranquilo profe y bueno dejamos
+[00:01:18] unos minutitos al final para resolver
+[00:01:20] todas las dudas y
+[00:01:24] éxitos
+[00:01:25] gracias
+[00:01:33] bueno
+[00:01:34] [Música]
+[00:01:37] voy al consell
+[00:01:39] [Música]
+[00:01:55] mito
+[00:02:01] bien
+[00:02:05] recuerden que
+[00:02:07] el lunes pasado en la presentación
+[00:02:09] basada hicimos una introducción
+[00:02:11] respecto a
+[00:02:14] segundo toque lucha
+[00:02:22] este el chivo
+[00:02:35] si bien
+[00:02:37] la presentación pasada semana del pasado
+[00:02:41] hicimos una introducción respecto a
+[00:02:44] los fundamentos
+[00:02:48] sobre
+[00:02:50] el almacenamiento energético
+[00:02:55] recuerden que
+[00:02:56] planteamos
+[00:02:58] la necesidad
+[00:03:01] para mejorar
+[00:03:02] la eficiencia y reducir los costos
+[00:03:05] operativos de los sistemas eléctricos de
+[00:03:07] potencia
+[00:03:09] teníamos en el almacenamiento energético
+[00:03:12] un
+[00:03:13] punto a favor una ventaja para poder
+[00:03:17] satisfacer esa necesidad
+[00:03:20] pero también planteamos
+[00:03:25] también referido a la necesidad para
+[00:03:28] almacenar la energía generada por
+[00:03:31] las de las centrales que transforman la
+[00:03:35] energía renovable recuerda que las
+[00:03:39] características que tienen los parques
+[00:03:41] eólicos y solares
+[00:03:44] relacionadas con la variabilidad
+[00:03:47] de la generación y la potencia que
+[00:03:50] pueden entregar
+[00:03:54] también es un punto interesante donde el
+[00:03:57] almacenamiento energético
+[00:03:59] tiene puede presentar una ventaja
+[00:04:04] y luego hicimos una clasificación en
+[00:04:07] cuanto a las alternativas que podemos
+[00:04:10] encontrar
+[00:04:12] las alternativas tecnológicas que
+[00:04:14] podemos encontrar hasta el día de hoy
+[00:04:17] hicimos una división en cuanto a
+[00:04:23] el tipo de energía que hace es que si se
+[00:04:25] puede almacenar
+[00:04:26] comenzamos analizando las alternativas
+[00:04:30] de origen térmico
+[00:04:34] como se puede almacenar calor
+[00:04:37] vimos que las claves para poder lograr
+[00:04:40] este almacenamiento se basan en las
+[00:04:44] propiedades de la sustancia
+[00:04:47] ya sea en el estado de la materia y
+[00:04:51] también el calor sensible y el aroma
+[00:04:54] latente de estas sustancias
+[00:04:59] bien
+[00:05:01] [Música]
+[00:05:02] vamos a avanzar con
+[00:05:07] con otro tipo otra otra alternativa para
+[00:05:13] el almacenamiento de energía que está
+[00:05:16] relacionado con
+[00:05:18] el almacenamiento mecánico
+[00:05:22] vamos a analizar en qué consiste este
+[00:05:26] tipo cómo se puede almacenar energía
+[00:05:30] de forma de caer
+[00:05:33] el dispositivo
+[00:05:37] mal
+[00:05:37] [Música]
+[00:05:39] más utilizado y con un mayor desarrollo
+[00:05:43] en este campo es el denominado
+[00:05:47] volante de inercia
+[00:05:51] o bien como también se llama o se conoce
+[00:05:54] en inglés flywheel
+[00:05:57] denominaciones para este tipo de estos
+[00:06:00] dispositivos
+[00:06:01] que tienen la particularidad
+[00:06:03] de almacenar energía en forma mecánica
+[00:06:08] vamos a analizar cómo lo hacen
+[00:06:12] básicamente
+[00:06:14] estos dispositivos
+[00:06:17] aprovechan la energía cinética
+[00:06:21] flotante de una masa
+[00:06:24] que
+[00:06:25] tiene una cierta una determinada
+[00:06:28] velocidad de rotación
+[00:06:32] cualquier elemento que está que rota
+[00:06:35] alrededor de m&g
+[00:06:36] podemos cuantificar
+[00:06:38] la energía
+[00:06:42] cinética básicamente
+[00:06:45] mediante esta simple ecuación
+[00:06:53] con esta ecuación no solo podemos
+[00:06:55] cuantificar la energía cinética de un
+[00:06:59] cuerpo en este caso como es un cuerpo
+[00:07:00] rotante es decir toda la masa gira
+[00:07:04] alrededor de un eje de rotación
+[00:07:07] esta energía cinética la podemos
+[00:07:10] cuantificar
+[00:07:12] teniendo en cuenta
+[00:07:14] este factor y que se denomina
+[00:07:19] el momento de inercia
+[00:07:21] este momento de inercia
+[00:07:24] es un
+[00:07:26] [Música]
+[00:07:28] factor en donde entran en juego o se
+[00:07:33] consideran las características
+[00:07:36] geométricas y de masa del elemento que
+[00:07:42] ésta está girando es decir
+[00:07:45] con este con este factor o con éste
+[00:07:49] [Música]
+[00:07:51] este indicador
+[00:07:53] nosotros podemos integrar las
+[00:07:56] características geométricas
+[00:07:59] y de masa de cualquier cuerpo que está
+[00:08:03] rotando
+[00:08:05] y a su vez sabía mostró el cúmulo como
+[00:08:07] lo podemos hacer eso y además la energía
+[00:08:10] cinética va a ser va a depender en este
+[00:08:15] caso de la velocidad angular de rotación
+[00:08:19] del del cuerpo
+[00:08:22] con la particularidad que esta velocidad
+[00:08:24] de rotación está elevado al cuadrado
+[00:08:27] es decir qué
+[00:08:33] la incidencia
+[00:08:36] en esta ecuación de la velocidad
+[00:08:38] adecuada de la velocidad angular es se
+[00:08:41] hace importante porque está elevada al
+[00:08:44] cuadrado
+[00:08:45] [Música]
+[00:08:53] y
+[00:08:54] yo podemos partir
+[00:08:57] considerar el caso un caso más sencillo
+[00:09:00] por ejemplo el de un cilindro o un aro
+[00:09:06] de que tengo una pared de espesor o
+[00:09:09] reducido
+[00:09:10] [Música]
+[00:09:11] e
+[00:09:13] nosotros podemos considerar
+[00:09:16] la
+[00:09:18] consideramos como referencia a un punto
+[00:09:20] que está en
+[00:09:22] el punto start supongamos estar fijo
+[00:09:26] sobre la
+[00:09:28] parte o en alguna en algún punto del
+[00:09:32] este está este cilindro que está rotando
+[00:09:38] relativamente el punto a
+[00:09:40] estar yo elijo al disco o al anillo
+[00:09:47] va a tener un desplazamiento relativo
+[00:09:49] respecto al eje y ese desplazamiento va
+[00:09:52] a tener lo que se llama una velocidad
+[00:09:54] angular cuando hablamos de velocidad
+[00:09:56] angular nos referimos a
+[00:10:00] e
+[00:10:03] cómo cambia la posición de esta
+[00:10:07] proyección del punto respecto a el eje
+[00:10:11] de rotación cómo cambia esa proyección
+[00:10:12] respecto al tiempo
+[00:10:15] es decir nosotros trazamos el punto
+[00:10:18] colocamos un punto cualquiera en un
+[00:10:20] sobre la superficie de una cara de este
+[00:10:25] cilindro mientras amos una línea hacia
+[00:10:27] el centro de rotación
+[00:10:30] cuando el cuerpo está rotando está esta
+[00:10:34] línea vuestra proyección va a rotar con
+[00:10:36] él con el cilindro
+[00:10:38] [Música]
+[00:10:39] ese cambio de posición va a variar con
+[00:10:42] el tiempo o sea la posición va a estar
+[00:10:43] cambiar por el tiempo y eso va a definir
+[00:10:46] lo que se llama velocidad angular
+[00:10:48] [Música]
+[00:10:51] qué
+[00:10:54] esto le presente el caso un caso
+[00:10:57] sencillo pero podemos considerar
+[00:10:59] cualquier figura por ejemplo en este
+[00:11:02] caso en la primera figura yo le muestro
+[00:11:04] la que esté mostrando es la vista
+[00:11:07] frontal o de frente del cilindro de
+[00:11:12] paredes delgadas ahora les muestro otros
+[00:11:16] casos estas son vistas laterales donde
+[00:11:19] podemos observar el eje
+[00:11:22] de rotación de
+[00:11:24] estos cuerpos
+[00:11:26] en sentido
+[00:11:33] este es el caso
+[00:11:35] corresponde a un cilindro macizo
+[00:11:38] [Música]
+[00:11:40] el segundo caso corresponde a un
+[00:11:43] cilindro de delgada
+[00:11:47] y el tercer caso corresponde a un
+[00:11:48] cilindro de pared gruesa
+[00:11:51] [Música]
+[00:11:53] qué
+[00:11:55] diferencia o qué influencia
+[00:11:59] tiene la forma y la cantidad la
+[00:12:03] distribución de la masa
+[00:12:06] tener una influencia
+[00:12:07] sobre la energía cinética
+[00:12:12] por ejemplo lo vamos a explicar porque
+[00:12:15] planteando
+[00:12:18] conociendo
+[00:12:20] cómo se establece el momento de inercia
+[00:12:25] y ni mayúscula en este caso representa
+[00:12:29] lo que se llama el momento de inercia
+[00:12:32] [Música]
+[00:12:34] para el caso de un cilindro o un anillo
+[00:12:37] de pared de grada
+[00:12:39] nosotros podemos calcular ese momento de
+[00:12:42] inercia y para ese caso el momento de
+[00:12:44] inercia va a ser proporcional a la masa
+[00:12:48] la cantidad de material que tiene este
+[00:12:51] cilindro de pared del gas
+[00:12:56] por el radio es decir la distancia en
+[00:13:02] este caso como el cilindro desaparece
+[00:13:05] por ejemplo en este caso el segundo caso
+[00:13:08] coincide con este
+[00:13:10] arriba
+[00:13:12] para
+[00:13:13] los signos de pared delgada podemos
+[00:13:17] tomar
+[00:13:18] [Música]
+[00:13:20] del espesor como el dt será reducido
+[00:13:23] podemos tomar un valor medio o la mitad
+[00:13:25] del valor del espesor y tomar eso como
+[00:13:27] el radio
+[00:13:30] respecto a la distancia respecto a esa
+[00:13:32] línea media respecto a el eje de
+[00:13:35] rotación
+[00:13:36] eso representa r
+[00:13:42] entonces aquí podemos ver que el momento
+[00:13:45] de inercia
+[00:13:46] relación a la masa de este cuerpo de
+[00:13:50] rotación respecto a cómo está
+[00:13:52] distribuida esa masa respecto a el eje
+[00:13:56] de rotación
+[00:13:57] [Música]
+[00:13:59] para el caso del cilindro macizo podemos
+[00:14:03] calcular
+[00:14:05] el momento de inercia no va a ser igual
+[00:14:07] que el caso del cilindro de pared
+[00:14:11] delgada
+[00:14:12] si hacemos el cálculo el momento de
+[00:14:16] inercia para decir no más y eso va a ser
+[00:14:18] la mitad que para en caso de que
+[00:14:23] esa es otra
+[00:14:28] particularidad del caso del momento de
+[00:14:32] generarse
+[00:14:33] entonces aquí ya podemos ver que la
+[00:14:38] energía cinética
+[00:14:39] en el caso de este elemento que está
+[00:14:42] rotando
+[00:14:44] va a depender de las características
+[00:14:47] geométricas del cuerpo que está rotando
+[00:14:49] y de su velocidad angular
+[00:14:58] entonces
+[00:15:00] o sea aquí tenemos reemplazado aquí
+[00:15:03] hemos reemplazado para el caso este caso
+[00:15:09] reemplazando
+[00:15:10] [Música]
+[00:15:13] en el momento de inercia nos queda
+[00:15:16] finalmente esta ecuación que representa
+[00:15:18] la energía cinética para este caso así
+[00:15:21] nos quedan un medio a un 0.5 por la masa
+[00:15:27] este segundo por separado en
+[00:15:32] la distancia
+[00:15:35] el espesor medio de la pared respecto al
+[00:15:38] eje de rotación
+[00:15:40] por la velocidad angular al cuadrado
+[00:15:44] esta sería la ecuación para el término
+[00:15:47] energía cinética parece ser una derivada
+[00:15:55] podemos decir que
+[00:15:59] lo que interesa para el tema de
+[00:16:03] almacenamiento no nos va a interesar o
+[00:16:08] vamos a entender
+[00:16:11] a buscar la forma de almacenar la mayor
+[00:16:14] cantidad de energía
+[00:16:16] es decir
+[00:16:20] buscamos la forma de disponer el
+[00:16:22] movimiento si conseguimos la cama dejada
+[00:16:24] de que ese elemento flotante podamos
+[00:16:27] poner en movimiento
+[00:16:31] que alcance cierto nivel de energía
+[00:16:33] cinética
+[00:16:34] de este elemento lo que va a estar
+[00:16:36] haciendo va a ser un momento que por
+[00:16:38] estas características o esta combinación
+[00:16:40] de masa por la geometría por la
+[00:16:43] velocidad de hablar para mantener se va
+[00:16:46] a mantener por sí solo rotando porque
+[00:16:48] adquiere
+[00:16:50] la
+[00:16:51] energía cinética
+[00:16:55] si nosotros dejamos o dejamos de
+[00:16:58] aportarle energía a ese
+[00:17:00] cuerpo va a seguir girando por sí solo
+[00:17:04] porque ésta ha logrado acumular energía
+[00:17:06] de forma cinética
+[00:17:10] [Música]
+[00:17:11] y esa acumulación no va a ser
+[00:17:15] perpetua sino que en la práctica van a
+[00:17:18] aparecer los alientos tanto en el eje
+[00:17:21] como por ejemplo el rozamiento del aire
+[00:17:25] sobre la superficie genera un rozamiento
+[00:17:27] que va a ir disipando energía y de esa
+[00:17:30] forma el signo con el tiempo va a
+[00:17:36] en estado estacionario abajo se va a
+[00:17:39] detener
+[00:17:44] entonces si nos interesa el hecho de
+[00:17:48] almacenar energía y tratar de optimizar
+[00:17:50] ese almacenamiento
+[00:17:52] podemos trabajar con varios factores
+[00:17:54] muchos
+[00:17:56] por ejemplo incrementando la masa
+[00:18:00] o aumentando la distancia r la magnitud
+[00:18:06] de r
+[00:18:08] aumentando la velocidad angular
+[00:18:12] no saben qué
+[00:18:16] la influencia que tiene
+[00:18:18] para el caso de siglos de pared delgada
+[00:18:22] con sólo aumentar el radio la letra que
+[00:18:27] elevado al cuadrado una pequeña
+[00:18:29] variación puede llegar a tener una gran
+[00:18:31] influencia en la energía cinética lo
+[00:18:35] mismo pasa con la velocidad angular
+[00:18:38] un pequeño
+[00:18:41] variación de la de la velocidad anular
+[00:18:43] tiene un importante impacto sobre la
+[00:18:47] energía cinética y eso nosotros lo
+[00:18:49] podemos aprovechar
+[00:18:50] para nuestro interés que es el
+[00:18:52] almacenamiento de la energía en forma
+[00:18:54] mecánica
+[00:18:57] hasta ahí
+[00:18:59] este concepto de teóricamente viene bien
+[00:19:02] pero aparece un problema
+[00:19:05] cuál es
+[00:19:07] qué
+[00:19:10] un problema con los materiales es
+[00:19:12] decirlo
+[00:19:14] lamentablemente
+[00:19:17] los materiales tienen un límite en
+[00:19:19] cuanto a la resistencia mecánica es
+[00:19:23] decir
+[00:19:26] no podemos
+[00:19:29] asignarle
+[00:19:30] disponer cualquier valor de masa y
+[00:19:33] cualquier dimensión
+[00:19:34] y tampoco cualquier acción a cualquier
+[00:19:37] velocidad angular por qué
+[00:19:42] un incremento
+[00:19:44] de la energía cinética
+[00:19:46] puede generar esfuerzos o cargas por
+[00:19:49] ejemplo sobre el eje donde rota
+[00:19:54] los ciclos y la rotación del cuerpo y
+[00:19:57] además
+[00:19:57] el volante está construido con material
+[00:20:00] que también
+[00:20:01] va estar exigido
+[00:20:04] en cuanto a los esfuerzos y en la
+[00:20:07] práctica los materiales tiene un límite
+[00:20:11] en cuanto a la resistencia de estos
+[00:20:14] esfuerzos
+[00:20:16] entonces ahí aparece una limitación con
+[00:20:18] respecto a
+[00:20:19] cuánto podemos
+[00:20:22] y aprovechar esta energía cinética
+[00:20:26] cuánta
+[00:20:27] masa podemos a ver qué dimensiones
+[00:20:30] podemos darle al cuerpo y qué velocidad
+[00:20:32] angular
+[00:20:33] [Música]
+[00:20:36] ahí viene entonces para poder resolver
+[00:20:38] este tema tenemos el concepto de la
+[00:20:41] energía cinética específica es decir
+[00:20:46] a ésta esta fórmula o esta ecuación de
+[00:20:50] energía cinética la dividimos por la
+[00:20:52] masa
+[00:20:54] y podemos obtener esta expresión
+[00:20:59] característica televisa
+[00:21:02] inoculantes del inercia
+[00:21:04] [Música]
+[00:21:05] esta ecuación
+[00:21:08] podemos ver que esta ecuación de aníbal
+[00:21:11] de reemplazar este término dividirlo por
+[00:21:13] más a hacer algunos algunos reemplazos
+[00:21:16] algunos reordenamientos y finalmente
+[00:21:19] obtenemos esta expresión para la energía
+[00:21:23] cinética específica donde aparece un
+[00:21:27] factor k
+[00:21:30] denominado
+[00:21:32] factor geométrico
+[00:21:35] [Música]
+[00:21:36] este factor geométrico
+[00:21:38] deriva de la combinación de la masa con
+[00:21:42] esta dimensión de la red
+[00:21:44] [Música]
+[00:21:46] además
+[00:21:49] la masa
+[00:21:52] el material que se está construido en el
+[00:21:55] el volante va a tener una determinada
+[00:21:58] densidad entre rojo indica la densidad
+[00:22:01] del material
+[00:22:03] y además tenemos este otro término sigma
+[00:22:08] que es la tensión admisible
+[00:22:13] del material con los materiales porque
+[00:22:15] está construido el volante
+[00:22:18] esta atención admisible
+[00:22:21] y representa a
+[00:22:24] la distribución de las cargas
+[00:22:27] distribuidas sobre los componentes del
+[00:22:32] volante que el material puede soportar
+[00:22:37] es decir aquí con esta expresión
+[00:22:41] nosotros estamos
+[00:22:43] considerando las los factores
+[00:22:45] geométricos y de masa pero además
+[00:22:49] lo interesante que nos permite también
+[00:22:53] hace una relación con respecto a
+[00:22:56] la resistencia de los materiales con que
+[00:22:59] está construido al volante
+[00:23:03] y no es un tema verdad porque si tenemos
+[00:23:06] un cuerpo que está rotando
+[00:23:09] a una cierta velocidad y por alguna
+[00:23:12] razón se sobrepasan estos valores de
+[00:23:15] tensiones admisibles lo más probable es
+[00:23:18] que el material
+[00:23:24] su resistencia su integridad y se
+[00:23:26] termine termine fallando o rompiendo y
+[00:23:30] eso sería una cuestión
+[00:23:32] y hay que evitar a toda costa
+[00:23:38] e
+[00:23:40] entonces
+[00:23:42] teniendo en cuenta estas tensiones
+[00:23:45] admisibles
+[00:23:47] estos factores geométricos nosotros
+[00:23:49] podemos plantear
+[00:23:51] esta ecuación que relaciona la densidad
+[00:23:54] del matiz del material convierte al
+[00:23:57] control del volante
+[00:23:58] este esta dimensión recuerden que la
+[00:24:01] dimensión r es la distancia desde un
+[00:24:04] punto del
+[00:24:05] cuerpo hasta el eje de rotación
+[00:24:09] [Música]
+[00:24:11] por la velocidad angular se transforma
+[00:24:16] tenemos podemos determinar en base a las
+[00:24:19] características geométricas y la
+[00:24:22] velocidad angular la tensión que va a
+[00:24:27] soportar ese volante o la de los
+[00:24:31] esfuerzos la distribución de fuerzas de
+[00:24:33] puestos soportar ese volante pues el
+[00:24:35] elemento que está girando
+[00:24:37] [Música]
+[00:24:44] supongamos que el volante está
+[00:24:50] y hemos aportado energía
+[00:24:54] hemos logrado que inicie su rotación y a
+[00:24:58] una determinada velocidad angular
+[00:25:00] ese volante se mantiene girando por sí
+[00:25:04] solo
+[00:25:06] y ahora mantenerse girando solo sin
+[00:25:09] ningún aporte externo de fuerza y de
+[00:25:13] energía
+[00:25:13] [Música]
+[00:25:18] y podemos decir que en esa situación el
+[00:25:21] volante tiene almacenada energía en
+[00:25:25] forma mecánica
+[00:25:26] [Música]
+[00:25:27] como la podemos aprovechar a esa energía
+[00:25:30] [Música]
+[00:25:32] qué es otra cosa que también nos
+[00:25:34] interesa conocer cómo la podemos
+[00:25:35] aprovechar esa energía que está rotando
+[00:25:37] de ese cuerpo que está rotando
+[00:25:40] hay que aparecer otra cuestión
+[00:25:42] importante
+[00:25:45] [Música]
+[00:25:48] observen qué
+[00:25:52] lamentablemente tampoco podemos
+[00:25:54] aprovechar
+[00:25:56] o sea cuando
+[00:25:59] el volante alcanza una velocidad
+[00:26:03] en la cual llegamos a un límite de la
+[00:26:06] tensión admisible por los materiales
+[00:26:07] podemos ver que esa va a ser nuestra
+[00:26:10] velocidad angular máxima y esa velocidad
+[00:26:13] angular máxima va a estar definida por
+[00:26:16] la tensión admisible de los materiales
+[00:26:20] por ejemplo la resistencia de los
+[00:26:21] materiales
+[00:26:24] pero también aparece una velocidad
+[00:26:27] angular mínima
+[00:26:30] la cual nosotros podemos aprovechar la
+[00:26:32] energía almacenada es decir
+[00:26:36] diego vio cuando el el volante
+[00:26:41] este cuerpo que está rotando está
+[00:26:43] detenido está estático en esa situación
+[00:26:46] no podemos no hay forma de aprovechar
+[00:26:49] energías de atrás el elemento está
+[00:26:51] detenido
+[00:26:52] y esa era la condición más obvia o
+[00:26:58] más clara pero la práctica
+[00:27:02] hay una velocidad angular mínima en la
+[00:27:05] cual el cuerpo está rotando y de la cual
+[00:27:09] esa gracia no podemos aprovechar energía
+[00:27:12] mecánica porque cualquier de cualquier
+[00:27:14] forma que vemos para extraer energía
+[00:27:18] mecánica acumulada el volante se detiene
+[00:27:21] que está detenido estático no hay forma
+[00:27:25] de aprovechar energía
+[00:27:26] [Música]
+[00:27:28] y claro que la forma que nosotros
+[00:27:31] podemos almacenar energía con este
+[00:27:34] dispositivo siempre se da cuando está
+[00:27:37] girando a una velocidad angular esa es
+[00:27:40] la única forma que podemos encontrar
+[00:27:42] para almacenar y extraer energía
+[00:27:46] entonces
+[00:27:47] tengo claro eso esos dos conceptos esos
+[00:27:50] conceptos podemos establecer este factor
+[00:27:53] es el que
+[00:27:54] determina la relación
+[00:27:56] entre la velocidad angular mínima desde
+[00:28:00] la mínima velocidad a la cual podemos
+[00:28:01] aprovechar la energía respecto a la
+[00:28:04] máxima que está limitada por la
+[00:28:06] resistencia de los materiales
+[00:28:08] conociendo este factor reemplazamos o
+[00:28:12] complementamos con la ecuación de
+[00:28:14] energía específica
+[00:28:17] y nos queda que
+[00:28:19] es ecuación energía específica va a
+[00:28:22] depender de ese factor s al cuadrado que
+[00:28:25] es la relación entre las velocidades
+[00:28:27] máximas y mínimas de alguna forma esta
+[00:28:30] expresión está diciendo entre este rango
+[00:28:33] de velocidades de rotación nosotros
+[00:28:35] podemos
+[00:28:36] aprovechar o entrar energía
+[00:28:39] de este volante de inercia
+[00:28:42] [Música]
+[00:28:46] pero perú
+[00:28:46] [Música]
+[00:28:53] aquí les muestro un esquema
+[00:28:56] simple
+[00:28:57] sobre un sistema
+[00:29:02] que utiliza un volante de inercia para
+[00:29:04] acumular energía
+[00:29:07] en este caso el dispositivo está
+[00:29:10] conectado a una red de potencia
+[00:29:12] eléctrica es decir que esté
+[00:29:16] este esquema tiene una alimentación de a
+[00:29:19] partir de la red eléctrica
+[00:29:21] recuerden que las redes de potencia
+[00:29:27] [Música]
+[00:29:31] utilizan
+[00:29:33] tensiones y corrientes de tipo alterna
+[00:29:37] son tanto las tensiones como las
+[00:29:39] corrientes varían en forma periódica con
+[00:29:42] el tiempo a una frecuencia de 50 hertz
+[00:29:46] este sistema lo que hace
+[00:29:48] recibe una experimentación de la red la
+[00:29:52] frecuencia industrial y
+[00:29:54] la transforma esa atención esa atención
+[00:29:59] la transforma a una forma
+[00:30:03] que a una
+[00:30:05] con una señal de tipo continua es el que
+[00:30:08] no varía con el tiempo permanecen
+[00:30:09] constantes a lo largo del tiempo
+[00:30:12] [Música]
+[00:30:14] en esta razón
+[00:30:16] [Música]
+[00:30:21] básicamente
+[00:30:22] tienen relación con la operación de esta
+[00:30:29] máquina que está aquí que es una
+[00:30:32] básicamente es una máquina eléctrica del
+[00:30:36] tipo sincrónica que puede funcionar
+[00:30:38] tanto como motor como generador
+[00:30:42] [Música]
+[00:30:43] entonces
+[00:30:47] si el sistema recibe energía de la red
+[00:30:52] esta máquina eléctrica va a funcionar
+[00:30:56] como motor es decir va sobre el eje de
+[00:31:00] salida del motor no solo acoplamos esa
+[00:31:04] esa potencia mecánica
+[00:31:07] la potencia que tenemos en el uso del
+[00:31:09] eje de salida del motor y accionamos el
+[00:31:12] volante de inercia elección le damos de
+[00:31:15] transformamos esa energía esa potencia
+[00:31:18] del motor eléctrico se da e incorporamos
+[00:31:22] a la sociedad aplicamos al volante y
+[00:31:25] seguramente va a iniciar la rotación y
+[00:31:28] cuando alcance su velocidad
+[00:31:31] angular máxima de rotación
+[00:31:34] podríamos de alguna forma desconectar
+[00:31:37] o desacoplar el motor eléctrico y el
+[00:31:41] volante
+[00:31:43] por sus características de inercia
+[00:31:45] mantendría su velocidad de rotación
+[00:31:51] si en algún momento no solo necesitamos
+[00:31:54] aprovechar la energía acumulada
+[00:31:57] mientras el volante está rotando y
+[00:31:59] necesitamos aprovechar esa energía
+[00:32:02] lo que hacemos es acoplar nuevamente el
+[00:32:05] eje de esta máquina eléctrica pero
+[00:32:09] por el diseño de esta máquina ahora como
+[00:32:11] recibe energía del volante para
+[00:32:14] funcionar como alternador como generador
+[00:32:18] decir esta máquina ahora va a agregar
+[00:32:21] energía a la red
+[00:32:23] [Música]
+[00:32:26] este sistema de la cual nosotros tenemos
+[00:32:30] que convertir la atención alterna y
+[00:32:34] continua
+[00:32:34] se debe a que
+[00:32:38] las características para acondicionar la
+[00:32:42] frecuencia últimamente aquí la
+[00:32:44] frecuencia puede ser variable se va a
+[00:32:48] girar a frecuencias variables mientras
+[00:32:50] que aquí
+[00:32:52] necesita frecuencias constantes
+[00:32:54] [Música]
+[00:32:56] con este sistema lo que hace es
+[00:33:00] acondicionar la frecuencia cada que
+[00:33:03] generar el botón a las condiciones de la
+[00:33:05] red la verificación
+[00:33:11] básicamente ese sería un esquema
+[00:33:15] muy simple
+[00:33:20] de cómo podemos
+[00:33:23] aprovechar esta característica que tiene
+[00:33:27] el volante de inercia para almacenar
+[00:33:31] en forma mecánica
+[00:33:42] y quien es nuestro esta es una imagen
+[00:33:44] real de una
+[00:33:48] volante de inercia o también conocido
+[00:33:51] flywheel
+[00:33:53] que se puede ver
+[00:33:54] [Música]
+[00:33:56] acercamiento
+[00:33:58] 53 detalles
+[00:34:01] esta es la máquina completa aquí en la
+[00:34:06] base este es el volante
+[00:34:09] este es el elemento que
+[00:34:14] de acuerdo a la masa que tiene hacia la
+[00:34:16] cantidad de material que posee aseguran
+[00:34:19] t
+[00:34:20] él
+[00:34:22] el radio es decir la distancia entre
+[00:34:25] este está
+[00:34:26] [Música]
+[00:34:27] entre el
+[00:34:29] borde y el eje de rotación
+[00:34:32] en la cara y el eje de rotación
+[00:34:37] y sumado a la velocidad de mural que le
+[00:34:39] podamos
+[00:34:41] suministrar a este volante cuando
+[00:34:45] alcancemos la velocidad angular máxima
+[00:34:48] este este volante va
+[00:34:52] y mantener su rotación por sí solo de
+[00:34:55] por sí solo
+[00:34:59] aquí podemos ver entonces como la
+[00:35:01] pregunta es cómo
+[00:35:02] [Música]
+[00:35:04] como le damos esa energía siguiente está
+[00:35:06] aquí arriba se puede ver esta máquina
+[00:35:10] la máquina eléctrica en este caso
+[00:35:14] es una máquina eléctrica de tipo
+[00:35:19] de succión de dirección asincrónica que
+[00:35:26] cuando el rotor está detenido entonces
+[00:35:28] la velocidad angular es cero recibe
+[00:35:31] energía de la red y en esta máquina
+[00:35:33] funciona como motor es decir un motor de
+[00:35:36] va a empezar a girar y va a limitar
+[00:35:39] energía
+[00:35:41] cinética al volante
+[00:35:45] al volante de inercia
+[00:35:47] una vez que el volante ya
+[00:35:51] alcanzó su velocidad máxima de
+[00:35:55] o su energía cinética máxima
+[00:35:58] el sistema desconecta el motor o sea
+[00:36:01] eléctricamente el motor deja de
+[00:36:02] suministrar de funcionar y de
+[00:36:04] suministrar energía al volante
+[00:36:07] [Música]
+[00:36:10] el volante va a seguir rotando por sí
+[00:36:13] solo o se ven
+[00:36:15] una característica importante este tipo
+[00:36:17] debe observar las superficies villosa de
+[00:36:21] volante
+[00:36:23] eso indica que la superficie está unida
+[00:36:27] está en una explicación
+[00:36:30] cuanto más lisa sea la superficie del
+[00:36:33] volante menor va a ser la fricción de
+[00:36:36] esa superficie con respecto al aire
+[00:36:41] muchos de estos diseños muchas veces
+[00:36:43] incorporan gases o directamente vacío
+[00:36:46] [Música]
+[00:36:51] en el vacío dentro de la cámara del
+[00:36:55] recinto del volante para reducir al
+[00:36:58] máximo la fricción de la superficie con
+[00:37:01] el aire y
+[00:37:02] el frío que esté en contacto con el
+[00:37:07] volante
+[00:37:08] como les dije al principio este
+[00:37:11] rozamiento lo que hace va a disipar
+[00:37:13] energía y va
+[00:37:16] hacer que el volante con el tiempo vas a
+[00:37:19] perder la energía cinética y
+[00:37:22] su capacidad para
+[00:37:24] mantener la energía acumulada lo mismo
+[00:37:28] pasa con
+[00:37:28] [Música]
+[00:37:30] los rodamientos o en los cojinetes donde
+[00:37:33] giran el volante
+[00:37:36] con el eje que tener un mínimo de
+[00:37:39] rozamiento para que se disipe la menor
+[00:37:42] cantidad de energía en forma de calor
+[00:37:43] por rozamiento
+[00:37:45] [Música]
+[00:37:47] y finalmente si necesitamos generarlo
+[00:37:52] entregar energía eléctrica y en el
+[00:37:55] volante está girando tiene posibilidad
+[00:37:56] de entregar o sea tiene energía cinética
+[00:38:00] acumulada
+[00:38:02] utilizamos la función de como generador
+[00:38:04] es decir conectamos nuevamente la
+[00:38:06] máquina de estar es como generador y
+[00:38:09] finalmente el volante va a entregar
+[00:38:13] un par de rotación en el rotor del
+[00:38:15] alternador iba a entregar energía a la
+[00:38:18] red
+[00:38:19] eso no va a ser hasta que la energía
+[00:38:23] acumulada
+[00:38:25] alcanzó valor mínimo que el alumno pueda
+[00:38:28] entregar más energía a la red
+[00:38:36] es posible
+[00:38:40] aquí la pregunta es cuánto tiempo
+[00:38:45] se puede funcionar
+[00:38:48] hasta ahora con la tecnología
+[00:38:52] desarrollada y probada
+[00:38:56] hay dispositivos que pueden entregar
+[00:38:58] energía hasta 10 minutos
+[00:39:04] hechos
+[00:39:07] similares esto puede entregar energía
+[00:39:10] eléctrica
+[00:39:12] hasta diez minutos por 10 minutos
+[00:39:15] y con potencias
+[00:39:22] cuando dos kilos a 35 kilovatios muchas
+[00:39:25] potencias no muy elevadas pero que van a
+[00:39:29] conseguir alguna aplicación en
+[00:39:32] particular
+[00:39:33] alguna aplicación industrial
+[00:39:35] es interesante en la aplicación
+[00:39:47] este
+[00:39:49] este dispositivo de la firma pilar power
+[00:39:52] system
+[00:39:54] en nuestro otro otro dispositivo estrés
+[00:39:57] un desarrollo un poco más
+[00:40:03] más podemos hacerlo perfilado
+[00:40:08] desde la cima active power
+[00:40:12] el cual
+[00:40:13] aquí podemos ver este es el elemento
+[00:40:17] [Música]
+[00:40:19] este elemento es el volante de inercia
+[00:40:25] y terminar bastante hacia la sedena
+[00:40:28] delante de inercia
+[00:40:30] y del rotor
+[00:40:33] para el
+[00:40:36] motor eléctrico la máquina eléctrica
+[00:40:39] [Música]
+[00:40:42] aquí podemos ver
+[00:40:45] estos son los cojinetes es decir estos
+[00:40:47] son los elementos donde está se apoya el
+[00:40:50] eje de rotación
+[00:40:52] además esta es la duda es decir aquí se
+[00:40:56] gana el campo
+[00:40:57] eléctrico para que la máquina como
+[00:41:07] para qué
+[00:41:14] aquí se pueden ver distintas partes
+[00:41:16] serán que
+[00:41:17] a quien ha estado es un piense se está
+[00:41:21] desarmado
+[00:41:23] pero la práctica esto es esta carcasa la
+[00:41:28] carcasa porque está unida a la carcasa
+[00:41:30] inferior es decir que
+[00:41:33] este sistema funciona se le hace un
+[00:41:35] vacío para que esté armado se hace un
+[00:41:38] proceso de vacío
+[00:41:39] es decir que este rotor giga
+[00:41:42] se busca reducir al máximo a la
+[00:41:45] selección del aire con respecto a la
+[00:41:48] superficie de rotante para
+[00:41:51] aprovechar al máximo la energía cinética
+[00:41:54] que no se desplazó energía siguiente día
+[00:41:57] por flexión
+[00:41:58] [Música]
+[00:42:00] y estos cojinetes
+[00:42:02] [Música]
+[00:42:04] son con clientes magnéticos es decir se
+[00:42:07] le aplicó un campo magnético y el eje
+[00:42:09] queda suspendido
+[00:42:12] o se reduce al máximo la fricción entre
+[00:42:15] los metales porque el eje que no se
+[00:42:18] quedan suspendidos respecto a los apoyos
+[00:42:21] por un campo magnético
+[00:42:23] [Música]
+[00:42:25] permanente
+[00:42:29] entonces éstas serían son dos opciones
+[00:42:32] [Música]
+[00:42:33] y los dispositivos que podemos encontrar
+[00:42:36] hoy en día
+[00:42:41] [Música]
+[00:42:42] y
+[00:42:42] [Música]
+[00:42:44] habrá cerramiento de energía mecánica
+[00:42:48] en argentina
+[00:42:50] todavía no tengo noticia de
+[00:42:54] alguna aplicación realmente esto se está
+[00:42:58] aplicando mucho en otros países la
+[00:43:00] tienda no no tengo noticias si se está
+[00:43:02] aplicando una experiencia para un uso de
+[00:43:07] hora de inercia para con una acción de
+[00:43:10] energía
+[00:43:10] [Música]
+[00:43:13] ah
+[00:43:15] [Música]
+[00:43:18] bien vamos a pasar a otro tipo d
+[00:43:25] y
+[00:43:26] almacenamiento
+[00:43:27] [Música]
+[00:43:28] aquí voy a hacer la aclaración
+[00:43:31] recuerda cuando vimos la primera
+[00:43:35] --clasificación
+[00:43:37] vimos tres tipos de
+[00:43:39] almacenamiento dijimos técnico mecánico
+[00:43:43] y electroquímico solo dice la aclaración
+[00:43:46] que eran definiciones muy simple es muy
+[00:43:50] sintetizada
+[00:43:52] y ese es el caso de el
+[00:43:56] aprovechamiento hidráulico
+[00:43:58] en este caso en la próxima ideológico lo
+[00:44:02] podríamos
+[00:44:03] si bien no es de mecánicos pero los
+[00:44:05] podremos meter en esa clasificación
+[00:44:07] dentro del grupo de almacenamiento
+[00:44:10] mecánico llamamos por qué
+[00:44:15] ah
+[00:44:22] bueno
+[00:44:24] vamos a
+[00:44:26] y analizar cómo es el aprovechamiento
+[00:44:29] hidráulico
+[00:44:32] y cómo se almacena cómo se puede
+[00:44:34] almacenar energía en forma hidráulica
+[00:44:38] este es un esquema simple que
+[00:44:41] corresponde a un aprovechamiento
+[00:44:43] hidroeléctrico
+[00:44:46] o una represa
+[00:44:51] que consiste en el aprovechamiento
+[00:44:54] obviamente estas
+[00:44:56] estas instalaciones vuestras centrales
+[00:44:59] tienen varios componentes uno es lo que
+[00:45:03] se llama el la presa o el dique
+[00:45:08] y este elemento
+[00:45:12] tiene la función
+[00:45:14] [Música]
+[00:45:16] d
+[00:45:18] primero retener o impedir el paso de
+[00:45:22] agua
+[00:45:25] sobre un cauce de agua de un río
+[00:45:29] barcos más comunes de un río sólo un río
+[00:45:31] [Música]
+[00:45:34] esta estos discos estas presas
+[00:45:37] para impedir el paso de agua para ser
+[00:45:41] una restricción a la circulación del
+[00:45:44] agua en el paso natural del agua y esa
+[00:45:47] restricción lo que hace es incrementar
+[00:45:51] la cota o la altura del cauce este nivel
+[00:45:56] superior se denomina cota de embalse
+[00:45:58] porque porque
+[00:46:01] como éste la presa bondi que es hace las
+[00:46:05] veces de restricción al paso del agua
+[00:46:09] este incremento de el nivel lo que está
+[00:46:12] haciendo logrando es acumulación de agua
+[00:46:15] aguas arriba al lic
+[00:46:19] [Música]
+[00:46:21] y ahí ya tenemos
+[00:46:24] el principal indicio
+[00:46:26] de cómo almacena energía
+[00:46:29] un aprovechamiento hidroeléctrico
+[00:46:32] [Música]
+[00:46:36] en el almacenamiento de energía se basa
+[00:46:38] en la incremento en el incremento de
+[00:46:41] esta altura o esta cota de embalse
+[00:46:48] y el hecho de acumular agua aguas arriba
+[00:46:52] también es otro factor que
+[00:46:55] define la característica y la capacidad
+[00:46:58] de almacenamiento de energía
+[00:47:00] todo ese agua que permanece que se
+[00:47:03] acumula en el embalse es energía que
+[00:47:07] tenemos almacenada en este en este
+[00:47:09] sistema
+[00:47:12] el lic y demás y la presa si bien
+[00:47:19] es una restricción al paso natural otra
+[00:47:22] función es regular el caudal de diesel
+[00:47:24] controlan el agua el poco caudal
+[00:47:27] o el caudal que puede que la presa
+[00:47:30] permite
+[00:47:32] se puede regular y controlar de acuerdo
+[00:47:35] a las necesidades esa es la otra función
+[00:47:37] importante del dique que nadie controlar
+[00:47:40] el paso de agua o el caudal
+[00:47:43] [Música]
+[00:47:45] para que vamos a necesitar ese ese
+[00:47:48] caudal de agua
+[00:47:50] controlado para
+[00:47:53] aumentar ese conduce que se de caudal
+[00:47:55] hacia una máquina hidráulica esa máquina
+[00:48:00] hidráulica
+[00:48:01] tiene la capacidad de transformar
+[00:48:05] la energía potencial
+[00:48:08] que tiene el embalse
+[00:48:10] la transforma en energía cinética de
+[00:48:13] rotación es decir hace rotar
+[00:48:16] la turbina hidráulica
+[00:48:19] y eso esa rotación se transmite en un
+[00:48:25] par de rotación sobre un eje de salida
+[00:48:27] de la máquina hidráulica
+[00:48:30] a su vez el eje de salida de la máquina
+[00:48:33] hidráulica metro mina está directamente
+[00:48:36] acoplada a una máquina eléctrica
+[00:48:39] sincrónica o un alternador
+[00:48:42] [Música]
+[00:48:43] es decir que esta actividad era única
+[00:48:45] entrega de potencia mecánica al eje del
+[00:48:48] alternador y este alternador entregada
+[00:48:51] pues la convierte a esa energía energía
+[00:48:53] eléctrica que se suministra a la red
+[00:48:55] [Música]
+[00:48:58] el agua que atraviesa turbinas sale por
+[00:49:02] el conducto de descarga con elisa
+[00:49:06] en un canal de red que sea una
+[00:49:11] una cuenca
+[00:49:14] o una zona de ser una de restitución
+[00:49:19] cuál es la clave del funcionamiento de
+[00:49:22] este este sistema hace la diferencia de
+[00:49:26] alturas entre la cota de embalse y esta
+[00:49:30] cota de restitución la diferencia de
+[00:49:33] alturas va a decir
+[00:49:36] esa diferencia se denomina salto
+[00:49:42] el salto salto bruto del aprovechamiento
+[00:49:46] de acuerdo a esa a esa diferencia de
+[00:49:50] alturas nosotros vamos a tener mayor o
+[00:49:53] menor energía potencial
+[00:49:56] para el aprovechamiento en este caso de
+[00:50:00] generación de energía
+[00:50:03] [Música]
+[00:50:06] nada
+[00:50:12] aquí la clave de esa
+[00:50:16] el envase para acumular agua de esa
+[00:50:19] forma
+[00:50:20] definimos
+[00:50:22] la capacidad de almacenamiento
+[00:50:25] energético de este sistema
+[00:50:28] en contra
+[00:50:33] en las calles políticas
+[00:50:36] geográfica topográficas del número de
+[00:50:39] meta la central
+[00:50:40] podemos mayor o menor santo y también
+[00:50:47] mayor o menor capacidad de
+[00:50:50] almacenamiento entonces vamos a
+[00:50:51] encontrar centrales que pueden almacenar
+[00:50:53] agua
+[00:50:56] en el embalse y se puede aprovechar
+[00:50:59] durante cierta cantidad de horas durante
+[00:51:03] el día
+[00:51:06] una vez que
+[00:51:07] pasadas esta cantidad horas pase alcance
+[00:51:11] un nivel mínimo y ya no se puede
+[00:51:12] aprovechar más energía potencial y otros
+[00:51:16] casos que hay
+[00:51:18] [Música]
+[00:51:20] muchísima capacidad de base puede ser
+[00:51:22] muy grande puede ser los casos de el
+[00:51:26] nombre en argentina salto grande la
+[00:51:28] represa de salto grande o la represa de
+[00:51:31] yacyretá
+[00:51:33] se caracterizan por
+[00:51:36] tener la posibilidad de generar envases
+[00:51:39] de gran volumen y eso permite acumular
+[00:51:43] energía hasta osella con el agua
+[00:51:46] acumulada la act le puede
+[00:51:48] y genera energía por varios días
+[00:51:50] [Música]
+[00:51:52] gracias a esa gran capacidad de
+[00:51:54] almacenamiento de agua
+[00:51:58] entonces esta sería una forma también
+[00:52:01] válida
+[00:52:03] para el almacenamiento de energía de
+[00:52:06] caso en forma hidráulica
+[00:52:15] recuerden este concepto de máquina
+[00:52:18] hidráulica
+[00:52:19] o sea recién le dije que esta máquina
+[00:52:22] hidráulica era una turbina
+[00:52:25] pero aquí en esquema les puse máquina y
+[00:52:27] dragón implante eso tiene una razón
+[00:52:30] porque hay una variante para este tipo
+[00:52:33] de aprovechamientos
+[00:52:36] quería mostrar
+[00:52:38] [Música]
+[00:52:41] bueno aquí les muestro cómo podemos
+[00:52:46] determinar la energía
+[00:52:48] que se puede almacenar
+[00:52:52] [Música]
+[00:52:55] aprovechamiento hidráulico
+[00:52:57] [Música]
+[00:53:01] de una presa que está tiene una cierta
+[00:53:04] cantidad un cierto volumen de agua
+[00:53:05] acumulada o sea que tenemos un embalse
+[00:53:10] las características de este
+[00:53:13] aprovechamiento en que la empresa está
+[00:53:15] haciendo a distancia de la máquina de la
+[00:53:19] turbina entonces
+[00:53:23] el agua acumulada se conduce a través de
+[00:53:26] un canal de derivación
+[00:53:29] y luego se
+[00:53:33] distribuye en este canal puede ser
+[00:53:36] abierto o cerrado
+[00:53:38] en este día los tubos de presión son
+[00:53:41] todos cerrados y alimentan directamente
+[00:53:43] a las turbinas hidráulicas
+[00:53:46] [Música]
+[00:53:48] y aquí podemos tenemos representadas
+[00:53:51] a distintas alturas
+[00:53:54] tenemos que hay una característica esta
+[00:53:58] altura h1
+[00:54:01] y saben que es la diferencia de altura
+[00:54:03] entre
+[00:54:06] la cota de exclusión o la altura que
+[00:54:08] tenemos sobre el dique respecto a un
+[00:54:12] punto lejano del
+[00:54:14] embalse
+[00:54:15] [Música]
+[00:54:18] hay una característica se presenta
+[00:54:20] generalmente se denomina
+[00:54:31] como este
+[00:54:34] una cuestión una cuestión de
+[00:54:38] d
+[00:54:41] las partículas que tiene el agua como
+[00:54:43] fluido
+[00:54:45] por la restricción que ofrece el paso la
+[00:54:47] presa se puede medir o determinar una
+[00:54:50] diferencia de altura entre
+[00:54:53] que se mide sobre el dique y aguas
+[00:54:57] arriba de las bases puede aparecer una
+[00:54:58] diferencia de alturas ese que
+[00:55:01] podríamos considerar una primera
+[00:55:05] diferencia
+[00:55:07] de altura si lo medimos a cierta
+[00:55:09] distancia de la empresa
+[00:55:11] [Música]
+[00:55:15] después si esa es el agua la conducimos
+[00:55:18] a través de conductos como pueden ser
+[00:55:20] los canales de derivación por la tubería
+[00:55:22] de presión el rozamiento que tiene el
+[00:55:25] agua sobre las paredes de estos
+[00:55:27] conductos que
+[00:55:29] disipan energía de si se pierde energía
+[00:55:33] por el rozamiento que tiene el fluido
+[00:55:36] contra las paredes de los canales y las
+[00:55:39] tuberías
+[00:55:39] sólo podemos computar como perdieron se
+[00:55:42] calcula pérdida de altura es decir
+[00:55:45] a la altura
+[00:55:48] total h en este caso sería la altura
+[00:55:51] total h el salto bruto que
+[00:55:54] es la altura entre
+[00:55:58] la restitución es el nivel mínimo que
+[00:56:01] alcanza el agua respecto al máximo nivel
+[00:56:03] que pueda tener a cierta distancia
+[00:56:04] respecto de la edad 3
+[00:56:06] [Música]
+[00:56:08] saben que a esta altura total que
+[00:56:12] nosotros medimos tenemos que restarle
+[00:56:14] esta pérdida altura por rebase
+[00:56:17] después las pérdidas que aparecen por
+[00:56:21] las fricciones del fluido con las
+[00:56:24] paredes de los tubos y finalmente
+[00:56:27] tenemos el saldo neto el salto neto este
+[00:56:32] [Música]
+[00:56:34] él
+[00:56:35] [Música]
+[00:56:38] está a
+[00:56:41] la altura
+[00:56:47] para el cálculo de la energía potencial
+[00:56:50] [Música]
+[00:56:53] ahora
+[00:56:56] es decir la energía almacenada
+[00:57:02] en un embalse
+[00:57:05] en primer lugar ya que ésta se almacena
+[00:57:08] en forma de energía potencial el
+[00:57:11] concepto de energía potencial
+[00:57:13] se basa en una diferencia de alturas en
+[00:57:18] este caso para el agua va a ser
+[00:57:19] proporcional a la masa
+[00:57:22] utilizamos por qué que es la aceleración
+[00:57:25] de la gravedad
+[00:57:27] así que la expresión para calcular la
+[00:57:29] energía potencial del santo
+[00:57:32] pero como nosotros
+[00:57:36] a través del lic
+[00:57:38] conducimos en el agua dejamos que el
+[00:57:40] agua en forma controlada pase o se
+[00:57:42] desplace a través de los canales y las
+[00:57:44] tuberías
+[00:57:45] ese agua ese flujo ese caudal de agua y
+[00:57:49] una velocidad al tener una velocidad o
+[00:57:52] un desplazamiento también va a tener una
+[00:57:55] velocidad una energía cinética
+[00:57:58] en este caso la energía cinética es na
+[00:58:00] computamos la velocidad lineal
+[00:58:02] [Música]
+[00:58:04] poder subir
+[00:58:09] esta velocidad de agua la podemos
+[00:58:11] calcular en base a 2 como si fuera
+[00:58:17] consideren el concepto de caída libre
+[00:58:21] de un cuerpo es decir podemos que en
+[00:58:24] base a la raíz cuadrada de 2 por
+[00:58:27] aceleración de la gravedad por la altura
+[00:58:29] h de legislatura
+[00:58:30] [Música]
+[00:58:31] entre el 1
+[00:58:36] e
+[00:58:38] el plan de restitución
+[00:58:41] podemos definir esta velocidad que va a
+[00:58:43] tener en el fluido
+[00:58:47] para intensamente
+[00:58:50] finalmente relacionando estas tres
+[00:58:53] expresiones
+[00:58:55] podemos determinar la potencia que va a
+[00:58:59] entregar la máquina hidráulica o las
+[00:59:01] turbinas
+[00:59:03] no saben qué va a ser función la
+[00:59:06] potencia va a depender
+[00:59:08] en primer lugar de el saldo neto es
+[00:59:12] decir la altura
+[00:59:16] que podemos aprovechar de contando todas
+[00:59:19] las pérdidas del sistema por fricción
+[00:59:22] toda la pérdida de carga por acción
+[00:59:27] va a ser en función de proporcionar el
+[00:59:30] caudal de agua el caudal de agua se
+[00:59:33] calcula en base a la velocidad lineal
+[00:59:36] por la sección que tiene es la sección
+[00:59:39] transversal del
+[00:59:41] el flujo de agua
+[00:59:43] [Música]
+[00:59:45] también va a ser proporcional a la
+[00:59:47] densidad del agua
+[00:59:48] [Música]
+[00:59:49] por un factor n que es un factor muy que
+[00:59:54] es el rendimiento
+[00:59:58] el rendimiento de
+[01:00:01] hidráulico de el sistema con este factor
+[01:00:06] no estamos contemplando todas las
+[01:00:09] pérdidas
+[01:00:11] en el sistema
+[01:00:14] [Música]
+[01:00:16] es menor
+[01:00:18] [Música]
+[01:00:21] de esta forma podemos determinar la
+[01:00:23] potencia mecánica que entrega la turbina
+[01:00:30] a través de su original
+[01:00:32] la potencia que
+[01:00:35] va a compartir esa potencia en potencia
+[01:00:38] eléctrica
+[01:00:40] ah
+[01:00:43] ah
+[01:00:53] y aquí aparece una variante éste sería
+[01:00:56] lo que vimos hasta ahora
+[01:00:59] podemos denominar los centrales con
+[01:01:02] hidráulicas
+[01:01:04] la zona más común es la que más se ven a
+[01:01:07] diario
+[01:01:09] hay una variante
+[01:01:11] con respecto a la explotación de el
+[01:01:13] aprovechamiento que son las centrales de
+[01:01:15] bombero
+[01:01:17] [Música]
+[01:01:21] el almacenamiento de agua los embalses
+[01:01:24] mediante el bombeo
+[01:01:26] permite acumular energía potencial en el
+[01:01:30] salto hidráulico
+[01:01:31] [Música]
+[01:01:33] es decir
+[01:01:36] mediante si nosotros tenemos la
+[01:01:39] posibilidad de cuando la cota del
+[01:01:43] embalse
+[01:01:49] voy a regresar un poquito
+[01:01:52] ah
+[01:01:54] si volvemos a este esquema
+[01:01:57] de
+[01:01:59] nosotros durante siete tiempo
+[01:02:02] aprovechamos la energía
+[01:02:05] acumulada del envase
+[01:02:07] hasta llegar a un valor mínimo en off
+[01:02:11] no se puede progresar más
+[01:02:14] qué hacemos y no hay aporte o sea el
+[01:02:18] aporte que es que el río de causa no es
+[01:02:22] suficiente como para incrementar
+[01:02:23] rápidamente ese nivel
+[01:02:26] una opción es
+[01:02:30] conducir el agua que se utilizó quedó en
+[01:02:33] el canal de restricción una
+[01:02:36] causa de restricción bombearlo
+[01:02:38] entrenador no nuevamente conducirlo
+[01:02:41] nuevamente hacia el envase
+[01:02:44] y de esa forma implementará más
+[01:02:46] rápidamente el nivel
+[01:02:50] o la cota de embalse
+[01:02:54] eso sería una la una clave o algo
+[01:02:57] importante una variante importante lo
+[01:03:00] mejor importante del del sistema
+[01:03:03] es decir
+[01:03:06] ellos me parecen las centrales del
+[01:03:07] bombeo de
+[01:03:09] esa particularidad que pueden una vez
+[01:03:13] qué
+[01:03:16] utilizado en agua o como se dice en la
+[01:03:18] jerga se turbine o el agua y ya no queda
+[01:03:22] agua disponible en el envase está sen
+[01:03:25] tiene la posibilidad de
+[01:03:27] transportar conducir o
+[01:03:30] restituir el agua aguas abajo bombear
+[01:03:34] las y conducirla nuevamente hacia el
+[01:03:35] embalse
+[01:03:38] esta posibilidad facilita la nivelación
+[01:03:41] de las curvas de demanda de energía
+[01:03:44] eléctrica
+[01:03:45] recuerdan lo que vimos la semana pasada
+[01:03:48] en la presentación pasada cuando vimos
+[01:03:51] los diagrama de carga
+[01:03:54] que vaya mucho
+[01:03:56] esta central de bombeo permiten alguna
+[01:03:59] forma nivelar esas esas radiaciones
+[01:04:03] llamar por qué
+[01:04:08] estos sistemas requieren un reservorio a
+[01:04:11] nivel superior o el embalse y otro
+[01:04:13] reservorio a nivel inferior
+[01:04:16] logrando de esta forma el intercambio de
+[01:04:19] bajones de agua entre los mismos
+[01:04:22] es decir gracias al bombeo
+[01:04:25] este sistema puede intercambiar el
+[01:04:28] volumen de agua entre el envase y la
+[01:04:31] restitución en forma
+[01:04:34] controlada y de acuerdo a las
+[01:04:37] necesidades
+[01:04:41] la economía que ofrece esta opción
+[01:04:43] depende del balance entre el valor de la
+[01:04:46] energía generada y el costo de bombeo
+[01:04:52] sabe por qué es importante este concepto
+[01:04:57] en él
+[01:04:59] muestro un caso real de un esquema pero
+[01:05:03] corresponde a una central de bombeo
+[01:05:07] en la provincia de mendoza que se llama
+[01:05:09] los residuos
+[01:05:12] se ve un esquema completo del
+[01:05:15] aprovechamiento que podemos ver qué
+[01:05:19] tenemos este es el embalse
+[01:05:23] el aprovechamiento decir
+[01:05:27] mediante una serie aquí no se logra ver
+[01:05:30] la presa lógica y no está directamente
+[01:05:33] sobre la
+[01:05:36] aprovechamiento sino que está en otros
+[01:05:38] lugares esa distribución de diques y
+[01:05:42] represas permiten ésta
+[01:05:45] esta acumulación de agua sobre esta
+[01:05:48] central
+[01:05:51] y podemos ver el conducto de
+[01:05:54] alimentación de turbinas con la
+[01:05:56] conducción de agua a través de este tubo
+[01:05:59] cerrado vamos a ver que atraviesa o pasa
+[01:06:03] a través de una montaña
+[01:06:07] se conduce agua a través de este túnel
+[01:06:11] hasta
+[01:06:13] la sala de máquinas donde tenemos estas
+[01:06:16] turbinas
+[01:06:17] estas turbinas están directamente
+[01:06:19] acopladas a un alternador y
+[01:06:23] cuando operan entregan energía eléctrica
+[01:06:25] a la red
+[01:06:26] [Música]
+[01:06:27] se puede ver que el agua que ingresa a
+[01:06:30] la turbina se transforma en energía
+[01:06:32] potencial energía cinética
+[01:06:35] es energía significa a su vez es en
+[01:06:37] parte de la actuación y de luego de
+[01:06:40] impotencia eléctrica el agua sigue su
+[01:06:44] camino y se acumula en lo que se llama
+[01:06:51] la cuenta de restitución aguas abajo
+[01:06:55] de el aprovechamiento
+[01:06:59] [Música]
+[01:07:01] cuál es la particularidad de este
+[01:07:04] central que bueno
+[01:07:07] aquí se puede ver que tienen una
+[01:07:12] un rango de variación de
+[01:07:14] cuota bastante
+[01:07:19] un rango de variación de la cuota del
+[01:07:21] envase es el que
+[01:07:24] una vez que la cuota alcanzó su valor
+[01:07:27] mínimo
+[01:07:29] esta central ya no se puede operar lo
+[01:07:32] que no puede entregar transforma la
+[01:07:35] energía potencial en energía eléctrica
+[01:07:38] todo el agua que se condujo hacia asia
+[01:07:42] las turbinas queda acumulada en este
+[01:07:46] reservorio a nivel inferior
+[01:07:51] creo que se hace es aquí están marcados
+[01:07:53] ustedes se están marcados los niveles
+[01:07:56] máximos que puede alcanzar y podemos la
+[01:07:59] diferencia que puede alcanzar y la
+[01:08:02] altura en el reservorio inferior
+[01:08:04] [Música]
+[01:08:06] qué se hace cuando por ejemplo
+[01:08:07] alcanzamos el máximo la máxima altura
+[01:08:11] del residuo interior
+[01:08:14] vamos a recurrir al bombeo es decir este
+[01:08:19] sistema tiene la particularidad y por
+[01:08:21] eso hoy se menciona la máquina
+[01:08:23] hidráulica
+[01:08:25] porque esta máquina unicachi la
+[01:08:26] posibilidad de expulsar tanto como
+[01:08:29] turbina
+[01:08:30] como bomba tiene puede sonar como una
+[01:08:33] turbina hidráulica o como bomba la
+[01:08:36] diferencia es que cuando funciona como
+[01:08:38] turbina la máquina entrega potencia
+[01:08:44] transforma la energía potencial en el
+[01:08:46] que hace crítica y entrega potencia a
+[01:08:47] través de su eje
+[01:08:49] cuando funciona como bomba
+[01:08:53] el proceso es inverso la máquina recibe
+[01:08:56] potencia a su eje y transforma la
+[01:08:58] energía
+[01:09:00] cinética del fluido en su
+[01:09:03] supuesta energía potencial en el 100
+[01:09:06] conduce el agua a través de la bomba
+[01:09:09] nuevamente hacia el embalse superior o
+[01:09:13] el reservorio superior en esa forma
+[01:09:16] completamos rellenamos nuevamente el
+[01:09:20] envase hasta su nivel
+[01:09:23] maxim
+[01:09:29] y la pregunta es
+[01:09:34] si bien cuando la máquina funciona como
+[01:09:37] turbina
+[01:09:39] es el que transforma energía potencial
+[01:09:42] energía series / entrega energía
+[01:09:44] eléctrica a la red
+[01:09:46] cómo funciona la máquina hidráulica como
+[01:09:49] bomba
+[01:09:50] como de donde como transforma donde
+[01:09:53] recibe energía para que funcione como
+[01:09:55] bomba de una bomba básicamente una bomba
+[01:09:59] que necesita un motor eléctrico y ese
+[01:10:03] motor eléctrico necesita energía toda la
+[01:10:05] energía regulado
+[01:10:07] básicamente toma energía de la red desea
+[01:10:11] se conecta recibe energía de la red
+[01:10:14] [Música]
+[01:10:17] recuerden que
+[01:10:19] la eléctrica
+[01:10:22] aquí en particular que pueden funcionar
+[01:10:23] tanto como motor como generador si no
+[01:10:27] hace falta cambiar de máquina hidráulica
+[01:10:29] podemos utilizar el mismo
+[01:10:32] la misma máquina eléctrica perdón
+[01:10:36] cuando la máquina eléctrica recibe
+[01:10:38] energía de la red funciona como motor y
+[01:10:41] de esa forma acciona la máquina
+[01:10:44] hidráulica que en este caso funciona
+[01:10:45] como más y tenemos el proceso inverso
+[01:10:50] tomamos agua del nivel inferior y lo
+[01:10:52] conducimos o lo transportamos hacia el
+[01:10:55] nivel superior
+[01:11:00] aquí la clave que posea eso por la
+[01:11:03] escala de
+[01:11:05] el volumen del agua
+[01:11:08] a transportar de un nivel a otro es tan
+[01:11:11] importante que estamos una bomba y un
+[01:11:14] motor eléctrico muy potente que consume
+[01:11:17] mucha energía es decir que el costo de
+[01:11:21] bombeo
+[01:11:23] no es considerable en un costo esto
+[01:11:27] tiene un costo de esta empresa está este
+[01:11:32] aprovechamiento tiene que pagar
+[01:11:35] [Música]
+[01:11:37] por el consumo de energía durante el
+[01:11:40] bombeo
+[01:11:41] cuando genera energía
+[01:11:43] cobra por esa energía recibida por esa
+[01:11:46] energía producida pero cuando bombea
+[01:11:48] tiene que pagar
+[01:11:51] con energía que recibe
+[01:11:53] [Música]
+[01:11:54] entonces
+[01:11:57] para que ese costo sea mínimo lo que se
+[01:12:00] hace se trata de proceder que el bombeo
+[01:12:04] se realice durante la noche recuerda
+[01:12:06] cuando vimos la gráfica del diagrama de
+[01:12:08] carga que en la madrugada hasta la acera
+[01:12:11] mañana generalmente la demanda de
+[01:12:14] energía era mínima
+[01:12:17] entonces en ese solar y lógicamente se
+[01:12:19] aprovecha para tomar energía cuando el
+[01:12:23] precio de la energía de trabajo
+[01:12:26] no hay tanta demanda se toman elegidos
+[01:12:29] para reaccionar estas bombas eso permite
+[01:12:32] nivelar o sea
+[01:12:34] y hacerlo un poco más plana la aceptamos
+[01:12:37] lo hace tanta diferencia
+[01:12:40] entre la demanda mínima y la máxima
+[01:12:42] drama de carga y contribuyen también a
+[01:12:46] esa liberación en el sistema
+[01:12:51] y minimiza el costo también operativo
+[01:12:53] del bombeo
+[01:13:03] [Música]
+[01:13:10] vivos
+[01:13:15] este es el esquema
+[01:13:20] será el esquema de cómo funciona la
+[01:13:24] central de bombeo nosotros damos agua
+[01:13:27] acumulada en el envase principal a un
+[01:13:30] nivel
+[01:13:31] superior
+[01:13:33] cuando queremos aprovechar esa energía
+[01:13:35] acumulada para producir en energía
+[01:13:38] eléctrica
+[01:13:41] cuando hicimos el agua desde el envase
+[01:13:43] superior hacia la turbina hidráulica
+[01:13:45] esa turbina de la única que acciona el
+[01:13:49] alternador y entrega energía a la red es
+[01:13:52] decir la turbina en este caso suministra
+[01:13:54] energía eléctrica cuando el precio de la
+[01:13:57] energía es
+[01:13:59] elevado
+[01:14:01] de esa forma
+[01:14:03] la empresa que la empresa
+[01:14:06] [Música]
+[01:14:10] una empresa de gira ahora percibe más
+[01:14:13] energía producida
+[01:14:15] [Música]
+[01:14:16] en cambio cuando el costo de la energía
+[01:14:20] es reducido y ya se utilizó o se
+[01:14:25] consumió parte del agua acumulada en el
+[01:14:27] vaso
+[01:14:28] no sólo podemos invertir en el proceso
+[01:14:31] es decir tomar agua del nivel inferior o
+[01:14:34] del contraembalse
+[01:14:38] cambiar la operación es el
+[01:14:39] funcionamiento de la máquina hidráulica
+[01:14:40] en vez de dimensionar cómo tiene que ser
+[01:14:42] cómo va y cuándo si nuevamente otra
+[01:14:46] forma mente el agua hacia el embalse
+[01:14:48] [Música]
+[01:14:52] entonces el envase principal cumple con
+[01:14:56] su función de regular el curso de agua y
+[01:14:58] lograr la acumulación de agua
+[01:15:01] el coltán base en el reservorio que está
+[01:15:06] a nivel inferior retiene los volúmenes
+[01:15:08] de agua en terminados para su posterior
+[01:15:10] bombeo derogación
+[01:15:13] y de esta forma
+[01:15:15] podemos decir que la central buen
+[01:15:18] aprovechamiento de tiene la posibilidad
+[01:15:20] de operar en forma
+[01:15:22] reversible
+[01:15:26] y la máquina
+[01:15:27] funciona como tanto como motores
+[01:15:34] como bombas o como generadores
+[01:15:38] esta es una característica interesante
+[01:15:40] de estos aprovechamientos
+[01:15:42] en argentina hay varios casos no se les
+[01:15:45] mostré los reyunos
+[01:15:49] después tenemos la central córdoba el
+[01:15:51] río grande
+[01:15:52] también
+[01:15:55] hay muchas experiencias
+[01:15:58] la coca del comedor también es estable
+[01:16:01] del empleo
+[01:16:04] en este caso este tipo de centrales hay
+[01:16:06] mucha experiencia en muchos casos en
+[01:16:09] argentina y que
+[01:16:11] se pueden se puede que aplican este
+[01:16:15] concepto de bombeo y permiten al
+[01:16:19] menciona miento de forma hidráulica de
+[01:16:22] energía
+[01:16:29] bien
+[01:16:31] es un central de bombeo
+[01:16:36] son muy interesantes
+[01:16:39] e
+[01:16:41] pero tiene una particularidad con
+[01:16:44] respecto al rendimiento
+[01:16:47] es decir si dijimos anteriormente que
+[01:16:50] son las máquinas pueden funcionar
+[01:16:54] por ejemplo la maquinaria puedes usar
+[01:16:56] tanto como bombas como obstruía el
+[01:16:59] alternador funciona tanto como un motor
+[01:17:01] con un generador
+[01:17:02] [Música]
+[01:17:03] e
+[01:17:06] no suele o sea
+[01:17:09] y decimos que son reversibles
+[01:17:11] técnicamente pero
+[01:17:13] energéticamente no son reversibles
+[01:17:16] es decir
+[01:17:18] la energía
+[01:17:22] que se consume para producir energía
+[01:17:25] eléctrica
+[01:17:28] no se puede
+[01:17:29] aprovechar totalmente para bombear la
+[01:17:33] totalidad del agua es decir como hay
+[01:17:35] pérdidas de energía en todo el proceso
+[01:17:40] esta reversibilidad no es el nuestro que
+[01:17:44] completa
+[01:17:46] [Música]
+[01:17:48] energéticamente no se puede lograr esa
+[01:17:50] reversibilidad es decir
+[01:17:53] aquí tenemos este esquema que
+[01:17:54] interesante
+[01:17:57] en la cual es un esquema de balance
+[01:18:01] energético
+[01:18:03] en donde tenemos representada
+[01:18:07] la energía
+[01:18:13] acumulada en el base de referencia
+[01:18:18] cien por cien cuando el envase está a su
+[01:18:21] cota máxima de aprovechamiento
+[01:18:27] cuando la en este caso cuando
+[01:18:30] aprovechando funciona como generador de
+[01:18:33] energía hace que entrega energía
+[01:18:34] eléctrica a la red
+[01:18:37] sabemos que el caudal de agua o la
+[01:18:40] energía potencial va a presentar cierta
+[01:18:42] cantidad de pérdidas
+[01:18:43] [Música]
+[01:18:45] a través de los conductos eso va a
+[01:18:48] reducir el rendimiento y
+[01:18:52] además vamos a tener pérdidas
+[01:18:57] en la turbina la máquina hidráulica
+[01:18:59] vamos a tener pérdidas eléctricas tanto
+[01:19:02] en el entrenador como el transformador
+[01:19:04] de potencia
+[01:19:05] y finalmente la energía eléctrica total
+[01:19:12] entregada a la red va a ser puede
+[01:19:15] llegarse un incremento menor puede ser
+[01:19:17] hacer 77 por ciento de la energía total
+[01:19:22] disponible en el barça
+[01:19:25] [Música]
+[01:19:27] en el caso inverso si funciona como
+[01:19:31] bomba es decir
+[01:19:33] [Música]
+[01:19:34] tengo que sumar la
+[01:19:37] las pérdidas que tenemos en las pérdidas
+[01:19:40] las pérdidas de carga a través de la
+[01:19:43] bomba y del de las tuberías más la la
+[01:19:46] eficiencia del motor tenemos esta otra
+[01:19:49] diferencia entonces esta sería otra otra
+[01:19:53] parte del balance qué
+[01:19:56] hace perder el rendimiento total de ley
+[01:19:59] del interacción finalmente
+[01:20:03] séptima qué
+[01:20:05] un tercio de energía se pierde entre el
+[01:20:09] aprovechamiento y después el de la
+[01:20:12] energía total acumulada en la base la
+[01:20:14] energía producida y luego la bombeada
+[01:20:17] tenemos en un ciclo tenemos
+[01:20:19] prácticamente un tercio de la energía
+[01:20:21] que se pierde
+[01:20:26] pero
+[01:20:28] no obstante
+[01:20:30] si bien es un valor importante pero
+[01:20:34] termina siendo interesante
+[01:20:36] sí
+[01:20:39] y mantenemos el interés en lograr
+[01:20:42] almacenamiento de energía
+[01:20:46] y aprovechar muchas veces la energía
+[01:20:49] disponible lejía eléctrica disponible en
+[01:20:51] la red en horas de la madrugada cuando
+[01:20:53] la demanda efe se puede aprovechar esa
+[01:20:56] energía disponible y se acumula de esta
+[01:20:59] forma
+[01:21:05] bien
+[01:21:06] [Música]
+[01:21:09] vamos a seguir con los
+[01:21:12] los tipos de almacenamiento de tipo
+[01:21:14] mecánico
+[01:21:15] otra variante que es
+[01:21:18] es el aire comprimido
+[01:21:21] otro caso otra variante otra alternativa
+[01:21:23] dentro de la podemos citar
+[01:21:27] el almacenamiento de aire comprimido
+[01:21:30] [Música]
+[01:21:31] en este caso
+[01:21:35] sólo podemos organizar que ha pasado
+[01:21:39] rápido análisis relacionado con
+[01:21:42] la termodinámica de los gases del aire
+[01:21:45] que podemos considerar
+[01:21:49] las condiciones ideales para el aire y
+[01:21:52] de esas condiciones vamos a contar qué
+[01:21:56] y existe una relación entre la presión
+[01:21:59] del aire y el volumen que ocupa dentro
+[01:22:03] de un recinto eso va a ser igual a una
+[01:22:06] constante
+[01:22:08] porque una constante n que representa la
+[01:22:12] cantidad
+[01:22:13] [Música]
+[01:22:15] en ese recinto
+[01:22:17] [Música]
+[01:22:19] por la constante de ramón y la
+[01:22:21] temperatura esta relación se mantiene
+[01:22:24] constante es una característica que
+[01:22:28] podemos mostrar con los gases lazo con
+[01:22:30] el aire sesiones ideales
+[01:22:39] esta esta visión no podemos representar
+[01:22:42] gráficamente la presión volumen
+[01:22:48] en el cual cualquier variación de
+[01:22:50] temperatura de t1 t2 vemos que la
+[01:22:54] presión se mantiene constante
+[01:22:56] [Música]
+[01:22:59] ah
+[01:23:00] [Música]
+[01:23:03] en cuanto a la energía al aumentar la
+[01:23:08] presión
+[01:23:09] aumentaba la presión
+[01:23:13] [Música]
+[01:23:16] el valor de presión de cero pesos 1 y el
+[01:23:21] seguimiento de presión requiere una
+[01:23:23] cierta cantidad de energía o de trabajo
+[01:23:25] que sólo lo podemos determinar en base a
+[01:23:29] esta ecuación
+[01:23:30] literalmente se define con una relación
+[01:23:33] logarítmica entre el volumen de 0 y 1
+[01:23:39] [Música]
+[01:23:43] técnicamente lo podemos representar con
+[01:23:45] esta este esquema donde tenemos
+[01:23:47] un recinto
+[01:23:50] cerrado y un émbolo
+[01:23:53] el triángulo cuando
+[01:23:56] cambiamos la aplicamos una
+[01:23:59] trabajo sobre el émbolo y reducimos el
+[01:24:02] volumen
+[01:24:05] se va a cumplir esta condición es decir
+[01:24:07] pasamos de un volumen inicial a uno
+[01:24:10] final
+[01:24:13] o en este caso sería al revés ya pasamos
+[01:24:15] de 10
+[01:24:17] se reduce
+[01:24:20] por esta condición y dad
+[01:24:22] vamos a tener una variación de
+[01:24:24] temperatura del aire pero la presión se
+[01:24:28] va a mandar en constantes
+[01:24:29] [Música]
+[01:24:31] m
+[01:24:36] la presión va a ser función de la fuerza
+[01:24:38] que se aplica el émbolo dividido el área
+[01:24:43] de la cara del émbolo
+[01:24:46] que tenga presente la sección
+[01:24:49] transversal
+[01:24:52] el trabajo que se va a aplicar a ese
+[01:24:54] muro va a ser función con la integral de
+[01:24:56] la fuerza por diferencial de s
+[01:25:00] reemplazando llegamos a la conclusión
+[01:25:03] que la energía
+[01:25:05] necesaria para poder comprimir o
+[01:25:08] incrementar la presión va a ser en
+[01:25:09] función de
+[01:25:10] la diferencia de volúmenes en
+[01:25:14] diferencial debe
+[01:25:15] [Música]
+[01:25:19] nada
+[01:25:24] y les muestro un esquema
+[01:25:27] de un aprovechamiento
+[01:25:30] en base a aire comprimido
+[01:25:33] esta es una aquí bueno en argentina no
+[01:25:37] hay experiencias indignación con aire
+[01:25:39] comprimido y en el a nivel mundial
+[01:25:41] también hay pocos casos hay casos
+[01:25:45] esta etapa de desarrollo del piloto
+[01:25:48] entre el caso de una
+[01:25:51] planta piloto ubicada en alemania
+[01:25:56] dónde
+[01:25:58] utiliza una turbina de gas
+[01:26:00] recuerden cuando vimos el ciclo de
+[01:26:04] brighton donde tenemos una de gas en
+[01:26:07] este caso
+[01:26:09] termina de gas
+[01:26:12] tiene la particularidad
+[01:26:15] qué
+[01:26:18] el compresor
+[01:26:24] el caso el compresor de aire
+[01:26:27] de gas es una máquina que tiene
+[01:26:33] un compresor de aire que toma aire la
+[01:26:35] atmósfera aumenta la presión y le envía
+[01:26:38] a la cámara de combustión de una cámara
+[01:26:41] combustión que mercado con combustible
+[01:26:43] se expande y acciona una turbina de
+[01:26:47] potencia
+[01:26:48] [Música]
+[01:26:50] en este caso
+[01:26:52] tenemos
+[01:26:54] una variante para el término de gas
+[01:26:56] convencional y aparece entre el ósea
+[01:27:02] entre el compresor y la turbina de
+[01:27:05] potencia apareció el motor una máquina
+[01:27:07] eléctrica básicamente
+[01:27:11] esta máquina eléctrica tiene la
+[01:27:13] particularidad que se puede desacoplar
+[01:27:17] tanto el
+[01:27:19] hace de esa copla de compresor de la
+[01:27:22] turbina de potencia
+[01:27:27] y en eso
+[01:27:29] [Música]
+[01:27:30] e
+[01:27:32] permite dos cosas
+[01:27:37] por ejemplo
+[01:27:39] si esta máquina la máquina de que va a
+[01:27:42] funcionar como motor
+[01:27:45] se va a desacoplar de la turbina de
+[01:27:47] potencia pues éste se va a recuperar de
+[01:27:50] la turbina de potencia
+[01:27:52] va a funcionar con motor y bastará
+[01:27:55] comprar el compresor de aire el
+[01:27:57] compresor de aire en este caso va a
+[01:27:58] funcionar con un punto de eléctrico que
+[01:27:59] tuvo energía de la red
+[01:28:02] va a incrementar la presión del aire y
+[01:28:04] la va a conducir hacia un depósito
+[01:28:06] que va a acumular aire a presión en ese
+[01:28:10] depósito en este caso marcado con
+[01:28:13] el número
+[01:28:16] 11
+[01:28:17] este es el depósito cual será el
+[01:28:20] convenido se acumula y de este recinto
+[01:28:23] [Música]
+[01:28:26] de esa forma el sistema ha acumulado
+[01:28:29] energía en forma de aire comprimido
+[01:28:33] por ejemplo esto se puede hacer durante
+[01:28:36] las horas en que el precio de la energía
+[01:28:39] es más bajo por debajo
+[01:28:44] e
+[01:28:46] y luego cuando el precio de la energía
+[01:28:47] sube una demanda de energía sube este
+[01:28:51] sistema se detiene
+[01:28:55] se acopla nuevamente el compresor a la
+[01:28:59] turbina de potencia y la máquina
+[01:29:02] funciona como una turbina de gas
+[01:29:03] convencional aquí tenemos una cámara de
+[01:29:07] combustión
+[01:29:09] tenemos la expansión y esto funciona
+[01:29:11] como un generador que entrega energía a
+[01:29:13] la red
+[01:29:14] [Música]
+[01:29:17] pero esto qué pasa como en un proceso
+[01:29:21] vasos previos se acumula energía en
+[01:29:23] forma de aire comprimido
+[01:29:26] este aire comido se va a liberar de
+[01:29:28] decir
+[01:29:30] a liberar energía el conductor necesitar
+[01:29:33] menos combustible para expandir una
+[01:29:36] turbina de potencia porque está
+[01:29:41] complementado por la presión que se
+[01:29:44] acumula en este depósito entonces el
+[01:29:47] consumo de combustible
+[01:29:49] se reduce y se mejora la eficiencia
+[01:29:52] de la turbina
+[01:29:55] de gas
+[01:29:57] es decir
+[01:29:59] aquí la particularidad es que la energía
+[01:30:02] acumulada en forma de aire comprimido
+[01:30:06] permite mejorar la eficiencia de una
+[01:30:10] máquina térmica o sea se combina con una
+[01:30:12] máquina térmica y eso favorece o
+[01:30:14] contribuye a mejorar la eficiencia de la
+[01:30:17] máquina térmica esa es una de las
+[01:30:19] aplicaciones no hay muchas hoy en día a
+[01:30:22] nivel mundial son poco el caso estoy
+[01:30:25] donde se hace pues caso piloto pero no
+[01:30:29] deja de ser interesante la aplicación
+[01:30:32] [Música]
+[01:30:34] en el esquema
+[01:30:37] donde aquella clave una de las claves
+[01:30:40] también es el tamaño del depósito es
+[01:30:45] decir
+[01:30:48] en el aire en condiciones de presión
+[01:30:53] recuerden que al incrementar la presión
+[01:30:55] va a aumentar la temperatura y además
+[01:30:58] como tener un límite en cuanto a la
+[01:31:00] resistencia de materiales
+[01:31:02] [Música]
+[01:31:03] y la clave va a ser el volumen también
+[01:31:05] en muchos casos se aprovechan por
+[01:31:09] ejemplo las cavernas
+[01:31:11] bajo tierra dentro de las montañas
+[01:31:15] como depósito de aire comprimido
+[01:31:19] entonces
+[01:31:21] es una un recurso interesante se hace
+[01:31:25] aprovechar el volumen para acumular aire
+[01:31:28] a presión y luego cuando es necesario se
+[01:31:30] se descarga el sistema en este caso una
+[01:31:33] turbina de gas
+[01:31:35] pero
+[01:31:39] este mismo sistema por ejemplo se está
+[01:31:42] trabajando muchísimo
+[01:31:45] con las fuentes renovables recuerdan
+[01:31:49] el problema que tienen las fuentes
+[01:31:51] renovables
+[01:31:52] eólica o solar es que es es una
+[01:31:55] variabilidad
+[01:31:57] la entrega de potencia
+[01:32:01] en el caso de tres están en desarrollo
+[01:32:04] pero y en investigación pero hay algunas
+[01:32:08] experiencias en las cuales se aprovechan
+[01:32:11] de la energía renovable
+[01:32:14] si hay una
+[01:32:16] [Música]
+[01:32:17] una sobre una exceso de producción de
+[01:32:20] energía se destina para comprimir aire y
+[01:32:23] almacenarlo en este tipo de cámaras como
+[01:32:26] estas y luego se aprovecha nuevamente
+[01:32:28] para cuando sea necesario se eliminasen
+[01:32:31] eligiese se produce
+[01:32:33] cuando sea necesario
+[01:32:37] eso lo interesante de este tipo de
+[01:32:39] almacenamiento está
+[01:32:42] en etapa de desarrollo pero yo creo que
+[01:32:44] tiene mucho
+[01:32:46] y mucho potencial para
+[01:32:49] para las aplicaciones
+[01:32:51] ah
+[01:32:57] bien
+[01:33:00] o sea para irse rango
+[01:33:04] y haciendo la relación también con
+[01:33:05] respecto al hidrógeno que es otro que es
+[01:33:09] un gas que de por si no sé si ustedes
+[01:33:13] serán tratados en otros cursos
+[01:33:16] tiene una algunas cuestiones
+[01:33:19] interesantes para analizar
+[01:33:22] e
+[01:33:24] ya sabemos que el hidrógeno puede ser
+[01:33:26] obtenido a partir del agua
+[01:33:29] por ejemplo mediante un proceso de
+[01:33:32] electrólisis del agua o también a través
+[01:33:34] a partir del gas natural el proceso
+[01:33:40] reformen con vapor y ganas se puede
+[01:33:43] hacer poner el hidrógeno
+[01:33:45] [Música]
+[01:33:47] es decir la producción de hidrógeno está
+[01:33:50] bastante avanzada y es relativamente
+[01:33:54] fácil de hacer
+[01:33:57] y la producción de este combustible
+[01:33:59] requiere de energía eléctrica la cual
+[01:34:03] puede ser aprovechada durante las horas
+[01:34:05] de menor demanda bajo precio y con
+[01:34:08] fuentes de energías renovables
+[01:34:13] además el hidrógeno puede sustituir
+[01:34:15] fácilmente
+[01:34:17] los combustibles fósiles convencionales
+[01:34:20] por lo tanto
+[01:34:24] el libro que no puede considerarse como
+[01:34:26] un medio un vector energético y que se
+[01:34:30] puede almacenar se puede almacenar
+[01:34:32] permite almacén almacenamiento de
+[01:34:34] energía el mismo hidrógeno es
+[01:34:37] es un medio para almacenar energía
+[01:34:42] que vamos a encontrar varias formas
+[01:34:46] varios caminos para
+[01:34:48] almacenar energía
+[01:34:50] mediante el hidrógeno
+[01:34:52] qué tipo de tensión entre los procesos
+[01:34:56] de tipo físico de los procesos químicos
+[01:35:00] [Música]
+[01:35:03] por ejemplo podemos acumular hidrógeno
+[01:35:05] mediante compresión que sería un proceso
+[01:35:09] similar a la que vimos de aire
+[01:35:10] comprimido si se incrementa la presión
+[01:35:13] del hidrógeno en estado gaseoso
+[01:35:15] y se lo almacena el depósito con
+[01:35:19] recintos cerrados hacia esta presión
+[01:35:24] y esto va a tener algunos límites
+[01:35:27] principalmente por la temperatura y
+[01:35:32] la cuestión es poner la densidad
+[01:35:35] energética es decir
+[01:35:37] por la capacidad de compresión de cómo
+[01:35:40] se comprime la densidad energética
+[01:35:43] no es muy elevada si la cantidad de
+[01:35:47] energía más helada no llega a ser muy
+[01:35:50] importante por la opción es hacer una
+[01:35:54] combinación de compresión y baja
+[01:35:57] temperatura así un sistema que baje
+[01:35:59] reduzca la temperatura de esa forma se
+[01:36:02] logra acumular mayor cantidad de
+[01:36:03] moléculas de hidrógeno dentro de ese
+[01:36:05] recinto cerrado
+[01:36:07] pero con ese allí logramos incrementar
+[01:36:10] la densidad energética pero eso requiere
+[01:36:12] más
+[01:36:14] más energía eléctrica
+[01:36:17] un costo de expansión importante
+[01:36:19] mucha tecnología
+[01:36:22] finalmente tenemos la licuefacción que
+[01:36:25] un proceso en el cual el libro que no se
+[01:36:27] vuelve líquido se pasa de estado gaseoso
+[01:36:30] a estado líquido
+[01:36:33] ahí en este caso dentro de los procesos
+[01:36:35] físicos es el que permite mayor densidad
+[01:36:38] energética es el mayor concentración de
+[01:36:40] moléculas de hidrógeno dentro de ese
+[01:36:43] recinto
+[01:36:45] el tema es que
+[01:36:47] es un proceso muy complejo
+[01:36:50] muy costoso requiere mucha energía
+[01:36:55] por eso que bueno no es muy utilizado
+[01:36:59] en la actualidad está en etapa de
+[01:37:02] desarrollo
+[01:37:03] luego tenemos como alternativa los
+[01:37:06] procesos químicos
+[01:37:07] aparece hay un proceso de absorción
+[01:37:10] en el cual
+[01:37:13] las
+[01:37:16] se utilizan algunas sustancias de unos
+[01:37:19] materiales
+[01:37:21] que
+[01:37:22] tienen afinidad con las moléculas de
+[01:37:24] hidrógeno y permiten
+[01:37:27] establemente las las puedan para tener
+[01:37:31] esas moléculas y sirven como modo de
+[01:37:35] almacenamiento de esas moléculas de
+[01:37:38] hidrógeno
+[01:37:38] [Música]
+[01:37:42] luego tenemos
+[01:37:44] otra opción también interesante que son
+[01:37:48] los duros
+[01:37:50] intersticiales entonces materiales tipo
+[01:37:54] poroso que entre las cavidades a nivel
+[01:37:58] molecular acumulan entre los
+[01:38:02] entre los átomos que forman estructuras
+[01:38:07] cristalinas incorporando los átomos de
+[01:38:10] hidrógeno es decir
+[01:38:13] estos sistemas acumulan al nivel
+[01:38:19] de estructura con atómica
+[01:38:23] eso lo hace
+[01:38:30] una densidad energética muy muy
+[01:38:33] importante
+[01:38:35] fin
+[01:38:38] o sea sin el uso de compresión y
+[01:38:43] aporte de energía externa
+[01:38:47] también está para desarrollo pero este
+[01:38:49] tipo de elementos pero es importante no
+[01:38:55] tenemos los zinc duros complejos es
+[01:38:57] decir
+[01:38:59] con otras utilizando la combinación de
+[01:39:02] materiales
+[01:39:04] también el mismo almacenamiento y
+[01:39:07] finalmente tenemos el hidrógeno químico
+[01:39:10] o la combinación de hidrógeno con
+[01:39:13] amoniaco y las moléculas de amoniaco se
+[01:39:18] establecen estas estructuras que
+[01:39:20] convierten
+[01:39:22] el amoniaco como elemento un sistema de
+[01:39:26] d
+[01:39:30] la molécula para aportar por tener el
+[01:39:35] hidrógeno
+[01:39:37] luego a través de un proceso químico se
+[01:39:39] libera esa molécula y se transforma
+[01:39:42] sembrada de hidrógeno otra forma de
+[01:39:47] acumulación de energía
+[01:40:35] perfecto bien
+[01:40:53] jaja
+[01:41:07] profe bueno cuyo entonces
+[01:41:14] e
+[01:41:18] nos quedamos nuevos minutos
+[01:41:26] y
+[01:41:32] minutos para tener algunas consultas
+[01:41:38] profe me escucha sí
+[01:41:42] quiere creerle a las consultas que hay
+[01:41:44] sí sí por favor dale acá oscar aníbal
+[01:41:49] puso
+[01:41:50] se usa por ejemplo para prevenir paradas
+[01:41:54] de máquinas anti fallas en el suministro
+[01:41:55] electrónico
+[01:41:57] entre paréntesis microcortes huecos de
+[01:42:00] tensiones etcétera
+[01:42:03] dice lo anterior dentro de determinadas
+[01:42:05] condiciones y después hay una consulta
+[01:42:07] de walter que dice que el objetivo de
+[01:42:10] una central de embalse es solo restituir
+[01:42:13] la cota máxima al embalse no sé si está
+[01:42:17] bien formulada la pregunta
+[01:42:21] en cuanto a la primera pregunta
+[01:42:26] podemos
+[01:42:28] hacer una relación social del volante de
+[01:42:31] inercia los sistemas de fly guild
+[01:42:35] son muy utilizados
+[01:42:39] para poder compensar esas variaciones
+[01:42:42] bruscas en la demanda o sea un pico
+[01:42:46] abrupto ya sea un incremento o una
+[01:42:51] aún
+[01:42:53] alguna interrupción abrupta en la
+[01:42:55] demanda de energía
+[01:42:57] en la generación de energía
+[01:43:01] estos sistemas de volante de inercia son
+[01:43:04] ideales para poder compensar esas pesas
+[01:43:08] de pequeñas variaciones de potencia por
+[01:43:11] ejemplo cuando aparece
+[01:43:14] para el caso era cuando vemos
+[01:43:16] generaciones con fuentes renovables
+[01:43:18] cuando aparece alguna variación abrupta
+[01:43:22] por ejemplo cambia la velocidad del
+[01:43:25] viento y cae
+[01:43:28] tengo una por ejemplo así que aumenta la
+[01:43:31] velocidad del viento
+[01:43:32] tenemos una sobreproducción de energía
+[01:43:34] eléctrica estos volantes se activan
+[01:43:37] acumulan energía en forma de
+[01:43:41] energía mecánica
+[01:43:45] y luego sí
+[01:43:47] tenemos una variación descenso de la de
+[01:43:50] esa energía
+[01:43:51] la energía creada por los bonitos
+[01:43:53] iónicos porque bajo la de la
+[01:43:56] velocidad es energía con una polo los
+[01:43:59] los volantes la vuelven a entregar la
+[01:44:02] red
+[01:44:03] durante unos pocos minutos esa energía
+[01:44:08] acumulada la pueden entregar normalmente
+[01:44:10] a la red y de esa forma se compensan
+[01:44:13] esos esas pequeñas mediaciones
+[01:44:15] que se van produciendo en el suministro
+[01:44:21] y con respecto a la segunda pregunta
+[01:44:25] relacionado con la restitución
+[01:44:30] no básicamente la
+[01:44:33] las centrales de bombeo
+[01:44:37] en primer lugar desde la primera el
+[01:44:39] primer paso voy a operar como una
+[01:44:40] central hidráulica
+[01:44:42] convencional es decir va a utilizar el
+[01:44:46] agua acumulada en el embalse la turbina
+[01:44:50] aprovecha esa energía y genera entrega
+[01:44:52] energía eléctrica a la red el agua que
+[01:44:55] pasa a través de la turbina se conduce
+[01:44:58] hacia el canal a nivel interior y cuando
+[01:45:03] el costo del el precio de la energía es
+[01:45:06] bajo por ejemplo durante la madrugada
+[01:45:10] el sistema funciona como bombas toma el
+[01:45:13] agua a nivel
+[01:45:15] [Música]
+[01:45:17] vuelve a
+[01:45:19] conducir hacia el embalse esa es la
+[01:45:23] aplicación problema que aquí en
+[01:45:24] argentina
+[01:45:28] es el uso más común
+[01:45:32] se utiliza
+[01:45:34] [Música]
+[01:45:39] profe acá oscar a la primera pregunta
+[01:45:42] dice al volante de inercia me refiero
+[01:45:47] ajá
+[01:45:51] sí sí
+[01:45:55] o sea que si se aplica para
+[01:45:58] esos casos si es correcto o sea eso
+[01:46:02] microcorte whatsapp
+[01:46:03] [Música]
+[01:46:04] pequeñas lesiones que aparecen que
+[01:46:07] pueden aparecer tanto en la
+[01:46:10] la generación acumulada en la demanda
+[01:46:12] puede ser compensado con estos sistemas
+[01:46:15] de volante de inercia
+[01:46:18] pero se tiene un límite no sea para
+[01:46:20] tener un límite de potencia
+[01:46:21] prácticamente no tiene una potencia
+[01:46:25] importante
+[01:46:27] [Música]
+[01:46:29] y también tengo una habitación con
+[01:46:31] respecto al tiempo realmente
+[01:46:33] puede entregar energía la potencia
+[01:46:36] máxima durante pocos minutos no mucho
+[01:46:39] tiempo
+[01:46:40] [Música]
+[01:46:44] alguna duda más chico
+[01:46:59] y oscar profe le puso si lo explico
+[01:47:02] perfectamente
+[01:47:04] y bueno
+[01:47:06] de leer
+[01:47:10] vamos a ver si hay alguna otra duda
+[01:47:12] esperamos unos minutitos muchas gracias
+[01:47:15] ponerle unos excelente gracias
+[01:47:19] alguna otra
+[01:47:21] consulta chicos
+[01:47:31] para el cine tras otras preguntas lo
+[01:47:36] espectacular puso juan pablos
+[01:47:39] si no hay otra pregunta damos por
+[01:47:41] finalizada la clase de hoy y nos
+[01:47:45] encontraremos vemos la semana
+[01:47:49] exacto 6 y el miércoles y el lunes las
+[01:47:52] 10 fechas
+[01:47:54] pero no
+[01:47:59] agradezco la el tiempo dedicado para
+[01:48:03] esta presentación siete agresiones
+[01:48:05] también
+[01:48:08] y
+[01:48:10] no estamos en contacto y chicos nos
+[01:48:12] vemos el viernes con la tercera clase
+[01:48:15] del módulo 3 y que tenga un buen día y
+[01:48:18] usted también profe

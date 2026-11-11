@@ -1,0 +1,3425 @@
+[00:00:11] Eu
+[00:00:27] vamos a dar hoy la clase Clase 13.
+[00:00:32] Vamos. Eh, la clase 13 es eh
+[00:00:37] refiere al servicio público bajo el
+[00:00:39] prisma judicial. Hoy vamos a contar con
+[00:00:43] la presencia del doctor Fernando Cosiki.
+[00:00:49] Les voy a a dar este
+[00:00:54] el doctor Fernando Cosiqui es abogado,
+[00:00:57] es egresado de la Universidad Nacional
+[00:00:58] de Rosario,
+[00:01:00] es especialista para la magistratura,
+[00:01:03] también es diplomado en derecho procesal
+[00:01:05] de familia
+[00:01:07] y hoy ejerce como juez de cámara de
+[00:01:10] apelación en lo civil y comercial del
+[00:01:12] departamento judicial de San Nicolás y
+[00:01:15] lo ejerce desde el año 2013, así que
+[00:01:17] tiene una vasta esta experiencia
+[00:01:19] en esta temática
+[00:01:21] en el ámbito académico. Es profesor de
+[00:01:24] la UTN de la Facultad Regional San
+[00:01:26] Nicolás en la carrera de ingeniería
+[00:01:29] industrial y se desarrolla en esta
+[00:01:31] actividad eh académica desde el año
+[00:01:34] 1998.
+[00:01:35] Ha participado en numerosas actividades
+[00:01:37] de formación, de capacitación y
+[00:01:39] actualización. Así que tenemos, la
+[00:01:42] verdad que contamos hoy con una vasta
+[00:01:45] experiencia como para que nos ilustre en
+[00:01:47] toda esta temática. Por ahí va a ser un
+[00:01:48] poco más jurídico y vamos a estar más
+[00:01:51] cómodos los abogados, pero bueno, eh lo
+[00:01:53] ha preparado de modo tal que todos
+[00:01:55] podamos eh aprovechar esta clase. Así
+[00:01:59] que bueno, gracias Fernando,
+[00:02:03] te damos la palabra.
+[00:02:05] Gracias Guillermina. Bueno, antes que
+[00:02:07] nada, buenos días a todos. Gracias por
+[00:02:09] la presentación. Eh, lo felicito a los
+[00:02:13] organizadores de de esta diplomatura por
+[00:02:16] por la idea, por tratar de llevar este
+[00:02:19] proyecto adelante y obviamente también a
+[00:02:22] todos los concurrentes y los
+[00:02:24] participantes que tengan que tienen o
+[00:02:27] han manifestado al inscribirse la
+[00:02:30] vocación de aprendizaje que que es
+[00:02:32] fundamental para para todo tipo de
+[00:02:35] ocupación, para todo tipo de actividad.
+[00:02:38] Bueno, un poco para describir qué es lo
+[00:02:41] que vamos a a dar. Bueno, justamente
+[00:02:45] lo que decía Guillermina, como la la
+[00:02:47] audiencia es un poco diversa en cuanto a
+[00:02:51] las actividades que hacen cada uno, la
+[00:02:54] idea es que no sea tan complejo desde lo
+[00:02:56] jurídico y que
+[00:02:59] es ser un poco más eh ilustrativo de qué
+[00:03:03] es lo que hace uno cuando como juez
+[00:03:05] resuelve cuestiones vinculadas al
+[00:03:08] servicio eléctrico cuando tiene
+[00:03:10] problemas eh o reclamos o conflictos que
+[00:03:13] se le presentan eh en esta materia, en
+[00:03:16] este en este tipo de actividad y y de
+[00:03:20] modo preliminar a ese análisis, eh
+[00:03:23] incorporar algunos contenidos
+[00:03:25] normativos, algunas cosas seguramente ya
+[00:03:27] han visto porque eh como esta
+[00:03:30] diplomatura
+[00:03:32] es es dada por distintos docentes, a
+[00:03:34] veces se replica en algunas temáticas
+[00:03:36] que, bueno, viene no viene mal
+[00:03:38] refrescarla en algunos casos y y sobre
+[00:03:42] todo tratar tratar de distinguir bien la
+[00:03:44] función administrativa de lo que es la
+[00:03:46] función judicial, que es totalmente
+[00:03:48] distinta, más allá de que a veces se se
+[00:03:50] entrelazan o se entremezclan en algunos
+[00:03:53] en algunos puntos o en algunos aspectos.
+[00:03:56] Eh, bueno, voy a tratar de a tal efecto
+[00:03:59] compartir una
+[00:04:02] a ver si si lo hago bien o lo hago mal
+[00:04:05] porque
+[00:04:21] se alcanza a ver la diapositiva. Sí,
+[00:04:24] perfecto,
+[00:04:25] perfecto.
+[00:04:26] Bueno, buenísimo.
+[00:04:28] Eh, bueno, arrancando un poco con las
+[00:04:32] temáticas, eh,
+[00:04:35] el servicio eléctrico como servicio
+[00:04:37] esencial. Bueno, es es algo que ustedes
+[00:04:40] ya por sus actividades ya lo tienen en
+[00:04:42] cuenta, lo tienen ya grabado con una
+[00:04:46] como un como un tatuaje que es algo
+[00:04:48] fundamental el servicio eléctrico y eso
+[00:04:50] emerge ya desde la propia normativa
+[00:04:52] regulatoria que es la ley 11769
+[00:04:56] en cuanto establece en su artículo 2 que
+[00:04:58] el servicio está destinado a atender
+[00:05:00] necesidades indispensables, necesidades
+[00:05:03] generales y el artículo 67 inciso 1 de
+[00:05:06] de esta misma ley que sostiene que el
+[00:05:08] acceso a la electricidad es un derecho
+[00:05:10] inherente a todo habitante de de la
+[00:05:12] provincia de Buenos Aires,
+[00:05:13] garantizándose o debiendo garantizar
+[00:05:16] garantizarle un abastecimiento mínimo,
+[00:05:19] un abastecimiento vital.
+[00:05:22] Eh, esta trascendencia o esta
+[00:05:25] calificación del servicio eléctrico eh
+[00:05:29] nos ubica el servicio eléctrico no como
+[00:05:30] un como un mero bien transable como
+[00:05:32] cualquier tipo de prestación, sino una
+[00:05:35] prestación distinta. es decir, su
+[00:05:37] interrupción, su prestación defectuosa,
+[00:05:39] su eh los daños que pueda generar, no
+[00:05:43] son analizados, ni son vistos, ni son
+[00:05:46] considerados con la misma lógica que
+[00:05:48] cualquier otro incumplimiento
+[00:05:50] contractual. Eh, de ahí que este
+[00:05:54] servicio tenga notas centrales o notas
+[00:05:57] características
+[00:05:59] que que lo distinguen, que lo que lo
+[00:06:03] individualizan y que lo le dan
+[00:06:05] caracterización. particular frente a
+[00:06:07] otros tipos de eh de otro tipo de
+[00:06:10] servicio que no tenga ese alcance. Y
+[00:06:13] entre ellas tenemos, por ejemplo, la
+[00:06:14] continuidad.
+[00:06:17] El principio de continuidad no significa
+[00:06:18] que el servicio no se puede interrumpir,
+[00:06:20] pero su interrupción debe estar
+[00:06:22] jurídicamente justificada, debe estar
+[00:06:25] técnicamente fundada y debe estar
+[00:06:27] razonablemente ejecutada.
+[00:06:30] Otra característica es su regularidad,
+[00:06:33] es decir, que debe cumplirse o conforme
+[00:06:37] a las reglas objetivas, no debe
+[00:06:39] sustentarse en pautas arbitrarias y
+[00:06:42] razonables.
+[00:06:44] Otra característica es la uniformidad,
+[00:06:47] que es eh que el servicio debe brindarse
+[00:06:50] de manera eh igual ante situaciones
+[00:06:53] equivalentes. Siempre hay un fallo de la
+[00:06:55] Suprema Corte de Justicia de la
+[00:06:57] provincia de Buenos Aires que dice que
+[00:06:58] no hay nada más injusto que tratar de la
+[00:07:00] misma manera quienes son distintos.
+[00:07:03] Entonces, bueno, no significa que en
+[00:07:06] determinadas situaciones, ya sea por
+[00:07:08] situaciones de vulnerabilidad o por
+[00:07:11] cuestiones particulares
+[00:07:13] vinculadas a a recursos económicos, haya
+[00:07:16] una posibilidad de un trato
+[00:07:17] diferenciado, como ustedes ya lo saben o
+[00:07:20] ya lo tienen en en regulado a través de
+[00:07:22] la normativa específica.
+[00:07:25] Otra característica del servicio
+[00:07:27] eléctrico es la generalidad, es decir,
+[00:07:29] que está destinado a satisfacer
+[00:07:32] necesidades colectivas.
+[00:07:35] La obligatoriedad,
+[00:07:37] que implica que no puede desentenderse
+[00:07:39] caprichosamente de esa prestación y la
+[00:07:42] empresa que esté a cargo de la
+[00:07:43] prestación del servicio. Y por último,
+[00:07:46] la calidad que hace a que el que el
+[00:07:49] servicio deba brindarse en condiciones
+[00:07:51] aptas, en condiciones seguras.
+[00:07:54] Esto obviamente es circunstancial y
+[00:07:55] variable. Lo que en un sitio de un país
+[00:07:58] puede ser considerado de calidad, puede
+[00:08:00] no serlo así en otro lugar. Lo cierto es
+[00:08:03] que no se podría pretender un servicio
+[00:08:05] mejor que el que la distribuidora o la
+[00:08:09] prestadora del servicio, la empresa o la
+[00:08:10] cooperativa se obligó dentro de lo que
+[00:08:12] es el contrato correspondiente de de
+[00:08:16] concesión.
+[00:08:22] y
+[00:08:23] viene el caso ahora eh destacar porque
+[00:08:28] de alguna manera eh la normativa así lo
+[00:08:32] impone, el servicio eléctrico como
+[00:08:34] relación de consumo.
+[00:08:36] Como sabemos, servicio eléctrico no se
+[00:08:38] agota en una concesión, en un marco
+[00:08:40] regulatorio, en tarifa, en estándares
+[00:08:42] técnicos. Su visión no se restringe
+[00:08:46] exclusivamente una visión
+[00:08:47] administrativa, una visión regulatoria,
+[00:08:50] sino que también existe otra dimensión
+[00:08:52] relevante dada por la relación concreta
+[00:08:54] entre el distribuidor y el usuario, que
+[00:08:56] está atravesada por el derecho común,
+[00:08:59] por el derecho constitucional, por el
+[00:09:01] derecho del consumidor.
+[00:09:04] Y cómo se da esta génesis del derecho
+[00:09:06] del consumidor o cuándo empieza el
+[00:09:08] derecho consumidor a tener relevancia a
+[00:09:11] nivel
+[00:09:14] a nivel normativo en la Argentina desde
+[00:09:17] principio de los años 90
+[00:09:19] eh con el proceso de privatización,
+[00:09:22] cuando las empresas empiezan a a el
+[00:09:27] Estado empieza a delegar en empresas
+[00:09:29] privadas o a través de concesiones
+[00:09:32] servicios esenciales, vemos Vemos como
+[00:09:34] hay un cambio de de rol del Estado que
+[00:09:37] pasa de ser de un prestador directo a un
+[00:09:39] regulador, a un controlador.
+[00:09:43] ese en ese contexto de ese proceso
+[00:09:46] privatización de privatización aparece
+[00:09:48] justamente la reforma constitucional que
+[00:09:52] que se da en el año 1994 que es la el
+[00:09:55] famoso pacto de olivos entre entre Men y
+[00:09:59] Alfonsín, donde se incorporan una serie
+[00:10:02] de artículos a la Constitución que están
+[00:10:05] relacionados con derechos y garantías
+[00:10:07] constitucionales. aparece lo que fue
+[00:10:09] famoso el vias corpus, el amparo, la
+[00:10:11] vias data, pero también en su artículo
+[00:10:14] 42 aparece el expreso reconocimiento de
+[00:10:17] los derechos de los consumidores, de los
+[00:10:19] derechos de los usuarios, entre ellos el
+[00:10:22] derecho a la protección de la salud, a
+[00:10:24] la seguridad,
+[00:10:26] a los intereses económicos, al derecho a
+[00:10:29] la información adecuada, veraz, a la
+[00:10:32] libertad de elección, a la calidad y
+[00:10:35] eficiencia de los servicios públicos, a
+[00:10:37] la defensa de de la competencia y las
+[00:10:39] condiciones de trato digno y equitativo.
+[00:10:42] El usuario a partir de de esta reforma
+[00:10:45] constitucional pasó a ser un sujeto
+[00:10:48] constitucionalmente protegido. Ya tenía
+[00:10:50] ya tiene una recategorización
+[00:10:52] importante al tener su reconocimiento a
+[00:10:54] nivel eh constitucional. el usuario, el
+[00:10:58] el
+[00:11:00] en el marco de la ley del artículo 42,
+[00:11:03] pero también paralelamente en este
+[00:11:05] contexto, creo que fue en el año 1993,
+[00:11:08] eh se sanciona la ley 24240,
+[00:11:11] que es la ley de lo que regula los
+[00:11:14] derechos de los consumidores con una ley
+[00:11:18] que trata un montón de aspectos y que
+[00:11:20] luego fue reformada por la ley 26361,
+[00:11:23] donde se le le da mayor contenido, se le
+[00:11:26] amplía los derechos de los de los
+[00:11:28] usuarios, de los consumidores, aparecen
+[00:11:31] a partir de de esta nueva regulación
+[00:11:34] normativa nuevas categorías de
+[00:11:36] principios. Así aparece el derecho a la
+[00:11:39] información adecuada, el derecho al
+[00:11:41] trato digno, a la buena fe, a evitar la
+[00:11:45] vulnerabilidad del usuario, a la
+[00:11:48] prevención del daño, a la reparación
+[00:11:50] integral, bueno, a las sanciones
+[00:11:52] especiales, los daños punitivos, eh
+[00:11:55] entre otros aspectos que eh que tienen
+[00:11:58] relevancia de esta ley y que están
+[00:12:01] relacionadas justamente con con los
+[00:12:03] servicios también públicos esenciales.
+[00:12:05] ¿Por
+[00:12:07] qué se da toda esta situación? Bueno,
+[00:12:08] justamente porque eh la ley viene, igual
+[00:12:12] que el artículo 42, viene a reconocer
+[00:12:15] una una [carraspeo] situación de
+[00:12:16] desigualdad estructural eh entre la
+[00:12:19] relación entre los proveedores y los eh
+[00:12:23] usuarios. lo ven al proveedor como un
+[00:12:26] banco, como una empresa, como una
+[00:12:29] aseguradora. Eh, y y esa situación
+[00:12:33] de negociación con diferente poder
+[00:12:36] económico, con diferentes eh capacidad
+[00:12:39] para negociar, hace que el consumidor,
+[00:12:42] el usuario necesite una norma tuitiva,
+[00:12:45] una norma protectoria que pueda eh
+[00:12:48] emparejar ese desequilibrio, esa
+[00:12:51] simetría, ese desequilibrio estructural
+[00:12:53] que que subyce en ese tipo de de
+[00:12:57] negociación. Entonces lo que viene la
+[00:12:59] normativa es a corregir desigualdades.
+[00:13:02] La empresa, por ejemplo, una empresa de
+[00:13:04] distribución conoce los sistema de
+[00:13:06] medición, domina la red, interpreta el
+[00:13:09] reglamento, emite la factura, fija los
+[00:13:11] canales de atención, documenta las
+[00:13:14] inspecciones,
+[00:13:16] decide cuándo hay que intimar, cuándo
+[00:13:18] hay que reconectar, cuenta con equipos
+[00:13:20] técnicos y jurídicos eh especializados.
+[00:13:24] Y por el otro lado tenemos el usuario
+[00:13:26] que necesita el servicio para
+[00:13:28] desarrollar elementales eh
+[00:13:32] elementales actos de su propia vida y
+[00:13:34] que en general no participa ni de la
+[00:13:36] configuración técnica, ni de
+[00:13:38] contractual, ni tarifaria, que muchas
+[00:13:41] veces
+[00:13:43] no comprende el alcance técnico de la
+[00:13:45] inseguridad, de la irregularidad, no
+[00:13:47] sabe cómo cuestionar una una
+[00:13:49] facturación,
+[00:13:51] desconoce los procedimientos ante del
+[00:13:53] lente regulador y no cuenta con medios
+[00:13:55] suficientes a veces para mantener un
+[00:13:57] reclamo de de manera prolongada.
+[00:13:59] Entonces vemos como de algún modo todo
+[00:14:02] este desequilibrio, esta situación
+[00:14:04] particular que caracteriza tanto a la
+[00:14:07] empresa como al proveedor como al
+[00:14:09] usuario justifica de alguna manera que
+[00:14:13] exista toda esta normativa tuiva, toda
+[00:14:15] esta normativa regulatoria del
+[00:14:17] consumidor que busca proteger y
+[00:14:21] equilibrar ese esa ese desequilibrio
+[00:14:23] estructural
+[00:14:27] y Entre
+[00:14:29] los
+[00:14:31] estos principios elementales que
+[00:14:34] establece
+[00:14:36] la ley del consumidor, uno de ellos es
+[00:14:38] el trato digno,
+[00:14:40] que podríamos eh establecerlo como aquel
+[00:14:44] que impide un someter al usuario al
+[00:14:46] menosprecio, a a la desconsideración, a
+[00:14:49] la mortificación, a la discriminación, a
+[00:14:52] la indiferencia, al trato humillante.
+[00:14:56] Concretamente la norma, que creo es el
+[00:14:58] artículo de la ley 24240,
+[00:15:01] menciona situaciones vergonzantes,
+[00:15:03] vejatorias e intimidatorias.
+[00:15:06] ¿Qué consideramos como vergonzante?
+[00:15:08] Bueno, aquello que es humillante,
+[00:15:09] aquello que es deshonroso, a lo
+[00:15:12] vejatorio, a que son los maltratos, las
+[00:15:14] persecuciones, los padecimientos y lo
+[00:15:17] intimidatorio a los comportamientos que
+[00:15:20] infunden miedo, que infunden temor.
+[00:15:23] ¿Cuál es la importancia del trato digno?
+[00:15:26] en el marco del servicio eléctrico.
+[00:15:29] Bueno, es que la calidad no puede
+[00:15:31] medirse solamente por por parámetros
+[00:15:34] técnicos, sino también por la calidad
+[00:15:36] institucional del vínculo entre el
+[00:15:38] usuario y el proveedor.
+[00:15:41] La empresa puede encontrarse en
+[00:15:43] determinadas situaciones habilitada a a
+[00:15:46] suspender servicio por deuda, por
+[00:15:48] fraude, por incumplimiento.
+[00:15:50] Pero ese esa prerrogativa, esa potestad
+[00:15:54] debe ejercerse con información previa
+[00:15:56] suficiente, con posibilidad real de
+[00:15:58] descargo, con proporcionalidad,
+[00:16:01] con registro claro de las actuaciones y
+[00:16:04] especial consideración cuando el usuario
+[00:16:06] ha comunicado situaciones particulares
+[00:16:08] de de vulnerabilidad.
+[00:16:12] El alcance de este trato digno se da, no
+[00:16:15] rige solamente la en la oficina
+[00:16:17] comercial y se da a lo largo de todo la
+[00:16:20] vida o todo el vínculo contractual entre
+[00:16:22] el usuario, desde la primera
+[00:16:24] contratación hasta los últimos
+[00:16:27] procedimientos, hasta que culmine el
+[00:16:29] vínculo, hasta las reconexiones, o los
+[00:16:31] supuestos eh eh
+[00:16:33] respuestas que tiene que dar la la
+[00:16:35] empresa frente a los daños que hubiera
+[00:16:37] eh percibido el usuario por fallas o por
+[00:16:40] interrupciones o por defectos de
+[00:16:42] prestaciones del servicio eléctrico.
+[00:16:45] El trato digno
+[00:16:48] debe ser o proyecta un trato informado
+[00:16:51] que es implica comunicar de manera
+[00:16:54] clara, de manera suficiente, de manera
+[00:16:56] comprensible.
+[00:16:58] implica un trato
+[00:17:01] respetuoso,
+[00:17:03] que es eh que el usuario no puede ser
+[00:17:06] colocado en una situación de
+[00:17:07] humillación, como decíamos, de amenaza,
+[00:17:09] de confusión, de presión indebida,
+[00:17:12] implica un trato diligente que es
+[00:17:14] responder efectivamente de forma eficaz
+[00:17:17] ante los reclamos, es decir, en tiempos
+[00:17:19] oportunos, registrando las
+[00:17:20] presentaciones, [música] evitando
+[00:17:22] derivaciones innecesarias, no
+[00:17:24] convirtiendo el reclamo en un laberinto
+[00:17:27] administrativo.
+[00:17:29] implica un trato equitativo. Tratar de
+[00:17:32] responder, como decía, en situaciones
+[00:17:34] similares, recibir respuestas similares.
+[00:17:39] Eh, implica un trato no burocrático,
+[00:17:42] que es decir un canal de información
+[00:17:45] útil, accesible, eficaz.
+[00:17:48] Y acá me pasa un gato por atrás, como
+[00:17:49] han visto, que tengo acá en mi casa,
+[00:17:53] ¿eh?
+[00:17:56] Y bueno, el los
+[00:18:00] estos características del trato
+[00:18:02] informado no implica que el usuario se
+[00:18:04] desentienda de sus obligaciones. El
+[00:18:05] usuario, por otra parte, debe cumplir
+[00:18:08] con sus obligaciones, que son informar
+[00:18:09] con de manera clara eh en momento de
+[00:18:13] hacer la declaración jurada, sus datos
+[00:18:15] personales, actualizar esa información
+[00:18:17] cuando tenga que cambiarla, eh mantener
+[00:18:19] en condiciones de de eficiencia y
+[00:18:22] eficacia la medición del tablero, eh
+[00:18:24] principar los dispositivos, eh pagar la
+[00:18:28] factura en tiempo y forma, no alterar
+[00:18:30] los medidores, permitir las inspecciones
+[00:18:32] reglamentarias cuando tiene que hacerla.
+[00:18:35] canalizar sus reclamos a través de las
+[00:18:37] vías correspondientes. Bueno, esto es
+[00:18:39] trato informado o el trato digno. No
+[00:18:41] implica que el usuario se debe
+[00:18:43] desatender de esas obligaciones
+[00:18:44] principales que están determinadas y
+[00:18:47] descrptas concretamente también en la
+[00:18:51] en la los reglamentos de de concesión de
+[00:18:55] de los contratos de distribución que
+[00:18:57] ustedes de los contratos de prestación
+[00:18:59] de servicio que ustedes han visto en las
+[00:19:01] clases anteriores.
+[00:19:04] ¿Cuáles son las consecuencias del
+[00:19:05] incumplimiento del trato digno? Bueno,
+[00:19:07] el artículo 8 bis establece en algún la
+[00:19:10] posibilidad de de imponer sanciones eh
+[00:19:14] administrativas, la reparación del daño
+[00:19:17] patrimonial, en su caso quise provocar
+[00:19:19] un daño, el reconocimiento del daño
+[00:19:20] moral, pero en casos de especiales
+[00:19:22] gravedades o cuando el trato digno
+[00:19:24] realmente implica un menosprecio muy
+[00:19:27] importante al al a la al proceder del
+[00:19:30] usuario,
+[00:19:32] se establece la posibilidad de imponer a
+[00:19:36] la empresa lo que son los daños
+[00:19:37] punitivos, que son sanciones disuasivas
+[00:19:41] de carácter
+[00:19:43] de carácter punitivo y que no son
+[00:19:47] resarcitorias y que ante casos de
+[00:19:50] extrema gravedad, de de negligencia
+[00:19:52] extrema, inclusive se habla de que
+[00:19:55] solamente podría restringirse a los
+[00:19:56] casos de dolo, eh se le permite imponer
+[00:20:00] a las al los jueces pueden imponer a los
+[00:20:04] las empresas distribuidoras de energía
+[00:20:06] eh sanciones de este tipo que bueno que
+[00:20:10] son eh reguladas y estipuladas en
+[00:20:13] función de las características de cada
+[00:20:16] uno de los casos concretos.
+[00:20:18] El trato dingo entonces funciona como
+[00:20:20] una cláusula de humanidad dentro de una
+[00:20:22] de una relación técnica. Le recuerda a
+[00:20:25] la empresa que detrás de cada medidor
+[00:20:28] hay una persona, detrás de cada factura
+[00:20:31] hay una economía familiar, detrás de
+[00:20:33] cada reclamo hay una necesidad concreta,
+[00:20:36] detrás de cada corte puede haber una
+[00:20:38] afectación seria de la vida cotidiana y
+[00:20:40] detrás de cada anomalía, el suministro
+[00:20:43] puede haber daños personales, daños
+[00:20:44] patrimoniales o productivos relevantes.
+[00:20:52] Como les decía, la Ley 240
+[00:20:57] tiene eh un capítulo
+[00:21:00] especial
+[00:21:03] destinado a
+[00:21:05] a los servicios públicos domiciliarios
+[00:21:10] y contiene algunas normas específicas
+[00:21:13] que que vienen al caso destacarlas, la
+[00:21:16] por lo menos las más importantes,
+[00:21:19] eh, que están justamente ente
+[00:21:23] vinculadas con la protección del usuario
+[00:21:25] del servicio público domiciliario. El
+[00:21:27] artículo 25 que establece el deber de
+[00:21:30] información, que es la la obligación de
+[00:21:33] entregar al usuario una constancia
+[00:21:35] escrita de las condiciones de la
+[00:21:36] prestación y de los derechos y
+[00:21:37] obligaciones de ambas partes
+[00:21:39] contratantes.
+[00:21:42] El principio de la norma más favorable
+[00:21:44] que es establece que los servicios se
+[00:21:48] regularán por sus normas específicas,
+[00:21:51] como tiene la ley, por ejemplo, tiene la
+[00:21:53] ley 1179 y los y los contratos y las
+[00:21:57] normativas de OCEBA, los contratos, los
+[00:21:59] reglamentos de de concesión y los
+[00:22:01] contratos de y la normativa OSEBA, pero
+[00:22:04] también por la ley del defensa del
+[00:22:05] consumidor y establece la norma
+[00:22:08] concretamente que en caso de de dudas
+[00:22:10] sobre si una normativa es aplicable o si
+[00:22:14] o si no es aplicable debe eh aplicarse
+[00:22:17] aquella que sea más favorable al
+[00:22:19] consumidor.
+[00:22:21] El artículo 26 habla de la reciprocidad
+[00:22:23] de trato, es decir, que para los
+[00:22:25] reintegros o para las devoluciones debe
+[00:22:28] tratarse de aplicar los mismos criterios
+[00:22:31] que establezcan la empresa para los
+[00:22:33] cargos en mora de las facturas que que
+[00:22:36] deben los usuarios.
+[00:22:38] El artículo 27 que regula los registros
+[00:22:41] de reclamos y atención personalizada.
+[00:22:44] Eh, ¿qué es lo que regula esto?
+[00:22:46] Establece,
+[00:22:48] dice que la empresa debe habilitar un
+[00:22:49] registro de reclamos donde queden
+[00:22:51] asentadas las presentaciones de los
+[00:22:53] usuarios.
+[00:22:55] Las mismas pueden efectuarse por nota,
+[00:22:56] por fax, por teléfono, por correo
+[00:22:58] electrónico o por otro medio disponible,
+[00:23:00] debiendo extenderse con tal constancia
+[00:23:03] de la con la identificación concreta de
+[00:23:05] ese reclamos.
+[00:23:07] Dichos reclamos deben ser satisfechos en
+[00:23:09] plazos perentorios. Esto lo relacionado
+[00:23:11] seguramente también, como lo decíamos,
+[00:23:13] con el trato digno y obviamente conforme
+[00:23:16] la reglamentación y las empresas
+[00:23:19] prestadoras de servicio deben garantizar
+[00:23:21] la atención personalizada de los
+[00:23:22] usuarios.
+[00:23:24] El artículo 30 que regula la presunción
+[00:23:27] de responsabilidad ante la interrupción
+[00:23:29] del servicio. Esto es, si el servicio se
+[00:23:33] interrumpe, eh se entiende o se presume
+[00:23:37] que la causa de la interrupción es
+[00:23:40] imputable directamente a la empresa. No
+[00:23:42] obstante, ello, como es una presunción,
+[00:23:44] la empresa tiene la posibilidad de de de
+[00:23:48] acreditar dentro del plazo de 30 días
+[00:23:50] que que la razón de esa interrupción es
+[00:23:52] ajena a su propia actuación, a su propia
+[00:23:55] conducta.
+[00:23:57] El artículo 30 bis habla de la necesidad
+[00:24:00] de que las constancias
+[00:24:02] de la factura sean claras. deben
+[00:24:05] expresar si existen periodos anteriores
+[00:24:08] u otras deudas pendientes. Eh, en su
+[00:24:11] caso, la fecha, los intereses, tiene que
+[00:24:13] ser claro en cuanto a los intereses que
+[00:24:14] se estipulan y deben contar con la con
+[00:24:17] la constancia de no existen deudas
+[00:24:19] pendientes. La norma regula o establece
+[00:24:21] que la falta de esa manifestación hace
+[00:24:24] presumir que el usuario se encuentra al
+[00:24:26] día en sus pagos y que no mantiene
+[00:24:28] deudas con la prestatarias.
+[00:24:31] Y
+[00:24:32] por último, el artículo 31 que regula
+[00:24:36] las presunciones ante los errores de
+[00:24:39] facturación.
+[00:24:41] Cuando se factura eh consumos que
+[00:24:44] exceden el 75% del promedio de los
+[00:24:47] consumos correspondientes al mismo
+[00:24:49] periodo en los en los 2 años anteriores,
+[00:24:52] se presume que ese eh ese consumo
+[00:24:55] facturado proviene de un error de
+[00:24:57] facturación imputable también a la
+[00:24:59] empresa. No obstante ello, como lo dije
+[00:25:02] anteriormente, tratándose de una
+[00:25:04] presunción,
+[00:25:05] se le da la posibilidad al prestador de
+[00:25:08] disponer [música]
+[00:25:09] de un plazo de de 30 días para acreditar
+[00:25:12] que justamente que ese consumo es
+[00:25:15] realmente un consumo real y que responde
+[00:25:17] a a lo efectivamente facturado al
+[00:25:21] usuario.
+[00:25:26] Vamos a la otra diapositiva.
+[00:25:34] La función administrativa y la función
+[00:25:36] judicial. Bueno,
+[00:25:39] eh preludé un poco con este con estas
+[00:25:42] cuestiones de de índole normativo y
+[00:25:44] regulatorio que por ahí son un poquito
+[00:25:47] tediosas para incorporar un poco lo que
+[00:25:49] es el eh lo fundamental de lo que es la
+[00:25:53] charla, que es distinguir la función
+[00:25:55] administrativa de la función judicial y
+[00:25:57] analizar cómo resuelve un juez eh en un
+[00:26:03] caso concreto de de interrupción, de
+[00:26:06] daño. año producido por la prestación de
+[00:26:08] servicio eléctrico. Para eso resulta
+[00:26:11] trascendental o resulta primordial
+[00:26:14] distinguir lo que es eh la función
+[00:26:16] administrativa de la función judicial.
+[00:26:19] En principio, ustedes saben que la
+[00:26:20] función administrativa la desarrollan
+[00:26:22] los órganos del Estado encargados de
+[00:26:24] gestionar, regular, controlar,
+[00:26:25] fiscalizar y ejecutar las políticas de
+[00:26:28] Estado. Pero bueno, vamos a ver bien las
+[00:26:30] distinciones. Primero, antes que nada,
+[00:26:32] es saber que son
+[00:26:36] órganos distintos los que ejercen estas
+[00:26:38] funciones.
+[00:26:40] La función administrativa está a cargo
+[00:26:42] del poder ejecutivo, ya sea en su
+[00:26:46] en su orden nacional, en su orden
+[00:26:49] provincial, pero lo cierto es que la
+[00:26:51] lleva adelante por ejecutivo a través de
+[00:26:53] sus ministerios, a través de sus entes
+[00:26:55] descentralizados.
+[00:26:57] En cambio, la función judicial
+[00:27:00] está a cargo de lo que es el poder
+[00:27:02] judicial, que tiene también su
+[00:27:04] organización provincial, su organización
+[00:27:05] nacional. Eh, y en cada uno de de esas
+[00:27:10] organizaciones también está tiene una
+[00:27:12] jerarquía o instancias eh de las cuales
+[00:27:17] uno puede eh canalizar sus reclamos. Hay
+[00:27:20] una primera instancia. Primero, antes
+[00:27:22] que nada, hay fueros o materias
+[00:27:25] específicas, civiles y comerciales,
+[00:27:27] administrativa, familia. En algunos
+[00:27:29] fueros, por ejemplo, en Capital Federal
+[00:27:31] está el fuero de consumidor. Acá en la
+[00:27:33] provincia de Buenos Aires no lo tenemos
+[00:27:35] así. Eh, los planteos de consumidores se
+[00:27:38] se los aborda la justicia civil y
+[00:27:40] comercial. Tenemos fuero penal también.
+[00:27:43] Y en cada uno de esos fueros hay
+[00:27:45] instancias, una primera instancia donde
+[00:27:47] resuelven los jueces de primera
+[00:27:49] instancia. Después hay cámaras que que
+[00:27:52] revisan en virtud del alcance que le han
+[00:27:54] dado a los recursos respectivos los
+[00:27:56] agraviados, a quienes se han
+[00:27:58] disconformado o están descontentos con
+[00:28:01] lo que les resolvió el juez de primera
+[00:28:03] instancia.
+[00:28:05] y después tenemos instancias superiores,
+[00:28:07] bueno, tribunales de casación para el
+[00:28:09] ámbito penal y Suprema Corte para los
+[00:28:13] todos los casos cuando llegan a la a la
+[00:28:15] cúspide de lo que es eh el
+[00:28:19] la organización jerárquica eh del Poder
+[00:28:23] Judicial. en el ámbito federal o en el
+[00:28:25] ámbito eh nacional también se dan de
+[00:28:28] manera paralela este tipo de de
+[00:28:31] organización, pero bueno, para
+[00:28:33] distinguir que son órganos distintos.
+[00:28:35] ¿Cuáles son los objetivos? Los objetivos
+[00:28:37] también son distintos. Eh, como les
+[00:28:40] decía, el objetivo de de la
+[00:28:41] administración pública o de la función
+[00:28:43] administrativa es eh gestionar los
+[00:28:45] servicios, administrar los recursos del
+[00:28:48] Estado, eh buscar el bienestar general
+[00:28:51] en el funcionamiento del Estado también.
+[00:28:54] cambio, los
+[00:28:56] el objetivo de la función jurisdiccional
+[00:28:59] o de la función judicial es resolver un
+[00:29:01] litigio, resolver un conflicto concreto
+[00:29:04] que le plantean las partes a a un juez
+[00:29:08] para que lo resuelva, para que lo
+[00:29:10] aborde, para que lo trate de dar una
+[00:29:13] decisión definitiva del mismo.
+[00:29:16] De ahí que
+[00:29:19] por ejemplo lo que es ser la función
+[00:29:21] administrativa, la imparcialidad que se
+[00:29:24] ve en lo que es la función
+[00:29:26] jurisdiccional no se no se muestra tan
+[00:29:29] latente porque el Estado la en la
+[00:29:32] función administrativa es una parte
+[00:29:34] interesada, busca el interés público y
+[00:29:36] generalmente interviene como parte
+[00:29:38] interesada. En cambio, el juez puede
+[00:29:41] resolver en contra de los intereses del
+[00:29:43] Estado, eh, porque no en contra de los
+[00:29:45] intereses, sino en contra del Estado,
+[00:29:47] cuando el Estado actúa de manera eh
+[00:29:51] ilícita, ya sea por omisión, por acción
+[00:29:54] o cuando comete un daño. Bueno, entonces
+[00:29:57] el juez es un tercero imparcial que al
+[00:30:00] conflicto que se le somete tiene que
+[00:30:01] darle una solución que sea la más justa
+[00:30:03] de acuerdo a las pretensiones que le
+[00:30:06] fueron instadas por las partes.
+[00:30:09] Las decisiones emitidas por los órganos
+[00:30:12] administrativos gozan de una presunción
+[00:30:14] de legitimidad.
+[00:30:16] Eh, pueden ser revisadas, pueden ser
+[00:30:19] revocadas, pero gozan en principio de
+[00:30:21] una precisión de presunción de
+[00:30:24] legitimidad y pueden ser revisadas en el
+[00:30:26] ámbito jurisdiccional una vez agotada la
+[00:30:28] etapa administrativa. Quizás vamos a ver
+[00:30:30] cómo se agota la instancia
+[00:30:31] administrativa y en qué casos es
+[00:30:33] necesaria y en qué casos no es
+[00:30:35] necesaria. Pero en principio
+[00:30:38] las decisiones son gozan de legitimidad,
+[00:30:40] pero pueden ser revisadas. En cambio,
+[00:30:43] las decisiones de los órganos
+[00:30:44] jurisdiccionales, una vez ejecutoreadas,
+[00:30:47] una vez atravesadas, cada una de las
+[00:30:49] instancias correspondientes y firmes que
+[00:30:52] se encuentran las mismas, adquieran lo
+[00:30:54] que se llama calidad de cosa juzgada, es
+[00:30:56] decir, son inmutables, son definitivas y
+[00:30:59] son eh pueden ser ejecutadas o por quien
+[00:31:03] resulte beneficiado por una decisión de
+[00:31:06] emitida por un órgano jurisdiccional.
+[00:31:10] Los procedimientos son también
+[00:31:11] distintos. El procedimiento
+[00:31:13] administrativo puede ser de oficio,
+[00:31:15] puede ser instancia de parte, puede ser
+[00:31:17] impulsado por la por el propio Estado.
+[00:31:19] Por lo general en los procedimientos
+[00:31:21] judiciales es la parte interesada, es la
+[00:31:24] que impulsa el proceso, salvo en
+[00:31:27] cuestiones de de índole de índole penal.
+[00:31:29] Por lo general, los procedimientos,
+[00:31:31] tanto civil, comercial, administrativo,
+[00:31:33] son impulsados por las partes.
+[00:31:37] Entonces, tenemos que la función
+[00:31:39] administrativa implica controlar,
+[00:31:41] sancionar, ordenar determinadas
+[00:31:43] conductas dentro del margo regulatorio,
+[00:31:45] pero no siempre se resuelve y, inclusive
+[00:31:49] los ámbitos de resolución son
+[00:31:51] restringidos
+[00:31:52] y cuando resuelve esas decisiones pueden
+[00:31:55] ser revisadas
+[00:31:58] en el ámbito judicial para poder darle
+[00:32:00] la posibilidad a las personas que
+[00:32:03] accedan a la tutela judicial efectiva,
+[00:32:05] reconocida en la Constitución Nacional.
+[00:32:08] dentro del marco acá de la provincia de
+[00:32:11] Buenos Aires, el ejemplo
+[00:32:14] eh más latente del órgano administrativo
+[00:32:16] que tenemos eh es la autoridad de
+[00:32:19] aplicación en la provincia de Buenos
+[00:32:20] Aires, es la de los SEVA, que ejerce
+[00:32:23] funciones vinculadas con control, que
+[00:32:24] ejerce vinculado con cumplimiento,
+[00:32:28] regulación y control de cumplimiento del
+[00:32:29] marco regulatorio, con la tramitación de
+[00:32:31] los reclamos, con muchas veces aplica
+[00:32:34] sanciones, fiscaliza el servicio,
+[00:32:37] Pero cuando define las indemnizaciones
+[00:32:39] no puede ordenar reparaciones integrales
+[00:32:42] como se ordena en el ámbito, sino
+[00:32:44] establece cuáles son las sanciones
+[00:32:46] específicas dentro de lo que es el marco
+[00:32:48] regulatorio, que generalmente son
+[00:32:50] multas, bonificaciones, beneficios en en
+[00:32:53] facturaciones.
+[00:32:59] Ahora vamos a lo que es
+[00:33:02] el agotamiento
+[00:33:05] de la vía administrativa.
+[00:33:14] Esto
+[00:33:16] es una cuestión que a lo largo de los
+[00:33:18] tiempos la doctrina jurisprudencia
+[00:33:21] eh lo ha discutido, ha debatido cuál es
+[00:33:23] el alcance, cuál es eh la necesariedad
+[00:33:27] de este de esta de este agotamiento.
+[00:33:29] ¿Qué significa agotamiento a la
+[00:33:30] administrativa? Significa que antes de
+[00:33:33] llegar a un reclamo a la justicia, debo
+[00:33:37] dentro de lo que es la organización
+[00:33:39] administrativa tratar de llegar a la
+[00:33:42] decisión última del órgano
+[00:33:44] administrativo por las vías recursivas
+[00:33:47] legalmente previstas dentro de lo que es
+[00:33:50] el ámbito de la administración. Una vez
+[00:33:53] agotadas esas vías recursivas, eh ese
+[00:33:57] tránsito administrativo recursivo,
+[00:34:00] recién puedo arribar a la a la justicia.
+[00:34:03] Esto está ligado a lo que era el modelo
+[00:34:06] clásico contencioso
+[00:34:08] administrativo
+[00:34:11] y en algunos casos esta exigencia eh que
+[00:34:15] tiene su razón de ser. Ya vamos a ver
+[00:34:16] cuáles son sus fundamentos, su su
+[00:34:20] motivación. eh terminó funcionando como
+[00:34:23] una verdadera barrera de acceso a la
+[00:34:25] justicia en una especie de carrera de
+[00:34:27] obstáculos para el litigante, demorando
+[00:34:30] injustificadamente el acceso a la
+[00:34:31] jurisdicción. Por lo tanto, eh fueron
+[00:34:34] delimitándose y fueron restringiéndose
+[00:34:36] los supuestos de estos de esta eh
+[00:34:40] necesario de este necesario agotamiento
+[00:34:42] de vida administrativa a casos muy
+[00:34:44] específicos e inclusive la
+[00:34:46] jurisprudencia fue flexibilizando el
+[00:34:48] mismo. Vamos a ver eh algunos
+[00:34:50] antecedentes al respecto emitidos por la
+[00:34:53] Suprema Corte de la provincia de Buenos
+[00:34:55] Aires. Pero bueno, ¿cuál es la
+[00:34:57] motivación o o la razón de justificación
+[00:35:01] funcional de este agotamiento de la vía
+[00:35:03] administrativa? Bueno, se ha buscado
+[00:35:05] algunos argumentos, entre ellos eh la
+[00:35:08] autocorrección. Dicen, "Bueno, ya que es
+[00:35:11] el órgano administrativo quien emite una
+[00:35:14] decisión, quien se equivoca o no se
+[00:35:15] equivoca, hay que darle la posibilidad
+[00:35:17] de que sea ese mismo órgano
+[00:35:18] administrativo, que sea la misma
+[00:35:20] administración pública, que revise su
+[00:35:22] propia actuación, que corrija su
+[00:35:24] actuación. Entonces, hay que instar los
+[00:35:28] distintos remedios recursivos para que
+[00:35:30] pueda revisar esa actuación.
+[00:35:33] Otras razones están vinculadas con la
+[00:35:37] economía, con la flexibilidad.
+[00:35:40] Eh, si es la propia administración la
+[00:35:43] que corrige su actuación a través de los
+[00:35:45] remedios recursivos correspondientes,
+[00:35:47] evitamos caer en los gastos innecesarios
+[00:35:50] de eh recurrir a la justicia. eh que
+[00:35:53] algunos abogados saben lo que es eh eh
+[00:35:56] los costos eh no solo desde que le
+[00:35:59] genera al Estado por la propia
+[00:36:01] movilización de lo que es la
+[00:36:02] administración pública, de la la
+[00:36:04] administración de justicia, sino también
+[00:36:06] para quienes quieran llevar un reclamo a
+[00:36:08] la justicia, [música] el tener que pagar
+[00:36:10] los costos, los honorarios de un perito,
+[00:36:12] el tener que pagar
+[00:36:15] la tasa de justicia, el tener que pagar
+[00:36:17] otros gastos que se pueden ir generando
+[00:36:19] eh honorarios a a los letrados, a los
+[00:36:23] abogados que tengan que intervenir.
+[00:36:24] Bueno, entonces, bueno,
+[00:36:27] está la posibilidad de que corrijamos
+[00:36:29] dentro del ámbito administrativo,
+[00:36:30] evitemos estos gastos innecesarios,
+[00:36:32] sostengamos la el agotamiento de la vía
+[00:36:35] administrativa como un recaudo
+[00:36:36] necesario.
+[00:36:38] Otro argumento es eh contar con un
+[00:36:41] antecedente documental. Cuando se arman
+[00:36:45] estas actuaciones administrativas y se
+[00:36:47] recorre cada una de las instancias,
+[00:36:49] generalmente hay vistas que se den a los
+[00:36:51] órganos técnicos, a los a las partes, a
+[00:36:54] los eh dictámenes legales que se emiten
+[00:36:57] dentro del marco administrativo y se va
+[00:36:59] armando todo un expediente, toda una
+[00:37:01] carpeta con con documentación que
+[00:37:04] realmente es muy importante y que muchas
+[00:37:06] veces sirve para esa revisión posterior
+[00:37:08] de la justicia. Entonces, bueno, si es
+[00:37:10] que se llega a la justicia, por lo menos
+[00:37:12] que la justicia tenga toda esta
+[00:37:16] antecedente documental, este expediente
+[00:37:18] con las constancias, con los elementos
+[00:37:20] fundamentales para resolver.
+[00:37:23] Y por otro lado también el conocimiento
+[00:37:24] técnico como argumento eh sustancial del
+[00:37:28] agotamiento de la vida administrativa.
+[00:37:29] Ustedes acá, bueno, el océano es un
+[00:37:32] organismo eh muy importante,
+[00:37:36] tiene conocimiento de de los estándares
+[00:37:38] de calidad, de los registros de
+[00:37:40] interrupciones, de las obligaciones de
+[00:37:42] las concesionarias y por ahí es un
+[00:37:43] órgano técnico que maneja cuestiones
+[00:37:46] complejas y que y que por ahí conoce con
+[00:37:50] mayor eh eh capacidad algunos aspectos
+[00:37:54] vinculados a su propia incumbencia que
+[00:37:56] tiene que revisar en el marco de
+[00:37:59] las cuestiones de servicio eléctrico. Un
+[00:38:03] juez es una persona que no conoce nada
+[00:38:06] sobre la materia y por lo tanto debe
+[00:38:09] asesorarse o ayudarse o auxiliarse de
+[00:38:12] peritos. En cambio, el organismo técnico
+[00:38:15] ya cuenta dentro de su estructura eh la
+[00:38:18] capacidad técnica administrativa como
+[00:38:20] para eh conocer y resolver algunas
+[00:38:23] cuestiones que se pueden dar y por eso
+[00:38:26] que la vía administrativa o el
+[00:38:28] agotamiento de la vía administrativa
+[00:38:30] también se justifica desde esa mirada,
+[00:38:33] desde desde ese alcance.
+[00:38:44] Eh,
+[00:38:45] como yo les decía,
+[00:38:48] también eh
+[00:38:50] ha habido una amorigeración [carraspeo]
+[00:38:53] de de esta
+[00:38:57] de esta cuestión de la del agotamiento
+[00:39:00] de la vida administrativa, pero bueno,
+[00:39:01] lo vamos a ver más adelante.
+[00:39:04] Cuestiones, no me quiero pasar
+[00:39:07] claves. Acá está. Sí, normativa
+[00:39:10] regulatoria.
+[00:39:13] Bueno, la reforma constitucional de la
+[00:39:15] provincia de Buenos Aires de 1994
+[00:39:20] en su artículo 166
+[00:39:24] reconoce la competencia de los
+[00:39:25] tribunales contenciosos administrativos
+[00:39:28] para conocer los casos originados por la
+[00:39:30] actuación u omisión de la provincia, de
+[00:39:33] los municipios, de los entes
+[00:39:35] descentralizados y otras personas en
+[00:39:37] ejercicio de funciones administrativas.
+[00:39:39] Y justamente esta norma delega en la ley
+[00:39:43] procesal los supuestos de obligatoriedad
+[00:39:46] de agotamiento de la vía administrativa.
+[00:39:47] Es decir, la norma constitucional dice,
+[00:39:50] bueno, que sea la norma procesal la que
+[00:39:52] establezca en qué casos debe o no
+[00:39:55] agotarse la vía administrativa.
+[00:39:58] Y justamente
+[00:40:01] el artículo 14 del Código de
+[00:40:02] Procedimiento Administrativo es el que
+[00:40:04] dice que el agotamiento de la vida
+[00:40:06] administrativa con la reforma
+[00:40:08] introducida por la ley 13101
+[00:40:11] es una un requisito para el acceso a la
+[00:40:15] justicia y enumera en en dicho precepto
+[00:40:18] cuáles son los supuestos de excepción de
+[00:40:21] agotamiento. decir, el agotamiento es
+[00:40:23] una exigencia obligatoria, una exigencia
+[00:40:25] previa, pero dice, bueno, ¿cuáles son
+[00:40:27] los casos en que no es necesario? Y
+[00:40:29] entre ellos establece, en primer lugar
+[00:40:32] cuando la la autoridad
+[00:40:36] jerárquica ya decidió o la autoridad con
+[00:40:39] competencia delegada ya decidió. Vamos a
+[00:40:41] pensar, por ejemplo, eh una
+[00:40:44] distribuidora cuestiona una sanción
+[00:40:46] administrativa impuesta por el organismo
+[00:40:48] de control
+[00:40:50] y esa sanción fue dictada por la
+[00:40:52] autoridad que según el régimen aplicable
+[00:40:55] tiene competencia final para resolver.
+[00:40:56] Bueno, en ese caso ya podemos ir
+[00:40:58] directamente a la justicia sin necesidad
+[00:41:00] de otro remedio recursivo administrativo
+[00:41:03] interno. El segundo supuesto es cuando
+[00:41:06] la vía administrativa es ineficaz, es
+[00:41:08] inútil o excesivamente gravosa.
+[00:41:13] Bueno, los ejemplos eh vamos a pensar en
+[00:41:16] un usuario electrodependiente que
+[00:41:18] denuncia cortes reiterados, que tiene
+[00:41:21] riesgo inminente para su salud, si no se
+[00:41:24] se le soluciona ese conflicto, eh no
+[00:41:26] tiene una respuesta eficaz de la
+[00:41:28] distribuidora y y por lo tanto decide,
+[00:41:31] bueno, directamente demandar a la
+[00:41:33] justicia. Bueno, la urgencia en este
+[00:41:35] caso, ya vamos a ver también en la clase
+[00:41:37] que vienen los temas de los amparos,
+[00:41:40] demuestra que recorrer toda esa vía
+[00:41:41] administrativa puede generar un daño o
+[00:41:44] agravar un daño a la salud de la
+[00:41:46] persona. Por lo tanto, el juez puede
+[00:41:48] considerar, en este caso concreto, que
+[00:41:49] el agotamiento de la vida administrativa
+[00:41:52] es totalmente ineficaz o es una carga
+[00:41:54] excesiva o innecesaria.
+[00:41:57] El tercer supuesto es cuando se da un
+[00:42:00] acto general emanado de la autoridad
+[00:42:03] final. O sea, no hablamos de una una
+[00:42:05] actuación particular, sino un acto
+[00:42:07] general. Eh, vamos a pensar una una
+[00:42:11] resolución general que dicte la
+[00:42:12] autoridad administrativa que modifique
+[00:42:14] parámetros de calidad del servicio o
+[00:42:17] criterios de facturación o exigencias
+[00:42:20] técnicas o condiciones aplicables a a
+[00:42:22] todos los concesionarios. Bueno, en
+[00:42:23] estos casos la empresa, la cooperativa,
+[00:42:26] la asociación de usuarios eh podría
+[00:42:28] impugnar directamente ante la justicia
+[00:42:30] tratándose de un acto general eh más si
+[00:42:32] proviene de de de la competencia final
+[00:42:36] de de la autoridad final del ámbito
+[00:42:38] administrativo.
+[00:42:40] El cuarto supuesto es la declaración
+[00:42:43] eh la pretensión declarativa de certeza.
+[00:42:46] Vamos a a dar el ejemplo de una
+[00:42:48] cooperativa que tiene una una duda seria
+[00:42:52] o actual sobre el alcance de una
+[00:42:54] obligación regulatoria, si determinada
+[00:42:56] instalación, si zona de prestación o
+[00:42:58] tipo de usuario queda no alcanzado por
+[00:43:01] el régimen específico. Acá ya no estamos
+[00:43:04] pidiendo ni que se se anule ni que se
+[00:43:06] deje sin efecto una resolución, sino
+[00:43:08] simplemente interpretar cuál es el
+[00:43:10] alcance de esa resolución. Bueno, en ese
+[00:43:12] caso concreto se establece que se puede
+[00:43:16] reclamar directamente o concurrir,
+[00:43:18] acudir directamente a la justicia para
+[00:43:20] eh sacar o desnar de esa duda y a través
+[00:43:25] de una acción declarativa o una
+[00:43:27] pretensión declarativa de certeza.
+[00:43:30] El quinto supuesto es cuando estamos
+[00:43:33] ante vías de hecho administrativa, ya no
+[00:43:36] estamos ante un acto administrativo, no
+[00:43:38] discutimos un acto administrativo, si no
+[00:43:40] estamos discutiendo una una actuación
+[00:43:42] concreta. Un municipio,
+[00:43:45] una autoridad administrativa ingresa
+[00:43:48] material a una instalación, impide su
+[00:43:50] funcionamiento, clausura
+[00:43:53] injustamente una una dependencia. Bueno,
+[00:43:57] en esos casos concretos eh se le permite
+[00:44:01] directamente acudir a la justicia porque
+[00:44:03] estamos frente a una actuación material
+[00:44:06] y legítima de de la administración
+[00:44:08] pública,
+[00:44:10] por lo cual la respuesta de la justicia
+[00:44:12] puede ser directa.
+[00:44:15] Otro supuesto es el silencio
+[00:44:17] administrativo.
+[00:44:18] Vamos a pensar un usuario eh reclama por
+[00:44:22] una un problema eh ante la
+[00:44:25] distribuidora, la distribuidora le
+[00:44:27] rechace reclamo, acude luego a los
+[00:44:31] contesta, pasa un mes, pasa dos meses,
+[00:44:33] sigue sin contestar. Pero bueno,
+[00:44:36] articula lo que se llama un pronto
+[00:44:37] despacho el usuario para que eh el el
+[00:44:41] Oceva de una respuesta eficiente. Bueno,
+[00:44:43] ante esa falta de respuesta, eh esa
+[00:44:47] esa situación coloca en una necesidad al
+[00:44:51] usuario de de de tener una respuesta,
+[00:44:53] una tutela judicial efectiva, por lo
+[00:44:55] cual puede acudir directamente a la
+[00:44:57] justicia por la ausencia de una
+[00:45:00] respuesta en tiempo y forma de del
+[00:45:02] órgano administrativo que debía en este
+[00:45:04] caso concreto dar la respuesta.
+[00:45:07] Y por último [carraspeo]
+[00:45:09] es el caso del del régimen especial ante
+[00:45:12] tribunales administrativos o entes
+[00:45:13] reguladores.
+[00:45:15] Eh, una distribuidora que cuestiona una
+[00:45:17] sanción del lente regulador, ahí está el
+[00:45:19] procedimiento específico eh en Teloceva.
+[00:45:23] Entonces ese procedimiento específico es
+[00:45:25] el que debe aplicarse y y entonces la
+[00:45:30] norma, en este caso concreto, remite a
+[00:45:32] la regulación concreta de del régimen
+[00:45:35] especial que tiene eh la autoridad de
+[00:45:37] aplicación.
+[00:45:40] Las claves de todo este sistema de del
+[00:45:44] agotamiento de la vía es que que debe
+[00:45:46] servir para una revisión administrativa
+[00:45:49] real, una revisión una revisión
+[00:45:50] administrativa útil, una revisión
+[00:45:52] administrativa eficaz, pero no para
+[00:45:54] demorar un control judicial que que
+[00:45:56] puede llegar o que debe llegar o que eh
+[00:45:59] o para impedir el acceso a la tutela
+[00:46:01] judicial efectiva. De hecho, la
+[00:46:03] jurisprudencia lo ha morigerado eh el a
+[00:46:08] este a esta exigencia en determinadas
+[00:46:11] situaciones. Los jueces cuando no cuando
+[00:46:15] no cuando se ha soslayado o se ha
+[00:46:16] omitido este agotamiento de la vida
+[00:46:18] administrativa, no es que ha rechazado
+[00:46:20] la demanda, en algunos casos ha mandado
+[00:46:22] a cumplir eh eh ese esa ese agotamiento
+[00:46:27] necesario para el ejercicio del reclamo
+[00:46:30] judicial. En otros casos, cuando no fue
+[00:46:32] planteado o nadie lo o no fue advertido
+[00:46:34] por las partes y por el juez a lo largo
+[00:46:37] de todo el proceso judicial, eh, y se
+[00:46:39] avanza con ese proceso judicial, bueno,
+[00:46:41] se entiende que ya precluyó la
+[00:46:43] posibilidad de plantearlo, de de de
+[00:46:46] sostener ese reclamo, razón por la cual
+[00:46:49] eh en esos casos se se ha permitido o se
+[00:46:53] ha obviado el el volver o retrogradar el
+[00:46:56] proceso a etapas ya consolidadas,
+[00:46:59] inclusive la Suprema Corte de justicia.
+[00:47:01] Hay dos precedentes donde donde ha
+[00:47:03] flexibilizado también este principio del
+[00:47:06] agotamiento, que son los casos eh
+[00:47:08] Gainedú y los casos eh Pomponio. En el
+[00:47:12] primero de ellos, en el Gainedú eran
+[00:47:14] daños eh contra que se reclamaba daños
+[00:47:17] contra la provincia porque dos oficiales
+[00:47:19] habían eh hecho desaparecer un automóvil
+[00:47:22] en la puerta de una comisaría. eh se
+[00:47:25] había demandado justamente al Estado.
+[00:47:28] Bueno, la Corte ha dicho como como el
+[00:47:30] reclamo eh eh se fundaba, no se fundaba
+[00:47:34] en ningún acto administrativo, sino que
+[00:47:35] se fundaba en una omisión material de de
+[00:47:38] los agentes, en este caso de los
+[00:47:39] policías, eh no era necesaria una
+[00:47:41] reclamación administrativa previa eh que
+[00:47:44] justificara eh que impidiera el acceso a
+[00:47:47] la tutela judicial efectiva. Y el otro
+[00:47:49] caso que es el caso Pompoño,
+[00:47:52] que es un caso de
+[00:47:55] de
+[00:47:57] creo que si mal lo recuerdo era de
+[00:47:59] reclamos de bonificaciones.
+[00:48:01] En este caso se había eh articulado los
+[00:48:05] recursos correspondientes dentro del
+[00:48:08] ámbito administrativo, pero faltaba un
+[00:48:10] recurso que era el recurso de
+[00:48:11] revocatoria.
+[00:48:13] Eh, el recurso de revocatoria, bueno,
+[00:48:15] los que son abogados lo conocen bien, es
+[00:48:17] el que se articula ante el mismo órgano
+[00:48:19] que emite una decisión pidiéndole que la
+[00:48:23] modifique, que la revoque, que la deje
+[00:48:25] sin efecto. Eh, es un pedido de revisión
+[00:48:28] que se hace del mismo órgano. Bueno, el
+[00:48:30] recurso de revocatoria es la posibilidad
+[00:48:33] que tenía. En este caso habían agotado
+[00:48:35] todas las las instancias recursivas
+[00:48:37] jerárquicas que que establece el ámbito
+[00:48:39] administrativo, pero el recurso de
+[00:48:42] revocatoria no se había no se había
+[00:48:45] impulsado. La Corte dijo, "Bueno, en
+[00:48:46] este caso concreto eh es innecesario
+[00:48:51] eh eh impedir el acceso a la justicia
+[00:48:53] porque se está en presencia de un acto
+[00:48:55] que decide el asunto y y proviene ese
+[00:48:58] acto de la autoridad máxima
+[00:49:00] administrativa con competencia
+[00:49:02] resolutoria final, por lo cual no
+[00:49:04] corresponde exigir también, además que
+[00:49:06] se que se interponga un recurso de
+[00:49:08] revocatoria para tratar de de solucionar
+[00:49:11] eh o dar una un recurso más en forma
+[00:49:14] previa al agotamiento de la vía
+[00:49:15] administrativa.
+[00:49:21] Pasando a la a la otra diapositiva, esto
+[00:49:24] es algo que quizás eh ya algo han visto
+[00:49:27] en las clases anteriores, que es eh el
+[00:49:30] rol de los SEBA en el régimen de la
+[00:49:33] provincia, en el régimen provincial. El
+[00:49:36] Oceva tiene funciones, como saben,
+[00:49:39] reglamentarias de fiscalización, de
+[00:49:41] control.
+[00:49:44] tiene la función de regular la de
+[00:49:48] controlar la calidad del producto
+[00:49:49] técnico, que esto se vincula con los
+[00:49:52] niveles de tensión, con los niveles de
+[00:49:54] perturbación que puede tener la
+[00:49:56] cabalidad del servicio técnico, que se
+[00:49:58] mide principalmente a través de la
+[00:50:00] frecuencia, de la duración de las
+[00:50:01] interrupciones,
+[00:50:03] la calidad del servicio comercial que
+[00:50:05] comprende la atención al usuario, la
+[00:50:07] conexión, la facturación, los reclamos,
+[00:50:10] las quejas, la suspensión, los suprim
+[00:50:12] los eh eh la suspensión de del servicio
+[00:50:16] eléctrico y la y el restablecimiento del
+[00:50:18] mismo. cada una de estas cargas o est de
+[00:50:21] estos controles, obviamente su
+[00:50:23] incumplimiento por parte del prestador
+[00:50:25] de servicio, genera sanciones que están
+[00:50:28] los subanexos D los subanexos E
+[00:50:30] precisamente determinadas en cuanto los
+[00:50:33] daños que se provocan los
+[00:50:35] incorrimientos, ya sea por interrupción
+[00:50:36] del servicio, por niveles de tensión
+[00:50:39] inadecuados, por daños del artefacto con
+[00:50:41] instalaciones, por errores de
+[00:50:42] facturación, por exceso de los plazos
+[00:50:45] para los plazos de de conexión o
+[00:50:47] reconexión.
+[00:50:48] Y estas sanciones van desde créditos a
+[00:50:51] favor de los usuarios, facturaciones,
+[00:50:54] multas a la distribuidora, compensación
+[00:50:56] económica, bonificaciones, etcétera.
+[00:51:01] Entre las funciones eh jurisdiccionales
+[00:51:04] eh primarias y secundarias, tenemos dos
+[00:51:08] elementales de los SEBA. una que se da
+[00:51:10] ante los conflictos entre los agentes
+[00:51:13] del sistema eléctrico, entre los cuales
+[00:51:17] acá sí se impone de manera y como
+[00:51:20] exigencia obligatoria el previo y
+[00:51:22] obligatorio sometimiento del conflicto
+[00:51:25] ante los SEVA para su resolución.
+[00:51:28] Es decir, cuando tenemos conflictos
+[00:51:30] entre los agentes del sistema eléctrico,
+[00:51:32] no se puede acudir directamente a al
+[00:51:35] poder judicial, sino que es obligatorio
+[00:51:38] el paso por eh el Oceva eh para que ese
+[00:51:42] organismo sea el que en un primer
+[00:51:45] término
+[00:51:47] eh admita esa discusión, ese debate en
+[00:51:50] el ámbito administrativo.
+[00:51:53] Pero los casos de conflictos entre
+[00:51:55] usuarios y concesionarios del servicio
+[00:51:58] eléctrico del itinerario práctico es
+[00:52:00] totalmente distinto.
+[00:52:03] Eh
+[00:52:04] ahí vemos como acá los subanexos y y la
+[00:52:09] ley 11769
+[00:52:11] son las que determinan cuáles son los
+[00:52:12] pasos. [música] Primero, bueno, el
+[00:52:15] usuario tiene que derecho a que se le
+[00:52:17] brinde eh a sus reclamos por
+[00:52:19] deficiencias o por errores de
+[00:52:21] facturación, un trámite dirigente, un
+[00:52:22] trámite responsable, una respuesta en
+[00:52:25] los plazos correspondientes.
+[00:52:28] Y el primer paso, obviamente, es
+[00:52:29] realizar ese reclamo. Debe
+[00:52:31] obligatoriamente hacerlo ante la
+[00:52:32] distribuidora. la distribuidora,
+[00:52:35] reclamar, identificar cuál es su
+[00:52:37] suministro, que llaman y preguntan
+[00:52:40] número de descripción del hecho, de la
+[00:52:44] fecha, de los daños, de la irregularidad
+[00:52:46] que se está denunciando
+[00:52:48] y de esa de ese reclamo va a obtener de
+[00:52:53] la de la distribuidora un una constancia
+[00:52:57] o un número de de reclamo de reclamo
+[00:52:59] respectivo. Toda todo reclamo debe
+[00:53:01] recibir una respuesta, una respuesta
+[00:53:04] escrita dentro de los 15 días hábil y
+[00:53:06] administrativos recibida en su caso o si
+[00:53:08] el problema no puede resolverse dentro
+[00:53:10] de ese plazo, la restribuidora debe
+[00:53:12] indicar la fecha estimada de solución y
+[00:53:15] explicar los motivos de de la demodora.
+[00:53:19] El tercer paso está dado por si la
+[00:53:22] respuesta
+[00:53:23] es inexistente o si la respuesta es
+[00:53:26] insatisfactoria. ¿Qué es lo que puede
+[00:53:28] hacer el usuario?
+[00:53:30] Bueno, en primer término, eh, o cuál es
+[00:53:33] la opción que tiene, puede reclamar a
+[00:53:36] los o puede acudir a la justicia. Esa es
+[00:53:39] la opción. Son dos respuestas eh
+[00:53:41] excluyentes. Si voy a los, no puedo ir a
+[00:53:43] la justicia. Si voy a la justicia, estoy
+[00:53:45] optando directamente por llevar mi
+[00:53:47] reclamo ahí, por lo cual es innecesario
+[00:53:49] el agotamiento de la vida administrativa
+[00:53:51] de los SE. Es decir, en este caso
+[00:53:53] concreto, no se le exige como obligación
+[00:53:58] eh sin Ecuanom el paso por el Oceva.
+[00:54:08] Vamos ahora a
+[00:54:13] dar a relatar dos casos que son muy
+[00:54:16] interesantes, que están que son
+[00:54:18] clarificadores en cuanto a a las
+[00:54:21] competencias, justamente la competencia
+[00:54:23] funcional del órgano administrativo y la
+[00:54:25] competencia funcional del órgano
+[00:54:27] jurisdiccional y otro caso de la Cámara
+[00:54:30] Nacional de Cámara de Apelaciones a los
+[00:54:32] contencios administrativos de Mar de
+[00:54:34] Plata.
+[00:54:35] que es eh que trata en relación a
+[00:54:37] diversos reclamos, a sentencias que
+[00:54:40] podrían llegar a ser contradictorias,
+[00:54:41] que son bastante ilustrativos y que
+[00:54:44] vienen eh que resultan trascendentes
+[00:54:47] para para clarificar un poco la
+[00:54:49] cuestión. Bueno, primero el famoso caso
+[00:54:51] Estrada, eh, que es eh se trataba de la
+[00:54:55] empresa Estrada que reclamaba ante el
+[00:54:57] ente regulador una indemnización contra
+[00:55:01] eh Edur por los daños que habría sufrido
+[00:55:04] como consecuencia de interrupciones
+[00:55:06] reiteradas del suministro eléctrico y de
+[00:55:08] niveles de tensión insuficientes que
+[00:55:10] afectaron, bueno, que afectaron su
+[00:55:12] funcionamiento, la maquinaria, la planta
+[00:55:14] industrial y lo particular es que
+[00:55:17] reclamaba
+[00:55:19] por el alquilar del grupo electrógeno
+[00:55:21] por los sueldos abonados al personal, es
+[00:55:22] decir, abarcaba en sus reclamos reclamos
+[00:55:25] que por ahí excedían la competencia de
+[00:55:29] de lo que podía definir el órgano
+[00:55:32] regulador.
+[00:55:33] Elenre rechaza el reclamo lo en lo
+[00:55:37] sustancial porque entiende que frente a
+[00:55:39] incumplimientos en la calidad de
+[00:55:41] servicio solo debía sancionar con las
+[00:55:43] multas y bonificaciones que establece el
+[00:55:46] organismo regulador, por lo cual eh los
+[00:55:49] damnificados terminan eh yendo a la
+[00:55:51] justicia para tratar de canalizar su su
+[00:55:54] pretensión.
+[00:55:56] La Cámara Contenciosa Federal revoca de
+[00:55:59] alguna manera esta decisión del eh del
+[00:56:04] Enre y ordena devolver esas actuaciones
+[00:56:07] al Enre. dice, "No, las reparaciones no
+[00:56:09] pueden limitarse a las multas y
+[00:56:11] bonificaciones que establece el
+[00:56:13] organismo regulador
+[00:56:16] y debe darse una reparación integral
+[00:56:19] conforme lo peticionado por por eh por
+[00:56:23] Estrada y manda devolver las actuaciones
+[00:56:26] a Lenre para que el determine esto. La
+[00:56:29] decisión es recurrida y llega a la
+[00:56:31] Suprema Corte, a la Corte Suprema de
+[00:56:34] Justicia Nacional, que identifica dos
+[00:56:36] problemas concretos. El primero es si
+[00:56:39] las multas o penalidades regulatorias
+[00:56:42] previstas en el contrato de concesión
+[00:56:44] excluían la posibilidad de que el
+[00:56:46] usuario reclamara además los daños y
+[00:56:48] perjuicios sufridos.
+[00:56:50] Y el segundo era si elre tenía
+[00:56:52] competencia funcional o jurisdiccional
+[00:56:54] para tratar de resolver justamente estos
+[00:56:56] reclamos
+[00:56:58] o la cuantía de los daños y perjuicios.
+[00:57:01] Bueno, lo que resuelve la Corte es
+[00:57:02] justamente
+[00:57:04] que las multas regulatorias no excluyen
+[00:57:06] estos eventuales reclamos de daño,
+[00:57:09] pero revoca la decisión de la Cámara en
+[00:57:11] cuanto manda al Enre, porque dice, "No,
+[00:57:12] el Enre no es el órgano competente para
+[00:57:16] determinar y condenar al pago de los
+[00:57:18] daños y perjuicio. Por lo tanto, manda a
+[00:57:19] que los mismos sean precisados en su
+[00:57:22] alcance y determinación concretamente
+[00:57:23] por la cámara." Ese es el famoso caso
+[00:57:27] Estrada.
+[00:57:28] Y y el caso este de Torres, de la Cámara
+[00:57:32] Contenciosa de Mar de Plata, el caso era
+[00:57:36] era Iri Iris Elena Torres Muñoz
+[00:57:40] y Raúl Alberto Belender promovieron una
+[00:57:43] demanda de daños y perjuicios contra
+[00:57:46] Edesa por un incendio que había ocurrido
+[00:57:49] en el domicilio particular. Según
+[00:57:51] relataron, eh el siniestro se produjo
+[00:57:54] por un desperfecto en el tendido de
+[00:57:55] distribución eléctrica, concretamente en
+[00:57:57] una sobretención derivada de
+[00:57:59] deficiencias del suministro.
+[00:58:02] Reclamaron daños morales, daños
+[00:58:04] materiales por la afectación de sus
+[00:58:05] bienes, electrodomésticos y otros
+[00:58:07] elementos. De esa rechaza el reclamo, le
+[00:58:10] dice, "No, no, no. Ese reclamo no es
+[00:58:12] procedente. No, en realidad no, la culpa
+[00:58:15] no no fue de de la empresa, sino que es
+[00:58:18] del particular."
+[00:58:20] El reclamo por vía recursiva, en lugar
+[00:58:23] de ir a la justicia, opta los usuarios
+[00:58:26] por ir directamente OSBA. O sea, admite
+[00:58:30] el reclamo de los usuarios a través de
+[00:58:32] la resolución 52807.
+[00:58:35] esta resolución emitida que dice,
+[00:58:37] "Bueno, tienen razón los usuarios, hay
+[00:58:39] que indemnizarlos por los daños que que
+[00:58:41] se le provocó este este incendio, porque
+[00:58:43] es responsabilidad de de esa
+[00:58:46] resolución 528 es
+[00:58:50] recurrida por Edesa y a través de ese
+[00:58:54] recurso también la OSBA vuelve a
+[00:58:57] rechazar el planteo de de Edesa y emite
+[00:59:00] la la decisión 179, por lo cual hay dos
+[00:59:03] decisiones, una es la que admite
+[00:59:05] interclamo y la otra, la que rechaza el
+[00:59:07] recurso de revocatoria, eh recurso
+[00:59:10] interpuesto por
+[00:59:12] por ese Eda, y
+[00:59:16] se encuentra así planteada la cuestión.
+[00:59:18] ¿Qué pasa? Ambas partes, tanto Edesa
+[00:59:21] como el particular, deciden llevar el
+[00:59:22] conflicto a la justicia.
+[00:59:25] El usuario, ante un juzgado contencioso
+[00:59:28] administrativo, reclama la íntegra
+[00:59:30] reparación de los daños en virtud de lo
+[00:59:32] que había ordenado OSEVA.
+[00:59:34] Por otro lado, paralelamente,
+[00:59:37] EDESA plantea una medida cautelar
+[00:59:40] buscando suspender los efectos de las
+[00:59:42] dos resoluciones de OSEBA, como también
+[00:59:46] un pedido de nulidad de esas dos
+[00:59:47] resoluciones de OSEVA ante la justicia
+[00:59:50] contenciosa administrativa. Es decir,
+[00:59:51] estos dos reclamos caen en dos jueces
+[00:59:53] distintos.
+[00:59:55] El primer juez que tenía el reclamo de
+[00:59:58] del usuario decide
+[01:00:00] condenar a Edesa a que indemnice los
+[01:00:03] daños y perjuicios y los determina
+[01:00:04] concretamente, los eh establece, los
+[01:00:08] precisa y los mensura concretamente. Y
+[01:00:12] bueno, esa decisión es apelada por el
+[01:00:14] por Eda, que llega a la Cámara
+[01:00:17] Contenciosa Administrativa de Mar del
+[01:00:19] Plata.
+[01:00:21] ¿Cuál era el problema acá que se
+[01:00:23] planteaba? es que había un juez que
+[01:00:25] había ordenado una reparación en función
+[01:00:27] de dos resoluciones de Oceva que est
+[01:00:29] habían sido paralelamente impugnadas por
+[01:00:31] el organismo, por la distribuidora. Por
+[01:00:35] lo cual la cámara con con Muy buen tino
+[01:00:37] dice, "Yo no sé si está bien o está mal
+[01:00:40] la indemnización que dio, que fue de
+[01:00:42] primera instancia, pero lo cierto es que
+[01:00:43] esa decisión es prematura,
+[01:00:47] eh, porque estamos ante dos objetos
+[01:00:50] procesales idénticos y no podemos
+[01:00:52] ordenar una indemnización si previamente
+[01:00:55] no tenemos definido si aquellas
+[01:00:57] decisiones que le dan sustento a esta
+[01:00:59] indemnización se encuentran firmes y
+[01:01:02] consentidas." habida cuenta que habían
+[01:01:04] sido impugnadas y habían sido ordenadas
+[01:01:08] su revisión por parte del órgano
+[01:01:09] administrativo. Entonces, lo que hace la
+[01:01:11] Cámara es declara la nulidad de la
+[01:01:13] sentencia de primera instancia por
+[01:01:15] prematura, no porque estuviera mal hecha
+[01:01:19] en en cuanto al fondo de la cuestión,
+[01:01:21] sino porque fue dictada antes de que
+[01:01:23] concluyera el proceso anulatorio
+[01:01:26] promovido poderesa contra la resolución
+[01:01:28] do esto es más que nada para contarles
+[01:01:32] un antecedente jurisprudencial vinculado
+[01:01:34] justamente con con cuestiones de de de
+[01:01:38] índole administrativo, de índole
+[01:01:40] jurisdiccional y que clarifican cuáles
+[01:01:42] son las competencias concretas de cada
+[01:01:44] uno de los órganos.
+[01:01:46] Vamos a pasar ahora
+[01:01:55] a la mirada judicial del servicio
+[01:01:58] eléctrico. Bueno, ahora un poco
+[01:02:00] contarles qué es lo que lo que hace cada
+[01:02:04] uno cuando de los jueces, de las
+[01:02:06] cámaras, de los tribunales, cuando
+[01:02:08] tienen que que resolver. Bueno, como
+[01:02:11] decíamos recién, el servicio eléctrico
+[01:02:13] tiene una dimensión técnica. está dada
+[01:02:16] por las redes, la línea, muchas de estas
+[01:02:18] cosas que ustedes ven habitualmente, el
+[01:02:20] mantenimiento, los protocolos de
+[01:02:22] intervención, las normas de calidad,
+[01:02:25] pero también tiene una dimensión
+[01:02:26] jurídica y esa dimensión aparece con con
+[01:02:29] especial eh trascendencia, con vigor
+[01:02:32] cuando se produce un conflicto, cuando
+[01:02:34] un usuario que reclama por daños en un
+[01:02:36] artefacto, cuando una familia que
+[01:02:38] demanda por una electrocución,
+[01:02:41] cuando una empresa que cuestiona una
+[01:02:43] sanción,
+[01:02:45] un distribuidor que invoca culpa de la
+[01:02:47] víctima o de un hecho de un tercero, un
+[01:02:49] organismo de control que ejerce
+[01:02:52] potestades sancionatorias,
+[01:02:54] un afectado que sostiene que la
+[01:02:56] prestación fue deficiente, insegura o
+[01:02:58] contraria al trato digno que que
+[01:03:00] habíamos visto que que debe dispensarse
+[01:03:02] al usuario en el marco de la relación
+[01:03:04] distribuidor y usuario. [música]
+[01:03:07] Y y ¿quién decide este conflicto? Bueno,
+[01:03:10] ya vimos que cómo se resuelve la
+[01:03:13] cuestión en el ámbito administrativo y
+[01:03:15] que esa decisión puede ser revisada en
+[01:03:17] el ámbito judicial.
+[01:03:19] Entonces, superado aquel escol
+[01:03:22] administrativo, ¿cómo es el juez que lo
+[01:03:23] decide? ¿Cuál es su función? ¿Y cuál es
+[01:03:25] el rol?
+[01:03:27] El rol del ju del juez consiste en
+[01:03:29] resolver el caso concreto, aplicar el
+[01:03:32] derecho, aplicar los la prueba sobre los
+[01:03:35] hechos, analizar las pruebas sobre esos
+[01:03:37] hechos denunciados por las partes al
+[01:03:39] caso concreto. El juez no administra el
+[01:03:41] servicio eléctrico, eh no diseña la red,
+[01:03:43] no fija tarifa, simplemente eh trata de
+[01:03:47] de dar una decisión y no sobre un caso
+[01:03:49] hipotético, sino sobre un caso real,
+[01:03:50] sobre un caso concreto.
+[01:03:54] Y para eso el juez debe tratar de
+[01:03:58] reconstruir jurídicamente los hechos.
+[01:04:01] tiene que averiguar qué sucedió,
+[01:04:05] dónde, cuándo ocurrió, quiénes
+[01:04:07] intervinieron,
+[01:04:09] qué deber jurídico tenía cada una de las
+[01:04:11] partes, si existió una falla, una
+[01:04:13] omisión, un riesgo, un vicio, un
+[01:04:15] incumplimiento, si hubo un daño, si hay
+[01:04:18] relación causal entre ese hecho y ese
+[01:04:20] daño, si correspondía alguna
+[01:04:22] responsabilidad, si existe alguna causal
+[01:04:25] de exoneración,
+[01:04:27] si tiene que conferir una indemnización
+[01:04:30] por esos daños. Sabemos que en el ámbito
+[01:04:34] jurisdiccional no estamos restringidos
+[01:04:36] como en el ámbito administrativo en
+[01:04:38] cuanto a la cantidad de rubros que uno
+[01:04:40] puede reclamar por los daños.
+[01:04:43] Para ser un poco explicativo, ¿qué daños
+[01:04:46] podría reclamarse en el ámbito
+[01:04:47] jurisdiccional? Bueno, el daño emergente
+[01:04:50] que es la la pérdida o o disminución en
+[01:04:53] el patrimonio que que sufre una persona,
+[01:04:56] por ejemplo, los gastos farmacéuticos,
+[01:04:58] los gastos de traslado, la reparación de
+[01:05:01] un vehículo, si hay un vehículo dañado,
+[01:05:03] la reparación de un inmueble, los gastos
+[01:05:05] de de recuperación de de una casa, de
+[01:05:07] asistencia, de gastos de sepelio en el
+[01:05:09] caso de que hubiera habido un
+[01:05:10] fallecimiento por un daño producido. Eso
+[01:05:13] es lo que se llama daño emergente. Pero
+[01:05:15] también se puede reclamar lo que es el
+[01:05:17] lucro cesante, que es la ganancia dejada
+[01:05:20] de percibir como consecuencia de un
+[01:05:23] hecho dañoso, los ingresos que que pude
+[01:05:26] haber obtenido y que no obtuve eh
+[01:05:29] justamente por haberse producido esa esa
+[01:05:31] interrupción del servicio eléctrico o
+[01:05:33] por haberse producido ese daño en en la
+[01:05:35] empresa o en la maquinaria que yo tengo
+[01:05:37] en mi empresa. Es una probabilidad que
+[01:05:40] se tiene que dar de manera objetiva y
+[01:05:42] debe acreditarse. Obviamente
+[01:05:45] también puede reclamar por la
+[01:05:46] incapacidad física eh personal
+[01:05:50] sobreviniente que puede tener una
+[01:05:52] persona que que sufre un daño por una
+[01:05:54] electorcución. esa incapacidad que puede
+[01:05:57] ser total, puede ser parcial, pero da
+[01:05:59] derecho, da derecho a a un reclamo,
+[01:06:03] porque es [carraspeo] lo que se
+[01:06:04] disminuye esa capacidad productiva de la
+[01:06:06] persona en virtud de de ese detrimento
+[01:06:08] incapacitante que le le ocasiona eh el
+[01:06:11] daño en su en su físico, puede ser
+[01:06:15] incapacidad física o incapacidad
+[01:06:16] psíquica también.
+[01:06:18] Eh, muchas veces cuando se daña
+[01:06:20] vehículos, se daña bienes, materiales o
+[01:06:22] maquinarias, se puede reclamar lo que es
+[01:06:24] la privación de uso. Es decir, eh esa
+[01:06:27] maquinaria que yo no puedo usar me
+[01:06:29] generó otros gastos y esos otros gastos
+[01:06:31] son daños que se me están eh que puedo
+[01:06:34] determinar, que puedo precisar en una
+[01:06:36] pretensión resarcitoria que yo impulse
+[01:06:39] en la justicia.
+[01:06:41] También está lo que es la
+[01:06:42] desvalorización menal, que es la
+[01:06:44] disminución del valor de mercado que
+[01:06:46] sufre un bien determinado por por haber
+[01:06:49] sufrido un daño específico.
+[01:06:54] Y como estos son daños patrimoniales los
+[01:06:56] que los que les describí con
+[01:06:57] anteriormente, también están los que son
+[01:06:59] los daños extrapatrimoniales, que es lo
+[01:07:01] que llamamos habitualmente como daño
+[01:07:04] moral, que comprende todas aquellas
+[01:07:06] afecciones espirituales, legítimos,
+[01:07:09] padecimientos que sufre una persona como
+[01:07:11] consecuencia de un hecho ilícito. Ese
+[01:07:15] uno generalmente cuando sufre un daño
+[01:07:19] físico con se tiene por acreditado, se
+[01:07:23] llaman a nivel jurídico se dicen rap que
+[01:07:25] no necesita prueba, es el daño o la
+[01:07:28] afección, un daño físico. lógico
+[01:07:30] considerar que un daño físico, o una
+[01:07:32] incapacidad ha generado a la persona
+[01:07:34] también un padecimiento espiritual, que
+[01:07:36] es un daño extrapatrimonial, que es
+[01:07:38] resarcible y que y que al afectar mi
+[01:07:42] tranquilidad, mi mi normalidad de vida,
+[01:07:45] genera una necesidad de un resarcimiento
+[01:07:47] concreto. Y como yo les decía cuando
+[01:07:50] hablábamos del daño de del trato digno,
+[01:07:54] también está lo que se llama el daño
+[01:07:56] punitivo, que es esa sanción que
+[01:07:58] establece el artículo 52 bis de la ley
+[01:08:00] 24240 que fue incorporado por la ley
+[01:08:03] 26301
+[01:08:05] y que y que sale del de de la estructura
+[01:08:08] del del daño resarcitorio clásico
+[01:08:10] clásico para convertirse en un daño
+[01:08:13] punitivo, sancionatorio, disuasivo, que
+[01:08:15] se otorga a favor del consumidor y
+[01:08:18] y que y al usuario y que si bien la
+[01:08:20] norma establece como único recaudo el
+[01:08:24] incumplimiento de las obligaciones por
+[01:08:26] parte de del proveedor, la
+[01:08:28] jurisprudencia y la doctrina de manera
+[01:08:30] mayoritaria, no de manera eh excluyente,
+[01:08:34] porque hay algunos jueces y todavía
+[01:08:35] algunas cámaras que todavía lo
+[01:08:37] sostienen, pero requiere un adicional a
+[01:08:40] ese incumplimiento, es decir, que la
+[01:08:42] concucta eh sea eh o
+[01:08:47] la conducta sea explícita, sea grave,
+[01:08:51] sea realmente una negligencia eh muy
+[01:08:54] grosera, una imprudencia muy grave o
+[01:08:58] casi al límite del dolo para poder eh
+[01:09:02] sancionar una conducta o o haya
+[01:09:04] reiteraciones de conductas o
+[01:09:06] negligencias leves que justifiquen de
+[01:09:08] algún modo por su reiteración, por su
+[01:09:12] desprecio del usuario tan grosero, la
+[01:09:15] aplicación de una sanción que es
+[01:09:17] realmente muy novedosa dentro del ámbito
+[01:09:20] eh civil y comercial nuestro, como para
+[01:09:24] eh dentro de nuestro sistema no existen
+[01:09:26] este tipo de penalidades con estas
+[01:09:27] características, por lo cual su
+[01:09:30] aplicación generalmente es restrictiva y
+[01:09:33] y
+[01:09:35] requiere una concurrencia
+[01:09:39] de elementos adicionales al
+[01:09:41] incumplimiento propiamente dicho.
+[01:09:46] Bueno, para
+[01:09:50] ver un poquito lo que es eh
+[01:09:54] cómo se hace una sentencia,
+[01:09:57] eh la sentencia se estructura en base a
+[01:09:59] tres pilares que son los hechos, las
+[01:10:02] pruebas y el derecho. Como decía, no es
+[01:10:04] una opinión del juez, es un proceso de
+[01:10:07] reconstrucción que hace el juez sobre
+[01:10:09] hechos que no que no vio. El juez no
+[01:10:11] estuvo en el lugar del hecho, no vio el
+[01:10:14] corte, no midió la atención, no vio, no
+[01:10:17] revisó el transformador, no inspeccionó
+[01:10:19] el medidor, por lo cual lo que intenta
+[01:10:22] el juez es reconstruir lo ocurrido a
+[01:10:24] partir de lo que le dicen las partes y
+[01:10:26] lo que le traen las partes, lo que está
+[01:10:28] agregado a lo que se llama el expediente
+[01:10:29] que antes era en papel, ahora es
+[01:10:31] electrónico, es digital. Entonces tiene
+[01:10:33] que [música] tratar de indagar qué pasó,
+[01:10:36] qué se propó, qué se probó, qué
+[01:10:38] consecuencias jurídicas puedo yo
+[01:10:40] determinar antes lo que se probó, pasó y
+[01:10:44] se probó. Y para eso, como les decía,
+[01:10:48] eh la sentencia del juez se apunta en
+[01:10:51] base a tres
+[01:10:53] bastiones o tres pilares que son los
+[01:10:55] hechos, la prueba y el derecho.
+[01:10:57] Los hechos son los que presentan las
+[01:11:00] partes en sus escritos constitutivos del
+[01:11:03] litigio. En todo controversia, siempre
+[01:11:05] tenemos una parte actora y una parte
+[01:11:06] demandada. La parte actora, que es la
+[01:11:09] que presenta su demanda, su pretensión,
+[01:11:11] va a relatar los hechos, va a relatar su
+[01:11:14] reclamo, va a relatar le al juez qué es
+[01:11:17] lo que le está pidiendo y en ese relato
+[01:11:20] va a ofrecer también la prueba con la
+[01:11:22] que cual va a intentar valerse para
+[01:11:24] acreditar esos hechos.
+[01:11:28] Esto es importante porque de alguna
+[01:11:29] manera tanto de ese relato como de la
+[01:11:32] contestación de ese relato
+[01:11:35] se fija lo que es los hechos
+[01:11:37] constitutivos del litigio, sobre los
+[01:11:39] cuales el juez no se puede apartar,
+[01:11:43] el juez no puede resolver un caso
+[01:11:45] distinto del que le plantearon. Esto
+[01:11:48] está relacionado con lo que nosotros
+[01:11:49] conocemos como es el principio de
+[01:11:51] congruencia, que es el deber de resolver
+[01:11:55] eh en el marco de lo planteado por las
+[01:11:58] partes. El juez debe mirar qué pidió el
+[01:12:00] actor, contra quién pidió el actor, por
+[01:12:04] qué pidió el actor esto y qué cuestiones
+[01:12:07] quedaron efectivamente discutidas. Por
+[01:12:10] ejemplo, si el usuario reclama una
+[01:12:12] indemnización por daños en artefactos,
+[01:12:15] el juez debe de resolver si corresponde
+[01:12:17] o no esa indemnización, pero no puede
+[01:12:18] transformar el juicio en un
+[01:12:20] procedimiento sancionatorio general
+[01:12:22] contra la distribuidora.
+[01:12:24] Tampoco podría condenar alguien a quien
+[01:12:27] no se debandó, menos aún hacerlo por una
+[01:12:30] suma mayor a la pedida. ¿Por qué? Porque
+[01:12:32] justamente hace al principio de
+[01:12:34] concongruencia, el juez no se puede
+[01:12:35] apartar de los términos constitutivos de
+[01:12:37] la litis, de los de lo que la parte le
+[01:12:40] propone en cada uno de de sus escritos
+[01:12:43] principales del proceso.
+[01:12:45] Esto es importante porque para el juez
+[01:12:47] esto no es una investigación abierta
+[01:12:49] sobre el funcionamiento, por ejemplo, de
+[01:12:51] la empresa, es una respuesta
+[01:12:53] jurisdiccional, institucional a un
+[01:12:55] conflicto concreto.
+[01:13:00] Después también es relevante
+[01:13:04] o es importante
+[01:13:06] que el juez sepa identificar cuáles son
+[01:13:08] los hechos relevantes del juicio y
+[01:13:11] separarlos de aquellos que no lo son. No
+[01:13:14] todos los hechos que narran las partes
+[01:13:16] tienen la misma importancia. Algunos son
+[01:13:19] centrales, otros son secundarios.
+[01:13:22] pueden contar muchas cosas, algunas
+[01:13:24] pueden ayudar a comprender el contexto,
+[01:13:27] pero no necesariamente van a ayudar a
+[01:13:29] definir la la cuestión jurídica o la
+[01:13:32] responsabilidad que debe atribuirse a
+[01:13:34] cada una de las partes en en la cuestión
+[01:13:36] que le fuera sometida al juez.
+[01:13:39] en un reclamo por daños derivados, por
+[01:13:41] ejemplo, de de una falla eléctrica, lo
+[01:13:44] central
+[01:13:45] no es solamente saber si el usuario está
+[01:13:47] molesto, si muchas veces llamó, si
+[01:13:49] siempre pagó la factura o si hace muchos
+[01:13:51] años que vive en la casa. Son cuestiones
+[01:13:53] que pueden ayudar, que pueden ser
+[01:13:55] descriptivas eh dentro del marco
+[01:13:58] contextual de la demanda. Lo importante
+[01:14:00] en el caso va a ser saber si hubo una
+[01:14:02] falla en el suministro, si esa falla
+[01:14:04] ocurrió en esa fecha denunciada, si se
+[01:14:07] afectó al usuario realmente, si el daño
+[01:14:11] existió, si el daño es compatible con
+[01:14:14] esa falla, si la causa puede atribuirse
+[01:14:17] a la distribuidora o si hubo un factor
+[01:14:20] externo que haya interrumpido ese esa
+[01:14:23] actuación de la distribuidora que pueda
+[01:14:25] hacer exonerarla o eximirla de
+[01:14:27] responsabilidad a la distribuidora.
+[01:14:31] Ahora bien, estos hechos relevantes y
+[01:14:35] fundamentales para el juicio pueden ser
+[01:14:37] que hayan sido reconocidos por las
+[01:14:39] partes. En el ejemplo dado puede ser que
+[01:14:41] la empresa reconozca que realmente hubo
+[01:14:43] fallas en el suministro, pero dicen,
+[01:14:45] "Sí, hubo falla en el suministro, pero
+[01:14:46] fueron en otra fecha distintas."
+[01:14:49] Entonces, bueno, reconoció que hubo
+[01:14:50] fallas, pero no admitió la fecha.
+[01:14:53] Entonces, lo que tenemos que advertir o
+[01:14:55] ver
+[01:14:57] que esos tenemos por un lado hechos
+[01:15:00] reconocidos y vamos a tener por otro
+[01:15:02] lado hechos controvertidos y ahí es
+[01:15:05] donde aparece el segundo pilar o el
+[01:15:08] segundo eh estructura fundamental de la
+[01:15:11] sentencia. ¿Qué es la prueba? Pues
+[01:15:13] justamente los hechos y las afirmaciones
+[01:15:17] de las partes son el objeto de la
+[01:15:19] prueba. Son el objeto de la prueba.
+[01:15:23] Y la prueba o lo relevante de la pruebas
+[01:15:26] es quién debe cargar con la prueba
+[01:15:29] y en definitiva hacerse cargo de las
+[01:15:32] consecuencias del incumplimiento de
+[01:15:34] dicha carga. Ese es uno de los temas
+[01:15:36] centrales eh del derecho procesal.
+[01:15:39] y los juicios se ganan o se pierden
+[01:15:42] precisamente según el resultado de la
+[01:15:44] prueba.
+[01:15:46] Los hechos afirmados por el titular de
+[01:15:48] la de el titular tiene la carga de
+[01:15:51] probarlo. Es decir, la regla es
+[01:15:55] quien carga con la prueba, quien carga
+[01:15:57] con una afirmación le le incumbe
+[01:16:01] acreditar la prueba. Esa es la regla
+[01:16:03] primordial. es que la parte que afirma
+[01:16:04] un hecho que ha sido controvertido
+[01:16:07] tiene que probarlo. Ahí vemos cómo está
+[01:16:10] en principios la regla principal. Ya
+[01:16:11] vamos a ver que sobre esto hay algunas
+[01:16:13] excepciones, pero en principio la carga
+[01:16:15] de la prueba pesa sobre quien afirma un
+[01:16:17] hecho
+[01:16:19] y cómo se desarrolla o cómo tiene la
+[01:16:21] parte la posibilidad de de de acreditar
+[01:16:25] o de incorporar esa prueba. Bueno, a
+[01:16:27] través de los que llamamos los medios
+[01:16:29] probatorios.
+[01:16:31] Eh, tenemos lo que es la prueba
+[01:16:32] documental. por ejemplo, una constancia
+[01:16:34] de un reclamo que se hizo a la
+[01:16:36] distribuidora,
+[01:16:38] actas notariales que den cuenta de los
+[01:16:40] daños producidos como fotografías,
+[01:16:42] facturas de compra, si yo quiero
+[01:16:44] acreditar que que tuve gastos vinculados
+[01:16:47] eh a los daños que se produjeron.
+[01:16:49] Es importante también puede ser la
+[01:16:51] prueba testimonial,
+[01:16:53] que es la percepción que han tenido
+[01:16:55] terceras personas por sus sentidos de
+[01:16:58] determinados hechos que son relevantes y
+[01:16:59] que son controvertidos en el proceso.
+[01:17:03] Testigos que pueden haber visto el
+[01:17:05] siniestro o que dan cuenta de reclamos
+[01:17:07] similares eh el mismo día por la
+[01:17:10] interrupción del servicio.
+[01:17:12] Otro medio de prueba es la prueba
+[01:17:14] informativa o prueba de oficios, que son
+[01:17:16] oficios que se libran a entidades
+[01:17:17] públicas, a entidades privadas para
+[01:17:20] obtener información de sus registros.
+[01:17:23] Eh, por ejemplo, un oficio SEBA para
+[01:17:25] saber si hubo reclamos, denuncias
+[01:17:27] efectuadas en determinados periodos.
+[01:17:30] La prueba pericial, que es la opinión de
+[01:17:33] los expertos que asesoran y auxilian al
+[01:17:35] juez en ámbitos que cedan la incumbencia
+[01:17:37] profesional del juez. Pensemos en un
+[01:17:40] reclamo derivado de sobretención. el
+[01:17:42] usuario puede afirmar que la falla
+[01:17:44] provino de la red de distribución,
+[01:17:46] mientras que la empresa puede sostener
+[01:17:47] que el problema se originó en la
+[01:17:49] instalación interna del inmueble. En
+[01:17:51] esos casos, el juez obviamente va a
+[01:17:53] necesitar el el auxilio técnico. La
+[01:17:56] pericia seguramente va a determinar si
+[01:17:58] una un una variación anormal de tensión,
+[01:18:01] si el defecto provino de fallas internas
+[01:18:03] de la casa del usuario. Bueno, pero lo
+[01:18:05] cierto que es este auxilio que les
+[01:18:07] brindan los peritos técnicos. Eh, no
+[01:18:10] significa que el juez está obligado a a
+[01:18:12] aceptar sí o sí lo que dice el perito.
+[01:18:16] El el juez debe analizar ese dictamen,
+[01:18:19] debe evaluarlo, debe evaluar si él mismo
+[01:18:22] está fundado o tiene fundamentos
+[01:18:24] científicos, si utiliza una metodología
+[01:18:26] adecuado, si se apoya en datos eh
+[01:18:29] verificables, si es claro, si es
+[01:18:31] coherente. Y en tal caso,
+[01:18:34] la decisión siempre corresponde al juez,
+[01:18:36] es decir, la fuerza vinculante del
+[01:18:38] dictamen pericial la evalúa el juez.
+[01:18:40] Pero va a ser difícil que si la pericia
+[01:18:42] reúna todos estas características, todas
+[01:18:45] estas virtudes, sea el juez eh factible
+[01:18:49] o le sea factible al juez apartarse del
+[01:18:52] contenido concreto de la misma,
+[01:18:53] justamente por su por la capacidad
+[01:18:56] técnica que tiene el perito y que el
+[01:18:57] juez carece por su por su eh
+[01:19:00] conocimiento profesional vinculado
+[01:19:02] exclusivamente a lo jurídico o al
+[01:19:03] derecho.
+[01:19:05] Eh,
+[01:19:07] otras veces la prueba no es directa.
+[01:19:09] Puede ser una prueba indiciaria o de
+[01:19:11] presunciones, cuando hay muchos indicios
+[01:19:14] de presunciones graves, plurales y
+[01:19:16] concordantes que no llevan a una
+[01:19:18] conclusión.
+[01:19:20] Un usuario eh reclama por artefactos
+[01:19:23] quemados, no tiene una medición técnica
+[01:19:25] concordante, pero por ejemplo puede
+[01:19:27] haber varios veciniños que tienen daños
+[01:19:29] el mismo día. Otro usuario reclamó
+[01:19:31] también por artefactos quemados. Eh, no
+[01:19:35] sé, hay constancias de llamadas, hay
+[01:19:40] intervención de cuadrillas en
+[01:19:41] determinados sectores, presupuestos de
+[01:19:43] reparación compatibles con los daños que
+[01:19:45] se denuncian. Bueno, son varios
+[01:19:46] elementos que hacen presumir de que el
+[01:19:48] reclamo realmente eh o que el problema
+[01:19:51] realmente existió. Esto se llama prueba
+[01:19:53] de de presunciones cuando son indicios
+[01:19:55] plurales, graves y concordantes que nos
+[01:19:57] llevan eh a una misma a una misma
+[01:20:00] conclusión.
+[01:20:02] Pero la carga de, como yo les decía, a
+[01:20:05] la parte que incumbe la carga de la
+[01:20:07] prueba es a la que afirma un hecho. Eh,
+[01:20:10] si bien es así, esa esa regla no
+[01:20:13] funciona de una manera rígida.
+[01:20:16] Si un usuario dice que un daño, debe
+[01:20:19] probar que el daño existió, pero si
+[01:20:21] reclama
+[01:20:23] eh por ejemplo
+[01:20:26] e por un problema de tensión,
+[01:20:31] hay determinadas situaciones
+[01:20:34] donde la jurisprudencia, la doctrina y
+[01:20:37] la propia normativa consumeril
+[01:20:40] ha generado lo que se llama un traslado
+[01:20:43] probatorio en relaciones de consumo y
+[01:20:46] servicio público. Esta regla de de de la
+[01:20:49] prueba es de quien afirma no es tan
+[01:20:51] rígida. ¿Por qué? Porque se ha dicho de
+[01:20:53] que quien se encuentra en mejor
+[01:20:55] condición de probar debe traer al
+[01:20:59] proceso o tiene una obligación de traer
+[01:21:01] al proceso esa información.
+[01:21:04] ¿Quién está en mejor condición de
+[01:21:06] aprobar la duración de un corte? o dónde
+[01:21:08] está una zona afectada o una causa de
+[01:21:11] una interrupción de un problema
+[01:21:13] eléctrico o o si existieron reclamos
+[01:21:17] simultáneos, si se intervino la
+[01:21:18] corbadrilla. En estos casos generalmente
+[01:21:20] es la distribuidora la que cuenta con
+[01:21:22] toda esa información para llevar al
+[01:21:25] proceso y acreditar. Entonces, el
+[01:21:28] usuario debe probar lo que
+[01:21:31] razonablemente está a su alcance, pero
+[01:21:33] la empresa está obligada a colaborar
+[01:21:36] aportando al proceso la información
+[01:21:38] técnica que está bajo su órbita. A esto
+[01:21:41] se le suele llamar cargas probatorias
+[01:21:44] dinámicas. No es la idea invertir
+[01:21:47] automáticamente la carga de la prueba,
+[01:21:49] sino es más razonable, es exigirle
+[01:21:52] probar a quien está en mejores
+[01:21:54] condiciones de hacerlo.
+[01:21:56] En términos simples, el usuario no se le
+[01:21:58] puede exigir que pruebe técnicamente lo
+[01:22:01] que la distribuidora puede registrar,
+[01:22:03] puede medir, puede explicar.
+[01:22:07] En en la ley de de defensa del
+[01:22:10] consumidor se le impone al proveedor un
+[01:22:12] deber de colaboración, un deber de
+[01:22:14] aportar al proceso los elementos que
+[01:22:16] cuenta en su poder. Y ese deber de
+[01:22:18] colaboración impone, en este caso
+[01:22:20] concreto, en llevar al proceso la prueba
+[01:22:23] que obra en su poder, que está
+[01:22:24] relacionada con las cuestiones
+[01:22:26] controversiales o las cuestiones
+[01:22:28] litigiosas.
+[01:22:30] Obviamente esto no significa que el
+[01:22:32] usuario no debe probar nada, significa
+[01:22:33] que la prueba técnica más compleja debe
+[01:22:36] exigirse a quien está en mejores
+[01:22:37] condiciones.
+[01:22:40] ¿Y cómo es la regla de valoración
+[01:22:42] probatoria? O o ¿qué parámetros tiene el
+[01:22:45] juez? Una vez que están los hechos, eh,
+[01:22:48] las partes produjeron las pruebas, el
+[01:22:50] juez tiene que llegar a la dictar
+[01:22:52] sentencia y tiene que valorar la prueba.
+[01:22:54] Bajo qué parámetros o qué exigencia
+[01:22:57] tiene la normativa procesal respecto de
+[01:23:00] este juicio valorativo que debe hacer el
+[01:23:02] juez sobre las pruebas arrimadas al
+[01:23:04] proceso. Bueno, la prueba, la valoración
+[01:23:06] no debe ser arbitraria,
+[01:23:08] se realiza conforme a reglas jurídicas
+[01:23:10] irracionales irracionales llamadas
+[01:23:14] reglas de la sana crítica, que son
+[01:23:16] aquellas que son aconsejadas por el
+[01:23:19] sentido común, por la que son extraídas
+[01:23:21] de la lógica, que están basadas en la
+[01:23:24] ciencia, en la experiencia, en la
+[01:23:26] observación. No se trata de una libertad
+[01:23:29] absoluta de la manera de decidir, sino
+[01:23:31] si de ni tampoco decidir en base a
+[01:23:34] impresiones personales. La valoración
+[01:23:35] tiene que ser fundada, tiene que seria,
+[01:23:38] tiene que ser racional y tiene que ser
+[01:23:40] verificable y controlable. El juez debe
+[01:23:43] explicar por qué considera aprobado cada
+[01:23:46] hecho y relacionar cada prueba con cada
+[01:23:49] hecho concreto que considera acreditado
+[01:23:52] con ese medio, con ese esa prueba
+[01:23:55] incorporada al proceso.
+[01:23:58] Y por último, el último
+[01:24:01] elemento
+[01:24:05] estructural de una sentencia es su
+[01:24:07] fundamentación jurídica. Toda sentencia
+[01:24:10] tiene que estar fundada en ley.
+[01:24:12] Constitución nacional, Código Civil y
+[01:24:15] Comercial, normativa procesal
+[01:24:17] correspondiente, normativa regulatoria,
+[01:24:20] disposiciones o resoluciones de los
+[01:24:22] organismos o de las autoridades de
+[01:24:24] aplicación, anexos, subanexos. Bueno, lo
+[01:24:26] cierto es que toda esa exigencia o esa
+[01:24:30] carga eh legal es se impone incorporarla
+[01:24:34] al cuerpo al cuerpo de la escritura de
+[01:24:36] una sentencia. Al punto tal está la
+[01:24:39] exigencia que una sentencia que carece
+[01:24:42] de un fundamento legal es pasible de ser
+[01:24:45] declarada nula a través de los eh
+[01:24:48] recursos respectivos extraordinarios que
+[01:24:50] establece la normativa específica. Una
+[01:24:52] sentencia sin que no está fundada en ley
+[01:24:54] es una sentencia nula, es una sentencia
+[01:24:56] que puede ser ser declarada inválida.
+[01:25:05] Vamos a ver una una diapositiva más y
+[01:25:08] después hacemos un un un mini un mini
+[01:25:10] corte, ¿les parece?
+[01:25:12] Bueno,
+[01:25:15] responsabilidad civil.
+[01:25:16] Sí, sí, gracias, muy amable.
+[01:25:19] Bueno,
+[01:25:21] responsabilidad civil por daños
+[01:25:22] eléctricos.
+[01:25:24] Eh,
+[01:25:29] el origen de la responsabilidad. Bueno,
+[01:25:31] el esquema clásico de responsabilidad
+[01:25:32] que nosotros hemos visto en el derecho
+[01:25:35] era el esquema clásico histórico, era el
+[01:25:38] de la responsabilidad subjetiva basada
+[01:25:41] en la culpa. Es decir, para que una
+[01:25:43] persona debiera indemnizar a otra, la
+[01:25:47] víctima debía demostrar que el autor del
+[01:25:48] daño había obrado con negligencia,
+[01:25:51] imprudencia, impericia. o la culpa en un
+[01:25:55] sentido estricto que la imprudencia, la
+[01:25:57] negligencia y la impericia. Hacer menos
+[01:25:58] de lo que se debe, hacer más de lo que
+[01:26:00] se debe, ser imprudente o imperito, no
+[01:26:03] no cumplir las reglas de de del arte o
+[01:26:05] de la profesión a la cual cada uno está
+[01:26:07] obligado dentro de su incumbencia. Y el
+[01:26:10] dolo es el actuar deliberadamente con la
+[01:26:12] intención de provocar un daño al otro.
+[01:26:14] Bueno, ese era el esquema clásico, la
+[01:26:16] estructura de de razonamiento que le
+[01:26:19] daba sustento y base a a la
+[01:26:22] responsabilidad
+[01:26:23] civil por daños en general.
+[01:26:27] Este es un esquema que
+[01:26:30] funcionaba relativamente bien en
+[01:26:31] sociedades menos complejas, donde los
+[01:26:34] daños solían provenir de conductas
+[01:26:36] personales fácilmente identificables,
+[01:26:39] una agresión, una omisión evidente, una
+[01:26:43] conducta descuidada. era fácilmente
+[01:26:45] encuadrable dentro de este esquema de de
+[01:26:48] responsabilidad subjetiva.
+[01:26:50] Pero
+[01:26:52] por otro lado,
+[01:26:54] este esquema no resultó o cuando aparece
+[01:26:57] la industria, aparece el transporte,
+[01:26:59] aparecen
+[01:27:01] eh las cosas que o las maquinarias que
+[01:27:05] que por sí mismas eh traían un riesgo
+[01:27:08] mismo en su uso, en su aplicación,
+[01:27:11] aparecía que la víctima sufrían un daño
+[01:27:14] y que les resultaba muy difícil o
+[01:27:16] directamente, si no imposible, demostrar
+[01:27:19] cuál había sido
+[01:27:20] exactamente la culpa del dueño de la
+[01:27:22] cosa, del empresario, del conductor, del
+[01:27:25] fabricante, del prestador de servicio.
+[01:27:28] Entonces
+[01:27:31] apareció lo que es el concepto de riesgo
+[01:27:33] beneficio. Se trató de distribuir de una
+[01:27:36] manera más justa los costos del daño. Si
+[01:27:38] alguien obtenía un beneficio, una
+[01:27:41] utilidad, un provecho económico o
+[01:27:43] funcional de una cosa generadora de
+[01:27:46] riesgos, resultaba razonable también que
+[01:27:49] cargara también con las consecuencias de
+[01:27:51] los daños que esa cosa ocasionaba.
+[01:27:55] esta teoría de la responsabilidad
+[01:27:57] objetiva, es decir, no no importaba
+[01:28:00] pensar la culpa, sino simplemente
+[01:28:02] bastaba ese daño ocasionado por esa cosa
+[01:28:06] que ocasionaba riesgos para para ser
+[01:28:09] responsable a su dueño o su guardián,
+[01:28:11] fue receptada en el derecho argentino a
+[01:28:13] través del el antiguo artículo 1113 del
+[01:28:17] código velesano y después ratificada o
+[01:28:20] confirmada por el el Nobel Código Civil
+[01:28:23] y Comercial en sus artículos 1757 y
+[01:28:26] 1758.
+[01:28:28] ¿Qué impone entonces a la víctima? ¿Qué
+[01:28:31] es lo que cambia todo esto? Bueno, que
+[01:28:32] la víctima se le aliviana la carga
+[01:28:35] probatoria ante un ante un hecho dañoso
+[01:28:38] cuando intervienen cosas riesgosas.
+[01:28:40] Entonces, ¿cuáles son las únicas cuatro
+[01:28:42] elementos o cuatro cargas probatorias
+[01:28:46] que tiene la víctima? Bueno, la primera
+[01:28:47] es que sufrí un daño. Tengo que
+[01:28:50] acreditar que yo sufrí un daño.
+[01:28:53] Fundamental, [carraspeo] acreditar que
+[01:28:54] sufrí un daño. Segundo elemento,
+[01:28:57] acreditar que ese daño, en ese daño
+[01:29:00] interviene una cosa riesgosa. Ya vamos a
+[01:29:02] ver cuáles son las cosas riesgosas, pero
+[01:29:03] o una cosa riesgosa, una cosa que tiene
+[01:29:06] un vicio.
+[01:29:08] Tercera carga es el nexo causal entre
+[01:29:12] ese daño e y esa cosa riesgosa. decir,
+[01:29:15] estuvo el daño, estuvo intervinó una
+[01:29:17] cosa riesgosa, tengo que acreditar que
+[01:29:19] hubo un nexo causal entre es el daño y
+[01:29:20] esa cosa riesgosa. Y por último, la
+[01:29:23] calidad de dueño o guardián
+[01:29:26] del demandado
+[01:29:28] respecto de ese bien o esa elemento
+[01:29:31] ocasionador de riesgo o que tiene su
+[01:29:33] vicio propio.
+[01:29:36] ¿Y cómo podía eximirse de
+[01:29:38] responsabilidad?
+[01:29:40] No acreditaste que soy culpable
+[01:29:41] personalmente en virtud de la culpa, lo
+[01:29:43] acreditaste de manera objetiva. Como
+[01:29:45] distribuidora, como empresario, puedo
+[01:29:47] eximirme de responsabilidad. Bueno,
+[01:29:49] puedo eximirme si
+[01:29:51] acredito que intervino algo que
+[01:29:53] interrumpió ese nexo causal entre el
+[01:29:55] daño y que proviene del hecho de un
+[01:29:58] tercero, de un caso fortuito o de una
+[01:30:00] fuerza mayor.
+[01:30:03] Y este tema del nexo causal que es es
+[01:30:06] muy relevante,
+[01:30:08] se han siempre históricamente se han eh
+[01:30:12] creado varias teorías, alguna teoría que
+[01:30:14] este decía, ¿cuál es el nexo causal o
+[01:30:16] cuál es la causa determinante de un
+[01:30:18] suceso? ¿Cómo podemos atribuir a un
+[01:30:20] suceso eh a una causa, a un hecho
+[01:30:23] determinada consecuencia? Bueno, ¿cuál
+[01:30:25] es el nexo causal? La primer teoría, la
+[01:30:27] más antigua, era la de la equivalencia
+[01:30:28] de las condiciones, que consideraban que
+[01:30:30] todas las condiciones que concurrieran
+[01:30:32] para que se produzca un resultado son
+[01:30:34] igualmente causantes. Si se elimina
+[01:30:38] mediante mentalmente una acción y el
+[01:30:41] resultado no hubiera ocurrido, esa
+[01:30:42] acción es causa. Vamos a ver un ejemplo.
+[01:30:46] Si un herido con lesiones leves por un
+[01:30:49] producto de una descarga eléctrica de un
+[01:30:51] cable suelto de una empresa, pero co
+[01:30:53] lesiones leves, eh llama la ambulancia,
+[01:30:56] después la ambulancia sale para el
+[01:30:58] hospital y la la choca un camión y muere
+[01:31:01] la víctima. Según esta teoría de la
+[01:31:04] equivalencia de las condiciones, la
+[01:31:05] empresa distribuidora podría ser causal
+[01:31:08] responsable de la muerte.
+[01:31:10] Ay, perdón, hay que tener muy mala
+[01:31:12] suerte para que te pase eso, Fernando.
+[01:31:15] Terrible, ¿eh? Sería terrible, pero
+[01:31:17] bueno, ha habido situaciones de
+[01:31:19] agravación de daños por diferentes
+[01:31:20] circunstancias que no no hablemos del
+[01:31:23] camión, pero puede pasar dentro del
+[01:31:25] hospital, puede pasar a través de una
+[01:31:27] mala praxis. Entonces, ¿a dónde hacemos
+[01:31:29] responsable a la distribuidora? ¿Por el
+[01:31:31] daño leve o por la mala praxis del
+[01:31:32] médico? Entonces, eh esta teoría de la
+[01:31:35] equivalencia de las condiciones no
+[01:31:37] llevaba un resultado injusto. Entonces,
+[01:31:39] aparecen otras teorías. Bueno, la teoría
+[01:31:41] de la causalidad adecuada, que es la que
+[01:31:42] en definitiva se termina adoptando, es
+[01:31:45] la que dice que no cualquier antecedente
+[01:31:47] es causa jurídica. Solo se considera
+[01:31:49] causa aquella acción que según el curso
+[01:31:51] natural y ordinario de las cosas es
+[01:31:53] idónea para producir el resultado. En
+[01:31:56] este ejemplo, evidentemente la empresa
+[01:31:59] no es responsable de la muerte, hubiera
+[01:32:01] sido responsable, en su caso, de las
+[01:32:03] lesiones leves que se le ocasionó a la
+[01:32:05] víctima. Después estaba otra teoría que
+[01:32:06] la de la causa más próxima es la que
+[01:32:09] sostiene que eh que
+[01:32:12] la causa legalmente relevante es la que
+[01:32:15] se encuentra más cerca en el tiempo y en
+[01:32:17] el espacio del resultado producido,
+[01:32:19] descartando eventos previos más remotos.
+[01:32:22] Por ejemplo, si una empresa eléctrica no
+[01:32:24] realiza el mantenimiento de sus redes y
+[01:32:26] deja un cable de alta de alta tensión
+[01:32:29] desgastado y colgado, eh, y después
+[01:32:32] viene una tormenta, eh, que con vientos
+[01:32:35] normales, nada irracional, termina
+[01:32:37] haciendo caer el cable y se muere una
+[01:32:39] persona o lo pisa un piatón y termina o
+[01:32:41] muere electrocutado. En este caso, la
+[01:32:44] causa más próxima próxima hubiera sido
+[01:32:46] la la tormenta por la teoría de esta
+[01:32:48] última. Pero si tomamos la causalidad
+[01:32:50] adecuada, que es la que en definitiva
+[01:32:51] terminó adoptando el Código Civil eh de
+[01:32:54] Vélez y el Código Civil actual, podemos
+[01:32:56] decir que la causa eficiente en este
+[01:32:59] caso fue el cable suelto. Entonces,
+[01:33:02] bueno, esta es la trascendencia de
+[01:33:03] interpretar cuál es el nexo jurídico
+[01:33:05] entre la cosa y el daño y cómo en
+[01:33:07] determinadas situaciones, ya vamos a ver
+[01:33:10] los casos concretos, ese nexo jurídico
+[01:33:12] se puede ver interrumpido por la
+[01:33:13] actuación de un tercero, por la falta de
+[01:33:15] control de los padres, por la actuación
+[01:33:18] concomitante o muchas veces se dan
+[01:33:21] multiplicidad de causas en la causación
+[01:33:24] de un hecho y que pueden ser
+[01:33:25] distribuidas causalmente entre los
+[01:33:27] responsables eh a fin de responder ante
+[01:33:30] los daños. años que se lo hubiera
+[01:33:32] producido a un tercero.
+[01:33:35] Bueno, ¿cuándo una cosa es riesgosa o
+[01:33:37] cuándo es viciosa? Bueno, hay riesgo
+[01:33:38] cuando la cosa por su por su naturaleza,
+[01:33:42] por su funcionamiento, por su energía,
+[01:33:44] por su peso, por su velocidad, su
+[01:33:47] ubicación, su potencia, su modo de
+[01:33:48] utilización, tiene aptitud para causar
+[01:33:51] daños. No hace falta que la cosa sea
+[01:33:53] defectuosa, puede funcionar
+[01:33:55] perfectamente y aún así ser riesgosa.
+[01:33:57] Por ejemplo, un automóvil en circulación
+[01:33:59] es riesgoso por su masa, por su
+[01:34:01] velocidad, por su capacidad de impacto.
+[01:34:04] Una línea eléctrica de media tensión es
+[01:34:06] riesgosa por la energía que transporta.
+[01:34:09] Una maquinaria industrial es riesgosa
+[01:34:10] por su potencia eh mecánica. Una caldera
+[01:34:13] es riesgosa por su presión, por su
+[01:34:15] temperatura. Un ascensor es riesgoso
+[01:34:17] porque se desplaza a alturas, eh, por su
+[01:34:20] sistema mecánico.
+[01:34:22] En cambio, las cosas pueden además de
+[01:34:24] hacer riesgosas, pueden tener vicios,
+[01:34:26] que es un defecto, una falla, una
+[01:34:28] anomalía o deficiencia que la torna
+[01:34:30] impropia, insegura o más peligrosa de lo
+[01:34:33] normal. Por ejemplo, un automóvil con
+[01:34:35] frenos defectuosos o o con defectos en
+[01:34:40] su mecánica, un cable eléctrico mal
+[01:34:43] aislado, una vereda con una baldosa
+[01:34:45] rota, una cosa inarte, fíjense cómo
+[01:34:48] puede ser una cosa riesgosa y puede por
+[01:34:50] tal razón ser abordable desde el ámbito
+[01:34:53] este que estoy diciéndole yo, que es el
+[01:34:54] de la responsabilidad objetiva. Pero
+[01:34:56] bueno, vamos a hacer ahora un pequeño
+[01:34:59] corte y después la otra parte la vamos a
+[01:35:01] hacer más rapidita, si no se nos va
+[01:35:03] mucho tiempo atrás. Un corte de 10
+[01:35:04] minutos, ¿le parece? Y después lo otro
+[01:35:07] va a ser simplemente les voy a leer
+[01:35:09] sumarios y fallos de la Suprema Corte
+[01:35:11] que vienen eh al caso para ilustrar
+[01:35:15] sobre justamente sobre la
+[01:35:16] responsabilidad objetiva, sobre las
+[01:35:18] distintas maneras de que de de de
+[01:35:20] distribuir la responsabilidad cuando hay
+[01:35:22] un montón de protagonistas donde pueda
+[01:35:24] darse situaciones de interrupción de
+[01:35:25] Ernesto Gausal. ¿Les parece?
+[01:35:27] Dale, Fernando. Bueno, en 10, 15
+[01:35:30] minutitos volvemos.
+[01:35:32] Dale.
+[01:35:47] Buenísimo. No, acá simplemente es
+[01:35:49] primero les vamos a ver unos fallitos de
+[01:35:53] de la Suprema Corte.
+[01:35:57] están de la provincia de Buenos Aires
+[01:35:59] para ver cómo funciona todo este tema de
+[01:36:01] la responsabilidad objetiva y cómo lo ha
+[01:36:03] resuelto el máximo tribunal provincial
+[01:36:05] en diferentes circunstancias y ante
+[01:36:07] situaciones diversas también todas
+[01:36:10] relacionadas con daños en el en la
+[01:36:13] prestación de del servicio de energía
+[01:36:16] eléctrica. La primer causa es la causa
+[01:36:19] Cujarellén Ricardo Miguel contra empresa
+[01:36:21] distribuidora. Esto fue un accidente
+[01:36:25] ocurrido en el 2005. Un niño estaba en
+[01:36:28] el balcón de su vivienda cuando toma
+[01:36:30] contacto directa o indirectamente, no se
+[01:36:32] sabe muy bien, con un cable vinculado a
+[01:36:35] una línea de media tensión de 300 200 V,
+[01:36:38] lo que provocó una descarga eléctrica de
+[01:36:41] enorme gravedad y eso obviamente
+[01:36:42] lesiones gravísimas, severísimas,
+[01:36:44] estéticas, psicológicas, hasta llegar a
+[01:36:46] la amputación del brazo.
+[01:36:50] [carraspeo]
+[01:36:50] La sentencia de primera instancia en
+[01:36:54] base a todo este régimen de la
+[01:36:56] responsabilidad objetiva, que decía yo,
+[01:36:58] el hecho, la reconexión causal y
+[01:37:03] el el titular Dueño y Guardián en estos
+[01:37:06] cuatro elementos, eh determina la
+[01:37:08] responsabilidad de Sur. La Cámara de
+[01:37:11] Apelaciones, lo civil y comercial del
+[01:37:13] departamento de Julial de Quines, revoca
+[01:37:14] la sentencia de primera instancia porque
+[01:37:16] dice que no estaba aprobado el contacto
+[01:37:19] directo que había tenido el niño con el
+[01:37:21] cable de media tensión.
+[01:37:23] A tal efecto, valoró la historia
+[01:37:26] clínica, ¿no? Que la historia clínica no
+[01:37:27] surgía con precisión la mecánica del
+[01:37:29] accidente, que los testigos no lo habían
+[01:37:32] presenciado, no lo habían visto
+[01:37:33] directamente, que el perico, ingeniero
+[01:37:37] electricista no resultaba, afirmó que no
+[01:37:40] resultaba factible que la oscilación del
+[01:37:42] viento acercara el cable al lugar del
+[01:37:44] hecho y que tampoco podía determinarse
+[01:37:47] si el niño había manipulado o no algún
+[01:37:49] elemento conductor de electricidad.
+[01:37:52] La causa llega a la corte y la Corte
+[01:37:57] revoca esta sentencia, termina
+[01:37:59] condenando a la empresa y dice que no es
+[01:38:01] necesario probar la culpa subjetiva de
+[01:38:04] la empresa, que no es necesario probar
+[01:38:06] el contacto directo físico, que la
+[01:38:09] electricidad puede producir daños por
+[01:38:12] descarga, por alcovoltaico, por
+[01:38:14] inducción, por contacto indirecto o por
+[01:38:16] transmisión a través de elementos
+[01:38:17] conductores.
+[01:38:19] tuvo en cuenta lo dictaminado por el
+[01:38:21] perito médico en cuanto el mismo dijo
+[01:38:24] que existía una relación causal entre el
+[01:38:26] accidente y las secuelas cicatrizales
+[01:38:29] del actor. Es decir, el perito destacó
+[01:38:32] que ingresó el mismo día del accidente
+[01:38:34] al hospital, que no se contactaron
+[01:38:36] constataron factores causales ajenos,
+[01:38:39] [música]
+[01:38:40] que una descarga eléctrica era una causa
+[01:38:42] verosímil, idónea y proporcionada y
+[01:38:43] adecuada de esos daños, que la fecha de
+[01:38:46] atención médica coincidía justamente con
+[01:38:48] la fecha del evento y que existían
+[01:38:50] secuelas que podrían considerarse
+[01:38:51] objetivas. Por otra parte, la Corte
+[01:38:54] también valoró la declaración de los
+[01:38:55] testigos. Uno había, uno de los testigos
+[01:38:58] había escuchado una descarga, otro había
+[01:39:00] visto al padre bajar con los niños en
+[01:39:02] brazos, otro había descripto que el niño
+[01:39:05] tenía humo en la cabeza, que le habían
+[01:39:06] quedado marcas de de fogonazo en el
+[01:39:09] balcón, que sobre la línea de media
+[01:39:12] tensión colgaba un cable con una
+[01:39:13] botella, eh, que ese elemento se
+[01:39:16] encontraba de una manera cerca de la
+[01:39:18] ventana del balcón y que el cable tocaba
+[01:39:20] un árbol y producía descargas o
+[01:39:22] fogonazos.
+[01:39:24] También había reclamos previos de los
+[01:39:25] vecinos que tenían eh habían reformulado
+[01:39:28] ante los organismos eh ante la
+[01:39:30] distribuidora, por lo cual en la Corte
+[01:39:32] termina condenando la distribuidora y
+[01:39:35] también rechaza el planteo de la de la
+[01:39:37] demandada porque la demandada había
+[01:39:39] invocado que había culpa invigilando de
+[01:39:41] los padres y la Corte termina diciendo
+[01:39:43] que esa eh que la demandada no probó de
+[01:39:46] qué manera la conducta de los padres
+[01:39:48] hubiera interrumpido la relación causal
+[01:39:51] entre la cosa riesgosa y el daño. por lo
+[01:39:53] cual hizo responsable íntegramente de
+[01:39:56] sur de los daños causados.
+[01:39:58] Esta segunda causa es la causa Cuartino,
+[01:40:02] también de la Suprema Corte de la
+[01:40:03] Justicia de la provincia de Buenos
+[01:40:04] Aires. Cuartino contra Edem,
+[01:40:08] es la que se provoca la muerte de
+[01:40:10] Leandro Cuartino, quien recibe una
+[01:40:11] descarga eléctrica a través de un camino
+[01:40:13] rural eh eléctrica la vera de un camino
+[01:40:17] rural en la localidad Acevedo, partido
+[01:40:19] de Pergamino.
+[01:40:22] El tendido eléctrico en mal estado se
+[01:40:24] encontraba vinculado, esto es la
+[01:40:26] particularidad de la causa, más que
+[01:40:27] nada, que se encontraba vinculado a una
+[01:40:29] instalación interna del fondo del
+[01:40:31] usuario, lo que llevó a discutir si la
+[01:40:34] distribuidora podría ser
+[01:40:36] responsabilizada por el daño aún cuando
+[01:40:38] la instalación no perteneciera
+[01:40:40] directamente a la red externa de
+[01:40:41] distribución.
+[01:40:43] La sentencia de primera instancia
+[01:40:45] rechaza la demanda. dice, "La
+[01:40:47] instalación eléctrica deficiente
+[01:40:48] pertenece al ámbito interno o privado
+[01:40:50] del usuario y no directamente a la red
+[01:40:52] bajo responsabilidad inmediata de la
+[01:40:54] distribuidora. Entonces, desestima la
+[01:40:56] demanda con contra la distribuidora." La
+[01:40:58] Cámara de Apelaciones de Civiles y
+[01:41:00] Comercial del Departamento Judicial de
+[01:41:02] Pergamino revoca esta sentencia.
+[01:41:05] Entiende que la distribuidora había
+[01:41:07] incumplido su deber de control y
+[01:41:09] supervisión en la prestación de servicio
+[01:41:11] de energía eléctrica. ¿Qué dice la
+[01:41:14] cámara? dice, "El accidente se produjo
+[01:41:15] por el mal estado del tendido eléctrico
+[01:41:17] interno del fundo. Ese tendido comenzaba
+[01:41:19] en el medidor, recorría aproximadamente
+[01:41:22] 600 m a la vera del camino y luego
+[01:41:25] ingresaba hacia la parte interna del
+[01:41:27] terreno donde estaba situada la
+[01:41:29] vivienda.
+[01:41:31] La cámara atribuyó un 50% de
+[01:41:33] responsabilidad a Edén y un 50% de
+[01:41:36] responsabilidad al dueño o titular del
+[01:41:39] domicilio.
+[01:41:41] Por otro mal, por otro lado, para
+[01:41:43] responsabilidad [carraspeo] de Edén,
+[01:41:44] dijo que el mal estado de la instalación
+[01:41:46] era fácilmente apreciable desde el
+[01:41:49] camino rural. La empresa, mediante sus
+[01:41:51] dependientes y en el marco de sus tareas
+[01:41:53] periódicas de supervisión podía y debía
+[01:41:56] advertir esta situación.
+[01:41:59] Un dato importante fue la conducta
+[01:42:01] posterior de la empresa, la que tuvo en
+[01:42:03] cuenta también la Cámara, que se negó a
+[01:42:04] reinstalar el servicio de energía hasta
+[01:42:06] que el dueño del fondo acondicionara
+[01:42:08] reglamentariamente su instalación
+[01:42:10] interna. La Corte de la provincia de
+[01:42:13] Buenos Aires rechaza el recurso
+[01:42:15] extraordinario de Edén y confirma la
+[01:42:17] sentencia de Cármara. entiende razonable
+[01:42:20] cada uno de los argumentos expresados
+[01:42:22] por la Cámara, el Departamento Judicial
+[01:42:24] de Pergamino, y dice que la obligación
+[01:42:26] de supervisión propia de su actividad la
+[01:42:29] obligaba a Edén a ejercer una una
+[01:42:31] razonable vigilancia sobre las
+[01:42:32] condiciones en que el servicio público
+[01:42:34] se presta. Por lo tanto, la sentencia
+[01:42:36] quedó definitiva como condenatoria en un
+[01:42:39] 50% de responsabilidad y en un 50% al
+[01:42:43] titular del fondo. Esta es caso distinto
+[01:42:45] donde vemos que la particularidad de
+[01:42:47] este caso cuartino es justamente que la
+[01:42:49] línea es interna y que se la
+[01:42:51] responsabiliza a la empresa
+[01:42:52] distribuidora por un daño en una línea
+[01:42:54] interna provocado por una línea interna.
+[01:42:57] Tercer caso de la Corte Suprema que es
+[01:43:00] el Schwert contra la cooperativa
+[01:43:01] eléctrica de Salducaray, una sentencia
+[01:43:04] del 2009
+[01:43:06] que ocurrió, el hecho ocurrió en un
+[01:43:09] establecimiento rural que se llama Pedro
+[01:43:12] Reinaldoer.
+[01:43:14] Se encontraba prestando tareas de calado
+[01:43:16] de trigo, calado de carga de trigo.
+[01:43:18] estaba haciendo, se subía al camión y
+[01:43:20] agarraba un calador y y tomaba las
+[01:43:24] muestras de con el calador de trigo para
+[01:43:25] evaluar las muestras. El camión estaba
+[01:43:28] debajo o en cercanía de una línea
+[01:43:30] conductora de electricidad próximo a una
+[01:43:32] balanza utilizada para pesar los
+[01:43:34] camiones. Al subir al acoplado recibe
+[01:43:37] una descarga eléctrica.
+[01:43:39] La cooperativa del Sandugaray
+[01:43:42] transportaba la energía y en el
+[01:43:43] expediente se discutió si se trataba de
+[01:43:46] una línea correctamente instalada, si
+[01:43:49] respetaba las distancias reglamentarias,
+[01:43:51] si existía una zona de exclusión o
+[01:43:53] electroducto y si correspondía exigir
+[01:43:56] señalización, demarcación o medidas de
+[01:43:58] prevención.
+[01:43:59] La sentencia de primera instancia hace
+[01:44:01] lugar a la demanda y responsabiliza a la
+[01:44:03] empresa de energía en virtud de los
+[01:44:05] parámetros de la responsabilidad
+[01:44:06] objetiva que habíamos señalado y
+[01:44:09] analizado en la diapositiva anterior. La
+[01:44:12] Cámara revoca esta sentencia y dice que
+[01:44:15] la víctima interrumpió un nexocausal.
+[01:44:17] Dice, "Acá no le podemos echar la culpa
+[01:44:19] a la a la empresa porque la conducta de
+[01:44:21] la víctima en colocarse en una situación
+[01:44:24] de peligro al subir al camión interrumpe
+[01:44:26] el nexo causal entre la cosa riesgosa y
+[01:44:28] el daño."
+[01:44:30] Dice, "La cooperativa tenía el cable en
+[01:44:32] su lugar, no podía exigírsele patrullar
+[01:44:34] de manera constante, no estaba obligada
+[01:44:37] reglamentariamente a demarcar
+[01:44:38] físicamente la zona de exclusión, no
+[01:44:41] podía controlar permanentemente que
+[01:44:43] Terceros respetara los límites virtuales
+[01:44:45] del electroducto. La balanza y la caseta
+[01:44:48] habían sido instaladas por la
+[01:44:49] propietaria del campo en una zona
+[01:44:50] próxima al tendido. Había otras
+[01:44:53] hectáreas disponibles donde los camiones
+[01:44:54] podían esperar o realizar estas tareas
+[01:44:56] complementarias. Lo cierto que este
+[01:44:58] fallo de la cámara fue revocado por la
+[01:45:00] corte. La corte nuevamente
+[01:45:03] hizo lugar al recurso del actor y dijo
+[01:45:06] que no había pruebas suficientes para
+[01:45:08] señalar que el cableado estaba a una
+[01:45:10] altura reglamentaria.
+[01:45:13] dijo que el perito ingeniero señaló que
+[01:45:15] aunque esas instalaciones quedaban fuera
+[01:45:16] de la zona del electroducto, estaban muy
+[01:45:18] cerca de la línea y era necesario
+[01:45:21] delimitar la zona de seguridad para
+[01:45:22] impedir trabajos debajo de la línea.
+[01:45:25] También destacó la Corte que era
+[01:45:26] necesario evitar la circulación y
+[01:45:28] estacionamientos de vehículos bajo el
+[01:45:29] tendido. Debían complementarse esas
+[01:45:32] medidas con señalización adecuada,
+[01:45:34] medidas que debió adoptarse, que medidas
+[01:45:36] que se adoptaron inclusive después del
+[01:45:38] accidente, es decir, se actuó por
+[01:45:40] remediación y no por prevención.
+[01:45:42] tuvo en cuenta que Schwert realizaba una
+[01:45:45] tarea que era habitual en el campo, que
+[01:45:47] una tarea de calado que se realizaba
+[01:45:48] entre 15 y 20 veces por día eh durante
+[01:45:52] la época de cosecha y que los
+[01:45:54] trabajadores no necesariamente conocían
+[01:45:56] la tensión transportada, la distancia de
+[01:45:58] seguridad, el riesgo de descarga por
+[01:45:59] aproximación y la existencia concreta de
+[01:46:02] una zona de exclusión. ¿Qué hizo la
+[01:46:04] Corte? no dijo es responsable eh
+[01:46:07] directamente a la empresa, dijo,
+[01:46:09] "Vuelvan los autos a la a primera
+[01:46:11] instancia para que la cámara a la cámara
+[01:46:13] para que con una nueva integración dta
+[01:46:14] un nuevo pronunciamiento en donde se
+[01:46:17] concluya que no era procedente
+[01:46:19] considerar totalmente interrumpido el
+[01:46:22] nexo causal por el lograr de la víctima.
+[01:46:24] Es decir, la Corte está mandando a la
+[01:46:26] Cámara para que de alguna manera
+[01:46:28] distribuya las responsabilidades, un
+[01:46:30] poco entre la víctima, entre la empresa
+[01:46:33] y otro poco entre la distribuidora.
+[01:46:38] Este es otro caso de
+[01:46:41] el la causa 8552
+[01:46:45] contra la cooperativa eléctrica de Azul.
+[01:46:47] Un la víctima fallece por electrocución.
+[01:46:51] Es un hecho que ocurre en Cacharí, en
+[01:46:53] partido azul.
+[01:46:55] Un cable de energía eléctrica cae sobre
+[01:46:57] la vereda de tierra, sobre vereda de
+[01:46:59] tierra de la calle Urrutia, porque una
+[01:47:02] rama de un árbol ubicado en la vía
+[01:47:04] pública rosa fricciona la línea
+[01:47:07] portadora de energía eléctrica
+[01:47:09] provocando su corte y posterior caída
+[01:47:11] sobre la vereda. Es un tema muy común,
+[01:47:13] me imagino que ustedes lo ven
+[01:47:14] habitualmente, estas cosas que pueden
+[01:47:16] llegar a pasar.
+[01:47:18] Primera instancia había condenado a la
+[01:47:20] municipalidad, pero había rechazado la
+[01:47:22] demanda contra la cooperativa.
+[01:47:24] El juez había entendido que el daño se
+[01:47:26] había originado a la falta de
+[01:47:27] cumplimiento de los deberes y
+[01:47:29] conservación de la poda del arbolado
+[01:47:30] público. La Cámara, en cambio, la Cámara
+[01:47:33] Civil y Comercial del Departamento
+[01:47:35] Judicial de Azul, revoca parcialmente la
+[01:47:37] sentencia en primera instancia y
+[01:47:38] establece una responsabilidad
+[01:47:39] concurrente entre la municipalidad y la
+[01:47:42] cooperativa. Dice la cooperativa
+[01:47:45] respecto de la cooperativa sostuvo que
+[01:47:47] su responsabilidad no derivaba solamente
+[01:47:49] de ser propietaria de las instalaciones,
+[01:47:51] es decir, de la cosa riesgosa que era el
+[01:47:52] cable, sino también de la obligación de
+[01:47:55] supervisar
+[01:47:56] su la propia actividad
+[01:47:59] y de la municipalidad por la omisión de
+[01:48:01] podar los árboles
+[01:48:03] eh se hizo responsable, pero esa omisión
+[01:48:05] dijo que no liberaba íntegramente a la
+[01:48:08] prestadora.
+[01:48:10] La Suprema Corte por mayoría hizo lugar
+[01:48:14] al recurso de la cooperativa y rechazó
+[01:48:16] la demanda de respecto de ella. Y esto
+[01:48:18] es muy interesante porque dijo que el
+[01:48:20] cableado estaba en condiciones
+[01:48:21] regulares, que se encontraba en estado
+[01:48:24] razonable y adecuado a la fecha de los
+[01:48:25] hechos y que la si bien la electricidad
+[01:48:29] fue una condición necesaria de la muerte
+[01:48:32] porque se produjo por electrocución,
+[01:48:34] jurídicamente no fue la causa adecuada
+[01:48:37] de la acción del resultado, porque la
+[01:48:39] causa adecada fue la acción del ramaje
+[01:48:41] sobre el cable. ¿Vieron acá como
+[01:48:43] distinguimos la causa de la muerte y la
+[01:48:46] causa adecuada?
+[01:48:48] Es decir, utiliza el razonamiento de
+[01:48:49] causalidad adecuada que veíamos nosotros
+[01:48:51] eh que sostiene el Código Civil y
+[01:48:54] Comercial. Hay que preguntarse cuál de
+[01:48:57] las condiciones fue idónea según el
+[01:48:58] curso normal de los acontecimientos.
+[01:49:01] Para la mayoría de la Corte, un cable
+[01:49:04] eléctrico correctamente instalado y
+[01:49:05] conservado no suele caer por sí mismo
+[01:49:08] sobre la vereda y electrocutar a un
+[01:49:10] piatón. deber de seguridad de la
+[01:49:12] prestataria no siempre es una obligación
+[01:49:13] de resultado. Acá distingue lo que es la
+[01:49:15] obligación de resultado de la obligación
+[01:49:16] de medio. La empresa dice tiene una
+[01:49:18] obligación de resultado respecto al
+[01:49:20] estado de sus propias líneas, postes,
+[01:49:22] mensuras, anclajes, empalmes, cables y
+[01:49:25] demás. Pero cuando el riesgo surge por
+[01:49:27] hechos de terceros o de la naturaleza,
+[01:49:29] por ejemplo, rama de árboles que
+[01:49:31] interfieren en la línea, la obligación
+[01:49:33] de la prestadora no siempre puede ser
+[01:49:35] tratada con una obligación de resultado.
+[01:49:37] Vemos cómo resuelve de esta manera
+[01:49:39] particular la Corte este caso de
+[01:49:42] electrocución.
+[01:49:44] En este fallo, en el 61569, que es
+[01:49:47] González contra Cooperativa Eléctrica,
+[01:49:51] eh Silvia Viviana González promueve una
+[01:49:54] demanda por la muerte de su hija y de su
+[01:49:56] concubino, que fallecen por
+[01:49:58] electrocución en ocasión de una
+[01:49:59] tormenta. Acá es un caso parecido que
+[01:50:02] vemos como la cámara lo resuelve de una
+[01:50:04] manera distinta. Por el movimiento de
+[01:50:06] las ramas del árbol ubicado en la cera,
+[01:50:08] se produce el corte de un cable
+[01:50:09] conductor de electricidad. El cable
+[01:50:11] quedó liberando fluido eléctrico y
+[01:50:14] provoca la muerte de estas dos víctimas.
+[01:50:16] La jueza de primera instancia hace lugar
+[01:50:18] al reclamo,
+[01:50:20] condena a la cooperativa eléctrica
+[01:50:22] demandada y también a la municipalidad
+[01:50:23] de Flores. La Cámara de Apelaciones en
+[01:50:26] lo Civil y Comercial del Departamento
+[01:50:27] Judicial de Azul confirma lo principal
+[01:50:29] sentencia de primera instancia. Entendió
+[01:50:31] que la cooperativa demandada no había
+[01:50:34] sido suficientemente eficaz y esmerada
+[01:50:36] en el tendido de la línea la zona donde
+[01:50:37] ocurrió el siniestro. Es decir, evaluó
+[01:50:39] que la el tendido estaba mal hecho y
+[01:50:42] también consideró que no se había
+[01:50:43] acreditado, que hubiera ejercido un
+[01:50:45] adecuado servicio de control de
+[01:50:47] seguridad.
+[01:50:48] La corte, el expediente va a la corte y
+[01:50:50] la Corte rechaza el reclamo, pero más
+[01:50:52] allá de del rechazo de la reafirmación
+[01:50:55] de la de la doctrina de la
+[01:50:57] responsabilidad objetiva de la Corte, lo
+[01:50:59] que hace es que eh la cooperativa no
+[01:51:02] había logrado demostrar el absurdo
+[01:51:06] denunciado ni su falta de
+[01:51:07] responsabilidad. decir, dijimos que la
+[01:51:08] carga de la prueba del actor es siempre
+[01:51:10] esos cuatro elementos, pero es la
+[01:51:11] cooperativa quien quiere eximirse, quien
+[01:51:14] debe demostrar adecuadamente que ese
+[01:51:16] nexo de causal fue interrumpido por el
+[01:51:18] hecho de un tercero o por el obrar del
+[01:51:20] caso fortuito, del caso fortuito de la
+[01:51:22] naturaleza. Y la corte dijo que la
+[01:51:23] cooperativa no había acreditado
+[01:51:25] feacientemente esa carga que pesaba
+[01:51:27] sobre sus espaldas.
+[01:51:32] Ahora vamos a algunos fallos,
+[01:51:35] eh otros precedentes, pero relativos a
+[01:51:41] cámaras provinciales y cámaras eh
+[01:51:44] nacionales.
+[01:51:46] En el primero es el caso Ojeda contra de
+[01:51:48] Sur. En este caso, un niño de 9 años se
+[01:51:50] encontraba jugando la terraza de su casa
+[01:51:52] con su tío remontando un barrilete junto
+[01:51:54] a su prima. En un momento determinado,
+[01:51:56] el barrilete queda enganchado en el
+[01:51:58] transformador de alta tensión de la
+[01:51:59] empresa EDSU. El niño intenta
+[01:52:02] recuperarlo utilizando un alambre de
+[01:52:04] hierro. Al tomar contacto el alambre con
+[01:52:07] la instalación eléctrica, recibe una
+[01:52:09] fuerte descarga que le produjo graves
+[01:52:10] lesiones por electrocución agregadas
+[01:52:13] agravadas además por la caída de la
+[01:52:15] terraza ubicada a más de 3 m del suelo.
+[01:52:18] El juez de primera instancia tuvo por
+[01:52:20] acreditado el accidente responsabilidad
+[01:52:22] a sur en el marco de de la
+[01:52:24] responsabilidad por el artículo 1113, es
+[01:52:26] decir, por el riesgo vicio de la cosa.
+[01:52:28] La Cámara confirma la responsabilidad de
+[01:52:30] Sur, considera que el transformador no
+[01:52:33] respetaba la distancia reglamentaria.
+[01:52:35] Respecto del inmueble, la distancia real
+[01:52:38] era de 1,40 m cuando debía de ser de
+[01:52:40] aproximadamente 3,13 m. No contaba con
+[01:52:44] las protecciones suficientes para evitar
+[01:52:45] el contacto accidental y no había
+[01:52:47] carteles ni señalización clara del
+[01:52:49] peligro por alta tensión. La conducta de
+[01:52:52] los padres en este caso no fue un no fue
+[01:52:54] considerada como un hecho necesario de
+[01:52:56] interrupción de anexo causal, por cuanto
+[01:52:59] eh había sido la empresa la responsable
+[01:53:02] en su totalidad por la por haber
+[01:53:05] ocasionado ese resultado dañoso.
+[01:53:09] Este caso lo buo contra Edem
+[01:53:12] es un caso de la Cámara de Apelación a
+[01:53:14] los contencios administrativos con
+[01:53:15] asiento acá a la ciudad de San Nicolás.
+[01:53:18] Se demandó a Edem,
+[01:53:21] eh esta persona que es Sandra Lobuglio
+[01:53:24] demanda Edem a fines de del año 2019
+[01:53:27] porque recibió una factura en la que se
+[01:53:29] incluía una suma derivada de un supuesto
+[01:53:31] fraude o robo de energía.
+[01:53:34] Edén le habría eh el 5 de de marzo del
+[01:53:39] 2020 le habría cortado la energía y la
+[01:53:41] actor afirmó que era transasplantada
+[01:53:42] renal, que necesitaba el suministro
+[01:53:44] eléctrico para conservar alimentos y
+[01:53:46] medicación, así como para mantener
+[01:53:47] condiciones adecuadas de higiene y
+[01:53:49] seguridad y cuidado personal. Alegó que
+[01:53:52] el corte afectó el trabajo normal deería
+[01:53:55] de su de su cónyuge y también la
+[01:53:57] educación de sus hijos. Justo se daba en
+[01:53:59] un contexto de de pandemia la situación.
+[01:54:02] La sentencia de primera instancia
+[01:54:04] consideró que Den había actuado conforme
+[01:54:06] el marco reglamentario eléctrico
+[01:54:07] provincial. Había seguido el
+[01:54:09] procedimiento previsto para los casos de
+[01:54:11] detección de fraude, constatación de
+[01:54:12] irregularidad, notificación, cálculo de
+[01:54:14] consumo registrados, intimación de pago
+[01:54:17] y posterior suspensión de servicio. La
+[01:54:19] actora no había logrado probar los daños
+[01:54:22] invocados, por lo cual la Cámara también
+[01:54:25] termina confirmando esa decisión del
+[01:54:27] juez de primera instancia. dice que hay
+[01:54:29] una hay una relación de consumo, pero eh
+[01:54:33] no hay incumplimiento probado por parte
+[01:54:35] de la empresa. Dice que el procedimiento
+[01:54:37] de Edén había sido regular. Edén, ¿qué
+[01:54:39] hizo? Constató una irregularidad
+[01:54:41] mediante un acta de comprobación con
+[01:54:43] intervención del personal policial y con
+[01:54:45] testigos. La actora presentó una nota
+[01:54:48] cuestionando la imputación que le hizo
+[01:54:50] Eden y Eiden le responde esa nota
+[01:54:52] también en un tiempo prudente y
+[01:54:54] razonable explicando cuál fue el
+[01:54:56] procedimiento que hizo Edén, cuál fue el
+[01:54:58] cálculo de consumo, la normativa
+[01:55:00] aplicable y luego se emitieron avisos de
+[01:55:02] suspensión por falta de pago de esa
+[01:55:04] factura complementaria, por lo cual
+[01:55:06] finalmente de concreta el corte de
+[01:55:08] energía. sostuvo que esa condición de
+[01:55:10] hipervulnerable que que invocaba la
+[01:55:12] actora no le bastaba por sí solo para
+[01:55:14] tener configurada la responsabilidad de
+[01:55:16] Dem, dado que no había acreditado
+[01:55:18] haberse inscripto al registro elector
+[01:55:20] dependiente que que por cuestiones de
+[01:55:21] salud prevé la norma de la ley 25 27351,
+[01:55:25] eh tramite que debe ser impulsado
+[01:55:27] inclusive por la propia persona
+[01:55:29] interesada o por alguno de sus
+[01:55:31] convivientes.
+[01:55:32] Un dato relevante que consideró la
+[01:55:34] Cámara fue que el 17 de diciembre del
+[01:55:37] 2020, ya en el contexto de la mediación
+[01:55:39] judicial, porque esto obviamente sea
+[01:55:41] juicio, requería mediación, Ed en
+[01:55:43] realidad hiz una nueva constatación
+[01:55:45] notarial en el domicilio y ahí sí
+[01:55:46] verifica que la fase de carga se
+[01:55:48] encontraba puenteada con la fase de
+[01:55:50] línea en bornera, lo que le impedía que
+[01:55:52] el medidor registrara consumo. Es decir,
+[01:55:54] la vivienda había contado con
+[01:55:56] electricidad mediante una nueva conexión
+[01:55:58] clandestina, por lo cual también
+[01:56:01] confirma que nos y la cámara confirma
+[01:56:04] esa situación y asimismo confirma que
+[01:56:06] ningún daño de los que se había invocado
+[01:56:08] como como sustento de la pretensión
+[01:56:10] había sido debidamente acreditado.
+[01:56:13] El actor había alegado que estuvo más de
+[01:56:14] 200 días sin energía, lo cual era
+[01:56:16] improbable porque se había conectado
+[01:56:18] ilegítimamente, regularmente, tenía una
+[01:56:20] conexión conexión clandestina.
+[01:56:23] Y esto de alguna manera nos nos lleva a
+[01:56:25] la interpretación de que [risas]
+[01:56:27] la relación de consumo no elimina la
+[01:56:29] carga probatoria ni impide considerar la
+[01:56:31] conducta del usuario. La esencialidad
+[01:56:35] del servicio de energía no significa una
+[01:56:37] impunidad del usuario frente a
+[01:56:39] conexiones conexiones [música]
+[01:56:41] clandestinas, fraudes o incumplimientos
+[01:56:44] graves.
+[01:56:46] Pasamos la causa abrigo contra empresa
+[01:56:48] distribuidora.
+[01:56:50] Acá abrigo José Luis le habría promovido
+[01:56:54] una demanda Edem también este de la
+[01:56:55] Cámara Primera, pero de apelaciones la
+[01:56:58] Cámara Civil y Comercial de San Nicolás
+[01:57:01] había interpuesto una demanda de Edem y
+[01:57:04] y su aseguradora por los daños que
+[01:57:05] habría sufrido en un accidente del 3 de
+[01:57:07] septiembre del 2014 mientras accionaba
+[01:57:09] una máquina sobadora en la panadería del
+[01:57:11] nuevo francés de la ciudad de Baradero.
+[01:57:14] La sentencia de primera instancia tuvo
+[01:57:16] por acreditado que un corte de
+[01:57:17] suministro eléctrico generó un cambio
+[01:57:19] del sentido de giro del motor de la
+[01:57:21] máquina y esa esa alteración en el
+[01:57:24] funcionamiento normal, eso generó una
+[01:57:26] alteración en el funcionamiento normal
+[01:57:28] de la sobadora y provocó el accidente
+[01:57:31] con las graves lesiones que que quejo
+[01:57:34] que se le produjo a a Abrigo. que le den
+[01:57:38] apel a esta sentencia y la Cámara
+[01:57:40] encuadra la situación dentro de lo que
+[01:57:41] es el marco de la responsabilidad
+[01:57:43] objetiva, el artículo 1113 que era
+[01:57:45] vigente en ese momento del hecho.
+[01:57:47] Recuerda la Cámara lo que es la
+[01:57:48] obligación de seguridad de la empresa
+[01:57:49] prestadora de servicio, sea que su
+[01:57:51] fuente sea la ley, el contrato de
+[01:57:53] concesión, el suministro de energía o la
+[01:57:55] relación de consumo. Y en este caso, la
+[01:57:58] prueba técnica fue decisiva en que acá
+[01:58:00] vemos como la la actividad pericial es
+[01:58:02] determinante como auxilio fundamental
+[01:58:05] para la actividad jurisdiccional del
+[01:58:07] juez. para la decisión del juez y el
+[01:58:09] perito ingeniero explicó que el
+[01:58:11] suministro eléctrico de la panadería era
+[01:58:13] trifásico, que la máquina soadora tenía
+[01:58:15] un motor alimentado con esa corriente.
+[01:58:18] Indicó que la llave de accionamiento de
+[01:58:20] la máquina permitía una sola posición de
+[01:58:22] arranque y que no era posible desde esa
+[01:58:23] llave cambiar el sentido de giro del
+[01:58:26] motor. El cambio de sentido de giro solo
+[01:58:29] podía producirse si se invertía la
+[01:58:31] secuencia de fase desde la fuente de
+[01:58:33] alimentación externa. También señaló que
+[01:58:36] no pudo acceder al partidario de DEM
+[01:58:37] para conocer con precisión qué maniobra
+[01:58:39] había efectuado la empresa el día del
+[01:58:41] accidente. Bueno, acá vemos cómo tiene
+[01:58:42] relevancia lo que es el el deber de
+[01:58:44] colaboración. Edén debió haber brindado
+[01:58:46] los eh el aporte necesario para eh por
+[01:58:50] su condición, por su superioridad
+[01:58:51] superioridad técnica económica
+[01:58:54] operativa, estaba en mejores condiciones
+[01:58:55] de aportar los registros del servicio y
+[01:58:57] explicar cómo ocurrió el hecho. Al no
+[01:59:00] haberlo hecho, eh consideró la la cámara
+[01:59:03] aplicable las las reglas de las
+[01:59:06] principios de las cargas probatorias
+[01:59:07] dinámicas y del favor deis en en favor
+[01:59:10] del usuario. Y
+[01:59:13] cuando existe una alteración, dijo la
+[01:59:16] Cámara, de la prestación de servicio
+[01:59:17] público domiciliario, el artículo 30 de
+[01:59:20] la Ley de Defensa del Consumidor, que
+[01:59:21] habíamos visto anteriormente, presume
+[01:59:23] que dicha altiración es imputable a la
+[01:59:26] empresa prestadora y a su vez el
+[01:59:28] artículo 40 consagra la responsabilidad
+[01:59:30] objetiva del proveedor por el riesgo vio
+[01:59:32] de la prestación.
+[01:59:34] Después, bueno, viene en el caso la
+[01:59:36] determinación de los rubros, dio daño
+[01:59:38] incapacidad, daño físico, daño moral y
+[01:59:41] si bien el juez de primera instancia
+[01:59:43] había dado daño punitivo, lo termina
+[01:59:45] revocando la cámara porque considera que
+[01:59:48] no había sido solicitado y el daño
+[01:59:49] punitivo es algo que es a instancia de
+[01:59:52] la parte. No puede el juez oficiosamente
+[01:59:54] imponer una sanción disuasiva si no fue
+[01:59:56] solicitada en la pretensión inicial
+[01:59:59] articulada por el actor en su demanda.
+[02:00:04] Eh, ¿puedo hacer una pregunta? Sí, sí,
+[02:00:06] Fernando, perdón que te interrumpa, pero
+[02:00:08] sabes que voy mirando todos los fallos y
+[02:00:10] escuchando y hay algún requisito para
+[02:00:14] que sea competencia civil y comercial o
+[02:00:16] sea competencia contencioso
+[02:00:17] administrativo?
+[02:00:19] Bueno, vos sabes que sobre eso hay para
+[02:00:21] todos lados.
+[02:00:21] Claro, porque depende del lugar, ¿no?
+[02:00:24] Sí, depende del lugar. Ahora lo que
+[02:00:27] estamos viendo nosotros es que se está
+[02:00:28] admitiendo mucho la competencia
+[02:00:30] contenciosa administrativa. En tanto se
+[02:00:31] invocan generalmente las normas
+[02:00:33] regulatorias,
+[02:00:34] las normas administrativas que que
+[02:00:37] vinculan al funcionamiento del lente
+[02:00:39] regulador. Obviamente cuando se demanda
+[02:00:41] la municipalidad es competencia
+[02:00:43] contenosa administrativa también. Eh,
+[02:00:45] pero si si ves los fallos, algunos han
+[02:00:47] sido emitidos por la Cámara Civil y
+[02:00:48] Comercial y otros han sido emitidos por
+[02:00:50] la Cámara Contenciosa Administrativa. De
+[02:00:52] hecho, algunos de esos fallos han han
+[02:00:54] intervenido jueces civiles en la Cámara
+[02:00:56] por cuestiones de desintegración y
+[02:00:58] jueces contenciosos administrativos.
+[02:01:00] Ahora uno de esos va a ser así, pero en
+[02:01:02] principio cuando se reclame en función
+[02:01:04] de normas civiles un daño y perjuicio
+[02:01:07] ante una empresa prestadora de servicio,
+[02:01:09] no debería ser competencia contenciosa,
+[02:01:11] sino que debería ser competencia civil y
+[02:01:13] comercial. Ahora, cuando se involucran
+[02:01:15] cuestiones de índole administrativo,
+[02:01:18] generalmente pasa al ámbito
+[02:01:20] administrativo y la justicia contenciosa
+[02:01:22] lo está admitiendo lo a los procesos y
+[02:01:25] lo lleva adelante sin ningún tipo de de
+[02:01:27] reparo. Así que no no hemos tenido
+[02:01:29] cuestiones en los últimos años
+[02:01:30] cuestiones de competencia que se
+[02:01:31] hubieran planteado sobre estas sobre
+[02:01:33] materia eléctrica. Eh, nos llegan en
+[02:01:37] apelación lo civil y comercial y a veces
+[02:01:38] intervenimos en la Cámara Contenciosa
+[02:01:40] cuando tenemos que integrarla, pero no
+[02:01:42] se han planteado de este tipo. Hay un
+[02:01:44] fallo de la Corte que resuelve una
+[02:01:47] cuestión de competencia que termina
+[02:01:50] mandando toda la competencia
+[02:01:51] administrativa por justamente creo que
+[02:01:54] eh se vinculaba con la habilitación de
+[02:01:56] un comercio. Si bien era un daño
+[02:01:59] relacionado con la electricidad, eh lo
+[02:02:02] cierto es que la cuestión de competencia
+[02:02:04] también abarcaba o abordaba
+[02:02:07] cuestiones vinculadas a la habilitación
+[02:02:09] de un comercio. Entonces la la Corte
+[02:02:12] termina resolviendo la cuestión
+[02:02:13] diciendo, "Bueno, esto en definitiva
+[02:02:14] tiene que ser materia propia del ámbito
+[02:02:17] del del de la justicia contenciosa
+[02:02:19] administrativa."
+[02:02:21] Bien.
+[02:02:24] Bueno, otro fallo de los Santos.
+[02:02:27] con Edén, eh,
+[02:02:31] creo que que seguía de los Sí. Esta es
+[02:02:34] una demanda indemnizatoria en
+[02:02:35] representación de su hijo menor que se
+[02:02:37] interpone cuando tenía 5 años sufre una
+[02:02:39] descarga eléctrica la vereda de su
+[02:02:41] domicilio en calle Campana en la ciudad
+[02:02:43] de Campana, perdón. Según la demanda,
+[02:02:45] había un cable conductor de electricidad
+[02:02:47] cortado, caído sobre la vereda,
+[02:02:48] conectado a la red pública y el niño
+[02:02:50] toma contacto con él padeciendo graves
+[02:02:52] lesiones, quemaduras de tercer grado,
+[02:02:54] ambas manos, secuelas funcionales,
+[02:02:56] estéticas, psicológicas y bueno, la
+[02:02:58] acción fue dirigida tanto contra Edén
+[02:03:00] contra como contra la municipalidad.
+[02:03:02] Bueno, acá vemos que interviene la
+[02:03:03] Cámara Contenciosa, en este caso de
+[02:03:06] Campana. En primera instancia se hizo
+[02:03:07] lugar parcialmente a la demanda contra
+[02:03:09] Eden y se rechazó contra la
+[02:03:10] municipalidad y se distribuyó un 70% de
+[02:03:14] responsabilidad de Eden y 30% cargo de
+[02:03:16] los progenitores, justamente por
+[02:03:17] considerar que que no podía un niño de
+[02:03:20] esa edad estar eh en ese en esa
+[02:03:22] situación de riesgo a la calle solo, sin
+[02:03:25] la el auxilio o sin el control o
+[02:03:27] supervisión de los padres.
+[02:03:29] Eh, la Cámara confirma el rechazo de la
+[02:03:31] demanda contra la municipalidad. dice
+[02:03:34] que el municipio no era poder condente
+[02:03:36] ni titular del servicio y que la
+[02:03:38] intervención municipal eh se restringía
+[02:03:40] lo que establece el artículo 66 de la
+[02:03:43] ley 1179 que limita se limita
+[02:03:45] básicamente a recibir denuncias o
+[02:03:47] reclamos de usuarios y elevarlos al
+[02:03:49] organismo de control, por lo cual
+[02:03:51] establece que no puede atribuirse
+[02:03:53] responsabilidad al municipio por una
+[02:03:54] genérica invocación de poder de policía
+[02:03:56] sobre veredas o espacios públicos.
+[02:03:58] Respecto de Edén, la Cámara confirma la
+[02:04:00] responsabilidad. dice que la
+[02:04:02] distribuidora responsable de la
+[02:04:03] operación y mantenimiento de las
+[02:04:04] instilaciones aplica todo el sistema de
+[02:04:07] responsabilidad objetiva del 1113,
+[02:04:08] sostuvo que el hecho daneo estaba
+[02:04:10] suficientemente acreditado por la prueba
+[02:04:12] testimonial, la causa penal y el informe
+[02:04:14] de la propia empresa sobre el reclamo y
+[02:04:15] reparación del cable el mismo día del
+[02:04:18] accidente. Confirma también la
+[02:04:20] distribución de responsabilidades, un
+[02:04:22] 30% a los a los progenitores y un 70% a
+[02:04:25] DEM. Y simplemente era el caso de este
+[02:04:28] lo traje para permitir introducir eh una
+[02:04:31] cuestión importante que es distribuir de
+[02:04:33] alguna manera las competencias en que en
+[02:04:35] el régimen borarense se distribuyan
+[02:04:37] entre el municipio y Eden en base a las
+[02:04:40] responsabilidades que cada uno le ocupa
+[02:04:41] según su función. Los municipios cuando
+[02:04:44] no son por poder concedente ni prestador
+[02:04:46] del servicio cumplen una función de
+[02:04:47] colaboración, una función de
+[02:04:49] canalización de reclamos, pero no
+[02:04:51] sustituyen al organismo provincial ni a
+[02:04:53] ni ni se convierten automáticamente en
+[02:04:55] guardianes de la red eléctrica.
+[02:04:58] En el caso Roldam
+[02:05:01] contra Edén, este es un caso también de
+[02:05:03] la cámara, este lo resolvimos nosotros,
+[02:05:05] la cámara primera de de San Nicolás,
+[02:05:07] Juan Bernaber Noldán demanda Edén por
+[02:05:09] daño sufrido a un accidente ocurrido en
+[02:05:10] la vereda de la calle avenida de la
+[02:05:13] calle Avellaneda con esquina Ilía de la
+[02:05:15] ciudad de San Nicolás. El actor iba
+[02:05:17] caminando y tropezó con una linga
+[02:05:19] horrienda metálica anclada al piso
+[02:05:21] ubicada a 40 cm de la línea de
+[02:05:23] edificación que sostenía un poste del
+[02:05:25] tendido de cables de energía eléctrica.
+[02:05:27] perteneciente a la empresa demandada.
+[02:05:29] Vemos acá como el daño se provoca por
+[02:05:31] una cosa que no es conductora de
+[02:05:33] energía, es una cosa inerte.
+[02:05:36] Bien quieto. ¿Qué pasa? Genera un esta
+[02:05:39] persona se cae y se tropieza. Se
+[02:05:42] discutía la relación causal entre la
+[02:05:43] lingua ubicada entre la vereda y el daño
+[02:05:46] sufrido, así como la existencia de un
+[02:05:48] incumplimiento concreto del deber de
+[02:05:50] seguridad por parte de él. La Cámara
+[02:05:52] encuadró la situación eh dentro del
+[02:05:55] 1113. dijo de que a pesar de tratarse de
+[02:05:59] una cosa inerte, era una cosa riesgosa,
+[02:06:01] en el caso no por por sí misma, sino por
+[02:06:04] su ubicación, el punto decisivo eh era
+[02:06:09] fue determinante fue la fotografía que
+[02:06:11] hubo de de dónde estaba ubicada esa
+[02:06:13] linga, cómo estaba posicionada en ese
+[02:06:15] lugar de la vereda y los testigos que
+[02:06:17] habían dado cuenta de de cómo la persona
+[02:06:19] había caído en el lugar. Eh, había una
+[02:06:22] testigo que declaró que caminaba unos 20
+[02:06:24] met detrás del actor y vio cuándo se
+[02:06:25] tropezó y cómo cayó sobre la por la
+[02:06:28] linga. Observó el cable de acero
+[02:06:30] agarrado a la vereda con el que estaba
+[02:06:32] había tropezado Roldá.
+[02:06:35] También se destacó que ese cable no
+[02:06:36] tenía ninguna advertencia ni tenía una
+[02:06:38] adecuada señalización. estaba con una
+[02:06:40] inadecuada eh eh ubicación en función de
+[02:06:43] dónde estaba eh eh su posicionamiento en
+[02:06:46] en el lugar de la vereda. Otros testigos
+[02:06:48] también identificaron la linga en el
+[02:06:51] lugar del hecho y coincidieron en que el
+[02:06:52] actor cayó al engancharse y la justicia
+[02:06:55] valoró que la linga estuvo ubicada a 40
+[02:06:57] cm de la línea municipal en una vereda
+[02:06:59] de apenas 1,50 de ancho y que no contaba
+[02:07:02] con una señalización suficiente, lo cual
+[02:07:05] constituía un obstáculo inesperado para
+[02:07:07] el Platón y especialmente para alguien
+[02:07:09] que no conocía, porque en este caso
+[02:07:11] Roldar no conocía la ciudad y transitaba
+[02:07:13] ocasionalmente por ese lugar.
+[02:07:18] Pasamos a otro caso que es García
+[02:07:21] que este contra cooperativa de provisión
+[02:07:23] de servicio eléctrico. Este es un caso
+[02:07:24] interesante por que hay voto dividido.
+[02:07:29] Carlos García demanda a Copser,
+[02:07:32] concesionario del Servicio Eléctrico de
+[02:07:33] San Pedro dice que el 2 de octubre del
+[02:07:36] 2006 se encontraba sobre la caja de un
+[02:07:38] camión. Fíjense que parecido al caso que
+[02:07:39] habíamos visto de la corte. Cargando
+[02:07:42] fardos o rollos de alambre
+[02:07:45] del debajo de una línea de media tensión
+[02:07:47] perteneciente a la demandada.
+[02:07:49] En esas circunstancias
+[02:07:51] recibe una descarga eléctrica por
+[02:07:53] formación de un arco voltaico que le
+[02:07:55] produca severas lesiones.
+[02:07:58] La
+[02:08:00] acción se fundamenta en dos factores.
+[02:08:02] Uno subjetivo, dice negligencia de la
+[02:08:04] demandada ante la falta de carteles o
+[02:08:06] advertencia sobre el peligro del tendido
+[02:08:09] eléctrico y otro factor objetivo por el
+[02:08:12] riesgo querado, la teoría de la
+[02:08:13] responsabilidad objetiva eh derivado de
+[02:08:16] la instalación eléctrica.
+[02:08:18] La sentencia de primera instancia hace
+[02:08:19] lugar fundado a la teoría del riesgo.
+[02:08:22] Dice responsable COPSER por los daños
+[02:08:26] que se le ocasiona a esta persona y la
+[02:08:28] sentencia de cámara con voto de video,
+[02:08:30] un voto del doctor Tibano que pertenece
+[02:08:31] a la Cámara Civil y Comercial de San
+[02:08:33] Nicolás, que justamente en ese momento
+[02:08:34] integraba la la Cámara Contenciosa, y
+[02:08:37] otros dos votos eh de los doctores
+[02:08:40] Reginger y doctora la doctora Valdés eh
+[02:08:43] de la Cámara Contenciosa, eh que son los
+[02:08:46] votos mayoritarios. ¿Qué decía el voto
+[02:08:48] del Dr. Tibano? Dice, "Bueno, yo no
+[02:08:51] entiendo, no, no consideraba que CSER
+[02:08:53] fuera responsable", decía, "Destacó la
+[02:08:56] regularidad de la instalación
+[02:08:58] eléctrica." Dice, "Los informes de Oceva
+[02:08:59] surgen que la línea se encontraba a una
+[02:09:01] altura aproximadamente de 751 cm cuando
+[02:09:06] la la altura reglamentaria era de 6,50.
+[02:09:10] Osea no había labrado ningún acta de
+[02:09:11] infracción por las instalaciones que se
+[02:09:13] encontraban dentro de la normativa. Dice
+[02:09:15] que estaban eran acorde en la normativa.
+[02:09:18] Había una falta de obligación legal de
+[02:09:20] señalizar. En cuanto a la falta de
+[02:09:21] obligación de señalizar, dice, según el
+[02:09:23] informe de OSEBA, no existía en la
+[02:09:25] provincia de Buenos Aires una
+[02:09:26] reglamentación que exigiera colocar
+[02:09:28] carteles, indicadores de peligro, líneas
+[02:09:30] de media tensión ubicadas en zonas
+[02:09:32] rurales o urbanas.
+[02:09:34] Y por otro lado critica el análisis que
+[02:09:36] hace el perito, ingeniero, relativiza el
+[02:09:39] valor de la pericia del electricista,
+[02:09:41] por dice que sus afirmaciones no son
+[02:09:43] suficientes, dado que no había probado
+[02:09:45] que el lugar en el lugar había un eh que
+[02:09:48] se había probado que el lugar concreto
+[02:09:50] del accidente fuera un sitio habitual de
+[02:09:51] tránsito de camiones cargados con
+[02:09:52] alambre. El punto decisivo del voto
+[02:09:55] minoritario fue la culpa de la víctima,
+[02:09:57] dijo. El camión había ingresado marcha
+[02:09:58] atrás, quedó estacionado debajo del
+[02:10:01] cableado de media tensión. El actor
+[02:10:03] sabía que se trataba de cables de de
+[02:10:05] esta tensión alta que se encontraba
+[02:10:07] sobre la caja del camión subido a
+[02:10:09] alambres mientras se cargaba material
+[02:10:11] conductor de electricidad. El camión
+[02:10:13] tenía una carga precaria con chapas
+[02:10:15] colocadas para aumentar el volumen de la
+[02:10:16] caja, lo que permitía aún más el
+[02:10:19] material, lo que igual elevaba aún más
+[02:10:20] la altura, por lo cual eximió de
+[02:10:23] responsabilidad a al a la empresa
+[02:10:26] distribuidora
+[02:10:28] y
+[02:10:30] dijo que la culpa era culpa de la
+[02:10:31] víctima. El voto mayoritario de los
+[02:10:34] doctores Regin Gerivaldés dijo que la
+[02:10:37] electricidad, la electricidad, decían
+[02:10:39] que la electricidad era una cosa
+[02:10:40] riesgosa, como tal debía aplicarse la
+[02:10:43] responsabilidad objetiva, que la prueba
+[02:10:45] de la culpa de la víctima que CSER había
+[02:10:48] querido incorporar no era suficiente
+[02:10:50] porque no logró acreditar con debida
+[02:10:53] debidamente la interrupción de ese nexo
+[02:10:55] causal.
+[02:10:57] destacó que no bastaba con demostrar la
+[02:10:59] regularidad formal de la instalación o
+[02:11:01] la inexistencia de la obligación legal
+[02:11:02] específica de colocar carteles.
+[02:11:05] La clave no era la falta de culpa de la
+[02:11:07] empresa, sino la prueba concreta de un
+[02:11:09] exente. y la mayoría consideró que no se
+[02:11:12] había demostrado técnicamente cuál era
+[02:11:13] la distancia mínima de seguridad frente
+[02:11:15] a una línea de media tensión de 33 kW,
+[02:11:19] ni cuál era la distancia a partir de la
+[02:11:21] cual podía producirse una descarga
+[02:11:22] disruptiva o arco voltaico con elementos
+[02:11:24] conductores.
+[02:11:26] Ese punto era esencial porque el actor
+[02:11:28] no tocó directamente los cables. El daño
+[02:11:30] se produjo por arco voltaico. La
+[02:11:32] demandada debía probar que García se
+[02:11:34] había colocado imprudentemente dentro de
+[02:11:37] una zona técnicamente peligrosa que
+[02:11:39] podía y debía conocer. En el lugar se
+[02:11:42] realizaban tareas vinculadas con el
+[02:11:43] retiro de rollo de alambre de manera
+[02:11:45] habitual y que el camión ingresaba
+[02:11:47] periódicamente para retirarlos. Es estos
+[02:11:49] son todos los argumentos que que
+[02:11:52] estableció el voto mayoritario, por lo
+[02:11:54] cual también destacó la importancia de
+[02:11:56] la pericia técnica en cuanto explicó la
+[02:11:58] peligrosidad de la red de media tensión
+[02:11:59] y la posibilidad de que se produjera un
+[02:12:01] arco voltaico sin contacto directo.
+[02:12:04] Vemos como inclusive desde el ámbito
+[02:12:06] jurisdiccional a veces discrepamos sobre
+[02:12:09] el alcance de la responsabilidad
+[02:12:10] objetiva o sobre la culpa de la víctima
+[02:12:12] y sobre cada una de las obligaciones que
+[02:12:14] pueden tener los las distribuidoras o
+[02:12:17] las cooperativas en el caso de de la
+[02:12:19] prestación de servicio.
+[02:12:22] Vamos con este y y ya los libero que es
+[02:12:24] el último. Hay dos más, pero bueno,
+[02:12:26] vamos con este y dejamos cortamos acá.
+[02:12:29] Américo Adolfo contra la empresa
+[02:12:30] distribuidora de energía eléctrica Edem
+[02:12:33] resuelto por la cámara en lo contencioso
+[02:12:34] administrativo con asiento San Nicolás.
+[02:12:37] Eh, acá Adolfo Luis América era usuario
+[02:12:40] del servicio eléctrico prestado por Eden
+[02:12:42] en un comercio de panadería.
+[02:12:44] Reclamaba los daños que sufrió por
+[02:12:46] cortes intermitentes y pico de tensión
+[02:12:48] que dañaron diversos artefactos. Bueno,
+[02:12:50] acá la importancia del fallo es es más
+[02:12:53] que nada por los ruros, no no tanto por
+[02:12:55] el hecho, porque en definitiva Edén hizo
+[02:12:58] un ofrecimiento para eh para compensar
+[02:13:02] los daños que le fueron provocados al
+[02:13:04] actor, pero el daño no el el actor no
+[02:13:07] consideró que ese ofrecimiento era
+[02:13:08] suficiente desde el punto de vista
+[02:13:10] económico. Reclamó en a nivel
+[02:13:12] jurisdiccional la justicia el daño
+[02:13:14] directo, el daño punitivo y el daño
+[02:13:16] moral.
+[02:13:17] El juez condena por daño directo, por
+[02:13:19] daño punitivo, por daño moral y Edén
+[02:13:21] apena justamente estos estos rubros, en
+[02:13:24] especial el daño punitivo y el daño
+[02:13:25] moral. Respecto del daño cognitivo,
+[02:13:28] eh Den sostiene que no hubo una conducta
+[02:13:30] grave, una conducta dolosa o grosera
+[02:13:32] negligentemente y la cámara en este caso
+[02:13:35] rechaza el recurso de den respecto al
+[02:13:37] daño punitivo y justamente se atalaya en
+[02:13:39] un fallo de la corte de provincia que no
+[02:13:42] es el que están siguiendo la mayoría de
+[02:13:44] la jurisprudencia eh en la materia, que
+[02:13:47] dice que a los efectos de del daño
+[02:13:49] punitivo solo basta el incumplimiento de
+[02:13:51] la empresa y no que no requiere la norma
+[02:13:53] ningún tipo de aditamento. culposo
+[02:13:56] adicional a los efectos de la imposición
+[02:13:58] de la sanción disuasiva o punitiva que
+[02:14:00] establece este artículo 52 bis de la Ley
+[02:14:03] de Defensa del Consumidor.
+[02:14:06] En lo que concierna el daño moral,
+[02:14:08] señala, fíjense como en este caso donde
+[02:14:11] se provocan daños en elementos
+[02:14:13] materiales, igualmente la Cámara
+[02:14:15] considera que es procedente un daño
+[02:14:16] moral.
+[02:14:17] dice, más allá de que fueron daños
+[02:14:19] materiales, hay una afección a la
+[02:14:21] tranquilidad, a a la al espíritu de la
+[02:14:24] persona que reclama y que debe eh debe
+[02:14:28] admitirse como reclamo resarcitorio en
+[02:14:31] el marco de de esta demanda. Dice que eh
+[02:14:34] la conducta de la empresa no fue acorde
+[02:14:35] a la circunstancia del acaso. Eh hubo
+[02:14:37] demora, hubo falta de información. Eh,
+[02:14:41] se le tuvo necesidad la víctima de
+[02:14:43] concurrir reiteradamente a sucursal y
+[02:14:46] que Edén no dio, en este caso una
+[02:14:49] respuesta oportuna,
+[02:14:50] valoró especialmente la declaración de
+[02:14:52] los testigos que que lo llevaban
+[02:14:55] al [carraspeo] actor cuatro o cinco
+[02:14:56] veces a Edén a hacer el reclamo y y no
+[02:14:59] recibió una respuesta acordes y que
+[02:15:01] justamente el el reclamante sufría de
+[02:15:05] problemas cardíacos que y tenía una
+[02:15:07] prótesis de rodilla, lo cual agravaba
+[02:15:10] esta esta situación generando un trato
+[02:15:12] que no era digno y que justificaba
+[02:15:14] además una reparación de índole
+[02:15:15] extrapatrimonial como el daño moral. Si
+[02:15:18] bien quedan algunos fallos más para no
+[02:15:21] hay uno interesante, pero no quiero
+[02:15:23] extender demasiado por eh para no
+[02:15:25] cansarlos más. Yo sé que esto es
+[02:15:27] bastante agobiante para todos ustedes,
+[02:15:30] pero bueno, es simplemente traté de de
+[02:15:33] ilustrar de alguna manera los diferentes
+[02:15:35] criterios que se van sentando en materia
+[02:15:38] jurisprudencial, tanto en la en la corte
+[02:15:41] de provincia como en algunas cámaras de
+[02:15:43] de la provincia de Buenos Aires con
+[02:15:46] soluciones dispares y seguramente muchas
+[02:15:49] de esas soluciones dispares se deben a
+[02:15:51] las circunstancias concretas de cada
+[02:15:53] caso. Si bien algunos parecen
+[02:15:56] similares en cuanto al hecho o al suceso
+[02:15:59] ocasionante del daño, a veces la
+[02:16:03] contextualización, que yo le decía que
+[02:16:05] son elementos que no son quizás
+[02:16:07] fundamentales, pero que ayudan a
+[02:16:09] describir el suceso, hace que las
+[02:16:12] soluciones a veces sean diferentes ante
+[02:16:15] casos que prima fase parecen bastante
+[02:16:18] parecidos, pero bueno, eh estoy abierto
+[02:16:22] si quieren hacer alguna consulta. ulta
+[02:16:23] alguna pregunta. Simplemente antes que
+[02:16:26] nada agradecerles a todos ustedes por
+[02:16:28] por haberme escuchado y bueno, por estar
+[02:16:30] participando de de esta diplomatura y
+[02:16:35] bueno, queda otra clase más que me van a
+[02:16:37] tener que que sufrir eh sea más
+[02:16:40] relacionado con con los cortes de de
+[02:16:42] energía y con otro tipo de de
+[02:16:46] contenido,
+[02:16:48] con lo cual no sé, estoy esperando a ver
+[02:16:51] si quieren hacer una consulta o Si
+[02:16:53] quieren o damos por finalizado ya la la
+[02:16:55] clase.
+[02:17:01] Parece que no hay mucha pregunta. Mucha.
+[02:17:03] Están todos dormidos, Guillermo. Ya, ya
+[02:17:05] están todos dormidos, [risas]
+[02:17:07] ¿no? La verdad que fue sumamente clara,
+[02:17:09] redáctica la clase para el tipo de
+[02:17:11] contenido que tenías que que transmitir,
+[02:17:13] que no es no es fácil por ahí, pero
+[02:17:16] bueno, nada, estuvo muy muy claro, muy
+[02:17:18] bueno. Eh, gracias, gracias por el
+[02:17:20] tiempo, gracias por por la preparación
+[02:17:22] que que le diste a la clase. Así que
+[02:17:25] bueno, nada, yo te voy a pasar dos
+[02:17:26] avisos. El primero es que el día 3 de
+[02:17:29] septiembre vamos a hacer una visita a
+[02:17:30] Camesa Pérez, así que vayan pensando si
+[02:17:34] pueden ir, les va a llegar un formulario
+[02:17:36] para que se puedan inscribir. Eh, los
+[02:17:40] que son acá de La Plata nos vamos a
+[02:17:42] juntar como para salir juntos, pero
+[02:17:43] bueno, eh, nos encontraríamos allá con
+[02:17:46] el resto de donde vive cada uno. Eh, y
+[02:17:49] la otra, bueno, que tomamos un receso
+[02:17:51] ahora y nos vemos la próxima clase. Es
+[02:17:54] el 6 de agosto que vuelve a estar
+[02:17:56] Fernando, así que tenemos un descansito,
+[02:17:59] unos días como para recuperar fuerzas y
+[02:18:02] darle al segundo cuatrimestre.
+[02:18:07] Así que bueno, si no hay
+[02:18:08] muchas gracias.
+[02:18:09] No hay preguntas, ¿no? Gracias a
+[02:18:11] ustedes. Si no hay preguntas,
+[02:18:12] muchísimas gracias a todos. Eh,
+[02:18:14] muy buena clase.
+[02:18:15] Bueno, gracias por la pasias.
+[02:18:17] Muy muy bueno. Tal vez
+[02:18:20] con un montón de antecedentes después.
+[02:18:22] Fernando, pas
+[02:18:23] y si quieren se los paso todos, eh, con
+[02:18:26] todos los datos para para buscarlos
+[02:18:28] después directamente desde desde
+[02:18:30] internet o desde alguna página de
+[02:18:32] jurídica o se paso directamente si
+[02:18:35] quieren con los textos completos, no hay
+[02:18:36] problema.
+[02:18:37] Dale,
+[02:18:38] como vos prefieras. Nosotros lo subimos
+[02:18:39] a la plataforma de UTN donde cada uno de
+[02:18:41] los alumnos accede y ahí podemos bajar
+[02:18:43] la presentación y bueno, lo que nos
+[02:18:46] aportes.
+[02:18:47] Bueno, buenísimo. Les voy a pasar todos
+[02:18:48] los antecedentes acá.

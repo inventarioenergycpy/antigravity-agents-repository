@@ -1,0 +1,3934 @@
+[00:00:21] Bueno, hoy vamos a arrancar la clase
+[00:00:23] tres, la tres y la cuatro.
+[00:00:27] Eh, son dos clases sobre la
+[00:00:29] normalización del mercado eléctrico
+[00:00:31] mayorista y los nuevos lineamientos que
+[00:00:33] que ha impuesto el Estado Nacional que
+[00:00:35] modifican un poco el régimen y vamos a
+[00:00:40] contar con la presencia de ingenieros de
+[00:00:43] Camesa.
+[00:00:45] Hoy le toca el turno a Marcos Benetti.
+[00:00:49] Marcos es ingeniero electricista
+[00:00:52] graduado en la Universidad Nacional de
+[00:00:53] Rosario.
+[00:00:55] Tiene más de 20 años de experiencia en
+[00:00:57] el sector eléctrico argentino.
+[00:01:00] En el año 2006 se incorporó a Camesa y
+[00:01:04] anteriormente había trabajado en la
+[00:01:06] industria y también en consultoría.
+[00:01:09] En Camesa se desempeña como coordinador
+[00:01:12] en el área de transacciones económicas
+[00:01:14] en la gerencia de análisis y control
+[00:01:16] global.
+[00:01:18] Así que bueno, eh, Marcos,
+[00:01:22] gracias.
+[00:01:23] Bueno, buen día.
+[00:01:25] Buen día. Todo tuyo.
+[00:01:28] Gracias.
+[00:01:29] Este, bueno, eh, la idea es e hacer un
+[00:01:33] recorrido sobre lo sobre lo que digamos
+[00:01:36] el cambio que que se
+[00:01:40] digamos que se implementó, se está
+[00:01:41] implementando a partir de la resolución
+[00:01:43] 400 del 2025 de la Secretaría de
+[00:01:45] Energía, que bueno que
+[00:01:49] reformuló la el la forma este en que
+[00:01:53] en que funciona fundamentalmente
+[00:01:56] comercial, t comercial y no tanto
+[00:01:59] física, pero sí mucho de la parte
+[00:02:01] económica de cómo funciona el mercado
+[00:02:04] mayorista eléctrico. Así que bueno,
+[00:02:06] vamos a compartir una presentación. Eh,
+[00:02:08] la idea en la charla es que que si surge
+[00:02:10] alguna duda es para mí es mejor que la
+[00:02:13] hagan la la consultan en el momento
+[00:02:16] porque bueno, un poco se hace más
+[00:02:17] interactivo que que ir relatando solo.
+[00:02:21] Este
+[00:02:26] ahí voy a compartir.
+[00:02:40] Se ve bien, Morg.
+[00:02:42] Bueno, perfecto.
+[00:02:44] Entonces, bueno, la idea va a ser un
+[00:02:46] poco esta de seguir este la resolución,
+[00:02:49] los distintos pasos, los objetivos. Así
+[00:02:51] que bueno, arrancamos.
+[00:02:55] Bueno, eh
+[00:02:59] sí,
+[00:02:59] la secretaría de energía. Sí,
+[00:03:02] perdón.
+[00:03:02] ¿Cómo estás?
+[00:03:06] Eh, bueno, un poco la cuáles cuáles
+[00:03:08] cuáles son los objetivos que se planteó
+[00:03:10] la Secretaría de Energía.
+[00:03:12] eh digamos y que se vieron de alguna
+[00:03:14] manera plasmados en la resolución 400.
+[00:03:17] Bueno, vamos a repasarlos así
+[00:03:18] rápidamente.
+[00:03:20] El primero es desplazar a Camesa como un
+[00:03:23] rol, mejor dicho, en los roles que no
+[00:03:25] estaban previstos originalmente,
+[00:03:27] digamos, como función principal de
+[00:03:29] Gamesa.
+[00:03:31] Esos dos roles fundamentales son
+[00:03:33] contratos de abastecimiento MEM, ¿sí?
+[00:03:36] que que básicamente son
+[00:03:40] es decir toda la generación nueva que
+[00:03:43] fue ingresando a partir del 2006 2007 en
+[00:03:47] adelante.
+[00:03:49] toda la esa generación, el mecanismo con
+[00:03:51] el cual ingresó en digamos al sistema
+[00:03:54] fue a través de contratos, contratos
+[00:03:56] celebrados en forma centralizada
+[00:03:59] con camesas a las empresas digamos con
+[00:04:03] distintos mecanismos, ya sean energía
+[00:04:05] renovables, energías térmicas y demás o
+[00:04:07] hidráulicas,
+[00:04:10] lo que hacían firmar un cuo con camisa a
+[00:04:12] una x cantidad de años con determinadas
+[00:04:13] condiciones y de esa manera se conseguía
+[00:04:16] este que se incorpore un nuevo una nueva
+[00:04:17] central del sistema y así garantizar el
+[00:04:19] abastecimiento eléctrico. Eh, y esos
+[00:04:22] contratos, digamos, tenían a Camesa como
+[00:04:25] Rolf, digamos, fundamental para que era
+[00:04:27] la que firmaba esos contratos en nombre
+[00:04:30] del mercado o y digamos de alguna manera
+[00:04:33] en nombre de la Secretaría de Energía.
+[00:04:36] Este,
+[00:04:38] bueno, la idea es que eso no exista más,
+[00:04:41] sino que la, digamos, el ingreso eh de
+[00:04:44] la nueva generación sea a través de
+[00:04:45] señales, digamos, eh económicas y
+[00:04:49] eventuales eh contratos entre privado.
+[00:04:53] Y otro er rol fundamental de cada mesa,
+[00:04:54] la parte de combustibles o todavía en
+[00:04:57] parte es este la gestión de combustibles
+[00:04:59] que bueno, en un momento dado, o sea,
+[00:05:01] originalmente
+[00:05:03] digamos en los 90, por decirlo de alguna
+[00:05:05] manera, eh toda la gestión del
+[00:05:08] combustible era, digamos era parte de la
+[00:05:10] del del digamos del del negocio del
+[00:05:13] trabajo o de la función del generador,
+[00:05:15] ¿no es cierto? conseguirse combustible
+[00:05:16] para generar
+[00:05:19] y digamos a partir de un momento dado
+[00:05:22] como se fueron perdiendo esas señales de
+[00:05:25] precios y demás, esa gestión de
+[00:05:27] combustible dejó de ser realizada por
+[00:05:29] los generadores y Camesa, digamos, tomó
+[00:05:32] el rol de gestionar todo el combustible
+[00:05:35] para la generación, tanto el gas natural
+[00:05:37] como los combustibles alternativos que
+[00:05:39] le que básicamente son gasoil y fueloid.
+[00:05:42] ¿Sí? Entonces, bueno, toda esa gestión
+[00:05:44] eh durante mucho tiempo estuvo
+[00:05:46] centralizada en camesa y la idea del
+[00:05:48] gobierno eh y la Secretaría de Energía
+[00:05:50] en su política energética es decir,
+[00:05:52] bueno, toda esa gestión tiene que volver
+[00:05:54] a ser función de los generadores.
+[00:06:00] Eh, recrea seal de mercado para la
+[00:06:02] generación. Entonces, bueno, un poco
+[00:06:04] atado a que no existen más contratos
+[00:06:06] centralizados y no existe más gestión
+[00:06:08] centralizada de combustible, tiene que
+[00:06:10] haber señales económicas para que eh
+[00:06:13] bueno, digamos los generadores
+[00:06:15] inviertan, pongan nuevo equipamiento,
+[00:06:17] mantengan el que tiene y y también eh
+[00:06:21] digamos eh generen gestionen el
+[00:06:24] combustible.
+[00:06:28] Eh, señales de mercado le decimos
+[00:06:29] fundamentalmente a los precios, ¿no es
+[00:06:31] cierto? el precio precio spot, ¿no es
+[00:06:34] cierto? El precio de la energía, cuánto
+[00:06:35] cuesta la energía. Bueno, eh
+[00:06:38] fundamentalmente si nosotros comparamos
+[00:06:39] con los 90 con con lo nuevo, en los 90
+[00:06:43] había un único precio en energía. Sí, lo
+[00:06:45] fijaba la máquina que estaba en ese
+[00:06:47] momento despachada, la máquina más cara.
+[00:06:48] Ese esa máquina más cara definía el
+[00:06:50] precio para todo el sistema, ¿no es
+[00:06:53] cierto? Para y toda la energía valía lo
+[00:06:55] mismo. No importa la fuente de
+[00:06:56] generación y si era nueva o vieja, no
+[00:06:59] había ninguna diferencia. Bueno, acá eh
+[00:07:03] un poco la idea es que que esa renta o
+[00:07:06] que esa mejor dicho ese precio de
+[00:07:09] referencia full sí sea para la
+[00:07:12] generación nueva, la generación que
+[00:07:15] ingresa a partir de un determinado
+[00:07:17] momento y para la generación que y el
+[00:07:20] equipamiento que ya existe, sí, que ese
+[00:07:24] que esa seal de precio sea más acotada,
+[00:07:27] no sea, vamos a decir una renta full,
+[00:07:28] por decirlo de alguna manera.
+[00:07:31] Eh, bueno, esta esta gestión de
+[00:07:34] combustibles eh que caería de lado de
+[00:07:38] los generadores tiene que recuperarse a
+[00:07:39] través de de una de una manera, ¿no es
+[00:07:41] cierto? El generador usa combustible
+[00:07:42] para generar y tiene que recuperar,
+[00:07:44] digamos, porque es un costo. Entonces,
+[00:07:46] bueno, ese costo, digamos, la idea es
+[00:07:48] que se, digamos, vuelva a un sistema de
+[00:07:50] declaración libre de CBP de costo
+[00:07:52] variable de producción
+[00:07:55] para que, digamos, implícitamente el
+[00:07:57] costo del combustible que utiliza esté
+[00:07:59] puesto en SVP y cuando se ha despachado,
+[00:08:02] digamos, y como se despacha a través de
+[00:08:04] costos de menor costo a mayor costo,
+[00:08:06] cuando es despachado porque una máquina
+[00:08:08] se le va a reconocer el costo que está
+[00:08:10] de producción y en ese costo de
+[00:08:13] producción está recuperando ese gestión
+[00:08:15] de combustible que ese es combustible
+[00:08:18] que utilizó y que se gestionó en forma
+[00:08:20] autónoma.
+[00:08:23] Y por otro lado, uno de los ejes que los
+[00:08:26] demandantes aseguren su abastecimiento
+[00:08:28] mediante, digamos, eh contratos. La idea
+[00:08:32] es que cada demandante
+[00:08:34] eh fundamentalmente las distribuidoras y
+[00:08:37] los grandes usuarios eh
+[00:08:40] garanticen su abastecimiento a través de
+[00:08:42] contratos, ¿sí? y que eventualmente si
+[00:08:45] hay algún saldo de contrato no cubierto,
+[00:08:47] sí vaya al mercado spot, al mercado de
+[00:08:49] saldos. E pero bueno, eh esa es digamos
+[00:08:53] una de las de los objetivos, que existan
+[00:08:54] contrato entre partes.
+[00:08:58] Otro de los objetivos es que los precios
+[00:09:00] se estabilicen, simplificar el esquema
+[00:09:02] de precios antes, hasta octubre del año
+[00:09:04] pasado, antes de la 400,
+[00:09:07] eh un poco el reflejo de toda la
+[00:09:08] normativa que venía y demás, que era
+[00:09:10] básicamente
+[00:09:12] todo recupero de costos, e había muchos
+[00:09:17] precios distintos que reflejaban
+[00:09:18] distintas cosas a recuperar. Entonces,
+[00:09:21] bueno, era media ilegible la factura de
+[00:09:23] camesa que le llegaba a una
+[00:09:24] distribuidora o a una, ¿cómo es? Sí, una
+[00:09:28] cooperativa o a un gran usuario por la
+[00:09:31] cantidad de de subprecios que tenía.
+[00:09:34] Cada uno podía estar afectado por un
+[00:09:36] físico distinto, no todos eran por la
+[00:09:38] misma energía. Entonces, bueno, eh
+[00:09:41] realmente se volvía complejo entender el
+[00:09:44] la factura de CES y los precios
+[00:09:46] asociados a cada uno de los conceptos.
+[00:09:51] eh las condiciones iniciales, o sea, eso
+[00:09:53] es los objetivos, ¿no es cierto? ¿Qué
+[00:09:55] qué que qué busca la secretaría de
+[00:09:56] energía? Ahora, eso está montado en una
+[00:10:00] cierta, digamos, condiciones iniciales
+[00:10:02] del sistema. Bueno, del lado de los
+[00:10:04] combustibles, digamos, la mayor
+[00:10:07] restricción es eh para esa libertad,
+[00:10:11] digamos, de gestión es el plan gas. Sí,
+[00:10:14] la existencia del plan gas, que es un,
+[00:10:16] vamos a decir, un mecanismo donde eh
+[00:10:19] los productores de gas ofertaron a un
+[00:10:21] precio determinado de tintas subastas,
+[00:10:24] este
+[00:10:27] una cantidad de volumen de gas a un
+[00:10:29] determinado precio y eso, digamos, el
+[00:10:31] que ganaba esa licitación se quedaba con
+[00:10:33] ese volumen y ese precio con ciertas
+[00:10:35] condiciones por un plazo de tiempo
+[00:10:37] determinado. Eso llega hasta fin del
+[00:10:39] 2028. ¿Sí? Entonces, eh y esos son
+[00:10:44] contratos firmados este digamos
+[00:10:48] de los productores de gas con Enarsa y
+[00:10:50] con Camesa.
+[00:10:52] Y esa ese esos contratos tienen
+[00:10:54] restricciones bastante duras, o sea,
+[00:10:55] tienen digamos una cómo es, una
+[00:11:02] obligación de tomar o pagar ese
+[00:11:03] producto. O sea, si si Camesa o Enarsa
+[00:11:06] no adquieren el el un mínimo que es el
+[00:11:08] 75% del producto ofertado
+[00:11:13] e
+[00:11:15] hay que pagarlo igualmente. Entonces ese
+[00:11:17] digamos esa ese
+[00:11:20] digamos ese gas ese gas de plan gas es
+[00:11:23] digamos es obligación tomarlo
+[00:11:26] y digamos primero que cualquier cosa
+[00:11:29] porque si no lo usas los tenés que pagar
+[00:11:31] igual. Entonces, de alguna manera, ese
+[00:11:35] cupo de gas e que es bastante el plan
+[00:11:38] gas tiene, digamos, para lo que sería e
+[00:11:42] cómo es, mercado eléctrico,
+[00:11:44] abastecimiento de de energía eléctrica,
+[00:11:47] salvo en invierno, o sea, fuera del
+[00:11:48] invierno es mucho gas y es suficiente o
+[00:11:52] casi suficiente para abastecer todo el
+[00:11:55] sistema eléctrico.
+[00:11:57] Entonces,
+[00:11:59] digamos, y como tenés que usarlo sí o
+[00:12:00] sí, los generadores no pueden optar por
+[00:12:03] ir a comprarse el combustible fuera de
+[00:12:04] ese plan gas porque de alguna manera
+[00:12:08] digamos,
+[00:12:10] o sea, no no hay posibilidad porque
+[00:12:12] primero tomar ese, entonces no hay eh
+[00:12:14] chance de que el generador se gestione
+[00:12:16] su gas porque de alguna manera no hay
+[00:12:18] opciones de compra y Camesa tiene que
+[00:12:21] seguir comprando ese gas. Entonces,
+[00:12:23] bueno, eso es una limitación para una
+[00:12:25] libertad absoluta de que cada generador
+[00:12:26] se gestione el gas. ¿Y por qué es
+[00:12:28] importante el gas? Bueno, porque el gas
+[00:12:30] cubre alrededor del 75 80%
+[00:12:34] de toda la energía térmica. Sí, se
+[00:12:36] produce con ese combustible. Sí. Y fuera
+[00:12:39] del invierno es básicamente solo con
+[00:12:41] gas. Entonces, eh digamos decir que va a
+[00:12:45] haber libertad de de de contratación de
+[00:12:47] gas cuando tenés el plan gas es
+[00:12:49] complejo, o sea, no no se puede.
+[00:12:52] Entonces, bueno, de alguna manera eso es
+[00:12:53] una reición muy importante a esa
+[00:12:55] libertad de gestión que buscaba la
+[00:12:57] Secretaría de Energía
+[00:12:59] y para todos los alternativos, bueno,
+[00:13:01] Camesa sí compraba barcos de gasol,
+[00:13:04] compraba, digamos, fue el nacional y
+[00:13:06] demás y se lo distribuye a cada central.
+[00:13:09] Bueno, eso digamos como es una un
+[00:13:11] mercado un poco más, o sea, no había
+[00:13:13] contratos atados a largo plazo, como
+[00:13:15] decir con el plan gas. Entonces eso
+[00:13:17] digamos sí se se buscó desarmar y que la
+[00:13:21] gestión de ese combustible alternativo
+[00:13:23] sea así directo y obligatorio para las
+[00:13:26] centrales eléctricas.
+[00:13:29] Por otro lado, las señales de preo de
+[00:13:32] precio para la generación
+[00:13:34] estaba está, digamos, condicionado a
+[00:13:36] que, bueno, tenemos un mundo de de
+[00:13:38] máquinas eh existentes
+[00:13:42] que cada una tiene una particular de
+[00:13:44] remuneración. Entonces, bueno, un punteo
+[00:13:46] rápido de lo que había o hay de
+[00:13:48] generación existente es, bueno,
+[00:13:52] contrato de abastecimiento MEM, ¿sí? lo
+[00:13:54] que chalamos recién son contratos a
+[00:13:56] largo plazo firmado con de las los
+[00:13:58] generadores firmados con camisa para
+[00:14:00] poner una central nueva. Sí, ese esas
+[00:14:03] centrales son eh digamos son mejor dicho
+[00:14:05] esos contratos son son están vigentes,
+[00:14:08] no se pueden romper. Entonces de alguna
+[00:14:10] manera te restringe cualquier opción de
+[00:14:13] eh libertad de de acción de esos
+[00:14:15] generadores, digamos. Entonces, bueno,
+[00:14:18] ahí no se puede cambiar. O sea, esos
+[00:14:20] generadores no van a poder participar de
+[00:14:22] un esquema libre de precios porque eh
+[00:14:24] toda su producción de energía está atado
+[00:14:26] un contrato con pautas ya prefijadas.
+[00:14:32] La generación que no tiene contrato de
+[00:14:34] abastecimiento, esta sería la que sí
+[00:14:36] estaría destinada al nuevo esquema, ¿sí?
+[00:14:39] Porque no hay ninguna contratación o
+[00:14:42] esquema de contratos que que establezca
+[00:14:45] cómo cómo hay que remunerarlas. En
+[00:14:48] cambio, eh digamos esas máquinas sí
+[00:14:52] podrían, digamos ser partícipe del nuevo
+[00:14:54] esquema.
+[00:14:56] Por otro lado, tenemos todas las hidros,
+[00:14:58] que son tenemos de de dos tipos o tres.
+[00:15:02] Tenemos las binacionales, ya está alto
+[00:15:05] grande, que en general se remuneran por
+[00:15:07] esquemas particulares porque están atado
+[00:15:10] a tratados y recupero de costos y demás
+[00:15:13] y la ley dice que no pueden participar
+[00:15:15] de del mercado spot, qué sé yo, con con
+[00:15:18] digamos, o sea, son condiciones
+[00:15:19] particulares.
+[00:15:21] Y después tenemos dos grandes grupos de
+[00:15:23] de centrales hidráulicas que son
+[00:15:24] nacionales, o sea, de propiedad nacional
+[00:15:27] y de propiedad provincial.
+[00:15:30] Entonces, bueno, a cada una se iba se le
+[00:15:32] va a dar un tratamiento distinto, si las
+[00:15:33] que son nacionales van a seguir por un
+[00:15:35] esquema regulado de precios y las que
+[00:15:37] son provinciales se van a dar libertad
+[00:15:39] de acción para que las provincias
+[00:15:41] decidan cómo van a gestionar esa
+[00:15:43] central.
+[00:15:45] Pero a su vez dentro de las nacionales
+[00:15:46] están las que tienen un contrato de
+[00:15:49] concesión vigente y las que tienen
+[00:15:51] contrato de concesión a renovar, ¿sí? O
+[00:15:54] o a actualizar. Entonces, bueno, van
+[00:15:57] apareciendo distintas cosas que se
+[00:15:58] pueden hacer para cada una de esas tipo
+[00:16:00] de centrales.
+[00:16:02] Después tenemos las nucleares, que que
+[00:16:05] efectivamente sí se rigen por un esquema
+[00:16:07] de de remuneración distinto, no venden
+[00:16:09] energía al spot, sino que se les asegura
+[00:16:11] la remuneración.
+[00:16:13] Y después los renovables del matter, que
+[00:16:15] el matter es el mercado a término de
+[00:16:16] energías renovables, que son básicamente
+[00:16:21] plantas de generación renovable de
+[00:16:22] eólico y solares
+[00:16:24] que se entraron a digamos
+[00:16:29] básicamente ya con el esquema nuevo ante
+[00:16:32] antes. ¿Qué quiere decir eso? que
+[00:16:33] entraron a vender energía ya con a un
+[00:16:35] sistema de contrato privado. Sí, esas
+[00:16:37] centrales se ya se pensaron y se
+[00:16:40] construyeron y se financiaron pensando
+[00:16:43] en que todo lo que produzcan energía sea
+[00:16:46] destinada a abastecer un contrato con
+[00:16:48] con industria fundamentalmente.
+[00:16:51] Entonces, e bueno, esas centrales,
+[00:16:54] digamos,
+[00:16:56] hubo bastantes, alrededor de 3000 MW, si
+[00:16:59] no me equivoco, de de energía renovable
+[00:17:01] que entraron por ese mecanismo.
+[00:17:03] Entonces, si bien eso está, digamos, y y
+[00:17:06] puede empalmarse bien con lo nuevo,
+[00:17:10] la restricción de esto es hay que que
+[00:17:12] hay que entender que hay, vamos a decir,
+[00:17:14] mecanismos de financiación montados en
+[00:17:17] una lógica de contratos, eh, que que lo
+[00:17:21] nuevo tiene que tratar de no romperlo
+[00:17:23] porque como esos esos digamos esos
+[00:17:26] proyectos tienen 2 3 años, un año eh de
+[00:17:29] construcción y se recuperan en 10,
+[00:17:32] entonces si vos vas a modificar las
+[00:17:35] reglas, tenés que tratar que las reglas
+[00:17:36] que se modifiquen no afecten a esos
+[00:17:38] negocios que están, digamos, montados
+[00:17:41] con una previsión de un de una
+[00:17:43] regulación que dura 10 años al menos.
+[00:17:46] Entonces, bueno, lo que se haga de nuevo
+[00:17:48] en esta resolución tiene que prever de
+[00:17:50] no romper de alguna manera ese mercado
+[00:17:53] de energías renovables.
+[00:17:57] Bueno, otros objetivos, contener la sub
+[00:17:59] de costos, que los costos, digamos,
+[00:18:00] solamente por un cambio de régimen, que
+[00:18:02] los costos no se disparen. Eh, también
+[00:18:05] no asignar rentas excesivas. ¿Sí? ¿Qué
+[00:18:08] quiere decir eso? Que un generador solo
+[00:18:11] por el cambio de régimen pase a ganar
+[00:18:13] uno a ganar 10. ¿Sí? Entonces, bueno,
+[00:18:15] por eso las señales de precios tienen
+[00:18:17] que de alguna manera estar acotadas para
+[00:18:19] que, bueno, no se los costos no se
+[00:18:22] disparen y que simplemente el cambio de
+[00:18:25] de esquema
+[00:18:27] no genere una renta excesiva,
+[00:18:29] porque la idea fundamental es que las
+[00:18:31] rentas asociadas a todo esto de este
+[00:18:33] nuevo esquema estén fundamentalmente
+[00:18:36] alocadas en todo lo que venga lo nuevo,
+[00:18:38] en todo lo nuevo que venga, todo lo que
+[00:18:39] venga a invertir nuevo. esa generación
+[00:18:42] sí tenga una renta asociada
+[00:18:45] eh digamos diferencial que permita
+[00:18:48] apalancar el negocio. Lo existente en
+[00:18:52] digamos no digamos como ya son digamos
+[00:18:55] todas inversiones amortizadas eh la idea
+[00:18:58] simplemente es que bueno que sí tengan
+[00:19:00] renta, pero asociada a a la e
+[00:19:04] eficiencia. Sí, vos generás tenés una
+[00:19:07] renta asociada auteficiencia, pero no
+[00:19:10] una renta tal que eh digamos te dé
+[00:19:15] ingresos como para pagar un
+[00:19:17] equipamiento, digamos, nuevo cuando vos
+[00:19:19] ya tenés el equipamiento amortizado.
+[00:19:23] Eh, bueno, otro de los objetivos es
+[00:19:26] reducir o estabilizar la asignación de
+[00:19:28] subsidios. Sí, los subsidios estarán
+[00:19:31] focalizados en las en la demanda
+[00:19:33] residencial, ¿sí?
+[00:19:35] Entonces, eh y si el mecanismo de de
+[00:19:39] precios eh que se van sancionando son
+[00:19:41] precios estacionales que prevén una
+[00:19:44] operatoria y un costo de de
+[00:19:46] abastecimiento.
+[00:19:48] Y sobre ese precio estacional, el
+[00:19:51] digamos al usuario que que se le decide
+[00:19:53] aplicar el subsidio, digamos, tiene una
+[00:19:56] una un pago reducido. Entonces, bueno,
+[00:19:59] la idea de la secretaría, bueno, es es
+[00:20:02] digamos transparentar ese mecanismo, que
+[00:20:04] los precios sean más estables y de
+[00:20:08] alguna manera prever el impacto,
+[00:20:09] digamos, financiero, económico de los
+[00:20:12] subsidios que tiene que afrontar.
+[00:20:15] Eh, bueno, dentro de la idea de que los
+[00:20:17] precios no se disparen, que que los
+[00:20:18] costos para la industria
+[00:20:21] eh que van a participar este nuevo
+[00:20:22] esquema
+[00:20:24] en forma obligatoria porque ellos la
+[00:20:26] industria grande participa del mercado
+[00:20:27] mayorista y bueno, cualquier disparada
+[00:20:31] de precios por cambio de régimen puede
+[00:20:33] afectar su su rentabilidad o su
+[00:20:35] funcionamiento. Entonces, la idea es que
+[00:20:37] ese cambio de régimen no genere un
+[00:20:39] impacto en precios en costos de energía
+[00:20:42] para la industria.
+[00:20:45] Y bueno, y viabilizar ingresos de
+[00:20:46] generación nueva en forma autónoma. Esto
+[00:20:48] es que bueno, que todo este mecanismo de
+[00:20:50] contratos, de señales de precios y demás
+[00:20:52] permita que un una empresa privada, un
+[00:20:55] generador privado venga, invierta en un
+[00:20:57] en un
+[00:20:59] en una nueva central y que el nuevo
+[00:21:02] esquema de alguna manera le permita
+[00:21:03] repagar esa inversión con determinadas
+[00:21:06] condiciones,
+[00:21:09] pero no a través de un contrato como es
+[00:21:11] lo que se hacía, un contrato con camesa,
+[00:21:13] como se hacía antes.
+[00:21:18] Bueno, otras condicionesamos digamos de
+[00:21:20] contorno son, bueno, el como decíamos
+[00:21:22] recién el matter, el mercado término de
+[00:21:23] energías renovables, como funcionó bien,
+[00:21:26] la idea es que lo que venga nuevo se
+[00:21:28] acople a ese cont ese mercado a término
+[00:21:30] de energía renovables,
+[00:21:32] eh, y de alguna manera no afectar lo que
+[00:21:34] ya está funcionando.
+[00:21:37] Eh, después otro concepto que el que en
+[00:21:39] el mediano plazo lo que el sistema
+[00:21:41] eléctrico necesita no es generación de
+[00:21:44] base, sino que más generación de punta.
+[00:21:46] Sí, generación que entra a funcionar muy
+[00:21:49] pocas horas del año, ¿sí? En momentos de
+[00:21:53] donde la demanda se dispara. Por
+[00:21:55] ejemplo, ahora en invierno vienen los
+[00:21:56] días fríos y, bueno, la demanda se
+[00:21:58] dispara y tenés que despachar máquinas
+[00:22:01] que, digamos, generalmente no la usas
+[00:22:03] porque están, digamos, digamos porque la
+[00:22:05] demanda media siempre es muy inferior a
+[00:22:07] al
+[00:22:09] a los días de de extremas temperaturas.
+[00:22:11] Entonces, hay muchas máquinas que no las
+[00:22:13] usas nunca, salvo en estas condiciones.
+[00:22:15] Entonces, bueno, y lo que necesita el
+[00:22:16] sistema en el corto plazo o mediano
+[00:22:19] plazo es ese tipo de máquina. Sí. No
+[00:22:21] hace falta tanto energía de base, sino
+[00:22:23] que más energía de punta. Entonces, de
+[00:22:25] alguna manera hay que ver cómo se dan
+[00:22:29] las señales de precios para que en el
+[00:22:31] mediano plazo, al menos, eh la señal del
+[00:22:36] del de precios para este tipo de
+[00:22:37] generación exista.
+[00:22:40] Eh, obviamente pagar generación de poco
+[00:22:43] de bajo factor de uso te incrementa tu
+[00:22:45] costo medio porque hay máquinas que
+[00:22:48] tenés que pagar igual aunque no no uses.
+[00:22:50] Sí. Entonces, si lo ves solo como
+[00:22:52] energía, estás careciendo el costo de
+[00:22:54] energía
+[00:22:56] porque hay máquinas que estás pagando
+[00:22:58] solamente para un corto plazo de tiempo.
+[00:23:01] Pero bueno, si esas máquinas no
+[00:23:03] estuvieran, cuando llegara el invierno,
+[00:23:04] no habría energía suficiente para para
+[00:23:07] abastecer. Entonces, bueno, el esquema
+[00:23:08] de remuneración tiene que balancear esas
+[00:23:11] cosas para que esas máquinas estén
+[00:23:14] cuando se necesiten.
+[00:23:17] Y después, bueno, un poco por historia,
+[00:23:19] digamos, lo que digamos lo que en los
+[00:23:22] 90, por decirlo de alguna manera, cuando
+[00:23:25] se desreguló todo el sistema y se
+[00:23:28] privatizó,
+[00:23:29] eh, todo era por energía. vos como
+[00:23:32] generador ganabas cuando vendías energía
+[00:23:34] al sistema. Sí, estaba muy energizado
+[00:23:37] todo, digamos, y y muy poco remuneración
+[00:23:41] de costos fijos, ¿sí? Por solo por
+[00:23:43] estar.
+[00:23:46] Eh, después, bueno, eso fue cambiando
+[00:23:48] con las normativas. Después, obviamente,
+[00:23:50] la disrupción fue la salida de la
+[00:23:52] convertibilidad.
+[00:23:53] Este, bueno, historia que más o menos
+[00:23:56] conocida por todos y eso, digamos,
+[00:23:59] después, bueno, en el medio hubo
+[00:24:01] distintos cambios normativos que fueron
+[00:24:03] llevando a que la remuneración estaba
+[00:24:05] hoy, digamos, hasta fines de los del 25
+[00:24:09] fundamentalmente atada a remunerar
+[00:24:11] costos fijos, ¿sí? Que no importa cuánto
+[00:24:14] generen a una máquina, eh se le pagaba
+[00:24:17] una cantidad de plata por, digamos, por
+[00:24:20] tamaño, por características, digamos, de
+[00:24:21] tecnología.
+[00:24:23] eh para que mantenga su equipamiento en
+[00:24:26] buenas condiciones. Sí. Y Camesa le daba
+[00:24:28] el combustible a las térmicas y las las
+[00:24:31] hidráulicas en digamos cuando vendían
+[00:24:34] energía ganaban un variable, pero no
+[00:24:36] tenían rentabilidad en su venta de
+[00:24:37] energía al sistema o rentabilidad muy
+[00:24:41] acotada. Entonces, bueno, ese esquema de
+[00:24:43] remunerar por costo fijo, o sea,
+[00:24:45] básicamente por potencia, por estar, e
+[00:24:48] si bien te hace que tu costo sea
+[00:24:50] básicamente un ladrillo eh para pagar
+[00:24:53] todo eso, digamos, genere o no genere,
+[00:24:56] pero bueno, de alguna manera también
+[00:24:58] sirvió para entender que con ese
+[00:24:59] mecanismo de pagar por costos fijos las
+[00:25:02] máquinas se mantienen bien, ¿sí? están
+[00:25:04] bien mantenidas, están disponibles y que
+[00:25:07] cuando vos este necesitás, digamos, que
+[00:25:10] estén generando, ya sea como base o ya
+[00:25:13] sea que la necesar ese momento de máxima
+[00:25:16] demanda, esos equipos están funcionando.
+[00:25:19] Sí. Entonces, bueno, un poco digamos
+[00:25:24] cambiar, volver a algo parecido a los
+[00:25:25] 90, pero no tanto. Sí, entendiendo que
+[00:25:29] eh hay que acotar rentas, entendiendo
+[00:25:31] que eh hay equipamiento ya amortizado y
+[00:25:35] entendiendo que e digamos pagar costos
+[00:25:37] fijos también te mejora eh la
+[00:25:41] disponibilidad de equipos.
+[00:25:44] Entonces, ya más más para la
+[00:25:46] implementación. Bueno,
+[00:25:49] de todo ese paquete de generación y
+[00:25:52] digamos del lado de la demanda con el
+[00:25:54] objetivo de estabilizar precios y demás,
+[00:25:55] bueno, se se redefinió la demanda del
+[00:25:58] distribuidor, se redefinieron los
+[00:26:00] precios estacionales que van a esos
+[00:26:01] tipos de demanda de distribuidor. Ahora
+[00:26:03] vamos a ver en detalle qué es.
+[00:26:06] Para también para acotar renta y que la
+[00:26:08] renta fundamentalmente esté alocada en
+[00:26:09] inversiones nuevas. Se se diferenció
+[00:26:12] entre generación vieja y nueva. Sí.
+[00:26:16] O sea, la generación nueva se va a
+[00:26:17] definir determinada fecha y la
+[00:26:19] generación vieja o existente con una,
+[00:26:22] digamos, una habilitacción comercial
+[00:26:24] hasta determinada fecha y a su vez se
+[00:26:28] separó entre generación que puede
+[00:26:30] participar este nuevo esquema spot,
+[00:26:31] ¿sí?, de rentas marginales y señales de
+[00:26:35] precios spot y declaración de precios de
+[00:26:38] costos con la generación que se le dijo
+[00:26:41] como generaciones asignadas, que
+[00:26:43] básicamente es todo lo que aquella
+[00:26:44] generación que tiene un contrato firmado
+[00:26:47] con camesa, ¿sí? Entonces, toda esa
+[00:26:49] generación que no puede, digamos, vender
+[00:26:52] libremente porque toda su producción de
+[00:26:53] energía y todo su pago de potencia está
+[00:26:56] atado un contrato, bueno, se la
+[00:26:58] encapsuló y dijo, "Bueno, toda esta
+[00:26:59] generación que que tiene costos
+[00:27:02] regulados de remuneración
+[00:27:04] se se designe, se se la va a denominar
+[00:27:07] generación asignada
+[00:27:09] y básicamente se va a destinar todas
+[00:27:11] esas esa
+[00:27:13] tanto la producción de energía y de
+[00:27:14] potencia como este los costos asociados
+[00:27:17] a las a la de demanda del distribuidor,
+[00:27:20] ¿sí? Para de alguna manera estabilizar
+[00:27:22] precios, costos y e digamos e dejar que
+[00:27:28] la demanda, vamos a decir, libre, la que
+[00:27:30] no esté eh digamos regulada, como sería
+[00:27:34] la demanda residencial y no residencial
+[00:27:37] fundamentalmente,
+[00:27:39] pueda comprar el sistema spot. Entonces,
+[00:27:40] bueno, de alguna manera se dividió de
+[00:27:42] esa manera la la generación
+[00:27:46] y para esta generación spot, bueno, va
+[00:27:49] va a haber declaración libre de CBP de
+[00:27:51] costo variable de producción. En ese CP
+[00:27:54] cada máquina declara su costo de
+[00:27:55] combustible. Al ser despachada, esa
+[00:27:57] generación se remunera y se recupera ese
+[00:28:00] costo de combustible asociado. Sí. Para
+[00:28:02] que exista esa gestión autónoma de
+[00:28:04] combustible, dado que Camesa no lo va a
+[00:28:07] hacer más.
+[00:28:08] E bueno, y la renta este digamos de de
+[00:28:12] esa generación spot esté asociada a
+[00:28:14] costos marginales. Sí, eso quedó en la
+[00:28:16] ley cuando se dentro del de la ley, si
+[00:28:20] no me equivoco, dentro de la ley base se
+[00:28:22] modificó la ley del marco eléctrico con
+[00:28:25] algunas cosas que se incorporaron en la
+[00:28:27] ley, en esa ley, digamos,
+[00:28:30] esa ley base que modificó la ley eh no
+[00:28:34] me acuerdo el número, creo que es 24061,
+[00:28:36] pero no me acuerdo bien si es ese
+[00:28:38] número,
+[00:28:40] eh digamos con algunos conceptos, ¿sí? y
+[00:28:44] se puso en como concepto es que la
+[00:28:46] remuneración de la energía eléctrica
+[00:28:48] tiene que estar basada en costos
+[00:28:49] marginales. Bueno, entonces para cumplir
+[00:28:52] con la ley, esta regulación lo que hace
+[00:28:54] es decir, bueno,
+[00:28:56] vamos a remunerar en costos marginales,
+[00:28:57] pero no plenos. Sí, no costos marginales
+[00:28:59] plenos, sí plenos para lo nuevo y
+[00:29:01] acotado para lo viejo.
+[00:29:04] Y como decíamos que la potencia
+[00:29:06] garantiza de alguna manera el pago de
+[00:29:08] potencia, o sea, el pagar por estar, no
+[00:29:10] por generar, eh, garantiza
+[00:29:12] disponibilidad de equipo, bueno, señales
+[00:29:14] marginales para el spot,
+[00:29:17] recupero de costo de combustible hasta
+[00:29:18] haber declaración de CBP y despacho y
+[00:29:21] reconocimiento de potencia por estar
+[00:29:23] disponible. Entonces, ese sería
+[00:29:24] básicamente el esquema para la
+[00:29:26] generación que el SP.
+[00:29:29] Entonces, bueno, ahí va a haber que
+[00:29:30] sancionar precio de energía de potencia
+[00:29:33] para remunerar eso y van a ser los
+[00:29:36] precios que pague la demanda. Sí, la
+[00:29:38] demanda va a tener que más pagar un
+[00:29:41] precio de por energía spot y un precio
+[00:29:43] por potencia, ¿sí? Que reflejan,
+[00:29:45] digamos, esta remuneración en la
+[00:29:47] generación.
+[00:29:49] En los 90 esos precios eran únicos. Sí,
+[00:29:52] había un único precio de potencia, un
+[00:29:53] único precio de energía y todos pagaban
+[00:29:54] lo mismo. En la energía se sancionaba
+[00:29:57] ahora, ahora bueno, ahora hay un un
+[00:30:00] intermedio, si no es no es tan spot, es
+[00:30:02] spot, pero no tanto.
+[00:30:05] Y eh bueno, se definen nuevos régimenes
+[00:30:09] de contratación entre privados, tanto de
+[00:30:10] energía como potencia. Hasta el 2025,
+[00:30:14] hasta octubre, eh estaban prohibidos los
+[00:30:18] contratos de entre privados. Sí, no se
+[00:30:20] podían hacer contrato privado, solamente
+[00:30:22] había dos salvedades, el mercado a
+[00:30:24] términos renovables, como le comenté
+[00:30:26] recién, el matter sí es estaba
+[00:30:28] habilitado
+[00:30:30] y había un pequeño con mercado de de
+[00:30:34] contratos
+[00:30:35] térmicos e que se llamaba contratos
+[00:30:37] plus, pero bueno, tiene unas lógicas
+[00:30:39] medias complejas de funcionamiento
+[00:30:42] y eses contratos se discontinuaron y se
+[00:30:45] reemplazaron con este nuevo esquema.
+[00:30:47] Pero bueno, eh básicamente se redefinió
+[00:30:50] un nuevo esquema de contratación
+[00:30:51] totalmente libre entre partes con
+[00:30:53] algunas condiciones y se difieron dos
+[00:30:55] mercados, ¿no es cierto? Por especie,
+[00:30:57] por energía, ¿sí? Por porabastecerte de
+[00:31:00] energía, digamos, eh digamos para tu
+[00:31:04] demanda y por potencia para el pago de
+[00:31:06] capacidad. Entonces, se se definieron
+[00:31:08] esos dos este
+[00:31:11] mercados que están reflejados en los dos
+[00:31:13] precios que decidimos acá arriba de
+[00:31:15] energía y potencia y que reflejan el
+[00:31:17] esquema de remuneración para la
+[00:31:18] generación. ¿Sí?
+[00:31:23] Entonces, bueno, ya vamos a lo que
+[00:31:25] Entonces, bueno, eso todo eso de alguna
+[00:31:27] manera el marco que los objetivos de la
+[00:31:31] regulación, las condiciones de contorno
+[00:31:34] de la regulación
+[00:31:36] y la implementación que se decidió. ¿Sí?
+[00:31:39] Entonces, todo ese universo de ideas o
+[00:31:42] de condiciones se terminó cerrando en la
+[00:31:46] resolución 400, ¿sí?, que se dictó en
+[00:31:50] noviembre del 25 y se no eh fin de
+[00:31:53] octubre del 25 y se empezó a aplicar eh
+[00:31:56] desde noviembre del 25. Sí. Eh ese marco
+[00:32:00] nuevo se empezó a aplicar de ese
+[00:32:02] momento. Entonces, bueno, ya vamos al
+[00:32:04] desarrollo de lo que definió o
+[00:32:07] estableció esa nueva regulación.
+[00:32:13] Bueno,
+[00:32:15] la demanda de distribuidores se se
+[00:32:16] dividió, se redefinió la demanda
+[00:32:19] distribuidores en dos paquetes, ¿sí?
+[00:32:21] Demanda estacionalizada y demanda goodi.
+[00:32:25] Básicamente, demanda estacionalizada
+[00:32:26] quiere decir que son es una demanda que
+[00:32:29] va a haber precios estacionales, ¿sí?
+[00:32:32] Sancionados por CAMESA, aprobado por
+[00:32:34] secretaría y demás. Y van a ser precios,
+[00:32:36] digamos, de paso al menos trimestral.
+[00:32:38] Sí. Trimestral o semestral. Sí. se
+[00:32:41] sciona un precio y ese precio que el
+[00:32:43] instruyor toma y traslada en sus tarifas
+[00:32:46] a sus usos finales.
+[00:32:48] Y hay un universo que se llama universo
+[00:32:50] goodis, que son las demandas mayores a
+[00:32:51] 300 kW de potencia.
+[00:32:55] A esos usuarios, si bien también se le
+[00:32:58] sanciona un precio estacional,
+[00:33:00] pero digamos después por la aplicación
+[00:33:03] de una resolución, la 976,
+[00:33:05] se le aplican, digamos, precios
+[00:33:08] diferenciales o digamos saltos
+[00:33:09] diferenciales de costo para llevarlo a
+[00:33:12] que pague igual que eh un distribuidor,
+[00:33:17] perdón, un gran usuario del mayorista.
+[00:33:19] Sí. Entonces, digamos, si bien para el
+[00:33:23] goodi la tarifa T3, la tarifa mayor a
+[00:33:25] 300 kW, también se lesiona un precio
+[00:33:28] estacional, pero no le decimos
+[00:33:30] estacionalizada porque finalmente por
+[00:33:32] más que se le define un precio
+[00:33:33] estacional, después viene un ajuste de
+[00:33:35] ese precio para equipararlo a un
+[00:33:38] usuario, digamos, que ve precios
+[00:33:40] mensuales.
+[00:33:43] Y dentro de la demanda estacionalizada,
+[00:33:44] o sea, todo lo que no es goody es
+[00:33:46] demanda estacionalizada,
+[00:33:48] que es así va a haber precios
+[00:33:49] trimestrales.
+[00:33:51] Esa demanda se separa en dos, en
+[00:33:53] residencial y no residencial.
+[00:33:55] Y digamos esa separación es un poco con
+[00:33:59] la idea de a quién se le va a destinar
+[00:34:02] esa generación asignada que decíamos,
+[00:34:04] toda esa generación que tiene contrato
+[00:34:05] MEM o que tiene un precio regulado, todo
+[00:34:08] toda esa generación se va a asignar a la
+[00:34:10] demanda estacionalizada. Sí.
+[00:34:13] Pero de esa demanda estacionalizada
+[00:34:15] primero a residencial y si sobra cubren
+[00:34:17] los residencial.
+[00:34:21] Entonces, bueno, se definió la
+[00:34:22] generación asignada, que básicamente es
+[00:34:24] todo el hidro nacional que se remunera
+[00:34:27] un precio regulado, las hidros
+[00:34:29] binacionales, sí, que también se
+[00:34:31] remuneran a un precio regulado, todas
+[00:34:33] las centrales nucleares que también se
+[00:34:37] remunieron a un precio regulado,
+[00:34:39] un precio específico de cuando sigimos
+[00:34:42] un precio regulado es que si bien puede
+[00:34:45] tener ya sea un contrato o eh una una
+[00:34:50] resolución específica que dice cuánto se
+[00:34:51] le paga esa generación. Sí, eso es lo
+[00:34:53] regulado
+[00:34:55] y eh todo lo que tiene contrato
+[00:34:57] abastecimiento M, que ahí tenemos
+[00:35:00] térmicos,
+[00:35:02] eh hidros, ya creo que no queda ninguno
+[00:35:03] que haya tenido contrato MEM y todo lo
+[00:35:06] renovable, o sea, todo el plan renovar,
+[00:35:08] ¿sí? Todo lo que arrancó en el 2016 con
+[00:35:09] el plan renovar, todos esos contratos de
+[00:35:13] eólicos, este, ¿cómo es? Solares,
+[00:35:17] biomasa, biogas. pequeños hidráulicos,
+[00:35:19] todo ese todo ese mundo de generación
+[00:35:23] eh con contrato MEM, todo ese paquete,
+[00:35:26] tanto su costo como su producción de
+[00:35:28] energía y potencia, todo ese paquete se
+[00:35:31] definió como generación asignada,
+[00:35:33] que básicamente toda generación que no
+[00:35:35] puede participar del del nuevo esquema
+[00:35:37] porque tiene un un sistema de
+[00:35:39] remuneración regulado, ¿sí? Específico.
+[00:35:43] Y bueno, todo lo que no es generación
+[00:35:45] asignada es generación al spot. Sí, toda
+[00:35:47] la generación del spot es la que va a
+[00:35:49] participar del nuevo esquema desregulado
+[00:35:50] donde como dijimos va a haber
+[00:35:53] declaración de CDP, va a haber recupero
+[00:35:55] de costo de combustible a través de ese
+[00:35:56] número, va a haber rentas, ¿sí? Pagos de
+[00:35:58] potencia y demás. Bueno,
+[00:36:01] o sea, que básicamente quedó definido en
+[00:36:03] dos partes la generación, ¿sí? Asignada
+[00:36:07] que va va a ir a abastecer
+[00:36:08] distribuidores y spot que va, digamos,
+[00:36:12] abastecer todo lo que no está asignado.
+[00:36:15] Sí.
+[00:36:17] Bueno, después casitos especiales muy
+[00:36:19] puntuales que no importa mucho de
+[00:36:21] digamos diferenciarlos, pero básicamente
+[00:36:24] eh los las centrales del fonimemén uno,
+[00:36:28] ¿sí? Timbú Timbúes, o sea, San Martín y
+[00:36:31] Belgrano, son dos ciclos combinados de
+[00:36:33] 850 megas. Hoy son propiedad de Narsa.
+[00:36:37] Esas dos centrales, propiedad de Narsa,
+[00:36:39] eh digamos como son del estado de alguna
+[00:36:42] manera, no pueden participar de este
+[00:36:44] nuevo esquema. Si bien van a vender
+[00:36:46] energía al spot, pero la van a vender a
+[00:36:48] un costo regulado, eh, porque la idea
+[00:36:51] del gobierno es privatizarlas. Entonces,
+[00:36:53] cuando se privatizen, sí van a poder
+[00:36:55] participar de nuevo esquema.
+[00:36:58] Y bueno, y ya esto de estos ciclos de la
+[00:37:02] 59 no ya ni más, así que bueno,
+[00:37:04] básicamente caso especial en
+[00:37:09] bueno vamos un poquito más de detalle.
+[00:37:11] La demanda. ¿Cómo queda estructurada la
+[00:37:13] demanda a partir de la 400? Bueno, como
+[00:37:14] dijimos recién,
+[00:37:17] demanda mem, o sea, gran demanda, sea
+[00:37:19] gumas y gumes, grandes usuarios mayores
+[00:37:21] y menores.
+[00:37:24] Y después tenemos la demanda de
+[00:37:25] distribuidor, que a su vez se divide
+[00:37:27] residencial, no residencial y goody,
+[00:37:29] ¿sí? La residencial y no residencial y
+[00:37:32] la que dijimos recién que se define como
+[00:37:33] demanda estacionalizada.
+[00:37:36] Entonces, bueno, básicamente
+[00:37:39] la demanda estacionalizada es la que se
+[00:37:42] va a abastecer con eh cómo es e
+[00:37:47] generación asignada.
+[00:37:50] Bueno, antes de entrar en ese en eso
+[00:37:55] también esto que yo les comentaba que la
+[00:37:57] ley bases modificó la ley de marco
+[00:37:59] eléctrico,
+[00:38:01] también se puso ahí que las
+[00:38:02] distribuidoras tienen una obligación de
+[00:38:04] contratación
+[00:38:06] del 75% de su demanda. Sí.
+[00:38:10] Eh, y acá vamos a decir como derivada,
+[00:38:13] se dijo que es el 75% de su demanda
+[00:38:15] estacionalizada. Sí, esa es la
+[00:38:17] obligación de contratación del
+[00:38:18] distribuidor.
+[00:38:20] Esa obligación es una obligación,
+[00:38:22] digamos, que está puesta por ley,
+[00:38:25] pero hasta ahora, en la implementación,
+[00:38:27] en las resoluciones y regulaciones que
+[00:38:29] llevan la ley a, digamos, al terreno
+[00:38:30] real de aplicación, no hay este,
+[00:38:33] digamos,
+[00:38:35] una sanción por no cumplir ese
+[00:38:37] abastecimiento a través de contratos.
+[00:38:40] Sí. Eh, entonces, bueno, un poco como
+[00:38:44] empalme, ¿sí? de de lo que dice la ley a
+[00:38:47] la a todo este nuevo mecanismo,
+[00:38:50] eh toda esta generación asignada que les
+[00:38:52] decía de recién que está costo regulado,
+[00:38:54] los hidros nacionales, binacionales,
+[00:38:55] nucleares y contratos, MEM,
+[00:38:58] ese paquete aproximadamente cubre esa
+[00:39:01] obligación de 75%. Entonces ahí hay un
+[00:39:04] macheo, digamos, entre lo que dice la
+[00:39:07] ley que te pide al distribuidor y lo que
+[00:39:10] digamos la demanda estacionalizada,
+[00:39:12] perdón, la generación asignada. eh
+[00:39:15] cubriría esa obligación, si no es tan
+[00:39:17] lineal, pero aproximadamente
+[00:39:22] todo lo que no se cubre el distribuidor
+[00:39:23] con generación este
+[00:39:26] eh, ¿cómo es? Asignada, va al spot, ¿sí?
+[00:39:30] va a haber señal de desprecio spot y
+[00:39:32] obviamente los goodies y los y la gran
+[00:39:34] demandament van a haber señales de
+[00:39:36] precio spot con la opción de todo lo que
+[00:39:38] está el spot tiene la opción de
+[00:39:40] eventualmente contratarse el nuevo el
+[00:39:42] nuevo esquema de mercado a término entre
+[00:39:45] privado.
+[00:39:48] Entonces, como decíamos, la generación,
+[00:39:49] bueno, tenemos dos grandes grupos,
+[00:39:51] generación asignada y generación spot.
+[00:39:55] ¿Qué queda de este lado de generación
+[00:39:56] asignada? Bueno, todo lo térmico con
+[00:39:58] contrato, ¿sí? Básicamente resolución
+[00:40:00] 21,
+[00:40:02] eh 220 si queda alguno y 287 son
+[00:40:05] resoluciones que fueron licitaciones
+[00:40:07] básicamente para incorporar nueva
+[00:40:09] generación. Toda esa generación tiene
+[00:40:11] contratos de abastecimiento,
+[00:40:15] todo lo renovable, plan renovar
+[00:40:17] fundamentalmente, todo lo hidráulico
+[00:40:20] eh que depende del Estado nacional, ahí
+[00:40:25] digamos son las eso incluye las
+[00:40:27] binacionales
+[00:40:29] y digamos vamos a ver que todo lo que
+[00:40:31] tiene digamos eh
+[00:40:35] nacional
+[00:40:37] con un contrato de concesión vencido.
+[00:40:40] La renovación de los contratos de
+[00:40:41] concesión establecen cláusulas
+[00:40:44] particulares. Ahora, hace poco eh habrán
+[00:40:48] escuchado que se reprivatizaron las
+[00:40:50] centrales del Comague a 30 años. Bueno,
+[00:40:53] el nuevo contrato de concesión establece
+[00:40:54] condiciones. Bueno, que dicen que una un
+[00:40:57] porcentaje de tu generación
+[00:41:00] va a seguir, digamos, a un valor
+[00:41:03] regulado. Esa esa parte, esa generación
+[00:41:06] y potencia queda dentro de generación
+[00:41:08] asignada y va a haber una parte
+[00:41:10] creciente que va a ir pasando al nuevo
+[00:41:13] esquema spot. Sí, con ese mecanismo se
+[00:41:16] privatizaron. Entonces, e básicamente,
+[00:41:20] ¿qué quiere decir? que gradualmente esas
+[00:41:22] máquinas, esas centrales nacionales del
+[00:41:24] Comague, van a ir gradualmente pasando
+[00:41:27] de un mercado asignado a costos
+[00:41:29] regulados a un mercado spot con venta de
+[00:41:32] energía al spot y eventualmente contrato
+[00:41:34] con privados.
+[00:41:37] Y todo lo que es importación también
+[00:41:39] queda del lado, todo lo que la
+[00:41:41] importación de energía que haga C mesa,
+[00:41:43] ¿sí?, en forma centralizada para
+[00:41:45] abastecer la demanda en general. También
+[00:41:48] eh tanto la energía que se se se importe
+[00:41:51] como el costo se va a destinar a la como
+[00:41:54] generación asignada.
+[00:41:58] Del lado spot, ¿qué queda? Sí, todo lo
+[00:42:00] que no está regulado, ¿sí? todo lo que
+[00:42:02] es térmico sin sin contratos de
+[00:42:04] abastecimiento MEM, todo renovable que
+[00:42:07] no tenga contrato de abastecimiento MEM,
+[00:42:09] eso incluye eh la generación renovable
+[00:42:12] matter, sí está incluida en este
+[00:42:14] paquete. Todos los hidros provinciales
+[00:42:16] pueden participar del spot, los
+[00:42:19] nacionales en función del contrato de
+[00:42:20] concesión, lo que les decía recién de
+[00:42:24] este paso gradual de las del Comague de
+[00:42:27] regulado al al spot, ¿sí?
+[00:42:29] Pero eso lo regula, digamos, de alguna
+[00:42:31] manera, cuánta proporción está puesto en
+[00:42:35] el contrato de concesión
+[00:42:38] y la importación que digamos no está
+[00:42:41] regulado, pero la resolución dice en
+[00:42:43] forma amplia que si hay importación
+[00:42:46] entre privados eso se permite y eso
+[00:42:48] participa del mercado spot. Sí, no no
+[00:42:50] está no está prohibido, no está
+[00:42:53] regulado, pero no está prohibido.
+[00:42:55] Entonces, bueno, toda la generación
+[00:42:58] asignada tiene precios regulados a
+[00:43:00] través de contratos o eh regulación
+[00:43:03] específica que dice cuánto se paga.
+[00:43:06] Todas las generaciones spot va a haber
+[00:43:08] señales de precios marginales, horarios,
+[00:43:10] ¿sí?,
+[00:43:11] con rentas acotadas y demás y un pago de
+[00:43:14] potencia por inspirado de equipo. Sí, es
+[00:43:16] serían los dos grandes esquemas de eh
+[00:43:19] remuneración a cada tipo de generación.
+[00:43:23] Bueno, esto ya creo que ya lo repetimos,
+[00:43:25] pero un poquito más de detalle qué
+[00:43:27] dentro de lo térmico, que dentro de lo
+[00:43:29] hidro, pero básicamente todo este este
+[00:43:32] esquema regulado se lo importante del
+[00:43:36] concepto es que se remuneran a través de
+[00:43:39] un una
+[00:43:41] regulación específica. Sí, dicen cuánto
+[00:43:44] ganan por su producción de energía,
+[00:43:46] cuánto ganan por su potencia disponible,
+[00:43:48] pero a través de un contrato o a través
+[00:43:51] de una regulación que dice esto tiene
+[00:43:53] que ganar tanta plata. Sí. Entonces,
+[00:43:55] bueno, todos esos no participan del
+[00:43:57] mercado spot.
+[00:44:01] Y bueno, y el el mercado spot que
+[00:44:03] básicamente toda la generación vieja sin
+[00:44:05] contrato, lo renovad sin contrato, como
+[00:44:06] dijimos recién, que s yo, bueno, todo
+[00:44:08] ese paquete eh va a haber señales de
+[00:44:11] precio spot. Sí. precios marginales y
+[00:44:14] premulación de costo fijo.
+[00:44:16] Bueno, ¿cómo cómo se vinculan los dos
+[00:44:18] mundos, ¿no es cierto? Tenemos por un
+[00:44:19] lado la demanda y por otro lado la
+[00:44:21] oferta de generación.
+[00:44:24] Entonces, bueno, acá la idea está medio
+[00:44:25] apilado de abajo hacia arriba
+[00:44:29] y lo mismo la generación, ¿sí?
+[00:44:31] Entendiendo de abajo hacia arriba, pero
+[00:44:32] bueno, primero lo residencial, lo no
+[00:44:34] residencial, el goodi y la demanda
+[00:44:37] mayorista, o sea, la gran demanda de
+[00:44:40] grandes usuarios del mem.
+[00:44:43] En ese ordenamiento, digamos, de de más
+[00:44:45] chico más grande, vamos a decir de
+[00:44:47] alguna manera, está la demanda de
+[00:44:49] distribuidor, que es la estacionalizada,
+[00:44:52] que es residencial y no residencial
+[00:44:55] y de enfrente tenemos la oferta de
+[00:44:57] energía y potencia de generación
+[00:45:00] asignada que es a costo regulado, y
+[00:45:03] después viene la generación que no está
+[00:45:05] regulada que va a estar en el nuevo
+[00:45:06] mercado spot. Sí. Y bueno, ¿cómo se
+[00:45:08] machean uno con otro? Bueno,
+[00:45:11] la demanda estacional del estacionar de
+[00:45:14] estacionalizada del distribuidor va a
+[00:45:16] haber,
+[00:45:18] digamos, dos precios.
+[00:45:21] Primero, la demanda residencial va a
+[00:45:23] haber costo generación asignada.
+[00:45:25] Entonces, como esta generación asignada
+[00:45:26] prácticamente
+[00:45:28] o casi siempre cubre la demanda
+[00:45:31] residencial,
+[00:45:34] esta demanda residencial, ¿qué precio va
+[00:45:35] a haber? Bueno, el precio estacional que
+[00:45:37] refleja el costo de esa generación
+[00:45:39] asignada.
+[00:45:42] La demanda no residencial que también
+[00:45:44] tiene un precio estacional. Bueno, como
+[00:45:46] esta generación asignada no alcanza a
+[00:45:48] cubrir toda esa demanda no residencial,
+[00:45:50] si vamos a decir la demanda comercial,
+[00:45:51] para decir de alguna manera,
+[00:45:54] esa demanda comercial, no residencial va
+[00:45:56] a haber un mix de precio que va a
+[00:45:58] reflejar a través de un precio
+[00:46:00] estacional dos costos. Sí, el costo de
+[00:46:03] la de la generación asignada que alcanza
+[00:46:05] a cubrir y una parte de precio spot o de
+[00:46:10] costo del sistema spot que digamos a
+[00:46:13] través de una proyección que hace camesa
+[00:46:15] estima cuándo va a salir ese ese esa
+[00:46:18] energía abastecida al spot. Entonces el
+[00:46:21] la demanda, digamos, del distribuidor va
+[00:46:24] a haber por la parte no residencial un
+[00:46:27] mix de precio que refleja una parte de
+[00:46:29] costo spot y una parte de generación
+[00:46:31] asignada.
+[00:46:34] Y después tenemos los goodies, que
+[00:46:35] también son del distribuidor. A través
+[00:46:37] de un precio estacional va a haber
+[00:46:39] solamente costo de señales. Sport. A su
+[00:46:42] vez el good y a través de esta
+[00:46:44] resolución 976 a ese precio estacional
+[00:46:46] se le hace los ajustes mensuales para
+[00:46:49] equipararlo o que realmente vean cada
+[00:46:51] mes el costo spot real en cada digamos
+[00:46:54] en cada sancionado en cada mes.
+[00:46:58] Y este la gran demanda de mayoristas o
+[00:47:00] sea Gumas y Goodies a través de un
+[00:47:02] precio libre en precio spot sancionado
+[00:47:04] mensualmente van a ver solamente mercado
+[00:47:07] spot.
+[00:47:09] Todo esto que está el spot, ya goodis,
+[00:47:13] demanda no residencial no cubierta, eh
+[00:47:15] demanda goodis y demanda
+[00:47:18] gumas y gumes, toda esa demanda que ve
+[00:47:22] precio spot puede contratarse. Sí, puede
+[00:47:25] establecer, digamos, su contratar su
+[00:47:27] energía y su potencia como especies
+[00:47:30] distintas, o sea, por lado energía y por
+[00:47:31] otro lado potencia, contratarse,
+[00:47:34] digamos, con esos generadores del spot
+[00:47:35] que deciden en vez de vender energía al
+[00:47:38] spot, la vendo en un contrato. Entonces,
+[00:47:41] digamos, de alguna manera, esos dos
+[00:47:44] tipos de demanda eh, digamos, tienen su
+[00:47:47] contraparte con el mercado a término.
+[00:47:49] Sí, todo lo que está en spot puede
+[00:47:50] contratarse.
+[00:48:00] Bueno, un poco acá un dibujito de cómo
+[00:48:03] es la cobertura, digamos, de esa,
+[00:48:05] digamos, acá es demanda de
+[00:48:08] distribuidores, tenemos, digamos,
+[00:48:10] demanda residencial y no residencial, o
+[00:48:12] sea, acá en una especie de naranja más
+[00:48:15] oscuro y un
+[00:48:17] marroncito, algo así más claro, están
+[00:48:21] apiladas mes por mes históricamente las
+[00:48:23] demandas de residencial y no
+[00:48:24] residencial. Y acá en azul con puntitos
+[00:48:28] está eh
+[00:48:31] toda la historia de la generación que se
+[00:48:34] que la definimos como asignada. ¿Sí?
+[00:48:36] Entonces, bueno, en general
+[00:48:38] eh digamos es la generación, la demanda
+[00:48:40] residencial es cubierta por esa
+[00:48:42] generación asignada, pero bueno, hay un
+[00:48:46] una parte de la generación de la
+[00:48:48] demanda, perdón, no residencial, la
+[00:48:51] demanda intermedia que no alcanza a
+[00:48:54] cubrirse, o sea, siempre ve algo de
+[00:48:56] spot.
+[00:49:02] Bueno, entonces definimos
+[00:49:07] eh cómo es la demanda, cómo se
+[00:49:09] caracteriza la demanda, cómo se
+[00:49:11] caracteriza la generación, cómo puede
+[00:49:13] cómo se vinculan a través de precios la
+[00:49:15] demanda y la generación
+[00:49:17] y cómo y dijimos que todo lo que está al
+[00:49:19] spot puede contratarse. ¿Sí? Entonces,
+[00:49:21] ese es, vamos a decir, el mecanismo
+[00:49:23] general de de de
+[00:49:28] tipos de generación demanda y
+[00:49:30] vinculación de precios entre cada uno.
+[00:49:35] Ahora vamos ya puntualmente a eh digamos
+[00:49:39] a la generación, cómo le cómo se va a
+[00:49:41] remunerar la generación, ¿sí? Entonces,
+[00:49:43] bueno,
+[00:49:45] nuestra de nuestro generación total
+[00:49:48] alrededor de un, o sea, mejor dicho,
+[00:49:49] perdón, de nuestro abastecimiento total
+[00:49:52] de demanda alrededor de un 70% en
+[00:49:54] promedio, 65 70% es a través de
+[00:49:59] generación térmica, ¿sí? Generación que
+[00:50:01] necesita un combustible,
+[00:50:03] ya sea un combustible digamos eh digamos
+[00:50:07] no renovable para producir energía. Sí.
+[00:50:11] Eh, entonces, bueno, el combustible
+[00:50:14] obviamente tiene un costo, un costo
+[00:50:16] digamos que
+[00:50:19] que hay que remunerar y eh digamos
+[00:50:23] para que esto funcione, esa remuneración
+[00:50:26] y las señales de precios para esa
+[00:50:27] autogestión del combustible tiene que
+[00:50:29] ser suficiente para que digamos al final
+[00:50:32] del, es decir, al final del día cuando
+[00:50:35] uno llama un generador, o sea, mesa
+[00:50:38] manda a despachar un generador térmico,
+[00:50:40] el generador tenga, digamos, ese
+[00:50:42] combustible disponible y lo use para
+[00:50:44] generar en tiempo y forma. ¿Sí?
+[00:50:46] Entonces, las señales de precios tienen
+[00:50:48] que ser adecuadas para que ese
+[00:50:50] generador, digamos, haga esa gestión
+[00:50:53] autónoma de combustible y digamos que
+[00:50:56] originalmente o mejor dicho antes del
+[00:50:58] digamos de la 400 la hacía camisa.
+[00:51:00] Bueno, que la tome el generador y que
+[00:51:02] esas señales de precio existan para que
+[00:51:04] esa gestión exista. Si vos no das
+[00:51:06] señales de precios a que vas a pagar ese
+[00:51:08] combustible con su costo asociado y con
+[00:51:11] su, vamos a decir, costo financiero y
+[00:51:13] logístico asociado, si no no remuneras
+[00:51:15] adecuadamente eso, eh los generadores no
+[00:51:18] van a hacer la gestión. ¿Sí? Entonces,
+[00:51:20] bueno, de alguna manera todo el
+[00:51:22] mecanismo de precios tienen que
+[00:51:25] garantizar que esa gestión exista.
+[00:51:26] Obviamente
+[00:51:28] esa gestión tiene que ser una gestión
+[00:51:29] eficiente
+[00:51:31] y la remuneración de autocbustible va a
+[00:51:33] estar asociada a tu eficiencia para
+[00:51:35] conseguirlo, venderlo a un costo
+[00:51:37] razonable y digamos y tú y seas
+[00:51:41] despachado. O sea, el despacho de la
+[00:51:43] energía siempre es por costo de menor
+[00:51:45] costo mayor costo. Si vos te gestionas
+[00:51:47] en forma cara de alguna manera el
+[00:51:49] combustible, conseguís combustible fuera
+[00:51:51] de costo o mejor dicho más caro que el
+[00:51:54] real o tu logística es muy cara cuando
+[00:51:56] vos declares tu CBP, tu costo de
+[00:51:58] producción donde implícitamente
+[00:52:01] recuperás es todo ese costo, esa
+[00:52:03] logística de combustible, si sos muy
+[00:52:05] caro, vas a declarar un CBP caro y
+[00:52:07] cuando tengas que tengas que despachar
+[00:52:10] va a ser más caro que otro. Entonces, eh
+[00:52:14] en el despacho vas a ser desplazado por
+[00:52:15] otro más eficiente. Entonces, por más
+[00:52:18] que hayas comprado el combustible, no
+[00:52:19] los vas a poder utilizar porque no te
+[00:52:20] despacha. Entonces, bueno, de alguna
+[00:52:22] manera, eh, digamos, las señales de
+[00:52:25] precio están para pagar ese ese
+[00:52:28] combustible, pero también hay una señal
+[00:52:29] de la eficiencia. O sea, si vos sos muy
+[00:52:31] caro, eh, no vas a ser despachado.
+[00:52:36] Entonces, bueno,
+[00:52:38] eh, todo eso que comenté recién es la
+[00:52:40] lógica de la gestión de combustible. Sí,
+[00:52:44] vos eh gestion de combustible, esa
+[00:52:48] gestión de combustible autónoma te
+[00:52:50] permite vender energía en el mercado
+[00:52:52] spot nuevo, te permite eventualmente
+[00:52:54] acceder a rentas, ¿sí? Aparte de
+[00:52:57] recuperar tu costo, accedes a una renta
+[00:52:58] por esa gestión que va a estar esa renta
+[00:53:01] va a estar asociada a tu eficiencia.
+[00:53:03] Porque le decimos, o sea, a qué le
+[00:53:05] decimos renta en un sistema marginal.
+[00:53:09] En un sistema marginalista vos tenés que
+[00:53:11] el costo de la energía la fija la última
+[00:53:13] máquina que es despachada, la más cara,
+[00:53:15] siempre vas despachando de más barato,
+[00:53:16] más caro.
+[00:53:18] Entonces, una máquina que es más más
+[00:53:20] eficiente, más barata con su costo de
+[00:53:22] producción respecto a ese a esa última
+[00:53:24] máquina despachada, la diferencia entre
+[00:53:26] su costo y ese costo marginal, le
+[00:53:30] decimos que es la renta posible que
+[00:53:31] tiene esa máquina.
+[00:53:33] Entonces,
+[00:53:35] eh si vos participas de este nuevo
+[00:53:37] esquema, gestionas tu combustible, podés
+[00:53:40] acceder a esa renta de diferencia entre
+[00:53:42] tu costo y y el costo marginal que se
+[00:53:44] está produciendo en la hora. Y eso sería
+[00:53:46] tu señal de precio para ser eficiente. O
+[00:53:48] sea, más eficiente sos, más te
+[00:53:50] despachan,
+[00:53:52] eh, y ves ese esa posible renta contra
+[00:53:55] una máquina más cara.
+[00:53:58] Eh, entonces, bueno, si gestionas el
+[00:54:00] combustible, vas a acceder a este
+[00:54:02] esquema de rentas. Vos como generador
+[00:54:04] tenés la opción de decir, "Yo no me
+[00:54:05] gestiono el combustible, ¿sí? Eh, quiero
+[00:54:08] seguir como venía. Que Camesa me dé el
+[00:54:09] combustible para funcionar." Bueno, eso
+[00:54:12] puede suceder, está como opción, pero no
+[00:54:16] tenés renta. Sí, digamos, vas a producir
+[00:54:19] energía cuando Camesa te pida, Camesa te
+[00:54:22] va a dar el combustible, pero solamente
+[00:54:24] se te va a pagar un concepto de
+[00:54:26] operación y mantenimiento en esa hora
+[00:54:28] que tuviste que producir energía. Sí, no
+[00:54:30] se obviamente el combustible como lo
+[00:54:31] pones camesa, no se te reconoce y no
+[00:54:34] tenés renta posible contra una máquina
+[00:54:36] eh más cara.
+[00:54:40] El pago de potencia también se ve
+[00:54:41] restringido, o sea, si vos no gestionas
+[00:54:43] el combustible, el pago de potencia, que
+[00:54:45] es independiente de que vos generés o no
+[00:54:48] generés, vas a recibir un pago de
+[00:54:50] potencia,
+[00:54:51] eh, ese pago de potencia se va a ver
+[00:54:53] mermado, ¿sí? Si no gestionar el
+[00:54:55] combustible, ¿sí?
+[00:54:58] Y va ese esa merma en el pago va a ser
+[00:55:02] más agresiva en el tiempo. O sea,
+[00:55:04] hoy por hoy, digamos, en el 2026, si vos
+[00:55:08] no gestionas el combustible y no estás
+[00:55:10] generando, se te paga un 80% de la
+[00:55:12] potencia que cobrarías si te gestionar
+[00:55:14] el combustible.
+[00:55:17] En el 2027 ese pago de potencia va a ser
+[00:55:19] el 40% de lo que se te pagaría si
+[00:55:22] gestionara el combustible
+[00:55:24] y en el 2028 va a ser cero. O sea, si no
+[00:55:27] gestionas no vas a cobrar potencia. ¿Sí?
+[00:55:30] O sea, que es bastante agresivo el
+[00:55:31] esquema de de pago de potencia para dar
+[00:55:33] señales a la gestión de combustible.
+[00:55:37] Bueno, y por último, si no gestionas el
+[00:55:39] combustible, no podés participar en el
+[00:55:41] mercado de término, o sea, no podés
+[00:55:43] vender energía ni potencia en el
+[00:55:45] mercado.
+[00:55:45] Pusiste el presente, sí,
+[00:55:50] hay una pregunta o una digamos, bueno,
+[00:55:53] acuérdense que pueden preguntar cuando
+[00:55:55] quieran, eh, no hay problema de
+[00:55:56] interrumpir.
+[00:55:59] Entonces, bueno, combustibles
+[00:56:01] eh digamos que es un tema importante
+[00:56:04] porque si no está no no podemos este
+[00:56:06] digamos producir energía suficiente.
+[00:56:10] Tenemos dos grandes tipos, gas natural y
+[00:56:13] combustibles alternativos.
+[00:56:16] El gas natural tiene, como decíamos al
+[00:56:18] principio, el gas gas este, digamos,
+[00:56:22] para todo este nuevo esquema de rentas y
+[00:56:25] señales marginales y demás, vos tenés
+[00:56:27] que gestionarte el combustible, pero hay
+[00:56:28] el combustible fundamental que es el gas
+[00:56:31] natural. Teníamos, como decíamos hace un
+[00:56:33] rato, el plan gas. Sí, el plan gas es le
+[00:56:37] obliga a Camesa y a Narsa a tomar un
+[00:56:39] volumen de combustible mínimo. Sí. Si
+[00:56:42] no, tiene que pagarlo igual. Ese plan
+[00:56:45] gas tiene suficiente gas para la mayor
+[00:56:48] cantidad del tiempo
+[00:56:50] de lo que el sistema eléctrico necesita.
+[00:56:52] Sí, ese mínimo, ese take or, ese tomar o
+[00:56:55] pagar por ese volumen de gas del plan
+[00:56:58] gas.
+[00:57:01] Eh, digamos, es muy grande ese volumen y
+[00:57:05] de alguna manera es suficiente para que
+[00:57:08] para todo lo que necesitamos en la mayor
+[00:57:10] cantidad del tiempo de de gas para la
+[00:57:13] energía eléctrica total. Entonces, como
+[00:57:15] lo tenés que usar y Camesa lo gestiona,
+[00:57:18] no hay posibilidad real de una gestión
+[00:57:20] propia del generador.
+[00:57:22] Entonces, eso rompía con la lógica de
+[00:57:24] que tenés que gestionarte el
+[00:57:26] combustible. si no lo gestionas este no
+[00:57:28] tenés renta, no cobras potencia.
+[00:57:30] Entonces, bueno, como una restricción
+[00:57:32] inicial, ese plan gas dura hasta fin de
+[00:57:35] del 2028.
+[00:57:37] se hizo un eufemismo decir, bueno,
+[00:57:40] atendiendo a que no podés gestionarte el
+[00:57:43] combustible porque primero hay que usar
+[00:57:44] el gas que toma camisa con el plan gas,
+[00:57:47] vamos a hacer una una ficción de que ese
+[00:57:50] ese existe una gestión igual del
+[00:57:53] generador que dice, "Bueno, yo le compro
+[00:57:55] el gas a mesa y esa compra de gas es
+[00:57:57] como si fuera una gestión autónoma y te
+[00:58:00] permito este participar de todo este
+[00:58:03] esquema nuevo de rentas y de de pago de
+[00:58:05] potencia. y de vender energía al mercado
+[00:58:07] a término. Entonces, de alguna manera se
+[00:58:09] hizo un parche ahí, una transición de
+[00:58:12] que mientras esté el plan gas que lo
+[00:58:14] gestiona camesa, igualmente todo
+[00:58:18] generador que esté usando ese gas de
+[00:58:20] plan gas administrado por camisa se
+[00:58:22] considera gestión autónoma o gestión
+[00:58:24] propia de combustible y participa del
+[00:58:26] nuevo esquema.
+[00:58:28] tiene unas desventajas porque paga menos
+[00:58:30] renta todavía si usa ese gas y de alguna
+[00:58:34] manera eh digamos
+[00:58:37] eh
+[00:58:39] es un parche para poder hacer, digamos o
+[00:58:42] simular que es un sistema nuevo con un
+[00:58:44] esquema vigente.
+[00:58:48] Pero bueno, también se dio la opción de
+[00:58:50] que el productor de gas que está en el
+[00:58:52] plan gas pueda retirar volumen de ese
+[00:58:54] plan gas, decir, bueno, yo me este este
+[00:58:57] contrato de plan gas lo desarmo
+[00:59:00] y yo por mi cuenta sí le vendo a un
+[00:59:02] generador privado mi producción de gas
+[00:59:05] con los plazos, costos y condiciones que
+[00:59:07] yo acuerde con el privado. Sí, eso se
+[00:59:10] llamó gas retirado.
+[00:59:13] Entonces, ¿qué significa eso? Bueno, un
+[00:59:14] productor de Plan Gas que tiene un
+[00:59:15] contrato que se termina a fin del 202,
+[00:59:18] del 2028,
+[00:59:20] que tiene buenas ventajas porque tiene
+[00:59:22] un Tor pay para, digamos, para el
+[00:59:26] para el que le compra, tiene digamos
+[00:59:28] este un precio asegurado, pero ¿qué
+[00:59:30] pasa? Todo ese sistema se desarma o se
+[00:59:33] termina a fin del 29, o sea, que a
+[00:59:36] partir de enero del, perdón, fin del
+[00:59:39] 2028, o sea, que a partir de enero del
+[00:59:42] 2029 ese productor va a tener que ir a
+[00:59:45] vender, o sea, eh esa ese gas que tiene
+[00:59:49] propio
+[00:59:51] en un sistema totalmente libre, sin
+[00:59:53] digamos sin el plan gas de salvavida o
+[00:59:55] mejor dicho de salvavida de de red de
+[00:59:57] contención que le aseguraba un precio.
+[01:00:01] Entonces, bueno, un productor de gas
+[01:00:04] puede decir, bueno, yo como no quiero,
+[01:00:06] digamos esperar hasta esa fecha
+[01:00:10] a buscarme un cliente y demás,
+[01:00:13] puedo anticipadamente
+[01:00:15] acordar con un con un generador por tal
+[01:00:20] vez condiciones de otro precio a más
+[01:00:21] años y demás para que ese generador me
+[01:00:24] tome miss. ¿Sí? Entonces, de alguna
+[01:00:26] manera se abrió esa puerta. Hoy,
+[01:00:29] digamos, esa esa opción le hay un
+[01:00:32] generador, digamos, solamente la tomó
+[01:00:34] Pampa Energía, se digamos se llevó los
+[01:00:37] volúmenes de de digamos de de gas, del
+[01:00:40] plan gas que tenía y está haciendo su
+[01:00:42] propia gestión de de de ese de ese
+[01:00:45] producto.
+[01:00:46] Pero bueno, esa opción está abierta, es
+[01:00:49] difícil de tomar para el productor
+[01:00:50] porque es de salir de un sistema que
+[01:00:53] tiene garantía de tomarse y demás a un
+[01:00:55] precio regulado, a un sistema, digamos,
+[01:00:59] más libre con con contra un privado que
+[01:01:02] le tome ese combustible.
+[01:01:05] Pero bueno, ese riesgo tiene la ventaja
+[01:01:07] de que tal vez el que salga primero, el
+[01:01:09] que salga primero del plan gas
+[01:01:12] eventualmente consiga mejores clientes.
+[01:01:15] Los mejores clientes del plan gas son
+[01:01:17] básicamente los ciclos combinados. Sí,
+[01:01:19] los ciclos combinados son máquinas
+[01:01:20] térmicas eficientes que con son,
+[01:01:23] digamos, de mucho volumen de de consumo
+[01:01:25] de gas. como son eficientes, tienen
+[01:01:27] mucho despacho, o sea, usan mucho gas
+[01:01:29] plano durante todo el año y qué es mejor
+[01:01:32] para un productor de gas que venderle
+[01:01:33] alguien que use su gas de forma plana.
+[01:01:36] Entonces, eh de alguna manera eh los
+[01:01:40] mejores clientes son los ciclos
+[01:01:42] combinados
+[01:01:43] y eventualmente el que se quede con ese
+[01:01:47] cliente podrá garantizar seguir
+[01:01:50] vendiendo gas más allá del de de la
+[01:01:53] finalización del plan gas. Y bueno, un
+[01:01:55] poco digamos algunas señales a salir del
+[01:01:59] plan gas están, pero bueno, de alguna
+[01:02:01] manera
+[01:02:03] todavía los riesgos este para para el
+[01:02:07] productor de gas es como que no
+[01:02:10] no ven más riesgo que beneficio y
+[01:02:13] todavía no han salido eh vamos a decir
+[01:02:15] mayoritariamente de ese sistema. Sí,
+[01:02:17] salió el que está más integrado, o sea,
+[01:02:20] Pampa Energía tiene producción de gas y
+[01:02:23] tiene centrales de generación eléctrica
+[01:02:25] y muchas de ellas de ciclo combinado.
+[01:02:27] Entonces, de alguna manera, eh digamos
+[01:02:30] tiene la producción y tiene su y es
+[01:02:33] cliente propio, entonces
+[01:02:36] eh de alguna manera está más seguro de
+[01:02:38] salir porque la digamos
+[01:02:40] tiene dónde meter ese gas que sacó del
+[01:02:42] plan gas.
+[01:02:44] Pero bueno, entonces de alguna manera,
+[01:02:46] como decíamos,
+[01:02:49] está el plan gas, es mucho gas, Camesa
+[01:02:51] lo gestiona, se los da las centrales,
+[01:02:54] pero ese mecanismo
+[01:02:57] se simula como si fuera efectivamente
+[01:03:00] una gestión autónoma de combustible.
+[01:03:02] accede a renta del generador más acotada
+[01:03:05] que si fuera gas 100% privado, 100%
+[01:03:08] propio, pero accede a rentas y puede
+[01:03:11] contratarse.
+[01:03:12] Mientras que los combustibles
+[01:03:13] alternativos la obligación es total, o
+[01:03:15] sea, tenés que gestionar este
+[01:03:16] combustible alternativo. Si no, no
+[01:03:18] cobrás o cobras potencia en forma
+[01:03:20] acotada, no tenés renta y no puedes
+[01:03:23] vender energía de contratos.
+[01:03:26] Bueno, un poquito ya lo comentamos
+[01:03:27] recién, que es el gas acuerdo, que sería
+[01:03:29] el gas acuerdo es el nombre que le
+[01:03:31] pusimos o que le puso la Secretaría de
+[01:03:33] Energía
+[01:03:35] a este esquema de plan gas. Sí, todo el
+[01:03:38] que todo ese esquema de plan gas se
+[01:03:40] llamó gas acuerdo y es lo que gestiona
+[01:03:43] Camesa y Enarsa en forma centralizada
+[01:03:46] eh con los productores de gas y lo
+[01:03:48] destina a producción de energía
+[01:03:49] eléctrica.
+[01:03:51] Simplemente como un adicional ese ese
+[01:03:53] plan gas aparte o ese gas acuerdo que
+[01:03:56] tiene plan gas aparte tiene la
+[01:03:58] importación de GNL que haga camesa oarza
+[01:04:01] en forma centralizada. Entonces ese es
+[01:04:03] el gas acuerdo.
+[01:04:05] Gas retirado, el que se fue de plan gas
+[01:04:08] que le ponía como ejemplo pampa energía
+[01:04:11] y gas local propio. Es un gas que
+[01:04:14] eh ya de por sí es 100% libre. un
+[01:04:16] generador puede gestionar ese ese
+[01:04:20] eh en forma autónoma ese gas, pero ese
+[01:04:21] gas local propio solamente se usa una
+[01:04:24] vez que usaste el gas de acuerdo y
+[01:04:26] usaste el gas retirado.
+[01:04:28] Una vez que usaste esos dos gases que
+[01:04:30] son,
+[01:04:32] vamos a decir, de plan gas que tienen
+[01:04:34] Takeor Pay por un volumen determinado,
+[01:04:37] una vez que usaste ese Takeor Pay de
+[01:04:38] plan gas, si aún el sistema eléctrico
+[01:04:41] necesita más gas para funcionar, bueno,
+[01:04:43] ahí viene el gas local propio, que ese
+[01:04:46] sí tiene gestión 100% autónoma de un
+[01:04:48] generador con el productor de gas.
+[01:04:53] Bueno, acá simplemente como en
+[01:04:56] comentario para no extendernos tanto con
+[01:04:58] con con este tema es que bueno,
+[01:05:00] obviamente el comb el gas natural, que
+[01:05:02] es el combustible fundamental
+[01:05:04] no solamente hace falta del producto,
+[01:05:06] sino que hace falta el transporte. Sí,
+[01:05:08] el transporte de gas es digamos es el
+[01:05:11] cuello de botella de alguna manera de
+[01:05:14] digamos de del esquema de del sistema de
+[01:05:18] gas porque si tuviéramos transporte
+[01:05:20] suficiente para todo el gas que está en
+[01:05:21] vaca muerta e no usaríamos jamás
+[01:05:24] combustible alternativo, ni tuviéramos
+[01:05:26] que importar GNL ni tuviéramos que usar
+[01:05:29] gasol que es muchísimo más caro para
+[01:05:32] generar energía eléctrica. O sea, ¿por
+[01:05:34] qué? Cuando no tenemos gas natural,
+[01:05:36] reemplazamos e y esto es
+[01:05:38] fundamentalmente en invierno,
+[01:05:40] reemplazamos con dos cosas ese gas
+[01:05:41] natural que no tenemos, con GNL, que es
+[01:05:46] sale tres o cuatro veces más caro que el
+[01:05:48] gas local
+[01:05:50] y con gasil. Sí,
+[01:05:53] obviamente eh esos dos combustibles son
+[01:05:56] muchísimo más caros que el gas local
+[01:05:57] propio, entonces encarece todo el
+[01:06:00] sistema eléctrico en en invierno
+[01:06:02] fundamentalmente
+[01:06:03] y eh si hubiera transporte suficiente
+[01:06:06] para todo el gas que se necesita de
+[01:06:08] alguna manera siempre usaríamos gas
+[01:06:10] natural.
+[01:06:11] Pero bueno, eh obviamente los gasoductos
+[01:06:14] construirlo cuesta mucho dinero, lo
+[01:06:16] tiene que pagar e y también tener eh
+[01:06:21] digamos transporte de gas ocioso, que
+[01:06:24] sería para todo el sistema fuera de
+[01:06:26] invierno, también tiene un costo porque
+[01:06:28] es un transporte de gas que usas muy
+[01:06:30] poco tiempo y de alguna manera tenés que
+[01:06:33] recuperar ese costo durante poco tiempo
+[01:06:34] porque durante el resto del año te sobra
+[01:06:37] transporte. Entonces, bueno, ¿qué quiero
+[01:06:40] decir?
+[01:06:41] Hay ahí un punto óptimo en tener mucho
+[01:06:44] transporte de gas para todo el año y
+[01:06:46] eventualmente
+[01:06:48] no construir transporte de gas porque es
+[01:06:49] un capital,
+[01:06:51] digamos, a invertir muy alto que
+[01:06:55] solamente lo usas por poco tiempo y eh
+[01:06:59] lo puedes sustituir con algo que si
+[01:07:01] viene más caro puntualmente
+[01:07:03] visto en forma global en toda la
+[01:07:05] inversión de un gasoducto nuevo es mucho
+[01:07:08] más barato. Entonces, bueno, ese mix,
+[01:07:10] digamos, e
+[01:07:13] de alguna manera
+[01:07:16] siempre el estado lo hizo en forma
+[01:07:17] centralizada en su momento. Eh, ¿cómo
+[01:07:20] es? Eh,
+[01:07:23] ¿cómo era? Me sale el litoral gas, pero
+[01:07:26] en la empresa de gas de nación, ¿cómo
+[01:07:27] era? E
+[01:07:30] se me fue el nombre.
+[01:07:32] El equivalente agua de energía era,
+[01:07:34] digamos, una o IPF, era ¿cómo era?
+[01:07:38] Bueno, se me fue el nombre. Eh, la
+[01:07:41] empresa de gas que construyó los
+[01:07:42] gasoductos y demás, que que de alguna
+[01:07:44] manera hizo en forma centralizada todos
+[01:07:47] esos gasoductos a costo del estado para
+[01:07:49] el desarrollo, digamos así. Después
+[01:07:52] otros gasoductos también se hicieron.
+[01:07:55] Eh, no, Argas es el regulador. E
+[01:07:58] no era SEGBA.
+[01:08:00] Segba era la empresa de energía
+[01:08:01] eléctrica de Gran Buenos Aires.
+[01:08:03] G del estado, ¿no? Era
+[01:08:04] G del estado. Ahí está. al estado, el
+[01:08:06] estado fue el que hizo los gasoductos y
+[01:08:07] demás y que hizo toda la gestión de gas
+[01:08:10] básicamente con como se hacían las
+[01:08:11] empresas del Estado, ¿no es cierto? Con
+[01:08:12] inversión nacional, eh con un objetivo
+[01:08:16] desarrollos y demás.
+[01:08:19] en el interí, el otro gran obra del de
+[01:08:21] gasoducto que se hizo fue el gasoducto
+[01:08:23] Néstor Kinner originalmente, después
+[01:08:26] ahora Perito Moreno, que también fue con
+[01:08:28] inmersión del estado, que sirvió para de
+[01:08:31] alguna manera poder sacar todo el gas
+[01:08:33] que está en vaca muerta en forma
+[01:08:35] parcial. Sí, todavía hace falta más caso
+[01:08:38] duucto. Sí, pero bueno, el perito moreno
+[01:08:40] sin duda fue un un hito muy importante
+[01:08:43] porque sustituyó muchísimo combustible
+[01:08:46] alternativo
+[01:08:48] y
+[01:08:49] disponibilizó mucho más gas para el
+[01:08:51] sistema durante todo el año y
+[01:08:53] fundamentalmente en invierno, pero no
+[01:08:56] alcanza, o sea, siempre hace falta un
+[01:08:57] poco más. Pero bueno, ¿qué quiero decir?
+[01:08:59] Todas esas inversiones fueron
+[01:09:00] centralizadas. Hoy por hoy con el nuevo
+[01:09:03] mecanismo está pensado que bueno, esas
+[01:09:05] inversiones nuevas siempre hay que ver
+[01:09:08] cómo funciona, pero sean a cargo de eh
+[01:09:12] el privado, ¿sí? que las señales de
+[01:09:15] precios que existan, digamos, para el
+[01:09:18] gas natural, ya sea para exportarlo a
+[01:09:20] países vecinos o transformarlo en GNL o
+[01:09:24] usarlo en la industria, digamos, en los
+[01:09:27] picos de invierno,
+[01:09:29] bueno, que esas señales, esas esos
+[01:09:30] posibles negocios viabilicen eh obras
+[01:09:34] nuevas de transporte. De hecho, el
+[01:09:37] perito Moreno se va a repotenciar. Ahora
+[01:09:40] se está ya esa obra está lanzada a cargo
+[01:09:43] de
+[01:09:45] de cómo es de
+[01:09:49] e cómo es
+[01:09:53] ay se me fue el nombre
+[01:09:56] de la transportadora de gas del sur TGS
+[01:09:58] e que bueno que que va a ampliar el
+[01:10:02] gasoducto que que no es tanto físico,
+[01:10:04] sino que son e es físico, pero no tanto
+[01:10:08] caño, sino que son plantas compresoras
+[01:10:10] adicionales en distintos puntos de de
+[01:10:13] del perito moreno que van a poder meter
+[01:10:16] más gas ahí en digamos en ese gasoducto.
+[01:10:19] Esa obra en teoría está financiada
+[01:10:22] fundamentalmente por actores privados, o
+[01:10:25] sea, tanto la digamos
+[01:10:28] en la tarifa de gas de usuelo final que
+[01:10:30] va a tener que pagar un poco más por ese
+[01:10:32] gas que que que va a consumir, pero
+[01:10:36] también por generadores eléctricos que
+[01:10:38] se presentaron en esa
+[01:10:41] a esa digamos a esa ampliación y van a
+[01:10:43] en teoría hacerse cargo de usar ese gas
+[01:10:46] que pase por ahí, ese gas adicional o
+[01:10:48] ese gas increment ental que esté pasando
+[01:10:50] por ahí y e cómo es eh digamos con esa
+[01:10:55] ese acuerdo de uso de gas o de uso de
+[01:10:58] producto están pagando esa ampliación,
+[01:11:00] ¿sí? O sea, que bueno, de alguna manera,
+[01:11:03] si bien no es un gasoducto 100% nuevo,
+[01:11:06] es una una optimización de gasoductos
+[01:11:09] existente, pero bueno, de alguna manera
+[01:11:12] eh hay señales de digamos de que puede
+[01:11:15] llegar a funcionar ese negocio de GNL.
+[01:11:18] Ojo, no solo acotado al mundo eléctrico
+[01:11:20] o gas para
+[01:11:23] para cómo es, para abastecimiento de
+[01:11:25] centrales eléctricas, sino que también
+[01:11:27] complementado con otros esquemas de
+[01:11:29] exportación de gas. Pero bueno, eso es
+[01:11:32] otro tema
+[01:11:34] para el alternativo. Bueno, la gestiones
+[01:11:36] 100% obligatoria de de digamos del del
+[01:11:40] generador. ¿Cuáles son los gases
+[01:11:42] alternativos que les decimos nosotros?
+[01:11:43] Bueno, gasoil, fueloil, carbón y GNL
+[01:11:47] importado.
+[01:11:49] Eh, o también gas, o sea, gases de
+[01:11:51] Bolivia también es un es un gas
+[01:11:52] importado que también puede haber
+[01:11:54] gestión autónoma de ese gas. IG GNL es
+[01:11:57] el gas que viene por barco, que se
+[01:11:59] regasifica y se inyecta la red. le
+[01:12:01] decimos alternativos, o sea, no son
+[01:12:03] alternativos, son combustibles
+[01:12:04] existentes, pero nosotros le decimos
+[01:12:06] alternativos porque sustituyen
+[01:12:09] eh digamos abastecen eh al a las
+[01:12:13] centrales eléctricas cuando nos quedamos
+[01:12:15] sin gas. Por eso son alternativos al
+[01:12:17] gas. Obviamente todos combustible mucho
+[01:12:19] más caro. ¿Sí? Entonces, bueno, de
+[01:12:22] alguna manera eh
+[01:12:24] ese uso de ese combustible está
+[01:12:27] fundamentalmente focalizado en invierno,
+[01:12:28] porque bueno, en invierno
+[01:12:31] obviamente la prioridad la tiene el
+[01:12:33] consumo residencial, ¿sí? Entonces, para
+[01:12:37] calefacción fundamentalmente aparece el
+[01:12:39] se impunta del consumo residencial
+[01:12:42] y nos quedamos sin gas para eh
+[01:12:44] generación de energía eléctrica y ahí
+[01:12:46] aparecen estos combustibles alternativos
+[01:12:48] para sustituir la falta de gas en
+[01:12:50] invierno.
+[01:12:53] Bueno, como decíamos,
+[01:12:55] el que no se gestiona combustible,
+[01:12:57] bueno, puede no hacerlo, pero va a haber
+[01:12:59] menos renta y va a tener un pago de
+[01:13:01] potencia acotado. Sí, Camesa va a seguir
+[01:13:04] gestionando el combustible para aquel
+[01:13:05] que diga que no se lo gestiona, pero
+[01:13:07] digamos ya en forma mucho más marginal,
+[01:13:11] pero sí digamos hay un rol de de camisa
+[01:13:14] todavía activo en la gestión de
+[01:13:15] combustible que es básicamente para todo
+[01:13:18] lo térmico que tiene contrato de
+[01:13:20] abastecimiento MEM.
+[01:13:23] Eh, esos contratos estaban firmados con
+[01:13:25] ciertas condiciones donde una de las
+[01:13:27] condiciones
+[01:13:29] era que Camesa proveía el combustible.
+[01:13:31] Entonces, bueno, como esa
+[01:13:33] eso es un contrato, no se puede romper,
+[01:13:36] eh esa gestión la va a tener que seguir
+[01:13:38] haciendo camisa en forma centralizada.
+[01:13:41] Hay una opción de autogestión, pero no
+[01:13:43] es obligatoria. Y bueno, por lo pronto
+[01:13:45] Camesa va a seguir comprando combustible
+[01:13:47] alternativo para esas centrales y
+[01:13:50] también el gas fuera de invierno para
+[01:13:51] esas centrales.
+[01:13:53] Entonces, bueno, ¿qué pasa que con el
+[01:13:56] que no se gestiona? Bueno, no tiene
+[01:13:58] renta, solamente cobra operación y
+[01:14:00] mantenimiento cuando está generando
+[01:14:03] y
+[01:14:04] es un variable que está asociado a ese
+[01:14:06] concepto solo cuando genera y después
+[01:14:10] cuando no esté generando va a cobrar,
+[01:14:11] como decíamos hace un ratito, menos
+[01:14:13] potencia, ¿sí? De lo que cobraría si eh
+[01:14:18] digamos se gestionara combustible. Y
+[01:14:20] bueno, ese pago de potencia va ir
+[01:14:22] achicándose en forma bastante agresiva.
+[01:14:25] 80% ahora está cobrando si no te
+[01:14:27] gestionas combustible, 40% el año que
+[01:14:29] viene y 0% en el 2028.
+[01:14:37] Bueno, ¿cómo se recupera ese costo de
+[01:14:38] combustible a través de la creación de
+[01:14:39] CBP? El CBP, ¿qué es el CBP? Es costo
+[01:14:42] breve de producción. ¿Qué significa eso?
+[01:14:45] Cada cada generador declara su CBP.
+[01:14:50] Camesa, toma esas declaraciones de CBP
+[01:14:53] y con esa declaración, con ese costo,
+[01:14:55] ordena el despacho de la máquina más
+[01:14:57] cara a la más barata. Sí, por eso es tan
+[01:14:58] importante esa declaración.
+[01:15:01] Eh, entonces
+[01:15:04] cuando un generador declara en su CBP,
+[01:15:07] lo declara con distintos combustibles,
+[01:15:09] ¿sí? con el gas acuaro, ese gas que era
+[01:15:11] de plan gas que gestó una camesa, con
+[01:15:14] gas local que pueda conseguir por su
+[01:15:15] cuenta y con combustibles alternativos
+[01:15:18] fundamentalmente en invierno. ¿Sí?
+[01:15:19] Entonces, declara distintos costos de
+[01:15:21] producción. Esos costos de producción
+[01:15:23] tienen el OIM, lo la operación y
+[01:15:26] mantenimiento es un variable que está
+[01:15:27] asociado a cuando está generando tiene,
+[01:15:30] vamos a decir, consumibles que se usan
+[01:15:32] en ese momento. Entonces, bueno, una
+[01:15:35] parte de su costo
+[01:15:37] o su costo de producción de de esa
+[01:15:39] energía en esa hora tiene un variable
+[01:15:41] que está asociado a la operación y
+[01:15:42] mantenimiento,
+[01:15:44] tiene y tiene un costo de combustible.
+[01:15:46] Si ese costo de combustible si es
+[01:15:48] alternativo, básicamente tendrá el costo
+[01:15:51] del gasoil, por decirlo de alguna
+[01:15:53] manera, más la el costo logístico y de
+[01:15:56] transporte que tiene ese gasoil va a
+[01:15:58] estar incluido en S CPP, en esa
+[01:16:00] declaración. y del del gas también va a
+[01:16:04] tener un un costo de producto de gas en
+[01:16:07] ese en esa declaración de CDP y un costo
+[01:16:10] de transporte de ese gas desde la
+[01:16:12] producción de la cuenca donde se produce
+[01:16:14] hasta este cómo es donde se está
+[01:16:17] consumiendo en la central. Eso también
+[01:16:18] tiene un costo de transporte de gas que
+[01:16:20] también se declara en el CBP. Entonces
+[01:16:23] todos los generos declaran su costo de
+[01:16:24] combustible. camesa en cada,
+[01:16:28] digamos, toma esa declaración y en cada
+[01:16:32] programación de despacho ordena el
+[01:16:34] despacho de costos más baratos a más
+[01:16:36] caros y ahí una máquina podrá saber si
+[01:16:40] eh va a estar generando o no en función
+[01:16:42] de si Camesa la va a despachar por costo
+[01:16:44] o no. Sí.
+[01:16:46] Eh, puntualmente, bueno, esos CP, si
+[01:16:49] bien son de declaración libre, tienen
+[01:16:51] limitación, o sea, no se no se puede
+[01:16:52] declarar cualquier cosa. Hay costos
+[01:16:55] variables de producción de referencia
+[01:16:58] en función de el rendimiento de la
+[01:17:00] máquina para consumir ese ese
+[01:17:02] combustible. O sea, a ver, no lo dije
+[01:17:05] recién, pero tal vez ya lo saben, pero
+[01:17:07] ese costo breve de producción tiene el
+[01:17:09] costo de combustible, pero en esa
+[01:17:11] declaración, en ese CBP,
+[01:17:15] eh, digamos, refleja el rendimiento.
+[01:17:17] ¿Qué quiere de la máquina? ¿Qué quiere
+[01:17:19] decir? Que vos puedes tener el mismo
+[01:17:21] costo de producción, el mismo costo de
+[01:17:22] operación y mantenimiento, el mismo
+[01:17:24] costo de transporte de gas. Pero si yo
+[01:17:26] uso ese combustible en una máquina que
+[01:17:27] rinde un 40% más, mi costo de producción
+[01:17:32] es un 40% menos. Entonces está en esa
+[01:17:35] declaración de costo implícitamente
+[01:17:37] e digamos tu eficiencia. Así una máquina
+[01:17:41] eficiente que usa ese combustible en
+[01:17:43] forma óptima tiene un costo de
+[01:17:45] producción más bajo que ese mismo
+[01:17:47] combustible puesto en una máquina
+[01:17:50] de peor rendimiento. Eso se ve muy claro
+[01:17:53] en un ciclo combinado que tiene un
+[01:17:54] rendimiento que es, vamos a decir, de
+[01:17:56] las máquinas térmicas es la más
+[01:17:58] eficiente. Un ciclo combinado es una
+[01:18:01] combinación entre dos generalmente, ¿no?
+[01:18:05] La la el esquema habitual es dos TG, son
+[01:18:08] turbogas, que básicamente son turbinas
+[01:18:11] de avión que generan energía eléctrica.
+[01:18:13] Y los gases de escape de esas de esas de
+[01:18:16] esas turbinas de gas se meten en una
+[01:18:18] caldera para generar vapor y asociarlo
+[01:18:21] una turbovapor, una máquina turbovapor.
+[01:18:24] Entonces, esos gases de escape que si no
+[01:18:26] estuviera elevapor se tirarían a la
+[01:18:28] atmósfera, lo metés en una caldera y
+[01:18:32] digamos con la misma energía que con el
+[01:18:35] mismo combustible que usaste para
+[01:18:37] generar energía con la ATG, con esa
+[01:18:40] misma energía eh o con ese mismo poder
+[01:18:42] calorífico digamos del combustible lo
+[01:18:45] metés para generar más energía con una
+[01:18:47] turbovapor. Esta combinación es la más
+[01:18:50] eficiente, da un rendimiento de
+[01:18:51] alrededor de 15 kcalorías por kilow hh
+[01:18:55] las TG solas, si no tuvieran esa TB
+[01:18:57] asociada o esa caldera de vapor con la
+[01:19:00] TB asociada tendrían un rendimiento de
+[01:19:02] 2100, 2200 o 2500 kilocalorías. ¿Sí?
+[01:19:07] Entonces, si vos tuvieras que declarar
+[01:19:09] CBP de solo la TG,
+[01:19:13] tendrás un costo
+[01:19:15] 20, 30, 40% más caro que si tienes un
+[01:19:18] ciclo combinado. Sí, por eso los ciclos
+[01:19:20] combinados e digamos son los que más se
+[01:19:23] despachan porque son los más eficientes.
+[01:19:24] Por eso les decía hace un ratito que
+[01:19:27] eran los mejores clientes para los
+[01:19:28] productores de gas.
+[01:19:31] Bueno, entonces esos CB tienen valores
+[01:19:34] de referencia que son en función de
+[01:19:35] cuánto cuesta el gas a precios de
+[01:19:37] referencia y demás. También los
+[01:19:39] combustibles alternativos tienen precio
+[01:19:40] de referencia.
+[01:19:43] Hay libertad de declaración con respecto
+[01:19:44] a ese precio de referencia más menos
+[01:19:46] 25%.
+[01:19:48] Sí, si usas el gas de plan gas, que le
+[01:19:52] decíamos gas acuerdo, no podés declarar
+[01:19:54] más del 25% por debajo del 25% de de ese
+[01:19:57] precio de referencia.
+[01:19:59] Y bueno, simplemente acá, bueno, otras
+[01:20:02] cositas que hay asociadas al gas
+[01:20:06] y los combustibles alternativos también
+[01:20:08] tendrán un CDP de referencia a un precio
+[01:20:11] regulado.
+[01:20:12] Sí, vos puedes declarar más menos ese de
+[01:20:14] ese precio de referencia.
+[01:20:16] E y bueno, y si no gestionas
+[01:20:19] combustible, simplemente Camesa te
+[01:20:21] calcula un costo con el combustible que
+[01:20:24] te va a asignar y digamos te tiene en
+[01:20:27] cuenta para el despacho con ese costo
+[01:20:28] posible a precio regulado, digamos, y no
+[01:20:32] tenés libertad de declaración de CP.
+[01:20:33] Simplemente eh vos decís, "Yo estoy para
+[01:20:36] generar y si camesa me da el
+[01:20:38] combustible, genero."
+[01:20:42] Bueno, y con esto cerramos la primer
+[01:20:44] parte de la charla. eh digamos,
+[01:20:47] hablamos de
+[01:20:49] tipos de demanda, tipos de generación,
+[01:20:53] despacho por costo. Bueno, acá un
+[01:20:55] dibujito que tal vez ya muchos ya lo
+[01:20:56] conozcan,
+[01:20:58] pero bueno, eh siempre vale la pena
+[01:21:01] repasar por si hay alguien que no que no
+[01:21:03] lo tiene tan claro. Bueno, el costo
+[01:21:05] marginal, si el costo marginal es eh
+[01:21:08] digamos el digamos es en un concepto
+[01:21:11] marginalista es cuánto vale la energía
+[01:21:13] en la hora. Así quiere decir que yo voy,
+[01:21:17] digamos despachando máquinas de la más
+[01:21:19] barata a la más cara y la que me fija el
+[01:21:22] precio de la energía es la múltipla
+[01:21:23] máquina despachada. Sí, acá la
+[01:21:26] Secretaría de Energía en la en la en la
+[01:21:28] 400 dijo, "Bueno, ese costo marginal que
+[01:21:31] va a ser de la máquina más cara, yo la
+[01:21:34] voy a establecer e digamos con un mix de
+[01:21:37] la última máquina despachada, o sea, la
+[01:21:39] que efectivamente estás generando en esa
+[01:21:40] hora, más una proporción de la próxima
+[01:21:44] máquina para despachar, ¿sí? con la idea
+[01:21:47] de que la última máquina despachada
+[01:21:49] también ve algo de renta. Entonces,
+[01:21:51] bueno, ese mix entre la máquina actual
+[01:21:55] despachada y la próxima máquina
+[01:21:57] despachada, ¿sí? Es la que define el
+[01:21:59] costo marginal. Eh, inicialmente es 100%
+[01:22:03] la última máquina y este porcentaje va a
+[01:22:06] ir creciendo, si no me equivoco, hasta
+[01:22:08] el 20%, ¿sí?, en el 2028.
+[01:22:12] Entonces, bueno, ¿qué quiero decir con
+[01:22:14] esto? Bueno, el costo marginal en la
+[01:22:15] hora es un mix entre la última máquina
+[01:22:18] despachada, el costo de la última
+[01:22:19] máquina despachada, si el próximo que
+[01:22:22] venga, sí, pero ahora en este año es
+[01:22:25] 100% este la última máquina despachada.
+[01:22:30] Entonces, bueno, ¿qué significa este
+[01:22:31] dibujito?
+[01:22:33] Acá tengo generadores, energía producida
+[01:22:35] por generadores, que está esa energía
+[01:22:38] acumulada abastece la demanda. Y en esta
+[01:22:41] fila de acá tengo los costos de cada una
+[01:22:44] de estas máquinas, que básicamente es el
+[01:22:46] CBP que declara cada máquina. ¿Sí?
+[01:22:49] Entonces, por ejemplo, yo tengo que
+[01:22:51] abastecer toda esta energía, ¿sí?, que
+[01:22:53] está
+[01:22:55] que llega de G1 a G7. Tengo que acumular
+[01:22:58] toda esa producción de todas esas
+[01:22:59] máquinas para abastecer la demanda.
+[01:23:01] Bueno, ¿cómo la abastecí? Primero la
+[01:23:03] máquina más barata, la G1, que tiene un
+[01:23:06] CBP1,
+[01:23:08] la máquina 2 que tiene un CBP2 y así
+[01:23:10] sucesivamente hasta llegar a la máquina
+[01:23:11] siete, que fue la última que despaché
+[01:23:14] para cubrir toda la demanda, que tiene
+[01:23:16] un un costo un CBP 7. Sí. Entonces,
+[01:23:23] en un sistema de de o dicho en los 90,
+[01:23:26] en un sistema de renta full, bueno, ¿qué
+[01:23:28] qué cuánto vale la energía? Bueno, la
+[01:23:30] última máquina despachada vale este CDP.
+[01:23:33] ¿Cuánto cobra la máquina uno? Bueno, la
+[01:23:35] máquina uno va a cobrar su costo, ¿si?
+[01:23:38] Más toda esta renta. ¿Por qué? Porque la
+[01:23:40] energía vale todo igual, vale el costo
+[01:23:43] marginal.
+[01:23:45] La máquina dos va a ver su costo
+[01:23:47] declarado más esa renta. Sí. y así
+[01:23:50] sucesivamente. Y la última máquina en
+[01:23:52] teoría no ve renta porque es la que fija
+[01:23:54] el costo cuando venga venga este mix
+[01:23:57] 8020, bueno, esta va a haber un cachito
+[01:23:59] más de eh va a haber un precio un
+[01:24:02] poquito más caro que su costo y va a
+[01:24:03] tener una renta asociada.
+[01:24:05] Bueno, lo que dice la regulación actual
+[01:24:08] es que esta renta full solamente se la
+[01:24:11] llevan las máquinas nuevas.
+[01:24:14] Sí, si vos sos una máquina que
+[01:24:16] invertiste equipamiento ahora, que es el
+[01:24:19] ahora es a partir del 2025, ¿sí? Toda la
+[01:24:21] generación que se habilita a partir del
+[01:24:24] 2025 en adelante se considera nueva y B
+[01:24:28] esta señal de costo marginal. ¿Sí?
+[01:24:31] Entonces, si esta máquina uno fuera una
+[01:24:33] máquina nueva,
+[01:24:35] vería su propio costo más toda esta
+[01:24:38] renta. En teoría, esa renta que tiene no
+[01:24:41] es todo renta, o sea, porque se le dice
+[01:24:43] renta, pero en realidad si es una
+[01:24:45] máquina nueva, aparte de su costo tiene
+[01:24:47] que pagar el capital invertido. O sea,
+[01:24:49] que destina parte de toda esta
+[01:24:51] diferencia de precios entre el marginal
+[01:24:53] y su costo para eh repagar su inversión.
+[01:24:58] Sí, así funcionaban en los 90.
+[01:25:01] Así en los 90 entraron muchos ciclos
+[01:25:03] combinados que justamente veían esta
+[01:25:05] señal de precios, había máquinas más
+[01:25:07] caras despachadas. Entonces vos privado
+[01:25:11] construías un ciclo combinado eficiente,
+[01:25:14] que por lo tanto tenías mucho despacho y
+[01:25:17] eras, digamos, ibas al con un costo bajo
+[01:25:20] contra costos del sistema alto y bueno,
+[01:25:22] de alguna manera este esquema de precio
+[01:25:25] fue el que en los 90 habilitó a que
+[01:25:27] muchos circombinados vayan ingresando.
+[01:25:31] Ahora la 400 dice, "Bueno, si sos nuevo
+[01:25:33] vale eso, pero si sos viejo, esta renta
+[01:25:36] te la voy a acotar, no te voy a dar toda
+[01:25:38] esta renta." Si con la idea de que lo
+[01:25:41] viejo ya está amortizado
+[01:25:44] y con la idea de no disparar costos al
+[01:25:47] sistema. Sí. No quiero, digamos, que
+[01:25:50] todo el mundo vea este costo, inclusive,
+[01:25:52] digamos, eventualmente el agua también
+[01:25:54] podría ver este precio marginal con el
+[01:25:56] concepto marginalista,
+[01:25:58] pero dice la regulación que no, que que
+[01:26:01] esta renta te la voy a acotar un
+[01:26:03] porcentaje, no te voy a dar el 100% de
+[01:26:05] eso, sino que te voy a dar el, digamos,
+[01:26:08] un escaloncito que arranca ahora en el
+[01:26:10] 15%. Yo te voy a dar la de la renta
+[01:26:13] posible, o sea, te pago tu costo y de la
+[01:26:15] renta posible un 15%.
+[01:26:19] Y eso va a ir creciendo en el tiempo,
+[01:26:21] ¿sí? Hasta llegar al 203
+[01:26:23] 2000
+[01:26:26] 28,
+[01:26:27] donde te voy a dar una renta del 35%
+[01:26:30] de la que podría ser y ahí va a quedar
+[01:26:33] fijo. Sí, no, no la renta máxima que va
+[01:26:36] a haber una máquina existente va a ser
+[01:26:38] el 35%, si, de su de su valor posible.
+[01:26:45] Y bueno, acá simplemente la formulita de
+[01:26:48] lo que vale, digamos, de cómo va a ir
+[01:26:50] variando la proporción entre costo de la
+[01:26:53] última máquina despachada y de la
+[01:26:54] próxima máquina despachada.
+[01:26:57] Eh,
+[01:26:59] y bueno, si quieren cortamos ahí,
+[01:27:01] hacemos un parate de, no sé si 10
+[01:27:03] minutos, 15,
+[01:27:07] hacemos un recreíto. Sí, 10 minutos.
+[01:27:11] Bueno, seguimos. Eh, bueno, gracias,
+[01:27:14] Marcos.
+[01:27:16] Marcos, perdón, yo puedo hacer una
+[01:27:17] consulta. Sí, sí,
+[01:27:18] sí, claro.
+[01:27:19] Perdón, es corta, pero la verdad que hay
+[01:27:21] un montón de aspectos que me me pierdo.
+[01:27:25] Entiendo que hay que madurar todo esto,
+[01:27:26] pero
+[01:27:28] tengo nota de 10 cosas distintas para
+[01:27:29] preguntar, pero voy a una que es para mí
+[01:27:32] básico, que me pierdo. Cuando vos hablas
+[01:27:34] de máquinas que entrarían con el mercado
+[01:27:36] spot y otras mercado a término, hoy día
+[01:27:39] existen máquinas térmicas en mercado a
+[01:27:42] término o el mercado térmico solo está
+[01:27:46] entre renovables? ¿Por por qué? ¿Cómo no
+[01:27:50] entiendo cómo entra en esa última
+[01:27:52] gráfica que mostraste con máquina uno
+[01:27:55] hasta la máquina 8 a competir una
+[01:27:57] máquina que está con contrato a una que
+[01:28:00] está en marcado spot? O sea, ve esos
+[01:28:03] diferenciales la que está con contrato.
+[01:28:06] Sí. Eh, ¿queres que lo contestemos
+[01:28:07] después de la de la pausa? Así un poco
+[01:28:10] de intriga. Ah,
+[01:28:13] dale,
+[01:28:14] dale. Gracias. No,
+[01:28:16] menos cuarto retomamos. Sí,
+[01:28:19] bárbaro.
+[01:28:20] Gracias.
+[01:28:28] Bueno, cuando quieran podemos seguir.
+[01:28:32] Dale, Marcos.
+[01:28:34] Bueno,
+[01:28:35] estamos.
+[01:28:36] Bueno, vamos a tratar de contestar la
+[01:28:37] pregunta de Mariano. Se sigue viendo la
+[01:28:39] presentación. Sí, ¿no?
+[01:28:41] Sí.
+[01:28:43] Bueno, capaz que algo que no comenté
+[01:28:46] es queamos
+[01:28:49] lo que no se no se cambió absolutamente
+[01:28:51] nada es la lógica de despacho. Sí, la
+[01:28:53] lógica de despacho económico, vamos a
+[01:28:55] decir así, es esa, despacho económico.
+[01:28:59] ¿Cómo es? Y
+[01:29:02] y esa filosofía, vamos a decir, se
+[01:29:03] mantiene desde los 90 hasta ahora, este,
+[01:29:07] digamos, y básicamente lo que busca es
+[01:29:10] el abastecimiento al menor costo y eso
+[01:29:13] es totalmente independiente de contratos
+[01:29:15] y demás. Entonces, eh todo el despacho
+[01:29:18] se arma con esa lógica. Sí. Eh, no
+[01:29:21] importa si es una una máquina que tiene
+[01:29:24] eh contrato abastecimiento MEM firmado
+[01:29:26] con camesa, eh no importa si es este,
+[01:29:29] ¿cómo es? Una máquina, vamos a decir,
+[01:29:32] sin contrato o lo que se hace es evaluar
+[01:29:35] el menor costo de, digamos, para
+[01:29:36] abastecer la demanda. Entonces ahí en
+[01:29:38] esa lógica,
+[01:29:41] eh, por ejemplo, los renovables entran
+[01:29:43] con costo de oportunidad cero. ¿Qué
+[01:29:44] significa eso? como el renovable
+[01:29:45] intermitente eólico solar e como es no
+[01:29:51] tiene un costo de vamos a decir como una
+[01:29:53] central hidráulica de pasada, ¿no? No si
+[01:29:55] es una energía que si no la usas en el
+[01:29:57] momento la tirás porque no es que puedes
+[01:29:58] almacenar viento.
+[01:30:00] Entonces eh digamos
+[01:30:03] esas tienen costo variable de producción
+[01:30:04] cero. Si va entran siempre a generar.
+[01:30:07] Eh, entonces bueno, ¿qué te quiero
+[01:30:09] decir? vos vas armando tu despacho para
+[01:30:12] llegar a abastecer la demanda que tienes
+[01:30:14] que abastecer con el menor costo posible
+[01:30:16] y eso totalmente independiente de
+[01:30:17] cualquier contrato y demás.
+[01:30:20] Eh, o sea, que Marcos, a mí como gran
+[01:30:24] usuario, por ejemplo, eh, y y no sé si
+[01:30:27] existen hoy contratos con máquinas
+[01:30:29] térmicas, por eso te preguntaba, yo sé
+[01:30:31] que a un determinado precio esa máquina
+[01:30:33] va a entrar. Ahora, yo tengo un contrato
+[01:30:34] que firmé que pago un valor por energía
+[01:30:37] o por potencia. Eh, como usuario, ¿no
+[01:30:40] debería yo afrontar toda esa renta
+[01:30:42] adicional, no? Eh, del costo de la
+[01:30:44] última máquina despachada o o sí me
+[01:30:47] impacta.
+[01:30:49] Bueno, a ver, entonces, ¿cómo funciona?
+[01:30:52] Es decir, ahí para que macho a término,
+[01:30:55] eh, o sea, ¿qué se puede contratar? todo
+[01:30:58] lo que está al spot, todo lo que no está
+[01:30:59] asignado. Si esa la lógica general, todo
+[01:31:02] lo que esté cubierto con generación
+[01:31:03] asignada,
+[01:31:05] eh, digamos, no puede contratarse porque
+[01:31:07] ya está cubierto y todo lo que está al
+[01:31:09] spot se puede cubrir.
+[01:31:12] Ahí, digamos, lo que me achó una cosa
+[01:31:13] con otra el esquema de sustitución de
+[01:31:15] precios y de qué reemplazás con qué. Sí.
+[01:31:19] Si vos sos un gran usuario
+[01:31:21] y comprás sin ningún tipo de contrato,
+[01:31:23] ¿qué comprás? Bueno, compras una energía
+[01:31:26] de valor mensual, ¿sí? Un cálculo
+[01:31:28] mensual de valor de la energía y pagas
+[01:31:31] potencia, ¿sí? Por por tu potencia que
+[01:31:34] consumís usualmente, o sea, o que
+[01:31:35] demandas en algún momento determinado
+[01:31:37] sobre ese valor de potencia se te cobra
+[01:31:38] un cargo. Entonces, pagas toda tu
+[01:31:40] energía consumida y un cargo de
+[01:31:41] potencia.
+[01:31:44] ¿Y a qué costo compras energía? Bueno,
+[01:31:46] compras al costo de toda la bolsa spot.
+[01:31:48] ¿Qué significa? todos esos costos,
+[01:31:51] digamos, esas esas rentas posibles,
+[01:31:54] costos posibles, la lógica que de todas
+[01:31:56] esas máquinas que están al spot que
+[01:31:59] tenés que remunerar como sistema, al
+[01:32:01] final del mes vos decís, "Bueno, todo
+[01:32:02] este spot, sacamas calcul ese precio,
+[01:32:05] salió 1000, ¿sí? Para abastecer una
+[01:32:08] demanda de 100." Bueno, 1000 sobre 100,
+[01:32:11] 10. La energía valió 10 pesos. ¿Sí?
+[01:32:13] Entonces todos los que compraron energía
+[01:32:15] sin ningún tipo de contrato van a pagar
+[01:32:16] 10 pesos por su energía. ¿Sí? Esa es la
+[01:32:19] lógica, sin importar si hubo rentas, no
+[01:32:21] hubo rentas, ni o sea, hubo rentas,
+[01:32:23] están implícitas en esos 10. Este,
+[01:32:26] entonces, bueno, ¿qué quiere decir eso?
+[01:32:28] Eh, el gran usuario si dice, "Bueno, yo
+[01:32:31] en vez de comprar esa bolsa de spot,
+[01:32:34] digo, compro con un contrato, bueno,
+[01:32:37] ¿qué referencia tengo?" Bueno, tengo esa
+[01:32:38] referencia, esos 10 pesos. Entonces, si
+[01:32:41] un congenador viene y me dice, "Yo te
+[01:32:42] vendo a ocho o a nueve o a 11", el gran
+[01:32:46] usuario decidirá si me conviene comprar
+[01:32:49] a 11, a 10 o a nueve. Sí. Y lo que voy a
+[01:32:52] reemplazar es costo de 10,
+[01:32:54] ¿me explico? O sea, el costo de ese spot
+[01:32:57] y eso tiene distintas lógicas, ¿no es
+[01:32:59] cierto? Porque digamos,
+[01:33:02] si hablamos de números más reales en
+[01:33:04] dólares, eh fuera del invierno, eh ese
+[01:33:08] precio ronda los $5, 468
+[01:33:14] este 43, digamos, depende del mes del la
+[01:33:17] producción, del combustible, el
+[01:33:18] rendimiento de las máquinas,
+[01:33:20] pero básicamente tenés un costo de
+[01:33:22] energía fuera del invierno de $5,
+[01:33:25] pongamos.
+[01:33:26] Entonces yo como gran usuario,
+[01:33:29] digamos, obviamente ese número siempre
+[01:33:33] es expos. Una vez que sucedió,
+[01:33:34] calculamos el número y sale 45, pero se
+[01:33:37] pueden hacer estimaciones, seamos los
+[01:33:39] consultores, Camesa mismo hace
+[01:33:40] estimaciones de previsión de costos y da
+[01:33:43] una idea de cómo van a ser esos valores
+[01:33:45] de costo energía spot. Vos como usuario
+[01:33:48] decís, "Bueno, sale $5 energía
+[01:33:52] prevista." Bueno, me contato con
+[01:33:53] cualquiera que me venda $44.
+[01:33:56] o 50 plano todo el año o un renovable
+[01:33:59] que me ofrece contrato a a $5 y yo con
+[01:34:05] eso este cubro mi huella verde, lo que
+[01:34:07] sea o como es como se dice la palabra,
+[01:34:10] pero o sea, ¿qué quiero decir?
+[01:34:14] El mercado de contrato se arma contra lo
+[01:34:16] la la los que estás sustituyendo y lo
+[01:34:19] que vos sustituís como demandante es
+[01:34:21] compra spot. Esa compra spot vale 45
+[01:34:25] fuera del invierno y puede ser 90 100
+[01:34:27] ahora con la guerra con los precios
+[01:34:29] disparados de combustible capaz que se
+[01:34:30] va a 130
+[01:34:32] el megwh en invierno. Sí. Si vos fuiste
+[01:34:35] un demandante y yo me contraté plano,
+[01:34:38] sí, a $60, sí, pagaste más en verano y
+[01:34:41] en invierno te arraste toda esa
+[01:34:42] diferencia. Si ese en el balance te te
+[01:34:45] favoreció o no, serán evaluaciones,
+[01:34:47] vamos a decir, ya más puntuales. Ahí,
+[01:34:49] Marcos, perdón, tengo una consulta.
+[01:34:51] Entre el 60 que planteaste, eh, la
+[01:34:54] diferencia cuando el precio spot es
+[01:34:56] menor, se la queda en beneficio el
+[01:34:59] generador. Cuando el precio es mayor,
+[01:35:01] ¿el generador asume ese riesgo o el
+[01:35:03] estado ahí reconoce también al
+[01:35:05] generador?
+[01:35:06] No, ahí digamos una vez que vos firmaste
+[01:35:09] un contrato entre partes, esa energía
+[01:35:11] desaparece. Si toda la energía que
+[01:35:13] produce el generador para ese contrato,
+[01:35:14] va ese contrato y camesa no la paga y el
+[01:35:18] y el gran usuario no se la paga camesa,
+[01:35:20] se pagan entre ellos. Sí, eso así
+[01:35:21] funciona.
+[01:35:23] Ahora, lo cuánto realmente valía
+[01:35:25] producir esa energía. Bueno, el
+[01:35:27] generador, digamos, el generador nunca
+[01:35:30] va a vender por abajo de su costo. Sí.
+[01:35:33] este y nunca puede vender tan alto que
+[01:35:36] quede muy por arriba de lo que puede
+[01:35:38] comprar el gran usuario. Entonces ahí
+[01:35:39] hay un, vamos a decir, un juego entre
+[01:35:41] partes de donde cada uno pone su precio
+[01:35:45] y y acuerdan. Este, esa es la lógica. O
+[01:35:49] sea, en ningún, o sea, en general,
+[01:35:51] ponele, eh,
+[01:35:55] como los demandantes, vamos a decir, las
+[01:35:57] industrias tiene más flexibilidad y
+[01:35:58] tiene una lógica más más comercial,
+[01:36:01] entiende que la energía hoy puede valer
+[01:36:03] 45, mañana 48 y después 42 y tal vez hay
+[01:36:08] un esquema de precio más variable, un
+[01:36:11] precio fijo con las distribuidoras que
+[01:36:13] también pueden hacer contrato por su
+[01:36:15] demanda no cubierta.
+[01:36:17] Eh, ahí el ¿Cuál es la referencia de
+[01:36:19] precio para el distribuidor? El precio
+[01:36:21] estacional, que es un precio más fijo.
+[01:36:23] Sí. Entonces, no tiene esa lógica, vamos
+[01:36:26] a decir, de paso mensual variable. Sí,
+[01:36:29] para los Woody, para los Woody tiene la
+[01:36:30] lógica porque viene la 976 y se lo
+[01:36:32] acomoda a precio mensual. Entonces, el
+[01:36:34] distribuidor ahí tiene otra señal de
+[01:36:37] precio. Entonces, bueno, ahí lo que
+[01:36:39] estamos viendo es que vienen las dos
+[01:36:41] partes y lo que plantean es, bueno, si
+[01:36:43] el precio de energía es más alto que el
+[01:36:46] estacional, no compro. Y si el precio de
+[01:36:49] energía es más más bajo que mi costo de
+[01:36:51] ese generador, no vendo. Y bueno,
+[01:36:53] entonces, bueno, entonces hay una franja
+[01:36:55] donde el contrato funciona o no
+[01:36:57] funciona, que no es tan fácil de
+[01:36:59] implementar porque,
+[01:37:01] o sea, ningún contrato puede afectar a
+[01:37:03] otro. Sí. Entonces, yo no puedo calcular
+[01:37:04] el precio de la energía que se calcula
+[01:37:07] solamente con lo que está el spot. Todo
+[01:37:08] lo que está contratado no afecta al
+[01:37:09] precio de la energía. Entonces, decir,
+[01:37:12] calculo con tu contrato o sin contrato.
+[01:37:14] Bueno, me estoy enredando ya cosas de
+[01:37:16] detalle interna nuestra, pero vamos a
+[01:37:19] decir siempre la el mercado término se
+[01:37:23] cierra contra lo que vos contratás, ¿sí?
+[01:37:25] O cuánto te sale a vos. Entonces, vos
+[01:37:27] tenés tu referencia de precio y contra
+[01:37:28] eso estás dispuesto a reemplazar. Sí.
+[01:37:31] Después puede haber otras lógicas. Sí,
+[01:37:34] perdón,
+[01:37:35] digamos. Y del otro lado tenés la
+[01:37:38] habilitación que hace el estado, los
+[01:37:41] estados provinciales de hacer el pas de
+[01:37:43] esos contratos.
+[01:37:44] Exactamente.
+[01:37:46] Contratos o no. Entonces ahí digamos no
+[01:37:48] solamente es el vínculo distribuidor
+[01:37:50] generador que pactan ese precio, sino
+[01:37:52] que el distribuidor está atado, ¿a qué
+[01:37:54] se le va a trasladar? A precios.
+[01:37:56] Exactamente.
+[01:37:57] Y el estabilizado, como decía Marcos, es
+[01:37:59] el tope, porque eso es lo que
+[01:38:01] seguramente cualquier estado provincial
+[01:38:03] te traslade, ¿no? Así digamos, si es por
+[01:38:06] encima, entonces ahí en esa contratación
+[01:38:08] digamos ese es el límite máximo. Por
+[01:38:10] encima no lo vas a recuperar.
+[01:38:14] Claro. Ahí digamos
+[01:38:15] es la contracara, digamos, de lo que
+[01:38:16] está explicando Marco.
+[01:38:17] Exacto. Los reguladores ahí
+[01:38:19] para la provincia y para como
+[01:38:21] distribuidores, digamos, ¿no?
+[01:38:23] Y con los goodies. Y con los goodies, a
+[01:38:24] mí ahí me queda la duda porque la
+[01:38:27] Secretaría de Energía también fija
+[01:38:29] precios. Esos precios nosotros los
+[01:38:30] trasladamos a cuadros y si hicieran
+[01:38:34] contratos por cuenta y orden de ese
+[01:38:36] goodi y fueran por debajo, por debajo,
+[01:38:38] esa ganancia obviamente se la deben,
+[01:38:41] digamos, debe ir parte y parte con el
+[01:38:43] goodi, entiendo yo,
+[01:38:45] eh,
+[01:38:47] porque la tarifa es máxima, digamos, se
+[01:38:48] traslada a cuadro, el cuadro es máximo,
+[01:38:51] pero si hubiera un contrato entre una
+[01:38:53] distribuidora y un goodi,
+[01:38:56] no sé cómo
+[01:38:56] ahí, claro, ahí vamos a decir ya
+[01:38:58] internamente ente cómo funciona
+[01:39:01] específicamente
+[01:39:03] eh vamos a decir la factura para el
+[01:39:05] good,
+[01:39:06] no tengo claro. Sí, te te puedo decir
+[01:39:08] cómo funciona el mayorista. El mayorista
+[01:39:11] eh vienen, digamos, viene el
+[01:39:13] distribuidor y dice, "Yo contrato tanta
+[01:39:15] energía de goodie." Sí, en principio e
+[01:39:19] no es nominado. Sí, ahí estamos
+[01:39:22] avanzando para que sea nominado
+[01:39:25] porque bueno, hay digamos
+[01:39:30] distintas posturas, o sea, hay hay o sea
+[01:39:32] la experiencia que teníamos con energías
+[01:39:33] renovables, por ejemplo, es que un
+[01:39:35] distribuidor compraba energía renovable
+[01:39:37] y ese y a qué precio lo compraba a
+[01:39:39] precio estacional.
+[01:39:41] ¿Y cómo funciona la lógica en el
+[01:39:43] mayorista? Bueno, esa energía que vos
+[01:39:45] contratas desaparece, o sea, no la
+[01:39:46] compras más a precio situacional,
+[01:39:47] desaparece. O sea, vos en tu factura
+[01:39:50] camisa vos tenés, ponerle 100 MW hora de
+[01:39:53] goodie en el mes. 20 vino de un
+[01:39:56] contrato. Bueno, Camisa te va a quedar
+[01:39:58] 80. Sí, porque esos 20 megas no te lo
+[01:40:00] cobra precio estacional, desaparece.
+[01:40:02] Entonces, solamente te cobra precio
+[01:40:03] estacional los 80 que seguiste comprando
+[01:40:06] al spot. Sí.
+[01:40:08] Y esos 20 no se digamos es como que en
+[01:40:11] el mayorista desaparecen. Sí. no no no
+[01:40:13] se transaccionan
+[01:40:16] y cabeza así lo que publica es un precio
+[01:40:18] de referencia de ese contrato que se que
+[01:40:20] se informó.
+[01:40:22] ¿Qué hace el distribuidor con esa
+[01:40:23] energía? En teoría, digamos, esos 20 va
+[01:40:27] a tener que pagárselo al generador,
+[01:40:29] ¿sí?, al precio acordado con el
+[01:40:30] generador. ¿Y cómo se lo traslada al
+[01:40:32] goodi?
+[01:40:34] Bueno, ahí no sé si es por a través del
+[01:40:35] cuadro tarifario, si el goody puede
+[01:40:37] pagarle directamente al generador. Hay
+[01:40:39] hay distintas este, como decir,
+[01:40:42] implementaciones. Yo creo
+[01:40:45] tengo entendido, vamos a decir así, que
+[01:40:47] PEC eh que también está muy activo con
+[01:40:50] el tema de los contratos, e hace como e
+[01:40:54] vamos a decir intermediario, pero la el
+[01:40:57] pago de la energía del de ese goody es
+[01:40:59] directamente del goody al generador. Sí.
+[01:41:01] Y obviamente PEC sigue cobrando su peaje
+[01:41:03] y demás, pero bueno, eh entiendo que la
+[01:41:06] implementación ya a nivel de
+[01:41:08] distribuidor puede tener distintas
+[01:41:10] formas, ¿sí? y está muy atada a lo que
+[01:41:13] le permite al regulador. El caso de PEC,
+[01:41:15] vamos a decir de Córdoba es como que se
+[01:41:17] autorregula, entonces tiene más
+[01:41:19] flexibilidad de poder hacer cosas que
+[01:41:21] por ahí otros otras jurisdicciones que
+[01:41:24] tienen un ente regulador específico
+[01:41:27] eh que en general no están, digamos
+[01:41:31] tienen sus propias reglas, vamos a decir
+[01:41:33] así, e pueden haber otras opciones, ¿sí?
+[01:41:36] Pero básicamente desde el mayorista todo
+[01:41:39] lo que se contrate desaparece y se te
+[01:41:41] deja de cobrar al costo correspondiente,
+[01:41:44] ¿no?
+[01:41:49] Así que bueno, no sé si hay alguna si
+[01:41:50] quedó claro o lo embarullé más, pero
+[01:41:56] no la última, perdón, Marcos, y el resto
+[01:41:58] del grupo, pero eh uno está obligado
+[01:42:00] como demanda a comprarle la totalidad de
+[01:42:01] la oferta de un generador o puedes
+[01:42:03] contratar una parte,
+[01:42:05] una parte.
+[01:42:06] Vos podés contratar en todo el mix que
+[01:42:09] quieras. Puedes contratar una parte
+[01:42:10] renovable, una parte térmica, una parte
+[01:42:12] hidro, este, y una parte spot.
+[01:42:15] Y cada una con un porcentaje distinto
+[01:42:17] en función de cómo se armen tus
+[01:42:19] contratos.
+[01:42:20] Eso es de energía y de potencia podés
+[01:42:22] contratar también, o sea, las dos
+[01:42:24] especies, ¿no es cierto? Puedes
+[01:42:25] contratar potencia con un generador
+[01:42:26] solo, con más de un generador. Eh, eso
+[01:42:29] digamos también es totalmente libre. Y
+[01:42:32] en este caso el renovable no vende
+[01:42:33] potencia. Así es lo único que no puede
+[01:42:35] vender. H,
+[01:42:37] gracias.
+[01:42:42] Bueno, ya vamos a ir avanzando con un
+[01:42:46] poquito más de detalle. Eh,
+[01:42:50] entonces, bueno, cuando hablamos de cómo
+[01:42:52] se remuen las generaciones energía
+[01:42:54] producida en cada hora, lo que veíamos
+[01:42:55] recién de CBP más renta. Bueno,
+[01:42:59] para cada generador se va a calcular la
+[01:43:02] remuneración en cada hora como el CBP,
+[01:43:04] el costo propio más toda esta formulita,
+[01:43:08] ¿sí? Que básicamente de esto que es esta
+[01:43:12] parte que está acá, costo marginal menos
+[01:43:14] CBP. Básicamente era la diferencia que
+[01:43:16] veíamos en entre el costo marginal
+[01:43:19] sancionado en la hora contra el costo de
+[01:43:20] la máquina. Esta sería la renta full.
+[01:43:22] Sí. Acá se agrega un concepto que es
+[01:43:25] factor de pérdida, que ese que
+[01:43:27] básicamente es el costo marginal
+[01:43:29] afectado por un coeficiente
+[01:43:32] que refleja las pérdidas que tenés de
+[01:43:35] llevar, esa energía que el generador
+[01:43:36] tiene de donde la produce al centro de
+[01:43:38] carga. Sí. Esto en general son las áreas
+[01:43:42] exportadoras tienen factores de pérdidas
+[01:43:44] menores que uno, o sea, que el costo en
+[01:43:46] la de marginal puesto en ese nodo
+[01:43:49] exportador es más chico que si fuera un
+[01:43:52] eh en un nodo importador. Sí. Pero
+[01:43:55] bueno, básicamente si nos olvidamos de
+[01:43:57] este factor de pérdidas que refleja ese
+[01:43:59] concepto, esto es la renta, costo
+[01:44:01] marginal menos CP.
+[01:44:03] Pero bueno, los que estableció a 400 es
+[01:44:05] básicamente que esto es se va a llamar
+[01:44:08] renta marginal adaptada, afectando la
+[01:44:10] renta posible por un factor. Sí,
+[01:44:14] ese factor, ¿cuánto vale? Bueno, para
+[01:44:17] toda la generación vieja, ¿sí? O previa
+[01:44:20] al 2025, vale 015 ahora 025 el año que
+[01:44:25] viene y 035 a partir del 2028 y va a
+[01:44:28] quedar ahí. Entonces, para toda la
+[01:44:30] generación preexistente,
+[01:44:33] eh la máxima renta posible con respecto
+[01:44:36] al número máximo que podrían tener es
+[01:44:38] del 35%.
+[01:44:41] Si sos una generación nueva, o sea, que
+[01:44:43] arrancaste a partir de enero 25, este
+[01:44:47] factor de renta adaptado es uno. ¿Sí?
+[01:44:50] Entonces, básicamente es llevarte toda
+[01:44:53] la renta si sos nuevo. Sí.
+[01:44:56] Y si sos una máquina que no tiene
+[01:44:59] gestión de combustible, que no no que no
+[01:45:02] hace gestión de combustible, ese factor
+[01:45:03] de renta adaptado es cero. O sea, que
+[01:45:05] todo esto se retacha y lo único que
+[01:45:07] cobra una máquina que no gestiona
+[01:45:08] combustible es su costo.
+[01:45:12] Y después agrega acá un tercer factor,
+[01:45:15] si queremos decirle, el FRC, factor de
+[01:45:17] renta corregido, que esto va a durar,
+[01:45:20] digamos,
+[01:45:21] mientras e
+[01:45:25] exista concepto de gas acuerdo, ese gas
+[01:45:27] que Camesa administra, que son los gases
+[01:45:30] del plan gas y que se simula como si
+[01:45:33] fuera una gestión autónoma, pero en
+[01:45:34] realidad no es porque lo gestiona
+[01:45:35] Camesa, pero que te permite hacer
+[01:45:38] contratos y ver rentas. Bueno, se a esa
+[01:45:41] renta posible, cuando vos le comprás gas
+[01:45:44] a la bolsa de camesa, ese plan gas e que
+[01:45:48] se llama gas acuerdo, se va a afectar a
+[01:45:50] esa renta por otro factor adicional que
+[01:45:52] es que es que te la chica un poco más.
+[01:45:55] Sí, va de 08 a 05, va bajando en el
+[01:45:58] tiempo, pero bueno, como este va
+[01:46:00] subiendo, entonces quiere decir que toda
+[01:46:02] esta renta, si vos le comprás el gas a
+[01:46:03] camesa, va subiendo, pero con una
+[01:46:05] pendiente mucho más eh baja que este de
+[01:46:09] 015 035.
+[01:46:11] Y si vos sos un productor de, o sea, un
+[01:46:16] eh un generador que que consigue gas por
+[01:46:18] afuera del plan gas y eventualmente lo
+[01:46:21] pueda colocar, que básicamente sería un
+[01:46:25] gas retirado, ese gas explan gas, ese
+[01:46:28] gas que se fue del plan gas, como
+[01:46:29] comentaba hace un ratito, ese va a haber
+[01:46:32] ese FRC 1. Sí. E así que va a tener la
+[01:46:37] renta posible sin esa restricción.
+[01:46:41] Y bueno, así como se pone un techo a la
+[01:46:44] renta, también se pone un piso, ¿sí?
+[01:46:46] Para todo lo que es la generación
+[01:46:47] existente. Entonces, toda la generación
+[01:46:49] existente que tenga un costo var
+[01:46:50] producción menor a $60 tiene una renta
+[01:46:53] mínima asegurada. Todo esto sí tiene un
+[01:46:56] mínimo asegurado de
+[01:46:57] por megw hora.
+[01:47:00] Y si tu costo de variable producción es
+[01:47:01] mayor a 60, básicamente esto es generar
+[01:47:03] con gas o generar con alternativo. Sí,
+[01:47:05] si generas con gas tenés una renta
+[01:47:08] mínima de dos. Si se si quas con renta
+[01:47:09] alternativo, tenés al menos una renta
+[01:47:12] mínima de siete.
+[01:47:15] E esto, esta renta mínima solamente
+[01:47:17] aplica para la generación preexistente.
+[01:47:19] Si sos nuevo, ¿sí? con factor de renta
+[01:47:23] adaptado uno, eh este mínimo no aplica,
+[01:47:26] o sea, te o te o te puedes llevar cero o
+[01:47:28] toda la renta. Sí, depende lo que da,
+[01:47:31] pero no tenés ni no tenés piso ni techo
+[01:47:33] en la renta. Básicamente
+[01:47:37] para un generor renoven esto para un
+[01:47:38] generador térmico, ¿no es cierto? Porque
+[01:47:40] tiene su CBP y demás. Para un generador
+[01:47:43] renovable aplica la misma fórmula en
+[01:47:45] teoría, eh, pero como su CP0 no tiene
+[01:47:49] costo de producción. Todo es renta
+[01:47:51] marginal adaptada y esa renta marginal
+[01:47:54] adaptada es costo marginal por factor de
+[01:47:56] pérdidas por el factor por el FRAS, por
+[01:47:58] el FR ese de que también va creciendo
+[01:48:00] con la misma lógica, ¿no? 015 25 035.
+[01:48:06] Y para la generación nueva, lo mismo,
+[01:48:08] todo renovable nuevo, este va con renta
+[01:48:10] adaptada uno. Este, en este caso, el
+[01:48:14] mínimo ese 2 y 7 que tiene un térmico
+[01:48:19] para un renovable, como al no tener CBP,
+[01:48:22] sí, eh, se fija el mínimo en 32 y la
+[01:48:26] renta mínima para un generador viejo es
+[01:48:29] 32, para un generador nuevo la renta
+[01:48:31] mínima es cero, pero no tiene tope en su
+[01:48:34] renta.
+[01:48:37] El hidro tiene un esquema equivalente.
+[01:48:39] Sí, todo el hidro que venda energía al
+[01:48:41] spot
+[01:48:42] tiene un esquema similar donde e si es
+[01:48:47] viejo, tiene una renta mínima de 22 en
+[01:48:49] vez de 32 como para, o sea, obviamente
+[01:48:51] no tiene CBP, se considera CBER,
+[01:48:54] eh no tiene renta mínima, perdón, tiene
+[01:48:57] una renta mínima de 22 en este caso y va
+[01:49:00] a seguir, si es viejo, los mismos
+[01:49:02] factores que de 015, 025, 035 sobre esta
+[01:49:06] formulita.
+[01:49:10] Bueno, eso fue todo el pago de energía,
+[01:49:12] ¿sí? A través de CBP con rentas y demás.
+[01:49:15] Pago de potencia. Este pago de potencia
+[01:49:17] es cobrar por estar. Vos tenés la
+[01:49:19] máquina disponible. Generes o no
+[01:49:21] generes, vas a cobrar un valor de
+[01:49:23] potencia
+[01:49:26] e cómo es, eh, por tu disponibilidad en
+[01:49:31] horas de remunación de potencia. Sí,
+[01:49:33] todas las horas de remuneración de
+[01:49:34] potencia, que básicamente son casi todas
+[01:49:37] las horas menos en en el valle,
+[01:49:40] no es así, pero más o menos e vas a
+[01:49:43] cobrar por tener la máquina disponible
+[01:49:45] en todas las horas de resto y en todas
+[01:49:46] las horas de pico. Eh, se va a pagar un
+[01:49:49] valor que es de $1 el MW hora
+[01:49:53] disponible. Sí, por cada mega que tenés
+[01:49:55] en cada hora se te va a pagar $12. Pero
+[01:49:58] bueno, hay unos factores como siempre.
+[01:50:02] En este caso, digamos, si vos sos una
+[01:50:03] máquina que solo puedes generar con gas
+[01:50:05] natural, por ejemplo, una máquina de
+[01:50:07] boca de pozo o una máquina que no tiene,
+[01:50:10] digamos, posibilidad de quemar
+[01:50:12] combustible
+[01:50:14] líquido,
+[01:50:16] e, como es, vas a cobrar en invierno y
+[01:50:19] en verano ese 12 por 1,1. Sí, se te paga
+[01:50:23] un poquito más en invierno y en verano
+[01:50:25] porque es donde más hace falta la
+[01:50:26] potencia.
+[01:50:27] y fuera del invierno en el verano se va
+[01:50:29] a pagar un 90% de este de este estos
+[01:50:35] y si vos sos una máquina que usa
+[01:50:37] combustible alternativo gasoil fuelo
+[01:50:41] vamos a decir tenés más de un o sea
+[01:50:44] ahí puede haber dos cosas o sea que
+[01:50:46] solas conente consumas diesésel por
+[01:50:47] ejemplo los motogeneradores en centrales
+[01:50:49] que están por ahí lejos de en elnea o en
+[01:50:54] lugares donde no llega el gas
+[01:50:56] y solo consumís combustible alternativo,
+[01:51:00] que en ese caso el combustible principal
+[01:51:02] para esa máquina o el único, o máquinas
+[01:51:05] que tienen la posibilidad de quemar dos
+[01:51:06] combustibles, esas máquinas van a tener
+[01:51:08] un pago de potencia un poco más alto.
+[01:51:10] Sí, porque se entiende que toda la
+[01:51:12] logística y la gestión de combustible
+[01:51:14] alternativo, el capital inmovilizado
+[01:51:16] asociado a tener gasoil en tanques y
+[01:51:18] demás tiene un costo más alto que tener
+[01:51:22] solamente gas natural que llega a tu
+[01:51:24] puerta. la vamos a hacer así a través
+[01:51:25] del gasoducto. Eh, entonces, bueno, se
+[01:51:28] le reconoce más pago de potencia
+[01:51:31] por todos esos fijos asociados, tanques
+[01:51:33] y demás a un generador que consume
+[01:51:37] gasoil o fuelo entonces para esas
+[01:51:40] máquinas el pago es invierno verano 1,5
+[01:51:44] veces este número y fuera del invierno y
+[01:51:46] verano 1 2 por 12.
+[01:51:50] E, ¿por qué tiene esta esta por qué se
+[01:51:53] paga más en invierno y en verano? Bueno,
+[01:51:55] la idea es orientar los mantenimientos
+[01:51:57] siempre. Las máquinas, obviamente en
+[01:51:58] algún momento tienen que parar para
+[01:51:59] hacer un mantenimiento. Entonces, bueno,
+[01:52:02] si yo soy la el dueño de la central y
+[01:52:05] tengo que para hacer un mantenimiento,
+[01:52:06] voy a pagar cuando me pagan menos.
+[01:52:08] Entonces, una un poco esto, la idea es
+[01:52:12] que vos planifiques tu mantenimiento
+[01:52:14] fuera de los momentos más críticos del
+[01:52:16] sistema, ¿sí? que son invierno y verano.
+[01:52:18] Entonces, con esta señal de precio del
+[01:52:20] pago de potencia, eh digamos eh se
+[01:52:24] orienta a que el mantenimiento se haga
+[01:52:26] cuando molesta menos al sistema o pone
+[01:52:28] menos en riesgo el sistema.
+[01:52:31] Bueno, esto del pago de potencia para
+[01:52:33] que no se gestiona, ya lo habíamos
+[01:52:34] comentado que es más chiquito. Sí.
+[01:52:39] Bueno, y el pago de potencia para
+[01:52:40] máquinas que no son térmicas, ¿sí? que
+[01:52:42] en este caso básicamente es
+[01:52:44] hidrorenovable y almacenamiento como una
+[01:52:46] tecnología que puede empezar a aparecer,
+[01:52:48] ¿sí? O que va a empezar a aparecer.
+[01:52:52] Eh, ese factor multiplicador de la
+[01:52:53] potencia cambia. Sí, para la potencia es
+[01:52:56] un 05 del 12, o sea, cobra $ el MW hora
+[01:53:00] e por la potencia disponible.
+[01:53:04] Este número, vamos a decir, busca
+[01:53:06] reflejar que en realidad, digamos, si
+[01:53:09] bien yo le pago potencia a un hidro e y
+[01:53:13] en general son despachables,
+[01:53:16] como atrás el recurso tiene un recurso
+[01:53:18] que depende de la naturaleza, tiene
+[01:53:20] menos firmeza, o sea, si bien es firme,
+[01:53:23] pero tiene menos firmeza que un térmico,
+[01:53:25] entonces bueno, el pago de potencia
+[01:53:27] asociado al un hidro es más bajo
+[01:53:31] y a su vez el renovable como
+[01:53:33] intermitente, ¿no es cierto? El el que
+[01:53:35] es como es eh un ebólico, un solar que
+[01:53:40] nunca elige cuando despacha, sino que si
+[01:53:42] te pende solamente cuando tiene el
+[01:53:44] recurso, eh cobra cero de potencia. Acá
+[01:53:47] obviamente los renovables no no le gustó
+[01:53:49] nada esta este pago cero de potencia
+[01:53:51] porque ellos dicen que tienen una
+[01:53:52] potencia media eh posible. Bueno, pero
+[01:53:56] en realidad acá lo que se o al menos la
+[01:54:00] visión de secretaría es decir, yo le
+[01:54:02] pago potencia lo que puedo elegir cuando
+[01:54:03] lo tengo. Entonces, de alguna manera, el
+[01:54:06] esquema de remuneración refleja ese
+[01:54:09] concepto
+[01:54:11] y almacenamiento. Cuando el
+[01:54:12] almacenamiento tiene un mínimo de 4
+[01:54:15] horas de almacenamiento, o sea, yo puedo
+[01:54:16] tener una potencia X por 4 horas firme,
+[01:54:20] bueno, va a tener una remuneración
+[01:54:21] equivalente a como si fuera con gas
+[01:54:23] natural. Sí, pero bueno, todavía en esta
+[01:54:25] tecnología no no está.
+[01:54:30] Bueno, entonces ya dijimos todo el
+[01:54:32] esquema de de de cómo se viene
+[01:54:34] remunerando la generación, ¿sí? Energí
+[01:54:36] de todo el nuevo esquema, ¿no? Lo que
+[01:54:38] está regulado está regulado. Hablamos
+[01:54:39] siempre del esquema spot. Entonces,
+[01:54:41] tenemos pago de energía con rentas
+[01:54:43] adaptadas, pagos de potencia muy atado a
+[01:54:47] la a la ¿cómo es? a la gestión de
+[01:54:50] combustible y al tipo de de potencia que
+[01:54:54] estaba ofertando.
+[01:54:56] Todo lo que está el spot con gestión
+[01:54:57] autónoma se puede contratar en el
+[01:54:59] mercado a término y ese es el esquema,
+[01:55:02] nuevo spot, así muy muy resumidamente.
+[01:55:06] Adicionalmente como para completar o
+[01:55:08] complementar el pago, digamos, de la
+[01:55:10] generación y digamos y garantizar que el
+[01:55:14] la disponibilidad de equipamiento se
+[01:55:17] pusieron dos conceptos. Sí. Uno que
+[01:55:19] aplica la las máquinas existentes que se
+[01:55:22] llamó o que se llama servicio de reserva
+[01:55:24] de confiabilidad base y uno que
+[01:55:27] aplicaría a las máquinas nuevas, ¿sí?
+[01:55:29] Que se llama servicio de reserva
+[01:55:31] confiabilidad adicional.
+[01:55:33] Entonces, nuevo, viejo, sí, base,
+[01:55:36] viejo, adicional nuevo. Básicamente,
+[01:55:39] ¿qué es? Bueno, se reconoce a toda la
+[01:55:41] generación térmica, ¿sí? un pago
+[01:55:43] adicional de $1,000 el megwti mes, o
+[01:55:46] sea, por cada mega disponible en el mes,
+[01:55:49] $1,000
+[01:55:51] que llevado a a como si fuera pago
+[01:55:55] horario
+[01:56:03] sería unos casi 3 megwti o, o sea, a
+[01:56:06] esos 12 que dijimos anteriormente serían
+[01:56:08] como 3 más aproximadamente, depende de
+[01:56:10] varias cosas, pero en promedio tres es
+[01:56:14] que se le pagaría adicionalmente a la
+[01:56:16] potencia. Esto, este concepto de pago de
+[01:56:19] potencia
+[01:56:20] eh
+[01:56:22] eh es como una continuidad un poquito de
+[01:56:24] lo que venía, ¿sí? Que es un pago de
+[01:56:26] potencia independientemente de la
+[01:56:28] gestión o no del combustible.
+[01:56:30] No es un concepto contratable, es un
+[01:56:32] servicio. Este, entonces básicamente a
+[01:56:35] toda la generación térmica que está, si
+[01:56:36] está disponible, le voy a pagar estos en
+[01:56:39] megwti mes o esos casi tres adicionales
+[01:56:42] a los 12. Sí, pero eso esto va a ser
+[01:56:45] independiente de la gestión o no del
+[01:56:46] combustible.
+[01:56:48] Eh, la idea de esto es, digamos, dar un
+[01:56:50] pago, como dice el nombre, base para
+[01:56:53] toda la generación, este, por sobre lo
+[01:56:56] que te paga el spot y y es e
+[01:56:59] independiente de la gestión de
+[01:57:00] combustible.
+[01:57:03] Eh, el adicional
+[01:57:06] que está pensado para lo nuevo, tiene un
+[01:57:07] valor de referencia de $9,000 MW mes por
+[01:57:12] 10 años desde tu habitación comercial.
+[01:57:15] La idea es que toda la generación va a
+[01:57:17] tener un esquema, toda la generación
+[01:57:20] nueva, ¿sí? esquema de renta libre,
+[01:57:23] esquema de pago de potencia, ambas cosas
+[01:57:26] contratables en el mercado a término,
+[01:57:28] pero digamos en función de hacer
+[01:57:31] análisis de flujo de fondos y demás,
+[01:57:35] solo esa remuneración, digamos,
+[01:57:39] que vamos a decir, si bien la renta full
+[01:57:42] es una buena señal, o sea, no tiene sin
+[01:57:44] limitación a la renta, es una buena
+[01:57:45] señal, pero ¿qué pasa? esa esa renta
+[01:57:48] full está muy atada a tener mucho
+[01:57:51] despacho, o sea, yo voy a ganar plata si
+[01:57:55] como generador nuevo, si veo esa renta
+[01:57:57] full, pero a su vez si e cómo es, tengo
+[01:58:01] mucho despacho, o sea, si yo soy una
+[01:58:03] máquina que, como decíamos al principio
+[01:58:06] de todo va a tener que es la que que
+[01:58:08] decíamos que más o menos necesita el
+[01:58:10] sistema, que máquinas de que estén
+[01:58:12] marchando pocas horas para abastecer los
+[01:58:14] picos de demanda de invierno y de
+[01:58:15] verano.
+[01:58:18] Esas máquinas solamente van a generar en
+[01:58:20] invierno y en verano porque van a ser,
+[01:58:22] digamos, de bajo factor de uso. Una TG,
+[01:58:24] una TG lo abierto, vamos a decir así.
+[01:58:27] Eh, entonces por rendimiento y demás
+[01:58:29] tienen bajo despacho. Entonces, que vos
+[01:58:32] le das des renta full, no le no le como
+[01:58:35] tien muy poco despacho, muy poca energía
+[01:58:38] ve de venta,
+[01:58:39] eh, no le alcanza a repagar la
+[01:58:41] inversión. Entonces, de alguna manera,
+[01:58:42] este pago fijo de 9000 para ese tipo de
+[01:58:45] máquinas le daría el complemento
+[01:58:48] suficiente con todo el resto de la
+[01:58:49] remuneración a eventualmente
+[01:58:52] eh alcanzar a repagar su inversión,
+[01:58:55] hacer que alguien diga, "Bueno, yo con
+[01:58:56] estos precios, con estas señales, eh yo
+[01:58:59] puedo invertir, recuperar mi inversión
+[01:59:01] en 10, 12 años, 8 años, depende la lo
+[01:59:04] que el inversor quiera. Entonces, bueno,
+[01:59:08] este número de config adicional está
+[01:59:10] puesto con ese objetivo de un adicional
+[01:59:12] a todo lo que está pensando en máquinas
+[01:59:15] que tal vez con el variable solo no
+[01:59:17] puedan alcanzar a recuperar la
+[01:59:20] inversión. Y obviamente si un inversor
+[01:59:23] ve que no va a recuperar
+[01:59:26] su inversión no invierte, sino no
+[01:59:28] arriesga contra nada. Entonces, como acá
+[01:59:31] la idea es que sea un sistema autónomo,
+[01:59:33] tenés que dar las señales suficientes
+[01:59:35] para que aparezca esa inversión.
+[01:59:37] Obviamente que tiene riesgo porque tiene
+[01:59:39] tiene señales, vamos a decir, primer
+[01:59:42] riesgo es regulatorio, que te cambie las
+[01:59:43] condiciones de un gobierno a otro, pero
+[01:59:47] sacando el riesgo regulatorio e digamos
+[01:59:51] el riesgo que está es que bueno, que que
+[01:59:53] vos prevías un despacho y no salga ese
+[01:59:54] despacho, que prevías eh no sé eh
+[01:59:58] venderle a un a un gran usuario x
+[02:00:00] cantidad de megwtios y después ese gran
+[02:00:01] usuario no te lo toma. O sea, existe
+[02:00:04] todo un riesgo asociado a la a la a
+[02:00:07] invertir contra este esquema que bueno
+[02:00:11] que la idea es que
+[02:00:13] que el sistema spot sin contratos y
+[02:00:15] demás eh de alguna manera de señales
+[02:00:19] suficientes, no tan holgadas, pero sí
+[02:00:21] suficientes a que existan inversiones
+[02:00:23] privadas.
+[02:00:25] Eso obviamente hay que ver cómo
+[02:00:26] evoluciona, o sea, las señales se ponen
+[02:00:29] y después hay que ver si efectivamente
+[02:00:31] empiezan a aparecer inversiones.
+[02:00:33] Pero bueno, este esquema adicional eh
+[02:00:36] está en desarrollo, ¿sí? Porque
+[02:00:40] simplemente como comentario, estos 9,000
+[02:00:43] sobre, vamos a decirlo los los $ de pago
+[02:00:47] de potencia adicionales, qué sé yo,
+[02:00:51] se calcularon de alguna manera en
+[02:00:54] función de una foto del de de
+[02:00:58] del costo de equipamiento
+[02:01:00] del 2018,
+[02:01:02] 2019.
+[02:01:04] Sí.
+[02:01:06] No sé si alguno escuchó el la licitación
+[02:01:09] Tercomf, que fue una licitación que se
+[02:01:11] hizo para meter justamente máquinas
+[02:01:13] debajo de factor de uso en distinto nodo
+[02:01:16] de la red para garantizar el
+[02:01:18] abastecimiento. Esas máquinas e el
+[02:01:21] objetivo era justamente tenerlas para el
+[02:01:24] invierno y para el verano para cuando el
+[02:01:26] momento cuando el sistema está apretado.
+[02:01:29] Bueno, con el cambio de gobierno, esa
+[02:01:31] licitación se dio de baja y bueno y
+[02:01:34] generó un agujero, vamos a decir así, en
+[02:01:38] en ingreso de potencia que estaba
+[02:01:39] previsto y que no vamos a tener.
+[02:01:43] Eso va a ser un problema en algún
+[02:01:45] momento, pero aparte de eso, esa
+[02:01:48] licitación reflejó precios de ofertas de
+[02:01:52] en competencia. Ahí cada generador
+[02:01:55] ofrecía un precio y en función de precio
+[02:01:57] ganaba o no ganaba.
+[02:01:59] Que bueno, básicamente, ¿qué quiero a
+[02:02:01] dónde quiero llegar? los precios que
+[02:02:03] reveló esa licitación que daba que
+[02:02:06] alrededor de 15,000 16,000 el megwti mes
+[02:02:09] sí era suficiente para reparar una
+[02:02:11] inversión nueva. Entonces, estos 9000
+[02:02:14] más los 12 en HRP que están planteados
+[02:02:16] arriba, que representan otros 5000 más,
+[02:02:19] más los variables y demás,
+[02:02:22] reflejaban
+[02:02:24] viendo esa licitación como referencia
+[02:02:27] precios que un privado podría llegar a a
+[02:02:30] arriesgar y poner el equipamiento con
+[02:02:33] estas señales de precio.
+[02:02:35] Bueno, en el medio, ¿qué pasó?
+[02:02:38] Apareció fundamentalmente la IA, ¿sí? La
+[02:02:41] inteligencia artificial.
+[02:02:43] consumiendo un montón de recursos, vamos
+[02:02:45] a decir, energéticos para abastecer los
+[02:02:48] centros de datos. Sí, eso como así un
+[02:02:51] dato así medio anecdótico, pero qué a
+[02:02:53] dónde va eso es que esas esos centros de
+[02:02:57] datos o de cálculos de procesamiento de
+[02:02:59] cálculos necesitan energía constante
+[02:03:01] firme. Entonces esta industria nueva se
+[02:03:05] transformó, vamos a decir, muy
+[02:03:07] disruptivamente en un tomador de
+[02:03:09] máquinas eléctricas. Sí. para y
+[02:03:13] fundamentalmente de motogeneradores, TGS
+[02:03:15] y demás
+[02:03:17] para poder meter esa generación de
+[02:03:20] ingreso relativamente rápido y abastecer
+[02:03:23] su consumo que tiene que ser plano,
+[02:03:26] ¿sí?, o mejor dicho constante, no puede
+[02:03:27] tener baches eh el abastecimiento de ese
+[02:03:30] tipo de de industria.
+[02:03:33] Entonces, hoy se ve que si hoy digamos
+[02:03:36] tuviste la foto del Tercom donde
+[02:03:37] planificabas precio de $1,000 MW
+[02:03:41] mes contra este un ingreso de operación
+[02:03:45] de la central de año y medio dos a
+[02:03:48] precios de 22,000
+[02:03:50] hasta $30,000 o mes con ingresos en 4 o
+[02:03:53] 5 años.
+[02:03:55] Entonces ese cambio de de foto hace que
+[02:03:58] estos 9000 no hoy en la foto actual no
+[02:04:02] sean suficientes para que
+[02:04:05] una máquina tipo Tercom venga a
+[02:04:08] invertir. Sí, de hecho hace poco hubo
+[02:04:10] una licitación en Brasil para máquinas
+[02:04:12] térmicas de bajo factor de uso, algo
+[02:04:14] equivalente a esto, y los números que
+[02:04:16] salieron a la luz fueron realmente muy
+[02:04:20] e
+[02:04:22] llamativos para el lado negativo, o sea,
+[02:04:25] números que estaban más cerca de los
+[02:04:27] 30,000 de mati mes que de los 15,000 que
+[02:04:29] nosotros habíamos tenido en en el
+[02:04:32] tercón. eh y en un país como Brasil, que
+[02:04:35] no es un país, digamos, que el inversor
+[02:04:38] lo vea como un lugar riesgoso para
+[02:04:39] invertir. Entonces, digamos, bueno, ¿qué
+[02:04:42] quiere decir? En definitiva, que hoy con
+[02:04:44] esta señal de precio no va a venir nadie
+[02:04:46] a poner fierros e con este esquema.
+[02:04:49] Entonces, bueno, se está pensando en
+[02:04:51] esto, en cómo se implementa este esquema
+[02:04:54] adicional para que, bueno, digamos,
+[02:04:58] entendiendo, digamos que las fotos van
+[02:05:00] cambiando y los sistemas van
+[02:05:01] evolucionando, hoy esos 9,000 están muy
+[02:05:03] cortos y va a haber pagar más si
+[02:05:06] queremos que venga potencia de ese tipo.
+[02:05:09] Bueno,
+[02:05:10] y respecto, perdón Marcos, una pregunta.
+[02:05:12] Respecto de las baterías de
+[02:05:14] almacenamiento que también podrían
+[02:05:16] percibir este importe, la ecuación es
+[02:05:19] más o menos la misma con la generación
+[02:05:22] hidrotérmica, la señal de precios, digo.
+[02:05:24] Sí, ahí vamos siempre hablando de fotos,
+[02:05:26] ¿no es cierto? Hoy la foto sería que es
+[02:05:28] al revés, que estos 9000 quedan largos.
+[02:05:30] Sí. Ah, okay.
+[02:05:31] Porque se hizo el alma, el alma, el alma
+[02:05:34] GBA,
+[02:05:35] que bueno que fue exitoso en el sentido
+[02:05:39] de que bueno, obviamente cuando hay una
+[02:05:41] licitación se relevan se se revelan
+[02:05:43] precios que uno a priori también pasó
+[02:05:46] con el renovar en su momento, piensa que
+[02:05:49] los precios están por un lugar y
+[02:05:50] aparecen otros.
+[02:05:52] para para los térmicos clásicos, eh
+[02:05:57] digamos la la licitación esta de Brasil
+[02:06:00] fue para el otro lado, reflejó precio
+[02:06:01] mucho más arriba de lo que que uno tenía
+[02:06:04] en la cabeza y para el almacenamiento,
+[02:06:06] puntualmente, lo que me preguntas fue
+[02:06:08] para el otro lado, o sea, vinieron
+[02:06:09] precios realmente muy muy competitivos,
+[02:06:12] o sea, bajos, si cabe la palabra este.
+[02:06:16] Entonces, bueno, si a un a una bateria
+[02:06:20] le pagas los 4000, 5000 de los 12 eh por
+[02:06:25] disponibilidad de potencia
+[02:06:27] más estos 9000 te vas a 14,000 15,000
+[02:06:30] megw
+[02:06:32] que la la licitación de Almasadi, Almas
+[02:06:34] Geba, perdón, eh rondó los $,000 11,500
+[02:06:40] 12,000. Sí. Okay.
+[02:06:42] O sea, que digamos en principio ese
+[02:06:44] número estaría alto. E el Almasadi, si
+[02:06:49] bien digo e va a tener muchos oferentes,
+[02:06:52] entonces
+[02:06:53] bueno, Almadi va a tener muchos
+[02:06:55] oferentes, pero ahí es competencia por
+[02:06:57] precio, o sea, que ahí
+[02:06:58] eh veremos cómo tal vez se acentúe esa
+[02:07:01] señal de la baja.
+[02:07:02] Claro. Este, y bueno, y de alguna manera
+[02:07:06] eso ayuda a revisar estos 9,000, o sea,
+[02:07:09] este esquema de revisión tanto para los
+[02:07:10] térmicos en general está eh se está
+[02:07:13] evaluando un poco más amplio, o sea,
+[02:07:15] cuánto se llevaría un almacenamiento,
+[02:07:18] cuánto se llevaría un ciclo combinado
+[02:07:20] que tendría mucho despacho, por ejemplo,
+[02:07:22] y llevaría renta, ¿y cuánto le sería
+[02:07:25] necesario
+[02:07:26] para asegurar una inversión para un
+[02:07:28] térmico de bajo factor de uso? Entonces,
+[02:07:31] bueno, eso todo este mundo se está,
+[02:07:34] digamos, en la Secretaría en evaluación.
+[02:07:36] Okay, gracias.
+[02:07:40] Bueno, eh creo esto ya lo lo fu lo
+[02:07:42] fuimos diciendo. Entonces, bueno,
+[02:07:45] ¿cómo cómo lo ve un distribuidor, ¿no es
+[02:07:48] cierto? Con los precios. Bueno, ya lo
+[02:07:50] dijimos,
+[02:07:52] está esta obligación del distribuidor,
+[02:07:54] esta obligación del 75%
+[02:07:57] se cubre aproximadamente con lo
+[02:07:59] asignado.
+[02:08:01] E si no esa obligación está puesta en la
+[02:08:06] ley, pero está diluida en la práctica
+[02:08:07] porque no hay implementado nada que
+[02:08:09] obligue al distribuidor,
+[02:08:12] ¿qué qué pasa si no se garantiza esta
+[02:08:15] contratación de ese de ese orden de
+[02:08:16] magnitud?
+[02:08:18] E bueno, básicamente el residencial
+[02:08:21] generación asignada a un precio
+[02:08:23] estacional que refleja el costo de esa
+[02:08:24] generación asignada.
+[02:08:27] El el no residencial se divide en dos
+[02:08:30] partes, ¿no es cierto? Lo que parte se
+[02:08:32] cubre con asignada y parte con
+[02:08:33] generación spot y el precio estacional
+[02:08:36] de ese de ese rango de tarifa refleja
+[02:08:39] ese mix. ¿Sí? E bueno, y de esto lo
+[02:08:43] contratable es todo lo que está el spot.
+[02:08:44] O sea, el distribuidor puede elegir
+[02:08:46] contratarse y si se contrata,
+[02:08:50] digamos, inicialmente se contrata a este
+[02:08:52] precio, ¿no es cierto? El precio
+[02:08:53] estacional, no residencial,
+[02:08:56] pero lo que efectivamente en el largo
+[02:08:58] plazo termina sustituyendo es precio
+[02:09:00] spot. Sí,
+[02:09:03] eso digamos hay que no está implementado
+[02:09:05] hoy así en los sistemas ni tampoco en la
+[02:09:08] sanción de precio estacional. O sea, si
+[02:09:09] un distribuidor se contratara toda su
+[02:09:11] energía no cubierta con un generador
+[02:09:14] térmico, con un hidráulico o con un
+[02:09:17] renovable,
+[02:09:18] por lo que le queda no cubierto, eh, no
+[02:09:21] contratado, o sea, todo lo que sí le
+[02:09:22] estaba cubierto, debería solamente pagar
+[02:09:25] igual que el residencial, solamente
+[02:09:26] costo de generación asignada. Pero
+[02:09:28] bueno, esa implementación de detalle,
+[02:09:30] vamos a decir así, como todavía no está
+[02:09:33] tan desarrollado el mercado de
+[02:09:34] contratos, no está implementado en los
+[02:09:37] sistemas y la sanción de precio sigue
+[02:09:38] siendo eh única o uniforme para todos
+[02:09:42] los distribuidores. Sí. Y en el extremo,
+[02:09:45] en el futuro, si efectivamente hay mucha
+[02:09:47] contratación,
+[02:09:49] el precio estacional fundamentalmente
+[02:09:51] para esta tarifa no residencial
+[02:09:54] debería reflejar el mix de contratación
+[02:09:57] de cada distribuidor.
+[02:10:00] Así que bueno, sigamos con esto. este
+[02:10:02] precio de energía
+[02:10:04] para los para la del resto de la demanda
+[02:10:07] de spot goodies y grandes del memo
+[02:10:12] de spot. El goody tiene un intermedio
+[02:10:15] que es un precio estacionalizado que se
+[02:10:17] calcula, se sanciona, pero que después a
+[02:10:19] través de la resolución 976 se llevan a
+[02:10:22] un equivalente en paso mensual.
+[02:10:27] ¿Cómo se sanciona el precio de la
+[02:10:28] energía spot para todo este universo?
+[02:10:31] Bueno, es todo lo que está acá en esta
+[02:10:32] formulita, pero de toda esta formulita
+[02:10:35] vamos a concentrarnos solamente
+[02:10:37] en esta parte que dice costo medio,
+[02:10:39] energía spot, que es lo que está
+[02:10:40] funcionando ahora. Sí, el el resto de la
+[02:10:43] fórmula es a futuro y todavía no
+[02:10:47] está, digamos, funcionando de esa
+[02:10:50] manera. Entonces, esta es un poco la
+[02:10:52] pregunta que que había surgido hoy.
+[02:10:55] Tenemos, ¿qué reemplaza un contrato?
+[02:10:57] Bueno, un contrato, o sea, un gran
+[02:10:59] usuario, ¿qué va a pagar?
+[02:11:00] o mejor dicho, una demanda spot que va a
+[02:11:02] pagar este costo medio energía spot y va
+[02:11:06] a ser lo que deje de pagar en caso de
+[02:11:07] que se contrate energía con un generador
+[02:11:10] en forma directa.
+[02:11:12] Este costo medio energía spot
+[02:11:14] básicamente refleja todo lo que todo el
+[02:11:17] costo de esa generación que dijimos que
+[02:11:18] está al spot. Sí,
+[02:11:21] cuando uno ve toda esa generación que
+[02:11:22] está el spot, esa generación spot es
+[02:11:24] fundamentalmente generación térmica.
+[02:11:26] ¿Sí? Entonces, básicamente ese costo de
+[02:11:29] energía se va a mover en el tiempo con
+[02:11:32] el costo del combustible, ¿sí? Y con el
+[02:11:34] uso de combustibles.
+[02:11:36] Por eso decíamos que
+[02:11:39] fuera del invierno van a ser básicamente
+[02:11:42] costo de energía que reflejan costo de
+[02:11:44] gas, el uso del gas.
+[02:11:47] Y fundamentalmente,
+[02:11:51] como en Argentina, por suerte podemos
+[02:11:54] decir, hay muchos ciclos combinados.
+[02:11:56] mucha de la energía que se produce
+[02:11:58] energía, vamos a decir eficiente con un
+[02:12:01] combustible barato. Sí, energía
+[02:12:03] eficiente producida con silos combinados
+[02:12:06] y con un combustible barato que es el
+[02:12:07] gas natural. Entonces ese mix da ese
+[02:12:10] precio de, como comentaba hace un
+[02:12:13] ratito, alrededor de 40 y pico dólar 45
+[02:12:17] podos poner un número de costo de
+[02:12:19] energía fuera del invierno. En invierno,
+[02:12:23] si bien tenemos los ciclos combinados,
+[02:12:25] pero en vez de darle gas, le damos
+[02:12:26] gasoil. Sí, obviamente ese GNL o gasoil,
+[02:12:31] ese combustible, esos alternativos son
+[02:12:33] mucho más caros y por más que estén
+[02:12:35] producido en una máquina eficiente, los
+[02:12:37] costos de producción se elevan bastante.
+[02:12:40] Si a su vez a esos costos de
+[02:12:41] combustibles generalmente importados
+[02:12:44] como el GNL y el gasoil e fluctúan como
+[02:12:49] está se está dando ahora con la guerra,
+[02:12:51] ¿sí? E ese impacto es muchísimo más
+[02:12:54] alto. Entonces, vamos a ver. que estamos
+[02:12:58] esperando números para el invierno de $5
+[02:13:02] de costo de energía, 80 85
+[02:13:05] y con el impacto de la guerra pueden ir
+[02:13:07] a 110 del MW h
+[02:13:11] de de costo de producción de energía
+[02:13:14] para tal vez ya lo sepan, pero bueno, lo
+[02:13:17] digo
+[02:13:18] como información general, el GNL,
+[02:13:21] digamos previsto, o sea, o las fotos
+[02:13:23] anteriores de GNL, el gas que viene por
+[02:13:25] barco y que se se regasifica.
+[02:13:30] Estaba alrededor de 11 el millón de BTU,
+[02:13:33] ¿sí? Cuando el gas local en invierno
+[02:13:35] está alrededor de casi 5 4 y medio, CC y
+[02:13:39] fuera del invierno está 3,3. Sí, esos
+[02:13:41] son la la los precios más o menos
+[02:13:43] aproximadamente de costos de gas.
+[02:13:47] E entonces, bueno, normalmente es el GNL
+[02:13:49] que había que importar para la en forma
+[02:13:52] estacional en invierno,
+[02:13:54] tenía ese número de referencia, 10, 11,
+[02:13:57] 12 millón de BTU.
+[02:13:59] con el tema de la guerra se fue a 22 20
+[02:14:01] 22 millones, o sea, se duplicó el valor.
+[02:14:04] Sí, obviamente ese gas importado puesto
+[02:14:07] en en producir energía hace que los
+[02:14:10] precios se disparen o los costos se
+[02:14:12] disparen. No no por el mecanismo, no por
+[02:14:14] el por cómo digamos por todo lo de la
+[02:14:18] 400, sino simplemente porque eh el costo
+[02:14:21] del combustible se disparó. Así que hay
+[02:14:23] muchas cosas que digamos que que muchas
+[02:14:26] veces no se pueden, digamos prediseñar
+[02:14:29] todas, ¿no es cierto? Obviamente esta
+[02:14:30] esta situación de la guerra en el Golfo
+[02:14:32] Pérsico eh impactó negativamente los
+[02:14:35] costos de los combustibles y obviamente
+[02:14:37] cuando vos necesitas esos combustibles
+[02:14:39] en algún lugar eh te va a impactar en tu
+[02:14:42] matriz de costo de energía.
+[02:14:45] E bueno,
+[02:14:47] entonces en definitiva, este costo spot
+[02:14:50] refleja en cada mes lo que costó
+[02:14:53] abastecer esa demanda spot y eso
+[02:14:55] fundamentalmente es generación de origen
+[02:14:57] térmico, ¿sí? Porque todo lo renovable
+[02:15:00] que está el spot, el matter, ¿sí? está
+[02:15:02] contratado, o sea, no participa de ese
+[02:15:04] mercado, ya se contrató con otro
+[02:15:05] privado. Entonces, esa energía que está
+[02:15:08] directamente asignada un privado, no no
+[02:15:11] va no
+[02:15:13] se va, no impacta el costo spot porque
+[02:15:17] ya esa energía se destinó a otro,
+[02:15:19] puntualmente un usuario.
+[02:15:23] Eh, la parte de potencia, esto de son, o
+[02:15:26] sea, lo que estamos viendo ahora son
+[02:15:28] precios para la demanda, ¿no?
+[02:15:30] estacionales, precios de energía spot
+[02:15:32] mensuales y ahora vamos para el pago de
+[02:15:34] potencia.
+[02:15:35] El pago de potencia se estableció
+[02:15:37] también en las horas de remuneración de
+[02:15:38] la potencia, o sea, un demandante va a
+[02:15:40] pagar
+[02:15:42] un valor por un físico de potencia que
+[02:15:44] representa su compartamiento de consumo
+[02:15:46] en en un determinado mes.
+[02:15:50] Y ese
+[02:15:52] ese cómo es esa potencia que que refleja
+[02:15:56] ese comportamiento de ese demandante,
+[02:15:58] ¿cuánto va a pagar de potencia? Bueno,
+[02:16:00] 16. 16 también por un factor que se
+[02:16:04] divide invierno o verano, o sea, más
+[02:16:06] caro en invierno y en verano porque el
+[02:16:08] sistema está más exigido y más barato en
+[02:16:11] primavera y otoño.
+[02:16:13] Fíjense acá, básicamente tenemos 16 por
+[02:16:15] un lado para la demanda y teníamos 12
+[02:16:17] para la generación.
+[02:16:20] Bueno, un poco ahí la idea de la
+[02:16:22] secretaría es bueno, efectivamente poner
+[02:16:25] señales de precios que no son
+[02:16:28] equivalentes para la demanda y la
+[02:16:30] generación.
+[02:16:31] para que eventualmente exista un contr
+[02:16:34] eh contratos de potencia. O sea, un gran
+[02:16:37] usuario que se decide contratar la
+[02:16:38] potencia, este físico en vez de pagarlo
+[02:16:41] a estos 16 en HRP
+[02:16:44] en el spot, directamente contrata este
+[02:16:47] físico con un generador y el generador
+[02:16:50] deja de vender ese físico de potencia al
+[02:16:53] spot y se lo vende directamente al gran
+[02:16:54] usuario. De alguna manera, la señal de
+[02:16:57] esto es que hay precios divergentes, por
+[02:17:00] lo tanto puede haber un un punto en
+[02:17:01] común donde sea ganar y ganar, o sea, el
+[02:17:04] generador cobra un poquito más por
+[02:17:05] potencia y el demandante paga un poquito
+[02:17:07] menos y digamos un gran usuario contrata
+[02:17:12] directamente o un distribuidor contrata
+[02:17:14] directamente una máquina y básicamente,
+[02:17:18] ¿qué es el pago de potencia? Es el pago
+[02:17:19] del mantenimiento de esa máquina.
+[02:17:21] Entonces,
+[02:17:22] un poco, vamos a decir, el concepto que
+[02:17:24] está atrás es decir, bueno, yo le pago
+[02:17:26] potencia a la máquina que me respalda
+[02:17:28] físicamente a mí, porque eventualmente
+[02:17:30] si llega un momento crítico y yo tengo
+[02:17:32] un contrato de potencia con una máquina
+[02:17:34] y esa máquina efectivamente me puede
+[02:17:36] abastecer despachar más allá del
+[02:17:37] combustible que use, entrar en despacho,
+[02:17:41] me va abastecer a mí y me va a dar ese
+[02:17:43] respaldo físico que en algún momento
+[02:17:45] tiene que existir. Entonces,
+[02:17:47] eh, como filosofía, ¿con quién? Si yo
+[02:17:50] soy un demandante, ¿a quién le pago para
+[02:17:52] que mantenga bien el equipo? Y me
+[02:17:53] conviene pagarle para que mantenga bien
+[02:17:55] el equipo a una máquina que entre
+[02:17:57] comillas esté eléctricamente cerca. Sí.
+[02:18:00] Si yo soy un demandante que está en
+[02:18:01] Patagonia y medio que menos no me
+[02:18:04] conviene pagarle reserva de potencia a
+[02:18:06] uno que esté en Jujuy, ¿sí? Si bien se
+[02:18:08] puede comercialmente el contrato va a
+[02:18:09] funcionar. Si en algún momento por
+[02:18:12] alguna cuestión física se requiere un
+[02:18:14] respaldo físico real de ese contrato,
+[02:18:16] bueno, obviamente. ¿Y eso qué significa?
+[02:18:19] básicamente restricciones, que que el
+[02:18:21] sistema llegue un momento de de
+[02:18:24] saturación en el sentido de no poder
+[02:18:27] abastecer porque falta potencia y bueno,
+[02:18:30] si yo tengo una potencia con una camque
+[02:18:32] que está al lado mío y lo estoy pagando,
+[02:18:34] bueno, esa esa máquina se va a despachar
+[02:18:36] y me va a abastecer a mí y digamos y es
+[02:18:40] generalmente esas condiciones se ven en
+[02:18:42] forma local, ¿no? En forma de áreas.
+[02:18:44] ¿Qué quiere decir con todo eso? un poco
+[02:18:46] la filosofía atrás está de que vos te
+[02:18:48] contrate con la potencia que sea útil
+[02:18:50] para vos y eso es fundamental
+[02:18:53] de alguna manera para los
+[02:18:55] distribuidores, ¿sí? Pagar la potencia,
+[02:18:57] o sea, por decir algo, a de nor de sur
+[02:19:00] le conviene contratar potencia con
+[02:19:02] Puerto para que Puerto mantenga sus
+[02:19:04] máquinas ahí en GBA, en capital, vamos a
+[02:19:07] decir así. Eh, pero bueno, puede no
+[02:19:10] suceder eso, pero bueno, como señal es
+[02:19:13] más lógico que una que un distribuidor
+[02:19:15] pague el mantenimiento de máquinas que
+[02:19:18] eventualmente le van a servir para
+[02:19:19] asegurar su abastecimiento.
+[02:19:24] Bueno, acá detalles de cálculo de
+[02:19:25] potencia, digamos, en general se definió
+[02:19:28] cómo se calcula ese físico.
+[02:19:31] Para los grandes usuarios se definió un
+[02:19:34] nuevo concepto que es que van a pagar el
+[02:19:37] físico en función de las zonas de máxima
+[02:19:40] demanda de sistema. Entonces ahí se va a
+[02:19:42] analizar
+[02:19:44] cómo demanda potencia en esas horas y en
+[02:19:47] función de eso se saca un promedio y se
+[02:19:49] da un valor físico del comportamiento
+[02:19:52] del gran usuario en las horas de máxima
+[02:19:53] demanda, por decir algo así, en verano,
+[02:19:57] esas horas de máxima demanda son las
+[02:19:58] horas de la siesta. Entonces, si vos
+[02:20:00] como demandante, como y eso es lo que
+[02:20:02] empunta el sistema, ¿no? Todos
+[02:20:04] consumiendo cuando hace mucho calor en
+[02:20:06] la siesta en un verano llegamos a los
+[02:20:08] récords de 30,000 31,000 MW de potencia
+[02:20:11] en esas horas del verano.
+[02:20:15] Si vos sos un gran usuario y decís, "Yo
+[02:20:18] acomodo mi producción fuera de esas
+[02:20:20] horas y consumo fuera de esas horas, de
+[02:20:22] alguna manera mi compra de potencia,
+[02:20:24] como no estoy exigiendo al sistema en
+[02:20:26] el, digamos, en en esas horas de más
+[02:20:29] complicadas y lo lo hago afuera, voy a
+[02:20:33] pagar menos potencia, ¿sí? Porque estoy,
+[02:20:34] digamos, colaborando con no necesitar
+[02:20:37] esos 31,000 MW, ¿sí? ¿Por qué? Porque
+[02:20:39] esos 31,000 lo necesito en esas horas
+[02:20:42] puntuales del mes. Si yo saco demanda de
+[02:20:44] esas horas, capaz que en vez de tener
+[02:20:46] 31,000 voy a necesitar, no sé, 29,000. O
+[02:20:49] sea, que de alguna manera va a haber
+[02:20:51] 2,000 MW menos de esto he dicho muy eh
+[02:20:56] gruesamente, ¿no? Después las señales
+[02:20:58] hay que ver si si realmente se dan esas
+[02:21:00] condiciones, pero bueno, desde el punto
+[02:21:02] de vista de la señal económica, es
+[02:21:04] decir, bueno, si yo soy un gran usuario
+[02:21:06] y consumo potencia o energía fuera de
+[02:21:10] las horas que el sistema está más
+[02:21:11] exigido, de alguna manera tengo un
+[02:21:13] premio y ese premio es pagar menos
+[02:21:14] potencia.
+[02:21:17] para los distribuidores, eh, digamos,
+[02:21:19] como es no es una demanda, vamos a
+[02:21:21] decir, es otro concepto, es más el
+[02:21:23] concepto clásico de máximo requerimiento
+[02:21:25] de demanda con la salvedad de que se lo
+[02:21:28] pone en la peor condición.
+[02:21:31] ¿Qué quiere decir eso? Bueno, yo te miro
+[02:21:33] tu historia como distribuidor, yo tengo
+[02:21:35] que definir tu compra de potencia para
+[02:21:37] los próximos 6 meses. Bueno, miro lo que
+[02:21:38] hiciste en los 6 meses equivalentes del
+[02:21:41] año anterior o del periodo anterior.
+[02:21:45] Entonces, de ese de ese de tu historia
+[02:21:47] vio tu máximo consumo y de ese máximo
+[02:21:50] consumo tomo el 90%. Y eso es lo que te
+[02:21:52] voy a cobrar de potencia en este
+[02:21:54] semestre, un valor fijo todo el mes,
+[02:21:56] salvo que vos registes más que ese
+[02:21:58] valor. Si registrás más que ese valor,
+[02:22:00] te cubro el valor registrado. Si no, te
+[02:22:02] cobro te cobro ese valor histórico. Un
+[02:22:05] poco ahí también. La idea es que, bueno,
+[02:22:07] todos estos picos de demanda en general
+[02:22:10] e obviamente están asociados a demanda
+[02:22:12] de distribución. Sí, el comportamiento
+[02:22:15] más aleatorio y más concentrado en los
+[02:22:17] momentos de de extremos de temperatura
+[02:22:20] están asociados al comportamiento
+[02:22:21] residencial, no residencial.
+[02:22:23] Entonces, de alguna manera, vos tenés
+[02:22:25] que mantener un un sistema de 30 y pico
+[02:22:28] 1000 MW disponible fundamentalmente para
+[02:22:32] pocas horas del año, pero que tienen que
+[02:22:34] estar y que básicamente se debe ese pico
+[02:22:39] al comportamiento de la demanda de
+[02:22:41] distribuidor. Entonces, o sea, tiene una
+[02:22:43] señal distinta al del al del Guma, ¿no
+[02:22:46] es cierto? Bueno, más o menos esas son
+[02:22:48] las conceptos que estuvieron atrás de
+[02:22:50] cada físico con el cual tiene que
+[02:22:53] comprar potencia
+[02:22:55] un tipo de demanda.
+[02:22:58] Ese físico que cobra, bueno, los 16 por
+[02:23:00] los factores, pero si yo me contrato en
+[02:23:02] el mercado término de potencia,
+[02:23:03] descuento este físico y y obviamente esa
+[02:23:07] esa potencia contratada se la pago
+[02:23:08] directamente al generador y la dejo de
+[02:23:10] pagar, como decíamos recién, al eh al al
+[02:23:15] spot.
+[02:23:19] Entonces, bueno, ya con esto creo que
+[02:23:21] estamos terminando. Eh, el mercado a
+[02:23:23] término, bueno, que de alguna manera,
+[02:23:26] digamos, nosotros tenemos esquema de
+[02:23:28] precios, todo esquema de precios es para
+[02:23:30] lo que no está contratado. Bueno, el
+[02:23:32] esquema de contratos, digamos se monta,
+[02:23:36] digamos, de alguna manera sobre ese
+[02:23:37] esquema de precios de energía y esquema
+[02:23:39] de precio de potencia. Entonces, se
+[02:23:42] definió como conceptos nuevos un mercado
+[02:23:45] a término de energía.
+[02:23:46] y un mercado término de potencia.
+[02:23:49] La lógica general del mercado término de
+[02:23:51] energía es que vos todo lo que consumís
+[02:23:53] de energía en el mes lo contratás y la
+[02:23:56] evaluación de la energía
+[02:23:58] eh es, vamos a decir, es en paso
+[02:24:00] mensual. acumulas todo tu consumo
+[02:24:02] mensual en un mes, el generador acumula
+[02:24:05] toda su produción de energía en el mes y
+[02:24:07] con esos físicos mensuales eh se evalúan
+[02:24:10] eventualmente los contratos que puedan
+[02:24:12] existir y siempre por valores reales de
+[02:24:15] energía. O sea, un generador no puede
+[02:24:17] vender más energía que la que realmente
+[02:24:19] produce y un demandante no compra más
+[02:24:22] energía que la que realmente consume.
+[02:24:24] ¿Sí? Entonces, siempre es por energía
+[02:24:25] real.
+[02:24:27] Eso, digamos, es un gran cambio con
+[02:24:28] respecto a los 90, porque los 90 eh
+[02:24:31] había, digamos, no había topes ni
+[02:24:33] máximos ni mínimos, o sea, no era por
+[02:24:35] real. Entonces, si vos como demandante
+[02:24:37] comprabas más energía, lo que comprabas
+[02:24:40] de más lo vendías al spot. y un gran us
+[02:24:42] un generador que vendía más energía de
+[02:24:44] la que tenía para vender sus contratos,
+[02:24:46] si le faltaba compraba el spot, pero eso
+[02:24:49] cerraba con el esquema de precio único,
+[02:24:51] este, y demás, de precio marginal único.
+[02:24:54] Y bueno, todo eso, digamos,
+[02:24:57] eh de alguna manera se discontinuó y
+[02:25:00] vamos con esta lógica de paso mensual. A
+[02:25:03] su vez, la lógica de paso mensual de la
+[02:25:04] energía está, digamos, también empalmada
+[02:25:06] con lo que sí estaba funcionando, que
+[02:25:08] dijimos en un principio, que era el
+[02:25:10] matter. el mercado a término de energías
+[02:25:12] renovables que tenía esta lógica de paso
+[02:25:14] mensual. Sí. ¿Para qué? Para que no
+[02:25:17] asociar el consumo instantáneo, la
+[02:25:18] generación instantánea de un de un
+[02:25:20] generador eólico y solar con el consumo
+[02:25:23] instantáneo de un demandante. Entonces,
+[02:25:26] para simplificar y y darle más
+[02:25:28] viabilidad a esa a esas inversiones
+[02:25:30] renovables fue que se agrupó esa energía
+[02:25:34] producida en paso mensual contra demanda
+[02:25:36] en paso mensual. Entonces, bueno, de
+[02:25:38] alguna manera también el nuevo mercado
+[02:25:40] de término de energía común, que puede
+[02:25:41] ser hidrotérmico, cualquier cualquier
+[02:25:44] tipo de energía, se macheó o continuó
+[02:25:47] con esa lógica de un mercado que ya
+[02:25:48] funcionaba, que era el máximo
+[02:25:52] de potencia, sí, es totalmente nuevo. Es
+[02:25:54] que básicamente es eh cada generador
+[02:25:58] tiene una potencia disponible en cada
+[02:25:59] hora de remuneración de la potencia y
+[02:26:02] cada demandante tiene una compra mensual
+[02:26:03] de potencia que la va a pagar en cada
+[02:26:06] HRP. Entonces, esos físicos de potencia
+[02:26:09] puede contratarse entre partes. Todo lo
+[02:26:11] que se contratan, el generador descuenta
+[02:26:15] de su venta de potencial spot y el gran
+[02:26:17] gran usuario descuenta de su compra de
+[02:26:20] potencial spot. Eh, y todos los saldos
+[02:26:24] obviamente sí se cierran en compra del
+[02:26:26] spot.
+[02:26:27] E en este caso mercado térmico y
+[02:26:28] potencia están los térmicos, los hidros
+[02:26:31] y almacenamiento. Sí, el renovable no
+[02:26:33] participa en este caso. Eh, y también
+[02:26:36] son datos, vamos a decir, reales. Sí, el
+[02:26:40] en cada HRP, el generador puede cubrir
+[02:26:44] contrato con potencia real disponible, o
+[02:26:45] sea, tiene que estar disponible en una
+[02:26:47] HRP para cubrir potencia, o sea, no
+[02:26:50] puede cubrir con con algo que no tiene,
+[02:26:52] que no tuvo disponible. Y el demandante,
+[02:26:55] digamos, con ese físico de referencia
+[02:26:57] que habíamos visto recién, con la lógica
+[02:27:00] para el distribuidor de una manera y
+[02:27:01] para el gran usuario de otra, ese físico
+[02:27:03] que representa su comportamiento para la
+[02:27:05] potencia es el que puede contratar y no
+[02:27:08] digamos y se calcula mes a mes.
+[02:27:10] Entonces, digamos de un lado y de otro
+[02:27:13] ambos valores físicos son reales eh para
+[02:27:17] ese macho. O sea, no hay compras ni
+[02:27:19] ventas de saldos de potencia de más
+[02:27:21] contratado, de menos contratado.
+[02:27:25] Y después todo lo que son servicios
+[02:27:28] extras, básicamente pérdidas, este
+[02:27:31] algunas cosas adicionales que hay que
+[02:27:32] pagar de digamos de de logística de
+[02:27:35] combustible que hace camisa en forma
+[02:27:37] centralizada
+[02:27:38] e impuestos asociados a los combustibles
+[02:27:40] que se reconocen por afuera de los
+[02:27:41] costos de el CP de la máquina. Bueno,
+[02:27:44] hay un montón de cositas que se
+[02:27:46] consideran como servicios.
+[02:27:48] e digamos y esos son contratables, esos
+[02:27:51] se pagan directamente la demanda los
+[02:27:52] paga. Hay igual que el transporte la
+[02:27:55] demanda los paga sin importar si están
+[02:27:57] contratados o no. Van por su energía,
+[02:27:59] independientemente de los contratos.
+[02:28:05] Bueno,
+[02:28:07] todo esto sería montado sobre el mundo
+[02:28:09] existente. Lo nuevo es e, digamos lo que
+[02:28:13] lo que tenga que venir para seguir
+[02:28:14] asegurando el abastecimiento. Un poco ya
+[02:28:17] lo adelantamos con ese concepto de
+[02:28:19] confiabilidad adicional, ese servicio
+[02:28:20] nuevo que es un extra de potencia para
+[02:28:24] aquellos generadores, digamos, que que
+[02:28:26] vengan nuevos. Eso tiene, digamos,
+[02:28:29] ciertas condiciones de implementación.
+[02:28:31] La secretaría es la que va a aprobar ese
+[02:28:33] ese nuevo concepto.
+[02:28:36] Pero bueno, eh en la resolución está
+[02:28:39] previsto que que de alguna manera la
+[02:28:42] Secretaría de Energía se guarda unas en
+[02:28:44] la manga de decir, bueno, evaluamos lo
+[02:28:46] que el escenario futuro. Sí, si vemos
+[02:28:49] que esto no evoluciona, como queremos
+[02:28:53] que evolucione en forma autónoma,
+[02:28:55] podemos llegar a ser eh volver a hacer
+[02:28:57] alguna licitación centralizada.
+[02:29:00] esa licitación centralizada, el objetivo
+[02:29:02] es que
+[02:29:04] se haga fundamentalmente para los
+[02:29:06] actores que que menos dinámica tienen,
+[02:29:08] que en general son los distribuidores.
+[02:29:10] Entonces, bueno, sería como agregar
+[02:29:13] contratos a la energía asignada. Sí,
+[02:29:15] pero bueno, eso está, digamos, como se
+[02:29:19] como como opción B para en el caso de
+[02:29:23] que no haya una una evolución autónoma
+[02:29:25] de del
+[02:29:28] digamos del mercado entre privados.
+[02:29:30] De alguna manera, el alma GBA y el alma
+[02:29:34] SADI son un poco ese
+[02:29:37] salir a hacer algo mientras tanto,
+[02:29:40] mientras no exista una una una eh
+[02:29:45] evolución autónoma del mercado con algo
+[02:29:48] que digamos que no es el el Tercom como
+[02:29:52] fue en su momento,
+[02:29:54] porque el Tercom hoy tendrían otras
+[02:29:56] condiciones de entrega, de plazos, de
+[02:29:57] costos y sí se hizo con la con una
+[02:30:00] tecnología que en teoría, al menos
+[02:30:01] después vamos a probar en la práctica,
+[02:30:03] pero en teoría es confiable, es
+[02:30:05] económica y y digamos de alguna manera e
+[02:30:10] puede digamos dar una una solución de
+[02:30:12] corto plazo a los a los empuntamientos
+[02:30:15] de demanda. Si, eso es el
+[02:30:18] almacenamiento.
+[02:30:20] Puntualmente el alma GBA eh los costos
+[02:30:24] de esos contratos de almacenamiento GBA
+[02:30:27] eh van a ser asignados en forma directa
+[02:30:29] de norte y de sur. Sí, esa digamos así
+[02:30:32] se planteó la licitación.
+[02:30:34] Almaadic es más genérico y se digamos
+[02:30:39] Alma GBA de alguna manera se planteó
+[02:30:42] como asegurar el el abastecimiento en
+[02:30:44] GBA. Sí, por eso se alma GBA y que los
+[02:30:47] que se hacen cargo de ese costo eh son
+[02:30:50] los demandantes de ese área. Almadi se
+[02:30:54] plantea más confiabilidad del sistema.
+[02:30:56] Entonces por eso eh se prevé que los
+[02:30:58] costos del Almassadi no sean alocados en
+[02:31:01] en los distribuidores donde se conecten
+[02:31:03] esos proyectos, sino que se roleen en
+[02:31:05] todo el sistema como un servicio más. E
+[02:31:08] así que bueno, un poco nueva oferta en
+[02:31:11] el MEM, está planteado todo para que
+[02:31:13] sean forma autónoma con todo lo que
+[02:31:15] venimos diciendo. La secretaría se
+[02:31:18] reserva alguna acción individ digamos
+[02:31:20] digamos si esto no está funcionando bien
+[02:31:23] y en el corto plazo salió con algo para
+[02:31:26] tratar de garantizar el abastecimiento
+[02:31:28] en el próximo año, año y medio con este
+[02:31:32] almacenamiento.
+[02:31:36] Y bueno, vamos cerrando. ¿Cómo qué dice
+[02:31:38] el futuro? Bueno, el futuro obviamente
+[02:31:40] no se conoce, pero bueno, sabemos
+[02:31:44] algunas cosas, ¿no es cierto?
+[02:31:46] ¿Cómo va a evolucionar la generación
+[02:31:47] asignada y la generación al spot? Si la
+[02:31:49] generación asignada es eh básicamente,
+[02:31:53] como ya dijimos varias veces, todo lo
+[02:31:54] que tiene costo regulado, los contratos
+[02:31:57] men y demás. Bueno, de todo ese paquete
+[02:31:59] de generación asignada, ya sabemos que
+[02:32:01] hay un un buen número de megwtios
+[02:32:04] y de energía que van a dejar de estar
+[02:32:07] contratados. Sí, toda la resolución 21
+[02:32:11] fundamentalmente vence casi todo en el
+[02:32:14] 2027,
+[02:32:17] la 287 un poquito más adelante
+[02:32:20] y básicamente esa generación cuando se
+[02:32:22] determina el contrato,
+[02:32:24] como está planteado hasta ahora, es que
+[02:32:26] toda esa generación sin contrato pase a
+[02:32:28] ser formar generación en el spot. ¿Sí?
+[02:32:30] Entonces, de alguna manera, eh va a
+[02:32:32] haber menos generación asignada
+[02:32:35] desde el lado del del distribuidor, en
+[02:32:37] teoría
+[02:32:39] estaría menos cubierto su porcentaje de
+[02:32:42] obligación de contratación. Debería ir a
+[02:32:43] buscar contratos para al menos cubrir
+[02:32:46] ese ese 75% obligatorio de la ley. Pero
+[02:32:49] como ya también dijimos varias veces, no
+[02:32:51] existe un una un ¿qué pasa si no lo
+[02:32:54] hago? Entonces ahí está medio diluido la
+[02:32:56] señal de buscar e
+[02:33:00] contractualización por parte de los
+[02:33:01] distribuidores.
+[02:33:03] Y después otra cosa que que sí también
+[02:33:06] digamos va a influir es la generación
+[02:33:08] asignada. Son las hidro del comague que
+[02:33:10] tienen mucha energía. Bueno, esa esa
+[02:33:13] generación ya está planteado en el
+[02:33:14] contrato de reconcesión que va a
+[02:33:16] evolucionar. Sí, va a evolucionar y ya
+[02:33:19] de entrada evolucionó. Ya ahora dijo que
+[02:33:22] el 95% va a costo regulado con un
+[02:33:25] mecanismo de precio de bajo valores
+[02:33:28] fijos de contrato y un 5% de todo lo que
+[02:33:31] produce esa es esa esas centrales del
+[02:33:33] Comague van a precio spot. Sí, van a
+[02:33:36] hasta este nuevo mecanismo de
+[02:33:38] contratación libre y de venta spot.
+[02:33:42] Entonces, pero ese 955 inicial va a ir
+[02:33:45] va a ir variando en el tiempo hasta
+[02:33:47] llegar, vamos a decir, dentro de unos
+[02:33:48] cuantos años a ser 100% libre y nada
+[02:33:51] asignado. Y en el medio va a haber una
+[02:33:53] una progresión, o sea, que también eso
+[02:33:56] va a ir diluyendo la generación asignada
+[02:33:59] y en teoría aumentando el porcentaje, la
+[02:34:02] obligación propia del distribuidor de ir
+[02:34:04] a contratarse por su cuenta.
+[02:34:08] Bueno, con respecto a los precios de
+[02:34:10] spot, bueno, vamos a tener la evolución
+[02:34:13] del FRA, o sea, el factor de renta
+[02:34:15] adaptado que hoy es 015 y en el futuro
+[02:34:17] 035.
+[02:34:19] A medida que vaya pasando de un valor a
+[02:34:21] otro, obviamente
+[02:34:23] va a haber más remuneración en los
+[02:34:24] generadores, entonces los precios van a
+[02:34:26] ir a la suba, al menos en ese concepto.
+[02:34:29] Sí, obviamente todo eso todo muy al
+[02:34:32] costo del combustible. Si el costo de
+[02:34:33] combustible se dispara es como que este
+[02:34:36] factor no tiene mucha importancia, pero
+[02:34:39] bueno, hay todo un efecto ahí.
+[02:34:41] combustibles y factor de renta adaptado
+[02:34:44] que los precios, vamos a decir para el
+[02:34:46] futuro, combustibles siempre tienen la
+[02:34:49] incertidumbre como está efectivamente
+[02:34:52] sucediendo ahora, que es que aparezcan
+[02:34:54] este digamos eh
+[02:34:57] factores distorsivos como la guerra que
+[02:34:59] te elevan los precios de los
+[02:35:00] combustibles y por lo tanto te eleva el
+[02:35:02] precio de digamos de cada vez que usas
+[02:35:05] un combustible alternativo se disan los
+[02:35:06] precios y el factor de renta adaptado
+[02:35:09] va a ir creciendo y por lo tanto también
+[02:35:11] va a tener un un impacto en esos precios
+[02:35:13] finales.
+[02:35:16] La contratación de mercado de término
+[02:35:17] también va a influir en como es en la
+[02:35:20] evolución de los precios de spot. ¿Por
+[02:35:22] qué? Porque todo lo que se contrata
+[02:35:25] desaparece del spot. Lo más claro es
+[02:35:28] todo lo renovable contratado. Hoy ya no
+[02:35:30] participa del mercado spot porque está
+[02:35:31] contratado con otros grandes usuarios.
+[02:35:35] Entonces, ¿qué uno prevé? ¿Qué
+[02:35:37] generación se va a contratar? que hoy
+[02:35:39] está el spot, se va a contratar y ya
+[02:35:40] está sucediendo. Bueno, se va a
+[02:35:42] contratar la generación más barata, más
+[02:35:44] eficiente es la que primero vas va a
+[02:35:48] contratarse con alguien porque alguien,
+[02:35:51] digamos, de alguna manera va a comprar
+[02:35:53] energía barata y el generador digamos va
+[02:35:56] a vender su energía tal vez un poquito a
+[02:35:59] mejor precio que vendiéndole al spot.
+[02:36:01] Entonces
+[02:36:02] ahí digamos no está todavía cuantificado
+[02:36:05] qué efecto va a tener ese en el extremo.
+[02:36:08] Si todos los ciclos combinados baratos,
+[02:36:10] sí, eficientes se contratan,
+[02:36:14] e todo lo que queda el spot va a ser lo
+[02:36:17] más caro. O sea, por decir, van a crear
+[02:36:19] todas las TG de peor rendimiento, ¿sí?
+[02:36:22] Abasteciendo a lo que queda el spot.
+[02:36:24] Entonces, todo aquel que no se contrató
+[02:36:27] y siguió comprando el spot, esa energía
+[02:36:29] se va a ir encareciendo a medida que los
+[02:36:31] contratos, digamos, o la energía más
+[02:36:32] económica se vaya eh contratando. Pero
+[02:36:36] bueno, eso es una posibilidad, ¿no es
+[02:36:38] cierto? Hay que ver si efectivamente
+[02:36:39] sucede. Y puntualmente hasta el 2030
+[02:36:44] inclusive
+[02:36:46] todo este mundo de contratos de térmicos
+[02:36:49] está limitado solamente justamente para
+[02:36:52] acotar el tema de costos y demás.
+[02:36:54] al 20% de la generación, o sea, un
+[02:36:56] generador combinado viejo, solamente
+[02:37:00] puede contratar el 20% de su producción,
+[02:37:03] ¿sí?, con grandes usuarios. Entonces, de
+[02:37:05] alguna manera, eh
+[02:37:08] eh y Goodis también, ¿no? 20%. Entonces,
+[02:37:10] de alguna manera no se va a ir toda la
+[02:37:13] generación del despot porque está esa
+[02:37:15] restricción, pero bueno, a partir del
+[02:37:17] 2031 esa restricción se levanta y bueno,
+[02:37:21] ahí va a haber otra evolución de
+[02:37:23] precios.
+[02:37:26] Eh, acá también pusimos transporte de
+[02:37:28] gas natural porque, bueno, obviamente
+[02:37:30] como dijimos, todo el alternativo viene
+[02:37:32] en invierno, eso es GNL, eso es gasoil.
+[02:37:36] Si yo meto más transporte de gas, que me
+[02:37:39] permite tener más gas en invierno, eso
+[02:37:41] va a ser una señal al revés, ¿no es
+[02:37:43] cierto? Los costos van a bajar porque eh
+[02:37:46] digamos de alguna manera voy a tener
+[02:37:49] eh cómo es, más eh combustible barato en
+[02:37:53] invierno, ¿sí? Pero bueno, ese
+[02:37:54] transporte también hay que pagarlo,
+[02:37:55] también va a incidir en los costos y
+[02:37:57] bueno, se verá como eso termina
+[02:37:58] incidiendo en los precios finales.
+[02:38:02] Eh, bueno, acá simplemente como señal
+[02:38:05] cómo van a ir bajando los contratos de
+[02:38:06] la resolución 21 que van a estar dejar
+[02:38:08] de ser asignadas.
+[02:38:10] Lo de la 220 bajan un poco más lento.
+[02:38:13] Eh, renovar todos los renovables que
+[02:38:16] están como asignados recién a partir del
+[02:38:18] 2036 se empiezan a terminar porque eso
+[02:38:20] son contratos a 20 años. Así que bueno,
+[02:38:22] toda la generación asignada va a ir
+[02:38:24] cambiando
+[02:38:27] e generación asignada de de hidro, ¿sí?
+[02:38:32] E lo del Comague, bueno, puntualmente
+[02:38:35] esta va a ser la progresión hasta el
+[02:38:36] 2040. está cortado acá, en realidad
+[02:38:39] sigue, pero básicamente para el 2040
+[02:38:41] vamos a tener que de todo lo que
+[02:38:43] produzcan las del Comague, el 70% va a
+[02:38:47] estar el spot y el 30% va a estar
+[02:38:49] abasteciendo.
+[02:38:51] Eh, en este caso va a ser ya solo
+[02:38:54] residencial. Entonces, bueno, esta
+[02:38:56] generación que es una generación
+[02:38:57] relativamente barata, eh, digamos va ir
+[02:39:01] saliendo de de la asignada con esta con
+[02:39:04] este perfil. O sea, al principio casi
+[02:39:06] cero influencia, pero bueno, después va
+[02:39:08] a ir siendo más influyente.
+[02:39:13] Bueno, acá digamos, bueno, simplemente
+[02:39:15] un dato de color media 27 va a entrar en
+[02:39:18] servicio después de su repotenciación o
+[02:39:20] vida, no sé si es de vida útil o
+[02:39:22] mantenimiento mayor, eso no me acuerdo
+[02:39:24] bien si era si era así, pero qué quiere
+[02:39:26] decir esto acá esta es una generación
+[02:39:29] asignada se está pagando un costo fijo
+[02:39:31] para que haga esta esta este estos estas
+[02:39:35] mantenimientos mayores, o sea, que es un
+[02:39:38] valor fijo que está pagando con cero
+[02:39:39] energía aportada. Bueno, cuando ingrese
+[02:39:41] va a aparecer esa energía, entonces va
+[02:39:43] de alguna manera va a bajar el costo
+[02:39:45] total de esa generación asignada porque
+[02:39:48] van a haber megwtios que hoy no están,
+[02:39:49] megwti h producidos que hoy no están.
+[02:39:53] Bueno, simplemente unos numeritos acá
+[02:39:57] que como idea
+[02:39:59] es más o menos lo que ya dijimos, pero
+[02:40:00] con un poco más de números.
+[02:40:04] Eh, también lo mismo, porcentaje de
+[02:40:06] cobertura para más adelante. En teoría,
+[02:40:09] digamos, acá estamos más cerca de
+[02:40:12] cumplir con lo que tiene que hacer el
+[02:40:13] distribuidor y en el futuro, bueno, esa
+[02:40:15] esa ese cumplimiento
+[02:40:17] va a ir bajando,
+[02:40:19] ese cumplimiento que está por ley,
+[02:40:20] cuánto tiene que contratarse y debería
+[02:40:23] un distribuidor ir suplantando esa baja
+[02:40:25] de generación asignada con este
+[02:40:29] contratos
+[02:40:30] entre privados, o sea, con con un
+[02:40:32] generador privado.
+[02:40:35] Bueno, un poquito más de lo mismo. FRA,
+[02:40:37] bueno, va a ir subiendo, obviamente todo
+[02:40:40] lo que entra nuevo va con con un factor
+[02:40:42] uno, por lo tanto también puede hacer
+[02:40:45] que todo lo que entre nuevo ya sea
+[02:40:47] generación nueva. Efectivamente, como lo
+[02:40:49] que tenga transporte gas nuevo también
+[02:40:51] se le permite tener renta full para que
+[02:40:53] repague esa inversión de transporte. Y
+[02:40:55] bueno, si esto evoluciona, obviamente
+[02:40:57] los costos van a ir subiendo porque va a
+[02:40:59] haber pagar este esto este costo
+[02:41:02] adicional.
+[02:41:05] Y bueno, creo que hemos terminado.
+[02:41:13] Gracias, Marcos.
+[02:41:15] No sé si hay alguna duda, comentario,
+[02:41:18] pregunta
+[02:41:20] que quieran hacer.
+[02:41:25] Nos has dado demasiada información. Nos
+[02:41:27] está costando, nos cuesta procesar.
+[02:41:31] Bueno, no, no hay problema.
+[02:41:33] Todas las preguntas paso de los días van
+[02:41:35] cayendo, van cayendo.
+[02:41:37] Preguntas se pueden contestar más
+[02:41:38] adelante, no hay problema.
+[02:41:43] Bueno, si no hay no hay comentarios,
+[02:41:49] gracias Marcos y nos vemos el martes que
+[02:41:52] viene con una segunda clase también con
+[02:41:55] con otros ingenieros de Camesa.
+[02:41:58] Nos vemos. Gracias.
+[02:42:01] Gracias.
+[02:42:03] Gracias. Hasta luego. Chao. Chao. Chao.
+[02:42:05] Oh.

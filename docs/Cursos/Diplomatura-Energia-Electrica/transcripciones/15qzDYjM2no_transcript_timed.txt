@@ -1,0 +1,3238 @@
+[00:00:21] Bueno, buen día a todos. ¿Cómo están?
+[00:00:24] Espero que todos bien. Vamos a arrancar
+[00:00:27] hoy con la clase 19. de Fondo Provincial
+[00:00:31] de Compensaciones Tarifarias.
+[00:00:34] Contamos con la presencia de Esteban
+[00:00:36] Albacete, que seguramente la mayoría lo
+[00:00:39] conoce.
+[00:00:41] Eh, Esteban es licenciado en Economía
+[00:00:44] por la Universidad Nacional de La Plata.
+[00:00:46] ha hecho diversos estudios de posgrado
+[00:00:49] en regulación energética de gas y
+[00:00:51] electricidad del Care de la UVA,
+[00:00:55] posgrados de especialización en la
+[00:00:57] estructura jurídicoeconómica de la
+[00:00:58] regulación energética de gas y
+[00:01:00] electricidad,
+[00:01:01] eh y diversos cursos e que hacen a la
+[00:01:05] materia a la que nos dedicamos. Desde el
+[00:01:08] ámbito académico eh fue ayudante a
+[00:01:11] donoren de la cátedra de Derecho
+[00:01:12] Agrario, Minería y Energía de la
+[00:01:14] Universidad Católica de la Facultad de
+[00:01:15] Derecho de la Plata, profesor total
+[00:01:18] tutor, perdón, del programa de
+[00:01:20] actualización de regulación energética.
+[00:01:23] Fue dissertante en algunas jornadas
+[00:01:26] eh y su experiencia laboral se ha
+[00:01:31] centrado desde el año 2000, así que
+[00:01:32] tiene unos cuantos años.
+[00:01:34] Ya somos grandes
+[00:01:36] en la gerencia de mercados. del
+[00:01:38] organismo de control de energía en
+[00:01:40] distintas este funciones y actividades y
+[00:01:43] en la actualidad es el gerente de esa
+[00:01:46] gerencia de mercados. Así que bueno,
+[00:01:48] muchas gracias Esteban.
+[00:01:49] Bueno,
+[00:01:50] por acompañarnos hoy y bueno, la clase
+[00:01:53] toda tuya.
+[00:01:54] Bueno, gracias Guillermina por
+[00:01:55] invitarme, gracias a todos por
+[00:01:56] participar. Eh, básicamente, buenos
+[00:01:59] días. A muchos conozco, otros no. Eh,
+[00:02:02] esto para mí es un poco es lindo porque
+[00:02:04] es un poco contar en nuestro trabajo, lo
+[00:02:07] que hacemos todos los días. Acá hay
+[00:02:08] algunos de mi equipo también trabajando
+[00:02:10] de en la clase, pero bueno, que también
+[00:02:12] trabaja en esta situación. Les voy a a
+[00:02:15] proceder a contar. Eh,
+[00:02:17] ¿te escuchas? Perdón, pues estamos con
+[00:02:18] una sola máquina y estamos lejos.
+[00:02:21] Sí, perfecto,
+[00:02:23] perfecto. Alexandra, gracias. Bueno, les
+[00:02:25] voy a contar cómo funciona esta
+[00:02:27] herramienta. Esta herramienta que es la
+[00:02:29] única herramienta, digamos, que la única
+[00:02:31] provincia que la tiene en la República
+[00:02:33] Argentina y he buceado en muchos lugares
+[00:02:35] en internet tampoco se encuentra, eh,
+[00:02:38] que es el Fondo Compenses Tarifario. A
+[00:02:40] ver, mi idea es contarles por qué y para
+[00:02:43] qué existe este fondo y cuáles son las
+[00:02:45] causales de que este fondo esté, ¿no? La
+[00:02:48] realidad se arranca por los 90. Esto ya
+[00:02:51] lo de haber visto hasta el hartazgo,
+[00:02:52] pero es interesante contarlo un poquito
+[00:02:54] por porque la consecuencia de todas
+[00:02:57] estas regulación, toda esta
+[00:02:58] diversificación
+[00:03:00] vertical del mercado es la tarifa actual
+[00:03:03] y es la herramienta que necesitamos que
+[00:03:05] es el fondo compensador tarifario.
+[00:03:08] Anteriormente, ante los 90, la industria
+[00:03:10] eléctrica es una sola, generación,
+[00:03:11] transporte y distribución estaba todo
+[00:03:13] unido. ¿Qué pasa cuando vos tenés una
+[00:03:15] industria todo unida? Es muy difícil
+[00:03:16] aislar los costos. Cuando se te
+[00:03:18] dificulta aislar costos es difícil ser
+[00:03:21] eficiente. En los 90 para mí los
+[00:03:23] principales que que surgieron esta
+[00:03:26] teoría son las fon dos franceses que
+[00:03:28] dijeron básicamente, "Che, si
+[00:03:30] segmentamos la industria, ¿qué pasa?"
+[00:03:32] Bueno, si segmentamos la industria, ¿qué
+[00:03:34] va a pasar? Van a aparecer tres eh
+[00:03:37] sectores bien identificados que van a
+[00:03:39] ser la generación, el transporte y la
+[00:03:41] distribución. Pero, ¿qué pasa? Vamos a
+[00:03:44] tener dos problemas. Transporte y
+[00:03:46] distribución son monopolios, monopolios
+[00:03:48] naturales. Ya voy a proceder a explicar
+[00:03:49] un poquito qué es un monopolio natural.
+[00:03:52] Y en economía, monopolio natural parece
+[00:03:54] ser mala palabra porque significa poder
+[00:03:56] de mercado, eh cantidad de bienes
+[00:03:59] subóptima que el monopolista define qué
+[00:04:03] cantidad y qué calidad del producto va a
+[00:04:06] producir, se apropia del excedente del
+[00:04:08] consumidor, etcétera, etcétera,
+[00:04:09] etcétera. Con lo cual, en principio,
+[00:04:11] económicamente no tendría sentido. Sin
+[00:04:15] embargo, la generación sería un mercado
+[00:04:17] competitivo.
+[00:04:19] Yo acá le hago un signo de pregunta.
+[00:04:21] competitivo. Bueno, ahora les voy a les
+[00:04:24] voy a proceder a explicar por qué todo
+[00:04:27] este esquema funciona, funcionaría
+[00:04:29] siempre y cuando haya un señor que es el
+[00:04:31] señor Camesa, que es una especie de
+[00:04:33] subastador guarraciano. ¿Por qué? Porque
+[00:04:35] es el que tiene que vincular la oferta
+[00:04:36] de la demanda. Tiene que estar
+[00:04:37] continuamente mirando, dice cuánto se
+[00:04:39] está demandando y quién está ofertando
+[00:04:42] para poder despachar la máquina
+[00:04:43] eficientemente. Esto funciona de esta
+[00:04:46] manera. ¿Por qué decimos que la
+[00:04:48] generación es un mercado competitivo?
+[00:04:50] ¿Se asemeja a un mercado competitivo?
+[00:04:52] Porque acá se encuentra o podemos
+[00:04:54] definir lo que esta gente ha dicho, la
+[00:04:56] teoría marginalista. ¿Qué quiere decir
+[00:04:58] la teoría marginalista? Vamos a suponer
+[00:05:01] que yo tenga una máquina, un generador
+[00:05:03] que produce 200 kW, voy a decir 200 MW,
+[00:05:05] voy a decir cualquier número, no se
+[00:05:06] hagan problema. A 10 pes. La demanda en
+[00:05:10] este momento es de 200 MW. Camesa mira,
+[00:05:13] el señor de Camesa está mirando desde
+[00:05:15] arriba todo el sistema y dice, "Hay 200
+[00:05:18] MW de demanda. Hay una máquina que
+[00:05:20] produc esos 200 MW al menor costo
+[00:05:22] posible que 10 pesos. La despacho, pum,
+[00:05:25] sale funcionando. ¿Cuál es el precio de
+[00:05:27] mercado en ese momento? El precio de
+[00:05:29] mercado son 10 pesos por megw, que es la
+[00:05:32] máquina que despachamos. Ahora la
+[00:05:34] demanda aumenta. Vamos a asumerar que la
+[00:05:36] demanda aumenta 300 MW. Bueno, entonces
+[00:05:38] este señor mira cuál es la segunda
+[00:05:40] máquina que produce al menor precio. La
+[00:05:43] segunda máquina produce 100 MW extra 15
+[00:05:46] pesos. Ahora, el mercado B 200 a 10 y
+[00:05:52] 100 a 15, ¿no? El mercado ve
+[00:05:54] directamente los 300 MW a 15 pesos. Con
+[00:05:57] lo cual, con lo cual la primer máquina
+[00:05:59] que se despachó está obteniendo una
+[00:06:01] renta extraordinaria de 5 pes por megw.
+[00:06:04] Eso, ¿qué haría según la teoría? haría
+[00:06:06] que cualquier inversor que estuviera
+[00:06:08] fuera del mercado estuviera viendo esta
+[00:06:10] situación y diría, "Che, si yo puedo
+[00:06:11] ingresar con una máquina, supóng a 12
+[00:06:14] pesos por megw, me voy a comer la
+[00:06:16] diferencia de entre 15 y 12 pesos, con
+[00:06:19] lo cual voy a tener un beneficio
+[00:06:20] extraordinario." ¿Qué pasa en teoría
+[00:06:23] cuando ese productor generador ingrese?
+[00:06:26] va a desplazar la máquina menos
+[00:06:28] eficiente, con lo cual el precio de
+[00:06:29] mercado ahora ya se va a transformar en
+[00:06:31] 12 y así sucesivamente. Esto haría que
+[00:06:34] terminemos con el mejor precio del
+[00:06:36] mercado posible. Esto dice la teoría
+[00:06:38] económica. Por eso, desde este punto de
+[00:06:40] vista, el mercado de generación se
+[00:06:42] entiende o se asemejaría a un mercado
+[00:06:45] competitivo. Acá tengan en cuenta que no
+[00:06:47] hay interemporalidad porque una
+[00:06:49] inversión en generación tarda un montón
+[00:06:51] de años en ponerse operativa, con lo
+[00:06:53] cual esto sería básicamente teórico.
+[00:06:57] Ahora, ¿qué pasa con la resolución 400?
+[00:07:00] un poquito, hago un un pequeño
+[00:07:02] paréntesis porque en realidad lo que yo
+[00:07:04] les dije es cómo funciona el mercado
+[00:07:05] hoy. Todo el mundo va a comprar el
+[00:07:08] mercado spot. El mercado spot es el
+[00:07:10] mercado donde la última máquina que fija
+[00:07:13] a precio o la última la última máquina
+[00:07:15] que es la marginalista es la que está
+[00:07:17] fijando el precio, precio de potencia y
+[00:07:19] precio de energía. Todo el mercado vive
+[00:07:20] el mismo precio, ¿no es cierto? Esto es
+[00:07:22] así básicamente. ¿Cuál es el precio? En
+[00:07:25] realidad el precio será el precio que
+[00:07:27] declara cada generador. No obstante
+[00:07:29] ello, hoy hoy el precio es un precio
+[00:07:31] medio, que es el combustible más un fi.
+[00:07:35] Con la 400 esto se desregularía. ¿Y qué
+[00:07:37] pasaría? Cada generador, cada
+[00:07:39] distribuidor podría ser un contrato
+[00:07:40] directo con el generador, con lo cual el
+[00:07:42] precio se acotaría directamente y el
+[00:07:45] mercado spot, el que estamos hablando,
+[00:07:46] quedaría con un mercado marginalista
+[00:07:48] para aquellos que no puedan acceder.
+[00:07:50] Menudo problema para regulador a ver qué
+[00:07:52] precio pasa tarifa. Eso lo vamos a ver
+[00:07:54] después, pero básicamente lo que quería
+[00:07:56] llegar es cómo funciona el mercado
+[00:07:59] pseudocompetitivo, que es la generación.
+[00:08:02] El transporte y la distribución son lo
+[00:08:05] que se denominan monopolios naturales.
+[00:08:09] El transportista es un señor que une la
+[00:08:10] generación con la distribución, pone el
+[00:08:12] servicio sus redes y no es otra cosa que
+[00:08:14] operar y mantener. El distribuidor es el
+[00:08:18] final de la cadena, el que reseta toda
+[00:08:21] esta situación y donde se determina la
+[00:08:24] tarifa que va a pagar todo el mercado.
+[00:08:26] Ahora, sumado a esta complejidad que
+[00:08:29] tiene de ser un monopol natural, voy a
+[00:08:30] explicar por qué es un monopol natural y
+[00:08:32] porque es una industria de redes, lo que
+[00:08:34] estamos proveyendo en este caso son
+[00:08:37] bienes públicos o servicios públicos que
+[00:08:41] agravan, agravan, no sé si agrava la
+[00:08:42] situación, pero complejiza un montón la
+[00:08:44] situación al momento de tarificar para
+[00:08:46] cubrir los costos de eficiente.
+[00:08:50] Hasta ahora se va entendiendo más o
+[00:08:52] menos el concepto,
+[00:08:55] nadie dice nada. Todos entienden.
+[00:08:56] Supongo que todos entienden. Después
+[00:08:57] vienen [carraspeo] todas las preguntas
+[00:08:58] de examen. Bueno, sigamos adelante.
+[00:09:02] Vamos adelante.
+[00:09:04] ¿Qué es un monopol natural?
+[00:09:07] A mí la definición que más me interesa o
+[00:09:08] más me gusta económicamente es, se dice
+[00:09:10] que existe un monopol natural cuando es
+[00:09:12] más eficiente que el servicio sea
+[00:09:14] prestado por una empresa que por dos o
+[00:09:15] más. Básicamente es más eficiente que el
+[00:09:18] servicio de presta, ya hay que un
+[00:09:19] monopol natural. Hay una característica
+[00:09:21] económica que tiene que ver con la
+[00:09:23] subaditividad de costo, pero eso tiene
+[00:09:25] que ver como que el costo general es más
+[00:09:28] bajo que el costo individual por muchas
+[00:09:30] empresas.
+[00:09:32] ¿Por qué definir esta curva acá? Esta
+[00:09:34] curva es una curva que acá ven donde va
+[00:09:36] la manito. Es una curva de costos medios
+[00:09:37] un monopolista.
+[00:09:39] Como ustedes saben, vamos a hacer un
+[00:09:41] poquito de microeconomía, como hay un
+[00:09:42] cierto señor últimamente que nos tiene
+[00:09:44] con la microeconomía full a todos, pero
+[00:09:46] bueno, vamos a imitar en estos casos.
+[00:09:48] La curva de costos medios tiene forma.
+[00:09:50] Digo, ¿por qué? Porque la curva se
+[00:09:51] supone que hay una máquina y un
+[00:09:53] trabajador. Es decir, a medida que va
+[00:09:55] aumentando la cantidad de producción, el
+[00:09:57] costo disminuye hasta cierto punto en el
+[00:09:59] punto mínimo de la curva. ¿Qué quiere
+[00:10:01] decir? Con los factores que tengo ya no
+[00:10:02] puedo producir más, entonces puedo
+[00:10:04] aumentar la producción agregando un más
+[00:10:06] de uno de los factores. Por ejemplo, más
+[00:10:08] trabajadores. Lo que me va a llevar a
+[00:10:10] que el costo por unidad de producción,
+[00:10:11] como tengo que agregar más trabajadores,
+[00:10:12] va a aumentar. Por eso esta curva tiene
+[00:10:15] forma de uno. Ahora, ¿qué pasa?
+[00:10:18] Yo les dije que básicamente monopolio
+[00:10:20] natural en economía es casi mala
+[00:10:22] palabra. ¿Por qué? Porque a ver un
+[00:10:24] monopolio,
+[00:10:27] el monopolista, ¿qué va a hacer? Va a
+[00:10:29] igualar su ingreso marginal con su costo
+[00:10:30] marginal. Va a ir a No, lo explico
+[00:10:33] rápido, no importa que lo sepa, es más o
+[00:10:34] menos para tener un concepto. Va a ir a
+[00:10:36] la curva de demanda y va a decir, "Che,
+[00:10:37] yo produzco esta cantidad de v este
+[00:10:39] precio. No me importa cuál sea la
+[00:10:40] demanda, yo produzco lo que yo quiero y
+[00:10:43] fijo el precio." Ya está. Ahora, ¿cómo
+[00:10:46] es monopolista y como es industria de
+[00:10:48] redes, como por ejemplo la mejor ejemplo
+[00:10:50] de esto, como se produce menor coste la
+[00:10:52] industria de redes, fíjense en el tema
+[00:10:54] de la televisión, yo siempre hago el
+[00:10:55] ejemplo en el tema de la televisión eh
+[00:10:57] por cable para eh ejemplificar lo que es
+[00:11:00] una industria de redes. Cuando ustedes
+[00:11:01] tienen televisor por cable, ustedes les
+[00:11:04] cobren un precio X, ¿no es cierto? lo
+[00:11:06] enganchan una promoción donde ustedes
+[00:11:08] tienen el 65% del valor del precio. Pasó
+[00:11:11] el tiempo, up, se le fue la promoción,
+[00:11:13] le cobran el precio total. ¿Qué pasa? A
+[00:11:16] ese a ese productor de cable le conviene
+[00:11:20] tenernos adentro. O sea, que si ustedes
+[00:11:22] llaman, porque ustedes son un consumidor
+[00:11:23] marginal dentro de esta curva, si
+[00:11:25] ustedes llaman mañana para que le bajen
+[00:11:27] el precio, le van a decir, "No, no, baje
+[00:11:28] el precio, no te lo bajo." Ustedes se
+[00:11:29] dan de baja y a los 10 minutos están
+[00:11:31] llamando de nuevo diciéndole que le
+[00:11:32] consigue una promoción menor. ¿Por qué?
+[00:11:34] Porque al tipo, como sos un consumidor
+[00:11:36] marginal, le conviene tenerte adentro.
+[00:11:39] En el caso eléctrico es más o menos
+[00:11:41] similar. Lo que pasa es que como ustedes
+[00:11:42] están prestando un bien o un servicio
+[00:11:44] público, no pueden hacer una
+[00:11:45] discriminación. ¿Se entiende?
+[00:11:48] Pero bueno, básicamente el concepto que
+[00:11:50] les quiero dejar es que es más eficiente
+[00:11:52] que haya sola empresa que preste el
+[00:11:54] servicio y yo como regulador hacerlos o
+[00:11:58] tarificarlos de forma tal que ustedes se
+[00:12:00] vayan moviendo siempre por la curva de
+[00:12:02] costos medios. De esa manera se va a
+[00:12:04] obtener el servicio al menor precio
+[00:12:06] posible. Ojo, cuando hablamos de costos
+[00:12:08] medios, estamos hablando de beneficios
+[00:12:11] normales, porque los costos medios que
+[00:12:12] remuneran los OPEX y los CAPEs. OPE son
+[00:12:14] los costos operativos, los CAPE son los
+[00:12:17] costos de capital. Entonces, cuando se
+[00:12:18] hace una tarificación y se mueve por la
+[00:12:20] curva de costos medios, la culpa de
+[00:12:22] costos medios, están considerando
+[00:12:24] beneficios normales que cubran todos los
+[00:12:25] costes y además beneficios normales
+[00:12:26] sobre el capital. No se crean
+[00:12:28] considerando cosas distintas que no no
+[00:12:29] es que no van a tener beneficios.
+[00:12:33] Vamos para Bueno, como les contaba, suma
+[00:12:37] la complejidad que tenemos hoy, ustedes
+[00:12:40] no solo están prestando un servicio
+[00:12:42] público, sino que lo que proveen son
+[00:12:44] bienes públicos. Bienes públicos tienen
+[00:12:46] dos características que son eh muy
+[00:12:48] fuertes en economía. Primero, la no
+[00:12:51] rivalidad. La no rivalidad, ¿qué quiere
+[00:12:52] decir? que si yo consumo energía, mi
+[00:12:55] vecino que está en las mismas
+[00:12:56] condiciones también puede consumir
+[00:12:58] energía igual que yo. No quiere decir
+[00:12:59] que yo lo consumo agote el bien en ese
+[00:13:01] momento. No es como vender un auto, es
+[00:13:03] decir, yo voy a una agencia, compro una
+[00:13:04] del auto, el auto ya no existe más y la
+[00:13:06] agencia no está obligada a venderme otro
+[00:13:08] auto si no quiere. En el caso de del
+[00:13:10] servicio, sí, si que yo consuma el bien
+[00:13:13] no implica que mi vecino o el de al lado
+[00:13:16] no pueda consumir ese bien. Eso es otra
+[00:13:18] complejidad que tiene el sector al
+[00:13:20] momento de asignar costo y tarificarlo.
+[00:13:23] El otro, la otra característica que esta
+[00:13:25] es hasta más pesada, digamos, del punto
+[00:13:28] de vista asignación de recursos, la no
+[00:13:30] exclusión, es decir, que no es
+[00:13:31] técnicamente viable ineconómico impedir
+[00:13:33] el acceso al bien. Si alguien no lo
+[00:13:34] puede pagar, igual tiene derecho a
+[00:13:36] acceder al bien. Y esos costos hay que
+[00:13:38] pagarlo. alguien lo termina pagando. O
+[00:13:40] sea, independientemente que el usuario o
+[00:13:43] esa persona acceda al servicio en forma
+[00:13:45] gratuita o en forma diferenciada, ese
+[00:13:48] costo debe recuperarse, con lo cual
+[00:13:50] complejiza aún más el trabajo del
+[00:13:52] regulador en lo que respecta a la
+[00:13:53] tarificación. Ya vamos a llegar al fondo
+[00:13:56] compensador, ¿no? No se preocupen, vamos
+[00:13:57] despacito.
+[00:14:01] Bueno,
+[00:14:03] acá entramos en la complejidad del
+[00:14:05] sistema. Como ustedes saben que la
+[00:14:06] provincia de Buenos Aires es una de las
+[00:14:08] provincias más complejas del punto de
+[00:14:09] vista de la heterogeneidad del mercado.
+[00:14:11] La provincia de Buenos Aires cuenta con
+[00:14:12] 204 distribuidores, donde cuatro son
+[00:14:15] provinciales o de referencia y 200 son
+[00:14:18] distribuidores cooperativos o
+[00:14:20] municipales y una sociedad de economía
+[00:14:22] mixta que es tandir en este caso.
+[00:14:25] ¿Cuál es el objetivo en materia
+[00:14:27] regulatoria que fija la ley provincial
+[00:14:29] la 11769? Le pido disculpa do porque acá
+[00:14:32] está la 1373.
+[00:14:34] Bueno, decretos reglamentarios que lo
+[00:14:35] modifican, pero yo no soy abogado, así
+[00:14:37] que no llego a ese punto. Me baso en lo
+[00:14:40] original. Los objetivos en materia
+[00:14:42] tarifaria, los que extraje artículo 3
+[00:14:45] son dos principales. El primero es
+[00:14:48] establecer un régimen tarifario único y
+[00:14:51] de prestación de servicio en todo el
+[00:14:52] ámbito de la provincia de Buenos Aires.
+[00:14:55] Hablamos de tarifas únicas. Recuerden
+[00:14:56] que les dije les dije recién les dije
+[00:14:59] les dije recién que tenemos 204
+[00:15:01] distribuidores, o sea, que yo tengo que
+[00:15:03] establecer un régimen tarifario único
+[00:15:06] que remunere a los 204.
+[00:15:09] Cuestión meramente difícil, eh, casi
+[00:15:11] imposible. Tengo más ecuaciones que más
+[00:15:13] variables que ecuaciones, casi
+[00:15:15] insoluble. Y el segundo punto que dice
+[00:15:19] que es importantísimo es que el marco
+[00:15:22] regulatorio tiene que asegurar que los
+[00:15:24] importes finales unitarios máximos a
+[00:15:26] pagar para cada categoría de usuario
+[00:15:28] sean equivalentes en todo el ámbito de
+[00:15:30] la provincia de Buenos Aires. Acá tengan
+[00:15:33] en cuenta que no dice iguales, sino
+[00:15:35] equivalentes, eh, porque es muy difícil
+[00:15:38] amalgamar 204 realidades distintas en un
+[00:15:42] solo cuadro tarifario.
+[00:15:45] Hasta ahora se viene entendiendo la por
+[00:15:47] dóe quiero llegar.
+[00:15:51] Perfecto.
+[00:15:53] Perfecto.
+[00:15:53] Ha, con la cabeza. Perfecto. Seguimos.
+[00:15:57] Tarifas. ¿Cómo tienen que ser las
+[00:15:58] tarifas según nuestro marco regulatorio?
+[00:16:00] En principio, justas y razonables, pero
+[00:16:03] además, además deben garantizar el
+[00:16:07] derecho de acceso a la energía,
+[00:16:09] porque la energía es un bien humano
+[00:16:11] básico. Todos tenemos que tener el
+[00:16:12] derecho de acceder.
+[00:16:14] Vuelvo a repetir,
+[00:16:16] todo esto no es gratis, alguien lo pague
+[00:16:19] de alguna forma.
+[00:16:21] Entonces, vuelvo a lo anterior. El
+[00:16:24] artículo 21
+[00:16:26] aporta un poco más lo que vinimos
+[00:16:28] diciendo en en la firmina anterior. Los
+[00:16:30] montos de igual iguales para igual
+[00:16:32] modalidad de uso consum unidad física en
+[00:16:34] todo el ámbito de la provincia tienen
+[00:16:36] que ser iguales los montos abonar. ¿Está
+[00:16:38] bien? O sea, estamos hablando de
+[00:16:39] modalidad de usos. Si los residenciales,
+[00:16:41] por ejemplo, todos los residenciales
+[00:16:43] deberían pagar la misma tarifa, o
+[00:16:45] tarifas muy similar. Y además, además de
+[00:16:48] todo eso, las tarifas deben reflejar los
+[00:16:52] costos de adquisición de electricidad,
+[00:16:53] de transporte, su expansión y los costos
+[00:16:56] propios de distribución. O sea, ¿se
+[00:16:58] acuerdan en inicio que hablamos de
+[00:17:00] generación, transporte, distribución?
+[00:17:03] ¿Quién recepta todo eso? El usuario
+[00:17:04] final. El usuario final tiene que pagar
+[00:17:07] toda la cadena de valor,
+[00:17:10] además de permitirles acceso a tarifa
+[00:17:13] justa y razonable. ¿Qué quiere decir
+[00:17:15] razonable y justa? Palabra grande, pero
+[00:17:18] que los costos que yo estoy reconociendo
+[00:17:20] sean eficientes en principio y además
+[00:17:23] tienen el derecho de acceso a la
+[00:17:25] energía.
+[00:17:27] Cuestión sumamente complicada para
+[00:17:29] tarificar. ¿De acuerdo? Piensen que
+[00:17:32] tenemos que lograr amalgamar todas estas
+[00:17:35] situaciones. 204 distribuidores, 204
+[00:17:38] mercados distintos, una tarifa única por
+[00:17:41] igual modalidad de uso, garantizar el
+[00:17:44] derecho a acceso a la energía todo y
+[00:17:45] además que esa tarifa se ajuste
+[00:17:46] razonable, o sea, remunere costos
+[00:17:48] eficientes.
+[00:17:50] cuestión sumamente, pero sumamente
+[00:17:53] compleja desde el punto de vista
+[00:17:55] regulador.
+[00:18:01] Cambiar. Entonces, aquí vamos
+[00:18:06] discusiones que a veces tenemos. ¿Cuáles
+[00:18:08] son los componentes de la tarifa? ¿Qué
+[00:18:11] tiene la tarifa dentro? La tarifa que
+[00:18:12] ustedes ven tiene primero los costos de
+[00:18:16] abastecimiento.
+[00:18:17] ¿Qué son los costos de abastecimiento?
+[00:18:20] son los costos al cual el distribuidor
+[00:18:23] compra energía. Después vamos a ver que
+[00:18:25] hay distintas modalidades de compra y
+[00:18:26] distintos costos de abastecimiento según
+[00:18:29] el tipo de distribuidor que sea. Pero en
+[00:18:31] realidad el costo de abastecimiento va a
+[00:18:32] remunerar lo que dijimos al principio,
+[00:18:34] todo lo que es potencia, todo lo que es
+[00:18:36] energía, servicios adicionales, fondos
+[00:18:39] nacionales, etcétera, ese transporte,
+[00:18:42] etcétera, etcétera, etcétera. Son todos
+[00:18:44] los costos que se determinan en el
+[00:18:47] mercado eléctrico mayorista.
+[00:18:50] El BAD, ¿qué es el Bad? El B son los
+[00:18:54] costos operativos y los costos del
+[00:18:56] capital que tiene el distribuidor, como
+[00:18:58] dijimos en su momento, son el
+[00:19:01] combustible, los costos de servicios,
+[00:19:04] las gruas que ustedes utilizan, las
+[00:19:06] herramientas,
+[00:19:08] todos los costos de la remuneración al
+[00:19:09] personal, etcétera. Esos son todos los
+[00:19:11] costos operativos que remunera el Bad
+[00:19:14] más
+[00:19:16] el costo del capital. El costo del
+[00:19:18] capital es la remuneración al capital
+[00:19:20] que que ustedes tienen invertido. Cuando
+[00:19:23] el regulador calcula la tarifa que dice,
+[00:19:25] "Bueno, señores, yo tengo este capital,
+[00:19:28] esta inversión, esta inversión está,
+[00:19:31] supónganse
+[00:19:32] a a mitad de uso, según según las
+[00:19:35] amortizador está amortizada al 50%."
+[00:19:37] Bueno, entonces ese capital amortizado a
+[00:19:41] ese 50% se remunera con una tasa X.
+[00:19:46] La discusión muchas veces saca la tasa
+[00:19:47] X. ¿Cuál es la tasa X? Bueno, es la tasa
+[00:19:50] de una actividad de riesgo similar.
+[00:19:52] Generalmente se toman actividad de
+[00:19:54] riesgo similar en otros países y se la
+[00:19:56] corrige por el riesgo cambiario,
+[00:19:58] etcétera, etcétera, o el riesgo país, ta
+[00:20:00] ta ta ta ta. Y eso determina una tasa de
+[00:20:03] nominación del capital. Todo eso, todo
+[00:20:06] eso forma parte de la tarifa más que más
+[00:20:10] el fondo compensador. ¿Por qué? Porque
+[00:20:12] el fondo compensador es parte de la
+[00:20:15] tarifa, porque es parte del la
+[00:20:17] remuneración que el sistema debe pagar
+[00:20:20] en su conjunto. ¿Por qué no les dije
+[00:20:23] esto? Cuando nosotros hacemos una
+[00:20:24] revisión tarifaria y volvemos a ese
+[00:20:27] punto,
+[00:20:29] tengo cuatro áreas. Ahora, ahora sigo
+[00:20:32] tengo cuatro áreas de referencias.
+[00:20:34] Habíamos hablado que éramos tarifa
+[00:20:35] única, bueno, no somos tan única. La
+[00:20:37] tarifa se remunera para área de
+[00:20:39] referencia, o sea, para EDEA, Eden, EDES
+[00:20:42] o Edelap. Vamos a agarrar el caso de de
+[00:20:45] ED DEA. Se hace un análisis de costo en
+[00:20:47] la empresa distribuida de referencia,
+[00:20:48] que es EDEA. Se analizan los costos
+[00:20:50] unitarios, se analizan los costos
+[00:20:51] operativos, como le dijimos, se analizan
+[00:20:54] los costos de capital y se determina una
+[00:20:57] tarifa que cubra esos costos eficientes,
+[00:21:00] pero de la empresa de referencia.
+[00:21:02] Ahora, ¿qué pasa?
+[00:21:05] Sabemos, como les fuimos diciendo, que
+[00:21:06] hay diferentes escalas de servicio. El
+[00:21:09] mercado eléctrico de la provincia de
+[00:21:10] Buenos Aires, como dije en su momento,
+[00:21:11] se compone 204 distribuidores. 204
+[00:21:13] distribuidores, tenemos cuatro
+[00:21:14] provinciales y 52 en régimen son 52. 52
+[00:21:19] en régimen. ¿Qué quiere decir 52 en
+[00:21:21] régimen? Que tienen más de 5000
+[00:21:22] usuarios.
+[00:21:23] O sea, 56 hay más de 5,000 usuarios.
+[00:21:26] Después hay 160 básicamente o 150 149
+[00:21:32] que tienen menos de 5,000 usuarios.
+[00:21:35] Aparte, ¿qué pasa en esta situación?
+[00:21:37] Cuando uno hace la tarifa del área de
+[00:21:38] referencia determina el mercado. ¿Qué
+[00:21:41] quiere decir? Recuerden que el cuadro
+[00:21:43] tarifario está compuesto por tarifas
+[00:21:46] monómicas y tarifas binómicas. ¿Qué
+[00:21:48] quiere decir las monómicas? son las
+[00:21:49] tarifas a usuarios finales o a usuarios
+[00:21:52] residenciales.
+[00:21:54] T1R, T1R estacional, me estoy acando,
+[00:21:57] tarifa social, alumbrado público,
+[00:22:00] servicios generales. Esas son las
+[00:22:02] tarifas monómicas porque no determinan o
+[00:22:04] no dividen entre energía y potencia.
+[00:22:06] Está todo metido en un combo. Después
+[00:22:08] tenemos las tarifas binómicas, son las
+[00:22:09] T2, las T3 y las tarifas de peaje, que
+[00:22:12] son las T5 y la T6. ¿Está claro?
+[00:22:15] Cuando uno determina la tarifa de la
+[00:22:17] empresa de referencia,
+[00:22:20] determina primero un precio medio, que
+[00:22:23] es el precio al cual remunera el total
+[00:22:27] de costos de la empresa, incluido los
+[00:22:28] costos de operación de mantenimiento y
+[00:22:30] la rentabilidad. ¿Está bien? Después que
+[00:22:32] determinas el precio medio, que es el
+[00:22:33] precio medio por unidad de energía, ¿qué
+[00:22:35] hace? asigna los costos entre cada una
+[00:22:37] de las tarifas que les vengo diciendo.
+[00:22:39] Esa asignación de costos está
+[00:22:40] relacionada con el mercado que tiene la
+[00:22:42] empresa en ese momento. Vamos a suponer,
+[00:22:44] suponer, vamos a suponer que tiene 40%
+[00:22:47] residenciales, 20% de servicios
+[00:22:48] generales, vamos a hacer redondo, 20% de
+[00:22:51] 2 y 20% de 3. Entonces, asigno el BAT de
+[00:22:54] forma tal que con esa estructura de
+[00:22:55] mercado los costos se recuperen
+[00:22:57] eficientemente. Ahora, ¿qué pasa? No
+[00:23:00] todas las cooperativas, no todos los
+[00:23:01] distribuidores tienen esa misma
+[00:23:02] estructura de mercado. Yo, por ejemplo,
+[00:23:04] me voy a la cooperativa de la dulce,
+[00:23:05] siempre lo digo porque es mi pueblo
+[00:23:07] natal. La cooperativa de la dulce que es
+[00:23:08] chiquitita, seguramente va a tener el
+[00:23:10] 80% o el 90% del mercado va a ser
+[00:23:12] residencial,
+[00:23:14] con lo cual cuando yo le pase la tarifa
+[00:23:16] de no va a cubrir lo costos. Además,
+[00:23:19] tengan en cuenta esto. En Edea, por
+[00:23:21] ejemplo, en una cuadra en la ciudad de
+[00:23:23] Mar del Plata, van a tener 20 edificios
+[00:23:25] con 20 familias cada uno, 400 personas
+[00:23:27] para cubrir una cuadra de cable. En la
+[00:23:30] dulce donde vivo yo o vivía yo allá
+[00:23:32] estoy de la Plata, en una cuadra hay
+[00:23:34] seis casas o siete el máximo. O sea, que
+[00:23:37] ese mismo cable en un lado lo cubro con
+[00:23:39] 400, en otro lado cubro con es
+[00:23:41] imposible. Es imposible porque si yo le
+[00:23:43] doy la tarifa para cubrir como la tarifa
+[00:23:46] de la dulce, digamos que son siete
+[00:23:48] personas a cubrir el cable, idea será
+[00:23:49] multimillonaria. Si a la dulce le doy la
+[00:23:51] tarifa de la dulce se funde en el primer
+[00:23:53] mes. Entonces un tema muy difícil de
+[00:23:56] malcamar. Y quién termina cerrando esta
+[00:23:59] ecuación? El Fondo Compensador
+[00:24:01] Tarifario. Estamos entonces resumiendo,
+[00:24:05] resumiendo o arrancando en esta
+[00:24:07] situación, tenemos la necesidad de
+[00:24:10] formar un régimen tarifario único,
+[00:24:13] único o cuatro tarifas similares por
+[00:24:17] área. Segundo, tenemos que cubrir los
+[00:24:19] costos razonables y eficientes de todos
+[00:24:21] los distribuidores. ¿Está bien? siempre
+[00:24:23] razonables y eficientes. Buscamos la
+[00:24:25] menor asignación de costos posibles, es
+[00:24:27] decir, busco la forma tal de que ese
+[00:24:30] distribuidor que es un monopolio se
+[00:24:32] maneje de entre su curva de costos
+[00:24:34] medios. No cubrimos costos razonables
+[00:24:36] eficientes, cubrimos un costo de capital
+[00:24:39] razonable también con una rentabilidad
+[00:24:41] razonable o una industria disinar
+[00:24:42] características. Además atendemos
+[00:24:45] distintos tipos de mercado porque un
+[00:24:48] solo prestador, como les venía diciendo,
+[00:24:50] por ahí tiene un mercado, que yo
+[00:24:51] agarremos la cooperativa de Sárate, por
+[00:24:53] ejemplo, la cooperativa de Sáete tiene
+[00:24:55] mucho mercado de grandes usuarios. T3
+[00:24:57] tiene todo un cordón industrial
+[00:24:58] fantástico, un mercado de primera, sin
+[00:25:02] embargo, tiene muchas pérdidas en la
+[00:25:03] parte residencial. Entonces, todo ese
+[00:25:05] tipo de consideraciones están, pero ¿qué
+[00:25:08] hacen? que hacen que una sola tarifa es
+[00:25:10] imposible de que cubra todas estas
+[00:25:12] diferencias.
+[00:25:14] Y la última punto que tenemos que cubrir
+[00:25:16] es la diferentes escalas la prestación
+[00:25:17] de servicio. Bueno, todas estas
+[00:25:20] cuestiones, todas estas cuestiones, todo
+[00:25:22] esto que está pasando, ¿cuál es la
+[00:25:24] herramienta que que el aceite este
+[00:25:27] engranaje? el Fondo Compensador
+[00:25:30] Tarifario de la Provincia de Buenos
+[00:25:32] Aires, única, única herramienta, ya les
+[00:25:35] digo, lo vuelvo a repetir, única
+[00:25:37] herramienta en toda la Argentina y en
+[00:25:39] todos los países que hemos ido
+[00:25:40] analizando. La verdad que en este país,
+[00:25:43] después de un montón de tiemp en esta
+[00:25:44] provincia, después de un montón de
+[00:25:45] tiempo de ejercicio, de prueba y error,
+[00:25:48] hoy el fondo compensador tarifario
+[00:25:50] funciona muy pero muy bien.
+[00:25:56] Hasta ahora vamos. ¿Hay alguno que tenga
+[00:25:57] alguna duda al respecto? ¿Alguien quiere
+[00:25:59] que comentar algo?
+[00:26:04] Una consulta. Ahí cuando vos mencionás y
+[00:26:06] pusiste el ejemplo de la dulce con Mar
+[00:26:08] de Plata, nosotros tenemos muchas
+[00:26:11] ciudades grandes y ciudades chicas.
+[00:26:12] Villega, por ejemplo, se compone por
+[00:26:14] mucho rural.
+[00:26:16] Eh, ese promedio también dentro de una
+[00:26:19] misma distribuidora lo hacen.
+[00:26:21] Sí, sí, sí, sí. Acá se hacen en el
+[00:26:23] análisis tarifario, se hacen se hacen o
+[00:26:26] sea en las revisiones tarifarias se
+[00:26:27] hacen dos análisis. El primer análisis
+[00:26:30] que les digo es determinar la tarifa al
+[00:26:31] área de referencia. Vamos a suponer eh
+[00:26:34] vos sos de la zona azul, me dijiste.
+[00:26:37] Yo soy de General Villega, tenemos mucho
+[00:26:39] campo acá, mucha línea rural.
+[00:26:40] Zona azul. Bueno, está bien. Vos tenés
+[00:26:42] la tarifa de referencia tuya la de Dés.
+[00:26:45] Edén. Ah, norte. Son Edén. Villegas. Ah,
+[00:26:48] norte. Está bien. Norte, oeste,
+[00:26:50] perdón. Eh, vos tenés la tarifa Eden de
+[00:26:52] referencia. nosotros, o sea, el
+[00:26:54] regulador o el consultor calcula la
+[00:26:55] tarifa para Eden de acuerdo a todos los
+[00:26:58] costos que tiene Eden, la distribución
+[00:26:59] que tiene Eden. Ahora, cuando vos tenés
+[00:27:02] la cooperativa de de Villego, la
+[00:27:04] cooperativa que te que te atienda, la
+[00:27:06] cooperativa tuya va a tener un mercado
+[00:27:08] totalmente diferente al deed, o sea, va
+[00:27:11] a tener mucha ruralidad, seguramente no
+[00:27:14] tiene T3 o tiene muy pocos T3 y T2, va a
+[00:27:16] tener todo. Todo ese diferencial que
+[00:27:19] tiene la cooperativa se cubre a través
+[00:27:21] de la el concepto BAD que te va a
+[00:27:23] remunerar el fondo compensador
+[00:27:25] Tarifario, que lo vamos a ver un poquito
+[00:27:26] más adelante, pero vos vas a estar, o
+[00:27:29] sea, lo que va a hacer el fondo
+[00:27:30] compensador es ponerte en la misma
+[00:27:33] situación que el distributo de
+[00:27:34] referencia. Vas a poder cubrir todos los
+[00:27:35] costos razonables y efici y eficientes.
+[00:27:38] ¿Está bien? ¿Se entiende esa situación?
+[00:27:41] Sí. Lo que pasa que, bueno, nosotros no
+[00:27:42] somos cooperativa, somos Edén también.
+[00:27:46] Pero Edén, Edén, Edén, vos tenés
+[00:27:48] considerado en Edén. Todos los costos de
+[00:27:50] Eden están considerados dentro del
+[00:27:52] análisis de costos que hace el
+[00:27:53] distribuidor. Vos ya lo tenés
+[00:27:54] considerado la ruedad, lo que tenga la
+[00:27:55] distribución de tus redes tal cual lo
+[00:27:57] tengas armado, porque la tarifa se te
+[00:27:59] hizo para vos, digamos, para vos Edén,
+[00:28:02] para Edea, para Edelad, para y para
+[00:28:04] Edes. El análisis de costos puntual se
+[00:28:07] hizo para Edén. A vos la tarifa te va a
+[00:28:10] remunerar todas estas consideraciones,
+[00:28:12] no es que no te la va a remunerar. Por
+[00:28:14] eso, como te dije en su momento, lo que
+[00:28:17] se saca es un costo total de operación
+[00:28:19] del servicio. Es decir, el Edén le lleva
+[00:28:21] 100 pesos a operar todo el servicio de
+[00:28:22] la forma que estás. Esos 100 pesos te
+[00:28:25] dan un un peso por unidad de energía,
+[00:28:28] por decirte algo. Eso va a tener una
+[00:28:30] referencia. Después esos 100 pesos se
+[00:28:32] distribuyen en residencial, servicios
+[00:28:35] generales, T2, T3 o como sea, de acuerdo
+[00:28:38] a la política que marque en su momento
+[00:28:40] la autoridad de aplicación. Pero esa
+[00:28:42] política tarifaria va a lograr que vos
+[00:28:44] los costos los recuperes totalmente. No
+[00:28:46] vas a tener un problema de costos porque
+[00:28:48] vos tengas más ralidad y menos
+[00:28:49] ruralidad. Lo que puede hacer el regular
+[00:28:52] en ese caso es asignar un poquito más de
+[00:28:54] costo a una tarifa en desmedro de otra o
+[00:28:56] así sucesivamente, pero vos vas a
+[00:28:58] recuperar exactamente los 100 pesos con
+[00:29:01] la foto de ese momento dado. ¿Se
+[00:29:02] entiende esa situación?
+[00:29:05] Ahora, si vos sos cooperativa, si vos
+[00:29:07] sos cooperativa del sector, no vas a
+[00:29:10] recuperar eso porque tenés un montón de
+[00:29:11] de estructura de mercado que la
+[00:29:13] distribuidora provincial no la tiene y
+[00:29:15] eso es lo que va a pasar a compensar el
+[00:29:17] fondo provincial de compensaciones
+[00:29:17] tarifarias que les voy a explicar cómo
+[00:29:19] funcionar un poquito más adelante, pero
+[00:29:21] está claro eso. Vos siempre cubrís los
+[00:29:22] costos.
+[00:29:24] Funciona,
+[00:29:26] funciona como una especie de subsidio
+[00:29:28] cruzado interno dentro de la
+[00:29:30] distribuidora. Obviamente va a haber
+[00:29:31] áreas, digamos, áreas, localidades que
+[00:29:33] requieren más costo o tienen más costo
+[00:29:36] que otras y se compensa internamente en
+[00:29:38] la determinación de los ingresos de cada
+[00:29:41] una de las distribuidoras provinciales.
+[00:29:43] Claro, el ingreso requerido es una bolsa
+[00:29:45] de ingresos. Va a decir, bueno, por ahí
+[00:29:46] qué sé yo, no sé, en la sucursal de
+[00:29:49] Villegas, ¿no? A la tarifa si vos te
+[00:29:52] ponés y yo la hago lo aíslo, los costos
+[00:29:54] no son totalmente rentables. Sin
+[00:29:56] embargo, la sucursal de, ¿cómo se llama
+[00:29:58] acá? donde está central de Dea, no me
+[00:30:00] sale nunca
+[00:30:01] de DEA,
+[00:30:01] de perdón, e San Nicolás quizás la la
+[00:30:05] sucursal de San Niconá supere en lo que
+[00:30:07] recauda los costos que tiene sucursal,
+[00:30:09] con lo cual la bolsa final tuya de de
+[00:30:11] Den va a ser rentable, ¿se entiende?
+[00:30:14] Porque se hace un Vos pensa esto, yo
+[00:30:16] hago una asignación de costo y después
+[00:30:17] saca un costo medio total.
+[00:30:21] Decir, bueno, con esta con este con este
+[00:30:24] nivel de coste y con este nivel de
+[00:30:25] energía y potencia, el distribuidor me
+[00:30:27] recupera todos los costos. Después lo
+[00:30:29] voy asignando, ¿de acuerdo? Sión que
+[00:30:30] vaya tomando el regulador, pues por ahí,
+[00:30:32] ¿qué s yo? Te dice, "Bueno, le vamos a
+[00:30:33] bajar un poquito, que no quiere decir
+[00:30:35] que le baje todo a residencial. Le
+[00:30:37] vamos, te estoy hablando
+[00:30:38] hipotéticamente, no sé qué va a pasar.
+[00:30:39] Le voy a poner un poquito más, servicios
+[00:30:40] generales, le voy a sacar un poquito al
+[00:30:42] T3, le voy a poner al T5, qué sé yo,
+[00:30:44] como sea, sino los costos, pero en
+[00:30:46] definitiva el costo total de la empresa
+[00:30:49] va a ser, se va a recuperar el costo
+[00:30:51] medio del cual partimos, con lo cual
+[00:30:52] vamos a recuperar sí o sí los costos, no
+[00:30:53] importa la sucursal, ¿se entiende?
+[00:30:56] Ahora, si yo te la particiono y quizás
+[00:30:58] no te dé, tengo que hacer una nueva una
+[00:31:01] nueva asignación de costos, pero vos no
+[00:31:03] estás particionado, sos una empresa
+[00:31:05] general, se entiende la la situación.
+[00:31:08] Y eso, digamos, esa esa requerimiento de
+[00:31:11] ingresos que se determina para cada una
+[00:31:13] de las empresas provinciales es lo que
+[00:31:15] determina el cuadro tarifario del área.
+[00:31:18] ¿Sí? Entonces, ahí es donde entra una
+[00:31:20] cooperativa puede recibir esos ingresos
+[00:31:22] del área y le alcancen, otras no. Y ahí
+[00:31:25] es donde entra a jugar el fondo
+[00:31:27] compensador.
+[00:31:29] Fíjense eh de vincular esto un poco con
+[00:31:32] lo que hablamos el otro día en la clase
+[00:31:34] de la revisión tarifar integral. ¿Se
+[00:31:36] acuerdan cuando les explicaba Alejandra
+[00:31:38] Feir que en este proceso de revisión
+[00:31:41] tarifar integral que estamos llevando
+[00:31:42] adelante, estamos revisando todas las
+[00:31:45] condiciones de la concesión, técnicas,
+[00:31:47] jurídicas, económicas en todos los
+[00:31:49] aspectos, no solamente tarifarias y el
+[00:31:52] nivel de ingresos que requiere una
+[00:31:53] distribuidora y a la vez eh la
+[00:31:57] distribución del fondo compensador. ¿Por
+[00:31:59] qué? Porque tiene este ejes o
+[00:32:01] herramientas o metodología de
+[00:32:03] distribución para compensar esas
+[00:32:05] diferencias.
+[00:32:06] dadas en el 2001, motivo por el cual el
+[00:32:10] mercado de cada una de las
+[00:32:11] distribuidoras municipales ha cambiado,
+[00:32:14] se ha modificado un montón situación en
+[00:32:16] estos 25 años. Entonces, se está
+[00:32:18] haciendo una revisión tarifaria para las
+[00:32:21] 204. ¿De qué manera? La las cuatro
+[00:32:25] provinciales tienen un requerimiento de
+[00:32:26] ingresos que me van a determinar el
+[00:32:28] cuadro tarifario del área y después yo
+[00:32:30] tengo que ver una a una cada una de las
+[00:32:33] distribuidoras municipales cuál es su
+[00:32:35] requerimiento de ingresos y por eso es
+[00:32:37] la tarea, digamos, bastante exhaustiva y
+[00:32:39] que hasta ahora no se había hecho. Eh, y
+[00:32:42] entonces esa diferencia que cada una de
+[00:32:45] las distribuidoras municipales requiera
+[00:32:47] de de ingresos van a ser compensadas a
+[00:32:50] través del fondo compensador. Entonces,
+[00:32:51] eso quiere decir que hay una revisión
+[00:32:53] tarifaria integral respecto de todas.
+[00:32:56] Obviamente no con un cuadro tarifario
+[00:32:57] para cada uno, sino tendríamos 204
+[00:32:59] cuadros tarifarios. Si se entiende la
+[00:33:02] metodología. Las cuatro provinciales van
+[00:33:04] a marcar el el área, bien digo, y
+[00:33:07] después las diferencias van a salir del
+[00:33:09] Fondo Compensador Tarifario.
+[00:33:12] Perfecto. Hasta ahí vamos bien.
+[00:33:16] Seguimos.
+[00:33:19] Entonces vamos al objetivo del fondo, ya
+[00:33:21] lo fuimos hablando, pero esto lo define
+[00:33:23] artículo 41.
+[00:33:25] Es compensar las diferencias de costos
+[00:33:27] propios de distribución reconocidos
+[00:33:29] entre los distintos concesionados
+[00:33:30] provinciales y municipales,
+[00:33:32] posibilitando que usuarios de
+[00:33:33] características similares de consumo en
+[00:33:35] cuanto su uso y modalidad abonen por el
+[00:33:38] suministro de iguales cantidades de
+[00:33:39] energía eléctrica importes equivalentes,
+[00:33:42] independientemente de las
+[00:33:44] particularidades a que den lugar su
+[00:33:45] ubicación geográfica. forma de
+[00:33:47] prestación y cualquier otra
+[00:33:48] característica que la autoridad de
+[00:33:50] aplicación estime relevante. Esto es
+[00:33:52] importantísimo. Recuerden, yo me acuerdo
+[00:33:54] cuando era chiquito, mi papá, yo, bueno,
+[00:33:56] vengo de la dulce de 10, pero mi papá es
+[00:33:58] de Buenos Aires, veníamos, mi papá atrás
+[00:34:00] de cada uno de nosotros apaga la luz,
+[00:34:02] que la luz es una fortuna, que nos
+[00:34:04] cuesta, que esto, que lo otro. ¿Por qué?
+[00:34:06] Porque hasta antes de hacer o de que el
+[00:34:08] marco regatorio determina tarifa única,
+[00:34:11] cada unidad determinada sus costos
+[00:34:13] propios. Es decir, imagínense la
+[00:34:15] cooperativa de la dulce que tenía un
+[00:34:17] motor que prendía a gasoil o a Fuelo
+[00:34:20] para generar energía para 1000 usuarios.
+[00:34:23] El costo unitario que tenía eso era
+[00:34:26] imposible casi. De hecho, prendíamos la
+[00:34:28] luz para leer a la noche y mi viejo
+[00:34:29] venía te apagaba, te decía, "Le de día",
+[00:34:31] básicamente, porque era terrible el
+[00:34:32] costo de la luz. Hoy este fondo ha
+[00:34:35] logrado que toda la provincia de Buenos
+[00:34:37] Aires paguen un costo bastante similar.
+[00:34:41] ¿Estamos de acuerdo? Entonces, ese es el
+[00:34:43] objetivo. Los los consumidores que
+[00:34:46] tienen iguales características deben
+[00:34:48] abordar montos equivalentes. Recuerden
+[00:34:51] que el cuadro tarifario se determina por
+[00:34:54] modalidad de uso. Eh, igual uso,
+[00:34:57] equivalente costo. ¿Estamos de acuerdo?
+[00:35:05] Bueno, perdón, alguien habló.
+[00:35:09] Entró.
+[00:35:12] Bueno, a ver quiénes son los actores
+[00:35:15] puse actores quiénes están dentro de de
+[00:35:16] esta cuestión del fondo compensador.
+[00:35:20] Primero, la autoridad de aplicación.
+[00:35:23] La autoridad de aplicación es la que
+[00:35:25] edita las normas y audita el
+[00:35:28] funcionamiento del fondo compensador.
+[00:35:31] Eloa, a través de la gerencia de mercado
+[00:35:33] del área tarifa, es el administrador del
+[00:35:35] fondo compensador.
+[00:35:37] Los distribuidores, ¿qué rol cumplen?
+[00:35:40] Aportan,
+[00:35:42] receptan el fondo. Después vamos a ver
+[00:35:44] quién aporta y quién recepta. Y además
+[00:35:46] son controladores,
+[00:35:47] porque los distribuidores también pueden
+[00:35:50] controlar la ejecución del fondo
+[00:35:51] provincial de compensiones tarifarias y
+[00:35:53] que los montos que nosotros le
+[00:35:54] repartimos sean los adecuados. Además de
+[00:35:57] todo eso, lo puse en negrito porque
+[00:35:59] nosotros tenemos un control externo muy
+[00:36:00] fuerte que es el señor Tribunal de
+[00:36:02] Cuenta. Tengan en cuenta, nosotros
+[00:36:04] tenemos que ser muy claros porque esto
+[00:36:06] es manejo de fondos públicos, es decir,
+[00:36:08] el fondo compensador no es nuestro, son
+[00:36:11] fondos públicos. Nosotros solamente
+[00:36:12] administramos y redistribuimos y el
+[00:36:15] origen y la finalidad que tiene está
+[00:36:17] determinada y nosotros no podemos darle
+[00:36:19] otra finalidad que no es la que tiene
+[00:36:21] determinada por ley. [carraspeo]
+[00:36:23] Entonces todos los años, todos los años
+[00:36:26] nosotros, la gerencia de mercado, tiene
+[00:36:28] la auditoría del Tribunal de Cuentas. El
+[00:36:30] Tribunal de Cuentas viene y nos revisa
+[00:36:32] todo lo que hicimos durante el año, cómo
+[00:36:35] recaudamos, si le cobramos o no le
+[00:36:37] cobramos intereses, si acatamos o no las
+[00:36:39] normas, qué le distribuimos. cómo le
+[00:36:42] distribuimos todo eso, tenemos el
+[00:36:44] control externo y ojo, como son manejos
+[00:36:47] públicos, tenemos responsabilidad penal,
+[00:36:50] con lo cual cuando nosotros les pedimos
+[00:36:52] información y manejamos la información
+[00:36:54] somos muy muy pero muy cuidadosos en
+[00:36:57] cómo usamos ese tipo de información y
+[00:37:00] cómo armamos o cómo hacemos funcionar el
+[00:37:02] fondo compensador tarifario. ¿Se
+[00:37:04] entiende? Para nosotros el Tribunal de
+[00:37:05] Cuenta lo puse en negro porque es el
+[00:37:07] cuco, digamos. Ahí viene el Tribunal de
+[00:37:09] Cuentas, está temblando. Ch. ¿Habr hecho
+[00:37:10] todo bien? ¿No habr hecho todo bien?
+[00:37:11] Bueno, generalmente tratamos de hacer
+[00:37:13] todo bien. Tenemos un montón de
+[00:37:14] controles internos que no no es que
+[00:37:16] nosotros largamos el fondo y sale de
+[00:37:18] una, no. Tenemos un montón de controles
+[00:37:20] internos a medida que vamos pagando el
+[00:37:21] fondo, pero no somos infalibles como
+[00:37:23] todo. Tengan en cuenta que son 204
+[00:37:26] distribuidores. Como dijo Guillermina en
+[00:37:27] su momento, el fondo comó trabaja con
+[00:37:29] 204 cuadros tarifarios distintos,
+[00:37:32] independientemente no se publiquen para
+[00:37:34] sacar los diferenciales que les voy a
+[00:37:35] contar cómo funcionan.
+[00:37:37] Entonces, un trabajo muy muy arduo, muy
+[00:37:39] estresante que hacen los chicos. En
+[00:37:41] realidad es un trabajo sumamente
+[00:37:43] complejo,
+[00:37:45] pero bueno, toda esta gente, todos estos
+[00:37:48] actores, todo esto intervienen en el
+[00:37:50] funcionamiento del Fondo Provincial de
+[00:37:52] Compensiones Tarifarias.
+[00:37:54] Bien, vamos a los aportes. Pues el fondo
+[00:37:57] tiene dos componentes, una parte de
+[00:37:59] aportes o de recaudación y una parte de
+[00:38:03] pagos o ejecución.
+[00:38:05] Si no recaudamos, no podemos pagar.
+[00:38:07] Entonces, el artículo 46, ¿qué dice? Se
+[00:38:10] integrará con el aporte de los usuarios
+[00:38:11] localizados en las áreas atendidas por
+[00:38:13] los concesionarios provinciales y
+[00:38:14] municipales sobre el porcentaje que no
+[00:38:17] que anualmente establezca la autoridad
+[00:38:19] de aplicación, sobre los valores de los
+[00:38:21] cuadros tarifarios únicos aprobados.
+[00:38:24] Esto es importantísimo. Eh, dicho valor
+[00:38:26] después dice, "No, podrá exceder o ser
+[00:38:28] superior al 8%." Primero, ¿qué hace la
+[00:38:31] autoridad de aplicación? La autoridad de
+[00:38:33] aplicación hace un análisis de
+[00:38:34] requerimiento del año del fondo y
+[00:38:37] determina de acuerdo a la fotos del año
+[00:38:39] pasado determina, bueno, para los
+[00:38:40] requerimientos que vamos a tener la
+[00:38:42] alicua la alcua tiene que ser del tanto
+[00:38:44] por cento para cada una de las
+[00:38:46] estructuras tarifarias, es decir, nos
+[00:38:47] ahora vamos a ir más adelante, tenemos
+[00:38:49] distintas alicuatas de acuerdo a la
+[00:38:51] estructura tarifaria.
+[00:38:53] Por otro lado, es importante esto que
+[00:38:55] dice porque ustedes o el distribuidor
+[00:38:58] puede hacer los descuentos que quiera el
+[00:38:59] usuario siempre y cuando a todos los
+[00:39:01] usuarios en las mismas condiciones le
+[00:39:03] haga el mismo descuento. No puede
+[00:39:04] discriminar, ¿no? Pero el fondo
+[00:39:06] compensador que tiene que aportar,
+[00:39:09] esto es importante, chicos, el fondo
+[00:39:11] compensado que tiene que aportar tiene
+[00:39:12] que ser sobre los cuadros tarifarios
+[00:39:14] máximos aprobados. ¿Por qué? Porque
+[00:39:17] cuando la autoridad de aplicación hizo
+[00:39:19] su trabajo para determinar alícota, no
+[00:39:23] tienen consideración qué descuento
+[00:39:24] ustedes pueden hacer o no pueden hacer.
+[00:39:27] En realidad est es una potestad que
+[00:39:28] tiene el distribuidor. O sea, el
+[00:39:29] distribuidor tranquilamente le podría
+[00:39:31] cobrar si quiere a todos los
+[00:39:32] residenciales la mitad de la tarifa
+[00:39:34] porque lo decidió la junta directiva,
+[00:39:36] por ejemplo, de la cooperativa de la
+[00:39:37] Dulce. Ahora, el aporte que nos tiene
+[00:39:39] que hacer al fondo a nosotros no lo
+[00:39:41] tiene que hacer sobre la como si hubiera
+[00:39:43] cobrado la tarifa total.
+[00:39:45] Si la pone del bolsillo de él o no, ya
+[00:39:46] es otro problema, pero el fondo
+[00:39:48] compensado se aporta sobre el cuadro
+[00:39:50] tarifario único aprobado. Eso ténganlo
+[00:39:52] clar en claro, eh, porque muchas veces
+[00:39:54] como el fondo compensador es una
+[00:39:56] alícota, es un porcentaje,
+[00:39:59] todos cometen, no sé, sí, nosotros
+[00:40:01] también a veces el error de considerar
+[00:40:02] que es un impuesto, no es una impuesta,
+[00:40:04] es una parte de la tarifa y la parte de
+[00:40:06] la tarifa está calculada sobre el cuadro
+[00:40:08] de máxima. Entonces, si todo el mundo
+[00:40:11] hace descuento, se me desfinancia el
+[00:40:12] fondo y es imposible que el sistema
+[00:40:14] funcione. ¿Estamos de acuerdo? Bien.
+[00:40:18] Artículo 38 que dice, bueno, lo
+[00:40:20] hablamos, lo venimos charlando
+[00:40:21] continuamente, que el Fondo Provincial
+[00:40:23] de Comercial Tarifarios no podrá tener
+[00:40:24] otra aplicación. Les venía diciendo que
+[00:40:25] la de unificar hasta donde sea posible
+[00:40:28] las tarifas finales en las distintas
+[00:40:29] áreas en que se divide la provincia de
+[00:40:31] Buenos Aires.
+[00:40:33] ¿Qué quiere decir? Yo no puedo salir a
+[00:40:35] comprar una camioneta con el fondo
+[00:40:36] compensador, no puedo salir a comprar
+[00:40:39] una computadora poncita con el fondo
+[00:40:40] compensador. La fonda, el fondo
+[00:40:41] compensador tiene asignación específica
+[00:40:43] que son sus dos componentes, BAT y
+[00:40:45] abastecimiento. Y el fondo compensador
+[00:40:46] se liquida solamente en esos dos
+[00:40:49] componentes. No puedo hacer otra cosa
+[00:40:50] que no sea liquidarlo como B o como
+[00:40:52] abastecimiento según las cuentas que me
+[00:40:54] den. Después te dice, además, no podrás
+[00:40:56] generar deficiencias o excedentes
+[00:40:59] sistemáticos. Esto es sumamente
+[00:41:01] importante.
+[00:41:05] Cuando la aplicación calcula el fondo
+[00:41:07] compensador, lo calculas en una foto, la
+[00:41:10] foto del año anterior. Ahora, muchas
+[00:41:12] veces hay distintas circunstancias que
+[00:41:14] hacen que el mercado varíe. Yo puedo
+[00:41:15] calcular, por ejemplo, le pongo una
+[00:41:17] alícota al T3, sin embargo, en ese
+[00:41:19] momento se me fueron por la
+[00:41:21] desregulación 20 T3 de sistema, se
+[00:41:25] fueron a T5 y dejan de aportar al fondo,
+[00:41:27] con lo cual el fondo por ahí me estaría
+[00:41:29] generando un déficit sistemático. A la
+[00:41:32] inversa viene una regulación que dice,
+[00:41:33] "Che, los T5 si no se meten aguas abajo
+[00:41:36] del distribuidor van a tener problemas,
+[00:41:38] van a tener que afrontar un montón de
+[00:41:39] consecuencias, se te vienen tod y el
+[00:41:41] fondo me tiene superhábito." Eso va
+[00:41:43] pasando. Pero, ¿qué pasa? de aplicación
+[00:41:45] todos los años rearma ese cálculo y va
+[00:41:49] corrigiendo o no las alícotas según
+[00:41:51] corresponden. Entonces, ¿qué te dice? El
+[00:41:53] fondo no puede generar deficiencia de
+[00:41:55] eficient sistemático. Sí va a generar el
+[00:41:57] año en curso porque nadie le va a
+[00:41:59] acertar, le va a pegar de una.
+[00:42:00] Imagínense que el mercado variando
+[00:42:02] continuamente, van variando los cuadros
+[00:42:04] tarifarios, van variando la asignación,
+[00:42:05] entonces es imposible que el fondo
+[00:42:07] calculado sea exactamente el fondo
+[00:42:09] gastado. Por eso, a medida que vamos
+[00:42:11] avanzando, después vamos a llegar al
+[00:42:12] momento, nosotros tenemos la facultad de
+[00:42:14] la potestad de repartir algunos
+[00:42:16] excedentes.
+[00:42:18] ¿Le puedo hacer una consulta? Eh, no sé
+[00:42:19] si lo mencionaron al principio, ¿no?
+[00:42:22] Eh, viste que ahí salió una noticia que
+[00:42:25] la justicia frenó aumento en la
+[00:42:26] provincia.
+[00:42:28] Eso, ¿qué qué onda? Eh,
+[00:42:30] a la doctora que es la yo soy
+[00:42:32] economista. La doctora acá le va a
+[00:42:34] contar si estamos en esa situación. Eh,
+[00:42:37] todavía la provincia no recibió la
+[00:42:39] notificación, digamos, la demanda va
+[00:42:41] contra el Estado Provincial y contra las
+[00:42:43] cuatro empresas provinciales,
+[00:42:46] no contra el resto de los
+[00:42:48] distribuidores.
+[00:42:51] establece o impide, digamos, la
+[00:42:53] continuidad de la resolución 585,
+[00:42:56] que es el cuadro tarifario que se aprobó
+[00:42:59] con precios mayoristas el primero de
+[00:43:01] junio y a partir del primero de julio.
+[00:43:04] Eh, con lo cual, al momento en que se
+[00:43:07] dicta, que esto fue el viernes,
+[00:43:10] eh no estaba vigente esa resolución,
+[00:43:12] digamos. Hoy está vigente la 682 que se
+[00:43:15] publicó el 31 de agosto.
+[00:43:18] Eh, pero más allá de eso, digamos, es
+[00:43:20] una manda que le da al distribuidor de
+[00:43:23] aplicar una especie de cuadro tarifario
+[00:43:27] que contenga el precio mayorista
+[00:43:30] de ahora, de hoy, pero con el BAD de la
+[00:43:33] anterior a la 585. O sea, es una
+[00:43:36] cuestión de imposible cumplimiento para
+[00:43:38] la distribuidora. Ese cuadro
+[00:43:40] particionado, digamos, un pedacito de
+[00:43:42] uno y un pedacito del otro. no lo
+[00:43:43] tienen, no es una eh aprobación que haya
+[00:43:47] dado la autoridad de aplicación para que
+[00:43:48] lo aplique. Eso por un lado. Y respecto
+[00:43:51] de las distribuidoras, respecto de la
+[00:43:53] provincia, obviamente, digamos, tanto
+[00:43:56] las distribuidoras como la provincia
+[00:43:57] vamos a pelar la medida, pero más allá
+[00:44:00] de eso son distintas, digamos, este
+[00:44:02] situaciones.
+[00:44:04] Las distribuidoras, como les digo, esta
+[00:44:06] situación no podrían particionar un
+[00:44:08] cuadro, es de imposible cumplimiento, se
+[00:44:10] darían vuelta y che, yo voy a pelar esto
+[00:44:13] por esa razón. la provincia, estamos
+[00:44:16] evaluando con la Fiscalía de Estado cuál
+[00:44:18] sería la forma de apelación, pero en
+[00:44:23] esencia, digamos, dos cuestiones. La
+[00:44:26] primera, eh, no sé si leyeron la
+[00:44:28] demanda,
+[00:44:30] eh, pero la demanda se centra en que eh
+[00:44:33] se impide el acceso a los más
+[00:44:36] vulnerables,
+[00:44:38] eh, que se ha ido aumentando,
+[00:44:41] se ha ajustado el B este, digamos, todos
+[00:44:44] los meses. Si bien va siguiendo en la
+[00:44:48] etapa de transición, digamos, es una
+[00:44:49] mezcla y un resumen de muchas clases que
+[00:44:51] hemos tenido este en la etapa de
+[00:44:54] transición tarifaria. ¿Se acuerdan que
+[00:44:56] salimos, teníamos la RTI del 2017, eh
+[00:45:00] 2020 aparece la primer ley de emergencia
+[00:45:03] energética eh que se fue prorrogando en
+[00:45:06] el 2021? Con la resolución 439 decidimos
+[00:45:10] implementar la etapa de transición
+[00:45:12] tarifaria.
+[00:45:13] Esa etapa de transición tarifaria fue
+[00:45:15] ratificada por la ley 15480 por la 15557
+[00:45:19] que es la ley de presupuesto 2026 y dice
+[00:45:22] que esa etapa de transición tarifaria va
+[00:45:24] a estar vigente hasta tanto simplemente
+[00:45:26] la revisión tarifaria integral que
+[00:45:28] también como dijimos en otra clase
+[00:45:30] arrancó en el 2024 con la resolución
+[00:45:33] 1133. Entonces, la revisión tarifaria
+[00:45:36] integral está en marcha con tenemos el
+[00:45:39] consultor que es el Seare. Eh, se han
+[00:45:41] aprobado por dos resoluciones la
+[00:45:43] metodología de esa consultoría en dos
+[00:45:45] etapas está trabajando y estamos
+[00:45:47] llegando, digamos, al final. Como
+[00:45:49] también se dijo la clase pasada, la idea
+[00:45:51] es que antes de fin de año estemos con
+[00:45:54] la revisión tarifaria cerrada y
+[00:45:56] comunicándolo a los usuarios. Entonces
+[00:45:59] ahí es donde el juez dice,
+[00:46:01] "Che, el ajuste de Bad todos los meses,
+[00:46:05] si bien siguiendo aunque sea la
+[00:46:07] inflación, eh, la bonificación de tarifa
+[00:46:10] social se mantuvo. ¿Se acuerdan que el
+[00:46:12] régimen de la tarifa social, como les
+[00:46:13] comenté también en otra clase, eh
+[00:46:16] salimos o nos desacoplamos del costo de
+[00:46:18] la energía el primero de junio del 2024
+[00:46:21] y fuimos a un régimen de monto fijo. ese
+[00:46:24] monto fijo no se ha actualizado desde el
+[00:46:27] primero de junio a 2024. Entonces ese
+[00:46:29] monto de bonificación de tarifa social
+[00:46:31] se ha ido, digamos, quedando en el
+[00:46:34] tiempo en cuanto al valor este o poder
+[00:46:37] adquisitivo versus el Bad que sí sigue
+[00:46:40] subiendo. Así que es uno de los
+[00:46:41] principales argumentos y con y
+[00:46:44] consideran que esa, digamos, esa
+[00:46:47] imposibilidad de aumentar el valor del
+[00:46:49] monto fijo de la tarifa social hace que
+[00:46:51] los más vulnerables no puedan este
+[00:46:55] adquirir o pagar la factura a fin de
+[00:46:58] mes, haciendo, digamos este previsible
+[00:47:01] un corte del servicio para esos
+[00:47:03] sectores. Entonces ante esa situación,
+[00:47:06] peligro inminente, listo, la cautelar
+[00:47:08] hace que nadie lo puede aplicar.
+[00:47:11] E
+[00:47:12] el artículo es bastante genérico.
+[00:47:15] Eh, si uno lee la demanda está
+[00:47:17] direccionado al conjunto solamente de
+[00:47:20] los residenciales, cosa que la
+[00:47:23] resolución, digamos, del juez no lo
+[00:47:25] dice. Si uno lee la demanda habla
+[00:47:28] solamente de este grupo vulnerable de
+[00:47:31] tarifa social y de aquel
+[00:47:33] electrointensivo que utiliza el servicio
+[00:47:35] porque no tiene redes de gas y que
+[00:47:37] también se le pueda estar haciendo
+[00:47:38] difícil. O sea, el universo de la
+[00:47:41] demanda es mucho más acotado que lo que
+[00:47:43] el juez termina dando la resolución.
+[00:47:46] Y otra de las cuestiones que también
+[00:47:48] este surgen de la demanda y que eh
+[00:47:51] levanta el juez es la ausencia de una
+[00:47:55] audiencia pública. Y ahí tengo dos
+[00:47:58] argumentos para contarles. El primero y
+[00:48:00] que por qué no se hizo es que en la en
+[00:48:03] la RTI de la 419
+[00:48:05] se había publicado en el anexo 149 una
+[00:48:08] polinómica de ajuste de esa revisión
+[00:48:11] tarifar integral. Revisión tarifar
+[00:48:13] integral que se aprobó en el 17.
+[00:48:16] que el primero de julio del 19 quedaron
+[00:48:18] suspendidos los cuadros y el ajuste. Era
+[00:48:20] un ajuste anual el primero de agosto de
+[00:48:22] cada año, primero de julio del 19 nos
+[00:48:25] digamos se suspenden los ajustes de esa
+[00:48:27] RTI, congelamiento 2020 2021 y ahí
+[00:48:31] empezamos a dar pequeños aumentos. En el
+[00:48:33] 21 quizás fue uno bastante más jugoso,
+[00:48:37] eh, pero en el 22, en el 23 fueron más
+[00:48:40] pequeños y estamos por debajo del ajuste
+[00:48:44] de esa polinómica. Por eso se entendió
+[00:48:47] que no hacía falta en la etapa de
+[00:48:49] transición tarifaria que estamos
+[00:48:51] transcurriendo una celebración de una
+[00:48:53] audiencia pública porque los usuarios
+[00:48:54] estaban anoticiados con esa polinómica y
+[00:48:57] su tarifa iba a ir por acá y en
+[00:48:59] definitiva está yendo por acá abajo.
+[00:49:00] ¿Sí? Entonces, toda esta diferencia todo
+[00:49:03] el mundo entendía, los organismos
+[00:49:05] también, porque Fiscalía se lo hemos eh
+[00:49:07] preguntó, "Che, esto no hace falta
+[00:49:09] audiencia pública, no pasa esto." Nos
+[00:49:11] dijeron, "Bueno, bárbaro, por esa razón
+[00:49:13] no hemos llamado a audiencia pública
+[00:49:14] para la etapa de transición tarifaria.
+[00:49:17] Eh, estamos, sí, en etapa de terminando
+[00:49:20] el trabajo para la RTI y obviamente la
+[00:49:23] RTI sí requiere antes de su aprobación
+[00:49:26] una exposición a los usuarios a través
+[00:49:28] de audiencia pública y ahí se van
+[00:49:29] empalmar el cierre de la etapa de
+[00:49:32] transición tarifaria y la nueva revisión
+[00:49:34] tarifaria integral. Así que estamos ahí.
+[00:49:38] Este, ya teníamos pensada la fecha de la
+[00:49:40] audiencia pública de la de la revisión
+[00:49:42] tarifar integral, con lo cual, bueno,
+[00:49:44] nada, estamos en esa carrera y veremos
+[00:49:47] cómo transcurre esto con las apelaciones
+[00:49:49] tanto de las distribuidoras provinciales
+[00:49:51] como este del Estado Provincial que
+[00:49:55] digamos está representado por la
+[00:49:56] Fiscalía de Estado. Así que ese es un
+[00:49:58] poco el estado de situación y cuáles
+[00:50:00] son, digamos, los argumentos que tiene
+[00:50:03] la provincia y que tuvo la provincia en
+[00:50:04] este tiempo para poder dar respuesta.
+[00:50:11] Perfecto, muchísimas gracias. Clarísimo.
+[00:50:15] Seguimos.
+[00:50:17] Bueno,
+[00:50:18] llegamos hasta acá y hacemos un un corte
+[00:50:20] a ver quién es quién en esta situación,
+[00:50:22] porque acá hay una cuestión que nosotros
+[00:50:24] venimos discutiendo siempre desde la
+[00:50:26] gerencia con los distribuidores.
+[00:50:28] ¿Quiénes son los aportantes? Los
+[00:50:31] aportantes al fondo compensador
+[00:50:33] son los usuarios.
+[00:50:36] Eh, los usuarios depende o de acuerdo a
+[00:50:39] la categoría que cada uno esté dentro
+[00:50:41] del cuadro tarifario. Acá me faltó la T4
+[00:50:43] porque se la T4 va último y se me
+[00:50:46] corrió, se me cerró la filmina, no la
+[00:50:47] vi. Discúlpeme, no la corregí.
+[00:50:49] Todas las categorías, la T4 incluida, a
+[00:50:52] excepción de la T3, aportan el 5,5% del
+[00:50:55] fondo. La T3 aporta el 3,5.
+[00:50:58] La T5 que peaje hoy no aporta, pero
+[00:51:01] estamos trabajando en corregir esa
+[00:51:03] deficiencia respecto a la T3 para que
+[00:51:05] sea eh el sacrificio relativo de cada
+[00:51:09] usuario igual. ¿Por qué? Hago un
+[00:51:10] paréntesis. Porque un usuario T5 es
+[00:51:14] exactamente debería ser exactamente
+[00:51:16] igual en el costo final que un usado T3
+[00:51:18] a excepción de la compra en el mercado
+[00:51:19] mayorista. Es decir, el T3, ¿qué compra?
+[00:51:23] compra energía, potencia más toda el uso
+[00:51:26] de la red del distribuidor. El T5 le
+[00:51:29] paga distribuidor el uso de la red y
+[00:51:30] compra energía de la potencia en el
+[00:51:32] mercado mayorista. Si el T5 compra la
+[00:51:34] misma condición que el distribuidor, la
+[00:51:36] tarifa final tiene que ser exactamente
+[00:51:37] la misma. Hoy no se da ese caso. Hay
+[00:51:40] algunas distorsiones que estamos
+[00:51:41] trabajando en este en esta RTI para
+[00:51:43] corregirla, porque la desregulación,
+[00:51:45] ¿qué hace? ¿Qué está haciendo? que
+[00:51:47] muchos usuarios T3 se vayan al mercado
+[00:51:49] mayorista, con lo cual tienen eh en la
+[00:51:52] condición actual tienen diferentes
+[00:51:53] condiciones que si igualamos la T3 con
+[00:51:55] la T5. Entonces, estamos trabajando en
+[00:51:57] eso. Pero no obstante hoy la T5 la
+[00:52:00] alícota es cero. Después, ¿qué hacen los
+[00:52:03] distribuidores? Y son agente de
+[00:52:04] retención. Los distribuidores toman el
+[00:52:07] dinero que pagan los usuarios, lo juntan
+[00:52:10] todo y lo pasan directamente a la cuenta
+[00:52:13] recador de los EVA, al fondo compensado
+[00:52:15] tarifario.
+[00:52:16] Los 204 distribuidores aportan porque
+[00:52:19] todos los usuarios del sistema aportan.
+[00:52:21] Este es un sistema solidario. Eh, para
+[00:52:23] que todos tengamos una tarifa única en
+[00:52:25] igualdad de condiciones, necesitamos
+[00:52:27] este sistema solidario. Por lo cual es
+[00:52:29] sumamente importante que entiendan esto.
+[00:52:31] No es dinero del distribuidor, es dinero
+[00:52:34] del usuario. El distribuidor solamente
+[00:52:35] es un agente de retención y debe
+[00:52:37] aportarlo al fondo compensador
+[00:52:38] tarifario. ¿De acuerdo?
+[00:52:41] Bueno, determina el fondo compensador
+[00:52:44] como es es la máquina que el fondo
+[00:52:46] compensador determina así como un
+[00:52:48] proceso que después saca dos valores
+[00:52:51] para cada distribuidor que es el costo
+[00:52:52] de abastecimiento, valor de distribución
+[00:52:54] que lo voy a explicar un poquito más
+[00:52:55] adelante. ¿Y quiénes receptan hoy? Hoy
+[00:53:00] de los 204 reseta en el fondo 1997
+[00:53:04] distribuidores municipales. Los únicos
+[00:53:06] cuatro que no reseta son EDEN, EDES, EDA
+[00:53:09] y Edelap por ser las distribuidas de
+[00:53:11] referencia. Como les expliqué en su
+[00:53:12] momento, la tarifa está calculada para
+[00:53:15] los costos eficientes de esa
+[00:53:16] distribuidora. O sea, que esa
+[00:53:17] distribuidora cubren con sus usuarios sí
+[00:53:19] o sí todos los costos.
+[00:53:21] Y después hay tres distribuidoras
+[00:53:23] municipales que por su tamaño, en su
+[00:53:25] momento, estamos ya hablando en el 97
+[00:53:27] 2000, que [carraspeo] se determinó que
+[00:53:30] también cubrían con la tarifa de
+[00:53:31] referencia eficientemente sus costos que
+[00:53:34] son Tandil, Olría y Sáate, que no quiero
+[00:53:38] decir que hoy cuando se haga la revisión
+[00:53:40] puede ser que esta distribuida haya que
+[00:53:41] pagarle el fondo compensador o que haya
+[00:53:43] menos distribuida que haya pagando que
+[00:53:44] haya que pagarle el fondo compensador.
+[00:53:46] No tengo idea que va a dar. está
+[00:53:47] trabajando en esa revisión y esa
+[00:53:50] revisión va a ser la que va a reacomodar
+[00:53:52] la distribución del fondo, pero ahí
+[00:53:54] estamos en esa situación.
+[00:53:59] Bueno,
+[00:54:01] eh sigo con termino en esta y después
+[00:54:03] descansamos 5 minutos y seguimos. Dale.
+[00:54:06] Artículo 47. Como le venía diciendo,
+[00:54:09] ¿quién es quién esta situación?
+[00:54:12] El organismo de control administra
+[00:54:14] administra de acuerdo a las normas y las
+[00:54:16] reglas que nos dic la autoridad de
+[00:54:17] aplicación. La autoridad de aplicación
+[00:54:19] también nos audita o se fija que esas
+[00:54:21] normas y esas reglas se cumplan
+[00:54:22] constantemente.
+[00:54:24] Y la función de los concesionarios de
+[00:54:26] servicios públicos es es suministrar en
+[00:54:28] plazo y forma
+[00:54:31] o en los plazos y la forma que la
+[00:54:33] reglamentación establezca la información
+[00:54:34] necesaria. Nosotros requerimos de mucha
+[00:54:37] información
+[00:54:39] para calcular el Fondo Provincial de
+[00:54:40] Compensiones Tarifarias. Después más
+[00:54:42] adelante vamos a ver cómo se requiere
+[00:54:44] esa información, pero para nosotros es
+[00:54:46] sumamente importante que esa información
+[00:54:49] llegue en tiempo y forma y la veracidad
+[00:54:52] de esa información porque de ahí salen
+[00:54:55] los montos a pagar, salen los montos a
+[00:54:56] resignar. Si esa información no llega,
+[00:54:58] no podemos resignar. Entonces nos da la
+[00:55:02] facultad a nosotros en su momento de
+[00:55:04] sancionar aquellos que estén reticente a
+[00:55:07] reenviar ese tipo de información.
+[00:55:10] Si les parece, hacemos un break de 5
+[00:55:12] minutos
+[00:55:14] y seguimos.
+[00:55:34] Bueno, seguimos.
+[00:55:38] Hola,
+[00:55:40] están por ahí.
+[00:55:48] Okay. Bueno, seguimos, continuamos.
+[00:55:50] Vamos que es la recta final. Ya no los
+[00:55:51] voy a aburrir demasiado.
+[00:55:54] Bueno, habíamos dicho que era
+[00:55:56] administrado, el fondo compensado era
+[00:55:57] administrado por el SEBA, auditado por
+[00:56:00] la autoridad de aplicación y los
+[00:56:02] distribuidores tenían la obligación de
+[00:56:04] suministrar en plazo y forma que el
+[00:56:06] organismo de control que el
+[00:56:07] administrador lo determinara toda la
+[00:56:09] información necesaria para la
+[00:56:11] liquidación del Fondo Provincial de
+[00:56:13] Compensaciones Tariparias.
+[00:56:15] Vamos por ahí. Bueno, en este esquema,
+[00:56:19] el organismo de control, o sea, la el
+[00:56:22] marco regulatorio da lugar a que el
+[00:56:24] organismo de control dicte todas las
+[00:56:27] normas necesarias para el funcionamiento
+[00:56:28] del fondo compensador.
+[00:56:31] En este esquema, las tres normas
+[00:56:32] principales que fue dictando, hubo
+[00:56:34] algunas entre medio, pero las tres
+[00:56:35] normas principales que fui extractando
+[00:56:37] son la resolución 8 del 98, que la vamos
+[00:56:40] vamos a explicar de qué se trataba esa
+[00:56:42] resolución, la 349 del 01 y la 544 del
+[00:56:47] 04.
+[00:56:49] Ahora son las normas que hacen que el
+[00:56:53] Fondo Provincial de Compensiones
+[00:56:54] Tarifarios funcione adecuadamente.
+[00:56:58] Ahora vamos a ver qué es cada una de las
+[00:57:00] normas o qué determinó cada una de estas
+[00:57:02] normas.
+[00:57:06] La resolución 8 del 98. Acá eh
+[00:57:09] Guillamiro me lo corrigió porque antes
+[00:57:10] había puesto hitos sin h, pero bueno.
+[00:57:13] Los hitos principales. ¿Qué es lo que
+[00:57:15] hizo la 898? Cuando ustedes ustedes
+[00:57:16] pueden buscarla en la página, sea, van a
+[00:57:18] ver que es viejita, aparece con unos
+[00:57:20] triangulitos porque está está escaneada
+[00:57:22] y no toma todo todas las cuestiones. La
+[00:57:25] 898, ¿qué establece? Primero la fecha
+[00:57:28] límite, que eso se mantuvo para hacer
+[00:57:30] los aportes al Fondo Provincial de
+[00:57:32] Compensaciones Tarifades. Recuerden que
+[00:57:33] les dije que hay dos dos momentos en que
+[00:57:35] interviene, uno cuando se recauda y otro
+[00:57:39] cuando se liquida.
+[00:57:41] Por supuesto, para liquidar necesitamos
+[00:57:43] sí o sí que hagan los aportes. Entonces,
+[00:57:46] establece como fecha límite el quinto
+[00:57:48] día hábil del mes en curso. O sea, si el
+[00:57:51] quinto día, el quinto día del mes en
+[00:57:53] curso o el día 5, si el día 5 del mes en
+[00:57:56] curso es no hábil, se pasa el día
+[00:57:58] posterior, pero tienen que sí o sí hacer
+[00:58:02] el depósito en esa fecha.
+[00:58:04] Segundo, determina la norma está en 98
+[00:58:07] la cuenta recadora de Oceva, es decir,
+[00:58:10] el OSEVA, esto es eh parte de la ley de
+[00:58:13] administración, no me pregunte por qué,
+[00:58:15] tenemos dos cuentas, una es la
+[00:58:16] recaudadora y otra es la cuenta
+[00:58:18] pagadora.
+[00:58:20] La cuenta recaudadora, como dice la
+[00:58:22] única que hace es recaudar.
+[00:58:24] Al haber dos cuentas, ¿qué pasa? Muchas
+[00:58:26] veces de las cooperativas chiquitas me
+[00:58:27] dicen, "Che, pero si yo soy un receptor
+[00:58:29] neto del fondo, aporto mucho menos de lo
+[00:58:32] que vos me pagas cuando estoy atrasado,
+[00:58:34] ¿por qué no me lo descont?" No se puede
+[00:58:36] hacer eso. Todo, todo el dinero tiene
+[00:58:39] que entrar directamente a la cuenta
+[00:58:40] recaudadora. Todo el mundo tiene que
+[00:58:42] pagar o tiene que aportar lo que recaudo
+[00:58:45] sus usuarios. También establecí en este
+[00:58:47] caso la fecha para distribución del
+[00:58:49] fondo. Decía que era el 15 de cada mes.
+[00:58:52] Esto ahora no se cumple. Tenemos un
+[00:58:53] nuevo protocolo donde el fondo se
+[00:58:55] liquida el día, se termina de liquidar
+[00:58:57] por protocolo el día 26 de cada mes y se
+[00:59:00] firma en directorio antes de fin de mes
+[00:59:03] y además determinaba
+[00:59:05] la tasa de interés por mora, o sea,
+[00:59:07] aquellos que se atrasaban se le puede
+[00:59:09] aplicar una tasa de interés que la tasa
+[00:59:10] de descuento documenta 30 días al Banco
+[00:59:12] de la Provincia de Buenos Aires más un
+[00:59:15] interés punitor equivalente al 1,5 de
+[00:59:18] esta tasa. O sea, si ustedes se atrasan,
+[00:59:20] nosotros tenemos la facultad de
+[00:59:23] cobrarles interés. Por un lado, el
+[00:59:25] interés resarcitorio, que es esa tasa,
+[00:59:27] más el 1,5 por esa tasa, que es el
+[00:59:30] interés punitorio.
+[00:59:32] Esto, ¿por qué? Porque es sumamente
+[00:59:34] importante que el sistema funcione. Para
+[00:59:36] que el sistema funcione, el organismo
+[00:59:38] necesita recaudar el fondo provizante de
+[00:59:40] comparación tarifari. Piensen que hay
+[00:59:41] cooperativas que son muy chiquititas,
+[00:59:43] muy chiquitas, distribuidores muy
+[00:59:44] chiquititos que vienen del fondo. Si
+[00:59:47] nosotros no le pagamos el fondo, no
+[00:59:48] pagan los sueldos, no pagan la energía,
+[00:59:50] no pagan el combustible, no pagan
+[00:59:52] absolutamente nada. Así que es para
+[00:59:55] nosotros sumamente importante contar con
+[00:59:58] la recaudación del fondo en los días que
+[01:00:00] se corresponde.
+[01:00:04] Seguí. La resolución 349 complementa 8,
+[01:00:07] por supuesto, incorporando algunas
+[01:00:09] cuestiones. Primero, después lo voy a
+[01:00:11] explicar, solamente lo pongo a título
+[01:00:13] informativo.
+[01:00:15] Incorpora el procedimiento de aprobación
+[01:00:17] de los costos de abastecimiento. Lo
+[01:00:19] dijimos en su momento, el fondo El fondo
+[01:00:23] eh determina dos tipos de costos de
+[01:00:25] forma salida. Por un lado,
+[01:00:26] abastecimiento y por un lado, VAD.
+[01:00:31] Ahí vamos a ver. Después les voy a
+[01:00:33] explicar qué es cada una de las
+[01:00:35] cuestiones, pero la 349 determina el
+[01:00:37] procedimiento de aprobación de las
+[01:00:38] costas de abastecimiento, determina
+[01:00:40] modalidades de compra. Ya les voy a
+[01:00:42] explicar qué son las modalidades de
+[01:00:43] compra. Después estableces pautas para
+[01:00:46] el cálculo de abastecimiento con una
+[01:00:47] periodicidad trimestral. Es decir, toma
+[01:00:50] toma para calcular el fondo compensador
+[01:00:53] trimestres, promedios trimestrales de
+[01:00:55] energía. Ahora después también le voy a
+[01:00:57] explicar por qué y cómo funciona esa
+[01:00:59] gestación.
+[01:01:01] vuelve a ser hincapié en la facturación
+[01:01:03] que el fondo se debe facturar con el
+[01:01:05] cuadro del área de referencia, el cuadro
+[01:01:07] máximo. Repito, si ustedes tienen que
+[01:01:10] hacer descuentos, lo hacen, no hay
+[01:01:11] ningún problema, pero el fondo tienen
+[01:01:12] que aportar sobre el cuadro máximo, no
+[01:01:14] hay otra forma.
+[01:01:17] Define las categorías tarifarias a
+[01:01:19] compensar,
+[01:01:20] porque no todas las categorías se
+[01:01:21] compensan. La T5, por ejemplo,
+[01:01:23] actualmente no se compensa por fondo.
+[01:01:27] Y determina las declaraciones juradas de
+[01:01:29] venta y compra de energía. era la 349,
+[01:01:31] después se fue modificando. Ahora vamos
+[01:01:32] a llegar a la modificación.
+[01:01:34] También establece esto, importantísimo,
+[01:01:36] que si el fondo provincial es
+[01:01:39] deficitario, ha pasado algunas veces que
+[01:01:41] no tenemos suficiente dinero para cubrir
+[01:01:43] todo el gasto que determina el fondo, se
+[01:01:46] deben priorizar primero a los
+[01:01:48] distribuidores municipales de menor
+[01:01:49] factura porque como bien les dije, son
+[01:01:52] los que funcionan solo y exclusivamente
+[01:01:55] porque existe el fondo compensor
+[01:01:57] tarifario, dada la tarifa actual.
+[01:02:01] Bueno, después acá la el punto se decía
+[01:02:04] que debían afectar los aportes y remitir
+[01:02:05] el comprobante a OEBA, porque esto esto
+[01:02:07] era antes cuando era el comprobante
+[01:02:09] papel, o sea, cada aportante hacía el
+[01:02:11] aporte correspondiente, remitía formato
+[01:02:13] de papel que había aportado al fondo
+[01:02:15] compensador tesorería de los tesorería
+[01:02:17] hacía sus controles y lo derivaba la
+[01:02:20] gerencia de mercado.
+[01:02:22] Y además el punto siete, lo que faculta,
+[01:02:24] esto es importante también, faculta al
+[01:02:26] organismo a penalizar por incumplimiento
+[01:02:28] los informes requeridos, porque como ya
+[01:02:30] les dije en su momento y lo vamos a ver
+[01:02:31] más adelante, para nosotros es sumamente
+[01:02:34] importante la información. Sin la
+[01:02:36] información no podemos liquidar el
+[01:02:38] fondo, no podemos ni cobrar ni pagar el
+[01:02:39] fondo. Entonces es sumamente importante
+[01:02:42] que la información esté, sea veraz y
+[01:02:45] esté en el tiempo que lo determin. Les
+[01:02:47] voy a contar por qué.
+[01:02:51] Sí. Seguimos
+[01:02:54] con la con la normativa. La normativa
+[01:02:56] actual hoy es la 544 del 04. Todas la
+[01:02:59] conocerán. Ahora se las voy a mostrar un
+[01:03:01] poquito. Complementa la 341 y modifica
+[01:03:04] los formularios para el medio de
+[01:03:05] información. En principio, ¿qué aprueba?
+[01:03:08] Aprueba la metodología para el medio de
+[01:03:10] información relacionada con el fondo
+[01:03:11] compensador y con la tasa de
+[01:03:13] fiscalización y control en carácter de
+[01:03:14] declaración jurada. Tengan en cuenta
+[01:03:16] esto. Vamos a hacer un paréntesis acá.
+[01:03:18] la 544, que es la declaración jurada de
+[01:03:20] venta que ustedes hacen todos los meses,
+[01:03:22] que es valorar grado de venta, nada más
+[01:03:23] y nada menos que valorar grado de venta
+[01:03:24] del mes o hacer la radiografía de lo que
+[01:03:26] vendieron en el mes, no solo se usa para
+[01:03:28] calcular el fondo compensador, sino
+[01:03:30] también se usa para calcular la tasa de
+[01:03:32] fiscalización y control. Por eso es
+[01:03:33] importantísimo que esto exista. ¿Cómo
+[01:03:36] funciona la tasa de fiscalización en
+[01:03:37] control?
+[01:03:39] Antes, antes en el marco relatorio decía
+[01:03:42] que el organismo podía recaudar hasta el
+[01:03:44] 8% 0,8% del facturado. Es decir, el
+[01:03:48] organismo determinaba cuánto recaudar,
+[01:03:50] decía se recaudó el 0,7 y a partir de
+[01:03:53] ahí se usaba, se hacía el presupuesto de
+[01:03:55] los SEBA. Ahora se hace al revés, se
+[01:03:56] hace como Nenre. Primero se hace el
+[01:03:59] presupuesto de los EVA, el presupuesto
+[01:04:01] implicado en todos los gastos
+[01:04:02] operativos, los sueldos, todo lo que los
+[01:04:04] van a necesitar en el año. Una vez que
+[01:04:06] se hace el presupuesto de los se asigna
+[01:04:09] de acuerdo a la participación relativa
+[01:04:11] que tiene cada distribuidor en el
+[01:04:13] mercado. Por eso es sumamente importante
+[01:04:15] que nos declaren la 544 en forma
+[01:04:17] adecuada. A partir de esa participación
+[01:04:20] relativa es qué parte del presupuesto le
+[01:04:23] toca a cada uno. Es decir, por ejemplo,
+[01:04:25] tomamos idea de nuevo. Si Edea, el
+[01:04:27] mercado representa el 17% del mercado
+[01:04:30] total, a a Edea le va a tocar el 17% o
+[01:04:34] abonar o pagar el 17% del presupuesto de
+[01:04:37] SEBA a través de la tasa de
+[01:04:38] fiscalización y control en los distintos
+[01:04:39] pagos que se hagan. ¿Se entiende? Eso se
+[01:04:42] hace siempre con el mercado anterior, o
+[01:04:45] sea, cuando llego el presupuesto 2026,
+[01:04:48] se toma para la asignación de recursos
+[01:04:51] el facturado emitido del año 2025 para
+[01:04:54] ver la participación relativa. No
+[01:04:55] obstante ello, tengan en cuenta que ese
+[01:04:57] 17% va a pegar sobre el facturado 20
+[01:05:02] 2026, no sobre 2025, pero sin embargo el
+[01:05:04] 2025 se usa para ver qué participación
+[01:05:07] relativa le toca a cada uno. Por lo
+[01:05:09] tanto, es sumamente importante que esa
+[01:05:10] información esté. Si no, nosotros, como
+[01:05:12] es el punto dos, tenemos la capacidad de
+[01:05:14] estimarlo.
+[01:05:16] Vamos a hacer una estimación y en
+[01:05:18] general, en general vamos a hacer la
+[01:05:20] estimación lo más cercana posible que
+[01:05:22] que que podamos. Sin embargo, si yo
+[01:05:24] tengo que estimar,
+[01:05:26] si tengo que tener un error, voy a tener
+[01:05:28] el error por exceso y no por defecto,
+[01:05:29] porque si ustedes no mandaron la
+[01:05:30] información, no voy a castigar al resto
+[01:05:32] de los distribuidores por la falta de
+[01:05:34] información de ustedes. ¿Se entiende?
+[01:05:35] Entonces, yo voy a tratar de ser lo más
+[01:05:36] justo posible y la gerencia. va a tratar
+[01:05:39] de ser lo más justo posible, pero si hay
+[01:05:41] un error va a ser error por exceso y no
+[01:05:43] por defecto. Tengan en cuenta esa
+[01:05:45] situación, porque de la otra forma, si
+[01:05:47] yo el error lo tengo por defecto, la
+[01:05:49] falta de envío de información de ustedes
+[01:05:51] termino castigando o soportando, termina
+[01:05:53] soportando la tasa el resto de los
+[01:05:55] distribuidores que realmente cumplieron
+[01:05:56] con el deber de información. Téngalo en
+[01:05:58] cuenta eso.
+[01:06:00] Y después vuelve otra vez a determinar
+[01:06:02] que los incumplidos de la presentación
+[01:06:04] de las declaraciones juradas son
+[01:06:05] plausibles de aplicación de sanciones.
+[01:06:07] Les vuelvo a decir por qué. Porque para
+[01:06:08] nosotros es sumamente importante y vital
+[01:06:11] esta información. Sin esta información
+[01:06:13] nosotros no podemos, nos es totalmente
+[01:06:15] imposible calcular el fondo provincial
+[01:06:17] de compensiones Tarifarias.
+[01:06:19] Seguimos adelante. ¿Alguna duda hasta
+[01:06:21] ahora?
+[01:06:26] Muy bien, seguimos.
+[01:06:28] Esta es una declaración jurada 544. Tomé
+[01:06:31] una de creo que def. No importa, pero
+[01:06:34] los ítems son los mismos. Esto lo tienen
+[01:06:35] que presentar todos los años. Usted
+[01:06:36] tiene que presentar la cantidad de
+[01:06:38] usuarios, la cantidad de energía, los
+[01:06:41] valores económicos, primero antes de
+[01:06:44] impuesto, después con impuesto, el
+[01:06:45] cuadro de aplicación, porque nosotros
+[01:06:47] hacemos controles internos de la
+[01:06:48] información que están que están
+[01:06:50] presentando. Es decir, si la cantidad de
+[01:06:52] energía por el cuadro de aplicación
+[01:06:53] tendría que hacer los valores
+[01:06:54] económicos. Si no da, tenemos algún
+[01:06:56] problema. Siempre hay un margen de error
+[01:06:58] porque ustedes pueden cargar alguna
+[01:06:59] alguna factura que cobrar un
+[01:07:01] complementario o no, pero en general
+[01:07:03] tenemos límites de aceptación. Después,
+[01:07:05] este es el lado izquierdo de la
+[01:07:06] planilla. El lado izquierdo de la
+[01:07:07] planilla se presenta por el facturado
+[01:07:10] emitido del mes. ¿Está bien? El lado
+[01:07:13] derecho de la planilla es lo que usamos
+[01:07:14] para calcular el fondo compensador que
+[01:07:18] se determina, perdón, por el facturado
+[01:07:20] vencido.
+[01:07:22] ¿Qué quiere decir?
+[01:07:24] En agosto ustedes van a presentar el
+[01:07:26] factor vencido de julio. El facturado
+[01:07:29] vencido de julio es lo que va a
+[01:07:31] determinar lo que ustedes van a pagar en
+[01:07:33] agosto. Ya recaudaron todo eso. Cuando
+[01:07:35] ustedes en agosto hacen el pago, ese
+[01:07:39] monto ya fue recaudado en julio
+[01:07:41] directamente o por lo menos fue se
+[01:07:43] corresponde con el facturado que venció
+[01:07:45] en julio. ¿Está bien? Entonces, la
+[01:07:47] planilla tiene esta lógica. Parte
+[01:07:49] izquierda, facturado emitido, parte
+[01:07:52] derecha facturado vencido. El fondo
+[01:07:54] compensador, recuerden que el pago
+[01:07:56] [carraspeo]
+[01:07:58] se corresponde con el facturado vencido.
+[01:08:00] ¿Está bien? Hay algunos que tienen
+[01:08:02] facturado emitido enero, vencimiento
+[01:08:04] febrero se paga en marzo. Otros tienen
+[01:08:06] facturado emitido febrero, vencimiento
+[01:08:07] febrero, se paga en marzo. Esa es la
+[01:08:09] secuencia lógica del fondo compensador
+[01:08:11] que lo vienen llevando desde el inicio
+[01:08:13] de la gestión. Nosotros somos muy
+[01:08:15] cuidadosos no cambiar esa secuencia
+[01:08:16] porque si cambiamos esa secuencia,
+[01:08:18] independientemente de que esté bien o
+[01:08:20] esté mal, modificamos algún dato de
+[01:08:23] consumo. Nosotros necesitamos que
+[01:08:24] estadísticamente todos los datos sean
+[01:08:26] consecuentes. No podemos haber ningún
+[01:08:28] salto en las lecturas, en los periodos
+[01:08:30] de lectura. ¿Está claro?
+[01:08:35] La última parte de la planilla tiene el
+[01:08:36] CT o ICT. Recuerden que a medida que se
+[01:08:39] va complejillando la situación, ahora
+[01:08:41] esta planilla tenemos una planilla
+[01:08:42] plena, una planilla social, una planilla
+[01:08:45] electrodependiente, etcétera, etcétera.
+[01:08:46] Nosotros ahora estamos trabajando, les
+[01:08:48] paso el chivo, en un sistema donde
+[01:08:51] ustedes tengan que declarar la
+[01:08:53] facturación mensual, pero por factura,
+[01:08:54] no agregada. Y a través de esa
+[01:08:56] facturación mensual nosotros
+[01:08:58] automáticamente los SEBA haga el
+[01:09:00] agregado mensual y determine esta
+[01:09:03] planilla de venta. No va a hacer más
+[01:09:05] falta que si Dios quiere y podemos
+[01:09:06] llegar a terminar el sistema, que usted
+[01:09:08] carguen la 544
+[01:09:10] mensualmente agregada. Simplemente van a
+[01:09:13] cargar factura por factura y nosotros
+[01:09:14] vamos a terminar esta situación.
+[01:09:17] ¿Alguna duda hasta ahora? Igual esto lo
+[01:09:19] vienen haciendo hace 20 años, así que ya
+[01:09:21] lo saben, harto de memoria. La mayoría
+[01:09:23] sabe cómo se hace. Seguimos.
+[01:09:30] Se me trabó la firmina.
+[01:09:33] A ver,
+[01:09:34] discúlpenme.
+[01:09:41] Bueno,
+[01:09:45] dejo de compartir un gachito, chicos,
+[01:09:46] porque se me trabó la firmina. No, no
+[01:09:48] puedo avanzar. A ver.
+[01:10:00] Un segundo.
+[01:10:11] va hablar y me va suspirendo y estamos
+[01:10:15] pero tengo esa dificultad
+[01:10:23] está de chantaje
+[01:10:27] ehamos aplicado esa fórmula tarifa Se ve
+[01:10:30] ahí. Aguárden un segundo.
+[01:10:35] Otra vez. Tengo problema. Discúlpeme,
+[01:10:37] Alisandro, si me das una mano con esta
+[01:10:38] situación.
+[01:10:41] Sí, ahora tenés que ir al menú.
+[01:10:44] Ver.
+[01:10:44] Sí, sí. Firmina completa. No, menú.
+[01:10:48] Sí. Pantalla completa.
+[01:10:50] Menúando.
+[01:10:59] Ver.
+[01:11:00] Vos no, pero la otra subsecretaría la
+[01:11:02] venla completa. Ahí se ve.
+[01:11:06] Sí,
+[01:11:07] ahí está.
+[01:11:08] Perfecto. Pasó ahí. O yo en mi máquina
+[01:11:10] la veo.
+[01:11:11] Se ve, pero no la pantalla completa.
+[01:11:13] Fíjate de compartir la pantalla de la
+[01:11:16] que estás viendo vos ahora.
+[01:11:18] A ver, dame un segundo. Estaba
+[01:11:19] compartiendo. Eh,
+[01:11:20] compartir. Claro.
+[01:11:21] Dame un segundo que tengo. A ver, porque
+[01:11:24] yo en la máquina que estoy la puedo ver.
+[01:11:28] Vamos, vamos de nuevo. Venú
+[01:11:34] compartir.
+[01:11:36] Primero hacerlo desde el PDF que vos
+[01:11:39] veas la pantalla completa y después del
+[01:11:40] Zoom.
+[01:11:41] Vamos a hacer entonces
+[01:11:49] y si no la comparto yo que la tengo.
+[01:11:51] A ver,
+[01:11:53] modo pantalla. Dame un segundo a ver si
+[01:11:55] podemos. pantalla completa.
+[01:11:58] Ahí estamos.
+[01:12:03] Ahí lo ven.
+[01:12:03] Aún no.
+[01:12:04] No, aún no.
+[01:12:08] No, yo la veo, che, para que ustedes no
+[01:12:10] la ven.
+[01:12:11] Puede fallar la tecnología, chicos. Mil
+[01:12:13] disculpas. Eh,
+[01:12:14] eh, por supuesto, no hay problema. A
+[01:12:17] ver, de nuevo.
+[01:12:32] Siguen sin verla, ¿no?
+[01:12:35] Ahora la estamos viendo. Si no pasa así,
+[01:12:37] lo único que se ve ahí es el menú de la
+[01:12:40] do, así no te no te complicas.
+[01:12:43] Dale, la paso así.
+[01:12:45] A ustedes les parece. A ver,
+[01:12:48] puedo seguir pasándola. No, pero se me
+[01:12:50] tra vez. No puedo seguir pasando la che.
+[01:12:53] Bueno, la la presento yo si te parece.
+[01:12:55] Dale, dale, Lisandro, present. Vamos
+[01:12:57] hasta la
+[01:12:59] Estamos la 544,
+[01:13:01] la 19. Sí,
+[01:13:02] la 19. A ver,
+[01:13:05] un segundito.
+[01:13:06] Estoy con dos máquinas, chicos. Se me
+[01:13:07] traba. Estoy con dos máquinas, pero se
+[01:13:10] se trabó.
+[01:13:27] Eh, deja de compartir, Esteban, así
+[01:13:30] puedo compartir yo.
+[01:13:32] Ahí está.
+[01:13:48] Eh, una para atrás,
+[01:13:51] por favor.
+[01:13:55] Ahí está.
+[01:13:56] Bueno, estábamos ahí. Le estaba
+[01:13:58] explicando la 544. Pasemos a la que
+[01:14:00] sigue, por favor. Lisandro, discúlpame
+[01:14:02] que te
+[01:14:03] No, no, no te hagas drama. Vos dec
+[01:14:08] Ahí está. Bueno, como les venía
+[01:14:10] diciendo, los distribuidores tienen que
+[01:14:12] hacer dos presentaciones. Una es la
+[01:14:15] declaración jurada de compras de ventas,
+[01:14:18] perdón, una más atrás. Una, ahí está,
+[01:14:20] perfecto. Una es la declaración jurada
+[01:14:22] de venta, que es la 544,
+[01:14:24] y otra es la declaración jurada de
+[01:14:27] compra. ¿Por qué? ¿Por qué? Porque
+[01:14:29] siempre recuerdan que el fondo
+[01:14:31] compensador, les dije en su momento,
+[01:14:33] compensa dos componentes principales, el
+[01:14:35] valor de distribución y el costo de
+[01:14:37] abastecimiento. La declaración jurada de
+[01:14:40] compra que tiene que presentar tiene que
+[01:14:41] ver con el costo de abastecimiento.
+[01:14:43] Ahora, ¿por qué compensan el costo de
+[01:14:45] abastecimiento? Igual lo voy a explicar
+[01:14:46] después cómo hac el formato. Siempre
+[01:14:48] traigo el paralelismo. Es el ejemplo acá
+[01:14:50] en La Plata hay un supermercado
+[01:14:51] mayorista llama nini
+[01:14:54] y después está el mercadito del barrio.
+[01:14:56] Si yo usuario voy y compro el nini, por
+[01:14:58] ejemplo, el azúcar lo compro un peso.
+[01:15:00] Ahora el del mercadito del barrio va a
+[01:15:02] comprar Nini también y me carga el
+[01:15:04] markup o el margen de ganancia de él.
+[01:15:05] Entonces el mercadito del barrio me
+[01:15:08] vende el azúcar a un peso 30.
+[01:15:10] Yo lo que hago con el fondo comensor que
+[01:15:12] es decir como que todos compren el nini.
+[01:15:15] le compenso esa diferencia de 30
+[01:15:17] centavos para que todos los usuarios
+[01:15:19] estén igual de condiciones. Todos los
+[01:15:20] usuarios podrían ir al mercado
+[01:15:21] mayorista. Esto básicamente lo que hace
+[01:15:24] el sistema. Para hacer esto, que está
+[01:15:27] resumido, necesito que cada distribuidor
+[01:15:30] nos haga una declaración o ya se
+[01:15:32] determinó en la 349 las distintas
+[01:15:35] modalidades de compra. ¿Por qué? Porque
+[01:15:37] cada modalidad de compra va a determinar
+[01:15:39] un precio de acceso a la energía y a la
+[01:15:41] potencia. Estas modalidades ya están
+[01:15:43] predeterminadas.
+[01:15:45] Ustedes si van al cuadro tarifario de la
+[01:15:47] provincia de Buenos Aires, van a ver que
+[01:15:48] en un ítem dice T3 otros distribuidores.
+[01:15:52] Eso es un T3 MT, es decir, el precio en
+[01:15:54] que un distribuidor grande le vende un
+[01:15:57] distribuidor pequeño. Tengan en cuenta
+[01:15:58] que en la provincia de Buenos Aires
+[01:15:59] tenemos 39 agentes del mercado, 39 sobre
+[01:16:03] 204 y el resto le compran otro
+[01:16:05] distribuidor, no compran el mercado
+[01:16:06] mayorista. ¿Está bien? Entonces, ¿cuál
+[01:16:09] es el precio que ven? Bueno, el precio
+[01:16:11] que el distribuidor aguas abajo B se se
+[01:16:15] condice con la modalidad de compra que
+[01:16:17] tenga declarada, o sea, si es un T3 MT
+[01:16:21] va a haber un precio. Puede ser un M
+[01:16:22] conectado transportista, men conectada
+[01:16:24] distribuidor, T3MT con bad pérdidas
+[01:16:26] igual a cero no importa que lo tengan.
+[01:16:28] Lo que tienen que quedarles claro es que
+[01:16:30] cada estas modalidades determinal
+[01:16:33] que el fondo compensador va a tener que
+[01:16:35] compensar para dejarlo en igual de
+[01:16:36] condiciones, como si el tipo fuera
+[01:16:38] comprado directamente en el mercado
+[01:16:39] mayorista. Un dime que es un
+[01:16:41] distribuidor menor. Son distintas
+[01:16:42] modalidades de compra que determinan
+[01:16:44] distintos precios. Da claro. Fondo
+[01:16:47] compensado que dice, "Señores, todos
+[01:16:49] compran al final del de de la película
+[01:16:52] todos compraron al mismo precio. Todos
+[01:16:54] hacemos como que compramos en el mercado
+[01:16:55] mayorista, independientemente que
+[01:16:57] ustedes no estén conectados al mercado
+[01:17:00] eléctrico mayorista. Para eso necesito
+[01:17:02] este tipo de modalidades.
+[01:17:05] Seguir acá. Bueno, un cachito. Tengo ahí
+[01:17:07] está, perfecto, Alisandro. Tengo tengo
+[01:17:09] un sistema operativo, tengo un sistema
+[01:17:12] que es el sistema integrado de calidad
+[01:17:14] eh de mercados que a partir de ese
+[01:17:16] sistema operativo se puede recalcular el
+[01:17:19] fondo compensador. Acá les quise
+[01:17:21] visualizar cómo es el procedimiento. El
+[01:17:22] procedimiento del cálculo del fondo
+[01:17:23] compensado es muy largo. No trabajamos
+[01:17:25] un mes en todo este hasta que sale cada
+[01:17:27] fondo. Se arranca primero revisando que
+[01:17:31] todos los distribuidores hayan pagado o
+[01:17:34] hayan aportado al fondo compensador.
+[01:17:36] En ese instante se intima a los que no
+[01:17:39] pagaron, se les da un plazo para que
+[01:17:42] cumplan o no cumplan. Si no cumplen, se
+[01:17:45] les retiene el fondo compenso aquellos
+[01:17:46] que sean plausibles retenir y aquellos
+[01:17:48] que no sean plausibles se los intima y
+[01:17:50] se les cobra interes por atraso en el
+[01:17:51] pago del fondo. Bueno, en este contexto
+[01:17:55] ponemos en el medio el sistema
+[01:17:56] informático que es quien procesa los
+[01:17:58] datos. Piense que es un cálculo
+[01:18:00] sumamente complejo. Son 200 cuadros
+[01:18:03] tarifarios distintos que entran en el
+[01:18:05] cálculo
+[01:18:07] y se comparan cuadros tarif referencia.
+[01:18:11] En este sistema, ¿quién está? Está el
+[01:18:12] operador Felipe. Felipe es nuestro
+[01:18:14] operador [carraspeo] que carga todos los
+[01:18:16] precios todos los meses. Felipe tiene
+[01:18:18] que cargar todos los precios mayoristas,
+[01:18:20] todos los precios, perdón, de los
+[01:18:21] cuadros tarifarios de referencia. Carga
+[01:18:23] todos los precios. O sea, antes
+[01:18:27] cuando no estaba este gobierno, ¿qué
+[01:18:28] pasaba? La programación estacional es
+[01:18:31] trimestral, o sea, se sancionaba un
+[01:18:33] precio el primer mes de la programación
+[01:18:35] estacional y ese precio se mantenía
+[01:18:36] durante 3 meses. Entonces, nosotros en
+[01:18:39] el sistema, ¿qué qué cargamos? Ese
+[01:18:41] precio lo mantenemos 3 meses y durante 3
+[01:18:43] meses si el distribuidor había cargado
+[01:18:46] todos los datos, cobraba el mismo el
+[01:18:48] mismo costo de abastecimiento. Le voy le
+[01:18:50] voy a pasar a ahora les voy a explicar
+[01:18:51] por qué. Hoy los precios cambian mes a
+[01:18:54] mes, o sea, que Felipe, que es el
+[01:18:56] operador, todos los meses tiene que
+[01:18:59] cargar los precios, distintos precios de
+[01:19:01] los de los cuadros tarifarios para que
+[01:19:03] haga la compensación pertinente el
+[01:19:05] sistema, con lo cual, por eso somos muy
+[01:19:09] insistimos mucho en que la información
+[01:19:11] esté en tiempo porque si Felipe no tiene
+[01:19:13] todos los datos, cuando tiene que
+[01:19:15] recalcular el fondo porque alguien no
+[01:19:16] presenta la información tiene que volver
+[01:19:18] a cargar los precios anteriores.
+[01:19:21] Entonces, menudo trabajo, fíjense que
+[01:19:23] tiene Felipe, además de está Miguel acá
+[01:19:25] también, Miguel hace los controles de
+[01:19:26] los topes. Entonces, todo eso cuando no
+[01:19:29] está armado o en un mes no están todos
+[01:19:32] los datos, al mes siguiente ya los
+[01:19:35] precios cambiaron. Entonces, el operador
+[01:19:36] tiene que volver a cargar los precios
+[01:19:37] iniciales para pagarle a aquellos que no
+[01:19:40] que no presentan la información y además
+[01:19:41] volver a cargar los precios otra vez
+[01:19:43] para pagarle a los que presentan la
+[01:19:44] información en tiempo informe. Entonces
+[01:19:47] es muy complejo y por eso insistimos
+[01:19:48] mucho en que sean muy cuidadosos y
+[01:19:52] cumplan en tiempo y forma con la
+[01:19:53] información. ¿Qué entra dentro del
+[01:19:55] sistema? Entra la declaración jurada de
+[01:19:57] venta que se hace la mostré que es la
+[01:19:59] 544. Lo voy a explicar por después por
+[01:20:01] qué. entra la declaración jurada de
+[01:20:03] compra que de acuerdo a la modalidad que
+[01:20:05] están teniendo, ustedes tienen que
+[01:20:06] cargar en el sistema qué potencia
+[01:20:08] compraron en pico, qué potencia
+[01:20:10] compraron fuera de pico, la potencia
+[01:20:11] media, la cantidad de cargo fijo, es un
+[01:20:13] montón de parámetros que usa el sistema
+[01:20:15] para calcular el fondo compensador.
+[01:20:17] ¿Qué otra cosa? Los cuadros tarifarios
+[01:20:19] vigentes. Eso como ahora estamos
+[01:20:21] teniendo un cuadro tarifario mensual y
+[01:20:25] no trimestral como era antes, como era
+[01:20:26] la programación estacional. La prom
+[01:20:28] estacionar, recuerden que es, yo siempre
+[01:20:29] me acuerdo de febrero, febrero, marzo,
+[01:20:31] abril, o sea, los precios sancionados en
+[01:20:32] febrero ya están para deberían estar
+[01:20:34] para el trimestre, mayo, junio, julio,
+[01:20:37] agosto, septiembre, octubre, noviembre,
+[01:20:38] diciembre, enero. O sea, en el primer
+[01:20:40] mes de la programación se debería
+[01:20:41] sancionar el precio y se debería
+[01:20:42] mantener durante el trimestre. Hoy no
+[01:20:43] pasa eso. Todos los meses Secretaría de
+[01:20:45] Energía ajusta el precio, con lo cual
+[01:20:48] nos obligas a nosotros a ajustar todos
+[01:20:51] los parámetros del cálculo del fondo
+[01:20:53] compensador y recargar todos los precios
+[01:20:55] mes por mes a mano. Menudo trabajo
+[01:20:57] tienen los chicos que operan el sistema,
+[01:20:59] además de tener que controlar toda esa
+[01:21:00] situación.
+[01:21:02] Después, por otro lado, yo les dije o
+[01:21:05] les comenté que el fondo compensador
+[01:21:08] pagaba diferencia de abastecimiento y
+[01:21:10] además pagaba diferencia de bad.
+[01:21:12] Diferencia de B. ¿Qué es eso? Es el B
+[01:21:15] que al distribuidor le falta de acuerdo
+[01:21:19] a su costo comparado con el cuadro
+[01:21:20] tarifario, referencia. Es decir,
+[01:21:22] volvemos para atrás, vamos al ejemplo de
+[01:21:25] la dulce.
+[01:21:27] Edea le calculó un cuadro tarifario que
+[01:21:29] tiene en cuenta sus costos operativos.
+[01:21:32] Edea distribuye los costos en una cuadra
+[01:21:34] entre 400 familias. La dulce distribuye
+[01:21:36] los costos en una cuadra entre siete
+[01:21:38] familias. Con lo cual con la tarifa de
+[01:21:40] DEA a la dulce, por supuesto, no le
+[01:21:42] alcanza para funcionar. Entonces se hace
+[01:21:45] se hace una estimación, una estimación,
+[01:21:48] no, un cálculo de cuánto es lo que
+[01:21:49] necesita la dulce y ese diferencial se
+[01:21:52] compara con lo que recauda con el cuadro
+[01:21:54] de referencia y se paga aparte un valor
+[01:21:57] de Bad mensual. ¿Se entiende esa
+[01:21:59] situación? Me falta yo con el cuadro, yo
+[01:22:02] la dulce con el cuadro referencia idea
+[01:22:05] pes. Sin embargo, para funcionar
+[01:22:06] necesito 300. Bueno, anuales, ¿no? Se
+[01:22:08] hace esos 300 se dividen por 12 y eso es
+[01:22:11] lo que yo le pago por mes, como da al
+[01:22:13] distribuidor por el diferencial de plata
+[01:22:15] que no junta de acuerdo a cual
+[01:22:16] referencia. Eso es lo que hace la parte
+[01:22:18] de BAT. La parte de B para nosotros,
+[01:22:20] para organismo de control, es un número
+[01:22:22] fijo, es un dato que no que nos da la
+[01:22:24] autoridad de aplicación y se ajusta cada
+[01:22:27] vez que se ajustan los cuadros
+[01:22:28] tarifarios, con lo cual todos los meses,
+[01:22:30] además, hay que cargar a mano en el
+[01:22:32] sistema informático, todos eso va
+[01:22:34] vigentes, o sea, que se se entiende.
+[01:22:37] A partir de ahí, Felipe hace su magia,
+[01:22:39] Miguel hace sus controles, Celina es la
+[01:22:41] que la jefa del área la que determina
+[01:22:43] los controles finales y sale sale
+[01:22:47] el fondo compensador, donde se le paga a
+[01:22:49] cada distribuidor una compensación por
+[01:22:52] abastecimiento y una compensación por B.
+[01:22:54] ¿Está bien? mensualmente estamos pagando
+[01:22:57] aproximadamente entre 8,000 y
+[01:22:58] 9,000,000000es para que se una idea de
+[01:23:01] compensaciones.
+[01:23:03] Es un número bastante importante.
+[01:23:05] Avanzamos, por favor, Alisandro.
+[01:23:10] Bien, es lo que le decíamos. ¿Qué hace
+[01:23:13] el sistema?
+[01:23:15] Porque eso es lo más importante. ¿Qué
+[01:23:17] cálculo hace el sistema? Como les dije,
+[01:23:20] abastecimiento B es un valor fijo, no
+[01:23:22] hay ningún cálculo, simplemente entra el
+[01:23:24] valor y se le paga eso. Ahora, el
+[01:23:26] cálculo el cálculo complejo que hace el
+[01:23:28] sistema es el cálculo del costo de
+[01:23:29] abastecimiento. Es decir, ¿qué es el
+[01:23:31] abastecimiento? ¿Recuerdan la tarifa
+[01:23:33] cuando le dije en su momento que tenía
+[01:23:34] componentes? Tenía costo de
+[01:23:36] abastecimiento, BAT, fondo compensador,
+[01:23:38] impuestos. Bueno, el abastecimiento es
+[01:23:41] la parte que recauda la tarifa para
+[01:23:43] pagar la compra de energía en el mercado
+[01:23:45] mayorista. ¿Qué dice la normativa?
+[01:23:48] Por esa por esa compra el distribuidor
+[01:23:50] no puede ganar ni perder plata. Es
+[01:23:51] decir, un pastru es neutro, debería ser.
+[01:23:54] Después podemos hablar que el paste
+[01:23:56] eficiente y en realidad les queda algún
+[01:24:00] algún pesito por ineficiencia del
+[01:24:02] pastru, pero en realidad en en teoría el
+[01:24:04] pastrú es neutro. Es decir, si yo compro
+[01:24:07] una unidad de energía, el costo mayor
+[01:24:08] son 100 pesos, lo que les traslado al
+[01:24:10] usuario son 100 pes no puedo trar ni 110
+[01:24:12] ni 105, son exactamente 100 pesos.
+[01:24:15] Entonces volvemos.
+[01:24:17] El distribuidor de referencia, el cuadro
+[01:24:19] tarifario, le remunera exactamente lo
+[01:24:21] que compró, recauda exactamente los 100
+[01:24:24] pesos que le costó cada unidad de
+[01:24:25] energía. Ahora, el distribuidor abajo no
+[01:24:29] compró el precio mayorista,
+[01:24:31] compró el precio que debería comprar
+[01:24:32] según la modalidad de compra que les
+[01:24:34] determiné anteriormente. ¿Se acuerdan 3
+[01:24:35] MT? Por ejemplo, vamos a hacer el
+[01:24:37] ejemplo más claro. La dulce le compra a
+[01:24:39] EDEA.
+[01:24:40] Edea le cobra un plus por venderles
+[01:24:42] energía, que es es un valor bastante más
+[01:24:45] atenuado que un T3 común, pero tiene un
+[01:24:47] plus, tiene una ganancia. ¿Por qué?
+[01:24:48] Porque pasó por sus redes, porque hizo
+[01:24:50] una gestión de compra, etcétera,
+[01:24:51] etcétera, etcétera. Con lo cual, a la
+[01:24:53] dulce esa unidad de energía que le
+[01:24:55] cuesta 100 pesos, le está costando 130
+[01:24:58] pesos. ¿Está bien? Entonces, en
+[01:25:00] realidad, lo que hace el sistema, que
+[01:25:02] que hace, toma los dos cuadros
+[01:25:04] tarifarios. El cuadro tarifario común,
+[01:25:06] el de referencia, hace la parte de Bad
+[01:25:09] igual a cero, ¿se acuerdan? La tarifa me
+[01:25:11] está quedando solamente lo que cobra por
+[01:25:13] abastecimiento. Entonces dice Edea, vos
+[01:25:16] el cuadro tarifario te recupera 100
+[01:25:19] pesos, que es lo que pagaste. Ahora, a
+[01:25:21] la dulce, ¿cuánto le debería recuperar
+[01:25:23] el cuadro tarifario?
+[01:25:25] Mete en el sistema el precio al cual
+[01:25:27] compra la dulce y ¿qué le dice, "Señor,
+[01:25:29] a la dulce le debía recuperar por cada
+[01:25:30] unidad de energía 130 pesos." le está
+[01:25:33] alfaltando 30 pes por unidad de energía.
+[01:25:36] ¿Está bien? ¿Por qué? Recuerden que la
+[01:25:39] dulce está pagando el costo de tiene un
+[01:25:42] plus respecto de la compra mayorista.
+[01:25:45] Entonces dice, básicamente le faltan 30
+[01:25:47] pesos por una energía. Esos 30 pesos lo
+[01:25:49] multiplica por el promedio de energía
+[01:25:52] trimestral vendida en, perdón, metral
+[01:25:55] por el promedio de energía vendía en el
+[01:25:57] trimestre anterior y eso es lo que le
+[01:25:59] compensa mes a mes. ¿Por qué? por el
+[01:26:02] promedio de energía trimestral, porque
+[01:26:03] en realidad como antes la programación
+[01:26:05] estacionaria trimestral se toma un
+[01:26:07] trimestre y se toma un promedio para
+[01:26:08] evitar saltos muy muy fuertes en
+[01:26:12] aquellos lugares son estacionales. Pero
+[01:26:14] simplemente hace hace eso el sistema
+[01:26:16] toma
+[01:26:17] el diferencial de compras y lo
+[01:26:20] multiplica por el promedio de energía
+[01:26:22] vendida en el trimestre. ¿Por qué por el
+[01:26:24] promedio de energía vendida y no
+[01:26:25] comprada? Digan ustedes, porque el
+[01:26:26] sistema no reconoce las pérdidas. Si
+[01:26:28] nosotros lo hacemos por la energía
+[01:26:30] comprada, automáticamente les estaría
+[01:26:32] compensando las pérdidas. Y no es justo
+[01:26:34] que le compense las pérdidas, porque las
+[01:26:36] pérdidas es una cuestión del
+[01:26:37] distribuidor. Distribuidor tiene que
+[01:26:38] hacer eficiente su sistema para evitar
+[01:26:41] las pérdidas o que las pérdidas sean las
+[01:26:42] mínimas posibles. Entonces, está claro
+[01:26:44] qué hace costo de abastecimiento de
+[01:26:46] distribuidor municipal, que es lo que
+[01:26:49] debería recaudar el distribuidor
+[01:26:51] municipal para pagar la factura. costo
+[01:26:54] ad abastecimiento de distribuidor de
+[01:26:55] referencia, que es lo que en realidad
+[01:26:57] recauda, pues el distribuidor municipal
+[01:26:59] cobra el cuadro de referencia, no cobra
+[01:27:01] un cuadro particular multiplicado por el
+[01:27:04] promedio simple de venta de energía en
+[01:27:05] el trimestre. Eso le da un
+[01:27:07] abastecimiento, un costo de
+[01:27:08] abastecimiento a reconocer por cada
+[01:27:10] estructura tarifaria del cual, o sea,
+[01:27:12] por residencia, escalón uno, escalón
+[01:27:13] dos, escalón tres, escalón cuatro,
+[01:27:14] servicio general, t ta ta ta ta ta, y
+[01:27:16] suma un costo de abastecimiento final,
+[01:27:18] que es lo que nosotros le reconocemos a
+[01:27:20] cada los distribuidores aguas abajo. De
+[01:27:22] esa manera, cuando el tipo, cuando el
+[01:27:25] distribuidor más chiquito cobra la
+[01:27:27] tarifa de referencia más el costo de
+[01:27:30] abastecimiento más el valor de BAT,
+[01:27:33] estaría en igualdad de condiciones para
+[01:27:34] descubrir sus costos que el distributor
+[01:27:36] de referencia. ¿Se entiende?
+[01:27:39] Ahora, todo este cálculo, perfecto. Todo
+[01:27:41] este cálculo es sumamente complejo
+[01:27:44] dentro del sistema. sumamente complejo.
+[01:27:45] Ustedes piensen que el cuadro tarifario
+[01:27:47] con con la complejidad de ecuaciones que
+[01:27:49] tiene se hace el valor igual a cero, se
+[01:27:51] meten valores distintos, todo eso. Si no
+[01:27:53] tuviéramos un sistema informático sería
+[01:27:56] casi imposible hacer a mano porque cada
+[01:27:58] distribuidor tiene una modalidad de
+[01:27:59] compra, cada distribuidor tiene un
+[01:28:01] mercado diferente, cada distribuidor
+[01:28:04] tiene un costo diferente, con lo cual
+[01:28:06] sin el sistema informático y sin los
+[01:28:08] datos que ustedes tienen que cargar, ya
+[01:28:09] sea de la venta de la compra de energía,
+[01:28:11] es imposible hacerlo. Pasa, pasa
+[01:28:14] generalmente que los distribuidores que
+[01:28:16] son receptores del fondo compensador
+[01:28:19] terminan no cargando datos. Muchas veces
+[01:28:20] yo les digo es como no leer una ruta,
+[01:28:21] chicos. A ver, el fondo compensador es
+[01:28:24] parte de su sustento. Si ustedes no me
+[01:28:26] cagan los datos, es equivalente que
+[01:28:28] ustedes no lean una ruta y no coman la
+[01:28:29] factura. Pero sin embargo, pasa. ¿Y por
+[01:28:32] qué insisto mucho en que el la
+[01:28:35] información sea en el momento adecuado?
+[01:28:37] ¿Por qué les digo? Porque la operación
+[01:28:39] es sumamente complejo y los operadores
+[01:28:40] tienen que trabajar mucho cuando ustedes
+[01:28:42] no cargan la información para repagarles
+[01:28:44] lo que no cobraron por no haber emitido
+[01:28:47] la información en tiempo informe.
+[01:28:48] Entonces, ¿cuál es la compensación
+[01:28:50] final? Volvemos otra vez. Abastecimiento
+[01:28:54] más B. Entonces, tengan en cuenta esta.
+[01:28:57] Show, distribuidor chiquito, tarifa de
+[01:29:00] referencia del área, tarifa de
+[01:29:03] referencia de DEA, por supuesto, no va a
+[01:29:05] juntar nunca la plata que necesita para
+[01:29:06] funcionar, pero tarifa de referencia de
+[01:29:09] DEA más fondo compensador lo ponemos en
+[01:29:12] igualdad de condiciones donde puede
+[01:29:13] cubrir los costos eficientes de
+[01:29:15] funcionamiento. ¿Está claro? Entonces,
+[01:29:18] sin la herramienta del fondo
+[01:29:19] compensador, eso sería imposible porque
+[01:29:21] piensen que el tipo va a juntar mucha
+[01:29:24] plata que la que debería juntar. Ahora,
+[01:29:26] cuando lo compenso por el otro lado, lo
+[01:29:28] dejo en igualdad de condiciones. ¿Se
+[01:29:30] entiende básicamente cómo funciona el
+[01:29:32] fondo compensador? ¿Tiene alguna duda al
+[01:29:33] respecto?
+[01:29:37] Ninguna duda.
+[01:29:39] Una consulta, una consulta. Esteban,
+[01:29:41] buen día. E hay algún Vos vos mencionás
+[01:29:45] que siempre es bajo declaración jurada.
+[01:29:48] ¿Hay alguna especie de control
+[01:29:50] aleatorio, algo que se pueda hacer sobre
+[01:29:52] esas declaraciones?
+[01:29:54] Sí, de hecho lo hacemos, o sea, los
+[01:29:56] chicos trabajan mucho de controlan la
+[01:29:57] declaración jurada tanto de la compra
+[01:30:00] como la venta. Desde el punto de vista
+[01:30:01] de la venta, la 544, los chicos cruzan
+[01:30:04] constantemente los declaraciones juradas
+[01:30:06] con los balances de la contabilidad
+[01:30:07] regulatoria, con las facturas que los
+[01:30:10] distribuidores mandan a los EVA. hay un
+[01:30:12] control cruzado continuo que venimos
+[01:30:14] haciendo, eh, y después des el punto de
+[01:30:16] vista de la compra, los chicos controlan
+[01:30:20] lo que el fondo les da a pagar más el
+[01:30:22] porcentaje que le determina el cuadro
+[01:30:24] tarifario por referencia con las
+[01:30:27] facturas de compra del distribuidor
+[01:30:28] aguas arriba. Todo se controla. Tenemos
+[01:30:30] topes por todos lados y controles por
+[01:30:32] todos lados.
+[01:30:34] Puede fallar, sí, como dijo Tusan, no es
+[01:30:36] infalible, pueden fallar, pero tenemos
+[01:30:38] un montón de controles y tratamos de
+[01:30:39] evitar que esto falle y la verdad que la
+[01:30:42] probabilidad de error es mucho menor. Lo
+[01:30:44] que nos habilita el fondo, lo que tengan
+[01:30:45] en cuenta, el fondo es dinámico, todos
+[01:30:46] los meses lo vamos corrigiendo.
+[01:30:48] Entonces, dentro del año, cuando
+[01:30:50] encontramos errores, por supuesto, lo
+[01:30:52] corregimos al toque, o sea, le
+[01:30:53] descontamos o les ponemos ajuste de más
+[01:30:56] y declaron de menos. Esto va
+[01:30:58] continuamente lo vamos haciendo dentro
+[01:31:00] del fondo compensador que nosotros lo
+[01:31:01] pagamos, que esto no lo puse, tenemos
+[01:31:04] tres ítem, uno que es costo de
+[01:31:05] abastecimiento, donde se determina el
+[01:31:07] costo, valor de distribución donde se
+[01:31:09] determina el valor agregado que la
+[01:31:10] autoridad de aplicación nos dice y otro
+[01:31:12] ítem final que se que se determina se
+[01:31:14] llama ajustes. Dentro de esos ajustes
+[01:31:16] generalmente, ¿qué hay? Hay cuestiones,
+[01:31:18] hay ajustes, ¿por qué? Porque le retuve
+[01:31:20] el fondo, porque no
+[01:31:23] remitieron la información en tiempo y
+[01:31:24] forma porque no pagaron. Cuando pagaron
+[01:31:26] se los liberamos. Hay también
+[01:31:28] diferencias porque hubo un error en la
+[01:31:30] declaración jurada. Detectamos que hubo
+[01:31:31] error o a veces muchas veces el mismo
+[01:31:33] distribuidor dentro del año detecta,
+[01:31:34] "Che, mira que me equivoqué." Bueno, no
+[01:31:37] permitimos que recarguen si nosotros no
+[01:31:39] revisamos por qué se equivocó, porque en
+[01:31:41] eso somos muy desconfiados también.
+[01:31:43] Entonces nosotros hasta que no revisamos
+[01:31:45] y no justifican adecuadamente por qué,
+[01:31:47] no permitimos que se recarguen. Pero
+[01:31:49] durante el año tenemos un montón de
+[01:31:51] ajustes continuos. Lo que si una vez que
+[01:31:53] cierra el año, nosotros no permitimos
+[01:31:55] modificar ninguna declaración jurada.
+[01:31:57] ¿Por qué? Porque esas declaraciones
+[01:31:59] juradas no solo se usan para liquidar el
+[01:32:00] fondo compensador que ya se pagó, sino
+[01:32:02] que se usan para la tasa de
+[01:32:03] fiscalización y control. Entonces, si
+[01:32:06] una vez que cierre el año me cambias la
+[01:32:07] declaración jurada, yo tengo que
+[01:32:09] modificar la tasa de fiscación de
+[01:32:10] control, por ejemplo, los 204. Es
+[01:32:12] imposible.
+[01:32:13] Entonces, corrés con ese error que
+[01:32:14] tuvimos, lamentablemente y lo corregirás
+[01:32:16] el año que viene. Una vez que se cerró
+[01:32:18] no hay más ajuste, pero los controles se
+[01:32:20] hacen continuamente. Los chicos reengan
+[01:32:21] un montón con estos pobres, pero los
+[01:32:23] tengo trabajando. Celi también los tiene
+[01:32:24] trabajando como locos, revisando
+[01:32:26] declaración jurada por declaración
+[01:32:27] jurada y llegamos a controlar, tenemos
+[01:32:29] pensado controlar todo el mercado en
+[01:32:31] alrededor de un año, más o menos, un año
+[01:32:32] y medio, controlamos todo el mercado.
+[01:32:34] Así que si se hacen un montón de
+[01:32:36] controles cruzados,
+[01:32:38] perfecto, gracias.
+[01:32:42] Bueno, como les venía diciendo, eh, un
+[01:32:44] poquito para atrás, Alexandro, por
+[01:32:45] favor. Adelante, no, porque se me trabó
+[01:32:48] acá y no la pude compartir más. Eh, el
+[01:32:51] fondo compensador también la autoridad
+[01:32:52] de aplicación puede determinar otras
+[01:32:54] asignaciones del fondo compensador. En
+[01:32:57] el en el 2017 se determinó una
+[01:33:00] asignación que a mí me parece que es muy
+[01:33:01] buena en realidad, más que nada para los
+[01:33:04] distribuidores pequeños, que es el Fondo
+[01:33:06] para situaciones críticas. ¿Por qué?
+[01:33:09] ¿Qué buscaba? ¿Cuál es el objetivo?
+[01:33:11] Hacer frente a acontecimientos
+[01:33:12] extraordinarios que impidieran total o
+[01:33:15] parcialmente obstaculicen la prestación
+[01:33:16] del servicio eléctrico e incidan en la
+[01:33:18] economía de los distribuidores
+[01:33:19] municipales. Pasemos, Alisandro, por
+[01:33:21] favor. Este es el objetivo del fondo.
+[01:33:23] ¿Por qué? ¿Qué pasa? Hay eventos
+[01:33:24] climáticos generalmente o eventos de
+[01:33:26] gran escala que muchas veces
+[01:33:29] eh producen que el distribuidor no pueda
+[01:33:32] seguir prestando el servicio. En
+[01:33:33] realidad, la magnitud de los eventos
+[01:33:35] hacen que sea imposible subsanar ese
+[01:33:37] evento en el corto plazo. Entonces este
+[01:33:39] artículo, este esta resolución
+[01:33:42] determinados artículos y 45 decía que se
+[01:33:44] iba a constituir dentro del fondo
+[01:33:46] provincial de comers tarifari un
+[01:33:48] subfondo, o sea, llamémosle así, que
+[01:33:50] está determinado por el 4% de la
+[01:33:52] recaudación. destinado a cubrir este
+[01:33:55] tipo de situaciones.
+[01:33:58] Eh, esto fue mutando. Pues en ese
+[01:34:00] momento decía la reserva en el caso de
+[01:34:01] no usarse en el mes, porque recuerden
+[01:34:04] que el fondo se va recadando mes a mes y
+[01:34:06] nosotros mes a mesbamos determinando
+[01:34:08] cuánto era ese 4% disponible. Si no se
+[01:34:11] usaba, se terminaba, digamos, se
+[01:34:13] reconstituía el mes que viene, eso se
+[01:34:15] fue mutando y hoy es el hoy estamos en
+[01:34:17] el 15% destinado en el año. O sea, el
+[01:34:21] fondo va juntando el 15% recadado por
+[01:34:23] mes y esa reserva puede usarse durante
+[01:34:25] el año para cualquier situación crítica
+[01:34:27] que el distribuidor pida o solicite. El
+[01:34:31] artículo 46 de este momento encomendaba
+[01:34:33] al organismo de control a hacer todos
+[01:34:35] los cálculos, las actualizaciones y la
+[01:34:38] forma de implementar el programa.
+[01:34:40] En este contexto, seguimos adelante la
+[01:34:42] próxima. Alexandro, por favor.
+[01:34:46] En este contexto, el organismo de
+[01:34:48] control sancionó la resolución 214,
+[01:34:51] donde establecía la metodología y
+[01:34:53] asignaba responsabilidad entre la
+[01:34:54] gerencia. Acá lo puse porque yo soy de
+[01:34:55] la gerencia de mercado, por supuesto, la
+[01:34:56] mí es mucho más grande, pero en realidad
+[01:34:58] el trabajo mío es mucho menor. El mayor
+[01:35:00] trabajo de control de concesiones,
+[01:35:01] aunque parezca lo contrario.
+[01:35:04] La gerencia de mercados tiene que
+[01:35:05] realizar el cálculo, el mecanismo de
+[01:35:06] reconstitución, la actualización de la
+[01:35:08] reserva para situaciones críticas.
+[01:35:10] llevar el registro de su efectiva
+[01:35:11] utilización y evaluar la solicitud en el
+[01:35:13] aspecto económico. Todo eso tenemos que
+[01:35:16] hacer nosotros porque nosotros como
+[01:35:17] somos los que recibimos el fondo
+[01:35:19] compensador, recibimos el aporte
+[01:35:21] mensual, a partir de ahí determinamos
+[01:35:23] cuál es la o el componente, la parte de
+[01:35:26] los aportes que se corresponden con
+[01:35:27] situaciones críticas. Después, una vez
+[01:35:30] que la gerencia de control de con parece
+[01:35:32] poquito, pero es el mayor trabajo, tiene
+[01:35:33] que evaluar la solicitud en el aspecto
+[01:35:35] técnico, es decir, tiene que evaluar el
+[01:35:37] tipo hace el pedido. Ah, ahora vamos un
+[01:35:38] poquito más adelante que piden el trib
+[01:35:40] hace el pedido y la gerencia de
+[01:35:42] contratación tiene que evaluar si es si
+[01:35:43] corresponde, si no corresponde, si los
+[01:35:45] materiales utilizados son consecuentes
+[01:35:46] con el con el hecho, eh si el tipo de
+[01:35:49] material eh vale o no vale, si usó de
+[01:35:52] más o uso de menos, usó el adecuado o no
+[01:35:54] el adecuado. ¿Y qué reconocemos a partir
+[01:35:57] de esto? Acá tomar una terminación, ¿por
+[01:35:59] qué? Que hemos tenido cuando esto se
+[01:36:01] inició, les soy sincero, lo hemos visto,
+[01:36:03] nos han pasado hasta el catering de los
+[01:36:06] de de de los trabajadores levantados en
+[01:36:09] la línea, o sea, todo el costo nos
+[01:36:10] pasaban como costo, está bien, no es
+[01:36:12] imposible reconocer. Además, nos pasaban
+[01:36:14] los costos laborales. ¿Qué pasa con los
+[01:36:16] costos laborales? Es muy difícil de
+[01:36:18] reconocer porque el comieno de luerza es
+[01:36:19] muy dispar. El convenio Luis y fuerza
+[01:36:22] como tiene varios componentes dentro,
+[01:36:23] por ejemplo, trabajo, no calendario, no
+[01:36:26] calendario, horas extra al 50, horas
+[01:36:27] extra al 100, la categoría de cada uno
+[01:36:30] de de cada uno de los integrantes que
+[01:36:31] estén o del de del plantel varía mucho.
+[01:36:35] Yo puedo tener, por ejemplo, un plantel
+[01:36:37] con las mismas categorías, exactamente
+[01:36:39] igual, dos planteles, pero uno es joven,
+[01:36:41] tiene 2 años de antigüedad y el otro
+[01:36:42] tiene 30 años de antigüedad y te puedo
+[01:36:44] asegurar que el 30 de antigüedad me
+[01:36:45] cuesta el doble que el de 3 años de
+[01:36:47] antigüedad, básicamente por cómo está
+[01:36:50] hecho el convenio. Entonces, ¿qué pasa?
+[01:36:52] Nos era imposible, nos era imposible,
+[01:36:54] aparte los fondos son limitados, nos era
+[01:36:56] imposible reconocer la parte de costos
+[01:36:59] de laborales de mano de obra. Con lo
+[01:37:00] cual, ¿qué decidimos? reconocer los
+[01:37:04] costos económicos correspondientes a
+[01:37:06] materiales prioritarios.
+[01:37:08] ¿Qué hace la gerencia de control de
+[01:37:09] condición? me dice, "Che", le dice a la
+[01:37:11] gerencia de mercadol, "El hecho ocurrió,
+[01:37:14] esto pasó, el tipo usó estos materiales.
+[01:37:17] Dentro de estos materiales, los que son
+[01:37:19] prioritarios más importante es este
+[01:37:21] listado. A partir de ese listado
+[01:37:23] gerencia de mercados analiza la
+[01:37:24] situación,
+[01:37:26] revisa
+[01:37:28] que tengamos los fondos disponibles,
+[01:37:30] porque puede ser que muchas veces pase
+[01:37:31] que hay un evento en media provincia y
+[01:37:33] la verdad que los fondos nos alcanza."
+[01:37:35] Entonces hace una asignación de costos.
+[01:37:37] Bueno, habla con dice, "¿Cuánto vamos a
+[01:37:39] cubrir?" 80% 70 nos alcanza para 70.
+[01:37:41] Listo, cubrimos 70 para todo. Toma los
+[01:37:43] materiales prioritarios, revisa que sea
+[01:37:47] un hecho que que sea significativo des
+[01:37:49] el punto de vista económico. En general
+[01:37:51] lo son porque el sistema no está
+[01:37:53] preparado para que un hecho así te
+[01:37:55] voltee media línea o te voltee 30 km de
+[01:37:58] línea. En realidad está hecho para
+[01:37:59] reponer la amortización normal y a
+[01:38:02] partir de ahí determina el pago. Vamos a
+[01:38:05] a la siguiente, por favor, Alisandro.
+[01:38:06] Esteban, aprovecho y te hago una
+[01:38:08] consulta. Por situaciones críticas, eh,
+[01:38:10] se entienden situaciones de fuerza mayor
+[01:38:13] o eventos eh,
+[01:38:15] mira, es fuerza mayores. Claro, fuerzas
+[01:38:18] mayores es medio son eventos climáticos,
+[01:38:21] eventos climáticos de magnitud, por
+[01:38:23] ejemplo, por ahí no constituyen la
+[01:38:25] fuerza mayor, porque la fuerza mayor
+[01:38:26] tiene un montón de requisitos. Sin
+[01:38:28] embargo, es el evento climático de
+[01:38:29] cierta magnitud. Por ejemplo, no sé,
+[01:38:31] hubo una lluvia persistente, te doy un
+[01:38:33] ejemplo que ha pasado, una lluvia
+[01:38:34] persistente en una zona rural y la
+[01:38:37] postación es de madera, está bastante
+[01:38:40] mal estado y termina volteándole 10 km
+[01:38:42] de línea, por decirte algo. Eh, eso
+[01:38:45] causó porque eh climáticamente llovieron
+[01:38:48] 500 mm, no estaba previsto. Eh eh esa
+[01:38:52] situación por ahí no constituyan casa de
+[01:38:53] fuerza mayor, por ahí la apostación
+[01:38:54] tenía que ser de cemento y no la tenían,
+[01:38:56] no importa. Pero bueno, el hecho fue
+[01:38:58] relevante, ¿eh? la distribuidora no
+[01:39:01] tiene la capacidad de hacer frente a
+[01:39:02] esta situación, entonces a partir de se
+[01:39:04] da lugar a situaciones críticas.
+[01:39:05] ¿Entienden más o menos el concepto?
+[01:39:09] No llega a ser
+[01:39:11] en este en este esquema, ¿cuáles son los
+[01:39:13] datos técnicos que requiere la
+[01:39:14] resolución 214? Requiere descripción de
+[01:39:16] las causas, fundamentación.
+[01:39:19] Fundamentación significa, por ejemplo,
+[01:39:21] cuando les piden eventos climáticos,
+[01:39:23] reportes meteorológicos, reporte diario,
+[01:39:25] fundamentación gráfica, fotos, bueno, un
+[01:39:28] montón de cuestiones, las limitaciones
+[01:39:30] que describan, ¿por qué están limitados
+[01:39:31] para hacer frente al sistema, al evento,
+[01:39:35] es decir, el evento de gran magnitud,
+[01:39:36] fíjate que me lleva, no sé, el 30% de la
+[01:39:38] facturación anual y me es imposible
+[01:39:40] afrontar el grado de afectación, que
+[01:39:42] quiere decir, cuántos usuarios están
+[01:39:44] fuera de servicio? A veces hay muchos y
+[01:39:45] a veces no, porque también eso es un
+[01:39:47] tema. Quizás te volteó 10 km rurales y
+[01:39:50] en punta de línea tenés cinco usuarios,
+[01:39:53] pero ese usuario lo tenés que reponer en
+[01:39:54] servicio. Esos 10 km líneas rurales, sin
+[01:39:56] embargo, te significan un montón de
+[01:39:58] plata que no tenés forma de hacerle
+[01:39:59] frente. Es un montón de aristas que hay
+[01:40:02] y de subjetividades que hay objetividad
+[01:40:03] que que el regulador trata de de emendar
+[01:40:06] o de revisar en esas situaciones. Las
+[01:40:08] acciones y los plazos y la descripción
+[01:40:09] de gastos en los datos económicos que le
+[01:40:12] pedimos. Bueno, ya por contabilidad
+[01:40:13] regulatorio igual los tenemos, los
+[01:40:14] balances, los estados de situación
+[01:40:16] patrimonial, est resultado, estado de
+[01:40:17] evolución de patrimonio neto menos
+[01:40:18] memoria descriptiva y el monto
+[01:40:19] solicitado.
+[01:40:21] Concesiones, vuelvo a repetir, te hace
+[01:40:23] un análisis del hecho, mira técnicamente
+[01:40:26] que los materiales utilizados sean
+[01:40:27] razonables, se condigan con el con el
+[01:40:29] proyecto, porque voy a decir, "Te volteó
+[01:40:31] 50 postes de madera y no me va a poner
+[01:40:33] 50 postes de cemento y no te los
+[01:40:34] reconozco. Yo te reconozco otra vez 50
+[01:40:36] postes de madera, digamos, o no te voy a
+[01:40:38] reconocer en un salto tecnológico en una
+[01:40:40] cuestión así. Ahora miramos nosotros
+[01:40:42] miramos el B el hecho, ¿qué te
+[01:40:45] significó? Te significó el 5% de la
+[01:40:46] factura mensual y le podes hacer frente.
+[01:40:49] Ahora te significó el 50% de la
+[01:40:52] facturación de May no le pod hacer
+[01:40:53] frente. Entonces todas esas cuestiones
+[01:40:54] ves cómo está la situación porque ¿qué
+[01:40:56] pasa? Muchas veces al inicio de esta
+[01:40:58] situación nosotros miramos la estado de
+[01:41:00] resultado solamente y que decía este
+[01:41:01] tiene resultado positivo para hacer
+[01:41:03] frente. El que era funcionaba bien
+[01:41:05] adecuadamente
+[01:41:07] al principio no recibía y aquel que
+[01:41:08] funcionaba mal porque era un desastre
+[01:41:10] que tenía el estado resultado negativo
+[01:41:11] recibía. Entonces ahora que vamos vemos
+[01:41:13] que sea significativo el gasto
+[01:41:14] independientemente de revisar todo el
+[01:41:17] estado de situación patrimonial, ¿se
+[01:41:18] entiende? Y a partir de eso determina un
+[01:41:21] monto a pagar.
+[01:41:22] ese monto. Hoy, hoy estamos en el 80% de
+[01:41:25] los materiales prioritarios estamos
+[01:41:26] pagando. Eso lo sujetamos a una revisión
+[01:41:29] continua porque tiene que ver también
+[01:41:31] con cuánto dinero tenga el fondo
+[01:41:32] disponible porque recuerden que estas
+[01:41:34] situaciones críticas se puede dar
+[01:41:36] siempre y cuando siempre y cuando
+[01:41:38] recaudemos lo suficiente para afrontar
+[01:41:40] el fondo ordinario. Eh, si nosotros
+[01:41:42] tenemos un problema de recaudación, por
+[01:41:44] más que la normativa diga que el 15% lo
+[01:41:47] tenemos destinado a situaciones
+[01:41:48] críticas, primero pagamos el fondo
+[01:41:50] ordinario. Una vez que está apagado el
+[01:41:52] for ordinario, se puede hacer frente a
+[01:41:54] este tipo de eventos, si no no se le
+[01:41:56] hace frente.
+[01:41:57] Seguimos analizando la que viene.
+[01:42:01] Otra otra de las asignaciones que está
+[01:42:03] puramente vinculado con este es la ayuda
+[01:42:05] recíproca. ¿Qué pasa la ayuda recíproca?
+[01:42:07] Muchas veces los distribuidores
+[01:42:08] chiquitos no tienen la capacidad de
+[01:42:10] reponer el servicio en tiempo y forma en
+[01:42:12] forma rápida. Entonces, ¿qué hacen?
+[01:42:14] Recurren a vecinos o a cooperativas.
+[01:42:16] Generalmente esto sucede mucho en el
+[01:42:17] sector cooperativo, a cooperativas que
+[01:42:19] prestan parte del servicio, les prestan
+[01:42:20] las giruras personal, material,
+[01:42:22] etcétera, etcétera, etcétera. Cuando hay
+[01:42:24] esta situación, ¿qué se determinó? Se
+[01:42:26] determinó un área, se determinan áreas
+[01:42:28] de referencia donde se pone una
+[01:42:30] cooperativa, un distribuidor con mayor
+[01:42:32] capacidad o posibilidad como referente.
+[01:42:34] Entonces, el distribuidor más chiquito
+[01:42:36] puede pedirle a ese distribuidor con
+[01:42:38] mayor capacidad ayuda. Generalmente lo
+[01:42:40] hacen automáticamente. Ese distribuidor
+[01:42:41] presta ayuda, presta materiales, presta
+[01:42:43] mano de obra, eh grudas, etcétera, y
+[01:42:46] levantan el servicio en tiempo y forma.
+[01:42:48] Recuerden que estamos hablando de
+[01:42:50] servicio público. Nosotros no podemos
+[01:42:51] permitir que el servicio esté caído por
+[01:42:53] un tiempo, por tiempo indeterminado.
+[01:42:55] Entonces, cuando hay ayuda recíproca,
+[01:42:58] decir que un tercero viene a ayudar al
+[01:43:00] al damnificado, el damnificado declara
+[01:43:03] esa situación y hace tercero se le
+[01:43:05] reconoce todo. En ese caso y se reconoce
+[01:43:07] mano de obra, se reconoce en material,
+[01:43:08] se reconoce todo lo que ese tercero puso
+[01:43:11] a disposición porque está poniendo a
+[01:43:13] disposición, está sacando de su servicio
+[01:43:16] para levantar el servicio de un tercero
+[01:43:18] todo ese todos esos recursos. Entonces
+[01:43:19] ahí sí se le reconoce todo lo que se
+[01:43:22] determina. ¿Estamos de acuerdo? ¿Está
+[01:43:24] claro esa situación? ¿Ese diferencial?
+[01:43:28] Vamos a a la que sigue, Lisander, por
+[01:43:30] favor.
+[01:43:34] Bueno, hoy estamos teniendo sobrante del
+[01:43:36] fondo, estamos teniendo
+[01:43:40] bastante, nos está quedando bastante
+[01:43:41] dinero, con lo cual la autoridad de
+[01:43:44] aplicación esta inteligencia, pues
+[01:43:45] nosotros automáticamente recuerdan que
+[01:43:46] tenemos un control de la autoridad de
+[01:43:47] aplicación. Nosotros todos los meses le
+[01:43:49] mandamos información de la autoridad de
+[01:43:51] aplicación, che, recordamos este dinero,
+[01:43:53] pagamos este dinero, sobre este dinero,
+[01:43:55] excelente. Lo que estamos haciendo es
+[01:43:58] liquidar excedentes del fondo
+[01:43:59] compensador como adelanto de BAT muchas
+[01:44:01] veces. ¿Qué pasa? ¿Por qué? Porque la
+[01:44:04] ley de presupuesto de la provincia que
+[01:44:06] dice, si nosotros no liquidamos el fondo
+[01:44:07] compensador, cierra el ejercicio, se
+[01:44:10] chupan los recursos y anda a cantarle a
+[01:44:13] a cual a Gardel para que te los
+[01:44:15] devuelvan. No te lo devuelven más. Podes
+[01:44:17] hacer las mínimas una presentaciones,
+[01:44:19] dicen, "Che, si el recurso no está
+[01:44:20] asignado, independientemente si un
+[01:44:21] recurso específico, forma parte del
+[01:44:24] recurso total de la provincia y va a
+[01:44:26] cerrar otras cuentas." Entonces nosotros
+[01:44:27] en esta inteligencia acordado con la
+[01:44:29] teoría de aplicación, ¿qué hacemos?
+[01:44:31] intentamos hacer liquidaciones
+[01:44:34] complementarias del fondo compensador,
+[01:44:36] que lo tomamos como adelantos de BAD,
+[01:44:38] porque en realidad yo no puedo liquidar
+[01:44:39] otra cosa que no sea el Bad o la
+[01:44:42] asignación específica de que me
+[01:44:43] determina otro de aplicación. Yo no
+[01:44:44] puedo decir tranquilamente, "Che, me
+[01:44:46] sobró tanta plata y ahora esta
+[01:44:47] cooperativa le doy esto, esto, no me
+[01:44:50] sobró tanta plata, esa plata significa
+[01:44:52] un B, 2 BAD, 1,5 BAD, exactamente y se
+[01:44:54] le reparte, se hace esa asignación a
+[01:44:57] todos los distribuidores, a los efectos,
+[01:44:59] ya les digo, de ir agotando los recursos
+[01:45:02] para evitar que a fin de año, si esta
+[01:45:04] guita no, este dinero nos queda
+[01:45:06] disponible
+[01:45:08] por la ley de administración financiera,
+[01:45:09] la provincia lo toma y va a subsanar o a
+[01:45:11] saldar otro otras cuentas que no tienen
+[01:45:13] nada que ver con esta situación.
+[01:45:15] En esta inteligencia ahora la autoridad
+[01:45:17] de aplicación nos ha indicado a través
+[01:45:20] de la resolución 682
+[01:45:23] que destinemos ese excedente a qué a la
+[01:45:26] adquisición de medores inteligente,
+[01:45:28] equipos y materiales para renovación
+[01:45:30] tecnológica, a fin de contribuir a la
+[01:45:31] mejora, la prestación de servicio
+[01:45:32] público y distribución.
+[01:45:34] Esto que tiene que ver, estamos
+[01:45:36] pensando, estamos pensando juntos en una
+[01:45:39] mejora porque estamos pensando en otro
+[01:45:40] tipo de tarifa en un momento. Esto va
+[01:45:42] llegando un momento, la revisión tarifar
+[01:45:43] integral, estamos barascando otras
+[01:45:45] posibilidades para lo cual hoy sí o sí
+[01:45:48] estaríamos necesitando que la medición
+[01:45:51] sea inteligente en todos los ámit.
+[01:45:53] Entonces está direccionando la ter
+[01:45:55] aplicación, está diciendo, "Che, te
+[01:45:56] sobra, perfecto, distribuilo." Pero el
+[01:45:59] destino, sí o sí, el destino principal
+[01:46:01] es mediores inteligentes. Si vos ya
+[01:46:03] tenés medidores inteligentes, podés ir a
+[01:46:06] buscar materiales para renovación de que
+[01:46:07] se los digo porque si hay algunos
+[01:46:08] distribuidores me preguntan
+[01:46:09] continuamente, quiero comprar un, no,
+[01:46:12] primero medo inteligente.
+[01:46:14] Me determinas que tenés todos los medos
+[01:46:16] inteligentes, a partir de sí podés ir a
+[01:46:18] otro tipo de compras materiales, pero el
+[01:46:20] objetivo de esta situación es que
+[01:46:22] vayamos a la medición inteligente.
+[01:46:24] En esta inteligencia, esta resolución
+[01:46:26] faculta al organismo de control de
+[01:46:28] energía otra vez a sancionar las normas
+[01:46:31] necesarias para cumplir con estas
+[01:46:33] obligaciones. ¿Está bien?
+[01:46:36] Y vamos a la a la última, Alesandro. Así
+[01:46:38] ya no los vuelvo loco.
+[01:46:41] En esta en esta inteligencia la
+[01:46:45] el organismo de control sancionado
+[01:46:46] resolución 172 del 2006. Muy buena
+[01:46:49] resolución. Las digo impecable por
+[01:46:50] decimos nosotros [risas]
+[01:46:52] la dice mercado. Eh, donde determina
+[01:46:56] cómo tienen que declarar la metodología,
+[01:46:58] cómo tienen que declarar esa compra.
+[01:47:01] Determinan los aspectos generales,
+[01:47:02] metodología, conceptos, qué conceptos
+[01:47:04] tienen que declarar. desarrollar.
+[01:47:06] Estamos desarrollando en este sentido,
+[01:47:07] le tiro el chivo por si alguno está en
+[01:47:08] un aplicativo web dada la circunstancia
+[01:47:11] que fue esto medio rápido la decisión,
+[01:47:13] nosotros no tenemos aplicativo, sin
+[01:47:15] embargo, estamos desarrollando uno muy
+[01:47:16] similar al decreto 1029 donde van a
+[01:47:18] poder cargar la compra como le hicieron
+[01:47:21] en qué tiempos, cuáles son las
+[01:47:23] consecuencias de los incumplimientos.
+[01:47:25] Esto tiene que tenerlo muy bien claro,
+[01:47:26] chicos.
+[01:47:27] En los fondos son que le vamos a dar
+[01:47:30] esto son para ese para esa función para
+[01:47:33] comprar medo inteligente. Si no compran
+[01:47:34] medo inteligente y no nos declaran a
+[01:47:36] nosotros que fueron medo inteligente y
+[01:47:38] lo justifican adecuadamente, esos fondos
+[01:47:40] de adelanto se van a se van a descontar
+[01:47:42] del Bad del año que viene. Entonces, si
+[01:47:45] no cumple con el objetivo, nosotros
+[01:47:46] tomamos que fue un adelanto de Bad que
+[01:47:47] ustedes usaron para cualquier otra de
+[01:47:49] sus funciones. No hay problema, pero el
+[01:47:51] año que viene se los voy a descontar uno
+[01:47:53] por uno porque no es el objetivo final
+[01:47:55] que se determinó para ese excedente.
+[01:47:57] Está bien. Tengan en cuenta que el
+[01:47:59] aplicativo para aquellos que lo están
+[01:48:00] haciendo va a estar vigente. Le dimos 90
+[01:48:02] días para que hagan la primera
+[01:48:04] declaración jurada porque el aplicativo,
+[01:48:05] por supuesto, lo estamos desarrollando y
+[01:48:07] queremos que en breve ya lo vamos a
+[01:48:08] tener disponible. Esto va a ser este
+[01:48:11] este dato se da hasta tanto se ponga en
+[01:48:16] en funcionamiento la nueva RTI. Eso dice
+[01:48:19] la normativa, o sea, si tenemos exentes,
+[01:48:21] vamos a ir repartiendo mes a mes hasta
+[01:48:22] tanto se ponga funcionamiento de RTI.
+[01:48:25] Como venimos seguramente vamos a seguir
+[01:48:27] teniendo accedente porque venimos con
+[01:48:28] una buena recaudación y nos está
+[01:48:30] sobrando respecto del fondo ordinario,
+[01:48:32] con lo cual se le va a seguir
+[01:48:33] repartiendo, con lo cual vaya pensando
+[01:48:35] que todos los distribuidores van a tener
+[01:48:36] que ir hacia la compra de este tipo de
+[01:48:38] medidores.
+[01:48:40] Por ahora sí
+[01:48:42] consulta. Es excelente. Es excedente. No
+[01:48:45] se devuelve porque el fondo compensador
+[01:48:47] si se usa para situaciones críticas se
+[01:48:49] tiene que devolver eh aquello que se que
+[01:48:53] se brindó para para esa situación. Pero
+[01:48:55] el excedente si lo uso para medidores
+[01:48:57] inteligentes no se tiene que devolver.
+[01:49:00] No, no. Y el de situaciones críticas
+[01:49:01] tampoco, Lisandro se devuelve. Si yo te
+[01:49:03] pago situaciones, o sea, no yo, el
+[01:49:05] organismo de control, digo, yo parezco
+[01:49:07] Moria, sí, insisto con Moria. Si el
+[01:49:08] organismo de control te determina que la
+[01:49:10] situación crítica es procedente, lo que
+[01:49:13] se te paga por situación crítica tampoco
+[01:49:15] se devuelve.
+[01:49:17] Simplemente en el caso de situaciones
+[01:49:18] críticas se reconocen materiales
+[01:49:20] prioritarios y en el caso de ayuda
+[01:49:22] recíproca se reconoce todo. Y en el caso
+[01:49:25] excedente este tampoco. En este caso lo
+[01:49:27] vas a tener que devolver siempre y
+[01:49:28] cuando vos no cumplas con el fin que fue
+[01:49:30] objetivamente determinado. Ahí sí lo vas
+[01:49:32] a tener que no es que lo va a tener que
+[01:49:33] volver, te lo voy a retener. Es como que
+[01:49:35] dice, claro, dice un adelanto, es decir,
+[01:49:38] te lo tomo como adelanto. Yo te di bad.
+[01:49:39] El bade es libre disponibilidad.
+[01:49:40] Fantástico. Vos decidiste que es libre
+[01:49:42] disponibilidad, no hay problema. Ahora,
+[01:49:44] como este BAD está puntualizado a un
+[01:49:46] objetivo no lo cumpliste en los periodos
+[01:49:49] subsiguientes te voy a retener ese B que
+[01:49:50] te adelanté.
+[01:49:52] Entonces, esa es la situación en
+[01:49:54] particular, porque si no para nosotros
+[01:49:55] no es de cumplimiento imposible, pero
+[01:49:56] después te vienen, o sea, en la vida del
+[01:49:59] Señor hay de todo. Viene el tipo que te
+[01:50:01] dice y que que por ahí dice, "Ah, no,
+[01:50:02] pero yo quiero poner presamblado." Y es
+[01:50:04] válido, pero este este B no es el
+[01:50:06] objetivo. Entonces, no, yo lo sé para
+[01:50:08] poner preensamblado. Sí, fantástico.
+[01:50:11] Pero el B tenía el objetivo puntual de
+[01:50:13] comprar inteligente. No compraste med
+[01:50:14] inteligente, contigo, hace lo que
+[01:50:15] quiera. En en el periodo que viene te lo
+[01:50:18] descuento. Ahora lo usaste para medio
+[01:50:20] inteligente. Está fantástico. Terminaste
+[01:50:21] de poner medidores inteligentes porque
+[01:50:23] ya tenés todo medidor inteligente. Hay
+[01:50:24] cooperativas, por ejemplo, como Puan,
+[01:50:26] que tiene ya toda medión inteligente y
+[01:50:28] bueno, sí, buscar materiales para
+[01:50:30] innovación, buscar reconectadores
+[01:50:32] automáticos, qué sé yo, no tenés
+[01:50:34] preensamblado, por ahí te va a mejorar
+[01:50:35] la situación, poner preensamblado, pero
+[01:50:37] ya tenés toda medición inteligente. Eh,
+[01:50:40] es claro esa situación. Eso queremos que
+[01:50:42] quede claro porque después vienen la la
+[01:50:46] che, yo lo gasté y a mí me gustaba más
+[01:50:48] poner repositores automáticos.
+[01:50:50] Fantástico, pero no era el objetivo.
+[01:50:54] Bien,
+[01:50:55] entonces no sé si cerramos con eso,
+[01:50:56] Lisandra. Está está clara esa situación.
+[01:50:58] Sí, sí, sí.
+[01:51:00] Bueno, si no los quiero aburrir más, eso
+[01:51:02] por ahora. Eso es todo. Si tienen alguna
+[01:51:03] duda, me la preguntan ahora, si no
+[01:51:04] callen para siempre, como dicen en los
+[01:51:05] casamientos.
+[01:51:07] Esteban, perdón, te una consulta, eh.
+[01:51:11] Buen día. En respecto a las situaciones
+[01:51:13] críticas, ¿a a qué a qué llaman
+[01:51:15] justamente materiales críticos y
+[01:51:17] prioritarios? prioritari
+[01:51:19] eh o prioritario, perdón, porque a veces
+[01:51:22] a veces por ahí una postación es un
+[01:51:25] material prioritario, obviamente, pero
+[01:51:27] eh es por ahí mucho más económico, pero
+[01:51:30] hay que otro otro material por qué sé
+[01:51:32] yo, una un manguito de empalme
+[01:51:34] automático por ahí, eh, en la cantidad,
+[01:51:36] ¿no?
+[01:51:37] Sí, sí, te entiendo. En realidad,
+[01:51:38] Martín, material perritario, ¿qué
+[01:51:40] responde? Responde primero control de
+[01:51:42] con me dice, "Mira, ¿cómo va un
+[01:51:43] transformador
+[01:51:46] una apostación?" Pero la realidad es que
+[01:51:48] lo que te pagamos es un monto que llega,
+[01:51:51] por ejemplo, al 80% de todos los
+[01:51:52] materiales. Entonces, que te pague poste
+[01:51:55] o te pague
+[01:51:57] el transformador, o sea, por ahí te pago
+[01:51:59] el transformador y es el 80%, por ahí te
+[01:52:00] pago el poste más el cable y es el 80%.
+[01:52:03] Entonces, básicamente
+[01:52:05] eh tenemos un tope en la situación.
+[01:52:08] Entonces, se determina así decir,
+[01:52:10] "Bueno, yo te terminé pagando el de todo
+[01:52:13] lo que me dijo control de concesiones el
+[01:52:14] 80%." Y por ahí te entró, te hago el
+[01:52:17] elencamiento, entró todos los postes, te
+[01:52:18] entraron el el cable y te entró el 50%
+[01:52:22] del transformador o te entró el total
+[01:52:23] transformador y parte los postes, pero
+[01:52:25] en realidad lo que busca eso determinar
+[01:52:27] un monto final a pagar porque tenemos
+[01:52:29] limitación en el recurso,
+[01:52:31] ¿se entiende?
+[01:52:32] Lo que busca eso,
+[01:52:33] eso lo evalúa, lo evalúa que es de de
+[01:52:35] Oseva, es control de concesiones.
+[01:52:37] Sí, control de concesiones. Evalúa y me
+[01:52:38] hace un elencamiento de materiales
+[01:52:39] prioritarios. Te dice, "Che, mira, de
+[01:52:41] todo lo que us el distribuidor esto, los
+[01:52:42] materiales prioritarios son, ¿qué?" Yo
+[01:52:43] te digo poste, cable, ta. Yo hago la
+[01:52:46] cuenta, digo, bueno, tengo disponible
+[01:52:48] tanto fondo. Entonces hablo con el
+[01:52:50] director de esta situación, che, hay
+[01:52:51] tanto fondo disponible, hoy hay está
+[01:52:53] superabitario el fondo compensador,
+[01:52:55] tenemos y te sobra. Entonces, me dice,
+[01:52:56] bueno, che, del total de los materiales
+[01:52:58] el encado se le paga el 80%, el 90%, el
+[01:53:01] 100% y a partir de ahí se determina el
+[01:53:04] monto a pagar, pero el material
+[01:53:06] prioritario sale, surge como un
+[01:53:08] indicativo de todo el monto que te iba a
+[01:53:10] reconocer, básicamente.
+[01:53:12] Perfecto, gracias. De nada.
+[01:53:16] Yo quería aclarar. ¿Cómo andas? Buen
+[01:53:18] día. Quería aclarar muy buena la
+[01:53:20] presentación, la verdad. Felicitaciones.
+[01:53:23] Bueno, gracias. Yo soy un defensor del
+[01:53:24] Fondo Compensador desde hace años que
+[01:53:26] funciona y funciona bien. La verdad que
+[01:53:29] una única provincia que está funcionando
+[01:53:31] y siempre lo quieren copiar las
+[01:53:33] provincias, pero nunca se animan y está
+[01:53:36] muy bueno. Y bueno, está bueno también
+[01:53:39] el curso para que algún consejero de las
+[01:53:40] cooperativas que muchas veces miran el
+[01:53:42] valor final, esta cooperativa recibe más
+[01:53:45] fondo que otra, sepa que que es en base
+[01:53:47] a cálculo, que es un un cálculo
+[01:53:51] matemático y que tiene que ver con las
+[01:53:53] redes, quién tiene más rural, quién
+[01:53:55] tiene menos rural, quién tiene más eh
+[01:53:58] más
+[01:54:00] determinado como las eds y demás, ¿no?
+[01:54:02] Otro tipo de mercado. Así que está todo
+[01:54:04] en base a cálculo, está perfecto.
+[01:54:07] Sí, Pablo. Sí, sí. Yo lo que es
+[01:54:09] fantástico lo que decir, lo que aportas,
+[01:54:11] que se queden tranquilos, que todo está
+[01:54:12] todo por cálculo. No es que nosotros eh
+[01:54:15] como decimos caprichosamente decimos,
+[01:54:17] este recibe esto, este recibe lo otro,
+[01:54:18] este recibe aquello. No, hay un cálculo
+[01:54:20] matemático que tiene ver, como dijo
+[01:54:22] Pablo, con la composición de redes, con
+[01:54:23] la estructura de mercado, con todo que
+[01:54:25] sea en su momento. Y de hecho hoy se
+[01:54:27] está revisando como dijo Guillermina,
+[01:54:29] porque ese cálculo matemático inicial se
+[01:54:30] hizo en 2 minutos. Después se fue
+[01:54:31] ajustando el porcentaje de B de acuerdo
+[01:54:33] al B del cuadro, o sea, uniformemente
+[01:54:36] para todos. Y eso se va a revisar en
+[01:54:38] este momento, que no sé qué va a dar
+[01:54:40] realmente porque no estoy en ese
+[01:54:41] cálculo, pero bueno, me van a determinar
+[01:54:42] un nuevo valor de Bad que le voy a
+[01:54:43] asignar a cada uno de los
+[01:54:44] distribuidores, pero es todo un cálculo
+[01:54:46] matemático. Exactamente. No es un
+[01:54:48] capricho
+[01:54:48] en comparación, digamos, en comparación
+[01:54:50] con el cuadro tarifario que le
+[01:54:52] correspondería cada uno, ¿no? También
+[01:54:55] esa tarea.
+[01:54:56] Exacto. eh por más que luego no se vaya
+[01:54:58] a ver porque no vamos a tener 204
+[01:55:01] cuadros tarifarios, esos 200 cuadros
+[01:55:04] correspondientes a las 200 cooperativas
+[01:55:06] va existe y contra eso es la diferencia
+[01:55:10] que va a redistribuir el fondo
+[01:55:12] compensador.
+[01:55:15] Perfecto, muchas gracias.
+[01:55:17] No, a vos, por favor. ¿Alguna otra
+[01:55:18] pregunta?
+[01:55:26] Hola, Esteban, buen día. ¿Qué tal? Hola,
+[01:55:28] Guillermina. Consulta. Capaz que ya lo
+[01:55:30] dijeron y yo no lo escuché. En ese caso,
+[01:55:32] pido disculpas.
+[01:55:34] ¿Con qué frecuencia o cuánto tiempo se
+[01:55:37] se actualiza, digamos, el el fondo este?
+[01:55:40] O sea, ¿con qué regularidad? Sí, te
+[01:55:44] cuento, mira, la actualización del fondo
+[01:55:45] va la parte de abastecimiento se
+[01:55:47] actualiza todos los meses porque se
+[01:55:48] corresponde con un cálculo del cuadro
+[01:55:50] tarifario, de lo que recibe el cuadro
+[01:55:52] tarifario, referencia por abastecimiento
+[01:55:55] de acuerdo al cuadro sancionado. O sea,
+[01:55:57] cada vez que se sanciona un precio
+[01:55:58] estacional nuevo se va corrigiendo y la
+[01:56:01] parte de BAT se corrige con cada aumento
+[01:56:04] de Bad que se da por cuadro tarifario.
+[01:56:05] Es decir, si el cuadro tarifario que la
+[01:56:07] autoridad de aplicación nos indica
+[01:56:08] calcular tiene el 1,2% de Bad, por
+[01:56:10] decirte algo, en el aumento,
+[01:56:12] automáticamente ese mismo 1,2% de Bad se
+[01:56:14] aplica a cada unidad de BAT reconocida
+[01:56:17] para cada distribuidor. ¿Está bien?
+[01:56:19] En cada rezo de cuadros,
+[01:56:21] en cada rezo de cuadros van a ver ese
+[01:56:22] artículo que se ajusta el fondo
+[01:56:25] compensador en el mismo porcentaje que
+[01:56:27] se aprueba el BAT en ese mismo cuadro.
+[01:56:30] Ahora, tengan en cuenta una cosa, por
+[01:56:31] ahí vos ten referí,
+[01:56:33] puede ser que vos la cantidad de energía
+[01:56:35] vendida de un trimestre respecto a otro
+[01:56:37] baje mucho porque tenés estacionalidad.
+[01:56:39] Entonces, independientemente de que
+[01:56:41] aumente el valor unitario de la energía
+[01:56:43] por abastecimiento, puede ser que la
+[01:56:44] compensación final en montos absolutos
+[01:56:48] te baje,
+[01:56:49] se puede esa situación, pero porque te
+[01:56:50] bajó la cantidad de energía, no porque
+[01:56:52] te bajó la compensación por unidad, se
+[01:56:54] entiende esa situación.
+[01:56:55] Claro,
+[01:56:56] eso puede darse. Lo que nunca te va a
+[01:56:58] bajar el valor de Bad. Por la
+[01:57:00] estacionalidad de la demanda decí.
+[01:57:01] Exactamente. Exactamente. Yo te calculo
+[01:57:04] febrero, marzo, abril que se calcula con
+[01:57:06] noviembre, diciembre, enero, por ahí un
+[01:57:08] enero muy alto, te va a dar un monto.
+[01:57:10] Ahora, si te calculo mayo, junio, julio,
+[01:57:12] que se calcula con fe marzo, tuviste un
+[01:57:13] día frío, seguramente por ahí la
+[01:57:15] compensación va a bajar, pero en
+[01:57:17] promedio se te va a ir manteniendo, sin
+[01:57:19] embargo, sube el costo, pero baja la
+[01:57:21] cantidad de energía. Entonces, puede ser
+[01:57:22] que el monto final que vos veas de un
+[01:57:24] trimestre respecto al otro puede ser más
+[01:57:25] bajo, pero tiene que ver con eso, no con
+[01:57:28] los valores unitarios.
+[01:57:30] Gracias.
+[01:57:31] De nada, Fernando.
+[01:57:38] No sé si tiene alguna otra pregunta
+[01:57:42] si no lo liberamos.
+[01:57:44] Bueno, si no hay más preguntas,
+[01:57:47] consultas, Esteban.
+[01:57:49] Eh, muchas gracias, Esteban por la
+[01:57:51] clase. La verdad que que está bueno ver
+[01:57:54] cómo se distribuye, cuáles son las
+[01:57:56] tareas que se hacen, que por ahí eso no
+[01:57:58] siempre se transmite o se conoce
+[01:58:01] básicamente. Así que bueno, gracias
+[01:58:03] Esteban, gracias a todos y nos estamos
+[01:58:06] viendo el martes próximo.
+[01:58:08] Bueno, muchas gracias.
+[01:58:09] Bueno, muchas gracias.
+[01:58:10] Muy buena la clase, Esteban. Gracias.
+[01:58:13] Gracias. Muchas gracias.
+[01:58:16] Gracias.
+[01:58:18] Los saludos.
+[01:58:22] Nos vemos.
+[01:58:22] Nos vemos. Adiós.

@@ -1,0 +1,3182 @@
+[00:00:21] Buen [resoplido] día a todos. ¿Cómo
+[00:00:23] están? Espero que todos bien.
+[00:00:28] Gracias a los que pudieron ir a a Camesa
+[00:00:30] Pérez el jueves pasado. La verdad que
+[00:00:34] más allá del cansancio y lo largo,
+[00:00:36] digamos, del viaje, eh para todos,
+[00:00:39] algunos más lejos que otros, eh la
+[00:00:42] verdad que fue una experiencia
+[00:00:43] buenísima.
+[00:00:45] Eh, les cuento y a los que no pudieron
+[00:00:47] ir también, eh, vamos a subir a la
+[00:00:49] plataforma las presentaciones que nos
+[00:00:51] dieron en la jornada, así que después se
+[00:00:54] las vamos a compartir. Si es que ya no
+[00:00:57] la subieron, no sé, se las pasamos a la
+[00:00:58] UTN, no sé si ya la subieron, me falta
+[00:01:00] ese dato, pero bueno, van a estar este
+[00:01:03] subidas como para que las tengan si las
+[00:01:05] quieren revisar o o ver.
+[00:01:08] Bueno, eh vamos con la clase de hoy. Hoy
+[00:01:11] eh es la clase 17, contabilidad
+[00:01:14] regulatoria, costos, balances, unidades
+[00:01:17] constructivas.
+[00:01:19] Vamos a contar con la presencia de
+[00:01:22] Marcelo Luó.
+[00:01:24] eh es licenciado en economía, tiene una
+[00:01:27] maestría en dirección y gestión de
+[00:01:29] sistemas de seguridad social, una
+[00:01:31] maestría en dirección de empresas,
+[00:01:34] tuvo eh diferentes cargos en la gestión
+[00:01:37] pública nacional, en la provincial y
+[00:01:41] desde el 2020 es asesor del directorio
+[00:01:44] del organismo de control de energía
+[00:01:46] eléctrica.
+[00:01:47] Eh, y específicamente en todo el tema de
+[00:01:51] modernización institucional.
+[00:01:53] fortalecimiento de gobernanza,
+[00:01:56] transformación estratégica y en este
+[00:01:58] tema de el origen de la contabilidad
+[00:02:01] regulatoria dentro del organismo.
+[00:02:05] También nos acompaña Camila Maestu, es
+[00:02:08] contadora pública nacional,
+[00:02:11] eh está en el organismo de control de
+[00:02:13] energía también
+[00:02:16] desde el origen de la contabilidad
+[00:02:17] regulatoria. Así que bueno, tenemos a
+[00:02:20] los expertos en el tema con nosotros.
+[00:02:24] Eh, también fue asesor en la
+[00:02:26] subsecretaría de administrativa, perdón,
+[00:02:29] del Ministerio de Infraestructura
+[00:02:32] e en diversas actividades y tuvo otras
+[00:02:35] antecedentes eh en la actividad privada.
+[00:02:39] Así que bueno, gracias Marcelo, gracias
+[00:02:41] Camila,
+[00:02:43] los dejamos a ustedes que son los
+[00:02:45] expertos en esto para que nos cuenten
+[00:02:48] todo.
+[00:02:52] Bueno, qué responsabilidad nos han dado.
+[00:02:55] [carraspeo] Bueno, eh yo quiero decir
+[00:02:57] que
+[00:02:57] nada que no puedan cumplir,
+[00:02:58] ¿no? Bueno, gracias. Bueno, agradecer a
+[00:03:01] Lisandro y a Guillermina y a todos los
+[00:03:03] que se han anotado en esta diplomatura.
+[00:03:06] Me parece que es algo muy importante en
+[00:03:09] términos de hablar un mismo lenguaje. No
+[00:03:11] quiere decir que pensar igual, pero sí
+[00:03:13] tener un lenguaje común respecto de
+[00:03:15] temas de energía con la presencia de de
+[00:03:19] profesionales y conocedores del sistema
+[00:03:22] eléctrico de la provincia de Buenos
+[00:03:23] Aires. Es algo realmente muy importante
+[00:03:25] en lo que hace a la dinámica de un
+[00:03:28] sistema muy amplio, muy rico en ese
+[00:03:31] sentido. Por otro lado, quiero decir que
+[00:03:35] cuando esto empezó en el 2020 fue bueno,
+[00:03:38] a ver cómo se hace esto. Camila, que
+[00:03:41] está desde un inicio y y yo y otro grupo
+[00:03:44] importante de gente de todos los la
+[00:03:46] parte de los organismos y de sus áreas
+[00:03:49] empezaron a participar. Creo que ese es
+[00:03:52] uno de los factores básicos que quiero
+[00:03:54] destacar, que lo que hoy vamos a
+[00:03:56] conversar y a charlar respecto lo que es
+[00:03:59] la contabilidad regulatoria ha sido el
+[00:04:01] aporte que hicieron desde lo
+[00:04:03] regulatorio, desde lo de la Dirección
+[00:04:05] Provincial de Energía, desde los CEVA,
+[00:04:07] todos los profesionales que que
+[00:04:10] empezaron a armar los equipos para dar
+[00:04:13] lugar a lo que hoy tenemos y que como
+[00:04:17] charlábamos antes que se habilitaran la
+[00:04:19] clase, un camino largo largo para
+[00:04:21] seguir. Así que bueno, es la
+[00:04:23] contabilidad regulatoria. Bueno, eh
+[00:04:26] Camila, no sé si querés decir alguna
+[00:04:29] pequeña introducción de algo,
+[00:04:31] ¿no? Bueno, eh, ¿cómo andan? Espero que
+[00:04:33] estén bien todos. Eh, la primera parte
+[00:04:36] de esta presentación va a ser un poquito
+[00:04:39] más densa porque vamos a estar revisando
+[00:04:41] la normativa. Eh, y la segunda parte
+[00:04:43] vamos a estar tratando de compartirles
+[00:04:46] nuestra experiencia de cómo vivimos y de
+[00:04:49] cómo pudimos eh lograr la implementación
+[00:04:51] y cómo lo llevamos a cabo hoy por hoy.
+[00:04:54] Así que bueno, más o menos así está
+[00:04:57] estructurado. Vamos a hacer un pequeño
+[00:04:58] break en el medio, eh, y bueno, y
+[00:05:01] arrancamos.
+[00:05:03] Bueno, perfecto. Yo voy a presentar la
+[00:05:07] una presentación, una presentación. Creo
+[00:05:10] que todos los lo están pudiendo ver o
+[00:05:12] no. Por favor, vamos.
+[00:05:14] No, todavía
+[00:05:15] no todavía. Que decir que yo tengo que
+[00:05:17] apretar algún botón mágico. Exactamente.
+[00:05:21] Listo. Bien. Me imagino que ahí sí. No
+[00:05:23] es así. Bien. Eh, vamos a achicar un
+[00:05:26] poquito.
+[00:05:27] Ahora sí.
+[00:05:28] Bien. Genial. Ahí todos los controles
+[00:05:30] técnicos del otro lado son
+[00:05:32] fundamentales.
+[00:05:34] Falta pantalla completa.
+[00:05:35] Exactamente. No estoy Ahí está listo.
+[00:05:38] Perfecto. Bueno,
+[00:05:40] perfecto.
+[00:05:41] Vamos a hablar de contabilidad
+[00:05:42] regulatoria hoy, como
+[00:05:44] eh indicó recién Camila, va a tener
+[00:05:48] distintas partes, por supuesto. Y
+[00:05:51] complementando lo que dice lo que dijo
+[00:05:54] Camila, yo voy a empezar con algunos
+[00:05:57] conceptos básicos. eh simples eh para
+[00:06:01] que pudiéramos eh ver la contabilidad
+[00:06:05] en el sentido más amplio. Hm. Eso es uno
+[00:06:07] de los aspectos fundamentales. Eh, lo
+[00:06:09] que quiero con esto introducir es un
+[00:06:12] concepto que la contabilidad regulatoria
+[00:06:14] no es contabilidad, es muchísimo,
+[00:06:16] muchísimo más que eso, ¿no? Y eso no es
+[00:06:20] poco porque
+[00:06:22] hace al corazón del por qué existe la
+[00:06:25] contabilidad regulatoria en en la
+[00:06:28] provincia de Buenos Aires y en otros
+[00:06:30] sistemas de la de concesiones en la en
+[00:06:36] la República Argentina, así como en el
+[00:06:38] exterior, que veremos rápidamente
+[00:06:40] algunos casos. Bueno, yo quisiera
+[00:06:43] empezar con algo que no es menor, que
+[00:06:45] es, ¿qué preguntas debemos hacernos?
+[00:06:48] Este concepto eh es mucho más amplio que
+[00:06:51] la que la contabilidad regulatoria. Es y
+[00:06:55] hace a tres preguntas que le estructura,
+[00:06:57] ¿no? Que es, ¿qué es la contabilidad
+[00:06:59] regulatoria? Y esto es, ¿qué qué es lo
+[00:07:02] que estamos pensando ahí? Yo le le acá
+[00:07:06] hay una cantidad de profesionales de de
+[00:07:09] distinto tipo que seguramente cada uno
+[00:07:12] va a tener una idea particular y todas
+[00:07:14] van a ser correctas. Hm. No, en ese
+[00:07:16] sentido, eh, no hay una definición
+[00:07:20] única, puede haber definiciones amplias
+[00:07:22] y lo iremos viendo eh en los próximos
+[00:07:25] minutos. Luego, ¿qué qué imaginamos que
+[00:07:28] debe permitirnos? Y acá hay una cuestión
+[00:07:30] importante y hace a
+[00:07:33] a ver eh qué vemos en el más allá, qué
+[00:07:37] es lo que nos debe dar la contabilidad
+[00:07:39] delatorio eh si nosotros queremos que
+[00:07:42] sirva, que nos que nos dé los elementos
+[00:07:45] que son indispensables para que tenga
+[00:07:47] vida.
+[00:07:48] Eso es muy importante porque si no
+[00:07:51] tenemos claro, no un objetivo, varios
+[00:07:54] objetivos, eh cualquier
+[00:07:57] proyecto en sí mismo eh puede puede
+[00:07:59] tener un un camino desastroso, ¿no? Y
+[00:08:03] acá es muy importante
+[00:08:05] los roles que cada
+[00:08:08] que existen en cualquier proyecto,
+[00:08:10] tantos como los que dan, como los que
+[00:08:12] reciben eh esto este sistema. Bueno, ¿y
+[00:08:17] cómo lo implementaríamos? Yo quiero que
+[00:08:19] se hagan estas tres preguntas eh
+[00:08:22] constantemente, no solo por un tema de
+[00:08:23] contabilidad aleatoria, sino por un
+[00:08:25] aspecto propio de cualquier proyecto. Y
+[00:08:28] cómo lo implementaríamos, no es menor,
+[00:08:31] hace algún aspecto fundamental que es la
+[00:08:33] planificación.
+[00:08:34] eh teniendo claro para qué la queremos,
+[00:08:37] qué queremos que nos dé,
+[00:08:40] tenemos que saber el camino a lo cual eh
+[00:08:43] te puede poder llegar eh para tener con
+[00:08:46] éxito y ahí la planificación, los
+[00:08:48] aspectos fundamentales de de del
+[00:08:51] proyecto son indispensables. Hm. Eh, con
+[00:08:55] lo cual eh no sé si alguno quiere
+[00:08:58] comentar algo. Yo quiero bajar estos
+[00:09:00] tres básicas preguntas. como dice tres
+[00:09:02] básicamente sí, pero son como el corazón
+[00:09:05] de de lo que es un proyecto y del
+[00:09:07] corazón que hizo la posibilidad que la
+[00:09:10] contabilidad regulatoria comenzara y
+[00:09:13] tomara la velocidad y los pasos que que
+[00:09:16] hoy estamos están viendo, que ustedes,
+[00:09:18] muchos de ustedes participan, han
+[00:09:21] participado y con algunos hemos tenido
+[00:09:24] una relación regular y de intercambio.
+[00:09:27] Yo quiero ir a una definición que creo
+[00:09:30] que la la propongo acá como una forma de
+[00:09:34] de de abarcar todo lo que a uno se le
+[00:09:36] puede ocurrir, pero me pareció muy rica
+[00:09:38] y ponerla al tanto, ¿no? A a todos los
+[00:09:41] que ustedes conocen. Una definición y
+[00:09:44] acá van a ver cantidad de elementos. La
+[00:09:46] contabilidad
+[00:09:48] es un sistema compuesto por una serie de
+[00:09:51] reglas e instrumentos contables, si no
+[00:09:54] el título sería de reglas de negocio, de
+[00:09:58] sistemas informáticos, de informes
+[00:10:00] contables, de reportes regulatorios,
+[00:10:03] entre otros, que están integrados
+[00:10:06] completamente y pasan a formar parte de
+[00:10:08] un único sistema de información. Y me
+[00:10:12] pareció que este concepto de único
+[00:10:14] sistema de información es el corazón de
+[00:10:18] de lo que hace a nuestra contabilidad
+[00:10:21] regulatoria. Porque si ustedes ven, he
+[00:10:24] metido en esta definición casi todo lo
+[00:10:26] que uno puede imaginar, ¿no? El título e
+[00:10:29] es un sistema, es un un proceso
+[00:10:31] integral, una serie de reglas e
+[00:10:33] instrumentos contables. Reglas
+[00:10:35] instrumentos contables porque uno tiene
+[00:10:36] que saber cómo cómo volcar la actividad.
+[00:10:40] Reglas de negocio. Las reglas de negocio
+[00:10:42] son un aspecto fundamental porque hacen
+[00:10:45] a la constitución de las de las reglas e
+[00:10:48] instrumentos contables que que permitan
+[00:10:50] reflear. un aspecto no menor, que las
+[00:10:52] reglas de negocio son dinámicas y por lo
+[00:10:54] tanto tenemos que tener en claro que
+[00:10:57] estos sistemas de contar
+[00:11:00] a ser estáticos, pierden la vigencia
+[00:11:03] como cualquier cosa que se queda parada
+[00:11:05] en el tiempo. De sistemas informáticos.
+[00:11:08] Eh, acá no estamos hablando de de poca
+[00:11:10] cosa, estamos hablando de nada más ni
+[00:11:13] nada menos que de muchos actores, de
+[00:11:17] muchos roles. Hm. Y además hablamos de
+[00:11:20] mucha muchos datos. Hm. Con lo cual
+[00:11:24] es necesario, aunque sea lo más básico,
+[00:11:28] tener elementos que nos ayuden en todo
+[00:11:30] lo que es preparación,
+[00:11:33] recepción y procesamiento e
+[00:11:35] interpretación de la información que
+[00:11:38] recibimos. Informes contables. Eh,
+[00:11:40] evidentemente acá con la la propia
+[00:11:42] dinámica que comenté antes, los informes
+[00:11:45] contables deben reflejar esos aspectos.
+[00:11:48] Son fotografías, como dicen, son
+[00:11:50] aspectos eh tal vez a un momento
+[00:11:52] determinado, un trimestral, un anual,
+[00:11:56] este un informe o un reporte particular,
+[00:11:58] prehacen a la fotografía a un momento
+[00:12:00] determinado y luego también permite
+[00:12:03] justamente en esas fotografías sucesivas
+[00:12:06] tender a entender el desempeño, el
+[00:12:09] desarrollo, los aspectos propios del
+[00:12:12] negocio. reportes regulatorios,
+[00:12:15] evidentemente, tanto en cuanto a las
+[00:12:18] pedidos de información y al marco que
+[00:12:21] nos toca como organismos, como como de
+[00:12:25] las distintas direcciones en cuanto a a
+[00:12:27] la necesidad de proveer eh información
+[00:12:30] interna, en cuanto a a brindar el el
+[00:12:34] desarrollo de lo que es el sistema
+[00:12:36] eléctrico en lo en lo que compete.
+[00:12:39] están, entre otros, que están integrados
+[00:12:42] y completamente y forman parte de un
+[00:12:44] único sistema de formación. Aquellos que
+[00:12:46] están desde un inicio y que los los vi
+[00:12:49] en los nombres saben que esto fue una
+[00:12:51] interacción y que tenemos todavía un
+[00:12:54] camino bastante
+[00:12:55] importante que recorrer, no no en
+[00:12:59] términos de de demoras o no demoras, es
+[00:13:01] la propia dinámica de un sistema muy
+[00:13:03] grande, un sistema de información muy
+[00:13:05] grande en donde hay muchos actores y
+[00:13:08] además no solo hay muchos actores, sino
+[00:13:10] estamos hablando de eh de la dinámica
+[00:13:14] que hace al mantenimiento y el continuar
+[00:13:18] vivo todos estos procesos de
+[00:13:20] información.
+[00:13:22] ¿Qué se busca con un sistema de
+[00:13:23] información? Y esto es la pregunta que
+[00:13:25] sigue. Es fundamental en el ámbito de
+[00:13:28] los servicios públicos, en particular
+[00:13:30] cuando hablamos de concesionarios y
+[00:13:32] autoridad regulatoria. En esto acá
+[00:13:36] tenemos dos jugadores muy importantes.
+[00:13:39] Uno, el concesionario eh que brinda un
+[00:13:45] servicio público. Acá tenemos que tener
+[00:13:47] en cuenta que la figura principal en
+[00:13:49] esto no es ni el conario ni la autoridad
+[00:13:52] revoltario, son nuestros usuarios, ¿no?
+[00:13:55] Y a eso apuntamos aún con limitaciones y
+[00:13:58] restricciones que son el objeto del cual
+[00:14:01] existimos. el concesionario, por
+[00:14:03] supuesto, las distribuidoras eléctricas
+[00:14:06] o si compete de pronto una
+[00:14:08] transportadora o una generadora. Este, y
+[00:14:12] el aspecto de la autoridad regulatoria,
+[00:14:14] en esto en la autoridad regulatoria hace
+[00:14:17] a las reglas que deben surgir y deben eh
+[00:14:21] regular y administrar la relación entre
+[00:14:25] los concesionarias, la autoridad
+[00:14:26] regulatoria y principalmente con los que
+[00:14:29] son nuestro objetivo, los usuarios.
+[00:14:33] entrando tal vez en algo más pequeño, en
+[00:14:35] algo más técnico, pero que hace una una
+[00:14:39] característica muy propia del sistema eh
+[00:14:42] eléctrico de la provincia de Buenos
+[00:14:44] Aires, que el objetivo principal es
+[00:14:46] separar los costos regulados de los no
+[00:14:48] regulados, evitar los subsidios
+[00:14:50] cruzados, calcular tarifas técnicamente
+[00:14:53] justificadas, diferenciándose así de la
+[00:14:57] contabilidad financiera tradicional y
+[00:14:59] permitiendo la gestión de las tarifas
+[00:15:01] del servicio.
+[00:15:03] Bueno, eh lo que comentamos recién,
+[00:15:05] estamos en un proceso de RTI, con lo
+[00:15:07] cual se imaginan que todos estos
+[00:15:09] elementos entran en juego. Y un aspecto
+[00:15:11] fundamental, y eso eh lo iremos viendo
+[00:15:14] más adelante, la necesidad de poder
+[00:15:17] generar, especialmente en la existencia
+[00:15:20] de de las cooperativas un sistema que
+[00:15:24] permita separar las múltiples
+[00:15:26] actividades que tienen, ¿no es así? Eso
+[00:15:27] es es inevitable. existen bajo esa bajo
+[00:15:31] ese régimen, bajo esa estructuración y
+[00:15:33] uno debe darles eh eh los elementos para
+[00:15:37] poder separar lo que es los costos
+[00:15:40] regulados, sea porque den electricidad,
+[00:15:43] den den gas o lo que fuere, permitir
+[00:15:46] claramente ver la actividad que que nos
+[00:15:50] compete eh como autoridad regulatoria y
+[00:15:52] a ustedes como concesionarios en la
+[00:15:55] gestión del día a día, ¿no? Eso es
+[00:15:57] fundamental. Y porque lo lo que hace
+[00:15:59] algo que seguramente bueno, volviendo al
+[00:16:02] RT hace es a la que permita la gestión
+[00:16:05] de las tarifas del servicio. [carraspeo]
+[00:16:07] Bien, volviendo y esto es simplemente
+[00:16:10] una forma gráfica de exponer lo que
+[00:16:13] comenté hace un rato. Cuando hablamos de
+[00:16:17] la contabilidad regulatoria, hablamos de
+[00:16:18] un sistema dinámico. Hablemos de un plan
+[00:16:21] de manual de cuenta regulatorio, que es
+[00:16:23] de pronto lo que salta inicialmente.
+[00:16:26] hablamos de un sistema informático,
+[00:16:28] hablamos de los reportes y algo que hace
+[00:16:30] a los elementos modificados en el diseño
+[00:16:33] del ente regulador. Aquí ya hablamos de
+[00:16:36] ente regulador
+[00:16:38] toda su estructura.
+[00:16:41] Hay alguien que está
+[00:16:45] si pueden eh cerrar su micrófono que hay
+[00:16:48] alguien que sin querer lo dejó abierto.
+[00:16:51] Y en este es un circo simple, virtuoso,
+[00:16:55] que hace a la
+[00:16:57] dinámica y capacidad que tienen que
+[00:16:59] tener los actores para ir adaptándose. Y
+[00:17:03] esto nos compete a todos, compete a las
+[00:17:06] empresas y compete al a la autoridad
+[00:17:09] regulatoria. Nuestros usuarios no tienen
+[00:17:13] que sufrir este aspecto, al contrario,
+[00:17:15] tienen que ser nuestros beneficiarios
+[00:17:17] constante y nuestro objetivo fundamental
+[00:17:20] por proveer un servicio público y adás
+[00:17:22] fundamental que es el servicio
+[00:17:24] eléctrico. Y y en ese aspecto, y lo
+[00:17:28] veremos más adelante,
+[00:17:30] es indispensable tener en cuenta los
+[00:17:32] elementos que van cambiando y que
+[00:17:35] permiten
+[00:17:37] la adaptación de lo que se ha regulado,
+[00:17:40] lo que se ha puesto, lo que se ha
+[00:17:41] escrito, no es menor. Y se imaginan que
+[00:17:44] para las autoridades de control y
+[00:17:47] regulatorio es un desafío fundamental de
+[00:17:49] este sentido. Bien, hay una un aspecto
+[00:17:53] fundamental por la cual llevamos
+[00:17:55] adelante nosotros las etapas
+[00:17:59] de la contabilidad regulatoria. Esto es
+[00:18:01] muy importante porque hace aparte de la
+[00:18:05] del éxito.
+[00:18:07] Cuando nosotros iniciamos esto en el
+[00:18:09] 2020,
+[00:18:11] cuando comenzamos un relevamiento de lo
+[00:18:13] que había y no había en términos
+[00:18:14] internos,
+[00:18:16] actuando, [resoplido]
+[00:18:17] tomamos en cuenta un proyecto que se
+[00:18:19] había iniciado allí por el año 1819 de
+[00:18:23] de la contabilidad regulatoria, que fue
+[00:18:26] muy básico, muy muy simple, que por
+[00:18:29] supuesto cuando cuando llegamos a esta
+[00:18:31] etapa requirió un este recoger y dar de
+[00:18:34] nuevo, pero lo digo en términos
+[00:18:36] positivos.
+[00:18:37] y ahí intervinió este a encontrar en el
+[00:18:40] relevamiento aspectos fundamentales que
+[00:18:44] este que volcan una segunda etapa. Es el
+[00:18:46] análisis. En este análisis eh por
+[00:18:49] supuesto eh entra eh lo que podríamos
+[00:18:54] decir el análisis entre lo que hay y lo
+[00:18:56] que debería ser. Eh, en sistemas,
+[00:18:59] recuerdo que esto se llama gap análisis
+[00:19:01] porque justamente nos da una idea de las
+[00:19:04] diferencias en donde estamos y el
+[00:19:06] esfuerzo y los recursos que hay que
+[00:19:08] poner y los tiempos para llegar a los
+[00:19:11] distintas etapas. Y en este punto
+[00:19:14] ingresa el diseño. Acá tanto en la etapa
+[00:19:17] del análisis de diseño, es muy
+[00:19:19] importante lo que fue y lo que es la
+[00:19:22] actuación de la parte de las
+[00:19:24] contrapartes, como uno dice, que es
+[00:19:26] justamente eh la parte nuestra como
+[00:19:30] subsecretaría en la parte regulatoria,
+[00:19:33] en lo que es Oloa y todo lo que ha sido
+[00:19:36] eh en esta primera etapa, la interacción
+[00:19:39] con eh los prestadores. Hm.
+[00:19:41] especialmente y en ese sentido, los
+[00:19:43] prestadores provinciales, por su
+[00:19:45] dimensión y complejidad fueron los
+[00:19:47] primeros, vamos a poner, demandados en
+[00:19:51] en en en empezar a mirar, ¿no? Y un
+[00:19:54] aspecto que en este sentido quiero eh
+[00:19:58] destacar en la parte de implementación
+[00:20:00] son los tiempos. E
+[00:20:03] acá la implementación es exitosa cuando
+[00:20:07] uno la evaluó, la analizó.
+[00:20:11] En el punto, por supuesto, tal vez
+[00:20:13] teórico, porque acá en este punto uno
+[00:20:16] tiene que tener en cuenta dos
+[00:20:17] realidades, la realidad de un proyecto y
+[00:20:20] la realidad política. Eso es inevitable,
+[00:20:23] digamos. hay visiones estratégicas que
+[00:20:25] hace
+[00:20:27] a la gobernanza de de los sistemas como
+[00:20:30] es este la la gestión de la
+[00:20:32] subsecretaría de energía que deben
+[00:20:34] tenerse en cuenta. Con lo cual la
+[00:20:36] implementación tomó un tiempo. La
+[00:20:39] primera resolución que veremos más
+[00:20:40] adelante definía toda una cantidad de
+[00:20:43] etapas y tiempos iniciales. Pero acá
+[00:20:46] debo destacar que justamente así como
+[00:20:48] uno cuando lleva adelante un proyecto de
+[00:20:51] esta dimensión tiene que tener en cuenta
+[00:20:53] las necesidades y exigencias, por
+[00:20:56] supuesto, como lo acabo de decir,
+[00:20:57] también uno a medida que va encontrando
+[00:21:00] las dificultades y la necesidad de
+[00:21:04] ajustarse para llegar a a buen puerto,
+[00:21:07] hace a la también a a la a la gestión
+[00:21:10] política de encontrar el el camino este
+[00:21:13] y dar los espacios en ese sentido debo
+[00:21:15] decir que con la con la con la con el
+[00:21:19] proceso con los con los tiempos
+[00:21:21] [carraspeo] iniciales y los tiempos
+[00:21:23] posteriores que ustedes todos muchos de
+[00:21:25] ustedes han participado, eh hemos
+[00:21:28] tratado justamente de apuntar al éxito
+[00:21:31] final de la implementación de este tema.
+[00:21:35] Bueno, eh yo creo que acá eh vamos a
+[00:21:39] entrar en la definición que a mí me
+[00:21:41] gusta porque justamente uno de los temas
+[00:21:43] fundamentales que comenté al principio
+[00:21:45] es que la contabilidad regulatoria no es
+[00:21:47] contabilidad, con lo cual yo quisiera en
+[00:21:50] esto
+[00:21:51] pararme en esta primera definición que
+[00:21:54] es básicamente los tres elementos que
+[00:21:57] hacen de alguna manera a lo que es el
+[00:21:59] servicio eléctrico de distribución en la
+[00:22:01] provincia. La contradía regulatoria
+[00:22:03] establece los mecanismos para contar con
+[00:22:05] información homogénea sobre los
+[00:22:07] ingresos, costos y gastos de los
+[00:22:10] servicios sujetos a la regulación, así
+[00:22:13] como la demanda de servicio de manera
+[00:22:15] permanente y estandarizada para todas
+[00:22:18] las distribuidoras regulados. H con el
+[00:22:21] objeto de hacer posible las
+[00:22:23] comparaciones que permitan determinar la
+[00:22:25] eficiencia en la prestación de los
+[00:22:28] servicios regulados. Esto evidentemente
+[00:22:31] habla de la contabilidad en su concepto
+[00:22:32] más profundo que es evidentemente
+[00:22:34] registrar los hechos económicos y
+[00:22:37] financieros. Pero eso es lo que yo llama
+[00:22:40] llamaba siempre el pilar el pilar
+[00:22:43] financiero. Acá se suma algo fundamental
+[00:22:46] porque este modelo de concesión
+[00:22:48] eléctrica de la provincia así lo
+[00:22:50] determina que las herramientas que
+[00:22:52] permiten en forma regular determinar en
+[00:22:55] el modelo de concesión la base de
+[00:22:57] capital. Hm. lo que nosotros saben
+[00:23:00] porque los pedimos, los perseguimos, los
+[00:23:03] llamamos, etcétera, que es el inventario
+[00:23:05] de activos. Hm. que es otro elemento
+[00:23:09] fundamental que debe estar presente en
+[00:23:13] eh en toda la información, no solo
+[00:23:15] contable, sino en todo el seguimiento de
+[00:23:17] lo que hace a la infraestructura que
+[00:23:20] permita dar el servicio electécto. Y por
+[00:23:23] último, no menos importante, son las
+[00:23:27] inversiones que se realizan y se
+[00:23:28] planifican para un servicio dentro de
+[00:23:31] las pautas de calidad establecidas. Y
+[00:23:33] acá hablamos del pilar de las unidades
+[00:23:35] constructivas, de los planes de
+[00:23:37] inversión. Yo creo que si no tenemos
+[00:23:39] inversión eh los inventarios se van
+[00:23:42] desgastando, se van este se van eh
+[00:23:47] cayendo la calidad de los servicios y
+[00:23:49] por último la contabilidad seguramente
+[00:23:51] va a reflejar los indicadores de calidad
+[00:23:53] van a señalar que hay algo que no está
+[00:23:56] andando bien. Entonces la contabilidad
+[00:23:58] laboratoria son tres pilares. El pilar
+[00:24:00] económicofinanciero,
+[00:24:02] los elementos del de la base de capital.
+[00:24:05] Recuerden que la parte de inventario es
+[00:24:07] parte de la de la concesión. En otras en
+[00:24:10] otras actividades, como es por ejemplo
+[00:24:12] el de los trenes, cuando se realizó su
+[00:24:14] concesión nacional, el dueño de los de
+[00:24:18] los activos era el estado y este lo que
+[00:24:21] se hacía era una gestión de estos
+[00:24:23] activos por parte del concesionaria que
+[00:24:25] separaba un canon, etcétera, pero en
+[00:24:27] realidad la planificación y las
+[00:24:29] inversiones en definitiva le
+[00:24:31] correspondían el Estado nacional. Bueno,
+[00:24:33] este es un ejemplo para tener en cuenta
+[00:24:36] las diferencias y el por qué en algún
+[00:24:38] sistema de contabilidad regulatorio
+[00:24:41] existen mayor o menor importancia en los
+[00:24:44] pilares h que lo integran. Acá hay una
+[00:24:48] cuestión fundamental cuando hablamos de
+[00:24:50] la contabilidad regulatoria y es que la
+[00:24:52] contabilidad regulatoria es [carraspeo]
+[00:24:56] un marco que nos permita leer e
+[00:24:59] interpretar de forma razonable,
+[00:25:01] equilibrada y con un sentido general.
+[00:25:06] Toda una actividad,
+[00:25:08] tengamos en cuenta que la actividad de
+[00:25:10] la provincia de Buenos Aires solamente
+[00:25:12] tiene 203
+[00:25:14] empresas eléctricas. Por supuesto están
+[00:25:17] las provinciales que tienen una
+[00:25:19] actividad exclusivamente eh eléctrica y
+[00:25:23] después tenemos la las cooperativas
+[00:25:25] eléctricas que solamente suman 199 con
+[00:25:29] aquellas que siempre tratando de
+[00:25:32] agruparlas en en grupos grandes están
+[00:25:35] aquellas que entran dentro de lo
+[00:25:36] regulado y no regulado y aquellas que
+[00:25:38] están arriba o debajo de los 5,000
+[00:25:40] usuarios, que ya es una cantidad
+[00:25:42] importante, de todas maneras 5,000 y
+[00:25:45] a medida que uno va llevando tener
+[00:25:48] elementos para poder empezar a
+[00:25:51] compararlas, a tener elementos comunes e
+[00:25:54] inclusive para los mismos procesos de
+[00:25:56] gestión regulatoria que hace a la
+[00:25:58] actividad y al cumplimiento este por
+[00:26:01] parte de las concesionarias de estas que
+[00:26:04] acabo de comentar. Hm. Acá no es eh un
+[00:26:08] una cuestión y además especialmente por
+[00:26:10] los roles que comenté más anem más en la
+[00:26:13] primera parte que es el de concesionario
+[00:26:16] y de este ente regulador o de
+[00:26:19] reguladores, eh este el hablar un
+[00:26:22] lenguaje común. ¿Se imaginan que
+[00:26:25] supuestamente hablando en la
+[00:26:27] contabilidad o en las herramientas del
+[00:26:29] de la base de capital, si no tuviéramos
+[00:26:31] un inventario un un diccionario que
+[00:26:34] después lo veremos común y podríamos
+[00:26:37] estar mirando este cosas diferentes o
+[00:26:40] mirando cosas iguales e interpretándolas
+[00:26:42] de forma diferente, por eso hace a la
+[00:26:45] necesidad de tener un marco regulatorio,
+[00:26:48] pero acá nada impuesto. Acá me parece
+[00:26:51] que es una de las virtudes que ha tenido
+[00:26:53] la contabilidad agradutaria desde que
+[00:26:55] comenzamos con esto es eh conversar con
+[00:26:57] todas y especialmente con las grandes,
+[00:27:00] que fueron las primeras que que este
+[00:27:03] incluso las cuales demandamos la
+[00:27:04] implementación de esto, que fue eh
+[00:27:07] llevar a lenguajes comunes y en algunos
+[00:27:09] casos ver aquellos cambios que a futuro
+[00:27:12] pueden llegar a ser necesarios. Bueno,
+[00:27:14] como les comenté al principio, la
+[00:27:16] contabilidad regulatoria no es solo una
+[00:27:18] cuestión de de de la Argentina, sino
+[00:27:22] también existen en distintas regiones,
+[00:27:24] América, Europa y Oceanía. Yo acá voy a
+[00:27:28] compartirles simplemente, aunque después
+[00:27:31] lo van a tener en el material, que este
+[00:27:34] es, a ver, a ver, que ver si puedo
+[00:27:36] agrandarlo,
+[00:27:38] que me está bueno acá no quiere, no
+[00:27:41] quiere agrandarse esto un poco. Bueno,
+[00:27:44] yo simplemente quería presentarles
+[00:27:46] rápidamente lo que es la A ver,
+[00:27:52] quiero simplemente mostrarlo amplio,
+[00:27:54] pero no eh no puedo no puedo movilizar
+[00:27:58] esto. A ver, perdón, voy a volver a
+[00:28:00] cero.
+[00:28:02] Acá está.
+[00:28:04] Ahí vamos a ver. Empecemos de cero.
+[00:28:07] Simplemente disculpen la el desorden en
+[00:28:09] esto. Eh, eh, acá está. Bueno, nosotros
+[00:28:13] hablando de contabilidad gatoria y
+[00:28:14] tratamiento inversionado, me pareció un
+[00:28:16] pequeño cuadro que ustedes van a tener
+[00:28:18] en material para que ustedes sigan
+[00:28:20] investigando y poder ampliar lo que es
+[00:28:22] la contabilidad regulatoria. Hm. En
+[00:28:24] Argentina tenemos agua, la parte de de
+[00:28:27] cloacas, tenemos sistema eléctrico, el
+[00:28:29] gas, eh acá tenemos los organismos
+[00:28:31] reguladores, el año de vigencia de 1992
+[00:28:35] en sus distintas etapas. Piense que en
+[00:28:37] provincia de Buenos Aires esto comenzó a
+[00:28:40] partir del final del siglo pasado.
+[00:28:42] Marc, no estamos viendo el cuadro, ¿eh?
+[00:28:44] Ah, perdón, perdón. Qué grande, qué
+[00:28:46] grande. Qué bueno que estamos. Muchas
+[00:28:48] gracias. Espera un poquito que Gracias
+[00:28:51] que tengo la que me controla porque si
+[00:28:53] no esto sería un desastre. Bueno, para
+[00:28:55] un cachito que voy a compartir. Muchas
+[00:28:57] gracias. Ahí está. Ahora lo comparto.
+[00:28:59] Gracias. Ahí está. Listo. Mis disculpas.
+[00:29:02] Bueno, como les decía,
+[00:29:04] existe la contratoria no solo en la
+[00:29:07] Argentina, sino en distintas regiones.
+[00:29:09] Les preparé un pequeño cuadro que hace
+[00:29:11] un poco un resumen de los aspectos que
+[00:29:14] hace al país, los servicios regulados
+[00:29:16] como referencia, las siglas del y un
+[00:29:19] poco el año de vigencia, algunas
+[00:29:21] cuestiones espectaculares en términos de
+[00:29:24] la parte relevante contable y la
+[00:29:26] metodología especial para las
+[00:29:27] inversiones. En Argentina tenemos aguas,
+[00:29:30] tenemos cloacas, electricidad, gas,
+[00:29:32] tenemos el ENRE, el gas a nivel
+[00:29:34] nacional, por supuesto están los
+[00:29:36] organismos de control de cada provincia
+[00:29:38] y en esto es interesante pues un tema
+[00:29:41] también que la Argentina tiene esa
+[00:29:44] característica muy particular con
+[00:29:46] relación a otros países, que es no solo
+[00:29:49] tenés los organismos nacionales como
+[00:29:51] tenés el gas que es a nivel nacional,
+[00:29:53] sino tenés en la parte eléctrica
+[00:29:55] empresas como Córdoba, tenés Salta,
+[00:29:57] tenés es Mendoza. Estamos nosotros en la
+[00:29:59] provincia de Buenos Aires, donde
+[00:30:01] justamente tenemos eh concesiones.
+[00:30:05] Bueno, tenemos una integridad de la
+[00:30:07] contraría financiera y esta contable
+[00:30:08] para para la situación, el tema de las
+[00:30:11] del CAPEX que les comenté. Vamos al
+[00:30:13] Brasil, tenemos energía eléctrica,
+[00:30:15] telecomunicaciones.
+[00:30:17] Bueno, esto en Brasil comienza desde
+[00:30:19] 2001. Hm. Tienen una orientación con una
+[00:30:23] serie de reglas y consideración de los
+[00:30:24] sistemas NIF. eh tienen un sistema de
+[00:30:27] evaluación y grosario de activos eh con
+[00:30:30] con valor de costo de capital para la
+[00:30:32] evaluación de los activos. Colombia,
+[00:30:35] electricidad, gas, agua, agua potable.
+[00:30:39] Eh, desde 994 existe un plan de
+[00:30:43] contabilidad unificado confortivos.
+[00:30:46] Existen las unidades constructivas acá.
+[00:30:48] Hm. Están Estados Unidos. En Estados
+[00:30:51] Unidos este es uno de los países que con
+[00:30:54] su dinámica y sus características
+[00:30:56] propias nos da buenos y malos ejemplos
+[00:30:59] de todas, pero bueno, eh tiene
+[00:31:01] electricidad, gas, agua corriente, esto
+[00:31:04] ya lleva muchísimos años, evidentemente
+[00:31:06] Estados Unidos. Eh, tenés modelo de tasa
+[00:31:09] por costo, un costase, eh, pero reconoce
+[00:31:12] los activos regulatorios. Eh,
+[00:31:15] acá tenemos para que puedan ver el tema
+[00:31:18] de lo que hace las la parte de
+[00:31:19] inversiones. Eso es en cuanto a las
+[00:31:22] Américas. Vamos a ponerlo. Vamos a
+[00:31:24] Europa. Tenemos el Reino Unido. Reino
+[00:31:26] Unido que ustedes recuerdan que vinieron
+[00:31:29] a gestionar nuestros ferrocarrillos ahí
+[00:31:31] por finales del siglo XIX con todas las
+[00:31:34] historias que conocemos y todo el camino
+[00:31:38] que que da para charlar mucho. Tenemos
+[00:31:40] electricidad, gas, agua,
+[00:31:42] telecomunicaciones.
+[00:31:43] Algunas tienen cobertura general, otras
+[00:31:45] tienen cobertura regional.
+[00:31:48] Eh, han sido actualizadas desde 1989
+[00:31:51] 2013.
+[00:31:53] es eh es como dije es un es un eh país
+[00:31:59] que es pionero, tiene un enfoque
+[00:32:02] diferente en materia de inversiones.
+[00:32:05] España, nuestra nuestro país junto con
+[00:32:08] Italia, este de nuestra gran parte de
+[00:32:11] nuestros inmigrantes, energía, liquidad,
+[00:32:14] mercado de gas. Acá hay una particular
+[00:32:16] en España, por ejemplo, que el gestor
+[00:32:19] del del sistema eléctrico de general eh
+[00:32:22] eh es una única empresa, aunque los
+[00:32:25] usuarios pueden comprar y hacer eh
+[00:32:27] contratos individuales, tanto personas
+[00:32:30] como empresas en particular, para la
+[00:32:32] provisión de energía y compiten por
+[00:32:34] precio de energía. Pero bueno, esa es
+[00:32:36] una característica eh que logran rizar
+[00:32:39] ya desde el año 1097. La actividad de la
+[00:32:42] red está liberalizada,
+[00:32:44] tiene la vida útil, regulatoria y tasa
+[00:32:46] de red distribución. Las inversiones en
+[00:32:48] redes se retribuyen individualmente
+[00:32:50] según los valores estándar. Nuevamente
+[00:32:52] caemos en los aspectos que hacen a la
+[00:32:55] necesidad de contar con lenguajes
+[00:32:58] comunes, que es básicamente tener
+[00:33:01] valores o inclusivees definiciones o
+[00:33:03] denominaciones eh unificadas. Luego
+[00:33:07] Italia, electricidad, gas, agua,
+[00:33:09] residuos. Eh, acá tenemos la presencia
+[00:33:13] de gascami. En electricidad también en
+[00:33:16] zonas como accionistas en la zona de de
+[00:33:20] sur. Hm. Eh, tienen una antigüedad
+[00:33:23] bastante interesante de 1999. Este,
+[00:33:25] bueno, para no hacer esto muy largo,
+[00:33:28] tenemos sistema de wages average costas
+[00:33:31] de descuento para para evaluación de las
+[00:33:33] inversiones. Hm. Y ya yendo a lo que es
+[00:33:38] África y Oceanía, bueno, tenemos dos
+[00:33:40] países que que vale mencionar que es
+[00:33:43] Australia también, electricidad, gas,
+[00:33:46] agua, eh gas natural y agua. Como ven,
+[00:33:49] los servicios públicos se repiten en la
+[00:33:53] mayor parte de los países, que son
+[00:33:55] aquellos que cuando ustedes vean y
+[00:33:57] seguramente lo habrán visto, eh son
+[00:33:59] actividades que tienen una
+[00:34:01] característica muy especial, que son lo
+[00:34:04] que se denominan monopolios naturales,
+[00:34:06] ¿no? Hay actividades este que pueden
+[00:34:09] partirse y actividades por su
+[00:34:12] característica, por su eficiencia y por
+[00:34:16] su control hacen que sean [resoplido]
+[00:34:18] monopolios naturales. Pero bueno, eso es
+[00:34:20] eso es este tema para otro tipo de este
+[00:34:25] y seguramente de la diplomatura lo
+[00:34:27] estarán viendo hoy inclusive en una
+[00:34:28] maestría. Bueno, tenemos Kenya,
+[00:34:30] telecomunicaciones y conectividad
+[00:34:32] digital, modelos de contabilidad de
+[00:34:34] costos separados para accesos a redes.
+[00:34:37] Tenés fondos de servicios universales,
+[00:34:39] una metodología de cofinanciamiento
+[00:34:41] regulatorio. Acá hablamos nuevamente de
+[00:34:44] que las inversiones en zonas rurales no
+[00:34:46] rentables se cubren parcialmente con un
+[00:34:48] fondo constituido con el aporte del 1%
+[00:34:51] de los ingresos de todos los operadores.
+[00:34:53] Como ven, hay una diversidad muy grande
+[00:34:57] de sistemas que hacen a la a las a los
+[00:35:02] sistemas de contabilidad regulatoria.
+[00:35:05] Bien, eh habiendo hecho este marco
+[00:35:09] inicial, hm eh yo quisiera ir en este
+[00:35:13] momento a lo que es el marco regulatorio
+[00:35:17] propiamente dicho. No pretendemos hacer
+[00:35:19] ningún análisis profundo, creo que es
+[00:35:22] parte del desafío que tienen ustedes en
+[00:35:24] cuanto a investigación, pero hace a lo
+[00:35:27] que comentó, perdón, Camila al
+[00:35:30] principio, que es una introducción
+[00:35:34] a lo que es la los aspectos
+[00:35:37] generales, conceptuales, un marco
+[00:35:39] regulatorio, ir entrar en una segunda
+[00:35:41] parte en lo que es la experiencia que
+[00:35:44] hemos tenido en el desarrollo de de lo
+[00:35:48] que es la contabilidad regulatoria hasta
+[00:35:50] ahora. Bueno, como ustedes saben, el
+[00:35:52] artículo 34 de la ley y su modificatoria
+[00:35:56] y su marco regulatorio, perdón,
+[00:35:58] Marte, tenés que volver a la
+[00:35:59] presentación.
+[00:35:59] Sí, sí, sí, sí. Se me cayó, se me cayó.
+[00:36:02] Apresté el botón equivocado. Gracias.
+[00:36:05] Este, a ver, eh, paa, siempre tengo
+[00:36:09] esto. Dice, "Por la actividad, eh, ¿qué
+[00:36:11] es para la actividad de los
+[00:36:13] concesionarios de servicios públicos?
+[00:36:14] Los contratos deberán fijar
+[00:36:16] especificaciones mínimas de calidad,
+[00:36:18] confiabilidad y seguridad del servicio
+[00:36:20] que podrán ser crecientes en el tiempo,
+[00:36:23] las que serán consideradas junto con los
+[00:36:25] respectivos cuadros terifácioso. Hm. sin
+[00:36:28] perjuicio del control posterior que el
+[00:36:30] organismo control efectúe respecto de
+[00:36:32] las prestaciones del servicio en base a
+[00:36:35] parámetros técnicos y específicamente
+[00:36:37] previstas en la reglamentación y
+[00:36:40] contratos correspondientes como metas a
+[00:36:43] obtener. La autoridad de aplicación
+[00:36:45] puede establecer normas de
+[00:36:46] funcionamiento relativo a las
+[00:36:47] prestaciones de servicio a las cuales
+[00:36:50] deberán ajustarse su accionar las
+[00:36:53] empresas prestadoras. Esta norma de
+[00:36:55] carácter preventivo tendrá como objetivo
+[00:36:57] facilitar y habilitar el seguimiento y
+[00:37:00] evaluación permanente por parte del
+[00:37:01] organismo de Contral con el propósito de
+[00:37:04] anticipar desvíos y evitar futuros
+[00:37:06] incumplimientos a la calidad de
+[00:37:08] servicio. Bien, y acá eh previo a que
+[00:37:11] entre Camila, ustedes ven que este
+[00:37:14] primer marco habla de los aspectos
+[00:37:16] puramente técnicos. Esto temas fue
+[00:37:19] ampliado y lo lo interviene, lo
+[00:37:21] interviene ahora Camila al respecto.
+[00:37:23] Bien.
+[00:37:24] Lo mar lo podés compartir la pantalla de
+[00:37:27] la presentación porque estamos en el
+[00:37:29] cuadro.
+[00:37:30] Estamos en el cuadro. ¿Cómo es esto? No
+[00:37:32] está no está compartida. Entonces, a
+[00:37:35] ver, perdón, voy a este a ver aplicación
+[00:37:42] compartir. Bueno, algo vi. Le estoy
+[00:37:44] compartiendo acá, chicos. Vos
+[00:37:47] ahora sí. Perfecto, disculpen. Bueno,
+[00:37:51] este, vean que yo yo veo la presentación
+[00:37:53] y a veces no veo si cometo el error de
+[00:37:56] de estar compartiendo la pantalla.
+[00:37:58] Gracias. Bueno,
+[00:37:58] ahora sí. Bueno, seguimos eh con
+[00:38:02] mencionaba Marce con lo que dice la ley.
+[00:38:04] Las concesionarias deberán llevar una
+[00:38:05] contabilidad regulatoria con arreglo a
+[00:38:08] las normas que establezca la autoridad
+[00:38:09] de aplicación y su cumplimiento y
+[00:38:11] control estarán a cargo del organismo de
+[00:38:13] control o sea
+[00:38:15] las entidades prestadoras de carácter
+[00:38:17] privado deberán cumplir con las
+[00:38:18] relaciones técnicas de carácter
+[00:38:19] económico financiero como nivel de
+[00:38:22] dudamiento, apalancamiento, relación
+[00:38:24] deuda venta, entre otros que se
+[00:38:25] establezcan dentro del contrato de
+[00:38:27] concesión o las normas emitidas a tal
+[00:38:29] efecto. En el 2004 se incorpor el
+[00:38:32] artículo 34,
+[00:38:34] que era puramente técnico, que es la
+[00:38:36] contabilidad regulatoria, así como las
+[00:38:38] prestadoras, así como la potestad de
+[00:38:40] establecer normas por parte de autoridad
+[00:38:42] de aplicación y de seguimiento,
+[00:38:43] evaluación permanente y control
+[00:38:44] posterior por parte de OCEA.
+[00:38:47] Bien,
+[00:38:51] bien. Yendo un poco al marco normativa y
+[00:38:53] siguiendo con la parte regulatoria, el
+[00:38:55] artículo 3 dice, "La autoridad de
+[00:38:57] aplicación a través de la DPE y el Oceva
+[00:39:00] deberán asegurar el acceso directo,
+[00:39:02] simple y gratuito al procedimiento para
+[00:39:04] la defensa de los derechos de usuarios."
+[00:39:06] Vemos acá algo que comenté
+[00:39:09] anteriormente, que nuestro objetivo no
+[00:39:11] es más ni menos que nuestros usuarios.
+[00:39:14] La autoridad de aplicación a través de
+[00:39:15] la ADP determinará y observará los
+[00:39:17] indicadores de distribución que estime
+[00:39:19] conveniente a los fines de elaborar los
+[00:39:21] planes directores y en las posibles
+[00:39:24] desviaciones de los mismos. Si bien los
+[00:39:26] planes son de carácter indicativo, la
+[00:39:29] falta de observancia de los mismos por
+[00:39:30] parte de las concesionarias
+[00:39:32] que pueden derivar en deficiencias del
+[00:39:35] servicio, será considerada muy
+[00:39:37] especialmente al calificar su desempeño.
+[00:39:40] el organismo de control confeccionará y
+[00:39:43] mantendrá actualizado un registro con
+[00:39:45] los indicadores mencionados
+[00:39:46] anteriormente e informará periódicamente
+[00:39:49] a la autoridad de aplicación y en su
+[00:39:51] artículo 34 las concesionarias
+[00:39:53] provinciales y municipales se otorgarán
+[00:39:56] respetando los modelos de contrato de
+[00:39:58] concesión establecidos por el poder
+[00:39:59] ejecutivo, teniendo en cuenta
+[00:40:01] especialmente los aspectos atinentes a
+[00:40:03] las especificaciones mínimas de calidad
+[00:40:06] de servicio. La autoridad de
+[00:40:07] prescripción a través de la DPE
+[00:40:10] elaborará las normas necesarias para el
+[00:40:12] inventario de un sistema de contabilidad
+[00:40:13] agrobatorio que deberán cumplementar las
+[00:40:16] prestaciones del servicio público de
+[00:40:17] distribución eléctrica. En la
+[00:40:19] reglamentación del marco regulatorio,
+[00:40:21] las definiciones o elaboración de normas
+[00:40:23] e indicadores que fueran hacerse cumplir
+[00:40:25] recae en el DPE. El Oceva adquiere un
+[00:40:28] rol de ejecución y confeccionar y
+[00:40:29] actualización. Eh, con respecto a la
+[00:40:32] contoridad aplicaría la misma lógica,
+[00:40:34] pero en este punto quiero ser muy claro.
+[00:40:37] La propia dinámica, estamos hablando del
+[00:40:39] año 2004, luego posteriormente veremos
+[00:40:41] otros procesos, hace que luego a través
+[00:40:45] de la autoridad regulatoria como la la
+[00:40:48] dirección de regulación, la dirección
+[00:40:49] provincial de energía y los SEBA se
+[00:40:51] hayan integrado e interactuado para la
+[00:40:54] implementación de la contabilidad
+[00:40:55] regulatoria a partir del 2020, que fue
+[00:40:59] el año en que empezamos a revisar todo
+[00:41:01] lo que había y pensar seriamente en
+[00:41:05] llevar adelante este proceso que hoy
+[00:41:07] eh tiene un nivel de desarrollo bastante
+[00:41:10] fuerte y con un futuro este eh amplio
+[00:41:14] respecto a la continuidad. Bien, yendo a
+[00:41:17] la próxima a la próxima este
+[00:41:22] parte y acá entramos en lo que es parte
+[00:41:26] de la historia, pero parte importante de
+[00:41:28] cómo ha sido la parte necesaria,
+[00:41:30] indispensable de las reglas que regulan
+[00:41:34] la contabilidad regulatoria. Cami.
+[00:41:37] Bien.
+[00:41:40] La primera resolución que actualmente
+[00:41:43] rige la contabilidad regulatoria es la
+[00:41:45] resolución de OCEVA 753 del 2002,
+[00:41:50] que en su artículo 3 dice establece que
+[00:41:53] los distribuidores con concesión tanto
+[00:41:55] provincial como municipal deben
+[00:41:58] presentar ante el organismo de control y
+[00:41:59] en forma anual dentro del plazo de los
+[00:42:02] 120 días desde contados a partir de la
+[00:42:04] finalización del respectivo ejercicio,
+[00:42:07] sus memorias y estados contables.
+[00:42:09] Como les decía, esta es la resolución
+[00:42:12] base que hoy por hoy controlamos dentro
+[00:42:15] del equipo de contabilidad regulatoria
+[00:42:17] existente desde el 2002. Las
+[00:42:19] presentaciones después vamos a ver por
+[00:42:20] qué medios se formalizan, pero esta
+[00:42:23] resolución sigue actual vigente y es la
+[00:42:26] resolución uno de contabilidad
+[00:42:28] regulatoria. Hasta que luego, después de
+[00:42:31] todo este proceso que Mars estuvo
+[00:42:32] describiendo, en el año 2021, nació la
+[00:42:37] resolución del Ministerio de
+[00:42:38] Infraestructura 60, que dice
+[00:42:40] básicamente, coinciderando que el marco
+[00:42:42] regulatorio establece que las
+[00:42:43] concesionarias deberán llevar una
+[00:42:45] contabilidad regulatoria con arreglo a
+[00:42:47] las normas que establezca la autoridad
+[00:42:49] de aplicación y su cumplimiento y
+[00:42:51] control estarán a cargo del organismo de
+[00:42:52] control de energía de la provincia de
+[00:42:54] Buenos Aires, que la autoridad de
+[00:42:56] aplicación elaborará las normas
+[00:42:58] necesarias para implementar un sistema
+[00:43:00] de contabilidad regulatoria.
+[00:43:02] Definir un sistema de contabilidad
+[00:43:03] regulatoria que incluya el seguimiento
+[00:43:05] de ejecución de inversiones, que su
+[00:43:08] implementación permitirá evaluar el
+[00:43:10] desempeño y nivel de eficiencia de cada
+[00:43:12] una de las distribuidoras.
+[00:43:14] El artículo 1 aprueba el plan y manual
+[00:43:16] de cuentas regulatorio implementado con
+[00:43:18] este FIM y dice que en el marco del
+[00:43:21] sistema de contabilidad regulatoria se
+[00:43:23] establecen obligaciones de información,
+[00:43:25] formas de entrega, periodicidad
+[00:43:28] para información contable y de
+[00:43:30] inversiones planificadas y ejecutadas.
+[00:43:32] Sí, esto está taxativamente
+[00:43:35] explicado en la ley.
+[00:43:39] Bien, continuando, Mari, eh, Javi.
+[00:43:44] Dice, "El sistema de contabilidad
+[00:43:47] regulatoria se constituye en el
+[00:43:49] instrumento para la regulación y el
+[00:43:51] control a cargo del Estado sobre las
+[00:43:53] distribuidoras de energía eléctrica,
+[00:43:55] tanto provinciales como municipales, así
+[00:43:57] como en una herramienta de información
+[00:43:59] para los usuarios. con la finalidad de
+[00:44:02] satisfacer necesidades de disponibilidad
+[00:44:03] de información sobre baso de datos que
+[00:44:05] reflejen la gestión contable,
+[00:44:07] financiera, técnica, comercial de las
+[00:44:10] distintas distribuidoras. Sí, en resumen
+[00:44:13] a a lo que venimos viendo, a lo que
+[00:44:16] decía Marce, si yo pudiera hacer como un
+[00:44:17] recap hasta acá de de de una nota al
+[00:44:21] margen de lo que venimos viendo,
+[00:44:22] entonces la contabilidad regulatoria,
+[00:44:25] obviamente es un sistema contable, parte
+[00:44:26] de un sistema contable, pero que está
+[00:44:29] íntegramente enfocado en la
+[00:44:31] transparencia y homogeneización de la
+[00:44:34] información regulada. ¿Sí? Ustedes van
+[00:44:37] a, yo les diría, ¿qué diferencia una
+[00:44:39] contabilidad tradicional de una
+[00:44:40] contabilidad regulatoria? Primera
+[00:44:42] pregunta que me surge, el desglose. Sí,
+[00:44:44] la contabilidad regulatoria está
+[00:44:48] mucho más desglosada y mucho más
+[00:44:49] enfocada en mostrar la actividad
+[00:44:52] regulada. ¿Sí? Eh, eso es un eso es un
+[00:44:56] primer resumen que yo haría, un primer
+[00:44:58] paréntesis hasta este momento para que
+[00:45:01] ustedes entiendan qué es lo que
+[00:45:02] diferencia. Una contabilidad tradicional
+[00:45:04] no va a diferir de la contabilidad
+[00:45:05] regulatoria. Sí, porque obviamente el
+[00:45:08] sistema de información contable
+[00:45:09] financiero es uno solo, pero sí tengan
+[00:45:12] en cuenta que la contabilidad
+[00:45:13] regulatoria va a estar mayormente
+[00:45:15] desglosada y más enfocada en la
+[00:45:18] actividad regulada para poder eh
+[00:45:21] analizarla en un nivel de detalle mucho
+[00:45:24] mayor para un una toma de decisiones
+[00:45:26] mucho más efectiva y para que esta
+[00:45:28] información sea más comparable entre la
+[00:45:31] diversidad de los concesionarios que
+[00:45:32] actualmente rigen en la provincia de
+[00:45:34] Buenos Aires.
+[00:45:37] Acá es con respecto a este punto que
+[00:45:39] comentó este Camila, que es fundamental.
+[00:45:43] [carraspeo]
+[00:45:43] Eh, imagínense que 199 empresas
+[00:45:47] cooperativas que han tenido evolución
+[00:45:48] diferente, que tienen actividad
+[00:45:50] diferente eh y que hacen a la a la
+[00:45:54] concesión eléctrica en en los municipios
+[00:45:57] correspondientes, eh tiene una historia
+[00:46:00] que viene anterior al comienzo de este
+[00:46:03] modelo de concesión, con lo cual tiene
+[00:46:05] una actividad diversa, distinta, tienen
+[00:46:08] tienen cuestiones y estructuras de
+[00:46:10] gestión muy diferentes y esto hace a la
+[00:46:12] necesidad de poder tener una lectura
+[00:46:15] común. Eh, simplemente como ejemplo más
+[00:46:19] extremo, eh, la contabilidad regulatoria
+[00:46:22] es una forma en que podamos leerlos a
+[00:46:24] todos y ustedes leerse entre sí en forma
+[00:46:28] similar y equivalente. En España, por
+[00:46:30] ejemplo, los planes contables son
+[00:46:33] únicos. A diferencia de la Argentina que
+[00:46:35] tiene eh sistemas contables adaptados a
+[00:46:39] cada empresa y que pueden armar sus
+[00:46:41] planes contables. En España hay un solo
+[00:46:43] plan contable. Todas las empresas se
+[00:46:45] regulan con una misma el mismo plan de
+[00:46:49] cuentas, con lo cual se imagina la
+[00:46:50] importancia que tiene la contabilidad en
+[00:46:54] materia de información, especialmente
+[00:46:57] cuando estamos hablando de una concesión
+[00:46:58] eléctrica y un servicio eléctrico
+[00:47:01] fundamental. Bien, eh voy a introducir
+[00:47:04] acá a partir de eh de este punto un
+[00:47:09] elemento que surgió como parte propio
+[00:47:12] del sistema eléctrico, ya sea los
+[00:47:14] sistemas de información, que fue eh el
+[00:47:17] nombramiento de un vedor. A través de la
+[00:47:20] resolución 1598 del 2021 se
+[00:47:25] nombró un vedor, me tocó a mí ser el
+[00:47:27] vedor para las cuatro empresas
+[00:47:30] provinciales
+[00:47:32] de distribución eléctrica. Esta
+[00:47:35] designación de un vedor eh justamente eh
+[00:47:38] buscaba ampliar las facultades de
+[00:47:41] solicitar información y de realizar
+[00:47:44] análisis e intercambio de
+[00:47:46] investigaciones a las el cual se
+[00:47:48] consideraba este necesaria en esa etapa.
+[00:47:52] Eh, en este punto quiero ser específico.
+[00:47:55] Tratamos y valuamos y pensamos el modelo
+[00:47:59] que ustedes conocen, muchos de ustedes,
+[00:48:01] especialmente las provinciales, como
+[00:48:03] seguimiento, seguimiento de gestión como
+[00:48:06] un elemento complementario y este que
+[00:48:10] tenía que tener la base eh de la
+[00:48:13] contabilidad. Por eso se armaron
+[00:48:15] pilares. Eh, tal vez por una necesidad
+[00:48:17] de la dinámica de información, el plan
+[00:48:20] contable se bajó. al sistema de sumas y
+[00:48:23] saldos con un sistema de de contabilidad
+[00:48:26] de cuentas eh muy específicas y
+[00:48:29] particulares para las cuatro y que
+[00:48:32] permitía un seguimiento mensual,
+[00:48:34] mensual, trimestral, semestral, anual,
+[00:48:38] eh no solo de la parte económica
+[00:48:41] financiera, sino también había aspectos
+[00:48:43] técnicos
+[00:48:45] en materia de justamente los este los
+[00:48:49] problemas o inconvenientes que surg
+[00:48:51] surgían en materia de cortes
+[00:48:54] planificados, no planificados, forzados
+[00:48:56] en ese sentido. Y luego eh la parte
+[00:48:59] comercial que también intervino, que era
+[00:49:03] eh justamente
+[00:49:04] el marco el marco legal y y y tarifario
+[00:49:10] básico este eh financiero de ese
+[00:49:14] momento. Esto duró aproximadamente un
+[00:49:16] año y medio, dos. Esto concluyó en lo
+[00:49:19] que sigue, que fue la resolución del
+[00:49:21] Ministerio de Infraestructura, la 477
+[00:49:24] 2023 que tomó y tocó cantidad de temas,
+[00:49:28] múltiples temas, pero específicamente
+[00:49:31] relacionado con la veduría que se nombró
+[00:49:33] en el punto anterior, en su artículo 60
+[00:49:36] dijo dejar sin efecto la designación del
+[00:49:39] vedor, es decir, se terminó la actividad
+[00:49:42] propia del vedor y por el cual había
+[00:49:44] sido este
+[00:49:46] creado. en el 2021, sin perjuicio que
+[00:49:49] las distribuidoras asumen su compromiso
+[00:49:52] de continuar con el intercambio de
+[00:49:54] información con el organismo control de
+[00:49:57] de energía eléctrica de la provincia
+[00:50:00] sobre la prestación de servicio en el
+[00:50:02] marco de las previsiones del artículo 34
+[00:50:05] del marco regulatorio que leímos
+[00:50:07] anteriormente, según surge del
+[00:50:09] compromiso asumido en la adenda
+[00:50:12] aprobada. este esta denda hacía
+[00:50:15] justamente una cantidad de compromisos,
+[00:50:17] etcétera. Entre ellos creo que lo
+[00:50:19] fundamental era poder continuar con la
+[00:50:22] dinámica de información y una tema no
+[00:50:25] menor que justamente hacía a la
+[00:50:29] necesidad de contar información
+[00:50:31] formulada. Quiero decir en este punto
+[00:50:33] que de parte de las eh
+[00:50:37] distributividades provinciales tuvo un
+[00:50:40] apoyo importante y hoy lo veremos más
+[00:50:43] adelante la continuidad con este sistema
+[00:50:46] que pretende en la parte que nosotros
+[00:50:49] denominamos para las provicias
+[00:50:51] seguimiento de gestión complementaria a
+[00:50:54] lo que es la contabilidad agrobutaria
+[00:50:56] como sistema de información. En este
+[00:50:59] punto, lógicamente, una aveduría no es
+[00:51:00] simple, no es sencilla. Era la primera
+[00:51:03] vez que se imponía a las provinciales y
+[00:51:06] en la provincia de Buenos Aires, con lo
+[00:51:07] cual hubo algunos pasos y algunas etapas
+[00:51:10] y un startup este eh
+[00:51:14] algo complejo, pero que terminó de forma
+[00:51:16] muy positiva y que nos permite hoy tener
+[00:51:19] una relación muy dinámica con todas las
+[00:51:22] empresas. Bien, yendo propiamente dicho
+[00:51:25] a lo que es la contabilidad regulatoria,
+[00:51:28] eh seguida la resolución 60, con lo cual
+[00:51:32] justamente lo que comentaba Camina, eh
+[00:51:35] implementado el plan de cuenta de la
+[00:51:37] contriedad, se delega a la subsecretaría
+[00:51:39] de energía de la facultad de adaptar la
+[00:51:41] información regulatoria, aprobar el
+[00:51:43] módulo de seguimiento inversión y fijar
+[00:51:45] criterios de estandarización.
+[00:51:48] Esto eh es importante porque eh acá ya
+[00:51:53] le da la autoridad y la delegación
+[00:51:55] justamente la subsecretaría para
+[00:51:57] comenzar la gestión regular, operativa y
+[00:52:00] regular del marco de autoridad de
+[00:52:04] aplicación como autoridad de aplicación
+[00:52:05] y como sistema de control. Acá sería
+[00:52:08] imposible, lógicamente que esto todo
+[00:52:11] fuera por el ministerio. Esto hace a
+[00:52:14] esta actividad como cualquier otra y
+[00:52:16] comenzaron con esto. En este punto el la
+[00:52:19] resolución 13 eh hace a varios aspectos.
+[00:52:23] Uno es determinar el inventario de
+[00:52:25] inicio de los activos reales destinados
+[00:52:27] al servicio público para su debida
+[00:52:29] valorización, georreferenciación, GIS,
+[00:52:32] auditoría y control. la estandarización
+[00:52:35] técnica, establecer la estructura de
+[00:52:36] unidades constructivas consensuadas con
+[00:52:39] las distribuidas que servía de pilar
+[00:52:41] para el módulo de seguimiento de
+[00:52:42] inversiones y la exposición de bienes de
+[00:52:45] uso. y se estableció la metodología
+[00:52:47] inicial a través del de una nota
+[00:52:50] posterior que van vamos a ver del
+[00:52:52] seguimiento de las inversiones que fue
+[00:52:54] adaptar y oficializar el modelo de
+[00:52:56] requerimiento de información física y
+[00:52:58] económica denominada requerimiento de
+[00:53:01] plan de inversiones denominada de sumo
+[00:53:03] 2021 que hoy sigue continuando. Bueno,
+[00:53:06] en esta resolución tiene varios anexos
+[00:53:11] que básicamente hacen a lo que es la
+[00:53:15] parte de la declaración de activos. Ahí
+[00:53:18] tenemos lo que se denominó en su momento
+[00:53:20] y se sigue denominando eh los códigos
+[00:53:23] OCEA y un diccionario de específicos que
+[00:53:26] establece cómo exponer los activos
+[00:53:29] eléctricos y no eléctricos de una manera
+[00:53:32] especial que luego eh son eh son eh
+[00:53:38] digamos actualizado anualmente. Este
+[00:53:41] proceso viene y cuando lo veamos luego
+[00:53:44] en la resolución 17 eh hace a algo que
+[00:53:48] ya venimos implementando, no solo en las
+[00:53:50] provinciales, sino aquellas eh
+[00:53:54] eh cooperativas que superan los 5,000
+[00:53:57] usuarios y que este hasta el momento
+[00:54:00] suman un medio de 50, 54, depende
+[00:54:04] depende de cada año y que hasta ahora
+[00:54:06] hemos manejado con cierta flexibilidad,
+[00:54:09] pero que a futuro tengan en cuenta que
+[00:54:12] no es solo disponer de la información,
+[00:54:14] sino disponer de la información en
+[00:54:15] tiempo y forma. Entonces, eh hace a la
+[00:54:20] al al proceso de implementación hoy,
+[00:54:23] aunque es un proceso muy amplio, muy
+[00:54:25] completo y que la verdad hemos tenido
+[00:54:27] una recepción muy buena, es simplemente
+[00:54:29] señalar que bueno, hemos llegado a los
+[00:54:31] 5,000. Vamos a empezar con las de menos
+[00:54:33] 5000 seguramente más adelante, pero
+[00:54:36] bueno, ya las que están arriba de 5000
+[00:54:39] van a tener la necesidad y la obligación
+[00:54:43] ya más firme de proveer la información
+[00:54:46] en tiempo y forma. En este punto quiero
+[00:54:49] señalar que los tiempos eh son bastante
+[00:54:51] razonables porque los cierres anuales eh
+[00:54:55] tienen la exigencia de presentación de
+[00:54:57] la información a partir de junio a julio
+[00:55:00] del año siguiente, conociendo lo que es
+[00:55:03] la dinámica de información, el registro,
+[00:55:05] etcétera. Con lo cual entendemos que hay
+[00:55:07] posibilidad y siempre estamos y hoy el
+[00:55:11] equipo de mentario está siempre
+[00:55:12] dispuesto para la colaboración en este
+[00:55:15] tema. Bueno, la estandarización técnica
+[00:55:17] a través de las unidades constructivas.
+[00:55:19] Esto, las unidades constructivas son
+[00:55:21] formas estructuradas que pretendemos con
+[00:55:24] el tiempo eh y en este sentido ya las
+[00:55:28] provinciales lo están haciendo, exponer
+[00:55:30] los planes de inversión. Hm. y
+[00:55:33] posteriormente en algo que terminará eh
+[00:55:36] próximamente en el año que viene o el
+[00:55:38] otro, la integración del sistema de de
+[00:55:41] las eh del diccionario de códigos o CBA
+[00:55:45] con las unidades constructivas y que
+[00:55:47] sean equivalentes. Por supuesto van a
+[00:55:49] continuar los unidades constructivos,
+[00:55:51] pero mientras tanto para el desglose y
+[00:55:54] para la dinámica que hoy tenemos,
+[00:55:56] justamente recuerden que cuando empecé
+[00:55:59] esta exposición,
+[00:56:01] comenzamos con todo esto, hablamos de la
+[00:56:03] dinámica del modelo de negocios y de la
+[00:56:06] propia operatoria de cualquier sistema
+[00:56:09] de contabilidad, la capacidad de
+[00:56:11] adaptación. Hm. En este punto, esta es
+[00:56:13] la situación en la actualidad y hacia
+[00:56:16] dónde vamos. Bien, eh yendo hacia la
+[00:56:20] justamente lo que les comenté, que es la
+[00:56:22] resolución siguiente, que es la
+[00:56:24] resolución 17 de la subsecretaría,
+[00:56:27] es el proceso de implementación dentro
+[00:56:29] del proceso de contor y como complemento
+[00:56:32] de lo que fue la 13, que es se divide la
+[00:56:37] la provisión de información en los
+[00:56:39] distribuidores de más y menos de 5000
+[00:56:42] [carraspeo] según la información que
+[00:56:44] posee los y que ustedes conocen que
+[00:56:47] la información que deben proveer
+[00:56:49] regularmente todas las las
+[00:56:51] distribuidoras eléctricos. La
+[00:56:53] digitalización obligatoria, todas las
+[00:56:55] distribuidoras provinciales deben
+[00:56:57] remitir la información exclusivamente en
+[00:56:59] formato digital a través de la
+[00:57:01] aplicación digital que determine los
+[00:57:03] SEMA. Y bueno, y acá hablamos de algo
+[00:57:06] que comenté anteriormente, que es el
+[00:57:08] régimen sanzonatorio, que es incummiento
+[00:57:10] o falcimiento de la información enviada
+[00:57:13] dentro de los platos límites vigentes.
+[00:57:16] Se tipifica como falta grave, sujeta a
+[00:57:18] las sanciones del subanexo desde el
+[00:57:20] contrato de concesiones. Bueno, acá hay
+[00:57:22] un tema importante que es, bueno, hasta
+[00:57:26] ahora ha habido cierta flexibilidad en
+[00:57:28] estos aspectos, pero bueno, tengan en
+[00:57:31] cuenta que nuestro objetivo es la
+[00:57:33] implementación.
+[00:57:35] Pero bueno, esta es una regla que hace a
+[00:57:37] la relación obligatoria entre cualquier
+[00:57:40] organismo de control y este y sus
+[00:57:43] controladas, que es la disposición de
+[00:57:46] tiempo en tiempo en forma, este, de la
+[00:57:49] información que es solicitada. Bien. Acá
+[00:57:52] e les quiero señalar, nosotros hablamos
+[00:57:56] de la resolución 60, hablamos de la
+[00:57:58] resolución 13, pero también tenemos que
+[00:58:01] decir que todo esto se hizo sobre algo
+[00:58:04] que comentamos al principio de nuestra
+[00:58:06] exposición de metodología, que es un
+[00:58:08] sistema de información.
+[00:58:10] Más allá de ciertas particularidades, se
+[00:58:13] desarrolla una plataforma que se va a
+[00:58:15] exponer más adelante, que es el ingreso
+[00:58:17] de toda la información a través de la
+[00:58:20] plataforma de contabilidad regulatoria.
+[00:58:23] Bien, vamos a seguir con el marco de de
+[00:58:28] prer regulaciones y aspectos que hacen a
+[00:58:30] la a la implementación de esto. Hm. Y
+[00:58:34] esto hablamos respecto a la nota del
+[00:58:37] 2021 que fue elevada justamente a las
+[00:58:39] cuatro provinciales, es decir, en el
+[00:58:41] cuanto la estructuración información que
+[00:58:44] debe ser presentada en forma anual y en
+[00:58:49] forma trimestral
+[00:58:51] para este realizar el seguimiento
+[00:58:54] económico y físico de las inversiones en
+[00:58:58] forma anual. Esto viene desde el 2021.
+[00:59:01] Hoy estamos ya en el 2025.
+[00:59:04] está en curso, el 2026
+[00:59:07] está, perdón, en curso. El 2027 va a
+[00:59:11] venir con algún tipo de novedad, nada en
+[00:59:14] particular, pero hace justamente a la
+[00:59:16] dinámica y necesidad de información,
+[00:59:18] pero bueno, no hay grandes. Consta de
+[00:59:21] cuatro secciones, un índice instructivo
+[00:59:24] que son las definiciones que hoy se
+[00:59:25] utiliza para los distintos campos, las
+[00:59:28] unidades constructivas que es el listado
+[00:59:31] estandarizado alineado con la conoría de
+[00:59:33] regatario que nombramos como parte de
+[00:59:35] los anexos de la resolución 13. Hm. Y
+[00:59:37] ahí estamos hablando de aquellos que
+[00:59:40] hacen las unidades constituidas. Estamos
+[00:59:41] como activos no eléctricos inclusive. y
+[00:59:46] está la planilla general, que eso fue lo
+[00:59:47] que se implementó a través de esta nota
+[00:59:50] en el 2021, que formul que es un
+[00:59:52] formulario matriz para registrar
+[00:59:54] proyectos, montos y cronogramos de obra.
+[00:59:58] Eh, las condiciones generales en su
+[01:00:00] momento que se establecieron fue un
+[01:00:02] valor de base fijo que era la de enero
+[01:00:04] 2021 y que se mantendría inalterable en
+[01:00:07] todas las representaciones del 2021.
+[01:00:10] Hoy, en la actualidad, eso sigue como
+[01:00:12] vigente porque los costos originales se
+[01:00:15] conocen. En la información se tiene que
+[01:00:18] volcar las unidades constructivas que
+[01:00:20] son utilizadas
+[01:00:22] para poder exponer los elementos, la con
+[01:00:25] lo que se llama y lo vamos a ver
+[01:00:27] rápidamente luego cuando hablemos de
+[01:00:29] unidades constructivas más adelante en
+[01:00:31] lo que son las unidades funcionales o
+[01:00:34] los típicos funcionales
+[01:00:36] funcionales y los típicos constructivos
+[01:00:39] y los elementos y materiales que lo que
+[01:00:41] lo componen como es maneo de obra,
+[01:00:44] insumos, este mano de este
+[01:00:48] elementos tercerizados y también ahí la
+[01:00:52] mano de obra tercerizado y hasta el
+[01:00:55] baremo para integrar la unidad
+[01:00:57] constructiva correspondiente. Bien,
+[01:01:01] siguiendo con los aspectos que hacen al
+[01:01:04] al marco de diseño de todo este proceso
+[01:01:07] que hemos tenido durante años, vamos al
+[01:01:11] el objeto de la identifica, que es el
+[01:01:13] organismo al próximo, que es la nota 20
+[01:01:16] del 2023 por parte de la CEVA, que
+[01:01:18] formaliza un requerimiento de
+[01:01:19] información obligatoria a las
+[01:01:20] distribuidoras provinciales en
+[01:01:22] concordancia con los compromisos. Bueno,
+[01:01:24] aquí es lo que les comenté y les
+[01:01:26] anticipé que fue que fue lo que fue la
+[01:01:30] implementación del artículo 60 de la 477
+[01:01:33] que se vio a través de una nota dado que
+[01:01:36] el marco regulatorio ya estaba este
+[01:01:39] establecido, los protocolos también, con
+[01:01:41] lo cual eh los protocolos fueron
+[01:01:45] actualizados en alguna cuestión y eh
+[01:01:48] fueron remitidos como como toda
+[01:01:51] información como declaración jurada y
+[01:01:53] como Les anticipé, había un protocolo
+[01:01:55] financiero que hacía un poco a la al
+[01:01:58] complemento con la contabilidad
+[01:02:00] regulatoria, contabilidad pura, un
+[01:02:02] protocolo técnico que hacía el
+[01:02:04] seguimiento de los aspectos de de
+[01:02:07] cortes, brindar de servicios, todo lo
+[01:02:09] que hace a los temas propios de la del
+[01:02:13] SID Scifi un protocolo ideal que lo
+[01:02:16] definimos así porque es aquellas
+[01:02:17] cuestiones relacionadas con la parte de
+[01:02:19] entrega de balances, etcétera, etcétera.
+[01:02:22] Esto eh está vigente y se ha ido
+[01:02:26] actualizando progresivamente. A medida
+[01:02:28] que va eh integrándose en el protocolo
+[01:02:31] técnico. Teníamos no solo los aspectos
+[01:02:34] relacionados con el comportamiento del n
+[01:02:37] y n -1, los aspectos operativos y
+[01:02:40] también los planes de diversiones. Y
+[01:02:42] justamente con posterioridad en el 24
+[01:02:44] hicimos una actualización en la parte
+[01:02:47] protocolo técnico, ¿no? integramos el
+[01:02:49] protocolo de presentación de inversiones
+[01:02:52] de un sistema único que fue de la dire
+[01:02:54] elección probabilizante de energía.
+[01:02:56] Bueno, en cuanto a la moda de fechas de
+[01:02:58] presentación, eh tiene una
+[01:03:00] particularidad que es que se presenta en
+[01:03:03] forma mensual cada 20 días, mes vencido.
+[01:03:07] Acá, salvo los trimestrales, que hemos
+[01:03:10] convenido con las prestadoras que en
+[01:03:12] virtud que los trimestrales tienen un
+[01:03:14] aspecto contable, importante relacionado
+[01:03:16] con la parte de balances. trimestrales
+[01:03:20] puedan ser presentados
+[01:03:22] un mes, 10 días al segundo mes. Y esto
+[01:03:25] es propio de todos los ajustes y
+[01:03:27] correcciones que se hacen en los planes
+[01:03:30] de cuenta que que hace y terminan en el
+[01:03:33] balance, ¿no es así? El envío, como
+[01:03:35] siempre les dije, es por el portal web
+[01:03:38] de la contabilidad regulatoria en una
+[01:03:40] solapa. Sí, ahora después vamos a ver
+[01:03:42] cuando abramos todo eso la cantidad de
+[01:03:44] solapas e información que nosotros
+[01:03:47] tenemos al respecto y que hace al tema
+[01:03:51] no menor. Acá le saco las el sombrero
+[01:03:54] chapó a Camila, porque Camila, aparte de
+[01:03:57] las cuestiones propias regulatorias, es
+[01:04:00] la administradora de este complejo
+[01:04:03] sistema de plataforma en la recepción y
+[01:04:06] la gestión eh de la de la de la entrega
+[01:04:10] de la información por parte de todos los
+[01:04:12] este de todas las concesiones en sus
+[01:04:15] distintas etapas. Bien,
+[01:04:18] vamos al próximo que es la 108, la 224
+[01:04:22] que es de la Dirección Provincial de
+[01:04:23] Energía, que establece los nuevos
+[01:04:25] requerimientos técnicos y metodológicos
+[01:04:27] de información para la consolidación de
+[01:04:30] la información contable del servicio
+[01:04:31] público energía. Y acá hablemos de
+[01:04:33] varias cuestiones, hablamos de los
+[01:04:35] aspectos relacionados con una
+[01:04:38] actualización de la del diccionario de
+[01:04:43] de códigos o CBA. Hm. y eh y hace
+[01:04:48] también a a los plazos y a la
+[01:04:51] interacción con lo que vimos
+[01:04:54] antiguamente
+[01:04:55] con anterioridad, que es la
+[01:04:57] actualización de los límites de más
+[01:05:00] menos 5,000 usuarios. Hm. la revisión
+[01:05:02] técnica. Esto hay un un elemento
+[01:05:05] importante que acá esto nuevamente
+[01:05:07] caemos en algo que fue comentado con
+[01:05:09] antigüedad que fue la interacción y el
+[01:05:13] trabajo que hicimos entre la dirección
+[01:05:15] provincial de energía, el organismo
+[01:05:17] controlado SEB y las concesionarias en
+[01:05:20] cuanto a los criterios y la presentación
+[01:05:22] del inventario de activos. Acá ha habido
+[01:05:25] unas idas y vueltas, hubo correcciones,
+[01:05:28] etcétera, y terminó en algo que hoy no
+[01:05:31] solo cubre a las provinciales, sino a
+[01:05:33] las municipales que lo integran con un
+[01:05:36] con una con un convenio y una
+[01:05:39] interacción muy activa, muy positiva,
+[01:05:42] porque cuando implementamos y cambiamos
+[01:05:45] de concesionarias municipales que
+[01:05:47] integran el lote de más de 5,000,
+[01:05:50] siempre tenemos una relación muy rica
+[01:05:53] para poder implementarlo.
+[01:05:56] El sistema está digitalizado, como les
+[01:05:58] como lo recordé, está en la plataforma
+[01:06:01] web de de nuestra
+[01:06:05] de nuestro sistema de contabilidad. Es
+[01:06:07] una una estandarización, la adaptación
+[01:06:10] del cató uniforme de unidades
+[01:06:11] constructivas y la valorización y una
+[01:06:14] auditoría posterior de activos fijos.
+[01:06:16] Acá eh nuevamente caemos en la necesidad
+[01:06:20] y en este punto quiero introducir un
+[01:06:22] elemento eh con esta disposición de la
+[01:06:25] 108 que no solo hacía al diccionario,
+[01:06:28] sino a la posibilidad que se le presentó
+[01:06:32] a las a las concesionales provinciales
+[01:06:36] de presentar y proponer eh algunos
+[01:06:40] actualizaciones en unidades
+[01:06:41] constructivas. En este punto la lo
+[01:06:44] importante es señalar que las unidades
+[01:06:47] constructivas se recibieron, se evaluó
+[01:06:50] concretamente todos los eh elementos ahí
+[01:06:53] presentes y hoy está en un estado de una
+[01:06:57] eventual propuesta de actualización que
+[01:06:59] tiene en cuenta los aspectos propios que
+[01:07:03] nos presentaron en estas unidades
+[01:07:05] constructivas particulares y eh en
+[01:07:08] particular sin eh eliminar las unidades
+[01:07:12] constructivas regulatorias que habíamos
+[01:07:15] previsto anteriormente para así poder
+[01:07:17] englobar toda esta heterogeneidad
+[01:07:20] de de las empresas cuando ya empecemos a
+[01:07:24] trabajar el año que viene seguramente y
+[01:07:27] más adelante con los planes de inversión
+[01:07:29] de las empresas municipales y
+[01:07:32] concesionarias. Eso en ese aspecto.
+[01:07:34] Bueno, con esto
+[01:07:37] termino yo, por lo menos en esta parte
+[01:07:40] de de mostrarles los aspectos que
+[01:07:43] hicieron desde arriba para abajo para
+[01:07:46] llevar adelante lo que hoy tenemos
+[01:07:49] la contabilidad regulatoria. Aquí, Cami,
+[01:07:52] te dejo para ver si vos querés aportar
+[01:07:54] algún otro elemento adicional.
+[01:07:57] No, yo ya abriría el cuadro, así
+[01:07:59] resumimos toda esta parte.
+[01:08:01] Bien. Bueno, hemos hablado de muchas de
+[01:08:04] muchas este de muchas normas, muchas
+[01:08:07] gestiones, etcétera, y nos pareció
+[01:08:10] interesante poder volcar en forma
+[01:08:12] resumida cuál es este marco global de
+[01:08:16] cosas que tenemos la capacidad de ser
+[01:08:18] creativos todos, por supuesto, ¿no?
+[01:08:21] Bien. Eh, por supuesto tenemos, a ver, a
+[01:08:24] ver, e la ley, el marco regulatorio eso
+[01:08:29] es fundamental. Hm. Luego algo que
+[01:08:32] comentamos, ¿sí?, que es la modifica la
+[01:08:35] parte modificatoria de la ley. Hm.
+[01:08:38] El contrato de concesiones eh acá es
+[01:08:41] importante porque también es un marco eh
+[01:08:44] que no hemos desarrollado en este punto
+[01:08:46] porque no hace la contabilidad
+[01:08:48] regulatoria como tal pura, eh hace sí
+[01:08:52] aspectos amplísimos en materia de la
+[01:08:54] gestión regular, en todo aspecto de los
+[01:08:58] subanexos y los temas que abarcan.
+[01:09:01] Luego un tema no menor que hace a la
+[01:09:04] reglamentación el 2004. la la fuimos
+[01:09:06] nombrando en aquellos aspectos que
+[01:09:09] hacían a la contabilidad regulatoria y
+[01:09:12] que es fundamental tenerlo en cuenta
+[01:09:14] porque hacía justamente a los procesos
+[01:09:17] eh y a las actualizaciones del marco
+[01:09:20] regulatorio. En esto vuelvo a repetir
+[01:09:22] algo que comenté inicialmente y que
+[01:09:25] hablamos, que fue justamente contar con
+[01:09:29] una capacidad a veces este no de la
+[01:09:34] velocidad que uno quiere porque hay
+[01:09:36] aspectos operativos, administrativos que
+[01:09:38] hay que que tener en cuenta cuando
+[01:09:41] aplicamos y actualizamos la norma, que
+[01:09:44] es la reglamentación y la aparición de
+[01:09:46] la contralia como tal, ¿no? Si no, no
+[01:09:48] sé. Luego lo que tenemos es eh
+[01:09:51] básicamente lo que se comentó que fue la
+[01:09:54] resolución de los Eva, la 7532
+[01:09:57] que comentó Camila, que nada más ni nada
+[01:10:00] menos habla de justamente la
+[01:10:02] introducción de algo que hasta ese
+[01:10:05] momento no se había explicitado tan
+[01:10:07] claramente, más allá que en el 2004 se
+[01:10:09] habla de contabilidad laboratorio, que
+[01:10:11] es la necesidad de tener información
+[01:10:14] contable por parte de todos los actores
+[01:10:17] y concesionarias. del sistema eléctrico.
+[01:10:20] Bueno, y luego lo que tenemos es
+[01:10:23] posteriormente lo que lo que vimos
+[01:10:27] hablando que es la resolución del
+[01:10:29] ministerio, la 6021, la resolución del
+[01:10:32] ministerio
+[01:10:33] de la subsecretaría 1317,
+[01:10:36] luego la resolución del ministerio en
+[01:10:39] cuanto a la aveduría y luego la
+[01:10:42] suspensión o anulación de la aveduría y
+[01:10:44] la continuación de los procesos de
+[01:10:45] información. Todo esto hace un poco al
+[01:10:49] conjunto de elementos que
+[01:10:53] disponemos desde la subsecretaría y más
+[01:10:57] allá de aquellos pedidos especiales como
+[01:10:59] marco de información de rutina
+[01:11:02] irregulatoria que eh justamente eh como
+[01:11:06] les comenté al principio cuando hablamos
+[01:11:08] de lo conceptual de construir un sistema
+[01:11:11] único
+[01:11:13] información. Hm. Les comenté
+[01:11:15] anteriormente que la están en las 13 y
+[01:11:18] en las 17 hablamos de unidades
+[01:11:20] constructivas, hablamos de diccionario
+[01:11:23] de de código, eso se va eso con el
+[01:11:25] tiempo se va a integrar, ¿no? Porque eso
+[01:11:28] va a ser parte de un diccionario único.
+[01:11:30] Pero bueno, es es un proceso muy
+[01:11:32] complejo. Eh, nos llevó mucho tiempo y a
+[01:11:35] veces los tiempos hacen que podamos
+[01:11:38] tener un diccionario de códigos o sea
+[01:11:40] con una aplicación de inventario muy
+[01:11:43] amplia. y la parte de unidades
+[01:11:45] constructivas que es mucho más compleja,
+[01:11:47] no solo compleja para nosotros, sino
+[01:11:49] para todos los actores, que hace que
+[01:11:51] tengamos que avanzar con una con un paso
+[01:11:53] diferente y todos dentro del marco que
+[01:11:57] hace a los procesos diversos, ¿no? ya
+[01:12:00] van va a ver que, por ejemplo, la
+[01:12:02] necesidad de contar con los balances,
+[01:12:04] etcétera, hace alguna necesidad muy muy
+[01:12:07] importante como ha sido lo que se llevó
+[01:12:09] a cabo desde el año pasado, de anteño,
+[01:12:11] que fue la renovación de los de las
+[01:12:14] licencias [carraspeo] técnicas, ¿no?,
+[01:12:15] tanto de las provinciales como de las
+[01:12:17] propias este
+[01:12:20] eh
+[01:12:22] perdón, municipales. Bueno, y luego
+[01:12:24] entramos en el día a día, digamos,
+[01:12:26] tenemos el marco en los marcos, tenemos
+[01:12:28] las disposiciones, tenemos las notas,
+[01:12:30] pero hay algo concreto que es
+[01:12:32] básicamente los sistemas de información
+[01:12:34] que nos proveen actualmente. Cami,
+[01:12:37] ¿querés entrar en
+[01:12:38] Bien? Entonces, resumiendo esta parte,
+[01:12:41] actualmente en contabilidad regulatoria
+[01:12:43] nos rigen dentro de lo que es el pilar
+[01:12:46] contable propiamente dicho, como dijo
+[01:12:47] Marce, vamos a separarlos así en
+[01:12:50] contabilidad pura y después ver la parte
+[01:12:52] de inversiones y unidades constructivas
+[01:12:54] e inventario. Por otro lado, eh como
+[01:12:56] parte de contable propiamente dicha,
+[01:12:58] actualmente eh rigen estas dos
+[01:13:01] resoluciones. la primera, la 753 del
+[01:13:03] 2002,
+[01:13:05] por la que los concesionarios, tanto
+[01:13:07] provinciales como municipales, tienen
+[01:13:08] que presentar sus estados contables en
+[01:13:11] PDF, estados contables que eh tienen que
+[01:13:14] estar debidamente certificados,
+[01:13:16] acompañados por sus memorias,
+[01:13:18] acompañados por sus actas de asamblea
+[01:13:21] con la aprobación de los mismos. Ellos
+[01:13:23] tienen 120 días desde cerrados los
+[01:13:26] ejercicios. No todos los concesionarios
+[01:13:28] cierran sus ejercicios contables en el
+[01:13:30] mismo periodo. Sí, si bien la gran
+[01:13:32] mayoría cierran el 31 de diciembre,
+[01:13:34] tenemos otra otros gran que cierran el
+[01:13:36] 30 de junio y así, pero tengan en cuenta
+[01:13:39] que tienen 120 días desde cerrado el
+[01:13:41] ejercicio para presentarlo ante este
+[01:13:43] organismo, actualmente mediante la mesa
+[01:13:45] de entrada, mesa de entradas digital.
+[01:13:48] Eh, y luego a partir de la
+[01:13:50] implementación el 2021 de la resolución
+[01:13:52] 60, además tienen que presentar sus
+[01:13:56] estados contables de manera trimestral.
+[01:13:59] Si bien la información entra en forma
+[01:14:01] mensual, el cumplimiento establecido en
+[01:14:03] la resolución 60 tiene base trimestral.
+[01:14:06] Sí, como les decía, a partir del 2021
+[01:14:10] están obligados desde julio, o sea,
+[01:14:12] desde el tercer trimestre 2021 las
+[01:14:14] empresas provinciales como las
+[01:14:16] municipales de más de 5,000 y a partir
+[01:14:19] de 5,000 usuarios o suministros activos,
+[01:14:21] perdón, y a partir de enero 2022 todas.
+[01:14:26] ¿Sí? Eh, así que esa es la información
+[01:14:29] que actualmente tienen que presentar
+[01:14:32] mediante eh el mientras mesa de entrada
+[01:14:35] del organismo, resolución 753 y mediante
+[01:14:37] la plataforma de contabilidad
+[01:14:39] regulatoria que la vamos a ver en un
+[01:14:40] ratito. Eh, la resolución 60.
+[01:14:44] Adicionalmente, anualmente, deben
+[01:14:46] presentar el plan de inversiones y ese
+[01:14:50] se ese se presenta anualmente y luego el
+[01:14:52] seguimiento de ese plan tienen que
+[01:14:54] presentarlo en forma trimestral también
+[01:14:56] a través del sistema de contabilidad
+[01:14:57] regulatoria. En forma anual también
+[01:15:00] tienen que presentar el inventario
+[01:15:02] eléctrico y no eléctrico.
+[01:15:05] Bien, en este punto es lo que ustedes
+[01:15:08] hemos hablado anteriormente. El plan de
+[01:15:10] inversiones hoy [carraspeo] cubre las
+[01:15:14] empresas distribuidoras provinciales,
+[01:15:16] pero sí está en vista el poder
+[01:15:19] extenderlas con el tiempo a a conocer
+[01:15:22] los planes de aquellas de dimensión
+[01:15:24] importante. Y bueno, y hablando de
+[01:15:27] inventario
+[01:15:28] eléctrico no eléctrico, ya creo que
+[01:15:31] desde el 23 hemos llevado un sistema que
+[01:15:34] hoy abarca a las principales empresas,
+[01:15:38] tanto provinciales como concesionarias,
+[01:15:40] este municipales, pero que bueno, eh es
+[01:15:44] posible que eh en breve, viendo un poco
+[01:15:47] por supuesto la dimensión, estamos
+[01:15:48] hablando de casi 100 150
+[01:15:53] debajo de las 5,000 tengamos algún tipo
+[01:15:56] de planificación ordenada para poder
+[01:15:58] llevar adelante el conocimiento de los
+[01:16:01] inventarios electores. Y bueno, y algo
+[01:16:03] que se mencionó como algo complementaria
+[01:16:05] la contabilidad de regulatorio, que es
+[01:16:06] el seguimiento de gestión, básicamente
+[01:16:09] por la regularidad, estamos hablando de
+[01:16:12] de información de sumas y saldos, la
+[01:16:14] base de la contabilidad en temas 20 días
+[01:16:17] y las cuatos provinciales solamente. y
+[01:16:19] luego el armado de de estos tableros de
+[01:16:22] información económica fiera y y de
+[01:16:25] inversiones que hace también a la base
+[01:16:27] de información que está provista sobre
+[01:16:29] el marco regulatorio que comentó antes
+[01:16:32] Camila. Bueno, eh acá eh me gustaría,
+[01:16:38] como comentó Camila, hacer un corte. Eh
+[01:16:41] yo no sé si tienen alguna duda, alguna
+[01:16:44] pregunta, no nos interrumpieron. Quiere
+[01:16:46] decir, yo no vi si estaban dormidos o
+[01:16:48] no. No, la verdad este vos los viste,
+[01:16:50] Cami, y yo me parece que
+[01:16:51] no no hay muchas cámaras apagadas, así
+[01:16:53] que no
+[01:16:54] mucha Uy, bueno, entonces han estado
+[01:16:56] concentrado en nuestras en nuestras
+[01:16:58] palabras, así que bueno, espero que
+[01:17:01] hasta hasta el momento eh hayamos podido
+[01:17:04] brindar una información de valor
+[01:17:06] agregado y rica como para conocer un
+[01:17:09] poco la evolución y los conceptos de la
+[01:17:12] contabilidad agroatoria. Y ahora este
+[01:17:15] luego del break llenar los termos con
+[01:17:17] agua caliente para los para el mate y un
+[01:17:20] un vaso de agua y lo que fuere las
+[01:17:21] galletitas será que seguramente que
+[01:17:23] alguno va a querer picar algo. Este
+[01:17:26] podamos continuar con la cuestión que
+[01:17:28] comentó Camila al principio, que es un
+[01:17:32] poco cómo está hoy, cómo lo llevamos
+[01:17:34] adelante, que es el desafío del día a
+[01:17:37] día. Así que bueno, les vuelvo a
+[01:17:39] consultar si hay alguna pregunta. Si no,
+[01:17:42] eh, Guillermina, si estás de acuerdo,
+[01:17:44] pasaríamos al a un receso, ¿no? De unos
+[01:17:47] 10, 15 minutos. Son las
+[01:17:50] Vamosamos eh
+[01:17:52] -2, ¿te parece?
+[01:17:53] Nos reencontramos -20.
+[01:17:55] Perfecto.
+[01:17:56] Gracias.
+[01:17:57] Listo. Gracias a todos. Muy amable.
+[01:18:15] Bueno, ahora vamos a comenzar con la
+[01:18:17] última parte que sea justamente como
+[01:18:19] comentó Camila al principio, que es un
+[01:18:21] poco nuestro día a día y nuestra
+[01:18:25] aplicación y uso de información en forma
+[01:18:27] interna en con el uso de la contabilidad
+[01:18:30] regulatoria y los sistemas que les
+[01:18:32] mostramos y que le estuvimos resumiendo
+[01:18:34] en este cuadro final de esta primera
+[01:18:37] etapa. Bueno, Cami, todo tuyo.
+[01:18:40] Bien, como básicamente le les había
+[01:18:44] comentado anteriormente, vamos a hablar
+[01:18:46] de los productos, de qué es lo que
+[01:18:48] obtenemos hoy por hoy desde la
+[01:18:49] implementación de la contabilidad
+[01:18:51] regulatoria, cómo realizamos el
+[01:18:53] seguimiento y el procesamiento de la
+[01:18:54] información, cómo se sistematiza
+[01:18:57] la parte de elaboración de informes,
+[01:18:59] análisis, aplicación y herramientas. Sí,
+[01:19:01] es como dijo Marce, es el día es el día
+[01:19:04] a día. Primero, la primer resolución,
+[01:19:08] entonces, la resolución de origen que
+[01:19:10] hoy por hoy rige la contabilidad
+[01:19:11] regulatoria es la resolución 753 del
+[01:19:14] 2002.
+[01:19:16] E como les dije, se recibe mediante la
+[01:19:19] mesa de entradas, hoy por hoy mesa de
+[01:19:20] entradas digital del organismo.
+[01:19:23] Anualmente los estados contables una vez
+[01:19:26] que están certificados con su oba de
+[01:19:28] certificación, memoria y acta de
+[01:19:31] asamblea que aprueba esos estados
+[01:19:33] contables. Sí, todo lo que nosotros
+[01:19:35] recibimos mediante la mesa de entrada
+[01:19:37] digital se digitaliza
+[01:19:39] y se confecciona un expediente en GEDBA.
+[01:19:43] Actualmente cada una de las de las
+[01:19:45] concesionarias municipales tiene un
+[01:19:47] expediente, las provinciales tienen un
+[01:19:48] expediente por año, eh, y ahí se va
+[01:19:53] volcando todo lo que se recibe
+[01:19:55] anualmente, cuestión de que todos puedan
+[01:19:57] entrar a ese expediente de GEDVA y
+[01:19:59] puedan ver la información eh desde que
+[01:20:02] esto se implementó.
+[01:20:04] Lo que nosotros tenemos actualmente es,
+[01:20:07] además de analizar la información que
+[01:20:09] recibimos, es un tablero del
+[01:20:11] cumplimiento sobre esa resolución más eh
+[01:20:16] la resolución 60. Si querés, Marce,
+[01:20:18] mostrar el tablero y les muestro más o
+[01:20:19] menos cómo cómo funciona.
+[01:20:21] Exactamente. En eso en eso ando. Vamos a
+[01:20:24] ver [resoplido] por dónde andábamos, qué
+[01:20:27] cantidad. Chup. Tenemos cantidad de
+[01:20:30] cosas acá colgadas. Espera un poquitito
+[01:20:33] que ya voy.
+[01:20:33] Mientras tanto les voy contando que eh
+[01:20:36] es es ese tablero de cumplimiento
+[01:20:38] cumplió sí, cumplió no. Actualmente se
+[01:20:41] utiliza en el organismo porque sabemos
+[01:20:43] que hay e ciertas para para ciertas
+[01:20:47] cuestiones en donde el cumplimiento de
+[01:20:48] estas resoluciones son mandatorios, ¿sí?
+[01:20:50] como puede ser el pago del fondo
+[01:20:52] compensador, eh, bueno, para diversas
+[01:20:55] cuestiones. Por eso es que este tablero
+[01:20:57] del cumplimiento, este no, este es el de
+[01:20:59] indicadores, el tablero.
+[01:21:02] Ah, el de indicadores. Bien.
+[01:21:04] Este es el que tengo acá. Indicadores.
+[01:21:07] Este, Petiza,
+[01:21:09] ¿no? El tablero de control. Fíjate que
+[01:21:11] tenés el link en la presentación.
+[01:21:14] Tengo el link en la presentación. Vamos
+[01:21:16] por ello entonces. Vamos por ello.
+[01:21:18] Lo que les decía es que actualmente este
+[01:21:20] tablero es consultado para saber si una
+[01:21:23] distribuidora en particular cumplió o no
+[01:21:25] cumplió con esas dos resoluciones que
+[01:21:27] actualmente son las que conforman la
+[01:21:28] contabilidad regulatoria.
+[01:21:30] Ah, perfecto. Acá lo tengo.
+[01:21:33] Lo hallé. Estaba perdido en todo las
+[01:21:36] cantidad de cosas que tenía, así que
+[01:21:38] bueno, hoy el apoyo técnico no es del
+[01:21:41] mejor, eh, tremendo.
+[01:21:43] No tenemos críticas, Marce. No tenemos
+[01:21:45] críticas. Perdón. Eh, acá compartir.
+[01:21:50] Listo.
+[01:21:53] Bueno, ahí hay un apartado que si ven
+[01:21:55] está muy chiquitito, pero se lee el
+[01:21:57] apartado cuatro, dice contabilidad
+[01:21:58] regulatoria y podemos ver por año las
+[01:22:01] presentaciones que fueron efectuando, si
+[01:22:03] simplemente tenemos un total de separado
+[01:22:06] por cumplió o no cumplió, la resolución
+[01:22:08] 753 y después las resoluciones 60 2021
+[01:22:12] que como les dije el cumplimiento es
+[01:22:14] trimestral. Entonces, vamos a tener una
+[01:22:16] por trimestre separado en las de más de
+[01:22:18] 5,000 y las de menos de 5,000. Después
+[01:22:21] podemos ver, por ejemplo, en ese
+[01:22:22] tablero, podemos, por ejemplo, filtrar
+[01:22:24] un municipio eh para ver en la totalidad
+[01:22:26] de las concesionarias que integran ese
+[01:22:28] municipio y tener por ahí un panorama un
+[01:22:31] poquito más global, ¿sí?,
+[01:22:34] eh del de cómo vienen cumpliendo por
+[01:22:36] ahí. Eh eh el señor presidente se reúne
+[01:22:39] con alguna autoridad del municipio y se
+[01:22:41] quiere tener una idea de cómo vienen
+[01:22:43] cumpliendo las distribuidoras y bueno y
+[01:22:46] este tablero sirve para tener esto es
+[01:22:48] algo que yo actualizo diariamente,
+[01:22:50] entonces siempre tenemos la foto de la
+[01:22:54] situación del cumplimiento de ambas
+[01:22:55] resoluciones por día.
+[01:22:57] Gracias Marce. Podemos volver a la
+[01:22:59] presentación.
+[01:23:00] Okay, vamos.
+[01:23:08] Bien,
+[01:23:10] entendo.
+[01:23:14] Muy bien.
+[01:23:17] Eh, respecto entonces a la resolución
+[01:23:18] 753 y a la información con la que
+[01:23:20] disponemos, se presentan informes al
+[01:23:22] directorio sobre el estado de cada
+[01:23:24] cooperativa y es un cumplimiento deriva,
+[01:23:25] como les dije, por ejemplo, en la
+[01:23:27] retención del fondo. Sí. si la
+[01:23:29] cooperativa no está cumpliendo con la
+[01:23:31] presentación de de esta imposición,
+[01:23:33] también se confecciona un análisis de
+[01:23:35] los principales indicadores económicos
+[01:23:37] financieros de cada balance recibido y
+[01:23:39] se va a volcar en una planilla que es la
+[01:23:41] que había mostrado Marce eh
+[01:23:42] anteriormente. Si querés, Marce, volvé.
+[01:23:45] Nosotros lo que hacemos es tenemos una
+[01:23:47] plantilla en la que volcamos toda la
+[01:23:48] información contable y extraemos los
+[01:23:51] rubros principales de los estados
+[01:23:53] contables con el equipo. Eh, como por
+[01:23:56] decirles total de activo corriente,
+[01:23:58] total de pasivo corriente, total de
+[01:24:00] activo, total de pasivo, total de venta
+[01:24:02] de energía, resultado operativo. Bueno,
+[01:24:05] y nosotros lo que hacemos es extraculó
+[01:24:10] financieros, ¿sí? Como podrán ver, de
+[01:24:12] todas las cooperativas desde todos los
+[01:24:14] años, desde el 2021, que es eh bueno,
+[01:24:17] desde que estoy yo y y desde que se eh
+[01:24:19] se implementó la contabilidad
+[01:24:21] regulatoria para tener, como les decía,
+[01:24:24] un eh una mirada un poco más homogénea
+[01:24:27] de de qué es lo que analizamos. En un
+[01:24:28] principio, esta separación que tenían
+[01:24:31] las cooperativas de más de 5,000
+[01:24:33] suministros activos o menos de 5,000
+[01:24:35] servían, no eran representativas para
+[01:24:37] analizar. Después, a lo largo del tiempo
+[01:24:40] nos dimos cuenta que este número muchas
+[01:24:42] veces no era representativo para al
+[01:24:44] momento de tomar decisiones o
+[01:24:46] compararlas. Entonces, es la que nos
+[01:24:49] pusimos a a pensar en en qué manera
+[01:24:52] poder compararlas de una manera más
+[01:24:53] objetiva y nos pareció que estos índices
+[01:24:56] nos iban a ayudar mucho en la lectura eh
+[01:24:59] de Eusterio tan heterogéneo. Así que,
+[01:25:02] como pueden ver, ahí bajamos la
+[01:25:03] información de todos los balances que
+[01:25:04] vamos recibiendo diariamente y y
+[01:25:08] bajamos la información y tenemos estos
+[01:25:10] índices de cada una. Eh, en este caso,
+[01:25:13] esta planilla es de la 199. Las
+[01:25:14] provinciales las analizamos aparte y las
+[01:25:17] y las distribuidoras en las de concesión
+[01:25:20] municipal están en este en esta planilla
+[01:25:22] que ustedes están viendo, que elaboramos
+[01:25:23] con el equipo.
+[01:25:28] Bien,
+[01:25:34] bueno, ahora volvemos y vamos a seguir
+[01:25:36] con la resolución 60, ¿no? Seguro.
+[01:25:38] Bueno, perfecto. Como les decía, en la
+[01:25:42] resolución 60, toda la información
+[01:25:44] ingresa a través de la plataforma de
+[01:25:45] contabilidad regulatoria que se creó
+[01:25:47] para este fin. Si a diferencia de la
+[01:25:50] 753, que como les dije, la información
+[01:25:52] ingresa por mesa de entradas del
+[01:25:53] organismo. Lo que hacemos es recibir y
+[01:25:56] acopiar toda la información que es
+[01:25:58] utilizada para dar respuesta a consultas
+[01:26:01] o preguntas específicas. Sí. como por
+[01:26:03] ejemplo y y se habló al principio de la
+[01:26:05] presentación,
+[01:26:07] actualmente estamos en el proceso de RTI
+[01:26:09] en el cual la información de
+[01:26:10] contabilidad regulatoria sirvió como
+[01:26:12] base para todo este tipo de de análisis
+[01:26:16] y para otro tipo de de toma de
+[01:26:19] decisiones que actualmente se necesiten.
+[01:26:22] se nosotros proveemos de esta
+[01:26:23] información, o sea, no se va a producir
+[01:26:26] sistemáticamente ningún informe a
+[01:26:27] diferencia del tablero que ustedes
+[01:26:28] vieron respecto a la 753, pero sí se
+[01:26:32] realizan informes económicos financieros
+[01:26:35] que vamos que van surgiendo. Por
+[01:26:37] ejemplo, también esta información sirvió
+[01:26:39] para elaborar los informes de renovación
+[01:26:41] de licencias técnicas. Sí, después vamos
+[01:26:43] a ver un ejemplo. Eh, lo que estamos hoy
+[01:26:46] por hoy y nuestro principal desafío es
+[01:26:48] la implementación de un tablero, como
+[01:26:50] puede ser el que vimos recién o un Power
+[01:26:52] BI para poder sistematizar todos los
+[01:26:54] datos que ingresan a través de la
+[01:26:56] plataforma. Yo lo que quiero mostrarles
+[01:26:58] es ahora lo que ustedes van a ver de lo
+[01:27:00] que yo veo de mi plataforma todos los
+[01:27:02] días. Como les dijo Marce, yo soy la
+[01:27:03] administradora del sistema, por el cual
+[01:27:05] tengo acceso a todos los módulos que
+[01:27:07] forman parte de la contabilidad
+[01:27:08] regulatoria y Marcia ahora les va a
+[01:27:11] mostrar qué es lo que ustedes van a ver.
+[01:27:13] O sea, esto no es lo que ustedes van a
+[01:27:14] ver como empresas o cooperativas que
+[01:27:17] ingresan o quieren ingresar información
+[01:27:19] al sistema. Esto es lo que ustedes van a
+[01:27:21] ver como backen, eh, que es lo que yo
+[01:27:23] miro y administro del sistema. Por eso
+[01:27:25] quería compartirles eh para que ustedes
+[01:27:27] vean cómo lo vemos nosotros.
+[01:27:32] Bien, espera un momentito [carraspeo]
+[01:27:34] que ahora
+[01:27:35] te esperamos, te esperamos.
+[01:27:36] Estoy haciendo el ingreso como cada uno
+[01:27:39] acá les comento, básicamente
+[01:27:42] ella como administradora de sistema
+[01:27:43] tiene acceso todo. Yo la verdad [tos] no
+[01:27:47] lo tengo. Es es una una manera de
+[01:27:50] justamente gestionar la información en
+[01:27:54] forma separada. la información cuando
+[01:27:57] corresponde nosotros lo
+[01:28:00] este lo compartimos y si no esto es
+[01:28:03] parte de nuestra realidad de gestión,
+[01:28:05] tratar de eh de estar bien separados en
+[01:28:10] nuestros roles. Ella es administradora,
+[01:28:12] yo hablo de gestión y no mezclo aspectos
+[01:28:16] relacionadas con la seguridad de del
+[01:28:20] sistema. Es un poco, A ver, tengo acá
+[01:28:24] entré. Perfecto,
+[01:28:27] ahí estamos. Eh, perdón, voy a dejar de
+[01:28:31] compartir lo anterior y voy a compartir
+[01:28:33] justamente lo que pedía.
+[01:28:37] Bien, acá, acá está Cami.
+[01:28:42] Se ve chiquitito, pero más o menos les
+[01:28:43] quiero explicar eh qué es lo que yo veo
+[01:28:47] todos los días. Este es mi tablero. Sí.
+[01:28:49] Primero eh van a ver que en azul
+[01:28:52] aparecen los distintos módulos. Sí. En
+[01:28:55] los primeros dos, yo puedo administrar
+[01:28:57] todos los accesos de las cooperativas y
+[01:28:59] los usuarios que cada cooperativa generó
+[01:29:01] para poder ingresar información al
+[01:29:03] sistema. Esas son las dos primeras
+[01:29:04] solapas. La tercera solapa, que es la
+[01:29:06] que dice contabilidad regulatoria, es la
+[01:29:09] solapa en la que ingresa la información
+[01:29:10] de la resolución 60. Sí, yo ahí puedo
+[01:29:13] ver todos los archivos que entran en
+[01:29:15] formato CSB, que por lo general entran,
+[01:29:18] como les dije, de manera mensual, pero
+[01:29:20] el cumplimiento es trimestral en función
+[01:29:22] de lo estipulado en la resolución 60.
+[01:29:25] Luego van a ver
+[01:29:27] el módulo, bueno, yo ahí lo estoy viendo
+[01:29:29] muy chiquitito, eh, lo voy a poner más
+[01:29:31] grande porque [resoplido] no llegó a
+[01:29:33] ver. van a ver el módulo de inversiones,
+[01:29:35] el de inventario, el de tarifa cero, que
+[01:29:37] es donde recibimos los archivos de
+[01:29:39] tarifa social, los de género, lo que
+[01:29:42] quedó de la aveduría en su momento
+[01:29:45] cuando Marce explicó que fue su
+[01:29:47] implementación en ese año y por último
+[01:29:50] abajo el módulo de seguimiento de
+[01:29:51] gestión.
+[01:29:53] Eh, también lo que yo puedo ver acá en
+[01:29:56] verde, van a ver un recuadro grande y
+[01:29:57] veo los mails que salen desde el sistema
+[01:30:00] y veo por ahí si a veces se cae alguno,
+[01:30:03] lo puedo ver desde aquí y ahí puedo ver
+[01:30:05] todos todas las los ingresos diarios que
+[01:30:08] hacen al sistema. Sí, eso es lo lo más
+[01:30:11] importante. Quería que lo vean. Yo desde
+[01:30:13] acá puedo administrar todo lo que
+[01:30:15] ocurre. Sí, si alguien me dice, "Bueno,
+[01:30:17] eh, si bien yo soy la la administradora
+[01:30:19] de la información de contabilidad
+[01:30:21] propiamente dicha, puedo ver lo que pasa
+[01:30:23] a través de todo el resto de los
+[01:30:24] módulos, de todos los ingresos de
+[01:30:26] información, si por ahí alguna
+[01:30:28] cooperativa se le venció eh el el
+[01:30:31] periodo en el cual deberían presentar eh
+[01:30:35] algún archivo, yo puedo manejar todo
+[01:30:37] desde aquí.
+[01:30:39] Así que bueno, quería que lo vean para
+[01:30:40] que vean cómo lo veo yo la totalidad de
+[01:30:43] los módulos.
+[01:30:44] ¿Querés mostrar algo en particular del
+[01:30:47] acceso acá o con lo que ya?
+[01:30:48] Y por ejemplo en resolución 60 en
+[01:30:50] contabilidad regulatoria poner ver
+[01:30:52] presentaciones.
+[01:30:54] La tercer solapa.
+[01:30:56] La tercer solapa. ¿Dónde?
+[01:30:58] Arriba, arriba. Contabilidad
+[01:30:59] regulatoria.
+[01:31:01] Ah,
+[01:31:02] representaciones.
+[01:31:03] Bien.
+[01:31:06] Bueno, ahí van a ver el listado de todo
+[01:31:08] lo que va ingresando diariamente. Sí,
+[01:31:10] por fecha, básicamente van a tener el
+[01:31:13] nombre de la cooperativa, el periodo que
+[01:31:15] está presentando la información y la
+[01:31:17] fecha de carga. Tengan en cuenta, por
+[01:31:20] ejemplo, que cada una tiene hasta puede
+[01:31:22] representar hasta cinco veces. Sabemos
+[01:31:23] que la información contable muchas veces
+[01:31:25] se audita, muchas veces se sujeta a
+[01:31:27] ajustes. Entonces, por supuesto, esto
+[01:31:29] puede ajustarse y puede representarse.
+[01:31:31] Sí, yo ahí voy a ver todos los archivos
+[01:31:33] que ingresan en formato CSB, que yo para
+[01:31:36] para analizarlos los analizo después en
+[01:31:39] Excel. Eh, y es lo que les decía de la
+[01:31:41] importancia de que estamos actualmente
+[01:31:44] viendo la forma de meter toda esta
+[01:31:46] información en un tablero Power BI para
+[01:31:49] que sea un poco más amigable la vista y
+[01:31:51] la administración de los datos, sobre
+[01:31:52] todo.
+[01:31:54] Así que nada más eso, Marc, ¿podemos
+[01:31:56] continuar?
+[01:31:57] Bueno, perfecto.
+[01:31:59] Vamos a dejar de compartir acá y vamos a
+[01:32:02] compartir
+[01:32:03] la presentación.
+[01:32:05] La presentación. Bien.
+[01:32:09] Bueno, eh acaba de mostrarle algo que es
+[01:32:12] el día a día. No es fácil, al contrario,
+[01:32:15] aunque hemos visto parte de los los
+[01:32:18] sistemas de información, ustedes ven que
+[01:32:20] la actividad diaria es bastante extensa,
+[01:32:23] especialmente por parte de Camila, en lo
+[01:32:25] que es la gestión y administración del
+[01:32:26] sistema, más allá del propio en en armar
+[01:32:30] el tableo de cumplimiento y los
+[01:32:32] inscrificadores propios. Bueno, y ahora
+[01:32:35] vamos a ir a eh una segunda parte que es
+[01:32:38] básicamente lo que yo les comenté que
+[01:32:41] son básicamente el tablero de
+[01:32:43] seguimiento de gestión que se alimenta
+[01:32:46] de la información brindada
+[01:32:47] voluntariamente. Me refiero voluntaria
+[01:32:49] porque es una una continuidad que se
+[01:32:52] hizo bajo un compromiso y está muy bien
+[01:32:54] porque de hecho eh debemos señalar la
+[01:32:58] buena predisposición siempre de las
+[01:33:00] cuatro distribuidoras provinciales en
+[01:33:02] materia de información.
+[01:33:03] eh de todo tipo. Bueno, ahí vamos a
+[01:33:06] encontrar, yo después les voy a acceder
+[01:33:07] el acceso. Tenemos un tablero económico
+[01:33:11] financiero, tenemos un tablero técnico y
+[01:33:13] tenemos un tablero de inversiones. E
+[01:33:17] vamos a ver si se los puedo mostrar ya
+[01:33:19] directamente
+[01:33:21] de así vamos conversando al respecto
+[01:33:23] para
+[01:33:25] a ver para ver eh
+[01:33:29] acá estamos. Bien.
+[01:33:31] Bueno, como yo les dije, eh nosotros
+[01:33:34] manejamos un sistema complementario que
+[01:33:37] es el que se generó a partir de la denda
+[01:33:41] mencionada y que básicamente se brinda
+[01:33:44] con información de parte de las cuatro
+[01:33:46] distribuidoras provinciales. No voy a
+[01:33:48] hacer una una visión simplemente por un
+[01:33:51] tema de de reserva, pero ustedes verán
+[01:33:54] que tenemos un acceso financiero en
+[01:33:57] donde tenemos un comparativo,
+[01:34:00] análisis partenal, cuadro resultados,
+[01:34:02] indicadores, tenemos flujos, esto en
+[01:34:05] términos globales y luego también lo
+[01:34:07] tenemos en cada uno en términos de
+[01:34:10] indicadores, de resultados a nivel
+[01:34:12] patrimonial y esta información nosotros
+[01:34:15] la recibimos en forma mensual. Eh,
+[01:34:19] consultamos regularmente la calidad de
+[01:34:21] información ante dudas y hace a un
+[01:34:23] tablero de gestión que probablemente con
+[01:34:26] el tiempo se irá integrando también con
+[01:34:28] el resto de las empresas y a través de
+[01:34:32] lo que sería la contabilidad
+[01:34:33] regulatoria. Bueno, eh tenemos un
+[01:34:36] tablero técnico. El tablero técnico
+[01:34:37] tiene igualmente esa misma
+[01:34:39] característica y vamos a ver que me
+[01:34:42] responde a ver si me hace quedar bien.
+[01:34:44] En donde tenemos un tablero que eh tiene
+[01:34:48] una visión de comparativa, calidad de
+[01:34:51] servicio, tiene una entrada a lo que son
+[01:34:54] los sideides semestrales y acá eh hace
+[01:34:58] una información muy importante respecto
+[01:35:00] a al cumplimiento de indicadores. se
+[01:35:03] pueden abrir en distintos niveles de
+[01:35:05] apertura, eh, como partido, localidad,
+[01:35:09] cadena eléctrica, etcétera, ¿no? Eso no
+[01:35:12] es menor porque hace a la a la
+[01:35:14] importancia que hace no solo los
+[01:35:16] aspectos financieros, sino al
+[01:35:19] cumplimiento, las cuestiones que hacen a
+[01:35:21] la calidad del servicio. Como dije en un
+[01:35:23] principio, acá lo fundamental es el
+[01:35:26] usuario y a eso apuntamos que justamente
+[01:35:30] tengamos esa posibilidad. Bien, a ver, a
+[01:35:33] ver, el tablero técnico. Vamos a ver si
+[01:35:36] lo puedo pasar
+[01:35:38] para ir para atrás a ver que no me no me
+[01:35:42] responde. Déjenme dos segunditos que
+[01:35:46] luego
+[01:35:47] lo que les voy a mostrar es
+[01:35:52] exactamente ventana de aplicación. Vamos
+[01:35:55] a ver que acá no estamos compartiéndolo
+[01:35:58] bien. Eh, vamos por acá.
+[01:36:02] Eh, vamos a compartir y vamos a ir al
+[01:36:06] tablero de inversiones.
+[01:36:08] el tablero de inversiones y acá sí lo
+[01:36:11] puedo compartir, hace juntamente al algo
+[01:36:14] que nosotros nos interesa visualizar más
+[01:36:18] adelante, no solo de todas las de todas
+[01:36:23] las cooperativas de todas municipales,
+[01:36:26] sino también el de Perdón, a ver, son
+[01:36:30] muchas pantallas abiertas, me disculpo.
+[01:36:33] Ahí está
+[01:36:37] en donde vemos las inversiones. Acá en
+[01:36:39] el comparativo y sin querer mostrar
+[01:36:41] ninguna cosa tenemos la las
+[01:36:44] características de las de las
+[01:36:46] inversiones, etcétera, etcétera. No hay
+[01:36:49] ninguna excusa particular con la cual lo
+[01:36:51] que vamos viendo es la la el
+[01:36:54] composición, el avance todos los meses y
+[01:36:57] podemos visualizar cada una de las
+[01:37:00] empresas. Hm. Esto es importante a los
+[01:37:03] efectos de nuestra de nuestra tarea y de
+[01:37:06] nuestro tarea, especialmente relacionado
+[01:37:08] con los cumplimientos que hacen a
+[01:37:10] nuestra a nuestra gestión. Como yo les
+[01:37:13] dije en su momento, eh existen tres
+[01:37:15] tableros, eh existen, perdón, tres
+[01:37:17] pilares, el financiero,
+[01:37:20] el el el de inventario y el de
+[01:37:22] inversiones. Todos están relacionadas.
+[01:37:24] Si las inversiones no se hacen, los
+[01:37:25] inventarios eh suelen, vamos a ponerlo,
+[01:37:28] empezar a caer en materia de prestación
+[01:37:31] de servicios y eso tarde o temprano
+[01:37:33] también se se termina reflejando en lo
+[01:37:36] que es el material de eh de la
+[01:37:40] contabilidad regulatoria. Así que bueno,
+[01:37:42] eso es lo que básicamente hace al
+[01:37:44] tablero de seguimiento. Eh, por una
+[01:37:46] cuestión, por supuesto, de reserva, he
+[01:37:49] tratado de pasarlo rápido porque sea
+[01:37:51] información de detalle que hace a las
+[01:37:53] prestadoras provinciales en general.
+[01:37:56] Bien, y vamos en general entonces a cuál
+[01:37:59] es la situación de disponibilidad de
+[01:38:00] información y su uso para los objetivos
+[01:38:02] de control, seguimiento de gestión,
+[01:38:05] contable financiera, técnica y eso
+[01:38:08] resumiendo un poco lo que hemos visto.
+[01:38:10] Por lo tanto, tenemos la contabilidad
+[01:38:12] regatoria, tenemos lo inventario y
+[01:38:15] tememos las unidades constructivas.
+[01:38:18] En cuanto a contabilidad oratoria, eh
+[01:38:22] Rami, perdón, Cami eh hizo una mención y
+[01:38:25] una explicación de resolución 753,
+[01:38:29] lo que es las distribuidoras, la
+[01:38:31] resación de los anuales y su formato.
+[01:38:34] Resolución 60 amplia como gran paraguas
+[01:38:38] a lo que es el proceso de la
+[01:38:39] contabilidad regulatoria para todas las
+[01:38:41] distribuidoras, los balances mensuales,
+[01:38:43] h las presentaciones trimestrales según
+[01:38:46] plan y manual de cuentas en los
+[01:38:48] formatos. Luego la resolución 477 de
+[01:38:52] 2023 que es básicamente la de las
+[01:38:55] distribuidoras provinciales, sumas
+[01:38:57] saldos. También en CCB el armado de lo
+[01:39:00] que ustedes enviaron rápidamente, un
+[01:39:01] tablero económico financiero, un tablero
+[01:39:03] de inversiones que tiene un seguimiento
+[01:39:06] simestral y que hace al a un marco de
+[01:39:09] información inicial. Luego tenemos el de
+[01:39:12] inventario. Acá inventario, como le
+[01:39:14] dije, cubre las cuatro provinciales. Las
+[01:39:18] 4
+[01:39:20] a hoy entre 46 y 50 municipales con con
+[01:39:24] más de 5000 usuarios. Se hacen
+[01:39:26] presentaciones regulares del año 2022.
+[01:39:30] Tenemos la primera prueba que fue el
+[01:39:32] 2022, 23 24 y ya recibimos el 2025 que
+[01:39:38] lo estamos procesando, por supuesto, y
+[01:39:41] que este interactuamos eh con la DPE y
+[01:39:45] volcamos y colaboramos con la
+[01:39:47] información que se requiera por parte
+[01:39:50] del proceso de la red RTI. Y luego las
+[01:39:53] unidades constructivas que vimos a
+[01:39:55] través del de la resolución 13, eh, que
+[01:39:59] es el marco teórico para los procesos de
+[01:40:01] activos eléctricos y no eléctricos
+[01:40:03] llevados a cabo por la DPE y que se
+[01:40:05] exponen siempre los planes de inversión.
+[01:40:08] Y como les comenté anteriormente, eh a
+[01:40:11] través de la disposición 108, la
+[01:40:14] posibilidad que tuvimos de recibir por
+[01:40:17] parte de de las provinciales un nuevo
+[01:40:20] catálogo, básicamente seguramente porque
+[01:40:23] es así, uniformado y homogeneizado a las
+[01:40:26] cuatro provinciales para su uso, pero
+[01:40:28] que que interactúan y traen información
+[01:40:31] interesante en cuanto a las estructuras
+[01:40:35] y las características de los este
+[01:40:38] justamente de los los aspectos eh
+[01:40:41] funcionales y técnicos y las aperturas
+[01:40:44] que enriquecerían eh el diccionario de
+[01:40:47] unidades constructivas a futuro y eso
+[01:40:49] está en pleno proceso de análisis para
+[01:40:52] para su posterior eh discusión. Bueno,
+[01:40:57] continuando con esto, eh eh vamos a a
+[01:41:01] ver cuáles son las cuestiones que que
+[01:41:03] trabaja eh claramente y en forma diaria
+[01:41:06] Camila. Así que bueno, Cami, te pongo
+[01:41:09] acá la
+[01:41:10] quería darle básicamente dos ejemplos de
+[01:41:13] A mí me piden un informe random por
+[01:41:15] cuestiones específicas y yo quería
+[01:41:17] contarles básicamente qué es lo que
+[01:41:19] contiene un informe de contabilidad
+[01:41:21] regulatoria, qué información tienen
+[01:41:23] todos los informes que nacen de la
+[01:41:26] información que que que juntamos gracias
+[01:41:29] al sistema de contabilidad regulatoria.
+[01:41:31] Primero, un informe financiero normal
+[01:41:33] tiene eh los datos generales de la
+[01:41:35] cooperativa. Luego se resumen el cuadro
+[01:41:38] de indicadores que yo les mostré eh en
+[01:41:40] el tablero. Bueno, mostramos cuál es el
+[01:41:42] resultado de de esos índices financieros
+[01:41:45] y patrimoniales, tanto de la actividad
+[01:41:47] global, pero haciendo obviamente
+[01:41:49] especial hincapié en la actividad
+[01:41:51] regulada. Sí. eh se acompaña con una con
+[01:41:55] un con una explicación básica de la
+[01:41:57] lectura del índice, por ejemplo,
+[01:41:59] liquidez corriente. Eh, para que el
+[01:42:02] índice sea financieramente correcto
+[01:42:04] tiene que ser mayor a uno. Bueno, para
+[01:42:06] que ese número tenga una explicación de
+[01:42:08] de lo que significa
+[01:42:11] y se realiza un análisis de variación de
+[01:42:13] cuentas contables, tanto de cuentas
+[01:42:15] patrimoniales como de cuentas de
+[01:42:16] resultados, sobre todo poniendo hincapié
+[01:42:19] en lo que es el EBIT y el EVIT, ¿sí?
+[01:42:21] Teniendo en cuenta los resultados
+[01:42:23] operativos, eh teniendo en cuenta los
+[01:42:25] gastos, teniendo en cuenta las
+[01:42:27] amortizaciones y los intereses
+[01:42:28] financieros. Se trata de separar esa
+[01:42:31] parte de la actividad, eh, básicamente
+[01:42:33] para no castigar un índice y poder
+[01:42:35] analizarlo, como les decía, de de manera
+[01:42:37] más homogénea, eh, correcta y eh
+[01:42:42] sobre todo el análisis de los resultados
+[01:42:45] de la actividad regulada, que que bueno
+[01:42:49] es es lo que en lo que más se pone
+[01:42:51] hincapié. Tengamos en cuenta que muchas
+[01:42:53] veces, como les decía, en este universo
+[01:42:55] tan heterogéneo, eh, tenemos casos y
+[01:42:57] sobre todo lo que es la contabilidad.
+[01:43:00] Hay cooperativas, por lo general las más
+[01:43:01] chiquititas, que por ejemplo ajustan por
+[01:43:03] inflación una vez al año, que es al
+[01:43:05] momento del cierre, realizan las
+[01:43:07] amortizaciones una vez al año y todo
+[01:43:09] tipo de ajustes, mientras hay otras que
+[01:43:11] lo realizan hasta mensualmente.
+[01:43:14] Entonces, al momento de analizar números
+[01:43:16] es muy importante desagregar eh este
+[01:43:20] tipo de de cuestiones. en la comisión
+[01:43:22] anterior en la que dimos clase, una
+[01:43:24] chica que estaba involucrada en el área
+[01:43:25] contable de una de las empresas fue lo
+[01:43:27] que preguntó porque ella sabía que que
+[01:43:29] no todas lo realizan con la misma
+[01:43:31] periodicidad y si estamos hablando de un
+[01:43:33] análisis de resultados, teniendo en
+[01:43:35] cuenta inflación y teniendo en cuenta
+[01:43:37] amortizaciones, van a ser números muy
+[01:43:40] distintos. Entonces, esto es algo que
+[01:43:42] siempre eh tratamos de desagregar en el
+[01:43:45] momento de realizar nuestros informes.
+[01:43:48] Bueno, también les quería comentar lo
+[01:43:50] que fue realizar la los informes
+[01:43:52] económicos financieros al momento de la
+[01:43:54] de la renovación de licencias técnicas,
+[01:43:57] eh que ya se realizaron más de 195
+[01:44:00] informes.
+[01:44:02] Acá lo que utilizamos para
+[01:44:05] no volver a pedir información en ese
+[01:44:08] momento que fue allá por el 2022, 2023,
+[01:44:12] fue los datos que se habían presentado
+[01:44:14] oportunamente a la subsecretaría de
+[01:44:16] energía en la que trabajamos
+[01:44:17] conjuntamente para poder acceder a esa
+[01:44:19] información eh para la determinación del
+[01:44:21] fondo compensador. En ese momento se
+[01:44:24] habían presentado módulos económicos en
+[01:44:26] relación a cantidad de personal, a
+[01:44:28] costos operativos e y también se habían
+[01:44:32] presentado en el módulo cuatro estados
+[01:44:34] contables, independientemente de la
+[01:44:35] presentación
+[01:44:37] de 753. De hecho, lo que se hizo fue en
+[01:44:40] ese momento que todo lo presentado para
+[01:44:43] el análisis del fondo era válido como
+[01:44:46] presentación de 753 para agilizar y que
+[01:44:50] y no darles tanto peso en presentaciones
+[01:44:52] varias. Eh,
+[01:44:55] también se realizó en ese momento un
+[01:44:57] análisis de índices, eh, como les
+[01:45:00] expliqué en los informes anteriores y
+[01:45:02] las conclusiones y sobre la base del
+[01:45:04] cumplimiento de todos estos parámetros
+[01:45:07] es donde se concluía si se debería
+[01:45:09] proceder o no a la continuación del
+[01:45:11] trámite de la eh renovación de la
+[01:45:13] licencia.
+[01:45:16] Próxima.
+[01:45:20] Bien, yo les quería contar un poquitito
+[01:45:22] porque lo pasamos por alto, pero no me
+[01:45:23] parece menor, cómo se determinó en su
+[01:45:27] momento el plan de cuentas regulatorio.
+[01:45:31] Yo lo que quiero que entiendan es que el
+[01:45:33] plan de cuentas regulatorio no es que es
+[01:45:35] algo muy distinto al plan de cuentas de
+[01:45:38] cada una de las distribuidoras, sí,
+[01:45:40] solamente que el plan de cuentas
+[01:45:41] regulatorio es único.
+[01:45:44] Cada una de las distribuidoras, tanto
+[01:45:45] provinciales como municipales, tienen su
+[01:45:47] propio plan de cuentas. ¿Sí? El plan de
+[01:45:51] cuentas regulatorio es único para todas.
+[01:45:54] Entonces, lo que se tuvo que hacer al
+[01:45:55] momento de la implementación es cada una
+[01:45:58] tenía que poner como en un driver qué
+[01:46:00] cuenta de su de su propia contabilidad
+[01:46:04] era equivalente a la cuenta del plan de
+[01:46:06] cuentas regulatorio.
+[01:46:08] Como también les dije en un principio,
+[01:46:10] ¿qué dista la contabilidad tradicional
+[01:46:12] de la contabilidad regulatoria? La
+[01:46:14] desagregación.
+[01:46:16] Entonces, probablemente lo que las
+[01:46:17] distribuidoras tenían individualmente en
+[01:46:19] una cuenta, nosotros se lo estábamos
+[01:46:21] pidiendo desglosado en varias.
+[01:46:24] Por ejemplo, la primera cuenta que era
+[01:46:28] caja y banco, pero de la actividad
+[01:46:30] regulada. Había muchas cooperativas que
+[01:46:32] no tenían su caja desagregada en
+[01:46:35] actividad regulada y no regulada y a
+[01:46:37] partir de la implementación de la
+[01:46:38] contabilidad regulatoria tuvieron que
+[01:46:40] desagregar su cuenta de caja en
+[01:46:43] actividad regulada y no regulada.
+[01:46:45] Otra, me acuerdo también que fue en su
+[01:46:47] momento era la desagregación de las
+[01:46:49] ventas, que también pasó con las
+[01:46:50] distribuidoras provinciales. Nosotros
+[01:46:52] requeríamos en el plan de cuentas
+[01:46:54] regulatorio, que lo vamos a ver ahora,
+[01:46:56] la venta por tipo de tarifa, ¿sí? en
+[01:46:59] función del cuadro tarifario vigente,
+[01:47:01] queríamos que las ventas estén expuestas
+[01:47:03] por tipo de tarifa, al igual que los
+[01:47:06] créditos por venta.
+[01:47:08] Así podíamos ver bien eh en detalle
+[01:47:13] bien los tipos de tarifa y el y los
+[01:47:15] montos. Entonces yo si querés, Marce, si
+[01:47:17] querés mostrarles eh rápidamente cómo es
+[01:47:20] el plan de cuentas regulatorio, tengan,
+[01:47:22] mientras tanto yo les voy contando que
+[01:47:24] tengan en cuenta que cuando participamos
+[01:47:26] de de este análisis, la mayoría de las
+[01:47:28] empresas
+[01:47:30] provinciales contaban entre 300 y 400
+[01:47:33] cuentas más o menos formaba parte de sus
+[01:47:36] de sus balances. Y el plan de cuentas
+[01:47:39] regulatorio tiene nada más y nada menos
+[01:47:41] que 1142 cuentas. para que se den una
+[01:47:44] idea de la diferencia del la
+[01:47:46] desagregación y el nivel de detalle que
+[01:47:48] requiere la contabilidad regulatoria.
+[01:47:50] Con esto no quiere decir que todas
+[01:47:52] tengan que presentar 1142 saldos, ¿sí?
+[01:47:55] Porque hay cuentas que no se utilizan.
+[01:47:57] Sí, por ejemplo, las concesionarias no
+[01:47:59] utilizan las cuentas previsionales o las
+[01:48:01] cuentas impositivas. Bueno, eh pero
+[01:48:03] bueno, el plan de cuentas tiene que
+[01:48:04] tener la totalidad.
+[01:48:07] Eh, pero al principio fue un reto porque
+[01:48:11] había, me acuerdo que que distribuidoras
+[01:48:13] muy chiquititas que tenían en total 40 o
+[01:48:15] 50 cuentas en sus estados contables y
+[01:48:18] nosotros le estábamos pidiendo un una
+[01:48:19] desagregación de 1142.
+[01:48:22] Entonces, eh al principio trabajamos con
+[01:48:27] cada una de ellas para poder lograr eh
+[01:48:31] este espejo entre sus propias cuentas
+[01:48:34] contables y el plan de cuentas
+[01:48:36] regulatorio que es único para todos.
+[01:48:39] ¿La podes abrir, Marce?
+[01:48:41] Eh, lo tengo abierto, pero no puedo
+[01:48:43] llegar a exponerla. Tengo un problema de
+[01:48:46] compartir nada más. A ver, eh, si la
+[01:48:49] puedo compartir de alguna manera.
+[01:48:51] Disculpen, pero es una cuestión de de
+[01:48:54] tal vez de usuario, pero no estoy
+[01:48:57] llegando a a poder abrirlo. Discúlpenme,
+[01:48:59] pero este tengo ese problema. A ver,
+[01:49:04] vamos a ver. Discúlpenme a ver si esto
+[01:49:07] puede ayudar. Eh,
+[01:49:09] ahí está,
+[01:49:10] ahí apareció. Bárbara,
+[01:49:11] ahí apareció. Básicamente se va a ver
+[01:49:13] muy chiquito, pero yo simplemente lo que
+[01:49:15] ustedes quiero que que vean es la forma
+[01:49:18] escalonada de desagregación. Sí. ¿Cómo
+[01:49:21] vamos?
+[01:49:23] Sí, sí, está perfecto. ¿Cómo vamos
+[01:49:24] partiendo de una cuenta por ahí de
+[01:49:26] disponibilidades
+[01:49:28] eh global y cómo se va desagregando
+[01:49:31] escalón bajo escalón en la desagregación
+[01:49:33] que la actividad regulada requiere? ¿Sí?
+[01:49:37] Y esto es lo que les quería mostrar. Así
+[01:49:39] son todas las cuentas del balance. Sí,
+[01:49:41] quizás en un balance que era una sola
+[01:49:43] línea, el plan de cuentas regulatorias
+[01:49:45] lo tiene desagregado en cinco. Sí, pero
+[01:49:48] esto es a modos de exponer con mayor eh
+[01:49:52] oportunidad de transparencia y
+[01:49:54] homogeneidad
+[01:49:55] a la totalidad de las prestadoras.
+[01:50:00] Bien. Bueno, perfecto.
+[01:50:04] Bueno,
+[01:50:06] ahora quiero
+[01:50:06] les quiero mostrar ahora cómo se
+[01:50:08] conforma una cuenta regulatoria para que
+[01:50:10] Ah, ¿querés que le querés que
+[01:50:12] la presentación? La presentación.
+[01:50:13] Perfecto. Dame dame 2 segundos que ahora
+[01:50:17] estoy Se ve, ¿no? No se ve nada. No,
+[01:50:21] no, todavía
+[01:50:22] no. Para un cachito que ¿Dónde estás?
+[01:50:25] Botón para eh
+[01:50:29] Perdón. Así. Discúlpame que así veo
+[01:50:32] compartir. Eh, volvemos a la
+[01:50:35] presentación. Bien,
+[01:50:38] ahí está, ¿no? La presentación.
+[01:50:41] Perfecto. Para que se hace presentación.
+[01:50:44] Listo.
+[01:50:47] Eh, acá
+[01:50:49] ahí estamos.
+[01:50:50] Ahí está. Sí, sí.
+[01:50:51] Bien. Lo que yo les quería es comentar,
+[01:50:52] bueno, lo estos números que ustedes
+[01:50:55] vieron recién en ese Excel que se veían
+[01:50:57] muy chiquititos, pero lo que me interesa
+[01:50:59] que les quede claro es cómo está
+[01:51:00] conformado. Los primeros dos números de
+[01:51:02] una cuenta regulatoria es el capítulo,
+[01:51:05] por ejemplo, activo, pasivo, patrimonio
+[01:51:07] neto, ingresos, egresos. Los segundos
+[01:51:10] dos números de la cuenta regulatoria
+[01:51:12] hacen referencia al rubro principal,
+[01:51:13] activo, corriente, no corriente, pasivo,
+[01:51:16] corriente, no corriente y así.
+[01:51:18] Los serían los treros dos números, sería
+[01:51:21] el negocio. Esto corresponde a si la
+[01:51:23] cuenta hace referencia a la actividad
+[01:51:25] regulada o la actividad no regulada.
+[01:51:28] Luego el rubro contable general, que
+[01:51:32] este siempre va a coincidir con el que
+[01:51:34] tiene cada una en sus registros
+[01:51:37] contables.
+[01:51:39] Luego el subrubro, proceso, concepto.
+[01:51:43] Todo esto es mayor desagregación de lo
+[01:51:45] mismo. Luego se estableció un listado de
+[01:51:48] tres números de que hacen referencia al
+[01:51:49] partido que ya estaba en dentro de los
+[01:51:53] anexos de la resolución 60, ya está en
+[01:51:55] listado. Y por último, le dimos la
+[01:51:57] oportunidad de que agreguen el número de
+[01:52:00] su cuenta propia de su libro contable.
+[01:52:04] Esto nuestro sistema no lo lee, así que
+[01:52:06] ahí cada uno puede poner el número que
+[01:52:08] quiera, que total a nosotros esto no nos
+[01:52:10] va a impactar, para que ya tengan
+[01:52:12] mapeado
+[01:52:14] la cuenta contable a la cuenta
+[01:52:16] regulatoria. ¿Sí? Ahí les deje un
+[01:52:18] ejemplo. 010120
+[01:52:21] 01 999. Y ahí lo que dice es que es una
+[01:52:25] cuenta de activo, de activo corriente,
+[01:52:27] de servicio regulado, que pertenece a
+[01:52:29] inversiones, colocaciones a plazo fijo
+[01:52:32] en moneda local. 999 es el partido
+[01:52:35] común. Sí. Eh,
+[01:52:38] quiero que tengan en cuenta que lo que
+[01:52:41] el sistema hace solamente
+[01:52:44] es al momento que alguien va a ingresar
+[01:52:47] un archivo, solamente el sistema hace
+[01:52:49] dos validaciones. La primera es valida
+[01:52:52] la ecuación patrimonial, es decir, todo
+[01:52:54] lo que se vuelca como activo menos todo
+[01:52:57] lo que se vuelta como pasivo tiene que
+[01:52:59] ser igual al patrimonio neto. Si esto no
+[01:53:01] da, el sistema no les va a permitir
+[01:53:04] ingresar el archivo. Sí. Esto ya lo
+[01:53:06] realiza el sistema, yo no estoy en el
+[01:53:08] medio. El sistema solo va a ser esta
+[01:53:10] cuenta desde el archivo CSB y si esa
+[01:53:13] cuenta no da, el sistema rebota.
+[01:53:18] Y por último, lo que va a a comprobar es
+[01:53:21] que la cuenta, todo lo que se ingresa
+[01:53:23] como resultado positivo más lo que se
+[01:53:27] ingresa como resultado negativo porque
+[01:53:28] ingresa con saldo negativo, sea igual a
+[01:53:31] lo que se expone en la línea de
+[01:53:32] resultado del ejercicio.
+[01:53:34] Si esto no coincide, tampoco el sistema
+[01:53:37] va a permitir que ingrese, va a dar
+[01:53:39] error, que son los llamados que recibo
+[01:53:41] todos los días. Me dice que tengo error,
+[01:53:43] ¿qué tengo que hacer? Bueno, básicamente
+[01:53:45] el sistema les va a decir qué tipo de
+[01:53:47] errores, pero estas son solamente las
+[01:53:49] validaciones que realiza el sistema sin
+[01:53:51] que ningún humano esté en el medio.
+[01:53:52] Básicamente
+[01:53:56] podemos avanzar, Marc.
+[01:53:59] Podemos avanzar. Bien, vamos a una a un
+[01:54:02] tema que es pasamos muy por arriba, que
+[01:54:05] es básicamente las unidades
+[01:54:07] constructivas. Acá está un poco el
+[01:54:09] centro hacia delante de lo que es la
+[01:54:12] posibilidad de la integración de la
+[01:54:14] formación de inversiones, de inventario
+[01:54:17] y finalmente en lo que es la
+[01:54:20] contabilidad regulatoria. Esto es un
+[01:54:23] simple, rápido pantallazo. Acá tenemos
+[01:54:26] un ejemplo gráfico como unidad
+[01:54:28] constructiva. Y quiero que retengan
+[01:54:31] básicamente los conceptos que siguen,
+[01:54:33] que hacen básicamente a lo que es una
+[01:54:35] unidad constructiva desde el punto de
+[01:54:37] vista puramente técnico. Primero y algo
+[01:54:41] importante es la unidad constructiva
+[01:54:43] forma parte de la interpretación
+[01:54:46] de varios de un proyecto. ¿Qué quiere
+[01:54:48] decir? En un proyecto puede haber una o
+[01:54:51] varias unidades constructivas, depende
+[01:54:53] de cómo se dimensiona el proyecto. En
+[01:54:56] este caso, por ejemplo, es la suma de
+[01:54:58] todas las unidades constructivas.
+[01:55:00] Comenté, puede haber una única unidad
+[01:55:02] constructiva, pero puede haber varias
+[01:55:04] que integran toda una estructuración de
+[01:55:07] un proyecto. Hm. Pertenecen a distintos
+[01:55:09] tipos de instalaciones necesarios para
+[01:55:11] la ejecución de la obra realizar. La
+[01:55:13] unidad constructiva es una agrupación de
+[01:55:15] típicos de montaje constructivo que
+[01:55:17] conforman un estándar o un tipo de
+[01:55:20] construcción que pertenecen en general a
+[01:55:22] una familia de unidades constructivas y
+[01:55:26] a un tipo de instalación en particular.
+[01:55:29] Vamos a ver, tenemos una una familia de
+[01:55:31] unidades constructivas que son las redes
+[01:55:33] de media tensión. Tenemos un tipo de
+[01:55:35] instalación que son las líneas media
+[01:55:37] tensión de 33 K, que es la sumatoria de
+[01:55:41] los típicos de montaje constructivos que
+[01:55:44] están compuestos a su vez por típicos
+[01:55:46] montajes funcionales. Esto es una
+[01:55:49] desagregación
+[01:55:51] sucesiva para poder expresar
+[01:55:53] técnicamente y esta elaboración que fue
+[01:55:58] la resolución 13 en materia de unidades
+[01:56:01] constructivas al efecto de exponer las
+[01:56:03] las inversiones, justamente busca a
+[01:56:06] través de este de esta regulación de un
+[01:56:09] diccionario tratar de poder expresar las
+[01:56:13] inversiones en que se van a realizar
+[01:56:15] para adelante y que todas las las
+[01:56:18] empresas y distribuidoras electas vayan
+[01:56:20] montándose en esta metodología de
+[01:56:23] exposición de proyectos h sea pequeño o
+[01:56:27] sea grande, de tal manera que podamos
+[01:56:30] valuar y comparar razonablemente
+[01:56:33] los proyectos y la dimensión de los
+[01:56:35] proyectos y como último, por supuesto,
+[01:56:39] lo que hace al costo del proyecto. Vamos
+[01:56:42] a la definición de los típicos de
+[01:56:44] mantaje constructivo. Son unidades de
+[01:56:46] construcción individuales que sumados
+[01:56:48] integran la unidad constructiva. Obvio,
+[01:56:50] se subdividen típicos de montajes
+[01:56:52] funcionales. La instalación de un poste
+[01:56:55] de suspensión de una línea aérea de
+[01:56:57] media tensión h de 30 [carraspeo] kW. Y
+[01:57:00] después en los típicos de montaje
+[01:57:01] funcionales que son unidades de
+[01:57:03] destrucción mínimas y funcionales
+[01:57:06] compuestas por ensamblado de materiales
+[01:57:08] y de mano de obra. Hm. el baremo
+[01:57:11] necesarias para construir la un típico
+[01:57:14] desantaje constructivo, la instalación
+[01:57:17] de un típico de montaje constructivo, un
+[01:57:18] poste de suspensión de línea aérea 33
+[01:57:21] que tiene funcional el poste, los
+[01:57:23] aisladores, los soportes, las bases, los
+[01:57:27] tornillos y por supuesto la mano de
+[01:57:30] obra. tal vez en forma de exposición.
+[01:57:33] Esta sería la manera de poder visualizar
+[01:57:37] la las el uso de las unidades
+[01:57:39] constructivas al momento de eh encarar
+[01:57:43] un proyecto y que justamente eso es lo
+[01:57:46] que se busca a través de la creación de
+[01:57:49] las unidades constructivas,
+[01:57:51] desde el material, manejo de obras y
+[01:57:53] equipamiento, los típicos de montaje
+[01:57:56] funcional, que es lo que acabamos de
+[01:57:57] funir, y así sucesivamente hasta llegar
+[01:58:00] las unidades constructivas, que puede
+[01:58:01] ser una o varias que integran un
+[01:58:04] proyecto.
+[01:58:05] Eh, en este aspecto es importante porque
+[01:58:08] hace y los invito a a mirar la la 13.
+[01:58:12] Después, más adelante nosotros vamos a
+[01:58:16] analizar y poder implementar una
+[01:58:18] actualización de ese diccionario sin
+[01:58:21] desnaturalizar
+[01:58:23] lo que se hace
+[01:58:26] eh en cuanto a la regulación 13. Hm.
+[01:58:29] Entonces, acá tenemos un ejemplo
+[01:58:32] de un cómputo métrico y tenemos los
+[01:58:34] típicos montajes funcionales y así
+[01:58:37] sucesivamente hasta llegar a la parte de
+[01:58:40] materiales que se puede ver en la última
+[01:58:42] base de la derecha. Yo voy a pasar por
+[01:58:45] alto. Los cuadros no hacen no hacen a la
+[01:58:48] exposición, pero sí en cuanto a la al
+[01:58:49] cálculo. Tenés una salida de de una
+[01:58:52] estación transformadora, tenés una
+[01:58:54] familia de unidades constructivas que
+[01:58:55] están las redes de media tensión y los
+[01:58:57] equipos de maniobra. Tenés el tipo de
+[01:59:00] instalación que es una línea de media
+[01:59:01] atensión de 33, equipos de 33. los
+[01:59:05] códigos de unidades constructivas, esto
+[01:59:07] hace a poder gestionar la información
+[01:59:11] posteriormente, ¿no? Y la descripción de
+[01:59:13] las unidades constructivas en cada cosa.
+[01:59:15] Y por último, los típicos de montaje
+[01:59:18] constructivas, que también tienen sus
+[01:59:20] códigos. No quiero llegar hasta este
+[01:59:23] punto como para poder eh que comprendan
+[01:59:26] la importancia que significa la unidad
+[01:59:28] constructiva y todo les agregado a los
+[01:59:31] efectos de poder luego construir
+[01:59:35] e integrar lo que tenemos hoy como
+[01:59:37] código en el futuro en un diccionario
+[01:59:40] único. Y finalmente lo que hace la
+[01:59:43] exposición en la contabilidad
+[01:59:46] regulatoria, cuando ustedes vean tanto
+[01:59:48] en la de tanto en la de seguimiento,
+[01:59:50] pero también en contad
+[01:59:53] grupos que son la estructuración de los
+[01:59:55] activos eh e inversiones en la parte de
+[02:00:00] exposición, en lo que es baja tensión,
+[02:00:03] media atensión y alta tensión. Y ahí
+[02:00:06] entramos en todo lo que es este aspecto,
+[02:00:08] la registración contable de las
+[02:00:10] imputaciones por no corriente y
+[02:00:12] corriente respectivo cuando corresponde
+[02:00:14] a al proceso eh dinámico de exposición
+[02:00:18] de obras en curso y de activo ya en la
+[02:00:21] parte eh crítica de actividad y
+[02:00:24] activados. Bien, acá es simplemente una
+[02:00:27] cuestión de exposición, no los quiero
+[02:00:29] abrumar con cuadritos, etcétera, pero
+[02:00:31] hace un poco la exposición que recién
+[02:00:33] hablamos y llegar, fíjense, a la
+[02:00:36] cantidad de materiales, al costo
+[02:00:38] unitario de material. Bueno, una manera
+[02:00:40] este rica de poder finalmente llegar a
+[02:00:44] costear las obras. Bien, y por último,
+[02:00:48] ¿qué sigue? Bueno, acá eh vamos a hablar
+[02:00:50] rápidamente de los aspectos que tenemos
+[02:00:53] en visualización. relativamente en el
+[02:00:56] corto plazo y que merecen ser
+[02:00:58] mencionados porque hace al proceso de la
+[02:01:01] implementación de la contabilidad de
+[02:01:03] laboratorio. Entonces, hemos hablado de
+[02:01:05] lo conceptual, el marco normativo, hemos
+[02:01:08] hablado sobre los aspectos que hoy
+[02:01:11] vivimos y que gestionamos y vamos a ver
+[02:01:14] ahora un poco los temas que en general
+[02:01:18] mantienen que es la la el mantener vivo
+[02:01:21] este sistema, la dinámica, el ajustarse
+[02:01:24] a las necesidades propias del organismo
+[02:01:27] y de la entidad regulatoria y a la
+[02:01:29] propia dinámica de negocios. Cami,
+[02:01:32] bien. E como decía Marce, estamos
+[02:01:36] trabajando y seguimos tratando de pulir
+[02:01:39] todo esto en este ida y vuelta eh a
+[02:01:42] través de las presentaciones y a través
+[02:01:44] de los años, pero bueno, nos parece
+[02:01:45] super importante respecto a las
+[02:01:47] distribuidoras provinciales eh contar ya
+[02:01:51] con bueno, un informe de desempeño como
+[02:01:53] como fuimos realizando en todo este
+[02:01:55] tiempo desde el año 21 2025 que fue
+[02:01:58] desde la implementación de la resolución
+[02:02:00] 60. al último cierre eh de cualquiera de
+[02:02:05] las empresas y es importante,
+[02:02:09] que este estos informes se ajusten a las
+[02:02:12] variables claves sectoriales, como puede
+[02:02:14] ser la evolución de los componentes
+[02:02:16] tarifarios, el precio de la energía del
+[02:02:17] BAT, las deudas con camesa, etcétera. y
+[02:02:20] también que todos estos informes sean
+[02:02:23] tenidos en cuenta eh dentro de las
+[02:02:26] variables macroeconómicas a nivel de
+[02:02:27] actividad, el tipo de cambio nominal,
+[02:02:29] tasa de interés, eh y todas cuestiones
+[02:02:31] generales que han ido afectando en este
+[02:02:33] periodo, como nos tocó atravesar, como
+[02:02:35] fue la pandemia en su momento, eh que
+[02:02:37] sabemos que influyen tanto eh en la
+[02:02:39] actividad y no pueden ser no tenidos en
+[02:02:41] cuenta al momento de elaborar un informe
+[02:02:43] frío de números o de índices.
+[02:02:47] Así que bueno, estamos en pos de mejorar
+[02:02:50] nuestros nuestros informes y nuestros
+[02:02:52] análisis, teniendo en cuenta todo esto.
+[02:02:54] Y como les mencioné hoy, respecto a lo
+[02:02:56] que yo llamo universo cooperativo,
+[02:03:00] poder implementar un tablero para
+[02:03:03] explotar la información de manera más
+[02:03:05] ágil, eh, teniendo en cuenta una
+[02:03:09] metodología, como les dije, para
+[02:03:11] identificar a los grupos de cooperativas
+[02:03:12] un poco más de manera más razonable, que
+[02:03:15] para mi gusto, como les decía, eh la
+[02:03:17] desagregación que se utilizó para la
+[02:03:19] implementación de la contabilidad
+[02:03:20] regulatoria del desglose de
+[02:03:24] cooperativas de más de 5000 suministros
+[02:03:26] activos y menos de 5000 en su momento
+[02:03:28] servía para el momento, por ejemplo, de
+[02:03:31] establecer los plazos de implementación
+[02:03:33] y hoy nos resultan un poco pobres al
+[02:03:35] momento de analizar las variables de del
+[02:03:38] sector. Así que bueno, estamos estamos
+[02:03:42] un poquito metiendo metiéndonos más en
+[02:03:44] estos informes para tratar de evaluar el
+[02:03:46] desempeño a través de esta trayectoria
+[02:03:49] de indicadores, como les mostré en el
+[02:03:51] cuadro, que son claves para el análisis
+[02:03:53] del sector.
+[02:03:56] Bueno, y siguiendo con una parte que que
+[02:03:59] se ha visto en todo lo que son los
+[02:04:02] tableros, en lo que hacen los procesos
+[02:04:03] de información, que es eh ver la parte
+[02:04:07] de inversiones. Evidentemente el grupo
+[02:04:09] DESA, que son las cuatro empresas
+[02:04:12] provinciales, [risas] son un primer
+[02:04:14] marco sobre el cual trabajamos, que es
+[02:04:17] básicamente enriquecer el seguimiento
+[02:04:19] trimestral a partir de la información o
+[02:04:22] la actualización de protocolos, que
+[02:04:24] siempre buscamos que esto se haga en
+[02:04:26] forma coordinada. una colaboración
+[02:04:28] activa de la dirección provincial de
+[02:04:29] energía en los aspectos técnicos y en
+[02:04:32] los relación de los planes. Acá
+[02:04:33] nuevamente el organismo de control tiene
+[02:04:36] sus técnicos, tiene su estructura, pero
+[02:04:38] hace control y la necesidad de la parte
+[02:04:42] técnica pura, evidentemente está apoyada
+[02:04:45] en lo que es la dirección provincial de
+[02:04:47] energía propiamente dicha. Y luego, como
+[02:04:50] ustedes saben, eh como está en marcha el
+[02:04:52] tema del RTI, proveer la información que
+[02:04:55] sea indispensable o solicitada por la
+[02:04:59] subsecretaría en todo este proceso.
+[02:05:02] Esto es lo que estamos involucrados.
+[02:05:04] Hay, por supuesto, cantidad de cosas que
+[02:05:07] antes de poder exponerlas requieren
+[02:05:10] mucho trabajo de elaboración.
+[02:05:12] Eh, y como ustedes se dan cuenta, el
+[02:05:15] sistema de contabilidad regulatorio como
+[02:05:17] un proceso y como un sistema de
+[02:05:19] información es complejo, es elaborado,
+[02:05:23] es dinámico y a veces, y esto es
+[02:05:27] evidentemente a veces se puede contar o
+[02:05:30] no se cuenta en el momento para con los
+[02:05:33] recursos necesarios. tenemos los
+[02:05:36] adecuados porque creo que hasta ahora, a
+[02:05:38] pesar de todas las renuncias o
+[02:05:41] jubilaciones, porque eso ocurre
+[02:05:42] naturalmente, eh hemos alcanzado luego
+[02:05:46] de estos 5 o 6 años eh un proceso
+[02:05:49] razonablemente este armónico, muy
+[02:05:53] informativo, eh siempre con una
+[02:05:56] interacción muy poderosa con las
+[02:05:59] cooperativas y con las distribuidades
+[02:06:00] provinciales, que son básicamente a los
+[02:06:03] cuales
+[02:06:05] Nosotros debemos controlar, debemos
+[02:06:08] supervisar, debemos establecer los
+[02:06:10] marcos
+[02:06:12] de irregulaciones este correspondientes
+[02:06:15] para la gestión de este modelo de
+[02:06:18] concesión eléctrica y bueno, que se
+[02:06:20] trata de hacer eh en general con la
+[02:06:23] mayor armonía posible. Bueno, con esto
+[02:06:27] creo, y con esto creo que terminamos, se
+[02:06:31] responden de alguna manera y se deja la
+[02:06:33] inquietud sobre las famosas tres
+[02:06:36] primeras preguntas, que es, ¿qué es la
+[02:06:39] contabilidad regulatoria? ¿Qué
+[02:06:41] imaginabas que debemos permitir?
+[02:06:44] ¿Y cómo la implementaríamos? Creo que en
+[02:06:47] estas 2 horas y pico, mate de por medio,
+[02:06:51] hemos con Camila tratado de exponer un
+[02:06:53] poco el camino que que seguramente no ha
+[02:06:57] sido perfecto en estos últimos años,
+[02:06:59] pero con los desafíos de justamente
+[02:07:03] todos los temas que todos ustedes
+[02:07:05] conocen, hemos llegado a lo que hoy
+[02:07:07] ustedes vieron como el sistema de
+[02:07:09] información que hoy tenemos y que
+[02:07:12] seguramente sabremos mejorar. eh
+[02:07:16] seguramente con la ayuda de todos
+[02:07:17] ustedes. Así que bueno, este es el
+[02:07:20] mensaje final que queremos dar y ante
+[02:07:23] todo eh gracias, la verdad, gracias por
+[02:07:27] por habernos escuchado, eh y quedan
+[02:07:30] abierta el espacio para las preguntas
+[02:07:32] que ustedes deseen.
+[02:07:34] Ahí estoy viendo, Marce, en el chat del
+[02:07:36] grupo eh una pregunta de Gabi Marcelino,
+[02:07:39] con la que trabajo todos los días muy a
+[02:07:41] gusto
+[02:07:42] en esta idea y vuelta de consultas. que
+[02:07:45] dice, "Cuando terminan les quería
+[02:07:46] consultar cómo ven hoy ya con unos años
+[02:07:48] de implementación las respuestas de las
+[02:07:50] cooperativas a las resoluciones
+[02:07:52] mencionadas y por supuesto felicitarlos
+[02:07:54] a los dos por la clase y el compromiso
+[02:07:55] en su tarea diaria." Bueno, muchas
+[02:07:57] gracias por lo que nos toca. Eh, bueno,
+[02:08:02] el nivel de respuesta, eh, la realidad
+[02:08:06] es que como les dije al principio de de
+[02:08:09] la presentación, sigo teniendo tres o
+[02:08:11] cuatro reuniones por día con las
+[02:08:13] cooperativas chiquitas que están
+[02:08:14] intentando poder poner esto en práctica.
+[02:08:17] todas manifiestan su voluntad y su
+[02:08:21] compromiso en querer cumplir, aunque no
+[02:08:24] tengan los recursos eh tanto de personas
+[02:08:28] o de sistemas necesarios para poder
+[02:08:30] hacerlo. E realmente mes a mes voy
+[02:08:34] viendo el aumento en la participación,
+[02:08:37] si bien la totalidad de las cooperativas
+[02:08:40] hoy por hoy no están cumpliendo con la
+[02:08:42] presentación de la resolución 60, sí con
+[02:08:45] la 753.
+[02:08:47] salvo una o dos excepciones de algunas
+[02:08:49] cooperativas que están con algunos
+[02:08:50] problemas específicos, pero podemos
+[02:08:52] decir que la resolución 753 ya está
+[02:08:55] totalmente arraigada y y y es de una de
+[02:08:59] un cumplimiento del 100%. Pero en la
+[02:09:02] resolución 60 todavía hay algunas
+[02:09:04] cooperativas, especialmente las más
+[02:09:05] chiquititas, que les está costando eh
+[02:09:08] esta traducción de poder poner eh su
+[02:09:11] plan de cuentas en un plan de cuentas
+[02:09:13] regulatorio, en este desglose, como les
+[02:09:15] decía, que el sistema regulatorio exige
+[02:09:18] y estamos trabajando diariamente para
+[02:09:20] que puedan hacerlo.
+[02:09:22] Bien, eh a mí me ha tocado estar en las
+[02:09:25] implementaciones desde un inicio y vamos
+[02:09:28] tirando las cosas, entre ella, Camica la
+[02:09:30] recibe de abajo y hace algunas malabares
+[02:09:33] para poder este desarrollar la actividad
+[02:09:36] diaria. un poco lo ha expresado y puedo
+[02:09:39] decir que eh partiendo de arriba para
+[02:09:41] abajo nosotros comenzamos este proyecto
+[02:09:44] con el apoyo y el desafío por parte de
+[02:09:46] las provinciales que han colaborado y ha
+[02:09:49] sido muy positivo y luego con distintas
+[02:09:51] etapas, hoy con inventarios muchísimo
+[02:09:53] más avanzados, eh seguramente eh el tema
+[02:09:58] RTI ha colaborado y te diría que en este
+[02:10:01] punto las cooperativas han sido de gran
+[02:10:03] ayuda. El mensaje, como pasa, pasó
+[02:10:07] recién Cami, que también comenté yo, es
+[02:10:09] la necesidad de ir ajustando tiempos y
+[02:10:11] que la información que se requiere es
+[02:10:14] necesaria, que hay plazos, que
+[02:10:18] no es intención la sanción, es siempre
+[02:10:21] la última mención, ¿no?, para todo eso,
+[02:10:23] pero que eh siempre tenemos la la los
+[02:10:28] mails y los y los teléfonos abiertos
+[02:10:31] para terminar y concluir las
+[02:10:32] implementaciones o los problemas que
+[02:10:34] surjan. Hm. Eh, eso en términos de
+[02:10:37] inventario. Creo que la contabilidad
+[02:10:39] como tal está muy rica, está muy muy
+[02:10:42] bien desarrollada, está muy ampliada.
+[02:10:44] Ahora hay que explotarla de parte
+[02:10:46] nuestra y estamos en ese camino. Luego
+[02:10:48] en la partida de unidades constructivas,
+[02:10:50] creo que ha sido claro, partimos con
+[02:10:51] unidades constructivas, las estamos
+[02:10:53] empezando a implementar en forma más más
+[02:10:56] extensa, van a seguir las cooperativas
+[02:10:58] más adelante, pero eh queremos
+[02:11:01] asegurarnos de tener un diccionario de
+[02:11:04] unidades constructivas rica, amplio. en
+[02:11:07] eso hemos estado trabajando y que
+[02:11:09] posteriormente el paso posterior va a
+[02:11:11] ser aprovechando la implementación de la
+[02:11:14] de inventario y las
+[02:11:17] el diccionario del código se va a hacer
+[02:11:19] una migración de unidades constructivas
+[02:11:21] en forma eh ágil y más clara, menos de
+[02:11:26] menos sorpresas. Así que bueno, ese es
+[02:11:29] un poco el estado de situación. Eh, es
+[02:11:32] la parte más desafiante para adelante.
+[02:11:34] Eh, siempre hemos contado y en ese
+[02:11:36] sentido con el apoyo tanto de
+[02:11:38] distribuidoras provinciales como
+[02:11:39] cooperativas y des el punto de vista del
+[02:11:41] apoyo de la parte regulatoria y política
+[02:11:44] en poder llegar progresivamente a tener
+[02:11:48] un sistema íntegro de contabilidad como
+[02:11:51] sistema de información. Así que creo que
+[02:11:54] te hemos contestado, Gabi, eh, me
+[02:11:56] parece. Espero que sí.
+[02:11:58] Sí, sí, sí. Gracias. [risas] Así que
+[02:12:01] bueno, eh nuevamente muchas gracias,
+[02:12:03] muchas, muchas gracias por la paciencia
+[02:12:05] de habernos escuchado a Cami y a mí. Y
+[02:12:09] bueno, eh es una diplomatura que va a
+[02:12:12] enriquecer a todos por igual y ya le
+[02:12:14] digo, un lenguaje uniforme, igual y de
+[02:12:18] conocimiento básico para todos los
+[02:12:20] niveles que integran eh
+[02:12:23] las la autoridad y los organismos, así
+[02:12:26] como las empresas distribuidor
+[02:12:28] eléctrica. Bueno, de mi parte, muchas
+[02:12:31] gracias. Eh, Cami, no sé si queres
+[02:12:34] hay alguna alguna otra pregunta. Eh,
+[02:12:37] nada, a mí me parece super importante
+[02:12:38] que más allá de cuestiones específicas
+[02:12:40] de la normativa que hablamos, que se
+[02:12:42] puede consultar, por supuesto, eh pero
+[02:12:45] que bueno que estas tres preguntas con
+[02:12:46] las que iniciamos nuestra presentación,
+[02:12:49] eh los que hayan podido participar de de
+[02:12:51] este encuentro las pueden responder
+[02:12:53] fácilmente sin ir a ninguna a ningún
+[02:12:55] papel y a ninguna hoja eh que sepan y
+[02:12:58] tengan en claro qué es lo que es la
+[02:12:59] contabilidad regulatoria, qué lo difiere
+[02:13:01] de una contabilidad tradicional, eh qué
+[02:13:04] es lo que obtenemos. os de esto, ¿no?
+[02:13:06] Porque también más allá de todo este
+[02:13:07] proceso arduo, es importante saber
+[02:13:09] cuáles son los productos y cuál es la
+[02:13:11] importancia para que para qué es tan
+[02:13:14] importante esta que es una herramienta
+[02:13:17] tanto para la gestión como una base de
+[02:13:20] información para los usuarios, que para
+[02:13:22] mí es lo más importante. Así que espero
+[02:13:24] que que esas tres preguntas las puedan
+[02:13:26] responder solo por haber estado acá
+[02:13:28] escuchándonos un rato. Y bueno, estamos
+[02:13:31] abiertos a cualquier tipo de pregunta
+[02:13:32] que que tengan.
+[02:13:36] Bueno, otro. Gracias, muy buena
+[02:13:38] exposición, dice Claudio. Gracias.
+[02:13:41] Así que bueno, de parte nuestro darle
+[02:13:44] las gracias otra vez. Así que bueno, el
+[02:13:47] próximo curso de contabilidad
+[02:13:48] regulatoria, como dicimos, ¿no?
+[02:13:50] Muchas gracias. Muchas gracias a
+[02:13:51] ustedes, este, por la clase, por la
+[02:13:53] disposición, por el armado y la
+[02:13:56] predisposición que tuvieron desde el
+[02:13:57] primer minuto cuando los convocamos. Así
+[02:13:58] que bueno, nada, gracias Camila, gracias
+[02:14:01] Marcelo, gracias a todos. No sé si queda
+[02:14:04] alguna pregunta por ahí, si no ya damos
+[02:14:07] por terminada la clase.
+[02:14:10] Muchas gracias. Muchas gracias. Todo muy
+[02:14:12] claro, van ahí en el chat,
+[02:14:16] pero bueno, todos son agradecimientos,
+[02:14:17] así que contentos con con la clase,
+[02:14:21] ¿no? Aparte hoy hoy por lo que estuve
+[02:14:23] mirando con en quiénes estaban
+[02:14:24] participando mientras daban los
+[02:14:26] presentes y hablaban, eh la mayoría
+[02:14:29] participaron activamente en el proceso
+[02:14:31] de implementación. Bueno, recién lo vi a
+[02:14:32] Marcos de Piüé, bueno, eh, a varios, eh,
+[02:14:35] así que estábamos compartiendo
+[02:14:37] compartiendo lenguaje, eh, así que
+[02:14:40] bueno, eh, es lindo reencontrarnos
+[02:14:43] después de de todo eso que fue bastante
+[02:14:45] agotador y arduo y estar compartiendo
+[02:14:48] esto me parece supervalioso,
+[02:14:51] ¿no? La verdad este es así como lo
+[02:14:53] plantea Cami. Es un ha sido un desafío
+[02:14:56] para nosotros y para las empresas
+[02:14:57] también, pero creo que estuvimos bien
+[02:14:59] orientados y que vamos a seguir bien
+[02:15:01] orientados en la dinámica y la
+[02:15:04] continuidad de la implementación. Así
+[02:15:06] que bueno, gracias, gracias Guillermina,
+[02:15:08] gracias Fabián, gracias Cami,
+[02:15:11] gran compañera de curso y a
+[02:15:13] un placer desde el día un placer.
+[02:15:17] Placer, chicos.
+[02:15:18] Gracias a ustedes, a todos. Nos vemos el
+[02:15:20] martes próximo. Buena semana.

@@ -1,0 +1,1739 @@
+[00:00:04] no no no
+[00:00:11] hola buenas tardes
+[00:00:13] cómo les va
+[00:00:15] buenas tardes a todos
+[00:00:17] bueno aquí estamos con la clase número 5
+[00:00:21] del módulo 3 de esta diplomatura en
+[00:00:24] transición energética
+[00:00:26] y vamos comenzando
+[00:00:29] le voy a dar la palabra
+[00:00:32] hernán
+[00:00:35] bueno
+[00:00:37] [Música]
+[00:00:40] así que
+[00:00:44] comencemos daniel pablo buenas tardes
+[00:00:49] saludando gente en el chat
+[00:00:52] hola buenas tardes
+[00:00:56] como estaba todo bien
+[00:01:02] bueno te voy a poner como anfitriona
+[00:01:05] compartir pantalla
+[00:01:09] sí
+[00:01:15] listo bueno yo me quedo aquí hernán
+[00:01:18] cuando necesites
+[00:01:22] consultas y después al final pero
+[00:01:24] ponemos las preguntas los alumnos
+[00:01:27] muchas gracias
+[00:01:34] bueno
+[00:01:37] bienvenidos a la beta
+[00:01:40] y una presentación
+[00:01:41] [Música]
+[00:01:43] a este pueblo
+[00:01:47] sobre almacenamiento energético
+[00:01:50] está
+[00:01:52] hacer presentación que hacemos sobre el
+[00:01:54] tema
+[00:01:56] recuerden que
+[00:01:58] analizando las presentaciones anteriores
+[00:02:01] los motivos por los fundamentos
+[00:02:05] sobre el almacenamiento de energía 3par
+[00:02:09] que es necesario el almacenamiento de
+[00:02:12] parís
+[00:02:15] vivos
+[00:02:18] las primeras alternativas que vemos
+[00:02:22] están disponibles para lograr este
+[00:02:24] almacenamiento
+[00:02:26] grupo d
+[00:02:29] con viento térmico
+[00:02:34] presenta la última presentación
+[00:02:36] estuvimos viendo
+[00:02:38] las alternativas de almacenamiento
+[00:02:41] mecánico
+[00:02:44] hoy vamos a tratar el set
+[00:02:49] el tercer grupo
+[00:02:51] la tercera clase
+[00:02:52] [Música]
+[00:02:56] o sea activa expondría para el
+[00:03:00] almacenamiento de energía
+[00:03:02] [Música]
+[00:03:05] correspondiente
+[00:03:10] 5
+[00:03:14] recuerde que yo les comenté
+[00:03:19] esta clasificación es
+[00:03:22] está sintetizada
+[00:03:26] y vamos a ver que en este caso para
+[00:03:29] equipo electrónico
+[00:03:34] vamos a considerar
+[00:03:37] un amplio campo
+[00:03:41] variedad de cabrera de dispositivos
+[00:03:44] [Música]
+[00:03:48] en un principio de funcionamiento no
+[00:03:50] solamente electroquímico simplemente de
+[00:03:53] tipo estático
+[00:03:54] [Música]
+[00:03:56] en todas estas variantes las innovamos
+[00:03:59] dentro de esta clasificación
+[00:04:02] [Música]
+[00:04:07] vamos a comenzar entonces
+[00:04:10] analizando
+[00:04:11] [Música]
+[00:04:15] una variante
+[00:04:17] el tipo
+[00:04:21] electroquímico que creo que basa su
+[00:04:23] funcionamiento en un principio
+[00:04:27] electroestático cuando hablamos de
+[00:04:32] electroestática nos referimos a
+[00:04:38] el principio eléctrico el cual
+[00:04:41] se estudia
+[00:04:43] se realiza
+[00:04:46] la interrelación entre las cargas
+[00:04:48] eléctricas
+[00:04:51] discúlpame
+[00:04:57] se escucha
+[00:04:59] abierta
+[00:05:03] si necesitan está abierto
+[00:05:06] youtube porque te vamos a escuchar a 22
+[00:05:09] veces
+[00:05:31] no
+[00:05:32] [Música]
+[00:06:44] de vuelta
+[00:06:51] entonces
+[00:06:53] e
+[00:06:55] de todos los elementos y lo muestro un
+[00:06:59] esquema sobre las partes conforman
+[00:07:04] estos dispositivos
+[00:07:06] capacitores
+[00:07:09] y un capacitor se caracteriza por tener
+[00:07:13] un terminal o un electrodo
+[00:07:17] conductor
+[00:07:20] donde se acumulan cargas positivas
+[00:07:26] terminal o electrodo negativo donde se
+[00:07:29] acumulan cadenas
+[00:07:34] las cargas positivas y las negativas
+[00:07:38] entre medio de los costos
+[00:07:42] se coloca o se pone un material aislante
+[00:07:47] eléctrico o material eléctrico
+[00:07:51] usar características
+[00:07:54] principales es su alta resistencia es
+[00:07:58] decir
+[00:07:59] es un material que
+[00:08:02] impide
+[00:08:04] el paso de estas cargas
+[00:08:07] es un terminal al otro es decir todas
+[00:08:13] las cargas eléctricas ya sean positivas
+[00:08:16] o negativas se acumulan en cada de su
+[00:08:19] correspondiente terminal y no pueden
+[00:08:22] atravesar
+[00:08:24] porque es muy difícil atravesar este
+[00:08:28] material que está entre ellas
+[00:08:31] ser un esquema básico sobre la
+[00:08:34] constitución de un capacitor
+[00:08:36] [Música]
+[00:08:41] la
+[00:08:43] el factor que define la característica
+[00:08:46] de funcionamiento de un capacitor
+[00:08:48] se dominan capacitar
+[00:08:52] con una lista
+[00:08:54] c mayúscula y esta capacitancia queda
+[00:08:57] definida por qué
+[00:09:00] tres factores uno que estoy marcando
+[00:09:03] aquí
+[00:09:05] se refiere a la
+[00:09:09] pero es una característica del material
+[00:09:12] aislante eléctrico
+[00:09:17] que esa capacidad de aislar o impedir el
+[00:09:22] paso de las calles está definido con
+[00:09:24] este factor que se llama permisividad
+[00:09:26] del material
+[00:09:28] estancia
+[00:09:31] por otro lado tenemos otro factor este
+[00:09:35] factor es el área
+[00:09:38] de la superficie
+[00:09:41] de los electrodos es blanca
+[00:09:47] una de las cargas creativas por otro
+[00:09:49] lado las cargas positivas y una
+[00:09:52] superficie
+[00:09:53] [Música]
+[00:09:55] en contacto con el exterior
+[00:09:57] y una superficie
+[00:10:00] y como podemos ver aquí
+[00:10:03] tanto ya esta superficie como la
+[00:10:06] permitida el material eléctrico son
+[00:10:09] proporcionales pérez en cuanto mayor son
+[00:10:13] estos valores del
+[00:10:15] área de superficie de las placas
+[00:10:20] mayor va a ser
+[00:10:23] esta característica de capacitarse
+[00:10:28] a su vez tenemos el término que es de
+[00:10:30] que es la distancia con la separación
+[00:10:34] entre
+[00:10:36] los dos electrodos y aquí como
+[00:10:41] de esta distancia está
+[00:10:45] el operador abierto
+[00:10:48] esta expresión es que cuanto menor es la
+[00:10:53] distancia mayor a 0
+[00:11:00] y todo a grandes rasgos
+[00:11:08] podemos
+[00:11:12] andrés ar las partes y las
+[00:11:15] características de un capacitor
+[00:11:28] demostrando aquí es una imagen
+[00:11:31] una
+[00:11:34] son
+[00:11:36] el desarrollo de un capacitor se ilumina
+[00:11:40] de capa
+[00:11:43] ofrece para este esta variante
+[00:11:47] podemos ver qué
+[00:11:49] los electrodos positivos
+[00:11:54] negativo en cambio ésta no aparece con
+[00:11:58] respecto al material de
+[00:12:01] una división en separador
+[00:12:05] y de transformarse tardes en zonas con
+[00:12:08] dos capas
+[00:12:12] eléctrico de su vez dos zonas de
+[00:12:15] acumulación de cadenas
+[00:12:22] con capacitores
+[00:12:27] tiene la cabeza que incrementa
+[00:12:29] notablemente la capacitancia es decir
+[00:12:32] ésta está permitida y eléctrica es muy
+[00:12:37] muy elevada comparado con los pastores
+[00:12:42] convencionales los electrolíticos
+[00:12:47] y toca pastores de doble capa en la
+[00:12:51] capacitancia
+[00:12:54] superior
+[00:12:57] y una pregunta es cómo podemos o sea
+[00:12:59] para que
+[00:13:01] necesitamos
+[00:13:03] podemos emplear de estas características
+[00:13:08] los pastores
+[00:13:11] por su construcción
+[00:13:14] y sus
+[00:13:15] características
+[00:13:18] en acción
+[00:13:22] básicamente el cap a 5
+[00:13:27] el hecho de poder acumular cargas
+[00:13:31] electrodos es una forma de almacenar
+[00:13:35] energía
+[00:13:37] no sólo podemos definir esa energía que
+[00:13:40] almacena el capacitor
+[00:13:43] en forma de campo eléctrico
+[00:13:46] como el producto de esa capacitancia que
+[00:13:50] estamos
+[00:13:51] al principio
+[00:13:55] por el cuadrado de la diferencia de
+[00:13:59] potencial o de las direcciones de cada
+[00:14:03] los
+[00:14:04] hospitales del capacitador necesita
+[00:14:07] entre estos 33 positivo y negativo
+[00:14:10] colocamos una fuente de tensión
+[00:14:14] psd
+[00:14:16] amanecer o que sea muy elevado con
+[00:14:20] el pequeño voltaje
+[00:14:22] 35 bots
+[00:14:25] con este capacitor de doble capa se
+[00:14:28] pueden obtener e importante
+[00:14:32] valores
+[00:14:34] [Música]
+[00:14:36] entonces que estamos presentando
+[00:14:44] esta alternativa
+[00:14:49] almacenamiento de bg de fibra que son
+[00:14:51] capacitores
+[00:14:55] acá
+[00:14:57] este esta variante que es de doble capa
+[00:15:03] posiblemente luego
+[00:15:07] han escuchado pero han visto pertenencia
+[00:15:10] a la que se unirán super capacitores
+[00:15:14] esta doble capa
+[00:15:17] incrementar notablemente la capacitancia
+[00:15:19] y por ello la posibilidad de almacenar
+[00:15:23] capacitores almacenan grandes cantidades
+[00:15:36] la ventaja que presenta este
+[00:15:39] en este dispositivo en cuanto a el
+[00:15:43] almacenamiento
+[00:15:51] podemos mencionar
+[00:15:53] sí
+[00:15:54] el electrodo de todos
+[00:15:58] los materiales
+[00:16:02] de sólidos el material eléctrico también
+[00:16:06] eléctrico
+[00:16:09] en el proceso de acumulación de carga no
+[00:16:11] se produce ninguna reacción química a
+[00:16:14] ninguna transformación limita eso le
+[00:16:18] confiere el capacitor de una
+[00:16:20] característica
+[00:16:24] elevada durabilidad
+[00:16:27] está sometido a transformaciones
+[00:16:30] internas
+[00:16:33] el proceso químico la formación
+[00:16:37] en el super capacitor
+[00:16:40] el capacitor
+[00:16:43] características de
+[00:16:45] elevación
+[00:16:49] repite elevada cantidad de ciclos de
+[00:16:53] carga y descarga
+[00:17:02] en este cuadro usted este
+[00:17:06] tendrá más interesante porque permite
+[00:17:10] comparar
+[00:17:14] distinta
+[00:17:16] variante en cuanto al almacenamiento de
+[00:17:19] energía
+[00:17:20] y
+[00:17:23] pero los capacitores
+[00:17:26] y si mantenemos supuestos opositores
+[00:17:30] recuerda la presentación pasada cuando
+[00:17:33] mismo transforma de
+[00:17:34] mecánico
+[00:17:38] el volante y next
+[00:17:39] [Música]
+[00:17:41] tengo las baterías del fútbol
+[00:17:44] y ya vamos a ver
+[00:17:46] sí
+[00:17:48] interesante este gráfico que muestra la
+[00:17:50] relación
+[00:17:51] entre
+[00:17:54] de necesidad de energía respecto a la
+[00:17:56] potencia
+[00:17:59] acotex
+[00:18:00] cuando hablamos de densidad de energía
+[00:18:03] pues veremos que las unidades
+[00:18:07] cuántos una por kilogramo en este
+[00:18:11] gráfico
+[00:18:13] aceptar es una relación entre la energía
+[00:18:16] por quino si comparamos
+[00:18:20] para cada uno de los demás
+[00:18:26] cautivos
+[00:18:28] almacenamos de la festividad
+[00:18:32] se llama densidad del
+[00:18:36] con la potencia y por cada kilogramo de
+[00:18:41] a estas variantes
+[00:18:44] conquistamos la potencia que puede
+[00:18:46] suministrar vamos a tener la densidad de
+[00:18:49] potencia
+[00:18:52] este gráfico no encuentra otra
+[00:18:54] carretilla particular de los capacitores
+[00:18:56] y los super capacitores
+[00:19:00] y
+[00:19:01] están ubicados en cuanto a la intensidad
+[00:19:05] de energía extra nos explicado en la
+[00:19:06] parte inferior
+[00:19:07] que es una
+[00:19:15] perfecto eso quiere decir que si vieran
+[00:19:18] como una energía
+[00:19:26] o sea deseado la cantidad de leche que
+[00:19:29] pueden acumular por kilogramo es
+[00:19:32] inferior a 10 por ciento aunque clarito
+[00:19:35] cínica o un volante dices
+[00:19:39] tanto para los capacitores como los
+[00:19:41] súper capacitores civil con esta mejora
+[00:19:45] de material nosotros acá pastores han
+[00:19:48] logrado incrementar si todavía están por
+[00:19:52] debajo por ciento de las baterías
+[00:19:56] pero observen que la potencia de
+[00:19:58] potencia
+[00:20:01] y es interesante es notorio y super
+[00:20:04] capacitores pero notablemente al resto
+[00:20:06] de las opciones es decir que estos
+[00:20:10] dispositivos
+[00:20:13] si bien
+[00:20:15] no logran almacenar mucha energía con
+[00:20:19] nosotros otros mediantes
+[00:20:21] si pueden crear mucha potencia y eso
+[00:20:25] [Música]
+[00:20:28] bueno se acerca
+[00:20:31] al uso o aplicación para las redes de
+[00:20:34] alta tensión es decir estos dispositivos
+[00:20:38] estos casi todos los capacitores los
+[00:20:41] podemos conectar con mayor facilidad al
+[00:20:45] redes de media alta y alta tensión de
+[00:20:48] grandes potencias
+[00:20:50] porque presentan elevada densidad de
+[00:20:54] potencia
+[00:20:55] por ejemplo para compensar alguna
+[00:20:57] variación joven tania cuando la ciencia
+[00:21:02] puede ser
+[00:21:04] [Música]
+[00:21:05] pero por qué
+[00:21:09] maría
+[00:21:11] suministro positivo
+[00:21:19] d
+[00:21:22] son capaces de pensar mientras el
+[00:21:26] contrario cuando hay un exceso
+[00:21:29] de potencia las capacidades de
+[00:21:32] absorberlos
+[00:21:39] y les muestro de macri me parece
+[00:21:41] interesante porque
+[00:21:44] en comparación solamente en cuanto a las
+[00:21:46] características sino también en cuanto a
+[00:21:48] los tamaños
+[00:21:48] [Música]
+[00:21:50] tenemos la izquierda
+[00:21:54] es un capacitor
+[00:21:56] comprensión al tipo electrónico
+[00:22:00] pedimos el material
+[00:22:04] hay tanto material
+[00:22:07] [Música]
+[00:22:08] eléctrico
+[00:22:10] en capaces y un capacitor convencional
+[00:22:16] capacitores tienen una capacitancia
+[00:22:19] relativamente
+[00:22:24] en este caso
+[00:22:27] para dios
+[00:22:30] y la energía que almacena en
+[00:22:34] 194 schultz
+[00:22:38] tiene
+[00:22:39] este capacitor común encontrarme en las
+[00:22:43] aplicaciones de relaciones divertidas de
+[00:22:46] potencia de baja tensión
+[00:22:55] sus inversores ustedes
+[00:22:56] [Música]
+[00:23:00] tenemos otro capacitor también de tipo
+[00:23:03] electrolítico este se llama aplicado
+[00:23:07] puedes tener una aplicación
+[00:23:08] [Música]
+[00:23:14] la consistencia
+[00:23:17] qué
+[00:23:22] pero esta unidad es mini para dios
+[00:23:27] esta es la capacitancia
+[00:23:30] 2
+[00:23:32] el de la derecha el segundo 390 metros
+[00:23:36] para los de
+[00:23:39] energía que almacenan casi 40 tours
+[00:23:44] el tercero corresponde al super
+[00:23:46] capacitor incapacitado
+[00:23:53] y se puede una diferencia hacer una
+[00:23:55] comparación de capacitancia este tiene
+[00:23:58] 310 para dios
+[00:24:01] [Música]
+[00:24:02] la impresa
+[00:24:04] importante puesto a la capacitancia
+[00:24:09] será la atención al ser tan elevada a la
+[00:24:12] capacitancia necesario aunque cambia
+[00:24:14] niveles de inversión de
+[00:24:18] 7,7
+[00:24:21] web
+[00:24:23] tiene una capacidad de almacenamiento de
+[00:24:24] mil 129 soles
+[00:24:30] hacer una diferencia
+[00:24:31] [Música]
+[00:24:34] como se incrementa la capacidad de
+[00:24:37] almacenamiento de energía comparado con
+[00:24:39] los capacitores electrónicos
+[00:24:43] luego tenemos en la cuarta posición
+[00:24:46] una batería de
+[00:24:50] mauricio
+[00:24:54] es
+[00:24:56] comparable con el super capacitor
+[00:24:59] observen la capacidad de almacenaje
+[00:25:02] 14000
+[00:25:05] entonces míchel una capacidad superior
+[00:25:08] en el super capacitor ya eso se debe
+[00:25:12] a que la batería buenas utilidades
+[00:25:14] electroquímica en el mayor densidad
+[00:25:17] energética se pueden acumular la mayor
+[00:25:20] cantidad de energía por unidad de más
+[00:25:24] se puede sacar a la crítica
+[00:25:27] respecto a la necesidad de masaje tabaco
+[00:25:37] poca cosa
+[00:25:39] finalmente
+[00:25:42] pues estás dispositivos comparados con
+[00:25:44] un encendedor
+[00:25:45] [Música]
+[00:25:48] pregunta
+[00:25:52] es interesante el tema que porque nos da
+[00:25:54] una idea
+[00:25:57] una referencia para comparar tamaños y
+[00:26:01] las características
+[00:26:12] lo que les muestro una
+[00:26:15] un esquema
+[00:26:17] relacionado con cómo se conforma con
+[00:26:20] está influido
+[00:26:22] un súper capacitor
+[00:26:26] tenemos
+[00:26:29] una capa
+[00:26:35] no puede tener los elementos
+[00:26:39] para articular las cargas positivas y
+[00:26:42] negativas
+[00:26:47] en mi imagen
+[00:26:54] se pueden ver
+[00:26:57] colores
+[00:27:00] podemos ver qué
+[00:27:02] con ésta
+[00:27:05] de la mina de carbón
+[00:27:11] entre los por detrás de un as
+[00:27:14] los separadores
+[00:27:16] esto separador para hacer los elementos
+[00:27:18] eléctricos
+[00:27:21] y una de estas dos capas
+[00:27:24] para que sea una idea
+[00:27:26] respecto a la separación
+[00:27:28] entre
+[00:27:31] proyectores
+[00:27:34] estamos hablando de
+[00:27:37] distancias
+[00:27:40] de los metros
+[00:27:42] [Música]
+[00:27:43] ah
+[00:27:44] [Música]
+[00:27:46] la estancia de
+[00:27:47] recordar cuándo
+[00:27:49] pero recién
+[00:27:52] la característica de capacitancia
+[00:27:56] esa esa ética tiende a aumentar cuando
+[00:27:59] reducimos en la distancia de separación
+[00:28:02] entre los electrodos pero terminales
+[00:28:06] gracias a estos materiales
+[00:28:09] se puede mantener esa
+[00:28:14] y había eléctrica a una distancia
+[00:28:16] desesperación del orden de 21 metros
+[00:28:19] [Música]
+[00:28:21] eso le confiere al super capacitor esas
+[00:28:24] características tan importantes de
+[00:28:26] capacitarse
+[00:28:35] pero si quieres muestra las variantes en
+[00:28:37] cuanto a
+[00:28:39] los fáciles que podemos cortar
+[00:28:44] capacitores entonces vamos a encontrar
+[00:28:53] en cuanto a el sector y todo el material
+[00:28:57] directo vamos a encontrar
+[00:29:00] mediante un decreto de tipo a curso
+[00:29:05] de la conductancia iónica y alta
+[00:29:08] densidad de potencia
+[00:29:10] o si no la variante es el elector
+[00:29:15] orgánicos que admiten la atención y
+[00:29:18] elevada densidad de crecimiento
+[00:29:21] o sea energía un parada con
+[00:29:30] con otros capacitores con
+[00:29:33] la batería
+[00:29:35] por qué
+[00:29:40] otra forma de almacenamiento no alcanzan
+[00:29:43] elevada densidad
+[00:29:48] en cuanto a los electrodos de carbón
+[00:29:51] activado
+[00:29:54] en cuanto al separador
+[00:29:59] vamos a encontrar separadores de
+[00:30:03] orgánico se hacía de papel
+[00:30:07] polímeros
+[00:30:09] o también de tipo inorgánico
+[00:30:18] esto
+[00:30:20] aparece aquí pueden ser organismos de
+[00:30:24] papel o polímero
+[00:30:27] o inorgánicos finales de vídeo o
+[00:30:30] cerámica
+[00:30:33] finalmente el conector de corriente en
+[00:30:35] los conectores
+[00:30:40] [Música]
+[00:30:50] contraste
+[00:30:52] para
+[00:30:57] la verdad
+[00:30:59] la aplicación de dos súper capacitores
+[00:31:01] vamos
+[00:31:04] cuáles son las ventajas
+[00:31:06] de presentar estos elementos para el
+[00:31:11] almacenamiento de energía
+[00:31:14] debo mencionar que el proceso físico es
+[00:31:18] estático
+[00:31:20] reversible es decir pastor se puede
+[00:31:24] cargar y descargar
+[00:31:27] en gran cantidad de ciclos y gran
+[00:31:32] cantidad de veces el capacidad se puede
+[00:31:34] cargar o descargar
+[00:31:36] a esto
+[00:31:38] básicamente es posible porque
+[00:31:41] es facilitado porque no hay ningún
+[00:31:44] proceso
+[00:31:48] en una transformación química eterna
+[00:31:54] en edad a mantener su
+[00:31:58] en su estructura
+[00:32:03] este
+[00:32:04] ciclo de vida
+[00:32:08] obviamente
+[00:32:10] este elemento está sometido a
+[00:32:15] operaciones está sometido a algunas
+[00:32:17] exigencias
+[00:32:22] prácticas
+[00:32:27] electromagnéticas de esas condiciones
+[00:32:30] pueden
+[00:32:31] alterar
+[00:32:34] esa
+[00:32:38] esa transformación es muy lenta
+[00:32:42] va muchísimo tiempo que eso les permite
+[00:32:45] la operación
+[00:32:48] durante
+[00:32:51] 2
+[00:32:57] reacciones de energía
+[00:33:05] estos super capas historias los
+[00:33:07] supercapaces necesitan baja tensión si
+[00:33:10] no es necesario
+[00:33:11] que conectamos a elevados niveles de
+[00:33:14] tensión para lograr este almacenamiento
+[00:33:17] de esquina
+[00:33:27] las principales destaca
+[00:33:30] a destacar
+[00:33:37] en cuanto a los desventajas por los
+[00:33:40] perros
+[00:33:46] podemos mencionar
+[00:33:48] es las condiciones de ambientes con
+[00:33:51] temperaturas
+[00:33:54] magnéticas las vibraciones
+[00:33:59] y las sobretensiones afectan su
+[00:34:02] funcionamiento
+[00:34:05] 'no va perdiendo su utilidad
+[00:34:10] los materiales y capas
+[00:34:15] reduce su
+[00:34:18] son internadas
+[00:34:21] fíjate cinchona
+[00:34:23] esta característica esta desventaja que
+[00:34:26] tenga presente
+[00:34:29] por ejemplo en aplicaciones
+[00:34:32] y por qué
+[00:34:37] alisado
+[00:34:39] con las posibilidades de almacenamiento
+[00:34:41] de energía en relación con los sistemas
+[00:34:44] de potencia
+[00:34:47] tenemos que dejar de
+[00:34:53] automóviles
+[00:34:54] [Música]
+[00:34:56] pero qué
+[00:35:02] en la habitación de los supercapaces 3
+[00:35:05] para esa aplicación es complicada porque
+[00:35:09] muy
+[00:35:11] o sea son susceptibles
+[00:35:13] [Música]
+[00:35:15] a la fatiga
+[00:35:18] el producto de las relaciones se pueden
+[00:35:19] castigar protegida
+[00:35:22] y producir fases de funciones
+[00:35:26] el electrolito o el material dieléctrico
+[00:35:30] el tiempo se puede componer
+[00:35:35] si te olvidas
+[00:35:37] avanza en realidad el uso de capas
+[00:35:42] a nuestro tiempo puede aparecer una a
+[00:35:46] una
+[00:35:51] [Música]
+[00:35:53] esa es la idea a condiciones de potencia
+[00:35:58] por condiciones externas
+[00:36:00] y con el paso del tiempo no por la
+[00:36:03] cantidad de ciclos de cargas y descargas
+[00:36:07] finalmente la resistencia mecánica
+[00:36:11] relacionado con el uso de la aplicación
+[00:36:13] para el aporte
+[00:36:17] estos son tan frágiles
+[00:36:21] impacto
+[00:36:27] a la carga
+[00:36:34] afecta su estructura y no puede dañar
+[00:36:40] la insensibilidad
+[00:36:44] si quieres a mecánicas
+[00:36:46] entonces
+[00:36:49] en cuanto a la aplicación para
+[00:36:51] transporte bastantes limitaciones por
+[00:36:55] eso
+[00:36:59] el campo de presión basal
+[00:37:02] en las redes de potencia
+[00:37:06] de potencia eléctrica
+[00:37:19] hacemos una revisión una presentación
+[00:37:23] con respecto a una de las variantes
+[00:37:27] alternativas para el almacenamiento de
+[00:37:29] energía que somos capacitores y
+[00:37:31] superamos sectores
+[00:37:34] vamos a ver otro grupo otro tipo de
+[00:37:37] alternativa que tengo para la energía
+[00:37:39] que son las baterías
+[00:37:46] las baterías pertenece al grupo de
+[00:37:49] almacenamiento electroquímico
+[00:37:54] directamente al trabajo el nombre de la
+[00:37:57] categoría las baterías
+[00:38:02] director típicas son sistemas cerrados
+[00:38:07] d
+[00:38:09] el poseen la capacidad de convertir de
+[00:38:12] buenas reversibles energía química
+[00:38:16] existía eléctrica
+[00:38:19] desterrado
+[00:38:29] los elementos
+[00:38:34] hoy no
+[00:38:36] de esas posiciones también podemos
+[00:38:41] parte 2
+[00:38:45] se puede encontrar el estado de líquido
+[00:38:48] es por eso que estos temas
+[00:38:51] manzanas por qué
+[00:38:53] la pasa
+[00:38:56] para sanz
+[00:39:00] con esta batería siempre en constante
+[00:39:03] cambio
+[00:39:06] por fin
+[00:39:07] pasa por otro sentido
+[00:39:11] o qué
+[00:39:15] ingresa o sale la hora son cargas
+[00:39:21] para
+[00:39:23] hacen algo para cargar la batería
+[00:39:32] tercera por qué
+[00:39:37] bien
+[00:39:39] segundas
+[00:39:40] [Música]
+[00:39:42] una célula de hidrógeno
+[00:39:47] esos dispositivos
+[00:39:50] estructuralmente sus posibilidades
+[00:39:58] el proceso
+[00:40:00] se pueden explicar sus ciudades
+[00:40:10] escenas
+[00:40:15] eso d
+[00:40:24] y en este caso
+[00:40:27] las baterías
+[00:40:29] siempre permanece
+[00:40:32] señalado como enfriado dentro
+[00:40:37] siempre me siento importante el segundo
+[00:40:41] y el proceso
+[00:40:43] [Música]
+[00:40:47] la procesión reversible
+[00:40:51] se refiere a que
+[00:40:53] la batería
+[00:40:57] la materia este
+[00:40:59] [Música]
+[00:41:01] cargada
+[00:41:04] lo repitamos una
+[00:41:09] la corriente es esa la energía eléctrica
+[00:41:15] a través del proceso de reducción
+[00:41:17] [Música]
+[00:41:19] vamos a la conversión de selecciones
+[00:41:22] técnicas
+[00:41:25] y se va a acumular
+[00:41:32] vamos
+[00:41:36] utilizar esa energía quinta se produce
+[00:41:38] una acción de esa efectividad inicial
+[00:41:43] y que luego utilizamos nuevamente
+[00:41:55] dependiendo de las condiciones del
+[00:41:57] entorno
+[00:42:00] principalmente la temperatura y el ciclo
+[00:42:03] de vida la batería
+[00:42:05] estos dispositivos
+[00:42:10] 80
+[00:42:13] [Música]
+[00:42:24] los vamos a difícil si nos referimos a
+[00:42:26] qué
+[00:42:29] no puedo cargar la batería
+[00:42:36] parece una pérdida de energía
+[00:42:40] luego cuando queremos
+[00:42:43] recuperar esa energía
+[00:42:45] eléctrica
+[00:42:47] la energía eléctrica
+[00:42:50] inicial para la carga
+[00:42:59] ay
+[00:43:05] el siguiente post es reversible van a
+[00:43:08] aparecer algunas perdidas
+[00:43:13] reducen
+[00:43:20] la materia se caracteriza por tener una
+[00:43:23] gran densidad desde libia se logramos
+[00:43:26] recién
+[00:43:28] estamos los capaces sectores
+[00:43:33] grande energía
+[00:43:37] gran cantidad de energía
+[00:43:39] se pueden convertir de energía eléctrica
+[00:43:44] energía química y luego cuando
+[00:43:46] necesitamos aprovechar esa energía
+[00:43:48] almacenada que la materia puede emplear
+[00:43:53] periodo relativamente prolongado del
+[00:43:55] tiempo
+[00:43:57] de pegar esa energía almacenado
+[00:44:02] [Música]
+[00:44:03] la densidad consigan entre 30 a 200
+[00:44:08] vatios por cloro
+[00:44:20] como introducción en la parte
+[00:44:22] introductoria
+[00:44:23] tema
+[00:44:27] vamos a hacer un pequeño repaso sobre un
+[00:44:30] proceso redox
+[00:44:32] este profesor es el que fundamenta que
+[00:44:36] se basa
+[00:44:38] las baterías de tiempo de perotti
+[00:44:42] es el proceso de re docs
+[00:44:45] red es una simplificación de un proceso
+[00:44:50] químico
+[00:44:51] la reducción oxidación
+[00:44:54] en la
+[00:44:58] reducción y ox es el proceso de
+[00:45:03] resignificación el proceso de
+[00:45:04] consideración
+[00:45:08] de qué hablamos cuando hablamos de
+[00:45:10] reducción y oxidación encuentro
+[00:45:16] y que más muy sencillo
+[00:45:18] dónde
+[00:45:20] tenemos
+[00:45:23] hemos representado
+[00:45:29] electrones perdonad amos
+[00:45:31] correspondientes a dos sustancias
+[00:45:35] pintamos dos elementos distintos uno ha
+[00:45:40] dejado corresponde a una un tipo de
+[00:45:44] sustancia y el verde corresponde a dos
+[00:45:51] bueno la principal de estas sustancias
+[00:45:55] estos
+[00:46:00] cuando vos
+[00:46:02] pero sanz de décadas
+[00:46:09] en la naturaleza nosotros podemos
+[00:46:11] encontrar distintos tipos de elementos
+[00:46:13] recuerdan que
+[00:46:15] estos elementos
+[00:46:17] letras sustancias están formadas por
+[00:46:19] átomos
+[00:46:22] y el átomo
+[00:46:24] de lo más conocido
+[00:46:27] se representa tal vez por un núcleo
+[00:46:30] donde
+[00:46:32] están
+[00:46:34] íntimamente unidos los protones y
+[00:46:38] electrones estos productores tienen
+[00:46:40] carga positiva
+[00:46:46] y
+[00:46:47] exteriormente tenemos los electrones de
+[00:46:52] ese núcleo
+[00:46:57] y qué
+[00:47:02] rodean y etapas de tratos
+[00:47:07] apareciendo
+[00:47:11] lo que sucede
+[00:47:13] con estas están entrando en estas capas
+[00:47:18] y que es común de la mayoría de los
+[00:47:21] eventos
+[00:47:24] que aparezcan por qué
+[00:47:35] una cantidad menor de 9 electrones en
+[00:47:39] una última capa
+[00:47:42] mantener un balance
+[00:47:44] entre las cargas
+[00:47:50] positivas y
+[00:47:53] negativas para que haya un balance
+[00:47:58] y que
+[00:47:59] sea
+[00:48:01] estable en la cantidad de cargas
+[00:48:04] positivas que es igual a la cantidad de
+[00:48:07] carga activas
+[00:48:11] es
+[00:48:14] lo que sucede con muchas de los
+[00:48:15] elementos es que la última capa
+[00:48:19] puede aparecer una cantidad menor
+[00:48:22] en faltar uno los electores
+[00:48:26] o puede sobrar uno por los electores
+[00:48:29] aquí
+[00:48:32] puede faltar el sobrante de esta última
+[00:48:35] capa
+[00:48:37] esto confiere una cierta inestabilidad
+[00:48:45] entonces que a pasar por ejemplo
+[00:48:49] con ese átomo que tiene que le sobran
+[00:48:52] electrones es un tiene una capa y va a
+[00:48:54] tratar de
+[00:48:55] compartirlo con otro átomo en falta
+[00:49:01] se dice que
+[00:49:05] en caso que el ataque
+[00:49:08] desde ese entonces ahora se llama
+[00:49:12] donador
+[00:49:15] [Música]
+[00:49:17] a otros como que le falta
+[00:49:19] [Música]
+[00:49:24] este proceso
+[00:49:28] 4
+[00:49:31] el átomo al que le falta
+[00:49:40] alta intelectual
+[00:49:42] si el otro
+[00:49:47] se denomina la reducción
+[00:49:55] s
+[00:49:56] en este proceso en el cual este
+[00:50:01] este le entrega a un elector nada se
+[00:50:05] denomina reducción
+[00:50:07] a su inverso cuando la inversa cuando
+[00:50:17] como le falta la deficiencia de zinc y
+[00:50:22] recibe en el otro se denomina
+[00:50:25] oxidación
+[00:50:30] le digo o hago nada la relación o la
+[00:50:33] tecnología
+[00:50:36] la situación de amor
+[00:50:42] los chicos o chicas en la escuela una
+[00:50:44] vez
+[00:50:48] uno de los contiene un paquete de
+[00:50:49] galletitas
+[00:50:53] no
+[00:50:54] un hombre de trabajo
+[00:50:58] es un compañero
+[00:51:04] de un proceso
+[00:51:07] d
+[00:51:12] y
+[00:51:13] con vida
+[00:51:18] el proceso de reducción
+[00:51:23] de entrega de
+[00:51:26] hambre
+[00:51:27] [Música]
+[00:51:28] este abdomen tiene hambre de necesitar
+[00:51:32] un electrón para concretar su última
+[00:51:35] capa
+[00:51:37] por esa estabilidad
+[00:51:44] también
+[00:51:46] qué
+[00:51:57] e
+[00:52:01] o sea en él el proceso es arte
+[00:52:07] se completase a la oxidación
+[00:52:18] e
+[00:52:23] entonces esa breve introducción vamos a
+[00:52:27] y analizar cómo funcionan
+[00:52:32] las baterías electroquímicas
+[00:52:35] estas baterías electroquímicas
+[00:52:40] conformada work
+[00:52:44] un par de elementos activos
+[00:52:48] de
+[00:52:49] activos que es el qué
+[00:52:52] tenga la posibilidad
+[00:52:56] intercambiar estos electrones
+[00:52:59] sobran o faltan
+[00:53:01] electores
+[00:53:05] de acuerdo a esta condición vamos a
+[00:53:07] encontrar uno del pensamiento activo
+[00:53:11] que va a tener
+[00:53:16] voy a continuar
+[00:53:17] [Música]
+[00:53:19] el exceso de cargas negativas y el otro
+[00:53:27] positivo
+[00:53:31] estos elementos están separados por un
+[00:53:34] medio que se denomina electrolito
+[00:53:40] este medio
+[00:53:46] en la función de favorecer
+[00:53:51] las tablas van a ser
+[00:53:54] ese tipo
+[00:53:57] [Música]
+[00:53:59] eso de intercambio se van a informar
+[00:54:02] millones
+[00:54:40] en estos activos contenidos dentro de
+[00:54:47] el elector
+[00:54:51] un par de
+[00:54:53] reacciones redox
+[00:54:56] de óxido producción
+[00:55:05] la cuchara dijimos cuando se produce la
+[00:55:08] reducción
+[00:55:11] el átomo o los átomos
+[00:55:13] proporcionan
+[00:55:19] funcionales lo pueden preguntar y se lo
+[00:55:23] entregan a otro que tiene que tiene
+[00:55:27] ciencia de electrones ese es el átomo
+[00:55:32] que tiene deficiencia y que recibe ese
+[00:55:36] que
+[00:55:37] se oxida
+[00:55:42] entonces
+[00:55:47] del proceso
+[00:55:50] este proceso lo que vamos a tener
+[00:55:53] un potencial
+[00:55:56] y al más nada en forma de campo
+[00:55:59] eléctrico puede aprender de esta
+[00:56:01] relación entre la oxidación y la
+[00:56:04] reducción
+[00:56:08] las sustancias
+[00:56:12] además este proceso de defender de este
+[00:56:15] término cuando tenemos un factor la ocde
+[00:56:20] la constante es igual a 8,3 de 2-1
+[00:56:25] 2
+[00:56:29] esta constante 8,2 está tomado
+[00:56:33] de 200
+[00:56:40] tenemos entre tratando de ese es la
+[00:56:44] constante
+[00:56:48] [Música]
+[00:56:52] viene representa el número de electrones
+[00:56:55] que intervienen en el proceso de óxido
+[00:56:58] reducción
+[00:57:02] entonces
+[00:57:03] entonces vamos a tener
+[00:57:06] en uno de los elementos se va a producir
+[00:57:08] una reacción
+[00:57:12] la reacción electroquímica
+[00:57:16] en la cual
+[00:57:18] el efecto
+[00:57:24] exceso de electrones aunque esté
+[00:57:27] electrones de exceso de electrones
+[00:57:32] a través del proceso electroquímico de
+[00:57:34] entrega
+[00:57:36] es acceso de electrones a el electrolito
+[00:57:39] que nos rodea
+[00:57:41] se produce en el proceso de
+[00:57:46] reducción oxidación
+[00:57:55] y luego
+[00:57:56] aparece
+[00:57:59] tenemos el otro
+[00:58:01] el elemento activo donde también se va a
+[00:58:05] producir
+[00:58:08] el proceso de óxido reducción en este
+[00:58:12] caso
+[00:58:14] como
+[00:58:16] el elemento positivo también está
+[00:58:19] rodeado por el mismo
+[00:58:21] electrónico
+[00:58:23] en este caso
+[00:58:27] el eléctrico va a tener electrones
+[00:58:30] adicionales y se lo va a suministrar a
+[00:58:33] el otro elemento
+[00:58:40] redox este caso
+[00:58:46] va a entregar electrones a
+[00:58:50] todo
+[00:58:56] estamos en este proceso tenemos un
+[00:58:59] proceso de cocción producción los
+[00:59:02] procesos de 2
+[00:59:06] sí
+[00:59:08] su mamá nuevos procesos
+[00:59:10] consideramos la reacción global
+[00:59:12] vamos a considerar
+[00:59:15] y vamos a tener una reducción de este
+[00:59:19] lector y una oxidación
+[00:59:21] [Música]
+[00:59:24] esto listo
+[00:59:26] y por otro lado la oxidación del método
+[00:59:29] positivo y la reducción del electrolito
+[00:59:31] esto suma de sumatoria de todo
+[00:59:35] fue una reacción global si bien los
+[00:59:39] procesos de óxido reducción
+[00:59:46] después
+[01:00:05] y esto es lo que vimos recién vamos a
+[01:00:08] analizar el caso el caso
+[01:00:14] en cuanto al tipo de sustancias podemos
+[01:00:17] encontrar
+[01:00:19] las variantes yo no encuentro en el caso
+[01:00:22] más sencillo
+[01:00:25] si el 1er
+[01:00:27] la primera batería desaprovechado aquí
+[01:00:31] de plomo-ácido
+[01:00:34] utilizar el electrodo de plomo
+[01:00:37] y un mentor usher
+[01:00:40] en este caso
+[01:00:43] reacción del elemento o de la masa
+[01:00:47] activa negativa
+[01:00:48] compuesta por plomo
+[01:00:50] moderado por una solución
+[01:00:53] de ácido
+[01:00:56] es único
+[01:01:02] aquí podemos representar ese proceso
+[01:01:07] ese proceso redox
+[01:01:09] el plomo
+[01:01:12] en su estado
+[01:01:14] aquí
+[01:01:17] y luego
+[01:01:19] y se reduce
+[01:01:24] a nacionales y se los entrega
+[01:01:28] el ácido sulfúrico en ión de ácido
+[01:01:31] sulfúrico que se oxida
+[01:01:35] ese proceso se produce
+[01:01:39] la primera favorita primera parte del
+[01:01:42] proceso de producción
+[01:01:44] [Música]
+[01:01:45] esta sería la entrada inicial cuando se
+[01:01:48] produce la proceso redox podemos ver qué
+[01:01:55] en ese intercambio de electrones
+[01:02:02] tenemos una transformación
+[01:02:03] electroquímica el cual
+[01:02:06] aparece
+[01:02:10] esta sustancia que se denomina
+[01:02:13] sulfato de plomo
+[01:02:16] este es el resultado del proceso d
+[01:02:19] reducción oxidación el plomo y el ácido
+[01:02:22] que aparece en esta otra sustancia que
+[01:02:26] es sulfato
+[01:02:29] templo
+[01:02:32] además como resultado de esta reacción
+[01:02:36] de otro cómica aparece
+[01:02:38] un alto por unión de hidrógeno y dos
+[01:02:44] electrones es el resultado final de este
+[01:02:47] proceso de producción a consideración
+[01:02:50] para este evento
+[01:02:59] cuando se produce este primer este
+[01:03:02] primer proceso de óxido por deducción si
+[01:03:05] aplicamos la pieza esa
+[01:03:09] de esa forma al principio
+[01:03:12] la energía o el potencial eléctrico se
+[01:03:16] emplea
+[01:03:19] la acumulación de cargas
+[01:03:21] negativas si la medimos
+[01:03:26] de 0 10
+[01:03:29] 356 2
+[01:03:32] [Música]
+[01:03:35] el potencial eléctrico obtenido con este
+[01:03:38] proceso de reducción oxidación
+[01:03:45] ahora si pasamos al elemento positivo es
+[01:03:48] la más activa positiva en este otro
+[01:03:52] esto
+[01:03:55] vamos a encontrar qué
+[01:04:00] es
+[01:04:03] uno
+[01:04:05] más
+[01:04:07] rodeado por
+[01:04:09] ácido sulfúrico
+[01:04:12] su perro nacido sulfúrico de ácido
+[01:04:15] sulfúrico
+[01:04:16] para parecer también átomos tres átomos
+[01:04:19] de los dos más dos electrones esto es el
+[01:04:22] resultado del proceso anterior
+[01:04:24] producción
+[01:04:28] cómo
+[01:04:30] aquí se va por decir otro proceso el
+[01:04:34] próximo plomo necesita completar su
+[01:04:37] último
+[01:04:40] la voluntad es estar recibir electrones
+[01:04:44] se aporte los a recibir este le cambia
+[01:04:47] aparece aquí
+[01:04:49] cuando se produce el ese proceso de d
+[01:04:53] en el caso de óxido reducción
+[01:04:57] y el resultado va a ser que
+[01:05:01] la sustancia se van a convertir en
+[01:05:04] el sulfato de plomo más una molécula de
+[01:05:09] sulfato de plomo más dos moléculas de
+[01:05:12] agua
+[01:05:13] en este proceso
+[01:05:16] sé cuándo
+[01:05:19] sólo por eso
+[01:05:22] tengo una
+[01:05:24] reducción o sea que desaparece
+[01:05:30] ha sido de experiencia pública se
+[01:05:33] convierte en agua
+[01:05:37] una versión falto de plomo más aún
+[01:05:40] quiere decir que la concentración ácida
+[01:05:44] del decreto se reduce
+[01:05:50] transformaciones de la solución
+[01:05:54] de este análisis
+[01:05:55] formalmente
+[01:05:57] tengo una gran opción reducción por
+[01:06:00] separado en el conjunto o sea sí
+[01:06:04] pero están todos comentar
+[01:06:07] en este proceso
+[01:06:10] o se reducen el electro positivo
+[01:06:13] si medimos el potencial eléctrico vamos
+[01:06:17] a tener la cantidad de cargas positivas
+[01:06:20] acumuladas vamos a tener
+[01:06:23] un potencial de 1
+[01:06:25] 685 voltios
+[01:06:31] la diferencia es
+[01:06:34] en cargas positivas que nosotros las
+[01:06:38] cargas negativas
+[01:06:43] jajaja
+[01:06:46] finalmente si consideramos en el proceso
+[01:06:49] completo o global sumamos los procesos
+[01:06:54] de óxido de dos en
+[01:06:56] positivo
+[01:06:59] vamos a tener el grado el plomo
+[01:07:03] más el dióxido de plomo es el senado
+[01:07:06] electrodos nuevos materiales
+[01:07:14] más
+[01:07:15] dos moléculas de ácido sulfúrico
+[01:07:20] más moléculas de hidrógeno más electores
+[01:07:26] el proceso final es
+[01:07:28] resulta
+[01:07:31] dos monedas de sus pactos de plomo más
+[01:07:35] dos moléculas de auto
+[01:07:38] el proceso
+[01:07:40] y el potencial eléctrico es la
+[01:07:43] diferencia de potencial que se obtiene
+[01:07:46] entre el electrodo positivo y negativo
+[01:07:48] que se calcula una diferencia
+[01:07:52] llegamos a este valor
+[01:07:55] recuerden que encuentra el presente que
+[01:07:57] es la diferencia entre este potencial -
+[01:08:00] este puente ya es negativo
+[01:08:04] menos por menos es más y la suma o sea
+[01:08:07] se tenían sumando en todo potencial que
+[01:08:09] el resultado potencial concreto 25
+[01:08:13] 205
+[01:08:17] ese es él
+[01:08:20] y potencial eléctrico que podemos
+[01:08:22] obtener
+[01:08:23] se llama una célula
+[01:08:29] y
+[01:08:31] la aplicación del automóvil
+[01:08:35] la mente de 12 volts
+[01:08:40] esa batería de automóvil a utilizar una
+[01:08:43] celda parece ya está
+[01:08:46] hay un valor parecido vamos a llegar a
+[01:08:49] eso
+[01:08:50] de 12 de
+[01:08:52] 2012
+[01:08:54] se colocan celdas conectadas
+[01:08:58] serie
+[01:09:02] se logra esa diferencia de potencial
+[01:09:09] potencial final
+[01:09:12] iba a tener la batería
+[01:09:14] [Música]
+[01:09:16] sabor para esa aplicación y automóviles
+[01:09:19] [Música]
+[01:09:21] nada
+[01:09:29] la explicación
+[01:09:32] general del funcionamiento de una
+[01:09:34] batería del proceso electroquímico
+[01:09:37] la batería almacena
+[01:09:41] cargas eléctricas vamos a hacer las
+[01:09:45] variantes de
+[01:09:48] acuerdo a lo que podemos encontrar
+[01:09:51] en contrabajo india
+[01:09:54] vamos hacer una primera clasificación
+[01:09:58] y está referida al tiempo de
+[01:10:00] electrolitos vamos a encontrar materias
+[01:10:02] de distrito se encuentra en estado
+[01:10:05] líquido
+[01:10:07] es decir
+[01:10:09] estas baterías
+[01:10:11] [Música]
+[01:10:14] era una ventaja que está relacionada con
+[01:10:18] la conductividad iónica es decir la
+[01:10:20] conductividad
+[01:10:23] la capacidad que tiene el distrito para
+[01:10:27] conducir es opciones que aparecen
+[01:10:34] el ácido sulfúrico o cuando aparecen los
+[01:10:38] infartos
+[01:10:40] e
+[01:10:43] el problema
+[01:10:45] es que no hay muchas opciones en cuanto
+[01:10:48] a a
+[01:10:51] y solucionemos las mezclas
+[01:10:54] es la más común es el ácido sulfúrico
+[01:10:59] críticas como electrolito para la
+[01:11:03] batería
+[01:11:07] haciendo esta clasificación en base a
+[01:11:10] electrolito vamos a encontrar
+[01:11:13] la batería la más la primera la más
+[01:11:16] antigua es la d
+[01:11:18] plomo acción es decir básicamente que
+[01:11:23] corresponde a el caso que el extranjero
+[01:11:25] reciente
+[01:11:26] [Música]
+[01:11:28] los electrodos
+[01:11:31] tanto positivo como negativo está
+[01:11:34] conformado por plomo el positivo por
+[01:11:37] dióxido de plomo y el electrolito me
+[01:11:40] transformado por ácido sulfúrico
+[01:11:45] así va a ser
+[01:11:46] [Música]
+[01:11:48] cómo está conformado como funciones está
+[01:11:51] puede baterías practicar super tipo de
+[01:11:53] baterías
+[01:11:55] esta es la más antigua
+[01:12:06] una disponibilidad de materiales de
+[01:12:07] plomo
+[01:12:08] [Música]
+[01:12:10] dicen que conseguir
+[01:12:13] 1
+[01:12:15] además el proceso ha de ser bastante
+[01:12:19] complicado sin contaminantes entonces
+[01:12:23] previamente aparece
+[01:12:27] como base
+[01:12:32] [Música]
+[01:12:34] las aplicaciones
+[01:12:40] baterías de aparte para el envío de
+[01:12:45] esta materia se acumula energía
+[01:12:48] y cuando se necesita poner en marcha el
+[01:12:51] control de combustión
+[01:12:53] el automóvil un motogenerador diversidad
+[01:12:57] eléctrica
+[01:13:00] se aplica esta energía de un motor
+[01:13:02] eléctrico que da impulso motores de
+[01:13:05] combustión hasta que doblas
+[01:13:08] rey
+[01:13:13] también vamos podemos encontrarlos como
+[01:13:16] batería
+[01:13:18] para el transporte o sea esta batería
+[01:13:26] para el transporte es auto eléctrico
+[01:13:28] ese motor eléctrico
+[01:13:30] recibe energía almacenada
+[01:13:34] baterías si la variación de plomo-ácido
+[01:13:37] la aplicación de aplicación
+[01:13:42] y los electrodos están conformados por
+[01:13:45] puras celdas que están por placas planas
+[01:13:52] por rectangulares y planas
+[01:13:55] sobre confiere mayor capacidad el
+[01:13:58] almacenamiento de cargas
+[01:14:01] y una variante
+[01:14:04] es la que utiliza gel
+[01:14:07] electro entonces es estar en el estado
+[01:14:10] en 22 porque también está en estado
+[01:14:12] ángel de gel o semi líquido
+[01:14:16] nada
+[01:14:19] de mayor densidad
+[01:14:22] con la ventaja
+[01:14:25] que
+[01:14:27] presente el problema que estas baterías
+[01:14:32] director eléctrico y ácido aparecía por
+[01:14:37] los amantes
+[01:14:38] de provocar derrames
+[01:14:41] esta variante reduce esa esa
+[01:14:46] y ese riesgo y además
+[01:14:51] otro problema que aparece apuesta
+[01:14:52] material electrónico líquido es la
+[01:14:55] producción hidrógeno
+[01:14:58] el hidrógeno
+[01:15:02] ya estaba poder calorífico si se puede
+[01:15:09] entrar en conclusión lo que no se puede
+[01:15:13] mantener almacenado por mucho tiempo
+[01:15:15] dentro de la célula que necesita tener
+[01:15:18] el sistema de destilación para
+[01:15:20] potenciales debido binocular
+[01:15:25] la batería de gel
+[01:15:27] electrónico
+[01:15:30] necesitaba
+[01:15:34] sí
+[01:15:42] luego tenemos un comediante
+[01:15:45] las baterías de promoción
+[01:15:48] de esta forma la economía
+[01:15:55] absorben las
+[01:15:58] activas de material absorbente con fibra
+[01:16:02] de vidrio
+[01:16:05] la característica escrito y material
+[01:16:08] al ser poroso
+[01:16:11] aps permite la absorción del ácido
+[01:16:14] sulfúrico en forma de gel y
+[01:16:17] prácticamente impide o produce cualquier
+[01:16:21] posibilidad de rampa
+[01:16:25] eso lo convierte en buena buena opción
+[01:16:27] por ejemplo para el uso del transporte
+[01:16:31] de raps
+[01:16:35] y solamente tenemos la batería de
+[01:16:37] estacionario
+[01:16:40] por ejemplo
+[01:16:42] a diario para el abastecimiento
+[01:16:45] de emergencia
+[01:16:50] exilio o algún proceso industrial
+[01:16:54] la batería más pensada son
+[01:16:57] vacas tubulares el principio de
+[01:16:59] funcionamiento de ese mismo lo único que
+[01:17:01] cambia es el diseño de las celdas en 4
+[01:17:06] esta es una imagen
+[01:17:09] una materia de plomo ácido de placas
+[01:17:13] planas en el caso más común para el
+[01:17:18] transporte
+[01:17:19] justamente
+[01:17:22] así que transparente se pueden ver las
+[01:17:25] olas
+[01:17:26] distintas celdas que conforman estas
+[01:17:30] estas materias
+[01:17:32] dentro de cada celda
+[01:17:35] tenemos electrodo positivo y negativo y
+[01:17:38] todas sumergidas
+[01:17:40] el proyecto así
+[01:17:44] recuerden que cada celda genera
+[01:17:47] aproximadamente una diferencia de
+[01:17:49] potencial pues está próxima a 2 voltios
+[01:17:55] [Música]
+[01:17:56] para lograr la atención la diferencia
+[01:17:58] potenciar los bordes
+[01:18:01] la complicación es que esta senda se
+[01:18:03] conecta en serie y de esa forma se logra
+[01:18:06] o se alcanza el potencial necesario
+[01:18:16] en este caso en las placas son de tipo
+[01:18:18] plana
+[01:18:20] esta es una disposición
+[01:18:24] gracias
+[01:18:26] en internos de la celda experimentar
+[01:18:30] normalmente aparecen estas presencias
+[01:18:33] estas rejillas
+[01:18:36] tiene una textura
+[01:18:38] [Música]
+[01:18:41] y
+[01:18:42] esta forma de rejilla permite el paso la
+[01:18:47] circulación de electrolito a través d
+[01:18:54] luego se recubre sobre ambas caras de
+[01:18:57] estas rejillas se colocan los electrodos
+[01:19:01] contacto elector positivo
+[01:19:04] positiva y negativa
+[01:19:12] esto sería el diseño o el caso de la
+[01:19:15] placa plana para el caso de placas
+[01:19:17] tubulares en la aplicación más
+[01:19:20] importante para aplicaciones
+[01:19:22] estacionarias según nombres
+[01:19:24] la batería de
+[01:19:27] escenario o algún proceso industrial es
+[01:19:31] el diseño más utilizado básicamente es
+[01:19:34] el mismo concepto pero también es el
+[01:19:37] tipo de placa
+[01:19:38] plana es un
+[01:19:43] cada placa se coloca se conecta en serie
+[01:19:46] 1 con la otra y de esa forma se logra el
+[01:19:48] potencial
+[01:19:54] la
+[01:19:55] imagen de una
+[01:19:57] batería a gm es la que tiene
+[01:20:03] mira de vidrio y que el material poroso
+[01:20:06] que contiene lo retiene el electrolito
+[01:20:10] en forma de gel aunque se pueden ver las
+[01:20:12] rejillas los separadores estas son las
+[01:20:15] fibras de vidrio que absorben ese gel y
+[01:20:18] lo mantienen los restringe vitales voy
+[01:20:20] perderla por eso es que estas baterías
+[01:20:24] realmente
+[01:20:26] tiene ventilación no tienen tapones para
+[01:20:31] recargar para el efecto
+[01:20:37] segura
+[01:20:43] se puede ver
+[01:20:46] y la otra mitad en serie de potencia que
+[01:20:51] genera cada celda tengo un potencial
+[01:20:55] entre estos
+[01:20:59] dispositivos y este es el de la
+[01:21:02] diferencia de potencial que tenemos
+[01:21:04] entre estos dos jóvenes resulta de las
+[01:21:07] conexiones en serie en cama de todas las
+[01:21:11] celdas
+[01:21:12] electrónicas
+[01:21:27] avanzando con más
+[01:21:30] las baterías
+[01:21:33] de tipo que utilizan electrolitos por
+[01:21:37] líquidos
+[01:21:40] otra variante presión analizamos las que
+[01:21:43] utilizan el lector bit o acción
+[01:21:48] entonces tipo ácido
+[01:21:50] e interactiva que es
+[01:21:52] el camino
+[01:21:59] esta variante tiene a particulares que
+[01:22:03] utilizar para los elementos activos a
+[01:22:06] utilizar en vez del plomo
+[01:22:09] zinc y manganeso
+[01:22:17] las reacciones químicas en esta batería
+[01:22:19] se producen electricidad cuando el
+[01:22:21] cátodo
+[01:22:24] cuando hablamos del canto
+[01:22:26] el referimos a
+[01:22:34] carga positiva y en
+[01:22:39] por el óxido de magnesio es reducido al
+[01:22:44] año
+[01:22:47] sí que es oxidado esa es la
+[01:22:51] característica
+[01:22:54] en el caso
+[01:22:56] del electrón típico está conformado por
+[01:23:01] y el óxido de magnesio
+[01:23:05] más agua que rodea en él
+[01:23:08] sportivo
+[01:23:12] el caso
+[01:23:19] positivo
+[01:23:21] se produce el proceso de reducción
+[01:23:24] oxidación y finalmente tenemos el
+[01:23:28] dióxido de magnesio más
+[01:23:32] unión óxido de blog de dónde
+[01:23:40] millones
+[01:23:44] en el ánodo
+[01:23:52] en el ano
+[01:23:54] vamos a tener el proceso
+[01:23:57] el otro proceso de producción vamos a
+[01:24:00] tener por dorados el zinc que combinado
+[01:24:03] con regiones de
+[01:24:07] si me lo
+[01:24:09] se conoce el efecto de reducción
+[01:24:12] vibración
+[01:24:15] y esta es la promoción produce óxido de
+[01:24:18] zinc se transforma de alimento
+[01:24:24] el óxido de zinc más agua más dos
+[01:24:27] electrones
+[01:24:31] la fracción global
+[01:24:36] las reacciones vamos a obtener
+[01:24:40] a encontrar
+[01:24:43] que
+[01:24:44] encima más dos moléculas de dióxido de
+[01:24:49] magnesio
+[01:24:53] transforman o sea tenemos la
+[01:24:56] reducción del
+[01:25:00] en óxido de magnesio que se oxida y
+[01:25:05] demás la
+[01:25:06] oxidación del dióxido de magnesio en la
+[01:25:10] reducción o color de opción de él
+[01:25:25] si grecia
+[01:25:33] bien
+[01:25:35] una variante en cuanto al uso
+[01:25:39] [Música]
+[01:25:42] al cariño
+[01:25:44] apareció con el reemplazo
+[01:25:47] el zinc con iker
+[01:25:52] en este caso
+[01:25:55] y la reacción
+[01:25:58] la reducción vamos a tener entre
+[01:26:03] el óxido de níquel más el próximo va a
+[01:26:06] parecer agua y un electrón
+[01:26:11] finalmente entonces eso predominante
+[01:26:20] el próximo de mil más
+[01:26:23] observe
+[01:26:32] otra variante
+[01:26:35] están los acumuladores o la batida del
+[01:26:37] tiempo alcalinas la tenemos cuando las
+[01:26:41] baterías de níquel 10 perro
+[01:26:44] la reacción en el elemento activo
+[01:26:47] positivo en este caso es idéntico al de
+[01:26:50] la batería de intel
+[01:26:52] [Música]
+[01:26:54] hasta que lo vamos a ver en
+[01:26:57] elemento de archivo de este caso
+[01:27:00] tenemos
+[01:27:04] la reducción en hierro
+[01:27:16] más como las de los de oksibil los más y
+[01:27:23] los electores
+[01:27:26] nosotros tenemos una imagen
+[01:27:29] de una batería
+[01:27:32] al caminar
+[01:27:37] se puede ver desarme de las celdas
+[01:27:40] internamente o excelente
+[01:27:42] los elementos son continuamente las
+[01:27:46] bacterias son todas similares
+[01:27:48] lo que va a cambiar
+[01:27:50] es
+[01:27:51] los materiales que se amplían y
+[01:27:54] los editores íntimos
+[01:27:57] el tipo de ver también cómo están
+[01:27:59] conectadas una celda con la otra cada
+[01:28:02] celda va a tener un potencial
+[01:28:05] realmente los potenciales consigan entre
+[01:28:07] 1.5 y 2 volts dependiendo de los
+[01:28:10] materiales creados
+[01:28:12] la suma de la condición de cada celda
+[01:28:16] con un potencial
+[01:28:19] entre los golpes que va a ser un bono de
+[01:28:21] la batería
+[01:28:22] a pesar de esto
+[01:28:35] siguiendo con los variantes y
+[01:28:38] acumuladores
+[01:28:39] electrónico de litio y alcalinos
+[01:28:42] tenemos las baterías de níquel cal
+[01:28:46] ya no vamos a hacer cuando vamos viendo
+[01:28:50] baterías que son más contemporáneas
+[01:28:53] todos los casos anteriores
+[01:29:05] de baterías
+[01:29:10] electrodo
+[01:29:12] negativo
+[01:29:15] en la particular era que él
+[01:29:19] el camino
+[01:29:24] en combinación con el avión
+[01:29:28] los iones de oxígeno
+[01:29:34] se barre un sirva puede ser una
+[01:29:36] reducción de cerca de deba entregar
+[01:29:41] real
+[01:29:43] y finalmente vamos a tener
+[01:29:47] esta sustancia que es
+[01:29:51] ver más los
+[01:29:55] electrones
+[01:29:56] estos por medio del componente de la
+[01:30:00] masa activa negativa por grado de la
+[01:30:03] masa
+[01:30:04] positiva por la electro positivo
+[01:30:08] tribus
+[01:30:10] óxido de níquel más el óxido
+[01:30:14] se va
+[01:30:22] combinación por fin agua más libre
+[01:30:27] se va que a oxidar
+[01:30:30] y va a recibir
+[01:30:33] y nuevamente
+[01:30:37] más
+[01:30:40] de oksibil
+[01:30:43] de cedido
+[01:30:45] a la suma
+[01:30:48] la suma de estos componentes
+[01:30:50] el potencial total de hacer
+[01:30:54] una imagen que las las baterías
+[01:30:59] externamente no difiere mucho una de
+[01:31:01] otra porque hay que prestar atención a
+[01:31:04] los materiales que utilizan y el tipo de
+[01:31:07] electrolitos
+[01:31:09] clave para
+[01:31:16] pero no no hace mucho por la forma
+[01:31:22] [Música]
+[01:31:27] para complementar con la semana
+[01:31:29] [Música]
+[01:31:33] siguiendo
+[01:31:35] con la variantes que podemos encontrar
+[01:31:39] sí no nuestro histórico
+[01:31:43] tenemos la materia
+[01:31:47] y hay más de tantos
+[01:31:55] en estas materias
+[01:32:00] tenemos una ventaja respecto al anterior
+[01:32:11] año
+[01:32:16] presenta algunos problemas
+[01:32:19] cuando tienen un problema con el tema
+[01:32:22] del
+[01:32:23] el proceso
+[01:32:25] productivo
+[01:32:27] son difíciles de reciclar
+[01:32:31] y tienen ventajas de problemas con
+[01:32:35] y la sustancia tóxica
+[01:32:40] para
+[01:32:47] es alentar la producción de este tipo de
+[01:32:52] d
+[01:33:16] entonces cómo sigan aparece está
+[01:33:21] alternativa de baterías de níquel a la
+[01:33:24] versión británica
+[01:33:27] desarrollada en níquel m
+[01:33:34] ah
+[01:33:36] en este caso el carné es reemplazado por
+[01:33:38] una dirección metálica y esta agresión
+[01:33:41] es capaz de almacenar libros
+[01:33:44] funcionales funciones de similar
+[01:33:49] cambio
+[01:33:51] e
+[01:33:54] potencia que se puede en el caso en las
+[01:33:57] celdas alcanza 12 voltios
+[01:34:01] [Música]
+[01:34:04] la densidad de
+[01:34:06] merecieron que puedan hacer el menor que
+[01:34:09] permite el cambio pero
+[01:34:12] directamente a él con respecto a la
+[01:34:14] producción es eso productivo
+[01:34:18] le muestro en forma temática
+[01:34:22] cómo es el proceso electroquímico y la
+[01:34:27] transformación que se presentaba en este
+[01:34:29] tipo de baterías
+[01:34:31] hemos representado el electrodo negativo
+[01:34:35] a la izquierda donde
+[01:34:38] tenemos cada átomo
+[01:34:41] [Música]
+[01:34:43] de la aviación británica
+[01:34:47] esta animación tiene una particular
+[01:34:50] particularidad de
+[01:34:53] albergar o almacenar hidrógeno dentro de
+[01:34:56] su estructura metálica
+[01:35:01] tema
+[01:35:02] [Música]
+[01:35:06] entonces
+[01:35:08] este lector negativo
+[01:35:11] nosotros vamos a encontrar
+[01:35:15] el proceso de descarga
+[01:35:18] está este proceso
+[01:35:21] reducción oxide así
+[01:35:24] donde esa dirección metálica
+[01:35:29] esta liga
+[01:35:32] en combinación con el hidrógeno que algo
+[01:35:35] que a la larga te almacena
+[01:35:38] va a tener un exceso de electrones que
+[01:35:41] lo va a compartir con él
+[01:35:46] [Música]
+[01:35:50] y el proceso de reducción
+[01:35:55] en ese caso luego del proceso de
+[01:35:57] reducción el metal se nivela de
+[01:36:02] hidrógeno y transforma el introito en
+[01:36:06] agua más electrones libres
+[01:36:11] dentro del positivo que están
+[01:36:14] conformados por
+[01:36:15] níquel
+[01:36:20] ss
+[01:36:25] oxidada por lo tanto para recibir del
+[01:36:30] portal pictórico
+[01:36:31] ese es el electrón libre o sea de
+[01:36:33] hidrógeno que contiene esto visto va a
+[01:36:35] recibir es electrónico es electrón que
+[01:36:36] necesita y se va a producir el proceso
+[01:36:39] de oxidación
+[01:36:43] es el
+[01:36:45] estado y se va a estar como está
+[01:36:49] servido de níquel se va a transformar en
+[01:36:52] el óxido
+[01:36:54] más
+[01:36:56] unión de oksibil
+[01:37:01] en cuanto a las aleaciones metálicas de
+[01:37:05] estilizar hay una que es la más usada
+[01:37:08] que es la aleación de níquel planta al
+[01:37:11] hilo
+[01:37:11] [Música]
+[01:37:14] pero raras
+[01:37:18] [Música]
+[01:37:25] aún está limitada por el costo de
+[01:37:34] ah
+[01:37:43] bien
+[01:37:45] e
+[01:37:48] y
+[01:37:50] terminando con el tiempo y nos queda
+[01:37:54] actuación una presentación vamos a dejar
+[01:37:57] aquí
+[01:37:59] no quedaría al pensar en otro grupo de
+[01:38:02] baterías electroquímicas
+[01:38:05] quizás el vitoriano acuoso constituido
+[01:38:09] el sonido
+[01:38:10] [Música]
+[01:38:12] el viernes la próxima presentación
+[01:38:17] [Música]
+[01:38:19] vamos a aprovechar este tiempo de dos
+[01:38:22] minutos para
+[01:38:25] consultas preguntas y compartir el dato
+[01:38:31] de información
+[01:38:35] y en hernani
+[01:38:38] en el chat no pusieron nada pero ahí
+[01:38:41] dejamos abierto si quieren hacer si
+[01:38:46] quieren hacer alguna consulta y mientras
+[01:38:49] tanto
+[01:38:50] pasé la apuntes y yo tengo el punto de
+[01:38:53] sumir eso ya pasó
+[01:38:56] sí sí sí la resina que se corresponde es
+[01:39:01] a esa versión corresponder
+[01:39:04] todo lo que hemos visto desde la primera
+[01:39:08] presentación poblacional para la energía
+[01:39:12] ah
+[01:39:19] y bueno aprovechó para recordarles que
+[01:39:22] esta semana exámenes de inscripción de
+[01:39:24] examen
+[01:39:27] y la semana que viene a partir del lunes
+[01:39:28] ya se habilita el examen
+[01:39:32] pueden
+[01:39:34] ingresar ahí en la página
+[01:39:37] y ahí les van a solicitar que le mando
+[01:39:40] un link para el pago
+[01:39:42] si bien está publicado que terminen las
+[01:39:46] instituciones el día de domingo siempre
+[01:39:48] lo dejamos unos días más que tras el
+[01:39:51] plazo como ustedes pueden rendir y
+[01:39:54] también siga bien está abierto el módulo
+[01:39:57] de pago
+[01:39:59] en el examen del módulo tres hijas de la
+[01:40:03] clase del bien
+[01:40:14] cerramos
+[01:40:17] el
+[01:40:19] cierre el módulo 3 y el lunes nos va de
+[01:40:22] comienza el módulo 4
+[01:40:24] bien acá tengo una pregunta hernán dice
+[01:40:28] esta última bacteria son las que se
+[01:40:30] utilizan para la energía hidrógeno
+[01:40:33] [Música]
+[01:40:49] hay que diferenciar
+[01:40:51] hice la aclaración que hay que
+[01:40:53] diferenciar
+[01:40:55] el
+[01:40:57] dispositivo batería en la celda de
+[01:41:01] combustible de extenda de hidrógeno
+[01:41:04] constructivamente son similares o sea
+[01:41:07] tienen muchas características similares
+[01:41:13] los principales funcionarios
+[01:41:16] [Música]
+[01:41:20] las baterías son
+[01:41:22] vamos a representar como sistemas
+[01:41:24] cerrados de electrolito al intercambio
+[01:41:27] del electrónico con otro sistema
+[01:41:30] lo único que intercambia la batería es
+[01:41:32] para vencer las cargas eléctricas que
+[01:41:34] han decido para cargar la batería voy a
+[01:41:37] asumir las cargas que además de
+[01:41:43] y siempre va a ser
+[01:41:45] [Música]
+[01:41:48] él
+[01:41:51] líquido
+[01:41:59] el éxito ha sido el más común es entre
+[01:42:04] ácido sulfúrico
+[01:42:07] y si es
+[01:42:10] al camino a comunes en el agua
+[01:42:20] en lo que no se utiliza
+[01:42:25] funciona con el
+[01:42:28] medio dentro de la senda que va a
+[01:42:34] para complementar los procesos de óxido
+[01:42:38] reducción que se produce en cada uno de
+[01:42:40] los centros
+[01:42:46] no
+[01:42:48] que es
+[01:42:49] [Música]
+[01:42:51] positivo que recibe
+[01:42:55] no vino
+[01:42:57] y a través de un proceso similar
+[01:42:59] convierte
+[01:43:01] las cargas
+[01:43:04] no
+[01:43:08] la diferencia de potencial en
+[01:43:11] el caso de la celda
+[01:43:14] e hidrógeno
+[01:43:17] últimamente hay que estar haciendo
+[01:43:19] circular
+[01:43:20] 10 para esa diferencia de potencial
+[01:43:26] en otro
+[01:43:27] principio de funcionamiento
+[01:43:32] en la celda de porcino almacena dirigida
+[01:43:37] eso también
+[01:43:40] a depender la diferencia en una celda de
+[01:43:45] una pila de la tira no almacena
+[01:43:53] máxima en el depósito
+[01:44:00] bueno marianos y si quedó claro
+[01:44:05] avísanos y dice juan pablo próximo muy
+[01:44:09] bueno de france
+[01:44:12] bien si hay alguna más
+[01:44:22] [Música]
+[01:44:28] bueno no veo más consultas por lo menos
+[01:44:31] por ahora
+[01:44:43] bueno si no hay más consultas
+[01:44:47] y terminamos aquí mismo exactamente
+[01:44:51] este viernes entonces voy hacia todos
+[01:44:59] [Música]

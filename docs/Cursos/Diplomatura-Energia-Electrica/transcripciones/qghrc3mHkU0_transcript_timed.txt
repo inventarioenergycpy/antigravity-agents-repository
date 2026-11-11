@@ -1,0 +1,1686 @@
+[00:00:26] Buen día. ¿Cómo andan?
+[00:00:31] Bueno, espero que todos bien. Vamos a
+[00:00:34] arrancar, ¿les parece?
+[00:00:39] Hoy vamos a ver la clase 6,
+[00:00:42] eh, balance de energía, pérdidas
+[00:00:45] técnicas, no técnicas. Nos acompaña
+[00:00:48] nuevamente el ingeniero Vicente Serra.
+[00:00:54] Ahí está.
+[00:00:55] Hola, buenos días. Ah, ahí te vemos,
+[00:00:57] Vicente,
+[00:00:59] buen día. ¿Cómo estás?
+[00:01:01] Bien, muy bien.
+[00:01:04] Bueno, cuando quieras.
+[00:01:06] Bueno, perfecto. Bueno, dado que veo que
+[00:01:10] por ahora son pocos, este, eh,
+[00:01:13] interrumpan cuando quieran. Hm.
+[00:01:17] Así que
+[00:01:19] un poco más interactivo.
+[00:01:21] Bueno, muy bien.
+[00:01:25] Bueno, lo que vamos a ver hoy el día de
+[00:01:27] hoy son los balances y pérdidas de
+[00:01:29] energía y potencia,
+[00:01:31] que es una cuestión clave por dos cosas,
+[00:01:35] uno, para diseñar las redes con una
+[00:01:38] determinada calidad de servicio dada y
+[00:01:41] la segunda, este, para poder dimensionar
+[00:01:45] eh las tarifas y segmentar entre los
+[00:01:48] usuarios.
+[00:01:50] Los conceptos generales o la importancia
+[00:01:53] que tiene es ver eh cómo son las
+[00:01:57] pérdidas en cada una de las etapas y
+[00:02:01] tratar de establecer los niveles de
+[00:02:02] carga promedio de las instalaciones.
+[00:02:06] Y por último, este sumado a lo que son
+[00:02:09] las pérdidas de potencia y energía, que
+[00:02:11] son netamente pérdidas técnicas, tratar
+[00:02:15] de estimar lo que son las pérdidas no
+[00:02:17] técnicas.
+[00:02:20] Aquí en esta infografía tenemos un
+[00:02:22] esquema de eh básico. Esta es una red
+[00:02:27] anillada a nivel de 13,2 kV.
+[00:02:32] Ahí tenemos en un tramo una línea de 33
+[00:02:36] y el otro, pero esto es una cuestión
+[00:02:37] típica y este tipo de redes es muy usual
+[00:02:41] encontrarla es en las líneas en las
+[00:02:44] distribuidoras provinciales. Básicamente
+[00:02:48] acá lo único que se trata de mostrar es
+[00:02:51] son las pérdidas que se dan a través de
+[00:02:53] los cables y en los centros de rebaje. Y
+[00:02:57] después cuando estamos en la parte de
+[00:02:59] baja tensión también ahí vamos a tener
+[00:03:02] pérdidas transmitidas por los cables.
+[00:03:06] No estoy diciendo nada
+[00:03:09] nuevo, es si bien es algo elemental,
+[00:03:12] ahora empezamos a ver cuál es la
+[00:03:14] complejidad. Y eh para todos los que no
+[00:03:18] están familiarizados,
+[00:03:19] les recuerdo que las pérdidas técnicas
+[00:03:23] están asociadas con el cuadrado de la
+[00:03:26] corriente que circula.
+[00:03:31] Aquí tenemos la última etapa que es el
+[00:03:33] sistema de distribución que acompaña la
+[00:03:36] infografía anterior donde se produce el
+[00:03:39] acceso a clientes en medio tensión, otra
+[00:03:42] estación de rebaje de media baja y por
+[00:03:45] último entrar en la red de baja tensión
+[00:03:47] y eh el ingreso a las acometidas en baja
+[00:03:51] tensión a cada uno de los usuarios.
+[00:03:56] Continuando con esto, tenemos el ingreso
+[00:03:58] de las acometidas
+[00:04:00] y las pérdidas que se dan en cada una de
+[00:04:03] las acometidas. Acá es fundamental que
+[00:04:07] cuando se habla de cables subterráneos o
+[00:04:10] de líneas aéreas, la derivación a la
+[00:04:13] alimentación siempre se hace por medio
+[00:04:16] de derivaciones.
+[00:04:18] Algunas son estancas, otras no. Por
+[00:04:20] medio de grampas y ahí también se
+[00:04:22] producen pérdidas. Son puntos calientes
+[00:04:25] que si uno tomara con una un detector
+[00:04:29] infrarrojo, cada una de las derivaciones
+[00:04:32] aparecerían con una temperatura un
+[00:04:34] poquito superior a la normal del cable.
+[00:04:40] El cálculo de la potencia en función de
+[00:04:42] la energía. Esto es parte de lo que
+[00:04:46] vimos el año el
+[00:04:49] la clase anterior es la energía del año
+[00:04:54] versus el tiempo de utilización anual. O
+[00:04:58] puesto de otra manera, la potencia
+[00:05:00] coincidente es la energía del año por el
+[00:05:03] factor de coincidencia sobre el factor
+[00:05:05] de utilización anual.
+[00:05:09] La relación entre ambas me va a dar este
+[00:05:13] la la potencia que yo estoy en ese
+[00:05:15] momento. Vamos a recordar un poco lo que
+[00:05:18] era el factor de simultaneidad, que es
+[00:05:20] la demanda máxima simultánea
+[00:05:25] sobre eh la suma de todas las demandas
+[00:05:28] máxima individuales sin simultaneidad.
+[00:05:31] Eso me da el factor de simultaneidad
+[00:05:34] y el factor de carga.
+[00:05:37] es la demanda promedio del usuario sobre
+[00:05:41] la demanda máxima. Esto nos va a servir
+[00:05:43] después para hacer el diseño de las
+[00:05:47] redes. Acá eh se vuelve vuelvo a a
+[00:05:51] enfocar un simple ejemplo de cómo se
+[00:05:53] calculan el factor de simultaneidad por
+[00:05:57] un lado y el factor de carga por el
+[00:06:00] otro. Se toma tomé una instalación
+[00:06:03] típica. Fíjense que en este el factor de
+[00:06:06] carga da 18,22%.
+[00:06:14] Entonces tenemos
+[00:06:16] para qué se usa cada uno? Bueno, el uso
+[00:06:19] principal del factor de carga es para
+[00:06:21] medir la eficiencia del uso de la
+[00:06:23] infraestructura,
+[00:06:24] dado que me dice qué parte estoy usando
+[00:06:28] la mayor cantidad del tiempo
+[00:06:32] eh aprovechando la infraestructura de
+[00:06:34] cada uno de los cables. Esto el impacto
+[00:06:37] que tiene es en las redes es su es la
+[00:06:41] planificación de la capacidad y las
+[00:06:44] tarifas.
+[00:06:45] Y el factor de simultaneidad me sirve a
+[00:06:48] mí para dimensionar la potencia.
+[00:06:52] Hola,
+[00:06:55] si alguien quiere preguntar algo.
+[00:06:58] No, Vicente, desactivó un micrófono. Ya
+[00:06:59] está. Bueno, y evitar eh
+[00:07:02] sobredimensionar las los equipos y
+[00:07:04] redes.
+[00:07:07] Bueno, también vuelvo a traer
+[00:07:10] parte de lo que vimos la clase anterior
+[00:07:12] para refrescar, que es el tiempo de
+[00:07:14] utilización donde es la energía
+[00:07:17] consumida por un usuario versus su
+[00:07:20] demanda máxima y el factor de
+[00:07:22] coincidencia, la demanda máxima
+[00:07:24] coincidente del sistema versus la suma
+[00:07:28] de todas las demandas máximas
+[00:07:30] individuales.
+[00:07:32] El factor de coincidencia es
+[00:07:34] prácticamente el factor de carga
+[00:07:37] también, pero en una escala superior
+[00:07:39] donde se mezclan ya varios edificios,
+[00:07:43] o sea, que sería el básicamente es el
+[00:07:46] factor de carga de la agrupación de
+[00:07:48] varios inmuebles al mismo tiempo.
+[00:07:51] Esto es importantísimo porque esto es lo
+[00:07:54] que nos va a permitir a nosotros diseñar
+[00:07:56] bien la capacidad de una instalación.
+[00:08:00] Y el tiempo de uso me va a servir para
+[00:08:03] saber la cantidad de uso de horas que
+[00:08:07] podría estar usando mi instalación a a
+[00:08:10] plena a plena carga.
+[00:08:17] Entonces, resumiendo, tenemos el factor
+[00:08:20] de carga, que es en la energía promedio
+[00:08:22] versus la demanda máxima, que su uso
+[00:08:25] principal es la eficiencia de uso, el
+[00:08:27] factor de simultanead, la demanda
+[00:08:30] simultánea versus la suma de demanda que
+[00:08:32] sirve para el dimensionamiento interno
+[00:08:34] de los usuarios, por ejemplo, un
+[00:08:36] edificio, la coincidencia externa, que
+[00:08:39] sería el factor de carga de varias este
+[00:08:42] unidades.
+[00:08:44] Y eh por último un concepto importante
+[00:08:48] que es la diversidad,
+[00:08:51] que es la suma de las demandas máximas
+[00:08:53] versus la demanda máxima coincidente.
+[00:08:56] Esto es lo que a mí me va haciendo
+[00:08:59] agrupar e ir subiendo en la escala de la
+[00:09:01] red de alta tensión. Esto de la
+[00:09:04] diversidad es un complemento del factor
+[00:09:06] de de coincidencia.
+[00:09:08] A su vez, también la de la diversidad
+[00:09:12] existe también otro concepto que es la
+[00:09:14] dispersión, que es la cantidad de megwh
+[00:09:18] por kilómetro cuad
+[00:09:21] eh potencia coincidente,
+[00:09:25] que es el factor fundamental que nos va
+[00:09:27] a permitir para diseñar luego las redes.
+[00:09:32] ¿Alguna pregunta hasta acá?
+[00:09:36] Bien, sigamos.
+[00:09:39] Bueno, el riesgo de un cálculo
+[00:09:40] incorrecto es el subdimensionamiento,
+[00:09:45] es o el sobredimensionamiento
+[00:09:49] y las dos tienen efectos positivos y
+[00:09:53] negativos. Si yo lo eh subdimensiono,
+[00:09:57] voy a tener holgas,
+[00:10:00] pero estoy eh haciendo una inversión
+[00:10:06] menor y si tengo sobredimensionamiento
+[00:10:09] ahí lo que voy a tener es una inversión
+[00:10:13] en equipos y voy a tener una gran
+[00:10:15] capacidad ociosa.
+[00:10:18] El impacto tarifario en este caso viene
+[00:10:21] dado porque es ineficiencia por
+[00:10:24] sobredimensionamiento.
+[00:10:26] Las distribuidoras van a tratar de
+[00:10:28] cobrárselo a la demanda
+[00:10:32] mediante los cargos por potencia
+[00:10:34] contratada.
+[00:10:38] La contracara de eso es que si yo
+[00:10:40] subdimensiono,
+[00:10:42] posiblemente voy a tener mucha más
+[00:10:44] cantidad de cortes por exceso de
+[00:10:47] demanda.
+[00:10:51] cosa muy clara que se evidencia todos
+[00:10:53] los veranos.
+[00:10:56] Bien, ahora volvemos este a un otro
+[00:11:01] concepto que es el tiempo equivalente de
+[00:11:03] pérdidas y aquí ya nos estamos
+[00:11:05] adentrando en lo que son los cálculos de
+[00:11:08] las pérdidas técnicas.
+[00:11:10] Entonces, eh un ejemplo clásico por un
+[00:11:13] lado, después les digo por el otro, hay
+[00:11:16] dos acepciones.
+[00:11:18] Uno es, supongamos que tenemos un
+[00:11:20] transformador de 315 KBA, 252 kW,
+[00:11:25] considerando el factor de potencia y las
+[00:11:27] pérdidas mensuales que medí son de 1800.
+[00:11:31] Eso significa que el tiempo equivalente
+[00:11:33] de pérdidas es de 7,14 horas funcionando
+[00:11:37] a plena carga. ¿Se
+[00:11:44] entiende? Sí. Bueno, por otro lado,
+[00:11:49] podemos calcularlo como eh la relación
+[00:11:52] entre el tiempo equivalente de pérdidas
+[00:11:55] sobre la potencia máxima. O sea, es un
+[00:11:59] poco eh la inversa. Y lo que se trata
+[00:12:03] acá, estos dos conceptos, que el de la
+[00:12:05] derecha es un tiempo de equivalente
+[00:12:08] real. El de la izquierda es un tiempo
+[00:12:11] equivalente de pérdidas que se va a usar
+[00:12:13] para el diseño de las redes, ya que no
+[00:12:16] tenemos histografía del área que uno va
+[00:12:18] a abastecer e y tiene que desarrollar o
+[00:12:22] ampliar.
+[00:12:24] El tiempo equivalente de pérdida se usa
+[00:12:26] para comparar la eficiencia de los
+[00:12:28] transformadores urbanos y en la
+[00:12:31] industria permite estimar las pérdidas
+[00:12:34] internas en los sistemas de distribución
+[00:12:37] de la industria misma propiamente dicha
+[00:12:39] y justificar inversiones para corregir
+[00:12:41] su factor de potencia.
+[00:12:43] En el planeamiento ayuda a calcular a
+[00:12:46] las pérdidas técnicas en cuadrículas de
+[00:12:49] 1 km cuadrado y de optimizar el diseño
+[00:12:51] de la red.
+[00:12:54] O sea, eh usando el tiempo equivalente
+[00:12:57] de pérdidas, este el de la izquierda es
+[00:13:00] para se usa para plñamiento en base a
+[00:13:03] factores que uno ya tiene eh relevado de
+[00:13:06] la red y el de la derecha sería el
+[00:13:08] tiempo equivalente de pérdidas de el uso
+[00:13:12] de la red existente.
+[00:13:16] Bien, aquí tenemos una infografía
+[00:13:20] que es un poco lo que estuvimos viendo
+[00:13:22] anterior
+[00:13:25] y otra fórmula que se usa equivalente
+[00:13:28] para dimensionar que es el tiempo de
+[00:13:31] utilización
+[00:13:33] que ya lo habíamos visto, recordamos
+[00:13:35] para atrás, energía consumida versus
+[00:13:38] demanda máxima
+[00:13:42] multiplicado por el factor de carga al
+[00:13:45] cuadrado. que es una cuestión
+[00:13:47] dimensional. Acuérdense que hablábamos
+[00:13:49] del cuadrado de la corriente y un
+[00:13:51] factor. Esto también se usa para eh
+[00:13:57] para eh dimensionar. Fíjense que el
+[00:14:00] tiempo acá de resultado
+[00:14:03] da 11,7 horas
+[00:14:08] versus los 7,14 que calculamos
+[00:14:11] anteriormente.
+[00:14:12] Esto es un poco también la diferencia
+[00:14:14] que se usa para el diseño.
+[00:14:19] Entonces,
+[00:14:21] el ejemplo que vimos antes para calcular
+[00:14:24] ahora la cuantía en megwti hora es la
+[00:14:29] potencia máxima, el factor de carga
+[00:14:31] promedio y el tiempo de uso que habíamos
+[00:14:34] visto. Y eso nos da una un tiempo de una
+[00:14:40] energía del transformador de 62370
+[00:14:43] kWh.
+[00:14:48] Entonces, las pérdidas totales, que
+[00:14:50] suele ser las del cobre hierro,
+[00:14:52] representan entre el 2 y el 3% de la
+[00:14:54] energía de un transformador. Acuérdense
+[00:14:58] que esto depende en la zona de trabajo
+[00:15:01] del transformador a bajas potencias la
+[00:15:05] pérdida se tiene tiende a tender
+[00:15:07] alrededor del 2% y a plena carga puede
+[00:15:11] llegar hasta el 5%.
+[00:15:14] Tomando un valor promedio, tenemos que
+[00:15:17] la energía de pérdida del transformador
+[00:15:19] es de 1800 kWh. Esto está un poco
+[00:15:23] haciendo coincidente para hacerlo ver
+[00:15:25] con respecto a la infografía que estamos
+[00:15:28] viendo, donde habíamos medido 1800 kWh
+[00:15:31] por mes.
+[00:15:36] Bien,
+[00:15:38] entonces el método,
+[00:15:40] habíamos visto que teníamos dos maneras
+[00:15:42] de medir el tiempo equivalente de
+[00:15:45] pérdidas.
+[00:15:47] Entonces, este, como decía antes,
+[00:15:50] tenemos la base de cálculo, que son
+[00:15:52] pérdidas reales, y la estimación
+[00:15:55] empírica.
+[00:15:56] En una se usa para auditorías y
+[00:15:58] mediciones y en el otro para diseño y
+[00:16:00] simulación de redes. ¿Por qué eh da más?
+[00:16:04] Bueno, esto es para tener un una
+[00:16:07] cobertura en cuanto al diseño y no hacer
+[00:16:10] las cosas demasiado justa.
+[00:16:15] Ahora basamos al factor de pérdidas a lo
+[00:16:17] largo del a lo largo del año que se mide
+[00:16:21] por el tiempo equivalente dividido las
+[00:16:24] horas totales del año. Expresado
+[00:16:26] matemáticamente sería la integral de la
+[00:16:30] potencia
+[00:16:33] eh a lo largo del tiempo.
+[00:16:36] Aquí tenemos uno una infografía a la
+[00:16:39] derecha que si uno lo hiciera una
+[00:16:43] acumulada podríamos tener una un gráfico
+[00:16:47] de este tipo donde tenemos una cantidad
+[00:16:50] de horas que se funciona a potencia
+[00:16:52] máxima y de luego el resto para
+[00:16:54] completar las 8760
+[00:16:56] horas.
+[00:17:00] Aquí tenemos lo que es un poco el diseño
+[00:17:05] y cómo impacta esto en el desarrollo de
+[00:17:08] los cálculos. Entonces, aquí tenemos lo
+[00:17:11] que es prácticamente una realidad, lo
+[00:17:13] que es una curva irregular a lo largo
+[00:17:15] del tiempo con un factor de carga de 04,
+[00:17:18] una curva intermedia y un factor de
+[00:17:21] curva uniforme. A medida que nosotros
+[00:17:24] aumentamos el la cantidad de horas
+[00:17:27] equivalentes, quiere decir que estamos
+[00:17:29] haciendo un mejor uso de las
+[00:17:31] instalaciones
+[00:17:33] en que tenemos.
+[00:17:43] Ahora vayamos a la
+[00:17:46] un poco al diseño general
+[00:17:49] y qué necesitamos nosotros como para
+[00:17:52] poder hacer un balance de de energía.
+[00:17:59] En primer lugar,
+[00:18:06] eh tenemos que la energía y potencia
+[00:18:09] ingresada al sistema de transmisión
+[00:18:13] es la que nos va a dar este la interface
+[00:18:17] entre el sistema de alta y el sistema de
+[00:18:19] baja. A partir de ahí vamos a tener las
+[00:18:22] pérdidas de potencia y energía en el
+[00:18:23] sistema de 220 y 66.
+[00:18:27] las ventas por nivel y y las ventas por
+[00:18:31] nivel de tensión de energía que tengo, o
+[00:18:33] sea, usuarios grandes usuarios, usuarios
+[00:18:37] medianos y usuarios residenciales y cómo
+[00:18:40] se caracteriza la demanda por cada
+[00:18:43] segmento tarifario.
+[00:18:45] Por último, vamos a necesitar como datos
+[00:18:47] bas inventario de instalaciones de
+[00:18:50] distribución, redes de media tensión,
+[00:18:53] transformador, red de baja tensión,
+[00:18:55] acometidas
+[00:19:03] variables.
+[00:19:06] Aquí tenemos una un decálogo de todas
+[00:19:09] las variables que vamos a usar para
+[00:19:11] hacer el diseño de redes.
+[00:19:14] tenemos el un factor de utilización,
+[00:19:18] el factor equivalente,
+[00:19:21] que el factor de utilización representa
+[00:19:24] el grado de aprovechamiento que hago de
+[00:19:26] la de la instalación instalada.
+[00:19:30] El factor equivalente es me da el
+[00:19:32] promedio ponderado con de utilización,
+[00:19:35] considerando las variaciones de carga y
+[00:19:37] pérdida a lo largo del año y eh se usa
+[00:19:41] para estimar el comportamiento
+[00:19:43] energético global del sistema. El factor
+[00:19:46] de coincidencia máximo me mide la
+[00:19:49] simultanead los sistemas máximos
+[00:19:52] en distintos puntos del sistema. Si es
+[00:19:54] cercano a uno, las cargas máximas
+[00:19:56] ocurren al mismo tiempo. Si es menor,
+[00:19:59] hay un desfasaje entre picos de consumo.
+[00:20:02] Quiero destacar que esto no es constante
+[00:20:05] durante eh durante el año, o sea, esto
+[00:20:09] va cambiando si es un día laborable, un
+[00:20:11] día no laborable.
+[00:20:13] Eh, también va cargando, si va cambiando
+[00:20:16] si es un eh si estamos en periodo
+[00:20:21] estacional o no, o sea, si estamos en
+[00:20:23] invierno o verano.
+[00:20:26] Todo esto es importante porque va
+[00:20:28] cambiando. ¿Qué es lo que voy a tomar yo
+[00:20:30] después del de
+[00:20:33] del año al final cuando yo haga estos
+[00:20:35] cálculos? es el factor de coincidencia
+[00:20:38] máximo de todos los que pude haber
+[00:20:41] medido
+[00:20:42] o este estimado con con las cuentas que
+[00:20:46] estamos haciendo.
+[00:20:48] Después tenemos la potencia coincidente
+[00:20:50] máxima, que es la toda la potencia
+[00:20:52] máxima que yo requiero del sistema
+[00:20:55] interconectado. Piensen ustedes que
+[00:20:57] todos estos factores yo los voy a usar
+[00:21:01] en cada una de las etapas, o sea, lo uso
+[00:21:04] en la etapa de baja a nivel de
+[00:21:07] transformadores de salida al sistema de
+[00:21:10] 13,2.
+[00:21:12] Después de ahí eh subo a 132 o 66 y por
+[00:21:18] último a 220.
+[00:21:21] La otra expresión es las pérdidas
+[00:21:23] porcentuales de energía y potencia.
+[00:21:26] donde ahí vamos a expresar este
+[00:21:30] finalmente todas las pérdidas en
+[00:21:33] porcentaje de todos los ingresos que
+[00:21:35] tenemos y cuánto es lo que deberíamos
+[00:21:38] vender.
+[00:21:43] Dije en este caso lo que deberíamos
+[00:21:45] vender porque después a todo esto se van
+[00:21:47] a agregar las pérdidas no técnicas.
+[00:21:57] Acá tenemos una
+[00:22:01] un ejemplo de esto es de Denor y es un
+[00:22:04] balance de potencia y energía de
+[00:22:06] transmisión del año 2020 a los efectos
+[00:22:11] de la exposición de de esta clase.
+[00:22:15] Entonces ahí pueden ver lo que son los
+[00:22:17] factores
+[00:22:18] equivalentes de coincidencia máxima, de
+[00:22:22] factor equivalente en por unidad, todo
+[00:22:24] en por unidad que lo pueden llevar a
+[00:22:26] porcentaje, ¿no? No hay ningún problema.
+[00:22:29] Eh, fíjense que a medida que vamos
+[00:22:32] bajando
+[00:22:35] eh va la dispersión de los factores de
+[00:22:39] coincidencia van siendo cada vez
+[00:22:41] menores.
+[00:22:44] Yo con estos esquemas yo puedo meterme
+[00:22:47] en las ecuaciones a su vez que voy
+[00:22:50] bajando en el riv de cable y establecer,
+[00:22:55] por ejemplo,
+[00:22:57] estas ecuaciones
+[00:23:00] donde, por ejemplo, el ingreso de media
+[00:23:02] tensión a alta tensión es el ingreso uno
+[00:23:05] más el ingreso el eh más la energía dos
+[00:23:09] e por unidad es E0 sobre P0. Esto está
+[00:23:13] relacionado con lo anterior, donde cada
+[00:23:15] una de estas es
+[00:23:18] una una etapa.
+[00:23:21] Entonces, esto significa energía
+[00:23:24] entrante y saliente.
+[00:23:29] Aquí tienen ver, por ejemplo, E1 es el
+[00:23:32] ingreso a la red y E2 sería el el
+[00:23:36] egreso, el ingreso a la red de es 13,2.
+[00:23:41] O sea, que el E1 va a ser siempre mayor
+[00:23:44] que el E2
+[00:23:48] porque es, o sea, que la diferencia
+[00:23:50] estaría me estaría dando las pérdidas.
+[00:23:56] A su vez dos temas acá que es lo que
+[00:24:00] subyce y no está perfectamente
+[00:24:03] relevado, que es que acá estamos en una
+[00:24:06] red que anillada que está teniendo
+[00:24:09] ingresos a través de el de la red de 33
+[00:24:14] y de 13,2. Volvemos al gráfico
+[00:24:19] del principio,
+[00:24:22] o sea, acá yo tengo sobre esto tengo el
+[00:24:25] ingreso de esta de esta energía a través
+[00:24:28] de la línea de 33 y el ingreso de este
+[00:24:31] sistema a través de 13,2. Quiere decir
+[00:24:34] que esta flechita que está acá al final
+[00:24:36] que dice ingreso total a la red de
+[00:24:37] tensión es el ingreso de la energía de
+[00:24:41] dos a través de la red de 13,2 y la
+[00:24:45] energía a través del subsistema de 13 de
+[00:24:48] 33 kV.
+[00:24:51] Aquí me detengo un rato porque es
+[00:24:53] importante este esquema.
+[00:24:57] En las redes de distribución, aquellas
+[00:25:00] que tienen eh anilladas y son en zonas
+[00:25:03] urbanas. Por lo regular una estación
+[00:25:07] transformadora
+[00:25:08] de rebaje tiene dos transformadores
+[00:25:12] y el factor de reserva es del 33%. Eso
+[00:25:16] significa que en condiciones normales,
+[00:25:21] si tengo una falla a nivel de
+[00:25:25] un transformador, el transformador
+[00:25:28] que queda es capaz de absorber
+[00:25:31] eh parte del 33%
+[00:25:34] la mitad y la otro lo voy a poder
+[00:25:36] ingresar a través de maniobras
+[00:25:40] eh a través de la red de baja de 13,2.
+[00:25:43] Entonces, una estación transformadora de
+[00:25:46] rebaje tiene una reserva eh o una
+[00:25:49] capacidad de diseño en realidad del 66%.
+[00:25:53] El resto del 33% es por una cuestión de
+[00:25:56] seguridad y lo que se llama en la jerga
+[00:26:00] el factor n - 1. El n significa todos
+[00:26:05] los elementos sustantivos de una red.
+[00:26:08] Y el diseño se hace para que si yo tengo
+[00:26:11] una falla en un elemento,
+[00:26:14] eh, pueda seguir abasteciendo la de
+[00:26:17] energía en las mismas condiciones que
+[00:26:19] cuando tenía todo el sistema normal. Y
+[00:26:22] aquí empezamos a ver una divergencia
+[00:26:25] porque cuando tenemos una línea radial
+[00:26:28] tenemos un único sistema, entonces ahí
+[00:26:30] eh esta presunción que se hace no sirve.
+[00:26:34] Esto viene un poco a la discusión de la
+[00:26:36] vez pasada. en lo que se hablábamos de
+[00:26:39] áreas típicas de distribución.
+[00:26:49] Así que ahora volvamos a
+[00:26:58] Así que esto que está esto que estamos
+[00:27:00] viendo acá se corresponde con la
+[00:27:02] infografía que estábamos viendo antes de
+[00:27:06] esa red con 33 y 13,2 kV.
+[00:27:12] Estos se los dejo para que cada uno de
+[00:27:14] ustedes si quiere puede utilizar esto
+[00:27:16] como base método de cálculo para ir
+[00:27:18] calculando cada una
+[00:27:21] de de de
+[00:27:26] los coeficientes
+[00:27:27] adaptados a la red que ustedes están
+[00:27:29] desarrollando o están llevando adelante.
+[00:27:37] ¿Cómo estamos con el tiempo? Eh,
+[00:27:40] estamos bien.
+[00:27:42] Sí, Vicente, son 8:35.
+[00:27:45] Bueno, perfecto. Entonces, a las 9
+[00:27:47] hacemos un break y
+[00:27:50] continuamos en 10 minutos.
+[00:27:53] Perfecto.
+[00:27:53] Bien. Eh,
+[00:27:56] vayamos ahora al concepto de ingreso.
+[00:28:02] Esto es más de lo anterior. Ahora ya
+[00:28:04] estamos dentro del sistema de 13,2 kV y
+[00:28:07] estos gráficos o estos siglas se
+[00:28:10] corresponden a este cuadro que estábamos
+[00:28:12] viendo acá.
+[00:28:14] Ya estamos en la red de 13,2.
+[00:28:20] Y ahí tenemos las acometidas de baja
+[00:28:24] tensión, las pérdidas y la alimentación
+[00:28:27] a clientes.
+[00:28:29] Todas estas ecuaciones que vamos a ver
+[00:28:31] ahora se corresponden a esa infografía.
+[00:28:35] Nuevamente
+[00:28:37] ustedes pueden calcular con su sistema
+[00:28:40] lo que son las pérdidas. Yo les recuerdo
+[00:28:44] esto. Esto se los dejo para que ustedes
+[00:28:45] hagan como ejercicio, eh, tomando como
+[00:28:48] ejemplo una red de
+[00:28:51] del sistema que ustedes manejan y
+[00:28:54] después con gusto nosotros este de acá
+[00:28:57] de la cátedra la revisamos.
+[00:29:09] Bien.
+[00:29:14] Y aquí estamos en en la última etapa que
+[00:29:17] es directamente la red de baja tensión,
+[00:29:21] que son las pérdidas que vamos a
+[00:29:24] calcular en las redes de baja y en las
+[00:29:26] pérdidas de las acometidas.
+[00:29:33] A veces para el factor para el diseño se
+[00:29:36] utiliza factor de diseño uno, o factor
+[00:29:39] de coincidencia máximo uno en todos los
+[00:29:42] en todas las etapas porque eso estaría,
+[00:29:45] digamos, para un nivel superior a nivel
+[00:29:47] de 500 kV el número final. O sea, para
+[00:29:51] como es el ingreso principal al sistema,
+[00:29:54] el factor de coincidencia máximo se la
+[00:29:57] toma como uno en a nivel de
+[00:30:01] la conexión en alta tensión.
+[00:30:04] Bien, ahora tenemos
+[00:30:09] los balances proyectados de la red
+[00:30:11] adaptada.
+[00:30:13] Y aquí es un poco lo que estábamos
+[00:30:15] hablando. Alguno que me pueda decir que
+[00:30:18] es una red adaptada.
+[00:30:30] Bueno, la red adaptada es una red
+[00:30:32] teórica
+[00:30:34] donde supuestamente con esa red adaptada
+[00:30:37] es adaptada a la calidad de servicio que
+[00:30:40] por contrato de concesión yo tengo que
+[00:30:42] brindar.
+[00:30:44] Y eh aquí tenemos un problema en
+[00:30:48] realidad porque
+[00:30:52] las redes en todas las distribuidoras
+[00:30:54] provinciales, inclusive a nivel de de
+[00:30:56] nor de sur, especialmente en el área del
+[00:30:59] AMA o del conurbano, no son redes
+[00:31:01] adaptadas, sino que son redes que han eh
+[00:31:05] ido evolucionando de acuerdo a cómo se
+[00:31:08] iba conectando la demanda.
+[00:31:11] Entonces, eh lo que se trata es de
+[00:31:15] concebir una red adaptada y llevarlo a
+[00:31:18] ese a ese a ese sistema.
+[00:31:22] Cuando se hacen las revisiones
+[00:31:24] tarifarias quinquenales,
+[00:31:27] se usa el concepto de red adaptada, que
+[00:31:30] es una red de mínimo costo.
+[00:31:33] Y esa red de mínimo costo
+[00:31:36] eh conlleva también bajos costos de
+[00:31:39] operación y mantenimiento.
+[00:31:41] Esto eh es un incentivo que tiene que
+[00:31:45] correr la distribuidora
+[00:31:49] para mejorar su eficiencia e ir
+[00:31:51] tendiendo en el tiempo aproximándose a
+[00:31:54] lo que es la red adaptada para poder
+[00:31:57] minimizar los costos y obtener la mayor
+[00:32:00] rentabilidad posible.
+[00:32:02] Aquí para la red adaptadas se utilizan
+[00:32:05] en las revisiones tarifarias
+[00:32:07] quinquenales los costos de cada uno de
+[00:32:10] eh los sistemas que está prestando. La
+[00:32:14] comparación, si un si un costo eficiente
+[00:32:16] es o no es, se hace por comparación
+[00:32:20] entre para ver lo que gastan cada una de
+[00:32:23] las distribuidoras en distintas etapas
+[00:32:25] de su sistema. Después aparecen las
+[00:32:28] divergencias en cuanto a las horas de
+[00:32:30] mantenimiento
+[00:32:32] que usa uno y que usa otro,
+[00:32:35] si tiene servicios tercerizados o no,
+[00:32:39] como por ejemplo la guardia este
+[00:32:42] nocturna o guardia diurna que va a los
+[00:32:45] distintos puntos para solucionar
+[00:32:47] problema inconveniente de los usuarios,
+[00:32:50] eh etcétera. Pero vayamos a ver en qué
+[00:32:54] nos permite
+[00:32:56] la red adaptada.
+[00:32:59] me permite proyectar a mí ventas de
+[00:33:02] energía y potencia con factores de
+[00:33:05] caracterización corregido
+[00:33:08] desde eh el año base. Me permite pensar
+[00:33:13] cuáles van a ser las pérdidas no
+[00:33:15] técnicas en baja tensión que siempre se
+[00:33:19] estipula como una fracción de todas las
+[00:33:22] ventas.
+[00:33:24] Eh, luego tenemos las pérdidas técnicas
+[00:33:27] porcentuales referidas a potencia y
+[00:33:29] energía circulante por las propias
+[00:33:31] redistribución y segundo y por último el
+[00:33:34] red de servicio, la calidad de servicio
+[00:33:36] esperable. Y aquí digo que se deberían
+[00:33:39] hacer análisis de confiabilidad
+[00:33:43] y eh
+[00:33:45] por lo siguiente, porque
+[00:33:48] hasta ahora no hablamos de esto, pero
+[00:33:50] cada elemento, un transformador, un
+[00:33:52] cable tiene un índice de falla.
+[00:33:56] La operación en una estación
+[00:33:57] transformadora de media baja, los
+[00:33:59] interruptores, los seccionadores,
+[00:34:01] también tiene un índice, los bulling de
+[00:34:05] los transformadores.
+[00:34:07] Todos esos elementos eh tienen un índice
+[00:34:11] de falla. Entonces, yo podría construir
+[00:34:14] una red y en base a los índices de falla
+[00:34:17] de cada uno de los elementos tratar de
+[00:34:20] ver cuál es la mejor confiabilidad
+[00:34:23] o operación o diseño del sistema. que me
+[00:34:26] dé la mayor confiabilidad posible
+[00:34:30] de manera tal que los cortes de
+[00:34:31] suministro sean mínimos. Todo eso, por
+[00:34:34] supuesto, sin violar la normativa de los
+[00:34:38] parámetros operativos en que debo
+[00:34:40] cumplir con calidad y productos técnicos
+[00:34:42] de la de la atención.
+[00:34:52] Algo que mencionamos así al pasar, eh,
+[00:34:56] las pérdidas no técnicas
+[00:34:59] tiene dos componentes.
+[00:35:03] Uno que es el más evidente y para todos
+[00:35:07] que es la el hurto de energía eléctrica,
+[00:35:11] la gente que o la gente que está colgada
+[00:35:14] o los barrios marginales que tienen una
+[00:35:17] sola acometida y que como no pagan la
+[00:35:20] luz, lo paga el municipio, esa también
+[00:35:22] entran en la ecuación de las pérdidas no
+[00:35:24] técnicas. Y el otro factor que son de
+[00:35:27] pérdidas no técnicas viene por el lado
+[00:35:29] de la facturación. son errores de
+[00:35:32] facturación prácticamente.
+[00:35:36] Bien,
+[00:35:39] ¿qué son las pérdidas técnicas en los
+[00:35:40] sistemas eléctricos?
+[00:35:43] Bueno, esto un poco ya lo vimos viendo
+[00:35:46] desde que empezamos la clase.
+[00:35:48] Eh, las pérdidas técnicas son
+[00:35:51] prácticamente constantes a nivel de los
+[00:35:54] transformadores
+[00:35:57] y a nivel de
+[00:36:00] los sistemas de redes y cables ya
+[00:36:02] cometidas son variables.
+[00:36:06] Entonces, la energía que ingresa ingresa
+[00:36:10] con un factor de utilización y factor
+[00:36:12] equivalente y la energía que se pierde
+[00:36:15] por los lo que estuvimos viendo van a
+[00:36:17] ser constantes y variables.
+[00:36:20] Las pérdidas
+[00:36:23] son inevitables, pero las podemos medir
+[00:36:26] y a medida
+[00:36:29] que bajamos el nivel de tensión, van a
+[00:36:33] ser cada vez
+[00:36:35] mayores
+[00:36:38] o se aumentan su nivel.
+[00:36:42] Aquí tenemos una infografía que estos
+[00:36:46] son parámetros eh típicos que se usan
+[00:36:49] para el diseño, que son las pérdidas en
+[00:36:52] porcentaje
+[00:36:53] a nivel de cada una de las etapas,
+[00:36:56] transmisión, transformación y
+[00:36:59] distribución.
+[00:37:03] Ahí quedó. Esto son 13 con2 kV y no 23.
+[00:37:14] Así que uno podría concluir que si uno
+[00:37:17] suma toda la cadena, podríamos estar en
+[00:37:20] un porcentaje de pérdidas de
+[00:37:23] aproximadamente el 7%, que son pérdidas
+[00:37:26] más o menos razonables.
+[00:37:32] Aquí usando estos factores en cada una
+[00:37:35] de las etapas podemos ver la energía
+[00:37:37] ingresada, la energía entregada en cada
+[00:37:40] una de las etapas, considerando las
+[00:37:42] pérdidas que venimos haciendo de diseño.
+[00:37:45] Entonces, el total de 100 MW terminamos
+[00:37:49] en 93,6 MWh, o sea, prácticamente
+[00:37:54] el 7% que les mencionaba antes.
+[00:38:03] Bueno, ahora tenemos el lo que son
+[00:38:07] los tipos de
+[00:38:09] pérdidas eh no técnicas.
+[00:38:13] Tenemos el robo de energía.
+[00:38:17] el fraude, que es manipulación de los
+[00:38:19] medidores, los errores administrativos,
+[00:38:22] lo que les mencionaba antes por problema
+[00:38:24] de facturación
+[00:38:26] y un tema no menor que es este la el la
+[00:38:30] medición del alumbrado público.
+[00:38:33] muchos lugares no solamente se cuelga se
+[00:38:38] se
+[00:38:40] cuentan las lámparas que están prendidas
+[00:38:42] de noche
+[00:38:44] y eh hay en muchos lados se ha dado de
+[00:38:47] que se van o el municipio o la
+[00:38:51] cooperativa empiezan a agregar
+[00:38:53] luminarias y no le informa a la
+[00:38:56] distribuidora.
+[00:38:58] Entonces, la distribuidora a veces tiene
+[00:39:00] que hacer en algún momento el mismo
+[00:39:02] trabajo que hace eh la municipalidad y
+[00:39:06] mirar la cantidad de luminaria que están
+[00:39:09] conectadas. A su vez también se da que
+[00:39:12] en muchos lados aparece iluminación
+[00:39:16] clandestina, o sea, zonas que por ahí
+[00:39:18] tienen claros oscuros durante la noche y
+[00:39:22] eh los vecinos conectan una lámpara
+[00:39:24] similar a la que conecta el municipio
+[00:39:27] para iluminar este
+[00:39:29] la calle
+[00:39:38] acá. tenemos más o menos otra
+[00:39:42] otra infografía de lo que veníamos
+[00:39:44] hablando recién
+[00:39:47] y cómo se hace la las detenciones,
+[00:39:51] la detección, o sea,
+[00:39:54] mediante las pérdidas técnicas se hace
+[00:39:57] por monitoreo,
+[00:39:59] termografía y análisis de carga. O sea,
+[00:40:02] básicamente la termografía es recorrer
+[00:40:04] las líneas o los transformadores
+[00:40:05] buscando puntos calientes o conexiones
+[00:40:08] donde tienen un punto caliente. Esas son
+[00:40:11] las zonas a trabajar
+[00:40:13] y a mejorar. Y por el lado de las
+[00:40:17] pérdidas no técnicas, las auditorías
+[00:40:21] y medidores y y tratar de usar medidores
+[00:40:24] inteligentes. Luego, por algoritmo de
+[00:40:26] inteligencia artificial me permite
+[00:40:28] detectar dónde son los focos, donde
+[00:40:31] tengo algún problema.
+[00:40:34] El impacto global
+[00:40:37] si uno lo toma a nivel
+[00:40:41] real, fíjese que si una distribuidora
+[00:40:44] como
+[00:40:46] factura 100 millones de pesos,
+[00:40:52] el 7% o el 14% sumando las pérdidas no
+[00:40:56] técnicas
+[00:40:58] es demasiada plata que la distribuidora
+[00:41:01] tiene como pérdida.
+[00:41:05] en su desarrollo y desenvolvimiento a lo
+[00:41:07] largo del año.
+[00:41:16] El vayamos ahora al cálculo
+[00:41:19] básico de las pérdidas no técnicas. Este
+[00:41:22] es un tema denso, así que
+[00:41:25] hacemos
+[00:41:27] el descanso ahora
+[00:41:31] 5 minutos.
+[00:41:34] Dale, dale, Vicente.
+[00:41:36] Muy bien.
+[00:41:49] Bueno, habíamos quedado eh acá.
+[00:41:54] Sí,
+[00:41:54] este tema es aburrido y denso, pero este
+[00:41:59] es, digamos, el corazón de de lo que
+[00:42:02] estamos viendo el día de hoy, porque
+[00:42:04] todo esto que vamos a ver a partir de
+[00:42:06] ahora es plata.
+[00:42:10] Bueno, entonces eh
+[00:42:12] aquí vamos a detallar un cálculo para
+[00:42:14] pérdidas no técnicas, un cálculo básico
+[00:42:19] donde tenemos que la energía entregada,
+[00:42:21] puse números redondos para que pudiera
+[00:42:23] ser utilizable, es de 10,000 MWh a mes y
+[00:42:27] la energía facturada de 8800 MWh a mes.
+[00:42:32] Entonces, las preguntas sería,
+[00:42:35] calcular las pérdidas totales en megwti
+[00:42:37] hh y el porcentaje respecto de la
+[00:42:40] energía entregada.
+[00:42:42] Si las pérdidas técnicas estimadas son
+[00:42:44] de 700 MWh al mes, ¿cuánto representan
+[00:42:48] las pérdidas no técnicas en megw h
+[00:42:51] porcentaje?
+[00:42:53] Esto se los dejo para que después
+[00:42:55] ustedes hagan un ejercicio internamente
+[00:42:59] y lo puedan ver. Pero aquí ya podemos
+[00:43:02] ver entre la energía entregada y la
+[00:43:05] energía facturada tenemos 12
+[00:43:08] MW hora mes que se que se fumaron de la
+[00:43:12] nada. Si tomamos el porcentaje de toda
+[00:43:16] la cadena que es del 7% aproximadamente,
+[00:43:20] esos son 700 MW. O sea, que tenemos 500
+[00:43:24] MW hora a mes de pérdidas no técnicas,
+[00:43:28] o sea, el 5%
+[00:43:30] de la energía entregada o comprada se
+[00:43:34] van en pérdidas no técnicas.
+[00:43:38] Segundo punto, detección por balance
+[00:43:40] zonal.
+[00:43:42] situación. Tenemos tres subzonas, cada
+[00:43:44] uno tienen reciben 3,500, 3200, 3300,
+[00:43:49] respectivamente. La energía facturada es
+[00:43:51] 9600.
+[00:43:54] Calcular la energía no facturada.
+[00:43:57] Si la zona B tiene una diferencia de 400
+[00:44:02] MWh entre ingreso y facturación, ¿qué
+[00:44:04] porcentaje de pérdidas le corresponde
+[00:44:08] a a B?
+[00:44:14] Entonces, todo esto siempre se hace con
+[00:44:17] respecto a eh el ingreso a cada una de
+[00:44:21] las subzonas. O sea, que si la subzona
+[00:44:24] es de 3200,
+[00:44:26] 400 es casi el 10% o el 8% de la de
+[00:44:34] pérdidas. Esto casi coincide con lo que
+[00:44:36] es un parámetro típico de pérdida
+[00:44:40] técnica.
+[00:44:42] Identificación de patrones análomos
+[00:44:45] anómalos.
+[00:44:48] Tenemos datos de clientes de un consumo
+[00:44:51] comercial.
+[00:44:53] Durante 3 días el consumo se muestra
+[00:44:56] nulo entre las 0 horas.
+[00:44:59] Pero la potencia registrada por la
+[00:45:01] empresa indica actividad continua.
+[00:45:05] Entonces se pide enumerar tres hipótesis
+[00:45:08] que expliquen la discrepancia y proponer
+[00:45:11] dos métodos de verificación rápida.
+[00:45:15] Bueno, eh
+[00:45:18] aquí tenemos tres hipótesis.
+[00:45:22] o puentea el medidor durante esas horas
+[00:45:28] o hay un error en mi sistema de
+[00:45:33] facturación.
+[00:45:35] Por lo tanto, yo tengo que mandar una
+[00:45:38] cuadrilla a a verificar en el campo lo
+[00:45:42] que hay. Y la otra, aunque les parezca
+[00:45:45] mentira, es por el absurdo, mandar una
+[00:45:49] buena cuenta, una buena factura,
+[00:45:52] considerando el consumo entre la CER y
+[00:45:54] se esperar que el el cliente venga a
+[00:45:58] protestar.
+[00:46:06] Cuatro
+[00:46:07] datos.
+[00:46:09] Impacto económico. Precio promedio de
+[00:46:11] venta,
+[00:46:13] 12 centavos de dólar el kilwti hora.
+[00:46:17] Pérdidas no técnicas detetada 500 MWh.
+[00:46:20] ¿Cuánto es la pérdida de ingresos?
+[00:46:22] Bueno, 012 por 500. Ahí ya tenemos lo
+[00:46:27] que estamos perdiendo por mes
+[00:46:30] de pérdidas no técnicas.
+[00:46:35] Eh, ahora si yo invierto $,000 en
+[00:46:40] detectar y en recuperar y logro
+[00:46:43] recuperar el 60% de esas pérdidas, ¿en
+[00:46:45] cuánto tiempo se recupera la inversión?
+[00:46:47] Bueno, hago la cuenta este eh
+[00:46:52] prácticamente en 3 años se recupera
+[00:46:54] todo.
+[00:46:56] Medidas de mitigación y priorización
+[00:46:59] es una tarea de análisis
+[00:47:03] que significa
+[00:47:05] tratar de tomar cinco acciones como
+[00:47:08] máximo para reducir las pérdidas no
+[00:47:10] técnicas en una distribuidora urbana
+[00:47:13] tratando de seleccionar el costo
+[00:47:16] beneficio en función de lo que vimos
+[00:47:18] anteriormente, o sea, cuál es el
+[00:47:20] esfuerzo que yo tengo que hacer como
+[00:47:23] distribuidora para eh minimizar
+[00:47:26] las pérdidas no técnicas y si ese
+[00:47:30] esfuerzo que voy a hacer me beneficia o
+[00:47:33] no. A veces se llega a la conclusión de
+[00:47:36] que es mejor dejarlo pasar por alto
+[00:47:39] porque el esfuerzo económico que me
+[00:47:42] impide tratar de llevar las pérdidas no
+[00:47:44] técnicas cero es tan grande que eh me
+[00:47:48] termina haciendo un sobrecosto
+[00:47:51] que eh
+[00:47:55] que me afecta las finanzas de la
+[00:47:57] distribuidora. Entonces, conviene
+[00:47:59] mejorar, usar ese dinero en mejorar las
+[00:48:02] redes que en hacer el esfuerzo
+[00:48:04] inconmensurable de llevar las pérdidas
+[00:48:07] no técnicas a cero.
+[00:48:10] Bueno, y por último es algo que se está
+[00:48:13] usando últimamente, que es usar un
+[00:48:15] algoritmo, un modelo de aprendizaje
+[00:48:19] máquina, donde se puede tratar de ver
+[00:48:23] con
+[00:48:26] incidencia en una zona, digamos, que
+[00:48:28] tiene esos como sospechoso 5000 clientes
+[00:48:32] y luego ver en función de su histograma
+[00:48:36] de consumo, historia, ver cuáles son las
+[00:48:40] diferen y la discrepancia. Y por último,
+[00:48:43] con la complementando con la auditoría
+[00:48:46] de campo, terminamos de confirmar si
+[00:48:48] hubo fraude o no en alguno de ellos.
+[00:48:53] Siempre se usa para esto el muestreo o
+[00:48:56] la ley de los grandes números para este
+[00:49:00] no tener que hacer todo, o sea, siempre
+[00:49:02] se elige una muestra.
+[00:49:04] Entonces, por eso las preguntas es
+[00:49:08] calcular la precisión de un modelo de
+[00:49:10] esto por muestreo
+[00:49:12] y mencionar dos dos métricas adicionales
+[00:49:17] para evaluar el modelo. Las métricas
+[00:49:19] adicionales
+[00:49:21] pueden ser el tiempo, las métricas
+[00:49:24] adicionales puede ser, por supuesto,
+[00:49:26] tiempo y consumo, localidad,
+[00:49:28] estacionalidad del año,
+[00:49:31] etcétera. Por lo regular, lo las
+[00:49:34] evidencias de todo esto se dan mucho más
+[00:49:37] en verano y en y en invierno.
+[00:49:45] Aquí están las respuestas de de cada uno
+[00:49:48] de lo que vimos eh antes
+[00:49:55] con respecto al último la precisión.
+[00:49:57] Casos confirmados sobre casos marcados
+[00:49:59] 30 25%. Las métricas útiles son lo que
+[00:50:02] hablábamos antes, sensibilidad para
+[00:50:04] medir cuánto fraude se detecta con el
+[00:50:06] modelo y por último,
+[00:50:10] un score para balancear la precisión y
+[00:50:12] el rellado a la presencia de clases
+[00:50:16] desbalanceadas o cargas desbalanceadas.
+[00:50:22] Lo de carga desbalanceada significa que
+[00:50:26] es ver a nivel de cada uno de los cables
+[00:50:29] cuál aquel que lleva en función de lo
+[00:50:31] que entró y lo que se facturó tuvo más
+[00:50:35] sobrecarga o este se desbalanceó con
+[00:50:38] respecto a lo que sería la realidad con
+[00:50:40] una pérdida técnica normal.
+[00:50:43] Bueno, acá tenemos también otra
+[00:50:45] infografía
+[00:50:47] de vuelta exactamente lo mismo,
+[00:50:50] que nos permiten tener otra otra visión
+[00:50:57] que seguimos viendo lo mismo, la energía
+[00:51:01] no facturada por zona, la estimón de por
+[00:51:03] diseño y carga, la energía atribuible a
+[00:51:06] errores, la magnitud relativa del
+[00:51:08] problema, que son los porcentajes de
+[00:51:11] pérdida y la fracción de energía
+[00:51:13] ingresada, facturada o que no puedo
+[00:51:16] revender.
+[00:51:19] Y por último, lo que hablamos antes es
+[00:51:21] la densidad de kilómetro,
+[00:51:24] el indicador de densidad de red
+[00:51:28] que son los megwtios o kilómetro
+[00:51:30] cuadrado por cliente.
+[00:51:35] Aquí tenemos las una infografía con las
+[00:51:39] ecuaciones de todo lo que estuvimos
+[00:51:41] viendo a nivel de cómo se calcula. Y por
+[00:51:44] último, al final de todo, tenemos la
+[00:51:46] eficiencia de la zona,
+[00:51:49] que es la energía facturada sobre la
+[00:51:51] energía ingresada. Y ahí nos puede dar
+[00:51:56] con respecto a lo normal, ¿cuál podrían
+[00:51:57] ser las diferencias?
+[00:52:04] Vayamos ahora al tema de cómo se tratan
+[00:52:07] las pérdidas técnicas y las pérdidas no
+[00:52:09] técnicas.
+[00:52:14] En lo que se refiere aoríad de campos,
+[00:52:16] se selecciona una muestra y se va y se
+[00:52:19] mide se va a ver los transformadores
+[00:52:22] o los cables con mayor discrepancia
+[00:52:24] entre la energía ingresada y facturada
+[00:52:27] que detectado.
+[00:52:30] Después la inspección en sitio de los
+[00:52:32] medidores, sellos, conexiones
+[00:52:35] y por último conciliación las lecturas
+[00:52:38] del transformador con la sumatoria de
+[00:52:40] los medidores de los clientes y ahí
+[00:52:42] tendríamos que ver si cierra o no
+[00:52:44] cierra. Eso es a nivel local. En una
+[00:52:46] franja, por ejemplo, en un transformador
+[00:52:48] de baja tensión donde hay 10 usuarios y
+[00:52:51] se hace la medición.
+[00:52:55] Entonces vemos que la suma de lo que van
+[00:52:57] tomando las medidores versus lo que sale
+[00:53:00] del transformador, que lo estoy midiendo
+[00:53:03] ahí en campo initu, me da la me da una
+[00:53:06] idea de eh qué medidor puede estar
+[00:53:10] alterado o sustrayendo electricidad.
+[00:53:14] La detección avanzada
+[00:53:17] es un poco lo que hablamos antes con
+[00:53:19] Magir Le, es buscar patrones anómalos,
+[00:53:23] consumo nulo nocturno con actividad
+[00:53:26] registrada por transformador, el caso de
+[00:53:29] de la industria que miramos antes. Y
+[00:53:33] después, bueno, mediante los medodelos
+[00:53:36] estadísticos, tratar de detectar cuáles
+[00:53:38] son los perfiles atípicos
+[00:53:41] en el consumo horario, variación diaria,
+[00:53:43] relación de consumo cliente. O sea, si
+[00:53:46] yo sé que en un edificio y
+[00:53:48] aproximadamente las distribuidoras lo
+[00:53:50] tienen por la historía de las personas
+[00:53:54] no están habitando durante el día y
+[00:53:57] cuando llegan a la noche consumen
+[00:53:59] prácticamente lo mismo que durante el
+[00:54:01] día. Eso es una prueba, una señal de que
+[00:54:04] eh ahí tengo un problema, entonces tengo
+[00:54:07] que hacer una validación mediante una
+[00:54:09] auditoría de campo que este el modelo me
+[00:54:13] está diciendo que tengo que estimar su
+[00:54:15] precisión.
+[00:54:20] Acá tenemos un ejemplo numérico práctico
+[00:54:25] de la energía ingresada, la potencia
+[00:54:27] total, la pérdida técnica, la pérdida no
+[00:54:29] técnica, el porcentaje de las pérdidas
+[00:54:32] no técnicas y por último el rendimiento
+[00:54:36] en la zona.
+[00:54:40] Acá tenemos que las pérdidas no técnicas
+[00:54:41] relevantes son del 3,6%,
+[00:54:45] con lo cual es el lugar que yo tengo que
+[00:54:47] trabajar para tratar de disminuir. Esto
+[00:54:50] se logra hoy un poco también con
+[00:54:52] mediores inteligentes
+[00:54:54] y eh Smart Meer que me permiten por ahí
+[00:54:58] hacer una detección a distancia mediante
+[00:55:01] sistema Escada o PLC.
+[00:55:09] Entonces, por último, tenemos que la acá
+[00:55:13] la interpretación de las fórmulas,
+[00:55:16] bueno, las pérdidas totales, la energía
+[00:55:18] no facturada, las pérdidas técnicas, la
+[00:55:20] estimación que tengo por diseño y carga.
+[00:55:24] Eh, esto es lo que yo voy a tener en la
+[00:55:27] red que estoy diseñando ahora.
+[00:55:29] Eh, o sea, me aparto un poco y esto es
+[00:55:32] lo que voy a estar teniendo en cuenta
+[00:55:34] para poder diseñar la red. eh energía
+[00:55:38] atribu a fraude y errores, magnitud
+[00:55:41] relativa del problema que podría tener y
+[00:55:45] la una fracción de energía ingresada
+[00:55:48] facturada
+[00:55:50] que voy a tener en porcentaje. Y por
+[00:55:52] último, el indicador de densidad de red,
+[00:55:55] que es la distancia que recorre los
+[00:55:58] cables por cliente.
+[00:56:01] O sea, en caso de ciudad, como cada
+[00:56:05] inmueble está ubicado aproximadamente a
+[00:56:08] 8,66 m, entonces ahí tengo 8,66
+[00:56:13] m por cliente.
+[00:56:21] Entonces, ahora vamos a ver los tipos
+[00:56:24] las los tipos de cables y
+[00:56:27] características de redes, sus
+[00:56:29] características claves.
+[00:56:33] El primario que es da nivel de 66 kV de
+[00:56:36] 33 a 66 o de 11 a 23. Estas son
+[00:56:41] eh nominaciones europeas básicamente. La
+[00:56:45] topología casi siempre es una línea
+[00:56:48] aérea radial. anillo y se usa para
+[00:56:51] alimentación de barrios y subestaciones
+[00:56:54] secundarias.
+[00:56:56] Después tenemos el primer feeder eh
+[00:56:58] primario subterráneo, que es el cable,
+[00:57:02] que por lo regular también es anillo
+[00:57:04] radial, centros urbanos densos,
+[00:57:07] el feeder secundario, que es la línea
+[00:57:08] aérea o subterránea radial
+[00:57:12] y eh por último la distribución rural
+[00:57:15] que es una larga extensión radial, que
+[00:57:18] son zonas rurales con baja densidad de
+[00:57:21] clientes.
+[00:57:27] Y aquí los traigo a recordar
+[00:57:31] lo que habíamos hablado antes, al
+[00:57:33] principio de la clase, sobre lo que era
+[00:57:36] una red eh que las voy a diseñar y
+[00:57:39] hablábamos de la red adaptada
+[00:57:42] eh también denominada área típica de
+[00:57:45] distribución. es un modelo teórico y en
+[00:57:48] realidad tengo que que decir que hoy
+[00:57:51] prácticamente se usa poco porque se
+[00:57:54] parte de la red con la situación actual.
+[00:57:57] se hace un relevamiento
+[00:57:59] eh georreferenciado de cómo es el
+[00:58:02] sistema de distribución que tengo
+[00:58:05] actualmente y se empieza a trabajar
+[00:58:08] sobre la red operada eh tratándola de
+[00:58:12] llevar a lo largo del tiempo a esta área
+[00:58:15] típica de distribución o red adaptada
+[00:58:18] para tener que yo sé que funciona y me
+[00:58:20] da la confiabilidad que yo necesito como
+[00:58:23] distribuidor para tener las mínimas
+[00:58:25] pérdidas y las mínimas mínimas sanciones
+[00:58:28] por tema calidad de servicio.
+[00:58:31] En algunos sistemas internacionales este
+[00:58:35] hasta se pone un premio si la calidad de
+[00:58:39] servicio supera la calidad de base este
+[00:58:43] que tiene que cumplir por contrato de
+[00:58:45] concesión.
+[00:58:53] Y aquí tenemos para las pérdidas de de
+[00:58:57] Jul con respecto a la longitud, que es
+[00:58:59] el el cuadrado de la resistencia. Y aquí
+[00:59:02] es donde empieza a jugar mucho el factor
+[00:59:04] de carga de cómo yo opere las redes. Eh,
+[00:59:07] cada cable tiene una potencia reactiva,
+[00:59:10] los transformadores tienen potencia
+[00:59:12] reactiva y eso a veces por ahí para
+[00:59:14] disminuir las pérdidas que puedo tener
+[00:59:16] por longitud
+[00:59:18] de la corriente, me lleva por ahí a
+[00:59:20] poner equipos de compensación de, en
+[00:59:23] este caso básicamente capacitores a
+[00:59:26] nivel de las estaciones transformadoras
+[00:59:28] para poder disminuir las pérdidas
+[00:59:30] técnicas.
+[00:59:38] a la derecha abajo tienen un pequeño
+[00:59:41] calculito para para ver y la
+[00:59:44] interpretación.
+[00:59:51] Bueno,
+[00:59:53] volviendo al tema deor, ahora podemos
+[00:59:56] ver acá cómo son este la potencia
+[00:59:59] ingresada y vendida en y pérdidas por
+[01:00:03] etapa
+[01:00:05] en el sistema de alta tensión, baja y
+[01:00:08] media a lo largo del año. Todo esto está
+[01:00:12] hecho en megwtios.
+[01:00:15] Los dejo para que lo miren un segundo
+[01:00:18] para que vean las magnitudes.
+[01:00:31] Podemos observar
+[01:00:34] la gran cantidad de pérdidas técnicas
+[01:00:38] y no técnicas en baja tensión. para que
+[01:00:41] ustedes puedan ver la magnitud de cómo
+[01:00:43] se va a medida que voy bajando el nivel
+[01:00:45] de tensión, las el conjunto de pérdidas
+[01:00:49] cada vez es mayor.
+[01:01:03] Después ustedes lo podrán observar con
+[01:01:05] mayor detenimiento.
+[01:01:09] Bueno,
+[01:01:09] ¿puedo hacer una consulta, Vicente?
+[01:01:12] Sí, sí.
+[01:01:13] Eh, el tema de las pérdidas, de estas
+[01:01:16] pérdidas, ya sea eh no las pérdidas no
+[01:01:18] técnicas, la distribuidora está obligada
+[01:01:20] a tenente regulador a mostrarle eso o
+[01:01:23] no. Eh, y bueno, es una de las
+[01:01:27] preguntas.
+[01:01:29] Eh,
+[01:01:32] sí está está obligado a mostrárselo al
+[01:01:35] regulador cuáles son las pérdidas de no
+[01:01:37] técnica, pero eh si bien está obligado a
+[01:01:40] mostrarla, no se computan para el
+[01:01:43] cálculo de la tarifa.
+[01:01:46] Y digo esto, ¿en qué caso se le pide o
+[01:01:49] se lo trata de de tomar? cuando esas
+[01:01:52] pérdidas no técnicas tienen correlación,
+[01:01:55] por ejemplo, con una parte que es no
+[01:01:58] medida,
+[01:01:59] eh, que es el alumbrado público,
+[01:02:03] que en muchas localidades el alumbrado
+[01:02:05] no se mide, no hay medidores, entonces
+[01:02:08] se hacen por cantidad de lámparas.
+[01:02:11] Este,
+[01:02:13] otra otra posibil otra cuestión es
+[01:02:16] barrios marginales donde eh se le da
+[01:02:19] suministro de energía
+[01:02:21] y no hay medidor y se le da varias
+[01:02:24] casas, pero la esa parte lo paga eh el
+[01:02:28] municipio.
+[01:02:31] Entonces, en esa en esos dos casos
+[01:02:33] particulares que acabo de mencionar
+[01:02:34] recién,
+[01:02:36] el el regulador las tiene en cuenta para
+[01:02:39] el cálculo tarifario, no tiene en cuenta
+[01:02:42] todo el excedente a estas dos que son
+[01:02:44] particulares y han sido detectadas.
+[01:02:49] No sé si con eso te
+[01:02:51] Sí, total, totalmente, ¿no? Lo que yo
+[01:02:53] veo que por ahí en la realidad lo que
+[01:02:54] ocurre es que es muy difícil a a imputar
+[01:02:58] a alguien por hurto de energía en la
+[01:03:00] práctica. Lo tenés que enganchar al tipo
+[01:03:02] arriba del cable justo haciendo la
+[01:03:04] conexión. E es un es un tema ese porque
+[01:03:07] la verdad hace un ratito dijiste que que
+[01:03:10] bueno que que por ahí la distribuidora
+[01:03:14] eh viéndolo económicamente decí, "Bueno,
+[01:03:16] en vez de gastar esto estar eh como que
+[01:03:19] a veces dice, bueno, miro para el
+[01:03:21] costado y ya está, porque sé que lo
+[01:03:22] tengo, pero voy a decir, bueno, yo me
+[01:03:24] voy a poner a a combatir el hurto
+[01:03:27] energía, pero después vos vas a
+[01:03:29] denunciar o lo que sea y la parte de la
+[01:03:31] justicia es lenta. Primero para casos
+[01:03:34] importantes como, no sé, un asesinato,
+[01:03:36] etcétera. Imagínate por un hurto de
+[01:03:38] energía cuando va a la comisaría se te
+[01:03:39] ríe la gente, los mismos la misma
+[01:03:41] persona que toma la denuncia.
+[01:03:44] Sí, sí, sí. Tal cual. Aparte también,
+[01:03:46] fíjate que tenés que gastar plata en ir
+[01:03:48] con una cuadrilla, ir con un escribano,
+[01:03:50] que levante un acta, que tome nota. Eh,
+[01:03:55] entonces por eso a veces llega un
+[01:03:56] momento que por ahí la distribuidora
+[01:03:58] mira para un costado y porque le resulta
+[01:04:01] inconveniente. Aparte es una curva
+[01:04:04] también de aprendizaje, ¿no? Al
+[01:04:05] principio podés recortar mucho, pero
+[01:04:08] cuando vas llegando al final, el
+[01:04:11] esfuerzo de recuperar este una un
+[01:04:14] percentil de pérdida no técnica cada vez
+[01:04:17] es mayor.
+[01:04:21] Claro, claro. Sí, sí. Y lo que yo creo
+[01:04:23] que por ahí, lo que yo pienso, esto
+[01:04:26] totalmente personal es en las RTI, ya
+[01:04:31] que participan distintos factores, hacer
+[01:04:33] una política en conjunto con el Estado,
+[01:04:35] lo que sea, por el tema del hurto
+[01:04:36] energía, no sé, yo voy con un acta, te
+[01:04:39] aviso una vez a las porque, bueno, no
+[01:04:41] alquilé la casa, soy nuevo, no sabía que
+[01:04:43] estaba enganchado, qué sé yo, porque la
+[01:04:44] típica te dice a la segunda, bueno, si
+[01:04:46] voy te denuncio por lo menos, no sé,
+[01:04:48] molestarlo al tipo que vaya a declarar a
+[01:04:51] otro a otro lado que que le que que le
+[01:04:53] pese, ¿viste? Porque es como que
+[01:04:56] enseguida, ¿viste? No no no te dan mucha
+[01:04:59] no te da mucha.
+[01:05:01] Es verdad. Si si
+[01:05:04] eso se podría solucionar un poco mejor
+[01:05:07] el día que tengamos todos medidores
+[01:05:09] inteligentes. Entonces, cuando vos sabés
+[01:05:11] que hay alguien que te está hurtando,
+[01:05:13] en vez de ir con el escribano y hacer
+[01:05:16] todo ese movimiento que es todo un
+[01:05:18] costo, es mucho más fácil le cortar el
+[01:05:20] suministro a distancia. por una hora y
+[01:05:23] deja que se venga a quejar.
+[01:05:30] Entonces ahí le le mostrás cuando vaya
+[01:05:32] que vaya a la oficina comercial a
+[01:05:34] quejarse dice, "Y mire usted tiene esto
+[01:05:37] acá, le muestra con la foto que está
+[01:05:39] hurtando, qué sé yo, está el clandestino
+[01:05:41] y le dice, bueno, pero yo usted está
+[01:05:44] haciendo esto, yo que yo qué sé este se
+[01:05:47] le corta. Lo lamento, ¿no me me
+[01:05:50] entendés?" No, hay muchas maneras
+[01:05:52] también de lograr, pero bueno, está
+[01:05:55] sería otra otra Argentina, ya no en este
+[01:06:00] inclusive en el mundo, para que sepan,
+[01:06:03] este el distribuidor eh no es el que
+[01:06:07] comercializa la energía. El distribuidor
+[01:06:10] es solamente un transportista que pone
+[01:06:12] sus redes y cobra un peaje y después
+[01:06:15] todo el resto se encarga el
+[01:06:17] comercializador
+[01:06:19] que no solamente le vende energía
+[01:06:21] eléctrica, sino le puede vender también
+[01:06:23] agua y electricidad, como es en en el
+[01:06:27] caso de México o España y hasta
+[01:06:29] comunicaciones le vende el un
+[01:06:32] comercializador.
+[01:06:35] Sí, en ese caso creo que le duele más
+[01:06:36] cuando les cortas internet que
+[01:06:39] Sí, sí, sí.
+[01:06:40] Me está robando lutto internet, ¿no? Ahí
+[01:06:42] creo que la gente se movería más, pero
+[01:06:43] bueno.
+[01:06:45] Sí, sí, así es. Todo un tema. Bueno, eh
+[01:06:50] aquí tenemos este un un último ejemplo
+[01:06:52] de un transformador y las cuatro cargas.
+[01:06:56] Este es solamente una inografía para ver
+[01:06:58] la carga 1 2 3 cu no hace mucho más,
+[01:07:01] pero y cómo esto se traslada un modelo
+[01:07:04] inteligente de machir line.
+[01:07:08] Entonces este aquí en base a esa
+[01:07:11] infografía se construye este flujo
+[01:07:14] flujograma
+[01:07:15] donde eh se modela la red,
+[01:07:20] se da se le pone los factores de ajuste
+[01:07:23] por los factores de operación y de
+[01:07:24] carga. se hace un flujo de carga este
+[01:07:28] con las pérdidas no técnicas y las
+[01:07:30] pérdidas para saber más o menos que la
+[01:07:32] red esté estable y de bueno y después
+[01:07:34] por una modelo interactivo se se va
+[01:07:37] calculando hasta que se llega a la
+[01:07:41] cantidad de de plata que se pierde por
+[01:07:45] esa pérdida no técnica. Esto es una
+[01:07:48] infografía y hay varios flujogramas que
+[01:07:51] se pueden usar para calcular todo las
+[01:07:54] pérdidas técnicas mediante un un red
+[01:07:57] computacional. Eh, al final yo les dejo
+[01:08:02] ahí una infografía donde eh están las
+[01:08:05] referencias y pueden ver este sistemas
+[01:08:08] de cómo se calcula todo esto a nivel de
+[01:08:11] computación.
+[01:08:18] que es este que eh tenemos acá,
+[01:08:23] o sea, este flux chart,
+[01:08:26] cada uno es el cada uno de los puntos
+[01:08:29] está descripto
+[01:08:31] cómo son los pasos.
+[01:08:37] Entonces, fíjense que estamos con el
+[01:08:38] flujo de carga, también calcula la
+[01:08:41] hipedia operacional, etc. Esto también a
+[01:08:44] veces se modifica mediante uso de
+[01:08:49] flujo de cargas para poder este poner,
+[01:08:52] modelar o simular
+[01:08:54] factores de carga para corregir el
+[01:08:56] coseno fi en la red y así tratar de ver
+[01:09:00] cómo queda las mínimas este pérdidas.
+[01:09:09] Bueno, aquí son todos estos datos que
+[01:09:12] sirven para poder eh calcular eh imponer
+[01:09:16] en el programa.
+[01:09:18] está asociado con eso donde tenemos en
+[01:09:21] la etapa, fíjense que tiene 13, 14, 15,
+[01:09:23] 16
+[01:09:29] y este, bueno, son las fórmulas clásicas
+[01:09:33] de de pérdidas del cuadrado de la
+[01:09:35] corriente por la potencia total, la
+[01:09:37] resistencia que está circulando, la la
+[01:09:41] corriente, nada que ustedes no no sepan.
+[01:09:44] Por ahí la la la frase que por ahí tiene
+[01:09:47] que estar, porque se puede ver, es el la
+[01:09:51] más importante es la ecuación 15. Hm.
+[01:09:55] Donde ahí tenemos la demanda por en una
+[01:09:59] determinada unidad de tiempo, porque
+[01:10:01] acuérdense que todo esto varía durante
+[01:10:03] el día, o sea, las pérdidas a la mañana
+[01:10:05] no son lo mismo que a las 2 de la tarde,
+[01:10:07] que a las 4, a las 5 o a las 6. Entonces
+[01:10:10] uno podría tomar segmentos horarios
+[01:10:13] distintos y calcular una pérdida
+[01:10:16] promedio. H entonces este bueno, eh la
+[01:10:21] ecuación esta me permite eso. Y fíjense
+[01:10:23] que acá tenés un múltiple factor que se
+[01:10:26] llama LSI, donde eso tiene en cuenta
+[01:10:30] factores de corrección, que era lo que
+[01:10:32] decía antes, si es sábado, domingo, si
+[01:10:37] es a la mañana, a la tarde
+[01:10:40] y por último la las pérdidas y todo.
+[01:10:44] Entonces, con eso todo esto me permite a
+[01:10:46] mí calcular a lo largo de tomando
+[01:10:48] inclusive hasta las 8760
+[01:10:51] horas del año, cuál va a ser la pérdida
+[01:10:54] total que voy a tener a lo largo de todo
+[01:10:56] el año, porque acá ya estamos hablando
+[01:10:58] de uno de hacer la cuenta muy simple,
+[01:11:01] pero siempre tenemos valores globales.
+[01:11:04] Esto es la discretización de los valores
+[01:11:06] llevados a día por día.
+[01:11:09] O sea, que eh tenemos 365 días de datos.
+[01:11:14] dividido a su vez en segmentos horarios
+[01:11:17] que pueden ser cuatro o cinco, donde
+[01:11:19] tenemos todos los parámetros de todo lo
+[01:11:22] que puede suceder o lo que va a suceder
+[01:11:24] en el dimensionamiento de una red a lo
+[01:11:26] largo del año y voy a poder calcular la
+[01:11:29] cantidad de pérdidas totales que voy a
+[01:11:31] tener y así
+[01:11:34] poder saber cuál es la pérdida económica
+[01:11:37] que puedo tener o o proyectar.
+[01:11:43] Vicente,
+[01:11:44] sí,
+[01:11:45] perdón, una consulta. Está establecido,
+[01:11:48] o sea, está claro que no hay manera de
+[01:11:50] que no haya pérdida, ¿no? Pero, ¿cuál es
+[01:11:52] el tope que puede tener una
+[01:11:53] distribuidora en cuanto a las pérdidas
+[01:11:55] de acuerdo a lo a lo que factura?
+[01:11:59] Sí, mira, por lo regular te digo, a
+[01:12:02] nivel de toda la cadena, o sea,
+[01:12:04] partiendo de alta tensión hasta baja
+[01:12:07] tensión, las pérdidas técnicas rondan
+[01:12:10] entre el 8 y el 10% aproximadamente.
+[01:12:16] 11 como mucho, este podría estar dentro
+[01:12:20] de lo razonable y después a partir de
+[01:12:23] ahí ya no, ya el resto es pérdida no
+[01:12:26] técnica. Yo como datos reales, cuando se
+[01:12:31] privatizaron las empresas,
+[01:12:33] eh a los 2 años de funcionamiento
+[01:12:37] de nor y de sur, para la magnitud que
+[01:12:39] ustedes puedan ver del problema, tenían
+[01:12:42] un 25% de pérdidas técnicas y no
+[01:12:45] técnicas sumadas. Cuando se hace la
+[01:12:48] cuenta con esta metodología, las
+[01:12:50] pérdidas técnicas que tenía eran del 9%.
+[01:12:54] O sea, que 14% de hurto de energía y
+[01:12:57] pérdidas no técnicas tenían.
+[01:13:01] Hoy están alrededor del 15 al 14.
+[01:13:04] Todavía le falta.
+[01:13:09] Bien, está claro.
+[01:13:13] Bueno, eh
+[01:13:16] y ahora vamos al otro último punto
+[01:13:19] también este que vamos a ir
+[01:13:21] desarrollando de a poco, que es el área
+[01:13:24] típica de distribución que yo les
+[01:13:25] mencioné al principio y cómo compararla
+[01:13:29] para con una cuestión real, ¿no? Una
+[01:13:32] zona se define por la densidad de luz y
+[01:13:35] la topología.
+[01:13:37] Y aquí se calcula un balance con
+[01:13:39] indicadores que es kilómetros por
+[01:13:41] cliente, pérdidas técnicas, no técnicas
+[01:13:43] y la eficiencia. Entonces, aquí vamos a
+[01:13:46] una cuestión que eh se formula de la
+[01:13:51] inversión que tengo que hacer en la red
+[01:13:53] más los gastos de operación y
+[01:13:55] mantenimiento y las pérdidas monetizadas
+[01:13:58] esperables que puedo tener para esta
+[01:14:01] área típica de distribución que la voy a
+[01:14:03] desarrollar a nivel real o teórico
+[01:14:06] y eh por supuesto me la tengo que
+[01:14:09] ajustar esta área típica de distribución
+[01:14:12] a las exigencias regulatorias, o sea,
+[01:14:15] la calidad de servicio que tengo que
+[01:14:17] entregar.
+[01:14:19] Así tenemos esta tabla eh resumida que
+[01:14:23] es una tabla comparativa de atributos
+[01:14:25] relevantes h que tenemos la densidad, la
+[01:14:29] cantidad de clientes por kilómetro
+[01:14:31] cuadrado,
+[01:14:32] eh
+[01:14:34] la longitud de la red real promedio que
+[01:14:37] tengo también la longitud por cliente.
+[01:14:40] Hm. Y la longitud es una
+[01:14:46] una verdad de perogrullo, porque a
+[01:14:48] medida que yo tengo una red cada vez
+[01:14:50] porque la el área poblacional está más
+[01:14:53] dispersa, las pérdidas técnicas van
+[01:14:55] siendo mayores.
+[01:14:59] Después tenemos las pérdidas estimadas
+[01:15:01] por diseño, que eso me permite a mí
+[01:15:04] calcular un
+[01:15:07] una operación y mantenimiento.
+[01:15:10] dice perdido porque en realidad
+[01:15:14] son son estimadas y perdido porque a
+[01:15:17] veces por ahí cuando hago una operación
+[01:15:21] y mantenimiento exacta eh tengo un
+[01:15:25] sobredimensionamiento de operación y
+[01:15:27] mantenimiento que se lo considera
+[01:15:30] eh el esfuerzo necesario para poder
+[01:15:33] llevar eh eh las pérdidas a las
+[01:15:36] estimadas de diseño. Entonces, por eso
+[01:15:38] se llamaría se llama operación y
+[01:15:41] mantenimiento perdido. Así que por
+[01:15:44] último tenemos el costo total de KS OPEx
+[01:15:47] y las pérdidas y el objetivo es
+[01:15:50] minimizar este costo total.
+[01:15:56] Y volvemos siempre, esto es reiterativo,
+[01:15:59] es más aburrido
+[01:16:02] que todo, pero siempre estamos hablando
+[01:16:03] alrededor de lo mismo, este, de cómo se
+[01:16:06] calculan las pa, el ingreso, la salida y
+[01:16:10] eh pero ahora estamos modelizando. Antes
+[01:16:13] estuvimos viendo lo que es un ejemplo
+[01:16:15] práctico de una red en servicio. Ahora
+[01:16:17] estamos yendo a tratar de hacer lo la
+[01:16:20] red, este, los cálculos básicos por por
+[01:16:24] zona. Entonces, lo que establezco es es
+[01:16:27] eh parámetros, pérdidas totales, no
+[01:16:30] técnicas que voy estimando
+[01:16:32] y después este trato de hacer lo que es
+[01:16:36] eh la ecuación de costo beneficio para
+[01:16:39] poder eh ver cuál es el número eh
+[01:16:44] correcto.
+[01:16:46] Entonces, todo X son variables de
+[01:16:48] decisión como es ubicación de
+[01:16:51] transformadores, reubicación, mejora de
+[01:16:54] conductores, lambda es el costo de
+[01:16:57] energía no facturada y todo en
+[01:16:59] porcentaje. Así que eh esto me permite a
+[01:17:04] mí tener una ecuación general de costo y
+[01:17:07] en función de esto yo voy a tratar de
+[01:17:10] minimizar
+[01:17:11] lo que es mi ecuación de costos.
+[01:17:15] Entonces, la parte metodológica es
+[01:17:19] definir bien
+[01:17:22] el la cantidad de usuarios, la longitud
+[01:17:25] y la potencia
+[01:17:28] de los valores de referencia. Acá les
+[01:17:30] dejo una referencia que se usa mucho en
+[01:17:33] Chile para que ustedes puedan ver y
+[01:17:37] navegar en la red. Ellos tienen bastante
+[01:17:40] eh redes y servicios similares a lo que
+[01:17:46] serían en las provincias, o sea, eh
+[01:17:49] Argentinas, las capitales o localidades
+[01:17:53] de más de 50,000 habitantes.
+[01:17:56] Nor de sur es un junto con San Paulo son
+[01:18:01] de otra escala y está fuera, digamos, de
+[01:18:04] lo
+[01:18:05] de de de esta de esto cuando uno quiere
+[01:18:08] comparar.
+[01:18:10] Bueno, uso con los datos medidos uso
+[01:18:13] indicadores reales para simular y
+[01:18:16] entonces este a partir de que yo tengo
+[01:18:20] eh una
+[01:18:23] una la red diseñada,
+[01:18:27] entonces este si yo llevo y ajusto a la
+[01:18:30] red real, entonces empiezo a ver, por
+[01:18:33] ejemplo, si yo tengo la red existente,
+[01:18:35] digo, si yo reubico el transformador,
+[01:18:37] ¿qué ventajas tendría?
+[01:18:40] Si pongo mejoro conductores porque le
+[01:18:43] cambio la sección o eh en el caso de
+[01:18:46] líneas aéreas voy a un tema de nuevos
+[01:18:50] conductores de aleación con fibra de
+[01:18:52] carbono eh o aliaciones distintas que
+[01:18:55] permiten trabajar un conductor aéreo,
+[01:18:59] para que ustedes eh tengan una idea, a
+[01:19:02] 100ºC.
+[01:19:05] Eh, eso se está empleando mucho en
+[01:19:07] Estados Unidos por el tema de las
+[01:19:09] servidumbres
+[01:19:11] y más en barrios por ahí urbanos donde
+[01:19:14] son todas líneas aéreas y donde con el
+[01:19:17] aumento de la demanda es imposible hacer
+[01:19:19] un tendido nuevo. Entonces, lo que se
+[01:19:22] hace es cambiar el conductor y poner
+[01:19:24] estos conductores, estos conductores que
+[01:19:26] son de high thermal, o sea, que pueden
+[01:19:29] operar hasta 120ºC.
+[01:19:33] Fíjense que los conductores de leñas
+[01:19:35] aéreas se hacen con cálculos de 45 gr y
+[01:19:39] una temperatura de trabajo de 60 gr 60 a
+[01:19:43] 75 gr como sobre temperatura este para
+[01:19:47] los diseños normales acá en en la
+[01:19:49] Argentina.
+[01:19:51] Eh,
+[01:19:53] así que a partir de ahí, bueno, yo puedo
+[01:19:55] ir jugando con todo esto, ir calculando
+[01:19:59] el retorno de la inversión sobre cada
+[01:20:03] diseño que haga de costo.
+[01:20:09] la metodología paso a paso. Construyo un
+[01:20:13] modelo típico, calculo en base a
+[01:20:15] indicadores reales con datos medidos
+[01:20:17] para llevarlo a estos ejemplos y
+[01:20:19] entonces empiezo a ver este cambiando eh
+[01:20:24] los parámetros de transformación y
+[01:20:26] rubicando cómo van impactando en la red.
+[01:20:30] Por supuesto que si yo hago un ejercicio
+[01:20:32] de esto es un problema interativo hasta
+[01:20:34] que puedo lograr un óptimo. Cuando el
+[01:20:37] óptimo eh lo lo obtengo, entonces voy a
+[01:20:40] tratar de hacer el tendido de una red
+[01:20:43] nueva o la modificación de la red que
+[01:20:46] existente y lo voy a tratar de llevar a
+[01:20:49] este nuevo a este nuevo diseño.
+[01:20:52] Esto va cambiando a lo largo del tiempo
+[01:20:57] porque va variando la modalidad de
+[01:20:59] consumo de los usuarios. Eh, y aquí
+[01:21:03] tengo un una un dato muy muy típico.
+[01:21:10] La redes de diseño antes eh se tomaba
+[01:21:14] para cada usuario una potencia de diseño
+[01:21:17] de 10 KBA.
+[01:21:21] Eso digamos hace 30 años nunca se
+[01:21:23] cambió.
+[01:21:25] Hoy, supongamos una un inmueble que
+[01:21:29] tenga tres ambientes, le colocan un aire
+[01:21:34] acondicionado a cada uno y son
+[01:21:39] vamos a tener alrededor de 2000 kW cada
+[01:21:42] uno. Entonces vamos a tener 6 kW
+[01:21:45] kilw ni siquiera cabe a kilw este de
+[01:21:50] consumo solamente por usar los aire
+[01:21:52] acondicionados y a eso después le
+[01:21:53] empezamos a agregar la heladera, la
+[01:21:55] plancha, este equipos electrónicos,
+[01:21:58] música, este lo que ustedes puedan ver o
+[01:22:02] creer. Este enseguida se se sobrepasa
+[01:22:05] los 10 k. Entonces, una de las cosas que
+[01:22:09] va a estudiar el regulador actualmente
+[01:22:11] es subir el escalón y establecer un a
+[01:22:15] las distribuidoras un desarrollo de red
+[01:22:17] de esquema básico. Ahora bien, hay que
+[01:22:20] pensarlo muy bien por otro tema más
+[01:22:23] particular que se está viniendo,
+[01:22:25] sobreviniendo estos últimos tiempos, que
+[01:22:27] es el tema de la movilidad eléctrica.
+[01:22:31] En la modalidad eléctrica, la movilidad,
+[01:22:33] piensen ustedes que un cargador eh de
+[01:22:37] carga de carga media o para uso
+[01:22:40] domiciliario está en alrededor de entre
+[01:22:44] los 2000 y 7 eh KBA,
+[01:22:49] o sea, que prácticamente con el cargador
+[01:22:51] de electricidad, porque todo eso está
+[01:22:54] relacionado al tiempo, a menor potencia,
+[01:22:57] mayor cantidad de tiempo para la carga
+[01:22:59] de la batería. Y si a mayor potencia,
+[01:23:02] menor tiempo de carga de la batería.
+[01:23:07] Eh, también hay que tenérselo, va a
+[01:23:09] haber que tenerlo en cuenta para la
+[01:23:10] expansión de las redes próximamente.
+[01:23:14] Entonces, fíjense que el paradigma va
+[01:23:17] cambiando y entonces estar seguir
+[01:23:20] diseñando eh una red con los parámetros
+[01:23:23] actuales raya ya hoy lo absurdo.
+[01:23:30] Otro dato que les puedo decir en cuanto
+[01:23:32] a la infraestructura de la red,
+[01:23:35] inclusive asociado a la modalidad
+[01:23:37] eléctrica, un cargador de carga rápida
+[01:23:41] en una estación de servicio o en un
+[01:23:43] hipermercado como puede haber este en
+[01:23:45] Europa eh para dos picos
+[01:23:50] o tres, o sea, tres autos simultáneos
+[01:23:53] cargando, es de 250 kí
+[01:23:59] recuerden en la infografía que estuvimos
+[01:24:01] viendo para tener una idea.
+[01:24:06] Vamos para atrás un segundo.
+[01:24:23] Miren el transformador, 252 KB, o sea,
+[01:24:26] que necesitaríamos un transformador para
+[01:24:29] poder abastecer una línea de carga
+[01:24:32] rápida de 20 minutos a 15 minutos para
+[01:24:35] tres automóviles eléctricos.
+[01:24:38] ¿Se entiende lo que estamos hablando,
+[01:24:40] no?
+[01:24:49] Ahora cabe preguntarse si la red actual
+[01:24:53] está diseñada o prevista para eso. La
+[01:24:55] respuesta es evidentemente no.
+[01:25:00] Bueno, y aquí llegamos al al final.
+[01:25:04] Eh, así que acá tienen la
+[01:25:10] la bibliografía para que ustedes puedan
+[01:25:12] buscarla a través de internet y
+[01:25:15] procesarla
+[01:25:17] y ver y entonces van a ver alguno de
+[01:25:20] estos aspectos
+[01:25:22] eh críticos que acabo de de decir.
+[01:25:28] Bueno, eh
+[01:25:30] estoy abierto a preguntas que me quieran
+[01:25:32] hacer. para responder.
+[01:25:35] Espero haber sido claro eh con la
+[01:25:38] exposición a lo largo del tiempo.
+[01:25:41] Y
+[01:25:42] Vicente, solamente un comentario que
+[01:25:43] dejé en el chat, un artículo que acaba
+[01:25:45] de salir en el cono Journal sobre el
+[01:25:48] estudio de case Adelat junto con el B
+[01:25:51] sobre las pérdidas no técnicas en la
+[01:25:53] región.
+[01:25:55] Perfecto,
+[01:25:56] que es interesante leerlo.
+[01:25:58] Muy bien, agradecido.
+[01:26:04] ¿Alguna otra pregunta?
+[01:26:11] Bueno, creo que podemos dar por
+[01:26:15] cerrada. Voy a dejar de compartir. Sí.
+[01:26:21] Muchas gracias, Vicente.
+[01:26:24] Bien,
+[01:26:25] por ahí van surgiendo dudas o o cosas a
+[01:26:29] medida que nos vayan cayendo los
+[01:26:30] conceptos, así que cualquier cosa este
+[01:26:32] te estaremos consultando. Sí, me pueden
+[01:26:35] me pueden escribir y voy respondiendo
+[01:26:38] las dudas que vayan teniendo o o darles
+[01:26:41] este eh alguna aproximación o buscarla
+[01:26:45] inclusive biografía a nivel mundial para
+[01:26:48] continuar con estos temas.
+[01:26:51] Bueno, buenísimo.
+[01:26:54] Bueno, muchas gracias, saludos a todos y
+[01:26:57] nos vemos el martes próximo. Ah.

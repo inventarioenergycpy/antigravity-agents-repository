@@ -1,0 +1,3953 @@
+[00:00:21] Bueno, vamos a arrancar
+[00:00:26] para en honor a la puntualidad de todos
+[00:00:28] los que ya se conectaron.
+[00:00:31] Hoy vamos a hacer la clase 18.
+[00:00:35] Están juntas las dos comisiones, eh,
+[00:00:39] porque la comisión uno con motivo de la
+[00:00:42] visita Camesa Pérez no hicimos esa
+[00:00:43] clase, así que hoy van a ver otros
+[00:00:47] compañeros conectados.
+[00:00:50] Así que bueno, esa es la idea. E la
+[00:00:53] clase 18 refiere a las revisiones
+[00:00:58] tarifarias integrales, al periodo de
+[00:01:01] gestión.
+[00:01:03] Vamos a hacer un análisis de lo que
+[00:01:04] dicen las normas y un poco también de la
+[00:01:08] práctica,
+[00:01:09] eh, al menos en las revisiones
+[00:01:11] tarifarias, que que es lo que al menos
+[00:01:15] hasta ahora se ha hecho y de lo que
+[00:01:16] estamos implementando.
+[00:01:19] Hoy la clase la vamos a dar con Patricia
+[00:01:22] Lozano, que ya la conocen, que ya es una
+[00:01:26] activa participante y docente de la
+[00:01:29] diplomatura y Alejandrair, que se va a
+[00:01:33] unir eh en el recreo, así que va a estar
+[00:01:37] en la segunda parte de de la clase y la
+[00:01:39] voy a presentar en ese momento cuando
+[00:01:41] ella esté conectada.
+[00:01:43] Así que bueno, eh arrancamos. Voy a
+[00:01:46] compartir.
+[00:01:48] Hola, buenos días a todos.
+[00:01:54] Buenos días.
+[00:01:55] Día. Buen día.
+[00:02:00] Ustedes nos dirán si se comparte
+[00:02:02] pantalla completa. Si se ve.
+[00:02:07] [carraspeo]
+[00:02:11] Se ve bien
+[00:02:12] ahí. Se ve bien.
+[00:02:14] Buenísimo.
+[00:02:15] Sí, sí, perfecto.
+[00:02:17] Bueno, bueno, bárbaro,
+[00:02:20] empezamos.
+[00:02:25] Si alguien, no sé, alguien habló o
+[00:02:27] capaz que tienen el No silenciado.
+[00:02:30] Sí.
+[00:02:31] Fíjense, por favor, si pueden apagar los
+[00:02:34] micrófonos.
+[00:02:38] No se escucha con eco. No
+[00:02:41] se escucha bien.
+[00:02:42] No, no se escucha bien. Escucha bien.
+[00:02:46] Bueno, eh como decía recién Guillermina,
+[00:02:49] vamos a hablar un poco de de lo que son
+[00:02:52] las revisiones eh tarifarias, dónde
+[00:02:54] están previstas, por qué se hace una
+[00:02:56] revisión tarifaria, eh los periodos de
+[00:02:59] gestión que están previstos en los
+[00:03:01] contratos de concesión.
+[00:03:04] Y con relación a la normativa vamos a
+[00:03:06] empezar un poco a a en el contexto en el
+[00:03:10] cual se encuentran. Por un lado, la
+[00:03:12] normativa aplicable es la ley, no
+[00:03:15] sabemos y hacemos un repaso de todo lo
+[00:03:17] que venimos viendo, porque un poco todo
+[00:03:19] esto ya ya se fue mencionando en el
+[00:03:21] transcurso de la diplomatura. Este, el
+[00:03:24] marco regulatorio, la ley 11,769
+[00:03:27] y el decreto reglamentario prevé eh las
+[00:03:31] revisiones tarifarias y prevé quién van
+[00:03:33] a quién las va a hacer. Eh, sabemos que
+[00:03:37] por un lado tenemos a la autoridad de
+[00:03:39] aplicación, que es el Ministerio de
+[00:03:41] Infraestructura y Servicios Públicos,
+[00:03:43] que es quien tiene la atribución
+[00:03:45] exclusiva de fijar tarifas y por otra
+[00:03:48] parte el organismo de control que va a
+[00:03:51] realizar este los cálculos de las
+[00:03:55] tarifas y va a colaborar en lo que todo
+[00:03:58] lo que tenga esté relacionado con eh la
+[00:04:01] protección de los usuarios. Asimismo, en
+[00:04:05] la ley se prevé de los artículos 39 a
+[00:04:08] 44,
+[00:04:10] este está regulado todos los aspectos
+[00:04:13] relativos a las tarifas, a sus
+[00:04:15] contenidos, a quién debe fijarlas, qué
+[00:04:18] es lo que tenemos que tener en cuenta y
+[00:04:20] eh
+[00:04:22] cómo se van a ir implementando y cuáles
+[00:04:24] son este los periodos en el cual se van
+[00:04:27] a establecer o se van a a revisar esas
+[00:04:31] tarifas.
+[00:04:33] Asimismo, en los contratos de concesión
+[00:04:36] provinciales y municipales también vamos
+[00:04:38] a tener todos estos aspectos y también
+[00:04:41] van se va a regular en los contratos de
+[00:04:44] concesión todo lo relacionado con eh los
+[00:04:47] periodos de gestión, que ya vamos a ver
+[00:04:50] qué es el periodo de gestión, cuál es el
+[00:04:53] fin de ese periodo de gestión, cuándo se
+[00:04:55] van a realizar esos periodos de gestión.
+[00:04:57] Ahora parece todo muy teórico porque
+[00:04:59] sabemos que en el transcurso de todos
+[00:05:02] estos años, ya sea desde el año 92 eh
+[00:05:06] para Edelap y desde el año 97 para el
+[00:05:08] resto de los concesionarios provinciales
+[00:05:10] y las cooperativas que rigen desde ese
+[00:05:14] año eh adecuaron las cooperativas eh
+[00:05:18] y distribuidores municipales, los
+[00:05:20] contratos de concesión hasta la fecha,
+[00:05:23] las revisiones que se vinieron haciendo
+[00:05:25] o este los o el periodo de gestión no
+[00:05:29] hubo hubo prórrogas de ese periodo de
+[00:05:31] gestión que ya lo vamos a analizar y
+[00:05:34] también dentro de todos estos años que
+[00:05:37] ya van a ser 30 años solamente tuvimos
+[00:05:41] eh estrictamente una revisión tarifaria
+[00:05:44] que fue la del año eh 2017.
+[00:05:49] También en los aspectos que tienen que
+[00:05:52] ver con la normativa aplicable, eh
+[00:05:54] traemos este como normativa aplicable el
+[00:05:57] decreto eh 107 del año 1997,
+[00:06:03] que aprueba el pliego de bases y
+[00:06:04] condiciones de la licitación que que fue
+[00:06:08] autorizada en el momento de la
+[00:06:09] privatización de SEBA, eh que además de
+[00:06:12] incluir el modelo de contrato de
+[00:06:14] concesión, ese pliego de bases y
+[00:06:16] condiciones fue las bases de cuáles eran
+[00:06:19] el las bases de esa licitación por la
+[00:06:21] cual posteriormente este surgieron los
+[00:06:25] distintos distribuidores y se
+[00:06:27] adjudicaron esas empresas eh en ese
+[00:06:31] momento eh en lo que es materia de
+[00:06:33] distribución, Edea, Eden y y EDES y que
+[00:06:38] es importante traerlo. ¿Por qué? Porque
+[00:06:41] las bases de esa licitación son las que
+[00:06:43] van a ser consideradas cuando finalice
+[00:06:47] el periodo de gestión y se llame a una
+[00:06:50] nueva licitación de las acciones clase
+[00:06:53] A, que ya vamos a ir también vamos a a
+[00:06:56] seguir viendo qué qué es esto, qué es lo
+[00:06:58] que se licita, por qué se licita esas
+[00:07:00] acciones clase A y qué pasa. en materia
+[00:07:03] de eh concesionarios eh provinciales que
+[00:07:06] son sociedades anónimas y también eh
+[00:07:09] vamos a ver qué es lo que pasa con los
+[00:07:12] distribuidores municipales al
+[00:07:14] vencimiento de ese periodo de gestión.
+[00:07:19] Eh, y también este resulta aplicable eh
+[00:07:23] la resolución 1133 del 2024, que como
+[00:07:27] saben es la que da inicio a la nueva
+[00:07:30] revisión tarifaria. eh integral, que es
+[00:07:33] la que se está trabajando, que se eh la
+[00:07:35] semana pasada hubo mesas de trabajo eh
+[00:07:38] con todos los distribuidores, con la
+[00:07:40] autoridad de aplicación y con este el
+[00:07:43] organismo de control. Todo esto lo que
+[00:07:46] vamos a ir eh desarrollando.
+[00:07:49] Bueno,
+[00:07:52] ¿cuáles son eh los principios rectores
+[00:07:55] que van a digamos que guían a estas
+[00:07:58] revisiones tarifarias? Comenzamos con
+[00:08:01] revisiones tarifarias.
+[00:08:04] Eh, como explicaba un poco
+[00:08:07] este recién, eh es una consecuencia
+[00:08:10] normal del curso de las concesiones
+[00:08:12] poder eh hacer una revisión eh de las
+[00:08:16] tarifas, de los periodos tarifarios, del
+[00:08:18] régimen tarifario que que se va
+[00:08:20] aplicando. Eh, tenemos eh esas
+[00:08:23] revisiones, ¿cuándo se realizan? Se
+[00:08:25] realizan eh pueden ser eh ordinaria o
+[00:08:28] extraordinaria. Está previsto en en la
+[00:08:32] ley eh 11,769
+[00:08:34] en el artículo 44
+[00:08:37] y esas revisiones ordinarias se producen
+[00:08:39] cada 5 años. Ese es el transcurso
+[00:08:42] ordinario de de las cosas y que eh es el
+[00:08:46] periodo por el cual se fijan los cuadros
+[00:08:49] tarifarios. Ahora bien, ustedes se
+[00:08:51] preguntarán, ¿cómo cada 5 años se han se
+[00:08:54] ha revisado las tarifas? Bueno, ahora
+[00:08:58] vamos a avanzar en qué es lo que pasó,
+[00:09:00] cuál fue la historia, que sabemos que
+[00:09:03] hubo varias emergencias en el medio y
+[00:09:05] ahora vamos a seguir este avanzando en
+[00:09:07] esos aspectos, pero conforme la ley y
+[00:09:11] conforme los contratos de concesión, las
+[00:09:13] revisiones se deben realizar eh
+[00:09:15] ordinarias cada 5 años. Y ahora también
+[00:09:19] vamos a ver qué es lo que se revisa en
+[00:09:21] en esos eh cada 5 años.
+[00:09:24] es una de las funciones más importantes
+[00:09:26] que tienen eh de la regulación y que
+[00:09:29] tiene mayor impacto en el público porque
+[00:09:32] tiene impacto claramente en los usuarios
+[00:09:35] que es necesario que conozcan qué es lo
+[00:09:38] que se va a modificar, que en qué
+[00:09:41] aspectos este va a a impactar en en la
+[00:09:47] en el servicio público, en cómo van a
+[00:09:49] recibir ese servicio público.
+[00:09:53] Es por eso que
+[00:09:55] requiere de la celebración de una
+[00:09:57] audiencia pública previa a la
+[00:10:00] implementación de
+[00:10:03] de lo que surja de esa revisión
+[00:10:06] tarifaria.
+[00:10:09] Eh, también ahora vamos a volver también
+[00:10:11] sobre este los recaudos que debemos
+[00:10:14] tener, este si es necesaria esa
+[00:10:16] audiencia pública, si está previsto en
+[00:10:18] el marco regulatorio y aún no estando
+[00:10:20] previsto, si es si es obligatoria la
+[00:10:23] realización de estas audiencias
+[00:10:25] públicas.
+[00:10:27] Eh, podemos decir también que no es un
+[00:10:30] acuerdo de partes, sino pero el
+[00:10:33] distribuidor también que un poco eh lo
+[00:10:36] vimos reflejado en en esta este revisión
+[00:10:40] tarifaria que vamos transitando.
+[00:10:43] En las mesas de trabajo se pusieron eh
+[00:10:46] este
+[00:10:48] el las
+[00:10:51] observaciones y las problemáticas que
+[00:10:53] este que tenían los distribuidores, que
+[00:10:55] fueron identificando los distribuidores
+[00:10:57] en el transcurso de todo este tiempo y
+[00:11:00] que eh entienden necesario modificar o
+[00:11:03] aclarar en dentro de este marco que
+[00:11:05] vamos transitar.
+[00:11:07] Y sí, se va a concluir con una decisión
+[00:11:11] que es de la autoridad de aplicación.
+[00:11:13] Eh, ¿por qué? Porque es la autoridad, es
+[00:11:16] la autoridad de aplicación, es es quien
+[00:11:18] establece toda la política regulatoria.
+[00:11:21] se va a aprobar esa revisión tarifaria y
+[00:11:24] que va a regir por un periodo de eh 5
+[00:11:28] años,
+[00:11:32] como decíamos recién y y siguiendo con
+[00:11:34] los principios rectores de estas
+[00:11:36] revisiones tarifarias, una atribución
+[00:11:38] exclusiva de la autoridad de aplicación
+[00:11:42] y como les explicaba, digamos en los
+[00:11:44] artículos 39 44 de la ley 11769,
+[00:11:49] así como del decreto reglamentario,
+[00:11:52] este, se establecen, digamos, los
+[00:11:54] principios que tenemos que tener en
+[00:11:56] cuenta en eh en materia de tarif, que
+[00:11:59] los servicios públicos eh se establece,
+[00:12:03] serán ofrecidos, esto ya lo saben, fue
+[00:12:05] super repetido, pero que deben ser
+[00:12:07] ofrecidos a tarifas justas y razonables,
+[00:12:10] teniendo en cuenta el derecho de acceso
+[00:12:12] a la energía de todo habitante de la
+[00:12:13] provincia de Buenos Aires. nuestro marco
+[00:12:16] regulatorio hay una protección del
+[00:12:19] derecho de acceso a la energía. Es por
+[00:12:22] eso que este también se prevé dentro de
+[00:12:26] este régimen eh la necesidad de tener
+[00:12:30] una tarifa social que cubra o que pueda
+[00:12:34] eh lograr el acceso de más habitantes a
+[00:12:37] la energía eléctrica.
+[00:12:40] Ahora, las tarifas de distribución, ¿qué
+[00:12:43] es lo que contienen? Sabemos que las
+[00:12:45] tarifas eh de distribución reflejan los
+[00:12:48] costos de adquisición de la
+[00:12:49] electricidad, los costos del transporte
+[00:12:53] que son fijados por la nación, los
+[00:12:55] costos de la expansión de la expansión
+[00:12:58] del transporte, que sabemos que eh se
+[00:13:00] encuentran regulados y que fueron
+[00:13:02] incorporados en en la reforma que se
+[00:13:05] hizo a la ley en el año 2004 con la
+[00:13:08] creación del agregado tarifario. Sabemos
+[00:13:11] que ese agregado tarifario,
+[00:13:13] conforme el artículo 43 eh debe ir hacia
+[00:13:19] un este hacia un fidecomiso, o sea, que
+[00:13:23] ese es esa recaudación
+[00:13:27] se determina que va a ser un patrimonio
+[00:13:29] específico, los distribuidores lo ceden
+[00:13:31] en en en dominio fiduciario
+[00:13:35] este y eso es regulado por este por
+[00:13:39] papro mandandatos Y en función de eso se
+[00:13:42] realizan las obras de expansión del
+[00:13:45] transporte. Y después eh otro de los
+[00:13:48] componentes de de esta tarifa son los
+[00:13:50] costos propios de distribución que se
+[00:13:52] van a reconocer a a los distribuidores
+[00:13:54] por su actividad específica, que es lo
+[00:13:57] que estamos viendo y se está revisando
+[00:14:00] en este momento. Y y precisamente esa es
+[00:14:04] la función específica de la autoridad de
+[00:14:06] aplicación con la colaboración de los
+[00:14:09] SEBA y de la Dirección Provincial de
+[00:14:11] Energía, que es la determinación del
+[00:14:13] valor agregado de distribución, que es
+[00:14:15] la facultad exclusiva que tienen las
+[00:14:17] autoridades, la potestad local de fijar
+[00:14:21] ese valor agregado de distribución.
+[00:14:27] Bueno, como veníamos diciendo, los
+[00:14:30] contratos de concesión provinciales y
+[00:14:33] municipales eh incluyeron un cuadro
+[00:14:36] tarifario inicial que era válido por el
+[00:14:39] término de 5 años y ese cuadro
+[00:14:42] tarifario, que muchas veces se insiste
+[00:14:44] en las reuniones que vamos teniendo, que
+[00:14:46] eh son valores máximos que corresponden
+[00:14:48] a cada uno de los servicios, este
+[00:14:51] podrían eh los distribuidores este eh
+[00:14:57] fijar una tarifa, digamos, por debajo,
+[00:14:59] pero nunca por encima de esos valores.
+[00:15:02] Son valores máximos que corresponden a
+[00:15:04] cada uno de los servicios y que eh
+[00:15:08] cuando ¿Qué pasa esto? Lo que venía
+[00:15:10] diciendo, se producen cada 5 años se
+[00:15:13] fija un cuadro tarifario. ¿Qué es lo que
+[00:15:15] pasó? que es la historia de eh de las
+[00:15:18] concesiones. Bueno, eh saben que en el
+[00:15:21] año 2001 se declaró la emergencia
+[00:15:24] pública. Eso trajo como consecuencia la
+[00:15:27] especificación de las tarifas y un
+[00:15:29] periodo en el cual eh no se realizaron y
+[00:15:33] se fueron postergando los periodos de
+[00:15:35] gestión y se fueron eh postergando,
+[00:15:38] digamos, el las revisiones tarifarias
+[00:15:41] ordinarias.
+[00:15:43] Sí, en el transcurso de todo ese tiempo
+[00:15:46] se lograron este se realizaron
+[00:15:49] protocolos de entendimiento
+[00:15:52] y se lograron eh la suscripción de eh
+[00:15:56] adendas de adecuación de los contratos
+[00:15:58] que culminaron con el decreto 3273 del
+[00:16:03] año 2006 para las distribuidoras DNDs.
+[00:16:08] el decreto 3192
+[00:16:11] del año 2006 para Edea y un protocolo de
+[00:16:15] entendimiento este que se aprobó por
+[00:16:18] decreto 99 del 2012 este para Edelap.
+[00:16:22] ¿Qué es lo que se fijaba?
+[00:16:23] Fundamentalmente dentro de estas adendas
+[00:16:27] de adecuación lo que se determinó fue
+[00:16:30] una calidad diferencial y se tendía a
+[00:16:33] lograr eh un modelo, o sea, teníamos un
+[00:16:36] modelo económico financiero objetivo que
+[00:16:38] era hacia dónde hacia dónde se debía
+[00:16:42] dirigir y hacia donde se debía lograr.
+[00:16:45] Se realizaron en el medio posibilidades
+[00:16:47] de realizar este revisiones tarifarias
+[00:16:50] que no llegaron a su fin, pero se
+[00:16:53] mantuvo el respeto a estas eh adendas de
+[00:16:56] adecuación
+[00:16:58] y en el año eh 2016
+[00:17:02] este se dicta la resolución 22 en el
+[00:17:06] cual se van se reconocen eh los costos
+[00:17:09] conforme el modelo económico financiero
+[00:17:12] objetivo.
+[00:17:14] cuando y se realizaron en ese momento
+[00:17:17] ajustes al valor agregado de
+[00:17:19] distribución. ¿Qué pasó? se dicta la
+[00:17:21] resolución 22, se realiza un ajuste al
+[00:17:25] valor agregado de distribución y este se
+[00:17:28] planteó eh por parte de usuarios, en
+[00:17:33] este caso puntual fue a través del
+[00:17:35] colectivo de acción de la subalternidad
+[00:17:38] ante el juzgado contencioso
+[00:17:40] administrativo número uno de la ciudad
+[00:17:42] de la Plata contrael,
+[00:17:45] este planteando eh la nulidad de la
+[00:17:48] resolución 22 precisamente porque no se
+[00:17:51] había celebrado en forma previa una
+[00:17:54] audiencia pública.
+[00:17:57] En función de esto, en ese en ese fallo,
+[00:18:02] este se trae eh se cita
+[00:18:06] por qué se declara la nulidad, por qué
+[00:18:08] la importancia o por qué este es
+[00:18:11] necesaria una audiencia pública. el
+[00:18:12] marco regulatorio,
+[00:18:15] la ley 11769, así como el decreto
+[00:18:17] reglamentario, no establece la
+[00:18:20] obligatoriedad en forma expresa de la
+[00:18:23] realización de una audiencia pública,
+[00:18:26] pero sí se entendió que el
+[00:18:30] marco regulatorio sí prevé y protege el
+[00:18:33] derecho de los usuarios y el derecho a
+[00:18:36] una hacia la información adecuada, a
+[00:18:41] información adecuada. Ada y verás
+[00:18:44] y una de las precisamente la esta
+[00:18:47] información adecuada y veraz es saber y
+[00:18:49] tener conocimiento en forma previa de eh
+[00:18:53] aumentos que eh se realicen, aumentos
+[00:18:55] tarifarios o cambios, ajustes que se
+[00:18:58] produzcan eh en los cuadros tarifarios.
+[00:19:04] Eh, como fundamento también este se cita
+[00:19:08] en ese fallo eh un fallo de la Suprema
+[00:19:12] Corte de Buenos Aires, que es el fallo
+[00:19:14] Negreli, que tenía que estaba
+[00:19:17] relacionado con materia de de agua,
+[00:19:21] este, del servicio público de de agua,
+[00:19:24] pero eh ahí se dijo expresamente que
+[00:19:28] independientemente de si el marco
+[00:19:30] regulatorio prevé o no, dispone o no la
+[00:19:32] celeb celebración de una audiencia
+[00:19:33] pública.
+[00:19:35] Eh, es necesario sobre la base de normas
+[00:19:37] constitucionales, como es el artículo 42
+[00:19:40] a nivel nacional y el artículo 38 de la
+[00:19:43] Constitución de la Provincia de Buenos
+[00:19:45] Aires, para la legitimidad de un acto es
+[00:19:49] necesario que se realice una audiencia
+[00:19:51] pública porque es fundamento es la
+[00:19:54] información y participación de los
+[00:19:56] usuarios. Bueno,
+[00:19:59] esa audiencia pública eh fue realizada,
+[00:20:02] este continuó la vigencia de esa
+[00:20:05] resolución 22
+[00:20:07] este y a partir de ese momento, este no
+[00:20:11] quedó duda que eh para poder realizar,
+[00:20:15] digamos, un cambio y un ajuste de los
+[00:20:18] del valor agregado de distribución era
+[00:20:20] necesario eh la celebración de estas
+[00:20:23] audiencias públicas
+[00:20:25] en forma concomitante también que fue en
+[00:20:27] En el año 2016 eh surge el fallo CEPIS,
+[00:20:32] que es en materia de gas, pero también
+[00:20:34] en el fallo CEPIs con fundamento en los
+[00:20:37] mismos criterios y en el en el en el
+[00:20:40] derecho constitucional
+[00:20:43] que garantiza tarifas razonables de
+[00:20:45] información transparente y que en el
+[00:20:46] artículo 42 establece que eh es
+[00:20:50] necesario que los usuarios tengan una
+[00:20:53] información adecuada y veraz y que esa
+[00:20:55] participación Cuando el artículo 42 de
+[00:20:58] la Constitución Nacional habla que los
+[00:21:00] usuarios tienen derecho a a participar,
+[00:21:04] esa participación queda salvada con el
+[00:21:09] poder participar en las en las
+[00:21:11] audiencias públicas.
+[00:21:13] Eh, esto quería remarcarlo porque es
+[00:21:16] importante y eh también en el S
+[00:21:19] resolución 22
+[00:21:23] otra de las cuestiones que se dice es
+[00:21:25] que va a comenzar eh la revisión
+[00:21:27] tarifaria integral que termina, digamos,
+[00:21:31] es el marco de eh de inicio de la
+[00:21:35] revisión tarifaria que culmina con eh la
+[00:21:39] aprobación de la revisión tarifaria en
+[00:21:41] en por por la resolución 419
+[00:21:45] del año 2017.
+[00:21:49] esa eh perdón, un comentario ahí eh
+[00:21:54] porque hay varios oficios que nos han
+[00:21:57] diligenciado que preguntan
+[00:22:00] por qué estos cuadros tarifarios de la
+[00:22:03] etapa de transición no tienen audiencia
+[00:22:05] pública. Eh,
+[00:22:07] eso lo Sí, decilo, pero
+[00:22:09] por ahí lo ibas a decir más adelante.
+[00:22:11] Eh, pero no no no declo porque sí, ese
+[00:22:13] era un punto que me parecía que que
+[00:22:15] había que decir, pero
+[00:22:17] es digamos que es una duda que genera eh
+[00:22:20] no solamente digamos en los oficios
+[00:22:21] judiciales que no llegan o los intentos
+[00:22:24] de frenar los aumentos tarifarios que
+[00:22:26] que se vienen dando. Como bien les decía
+[00:22:29] Pato, estamos digamos el periodo
+[00:22:32] tarifario de 5 años, entramos en con el
+[00:22:35] congelamiento, las emergencias
+[00:22:36] energéticas, entramos en etapa de
+[00:22:38] transición tarifaria, entonces los
+[00:22:39] aumentos los venimos dando por fuera,
+[00:22:41] digamos, de toda la normativa existente.
+[00:22:43] Ahora bien, eh hay ajuste de BAT todos
+[00:22:46] los meses. ¿Por qué ese ajuste?
+[00:22:48] Imagínense que debiéramos llamar a una
+[00:22:49] audiencia pública todos los meses.
+[00:22:51] Inviable por donde se los mire. Ahora
+[00:22:53] bien, ¿por qué no llamamos audiencia
+[00:22:56] pública? Porque estamos por debajo del
+[00:22:59] ajuste establecido en el anexo 149
+[00:23:03] eh de la resolución 419 del 17, la que
+[00:23:07] aprobó el procedimiento de RTI o el la
+[00:23:10] RTI este del 17.
+[00:23:14] Entonces, como los aumentos que vamos
+[00:23:16] dando estamos por debajo de esa
+[00:23:18] polinómica de ajuste, entendemos que no
+[00:23:21] hace falta llamar a una audiencia
+[00:23:22] pública, ¿sí? en cada uno de los ajustes
+[00:23:25] transitorios que se vienen dando.
+[00:23:27] Claro.
+[00:23:27] Eh, y de esa manera, porque ese esa
+[00:23:30] fórmula de ajuste o esa revisión
+[00:23:32] tarifaria integral se expuso en la
+[00:23:34] audiencia pública, que es lo que Pato
+[00:23:35] les eh les estaba comentando. se expuso,
+[00:23:39] se indicó cuáles eran, digamos, el el
+[00:23:42] todas las condiciones y las
+[00:23:43] características que iba a tener el
+[00:23:45] próximo quinquenio, entre ellas no
+[00:23:47] solamente la calidad, las inversiones,
+[00:23:49] la tarifa y dentro de la tarifa, ¿cómo
+[00:23:52] se iba a ajustar ese cuadro tarifario,
+[00:23:54] con qué condiciones y con qué
+[00:23:56] polinómica? Entonces, como los ajustes
+[00:23:58] que vamos dando estamos por debajo de
+[00:24:00] esa polinómica, entendemos,
+[00:24:02] interpretamos y justificamos
+[00:24:05] eh que no haga falta una audiencia
+[00:24:07] pública antes, digamos, de cada uno de
+[00:24:09] los aumentos. No obstante eso, cuando
+[00:24:11] aprobemos la próxima RTI, obviamente se
+[00:24:13] va audar.
+[00:24:16] O sea, se supone, digamos, en síntesis,
+[00:24:19] se supone o o partimos un poco de la
+[00:24:21] idea de que este que ahora vamos a vamos
+[00:24:25] a ver este cómo se fueron dando esos
+[00:24:28] esos aumentos, digamos, este que se van
+[00:24:31] dando ahora mes a mes. Se entienden que
+[00:24:34] están este cubiertos por las audiencias
+[00:24:37] públicas que se realizaron en el año eh
+[00:24:40] 2016 17.
+[00:24:42] Eh, así que bueno, ahora sí seguramente
+[00:24:47] que se llame y no podría no llamarse a a
+[00:24:51] una audiencia pública.
+[00:24:52] Exacto.
+[00:24:53] Eh, bueno,
+[00:24:55] eh, esto con relación a la audiencia
+[00:24:57] pública. Eh, bueno, entonces cuando
+[00:24:59] finaliza cada periodo, que es lo que
+[00:25:01] veníamos diciendo, se recalcula el
+[00:25:03] cuadro tarifario, el los valores que se
+[00:25:06] incluyen en el cuadro tarifario están es
+[00:25:10] importante. Ahí viene un poco lo que
+[00:25:12] recién este decía Guillermina, que
+[00:25:15] están, si bien cada 5 años se hacen o se
+[00:25:19] deberían hacer estas revisiones
+[00:25:20] tarifarias, que es lo que establece la
+[00:25:22] norma y establece los contratos de
+[00:25:24] concesión, si están sujetos ajustes que
+[00:25:27] eh para reflejar costos que que no se no
+[00:25:31] se pueden controlar, costos que que
+[00:25:35] pueden llegar a a
+[00:25:37] realizarse y ¿Cómo? ¿Cuándo se realizan
+[00:25:41] estos ajustes? Hay un procedimiento. La
+[00:25:45] ley dice, "Bueno, los procedimientos
+[00:25:46] para realizar estos ajustes van a estar
+[00:25:48] previstos en los contratos de
+[00:25:51] concesión." Efectivamente, que en el
+[00:25:53] suanexo B se prevéen ajustes a estos
+[00:25:57] cuadros eh tarifarios de 5 años.
+[00:26:01] Y otra, antes de pasar a qué es lo que
+[00:26:04] digamos, cuáles son esos ajustes, eh lo
+[00:26:07] que también tenemos que tener en cuenta
+[00:26:10] es que en las revisiones tarifarias eh
+[00:26:13] quinquenales es la instancia donde se
+[00:26:16] redefine y se vuelve a analizar la
+[00:26:19] calidad de servicio, porque precisamente
+[00:26:22] si hay cambios en esa en esa calidad de
+[00:26:24] servicio, este y en el régimen de
+[00:26:27] sanciones va a tener un impacto en las
+[00:26:29] tarifas. Entonces es necesario
+[00:26:33] redefinir o revisar la calidad eh del
+[00:26:37] servicio que se debe prestar, así como
+[00:26:40] las inversiones y eh las sanciones ante
+[00:26:44] eh el incumplimiento. Sabemos que
+[00:26:47] tenemos un una calidad de servicio que
+[00:26:49] está atada a un régimen de de
+[00:26:51] penalizaciones frente a esos
+[00:26:54] incumplimientos y un régimen de eh
+[00:26:56] sanciones complementarias. Es decir, que
+[00:26:59] siempre lo que se va a buscar es eh es
+[00:27:02] un equilibrio entre la calidad,
+[00:27:05] entre las inversiones
+[00:27:07] y eh y la tarifa. Acá no nombro las
+[00:27:11] sanciones porque en realidad digamos la
+[00:27:13] las sanciones eh o las penalizaciones
+[00:27:16] este deberían minimizarse frente al
+[00:27:19] cumplimiento de los parámetros de
+[00:27:21] calidad que se establecen en el contrato
+[00:27:24] de concesión.
+[00:27:30] Bueno, eh retomando el tema entonces de
+[00:27:32] ajustes que recién les decía el con el
+[00:27:36] su anexo B, el los ajustes en los
+[00:27:39] cuadros tarifarios
+[00:27:41] eh reflejan las variaciones de los
+[00:27:43] precios de la energía, eh del
+[00:27:45] transporte, eh bueno, de servicios
+[00:27:48] adicionales del Fondo Nacional de
+[00:27:50] Energía Eléctrica que son fijados por la
+[00:27:52] autoridad de aplicación, por la
+[00:27:54] autoridad, digo, de aplicación nacional,
+[00:27:56] por la nación y que estos eh deben ser
+[00:28:00] este trasladados a a las tarifas de los
+[00:28:03] distribuidores y la actualización de los
+[00:28:05] valores del costo propio de
+[00:28:07] distribución, que sí es eh sobre el que
+[00:28:10] tiene atribución la provincia de Buenos
+[00:28:12] Aires, ¿no?, o las autoridades locales.
+[00:28:16] El cálculo, como ustedes saben, es
+[00:28:19] efectuado por OSEVA y está sujeto
+[00:28:21] siempre a la aprobación del del
+[00:28:23] Ministerio por su carácter de autoridad
+[00:28:25] de aplicación.
+[00:28:27] Ahora, ¿qué dice el subanexo B? El su
+[00:28:29] anexo B dice que los costos propios de
+[00:28:31] distribución se actualizan eh con una
+[00:28:33] periodisina anual dentro de cada periodo
+[00:28:37] quinquenal y entrarán en vigencia en en
+[00:28:42] la actualización en febrero de cada año.
+[00:28:46] Cuando se realiza la revisión tarifaria
+[00:28:49] integral del año 2017, eh los ajustes eh
+[00:28:53] se producen, también se se respeta esta
+[00:28:56] anualidad porque no se reforma en ese
+[00:28:58] momento el el subanexo B. Se establece
+[00:29:01] una fórmula de ajuste en el anexo 149
+[00:29:07] y eh se van realizando en ese momento
+[00:29:11] este ajustes a los a ese cuadro
+[00:29:14] tarifario que que es por 5 años 2017 a
+[00:29:20] 2022. Ese es el ese era el periodo. Se
+[00:29:23] fueron realizando ajustes a través de
+[00:29:25] distintas resoluciones, la resolución 60
+[00:29:28] del 2018,
+[00:29:30] la resolución 1297 del 2018, la
+[00:29:34] resolución 186
+[00:29:37] del 2019 y la resolución 1713 del 2019.
+[00:29:42] Eh, estas resoluciones se fueron fueron
+[00:29:45] realizando ajustes, se fueron realizando
+[00:29:48] también en el medio es eh
+[00:29:50] actualizaciones que llevaban a
+[00:29:53] a a hacer ciertas postergaciones o
+[00:29:58] pero eh se fueron respetando eh los
+[00:30:01] ajustes que se venían que debían ser
+[00:30:03] realizado. Ahora bien,
+[00:30:08] se produce en el año
+[00:30:12] se dicta la ley 15165
+[00:30:14] en el año 2019, fines del 2019, que
+[00:30:17] declara la emergencia energética en el
+[00:30:19] ámbito de la provincia de Buenos Aires,
+[00:30:21] este, así como la prestación de los
+[00:30:23] servicios. Y como consecuencia de esto
+[00:30:27] se suspende
+[00:30:29] eh los aumentos de los cuadros
+[00:30:30] tarifarios del servicio público, se
+[00:30:32] suspende eh los ajustes y se produce eh
+[00:30:37] se dicta una resolución que es la la 20
+[00:30:39] del 2020 donde se produce esta
+[00:30:41] suspensión, se hacen acuerdos, eh se van
+[00:30:46] aprobando eh adendas y esto se mantiene
+[00:30:51] esta suspensión a través de distintas
+[00:30:53] resoluciones que la resolución 576 del
+[00:30:56] año también 2020, la resolución 227 del
+[00:31:00] 2021
+[00:31:02] y en este proceso, ¿qué qué es lo que al
+[00:31:05] suspender estos aumentos, estos ajustes
+[00:31:07] y y esta revisión tarifaria que se había
+[00:31:09] realizado, se inicia un proceso de
+[00:31:11] análisis, revisión de los ingresos
+[00:31:13] requeridos
+[00:31:15] y que estaban reconocidos en esa eh
+[00:31:17] revisión tarifaria integral del año
+[00:31:19] 2017.
+[00:31:21] Como consecuencia de todo esto, este, se
+[00:31:24] dicta eh la resolución eh 439
+[00:31:29] del año 2021,
+[00:31:32] que dispone eh una etapa de transición
+[00:31:35] tarifaria. ¿Para qué? Para poder lograr
+[00:31:39] la sustentabilidad del servicio público.
+[00:31:42] Y eh lo que eh digamos lo que se decide
+[00:31:46] es realizar cuadros tarifarios de
+[00:31:49] transición.
+[00:31:51] hasta la normalización tarifaria que se
+[00:31:54] se iba a dar eh con la nueva eh revisión
+[00:31:58] tarifaria a realizarse, porque esta
+[00:32:01] porque la revisión tarifaria eh del año
+[00:32:04] 2017, digamos, estaba sujeto a análisis,
+[00:32:07] se produce esta etapa de transición y
+[00:32:08] precisamente como estamos en una etapa
+[00:32:10] de transición, que es lo que decía
+[00:32:12] recién Guillermina,
+[00:32:14] en esa etapa de transición todos los
+[00:32:15] aumentos que se vienen dando este
+[00:32:18] estaban amparados por las audiencias
+[00:32:21] públicas ya realizadas en el año 2017,
+[00:32:24] 2016.
+[00:32:27] este esta etapa de transición tarifaria,
+[00:32:31] eh quien determina cuándo se van a
+[00:32:35] realizar estos nuevos ajustes
+[00:32:38] o estos cuadros tarifarios de
+[00:32:40] No
+[00:32:42] sigue est muy lejos
+[00:32:44] no recendo aprender iguales.
+[00:32:46] No sé si alguien se tiene quiere una
+[00:32:48] pregunta o o se
+[00:32:51] se haber disparado,
+[00:32:52] se haber disparado el micrófono. Bueno,
+[00:32:56] eh
+[00:32:57] entonces estábamos
+[00:33:00] eh eh dentro de esta decía que la lo que
+[00:33:04] se autoriza es este aprobar cuadros
+[00:33:07] tarifarios de transición. Se mantiene
+[00:33:09] esta etapa de transición tarifaria que
+[00:33:11] determina esta resolución, la 439 del
+[00:33:14] 21, que luego es prorrogada
+[00:33:17] por la resolución 398 del 2025
+[00:33:22] y que eh se reafirma esta prórroga y la
+[00:33:25] continuidad de la etapa de transición
+[00:33:28] con los artículos 54 y 55 de la Ley de
+[00:33:32] Presupuesto 2026, la Ley 15,557,
+[00:33:38] en En el medio con la resolución 1133
+[00:33:42] del 2024 se da inicio a la revisión
+[00:33:47] tarifaria integral eh que es la que
+[00:33:51] estamos transitando, este por el cual se
+[00:33:55] establece la obligación de realizar el
+[00:33:58] revisiones, esta una revisión tarifaria,
+[00:34:01] establecer un cuadro tarifario para los
+[00:34:03] próximos eh 5 años y que
+[00:34:08] Y y bueno, una se va a revisar también
+[00:34:11] que como decía la semana pasada tuvimos
+[00:34:13] mesas de trabajo donde se está revisando
+[00:34:16] por un lado todo lo que tiene que ver
+[00:34:18] con con las tarifas, con las estructuras
+[00:34:21] tarifarias, con y por otra parte con el
+[00:34:24] régimen tarifario. Por otro lado, el
+[00:34:26] régimen de calidad, el subanexo D, este,
+[00:34:30] y el subanexo E, el régimen de
+[00:34:34] suministro y conexión, este, que también
+[00:34:37] este va a ser revisado, además que
+[00:34:38] entiendo que eh se van a se deberían
+[00:34:42] hacer cambios a los demás subanexos,
+[00:34:44] este porque hoy, por ejemplo, el suanexo
+[00:34:47] C que establece el cuadro tarifario
+[00:34:50] inicial, ese cuadro tarifario inicial
+[00:34:52] que tenemos y es el que tenemos que ir
+[00:34:55] modificando. Eh, pasó a ser no el
+[00:34:57] original del contrato de concesión, sino
+[00:34:59] el cuadro tarifario de la resolución eh
+[00:35:03] 419
+[00:35:04] del 2017.
+[00:35:09] Bueno, eh
+[00:35:13] un poco como lo venía diciendo, pero
+[00:35:15] para reafirmarlo, ¿qué es lo que se
+[00:35:16] revisa a nivel local? lo que se revisa a
+[00:35:19] nivel local o que lo que va lo que se
+[00:35:21] está transitando también en este momento
+[00:35:24] y lo que se realizó en el año 2017 que
+[00:35:27] que como les decía fue la única que se
+[00:35:30] vino realizando, es el costo propio de
+[00:35:33] la distribuidora, o sea, el valor
+[00:35:35] agregado de distribución. El resultado
+[00:35:38] final de ese cuadro tarifario va a
+[00:35:40] incluir todos los costos del servicio,
+[00:35:42] que es lo que dice la norma y que es lo
+[00:35:45] que corresponde. Por un lado, se va a
+[00:35:46] trasladar, bueno, todos los precios de
+[00:35:48] la energía. Eso siempre va a ser en la
+[00:35:50] oportunidad que fije eh la autoridad
+[00:35:53] nacional. Y bueno, vamos a ir viendo
+[00:35:55] este cómo sabemos los cambios que se
+[00:35:58] produjeron a nivel nacional y cómo se
+[00:36:00] van a ir también este
+[00:36:03] con este nuevo mercado término, el
+[00:36:05] mercado spot. cómo vamos a hacer para el
+[00:36:08] traslado de de esos de esos precios,
+[00:36:11] pero bueno, se produce luego el precio
+[00:36:13] final, este sin impuestos
+[00:36:17] y también en el en el ¿cómo es? En la
+[00:36:21] revisión tarifaria integral, también lo
+[00:36:24] que se puede revisar son las áreas de
+[00:36:26] concesión que se revisan al inicio de
+[00:36:29] cada periodo tarifario.
+[00:36:32] Y esto realmente sucedió porque como
+[00:36:36] ustedes saben en eh al pasar de la eh a
+[00:36:39] la provincia en el año 2011 nosotros
+[00:36:41] teníamos tres áreas de concesión. Creo
+[00:36:44] que se
+[00:36:45] ¿Qué pasó?
+[00:36:46] Se fue la Ah, no me están escuchando.
+[00:36:48] Sí,
+[00:36:49] sí, sí. Perfecto.
+[00:36:50] Sí. Bueno, e [carraspeo]
+[00:36:55] eh hasta bueno, en el año 2011 pasa de
+[00:36:59] la a la provincia de Buenos Aires, pero
+[00:37:02] e
+[00:37:04] en el año, bueno, cuando se realiza,
+[00:37:06] había tres áreas de concesión, el área
+[00:37:08] norte, el área sur y el área atlántica.
+[00:37:11] Y en el año 2017, que cuando se realiza
+[00:37:14] la audiencia pública, uno de las una de
+[00:37:17] las cuestiones que se que se propusieron
+[00:37:20] eh en esa en esa audiencia era por qué
+[00:37:25] había diferencias de digamos de tarifas
+[00:37:28] dentro del dentro del área que abarcaba
+[00:37:30] del AP. Entonces eso dio como
+[00:37:32] consecuencia a propuesta de como
+[00:37:34] consecuencia de esas audiencias públicas
+[00:37:36] la creación del área Río de la Plata.
+[00:37:41] Eh, también eh este por eso digo que en
+[00:37:44] estas revisiones también se pueden este
+[00:37:46] revisar las áreas de de concesión. Eh,
+[00:37:52] el y en esas audiencias públicas,
+[00:37:54] digamos, que vuelvo sobre eso, pero
+[00:37:56] digo, se eh se pueden anotar todos los
+[00:38:00] también. Ah, otro tema importante que
+[00:38:02] surgió de esa audiencia pública, este,
+[00:38:04] que donde los usuarios, porque se
+[00:38:07] escuchan a todos eh, a todos los que los
+[00:38:10] que los que quieran participar y en
+[00:38:12] función de eso culmina esa audiencia eh
+[00:38:16] posteriormente con un informe final y y
+[00:38:18] del cual la autoridad de aplicación este
+[00:38:21] hace una evaluación de cuestiones que sí
+[00:38:24] pueden ser incluidas. Por ejemplo, en
+[00:38:26] materia tarifaria se se reconoció
+[00:38:30] a los usuarios rurales residenciales, o
+[00:38:33] sea, ustedes saben que a partir de ahí
+[00:38:36] eh se crea, digamos, esta categoría T4
+[00:38:40] residencial que que torturarse.
+[00:38:44] Eh, bueno, eh, así que eh esto también
+[00:38:48] es importante y como les decía recién
+[00:38:50] también que en la revisión tarifaria
+[00:38:52] quinquenal volvemos a redefinir el
+[00:38:55] régimen de calidad. ese régimen de
+[00:38:58] calidad tiene también de acuerdo a lo
+[00:39:01] que a lo que se decida cuáles van a ser
+[00:39:04] esos esos requisitos, eh cómo va a estar
+[00:39:08] determinado en la la el costo de la
+[00:39:11] energía no suministrada, las
+[00:39:13] penalizaciones,
+[00:39:14] qué es lo que se va lo que se va a
+[00:39:16] considerar, eh va a tener su impacto en
+[00:39:21] tarifa también y eh y en las
+[00:39:24] inversiones, porque claramente para
+[00:39:26] poder lograr esos los niveles de calidad
+[00:39:28] es necesario la realización de eh de
+[00:39:31] inversiones.
+[00:39:36] Bueno, eh,
+[00:39:39] bueno, ustedes saben porque casi todos
+[00:39:41] están en son este están en en las
+[00:39:46] distribuidoras, pero lo que decía recién
+[00:39:49] es que qué es lo que se analiza, qué es
+[00:39:53] lo que lo que se determina o qué cuál es
+[00:39:56] la atribución de la autoridad de
+[00:39:58] aplicación con con colaboración también
+[00:40:00] de del organismo de control y que tengo
+[00:40:03] que que se va a revisar en en las
+[00:40:06] revisiones tarifarias son los costos eh
+[00:40:09] normales y razonables de
+[00:40:11] comercialización y explotación de los
+[00:40:13] servicios, el costo el costo de
+[00:40:16] explotación, los costos de capital, el
+[00:40:20] la amortización, la renovación de
+[00:40:22] equipos e instalaciones, las expansiones
+[00:40:25] en las redes que son necesarias también
+[00:40:27] eh para atender las obligaciones en en
+[00:40:29] los respectivos contratos de concesión.
+[00:40:32] el también este qué impuestos hay que
+[00:40:35] tributar y la obtención de eh una tasa
+[00:40:39] de renta de rentabilidad.
+[00:40:43] Cuando hablamos también de la tasa de de
+[00:40:46] rentabilidad,
+[00:40:49] este ahí, bueno, eh ahí es si bien es
+[00:40:52] necesario, digamos, cuándo se entiende
+[00:40:55] una rentabilidad razonable, esa
+[00:40:58] rentabilidad razonable no se va a a
+[00:41:01] considerar vulnerada si hay un mero
+[00:41:03] desequilibrio, o sea, no hay una
+[00:41:05] garantía de del mantenimiento de de
+[00:41:08] digamos de de del de la tarifa o del
+[00:41:12] régimen tarifa ífario, sino que tiene
+[00:41:13] que eh decide de la ecuación económica
+[00:41:17] eh del equilibrio de esa ecuación
+[00:41:19] económica financiera, pero no es
+[00:41:21] cualquier desequilibrio, sino que
+[00:41:22] realmente tiene que existir un
+[00:41:24] quebranto, tiene que ser probado. Eso eh
+[00:41:27] hay un fallo que es el fallo Marúa que
+[00:41:29] creo que que ya lo había citado, pero
+[00:41:31] eso es importante eh, para considerar
+[00:41:34] esta tasa de rentabilidad que sea la
+[00:41:38] razonabilidad de esa tasa de
+[00:41:40] rentabilidad. Bueno, ¿qué más lo qué más
+[00:41:43] voy a tener en cuenta en el valor
+[00:41:46] agregado de distribución? Bueno, eh
+[00:41:49] todos sabemos que existen diferencias de
+[00:41:51] costos de distribución en la prestación
+[00:41:55] que surgen de las particularidades
+[00:41:56] geográficas, de las formas de prestación
+[00:41:59] y de eh otras características que se
+[00:42:03] entiendan eh eh a criterio de del
+[00:42:07] organismo. Sabemos de la existencia,
+[00:42:10] sobre todo para las distribuidoras
+[00:42:12] municipales del Fondo Provincial de
+[00:42:14] Compensaciones Tarifarias, que tiende a
+[00:42:17] que el principio en el marco nuestro
+[00:42:20] marco regulatorio es la uniformidad de
+[00:42:23] tarifas y de ahí la existencia de este
+[00:42:25] Fondo Provincial de Compensaciones
+[00:42:27] Tarifarias. Y también eh esto es
+[00:42:30] importante porque a nivel este
+[00:42:33] distribuidoras municipales lo que se va
+[00:42:35] a revisar en esta revisión tarifaria,
+[00:42:37] que eso lo va a explicar bien Alejandra
+[00:42:39] y y Guille también, este es eh
+[00:42:43] precisamente las compensaciones dentro
+[00:42:47] que se que están reconocidas en eh en el
+[00:42:51] y que se se van abonando mensualmente
+[00:42:55] estas compensaciones de Bad del Fondo
+[00:42:57] Provincial. al de compensaciones
+[00:42:59] tarifarias. Y como decía también eh lo
+[00:43:03] que se va a considerar en este BAT son
+[00:43:06] las condiciones de acceso, es decir, la
+[00:43:09] existencia de una tarifa social para que
+[00:43:12] todos los usuarios de la provincia de
+[00:43:13] Buenos Aires puedan tener acceso eh al
+[00:43:16] servicio público de distribución de de
+[00:43:20] energía eléctrica.
+[00:43:26] Eh,
+[00:43:28] reitero, pero precisamente eh
+[00:43:33] son como la, o sea, es el espejo, ¿no es
+[00:43:37] cierto? La tarifa y está relacionado con
+[00:43:39] qué, con las pautas mínimas que
+[00:43:40] establecen los contratos respecto de la
+[00:43:42] calidad. En cuanto a los distintos
+[00:43:44] índices de prestación de servicio del eh
+[00:43:48] sabemos que tenemos que cumplir con que
+[00:43:51] se debe cumplir con una calidad de
+[00:43:52] servicio técnico eh interrupciones, la
+[00:43:55] duración de cortes, eso va a influir
+[00:43:58] también este en lo que después este en
+[00:44:02] su impacto de las penalizaciones.
+[00:44:06] lo mismo que en el producto técnico
+[00:44:08] suministrado, los niveles de tensión
+[00:44:11] y el cumplimiento también de la calidad
+[00:44:14] del servicio comercial
+[00:44:16] y con, como decía, con el régimen de
+[00:44:19] sanciones por por incumplimiento. Otro
+[00:44:22] tema importante en el régimen de
+[00:44:23] sanciones por incumplimiento, que ya lo
+[00:44:25] habíamos visto, era el tema de el deber
+[00:44:27] de información, porque el organismo se
+[00:44:29] nutre de la información que les van
+[00:44:31] dando los distribuidores. Entonces, por
+[00:44:33] eso resulta también esencial y la falta
+[00:44:36] de cumplimiento de ese deber de
+[00:44:38] información también va a impactar en el
+[00:44:39] régimen sancionatorio.
+[00:44:43] Eh, reitero que la revisión tarifaria
+[00:44:46] entonces es una definición de la calidad
+[00:44:48] de las sanciones, de las inversiones,
+[00:44:50] que es consecuencia para lograr esos
+[00:44:52] niveles de calidad, necesito hacer esas
+[00:44:54] inversiones y de eh la tarifa, ¿no?, que
+[00:44:58] que tiene que ser reconocida y que bueno
+[00:45:01] este que ya como saben están estos
+[00:45:05] ajustes que hoy son mensuarios.
+[00:45:10] Eh, como les decía también que les eh
+[00:45:14] decía recién, estamos en esta etapa de
+[00:45:17] transición tarifaria que fue establecida
+[00:45:19] por la resolución 439
+[00:45:23] en el marco de las emergencias
+[00:45:24] energéticas, en las emergencias
+[00:45:26] económicas, bueno, eh y que eh vino
+[00:45:31] siendo convalidada por distintas
+[00:45:34] resoluciones y que también hoy sigue
+[00:45:36] vigente por la Ley de Presupuesto 26.
+[00:45:39] Seguimos y continuamos en esta etapa de
+[00:45:41] transición tarifaria con estos ajustes
+[00:45:43] que se vienen realizando eh desde el año
+[00:45:48] eh 2021. eh se vienen realizando
+[00:45:50] distintos ajustes, son muchas las
+[00:45:52] resoluciones y precisamente desde el año
+[00:45:54] pasado estos ajustes vienen siendo
+[00:45:56] mensuales.
+[00:45:58] Y bueno, no cito todas las resoluciones
+[00:46:00] porque sería aburrido ya porque veníamos
+[00:46:04] siguiéndolas, pero ya ahora perdimos un
+[00:46:06] poco el hilo de de los números y que
+[00:46:09] bueno y ahora estamos en esta etapa de
+[00:46:12] revisión tarifaria que se inició con la
+[00:46:15] ley 11, digo la ley la resolución 1133
+[00:46:19] del 2024. No sé si querías agregar algo.
+[00:46:22] No, no. Si quieren la lista de todas las
+[00:46:24] resoluciones que ajustó el B, se las
+[00:46:26] subimos a la a la plataforma. Sí, igual
+[00:46:28] en en Oceva están en sí en la página de
+[00:46:31] Oceva están
+[00:46:31] están en cuadros tarifarios están
+[00:46:33] absolutamente todas porque bueno,
+[00:46:35] ustedes como saben hay mensualmente
+[00:46:37] salen dos cuadros tarifarios eh de
+[00:46:40] manera de de tratar de de que no haya un
+[00:46:43] descalce con los precios mayoristas y
+[00:46:46] los ajustes de de también digamos no
+[00:46:49] solamente nosotros en la etapa de
+[00:46:50] transición tarifaria estamos ajustando
+[00:46:52] el BAT todos los meses, sino que sin
+[00:46:54] perjuicio de la programación estacional
+[00:46:56] que hace Cames y que teóricamente de
+[00:46:59] acuerdo a los procedimientos de camisa
+[00:47:00] debería ser semestralmente con ajustes
+[00:47:03] trimestrales.
+[00:47:05] Dentro de ese marco también todos los
+[00:47:07] meses ajustar
+[00:47:09] el precio o ajustan la bonificación, la
+[00:47:11] reducción de la bonificación que se le
+[00:47:14] otorgan de los subsidios este o el
+[00:47:18] consumo base eh 150, 200, después 550,
+[00:47:22] ahora bajó a 300. Bueno, entonces todos
+[00:47:25] los meses, además del BAD, nos
+[00:47:27] encontramos
+[00:47:27] con complejidades,
+[00:47:30] no solo a nivel local, sino nacional,
+[00:47:33] ¿no?
+[00:47:34] Por ejemplo, en esta última este
+[00:47:37] resolución, como decía Guillermina, el
+[00:47:41] consumo base para septiembre es de 200,
+[00:47:45] este la bonificación extraordinaria se
+[00:47:48] subió al 25%. Entonces todo eso va a
+[00:47:51] quedar reflejado en en los cuadros
+[00:47:54] tarifarios, va Sí. en los ajustes que se
+[00:47:56] están realizando más los ajustes que
+[00:48:00] que pueden haber en el BAT. Y bueno, y
+[00:48:04] como saben en también digo eso no lo
+[00:48:07] nombré, pero dentro de esta etapa de
+[00:48:10] transición tarifaria saben que eh se
+[00:48:13] creó, digamos, lo que vino siendo en
+[00:48:15] principio un ICM, un ICT, el costo de de
+[00:48:20] transición tarifaria que que también
+[00:48:23] este tiene un renglón diferenciado e en
+[00:48:28] eh digamos en la factura, pero que es
+[00:48:31] parte que es a cuenta del valor agregado
+[00:48:33] de de distribución, pero eso también es
+[00:48:36] parte de esta etapa de transición
+[00:48:38] tarifaria. Es BAD,
+[00:48:40] exactamente,
+[00:48:41] eh, que eso no no lo
+[00:48:42] debería desaparecer. Claro, debería
+[00:48:44] desaparecer con la revisión cuando se
+[00:48:47] implemente la nueva revisión tarifaria
+[00:48:48] integral.
+[00:48:49] Claro. Exacto. Y estaría ya se supone
+[00:48:51] que estaría incluido en el en el bal que
+[00:48:54] que se llegue a a aprobar en en el marco
+[00:48:58] de esta revisión.
+[00:49:00] Eh,
+[00:49:03] bueno, eh, voy a terminar porque si no
+[00:49:06] Guiller va a faltar tiempo, pero
+[00:49:09] volvíamos eh en estas pautas a
+[00:49:11] considerar la determinación de tarifas
+[00:49:13] que eh que que esto ya lo lo lo venimos
+[00:49:18] nombrando, ¿no? este este fallo, el
+[00:49:21] fallo CEPIS este de la Corte Suprema de
+[00:49:24] Justicia de la Nación, que si fue si
+[00:49:25] bien fue en materia de gas, que es de
+[00:49:27] agosto del 2016 y que yo decía que justo
+[00:49:29] era fue medio concomitante con la
+[00:49:31] nulidad que hubo en el año 2016 de la
+[00:49:33] resolución 22,
+[00:49:35] pero que eh agrega por un lado eh es
+[00:49:39] importante en este fallo que se reconoce
+[00:49:41] este la potestad tarifaria, creo que hay
+[00:49:44] un voto de Rosati que dice la potestad
+[00:49:45] tarifaria este se reconoce que es del
+[00:49:48] poder ee todo lo que tiene que ver con
+[00:49:51] el control de la razonabilidad, eso sí
+[00:49:54] es materia del poder judicial. Y en este
+[00:49:56] caso se hizo hincapié en que el Estado
+[00:49:59] debe velar por la continuidad, la
+[00:50:01] universalidad y la accesibilidad de los
+[00:50:04] servicios públicos. Porque bueno, en en
+[00:50:07] ese momento se consideró que si bien
+[00:50:09] este venían se venía con un defasaje a
+[00:50:12] nivel tarifario, también teníamos que
+[00:50:13] ver el otro lado, digamos, de de la
+[00:50:18] moneda, que es precisamente la realidad
+[00:50:20] socioeconómica de eh de los usuarios, de
+[00:50:23] quienes van a ser eh los que van a
+[00:50:26] abonar esa tarifa y eh los sectores
+[00:50:29] vulnerables.
+[00:50:31] Se habló también de de que las tarifas,
+[00:50:34] digamos, no debían ser este concatorias.
+[00:50:41] En este fallo, en este fallo también
+[00:50:44] este se estableció un estándar.
+[00:50:48] El estándar debe garantizar el acceso
+[00:50:49] permanente a los recursos naturales y
+[00:50:52] comunes, aguas potables, energía,
+[00:50:54] cocina. se tomó eh como estándar el
+[00:50:56] derecho a una vivienda adecuada,
+[00:50:58] conforme eh los parámetros establecidos
+[00:51:01] este por la ONU sobre el Pacto
+[00:51:03] Internacional de Derechos eh Económicos
+[00:51:05] y y Sociales.
+[00:51:08] y que otro de los puntos importantes de
+[00:51:12] este fallo es que el porcentaje de los
+[00:51:13] gastos de una vivienda familiar sean en
+[00:51:15] general
+[00:51:17] tengan en cuenta los niveles de ingresos
+[00:51:19] de esa familia
+[00:51:21] y eh la previsibilidad en los usuarios
+[00:51:25] eh que precisamente ahí es donde hacen
+[00:51:29] hincapié como un nuevo requisito que ya
+[00:51:32] lo vinimos diciendo, es la accesibilidad
+[00:51:35] al en los servicios públicos. que no
+[00:51:37] solo es la continuidad o la regularidad,
+[00:51:40] la accesibilidad, sino también la
+[00:51:41] accesibilidad a ese servicio público y
+[00:51:44] eh la realización de una audiencia
+[00:51:47] pública previa, que eso también hace a
+[00:51:50] la previsibilidad eh del servicio
+[00:51:52] público.
+[00:51:54] Eh,
+[00:51:56] creo que si no no va a quedarte mucho
+[00:51:59] tiempo.
+[00:52:03] En definitiva de este de este fallo
+[00:52:05] CEPI, que las tarifas, cierro con eso,
+[00:52:07] digo, las tarifas tienen que ser
+[00:52:10] graduales, tienen que ser eh razonables,
+[00:52:14] no confiscatorias, tienen que tener un
+[00:52:17] sendero de aumento consensuado y
+[00:52:21] publicitado. Ahí es donde estamos con la
+[00:52:24] idea de la celebración y el respeto a la
+[00:52:27] celebración de esa audiencia pública,
+[00:52:29] previsibilidad a los usuarios,
+[00:52:31] especialmente a los que están más
+[00:52:33] vulnerables,
+[00:52:35] el derecho a una vivienda adecuada y el
+[00:52:38] pleno acceso a eh servicios básicos.
+[00:52:42] Este, bueno, con esto finalizaría esta
+[00:52:45] esta parte. Ahora se ingresaría
+[00:52:48] Guillermina con el otro tema que es el
+[00:52:51] periodo de gestión que nunca también que
+[00:52:53] tiene su su historia, ¿no? Porque no fue
+[00:52:57] realizado o las prórrogas que se fueron
+[00:52:59] realizando. No sé si tienen alguna
+[00:53:01] pregunta o seguimos.
+[00:53:05] Gracias.
+[00:53:07] Gracias, Pato. Eh, bueno, no sé, ¿tienen
+[00:53:11] alguna pregunta
+[00:53:13] de las revisiones tarifarias? Igual
+[00:53:15] Alejandra sigue luego más con las estos
+[00:53:18] son los principios que establece el
+[00:53:20] marco regulatorio e el decreto
+[00:53:24] reglamentario, este algo que se levantó
+[00:53:26] de los contratos e puntualmente
+[00:53:29] Alejandra después va a hablar de la
+[00:53:30] implementación
+[00:53:32] e y yo les voy a hablar de los periodos
+[00:53:35] de gestión. No sé.
+[00:53:39] Bueno, ahí estamos. ¿Qué es lo que se
+[00:53:42] denomina periodo de gestión? Eh, ustedes
+[00:53:45] lo seguramente lo han leído en los
+[00:53:47] contratos de concesión, no está e en el
+[00:53:50] marco regulatorio, pero sí en los
+[00:53:53] artículos 7 a 12 del contrato de
+[00:53:55] concesión, tanto provincial como
+[00:53:57] municipal. Así que vamos a ir haciendo
+[00:53:59] el macheo. Tiene algunas pequeñas
+[00:54:01] diferencias eh entre ambos textos, así
+[00:54:04] que vamos a ir haciéndolo, digamos,
+[00:54:06] simultáneamente como para que depende si
+[00:54:08] están en la distribuidora provincial o
+[00:54:09] están en una distribuidora municipal
+[00:54:11] puedan ir viendo eh de qué se trata.
+[00:54:14] Eh, la primera consideración es por qué
+[00:54:17] existe el periodo de gestión o por qué
+[00:54:19] eh la digamos la naturaleza de este de
+[00:54:23] este instituto. Eh, la principal
+[00:54:26] cuestión es eh porque las concesiones de
+[00:54:30] servicio público, distribución de
+[00:54:31] electricidad se han otorgado a un plazo
+[00:54:35] excesivamente extenso.
+[00:54:38] Vamos a ver una filmina posterior.
+[00:54:39] Tenemos 95 años para las provinciales.
+[00:54:42] este 85 para las con dos prórrogas, ¿no?
+[00:54:46] 85 en total para las concesiones
+[00:54:48] municipales. Entonces, no podía ser que
+[00:54:51] un mismo concesionario pudiera prestar o
+[00:54:54] tuviera cargo la prestación del servicio
+[00:54:56] por semejante eh cantidad de tiempo. Sí.
+[00:55:00] Ni siquiera, digamos, una misma gestión
+[00:55:02] podía este o una misma persona podía ver
+[00:55:05] el inicio de una concesión y la
+[00:55:07] finalización con estos tiempos que
+[00:55:08] estamos hablando.
+[00:55:09] Nosotras no
+[00:55:10] nosotras [risas] no. Claramente.
+[00:55:14] Por otro lado, es una consecuencia
+[00:55:16] esencial de la condición de monopolio
+[00:55:18] natural, como vimos en otras clases,
+[00:55:21] esta condición de eh monopolio natural
+[00:55:24] de la condición de una única posibilidad
+[00:55:27] de tener una única red, digamos. No
+[00:55:28] podemos tener redes paralelas de
+[00:55:30] distribución, redes de transporte donde
+[00:55:33] cada uno puede elegir, bueno, me conecto
+[00:55:35] a esta red o me conecto a la otra. Este,
+[00:55:39] comparándolo también o considerándolo
+[00:55:40] con los cambios de tecnologías que se
+[00:55:42] dieron respecto, por ejemplo, de la
+[00:55:44] telefonía. Sí, en el caso del gas, en el
+[00:55:46] caso del agua, en el caso de la
+[00:55:48] electricidad, esta condición de
+[00:55:50] monopolio natural, porque la existe una
+[00:55:52] única red a la que podamos conectarnos,
+[00:55:55] hace que aparezca este instituto como
+[00:55:58] para dar posibilidad a convalidar la
+[00:56:02] actividad de un de un distribuidor o en
+[00:56:05] todo caso el Estado Provincial poder
+[00:56:07] decir, bueno, nada, quiero este mejorar
+[00:56:10] la competitividad, mejorar las
+[00:56:12] inversiones, mejorar las condiciones de
+[00:56:13] prestación.
+[00:56:15] Em,
+[00:56:17] como les decía antes, para el Estado la
+[00:56:20] posibilidad de que cuando se venzan los
+[00:56:23] periodos de gestión puede convalidar la
+[00:56:25] gestión del concesionaria, del
+[00:56:27] concesionario eh y puede convalidarlo
+[00:56:30] también a través de un proceso
+[00:56:31] licitatorio. En cambio, para el
+[00:56:33] concesionario puede elegir continuar
+[00:56:35] prestando el servicio público o
+[00:56:37] retirarse en esa oportunidad.
+[00:56:41] Obviamente y por el procedimiento que
+[00:56:43] tiene eh eh esta modificación dentro del
+[00:56:46] periodo de gestión, obviamente eh se
+[00:56:49] hace a través de licitación pública o de
+[00:56:50] concurso y esto implica la
+[00:56:52] competitividad a nuevos prestadores, a
+[00:56:54] nuevos posibles oferentes dentro de esos
+[00:56:57] procesos y que puedan tomar el lugar que
+[00:56:59] hoy tiene un concesionario de
+[00:57:01] distribución, sea provincial o
+[00:57:03] municipal. Obviamente en ese proceso eh
+[00:57:07] van a asegurarse, digamos, nuevas
+[00:57:09] inversiones, se van a poner exponer
+[00:57:11] condiciones para la prestación.
+[00:57:15] Como les decía antes, el contrato de
+[00:57:17] construcción provincial se estableció
+[00:57:20] por el plazo de 95 años a contar desde
+[00:57:23] la toma de posesión. En el caso de DND,
+[00:57:25] CEDEA, concesiones provinciales
+[00:57:27] otorgadas de origen sobre los bienes que
+[00:57:30] se vendieron y que estaban en
+[00:57:34] posesión de SEBA de la Empresa Social de
+[00:57:37] Energía Eléctrica al momento de la
+[00:57:38] privatización se constituyeron estas
+[00:57:40] tres unidades de negocios efectivamente
+[00:57:42] para la distribución de energía
+[00:57:44] eléctrica y la toma de posesión se
+[00:57:46] produjo el 2 de junio de 1997, de ahí
+[00:57:49] contar 95 años eh es el plazo de la
+[00:57:53] concesión. Mientras que Nedelap, que
+[00:57:55] tuvo un contrato de concesión nacional y
+[00:57:57] eso no se modificó hasta la fecha cuando
+[00:57:59] transfere transfiere a la provincia de
+[00:58:01] Buenos Aires, comienza a correr a partir
+[00:58:04] de diciembre de 1992, también por 95
+[00:58:07] años y en ambos casos hay una especie de
+[00:58:10] prórroga que se habilita dentro de los
+[00:58:12] contratos por un máximo de 10 años, o
+[00:58:14] sea, 95 + 10 de de prórroga, estamos
+[00:58:17] hablando de un plazo de concesión de 105
+[00:58:20] años
+[00:58:21] eterno, básicamente. Mientras que en los
+[00:58:24] contratos de concesión municipal, como
+[00:58:26] estuvimos viendo en otras clases, el
+[00:58:29] primer contrato o el contrato originario
+[00:58:31] era de 25 años con dos prórrogas de 30
+[00:58:34] años cada uno. Estos modelos de
+[00:58:37] contrato, tanto de concesión provincial
+[00:58:38] como concesión municipal son los que se
+[00:58:41] aprobaron dentro del contrato dentro,
+[00:58:43] perdón, del decreto 107 del 97 que PTO
+[00:58:48] les mencionaba en la primer filmina
+[00:58:50] cuando hablábamos de la normativa
+[00:58:52] aplicable.
+[00:58:54] Eh, con el contrato de concesión
+[00:58:55] provincial eh no tuvo una fecha de
+[00:58:58] inicio del mismo modo que podemos hablar
+[00:59:00] de las concesiones provinciales. ¿Por
+[00:59:02] qué? Porque cada uno de estos contratos
+[00:59:04] requería la obtención por cada una de
+[00:59:07] las distribuidoras municipales de la
+[00:59:09] licencia técnica, proceso que llevó
+[00:59:11] adelante el EPRE, el ente provincial
+[00:59:14] regulador de la energía e durante el año
+[00:59:18] 97 98. A medida que iban otorgando esas
+[00:59:22] licencias técnicas, cada uno de las
+[00:59:24] cooperativas, cada uno de los
+[00:59:26] distribuidores municipales obtuvo su
+[00:59:28] contrato de concesión municipal.
+[00:59:31] Entonces, esos 25 años vencieron en el
+[00:59:34] 22, 23, 24
+[00:59:36] aproximadamente, motivo por el cual se
+[00:59:39] hizo, como también les venimos contando
+[00:59:41] de otras clases, a través de la
+[00:59:43] resolución 600 del 2022, el proceso de
+[00:59:46] renovación de las licencias técnicas.
+[00:59:49] Eh, de las 200 cooperativas, hay 190 que
+[00:59:52] ya obtuvieron su licencia técnica y ya
+[00:59:55] eh están la muchas de ellas con los
+[00:59:59] municipios trabajando en la prórroga de
+[01:00:01] estos contratos de concesión, en esta
+[01:00:02] prórroga de los primeros 30 años. Sí,
+[01:00:06] pero tiene esta connotación o esta
+[01:00:07] diferencia. No obstante eso, estos
+[01:00:10] plazos, estas prórrogas,
+[01:00:13] el periodo de gestión aplica tanto a las
+[01:00:16] concesiones provinciales como a las
+[01:00:17] concesiones municipales. Son los
+[01:00:19] periodos en los que se divide ese
+[01:00:22] extensísimo plazo de concesión. En la
+[01:00:25] redacción original de los contratos en
+[01:00:28] este modelo aprobado por el decreto 107
+[01:00:31] del 97 para las provinciales, como tenía
+[01:00:34] un plazo de 95 años, tenía nueve
+[01:00:37] periodos de gestión. Mientras que
+[01:00:39] mientras que para las municipales 25 + 2
+[01:00:41] de 30 suman 85, eran ocho plazos de
+[01:00:44] gestión. El primero de 15 se suponía que
+[01:00:48] todos debíamos tener, digamos, esa misma
+[01:00:51] sincronicidad, tanto el provincial como
+[01:00:53] el municipal, el primer periodo eh de
+[01:00:55] gestión de 15 años y los restantes de
+[01:00:58] 10.
+[01:01:01] Ahora bien, ¿qué pasó con estos periodos
+[01:01:03] de gestión? Estamos hablando que el
+[01:01:06] periodo o la toma de posesión se produjo
+[01:01:07] el primero de julio del 97. Entonces, el
+[01:01:11] primer periodo de gestión, 15 años,
+[01:01:13] vencía en el año 2012.
+[01:01:16] Aquí esto que contaba eh Pato hace un
+[01:01:20] rato,
+[01:01:22] en el 97, primer cuadro tarifario,
+[01:01:25] primer periodo de gestión en curso,
+[01:01:29] aparecen las primeras leyes de
+[01:01:30] emergencia en el año 2001, aparece eh la
+[01:01:34] salida de la convertibilidad,
+[01:01:37] eh la especificación de las tarifas,
+[01:01:39] entonces
+[01:01:41] aparece, digamos, el primer quiebre en
+[01:01:44] las condiciones originarias del contrato
+[01:01:48] eh y el vencimiento del periodo de
+[01:01:50] gestión. Si bien se habían firmado los
+[01:01:52] protocolos de entendimiento en el 2005,
+[01:01:54] se habían aprobado en el 2006 las
+[01:01:56] adendas de adecuación y se decía que
+[01:01:58] iban a perdurar con este equilibrio
+[01:02:00] básico, equilibrio objetivo, hasta tanto
+[01:02:03] se implementara una revisión tarifaria
+[01:02:06] integral. Esa situación no se dio sino
+[01:02:10] hasta el 2017 con la primera y única
+[01:02:13] revisión tarifaria integral que tenemos
+[01:02:15] en nuestro haber eh provincial, el
+[01:02:18] periodo de gestión, cómo podía darse si
+[01:02:21] no se daba esa primera eh revisión
+[01:02:24] tarifaria integral. Entonces sale esta
+[01:02:26] primera resolución 397
+[01:02:29] del 2012 que dice que esta este primer
+[01:02:32] vencimiento del primer periodo de
+[01:02:34] gestión no se da se suspende hasta la
+[01:02:37] implementación de la revisión tarifaria
+[01:02:39] integral.
+[01:02:41] Revisión tarifaria integral, como les
+[01:02:43] decíamos antes, que se aprueba por la
+[01:02:45] cuatro por la resolución 419 de 2017.
+[01:02:51] Esa resolución dice, bueno, se
+[01:02:53] implementa esta nueva revisión tarifaria
+[01:02:56] integral destinada, como veíamos antes,
+[01:02:58] con los principios tarifarios a durar un
+[01:03:01] quinqueño, motivo por el cual al
+[01:03:04] finalizar ese quinqueño de esa revisión
+[01:03:06] tarifaria integral eh integral, bien
+[01:03:09] digo, el primer periodo de gestión de
+[01:03:12] los contratos de LAAP, EDEA, EDES y
+[01:03:16] Eden eh como así también los contratos
+[01:03:19] de concesión municipal está destinada a
+[01:03:22] aplicarse a partir del vencimiento de
+[01:03:25] esa RTI. Entonces, se vuelve a suspender
+[01:03:28] hasta el vencimiento de esta eh
+[01:03:30] implementación de esta RTI. Obviamente
+[01:03:33] venció en mayo del 2022. ¿Qué pasó en el
+[01:03:37] medio? Nuevamente, como dijimos antes,
+[01:03:40] las leyes de emergencia,
+[01:03:42] el congelamiento tarifario, la ley
+[01:03:44] 15165,
+[01:03:46] el inicio de la etapa de transición
+[01:03:48] tarifaria. Entonces, nuevamente
+[01:03:52] se posterga este instituto de el periodo
+[01:03:56] de gestión. Ahí tenemos la resolución
+[01:03:59] 477,
+[01:04:00] artículo 59 que dice, vuelve a postergar
+[01:04:05] el vencimiento de este primer periodo de
+[01:04:07] gestión postergado en el 2012,
+[01:04:10] postergado en el 17 y vuelto a postergar
+[01:04:12] con esta resolución en el 2023 hasta la
+[01:04:16] finalización del quinquenio derivado de
+[01:04:18] la próxima revisión tarifar integral.
+[01:04:21] revisión tarifaria integral, como
+[01:04:22] también repetimos varias veces, que se
+[01:04:24] implementó o que comenzó a trabajarse a
+[01:04:27] través de la resolución 1133 del 2024.
+[01:04:31] Es decir,
+[01:04:33] estamos en este proceso.
+[01:04:35] Eh, como se dijo en varias
+[01:04:38] oportunidades, la idea es terminarlo a
+[01:04:40] fin de este año, cosa que en el 2027
+[01:04:44] esté implementado este nuevo eh esta
+[01:04:47] nueva revisión tarifaria integral
+[01:04:49] destinada a vivir durante 5 años. Nadie
+[01:04:53] sabe si eso va a suceder de esa manera o
+[01:04:56] no. Pero entonces el periodo de gestión
+[01:05:00] vencería. El primer bendito primer
+[01:05:02] periodo de gestión va a vencer si
+[01:05:05] arranca en el 2027 + 5 en el 2032. Ahí
+[01:05:09] estaríamos con el vencimiento del primer
+[01:05:12] periodo de gestión si no sucede nada en
+[01:05:14] el medio, ¿no? Al menos hasta hoy
+[01:05:17] normativamente esa es la idea. Entonces,
+[01:05:20] primer periodo de gestión se fue
+[01:05:22] postergando eternamente, ya llegamos a
+[01:05:26] los 30 años de concesión el año que
+[01:05:28] viene. Y fíjense que el año que viene
+[01:05:29] vamos a ya está dicho en la norma, ¿no?
+[01:05:33] Eh, que se va a vencer a los 5 años al
+[01:05:35] vencimiento de la próxima revisión
+[01:05:37] tarifaria integral. Es decir, que casi
+[01:05:39] 35 años y el primer periodo de gestión
+[01:05:42] que iba a suceder o iba a vencer a los
+[01:05:43] 15 se aplicaría, si todo sucede
+[01:05:46] normalmente, a los 35.
+[01:05:50] E
+[01:05:54] ahora, ¿qué es lo que establece la
+[01:05:56] norma, el contrato, perdón, el contrato
+[01:05:59] de concesión como procedimiento para
+[01:06:01] este periodo de gestión? Como les digo,
+[01:06:03] nunca se dio. Esto es lo que dice eh lo
+[01:06:06] que dicen ambos contratos de concesión.
+[01:06:10] Eh entendemos que hay algunas
+[01:06:12] particularidades de las que se
+[01:06:13] establecen acá que cuanto menos no
+[01:06:16] aplican. Así que desde ya se los digo de
+[01:06:20] esa manera. Respecto de las concesiones
+[01:06:23] provinciales, con una antelación de 6
+[01:06:25] meses al vencimiento del periodo de
+[01:06:27] gestión, supongan supónganse que es
+[01:06:29] mayo, abril del 2032.
+[01:06:32] 6 meses antes, en el 2031, vamos a estar
+[01:06:35] la autoridad de aplicación. La autoridad
+[01:06:37] de aplicación, recordemos que está
+[01:06:39] delegada en el Ministerio de
+[01:06:39] Infraestructura de la provincia de
+[01:06:41] Buenos Aires por el marco regulatorio.
+[01:06:43] La autoridad de aplicación tiene que
+[01:06:45] llamar a una licitación pública nacional
+[01:06:47] o internacional para la venta de las
+[01:06:49] acciones clase A. Así establece eh el
+[01:06:53] contrato de concesión. Mientras
+[01:06:54] provincial, mientras que el municipal
+[01:06:57] dice que con antelación de los mismos 6
+[01:06:59] meses
+[01:07:01] al vencimiento del cada periodo de
+[01:07:02] gestión, la municipalidad es quien llama
+[01:07:06] a concurso público para la venta de la
+[01:07:09] concesión.
+[01:07:10] Primera eh
+[01:07:13] cuestión disparatada, cuanto menos.
+[01:07:17] Eh, la concesión no se puede vender. La
+[01:07:19] concesión es el título habilitante que
+[01:07:22] una distribuidora municipal o una
+[01:07:23] distribuidora provincial tiene para
+[01:07:25] poder prestar el servicio público de
+[01:07:27] distribución de energía eléctrica.
+[01:07:29] Entonces, lo que podría venderse en todo
+[01:07:31] caso serían los activos, me refiero a
+[01:07:36] las municipales. Los activos son de los
+[01:07:40] socios. ¿Sí? Entonces ahí es la primera
+[01:07:43] cosa que digo yo. Este contrato
+[01:07:45] redactado, cuyo modelo se aprobó en el
+[01:07:47] decreto 107,
+[01:07:50] no sé cómo podríamos llegar a aplicarlo.
+[01:07:53] Este, algunos dicen que, digamos, el
+[01:07:55] periodo de gestión en las concesiones
+[01:07:56] municipales no aplica.
+[01:08:00] Otros dicen o interpretan que nada, está
+[01:08:03] escrito, es parte del contrato y es un
+[01:08:05] mecanismo precisamente para que estos
+[01:08:07] contratos de tan largo plazo, si vienen
+[01:08:09] las concesiones municipales tiene 25,
+[01:08:11] dos prórrogas de 30, por ahí está un
+[01:08:13] poquito más limitado, pueda revisarse.
+[01:08:17] Otra de las cosas y que me viene ahora a
+[01:08:18] la memoria
+[01:08:21] de estas prórrogas de los vencimientos
+[01:08:23] de los periodos de concesión,
+[01:08:26] al momento de renovar las licencias
+[01:08:28] técnicas, muchos distribuidores
+[01:08:29] municipales consideraban que el
+[01:08:31] vencimiento del periodo de gestión
+[01:08:33] suspendía o interrumpía el plazo
+[01:08:36] originario de su contrato.
+[01:08:39] Mucho no tiene que ver y así se ha
+[01:08:42] dicho, se ha interpretado y se ha
+[01:08:43] comunicado tanto las cooperativas como
+[01:08:46] los municipios.
+[01:08:47] que se haya prorrogado el vencimiento
+[01:08:50] del primer periodo de gestión no
+[01:08:52] interrumpió y no porque si no,
+[01:08:54] imagínense que no hubiéramos tenido
+[01:08:56] concesión vigente porque está
+[01:08:57] interrumpido, suspendido desde el año
+[01:08:59] 2012, estamos en el 26, hace 14 años que
+[01:09:03] ese plazo estaba interrumpido, casi más
+[01:09:05] plazo de concesión transcurriendo
+[01:09:09] eh en forma interrumpida versus un plazo
+[01:09:12] de concesión que sí corrió. Así que
+[01:09:15] digamos una una un comentario al margen,
+[01:09:19] motivo por el cual los plazos de
+[01:09:20] concesión siguen corriendo tanto para
+[01:09:22] las municipales como para las
+[01:09:24] provinciales, independientemente que el
+[01:09:26] primer vencimiento del periodo de
+[01:09:28] gestión no se haya aplicado.
+[01:09:33] Ahora, ¿qué dicen ambos contratos de
+[01:09:36] concesión en cuanto a qué sucede cuando
+[01:09:39] hay que llamar tanto a una licitación
+[01:09:42] nacional o internacional para la venta
+[01:09:44] de las de las acciones clase A en el
+[01:09:46] caso de las concesiones provinciales o
+[01:09:49] llamar a un concurso en el caso de los
+[01:09:52] municipios? ¿Qué tengo que poner a
+[01:09:54] consideración
+[01:09:56] en ese proceso o concurso? Sí o sí
+[01:09:59] necesito dar a conocer el régimen
+[01:10:01] tarifario, el procedimiento para la
+[01:10:04] determinación y ajuste de los cuadros
+[01:10:06] tarifarios, un cuadro tarifario inicial
+[01:10:08] destinado a vivir el quinqueño, el
+[01:10:11] próximo quinqueño, las normas de calidad
+[01:10:14] del servicio, cuáles son las sanciones
+[01:10:16] que se aplica o las penalizaciones que
+[01:10:18] se van a aplicar por incumplimiento a
+[01:10:20] esas normas de calidad, el reglamento de
+[01:10:22] suministro y conexión, es decir, ¿qué
+[01:10:25] implica esta listita? todos los suanexos
+[01:10:28] al contrato de la al e precisamente.
+[01:10:33] Entonces, eso es lo que yo necesito para
+[01:10:36] hacer un llamado a concurso, a
+[01:10:38] licitación para la venta de las acciones
+[01:10:41] clase A o a concurso público en el caso
+[01:10:44] de los municipios. Ahora bien, un
+[01:10:46] detalle y que era esto que yo les decía
+[01:10:48] un poco impracticable.
+[01:10:51] En el caso del contrato de concesión
+[01:10:52] municipal, el artículo 7 dice que el
+[01:10:56] municipio es quien va a establecer en el
+[01:10:58] llamado concurso todas estas cuestiones.
+[01:11:01] Impracticable, básicamente porque el
+[01:11:03] municipio delegó en la provincia de
+[01:11:06] Buenos Aires la potestad regulatoria, la
+[01:11:09] potestad de control. Entonces, ¿quién va
+[01:11:12] a ser, digamos, y bajo los principios
+[01:11:15] que mantiene el marco regulatorio, no
+[01:11:17] podríamos tener un régimen tarifario
+[01:11:19] diferente para cada una de las
+[01:11:20] cooperativas, este, un reglamento o la
+[01:11:24] determinación del cuadro o de los
+[01:11:25] ajustes o las normas de calidad
+[01:11:27] diferencial? ¿Sí? Entonces, esta
+[01:11:29] partecita del artículo 7 del contrato de
+[01:11:32] concesión municipal básicamente es
+[01:11:34] impracticable. Esto necesariamente va a
+[01:11:37] ser determinado por la autoridad de
+[01:11:39] aplicación provincial, el Ministerio de
+[01:11:40] Infraestructura y va a ser común para el
+[01:11:43] proceso licitatorio que puedan llevar
+[01:11:45] adelante para eh la venta de las
+[01:11:47] acciones clase A en las concesiones
+[01:11:49] provinciales como para este los
+[01:11:52] concursos que pudieran llevar adelante
+[01:11:54] los municipios eh precisamente para
+[01:11:57] lograr una modificación en la concesión
+[01:11:59] municipal.
+[01:12:02] ¿Qué se revisa en el periodo de
+[01:12:05] gestión?
+[01:12:07] ¿Se acuerdan que vimos cuando estaba la
+[01:12:11] clase del contrato de concesión,
+[01:12:13] el derecho a la exclusividad?
+[01:12:16] El derecho a la exclusividad es la
+[01:12:18] principal o la esencia de la concesión
+[01:12:22] de distribución del servicio público,
+[01:12:24] donde la concesión implica el derecho a
+[01:12:27] la prestación en forma exclusiva dentro
+[01:12:30] de todo el área de concesión.
+[01:12:32] Eh, este derecho a la exclusividad
+[01:12:35] también habíamos visto que se podía
+[01:12:36] modificar cuando este actualizaciones
+[01:12:39] tecnológicas o mejoras en la calidad la
+[01:12:43] la forma de prestar el servicio público
+[01:12:44] de distribución pudieran digamos
+[01:12:47] sobrevenir eh en el devenir del plazo de
+[01:12:50] la concesión. Entonces, ¿en qué momento
+[01:12:52] se puede revisar esta exclusividad
+[01:12:54] zonal? Únicamente en el vencimiento del
+[01:12:57] periodo de gestión. ¿Por qué? porque
+[01:12:59] puede reducir estas innovaciones
+[01:13:01] tecnológicas podrían reducir el área de
+[01:13:05] concesión. También vimos que eh uno y
+[01:13:08] que lo repetimos, creo yo, 50 veces, una
+[01:13:12] de las principales este condiciones de
+[01:13:15] la de la prestación de la concesión del
+[01:13:18] servicio público es eh abastecer toda la
+[01:13:21] demanda. Entonces, esa condición o
+[01:13:25] obligación de distribución del
+[01:13:27] distribuidor de abastecer toda la
+[01:13:29] demanda es en exclusividad dentro del
+[01:13:32] área. Entonces, si yo modifico esta
+[01:13:35] condición de exclusividad por los
+[01:13:37] avances tecnológicos, obviamente dentro
+[01:13:40] de la revisión del periodo de gestión,
+[01:13:43] puedo llegar a modificar la obligación
+[01:13:46] de abastecimiento del distribuidor,
+[01:13:48] porque precisamente si voy a modificar
+[01:13:49] el área o se puede, no podría llegar a
+[01:13:52] modificarse el área, obviamente se va a
+[01:13:54] modificar o esta obligación de atender
+[01:13:56] toda la demanda quedaría impactada por
+[01:13:59] esa modificación.
+[01:14:01] Entonces, también, como dijimos antes y
+[01:14:04] la condición sinecuan para llamar y
+[01:14:07] abrir a licitación y para que los
+[01:14:08] oferentes eh se presenten en ese proceso
+[01:14:12] a querer ofertar, tienen que conocer
+[01:14:15] cuáles son las condiciones de prestación
+[01:14:17] para el próximo quinqueño, cuál es la
+[01:14:20] obligación de inversión, cuál es la
+[01:14:21] obligación de calidad, cuál es la
+[01:14:22] obligación de prestación del servicio y
+[01:14:24] obviamente acompasadamente el régimen
+[01:14:27] tarifario que va a poder remunerar todas
+[01:14:30] esas las obligaciones a cargo del
+[01:14:32] distribuidor. Es por eso que se revisan
+[01:14:33] todos los subanexos y se exponen ahí en
+[01:14:36] esa proceso licitatorio.
+[01:14:39] Dicho esto, en consecuencia, no queda
+[01:14:41] más que o no quedaría más que llamar a
+[01:14:43] licitación o a concurso.
+[01:14:46] ¿Qué otras condiciones establecen estos
+[01:14:49] artículos que, como les digo, nunca
+[01:14:51] sucedieron?
+[01:14:52] Dicen que el pliego a utilizar tanto por
+[01:14:56] la autoridad de aplicación para la venta
+[01:14:57] de las acciones clase A para las para
+[01:15:00] las concesionarias provinciales como
+[01:15:03] para los concursos municipales, deben
+[01:15:05] tener un pliego que reúna
+[01:15:08] características similares a las que se
+[01:15:11] utilizaron y se aprobaron por este
+[01:15:14] decreto 107 del año 97. Ese pliego fue
+[01:15:18] el que se utilizó para el llamado a
+[01:15:21] privatización.
+[01:15:22] a la venta de las acciones en aquel
+[01:15:25] momento, a todas las acciones clase A, B
+[01:15:28] y C de las unidades de negocio, tanto
+[01:15:31] Edén, Ed, Edea, Central Piedra Buena
+[01:15:35] Vahía Blanca, Centrales de la Costa, Mar
+[01:15:38] del Plata, Mar dejó, Necochea y Villesel
+[01:15:41] y Transba. Sí, lo que hoy es Trasba.
+[01:15:46] Eh, entonces solicita o entiende que
+[01:15:50] debe utilizarse condiciones similares,
+[01:15:52] obviamente no van a ser las mismas, pero
+[01:15:54] condiciones similares a las de ese
+[01:15:56] pliego.
+[01:15:58] tendientes asegurar y acá están
+[01:16:00] establecidos un poco las condiciones,
+[01:16:03] obviamente la máxima transparencia como
+[01:16:05] todo proceso licitatorio, la mayor
+[01:16:08] cantidad de oferentes posibles, la mayor
+[01:16:11] publicidad eh tanto nacional o
+[01:16:14] internacional en medios eh de
+[01:16:17] comunicación como para que esto pueda
+[01:16:20] tener, como insisto, la mayor este
+[01:16:22] cantidad de oferentes posible.
+[01:16:25] Eh, allí en el en el pliego se
+[01:16:27] establecían las condiciones,
+[01:16:30] las exigencias que cada uno de los
+[01:16:32] oferentes debería reunir para poder
+[01:16:34] presentarse, haciendo esto a la
+[01:16:36] experiencia técnica, al knohow, eh en
+[01:16:40] aspectos operativos, todos los
+[01:16:42] antecedentes técnicos, económicos,
+[01:16:44] financieros para poder prestar el
+[01:16:46] servicio público de distribución de
+[01:16:47] energía eh con un determinado exigencia
+[01:16:51] mínima de activos totales de patrimonio
+[01:16:54] neto y lo que dice obviamente va a ser
+[01:16:56] actualizado en función del crecimiento
+[01:16:58] vegetativo. Imagínense un pliego del año
+[01:17:02] 1997
+[01:17:05] este donde estábamos en una etapa de
+[01:17:07] convertibilidad un peso. Obviamente eso
+[01:17:10] al momento de llamarse a estos concursos
+[01:17:12] o licitación debe ser absolutamente y
+[01:17:14] exhaustivamente actualizado.
+[01:17:17] También dice por ahí que debe este la
+[01:17:20] provincia, la autoridad de aplicación
+[01:17:22] puede este contratar a un consultor para
+[01:17:25] que lleve adelante el proceso y colabore
+[01:17:27] con la administración como para poder
+[01:17:30] hacer esta este nuevo proceso
+[01:17:32] licitatorio.
+[01:17:35] Eh, también y como una condición
+[01:17:37] esencial, porque ya tenemos un
+[01:17:39] concesionario de distribución de energía
+[01:17:42] eléctrica, tanto a nivel provincial como
+[01:17:45] a nivel municipal.
+[01:17:47] ese actual concesionario puede y debe
+[01:17:51] puede y debe presentarse en este
+[01:17:53] proceso.
+[01:17:55] Entonces, este pliego va a determinar en
+[01:17:57] qué momento el actual eh titular de la
+[01:18:01] concesión de distribución va a presentar
+[01:18:03] su oferta económica eh dentro del
+[01:18:06] proceso. Obviamente, y acá voy a
+[01:18:09] distinguir en el caso de las concesiones
+[01:18:13] provinciales,
+[01:18:15] el titular de las acciones clase A tiene
+[01:18:17] derecho a presentar en sobreerrado el
+[01:18:20] precio en el que evalúa esas acciones,
+[01:18:23] obviamente en función de dos
+[01:18:26] pensamientos. Una es en que quiero
+[01:18:29] continuar prestando el servicio público,
+[01:18:31] entonces debo hacerlo bien eh
+[01:18:35] considerando esa situación como para
+[01:18:37] ganar dentro de ese proceso y el momento
+[01:18:40] en que puedo retirarme de la concesión
+[01:18:43] de servicio público.
+[01:18:45] Ese sobre cerrado que presente el actual
+[01:18:49] titular de las acciones clase A debe ser
+[01:18:52] abierto en forma simultánea con el resto
+[01:18:55] de las ofertas económicas. presentadas
+[01:18:58] dentro de la licitación.
+[01:19:00] Por otro lado, también se establece en
+[01:19:02] el contrato de concesión que si no se
+[01:19:04] presenta ese sobrecerrado, eso no opta a
+[01:19:07] que de todos modos se proceda a la venta
+[01:19:11] de las acciones clase A y en ese caso
+[01:19:15] este precio que el oferente, el actual
+[01:19:17] prestador no presenta, va a recibir un
+[01:19:21] 20%
+[01:19:23] menos
+[01:19:24] a de la oferta de la mejor oferta que se
+[01:19:27] reciba en el proceso licitatorio.
+[01:19:30] Eh, obviamente el concesionario no puede
+[01:19:34] ejercer este derecho si la licitación es
+[01:19:36] consecuencia de un incumplimiento a sus
+[01:19:38] obligaciones. Sí. no en el procedimiento
+[01:19:41] ordinario de una nueva
+[01:19:43] de un vencimiento de periodo de gestión,
+[01:19:45] sino que se relicita y que también lo
+[01:19:48] vimos en el caso de que hubiera
+[01:19:50] incumplimientos por parte del
+[01:19:51] concesionario donde eh una de las
+[01:19:54] consecuencias era la realicitación del
+[01:19:56] proceso. Entonces, en ese caso, el
+[01:19:59] concesionario incumplidor o este el cual
+[01:20:03] no puede continuar prestando el
+[01:20:05] servicio, obviamente no va a poder
+[01:20:07] presentar su sobres cerrado en este
+[01:20:09] proceso de venta de acciones. En el caso
+[01:20:12] de las distribuidoras municipales,
+[01:20:14] obviamente el titular de la concesión
+[01:20:16] tiene derecho a presentar el mismo sobre
+[01:20:18] en el que evalúa y en este caso no
+[01:20:20] evalúa o no este
+[01:20:24] presenta una evaluación de las acciones
+[01:20:27] porque las concesionarias municipales no
+[01:20:29] tienen acciones, están configuradas o
+[01:20:32] constituidas bajo la figura de las
+[01:20:34] cooperativas, el marco regulatorio. ¿Se
+[01:20:37] acuerdan que veíamos que el servicio de
+[01:20:39] distribución como el transporte eh debe
+[01:20:42] ser prestado bajo la forma de sociedad
+[01:20:44] anónima, las concesiones provinciales
+[01:20:46] deben ser prestadas bajo la figura de la
+[01:20:48] sociedad anónima? En el caso de la
+[01:20:50] distribución eh municipal puede ser
+[01:20:52] prestado y especialmente reconocido por
+[01:20:55] el marco regulatorio en el artículo 20
+[01:20:57] por las cooperativas. Las cooperativas
+[01:20:59] no tienen una conformación este con
+[01:21:03] acciones, motivo por el cual no tienen
+[01:21:06] modo de valuar las acciones clase A y
+[01:21:09] ahí es donde está la diferencia.
+[01:21:10] Entonces la concesionaria municipal que
+[01:21:12] quiere quedarse prestando el servicio va
+[01:21:15] a evaluar la concesión para los próximos
+[01:21:18] 10 años siguientes de prestación.
+[01:21:21] Obviamente, en el mismo momento va a
+[01:21:23] presentar el sobre cerrado y va a ser
+[01:21:25] abierto junto con el resto de los
+[01:21:27] oferentes que se presentaron en ese
+[01:21:29] concurso público abierto por el
+[01:21:32] municipio. Si la concesionaria municipal
+[01:21:34] no presenta el sobre, del mismo modo, la
+[01:21:37] misma consideración que se hizo para las
+[01:21:38] provinciales no obstaculiza a que el
+[01:21:42] concurso público continúe adelante y
+[01:21:45] obviamente tampoco va a poder presentar
+[01:21:47] el sobre cerrado con la evaluación de la
+[01:21:50] concesión.
+[01:21:51] Sí, es consecuencia este concurso de los
+[01:21:54] incumplimientos que ameriten este el
+[01:21:58] rescate de la concesión de distribución
+[01:22:00] del servicio público.
+[01:22:03] Ahora bien, ¿qué establece y cómo vamos
+[01:22:06] con la hora? Amos bien.
+[01:22:08] ¿Qué establece si como consecuencia
+[01:22:11] tanto para las provinciales como para
+[01:22:13] las municipales, si como consecuencia de
+[01:22:16] esa oferta, la oferta de quien está
+[01:22:19] prestando actualmente el servicio
+[01:22:20] público a nivel provincial o a nivel
+[01:22:22] municipal fuera igual o mayor a la
+[01:22:24] oferta económica presentada por el resto
+[01:22:26] de los oferentes, ese titular de las
+[01:22:28] acciones clase A o ese actual
+[01:22:30] concesionario municipal va a conservar
+[01:22:34] este la prestación del servicio público
+[01:22:37] y ahí Los contratos dicen que van a
+[01:22:39] acumular las sanciones que se aplicaron
+[01:22:42] en su anexo de durante el periodo de
+[01:22:45] gestión que termina más las primeras del
+[01:22:48] primer periodo de gestión. Suena raro
+[01:22:50] porque teóricamente debería resolverse
+[01:22:52] al momento de del periodo de gestión,
+[01:22:54] pero bueno, yo lo traigo porque así lo
+[01:22:56] dice la normativa.
+[01:23:00] Eh, insisto, esto no se dio y veremos
+[01:23:03] cuando se dé de qué manera. Así. Esto es
+[01:23:05] lo que establece ambos contratos. Ahora
+[01:23:08] bien, si la oferta que presente tanto el
+[01:23:12] titular de las acciones clase A de una
+[01:23:14] distribuidora provincial como el
+[01:23:16] concesionario municipal fuere menor a la
+[01:23:19] oferta que se reciba en esos concursos o
+[01:23:22] en esa licitación,
+[01:23:24] en el caso de las acciones clase A o de
+[01:23:26] la concesión municipal se van a
+[01:23:28] adjudicar al nuevo oferente. Sí,
+[01:23:32] veíamos que hubo sobre todo en las este
+[01:23:36] provinciales hubo venta de activos. Los
+[01:23:40] activos que eran de ese de la empresa
+[01:23:42] social de energía eléctrica, se
+[01:23:44] vendieron al distribuidor, se vendieron
+[01:23:47] al transportista, se vendieron a eh
+[01:23:49] quien resultó adjudicatario de la
+[01:23:51] central Piedrabuena, no de la de
+[01:23:55] centrales de la costa, hoy Baesa, Buenos
+[01:23:58] Aires Energía. Eh,
+[01:24:01] como hubo venta de activos, esta oferta
+[01:24:04] que se recibe dentro de este proceso de
+[01:24:07] licitación,
+[01:24:09] eh, se cancela el precio ofertado por el
+[01:24:14] titular de las acciones clase A,
+[01:24:15] digamos, el actual o el concesionario
+[01:24:18] municipal. Con esa oferta, con esa
+[01:24:22] sobreserrado, ese monto allí indicado,
+[01:24:24] se va a cancelar eh ese precio de los
+[01:24:28] activos. y el resto va a pasar a libre
+[01:24:31] disponibilidad del concedente. Ese
+[01:24:34] precio establece el los contratos, ambos
+[01:24:37] deberá ser cancelado por el concedente
+[01:24:39] dentro de los 30 días de haber sido
+[01:24:41] percibido por el nuevo este
+[01:24:44] adjudicatario en estos procesos.
+[01:24:50] E
+[01:24:52] acá sí es diferente en el contrato de
+[01:24:54] concesión provincial.
+[01:24:57] El adquirente este de las acciones clase
+[01:25:00] A originariamente en el año 97 otorga
+[01:25:03] mandato al concedente. Se acuerdan que
+[01:25:05] también una de las garantías otorgadas
+[01:25:08] en estos contratos de concesión fue que
+[01:25:10] el 51% de las acciones que son clase A
+[01:25:13] están prendadas en favor del concedente.
+[01:25:15] ¿Sí? Entonces, cuando se estableció esa
+[01:25:18] prenda en favor del concedente de ese
+[01:25:20] 51% de acciones clase A como
+[01:25:22] contragarantía, digamos, porque el
+[01:25:24] Estado Provincial está delegando la
+[01:25:26] prestación de un servicio público en el
+[01:25:28] sector privado. Eh, este titular o este
+[01:25:32] adquirente de las acciones clase A
+[01:25:34] otorga un mandato al concedente para
+[01:25:37] poder vender las acciones clase A, ¿sí?
+[01:25:39] Eh, no solamente en el periodo de
+[01:25:42] gestión, sino en caso de incumplimiento
+[01:25:44] o que la concesión a lo largo del tiempo
+[01:25:47] deba ejecutarse esas acciones clase A,
+[01:25:49] se otorga este mandato. Este mandato
+[01:25:52] rige para todos los periodos de gestión
+[01:25:54] en que el mismo titular de las acciones
+[01:25:56] se mantenga en el tiempo y y a su vez en
+[01:25:59] el caso de un vencimiento de periodo de
+[01:26:01] gestión, este mandato hace que pueda el
+[01:26:05] concedente dar instrucciones a los
+[01:26:07] directores titulares de esas acciones
+[01:26:09] clase A, pueda removerlos o puedan
+[01:26:12] nombrar a nuevos eh directores hasta
+[01:26:15] tanto se termine el proceso licitatorio
+[01:26:18] y se continúe con el mismo concesion
+[01:26:22] si su oferta fue igual o mayor o se
+[01:26:25] entregue al nuevo concesionario.
+[01:26:28] Eh, también el titular de las acciones
+[01:26:32] clase A conserva, como decíamos antes,
+[01:26:34] la posibilidad en este periodo de
+[01:26:36] gestión,
+[01:26:37] digamos, salirse o retirarse de la
+[01:26:40] prestación si es que así resulta de su
+[01:26:43] conveniencia.
+[01:26:45] Otra de las figuras, y acá voy bien
+[01:26:47] rápido, es el vedor, artículo 12. En
+[01:26:49] ambos contratos se puede designar un
+[01:26:51] vedor 12 meses, seis, perdón, eh dos un
+[01:26:55] año antes del vencimiento del periodo de
+[01:26:57] gestión y hasta 6 meses después de la
+[01:26:59] toma de posesión. En el caso del
+[01:27:01] contrato de delap, que es nacional y que
+[01:27:03] no es exactamente igual al provincial ni
+[01:27:06] al municipal, eh dice que un año antes y
+[01:27:09] un año después. La función del vedor es
+[01:27:11] asegurar que en el concurso se cuente
+[01:27:13] con toda la información específicamente
+[01:27:16] este para poder hacer ese proceso
+[01:27:18] licitatorio de acciones clase A o
+[01:27:19] concurso a nivel municipal.
+[01:27:22] Eh, este vedor
+[01:27:25] se produjo, se dio y acá tenemos un
+[01:27:28] caso, digamos, como real. Eh, recuerden
+[01:27:33] que con la resolución 419 se había dicho
+[01:27:36] que el vencimiento del periodo de
+[01:27:37] gestión al finalizar la revisión
+[01:27:39] tarifaria integral se iba a dar eh al
+[01:27:41] vencimiento de ese de esa revisión
+[01:27:43] tarifaria integral. Arrancó en mayo del
+[01:27:45] 17, 5 años, mayo del 22 se vencía el
+[01:27:49] primer eh periodo de gestión. Entonces,
+[01:27:52] un año antes o menos de un año antes se
+[01:27:54] designó un Vedor para desempeñarse en
+[01:27:56] EDLAP, EDN, Eda y EDES eh para realizar
+[01:28:00] precisamente las investigaciones,
+[01:28:02] solicitar informaciones y cumplir todo
+[01:28:04] lo que decía el artículo 12.
+[01:28:07] Precisamente el fundamento, como dice
+[01:28:08] ahí, era esto, el vencimiento del
+[01:28:10] periodo de gestión en mayo del 2022.
+[01:28:13] Como vimos con la resolución 477 se
+[01:28:16] posterga
+[01:28:18] el vencimiento del primer periodo de
+[01:28:20] gestión, motivo por el cual hasta el
+[01:28:22] vencimiento de la RTI producto de la que
+[01:28:25] estamos transitando y que todavía no
+[01:28:27] comenzó a regir. Entonces se deja sin
+[01:28:30] efecto esta designación del vedor por el
+[01:28:32] artículo 60 de la resolución 477 y se
+[01:28:35] posterga la revisión tarifaria integral,
+[01:28:37] digamos que la consecuencia o digamos el
+[01:28:39] espejo de eh necesariamente si postergo
+[01:28:43] la RTI hasta el la finalización del
+[01:28:46] próximo quinqueño derivado de la RTI, no
+[01:28:48] tenía razón de ser la existencia del
+[01:28:50] vedor. Así que es ahí donde precisamente
+[01:28:54] eh se deja sin efecto.
+[01:28:57] Bueno, no sé si tienen preguntas,
+[01:28:59] consultas,
+[01:29:01] eh, estamos para hacer un recreíto,
+[01:29:14] bueno, parece que los aburrimos o los
+[01:29:17] cansamos mucho.
+[01:29:20] Eh, hacemos, perdón, pero está Alejandra
+[01:29:24] ahí que quiere conectarse. Lisandro,
+[01:29:26] no, yo ya estoy hace rato.
+[01:29:30] Perdón, perdón, recién visto mensajito.
+[01:29:32] Bueno, si quieren hacemos un recreíto,
+[01:29:35] eh,
+[01:29:36] menos cu menos 10, nos juntamos así
+[01:29:40] arranca Ale, la presento y y retomamos,
+[01:29:42] ¿les parece?
+[01:29:44] Perfecto.
+[01:29:46] Bueno,
+[01:29:46] perfecto.
+[01:29:49] Gracias.
+[01:30:16] [resoplido]
+[01:30:17] Bueno, retomamos
+[01:30:21] porque Ale tiene una presentación larga,
+[01:30:23] así que nada, un segundo y respiro y
+[01:30:28] retomamos.
+[01:30:30] Bueno, eh les presento,
+[01:30:33] supongo que casi todos la conocen, pero
+[01:30:35] bueno. María Alejandrair es licenciada
+[01:30:38] en economía de la UVA. Realizó la
+[01:30:41] maestría en energía de esa misma casa de
+[01:30:43] estudios. Se desempeñó como asesora en
+[01:30:47] temas vinculados al sector energético,
+[01:30:49] en el Ministerio de Economía y en el
+[01:30:51] Ministerio de Energía Nacionales,
+[01:30:54] también como eh en Energ.
+[01:30:57] Desde el año desde diciembre del 2019
+[01:31:00] forma parte del gabinet formó parte del
+[01:31:02] gabinete de asesores de la subsecretaría
+[01:31:04] de energía de la provincia de Buenos
+[01:31:05] Aires y desde febrero de 2024 se
+[01:31:08] encuentra a cargo de la Dirección
+[01:31:10] Provincial de Política Energética y
+[01:31:12] Tarifaria que depende de la
+[01:31:14] subsecretaría de energía del Ministerio
+[01:31:16] de Infraestructura. Así que bueno,
+[01:31:18] gracias Ale y todo tuyo.
+[01:31:22] Bueno, perfecto. Muchas gracias Guille
+[01:31:25] por la presentación y por la invitación
+[01:31:27] a formar parte de la diplomatura.
+[01:31:31] Bueno, voy a compartir
+[01:31:40] ahí se ve bien como presentación.
+[01:31:43] Sí,
+[01:31:44] sí. Perfecto.
+[01:31:45] Bueno, e en esta segunda parte de de la
+[01:31:50] clase de hoy vamos a seguir
+[01:31:52] profundizando sobre algunos conceptos
+[01:31:55] vinculados a lo que es una revisión
+[01:31:57] tarifaria integral, eh cómo se conforma
+[01:32:00] una revisión tarifaria integral y
+[01:32:02] después vamos a a hablar un poquito de
+[01:32:04] los antecedentes de en la provincia,
+[01:32:07] ¿sí? de la última revisión tarifaria que
+[01:32:09] se hizo en el año 2017 como para a lo
+[01:32:12] teórico darle un poco de de aplicación y
+[01:32:15] de realidad. Eh, y finalmente vamos a
+[01:32:18] terminar con un esbozo de los objetivos
+[01:32:22] de la RTI que se encuentra en cursos.
+[01:32:25] Sí,
+[01:32:26] en el medio calculo, yo estuve
+[01:32:28] chummeando algunas de las presentaciones
+[01:32:30] de los docentes que tuvieron anteriores.
+[01:32:32] Eh, en algunos temas eh voy a mencionar
+[01:32:37] cosas, algunos conceptos y elementos que
+[01:32:38] ya vieron. Voy a intentar ser muy
+[01:32:40] rápida. Eh, sepan disculpar esa esa
+[01:32:44] repetición es a los fines de darle un
+[01:32:46] poco de contexto eh eh necesario eh e
+[01:32:50] introducción. Sí, uno de esos temas que
+[01:32:53] ya vieron un poco y pero lo vamos a
+[01:32:55] repetir porque es muy importante para
+[01:32:58] tener presente cómo se compone la tarifa
+[01:33:01] la tarifa eléctrica. Sí. Eh, yo en todo
+[01:33:04] momento entiendo que la dinámica que
+[01:33:06] tienen es ir interrumpiendo y
+[01:33:08] preguntando, así que si alguien en algún
+[01:33:10] momento tiene una pregunta o quiere que
+[01:33:11] repita algo, me se desmutea y me
+[01:33:15] interrumpen, no hay problema. Siéntanse
+[01:33:17] libres de de hacer y efectuar cualquier
+[01:33:20] pregunta.
+[01:33:22] Yo ahí minimicé las camaritas, así que
+[01:33:24] no los veo y con más razón me
+[01:33:28] interrumpen. Bueno, composición de la
+[01:33:31] tarifa. Algunas cosas que que ya vieron.
+[01:33:33] Eh, la tarifa final, la que paga
+[01:33:36] efectivamente el usuario, tiene tres
+[01:33:38] grandes componentes, aunque hay algunas
+[01:33:41] otras partecitas que son las que están
+[01:33:43] en la parte derecha de la filmina,
+[01:33:45] principalmente tenemos el costo de la
+[01:33:48] energía mayorista, ese lo va lo sanciona
+[01:33:51] la Secretaría de Energía de Nación. Lo
+[01:33:53] mismo con el coste con el costo de
+[01:33:55] transporte, que es un precio también
+[01:33:57] sancionado a nivel nacional. Y
+[01:33:59] finalmente el valor agregado de
+[01:34:01] distribución, la parte que remunera los
+[01:34:04] costos de las distribuidoras, tanto
+[01:34:05] provinciales como municipales, que si en
+[01:34:09] nuestro caso es eh determinado por la
+[01:34:12] subsecretaria de energía de quien
+[01:34:13] formamos parte. ¿Qué otros componentes
+[01:34:16] forman parte de la tarifa en la
+[01:34:18] provincia de Buenos Aires que ya los
+[01:34:20] estuvieron viendo? eh el agrego
+[01:34:23] tarifario, entiendo que ya tuvieron esa
+[01:34:25] clase con Guille, el cargo de transición
+[01:34:28] tarifaria, Emiliano también lo mencionó,
+[01:34:31] tuvieron también clase con Esteban sobre
+[01:34:34] el Fondo Provincial Compensor Tarifario.
+[01:34:36] Y finalmente los impuestos. Sí.
+[01:34:40] Bueno, como mencionaba, el BAT, el valor
+[01:34:42] agregado de distribución es el ingreso
+[01:34:44] de las distribuidoras que necesitan para
+[01:34:46] cubrir sus costos de operación,
+[01:34:48] mantenimiento, inversiones y también
+[01:34:51] tener una tasa de ganancia razonable.
+[01:34:54] Sí, es la autoridad provincial
+[01:34:57] quien va a determinar ese nivel
+[01:34:59] tarifario y ese valor agregado de
+[01:35:00] distribución. lo puede hacer
+[01:35:02] principalmente, como dijo Guill en la
+[01:35:04] primera parte de la clase, a través de
+[01:35:06] revisiones tarifarias o en el contexto
+[01:35:09] que estamos actualmente de eh transición
+[01:35:12] tarifaria, actualizando periódicamente
+[01:35:15] esos esos cuadros tarifarios a los fines
+[01:35:17] de mantener cierto nivel eh real en un
+[01:35:21] contexto de eh alta inflación como
+[01:35:23] fueron los años anteriores.
+[01:35:26] En general, cuando ahora ya no tanto,
+[01:35:29] pero hace unos años se hablaba muchísimo
+[01:35:32] de las heterogeneidades que habían a
+[01:35:35] nivel tarifario entre distintas
+[01:35:36] provincias y y había como un concepto
+[01:35:40] malentendido de que había subsidios
+[01:35:42] nacionales a eh, por ejemplo, el AMBA,
+[01:35:45] que si alguna vez vieron alguna factura
+[01:35:48] de Noria de Sur versus las que reciben
+[01:35:50] ustedes en sus propias casas, más allá
+[01:35:52] de donde trabajen o en qué distribuidora
+[01:35:54] estén estén trabajando,
+[01:35:56] eh van a ver que son bastante más bajas,
+[01:35:58] ¿no? Y bueno, eso eh muchas veces genera
+[01:36:01] como la falsa idea de que el AMA percibe
+[01:36:04] un subsidio en el costo mayorista, pero
+[01:36:06] la diferencia tiene que ver
+[01:36:07] principalmente con el valor agregado de
+[01:36:09] distribución. Sí, este va a ser el único
+[01:36:12] componente que nosotros podemos
+[01:36:14] determinar o que determina cada
+[01:36:15] autoridad provincial. Sí, en en
+[01:36:17] Argentina cada provincia determina en en
+[01:36:22] energía eléctrica tiene la jurisdicción
+[01:36:24] para determinar eh y regular y controlar
+[01:36:27] los servicios de distribución eléctrica.
+[01:36:29] Mientras que en gas, por ejemplo, si si
+[01:36:31] hacemos miramos el espejo, esa
+[01:36:33] jurisdicción es a nivel nacional y es el
+[01:36:36] nargas quien a nivel nacional define lo
+[01:36:38] que son los márgenes de distribución de
+[01:36:40] gas.
+[01:36:42] Bueno, eh acá voy a pasar muy rápido un
+[01:36:45] poco, como decía, ya lo ya los vieron
+[01:36:48] estos temas, agregado tarifario con sus
+[01:36:50] tres componentes, el AT para
+[01:36:52] transmisión, generación distribuida,
+[01:36:55] ¿sí? que va a financiar el Provined y el
+[01:36:58] IDE, eh, y el ACGD, que es el adicional
+[01:37:01] costo de generación distribuida, con
+[01:37:03] cual se financian los equipos de
+[01:37:07] generación móvil, por ejemplo, el plan
+[01:37:09] verano los años los años anteriores. Sí.
+[01:37:13] Eh, este agregado tarifario, como ya han
+[01:37:17] visto, forma parte de la polinómica
+[01:37:19] tarifaria, está incluido dentro de de la
+[01:37:22] tarifa y tiene un pedacito en el cargo
+[01:37:24] fijo y un pedacito en el cargo variable.
+[01:37:27] Luego también vamos a encontrar, si
+[01:37:29] miramos las facturas eléctricas, un
+[01:37:32] cargo que va como en línea aparte, que
+[01:37:34] es un cargo variable, ¿sí? energizado en
+[01:37:37] pesos por kilowa, que es el que
+[01:37:41] actualmente se llama cargo de transición
+[01:37:43] tarifaria, CTT. Hasta hace un año más o
+[01:37:47] menos, eh la denominación era el
+[01:37:49] incremento incremento de costo
+[01:37:51] tarifario, que era el ICT, pero si nos
+[01:37:53] remontamos a sus orígenes podemos
+[01:37:56] encontrarlo dentro de lo que era el DCM,
+[01:37:59] que era un componente creado para eh
+[01:38:02] compensar diferencias de costos
+[01:38:04] mayoristas. Luego en 2019, cuando
+[01:38:07] empieza a aplicarse los ajustes de la
+[01:38:10] RTD anterior con ciertos defasajes, se
+[01:38:15] agranda este concepto, se crea el ICT y
+[01:38:18] se pasa a compensar aumentos de Bad,
+[01:38:20] siendo un mecanismo que permite
+[01:38:23] incrementar también el BAT por fuera del
+[01:38:25] cuadro tarifario base.
+[01:38:28] Luego tenemos en el área atlántica y en
+[01:38:32] y en el cuadro de DEA lo que es el SSGL,
+[01:38:35] que es el sobrecosto de generación local
+[01:38:38] en el cargo variable. Y finalmente, el
+[01:38:41] que ya también tuvieron clase y del que
+[01:38:42] vamos a hablar varias veces en en la
+[01:38:44] clase de hoy, por eso me interesa eh
+[01:38:47] ponerle un contexto, es el Fondo
+[01:38:49] Provincial Compensor Tarifario, que como
+[01:38:51] saben es una alícota porcentual que
+[01:38:54] todos los usuarios de la provincia
+[01:38:56] abonan y que eh va a
+[01:39:01] digamos a a conformar un fondo que
+[01:39:04] compensa las diferencias de las
+[01:39:06] diferencias de ingresos que necesitan
+[01:39:08] aquellas cooperativas. que por su
+[01:39:09] estructura de mercado, por su escala,
+[01:39:12] por su ruralidad, necesitan mayores
+[01:39:14] ingresos que los que pueden percibir por
+[01:39:16] sus cuadros de referencia. Sí. Eh, ahí
+[01:39:20] vieron, estuvieron viendo con, bueno,
+[01:39:23] todo esto es exactamente exactamente lo
+[01:39:26] mismo. Lo vieron con Esteban. En el
+[01:39:29] Fondo Provincial, el compensor Tarifario
+[01:39:30] tiene dos partes. Por una parte, el
+[01:39:32] costo de abastecimiento,
+[01:39:34] eh, que ese es el que detalló mucho
+[01:39:37] Esteban, pero por otra parte está la
+[01:39:39] asignación del componente de BAD, ¿sí?
+[01:39:42] que eh en la presentación que que ya
+[01:39:44] tuvieron venía como medio un dato
+[01:39:47] externo y me interesa mucho eh que
+[01:39:49] quedarme con esta idea, con este
+[01:39:52] componente para después al final de la
+[01:39:54] clase cuando hable de la RT voy a hablar
+[01:39:57] de la redeterminación del fondo y en ese
+[01:40:00] caso lo que se va a redeterminar es eh
+[01:40:02] el componente de de BAT dentro del fondo
+[01:40:05] compensador tarifario. Sí. Eh, bueno, el
+[01:40:10] componente de Bad, como mencioné recién,
+[01:40:12] justamente lo que viene es a compensar
+[01:40:14] esos diferenciales de B que expliqué por
+[01:40:16] tamaño, por mercado, por escala, eh por
+[01:40:21] ruralidad. Sí. Entonces, eh si si una
+[01:40:24] cooperativa por su por todas estas
+[01:40:28] características, sus ingresos por cuadro
+[01:40:31] tarifario de referencia, es decir, los
+[01:40:33] que pagan los usuarios son menores que
+[01:40:35] los que necesit genial. Aparte siente
+[01:40:38] rarísimo
+[01:40:41] ahí. No sé si tienen alguna pregunta, si
+[01:40:43] no
+[01:40:44] por favor se
+[01:40:46] se activó un micrófono, Alejandro.
+[01:40:48] Ah, okay. Bárbaro. Entonces decía eh
+[01:40:51] bueno, que la diferencia entre los
+[01:40:53] ingresos requeridos para estas
+[01:40:55] distribuidoras municipales, que en
+[01:40:56] general son las más pequeñas, ¿sí? Eh,
+[01:41:01] se compensa con este con este componente
+[01:41:03] de B.
+[01:41:05] Bueno, y ahora vamos a ir eh propiamente
+[01:41:07] esto como introducción y como marco,
+[01:41:10] ¿sí? Para que entendamos que nosotros
+[01:41:13] vamos a estar en la clase de hoy
+[01:41:15] hablando de RTI para determinar este
+[01:41:19] componente, ¿sí? Eh, el valor agregado
+[01:41:21] de distribución. Esto es lo que
+[01:41:25] lo que vamos a determinar en RTI.
+[01:41:27] También las RTI se pueden utilizar o se
+[01:41:30] pueden realizar, son procesos que se
+[01:41:32] realizan también en transporte. Sí,
+[01:41:34] cuando se determina la tarifa de
+[01:41:36] transporte de Transba, Transener eh y
+[01:41:39] las distintas eh transportistas eh del
+[01:41:42] país también atraviesan procesos de
+[01:41:44] revisión tarifaria integral y o sea, las
+[01:41:46] revisiones tarifarias integrales son
+[01:41:48] procesos que no son únicamente del
+[01:41:50] sector eléctrico, sino que están más
+[01:41:52] bien vinculados a la determinación de
+[01:41:54] tarifas en eh servicios públicos. Sí.
+[01:41:59] Bueno, vamos con algunas definiciones
+[01:42:01] teóricas
+[01:42:03] eh para tener en mente antes de de ir
+[01:42:06] más a la a la práctica, ¿no? Bueno, ¿qué
+[01:42:08] es una revisión tarifaria integral? Ahí
+[01:42:10] la podemos definir, bueno, como dije,
+[01:42:12] como un proceso regulatorio que lo que
+[01:42:14] busca es eh revisar completamente cuál
+[01:42:17] es la estructura de costos, cuál es la
+[01:42:19] estructura económica, cuál es la
+[01:42:21] estructura de la base de capital, cuál
+[01:42:23] es la calidad que se le exige a ese
+[01:42:25] servicio público y la calidad actual que
+[01:42:28] puede otorgar y de esa manera llegar a
+[01:42:30] una tarifa que va a estar vigente
+[01:42:32] durante un periodo determinado, que como
+[01:42:35] dijo Guille en la primera parte de la
+[01:42:37] clase en nuestra regulación es un
+[01:42:39] quinquenio y en general suelen ser eh
+[01:42:42] quinquenales, ¿sí? ¿Cuáles son algunos
+[01:42:44] objetivos que puede tener una RTI? Sí,
+[01:42:47] así muy conceptuales. Por un lado, la la
+[01:42:49] sustentabilidad económica del servicio.
+[01:42:52] ¿Qué quiere decir eso? Que el servicio
+[01:42:54] se pueda autosustentar, que la tarifa le
+[01:42:56] alcance para funcionar, para expandirse,
+[01:42:59] para garantizar una buena calidad del
+[01:43:01] servicio. Sí. Por otra parte, también se
+[01:43:04] busca alcanzar esa sustentabilidad
+[01:43:06] económica con una protección de las
+[01:43:08] tarifas para los usuarios. Todo esto lo
+[01:43:11] ha mencionado Guille en el marco de lo
+[01:43:14] que dice la ley, ¿no? Las tarifas deben
+[01:43:16] ser justas y razonables.
+[01:43:18] Y también tiene que cumplir con
+[01:43:20] estándares de calidad. cómo cumplimos
+[01:43:21] con estándares de calidad y garantizamos
+[01:43:24] esa expansión del de la red para poder
+[01:43:27] garantizar eh la prestación del servicio
+[01:43:29] cuando hay crecimiento de la demanda ir
+[01:43:32] realizando las inversiones necesarias.
+[01:43:34] Entonces, las inversiones van a ser un
+[01:43:35] concepto clave también en las en las
+[01:43:37] revisiones tarifarias integrales.
+[01:43:41] Acá a modo de síntesis, eh otra manera
+[01:43:44] de de definir y de parafrasear lo mismo
+[01:43:47] que ya dijimos. Eh, y como a modo de de
+[01:43:52] cierre de de la definición,
+[01:43:55] esta las RTI son un mecanismo con donde
+[01:43:58] vamos a determinar cuánta ingreso va a
+[01:44:01] percibir esa empresa regular. Sí. Y con
+[01:44:03] ese ingreso, ¿cómo vamos a cubrir los
+[01:44:05] costos? con la palabra que figura ahí,
+[01:44:08] que no mencioné todavía, pero que la voy
+[01:44:09] a mencionar mucho en el ratito que
+[01:44:11] viene, costos eficientes, cómo realizar
+[01:44:14] esas inversiones que mencioné recién a
+[01:44:16] través de inversiones comprometidas y
+[01:44:18] reconocer una rentabilidad razonable.
+[01:44:21] Todo esto trasladándole esa tarifa al
+[01:44:24] usuario. ¿Sí? Finalmente, bueno, ahora,
+[01:44:26] ¿cómo llegamos a a esto? Es parte de lo
+[01:44:30] que vamos a ver en la clase, ¿sí? ¿Cómo
+[01:44:31] vamos a definir cuánto debe percibir esa
+[01:44:34] empresa regulada? para cubrir esos
+[01:44:37] costos de operación de capital e y de
+[01:44:40] inversión.
+[01:44:43] Como mencionaba recién, las revisiones
+[01:44:45] tarifarias integrales son procesos que
+[01:44:48] se utilizan en el marco de servicios
+[01:44:50] públicos. Sí, mencioné el transporte
+[01:44:52] eléctrico, mencioné también el gas, se
+[01:44:55] puede utilizar en agua, en transporte,
+[01:44:58] ¿sí? todos aquellos eh servicios
+[01:45:00] públicos que son definidos eh según eh
+[01:45:03] su estructura de costos como monopolios
+[01:45:05] naturales. Esto ya también lo han visto,
+[01:45:07] creo que lo vieron con Fernanda y y con
+[01:45:10] distintos docentes previamente, así que
+[01:45:12] no voy a ahondar en la definición de un
+[01:45:14] monopolio natural, pero como como saben,
+[01:45:17] cuando para la teoría económica, cuando
+[01:45:19] existe un monopolo natural, es necesario
+[01:45:22] que haya una regulación y una fijación
+[01:45:24] de tarifas eficientes. Sí, pero eso nos
+[01:45:27] va a generar otro problema, ¿no?, que
+[01:45:29] tiene que ver con la simetría de
+[01:45:31] información entre el regulador y la
+[01:45:33] empresa. Acá en la diplomatura, en la
+[01:45:36] clase, tenemos conectado gente de las
+[01:45:39] distribuidoras provinciales, de las
+[01:45:41] cooperativas, de los SEBA, de la DPE, de
+[01:45:45] la DPR, de la de PPIT, ¿sí? De distintos
+[01:45:48] eh sectores, tanto del Estado, del
+[01:45:51] regulador, en representación del
+[01:45:53] regulador como de las empresas. Y bueno,
+[01:45:55] ahí eh hay una simetría de información.
+[01:45:57] El Estado nunca termina de saber en
+[01:46:00] realidad cómo es esa gestión de del
+[01:46:03] servicio eh en manos de eh una concesión
+[01:46:08] privada. Entonces ahí esa simetría de
+[01:46:10] información genera que haya que
+[01:46:13] establecer distintos modelos
+[01:46:15] regulatorios con incentivos para poder
+[01:46:18] favorecer la expansión y el
+[01:46:21] mantenimiento con buena calidad del
+[01:46:24] sistema eléctrico, ¿sí?, o del sistema
+[01:46:25] que estemos que estemos analizando de
+[01:46:28] servicios públicos.
+[01:46:31] Para empezar a introducir esos distintos
+[01:46:33] modelos regulatorios, eh voy a hablar de
+[01:46:35] los dos más relevantes eh que no sé si
+[01:46:39] si estos eh los tienen eh presentes.
+[01:46:45] Eh por un lado el costo plus, ¿sí? Y por
+[01:46:48] el otro, el famoso y muy nombrado Price
+[01:46:51] Cap o tarifas máximas que eh Guille debe
+[01:46:55] haber mencionado, es el que tenemos
+[01:46:57] actualmente en el por el marco
+[01:47:00] regulatorio de la provincia de Buenos
+[01:47:01] Aires. ¿Sí? ¿Qué diferencia hay entre
+[01:47:03] ambos modelos regulatorios? Sí. Bueno,
+[01:47:06] eh haciendo un poco de historia y de
+[01:47:08] contexto de de teoría de la regulación,
+[01:47:11] el costo plus se utilizó primeramente en
+[01:47:15] eh eh al principio de de la regulación,
+[01:47:19] al principio del desarrollo de los
+[01:47:21] servicios públicos, cuando
+[01:47:23] principalmente eran empresas públicas
+[01:47:25] quienes prestaban eh quienes prestaban
+[01:47:27] ese servicio antes de la década del 80.
+[01:47:30] Eh, en el caso en esos casos lo que se
+[01:47:33] buscaba también en ese momento en en esa
+[01:47:36] primera parte de primera mitad o
+[01:47:40] primeros dos tercios del siglo XX,
+[01:47:42] podemos podemos decirlo de alguna
+[01:47:43] manera, había que expandir el sistema.
+[01:47:46] Por lo tanto, el costo plus es un es un
+[01:47:48] modelo regulatorio que garantiza que las
+[01:47:50] inversiones eh se realicen para poder
+[01:47:54] expandir el sistema y garantizar esas
+[01:47:56] inversiones y el financiamiento de esas
+[01:47:59] inversiones. Eh, por otra parte, genera
+[01:48:02] un bajo incentivo a la reducción de
+[01:48:04] costos porque lo que hace es reconocer
+[01:48:07] costos reales. Sí, ahí dice, bueno,
+[01:48:09] lógica retrospectiva, ¿por qué? Porque
+[01:48:11] se realiza en función de, bueno, por
+[01:48:13] ejemplo, pensemos una empresa pública,
+[01:48:15] yo agarro, digo, bueno, estos son mis
+[01:48:17] costos en el año 2025 y eh te voy a
+[01:48:22] poner la tarifa en función, necesito
+[01:48:24] recaudar mis costos más la inversión que
+[01:48:27] tengo que hacer para expandir en el
+[01:48:29] programa de inversiones de este año.
+[01:48:31] Entonces, uso los costos reales más el
+[01:48:34] flujo de fondos que necesito para
+[01:48:35] financiar esa inversión y de esta manera
+[01:48:38] determino una tarifa económica
+[01:48:40] representativa, ¿sí?, de esos costos eh
+[01:48:44] reales. Mientras que el PCAP es una
+[01:48:46] regulación que busca trabajar por
+[01:48:48] incentivos para alcanzar eficiencia. Sí,
+[01:48:50] ya no se va a reconocer necesariamente
+[01:48:53] ese costo real o ese flujo de fondos
+[01:48:55] necesario para esa inversión, sino que
+[01:48:57] lo que se va a buscar es generar eh la
+[01:49:00] señal de eh reducción de costos, ¿sí?, y
+[01:49:04] minimización de costos, como dice su
+[01:49:06] nombre, price en inglés, en español
+[01:49:09] podemos traducirlo como tarifas máximas.
+[01:49:11] lo que genera es un incentivo para que
+[01:49:13] el eh la empresa distribuidora eh
+[01:49:17] realice una gestión más eficiente y se
+[01:49:20] apropie por un periodo de tiempo de la
+[01:49:21] ganancia de eficiencia entre esa tarifa
+[01:49:24] más alta versus la eficiencia por haber
+[01:49:27] reducido sus costos o sido más
+[01:49:30] eficiente. eficiencia que luego se
+[01:49:32] debería a través de un factor de de
+[01:49:35] eficiencia
+[01:49:37] eh eh transmitir al usuario en un
+[01:49:39] segundo momento de tiempo. Sí. E para
+[01:49:44] que esa ganancia por eficiencia no sea
+[01:49:46] 100% apropiada solamente por el
+[01:49:48] prestador del servicio. ¿En qué contexto
+[01:49:50] empieza el Pricecap históricamente a a
+[01:49:53] ser el modelo regulatorio más relevante
+[01:49:57] a nivel mundial? Eh, y principalmente en
+[01:50:02] el contexto del consenso de Washington,
+[01:50:04] fines de los 80, principios de los 90 y
+[01:50:06] las privatizaciones de todas las
+[01:50:08] empresas públicas de del sector de
+[01:50:11] servicios públicos, la desregulación y
+[01:50:13] también la desintegración vertical, ¿no?
+[01:50:15] Quizás empresas públicas, bueno, en el
+[01:50:16] caso de la provincia podemos pensar
+[01:50:19] antes de las privatizaciones teníamos la
+[01:50:21] DEVA, que era una empresa pública que
+[01:50:23] tenía el transporte, tenía algunas
+[01:50:26] centrales, tenía distribución. Eso en
+[01:50:29] economía se llama integración vertical.
+[01:50:31] Cuando eh en el consenso de Washington
+[01:50:34] se suceden todas las las reformas
+[01:50:38] estructurales de la economía argentina a
+[01:50:40] nivel nacional, la provincia no se queda
+[01:50:42] en una burbuja, sino que también eh
+[01:50:45] aplica esas esos cambios estructurales,
+[01:50:47] privatiza eh y fracciona en distintas
+[01:50:50] partes, ¿no? Eh lo que antes era una
+[01:50:53] única empresa. Eso, esa fraccionamiento
+[01:50:55] entre transporte, distribución,
+[01:50:57] generación sin que pueda ser la misma
+[01:51:01] empresa es lo que se conoce como
+[01:51:02] desintegración vertical. En ese contexto
+[01:51:04] es donde el sector eh migra a lo que se
+[01:51:08] conoce como price cap o tarifas máximas.
+[01:51:10] Sí, en este caso no vamos a no vamos a
+[01:51:12] estar mirando tanto los costos reales y
+[01:51:15] efectivos de de esa empresa, sino que lo
+[01:51:18] que se va a trabajar es mucho con eh eh
+[01:51:21] costos eficientes y con tomar empresas
+[01:51:24] modelos. Sí, vamos a mencionar más
+[01:51:26] adelante sobre cómo qué métodos hay para
+[01:51:29] calcular esos costos de explotación. En
+[01:51:32] general, estos estos regímenes de de
+[01:51:35] Pricecap sirven mucho en sistemas que ya
+[01:51:38] tienen que ya no necesitan una
+[01:51:40] expansión, sino eh, o sea, cuando digo
+[01:51:43] no necesitan expansiones, no necesitan
+[01:51:45] inversiones de magnitud muy fuertes,
+[01:51:47] sino que las inversiones son marginales
+[01:51:50] para ir manteniendo en valor ese esa
+[01:51:53] base de capital que ya existe, eh, y no
+[01:51:55] necesita grandes grandes inversiones.
+[01:51:57] Sí. E
+[01:52:00] por qué? porque no garantiza el
+[01:52:01] financiamiento de esas inversiones como
+[01:52:04] si financiaba el costo plus. Sí, podemos
+[01:52:07] pensar si si queremos de alguna manera
+[01:52:10] con el diario del lunes en cómo si
+[01:52:12] pensamos un poco dentro de lo que es el
+[01:52:14] sistema de transporte eléctrico, los
+[01:52:16] problemas que tiene desde
+[01:52:19] los 90 hasta esta parte a lo largo de
+[01:52:22] los distintos eh ciclos económicos y de
+[01:52:25] los distintos modelos eh de regulación y
+[01:52:29] y tipos de gobierno, cómo se ha podido
+[01:52:32] expandir o no expandir ese sistema de
+[01:52:34] transporte. eh y cómo el sistema de
+[01:52:37] tarifas máximas ha garantizado que esa
+[01:52:40] que esas expansiones se realicen o no.
+[01:52:43] Eh,
+[01:52:45] bueno, lógica proyectiva quiere decir
+[01:52:46] eso, que está mirando para adelante.
+[01:52:48] Para el quinquenio, bueno, esta es una
+[01:52:50] tarifa para un una empresa modelo
+[01:52:54] eficiente, con costos eficientes, con
+[01:52:57] una base de capital eh que está diseñada
+[01:53:00] o modificada para que sea la más
+[01:53:02] eficiente posible. eh y mira un poco más
+[01:53:05] para adelante. ¿Hasta ahí alguna duda?
+[01:53:09] No.
+[01:53:11] Bueno, sí. Entonces, el tercer punto que
+[01:53:13] tenemos en la presentación es cuáles son
+[01:53:15] los componentes de una revisión
+[01:53:17] tarifaria integral. Podemos mencionar
+[01:53:20] tres grandes eh grupos de temas. Eh, por
+[01:53:24] un lado, eh, lo que es la definición de
+[01:53:27] lo que en general en la jerga se llama
+[01:53:29] nivel, el nivel tarifario, que ese nivel
+[01:53:33] no es más ni menos que la definición de
+[01:53:35] los ingresos requeridos, ¿sí? ¿Cuál va a
+[01:53:38] ser el nivel de ingreso que nos que le
+[01:53:40] va a permitir a esa distribuidora
+[01:53:44] recuperar esos costos que necesita para
+[01:53:46] poder gestionar el servicio,
+[01:53:47] garantizando una calidad del suministro
+[01:53:49] adecuada, garantizando la realización de
+[01:53:51] inversiones y una rentabilidad
+[01:53:53] razonable? Eso es algo de lo que tenemos
+[01:53:56] que eh ocuparnos principalmente y es lo
+[01:53:59] primero que que nos ocupa y nos preocupa
+[01:54:02] en una revisión tarifa integral. Lo
+[01:54:05] segundo va a ser la estructura, ¿sí? que
+[01:54:07] no es más ni menos que cómo vamos a
+[01:54:09] recaudar ese ingreso del requerido, cómo
+[01:54:12] va a participar cada usuario en esa
+[01:54:14] recaudación, qué va a pagar cada uno.
+[01:54:16] Sí, eso nos va a llevar luego a la
+[01:54:18] definición del cuadro tarifario final. Y
+[01:54:21] finalmente, actualización. No voy a
+[01:54:23] profundizar mucho en ese tema, eh,
+[01:54:27] pero no eh se refiere a cómo se van a a
+[01:54:31] ir moviendo esas tarifas en el tiempo.
+[01:54:33] principalmente nos nos importa a
+[01:54:36] nosotros en nuestro país porque con
+[01:54:38] regéímenes de eh alta inflación o bueno,
+[01:54:42] en este momento más moderada, pero
+[01:54:44] igualmente siguen siendo niveles altos
+[01:54:46] para lo que son eh niveles
+[01:54:48] internacionales, sí requieren una
+[01:54:51] actualización para que la tarifa en
+[01:54:53] términos reales no se eh no vaya
+[01:54:57] perdiendo capacidad de cubrir esos
+[01:54:59] costos. Sí. Bueno, eh vamos a a
+[01:55:02] profundizar un poquito sobre el primer
+[01:55:04] punto, ¿sí? ¿Cómo definimos ese nivel de
+[01:55:07] ingresos? Eh, acá vamos a retomar un
+[01:55:11] poco la idea del costo plus y del
+[01:55:12] pricecap según la el modelo regulatorio
+[01:55:16] que tengamos, ¿sí? Las metodologías que
+[01:55:18] vamos a utilizar para el requerimiento
+[01:55:20] de ingresos. Para el cálculo de los
+[01:55:22] requerimientos de ingresos hay distintas
+[01:55:24] distintos metodologías y van a estar de
+[01:55:27] alguna manera, no obligatoriamente, pero
+[01:55:29] en general, algunas van vinculadas más a
+[01:55:32] un modelo de costo plus y otras van por
+[01:55:35] definición vinculadas a lo que es el
+[01:55:37] price, ¿sí? En general cuando hablamos
+[01:55:39] de cálculos por eh flujos de fondos,
+[01:55:43] ¿sí? Eh, que es decir, bueno, ¿cuál es
+[01:55:45] el flujo de fondos que necesita esta
+[01:55:48] distribuidora para funcionar? Eh, o el
+[01:55:51] costo histórico también vinculado con lo
+[01:55:54] que son los valores de balance, ¿sí? E
+[01:55:57] está vinculado con el modelo regulatorio
+[01:56:00] de costo plus y en general cuando
+[01:56:01] hablamos de Price Cap hablamos más de
+[01:56:04] empresas modelos eficientes, BNR, valor
+[01:56:07] neto de reposición. Ahora vamos a
+[01:56:09] explicar todos estos conceptos y costos
+[01:56:11] eficientes. ¿Sí?
+[01:56:14] Y ahí agregué un un cuadrito al final de
+[01:56:17] de esta filmina que son que pueden ser
+[01:56:20] modelos híbridos. ¿Sí? ¿Qué quiere decir
+[01:56:22] híbrido? Sí, que puede ser un price capo
+[01:56:25] plus para algún concepto, por ejemplo,
+[01:56:27] un price cap inversiones eh a través de
+[01:56:30] un modelo de costo plus para
+[01:56:32] financiarlas. Si uno mira en
+[01:56:34] Latinoamérica hay muchos países que
+[01:56:36] tienen price cap, eh, excepto los que
+[01:56:39] tienen todavía empresas públicas como
+[01:56:41] son Paraguay, Uruguay, que tienen más
+[01:56:43] esquemas parecidos al costo plus y
+[01:56:45] muchos países tienen híbridos, ¿sí?, que
+[01:56:47] tienen un mix de ambos en función de eh
+[01:56:52] de los objetivos de regulación. ¿Sí?
+[01:56:54] ¿Por qué? Porque ninguno de los dos, ni
+[01:56:56] el Costo Plus, ni el Pricecap es
+[01:56:57] perfecto. Todos tienen su como como en
+[01:57:00] la vida y en economía, todo tiene sus
+[01:57:02] pros y sus contras. las señales que que
+[01:57:05] generan eh y los eh resultados que
+[01:57:09] generan sobre la prestación del
+[01:57:10] servicio, no necesariamente siempre son
+[01:57:13] los deseables y entonces quizás un
+[01:57:15] modelo híbrido nos permita accionar
+[01:57:17] sobre aquellos puntos donde ese servicio
+[01:57:20] eh uno vea que tenga cierta falencia,
+[01:57:23] ¿no? Como puede ser, por ejemplo, esto
+[01:57:25] que yo decía, Price Cap se asocia con
+[01:57:28] redes que ya están maduras, que no
+[01:57:30] necesitan mayores inversiones. Sí, pero
+[01:57:32] entonces ustedes podrían decir, "Bueno,
+[01:57:34] Alejandra, pero dijo Guillermina que
+[01:57:36] nosotros tenemos un PRCAP y que nuestra
+[01:57:39] ley dice que tenemos que ir hacia ese
+[01:57:40] modelo de tarifas máximas, pero todavía
+[01:57:42] nos faltan un montón de inversiones."
+[01:57:44] Bueno, entonces no cuadra exactamente.
+[01:57:47] Entonces, en función de cada eh
+[01:57:51] provincia, país, eh servicio público que
+[01:57:54] estemos evaluando, área de concesión, eh
+[01:57:57] contrato, eh estado de la red, necesidad
+[01:58:01] de inversiones, vamos a a ver cuál va a
+[01:58:03] ser el mejor modelo que nos sirva para
+[01:58:05] alcanzar esos objetivos regulatorios,
+[01:58:07] que finalmente no son más ni menos que
+[01:58:09] una buena calidad del servicio, ¿sí?, y
+[01:58:12] para el usuario y una tarifa que sea que
+[01:58:15] garantice esa calidad del servicio, pero
+[01:58:17] que también sea justa y razonable para
+[01:58:20] que el usuario pueda acceder. Sí. Bueno,
+[01:58:24] acá
+[01:58:25] ya yendo un poco a lo que quizás varios
+[01:58:28] están esperando que que profundice,
+[01:58:30] ¿cómo calculamos ese ese ingreso
+[01:58:33] requerido? Vamos a ir ahora a desagregar
+[01:58:36] este caminito. Sí. Eh, como van a ver
+[01:58:39] ahí, el ingreso requerido sí se compone
+[01:58:43] principalmente de dos de A ver, tengo
+[01:58:45] acá como un no
+[01:58:48] eh pensé que tenía un cursor rojo.
+[01:58:50] Costos de explotación, ¿sí? Dentro de
+[01:58:52] costos de explotación va a entrar todo
+[01:58:54] lo que no es capital. Es decir, ahí
+[01:58:56] entra en general es lo que se llama en
+[01:58:59] mucho en mucha bibliografía. En muchos
+[01:59:01] casos algunos lo llaman OPEX. Sí, OPEX
+[01:59:04] sería el costo de explotación, Capex
+[01:59:06] costos de capital. Sí. Eh, el OPEX va a
+[01:59:09] estar conformado principalmente eh por
+[01:59:12] salarios. Sí. Eh, la mano de obra va a
+[01:59:15] ser uno de los costos más
+[01:59:16] representativos que tiene que que tienen
+[01:59:19] en por lo menos en nuestra estructura y
+[01:59:21] lo que venimos viendo en en distribución
+[01:59:24] eléctrica en la provincia. Luego vamos a
+[01:59:27] tener e todo lo que podemos alojar como
+[01:59:30] costos de operación y mantenimiento,
+[01:59:31] donde pueden aparecer todos los costos
+[01:59:33] más técnicos de operar y mantener esa
+[01:59:35] red y luego los costos comerciales y de
+[01:59:38] administración. Estos los salarios los
+[01:59:40] desagregué, pero se solapan, ¿no? En
+[01:59:42] realidad los los trabajadores los
+[01:59:44] salarios los podríamos alojar si
+[01:59:46] quisiéramos otra otra separación de una
+[01:59:50] parte en OIM, otra parte en costos
+[01:59:52] comerciales y de administración según el
+[01:59:54] rol que ocupe cada trabajador.
+[01:59:56] Y luego tenemos costos de capital. Sí,
+[01:59:59] esos costos de capital
+[02:00:02] van a definirse en base a, valga la
+[02:00:05] redundancia, la base de capital. ¿Sí?
+[02:00:07] ¿Qué es la base de capital? los activos
+[02:00:09] que tiene cada distribuidora, ¿sí? La en
+[02:00:12] nuestro caso que hablamos de
+[02:00:13] distribución eléctrica, hablamos de las
+[02:00:15] redes, de las estaciones
+[02:00:16] transformadoras,
+[02:00:18] ¿sí? Todas esos eh ese capital que las
+[02:00:23] distribuidoras tienen eh digamos hundido
+[02:00:26] de alguna manera, que ya está instalado,
+[02:00:28] es lo que se llama base de capital. Esa
+[02:00:30] base de capital, a esa base de capital
+[02:00:31] se le va a reconocer por un lado una
+[02:00:33] rentabilidad, ¿sí?, a una tasa X. A
+[02:00:37] reconocer. Ahora vamos a charlar un poco
+[02:00:39] sobre esa tasa y también se le va a
+[02:00:41] reconocer una amortización. ¿Qué es la
+[02:00:43] amortización? Sí, si algunos eh me
+[02:00:46] imagino que debe haber de todas las
+[02:00:48] profesiones acá conectados, pero eh
+[02:00:50] aquellos que estén más familiarizados,
+[02:00:51] quizás contadores con con ese concepto,
+[02:00:54] sí, es el desgaste que va teniendo un
+[02:00:56] bien de capital. Sí. Entonces, no si yo
+[02:00:58] tengo una un subestación transformadora,
+[02:01:01] por ahí la subestación transformadora la
+[02:01:04] tengo hace 10 años y todavía tiene un
+[02:01:06] montón de de vida útil, pero ya tiene 10
+[02:01:09] años de antigüedad, es decir, que si
+[02:01:10] valía eh eh 100, le tengo que restar la
+[02:01:15] amortización de esos de esos años, ¿sí?
+[02:01:17] Esa depreciación. Eh, y sí, más allá de
+[02:01:22] la vida útil regulatoria, esa base de
+[02:01:25] capital, eso ya está totalmente
+[02:01:26] depreciado. Y a través de la
+[02:01:28] amortización lo que yo le estoy
+[02:01:29] reconociendo a esa base de capital son
+[02:01:32] las inversiones necesarias para poder
+[02:01:34] mantener esa base de capital, como dije,
+[02:01:36] en valores eh constantes. Y si si yo
+[02:01:40] dejo esa base de capital depreciar sin
+[02:01:42] ir haciéndole mantenimientos,
+[02:01:44] mejoras, reemplazos,
+[02:01:47] etcétera, esa base de capital cada vez
+[02:01:50] va a valer menos, ¿se entiende? Entonces
+[02:01:52] esa plata que se reconoce por
+[02:01:53] amortización es para poder e digamos
+[02:01:57] acompañar esa depreciación de la base de
+[02:01:59] capital. Y ahí separadito, sin puse
+[02:02:02] inversiones y lo puse separado a
+[02:02:04] propósito porque como decía el price
+[02:02:06] Cap, las inversiones no las considera
+[02:02:08] como un concepto aparte, sino que las
+[02:02:10] las consideraría a pagar únicamente con
+[02:02:13] estos naranjas, ¿no? Bueno, parte de las
+[02:02:16] inversiones van a ser para ir
+[02:02:17] reemplazando base de capital vieja que
+[02:02:20] queda obsoleta y que la tengo que
+[02:02:22] reemplazar. Otra parte la voy a ir eh
+[02:02:24] financiando a través de parte de mi
+[02:02:27] rentabilidad. Sí. Y entonces parte de
+[02:02:29] esa rentabilidad, eh una empresa privada
+[02:02:32] puede decir, bueno, giro dividendos y no
+[02:02:34] invierto. O una parte giro dividendos y
+[02:02:36] otra parte eh invierto. Sí. Pero no
+[02:02:40] necesariamente tiene una financiabilidad
+[02:02:42] aparte. Mientras que si pensamos en un
+[02:02:44] esquema de costo plus o en un híbrido,
+[02:02:46] como mencioné, las inversiones pueden
+[02:02:48] costearse específicamente eh con una
+[02:02:51] parte de la tarifa que vaya directamente
+[02:02:54] a pagar esas inversiones. Por eso lo
+[02:02:55] puse ahí separado. Sí.
+[02:02:58] Hasta ahí vamos bien. ¿Alguna duda?
+[02:03:04] No, seguimos.
+[02:03:12] Una consulta.
+[02:03:13] Sí.
+[02:03:14] E no, acá estábamos recién hablando, si
+[02:03:17] si quisiéramos, o sea, estar eh hacer
+[02:03:20] innovaciones, no sé, por ejemplo,
+[02:03:22] mantener medidores inteligentes,
+[02:03:23] acompañar toda el avance tecnológico,
+[02:03:25] tendría que estar como un ítem
+[02:03:30] dentro de inversiones o aparte como para
+[02:03:32] que influya en ese ingreso requerido en
+[02:03:34] ese cálculo.
+[02:03:36] Depende, depende cuál sea el modelo
+[02:03:38] regulatorio. Si fuera un modelo price
+[02:03:40] Cap, no necesariamente lo tenés que
+[02:03:41] financiar aparte, tendría que estar
+[02:03:43] dentro de los planes de inversión de esa
+[02:03:46] compañía para mantener esa base de
+[02:03:48] capital en eh actualizada,
+[02:03:52] eficiente, ¿sí? eh con cierto, digamos,
+[02:03:56] con cierto desarrollo tecnológico, con
+[02:03:58] un plan, por ejemplo, dentro de decir,
+[02:04:01] "Bueno, parte de mi rentabilidad la
+[02:04:03] pongo a financiar una actualización
+[02:04:05] tecnológica de mi red o podría ser en un
+[02:04:08] esquema híbrido o en un esquema de costo
+[02:04:10] plus que se reconozca parte, digamos,
+[02:04:12] ese cambio tecnológico y ese
+[02:04:14] financiamiento de los de los medidores o
+[02:04:17] esa actualización. Va a depender del
+[02:04:18] modelo tarifario que que se elija. Sí.
+[02:04:22] Bien.
+[02:04:24] Gracias.
+[02:04:26] No, de nada.
+[02:04:29] Bueno, ahora vamos saliendo de de
+[02:04:33] digamos del esquema completo. Esto es
+[02:04:35] como para que entiendan dónde dónde
+[02:04:37] estamos parados, cómo va a ser el
+[02:04:39] caminito que vamos a recordar. Vamos a
+[02:04:40] ir hablando con un poco más de detalle
+[02:04:42] de cada uno de estos conceptos, ¿sí? Eh,
+[02:04:46] bueno, vamos a hablar de costos de
+[02:04:47] capital. ¿Cómo definimos esos costos de
+[02:04:49] capital? Como mencioné antes, tenemos
+[02:04:51] distintas metodologías para el cálculo
+[02:04:54] de ese costo de capital. Por un lado, eh
+[02:04:57] tenemos lo que el famoso BNR, que es el
+[02:05:02] valor neto de reposición. En algunos
+[02:05:04] casos, algunos he escuchado que lo
+[02:05:05] mencionan como valor nuevo de
+[02:05:07] reposición. Eh, el este es el que está
+[02:05:10] vinculado en general con un modelo
+[02:05:13] regulatorio de Price Cap, ¿sí? Que y
+[02:05:16] además que es muy utilizado en el sector
+[02:05:18] eléctrico. Sí, en general. Cuando uno ve
+[02:05:20] revisiones tarifarias eléctricas en
+[02:05:23] otras partes del país o en el resto de
+[02:05:25] de la región o en el resto del mundo, lo
+[02:05:28] que se estila sí es utilizar el BNR,
+[02:05:31] mientras que quizás en otros servicios
+[02:05:33] públicos que no son eléctricos que eh se
+[02:05:36] utilicen otro tipo de formas de
+[02:05:40] valorizar ese activo. ¿Sí? ¿Cómo en qué
+[02:05:43] consiste este valor neto de reposición?
+[02:05:45] Se toma la base de capital. Recordemos
+[02:05:47] base de capital es lo que yo les
+[02:05:48] mencioné recién como activo. Sí tenemos,
+[02:05:51] podemos agrupar en dos grandes grupos.
+[02:05:53] Por un lado, redes, donde tenemos todas
+[02:05:55] las redes por distintos niveles de
+[02:05:56] tensión, por distintos tipo de redes
+[02:05:58] rural eh urbana o podemos eh eh
+[02:06:02] subestaciones de distintos de distintos
+[02:06:05] niveles de distintas tensiones. Sí. Y
+[02:06:08] esa esa base de capital, esos activos se
+[02:06:11] van a valorizar al valor de reposición.
+[02:06:14] ¿Qué significa valorizar el valor de
+[02:06:16] reposición? Agarrar cada uno de esos
+[02:06:18] activos y multiplicarlos por su precio
+[02:06:20] si tuviera que hoy volver a eh comprarlo
+[02:06:22] y hacer esa inversión e instalar, ¿no?
+[02:06:24] Entonces, bueno, tengo una red eh baja
+[02:06:27] tensión rural. Eh, ¿cuánto me costó este
+[02:06:31] acuerdo?
+[02:06:37] ¿Cuánto me cuesta? Sí, esa esa
+[02:06:40] instalación, digamos, hoy si yo tuviera
+[02:06:43] que hacerla a nuevo. Sí. Entonces, con
+[02:06:45] precios se utilizan en general precios
+[02:06:48] de referencia, se hacen benchmarking
+[02:06:50] entre distintos precios, distintos eh
+[02:06:53] distintas empresas. Se se normalizan
+[02:06:56] esos valores para que no se utilice un
+[02:06:58] valor eh extraordinario o alto, ¿sí? eh
+[02:07:03] que sea un valor de mercado. Eh, muchas
+[02:07:06] veces también esta estas bases de
+[02:07:09] capitales en en el contexto de Price
+[02:07:11] Cap, sobre todo, como mencionaba que se
+[02:07:13] se utiliza mucho la idea de empresa
+[02:07:16] modelo eficiente, se suelen hacer
+[02:07:18] adaptaciones de esa red. ¿Qué son esas
+[02:07:20] adaptaciones? Son adaptaciones, por
+[02:07:22] ejemplo, en algunos casos eh antes se
+[02:07:25] hacían muchas adaptaciones a la demanda.
+[02:07:27] Sí. Entonces decía, bueno, si la
+[02:07:29] demanda, si esa red eh no está adaptada
+[02:07:32] a lo que es la demanda real porque eh
+[02:07:35] lleva un déficit de de inversiones o o
+[02:07:38] le falta, digamos, abastecer parte de la
+[02:07:41] demanda o está saturada y no está
+[02:07:43] cumpliendo determinadas condiciones de
+[02:07:45] de seguridad, sostenibilidad del
+[02:07:47] servicio, eh entonces esa base de
+[02:07:50] capital se agranda o se modifica a los
+[02:07:54] fines de eh responder a esa demanda
+[02:07:57] actual. Sí. O también existen otros
+[02:08:00] tipos de adaptaciones que es la
+[02:08:01] adaptación tecnológica. La adaptación
+[02:08:03] tecnológica lo que hace es agarrar la
+[02:08:05] base de capital y decir, "Bueno, a veces
+[02:08:08] las inversiones que y las decisiones de
+[02:08:11] inversión que se toman en la gestión
+[02:08:13] diaria de una empresa de de distribución
+[02:08:15] no necesariamente son las más eficientes
+[02:08:17] en términos económicos o de diseño de la
+[02:08:20] red, ¿no? Digamos, uno podría pensar
+[02:08:22] como una ciudad, no a los platenses que
+[02:08:25] viven en una ciudad planificada, sino al
+[02:08:27] resto de de las personas que viven
+[02:08:29] quizás en en bueno, los pueblos es más
+[02:08:32] fácil, pero ciudades que no tienen una
+[02:08:35] planificación desde el momento cero. Sí.
+[02:08:38] Y bueno, va hay algo que va pasando
+[02:08:41] antes que la planificación de los
+[02:08:43] servicios de esa ciudad, ¿no? Entonces,
+[02:08:45] lo mismo puede pasar en la en la gestión
+[02:08:48] y en las expansiones de redes, quizás.
+[02:08:50] Hay momentos donde haya que hacer
+[02:08:52] algunas inversiones que no
+[02:08:53] necesariamente si yo tuviera que agarrar
+[02:08:56] eh y simular en un sistema y en un
+[02:08:59] software toda mi redle, "Bueno,
+[02:09:02] minimizame los costos, eh haceme la red
+[02:09:04] más eficiente posible, me daría una red
+[02:09:07] y la red de la realidad es otra, ¿no?"
+[02:09:09] Entonces, bueno, esa red adaptada lo que
+[02:09:11] busca es eh eh llevar esa base de
+[02:09:15] capital a una adaptación tecnológica más
+[02:09:18] eficiente. ¿Cuál sería esa red más
+[02:09:20] eficiente? ¿No? O cuáles son, por
+[02:09:22] ejemplo, los distintos elementos a
+[02:09:25] utilizar, si en una red, eh, por
+[02:09:28] ejemplo, poste de hormigón, poste de
+[02:09:29] madera, ¿cuál es más eficiente? ¿Cuál es
+[02:09:32] más eficiente en términos económicos?
+[02:09:34] Pero también cuál es más eficiente en
+[02:09:36] términos de gestión, ¿no? Eh, en
+[02:09:38] términos de reducción de otros costos.
+[02:09:40] Bueno, ese es un análisis. E y otra otra
+[02:09:43] variable importante a considerar cuando
+[02:09:45] hablamos de BNR es que se puede
+[02:09:47] considerar el BNR depreciado o el BNR
+[02:09:50] sin depreciar en general. Bueno, la RTI
+[02:09:52] 2007 ahora cuando hablemos voy a
+[02:09:54] mencionar, se utilizó depreciado. Sí.
+[02:09:57] ¿Qué quiere decir depreciado o sin
+[02:09:59] depreciar? Usted alguno podría levantar
+[02:10:01] la mano y decirme, "Pero Alejandra, que
+[02:10:03] le estamos pagando la o nos están
+[02:10:06] pagando la red a nuevo cuando decís al
+[02:10:08] valor de reposición. Si esa red quizás
+[02:10:11] no necesariamente es toda nueva, podemos
+[02:10:13] tener eh activos que que vienen hace 30
+[02:10:16] años, eh hace 20 años, sí, esos se
+[02:10:20] reconocen como si fueran a nuevos, ¿no?
+[02:10:22] Bueno, ahí se hace una depreciación de
+[02:10:24] esa base de capital en función de eh la
+[02:10:27] antigüedad que tengan esas esas redes.
+[02:10:31] Bueno, esto en cuanto al BNR, ¿alguna
+[02:10:34] duda respecto de BNR?
+[02:10:39] ¿no? Bueno, entonces otras dos maneras
+[02:10:41] de valorizar ese costo de capital es,
+[02:10:43] por un lado, costo histórico, en general
+[02:10:45] este más asociado a eh valores
+[02:10:48] contables, ¿sí? De libros. Para eso es
+[02:10:51] muy es que tener los valores al inicio
+[02:10:54] de la concesión y luego se suman y se
+[02:10:56] restan altas y bajas, es decir, las
+[02:10:59] inversiones y los activos que se han eh
+[02:11:02] ido implementando. Este está más
+[02:11:04] asociado a un esquema de costo plus. Sí.
+[02:11:08] Eh, en algunos casos es difícil de
+[02:11:10] llevar a cabo, sobre todo cuando no hay
+[02:11:12] claridad respecto de cuáles eran esos
+[02:11:14] activos o esos valores al inicio de las
+[02:11:16] concesiones. Entonces, es difícil de
+[02:11:19] construir en la práctica. No, más allá
+[02:11:21] de de la teoría. Y luego, como
+[02:11:23] mencionaba, tenemos los el flujo de
+[02:11:25] fondos, que es traer con una tasa de
+[02:11:27] descuento al valor presente cuál es el
+[02:11:29] el flujo de fondo futuro de ese negocio.
+[02:11:32] ¿Sí? Entonces, eso eh es una visión más
+[02:11:36] financiera. La primera la podemos
+[02:11:37] asociar con una visión más ingenieril de
+[02:11:40] la tarifa eh desde el punto de vista de
+[02:11:43] de la red y de la ingeniería eléctrica.
+[02:11:45] Y el flujo de fondos es un concepto un
+[02:11:47] poco más financiero que se utiliza en en
+[02:11:51] no se utiliza tanto como mencioné en
+[02:11:53] sector eléctrico, sino en otros tipos de
+[02:11:55] servicio.
+[02:11:59] Bueno, y esa esa base de capital, como
+[02:12:03] mencionaba, va a estar eh valorizada,
+[02:12:06] está valorizada con el BNR o con el
+[02:12:08] flujo de fondos o la definición que
+[02:12:10] utilicemos. Pero sobre esa base de
+[02:12:12] capital, como dijimos, le vamos a
+[02:12:14] reconocer una rentabilidad y una
+[02:12:17] amortización. Sí, en la amortización no
+[02:12:20] la puse en la presentación a los fines
+[02:12:22] de de reducir tiempo, pero no es más que
+[02:12:24] lo que ya mencioné, tiene que ver con la
+[02:12:26] vida eh de ese activo. Hay una vida útil
+[02:12:30] regulatoria determinada eh y eh en
+[02:12:34] función de de cuándo es la antigüedad de
+[02:12:37] ese activo, se establece para cada uno
+[02:12:40] de esos bienes cuál va a ser su
+[02:12:42] depreciación y por ende la amortización
+[02:12:44] promedio a reconocer. Sí. Y finalmente
+[02:12:47] tenemos la rentabilidad y la eh
+[02:12:51] otro tema en cuestión que es la tasa
+[02:12:53] reconocer. Sí, esto es un tema en
+[02:12:55] general sensible, ¿sí? Es una de las
+[02:12:57] variables que cuando uno hace un RTI
+[02:12:59] suelen ser más negociadas porque es
+[02:13:01] bueno, ¿cuánto te voy a reconocer de
+[02:13:03] rentabilidad? Sí, ahí en general muchas
+[02:13:06] veces se utiliza lo que se llama como la
+[02:13:09] tasa Wac, que que ahí está su definición
+[02:13:12] en inglés, ¿sí? pero que en español
+[02:13:14] significa costo promedio ponderado del
+[02:13:16] capital. En algunos países estas tasas
+[02:13:18] también están reguladas. Por ejemplo,
+[02:13:21] hay países de la región donde por ley
+[02:13:23] directamente dice, "Bueno, la tasa de de
+[02:13:25] del servicio es 10%, 5%, 7% y eh hay
+[02:13:31] otros países donde se utilizan
+[02:13:32] comparaciones internacionales o
+[02:13:34] distintos tipos de tasaas." Yo acá puse
+[02:13:36] la definición de la WAC porque es la que
+[02:13:38] se usó en la RTI pasada y la que se
+[02:13:40] suele usar eh más recientemente en
+[02:13:43] nuestro país. Eh, como para que ustedes
+[02:13:45] se lleven la la definición teórica de
+[02:13:48] cómo se calcula una tasa W, ¿no? ¿Qué es
+[02:13:50] la tasa eh esta WAC o costo promedio
+[02:13:53] ponderado del capital? Sí, es una tasa
+[02:13:55] que lo que va a estar mostrando es el
+[02:13:57] promedio, ¿sí?, del costo de
+[02:13:59] financiamiento de una empresa para
+[02:14:01] financiar principalmente esas
+[02:14:04] inversiones. Sí. Eh, pensemos que,
+[02:14:07] como dije en un esquema de Price Cap,
+[02:14:09] esas inversiones se tienen que financiar
+[02:14:12] con parte de esa tasa de rentabilidad.
+[02:14:14] Por lo tanto, ¿cómo cómo tiene que ser
+[02:14:18] esa tasa a reconocer para que permita
+[02:14:20] que la empresa se lleve una rentabilidad
+[02:14:22] razonable y también pueda hacer esas
+[02:14:25] inversiones? Eh, esta tasa WC lo que lo
+[02:14:28] que promedia, sí, ahí en la en la
+[02:14:30] formulita, para quienes gusten de las
+[02:14:32] fórmulas, ponderá el costo de eh la
+[02:14:36] deuda y el costo de poner capital
+[02:14:38] propio. ¿Sí? Entonces, por ejemplo, una
+[02:14:40] empresa cuando va a decidir invertir
+[02:14:42] puede decir por un lado, bueno, yo como
+[02:14:45] el ejemplo que di antes, no tengo una
+[02:14:48] rentabilidad al final del periodo, una
+[02:14:50] parte voy a decidir e eh girar
+[02:14:53] dividendos y otra parte voy a decidir
+[02:14:56] reinvertirla. Eso sería la e de la
+[02:14:59] formulita, ¿sí? Capital propio,
+[02:15:01] patrimonio propio. Sí. Bueno, ¿cuál
+[02:15:03] sería ese costo del patrimonio propio?
+[02:15:06] ¿Cuál es el costo? el costo de
+[02:15:07] oportunidad de estar poniendo ese
+[02:15:09] patrimonio propio en un en esa en esa
+[02:15:12] inversión y no en otra inversión. Sí. O
+[02:15:16] otra forma de financiar esas inversiones
+[02:15:20] puede ser endeudándose. Entonces, la
+[02:15:22] tasa de rentabilidad incluida en la
+[02:15:24] tarifa tendría que garantizar cubrir una
+[02:15:27] parte de ese financiamiento, ¿no?
+[02:15:29] Entonces, eh, la D es la deuda, ¿sí? RD
+[02:15:33] es la tasa en la que toma deuda esa
+[02:15:36] distribuidora o esa empresa eh de la que
+[02:15:39] estamos hablando, ¿sí? Porque no
+[02:15:40] necesariamente la OAC es solamente para
+[02:15:42] el sector de servicio público, ¿no? Eh,
+[02:15:45] es una tasa muy generalizada que se
+[02:15:47] puede usar en distintos eh eh ámbitos de
+[02:15:50] de empresa. Eh, entonces esa
+[02:15:53] ponderación, ¿sí? Fíjense las tasas de
+[02:15:56] la RE y la RD terminan actuando como
+[02:15:58] ponderadores entre lo que sería cuánto
+[02:16:02] pongo de capital propio y cuánto me
+[02:16:05] cuánto me endeudo o cuánto es mi
+[02:16:06] apalancamiento, ¿sí?, para poder
+[02:16:08] realizar esas inversiones. Esa es la
+[02:16:11] definición eh de UAC eh y es la tasa que
+[02:16:15] en general se suele utilizar para
+[02:16:18] reconocer esa rentabilidad. Sí, algunas
+[02:16:21] veces le suman algunos factores en
+[02:16:23] nuestro país. Eh, por ejemplo, en la RT
+[02:16:26] anterior se tomó algo de riesgo país,
+[02:16:29] ahí empieza también algunas veces se
+[02:16:32] suma riesgo regulatorio.
+[02:16:34] Esos conceptos son muy discutidos y ahí
+[02:16:36] entramos como en las zonas grises de
+[02:16:39] discusión de cuál va a ser esa tasa
+[02:16:41] reconocer y discusiones más
+[02:16:43] metodológicas sobre riesgo regulatorio
+[02:16:46] versus mercado cautivo y y bueno,
+[02:16:50] discusiones que que exceden, digamos, la
+[02:16:53] formulita.
+[02:16:55] Si no tienen dudas, más dudas respecto a
+[02:16:57] base de capital, avanzo con costos de
+[02:16:59] explotación. Hasta ahí venimos bien o
+[02:17:01] alguien tiene alguna duda?
+[02:17:04] No,
+[02:17:04] sí, perfecto, gracias. Por lo menos de
+[02:17:07] mi parte,
+[02:17:08] yo te hago una pregunta, Alejandra.
+[02:17:10] Sí, Eugenia,
+[02:17:11] buen día. Para hacer todos estos
+[02:17:13] cálculos, ¿se utilizan la misma base que
+[02:17:15] se usa para la contabilidad regulatoria
+[02:17:17] o hay algún cambio de criterio
+[02:17:18] particular?
+[02:17:20] No, ahora si querés guardo esa pregunta
+[02:17:23] para dentro de un par de filminas cuando
+[02:17:25] hablemos de lo que es el proceso
+[02:17:26] integral de un RTI, eh, y charlamos un
+[02:17:29] poco de eso. Sí,
+[02:17:31] las fuentes de información.
+[02:17:34] Bueno, costos de explotación, sí, acá
+[02:17:36] retomo algunos conceptos que ya fui
+[02:17:38] mencionando varias veces anteriormente,
+[02:17:40] ¿no? Costos eficientes, sobre todo la
+[02:17:42] palabra eficientes aparece mucho en la
+[02:17:44] presentación porque es muy muy digamos
+[02:17:48] eh preponderante en lo que es el esquema
+[02:17:50] de Price Cap, ¿no? Entonces, lo que se
+[02:17:53] busca es determinar en un modelo de
+[02:17:54] Price Cap costos eficientes. Como dije,
+[02:17:57] en un esquema de costo plus, no vamos a
+[02:17:59] tener tanto la palabra eficiente, sino
+[02:18:01] que lo que se busca es reconocer los
+[02:18:02] costos reales, es decir, que esa tarifa
+[02:18:04] pueda pagar los costos que efectivamente
+[02:18:06] tiene ese servicio. ¿Sí? ¿Cómo se hace
+[02:18:09] para determinar cuáles son los costos
+[02:18:11] eficientes? Bueno, dos dos metodologías
+[02:18:13] son las más utilizadas. Algo de esto
+[02:18:15] creo que también vieron ya con Nadia.
+[02:18:18] Eh, benchmarking, ¿sí? Lo que es el
+[02:18:20] benchmarking lo vieron con detalle,
+[02:18:22] comparación entre distintas empresas.
+[02:18:24] Eh, sí se utilizan indicadores, en
+[02:18:27] general se pueden se pueden hacer
+[02:18:29] indicadores vinculados a cuestiones más
+[02:18:31] técnicas eh o de descriptivas de cómo es
+[02:18:34] esa área de concesión, ¿no? por ejemplo,
+[02:18:37] valores de dotación por kilómetros de
+[02:18:40] línea, eh dotación por empleados, activo
+[02:18:44] eh costos por por kilómetro, eh
+[02:18:48] variables de densidad, ¿sí? Se se suelen
+[02:18:52] utilizar indicadores que permitan hacer
+[02:18:54] ciertas comparaciones, ¿sí? Eh, o como
+[02:18:58] mencioné lo que sería una empresa
+[02:19:00] modelo, simular una empresa modelo donde
+[02:19:02] esos costos sean eficientes, esas
+[02:19:04] operaciones eh de mantenimiento sean
+[02:19:07] planificadas eh de una manera eh que
+[02:19:11] garantice unos menores costos y mayor
+[02:19:14] eficiencia. ¿Sí?
+[02:19:17] Bueno, y finalmente el cuadradito que
+[02:19:20] teníamos como separado y que es eh un
+[02:19:23] ítem relevante, ¿sí? Para poder
+[02:19:27] garantizar esa calidad del servicio,
+[02:19:29] ¿no? Porque si no tenemos inversiones,
+[02:19:30] no podemos garantizar que el servicio
+[02:19:34] pueda ir acompañando eh por un lado que
+[02:19:37] no se desvalorice esa base de capital
+[02:19:39] que ya tenemos y por el otro lado los
+[02:19:41] crecimientos de demandas. ¿Sí? Entonces,
+[02:19:43] ¿cuál es cómo pagar esas inversiones?
+[02:19:45] Como mencioné, en el modelo de Pricecap
+[02:19:48] se financian con esa tasa de
+[02:19:50] rentabilidad o en el modelo de costo
+[02:19:52] plus se pueden incluir eh algún tipo de
+[02:19:56] financiamiento más explícito, eh más con
+[02:20:00] un criterio de flujos de fondos
+[02:20:02] necesarios para garantizar esa
+[02:20:03] inversión. ¿Sí? Entonces, ¿cómo lo vamos
+[02:20:06] a financiar? va a depender del modelo
+[02:20:08] regulatorio. Las empresas que participen
+[02:20:10] de un proceso de revisión tarifaria
+[02:20:12] integral en general tienen que
+[02:20:14] presentar, digo en general porque por
+[02:20:15] ejemplo después vamos a hablar del
+[02:20:17] proceso actual, pero por ejemplo a las
+[02:20:18] municipales no les hemos pedido plan de
+[02:20:20] inversiones explícito, pero eh en
+[02:20:23] general si hablamos de de empresas
+[02:20:25] privadas de prestación del servicio, eh
+[02:20:28] tienen que presentar un plan de
+[02:20:29] inversiones para ese periodo
+[02:20:30] regulatorio. Sí, esos planes de
+[02:20:32] inversión pueden ser expansión de redes,
+[02:20:34] renovación de activos, como mencionó la
+[02:20:38] la compañera de Tandil, una
+[02:20:40] modernización tecnológica, cuáles son
+[02:20:42] las obras necesarias para mejoras en la
+[02:20:44] calidad, etcétera. Sí, estos son como
+[02:20:46] grandes grupos conceptuales, pero bueno,
+[02:20:50] podríamos ir alojando en distintas en
+[02:20:52] esos distintos conceptos distintos
+[02:20:54] planes de inversión y un poco al al con
+[02:20:57] el espíritu de sintetizar todo lo que ya
+[02:21:00] venimos viendo, ¿sí? Y y repasar lo que
+[02:21:02] vimos hasta ahora. Entonces, ese ingreso
+[02:21:05] requerido que habíamos visto como ese
+[02:21:07] primer cuadradito que era la definición
+[02:21:08] de nivel, va a estar compuesto por los
+[02:21:11] costos de explotación, como dijimos que
+[02:21:13] son los costos de OIM, los costos de
+[02:21:15] administración y comercialización, todo
+[02:21:17] lo necesario para el funcionamiento de
+[02:21:19] esa red, la depreciación, ¿sí? Es que
+[02:21:23] para que la base de capital se mantenga
+[02:21:26] y esa base de capital con una tasa de
+[02:21:28] rentabilidad a reconocer. la base de
+[02:21:30] capital, que puede ser o el BNR
+[02:21:33] depreciado o no depreciado, o la base de
+[02:21:35] capital real en un esqu de costo plus.
+[02:21:37] Sí. Y aparte sume las inversiones en el
+[02:21:41] caso que uno las quiera sumar
+[02:21:42] explícitamente como un plan obligatorio
+[02:21:44] de inversión con un financiamiento
+[02:21:46] propio.
+[02:21:48] Bueno, con eso estamos con el primer
+[02:21:50] punto. Hasta ahí eh respecto de la
+[02:21:53] definición de ingreso requerido, de las
+[02:21:55] definiciones teóricas. Sí, hasta ahí
+[02:21:57] vamos. ¿Alguien más quiere hacer alguna
+[02:22:00] consulta o seguimos? Me quedan 20
+[02:22:02] minutos y y voy a meterle patructura.
+[02:22:08] ¿Cómo pasamos de esto que venimos
+[02:22:10] hablando y de este ingreso regulatorio a
+[02:22:13] el cuadro tarifario, si cómo se conforma
+[02:22:15] esa tarifa? ¿Cómo lo vamos a recaudar?
+[02:22:18] Bueno, yo acá eh esto vieron mucho de
+[02:22:20] esto con Emiliano Carrera, así que no
+[02:22:22] quiero profundizar en cómo se asignan y
+[02:22:26] se alojan esos costos, pero tiré acá
+[02:22:29] como títulos como para no perder las
+[02:22:31] ideas y que lo tengan presente. ¿Cuáles
+[02:22:34] conceptos de la clase que dio él te
+[02:22:36] vinculan con cómo recaudamos ese ingreso
+[02:22:39] requeridos? Sí, por un lado vamos a
+[02:22:41] tener todo lo que son datos duros de
+[02:22:44] curva de carga y pérdidas, que son
+[02:22:45] parámetros
+[02:22:47] teóricos, conceptuales, eh teóricos,
+[02:22:50] reales, pero son parámetros físicos,
+[02:22:52] digamos, ¿no? Cómo cómo demanda la curva
+[02:22:55] de carga, ya la deben haber visto, es
+[02:22:57] cómo se eh
+[02:23:00] distribuye esa demanda en las 24 horas,
+[02:23:03] ¿no? Y sobre todo nos nos es muy
+[02:23:06] necesaria para establecer lo que se
+[02:23:08] llama como simultaneidad de potencia,
+[02:23:10] que es cuáles son los momentos de pico,
+[02:23:12] ¿sí? Los momentos donde hay mayor
+[02:23:14] demanda de potencia y cómo esa demanda
+[02:23:17] pico se da entre algunos usuarios al
+[02:23:19] mismo tiempo o no. Sí, con esas
+[02:23:21] parámetros físicos de distribución de la
+[02:23:24] demanda también se establece cómo se van
+[02:23:26] a asignar esos costos. Sí. Y eso va a
+[02:23:30] estar vinculado con las pérdidas y el
+[02:23:33] nivel de tensión donde estamos. Yo vi la
+[02:23:35] presentación de Emiliano donde había un
+[02:23:37] grafiquito donde estaba por nivel de
+[02:23:39] tensión, baja tensión, media tensión. A
+[02:23:42] medida que uno va cambiando los niveles
+[02:23:44] de tensión donde
+[02:23:47] eh está el tipo de usuario, cuanto más
+[02:23:50] baja es la tensión, mayores van a ser
+[02:23:51] las pérdidas técnicas. Sí. Cuanto más
+[02:23:54] alta sea la tensión, menos van a ser las
+[02:23:56] pérdidas técnicas. Bueno, todo esto
+[02:23:57] tiene que estar incluido en la tarifa.
+[02:23:59] ¿Sí? Ahora, ¿cómo queremos todos esos
+[02:24:02] conceptos que son más eh eh reales y
+[02:24:06] físicos de cómo usamos la red? Eh,
+[02:24:09] vincularlo con la recaudación del
+[02:24:12] ingreso requerido, ¿no? Bueno, eso va a
+[02:24:14] estar vinculado con las definiciones de
+[02:24:16] tipos de usuarios, ¿sí? Si tenemos, por
+[02:24:19] ejemplo, los usuarios tarificados por
+[02:24:21] uso o por eh o por tipo de usuario o por
+[02:24:26] modalidad de uso, las categorías
+[02:24:28] tarifarias, ¿cuántas categorías
+[02:24:30] tarifarias tenemos? Sí. Cargos fijos,
+[02:24:33] cargos variables, ¿cuántos escalones
+[02:24:35] tenemos? Tenemos escalones, tenemos
+[02:24:37] bloques crecientes. Si ustedes se ponen
+[02:24:39] a mirar un poco de cuadros tarifarios de
+[02:24:42] otros países, otras provincias, van a
+[02:24:43] ver que la variedad en estructuras
+[02:24:45] tarifarias es enorme. Eh, hay distintas,
+[02:24:49] según la provincia, según el país, las
+[02:24:50] distintas las distintas estructuras
+[02:24:52] saliendo de los esquemas más básicos de
+[02:24:55] cargo fijo y cargo variable, ¿no? Cargos
+[02:24:57] de potencia. Bueno, todo eso va a estar
+[02:24:58] vinculado con la señal de precios que
+[02:25:01] queremos dar, ¿no? ¿Cuál es la señal de
+[02:25:02] precios que queremos dar? Por ejemplo,
+[02:25:04] queremos dar una señal horaria de
+[02:25:05] precio, entonces ahí tenemos que poner
+[02:25:07] un cargo abierto de manera horaria, así
+[02:25:10] como hoy tenemos, por ejemplo, bueno, eh
+[02:25:13] los T3 que tienen la energía abierta en
+[02:25:15] Pico Resto Valle, siguiendo la
+[02:25:17] desagregación horaria que establece
+[02:25:18] Camesa. Sí, pero bueno, queremos dar una
+[02:25:20] señal de precios para poder guiar esa
+[02:25:22] curva de carga o ese pico de la curva
+[02:25:25] hacia otro momento del día. queremos dar
+[02:25:28] eh eh alguna señal, por ejemplo, para
+[02:25:32] categorías nuevas como pueden ser eh la
+[02:25:35] electromovilidad, la generación
+[02:25:36] distribuida. Bueno, ¿de qué manera eh
+[02:25:39] armamos ese rompecabezas tarifario para
+[02:25:43] que la demanda utilice la red de la
+[02:25:46] manera más eficientemente posible, sin
+[02:25:49] generar problemas en la calidad? Eh, y
+[02:25:52] recaudando ese ese requerimiento de
+[02:25:54] ingresos de una manera eh justa para los
+[02:25:58] usuarios, pero que también garantice esa
+[02:26:00] recaudación para las distribuidoras. Con
+[02:26:04] todos estos criterios y estas
+[02:26:05] definiciones, finalmente obtenemos los
+[02:26:08] cuadros tarifarios a aplicar.
+[02:26:12] Para la pregunta de la compañera, eh, no
+[02:26:16] me acuerdo ahora el nombre, Eugenia, era
+[02:26:17] Eugenia Rivera, ¿no? Sí, vos me habías
+[02:26:19] preguntado de los la información. Sí, yo
+[02:26:22] acá hice un esquemita muy básico de lo
+[02:26:24] que sería un proceso típico de una RTI y
+[02:26:28] bueno, quienes estén de ustedes, me
+[02:26:30] imagino que varios de ustedes deben
+[02:26:32] estar participando desde el punto de
+[02:26:34] vista de distribuidores municipales o
+[02:26:36] distribuidores provinciales en la RTI
+[02:26:39] que está en curso, eh pueden haber
+[02:26:41] participado sobre todo en el segundo
+[02:26:44] punto que es presentación de la
+[02:26:45] información requerida. ¿Sí? Entonces, eh
+[02:26:49] ahí respondiendo a Eugenia, eh en
+[02:26:52] general la información de contabilidad
+[02:26:54] regulatoria no tiene la desagregación
+[02:26:56] que uno necesita para una revisión
+[02:26:58] tarifaria integral porque no está
+[02:27:00] desagregada por nivel de tensión, sí,
+[02:27:02] por tipo de red. Eh, en la revisión
+[02:27:06] tarifaria uno necesita poder esos costos
+[02:27:08] de OIM y esa base de capital asignarla
+[02:27:12] en función de esa de esas niveles de
+[02:27:14] tensión para luego poder hacer esa
+[02:27:16] asignación tarifaria que vimos en la
+[02:27:17] film anterior por tipo de usuario, por
+[02:27:19] nivel de tensión, por tipo de uso. ¿Sí?
+[02:27:22] Entonces, eh la información de
+[02:27:25] contabilidad regulatoria es muy útil,
+[02:27:27] por ejemplo, la utilizamos mucho para el
+[02:27:29] proceso de cooperativas para eh validar
+[02:27:33] la información presentada, ¿sí? O sea,
+[02:27:36] como como validador. ¿Por qué? Porque
+[02:27:38] desde el punto de vista del estado
+[02:27:40] tenemos este problema de asimetría de la
+[02:27:43] información. Por lo tanto, toda aquella
+[02:27:44] información que hemos solicitado, buscar
+[02:27:47] herramientas que ya tengamos dentro de
+[02:27:49] los pedidos de información corrientes
+[02:27:51] para validar que esa información sea
+[02:27:53] certera que se está presentando.
+[02:27:55] Entonces, bueno, yo ahí en un en este
+[02:27:57] proceso eh que armé puse, bueno,
+[02:28:01] establecimiento de objetivos y
+[02:28:02] metodología, eso es propio del
+[02:28:03] regulador, eh solicitud de información y
+[02:28:06] presentación de información por la
+[02:28:08] empresa. Como mencioné, bueno, varios de
+[02:28:10] ustedes deben haber participado. Hemos
+[02:28:12] hecho muchos pedidos de información
+[02:28:14] tanto a provinciales a través del SEARE
+[02:28:16] como a cooperativas con los módulos que
+[02:28:19] han tenido que completar para para que
+[02:28:22] en nuestra dirección podamos eh
+[02:28:24] analizarlos. Luego viene, una vez que se
+[02:28:26] finaliza la etapa de entrega de
+[02:28:28] información, el análisis técnico y
+[02:28:29] económico del regulador, se definen los
+[02:28:32] planes de inversión y se determina
+[02:28:34] finalmente cuál va a ser ese ingreso
+[02:28:36] requerido a través de costos eficientes
+[02:28:38] y y la definición de los costos y del
+[02:28:40] costo de capital. Luego ese ingreso
+[02:28:43] requerido, como vimos teóricamente
+[02:28:45] antes, se incluye dentro de la
+[02:28:47] definición de lo que es la estructura
+[02:28:49] tarifaria y se llega a una propuesta
+[02:28:51] tarifaria, a un cuadro tarifario. Y
+[02:28:53] finalmente se concluye el proceso con
+[02:28:55] una audiencia pública y luego de la
+[02:28:58] audiencia pública la aprobación del
+[02:28:59] cuadro tarifario final. Como vengo de
+[02:29:02] tiempo me quedan 15 minutos.
+[02:29:05] Eh, bueno, con esto termino la parte
+[02:29:09] teórica. Ahora me voy a meter un poquito
+[02:29:10] más en la RTI 2017 y en la RTI actual.
+[02:29:14] ¿Tienen alguna duda conceptual
+[02:29:17] o algo? Avanzo si no.
+[02:29:21] Sí,
+[02:29:21] sí. Perfecto, gracias.
+[02:29:23] Perfecto. Bueno, seguimos entonces.
+[02:29:26] Antecedentes. Voy a esta la voy a pasar
+[02:29:28] muy rápido, eh, porque ya es digamos
+[02:29:32] como un antecedente de aplicación, pero
+[02:29:35] me interesa hablar un poquito de los
+[02:29:37] objetivos de la RT. Bueno, como mencionó
+[02:29:41] Guille, antes de de esta de este bloque
+[02:29:45] de la clase, hubo una resolución, la
+[02:29:47] resolución 419 que aprobó la revisión
+[02:29:50] tarifaria que se realizó para el
+[02:29:52] quinquenio 2017-2022,
+[02:29:55] que se realizó para las distribuidoras
+[02:29:56] provinciales. Eh, esa RTI fue llevada a
+[02:29:59] cabo por una consultora privada que fue
+[02:30:02] en mercados energéticos, donde
+[02:30:03] establecieron lo que hemos visto como
+[02:30:06] nivel tarifario, ¿no? En la reti
+[02:30:08] anterior no se han realizado cambios en
+[02:30:11] las estructuras de los cuadros. Lo que
+[02:30:12] sí se ha eh creado fue el área Río de la
+[02:30:16] Plata, que anteriormente no existía,
+[02:30:17] como han visto en otras en otras clases,
+[02:30:20] el área eh lo que es CDELP y el área río
+[02:30:24] eh lo que es CDELP pertenecía a SEBA y
+[02:30:26] entonces por eso tiene tenía digamos en
+[02:30:28] su momento tiene la estructura de
+[02:30:32] tarifaria de SEGBA y cuando se pasa a la
+[02:30:35] provincia sí quedó durante un tiempo sin
+[02:30:38] que se haya creado esa esa área Río de
+[02:30:40] la Plata que se crea con la resolución
+[02:30:42] 419. Sí. Eh, en cuanto al tratamiento de
+[02:30:47] la RTI para las distribuidoras
+[02:30:48] municipales,
+[02:30:50] ¿no? En en ese caso hubo, según lo que
+[02:30:53] un hemos podido reconstruir, no se ha
+[02:30:57] podido llegar a a la información
+[02:30:59] necesaria de las municipales, por lo
+[02:31:01] tanto han construido a través de los
+[02:31:03] cuadros de referencia extrapolado de
+[02:31:05] manera porcentual ese aumento. Por lo
+[02:31:08] tanto, no se modificó esa asignación del
+[02:31:10] Fondo Provincial Compensor Tarifario,
+[02:31:12] que data del año 2001.
+[02:31:16] Esa se mantiene a la fecha de manera de
+[02:31:19] la misma manera. Y lo que hizo el rezo
+[02:31:22] 419 también en el marco de CRTI fue
+[02:31:25] establecer una fórmula de ajuste anual,
+[02:31:27] ¿sí?, para la actualización de de
+[02:31:30] tarifa. Algunos algunos conceptos. Eh,
+[02:31:34] bueno, esto como mencioné, eh, hay dos
+[02:31:37] conceptos grandes, costos de capital y
+[02:31:39] costos de explotación. Y el costo de de
+[02:31:42] capital les contempla una rentabilidad
+[02:31:45] que se utilizó el método de la UAP, eh,
+[02:31:48] y una amortización, ¿sí? E
+[02:31:54] esto, esta definición del costo de
+[02:31:55] capital, como mencioné cuando hablé de
+[02:31:58] la WAC, en general es como el punto más
+[02:32:00] sensible, ¿no? Porque, bueno, ¿qué
+[02:32:01] metodología se utiliza? ¿Cuáles son los
+[02:32:03] supuestos? ¿Cuál es esa desagregación de
+[02:32:06] de activos que se va a considerar? Eh,
+[02:32:09] ¿quién financió esos activos? ¿De qué
+[02:32:11] fecha datan? Sí, porque en función de
+[02:32:14] toda esa definición de esas bases de
+[02:32:16] informaciones que finalmente nos va a
+[02:32:18] dar ese valor de la del costo de capital
+[02:32:21] a reconocer. Sí. Y finalmente eso va a
+[02:32:25] llegar al cuadro tarifario. Como
+[02:32:27] mencionaba. Bueno, el costo de capital
+[02:32:29] en el caso de la rete anterior tuvo un
+[02:32:31] peso sobre los ingresos reconocidos del
+[02:32:33] 54%. Sí. La tasa de rentabilidad
+[02:32:37] reconocida fue del 12,27 antes de
+[02:32:40] impuestos. Eh, el factor de depreciación
+[02:32:43] fue del 0,5,5,
+[02:32:46] perdón, 50%.
+[02:32:48] E como mencioné también previamente, se
+[02:32:51] utilizó un valor nuevo de reposición,
+[02:32:53] pero depreciado en ese valor, ¿sí? O
+[02:32:55] sea, el valor nuevo de reposición o
+[02:32:57] valor neto de reposición al 50%.
+[02:33:01] Eh, y se incluyó un concepto de
+[02:33:04] inversiones que se denominó CACHAP, que
+[02:33:07] eran activos necesarios para poner eh
+[02:33:10] recuperar condiciones operativas.
+[02:33:15] Respecto de los costos de explotación,
+[02:33:17] se utilizó un método de benchmarking,
+[02:33:20] ¿sí? sobre todo el costo de personal eh
+[02:33:23] a través de de ratios eficientes. Estos
+[02:33:26] valores que hemos analizado respecto de
+[02:33:28] los valores de de balance han dado
+[02:33:30] similares a los costos reales, mientras
+[02:33:33] que todo lo que tiene que ver con otros
+[02:33:35] costos se calcularon con con ratios y
+[02:33:39] ahí observamos una sobreestimación del
+[02:33:42] 20% de los otros costos.
+[02:33:45] Eh, fórmula de ajuste. Esta la voy a
+[02:33:47] pasar muy rápido en la fórmula de
+[02:33:49] ajuste. Esta es la fórmula de ajuste. La
+[02:33:51] formulita eh la me imagino que muchos de
+[02:33:54] ustedes ya la han trabajado o la
+[02:33:55] conocen. Principalmente la fórmula de
+[02:33:58] ajuste incluye
+[02:34:01] el índice de salarios, el índice de
+[02:34:03] precios mayoristas, el índice de precios
+[02:34:05] al consumidor y el tipo de cambio. Sí,
+[02:34:07] es una polinómica que pondera. Pondera
+[02:34:09] en función de la estructura de costos.
+[02:34:11] ¿Sí? Entonces, en función de cómo uno
+[02:34:13] defina la estructura de costos, ya sea
+[02:34:15] de capital, que es el que multiplica por
+[02:34:17] este alfa, como el costos operativos que
+[02:34:19] multiplica por el beta, fíjense, en
+[02:34:21] costos operativos 75% pondera salarios y
+[02:34:25] 25 el IPC, mientras que en costos de
+[02:34:28] capital incluye, por ejemplo, los
+[02:34:31] precios mayoristas o el tipo de cambio.
+[02:34:33] Sí. Y las diferencias por empresas
+[02:34:36] radican en función de sus estructuras de
+[02:34:38] costos propias.
+[02:34:40] Eh, como mencioné, inversiones se
+[02:34:43] estableció este concepto de cachap. Eh
+[02:34:46] nosotros eh hemos cuestionado un poco la
+[02:34:49] forma en la que se establecieron estas
+[02:34:52] inversiones en la RTI anterior, porque
+[02:34:55] no estaban nominadas o no tenían eh
+[02:34:58] plazos eh nominadas, quiero decir, como
+[02:35:01] nombre y apellido, ¿no? O sea,
+[02:35:03] subestación eh tal lugar, red de tanta
+[02:35:07] tensión en tal lugar, sino que eh era
+[02:35:09] como un monto global de plata. Eh,
+[02:35:13] tampoco se estableció un mecanismo claro
+[02:35:15] de actualización. Mientras que la tarifa
+[02:35:17] estaba actualizada, estos con estos
+[02:35:19] valores no se no estaban actualizados,
+[02:35:21] sino que estaba la suma de de esa plata
+[02:35:23] para todo el quinquenio. Eh, después
+[02:35:26] quedaría en función de a discutir si ese
+[02:35:30] monto se actualiza igual que la tarifa o
+[02:35:31] no. Eh, bueno, lo cual ha dificultado no
+[02:35:36] solo a esta gestión, sino a la gestión
+[02:35:38] previa a nosotros los controles de esas
+[02:35:41] de esas inversiones comprometidas.
+[02:35:45] Bueno, con esto fui muy rápido, RT
+[02:35:47] anterior, me quedan 10 minutos para
+[02:35:49] hablar de la situación actual. Bueno,
+[02:35:50] como mencionó Guille, todos saben que
+[02:35:53] estamos en una revisión perifaria
+[02:35:55] integral en este momento, por lo tanto,
+[02:35:57] esta clase quizás a varios de ustedes
+[02:36:00] les haya generado algo de expectativa.
+[02:36:03] Me voy a a limitar a las cuestiones que
+[02:36:06] son de públicas o que han surgido a
+[02:36:09] través de la normativa pública.
+[02:36:12] para como todavía no estamos en un
+[02:36:14] proceso de cierre, si bien para fin de
+[02:36:16] año se estima que va a concluir el
+[02:36:19] proceso, no quiero e mencionar nada
+[02:36:23] fuera de lugar. Entonces, la resolución
+[02:36:25] 1133 del 2024 dio inicio a este proceso
+[02:36:28] de de RTI y para eso autoriza a la
+[02:36:32] subsecretaría de energía a realizar
+[02:36:33] todos los actos necesarios para llevarla
+[02:36:35] a cabo. ¿Y cuáles son esos actos? Bueno,
+[02:36:37] todos los pedidos de información, todos
+[02:36:39] los la resolución, luego la firma del
+[02:36:43] convenio con el con la UVA, la creación
+[02:36:46] de la comisión de seguimiento. Si, esa
+[02:36:48] comisión de seguimiento está conformada
+[02:36:50] por todos los que eh presidida por el
+[02:36:53] subsecretario y está conformada por por
+[02:36:56] quien les habla, por Guillermina Cinti,
+[02:36:59] Marcelo Garrido, que es el director
+[02:37:01] provincial de energía y el presidente
+[02:37:04] Losa, Diego Rosengar. Eh, luego otra
+[02:37:08] resolución importante, si la quieren la
+[02:37:10] pueden buscar porque ahora voy a hacer
+[02:37:11] referencia a los objetivos que figuran
+[02:37:13] en su anexo. Se aprueba el convenio eh
+[02:37:16] con la UBA, ¿sí?, con la Facultad de
+[02:37:19] Derecho de la UA, que específicamente es
+[02:37:22] con el Care, quienes hemos contratado de
+[02:37:25] consultores para que asesoren a la
+[02:37:27] subsecretaría de energía en este
+[02:37:28] proceso. Sí, en esa resolución van a
+[02:37:30] encontrar ese convenio y van a encontrar
+[02:37:33] como anexo eh el primer plan de trabajo
+[02:37:35] para la etapa uno de de la RTI, donde se
+[02:37:38] establecen algunos de los objetivos e de
+[02:37:42] la revisión tarifaria integral.
+[02:37:44] Yo ahora voy a hablar un poco de esos
+[02:37:46] objetivos que figuran en ese documento.
+[02:37:49] Me puse acá los objetivos generales
+[02:37:51] porque eh si no desagregarlo será muy
+[02:37:55] muy largo, pero quien les le interese
+[02:37:57] puntualmente puede ir a ese anexo y esto
+[02:37:59] cada uno de estos objetivos generales
+[02:38:01] está desagregado en en objetivos
+[02:38:04] específicos mucho más desagregados para
+[02:38:06] cada ítem, ¿no?
+[02:38:09] Pero bueno, para compartirles a quienes
+[02:38:10] no estén tan en tema de la RTI, cuáles
+[02:38:12] son las líneas principales en las que
+[02:38:15] estamos trabajando, como mencioné
+[02:38:18] teóricamente, lo primero a definir un
+[02:38:19] RTI es el nivel. Entonces, vamos a
+[02:38:21] hablar de que establecer el
+[02:38:23] requerimiento de ingresos de las
+[02:38:25] empresas distribuidoras y ahí aclaré
+[02:38:27] provinciales y municipales, porque este
+[02:38:29] proceso no es solo para las
+[02:38:30] provinciales, sino que es para las 204
+[02:38:33] para garantizar la prestación del
+[02:38:34] servicio en condiciones de calidad. Eh,
+[02:38:37] también hay como objetivo la elaboración
+[02:38:39] de un plan de inversiones obligatorias
+[02:38:41] de largo plazo. Otro objetivo está
+[02:38:44] vinculado al segundo punto teórico que
+[02:38:46] vimos, que es la la estructura, ¿no?
+[02:38:48] Diseñar un cuadro tarifario nuevo
+[02:38:50] revisando la estructura actual, las
+[02:38:52] categorías tarifarias, la asignación de
+[02:38:54] costos y el modelo de Pastrú. Sí. E
+[02:38:58] definir una categoría de tarifa social
+[02:39:00] que garantice la asequibilidad del
+[02:39:01] servicio público por parte de sectores
+[02:39:03] de menores ingresos. Definir nuevos
+[02:39:06] parámetros de calidad del servicio y
+[02:39:08] producto y establecer nuevas
+[02:39:09] penalidades. Eso es parte de el análisis
+[02:39:12] que se está realizando de los subanexos
+[02:39:16] de y E. Sí, entiendo que ya tuvieron una
+[02:39:19] clase de las primeras de los uanexos.
+[02:39:22] Bueno, en un en un proceso de RTI todas
+[02:39:25] las condiciones de calidad, no no hice
+[02:39:27] hincapié en eso en la parte teórica, eh,
+[02:39:30] pero
+[02:39:31] las condiciones de calidad pueden ser
+[02:39:33] revisadas, ¿no? Entonces, bueno, ¿cuál
+[02:39:35] es la calidad que eh se va a exigir y
+[02:39:38] que va a acompañar ese nivel tarifario,
+[02:39:40] ¿no? Este nivel tarifario, ¿alcanza para
+[02:39:42] determinada exigencia de calidad o no
+[02:39:44] alcanza? Eh, luego otro objetivo y muy
+[02:39:47] importante para quienes estén
+[02:39:48] conectados, que sean de las cooperativas
+[02:39:50] es la revisión y la reasignación del
+[02:39:52] Fondo Provincial Compensador Tarifario.
+[02:39:54] Como mencionamos y como explicó Esteban,
+[02:39:57] esto está desde el 2001, esta asignación
+[02:39:59] eh realizada eh para esas cooperativas.
+[02:40:03] Por lo tanto, desde el 2001, bueno, han
+[02:40:05] pasado 25 años, el mercado ha cambiado,
+[02:40:09] las condiciones han cambiado, entonces
+[02:40:11] es necesario, digamos, revisar esa
+[02:40:13] estructura y redefinir esa distribución
+[02:40:16] de de esa torta llamada fondo
+[02:40:18] compensador, ¿no? Y finalmente evaluar
+[02:40:21] cuáles sean las acciones necesarias para
+[02:40:23] incluir en el marco de la actual
+[02:40:25] transición energética de la cual
+[02:40:27] mundial, de la cual la provincia de
+[02:40:29] Buenos Aires no se puede quedar ajena y
+[02:40:31] que también tiene en agenda.
+[02:40:33] E
+[02:40:36] quise incluir también para para quienes
+[02:40:39] estén puntualmente de cooperativas un
+[02:40:41] poco una aclaración. Esto sería como
+[02:40:44] bueno, todo lo que vimos teórico de cómo
+[02:40:48] calcular ese nivel de requerimiento de
+[02:40:50] ingresos también se calcula para las
+[02:40:52] cooperativas. Sí. eh aquellas
+[02:40:55] distribuidoras municipales eh eh que
+[02:40:58] completaron, que son en su mayoría sí,
+[02:41:01] en han cumplido con el requerimiento de
+[02:41:04] información, nos han presentado
+[02:41:06] información de costos, de base de
+[02:41:08] capital, de eh eh de estructura de
+[02:41:12] mercado. con toda esa información que
+[02:41:15] ustedes nos han ido enviando a
+[02:41:17] principios de año, desde noviembre del
+[02:41:19] año pasado hasta más o menos marzo de
+[02:41:21] este año que cerramos la recepción de
+[02:41:23] información, con toda esa información se
+[02:41:26] ha trabajado en calcular ese nivel de
+[02:41:28] requerimiento de ingresos, ¿sí? Se ha
+[02:41:30] calculado una base de capital, se ha
+[02:41:32] calculado una depreciación, eh se ha se
+[02:41:35] va a calcular con la misma tasa de
+[02:41:37] rentabilidad que se reconozca las a las
+[02:41:39] provinciales aplicada a esa base de
+[02:41:42] capital de las municipales para que sea
+[02:41:44] un espejo, ¿sí? que una digamos un
+[02:41:47] equiparamiento de las condiciones. Eh,
+[02:41:50] se han establecido costos medios
+[02:41:54] eficientes de en base a la comparación
+[02:41:57] de los información de las 200 y con todo
+[02:42:01] eso se ha llegado a un requerimiento de
+[02:42:03] ingresos individual, es decir, 200
+[02:42:06] requerimientos de ingresos para las
+[02:42:07] municipales. ¿Sí? Ahora, ¿cómo reciben
+[02:42:10] esas municipales ese requerimiento de
+[02:42:12] ingreso? diciendo que eh ustedes me
+[02:42:15] podrían decir, "Bueno, Alejandra, pero
+[02:42:16] vos dijiste nivel y estructura
+[02:42:19] tarifaria, pero bueno, yo por estructura
+[02:42:21] tarifaria no recibo el cuadro tarifario
+[02:42:23] acorde a mi nivel, sino que recibo el
+[02:42:26] cuadro tarifario acorde al nivel de la
+[02:42:28] distribuidora provincial del área de
+[02:42:29] referencia." ¿Sí? Entonces, ahí es donde
+[02:42:32] empieza a aparecer el fondo y donde me
+[02:42:33] interesa hacer como eh e Lupita estos 3
+[02:42:37] minutos que me quedan antes de de
+[02:42:39] terminar la clase. Sí. En base cómo lo
+[02:42:44] recauda esa distribuidora municipal.
+[02:42:48] Nosotros, ¿cómo qué es lo que vamos a
+[02:42:50] calcular? ¿Cuál? En base al mercado
+[02:42:52] declarado por cada una de las 200
+[02:42:54] distribuidoras municipales con mercado
+[02:42:56] declarado nos referimos a su
+[02:42:57] distribución de usuarios, su
+[02:42:59] distribución de de demanda. Todas a
+[02:43:02] todas les hemos pedido sus bases de
+[02:43:04] facturación para poder simular este
+[02:43:06] mercado, incluso eh aunque cambiemos la
+[02:43:09] estructura tarifaria de referencia,
+[02:43:11] poder simularlo de de manera correcta.
+[02:43:14] Entonces, con ese mercado declarado para
+[02:43:16] cada distribuidora, calculamos un
+[02:43:19] producido tarifario de referencia, es
+[02:43:21] decir, cuánto eh reciben por la
+[02:43:24] aplicación del cuadro del cuadro del
+[02:43:27] área de referencia. Sí, fíjense, tenemos
+[02:43:29] mercado base, es decir, nuestra la
+[02:43:32] demanda de cada uno de de las
+[02:43:34] cooperativas e y sus tipos de usuario,
+[02:43:36] ¿sí? Su composición de ese de ese
+[02:43:38] mercado por el cuadro tarifario del área
+[02:43:41] de referencia determinado en el proceso
+[02:43:43] de RTI de las provinciales, nos va a dar
+[02:43:45] un producido tarifario de referencia.
+[02:43:47] Eso es lo que los distribuidores
+[02:43:48] municipales van a recibir, ¿sí? En
+[02:43:51] función de la RI de las provinciales.
+[02:43:54] ¿Sí? Ahora, ¿cómo compensan la
+[02:43:57] diferencia aquellos que su ingreso
+[02:43:59] regulatorio sí sea mayor que lo que
+[02:44:03] obtienen por el tarifario de referencia?
+[02:44:05] Entonces, se toma el requerimiento de
+[02:44:06] ingresos individual y lo subrayé ahí
+[02:44:09] porque esto fue una pregunta que surgió
+[02:44:10] la semana pasada que tuvimos las mesas
+[02:44:12] de discusión, ¿sí? Individual de cada
+[02:44:14] cooperativa
+[02:44:16] y se le resta lo que reciben por el
+[02:44:18] producido tarifo de referencia. La
+[02:44:20] diferencia es la necesidad del Fondo
+[02:44:22] Provincial Compensador Tarifario, que se
+[02:44:24] compensa el concepto de BAT que
+[02:44:27] mencionaba Esteban dentro de la
+[02:44:29] compensación del fondo del fondo
+[02:44:31] tarifario, del fondo compensador
+[02:44:33] tarifario. ¿Sí? Entonces, de los 200
+[02:44:36] requerimientos de ingresos individuales
+[02:44:38] se obtiene una necesidad del fondo y una
+[02:44:40] nueva redistribución de esa torta. Sí. Y
+[02:44:42] con esta filmina cierro ya
+[02:44:45] el último minuto e remarcando este
+[02:44:48] concepto, ¿no? Esta el requerimiento de
+[02:44:51] ingresos de cada distribuidora, ya sean
+[02:44:53] las 204 parte se va a obtener por el
+[02:44:57] cuadro de referencia, ¿sí? En algunos
+[02:44:59] casos va a ser el 100%, como es el caso
+[02:45:01] de las de las eh
+[02:45:06] provinciales o de aquellas cooperativas
+[02:45:08] que por su estructura de mercado no
+[02:45:10] perciben fondo. Eh, y parte en aquellas
+[02:45:13] cooperativas que eh por su estructura sí
+[02:45:16] ameritan recibir fondo, van a recibir
+[02:45:17] ese ingreso regulatorio como fondo
+[02:45:20] provincial compensar tarifario, los cual
+[02:45:23] ese ingreso también es considerado parte
+[02:45:26] del ingreso regulatorio. Sí.
+[02:45:29] Entonces, con esto concluyo. Son las
+[02:45:32] 11:00.
+[02:45:33] Eh, no sé si tienen alguna duda más que
+[02:45:36] puntual.
+[02:45:38] Sí, justito. Eh,
+[02:45:43] no sé si quieren hacer alguna pregunta,
+[02:45:45] algún comentario.
+[02:45:49] Eh, ¿qué tal? ¿Cómo va? Muy buenos días.
+[02:45:52] Buenos días.
+[02:45:54] No sé si se está viendo.
+[02:45:57] Se te ve como
+[02:46:00] va aprendiendo. Va aprendiendo.
+[02:46:02] Eh, una pregunta o tanto para vos, Ale,
+[02:46:04] o como para Guille, cualquiera de las
+[02:46:05] dos, eh, que justo cuando estaban
+[02:46:07] hablando del tema de ahora de la
+[02:46:09] revisión me surgió el tema de los
+[02:46:12] comercializadores. Bien, no se prevé
+[02:46:16] ahora no unos dos años. Eh, la revisión
+[02:46:18] tarifaria en general, eh, ¿tiene pensado
+[02:46:20] abordar ese tema o está dentro de sus
+[02:46:23] puntos la consideración cuando ingresen
+[02:46:27] los comercializadores? Porque ya si bien
+[02:46:29] no afecta en sí a la RT en general,
+[02:46:31] afecta a las distribuidoras por el tema
+[02:46:33] de los usuarios. No sé si se tiene
+[02:46:36] pensado, visto a futuro ese tema.
+[02:46:39] Eh, sí. Mira, primera cuestión que fue
+[02:46:43] introducido como una figura nueva,
+[02:46:47] nueva digamos separada del servicio de
+[02:46:49] distribución y comercialización, como
+[02:46:51] fue dada en exclusividad en los
+[02:46:52] contratos de concesión. Entonces, eh por
+[02:46:55] el marco la modificación al marco
+[02:46:57] regulatorio nacional por este decreto
+[02:46:59] 450 que vimos que modificó la 24065
+[02:47:03] en provincia no lo tenemos incorporado
+[02:47:05] nuestro marco regulatorio como figura o
+[02:47:07] como agente digamos de la actividad
+[02:47:09] eléctrica y además de no tenerlo en el
+[02:47:11] marco regulatorio, nuestros contratos
+[02:47:14] establecen el servicio de distribución y
+[02:47:15] comercialización como unido. ¿Sí?
+[02:47:18] Entonces, con lo que vimos antes, sería
+[02:47:20] una modificación del derecho de
+[02:47:22] exclusividad
+[02:47:24] otorgada y lo veríamos recién al fin o
+[02:47:27] al próximo periodo de gestión. ¿Sí?
+[02:47:30] Entonces, ¿cuándo vamos a ver eso y
+[02:47:31] cuándo vamos a introducir? Cuando
+[02:47:33] termine esta RTI que se está trabajando,
+[02:47:37] se aprueba, se implementa, vence 5 años,
+[02:47:39] como veníamos diciendo antes, en el 2032
+[02:47:43] estaríamos introduciendo la figura del
+[02:47:45] comercializador y bueno, y este tiempo
+[02:47:47] que falta hasta ese momento nos vamos a
+[02:47:49] ir dando cuenta cómo aplica.
+[02:47:52] Okay. Okay, entiendo, entiendo.
+[02:47:53] Perfecto, gracias.
+[02:47:56] De nada.
+[02:47:58] Bien.
+[02:47:59] Eh, puedo hacer una pregunta más al
+[02:48:00] respecto de ese porque es un tema
+[02:48:02] interesante la otra vez en alguna Sergio
+[02:48:04] de Bahía Blanca. Vale, voy manejando,
+[02:48:07] por eso no es lo ideal, pero ahora un
+[02:48:09] segundito.
+[02:48:11] Eh, una consulta con el tema
+[02:48:14] comercializadores.
+[02:48:17] Eh, la distribuidora podría ser el mismo
+[02:48:20] comercializador, digamos, si por lo que
+[02:48:24] te escuché, digamos, estaría dentro de
+[02:48:27] las facultades o yo entendí mal.
+[02:48:30] No, hoy digo la actividad de
+[02:48:32] comercialización
+[02:48:33] está dentro de la concesión otorgada,
+[02:48:35] distribución y comercialización del
+[02:48:37] servicio.
+[02:48:38] Claro, pero no puede obtener una
+[02:48:40] ganancia por esa comercialización. O
+[02:48:43] sea, la el marco regulatorio prevé que
+[02:48:44] para la distribuidora haya una
+[02:48:46] neutralidad del es neutralidad del
+[02:48:48] pastrú quiere es decir que no no gana o
+[02:48:50] pierde por esa acción de comercializar,
+[02:48:53] mientras que la figura de
+[02:48:54] comercializadora se entiende que tiene
+[02:48:56] un fato,
+[02:48:59] perdón, me parece comercializador
+[02:49:01] por eso, pero si formar otra otra
+[02:49:03] empresa cuando se abra. Espera, espera,
+[02:49:05] espera, espera. Yo me refería al
+[02:49:07] comercializador
+[02:49:09] que no opera la red y que simplemente te
+[02:49:13] vende el servicio de distribución de
+[02:49:14] energía eléctrica. La última figura
+[02:49:16] frente al usuario. Sí, ese no va a
+[02:49:18] entrar hasta el próximo vencimiento del
+[02:49:19] periodo de gestión.
+[02:49:21] El comercialismo compra y vende energía
+[02:49:24] y actúa como nexo en la cadena
+[02:49:27] puede intervenir entre el distribuidor
+[02:49:31] y, por ejemplo, camisa o un parque, si
+[02:49:33] fuera renovable, en un contrato a
+[02:49:35] término. Esa figura se puede dar y está
+[02:49:38] habilitado por la resolución 400. Yo con
+[02:49:41] la pregunta de Pablo me fui a la última
+[02:49:43] eslabón, digamos, a la tarea de la
+[02:49:44] distribuidora. Sí. Y ahora cuando Ale
+[02:49:46] dice esto y tú pregunta, me voy a la
+[02:49:48] otra parte.
+[02:49:50] Sí, porque creo que él está preguntando
+[02:49:52] por lo que mencionó de si puede la
+[02:49:53] distribuidora poner otra empresa con
+[02:49:55] otro nombre, pero la misma
+[02:49:57] Exactamente porque en algún momento se
+[02:49:59] evaluó eso en su momento los primeros
+[02:50:01] años de ya empezaba a verse la figura de
+[02:50:04] la comercializadora, obviamente con otro
+[02:50:07] nombre, con otra estructura, ¿no es
+[02:50:08] cierto? No, no, no compitiendo porque es
+[02:50:11] otra figura completamente distinta. Yo
+[02:50:13] creo que eso va a pasar porque
+[02:50:16] eh en su momento no, porque creo que
+[02:50:19] nada lo prohíbe eso.
+[02:50:21] Eso está habilitado por marco
+[02:50:23] regulatorio nacional, por marco
+[02:50:24] regulatorio provincial y según los
+[02:50:27] requisitos tranquilamente podría ser.
+[02:50:29] Ahora, como bien dice Ale, esa figura
+[02:50:31] del comercializador no podría adicionar
+[02:50:33] un costo que nadie va a trasladar a
+[02:50:35] cuadros.
+[02:50:37] No, no, no. en la factura de energía,
+[02:50:39] no, obviamente no no va a poder eh si
+[02:50:42] sigue con esta cuestión, pero yo creo
+[02:50:44] que con los cambios tecnológicos de otra
+[02:50:46] cuestión está faltando una vuelta de de
+[02:50:49] tuerca a todo esto porque van a surgir
+[02:50:51] un montón de mantenimientos, servicios
+[02:50:54] nuevos y cuestiones que van a explotar
+[02:50:57] en estos 10 años próximos, calculo yo, o
+[02:50:59] antes. Eh, por eso preguntaba
+[02:51:05] va a ser interesante ver qué pasa, nada
+[02:51:07] más que eso para no demorarlo mucho más
+[02:51:09] en el en el análisis.
+[02:51:12] Gracias, Guille.
+[02:51:15] A ustedes.
+[02:51:17] Bueno, ¿tienen alguna otra pregunta,
+[02:51:18] comentario,
+[02:51:20] así no le sacamos más tiempo?
+[02:51:24] Bueno,
+[02:51:25] parece que no. Ahí vienen unas manitos.
+[02:51:27] Sí,
+[02:51:28] muchas gracias. sale eh muy clara la
+[02:51:32] imposición.
+[02:51:33] Gracias Pato, que está acá al lado mío.
+[02:51:38] Eh, bueno, gracias a todos, a todos los
+[02:51:41] de la Comisión Uno, que se pudieron
+[02:51:42] sumar hoy cuando no es su día de clases.
+[02:51:46] Eh, bueno, gracias a todos y nos veremos
+[02:51:49] el jueves con la comisión uno de esta
+[02:51:51] misma semana y con la comisión dos nos
+[02:51:53] vemos el próximo martes. Así que gracias
+[02:51:54] a todos.

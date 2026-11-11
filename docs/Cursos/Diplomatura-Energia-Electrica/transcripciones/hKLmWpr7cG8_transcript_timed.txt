@@ -1,0 +1,3814 @@
+[00:00:29] Bueno, buen día. ¿Cómo andan? Espero que
+[00:00:31] todos bien. Vamos a arrancar eh con la
+[00:00:35] clase
+[00:00:39] 16. Se me había borrado el número.
+[00:00:41] [suspiro]
+[00:00:42] Eh, vamos dentro del módulo cuatro de
+[00:00:45] tarifas.
+[00:00:47] Vamos a hablar sobre agregados
+[00:00:49] tarifarios, facturación, recaudación,
+[00:00:52] ingreso al feedba, auditorías de los
+[00:00:54] agregados tarifarios
+[00:00:56] y tarifas especiales.
+[00:00:59] E hoy vamos a contar con la presencia de
+[00:01:03] Eduardo Ponzano, que ya lo conocen, ya
+[00:01:06] ha participado en varias de las clases,
+[00:01:08] así que no lo voy a presentar
+[00:01:10] nuevamente. y de la licenciada María
+[00:01:14] Guillermina Domián y de la doctora
+[00:01:17] Josefina Moreno Kiernan.
+[00:01:20] Les presento Guillermina Domián, es
+[00:01:22] directora de regulación económica de mi
+[00:01:25] dirección provincial.
+[00:01:28] Es economista
+[00:01:30] por la Universidad Nacional de La Plata,
+[00:01:32] es especialista en administración
+[00:01:33] financiera y control del sector público
+[00:01:36] y tiene una extensa trayectoria laboral.
+[00:01:40] y me viene acompañando en mis equipos de
+[00:01:42] trabajo desde hace muchos, muchos años.
+[00:01:45] Y Josefina eh es abogada, como les decía
+[00:01:48] antes, también de la UNLP, tiene
+[00:01:53] eh varias especializaciones
+[00:01:56] eh y ha participado también en el Estado
+[00:02:00] nacional y en el Estado Provincial, en
+[00:02:02] diversos cargos y actividades.
+[00:02:06] E hoy es jefa de control de calidad
+[00:02:09] comercial de la gerencia de control de
+[00:02:12] concesiones del OCEBA. también otra
+[00:02:15] amiga que hace muchos años que nos
+[00:02:17] conocemos y y trabajamos juntas. Así que
+[00:02:19] bueno, hechas las presentaciones, los
+[00:02:22] voy a dejar con los profes de hoy.
+[00:02:25] Eh, va a arrancar Eduardo, ¿verdad?
+[00:02:28] Sí, termino.
+[00:02:36] Bueno, muy bien. Buenos días formalmente
+[00:02:39] para todos. Un gusto volver a compartir
+[00:02:41] con ustedes este espacio de conocimiento
+[00:02:44] y de reflexión.
+[00:02:45] Y en esta oportunidad vamos a, como bien
+[00:02:49] anunciaba Guillermina, vamos a hablar un
+[00:02:51] poco del sistema informático con el cual
+[00:02:53] se maneja el fidecomillo FedBA.
+[00:02:56] Pero claro, este vamos a hacer primero
+[00:02:59] un rápido repaso de cómo se elinó el
+[00:03:03] Foro Regional Eléctrico Buenos Aires y
+[00:03:04] el filicomiso Fedba para después sí este
+[00:03:08] adentrarnos
+[00:03:10] en lo que es el sistema informático, su
+[00:03:12] funcionamiento y los distintos módulos
+[00:03:14] que lo compone.
+[00:03:17] Bien, entonces
+[00:03:20] entrando en materia respecto del origen
+[00:03:23] del FREVA y del FILBA.
+[00:03:26] Eh, si nos remontamos a al siglo pasado
+[00:03:32] y los cambios regulatorios que se
+[00:03:33] operaron en la provincia a partir de la
+[00:03:36] ley 11769,
+[00:03:39] este que seguía el modelo nacional
+[00:03:43] respecto de la organización del sector
+[00:03:44] eléctrico
+[00:03:47] formulado [carraspeo] por la ley 24065.
+[00:03:51] Eh, digo, la ley provincial tomó dos
+[00:03:55] decisiones importantes. Dejar las
+[00:03:58] decisiones de expansión del sistema de
+[00:04:00] transporte en mano de los usuarios,
+[00:04:02] entre ellos obviamente los
+[00:04:03] distribuidores. Y por supuesto que
+[00:04:06] también estos usuarios que tomaban las
+[00:04:08] decisiones de ampliación fueron los
+[00:04:10] responsables de solventar los costos que
+[00:04:13] las mismas demandan.
+[00:04:16] Estas dos cosas eh contadas así muy
+[00:04:19] brevemente y muy simple son las que
+[00:04:21] justamente han dado origen al FREVA,
+[00:04:23] Foro Regional Eléctrico de Buenos Aires
+[00:04:25] y al Firma, Fondo Fiduciario para
+[00:04:27] Inversiones y Transmisión de la
+[00:04:29] provincia de Buenos Aires. Vamos a ver
+[00:04:30] un poco más de este detalle.
+[00:04:39] Obviamente
+[00:04:41] ustedes habrán escuchado ya en sucesivas
+[00:04:43] clases hablar de las características del
+[00:04:46] sistema de transporte eléctrico
+[00:04:47] provincial y una de esas características
+[00:04:50] justamente es que se trata de un sistema
+[00:04:53] bastante mallado, como decimos en la
+[00:04:55] jerga. ¿Qué quiere decir eso? Que hay
+[00:04:57] mucha interrelación entre los distintos
+[00:04:59] nodos de la red, los nudos que la
+[00:05:02] conforman. Y esto hace que alguna
+[00:05:06] decisión de ampliación en algún nudo o
+[00:05:09] en algún vínculo afecte no solamente ese
+[00:05:12] nudo o ese vínculo, sino que puede
+[00:05:14] afectar a otra parte del sistema.
+[00:05:17] Entonces, en función de esto, es
+[00:05:19] necesario que se haga una coordinación
+[00:05:23] en las ampliaciones del transporte,
+[00:05:25] asegurando básicamente que estas
+[00:05:27] continúen siendo eficientes y eficaces
+[00:05:30] tanto en términos de la distribución
+[00:05:33] espacial como a lo largo de el tiempo y
+[00:05:36] la evolución de la vida útil de las
+[00:05:38] obras. Es decir, en pocas palabras, es
+[00:05:40] necesario coordinar las empresiones de
+[00:05:42] transporte.
+[00:05:45] Ahora bien, los contratos de concesión
+[00:05:49] modelo, tanto para las concesiones
+[00:05:52] otorgadas por la provincia como para las
+[00:05:53] que otorgan las municipalidades, dejaron
+[00:05:56] en cabeza de los distribuidores la
+[00:05:57] decisión de ampliar el transporte y el
+[00:05:59] pago, como acabo de de comentarles en
+[00:06:01] una de las primeras transparencias y sus
+[00:06:04] tarifas, las tarifas de los
+[00:06:06] distribuidores, no incluían un
+[00:06:08] componente que permitiera solventar las
+[00:06:10] ampiones de transporte. La confluencia
+[00:06:13] de estas dos cuestiones dan como
+[00:06:16] resultado una inconsistencia
+[00:06:17] regulatoria. Tenemos la obligación, como
+[00:06:20] distribuidores digo, la obligación de
+[00:06:22] decidir las ampliaciones de transporte y
+[00:06:24] ampliarlas, pero no tenemos dentro de
+[00:06:26] nuestro producido tarifario un
+[00:06:28] componente que nos permita atender a los
+[00:06:31] costos que estas ampliaciones demandan.
+[00:06:33] Por eso hablamos una inconsistencia
+[00:06:35] regulatoria que era necesario salvar.
+[00:06:40] Bien.
+[00:06:41] Para eso, este, en el año 1999,
+[00:06:46] en diciembre del 99, tres distudas
+[00:06:48] provinciales, nueve cooperativas y una
+[00:06:51] sociedad de economía mixta, que es la la
+[00:06:54] usina popular y municipal de Tandil, que
+[00:06:56] es la única que no es ni cooperativa ni
+[00:06:59] sociedad anónima, este deciden
+[00:07:03] fundar el Foro Regional Elíctrico de
+[00:07:05] Buenos Aires, cuyo objetivo era
+[00:07:08] justamente asumir esta función de
+[00:07:11] coordinación para las ampliaciones de
+[00:07:13] las obras, básicamente que ya había
+[00:07:16] pasado a partir de la reforma del marco
+[00:07:19] loterio provincial de la órbita de la
+[00:07:22] provincia en su momento primero de Eva,
+[00:07:23] despuésa después Trasba todavía en poder
+[00:07:26] de la provincia a los distribuidores.
+[00:07:30] Entonces, buscar un organismo, un ente
+[00:07:32] que les permitiera e
+[00:07:36] realizar esa esa tarea de coordinación
+[00:07:39] de las obras para asegurar, como
+[00:07:40] dijimos, que el crecimiento espacial y
+[00:07:43] temporal del sistema de transporte fuera
+[00:07:45] armónico.
+[00:07:46] En marzo del 2000 le se presentan ante
+[00:07:49] la provincia la iniciativa del FREVA y
+[00:07:52] obviamente aquí estaba faltando otra
+[00:07:54] pata. No solamente había que coordinar
+[00:07:57] las ampliaciones, sino que también había
+[00:08:00] que ver cómo pagarlas. Entonces, junto
+[00:08:02] con la propuesta de esa entidad de
+[00:08:04] coordinación, de esa asociación civil y
+[00:08:07] fines de lucro, que es el FREBA, se le
+[00:08:10] adicionó una pata económicofinanciera
+[00:08:13] que aportara los recursos necesarios
+[00:08:15] para solventar las operaciones de
+[00:08:16] transporte y así aparece el Fedback.
+[00:08:19] Estas dos cosas, como digo, la propuesta
+[00:08:21] del FREV y del FILBA se presentan a la
+[00:08:23] provincia en marzo del 2000.
+[00:08:26] Dentro de la propuesta para alimentar
+[00:08:31] este fondo fiduciario del feedback.
+[00:08:34] Ahora vamos a comentar un poquito por
+[00:08:36] qué este tipo de de instrumento legal
+[00:08:39] para manejar esos recursos. digo, para
+[00:08:42] alimentarlo
+[00:08:43] sin que hubiera un aumento en las
+[00:08:46] tarifas, se previó o se propuso a la
+[00:08:50] provincia aplicar dos resortes que
+[00:08:53] estaban disponibles. Por un lado, como
+[00:08:55] finalizaba un contrato que había con la
+[00:08:57] centérmica San Nicolás, que al principio
+[00:08:59] había sido muy conveniente, pero en este
+[00:09:01] último tramo de su vigencia era oneroso
+[00:09:04] respecto de la compra del merco
+[00:09:06] mayorista. Bueno, la parte que
+[00:09:09] contemplaba, la parte de la tarifa que
+[00:09:11] contemplaba el costo de ese contrato, en
+[00:09:13] lugar de darla de baja, dejarla como
+[00:09:15] para poder aportar recursos para este
+[00:09:17] fidecomiso destinado a la ampliación de
+[00:09:19] transporte. Y este el otro tema era
+[00:09:24] durante la privatización se predió un
+[00:09:27] proceso de transición de 5 años desde la
+[00:09:29] tarifa preprivatización a la tarifa
+[00:09:32] postprivatización con coeficientes de
+[00:09:35] transición que la iban reduciendo año a
+[00:09:37] año.
+[00:09:38] habían pasado 2 años del proceso y
+[00:09:41] también ahí se propuso en lugar de los 3
+[00:09:43] años seguir reduciendo la tarifa,
+[00:09:45] dejemos ese margen en lugar de reducirla
+[00:09:47] para alimentar el fidecomiso. ¿Por qué
+[00:09:50] se propuso un fidecomiso? Bueno, porque
+[00:09:54] la idea era darle a la provincia, si le
+[00:09:57] daba el visto bueno a todo este proceso,
+[00:10:00] la seguridad de que estos recursos que
+[00:10:02] se iban a aportar
+[00:10:05] a [carraspeo] través de las tarifas de
+[00:10:06] los distribuidores no pudieran ser
+[00:10:07] utilizados para otra cosa que no fuera
+[00:10:09] para solventar la ampliación de
+[00:10:11] transporte.
+[00:10:12] Bueno, en respuesta a esta propuesta de
+[00:10:17] marzo del 2000, en diciembre del 2000,
+[00:10:19] el poder ejecutivo provincial emite el
+[00:10:21] decreto 4052 del 2000, que justamente da
+[00:10:25] vía libre para ambas alternativas, la
+[00:10:27] del Freeva y la del FA.
+[00:10:32] Luego, en febrero del 2001 aparece la
+[00:10:34] resolución ministerial 534 del 01 que
+[00:10:38] por una parte define los primeros
+[00:10:40] valores del agregado tarifario,
+[00:10:42] alimentado como les decía, en función de
+[00:10:44] esta no disminución del costo de compra
+[00:10:47] por la caída del contrato de San Nicolás
+[00:10:49] o por la terminación, mejor dicho, la
+[00:10:50] caída y también por la suspensión de la
+[00:10:53] aplicación de los este coeficientes de
+[00:10:55] transición. Esos dos generaban una masa
+[00:10:58] de fondo no muy importante, pero que iba
+[00:11:01] a alimentar a lo largo del tiempo el
+[00:11:03] fidecomiso y este iba a permitir pagar
+[00:11:06] las impresiones de transporte.
+[00:11:11] Adelante, Lisandro. Gracias. Bueno, la
+[00:11:14] resolución 534 también estableció los
+[00:11:17] contenidos mínimos que tenía que tener
+[00:11:19] este contrato de fidecomiso a suscribir
+[00:11:23] con un agente fiduciario.
+[00:11:26] [tos][carraspeo]
+[00:11:29] Ese agente fiduciario terminó siendo una
+[00:11:32] unidad de negocios del Banco Provincia
+[00:11:34] que en ese momento se llamaba provincia
+[00:11:36] mandatos. Y a partir de enero de febrero
+[00:11:40] del 2001 se empezó a negociar el texto
+[00:11:44] del contrato hasta que en 2003 se
+[00:11:47] suscribe el contrato. Ahora bien,
+[00:11:50] ustedes dirán, como figura [carraspeo]
+[00:11:52] acá en la última línea de la filmina,
+[00:11:55] que Freva actúa como
+[00:11:59] fiduciante de este contrato de fid
+[00:12:01] comisio. Ustedes dirán, "Bueno, pero
+[00:12:03] ¿por qué el FREVA y por qué no las
+[00:12:06] distribuidoras provinciales y
+[00:12:08] municipales que formaban parte ya del
+[00:12:12] FREVA y que estaban dispuestas a sumarse
+[00:12:14] al FISBA?" Bueno, en los en el proceso
+[00:12:16] de negociación con el fiduciario
+[00:12:19] provincia mandato, como le digo, inició
+[00:12:22] ahí por comienzos del 2001 y se prolongó
+[00:12:26] hasta enero del 2003. Una de las cosas
+[00:12:29] centrales que nos planteó el fiduciario,
+[00:12:31] además de todos los contenidos que voy a
+[00:12:33] tener formalmente en contrato fid
+[00:12:35] comiso, es quién iba a ser el
+[00:12:37] fiduciante. Y nos preguntó, bueno, pero
+[00:12:40] y a ver, ¿cuánto cuánta gente se va a
+[00:12:42] sumar a esto? Bueno, eh de los poco más
+[00:12:46] de 14 con que arrancamos en el 2000,
+[00:12:49] este en el 1999, perdón, ya en 2003
+[00:12:54] teníamos más de 40 integrantes
+[00:12:57] y claro, el fiduciario dijo, "Okay, yo
+[00:12:59] voy a tener que negociar el contrato y
+[00:13:01] las alternativas y los cambios en
+[00:13:02] horario con 40 fucciantes." No, es
+[00:13:05] imposible. Necesito dialogar con uno.
+[00:13:08] Bueno, idas y vueltas, se pensaron
+[00:13:10] distintas alternativas y finalmente se
+[00:13:12] dijo, "Okay,
+[00:13:14] que el Freeva sea apoderado de todos los
+[00:13:16] fiduciantes y actúa por su cuenta y
+[00:13:19] orden como contraparte en el contrato
+[00:13:21] fic comomiso." Así que ese es el motivo
+[00:13:23] por el cual Frea aparece como fiduciante
+[00:13:26] en el contrato, más allá de que detrás
+[00:13:29] de él están todos los distribuidores de
+[00:13:32] la provincia. Y ahora sí digo
+[00:13:33] correctamente todo porque más allá de
+[00:13:35] que en el 2003 teníamos alrededor de 40,
+[00:13:38] hoy día están todos los distribuidores
+[00:13:41] de la provincia nucleados en el FREVA
+[00:13:44] como entidad coordinadora de todo el
+[00:13:46] proceso de crecimiento y desarrollo del
+[00:13:48] sistema de transporte y dentro del
+[00:13:51] fidecomiso FIBA. Avancemos, por favor.
+[00:13:58] Bueno, algunos hitos fundacionales más
+[00:14:00] que podemos citar son los siguientes.
+[00:14:03] En el año 2007, ahí por por el invierno,
+[00:14:08] la compañía que administra el mercado
+[00:14:10] eléctrico mayorista advirtió que en el
+[00:14:13] verano podía haber situaciones de
+[00:14:15] déficit de abastecimiento,
+[00:14:17] porque por indisponibilidad de una serie
+[00:14:19] de equipos, el sistema se estaba
+[00:14:21] quedando prácticamente sin reserva, o
+[00:14:23] sea, estaba operando al límite de su
+[00:14:27] capacidad. Obviamente cuando la
+[00:14:30] provincia tomó conocimiento de esto,
+[00:14:32] dijo, "Bueno, tenemos que tomar alguna
+[00:14:34] medida." Y lo primero que pensó fue,
+[00:14:37] bueno, uno de los temas sensibles en la
+[00:14:40] temporada estival es justamente la zona
+[00:14:43] de la costa atlántica. Entonces dijo,
+[00:14:46] "Bueno, vamos a tomar alguna resolución
+[00:14:47] al respecto." Y emite la resolución 420
+[00:14:51] del 07 que permite la compra de 20 MW en
+[00:14:55] equipos diésel de rápida instalación
+[00:14:58] para tener dentro de la costa atlántica
+[00:15:00] un respaldo ante la posibilidad de que
+[00:15:03] no hubiera un abastecimiento total de su
+[00:15:05] demanda por parte del mercado eléctrico
+[00:15:07] mayorista.
+[00:15:09] [suspiro][grito ahogado]
+[00:15:11] Obviamente, más allá de que esta
+[00:15:13] resolución apareció sin la memoria me
+[00:15:15] falla ahí por agosto, septiembre del
+[00:15:17] 2007, hacía falta comprar los equipos ya
+[00:15:19] y tenerlo en servicio para el verano,
+[00:15:21] pero ese nuevo agregado tarifario que se
+[00:15:24] incorporaba
+[00:15:26] a el fidecomicio y que se llamaba
+[00:15:27] generación distribuida, todavía no había
+[00:15:29] colectado recursos porque recién estaba
+[00:15:31] creado. Entonces, lo que hizo la
+[00:15:33] resolución fue habilitar un préstamo
+[00:15:36] transitorio del agregado de transmisión
+[00:15:38] para comprar estos equipos y que luego
+[00:15:40] en la medida que la agregado de
+[00:15:41] generación exhibida fuera recordando
+[00:15:43] fondo, devolviera ese préstamo a al
+[00:15:46] agrao tarifario de transmisión para que
+[00:15:49] este cumpliera su objetivo primordial,
+[00:15:51] que era solventar obras de transporte.
+[00:15:53] Obviamente, a la par de el problema de
+[00:15:56] la costa atlántica en verano,
+[00:15:58] distribuidores localizados en el área
+[00:16:00] sur, en el área norte de la provincia,
+[00:16:01] dijeron, "Bueno, nosotros no tenemos el
+[00:16:03] problema de la temporada estival, por lo
+[00:16:04] menos no en la proporción que lo puede
+[00:16:06] tener la costa atlántica."
+[00:16:07] Pero sí tenemos problemas también
+[00:16:10] podemos tener problemas de
+[00:16:11] abastecimiento en otros periodos más
+[00:16:13] cercanos a las épocas de cosecha, secado
+[00:16:16] de grano, etcétera, etcétera. Y también
+[00:16:18] vamos a necesitar instalación de grupo.
+[00:16:20] Y así apareció la resolución 683 del
+[00:16:23] 2007 que habilitó igual que la 420 la
+[00:16:27] compra de grupos diésel, 10 MW para el
+[00:16:29] aire norte, 10 MW para el aire sur y
+[00:16:33] también a solventarse por el tarifario
+[00:16:35] de gelación distribuida. Luego en en el
+[00:16:39] año 2008
+[00:16:41] un grupo en la Asamblea anual del
+[00:16:43] Freeva, un grupo de asociados
+[00:16:46] básicamente cooperativas eléctricas
+[00:16:49] hicieron un planteo bastante razonable
+[00:16:51] que era el siguiente. Bien, nosotros
+[00:16:54] tenemos un fidecomiso al cual estamos
+[00:16:55] aportando recursos. Ese fidecomiso paga
+[00:16:58] las impresiones de transporte. Nosotros
+[00:17:00] necesitamos ampliaciones de transporte,
+[00:17:02] pero también necesadoras
+[00:17:09] y vínculo. Las estaciones, bueno, a
+[00:17:11] predio completo, o sea, con las
+[00:17:13] transformaciones a 33 y 13, pero de la
+[00:17:16] del alambrado de la estación
+[00:17:17] transformadora hacia afuera, 33 y 13 ya
+[00:17:21] no es jurisdicción de la transportista
+[00:17:23] Troncaltrasba.
+[00:17:24] Y los cooperativos, como le digo,
+[00:17:27] decían, "Bueno, nosotros estamos
+[00:17:28] ahorrando dinero acá, sirve para hacer
+[00:17:30] ampliaciones de transmisión, pero
+[00:17:32] también tenemos estas líneas de 33 kV y
+[00:17:35] de 13 kV que la mayor parte son operadas
+[00:17:38] por los distribuidores de concesión
+[00:17:41] provincial, pero algunas también por
+[00:17:43] cooperativas de gran tamaño que tienen
+[00:17:45] aguas abajo, cooperativas más pequeñas.
+[00:17:48] tenemos que ampliar esas redes que
+[00:17:49] cumplen función de transporte, pero que
+[00:17:51] por la regulación nacional no pudieron
+[00:17:54] ser incorporada a la concesión de
+[00:17:55] trasba, porque la nación decía, "Yo no
+[00:17:57] quiero líneas de 33 y no quiero línea de
+[00:18:00] 13,2 en la concesión de trasba más allá
+[00:18:03] de que puedan cumplir o no funciones de
+[00:18:05] transporte. Es un problema que la
+[00:18:06] provincia tendá que arreglar por sí."
+[00:18:08] Esta fue la discusión cuando se hizo la
+[00:18:10] habilitación de Trasba como agente del
+[00:18:12] mercoléctrico mayorista antes de la
+[00:18:14] privatización de esa empresa. Bien.
+[00:18:18] Producto de este planteo,
+[00:18:20] se lo consideró razonable y se dijo,
+[00:18:23] bueno, es cierto, hay líneas que pese no
+[00:18:25] formar parte de la concción de trasba,
+[00:18:26] cumplen funciones similares a las que
+[00:18:29] cumplen las líneas de 132 de trasma.
+[00:18:33] Vamos a permitir que parte de los
+[00:18:35] recursos de transporte sean aplicados a
+[00:18:37] solventar estas obras. Y así aparece en
+[00:18:40] el año 2009 el decreto 2299 que amplió
+[00:18:45] el espectro de aplicación delado
+[00:18:46] tarifario de transporte a las
+[00:18:49] instalaciones de su transmisión que son
+[00:18:50] básicamente esta línea de 33 y 13 kV y
+[00:18:54] eventualmente entraciones reductoras de
+[00:18:57] esa tensión.
+[00:18:59] Bueno, luego continuando con con la
+[00:19:01] evolución de los agregados tarifarios,
+[00:19:03] en el año 2011 se crea el agregado el
+[00:19:07] adicional costo de generación
+[00:19:08] distribuida, un nuevo agregado tarifario
+[00:19:11] destinado a solventar los costos
+[00:19:12] operativos de la generación distribuida.
+[00:19:17] Adelante.
+[00:19:22] Y entonces, a tenor de lo que acabamos
+[00:19:24] de contar, en los cargos fijos y
+[00:19:26] variables del cuadro tarifario, con
+[00:19:28] valores diferentes según el cargo, si un
+[00:19:30] cargo fijo, un cargo variable, etcétera,
+[00:19:32] etcétera, hoy día tenemos incorporados
+[00:19:34] tres agregados tarifarios. El
+[00:19:36] transmisión que como dijimos se destina
+[00:19:39] a solventar obra de transporte y
+[00:19:41] subransmisión, el de la generación
+[00:19:43] distribuida, el cual vamos a retomar en
+[00:19:45] un momento, y el adicional costo de
+[00:19:47] generación distribuida que se destina
+[00:19:49] fundamentalmente a solventar los costos
+[00:19:52] operativos de las unidades de generación
+[00:19:54] distribuida, fundamentalmente basada en
+[00:19:56] fuente renovable.
+[00:19:58] Bueno, cuando estos tres agregados
+[00:20:01] comenzaron a coexistir,
+[00:20:03] aportaban aproximadamente 70 días de la
+[00:20:06] recaudación. Esos porcentajes fueron
+[00:20:09] variando a lo largo del tiempo y hoy en
+[00:20:12] la transmisión vuelve a representar
+[00:20:13] cerca del 70%, mientras que el EGD y
+[00:20:16] ACGD reparten más o menos en partes
+[00:20:19] iguales el resto de la recaudación.
+[00:20:27] Bien.
+[00:20:28] Como les comentaba hace un momento, el
+[00:20:30] Freeva fue creciendo de manera
+[00:20:32] constante. Pensemos que arrancó con 14,
+[00:20:35] 15 fundadores ahí por diciembre del 99.
+[00:20:39] Pensemos que en el 2003 ya tenía más de
+[00:20:41] 40 y pensemos que hoy día 2003 2026 23
+[00:20:46] años después tiene la totalidad de los
+[00:20:49] distribuidores que operen en el ámbito
+[00:20:50] de la provincia.
+[00:20:52] [carraspeo]
+[00:20:53] Hoy tenemos, como dijimos, tres
+[00:20:54] agregados, transporte, generación
+[00:20:57] distribuida y ACGD.
+[00:20:59] Y desde el 2012 el ficomiso Feedback,
+[00:21:02] que está a cargo de, como les decía, la
+[00:21:04] unidad de negocio del Banco Provincia
+[00:21:07] que fue mutando de nombre, pero sigue
+[00:21:08] siendo básicamente el mismo ente. Hoy
+[00:21:11] día se llama provincia Fidecomis. este,
+[00:21:14] inicialmente gestionaba
+[00:21:17] el funcionamiento de ficilla
+[00:21:20] de cálculo, lo cual, bueno, en los
+[00:21:21] inicios fue fue este un mecanismo
+[00:21:25] válido, aceptable, pero que bueno,
+[00:21:26] cuando el sistema fue creciendo tanto en
+[00:21:29] cantidad de integrantes como en
+[00:21:31] recaudación y en salidas también porque
+[00:21:33] se empezaron a pagar obras con los
+[00:21:35] recursos del filicomiso a partir del año
+[00:21:37] 2004, no quedó más remedio que buscar un
+[00:21:41] un método y un procedimiento y una
+[00:21:43] herramienta más consistente. Y así es
+[00:21:45] que se desarrolló un sistema informático
+[00:21:49] que es el feedba. El nombre no es
+[00:21:50] original, ¿no? El sistema informático
+[00:21:52] Feda. Ahí será la señal. Bueno, en ese
+[00:21:55] sistema se registran las obligaciones de
+[00:21:59] información y pago que establece la
+[00:22:01] regulación provincial en la materia.
+[00:22:03] Adelante, por favor.
+[00:22:07] Bueno, vamos a hacer un poquito de
+[00:22:09] marketing. Vamos a contarles este qué
+[00:22:12] hemos logrado con este y hemos digo en
+[00:22:15] conjunto tanto provincia como
+[00:22:17] distribuidores provinciales y
+[00:22:18] municipales operando en conjunto que
+[00:22:21] hemos logrado a través de estas
+[00:22:22] herramientas del FREVE y del FIBA desde
+[00:22:24] 2003 fecha de supración hasta el año
+[00:22:26] pasado. En realidad hay más cosas este
+[00:22:29] año, pero estos números los teníamos
+[00:22:32] hasta el año pasado, por eso los
+[00:22:33] presento. Hemos logrado realizar más de
+[00:22:35] 300 obras de transporte y subtransmisión
+[00:22:38] sin que hubiera ninguna reacción por
+[00:22:43] parte de los usuarios que dijeran, "Eh,
+[00:22:44] ¿cómo tengo que poner plata?" No, esto
+[00:22:46] es una especie de plan de ahorro. Van
+[00:22:48] poniendo platita todos los meses dentro
+[00:22:50] de la tarifa con una proporción pequeña
+[00:22:52] respecto del resto de los conceptos que
+[00:22:54] están dentro de la tarifa. El usuario no
+[00:22:56] lo percibe, pero ese dinero se va
+[00:22:58] acumulando en el fin de comomiso y
+[00:23:00] permite a lo largo del tiempo estas 300
+[00:23:03] obras con una inversión a dólares
+[00:23:05] corrientes de 422 millones de dólares.
+[00:23:10] Se han se han beneficiado más de 150
+[00:23:12] localidades con 10 millones de
+[00:23:14] habitantes. Hemos construido dentro de
+[00:23:16] esas obras 17 nuevas estaciones
+[00:23:18] transformadoras que han pasado a la
+[00:23:20] órbita de Transma. 70 estaciones
+[00:23:23] transformadoras de esa órbita se han
+[00:23:25] ampliado. Se han agregado 2,575
+[00:23:30] MW MBA, perdón, adicionales en el
+[00:23:33] sistema de transporte y más de 450 km de
+[00:23:37] línea de alta tensión. O sea, podemos
+[00:23:40] considerar que el sistema está
+[00:23:43] cumpliendo con sus objetivos. Bueno,
+[00:23:46] vamos a hablar ahora un poquito del
+[00:23:48] CFILDBA. Es un sistema informático que
+[00:23:51] hemos desarrollado bajo la coordinación
+[00:23:53] del FREBA. La decisión de hacerlo se
+[00:23:56] planteó a través de la comisión
+[00:23:58] directiva del FREVA en el año 2011 y a
+[00:24:01] partir de ahí se empezó a trabajar hasta
+[00:24:03] que entró en servicio en julio del 2012.
+[00:24:07] En su desarrollo participaron tanto el
+[00:24:09] fiduciario como la provincia a través de
+[00:24:12] la dirección privilicial de energía en
+[00:24:13] aquel momento. La instrumentación
+[00:24:15] informática del sistema se encomendó a
+[00:24:18] la firma ATOS luego de un concurso donde
+[00:24:21] se presentó también la Universidad
+[00:24:23] Tecnológica, pero la verdad que la
+[00:24:25] oferta de datos fue técnicamente
+[00:24:28] buena y económicamente superadora. Y hoy
+[00:24:31] es esa empresa que también fue cambiando
+[00:24:34] de propietarios y mutando de nombre,
+[00:24:36] pero básicamente como solimos decir en
+[00:24:39] el lenguaje coloquial este cambia el
+[00:24:41] cosar, pero el perro es el mismo. No
+[00:24:43] digo que sean un perro, por favor, que
+[00:24:45] nadie se lo diga. Bueno, son muy buenos,
+[00:24:47] la verdad, este, trabajando en su en su
+[00:24:50] metida. Hoy esa empresa se encarga
+[00:24:52] también de mantener el sistema y a
+[00:24:54] requerimiento del FREVA o a consecuencia
+[00:24:57] de pedidos que el FEBA recibe de la
+[00:24:58] provincia procede a ampliarlo, por
+[00:25:01] ejemplo, a crear nuevos módulos que los
+[00:25:03] vamos a comentar. Y bueno, lo último que
+[00:25:05] está escrito acá, comenté recién.
+[00:25:09] Bueno,
+[00:25:12] ¿qué módulos integran este sistema
+[00:25:15] informático? Tenemos un módulo.
+[00:25:18] Vamos a esperar que se presente todo.
+[00:25:23] Tenemos un módulo, decía, de
+[00:25:25] decalaciones juradas y transferencias.
+[00:25:27] Ese módulo está destinado a que todos
+[00:25:30] los integrantes del fidecomiso vuelquen
+[00:25:32] a través de este módulo sus obligaciones
+[00:25:35] de información a través declaraciones
+[00:25:37] juradas y sus obligaciones de pago. H,
+[00:25:40] ¿podemos volver, por favor? Gracias. y
+[00:25:42] sus obligaciones de pago a través de el
+[00:25:46] módulo de transferencia.
+[00:25:48] Después vamos a hablar un poquito más en
+[00:25:50] detalle de esto. Luego tenemos un módulo
+[00:25:51] de gestión de obras que sirve
+[00:25:55] inici o fue utilizado inicialmente para
+[00:25:59] tramitar lo que se llaman solicitudes de
+[00:26:01] financiabilidad. Ahora, después cuando
+[00:26:03] vamos a ese módulo les voy a contar más
+[00:26:04] en detalle. Luego esta es una de las
+[00:26:06] cosas que el sistema creció a solicitud
+[00:26:09] de la provincia Alfreva, que es la
+[00:26:11] introducción de un modo de moratoria que
+[00:26:13] básicamente está destinado a la gestión
+[00:26:16] de los planes de facilidades de pago con
+[00:26:18] que los asociados del Fedba, los
+[00:26:20] integrantes del FISBA, perdón, pueden
+[00:26:24] eh regularizar su situación de deuda
+[00:26:27] antes el fide comiso. Luego, un módulo
+[00:26:29] de auditoría, también incorporado a
+[00:26:31] solicitud de la provincia. Un módulo de
+[00:26:33] reportes donde uno puede pedirle al
+[00:26:35] sistema distintos grados de reportes
+[00:26:38] informativo y finalmente un módulo de
+[00:26:40] administración y un módulo de seguridad.
+[00:26:43] El módulo de administración para manejar
+[00:26:45] todo lo que son parámetros del sistema y
+[00:26:47] el de seguridad fundamentalmente
+[00:26:49] orientado a la gestión de usuarios y sus
+[00:26:54] claves. Avancemos, por favor.
+[00:26:59] Bien, vamos a ver ahora el módulo de
+[00:27:02] declaraciones juradas y transferencia.
+[00:27:04] Yo les decía que este está destinado a
+[00:27:07] que los miembros del fidecomiso puedan
+[00:27:10] cumplir con sus obligaciones de
+[00:27:11] información y pago. ¿En qué consisten
+[00:27:14] estas obligaciones?
+[00:27:16] Respecto a las organizaciones de
+[00:27:17] información, dentro de los primeros
+[00:27:19] primeros 20 días de cada mes calendario,
+[00:27:22] los integrantes del fiocomiso con
+[00:27:24] carácter de declaración jurada tienen
+[00:27:26] que informar las unidades físicas.
+[00:27:29] Cuando digo una física, me refiero a
+[00:27:31] kilw h facturado, eh kilow de potencia
+[00:27:35] punta y fuera de punta para las
+[00:27:36] categorías que tienen este tipo de
+[00:27:38] cargos tarifarios, cantidad de cargos
+[00:27:41] fijos que facturaron en el transcurso
+[00:27:44] del mes inmediato anterior con
+[00:27:46] independencia de cuándo ocurrió el
+[00:27:48] consumo.
+[00:27:49] ¿Cuándo ocurrió el consumo? Lo comento
+[00:27:52] rápidamente.
+[00:27:54] Se pide para que el sistema sepa qué
+[00:27:58] valor unitario del agregado tarifario
+[00:28:00] tiene que aplicarle a cada uno de los
+[00:28:03] unidades físicas que uno informa. Si
+[00:28:06] durante el periodo entre el inicio y el
+[00:28:10] fin de lectura informada en la
+[00:28:12] facturación de ese mes,
+[00:28:15] no hubo cambio de tarifal. El sistema
+[00:28:17] trae una sola grisa. Si hubo un cambio
+[00:28:19] trae dos grillas. Si hubo dos cambios,
+[00:28:21] está de tres y así siguiendo. Y lo que
+[00:28:24] uno después tiene que hacer cuando hace
+[00:28:25] declaración jurada es, por ejemplo, si
+[00:28:27] un cambio y el sistema le trae dos
+[00:28:29] grises, va a tener que abrir las
+[00:28:31] unidades físicas, una parte en el
+[00:28:34] periodo en que tuvo vigencia un juego de
+[00:28:37] agregado y la otra parte en el otro.
+[00:28:40] Bueno, ¿qué pasa si yo no presento de
+[00:28:42] los primeros dentro de los primeros 20
+[00:28:44] días hábiles del mes inmediato siguiente
+[00:28:47] el informe de las unidades físicas
+[00:28:49] facturadas en el mes inmediato anterior
+[00:28:52] con carácter de declaración jurada?
+[00:28:54] Bueno, el sistema genera automáticamente
+[00:28:57] una declaración jurada automática. ¿Para
+[00:28:59] qué? Bueno, para evitar que alguien este
+[00:29:03] por omisión o por la famosa viveza
+[00:29:05] escriosa diga, "Bueno, yo no presento de
+[00:29:08] creación jurada, por lo tanto, si no
+[00:29:10] está la declaración jurada tampoco está
+[00:29:11] determinado cuánto es mi obligación de
+[00:29:13] pago."
+[00:29:15] Tanto las declaraciones juradas que
+[00:29:17] presentan los distribuidores como estas
+[00:29:19] automáticas pueden ser rectificadas en
+[00:29:21] el sistema. No se pueden eliminar. El
+[00:29:23] sistema conserva toda la traceabilidad
+[00:29:25] de las declaraciones juradas, pero sí se
+[00:29:27] pueden rectificar. ¿Por qué? Bueno, si
+[00:29:29] uno descubre que cometió un error, puede
+[00:29:32] rectificarla y subsanar ese error. Puede
+[00:29:36] rectificar tanto las declaraciones
+[00:29:38] juradas
+[00:29:40] convencionales, digamos, las que
+[00:29:41] presenta cada asociado, como las
+[00:29:43] automáticas que genera el sistema, con
+[00:29:45] una sola restricción.
+[00:29:47] Esas declaraciones juradas son
+[00:29:48] rectificables siempre y cuando no tengan
+[00:29:50] una antigüedad mayor de 3 meses. Esto es
+[00:29:54] una una imposición de la normativa
+[00:29:57] provincial que a mi entender tiene por
+[00:29:59] objeto y y y lo valido, digamos, me
+[00:30:02] parece que es correcto, tiene por objeto
+[00:30:04] darle consistencia y
+[00:30:09] eh realidad a el contenido, la base de
+[00:30:13] datos y que esta no pueda modificarse
+[00:30:15] cuando tiene una antigüedad mayor de 3
+[00:30:16] meses. Si nosotros permitiéramos, como
+[00:30:18] en alguna oportunidad ocurrió, también
+[00:30:20] con una buena intención, pero a veces
+[00:30:23] las buenas intenciones no siempre dan
+[00:30:24] los mejores resultados, en algún momento
+[00:30:26] se permitió rectificar cualquier
+[00:30:29] declaración jurada hasta julio del 2012.
+[00:30:31] Bueno, en ese caso este uno decía,
+[00:30:34] bueno, y cuál es la base que tengo que
+[00:30:36] manejarme para y no sé porque la
+[00:30:39] declaración jurada que está cargada hoy
+[00:30:41] de diciembre del 2012, mañana puede ser
+[00:30:43] otra, ¿no? Entonces, este tema de
+[00:30:45] permitir solo 3 meses asegura que del
+[00:30:48] cuarto mes anterior hacia atrás la base
+[00:30:51] de datos está consolidada, no cambia,
+[00:30:53] los valores son los que están, las
+[00:30:55] declaraciones juradas son los que están,
+[00:30:56] las obligaciones de pago son las que
+[00:30:58] están. Bien,
+[00:31:02] [risas] la funcionalidad transferencia,
+[00:31:03] que es la otra parte de este módulo,
+[00:31:06] sirve para informar las operaciones
+[00:31:09] bancarias que uno realiza para cancelar
+[00:31:12] las obligaciones que se originan. en la
+[00:31:14] declaración jurada que tiene que
+[00:31:17] presentar cada mes.
+[00:31:20] Noten que en esto que fue, traté decirlo
+[00:31:22] lento para que calara en el conocimiento
+[00:31:26] de cada uno de ustedes, dije informar
+[00:31:29] las operaciones bancarias, o sea, no es
+[00:31:32] que en el sistema CFILBA yo puedo hacer
+[00:31:35] pagos, no. El pago siempre lo tengo que
+[00:31:38] hacer a través de una entidad bancaria.
+[00:31:40] La puedo hacer con una transferencia,
+[00:31:42] con un cheque, con un interdepósito,
+[00:31:44] bueno, y con cualquier otra modalidad
+[00:31:47] para pago bancario que ustedes puedan
+[00:31:48] imaginar.
+[00:31:50] Pero
+[00:31:52] si bien lo tengo que hacer a través del
+[00:31:54] banco, lo debo informar a través del
+[00:31:56] sistema. ¿Por qué? Porque imagínense que
+[00:31:59] para el fiduciario sería prácticamente
+[00:32:01] inmanejable y durante algún tiempo
+[00:32:02] padeció eso, que tuvieran que ir a ver
+[00:32:05] el extracto bancario y tratar de
+[00:32:07] identificar en ese extracto
+[00:32:10] de quién era cada depósito, ¿no?
+[00:32:13] Entonces esta
+[00:32:16] funcionalidad de transferencia se
+[00:32:17] estableció en el sistema para que uno
+[00:32:20] pueda informar las operaciones
+[00:32:22] bancarias. ¿Y cómo debe informar? debe
+[00:32:24] informar cada operación bancaria en una
+[00:32:27] transferencia. Es decir, la regla de
+[00:32:29] hora es por cada operación bancaria una
+[00:32:31] transferencia a cada transferencia
+[00:32:33] asociada una única operación bancaria.
+[00:32:36] Esto, ¿qué quiere decir? Que yo cada
+[00:32:37] obligación de pago tengo que hacer una
+[00:32:39] operación bancaria distinta. No
+[00:32:41] necesariamente yo puedo usar en una
+[00:32:44] operación bancaria varias obligaciones
+[00:32:46] de pago y cuando entro al módulo de
+[00:32:48] transferencia hay una posibilidad que me
+[00:32:52] muestra todos los compromisos que yo
+[00:32:53] tengo pendiente de pago y me deja elegir
+[00:32:55] de esos compromisos cuáles fueron los
+[00:32:58] que yo pagué con esa operación bancaria.
+[00:33:00] Esta información una vez que la presento
+[00:33:02] en el sistema, el agente financiero la
+[00:33:05] levanta, observa que en el extracto
+[00:33:08] bancario de la cuenta recaudadora del
+[00:33:09] fidecomiso, que es una cuenta única,
+[00:33:12] figure en el día y en el valor, el
+[00:33:16] depósito que yo digo la transferencia
+[00:33:18] que realicé en el fide comiso y a partir
+[00:33:21] de ahí hace lo que se llama la
+[00:33:22] conciliación del pago y uno ya está al
+[00:33:25] día y no tiene deudas por esos conceptos
+[00:33:27] con el fide comiso.
+[00:33:30] [carraspeo]
+[00:33:30] El pago de los compromisos a que dan
+[00:33:33] lugar las declaraciones juradas vence 10
+[00:33:35] días después del vencimiento de la
+[00:33:37] presentación de la declaración jurada. O
+[00:33:39] sea, lo que facturé en el mes de julio
+[00:33:42] tengo 2026, lo puedo presentar la
+[00:33:45] declaración jurada de julio hasta el 20
+[00:33:47] de agosto del 2026 y tengo para pagarla
+[00:33:51] hasta el día de ayer, el anteayer, hasta
+[00:33:53] el 30 de agosto del 2026. Y no la puedo
+[00:33:58] pagar después. Sí, por supuesto, la
+[00:33:59] puedo pagar después, pero en ese caso el
+[00:34:01] sistema aplica intereses por mora.
+[00:34:05] Bueno,
+[00:34:06] no solamente las declaraciones juradas
+[00:34:08] se pueden informar por este módulo, sino
+[00:34:10] cualquier obligación de pago que uno
+[00:34:12] tiene con el fic comiso se informa de la
+[00:34:15] misma forma que se informan que podía
+[00:34:17] ser moratorio, auditoría, de la misma
+[00:34:19] forma que se este realiza para las
+[00:34:23] declaraciones juradas. Adelante, por
+[00:34:25] favor.
+[00:34:27] Bien. Módulo de gestión de obra. Este
+[00:34:30] módulo fue introducido inicialmente para
+[00:34:34] poder gestionar a través del sistema las
+[00:34:37] solicitudes de financiabilidad. ¿Qué son
+[00:34:40] estas solicitudes de financiabilidad?
+[00:34:42] Una de las cosas que
+[00:34:45] la provincia estableció como obligación
+[00:34:48] para los distribuidores es que para usar
+[00:34:51] recursos depositados en fomiso tenían
+[00:34:54] que contar con la obligación con la
+[00:34:56] autorización previa de la provincia.
+[00:34:58] ¿Para qué? Bueno, porque la provincia
+[00:35:00] verificar que la obra que uno está
+[00:35:02] proponiendo realizar
+[00:35:05] uno a través del freeva, por supuesto,
+[00:35:07] corresponde efectivamente o a transporte
+[00:35:09] o hacia transmisión y por ejemplo no sea
+[00:35:12] una obra que tenga que ver con las
+[00:35:13] obligaciones que el distribuidor tiene
+[00:35:15] de ampliar su propio sistema interno.
+[00:35:17] Mm. Bueno, este módulo, como digo, se
+[00:35:21] usó inicialmente para eso, pero en
+[00:35:24] breve, ya estamos a punto, vamos
+[00:35:26] terminando todas las pruebas funcionales
+[00:35:27] para ponerlo en servicio. También se van
+[00:35:30] a gestionar por aquí la solicitud de
+[00:35:33] deliberación de obras que ya ha sido
+[00:35:35] declarada financiable y que están en
+[00:35:37] proceso de construcción.
+[00:35:39] Este va a ser un hito importantísimo
+[00:35:42] porque hasta hoy una de las patas flacas
+[00:35:45] del sistema es que todavía no permite
+[00:35:47] conocer
+[00:35:48] el o la posición, el estado, los
+[00:35:50] recursos disponibles de cada integrante
+[00:35:52] en línea. ¿Por qué? Porque si bien tiene
+[00:35:55] un perfecto registro de todo lo que
+[00:35:57] ingresa, como las liberaciones todavía
+[00:36:00] no se estaban gestionando a través del
+[00:36:01] sistema, no tiene registrados los
+[00:36:03] egresos.
+[00:36:05] Una vez que pongamos en servicio esta
+[00:36:07] parte, como le digo que ya está
+[00:36:08] prácticamente para entrar, como vamos a
+[00:36:11] empezar a registrar los egresos, vamos a
+[00:36:13] tomar a una fecha de corte el estado de
+[00:36:16] la cuenta de cada uno y a partir de esa
+[00:36:18] fecha de corte ese estado va a ir
+[00:36:20] creciendo con los depósitos que el
+[00:36:23] distribuidor provincial o municipal haga
+[00:36:25] [carraspeo] y va a ir decreciendo con
+[00:36:27] las extracciones que este haga para
+[00:36:30] solventar obras que estén declaradas
+[00:36:31] financiables por la autoridad de
+[00:36:33] aplicación.
+[00:36:34] Voy a hacer una salvedad. En nuestra
+[00:36:36] jerga hemos usado mucho la palabra
+[00:36:38] financiable, solicitud de
+[00:36:39] financiabilidad, declaración de
+[00:36:41] financiabilidad, pero en realidad no es
+[00:36:44] la mejor denominación. Hasta hoy no se
+[00:36:46] me ocurrió una mejor, pero bueno, no soy
+[00:36:49] del todo ocurrente tal vez para esas
+[00:36:51] cosas. Este, en realidad los recursos de
+[00:36:53] fidecomis lo que hacen no es financiar,
+[00:36:55] sino solventar las obras. ¿Qué quiero
+[00:36:57] decir con esto? que cuando a una empresa
+[00:37:00] la declaran o una cooperativa le
+[00:37:02] declaran financiable una obra de
+[00:37:04] transporte su transmisión, ella puede
+[00:37:06] usar los recursos de fidecomiso para
+[00:37:07] pagarla y no debe devolverlo.
+[00:37:10] Alguien puede plantearse en este
+[00:37:12] momento, "Ah, pero yo escuché que existe
+[00:37:14] una posibilidad de usar recursos
+[00:37:16] compartidos. ¿Qué es eso? Ahí sí hay que
+[00:37:19] devolver." Sí, les explico brevemente de
+[00:37:21] qué se trata.
+[00:37:23] Cuando un distribuidor tiene que hacer
+[00:37:24] una obra
+[00:37:27] y sus fondos, porque los fondos que cada
+[00:37:29] uno deposita en el fidecomiso están
+[00:37:31] registrados en sus cuentas contables, o
+[00:37:33] sea, cada distribuidor provincial o
+[00:37:35] municipal tiene una sub cuenta contable
+[00:37:36] que permite decir, bueno, vos tenés en
+[00:37:38] este momento disponible fcomiso x
+[00:37:41] cantidad de dinero.
+[00:37:43] Si el distribuidor provincial o
+[00:37:45] municipales declaran financiero una obra
+[00:37:47] y esa cantidad de dinero que tiene
+[00:37:48] depositada no es suficiente para
+[00:37:50] pagarla,
+[00:37:53] bueno, las resoluciones que están
+[00:37:55] saliendo ahora están permitiendo usar
+[00:37:58] recursos compartidos. ¿Qué significa?
+[00:38:01] que puede completar los fondos
+[00:38:03] necesarios para para solventar la obra
+[00:38:06] con los suyos más pidiendo de la bolsa
+[00:38:11] una cantidad de dinero. Esa cantidad de
+[00:38:13] dinero que pide la bolsa sí lo debe
+[00:38:15] devolver. Pero veamos esta sutil
+[00:38:18] diferencia o no tan sutil. Él no está
+[00:38:20] devolviendo el dinero que recibió para
+[00:38:24] pagar la obra, sino que está devolviendo
+[00:38:27] un anticipo de fondo que le hicieron
+[00:38:29] para poder pagar la obra. porque sus
+[00:38:31] recursos no alcanzaban. Está y esa
+[00:38:34] devolución que hace no la hace como un
+[00:38:37] préstamo externo que le genera un cargo
+[00:38:39] mensual aparte de lo que tiene que pagar
+[00:38:42] declaraciones juradas, sino que se va
+[00:38:44] pagando con una parte del ingreso de sus
+[00:38:47] declaraciones juradas futuras, por
+[00:38:49] ejemplo, el 50%.
+[00:38:51] ¿Qué digo para pasarlo en blanco sobre
+[00:38:53] negro? que si yo tome fondos compartidos
+[00:38:56] con cada declaración jurada que voy
+[00:38:58] pagando, el 50% de esa declaración
+[00:39:01] jurada va a mi cuenta contable y el 50%
+[00:39:05] va a devolver la cantidad de recursos
+[00:39:08] que yo tomé de la bolsa del fondo.
+[00:39:12] Adelante, por favor.
+[00:39:18] Bueno, el módulo de moratorias, como les
+[00:39:20] decía hoy, fue uno de los módulos
+[00:39:22] incorporados en el sistema pedido de la
+[00:39:24] provincia. justamente permite gestionar
+[00:39:27] los planes de pago que la provincia
+[00:39:29] otorga a los asociados del FILBA para
+[00:39:31] que estos regularicen la situación de
+[00:39:34] eventuales deudas que puedan haber
+[00:39:36] asumido para con el fidecomiso, ya sea
+[00:39:39] por declaraciones juradas o por
+[00:39:41] cualquier otro concepto que tuvieran que
+[00:39:43] depositar
+[00:39:44] y que este por x motivos no pudieron
+[00:39:47] cancelar en tiempo y forma, o sea, entre
+[00:39:49] los famosos 10 días posteriores a la
+[00:39:52] presentación de la declaración jurada.
+[00:39:54] Obviamente permite registrar los planes
+[00:39:57] de pago, permite hacer el seguimiento y
+[00:39:59] permite hacer el seguimiento del plan y
+[00:40:01] permite hacer el seguimiento del pago de
+[00:40:03] las cuotas de ese plan de facilidades de
+[00:40:06] pago. Adelante, por favor.
+[00:40:11] Otro módulo también incorporado al
+[00:40:13] sistema a pedido de la provincia
+[00:40:16] antes de este procedimiento que arrancó,
+[00:40:19] si no me falla la memoria, en 2022,
+[00:40:22] ¿cierto, Guille?
+[00:40:24] 2022 la auditoría. Bien, que en ese año,
+[00:40:28] en ese mes, ese año se hizo a modo de
+[00:40:30] prueba sin costo este para los asociados
+[00:40:32] y a partir de los años siguientes sí con
+[00:40:34] cargo. ¿Qué es lo que hace este proceso
+[00:40:37] de auditoría? Bueno, simplemente compara
+[00:40:40] las decías juradas de distribuidores con
+[00:40:42] una base referencial que en este momento
+[00:40:45] la están construyendo en la provincia a
+[00:40:47] partir de la resolución 544. Los
+[00:40:49] distribuidores presentan a los EVA.
+[00:40:51] compara los valores económicos, por un
+[00:40:54] lado, la declaración jurada y por otro
+[00:40:55] lado la 544 valorizada a los valores
+[00:40:58] unitarios de gado tarifario. Y b si
+[00:41:01] estas son consistentes o presentan
+[00:41:03] apartamiento. Si el apartamiento es de
+[00:41:05] hasta un 5% la auditoría es aprobada. Si
+[00:41:09] supera el 5%, le dan un tiempo al
+[00:41:12] distribuidor provincial o municipal para
+[00:41:15] que eventualmente cuestione este
+[00:41:18] apartamiento y explique el por qué y si
+[00:41:20] encuentra o no se encuentra una
+[00:41:21] explicación que no tenga que ver con un
+[00:41:23] incumplimiento, sino con alguna
+[00:41:25] diferencia de interpretación o de o de
+[00:41:27] ubicación temporal en los valores. Y si
+[00:41:30] después de ese proceso existen dos
+[00:41:33] opciones, que la provincia verifica que
+[00:41:36] efectivamente el distribuidor no
+[00:41:37] incurrió en una falsedad de información,
+[00:41:40] sino que simplemente hay un problema de
+[00:41:42] atemporalidad en alguna información o
+[00:41:44] cosas por el estilo, se da por aprobada
+[00:41:48] la auditoría y el distribuidor no tiene
+[00:41:49] que pagar nada. Y si se determina por el
+[00:41:51] contrario que las objeciones de
+[00:41:53] distribuidor no son válidas y
+[00:41:54] efectivamente hay una inconsistencia
+[00:41:56] entre una fuente de información la otra,
+[00:41:58] se genera una obligación de pago.
+[00:42:02] Bien, adelante, por favor.
+[00:42:06] El módulo de reportes es un módulo muy
+[00:42:10] importante
+[00:42:12] en sus distintas aristas, que aquí la
+[00:42:13] tenemos resumidas, para los distintos
+[00:42:15] actores que intervienen en el proceso.
+[00:42:19] Por ejemplo, aporte voluntario, por
+[00:42:22] ejemplo, situación de pago
+[00:42:23] distribuidora, por ejemplo, pago de
+[00:42:25] auditoría, por ejemplo, moratoria son de
+[00:42:28] importancia para los distribuidores,
+[00:42:29] porque ahí pueden ver en situación
+[00:42:31] distribuidora una radiografía desde
+[00:42:34] julio del 2012 hasta la actualidad, cómo
+[00:42:36] está su situación con el fic comomiso en
+[00:42:39] presentación declaraciones juradas, en
+[00:42:41] pago de las mismas, en planes de pago
+[00:42:43] los que adhirió el estado de los planes
+[00:42:45] de pago, etcétera, etcétera, porte
+[00:42:47] voluntario, etcétera, etcétera.
+[00:42:49] Por ejemplo,
+[00:42:52] por ejemplo, este conciliación de pagos
+[00:42:56] es de mucha importancia, obviamente para
+[00:42:59] el agente fiduciario porque iba
+[00:43:00] registrando, como le decía hoy,
+[00:43:02] comparando lo que uno informó la
+[00:43:04] transparencia en la transferencia con
+[00:43:06] tracto bancario y ver si efectivamente
+[00:43:09] el importe que yo dije en la
+[00:43:11] transferencia el día que dice que lo
+[00:43:12] hice aparece registrado en el extracto
+[00:43:16] bancario del la cuenta regudadora
+[00:43:18] fidecomiso de forma tal de que pueda
+[00:43:20] conciliar ese pago. Bueno, también se
+[00:43:23] pueden chequear los pagos por auditoría.
+[00:43:25] Esto es útil tanto para la provincia
+[00:43:27] como para los distribuidores. La
+[00:43:29] situación distribuidora también es útil
+[00:43:31] para la provincia porque le permite ver
+[00:43:32] de un pantallazo como es la situación de
+[00:43:35] un determinado distribuidor. Adelante,
+[00:43:36] por favor.
+[00:43:39] Bueno, y finalmente tenemos un módulo de
+[00:43:42] administración y un módulo de seguridad.
+[00:43:45] El módulo de administrador de
+[00:43:46] administración permite al FREVA como
+[00:43:48] administrador del sistema y también a la
+[00:43:51] provincia en las partes que que ellos
+[00:43:53] tienen a su cargo para administrar, como
+[00:43:55] por ejemplo la carga de los agregados
+[00:43:57] tarifarios cada vez que se actualiza.
+[00:43:59] Este, permite, como digo, manejar todas
+[00:44:02] estas cuestiones, también las tasas de
+[00:44:04] interés por pago fuera de término, eh
+[00:44:08] agregar si es necesario nuevos cargos y
+[00:44:10] categorías tarifarias, etcétera, y el
+[00:44:13] módulo de seguridad que se orienta
+[00:44:15] básicamente a dar altas y bajas de
+[00:44:17] usuario, asignarles permisos, este, y
+[00:44:22] asignarles roles. Y básicamente existen
+[00:44:25] dos tipos de permisos para los usuarios.
+[00:44:27] Uno que permite operar con el sistema y
+[00:44:29] otro que solo permite ver. La filosofía
+[00:44:31] del sistema es que todos puedan ver
+[00:44:34] todo, pero puedan operar solamente sobre
+[00:44:39] la institución a la que ellos pertenecen
+[00:44:41] y con los permisos que tienen al
+[00:44:43] respecto. Adelante, por favor.
+[00:44:47] Bueno, esto es rápidamente los que
+[00:44:49] quería contarles en el día de hoy sobre
+[00:44:51] este tema y quedo a disposición si hay
+[00:44:53] alguna consulta o pregunta.
+[00:45:05] Ah, impecable, Eduardo, muy claro, muy
+[00:45:07] conciso.
+[00:45:09] Eh, explicaste brevemente con mucha
+[00:45:12] profundidad lo que significa el Freeva.
+[00:45:14] Simplemente agregar que creo que es un,
+[00:45:16] como dice siempre Fernando Pini, un
+[00:45:18] claro ejemplo que trabajando
+[00:45:20] coordinadamente
+[00:45:21] lo público y lo privado puede lograr
+[00:45:23] objetivos muy importantes y los
+[00:45:25] resultados están a la vista.
+[00:45:26] Exactamente. Este, colaboración en lugar
+[00:45:29] de confrontación. Esa es la ese es el
+[00:45:31] resumen.
+[00:45:32] Exacto.
+[00:45:32] Colaboración. Sí. Gracias, Fabián.
+[00:45:50] Buenos días a todos.
+[00:45:52] Es un gusto para mí estar acá.
+[00:45:56] Hoy vamos a hablar en esta clase, en
+[00:45:59] esta parte sobre la auditoría del
+[00:46:01] agregado tarifario dispuestas por la
+[00:46:04] resolución 376 del 22 y 853 del 23.
+[00:46:10] Para ello estructuré la clase en estos
+[00:46:12] cuatro temas. El primero de ellos es que
+[00:46:15] es el agregado tarifario,
+[00:46:18] que bueno, en su gran mayoría fue
+[00:46:20] abordado por Eduardo, así que vamos a
+[00:46:23] hacer algunos comentarios al respecto.
+[00:46:26] Luego nos adentraremos en la metodología
+[00:46:28] de las auditorías de este agregado,
+[00:46:32] cómo fue la aplicación de la normativa,
+[00:46:34] los procedimientos, la selección de
+[00:46:36] distribuidoras y cuáles fueron los
+[00:46:38] resultados que obtuvimos en las
+[00:46:39] auditorías que hemos llevado adelante
+[00:46:42] desde el periodo 2021 al 2025.
+[00:46:49] Para ello, lo primero que nos vamos a
+[00:46:51] preguntar es qué es el agregado
+[00:46:52] tarifario y dónde se encuentra.
+[00:46:55] Tal como comentó Eduardo,
+[00:46:59] el agregado tarifario es un componente
+[00:47:02] de la tarifa que se implementó a través
+[00:47:05] del decreto 4052
+[00:47:08] como destinado a cubrir los costos de la
+[00:47:11] expansión de la red de transporte. Esto
+[00:47:13] es el componente T,
+[00:47:16] que justamente lo que remunera son los
+[00:47:19] costos de esta expansión.
+[00:47:22] Luego, en el 2007, se reconoció a la
+[00:47:24] generación distribuida como una forma
+[00:47:26] alternativa
+[00:47:28] eh complementaria a la expansión de esta
+[00:47:30] red de transporte y ahí surge el
+[00:47:32] componente GD
+[00:47:34] como destinado, ¿no?, a incrementar la
+[00:47:37] oferta de esta generación distribuida. Y
+[00:47:39] en el 2011 aparece el componente ACGD,
+[00:47:42] el adicional del costo de la generación
+[00:47:44] distribuida.
+[00:47:47] Bueno, como un adicional el costo de
+[00:47:48] abastecimiento para solventar los costos
+[00:47:51] operativos de la generación distribuida.
+[00:47:54] ¿Sí?
+[00:47:56] Entonces tenemos este agregado tarifario
+[00:47:58] compuesto por estos tres componentes.
+[00:48:02] Tal como comentó Eduardo, para su
+[00:48:03] administración se constituyó el
+[00:48:04] feedback, este fidecomiso de inversiones
+[00:48:07] en transporte de la provincia de Buenos
+[00:48:09] Aires, celebrado entre el PREVA y el
+[00:48:11] BAPRO mandatos y negocios, el cual se
+[00:48:14] integra con los recursos recaudados por
+[00:48:16] cada distribuidor.
+[00:48:19] Y acá lo importante es est la segunda
+[00:48:22] pregunta que yo había mencionado, que es
+[00:48:24] dónde se encuentra este agreo tarifari.
+[00:48:28] Este agreo tarifario se encuentra en los
+[00:48:31] cuadros tarifarios que que contemplan la
+[00:48:34] apertura de los conceptos de agregado
+[00:48:36] que las distribuidoras recaudan. ¿Dónde
+[00:48:38] se encuentra? En el costo fijo y en el
+[00:48:40] costo variable.
+[00:48:42] Es decir, cada distribuidor recauda a
+[00:48:45] través de estos cuadros tarifarios el
+[00:48:48] agregado tarifario que luego tiene que
+[00:48:51] depositar en el fideicomiso.
+[00:48:55] Acá también es importante mencionar que
+[00:48:57] eh el la autoridad de aplicación, el
+[00:49:00] Ministerio cada vez que aprueba cuadros,
+[00:49:03] además de incluirlo en sus tarifas a
+[00:49:05] este agregado, publica un cuadro
+[00:49:07] específico
+[00:49:09] de valores de agregado tarifario, que
+[00:49:12] tiene su distinción entre los tres
+[00:49:13] componentes
+[00:49:15] y tiene eh también la inclusión en los
+[00:49:19] costos fijos y en los costos variables.
+[00:49:22] Esto lo puntualizo porque uno de los
+[00:49:25] inconvenientes que vimos al momento de
+[00:49:27] realizar las auditorías es que muchas
+[00:49:29] distribuidoras no declaraban el agregado
+[00:49:32] tarifario incluido en estos costos
+[00:49:35] fijos. Sí.
+[00:49:39] Para mostrarles gráficamente la
+[00:49:42] composición porcentual del agregado
+[00:49:43] tarifario, hicimos este gráfico.
+[00:49:47] Es importante remarcar que esto, estas
+[00:49:50] participaciones
+[00:49:52] e solo se ven en los costos fijos.
+[00:49:57] Eh, hasta hace unos años la
+[00:49:59] participación era de transmisión al 70%,
+[00:50:02] 20% de generación distribuida y eh 10%
+[00:50:06] del componente ACGD. Esto cambió en el
+[00:50:09] último tiempo y ahora las
+[00:50:11] participaciones son las que se ven en
+[00:50:12] este gráfico. 68% el componente de
+[00:50:15] transmisión y 16 tanto el de ACGD como
+[00:50:20] el de GD.
+[00:50:21] En el caso de los eh de la composición
+[00:50:24] porcentual en los cargos variables, no
+[00:50:27] es homogénea para todas las categorías
+[00:50:29] tarifarias, por eso no podemos hacer un
+[00:50:31] único gráfico.
+[00:50:34] Bien,
+[00:50:36] en el 2012 el FREVA desarrolló esta
+[00:50:39] aplicación informática denominada C
+[00:50:42] feedback. que Eduardo comentó, cuáles
+[00:50:45] son sus componentes.
+[00:50:47] E para la provincia esta aplicación
+[00:50:51] informática facilitó mucho los todos los
+[00:50:53] procedimientos de control porque
+[00:50:55] automatizó la carga de las declaraciones
+[00:50:57] juradas,
+[00:50:58] eh la información de los pagos, el
+[00:51:01] cálculo de intereses,
+[00:51:03] etcétera. En ese mismo momento aparece
+[00:51:05] la resolución 168 del 2012, que
+[00:51:09] establece que todas las declaraciones
+[00:51:12] juradas tienen que efectuarse
+[00:51:13] exclusivamente a través de esta
+[00:51:15] aplicación CFIL.
+[00:51:18] ¿Cuál es una de las cosas más
+[00:51:19] importantes eh que menciona esta
+[00:51:23] resolución 168?
+[00:51:25] la forma en que debe declararse y ahí
+[00:51:28] establece que las distribuidoras de
+[00:51:30] energía eléctrica tienen que dar
+[00:51:31] cumplimiento a la presentación de la
+[00:51:33] información correspondiente a la
+[00:51:35] facturación del agregado tarifario
+[00:51:37] emitida en cada mes calendario con
+[00:51:40] división de las unidades físicas
+[00:51:43] en concordancia con las fechas en que
+[00:51:45] cada agregado tarifario estuvo vigente
+[00:51:47] durante el periodo de consumo que se
+[00:51:49] factura, contando con la discriminación
+[00:51:51] correspondiente, transmisión, generación
+[00:51:53] distribuida y adicional.
+[00:51:55] costo de la generación distribuida con
+[00:51:57] carácter de declaración jurada. ¿Qué
+[00:52:00] quiere decir con esto? Que se tiene que
+[00:52:02] declarar los consumos facturados en ese
+[00:52:05] mes con independencia del mes en que
+[00:52:08] esos consumos se registraron.
+[00:52:11] Es decir, por ejemplo, el 20 de agosto
+[00:52:14] venció la presentación de la declaración
+[00:52:16] jurada de julio. ¿Qué tiene que incluir
+[00:52:19] esa declaración jurada? la facturación
+[00:52:21] total del mes de julio que puede
+[00:52:23] contener consumos de meses anteriores,
+[00:52:25] de mayo, de junio, de julio.
+[00:52:29] A cada uno de esos consumos le van a
+[00:52:31] regir valores del agregado tarifario
+[00:52:33] diferentes de acuerdo a la a los
+[00:52:35] publicados en cada uno de los cuadros
+[00:52:37] tarifarios correspondientes a cada mes.
+[00:52:40] El propio sistema, como hace un ratito
+[00:52:42] comentó Eduardo, identifica los valores
+[00:52:45] vigentes del agregado en cada periodo
+[00:52:47] declarado.
+[00:52:48] En cada declaración jurada, cuando uno
+[00:52:51] la inicia, tiene que poner el la fecha
+[00:52:54] de inicio del consumo y la fecha de fin
+[00:52:56] del consumo. Eso le determina cuántos
+[00:52:59] renglones va a determinar el sistema
+[00:53:01] para que el usuario cargue la cantidad
+[00:53:04] de unidades físicas de cada categoría
+[00:53:07] tarifaria.
+[00:53:09] Bien.
+[00:53:11] e en aras de garantizar este destino
+[00:53:13] previsto eh del agregado tarifario,
+[00:53:18] vimos la necesidad de auditar las
+[00:53:19] declaraciones juradas y dado que la
+[00:53:23] resolución 1463 le encomentó a la
+[00:53:25] Dirección Provincial de Regulación la
+[00:53:26] Administración del Sistema, está a cargo
+[00:53:29] nuestro
+[00:53:30] estas auditorías. Sí.
+[00:53:34] Por eso, en el año a partir del año 2021
+[00:53:36] impulsamos el dictado de la resolución
+[00:53:40] 376 del 2022 y 853 del 2023.
+[00:53:46] ¿Qué establece estas resoluciones?
+[00:53:50] La periodicidad de la auditoría es
+[00:53:52] anual, es decir, tomamos eh todos los
+[00:53:57] años hacemos una auditoría
+[00:54:00] de todo el año inmediato anterior. En
+[00:54:03] este año 2026 auditamos el año 2025.
+[00:54:07] Tuve como punto de partida el año 2021
+[00:54:11] y se realiza mediante un plan de trabajo
+[00:54:14] que determina la DPR. ¿Cuál fue ese plan
+[00:54:17] de trabajo? El primer año tomamos las
+[00:54:20] cuatro distribuidoras provinciales y 100
+[00:54:23] distribuidoras municipales.
+[00:54:26] Al año siguiente lo que hicimos fue
+[00:54:27] tomar aquellas otras 100 distribuidoras
+[00:54:29] municipales que nos habían quedado
+[00:54:31] afuera y sumamos también a las cuatro
+[00:54:33] provinciales.
+[00:54:35] Los años siguientes fuimos seleccionando
+[00:54:39] algunas de forma aleatoria y otras las
+[00:54:41] que tenían mayores dificultades, mayores
+[00:54:43] observaciones
+[00:54:45] y así intentando de que todas las
+[00:54:47] cooperativas o las distribuidoras sean
+[00:54:49] auditadas la misma cantidad de veces,
+[00:54:52] respetando que las cuatro provinciales
+[00:54:54] se auditan todos los años, ¿no?
+[00:54:59] Las descargas de las declaraciones
+[00:55:01] juradas a la auditoría comienza una vez
+[00:55:03] que se cumple los plazos previstos para
+[00:55:06] la rectificación.
+[00:55:09] Es decir, la resolución 376 estableció,
+[00:55:12] como hace un ratito comentó Eduardo, que
+[00:55:15] las declaraciones juradas pueden ser
+[00:55:16] rectificadas en cualquier momento y la
+[00:55:18] cantidad de veces que sean necesarios
+[00:55:21] hasta el plazo máximo de 3 meses
+[00:55:23] contados a partir de la fecha en que
+[00:55:26] debieron eh de que venció la
+[00:55:29] presentación original. ¿Sí? Entonces,
+[00:55:31] nosotros, ¿qué hacemos? Esperamos que se
+[00:55:35] culmine la posibilidad de rectificación
+[00:55:37] de la última declaración jurada del año,
+[00:55:39] es decir, la de diciembre, que vence con
+[00:55:41] este criterio el 20 de abril y en ese
+[00:55:45] momento es que nosotros iniciamos el
+[00:55:47] proceso de auditoría del año inmediato
+[00:55:48] anterior.
+[00:55:52] Bueno, la base de información tenemos
+[00:55:54] las declaraciones juradas que presentan
+[00:55:57] los distribuidores en el CFITBA, que
+[00:55:59] sería nuestro documento objeto de
+[00:56:01] control.
+[00:56:03] Y tenemos otro documento que lo
+[00:56:05] elaboramos nosotros en función de la
+[00:56:07] declaración jurada eh que presentan en
+[00:56:10] el Oceba por la resolución 544,
+[00:56:14] que de ahí utilizamos las unidades
+[00:56:16] físicas declaradas que son multiplicadas
+[00:56:19] por los valores de heroado tarifario
+[00:56:20] vigentes en cada momento.
+[00:56:26] Bien,
+[00:56:28] ¿qué miramos de la resolución 544?
+[00:56:31] estas dos primeras columnas que muestran
+[00:56:34] la cantidad de usuarios que se declaran
+[00:56:36] por cada una de las categorías
+[00:56:37] tarifarias y la cantidad de kilow
+[00:56:39] declarados.
+[00:56:41] Obviamente la cantidad de usuarios se
+[00:56:42] multiplica por la los valores de los
+[00:56:46] agregados tarifarios, incluidos en los
+[00:56:48] costos fijos y los kilowtios se
+[00:56:51] multiplican por
+[00:56:53] e el valor del agregado tarifario,
+[00:56:56] incluido en los cargos variables.
+[00:57:03] La metodología consta entonces en la
+[00:57:05] comparación
+[00:57:07] del valor total declarado en unidades
+[00:57:09] monetarias, o sea, del valor anual
+[00:57:13] eh declarado en unidades monetarias en
+[00:57:14] ambas bases de datos mencionadas.
+[00:57:24] Si la diferencia entre montos es igual o
+[00:57:27] menor a un 5%, se considera que los
+[00:57:30] resultados son consistentes y por lo
+[00:57:32] tanto la auditoría se encuentra
+[00:57:35] aprobada. Si en cambio la diferencia es
+[00:57:38] mayor al 5%, los resultados son
+[00:57:41] inconsistentes y la auditoría se
+[00:57:43] encuentra observada,
+[00:57:46] ¿no? Ambas declaraciones deben ser
+[00:57:48] consistentes entre sí. la declaración
+[00:57:51] jurada 54 con la declaración jurada del
+[00:57:54] CFIPA, de manera tal que las magnitudes
+[00:57:56] físicas declaradas en ambas ambos
+[00:58:00] régímenes sean coincidentes, porque en
+[00:58:03] los dos regímenes se debe encargar la
+[00:58:04] facturación correspondientes a cada mes
+[00:58:07] calendario. Sí,
+[00:58:10] el valor de referencia que se considera
+[00:58:12] como válido es el mayor entre el
+[00:58:14] declarado en las distribuidoras a través
+[00:58:16] del CFITBA o las unidades el estimado en
+[00:58:19] base a las unidades físicas de la 544,
+[00:58:22] ¿no? Siempre que el valor declarado en
+[00:58:24] el CFILBA sea mayor al estimado en la
+[00:58:26] 500 con la 544, se considera que la
+[00:58:28] auditoría está aprobada.
+[00:58:35] Bien, una vez que nosotros terminamos
+[00:58:37] con el proceso de auditoría, se informa
+[00:58:42] a través de dos medios a la
+[00:58:43] distribuidora del resultado.
+[00:58:46] Uno es a través eh de un mail,
+[00:58:49] una nota formal de la Dirección
+[00:58:51] Provincial de Regulación enviada por
+[00:58:53] mail. ¿A qué mail? Al mail declarado en
+[00:58:55] el sistema. Por eso es importante que
+[00:58:56] cada distribuidor tenga sus datos
+[00:58:58] actualizados.
+[00:59:01] Y por otro lado hay una una notificación
+[00:59:03] en el propio CFEDBA que ahí le pusimos.
+[00:59:07] No sé si está muy familiarizados con el
+[00:59:09] sistema, pero hay una campanita arriba
+[00:59:11] que indica si hay mensajes.
+[00:59:17] Si la misma arroja como resultado
+[00:59:19] observada, la distribuidora tiene 20
+[00:59:21] días desde su notificación para prestar
+[00:59:24] conformidad o no a la diferencia
+[00:59:26] informada. Y ahí aparecen varios
+[00:59:28] caminos.
+[00:59:30] Si presta conformidad,
+[00:59:33] tiene que presentar la auditoría y eso
+[00:59:37] le genera un compromiso de pago.
+[00:59:40] En caso de que la distribuidora no
+[00:59:42] preste conformidad, la puede mandar a
+[00:59:44] revisión informando
+[00:59:48] el por qué. puede mandar documentación
+[00:59:51] respaldatoria,
+[00:59:53] pedir aclaraciones, lo que considere
+[00:59:56] necesario.
+[00:59:59] En esta instancia la Dirección
+[01:00:00] Provincial de Regulación analiza la
+[01:00:02] documentación enviada pudiendo aceptar
+[01:00:05] lo que dice la distribuidora o pedir
+[01:00:07] pedir más información o rechazar y
+[01:00:11] continuar con el eh estado de la
+[01:00:15] auditoría en observada y ahí sí pasarla
+[01:00:18] ya a presentada generándose la
+[01:00:20] obligación de pago.
+[01:00:22] ¿Me puedo hacer una consulta?
+[01:00:23] Sí.
+[01:00:25] esta documentación que presentan las
+[01:00:26] distribuidores a través de la respuesta
+[01:00:28] del correo o a través del sistema.
+[01:00:30] Mira, las dos cosas.
+[01:00:32] Perfecto.
+[01:00:34] Eh, recibimos las dos cosas. O sea, a
+[01:00:36] nosotros nos preferimos que sea a través
+[01:00:38] del sistema, por lo menos el mensaje
+[01:00:41] para que el sistema tenga la información
+[01:00:43] completa, digamos. En cualquier momento
+[01:00:45] uno pueda eh ingresar cualquier eh
+[01:00:50] persona y ver qué se dijo y qué le
+[01:00:52] contestamos nosotros. Pero muchas veces
+[01:00:54] el sistema eh no tiene tanto espacio
+[01:00:56] para subir documentación.
+[01:00:59] Eh, creo que solamente se pueden poner
+[01:01:01] comentarios. Entonces, muchas veces
+[01:01:03] nosotros dejamos el comentario, se
+[01:01:05] respondió por mails en
+[01:01:06] Perfecto. Gracias.
+[01:01:07] Justamente para lograr esa trazabilidad.
+[01:01:10] Bien,
+[01:01:11] bien. Entonces, e
+[01:01:15] otra posibilidad es que la distribuidora
+[01:01:16] no haga nada, que también sucede, no
+[01:01:19] presente, no acepte, no rechace.
+[01:01:23] En ese caso, el sistema automáticamente,
+[01:01:25] cumplido el plazo de 20 días que tiene
+[01:01:28] la la distribuidora para hacer
+[01:01:29] observaciones,
+[01:01:31] pasa estado de revisión y es la
+[01:01:33] Dirección Provincial de Regulación la
+[01:01:34] que luego presenta
+[01:01:37] eh esa auditoría. Esta presentación de
+[01:01:41] la auditoría genera un compromiso de
+[01:01:43] pago
+[01:01:45] cuyo vencimiento opera 30 días corridos
+[01:01:48] contados a partir del primer día del mes
+[01:01:50] inmediato posterior a la presentación de
+[01:01:52] la auditoría.
+[01:01:56] Por ejemplo, si yo presento la auditoría
+[01:01:59] hoy, primero de septiembre, recién el
+[01:02:02] primero del mes que viene, empiezo a
+[01:02:04] contar los 30 días corridos, o sea, me
+[01:02:05] va a vencer el 30 de octubre.
+[01:02:08] Sí,
+[01:02:11] finalmente las distribuidoras que tienen
+[01:02:13] que hacer, acreditar en la cuenta
+[01:02:14] fiduciaria esas diferencias monetarias
+[01:02:17] que surgieron de la auditoría más los
+[01:02:20] intereses devengados conforme la rezo
+[01:02:22] 376. ¿Qué dice la la rezo 376? que son
+[01:02:27] intereses desde la fecha de vencimiento
+[01:02:29] original de la declaración jurada y
+[01:02:32] hasta la fecha de presentación de la
+[01:02:33] auditoría con la misma tasa que tiene el
+[01:02:36] sistema CFIDBA para todas las
+[01:02:37] obligaciones que es la tasa activa
+[01:02:39] efectiva mensual del BNA para
+[01:02:42] operaciones de descuento a 30 días de
+[01:02:44] plazo incrementada en un 25% vigente a
+[01:02:46] la fecha de cada vencimiento de la
+[01:02:48] operación.
+[01:02:51] Una vez conciliadas las transferencias
+[01:02:53] por provincias fidecomisos,
+[01:02:56] la auditoría pasa a estado finalizada y
+[01:02:59] ahí culmina todo el procedimiento de
+[01:03:01] auditoría. ¿Sí?
+[01:03:05] Bueno, pasemos ahora a los resultados.
+[01:03:08] ¿Qué pasó en estos en estos 5 años que
+[01:03:11] llevamos haciendo auditorías?
+[01:03:15] El primer año, como les dije, fue de la
+[01:03:18] auditoría del año 2021. Esta auditoría
+[01:03:21] fue aprobada por la resolución 853.
+[01:03:25] Se auditaron 100 distribuidoras
+[01:03:26] municipales y cuatro provinciales. De
+[01:03:29] ellas, en realidad, en un primer momento
+[01:03:31] tuvimos 56 observadas,
+[01:03:34] pero luego dos de ellas en este proceso
+[01:03:37] de intercambio
+[01:03:38] enviaron documentación, nosotros la
+[01:03:41] validamos con el Oceva y de ahí dos
+[01:03:44] pasaron a estar aprobadas, perdón,
+[01:03:47] aprobadas. Por lo tanto, el resultado
+[01:03:49] final de la auditoría fue que 54
+[01:03:51] auditorías estuvieron observadas y 50
+[01:03:53] aprobadas.
+[01:03:57] Al año siguiente tuvimos la auditoría
+[01:03:59] del periodo 2022 que fue aprobada por
+[01:04:01] resolución
+[01:04:03] 349 del 25. tuvimos la misma cantidad de
+[01:04:06] distribuidoras
+[01:04:08] eh auditadas y de ahí obtuvimos que 38
+[01:04:12] eh perdón, 38
+[01:04:15] fueron observadas y 66 aprobadas.
+[01:04:20] Sí, vemos que hay un incremento de las
+[01:04:23] aprobadas en el 2023. Nuevamente lo
+[01:04:27] mismo, 74 aprobadas y 30 observadas. Y
+[01:04:31] así más o menos ahora nos mantenemos en
+[01:04:33] esos porcentajes, 73
+[01:04:35] eh aprobadas, 31 observadas y así más o
+[01:04:39] menos este año fue lo mismo. Por lo
+[01:04:41] tanto, vimos como un efecto positivo en
+[01:04:43] el desarrollo de las auditorías al haber
+[01:04:45] eh disminuido el por eh la participación
+[01:04:49] de las observadas, ¿no? que han
+[01:04:50] corregido muchos errores en este en este
+[01:04:53] tiempo quedan todavía, pero bueno, vamos
+[01:04:56] en ese camino.
+[01:05:00] Y por último, agregué acá una filmina
+[01:05:03] con el detalle de cuáles fueron los
+[01:05:07] errores u omisiones más frecuentes que
+[01:05:09] vimos a lo largo de estos eh 5 años.
+[01:05:14] Por un lado, lo que le comentaba en un
+[01:05:17] principio, la omisión de la carga del
+[01:05:18] agregado tarifario, incluido en los
+[01:05:20] cargos fijos.
+[01:05:23] Eh, eso fue uno de los principales
+[01:05:25] errores que corregimos y creo que fue lo
+[01:05:29] que nos permitió tener mayor
+[01:05:30] participación de aprobadas.
+[01:05:34] Luego, observamos que había una carga
+[01:05:37] incorrecta del concepto del agregado
+[01:05:40] tarifario, incluido en la tarifa social
+[01:05:41] en la categoría TEA.
+[01:05:45] Esto se solucionó en parte porque
+[01:05:47] agregamos en el CFITBA
+[01:05:51] e
+[01:05:53] cargos tarifarios, digamos, de AT
+[01:05:55] correspondientes a la tarifa social. En
+[01:05:58] un primer momento no existían esos
+[01:06:00] cargos. ¿Por qué? Porque la tarifa
+[01:06:02] social tenía el mismo valor del agregado
+[01:06:04] tarifario que un usuario residencial.
+[01:06:08] Esto quizás generaba confusión y por eso
+[01:06:10] muchas distribuidoras cargaban en el
+[01:06:12] concepto TAS. Pero tenía un valor de
+[01:06:14] agregado tarifario que no era correcto
+[01:06:15] ni era el que publicaba la autoridad de
+[01:06:17] aplicación.
+[01:06:19] Bueno, se corrigió.
+[01:06:21] Después muchas distribuidoras comentan
+[01:06:23] que hay un desfasaje en la carga, que en
+[01:06:24] la 544 se cargan consumos y en el CFITB
+[01:06:28] se cargan
+[01:06:30] e facturación. Bueno, acá es importante
+[01:06:34] remarcar que en ambos e regímenes lo que
+[01:06:39] se debe cargar es facturación del
+[01:06:41] agregado tarifario. Las magnitudes, las
+[01:06:43] unidades físicas declaradas en uno y en
+[01:06:45] otro régimen tienen que ser las mismas.
+[01:06:49] Por otro lado, muchas veces hay errores
+[01:06:52] involuntarios en la cantidad de
+[01:06:53] usuarios, en la cantidad de energía.
+[01:06:55] Este año, por ejemplo, nos pasó con una
+[01:06:57] cooperativa
+[01:06:59] que tenía todos los meses, excepto uno,
+[01:07:03] eh consistentes. Y en ese mes, cuando lo
+[01:07:06] empezamos a evaluar un poco, vemos que
+[01:07:10] la cantidad de usuarios de una categoría
+[01:07:13] en vez, en lugar de ser 3,000 era
+[01:07:15] 30,000. O sea, le habían agregado un
+[01:07:17] cero por error y eso disparaba y hacía
+[01:07:21] que la auditoría estuviera observada.
+[01:07:24] Eh, bueno, esto muchas veces pasa y esos
+[01:07:26] son los errores que podemos resolver si
+[01:07:30] ustedes están atentos, nos hacen alguna
+[01:07:33] devolución de podemos eh intercambiar
+[01:07:36] con el Oceba y tratar de solucionar esos
+[01:07:39] esos problemas.
+[01:07:42] Eh, bueno, después a veces también
+[01:07:44] aparecen interpretaciones erróneas en
+[01:07:46] las siglas de los conceptos.
+[01:07:49] La codificación del CFEDback quizás a
+[01:07:51] veces eh confunde
+[01:07:54] eh y eso genera algunas algunas
+[01:07:57] confusiones. Nosotros tenemos para quien
+[01:08:00] lo necesite un
+[01:08:03] un documento que comparamos los cuadros
+[01:08:06] tarifarios con la la codificación que
+[01:08:11] tiene el sistema, que si alguien lo
+[01:08:13] necesita nos puede enviar un correo y se
+[01:08:16] los enviamos. Y por otro lado, el tema
+[01:08:18] que ya comentó Eduardo hace un ratito,
+[01:08:20] el de las declaraciones juradas
+[01:08:21] automáticas. Este año tuvimos algún tema
+[01:08:23] con eso.
+[01:08:25] La declaración jurada automática está
+[01:08:27] establecida por la redo 786 del 24. ¿Y
+[01:08:30] qué estableció? Que ante la falta de
+[01:08:32] presentación de las declaraciones
+[01:08:34] juradas dentro de los plazos previstos,
+[01:08:37] el CFITBA determinará el importe de la
+[01:08:39] obligación de manera automática.
+[01:08:42] ¿Cuándo lo genera el CFIBA? El día 21, o
+[01:08:45] sea, la presentación.
+[01:08:47] Ben tiene vencimiento los 20 de cada
+[01:08:49] mes. El día 21 el CFITBA genera esta
+[01:08:52] declaración jurada automática. Los
+[01:08:54] distribuidores tienen el mismo plazo de
+[01:08:57] 3 meses para rectificar esta declaración
+[01:08:59] automática y cargar la que corresponde.
+[01:09:02] Si no lo hacen, la declaración jurada
+[01:09:04] automática queda firme.
+[01:09:07] Entonces, cuando nosotros vamos a
+[01:09:08] auditar, auditamos sobre la declaración
+[01:09:10] jurada automática,
+[01:09:12] que evidentemente no va a ser lo mismo
+[01:09:15] que facturó la distribuidora. ¿Cómo se
+[01:09:17] calculan estas declaraciones juradas?
+[01:09:19] Están está establecido por esta 786.
+[01:09:23] Si declaró un componente del agregado
+[01:09:25] tarifario, por ejemplo, declaró el
+[01:09:27] componente de transmisión y no declaró
+[01:09:29] el GD ni el ACGD, se utilizan las mismas
+[01:09:33] unidades físicas,
+[01:09:35] por ejemplo. Ese sería el mejor de los
+[01:09:37] casos, porque la declaración jurada
+[01:09:40] automática es lo más fiel al original,
+[01:09:43] que sería si esto está bien cargado,
+[01:09:45] sería lo que cargó el distribuidor.
+[01:09:48] Pero hay un segundo caso que si no
+[01:09:49] declaro nada, el sistema que hace toma
+[01:09:52] la declaración jurada del mismo año del
+[01:09:54] año anterior de perdón, del mismo mes
+[01:09:56] del año anterior, disculpen.
+[01:09:59] Y le recarga un 10% en cada una de las
+[01:10:02] categorías tarifarias, de esas unidades
+[01:10:04] físicas.
+[01:10:05] Entonces ese valor del cfito es el que
+[01:10:07] nosotros comparamos con el valor de las
+[01:10:11] unidades físicas declaradas en la
+[01:10:14] resolución 544. Entonces, el
+[01:10:16] distribuidor tiene que estar atento.
+[01:10:18] Primero, tiene que cumplir con su
+[01:10:19] obligación de presentar el agregado
+[01:10:21] tarifario. Si por alguna cuestión no lo
+[01:10:24] hace, no lo pudo hacer, tiene que estar
+[01:10:28] recordar que tiene que rectificar esa
+[01:10:30] declaración jurada e realizada
+[01:10:33] automáticamente por el sistema.
+[01:10:38] Bueno,
+[01:10:40] acá les dejo el correo por si tienen
+[01:10:42] alguna consulta, pueden hacer eh pueden
+[01:10:45] hacerle por ahí o ahora también en esta
+[01:10:47] oportunidad.
+[01:10:50] Y muchas gracias a todos.
+[01:10:56] Gracias, Guille.
+[01:10:59] Bueno, ahora
+[01:11:02] va a empezar con las tarifas especiales
+[01:11:04] Josefina.
+[01:11:06] Bueno, no sé si quieren hacer alguna
+[01:11:07] pregunta, comentario
+[01:11:09] de la presentación de de Guille.
+[01:11:16] Hola, ¿qué tal? No, yo quería por ahí es
+[01:11:19] un comentario, por ahí ya lo dijo y y se
+[01:11:22] me pasó las consecuencias que tienen las
+[01:11:24] otra presentación y arrancamos con
+[01:11:27] tarifas especiales.
+[01:11:33] Letreno estaba haciendo una consulta. Me
+[01:11:35] parece
+[01:11:38] y yo tendría que poder compartir, ¿no?
+[01:11:40] Sí. Eh, por ahí no me escuchó.
+[01:11:43] No, el comentario de que va eh no se va
+[01:11:46] notamos que cuando ante la falta de
+[01:11:48] cumplimiento o si no se le se le aprueba
+[01:11:50] la auditoría o no presenta la
+[01:11:52] declaración,
+[01:11:54] eh la cooperativa puede ser eh no se
+[01:11:58] no se le puede distribuir al fondo.
+[01:12:01] Perdón, no te no te escuchamos.
+[01:12:04] A ver, Leti, otra vez. Perdón, eh,
+[01:12:06] perdón, pero estábamos muteados, no
+[01:12:08] escuchábamos y ni ustedes me escucharon
+[01:12:09] a mí, creo.
+[01:12:11] ¿Me escuchan?
+[01:12:13] Ahora sí.
+[01:12:15] Eh, a ver si estoy en lo cierto. Eh, las
+[01:12:18] consecuencias para la cooperativa que no
+[01:12:20] presenta la declaración o no le es
+[01:12:22] aprobada esa declaración, es la no
+[01:12:25] distribución del fondo, algún otro
+[01:12:27] agregado, o sea, ¿qué es lo que le pasa
+[01:12:30] a la cooperativa? porque por no haber
+[01:12:34] este presentado su documentación en
+[01:12:36] forma.
+[01:12:37] Primero, digamos, eh como establece el
+[01:12:39] marco regulatorio, eh simplemente el
+[01:12:41] distribuidor es agente de recaudación y
+[01:12:44] de ingreso, o sea, la obligación y hasta
+[01:12:46] te diría tipificación de delito penal si
+[01:12:49] no ingresa ese agregado tarifario al
+[01:12:51] fide comiso. Eso por un lado. Eh, por
+[01:12:55] otro lado, la primera cuestión es que
+[01:12:58] cada 20 de cada mes tienen que presentar
+[01:13:00] esa declaración jurada. Si no lo hacen,
+[01:13:03] esto que contaba hace un momento
+[01:13:06] eh Guille, que se produce la declaración
+[01:13:08] jurada automática, entonces con esa
+[01:13:11] penalización de un 10% adicional versus
+[01:13:14] la misma declaración del año anterior,
+[01:13:16] con lo cual, digamos, ya tiene una
+[01:13:17] especie de penalización, el 20 de cada
+[01:13:20] mes vence el pago de cada una de las
+[01:13:22] declaraciones juradas
+[01:13:25] y ahí comienzan a correr intereses que
+[01:13:27] directamente están cargados y
+[01:13:28] establecidos en el sistema y tienen una
+[01:13:30] penalización de un 25%
+[01:13:33] eh sobre la tasa de interés mensual. Así
+[01:13:36] que tiene, digamos, penalizaciones ahí
+[01:13:38] ya preestablecidas.
+[01:13:40] Eh, primera cuestión, digamos, y atento,
+[01:13:44] eh, que la auditoría sobre lo que se
+[01:13:47] facturaba de agregados tarifarios y se
+[01:13:49] ingresaba o se declaraba eh a través de
+[01:13:52] estas declaraciones juradas no se había
+[01:13:53] revisado nunca en estos primeros 20 años
+[01:13:56] de de funcionamiento del agregado
+[01:13:58] tarifario, recién con esta auditoría que
+[01:14:00] se aprobó en el 2022, recién ahí
+[01:14:02] comenzamos a revisar estas cuestiones.
+[01:14:04] Sí. Así que la primera consideración es
+[01:14:06] esa. Comenzamos a, digamos, dentro de la
+[01:14:09] potestad de control del Estado, que me
+[01:14:10] la asignaron a mi dirección provincial,
+[01:14:12] comenzamos a revisar que lo que cada
+[01:14:14] distribuidor, los 204 facturen al
+[01:14:16] usuario, efectivamente se declare y
+[01:14:19] efectivamente se integre.
+[01:14:21] Eh, la emergencia, el congelamiento
+[01:14:24] tarifario
+[01:14:26] y todo lo que estuvimos viendo en estos
+[01:14:28] tiempos eh hicieron que salieran
+[01:14:31] sucesivas y diversas eh planes de
+[01:14:33] regularización, la 977, la 601, la 978.
+[01:14:40] Entonces, todo aquel que tenía deuda de
+[01:14:42] agregados tarifarios eh se ha adherido a
+[01:14:46] esos planes de regularización y ha
+[01:14:48] comenzado, digamos, a pagarlo en cuotas
+[01:14:50] con, digamos, las tasas que están
+[01:14:52] establecidas o o la metodología de
+[01:14:53] cálculo de determinación de esas deudas
+[01:14:56] conforme lo estableció cada eh plan de
+[01:14:58] regularización.
+[01:15:00] Ahora, ¿cuáles son las consecuencias,
+[01:15:02] digamos, de no pago de esas de ese
+[01:15:04] agregado tarifario, sea eh cuota
+[01:15:07] corriente, sea cuota de moratoria? La
+[01:15:10] primera es que aquel que tiene una obra
+[01:15:12] declarada financiable, como les
+[01:15:14] explicaba hoy este Eduardo,
+[01:15:18] si tiene 3 meses de atraso en el ingreso
+[01:15:21] de una cuota o de la cuota corriente, no
+[01:15:23] recibe liberación del fondo, del
+[01:15:26] fidecomiso, mejor dicho, para pagar los
+[01:15:28] certificados de la obra que tiene en
+[01:15:30] marcha. Sí. Así que es la primera
+[01:15:32] cuestión donde los distribuidores que
+[01:15:34] tienen una obra en marcha tratan,
+[01:15:36] digamos, de tenerlo eso, digamos, lo más
+[01:15:39] este al día posible, precisamente para
+[01:15:42] no detener la obra que ha sido declarada
+[01:15:43] financiable y que se solventa con esos
+[01:15:46] recursos. Esa es una primera, digamos,
+[01:15:50] sanción que se aplica. La segunda es eh
+[01:15:54] en caso que advirtamos más de seis
+[01:15:57] cuotas impagas, tanto de cuota corriente
+[01:15:59] como de moratorias. la dirección
+[01:16:01] provincial a mi cargo. Mandamos una nota
+[01:16:03] aceva para dos cosas. La primera,
+[01:16:07] retener la percepción del fondo
+[01:16:09] compensador tarifario. Sí.
+[01:16:12] Eh, así que obviamente no todos lo
+[01:16:15] perciben.
+[01:16:17] Eh, las distribuidoras provinciales no
+[01:16:18] lo perciben y hay cuatro o cinco
+[01:16:20] cooperativas eh, de las más grandes que
+[01:16:22] tampoco lo perciben, con lo cual no es
+[01:16:24] una herramienta que en ese caso no sirva
+[01:16:26] como para, digamos, este cual ayudar a
+[01:16:30] que esas distribuidoras este se pongan
+[01:16:32] al día con el con el agregado tarifario.
+[01:16:34] Pero bueno, nos sirve para los 195 este
+[01:16:38] distribuidoras municipales restantes y
+[01:16:40] ha funcionado este bastante bien porque
+[01:16:44] con motivo de esa retención de fondo
+[01:16:45] compensador hemos visto que esto viene
+[01:16:48] funcionando, digamos, si se han adecuado
+[01:16:51] a al pago o se han puesto al día en los
+[01:16:53] atrasos que tenían en algunas cuotas,
+[01:16:55] cosa de no declarar la caducidad de los
+[01:16:57] planes de regularización que que han
+[01:16:59] adoptado.
+[01:17:01] Y la otra condición, digamos, o
+[01:17:04] penalización que existe o otras dos son,
+[01:17:07] primero que OSEBA
+[01:17:09] puede aplicar sanciones, sanciones
+[01:17:11] complementarias este por la falta de
+[01:17:14] ingreso del agregado tarifario.
+[01:17:18] Y la más gravosa de todas y que por
+[01:17:21] ahora no se ha aplicado es la
+[01:17:24] posibilidad de que la determinación de
+[01:17:26] deuda que hago, digamos, que termina
+[01:17:28] aprobando por resolución de ministro,
+[01:17:31] eh, que obviamente el cálculo se hace
+[01:17:33] desde mi dirección provincial y sale por
+[01:17:35] acto administrativo al ministro, como
+[01:17:36] les decía, es una determinación de deuda
+[01:17:38] que se intima a 10 días de plazo a
+[01:17:41] pagarla y si no se paga, provincia fid
+[01:17:44] comisos, el el fiduciario digamos del
+[01:17:46] agre Tarifario del fide comiso tiene la
+[01:17:49] posibilidad de iniciar un juicio
+[01:17:50] ejecutivo, artículo 81, ley 1510 que
+[01:17:54] habilitó a que esa condición es título
+[01:17:57] ejecutivo y se puede iniciar juicio
+[01:17:59] ejecutivo. ¿Sí? Así que esas son las
+[01:18:01] penalizaciones, digamos, o sanciones que
+[01:18:04] tiene este todo el andamiaje jurídico
+[01:18:06] que tenemos dando vueltas, distinto
+[01:18:08] rango normativo, distintas este
+[01:18:10] consideraciones, pero eso es lo que
+[01:18:12] sucede si una distribuidora no ingresa
+[01:18:15] el agregado tarifario o se atrasa eh en
+[01:18:19] los pagos tanto de la cuota corriente
+[01:18:21] como de las cuotas de moratoria. Sí,
+[01:18:24] precisamente porque eh la principal
+[01:18:27] actividad que tiene este el Ministerio
+[01:18:30] como autoridad de aplicación es velar
+[01:18:31] que los recursos del fide de comiso se
+[01:18:33] apliquen a las obras de transporte o de
+[01:18:35] subtransmisión conforme el decreto 2299.
+[01:18:39] eh específicamente tiene ese destino y
+[01:18:42] es lo que se percibe y se vela para que
+[01:18:44] ese destino pueda cumplirse. Si todos se
+[01:18:46] atrasan en el pago, es como que ese
+[01:18:49] destino obviamente se se desluce más
+[01:18:52] allá de esta cuestión que contaba hoy
+[01:18:54] Eduardo de bueno, cada uno tiene su
+[01:18:56] subcuenta y con su subcuenta hace una
+[01:18:59] obra y capaz que esa distribuidora está
+[01:19:00] el día y puede continuar, pero cuando lo
+[01:19:04] los recursos que tienen en su subcuenta
+[01:19:06] no alcanzan y tienen que solidarizarse
+[01:19:10] este los recursos o socializarse los
+[01:19:12] recursos para contribuir a una obra,
+[01:19:14] bueno, necesita Necesitamos que las
+[01:19:16] otras subcuentas todas estén al día. Sí.
+[01:19:19] Así que eso, Leti, esas serían, digamos,
+[01:19:23] un poco el panorama de todas las
+[01:19:24] sanciones que se pueden aplicar cuando
+[01:19:28] una distribuidora no ingresa al agregado
+[01:19:30] tarifario en tiempo.
+[01:19:32] Perfecto, muchas gracias.
+[01:19:35] Por nada. ¿Alguna otra pregunta?
+[01:19:42] Bueno, entonces vamos con José.
+[01:19:45] Ya estás compartiendo pantalla. Me voy a
+[01:19:47] silenciar así no
+[01:19:51] me escuchan.
+[01:19:54] Está acoplando ahí.
+[01:19:58] Perfecto. Bueno, eh, ¿se escucha?
+[01:20:03] Sí, ahora bien.
+[01:20:05] ¿Se escucha?
+[01:20:06] Sí, sí.
+[01:20:08] Bueno, buenas tardes a todos. Eh, le
+[01:20:10] quiero agradecer a Guille, al IDE,
+[01:20:11] digamos, a esta oportunidad de de poner
+[01:20:14] en común este y habilitar este espacio
+[01:20:17] de conocimiento académico para formación
+[01:20:20] e que la verdad que eh falta falta
+[01:20:24] capacitación, viene bien y además este
+[01:20:27] son temas eh atinentes a todos los que
+[01:20:29] nos convocan.
+[01:20:31] Yo les voy a compartir un poco
+[01:20:35] el análisis y el andamiaje jurídico de
+[01:20:37] lo que son algunos regímenes especiales,
+[01:20:39] como es la gratuidad para bomberos
+[01:20:42] voluntarios, para la el sistema de lo
+[01:20:45] que es el los usuarios víctimas de
+[01:20:47] violencia de género y e una bonificación
+[01:20:50] que para clubes y asociaciones que es
+[01:20:52] que es la que dio lugar a la luego la
+[01:20:56] tarifa cero dio lugar a lo que es la
+[01:20:57] bonificación del 30%. La idea es un poco
+[01:21:00] compartir el andamiaje jurídico, darnos
+[01:21:02] una idea de cuáles son las normas que
+[01:21:04] regulan cada uno de estos beneficios,
+[01:21:07] ver las particularidades que tienen e
+[01:21:10] cómo acceder, cómo se implementa, cuál
+[01:21:12] es la metodología para aplicarla y para
+[01:21:14] recuperar las distribuidoras, los
+[01:21:16] beneficios que aplican. y además este
+[01:21:19] compartir con ustedes algunos ejemplos
+[01:21:21] de eh
+[01:21:23] en que encontramos en la implementación
+[01:21:25] sobre todo de de errores o dificultades
+[01:21:28] de la cantidad de de
+[01:21:31] facturas que no cumplen, digamos, con
+[01:21:34] los requisitos que necesitamos nosotros
+[01:21:35] para poder validar y verificar,
+[01:21:38] consistir declaraciones y que las
+[01:21:39] distribuidoras puedan recuperar lo que
+[01:21:41] los beneficios que aplican. Así que si
+[01:21:43] les parece empezamos con lo que es el
+[01:21:45] beneficio de la gratuidad de bomberos,
+[01:21:48] e que es uno de estos regímenes
+[01:21:50] especiales. Eh, les voy a compartir
+[01:21:52] básicamente primero para que tengan una
+[01:21:54] idea lo que es el marco jurídico, las
+[01:21:56] normativas que lo regulan, que es la Ley
+[01:21:58] Provincial 15 422, el decreto
+[01:22:01] reglamentario de esa ley que es el 464
+[01:22:03] de 2024 y la resolución ministerial 746
+[01:22:07] de 2024. Después existe una circular que
+[01:22:09] es la 5 de 2024, que es particularmente
+[01:22:12] lo que hace la implementación, control y
+[01:22:14] verificación propio de los EEVA para
+[01:22:17] recuperar las distribuidoras e el
+[01:22:21] beneficio que aplican y además e lo que
+[01:22:24] nos permite de alguna manera verificar
+[01:22:26] aquellas que no obstante no hagan el
+[01:22:27] recupero, eh se implemente el beneficio,
+[01:22:30] ¿sí? Porque más allá de la aplicación
+[01:22:33] del beneficio, eh tenemos como dos este
+[01:22:37] dos guías, ¿no? La aplicación y el
+[01:22:39] recupero o la aplicación en sí, porque
+[01:22:41] no obstante eso tenemos que controlarlo
+[01:22:42] desde los EVA. La bonificación prevista
+[01:22:45] en la normativa es del 100%, pero no
+[01:22:47] abarca únicamente y exclusivamente lo
+[01:22:49] que es la energía eléctrica. Preve el
+[01:22:51] agua potable y los desagües cloacales,
+[01:22:53] pero nosotros nos vamos a centrar en
+[01:22:54] este caso en lo que es la energía
+[01:22:56] eléctrica.
+[01:22:57] Respecto a los conceptos que se
+[01:22:59] encuentran exentos son es el 100% de los
+[01:23:02] conceptos eléctricos antes de impuestos
+[01:23:04] en el caso de bomberos y abarcaría lo
+[01:23:06] que es los cargos fijos, los cargos
+[01:23:07] variables, la potencia facturada antes
+[01:23:09] de impuesto en los casos en que esos eh
+[01:23:12] suministros tengan estas
+[01:23:14] características. Después, una de las
+[01:23:16] particularidades que tiene el régimen de
+[01:23:18] bombero es que está exento de ICT. Esto
+[01:23:21] lo dice tanto la resolución ministerial
+[01:23:23] 746 como la circular. Sí. Eh, hago esta
+[01:23:26] aclaración porque es uno de los de los
+[01:23:28] tres regímenes es el único que se
+[01:23:30] encuentra expresamente exento de ICT.
+[01:23:33] Sí, no obstante ello, nosotros solemos
+[01:23:37] ver que en las facturas aparece este
+[01:23:38] concepto, el ICT o CTT, ¿no? E en la
+[01:23:41] resolución habla ICT porque era antes de
+[01:23:44] la creación de este otro concepto que le
+[01:23:46] le trascendió. E y cuando hablamos de
+[01:23:49] cargos fij cargos este consumos
+[01:23:52] facturados, estamos hablando siempre de
+[01:23:53] conceptos eléctricos. También hago esta
+[01:23:55] aclaración porque algunas distribuides
+[01:23:58] ponen eh la tasa alumbrada o ponen otros
+[01:24:00] eh elementos dentro de lo que es este la
+[01:24:03] exención e que no van a ser bonificados
+[01:24:06] ni van a ser reconocidos en lo que hace
+[01:24:08] al aporte del Estado Provincial en esas
+[01:24:10] facturas.
+[01:24:12] Y en el caso que aparezca el IST,
+[01:24:14] nosotros eso nos obliga cuando lo vemos
+[01:24:16] en factura a sacarlo, ¿sí? Porque la
+[01:24:18] bonificación no aplica el ICT o CTT.
+[01:24:22] Bueno, ¿cuáles son las entidades
+[01:24:23] alcanzadas? Conforme a la norma son las
+[01:24:26] asociaciones y federaciones bomberos
+[01:24:27] voluntarios, el Consejo de Federación de
+[01:24:29] Bomberos Voluntarios de la República
+[01:24:30] Argentina, la Fundación de Bomberos de
+[01:24:32] Argentina y todas aquellas entidades
+[01:24:34] inscriptas en el registro nacional que
+[01:24:37] está regulado en la ley 25054. Hago esta
+[01:24:40] aclaración porque inicialmente cuando se
+[01:24:41] hizo el desarrollo de de este beneficio
+[01:24:45] e se hizo un listado de las asociaciones
+[01:24:48] que iban a integrar e este universo y
+[01:24:51] creo que se se estaba cerca de los 276
+[01:24:55] entidades. Las entidades, además no
+[01:24:58] agotan el universo en cuanto a cantidad
+[01:25:01] de suministros sobre los que impacta.
+[01:25:02] Sin los titulares, sí eran 276 entidades
+[01:25:06] aproximadamente inscriptas en ese
+[01:25:08] momento en el registro. Eso se lo tuvo
+[01:25:10] en cuenta para evaluar el, digamos, el
+[01:25:13] aporte que se iba a calcular sobre estos
+[01:25:16] usuarios. Em cada entidad, además, puede
+[01:25:19] tener más de un suministro, ¿sí? Con lo
+[01:25:21] cual no quiere decir que sean 276
+[01:25:23] suministros, ¿sí? entidades en
+[01:25:25] condiciones de acceder a este beneficio.
+[01:25:28] Los suministros pueden ser más porque
+[01:25:29] ahora vamos a ver que pueden ser
+[01:25:31] cuarteles, pueden ser oficinas de los
+[01:25:33] bomberos, siempre y cuando el titular
+[01:25:35] sea esta entidad y además tiene la
+[01:25:37] particular este eh particularidad este
+[01:25:39] régimen que es e a requerimiento. Sí, no
+[01:25:43] quiere decir que necesariamente eh por
+[01:25:45] el solo hecho de estar inscripto en el
+[01:25:47] registro uno accede a la gratuidad. Sí,
+[01:25:49] hay que hacer un trámite entre las
+[01:25:51] distribuidoras para poder acceder y
+[01:25:53] cumpliendo determinados requisitos que
+[01:25:54] ahora vamos a ver. En cuanto a los
+[01:25:56] inmuebles, un poco lo que les sale ante
+[01:25:57] recién, como el beneficio aplica
+[01:25:59] exclusivamente inmuebles donde esté en
+[01:26:01] funcionamiento algunas entidades que
+[01:26:03] mencioné, pero no exclusivamente en una
+[01:26:06] solo puede acceder eh la misma entidad
+[01:26:09] donde tiene el cuartel, donde tiene los
+[01:26:11] destacamentos, donde tiene las oficinas
+[01:26:13] administrativas, incluso. Esta es una
+[01:26:15] particularidad que lo distingue del
+[01:26:18] régimen de bonificación de usuarias
+[01:26:21] víctimas de violencia de género, porque
+[01:26:23] en el caso de las víctimas de violencia
+[01:26:24] de género siempre estamos hablando de un
+[01:26:26] inmueble con posibilidad de tener este
+[01:26:28] beneficio y coincide en cuanto a la
+[01:26:31] multitularidad, por llamarlo de alguna
+[01:26:33] manera, con el caso de los clubes y
+[01:26:35] asociaciones, que pueden ser de esos
+[01:26:37] mismos titulares de clubes y
+[01:26:38] asociaciones. Cuando veamos el régimen
+[01:26:40] especial, vamos a ver que puede impactar
+[01:26:42] en más de un inmueble del mismo titular.
+[01:26:45] E lo importante que la titularidad en
+[01:26:48] este caso, además esté a nombre de la
+[01:26:50] entidad. Lo mismo pasa con clubes, a
+[01:26:51] diferencia del caso de las eh usuarias
+[01:26:54] víctimas de violencia de género, que
+[01:26:56] muchas veces no está el inmueble eh a
+[01:26:59] nombre de la víctima y tampoco se le
+[01:27:01] exige la normativa que sea de esa
+[01:27:03] manera. Sí.
+[01:27:09] Respecto a la tramitación ante las
+[01:27:10] distribuidoras, como dije, este es un
+[01:27:12] régimen a requerimiento.
+[01:27:14] Eh, comparte esta particularidad con el
+[01:27:17] caso de las víctimas de violencia de
+[01:27:18] género, que también ese requerimiento. Y
+[01:27:21] a diferencia de los clubes, que es un
+[01:27:22] viejo listado que existe, que es el que
+[01:27:24] trascendió a la tarifa cero, que se
+[01:27:26] convirtió en la bonificación del 30%,
+[01:27:28] esos listados son listados que ya vienen
+[01:27:30] definidos. En cambio, en el caso del
+[01:27:31] régimen de bomberos, necesitamos que
+[01:27:33] cada una de las entidades que se
+[01:27:35] considere con derecho a acceder este
+[01:27:37] beneficio haga un trámite ante las
+[01:27:39] distribuidoras, solicitándolo
+[01:27:41] expresamente, acreditando la titularidad
+[01:27:43] de ese inmueble y presentando la
+[01:27:44] constancia vigente eh ante del Registro
+[01:27:47] Nacional de Bomberos, que es un
+[01:27:49] certificado que lo habilita acceder a
+[01:27:51] este beneficio. y además tiene que
+[01:27:54] presentar en su solicitud cuáles son los
+[01:27:57] inmuebles afectados sobre los cuales
+[01:27:59] quiere que impacte ese beneficio,
+[01:28:00] indicando el número de NIS, la dirección
+[01:28:03] y los datos que permita su este
+[01:28:05] individualización.
+[01:28:06] E tiene que estar esta solicitud porque
+[01:28:09] e es un requisito sin ecuanón de
+[01:28:12] admisibilidad porque a partir de la
+[01:28:14] solicitud va a impactar en la próxima
+[01:28:16] facturación el beneficio. Sí, mientras
+[01:28:19] no lo requiera no se le va a aplicar.
+[01:28:21] Respecto a lo que
+[01:28:23] decíamos de la gratuidad de bombero,
+[01:28:25] también se exige eh una leyenda
+[01:28:27] obligatoria que es que indique la que
+[01:28:31] este esta bonificación corresponde a la
+[01:28:33] gratuidad de entidad de integrantes del
+[01:28:35] sistema nacional de bomberos
+[01:28:37] voluntarios. Lo mismo ocurre para el
+[01:28:39] caso de las víctimas de violencia de
+[01:28:41] género, que tiene que tener una leyenda,
+[01:28:42] en este caso no tan explícita, digamos,
+[01:28:45] sino por lo menos mencionando que la
+[01:28:48] bonificación corresponde a la resolución
+[01:28:50] que regula este régimen. Eh, la idea es
+[01:28:52] que no sea tan explícita justamente por
+[01:28:54] una cuestión de protección y de de los
+[01:28:56] datos y de la situación de
+[01:28:58] susceptibilidad que ese régimen per sé
+[01:29:01] este lo caracteriza.
+[01:29:04] y a las asociaciones
+[01:29:06] y clubes, asociaciones civiles infes
+[01:29:08] lucro y clubes que también tengan la
+[01:29:09] bonificación correspondiente a ese
+[01:29:11] régimen especial. También se exige que
+[01:29:14] esté la leyenda correspondiente, que en
+[01:29:15] ese caso es la resolución 464 del 2023.
+[01:29:18] Em,
+[01:29:21] muchas veces la leyenda, que es otro de
+[01:29:22] los requisitos que nosotros
+[01:29:23] corroboramos, está mal indicada. Hemos
+[01:29:25] visto que se ha indicado la leyenda de
+[01:29:28] electrodependientes en una factura de
+[01:29:29] bombero o lo mismo ocurre en la de
+[01:29:31] violencia de género. E lo importante es
+[01:29:34] que se entienda que hay una
+[01:29:35] bonificación, que no solo hay un aporte
+[01:29:38] de las de las distribuidoras para hacer
+[01:29:40] posible que este régimen se aplique,
+[01:29:42] sino también un aporte del Estado
+[01:29:43] provincial y que de alguna manera se
+[01:29:45] materializa en que exista esta leyenda.
+[01:29:49] E respecto al rol que juegan las
+[01:29:51] autoridades e y los distintos actores
+[01:29:54] que intervienen en el régimen de
+[01:29:55] bombero, tenemos por un lado lo que hace
+[01:29:57] la autoridad de aplicación, que dicta
+[01:29:58] las normas y articula con el registro
+[01:30:00] nacional, es quien nos suministra en
+[01:30:02] cada uno de los expedientes de pago e al
+[01:30:05] Ministerio y la subsecretaría la
+[01:30:06] información respecto de las entidades
+[01:30:08] que están en ese registro. Nosotros
+[01:30:10] después lo que tenemos que ver que es
+[01:30:11] que esas entidades que figuran en el
+[01:30:13] registro, sean las solicitantes, sean
+[01:30:15] las que hayan presentado el certificado.
+[01:30:18] Eh, nuevamente aclaro, perdón, eh,
+[01:30:22] nuevamente aclaro que no agotan e
+[01:30:25] digamos que estén en el en el registro
+[01:30:27] no significa que tengan derecho a
+[01:30:29] acceder si no han cumplido con los
+[01:30:30] requisitos. Sí, pero tienen que estar en
+[01:30:32] ese registro. E por otro lado, e se
+[01:30:37] tramita también en la direc la
+[01:30:39] subsecretaría de Energía, lo que tiene
+[01:30:40] que ver con las eh las órdenes de pago
+[01:30:43] para el reconocimiento de de los fondos
+[01:30:45] que aporta el Estado Provincial y
+[01:30:48] después el rol principal del organismo
+[01:30:50] de control es la fiscalización y el
+[01:30:52] cálculo del valor agregado de
+[01:30:54] distribución. ¿Por qué digo el cálculo
+[01:30:56] del valor agregado de distribución?
+[01:30:57] Porque en este caso, en el régimen de
+[01:30:58] bombero ya viene con una bonificación de
+[01:31:00] lo que es el costo mayorista y lo que eh
+[01:31:03] el estado eh provincial va a financiar
+[01:31:07] es el BAT, ¿sí? El valor agregado de
+[01:31:09] distribución, lo cual nos obliga a
+[01:31:11] nosotros que no obstante ver que la
+[01:31:12] factura esté en cero, ¿sí? Que es lo que
+[01:31:14] vamos a verificar en facturación, que
+[01:31:16] efectivamente se haya bonificado hasta
+[01:31:19] el 100% de los este conceptos eléctricos
+[01:31:22] antes de impuestos. Sí, esto lo claro
+[01:31:25] porque quedan fuera la tasa alumbrado,
+[01:31:27] quedan fuera a veces este conceptos
+[01:31:29] ajenos e y algunos otros aspectos. Sí,
+[01:31:33] el ICT, por ejemplo, que tendría que
+[01:31:34] estar exento cuando lo vemos, lo
+[01:31:35] sacamos. e una vez que se hace se
+[01:31:38] verifique en factura que se haya eh
+[01:31:40] bonificado hasta el 100% de los
+[01:31:42] conceptos eléctricos antes de impuesto,
+[01:31:44] esto eh tiene intervención en otra
+[01:31:46] gerencia que es la gerencia de mercado,
+[01:31:48] que es la que hace el cálculo para poder
+[01:31:50] e desacoplar del total del monto que se
+[01:31:54] verifica en factura lo que es el valor
+[01:31:56] agregado de distribución. Esta es una
+[01:31:59] diferencia sustancial con lo que es el
+[01:32:01] régimen de violencia de género, porque
+[01:32:03] en el caso del régimen de violencia de
+[01:32:05] género, en vez de impactar el aporte del
+[01:32:07] Estado provincial en el valor agrego de
+[01:32:09] distribución, lo hace sobre el eh cargo
+[01:32:12] mayorista sobre el costo mayorista de
+[01:32:14] generación, sobre el Past True, que
+[01:32:15] también nos obliga de alguna manera, no
+[01:32:17] obstante que es un régimen que lleva a
+[01:32:19] cero la factura en cuanto a los
+[01:32:20] conceptos eléctricos antide impuesto con
+[01:32:23] la misma particularidad, el aporte del
+[01:32:25] Estado provincial impacta de otra
+[01:32:27] manera. Sí.
+[01:32:29] Em, por otro lado, brevemente voy a
+[01:32:32] explicar lo que es el mecanismo y
+[01:32:33] circuito financiero, ¿sí? Para entender
+[01:32:36] cómo es el procedimiento ante los EVA. E
+[01:32:39] tenemos primero la declaración jurada
+[01:32:41] este ante la distribuida con los
+[01:32:43] requisitos de presentación de
+[01:32:45] certificado de la solicitud sobre los eh
+[01:32:48] inmuebles donde quiere que se impacte
+[01:32:50] con los datos respectivos respecto de
+[01:32:53] los suministros y direcciones, la y el
+[01:32:57] certificado. Todo eso las distribuidoras
+[01:32:59] además nos lo cargan en un formulario
+[01:33:01] que está creado al efecto donde nos
+[01:33:03] permiten visualizar y verificar el
+[01:33:05] cumplimiento de estos requisitos de
+[01:33:07] admisibilidad. Después se analizan
+[01:33:12] analizar esos requisitos, se verifican
+[01:33:15] las declaraciones que presentan las
+[01:33:16] distribuidoras. Con la verificación de
+[01:33:18] las declaraciones se solicitan facturas.
+[01:33:21] En principio, en el régimen de bombero,
+[01:33:22] una diferencia sustancial e con los
+[01:33:26] otros regímenes que nos ha permitido en
+[01:33:29] función del aprendizaje los errores que
+[01:33:31] hemos encontrado en los otros regímenes,
+[01:33:32] le hemos pedido a las distribuidoras que
+[01:33:34] carguen la totalidad de las facturas que
+[01:33:35] están bonificando y el Oceva lo que hace
+[01:33:38] es sobre esa totalidad de facturas
+[01:33:40] bonificadas semestralmente, analiza,
+[01:33:43] toma un muestreo, verifica que estén
+[01:33:45] bien calculados los cuadros tarifarios,
+[01:33:46] que esté bonificado el 100% de los
+[01:33:48] conceptos eléctricos ante impuesto.
+[01:33:50] Y eso tiene que ser consistido y
+[01:33:54] contrastado con las declaraciones que
+[01:33:55] realizan para poder pasar el filtro e y
+[01:33:59] habilitar eh luego el procedimiento de
+[01:34:01] pago este y reconocimiento. E el
+[01:34:04] expediente de pago luego eh transita por
+[01:34:06] la subsecretaría que permite la
+[01:34:08] liberación este ante los organismos
+[01:34:11] específicos. El circuito de compensación
+[01:34:14] entonces tiene las declaraciones que
+[01:34:16] presentan mensualmente ante los EVA las
+[01:34:19] distribuidoras, lo que hace la
+[01:34:21] verificación, consistencia y cálculo del
+[01:34:23] BAT en manos de dos gerencias del
+[01:34:25] organismo de control y finalmente el
+[01:34:27] procedimiento de pago.
+[01:34:30] Em,
+[01:34:32] brevemente, y es importante que el alta
+[01:34:34] de usuarios que dan este las
+[01:34:36] distribuidoras lo hagan este por única
+[01:34:38] vez, ¿sí? Porque el certificado de las
+[01:34:42] entidades es un solo certificado
+[01:34:43] independientemente de la cantidad de
+[01:34:45] suministros. Con lo cual, una vez que
+[01:34:47] presentan ese certificado, está bien,
+[01:34:48] podrían incorporar en un futuro nuevos
+[01:34:51] suministros, pero ese es un requisito
+[01:34:53] que se presenta por única vez, ¿sí? No
+[01:34:55] obstante la presentación mensual de
+[01:34:58] declaraciones y de facturas. Sí, lo
+[01:35:00] mismo ocurre con la solicitud. En
+[01:35:02] principio se presenta por única vez,
+[01:35:04] salvo que la distribuidora, que la
+[01:35:06] entidad luego quiera incorporar algún
+[01:35:08] otro este inmueble o modifique los
+[01:35:11] inmuebles existentes, pero es un
+[01:35:12] requisito que se presenta por única vez.
+[01:35:15] E lo mismo la solicitud esta que dije de
+[01:35:18] alta, ¿sí? lo los otros requisitos, la
+[01:35:21] factura y las declaraciones eh conforme
+[01:35:24] a las facturas que deberían ser este
+[01:35:26] guardad identidad tienen que presentarse
+[01:35:28] todos los meses conforme a la
+[01:35:29] facturación que se realice. Bueno, más o
+[01:35:32] menos a grandes rasgos, eso es lo que
+[01:35:34] hace al beneficio de gratuidad de
+[01:35:36] bomberos. Yo luego les voy a mostrar
+[01:35:37] algunas facturas donde se pueden
+[01:35:39] visualizar algunos errores que vemos con
+[01:35:42] cierta frecuencia que dificultan el
+[01:35:44] procedimiento para nosotros de pago y
+[01:35:46] este de refacturación a veces de las
+[01:35:48] distribuidoras o e la este lo que hace a
+[01:35:53] la incorporación de de facturación a los
+[01:35:56] expedientes, porque nosotros todas las
+[01:35:58] facturas que utilizamos muestreo después
+[01:35:59] las tenemos que incorporar de alguna
+[01:36:00] manera los expedientes, que es lo que
+[01:36:03] verifica y valida este el procedimiento
+[01:36:05] de pago.
+[01:36:06] Ahora les voy a compartir eh lo que hace
+[01:36:09] a la bonificación de violencia de
+[01:36:11] género.
+[01:36:13] No sé a ver si se ve.
+[01:36:17] Acá vamos a poner pantalla completa.
+[01:36:22] ¿Se ve
+[01:36:25] o todavía no? No. Ah,
+[01:36:27] a ver.
+[01:36:27] No, el anterior.
+[01:36:31] Espérame,
+[01:36:36] un minuto. Espera, voy a ir a
+[01:36:41] acá compartir.
+[01:36:46] Nos tiene la tecnología. [risas]
+[01:36:51] Te olvides ahí estamos, pero
+[01:36:56] ahí se ve con
+[01:36:58] Ahora sí.
+[01:36:58] Perfecto.
+[01:36:59] Bueno, espera que voy a poner pantalla
+[01:37:01] completa.
+[01:37:06] Pantalla completa. A ver,
+[01:37:10] se ve.
+[01:37:12] No complet. Lo completo. Espérame.
+[01:37:15] A ver. Ahí. Ahora sí.
+[01:37:17] Ahí sí.
+[01:37:18] Sí. Bueno,
+[01:37:21] espo, me voy a checar yo.
+[01:37:25] Bueno, respecto de lo que hace a la
+[01:37:27] bonificación eh de víctimas de violencia
+[01:37:30] y género, también vamos a hacer un
+[01:37:33] pequeño paseo por lo que es la normativa
+[01:37:35] y el andamiaje jurídico. Esto está
+[01:37:37] regulado en la resolución conjunta eh 5
+[01:37:40] de 2023 y la circular 10 de 2023. Lo
+[01:37:44] bueno que esto eh es como que se
+[01:37:46] superpone y no se mezclan los números.
+[01:37:47] van a ver que después cuando hagan esta
+[01:37:49] asociación se van a dar cuenta que una
+[01:37:50] es la 5c, otra es la 10, ¿no? Las
+[01:37:52] circulares se cruzan los números o de
+[01:37:54] distintos años, en general es 2023 y 24
+[01:37:57] la normativa.
+[01:37:59] Eh, respecto a esto, el marco general
+[01:38:02] objetivo que regula lo que es la
+[01:38:04] bonificación de para víctimas de
+[01:38:06] violencia y género. Como dijimos,
+[01:38:08] tenemos la resolución conjunta 5 2023,
+[01:38:11] que es una resolución conjunta del
+[01:38:13] Ministerio de Infraestructura y Servicio
+[01:38:14] Público y el Ministerio de las Mujeres.
+[01:38:16] hoy este de mujeres y diversidad que
+[01:38:18] establece de alguna manera un
+[01:38:20] reconocimiento, una bonificación de
+[01:38:21] hasta el 100% sobre los conceptos
+[01:38:24] eléctricos facturados antes de impuesto.
+[01:38:26] Esto es una de las similitudes que yo
+[01:38:27] les contaba con lo que es el régimen de
+[01:38:29] bombero. En facturación nosotros
+[01:38:30] deberíamos ver en el caso de de bomberos
+[01:38:33] es el 100% y este es hasta el 100% de
+[01:38:37] los conceptos eléctricos antes de
+[01:38:39] impuesto. quede afuera todos aquellos
+[01:38:41] que no sean conceptos eh eléctricos y es
+[01:38:44] para personas víctimas de violencia de
+[01:38:46] género, en razones de género y en los
+[01:38:49] suministros que individualmente se
+[01:38:50] identifiquen y hayan solicitado
+[01:38:52] especialmente las víctimas de violencia
+[01:38:54] de género. Además, se aplica un plazo
+[01:38:57] que no aplica en el caso de este ni de
+[01:39:00] clubes ni de bomberos, que en principio
+[01:39:02] una vez que se dio de alta mientras esté
+[01:39:03] bajo esta órbita se va a aplicar. En el
+[01:39:06] caso de víctima de violencia género, el
+[01:39:07] plazo es por 6 meses con una posibilidad
+[01:39:10] de prórroga por un periodo igual y
+[01:39:12] mientras eh subsisten las condiciones de
+[01:39:14] criticidad, con lo cual no acaba acá,
+[01:39:16] pero inicialmente se les da esta
+[01:39:18] posibil, esta ventana para el ingreso y
+[01:39:20] el alta de estos suministros y mientras
+[01:39:23] no modifiquen estas condiciones van a
+[01:39:26] seguir existiendo en estas bases de
+[01:39:28] datos. e articulamos en particular todo
+[01:39:31] esto con lo que es el Ministerio de
+[01:39:33] Mujeres y Diversidades, que quien es que
+[01:39:36] articula además territorialmente con los
+[01:39:38] municipios y hace un seguimiento sobre
+[01:39:40] las condiciones de criticidad de las
+[01:39:42] víctimas de violencia de género para
+[01:39:44] mantener eh la cobertura y que estén
+[01:39:47] bajo el paraguas de este beneficio.
+[01:39:48] también es quien de alguna manera nos
+[01:39:50] pone en conocimiento muchas veces ante
+[01:39:53] el reclamo de las usuarias de que no
+[01:39:55] están percibiendo, no obstante, están en
+[01:39:57] los listados que obliga a las
+[01:40:00] distribuidoras a impactar este
+[01:40:01] beneficio. El ministerio es quien de
+[01:40:03] alguna manera siempre nos pone sobre
+[01:40:05] avviso cuando las víctimas de violencia
+[01:40:07] y género le hacen saber que no está
+[01:40:09] impactando el beneficio. A veces el
+[01:40:11] beneficio no impacta, no porque no lo
+[01:40:13] esté aplicando la distribuidora, quiero
+[01:40:14] hacer esta salvedad, sino porque hay
+[01:40:16] otros conceptos que no llevan la
+[01:40:17] facturación a cero. A veces aparece la
+[01:40:20] tasa alumbrado, a veces aparecen
+[01:40:22] conceptos ajenos, con lo cual a veces e
+[01:40:25] otros
+[01:40:27] e conceptos que no son eléctricos y que
+[01:40:29] la factura sí está en cero respecto a
+[01:40:31] los conceptos eléctricos, pero no
+[01:40:33] obstante la víctima de violencia de
+[01:40:34] género entiende que la factura le tiene
+[01:40:36] que llegar en cero y reclama, pero la
+[01:40:39] facturación, repito, está correcta. A
+[01:40:41] veces no, a veces eh no está no le están
+[01:40:43] aplicando correctamente porque vemos que
+[01:40:46] se han confundido los datos o los datos
+[01:40:48] estaban mal. Nosotros en general los
+[01:40:50] listados tenemos poca información por
+[01:40:51] una cuestión de protección de los datos
+[01:40:53] de las víctimas y contamos y lo mismo la
+[01:40:56] distribuidoras, contamos en principio
+[01:40:57] con el número de IS y con la dirección.
+[01:41:00] Muchas veces esos datos no coinciden.
+[01:41:02] Por eso también de eh nosotros les
+[01:41:04] pedimos a las distribuidoras que cuando
+[01:41:06] encuentren inconsistencias en alguno de
+[01:41:08] estos dos datos nos lo informen, porque
+[01:41:11] e son dos variables que tienen que sí o
+[01:41:13] sí coincidir. Sí. Eh, a veces no es el
+[01:41:16] número de suministro, es el número de
+[01:41:17] cuenta, es el número de asociado o o a
+[01:41:19] veces ni siquiera corresponde a la
+[01:41:20] distribuidora. No tenemos una dificultad
+[01:41:22] en particular con los padrones eh de
+[01:41:25] víctima de violencia y género respecto a
+[01:41:28] los datos, cómo está construido ese
+[01:41:29] padrón. Eso nos ha llevado a hacer eh
+[01:41:32] frecuentes reuniones con el ministerio
+[01:41:35] para tratar de alguna manera de ir este
+[01:41:38] eh puliendo y purgando los errores que
+[01:41:40] vamos encontrando. E por un lado, para
+[01:41:43] que eh ni las distribuidoras ni el
+[01:41:45] Estado Provincial beneficien o
+[01:41:48] bonifiquen una factura de un usuario eh
+[01:41:50] que no le corresponde. y por otro lado,
+[01:41:53] que es lo más preocupante, para que el
+[01:41:54] beneficio efectivamente le llegue a la
+[01:41:57] persona víctima de violencia de género,
+[01:42:00] lo cual nos implica un trabajo bastante
+[01:42:02] más arduo, en este caso e para lograr
+[01:42:06] este implementar el beneficio de manera
+[01:42:08] adecuada.
+[01:42:10] Complementariamente está la circular 10
+[01:42:13] de 2023, que lo que hace es instrumentar
+[01:42:15] y operativizar lo que hace la aplicación
+[01:42:17] de procedimiento para las distribuidoras
+[01:42:20] eléctricas, tanto provinciales como
+[01:42:22] municipales, y determina lo que es la
+[01:42:24] metodología de aplicación de la
+[01:42:25] bonificación dispuesta en la resolución
+[01:42:27] 5 de 2023 e la resolución conjunta
+[01:42:31] respecto de e lo que es los requisitos
+[01:42:34] de admisibilidad, el procedimiento
+[01:42:36] anteceva, la validación y la
+[01:42:38] verificación que tenemos que hacer para
+[01:42:39] poder por un lado verificar la
+[01:42:41] aplicación a las víctimas de violencia y
+[01:42:43] género del beneficio y por otro lado e
+[01:42:46] verificar el reconocimiento que se hacen
+[01:42:48] factura y gestionar lo que hace a los
+[01:42:51] alcances de pago y bonificación y
+[01:42:53] recupero de las distribuidoras.
+[01:42:56] El régimen este en particular, en cuanto
+[01:42:58] a los requisitos y condiciones para
+[01:43:00] acceder al beneficio, tenemos que tienen
+[01:43:02] que estar en el previamente las víctimas
+[01:43:04] de violencia y género inscriptas en el
+[01:43:06] registro único de casos de violencia de
+[01:43:08] género en la provincia de Buenos Aires.
+[01:43:10] Este es el registro en el cual nosotros
+[01:43:12] articulamos con el Ministerio de Mujeres
+[01:43:14] y Diversidades. es un registro que ya no
+[01:43:16] llega dado y determinado con una
+[01:43:19] información e la mínima información que
+[01:43:21] nos permita identificar los suministros
+[01:43:24] por una cuestión de protección de datos.
+[01:43:27] No están los titulares. Muchas veces,
+[01:43:29] como dije, los titulares ni siquiera
+[01:43:30] coinciden con las víctimas de violencia
+[01:43:32] de género, porque en la víctima de
+[01:43:33] violencia de género identifica el
+[01:43:35] suministro donde va a estar este
+[01:43:38] viviendo y donde pretende que se le
+[01:43:40] adjudique este beneficio. Puede ser la
+[01:43:43] casa de un hermano, un familiar, puede
+[01:43:45] ser la casa misma donde vivía. Este, con
+[01:43:48] lo cual nosotros sobre ese titular no
+[01:43:51] tenemos ninguna injerencia, no este no
+[01:43:53] hacemos ningún este eh ninguna
+[01:43:57] valoración, no lo digo porque hay veces
+[01:43:59] que las distribuidoras sí hacen
+[01:44:00] valoraciones sobre los titulares y los
+[01:44:02] titulares es un dato de color en este
+[01:44:04] escenario porque lo que nos interesa es
+[01:44:06] que la víctima de violencia de género
+[01:44:08] haya dicho que está en ese domicilio.
+[01:44:10] Y además otra particularidad, a
+[01:44:13] diferencia de lo que es el régimen de
+[01:44:14] bomberos y de asociaciones de clubes,
+[01:44:18] que tiene que ser un solo suministro con
+[01:44:19] esta característica, tanto en bomberos
+[01:44:22] como en clubes, puede haber con bajo el
+[01:44:25] mismo titular de bomberos o de clubes
+[01:44:27] más de un suministro.
+[01:44:30] Otra de las características e que tiene
+[01:44:32] que eh que tener o los requisitos de
+[01:44:35] admisibilidad para el beneficio tiene
+[01:44:36] que ver con este paragua temporal de 6
+[01:44:39] meses. Una vez que accede ese beneficio,
+[01:44:41] mientras la víctima de violencia de
+[01:44:42] género no modifique ese homicidio,
+[01:44:45] continuará estando en los listados por 6
+[01:44:47] meses. O sea, no tiene que volver a ser
+[01:44:49] el trámite la víctima de violencia de
+[01:44:50] género. O sea, por 6 meses está. Salvo
+[01:44:53] que la víctima de violencia de género
+[01:44:54] haya decidido cambiar de domicilio y
+[01:44:55] entonces denuncia otro, se dará de baja
+[01:44:57] eso. Pero en principio, mientras esté eh
+[01:45:00] informado y dado de alta, va a figurar
+[01:45:03] en los listados durante esos 6 meses con
+[01:45:06] una posibilidad de prórroga conforme
+[01:45:08] subsisten las condiciones de criticidad
+[01:45:10] o vulnerabilidad,
+[01:45:11] prórrogas sucesivas. Em, respecto a cómo
+[01:45:15] es este régimen en cuanto a lo que hace
+[01:45:18] a la bonificación o los aportes del
+[01:45:20] Estado Provincial y de las
+[01:45:22] distribuidoras, e, como les adelanté, es
+[01:45:25] una bonificación que tiene la
+[01:45:27] característica inversa a lo que es el
+[01:45:29] régimen de bomberos. ¿Sí? Entonces, la
+[01:45:31] resolución conjunta 5 de 2023, que es el
+[01:45:35] marco normativo que regula esto junto
+[01:45:37] con lo que hace a la circular 10 de
+[01:45:40] 2023, no nos olvidemos que las
+[01:45:42] circulares son de los SEBA y las
+[01:45:43] resoluciones conjuntas son de nivel
+[01:45:45] ministerial. Sí, establecen ahí en lo
+[01:45:48] que hace la circular todo lo que es el
+[01:45:49] procedimiento operativo para la
+[01:45:51] presentación de las eh declaraciones
+[01:45:54] ante los EVA, los cronogramas en los
+[01:45:57] cuales los presentan y además la
+[01:45:59] característica de que la provincia en
+[01:46:00] este caso financia el costo mayorista.
+[01:46:03] ¿Sí? Y las distribuidoras bonifican el
+[01:46:06] valor agregado de distribución.
+[01:46:09] También eso nos obliga a una vez
+[01:46:11] verificado en factura e la bonificación
+[01:46:14] eh del 100% de los conceptos eléctricos
+[01:46:16] ante impuestos, hacer esta eh separación
+[01:46:19] entre uno y otro concepto. En cuanto al
+[01:46:21] flujo informativo mensual, acá
+[01:46:23] brevemente les dejo alguna explicación
+[01:46:26] muy este molecular donde lo que nosotros
+[01:46:31] recibimos primero es el padrón del
+[01:46:33] Ministerio de Mujeres y Diversidades que
+[01:46:36] se remite mensualmente y además ese
+[01:46:39] padrón es eh disponibilizado a las
+[01:46:42] distribuidoras para que cada
+[01:46:43] distribuidor en este caso, extraiga eh
+[01:46:45] los datos de los e las víctimas de
+[01:46:48] violencia de género sobre las cuales
+[01:46:49] tiene que impactar Una diferencia
+[01:46:51] sustancial que tenemos en el caso de con
+[01:46:54] los otros regímenes que habíamos dicho,
+[01:46:56] que si bien el de bomberos es a
+[01:46:58] requerimiento, el tramite se hace ante
+[01:46:59] la distribuidora. En el caso de
+[01:47:01] violencia de género, el tramite se hace
+[01:47:03] ante el Ministerio y el Ministerio nos
+[01:47:05] facilita la información a los SEBA para
+[01:47:06] que nosotros lo disponibilizamos, lo
+[01:47:09] facilitemos, se lo facilitemos a las
+[01:47:11] distribuidoras. Además, otra de las
+[01:47:14] diferencias es que en el caso de
+[01:47:16] violencia de género, a cada
+[01:47:17] distribuidora les ponemos exclusivamente
+[01:47:20] a disposición sus usuarios. Em, eso hace
+[01:47:23] que cada distribuidora entre con su
+[01:47:25] contraseña y con sus características a
+[01:47:28] buscar sus usuarios. E es como un
+[01:47:30] régimen inverso. El flujo de información
+[01:47:32] en el caso de bomberos viene hacia
+[01:47:34] nosotros y en el caso de violencia de
+[01:47:36] género, nosotros se lo mandamos a las
+[01:47:38] distribuidoras. Para el caso de lo que
+[01:47:41] hace a las asociaciones y clubes,
+[01:47:43] también le disponibilizamos a las
+[01:47:45] distribuidoras
+[01:47:47] a través del portal web la información
+[01:47:49] de las asociaciones y clubes las cuales
+[01:47:51] tiene que impactar,
+[01:47:53] pero en este caso ponemos un listado
+[01:47:55] unificado con la totalidad de las
+[01:47:57] distribuides. Cada uno tiene que buscar
+[01:47:59] ahí cuáles son los clubes y asociaciones
+[01:48:01] que se encuentran bajo su área de
+[01:48:03] concesión.
+[01:48:04] Em,
+[01:48:06] lo que hace la publicación es un poco
+[01:48:08] esto que decía, que es un padrón con
+[01:48:09] resguardo de confidencialidad,
+[01:48:12] donde cada distribuidora entra a ver su
+[01:48:14] usuaria a la cual le tiene que aplicar
+[01:48:16] la el beneficio para víctimas de
+[01:48:18] violencia de género.
+[01:48:22] La implementación tiene que ver con el
+[01:48:24] hecho de que las distribuidas descargan
+[01:48:25] esos usuarios, aplican la bonificación y
+[01:48:28] una vez que aplican la bonificación
+[01:48:30] inmediatamente toman conocimiento de del
+[01:48:34] usuario, tienen que e
+[01:48:37] luego cargar en el módulo contabilidad
+[01:48:40] regulatoria las declaraciones conforme a
+[01:48:43] las bonificaciones que aplicaron. Sí. e
+[01:48:46] estas declaraciones juradas y la
+[01:48:47] rendición es lo que nos permite a
+[01:48:49] nosotros verificar que se está aplicando
+[01:48:52] en la bonificación y este consistir el
+[01:48:55] reconocimiento. Las declaraciones
+[01:48:57] juradas de lo que hace la bonificación
+[01:49:00] de víctima de violencia de género se
+[01:49:02] presentan en el módulo contabilidad
+[01:49:03] regulatoria. Lo mismo ocurre en el caso
+[01:49:05] de clubes y asociaciones. Es en un en
+[01:49:08] este caso es 5 B género, tiene una
+[01:49:10] característica determinada. tienen eh
+[01:49:13] que llevar los archivos determinado este
+[01:49:16] nombre y además e son eh unas tablas
+[01:49:20] Excel que eh deben eh completarlas con
+[01:49:24] este determinados criterios, no solo de
+[01:49:27] formato, sino parámetros preestablecidos
+[01:49:30] que nos permita a nosotros este hacer
+[01:49:32] los cálculos a posteriori.
+[01:49:35] En el caso de bomberos no se presenta
+[01:49:37] acá, sino que se presenta en el
+[01:49:38] facturador junto con las otras
+[01:49:39] declaraciones, las de tarifa social y
+[01:49:41] demás. Pero tanto lo que es
+[01:49:44] las declaraciones de víctima de
+[01:49:46] violencia de género y clubes tienen que
+[01:49:47] ir por esta plataforma de contabilidad
+[01:49:50] regulatoria. E lo que les pedimos sí a
+[01:49:52] las distribuidoras que cuando encuentran
+[01:49:54] un error o una dificultad en la carga,
+[01:49:56] que a veces ocurre por una cuestión
+[01:49:58] informática, que excepcionalmente para
+[01:50:01] habilitarlos hacerlo de otra manera,
+[01:50:04] porque estamos hablando de declaraciones
+[01:50:05] juradas, ¿sí? Para hacerlo de otra
+[01:50:07] manera, le hemos habilitado este
+[01:50:10] ingresarlos por mesa de entrada digital,
+[01:50:12] que de alguna manera le da esta
+[01:50:14] característica de declaración jurada, y
+[01:50:17] eh mandar un print de pantalla donde
+[01:50:19] podemos visualizar cuál es el error que
+[01:50:20] encontraron para que nosotros lo podamos
+[01:50:23] este gestionar a través de sistemas para
+[01:50:26] verificar cuál es el problema que está
+[01:50:27] teniendo esa distribuidora en particular
+[01:50:29] que no le ha permitido cargar esa
+[01:50:30] declaración.
+[01:50:33] e el plazo límite en este caso para la
+[01:50:35] presentación está es hasta el día 20 de
+[01:50:37] cada mes. E no quiere decir eso que
+[01:50:40] pierdan el derecho, sino que el hecho es
+[01:50:43] que nosotros tenemos que en un futuro
+[01:50:44] tomar un corte y declaraciones viejas no
+[01:50:47] presentadas eh entran como en otro en
+[01:50:50] otro análisis. Sí. Eh, nos ha pasado de
+[01:50:53] distribuidoras que no han presentado
+[01:50:54] durante varios meses las declaraciones y
+[01:50:57] después nos piden que le habilitemos en
+[01:50:59] la en el módulo este de contabilidad
+[01:51:01] regulatorias las declaraciones, se los
+[01:51:02] habilitamos, pero bueno, entran este
+[01:51:05] como rezago, pero además aclaro que como
+[01:51:08] no hay actualización eh lo que hayan
+[01:51:10] bonificado en ese momento es lo que se
+[01:51:12] va a verificar después en factura y lo
+[01:51:13] que se va a bonificar conforme el
+[01:51:15] cálculo que se haga.
+[01:51:18] En el caso de de bomberos, como se
+[01:51:21] cargan prácticamente todos los meses las
+[01:51:23] facturas, también sacamos de ahí la
+[01:51:24] facturas para hacer la evaluación y el
+[01:51:26] muestreo. Hago la aclaración también del
+[01:51:28] caso de violencia de género, porque
+[01:51:30] vemos que hay mucha
+[01:51:33] eh falta de presentación de
+[01:51:34] declaraciones. No obstante eso, que no
+[01:51:36] se presenten las declaraciones, nosotros
+[01:51:38] analizamos con cierta periodicidad los
+[01:51:41] listados en los cuales eh verificamos
+[01:51:44] cuáles son las distribuidoras que tienen
+[01:51:45] víctima de violencia de género. Y aún no
+[01:51:48] habiendo presentado ni la declaración ni
+[01:51:50] facturas, nosotros le solicitamos
+[01:51:52] facturas que nos permitan verificar que
+[01:51:55] se esté aplicando el beneficio porque la
+[01:51:59] facultad de la distribuidora es venir a
+[01:52:01] cobrarlo, pero es obligatoria la
+[01:52:03] aplicación, con lo cual muchas veces
+[01:52:05] requerimos facturas que nos permitan
+[01:52:07] verificar si se está aplicando o no el
+[01:52:09] beneficio. Sí.
+[01:52:12] les habilitamos y les recordamos siempre
+[01:52:13] la posibilidad del recupero, pero bueno,
+[01:52:15] es una facultad de ellas acceder a esto
+[01:52:18] y cumplir con estos requisitos para
+[01:52:19] poder recuperarlo.
+[01:52:21] En cuanto a lo que es, como decía, los
+[01:52:23] formatos estándar que requiere la
+[01:52:26] presentación en el módulo de
+[01:52:27] contabilidad regulatoria, hay un anexo
+[01:52:29] en las circulares que exige cuáles son
+[01:52:31] los campos a llenar, cuáles son este los
+[01:52:34] formatos que tienen que cumplir e cuáles
+[01:52:37] son los elementos que necesitamos
+[01:52:39] nosotros para poder hacer luego el
+[01:52:40] cálculo y la verificación y consistir en
+[01:52:42] factura la información que vemos en las
+[01:52:44] declaraciones.
+[01:52:46] Una de las características que también
+[01:52:48] diferencia este régimen de lo que es
+[01:52:52] bomberos o clubes es que en el régimen
+[01:52:55] de bueno, el régimen de bomberos hay
+[01:52:56] determinadas categorías tarifarias, como
+[01:52:58] dijimos incluso eh usuarios que tienen
+[01:53:00] contrato de potencia que pueden acceder
+[01:53:02] al beneficio. Y en el caso de eh de
+[01:53:04] clubes también hay condicionamientos de
+[01:53:07] demanda. En el caso de víctima de
+[01:53:08] violencia de género, en general,
+[01:53:10] nosotros vemos sobre todo tarifas
+[01:53:11] residenciales, tarifas eh residenciales,
+[01:53:14] tarifa social o no tarifa social, pero
+[01:53:16] también pueden ser eh hemos visto T2,
+[01:53:19] con lo cual no está es eh fuera de la
+[01:53:22] órbita del régimen de la bonificación de
+[01:53:24] violencia y género, pero netamente en
+[01:53:26] general son e tarifas residenciales.
+[01:53:29] también puede haber T1G en en las
+[01:53:31] tarifas de violencia y género. Las hemos
+[01:53:34] visto y las distribuidas están obligadas
+[01:53:36] también a bonificarla, no es que es
+[01:53:38] exclusivamente de tarifas residenciales,
+[01:53:42] ¿no? De T1R.
+[01:53:45] En cuanto a la fiscalización, el Oceva
+[01:53:47] lo que hace una vez que analiza las
+[01:53:49] declaraciones eh juradas presentadas en
+[01:53:52] la en el módulo que dije de contabilidad
+[01:53:54] regulatoria, solicita facturas de
+[01:53:57] muestreo, analiza que se cumpla la
+[01:53:59] bonificación del 100% sobre los
+[01:54:01] conceptos eléctricos ante impuesto y los
+[01:54:04] montos declarados en en las
+[01:54:06] declaraciones, los análisis y los
+[01:54:08] contrasta con las facturas.
+[01:54:11] Em,
+[01:54:12] respecto a esta fiscalización, en muchos
+[01:54:14] casos eh hay distribuidoras que e tienen
+[01:54:17] pocos usuarios, así que somos
+[01:54:19] reiteratorios que pedimos las mismas
+[01:54:21] facturas de distintos peridos que nos
+[01:54:23] permita verificar que se mantiene la
+[01:54:25] aplicación del beneficio y otras vamos
+[01:54:27] trabajando con muestro hasta que e
+[01:54:30] logramos barrer la totalidad de los
+[01:54:32] usuarios que tiene esa distribuidora.
+[01:54:33] Esta, si vemos que las facturas que
+[01:54:36] pedimos no son correctas o encontramos
+[01:54:38] errores, volvemos a pedir alguna factura
+[01:54:40] más que nos permita la aplicación o el
+[01:54:42] eh requerimos las explicaciones
+[01:54:44] correspondientes que nos permite
+[01:54:46] entender qué es lo que está pasando con
+[01:54:47] esa bonificación. Muchas veces es que no
+[01:54:50] se encontró el usuario, hay
+[01:54:51] inconsistencias, como dije, entre los
+[01:54:53] NIS y las direcciones y la distribuidora
+[01:54:56] no nos lo ha informado. Entonces, le
+[01:54:58] aplica un NIS que no es el que
+[01:54:59] corresponde porque completa el la
+[01:55:02] numeración o asocia que el número de NIS
+[01:55:05] era el número de cuenta. Incluso hemos
+[01:55:07] visto que en los listados aparecen los
+[01:55:08] números de medidores en vez de los
+[01:55:10] números de NIS. Sí.
+[01:55:12] Nosotros preferimos y le hemos mandado
+[01:55:14] notas a la distribuidora que nos
+[01:55:16] informen esas inconsistencias porque nos
+[01:55:17] permite tener un feedback con el
+[01:55:20] Ministerio de Mujeres y Diversidad a
+[01:55:22] efectos de poder corregir eso y también
+[01:55:24] e hacer una cuestión de de corrección en
+[01:55:28] los aguas abajo de los municipios, que
+[01:55:30] son quienes están más en contacto con
+[01:55:32] esta situación y que de alguna manera eh
+[01:55:35] difunden este programa y permiten y
+[01:55:38] hacen de de acompañamiento a las
+[01:55:40] víctimas de violencia de género. para
+[01:55:41] poder acceder a este beneficio.
+[01:55:44] Em también la normativa prevé que si la
+[01:55:48] distribuidora no aplica la bonificación
+[01:55:50] de hasta el 100% eh sobre los conceptos
+[01:55:53] eléctricos de impuesto, el Oceva tiene
+[01:55:55] que rechazar el reconocimiento económico
+[01:55:57] y informarlo a la subsecretaria energía.
+[01:56:00] No, no hemos tenido casos este de esta
+[01:56:02] naturaleza, casos lo digo con malicia,
+[01:56:05] ¿no? Porque capaz que hemos tenido casos
+[01:56:07] debido a un error, ¿sí? Pero no con
+[01:56:09] intención de no bonificar, sino porque
+[01:56:11] no se ha comprendido la aplicación del
+[01:56:13] régimen, eh, y se han aplicado mal, no
+[01:56:16] se aplicado algún concepto fuera, ¿no?
+[01:56:19] Nos ha pasado con el ICT o el CTT que no
+[01:56:21] lo no lo han aplicado la bonificación.
+[01:56:23] Es eso ve este en el feedback que
+[01:56:26] después tenemos con las cooperativas,
+[01:56:27] sobre todo con las cooperativas nos pasa
+[01:56:29] esto e y después lo corrigen, refacturan
+[01:56:33] eh con lo cual lo hemos podido corregir
+[01:56:35] sin necesidad de informar o aplicar una
+[01:56:37] sanción en estos términos.
+[01:56:40] Y finalmente, una vez consistidas las
+[01:56:42] declaraciones eh presentadas en el
+[01:56:45] módulo de contabilidad regulatoria y las
+[01:56:47] facturas solicitadas para muestreo, se
+[01:56:49] requiere la intervención de lo que es la
+[01:56:51] gerencia de mercado, que es la que
+[01:56:52] permite separar lo que es el costo
+[01:56:54] mayorista del B para este impactar el
+[01:56:57] aporte del Estado Provincial en los
+[01:56:58] conceptos en los cuales el Estado
+[01:57:00] Provincial aporta este en la
+[01:57:02] bonificación y este habilitar el
+[01:57:05] procedimiento de pago y reconocimiento a
+[01:57:07] las distribuidoras sobre estos importes.
+[01:57:10] E las transferencias después se hacen en
+[01:57:12] expediente de pago que este tramitan
+[01:57:14] ante la subsecretaría y tienen un
+[01:57:16] régimen este que triangula con camisa eh
+[01:57:19] con un reconocimiento de las aguas
+[01:57:21] arriba hacia las aguas abajo este
+[01:57:24] para este permitir e achicar digamos
+[01:57:28] entiendo yo, el cúmulo de de expedientes
+[01:57:31] de pago. Sí. Em, ahora les voy a
+[01:57:34] compartir lo que hace al eh régimen de
+[01:57:37] eh
+[01:57:39] asociaciones y clubes, que es la
+[01:57:41] resolución 464 del 2023 que prevé una
+[01:57:45] bonificación del 30%.
+[01:57:49] ¿Dónde está el compartido? Estoy con
+[01:57:51] estamos con problemas tecnológicos acá.
+[01:57:54] A ver.
+[01:58:02] dejar de compartir.
+[01:58:07] ¿Por qué me desapareció esto?
+[01:58:16] No le veo. No
+[01:58:18] compartir
+[01:58:23] que no me deja. Mira, me desapareció de
+[01:58:24] acá esto.
+[01:58:38] Sí, la pantalla.
+[01:58:43] A ver si voy acá.
+[01:58:49] ve
+[01:58:56] como que se me amplió un grado que no me
+[01:58:58] permite. No,
+[01:59:02] e
+[01:59:06] estamos con una dificultad técnica.
+[01:59:11] Ahí
+[01:59:13] que no me deja
+[01:59:24] estoy yo acá.
+[01:59:29] Si acá no tenés esto, de esto.
+[01:59:33] Te va arriba.
+[01:59:35] Estamos con una dificultad técnica. Pedí
+[01:59:37] un minuto, un corto intermedio.
+[01:59:42] Ya habré apretado. No,
+[01:59:46] si salv a entrar.
+[01:59:47] Sí, voy a salir y voy a volver a entrar
+[01:59:49] acá. No, la cruz esa.
+[01:59:56] Espera
+[02:00:05] la
+[02:00:09] Ahí,
+[02:00:09] ahí. Pero claro que está ahí abajo. Es
+[02:00:12] Ahí está. Está bueno. Está parece que
+[02:00:15] vamos, ¿eh?
+[02:00:18] para yo tengo que ir a Sí, sí, ahí
+[02:00:20] estamos habilitando pudo encontrar
+[02:00:25] parecemos dinosaurios, ¿no?
+[02:00:30] Bueno, para ahí se ve.
+[02:00:34] Sí, espérame que voy a
+[02:00:37] parece much
+[02:00:40] y esto se está grabando que somos
+[02:00:41] dinosaurios. Dije, [risas]
+[02:00:44] ahí apareció.
+[02:00:45] Sí. A ver, eh, yo estoy sin cámara,
+[02:00:51] ahí creo que aparezco
+[02:00:52] bien.
+[02:00:55] Bueno, eh, ahora vamos con la
+[02:00:57] bonificación del 30% de asociaciones y
+[02:01:00] clubes. Este es el régimen más viejo de
+[02:01:03] estos régímenes especiales. Está
+[02:01:06] regulado en la resolución ministerial
+[02:01:08] 464 de 2023 y la circular 3 del 2023. e
+[02:01:14] es una bonificación de hasta el 30% en
+[02:01:17] eh conceptos eléctricos también antes
+[02:01:19] del puesto. regulado en estas dos
+[02:01:22] normativas y lo que tiene la
+[02:01:24] particularidad es que es el el
+[02:01:27] sucesor de lo que era el el esquema de
+[02:01:30] tarifa cero previo a la pandemia que
+[02:01:32] estaba por un lado lo que era la
+[02:01:33] bonificación del 30%, después se inventó
+[02:01:35] la tarifa cero y luego se convirtió todo
+[02:01:38] en lo que es la bonificación del 30% e
+[02:01:41] de bonificación que le llamamos nosotros
+[02:01:44] de clubes y asociaciones civiles. Sí,
+[02:01:47] esto como les dije nació en lo que era
+[02:01:50] la pandemia. Y luego este se consolidó
+[02:01:53] en este régimen particular. El listado
+[02:01:55] es un viejo listado nutrido en ese
+[02:01:57] momento, tanto por lo que era el
+[02:02:00] Ministerio eh de desarrollo, que tenía
+[02:02:04] el listado de clubes y por otro lado
+[02:02:06] teníamos el listado que e era
+[02:02:09] consolidado a través de personas
+[02:02:10] jurídicas que cumplía con los requisitos
+[02:02:12] que establecía la normativa. Las
+[02:02:14] categorías tarifarias permitidas en este
+[02:02:15] caso son T1 pequeñas demandas de
+[02:02:19] suministros con el tope que ven en la
+[02:02:22] pantalla. Las T2 medianas demandas con
+[02:02:25] una potencia contratada también con un
+[02:02:27] límite y las T4 pequeñas demandas
+[02:02:29] rurales de suministros dentro un rango
+[02:02:31] equivalente al mencionado. Además,
+[02:02:33] necesitamos que los titulares de del
+[02:02:37] servicio sean este las asociaciones y
+[02:02:40] clubes e que figuran en ese listado. La
+[02:02:44] metodología de aplicación en la
+[02:02:45] facturación es una sobre la base de
+[02:02:47] cálculo de conceptos eléctricos se hace
+[02:02:50] el cálculo del 30% sobre los cargos
+[02:02:53] fijos, cargos variable, potencia, si
+[02:02:55] correspondi ICT o CTT, todo antes de
+[02:02:58] impuestos y de tasas. Queda fuera
+[02:03:00] nuevamente lo que es el eh los conceptos
+[02:03:03] eh ajenos, la tasa de alumbrado y algún
+[02:03:06] otro elemento que no integre esta base
+[02:03:08] cálculo. También tiene una leyenda
+[02:03:11] obligatoria. La dicienda obligatoria
+[02:03:13] remite a lo que es la resolución 464
+[02:03:15] 2023 o bonificación de clubes. Muchos
+[02:03:18] siguen diciéndole en la factura y los
+[02:03:20] vemos, tarifa cero. Muchos incluso eh
+[02:03:23] para sorpresa del organismo bonifican
+[02:03:26] todavía hasta el 100% bonifican bajo el
+[02:03:28] régimen de tarifa cero. El único
+[02:03:31] problema es que nosotros le tenemos
+[02:03:32] dicho a esos distribuidores que no se
+[02:03:34] les va a reconocer luego más que el 30%.
+[02:03:37] Sí, no obstante que ellos podrían
+[02:03:38] bonificar eh hasta la totalidad si
+[02:03:41] quisieran. Em, respecto a esto, hago una
+[02:03:44] aclaración del régimen de víctima de
+[02:03:46] violencia de género, que lo que dije es
+[02:03:47] que los listados que nosotros
+[02:03:48] disponibilizamos son obligatorios para
+[02:03:51] la distribuidora.
+[02:03:53] La normativa los invitaba también a e a
+[02:03:57] incluir otros usuarios si quisieran
+[02:03:59] adherir de alguna manera e bajo su costo
+[02:04:03] a otros usuarios. Pero esos usuarios que
+[02:04:05] no estén en el listado que nosotros les
+[02:04:07] eh facilitamos no pueden eh tramitar
+[02:04:10] ante los EVA la bonificación.
+[02:04:13] Aclaro esto porque hemos visto también
+[02:04:14] distribuidoras que han este impactado la
+[02:04:17] bonificación sobre usuarios que no están
+[02:04:19] en los listados que les
+[02:04:21] disponibilizamos. Celebramos de todos
+[02:04:23] modos que lo hagan. Eh, em,
+[02:04:26] respecto a lo que es la multiplicidad de
+[02:04:28] suministros, nuevamente una diferencia
+[02:04:30] que encontramos con el caso de víctima
+[02:04:32] de violencia de género. En el caso de
+[02:04:33] víctima de violencia de género es un
+[02:04:35] solo suministro por usuaria, víctima de
+[02:04:37] violencia de género. En el caso tanto de
+[02:04:39] bomberos como de eh asociaciones, pueden
+[02:04:42] ser más de un suministro siempre y
+[02:04:44] cuando esté de titular el la asociación
+[02:04:48] o o la entidad de bomberos, ¿no? El
+[02:04:52] procedimiento administrativo para el
+[02:04:53] recupero. Tenemos, como les adelanté, un
+[02:04:56] padrón oficial que en su momento era
+[02:04:59] nutrido por la Dirección Provincial de
+[02:05:01] Personas Jurídicas y el Ministerio de
+[02:05:02] Desarrollo. Ese listado es un listado
+[02:05:05] unificado que los disponibilizamos a la
+[02:05:07] totalidad de las distribuidoras a través
+[02:05:09] de la web de los EVBA. el problema que
+[02:05:11] tenemos en general con ese listado,
+[02:05:13] porque parece que este
+[02:05:16] si bien es un listado que fue este eh
+[02:05:19] como digo, nutrido por dos este
+[02:05:22] entidades, la dificultad que encontramos
+[02:05:24] es que por un lado a veces personas
+[02:05:25] jurídicas nos ponen legajo, el
+[02:05:26] Ministerio de Desarrollo nos pone, no
+[02:05:28] sé, alguna identificación del club, pero
+[02:05:31] no nos ponen los los suministros. Con el
+[02:05:33] tiempo hemos ido puliendo y hemos
+[02:05:35] logrado este peinar qué es lo que hay
+[02:05:37] adentro. también aparecen personas
+[02:05:38] físicas que las hemos sacado, nos han
+[02:05:41] aparecido fideicomisos, todos esos eh
+[02:05:44] elementos que no integran el padrón los
+[02:05:47] hemos con el tiempo y con la eh con
+[02:05:49] digamos el rigor que hemos aplicado a
+[02:05:52] los padrones, a la facturación, hemos
+[02:05:54] logrado identificarlos y hemos ido
+[02:05:56] purgando ese listado. No obstante ello,
+[02:05:57] imagínense que los nombres de los clubes
+[02:06:00] o a veces asociaciones en la provincia
+[02:06:02] de Buenos Aires se se
+[02:06:06] eh se superponen o no sé, por darles un
+[02:06:09] ejemplo, Biblioteca Sarmiento, hay más
+[02:06:11] de 15 bibliotecas Sarmiento o no sé,
+[02:06:14] Club San Martín en en la provincia de
+[02:06:16] Buenos Aires, lo que dificulta la
+[02:06:18] identificación. están puestos en
+[02:06:20] distribuidoras que no corresponde.
+[02:06:22] También colaboran las distribuidoras
+[02:06:23] muchas veces en decirnos que le hemos
+[02:06:26] puesto un club eh o o identificamos en
+[02:06:28] esos listados más que ponerle
+[02:06:30] identificamos esos listados por error eh
+[02:06:32] a una distribuidora y corresponde una
+[02:06:34] cooperativa.
+[02:06:36] Un ejemplo donde se solapan a veces este
+[02:06:40] distribuidos y cooperativas es por
+[02:06:41] ejemplo en Deró, que está la cooperativa
+[02:06:43] de do y está el y a veces termina el
+[02:06:46] club identificado como que es de la
+[02:06:48] distribuidora y resulta ser de la
+[02:06:50] cooperativa o viceversa, con lo cual a
+[02:06:52] nosotros también nos ayuda que las
+[02:06:54] distribuidoras nos informen eso. En la
+[02:06:56] mayoría de los casos lo hemos encontrado
+[02:06:58] cuando hacemos auditorías comerciales eh
+[02:07:01] territoriales in situ y pedimos la
+[02:07:03] facturación específica que la
+[02:07:05] distribuidora la cooperativa nos informa
+[02:07:07] que su usuario no es un usuario este
+[02:07:10] bajo su área de concesión.
+[02:07:12] e es una la distribuidora tiene que
+[02:07:15] aplicar automáticamente aquellos
+[02:07:17] usuarios, este, asociaciones que figuran
+[02:07:19] en los listados y aquellos suministros
+[02:07:21] identificados en esas bases. Eh, tienen
+[02:07:23] que aplicar automáticamente la
+[02:07:25] bonificación del 30% prevista en la
+[02:07:27] resolución 464 2023 que prevé una
+[02:07:30] bonificación del 30% sobre los conceptos
+[02:07:33] eléctricos ante impuesto. ¿Sí?
+[02:07:35] Una vez que aplican ese beneficio, deben
+[02:07:39] eh cargar mensualmente una declaración
+[02:07:41] jurada en lo que es el módulo
+[02:07:44] contabilidad regulatoria. También tienen
+[02:07:46] un plazo para la presentación. No
+[02:07:47] obstante eso, hago la misma aclaración
+[02:07:49] que para víctima de violencia de género.
+[02:07:51] Aquellas distribuidas que no lo han
+[02:07:52] presentado y lo presentan tardíamente o
+[02:07:54] presentan varios meses juntos requieren
+[02:07:57] la habilitación de los EVA. Nos lo
+[02:07:58] piden. Nosotros le hemos habilitado la
+[02:08:00] carga de dichas declaraciones en el
+[02:08:02] módulo contabilidad regulatoria. No
+[02:08:04] obstante, aclaro que como son este
+[02:08:07] montos que no tienen actualización,
+[02:08:08] aquel que lo haya presentado tarde lo
+[02:08:10] presente un consolidado, se verifica en
+[02:08:13] facturación lo que se ha bonificado y se
+[02:08:15] hace ese reconocimiento conforme a esos
+[02:08:16] montos. ¿Sí? No se le aplica ningún tipo
+[02:08:18] de actualización ni interés. Sí. E
+[02:08:21] nuevamente aclaro que la obligación de
+[02:08:24] las distribuidoras es aplicar el
+[02:08:26] beneficio. El recupero es una facultad
+[02:08:28] que tienen las distribuidoras conforme a
+[02:08:30] la tramitación que les exige y al
+[02:08:32] cumplimiento de estos requisitos.
+[02:08:35] También les aclaramos que aquel que
+[02:08:37] tiene una dificultad para cargar las
+[02:08:39] declaraciones juradas, para poder darle
+[02:08:41] esta naturaleza jurídica de declaración
+[02:08:43] jurada, para poder habilitarlos a hacer
+[02:08:46] una presentación este
+[02:08:49] eh fuera del módulo contabilidad
+[02:08:51] regulatoria, les pedimos que lo hagan
+[02:08:53] siempre por la mesa entrada digital y
+[02:08:55] además con el print de pantalla donde eh
+[02:08:58] pueden informarnos el error que
+[02:09:00] encontraron para poder resolverlo. este
+[02:09:03] articulando con el área de sistema del
+[02:09:05] organismo. E la liquidación como procede
+[02:09:08] en general e pedimos sobre esas
+[02:09:11] declaraciones juradas un muestreo de
+[02:09:13] facturas. Ese muestro de facturas nos
+[02:09:15] permite verificar los montos eh que se
+[02:09:18] aplican en la facturación. efectivamente
+[02:09:20] contrastarlo con las declaraciones,
+[02:09:22] verificar que efectivamente es sobre el
+[02:09:24] 30%, que se trata de los usuarios del
+[02:09:27] listado, que este
+[02:09:30] eh conforme a los periodos informados y
+[02:09:33] luego se hace el trámite de pago ante la
+[02:09:35] subsecretaría también en un expediente
+[02:09:37] que triangula con camisa e para que los
+[02:09:41] este eh los aguas abajo luego este una
+[02:09:44] vez que se reconozca las distribuidoras
+[02:09:46] o las este agentes del mercado que
+[02:09:49] puedan tramitar, entre ellas compensar
+[02:09:52] los montos este que se verifiquen en los
+[02:09:55] expedientes de pago. Les voy a compartir
+[02:09:57] ahora que este algunas facturas que nos
+[02:10:01] permite a nosotros visualizar eh las
+[02:10:04] dificultades que encontramos a veces en
+[02:10:07] la aplicación o en el contraste que
+[02:10:09] hacemos
+[02:10:12] e tanto de bomberos como de violencia y
+[02:10:14] género de y de clubes.
+[02:10:17] busco algunas facturas para que
+[02:10:19] visualicen e cuáles son los las
+[02:10:23] dificultades que encontramos nosotros
+[02:10:25] para implementarlo, para el
+[02:10:26] reconocimiento. Muchas veces no son
+[02:10:28] cuestiones de de mala fe, pero eh
+[02:10:31] dificulta la tramitación. No sé si se ve
+[02:10:34] ahí. A ver, voy a compartir, voy a abrir
+[02:10:36] varias.
+[02:10:39] Primero voy a abrir las facturas. Sí,
+[02:10:43] así. Una vez que las tenga abiertas las
+[02:10:45] podemos ver. Esto no agota el universo
+[02:10:48] de dificultades que encontramos o de
+[02:10:51] errores en las facturas. E pero sí
+[02:10:55] permite visualizar
+[02:10:58] e los problemas que encontramos y además
+[02:11:01] es este esto nos obliga a tener un
+[02:11:03] feedback casi permanente con las
+[02:11:05] distribuidoras. Eh, en algunos casos
+[02:11:08] nosotros tratamos de eh pasar eh las
+[02:11:12] facturas eh o topar los montes, los
+[02:11:15] montos que nos permitan este de todos
+[02:11:17] modos avanzar con el reconocimiento
+[02:11:20] e para no
+[02:11:23] que para no entorpecer el procedimiento
+[02:11:25] y además reconocer que vemos la
+[02:11:27] bonificación, no obstante que las
+[02:11:28] declaraciones a veces es lo que está
+[02:11:30] mal, ¿no? Creo que acá está. A ver,
+[02:11:35] eh, voy a ir acá.
+[02:11:37] Acá está. A ver, ¿se ve, no?
+[02:11:40] Sí,
+[02:11:40] sí se ve.
+[02:11:41] Sí.
+[02:11:41] Ah, perfecto. Bueno, esta es, yo le voy
+[02:11:45] a hacer un zoom. Sí, esta es una factura
+[02:11:49] de una víctima de violencia de género.
+[02:11:51] Por una cuestión de de protección hemos
+[02:11:54] eh tapado los datos, pero no sé si se ve
+[02:11:59] ahí con el Zoom. E esta factura
+[02:12:02] está llevada a cero, ¿no? En los
+[02:12:04] conceptos eléctricos. impuesto como se
+[02:12:06] puede ver, ¿sí? El cargo fijo, el
+[02:12:08] variable, el ICT y lo la leyenda que
+[02:12:11] dice bonificación resolución ministerial
+[02:12:13] 5 de 2023. Acá esta distribuidora aclara
+[02:12:17] que es la cuota 6 de seis. Eso no es
+[02:12:19] necesario y tampoco e
+[02:12:22] eh
+[02:12:23] hace a a la auditoría, sin embargo, lo
+[02:12:26] hemos visto en varias distribuidoras,
+[02:12:28] tiene que ver con esto, pero no
+[02:12:29] obstante, si en la cuota siete, como le
+[02:12:31] diría esta cooperativa, aparece
+[02:12:32] nuevamente los listados, debería
+[02:12:33] aplicarlo. Sí. Em,
+[02:12:36] como en el caso, tanto en el caso de
+[02:12:38] bombero como en el de víctima de
+[02:12:40] violencia y género, eh, la bonificación
+[02:12:42] es eh sobre es el 100% y en el caso de
+[02:12:46] víctima es hasta el 100% de los
+[02:12:48] conceptos eléctricos dentro de impuesto.
+[02:12:50] Eh, lo que hace el subtotal de energía
+[02:12:53] tendríamos cero, por ende la eh la base
+[02:12:55] imponible para impuestos es cero. No
+[02:12:57] debería haber impuestos. Eh, acá vemos
+[02:12:59] que efectivamente esto está bien, pero
+[02:13:01] después más abajo vemos que hay un
+[02:13:04] montón de conceptos, no sé, dicen seguro
+[02:13:06] equipo, teléfono, cargo fijo de agua,
+[02:13:09] sí, tasa de alumbrado, tasa de
+[02:13:11] capitalización e muchos de estos son
+[02:13:13] conceptos ajenos que no deberían estar
+[02:13:15] acá, ¿no? en particular en esta factura
+[02:13:18] eh deberían estar separados y
+[02:13:20] permitiendo pago por separado, pero por
+[02:13:22] otro lado vemos la tasa alumbrado que
+[02:13:23] también está ahí, que es un concepto que
+[02:13:25] no es un concepto eléctrico, que podría
+[02:13:27] estar en una factura de violencia de
+[02:13:28] género. Y lo que explica de alguna
+[02:13:30] manera que cuando nosotros vemos en la
+[02:13:31] declaración que en el total de esa
+[02:13:33] factura, en las declaraciones que vemos
+[02:13:35] en el módulo de contabilidad regulatoria
+[02:13:37] dice 55,000 pesos, como es el caso,
+[02:13:39] nosotros pedimos la factura para
+[02:13:40] entender qué es lo que está pasando,
+[02:13:42] porque muchas veces está mal cargada la
+[02:13:45] declaración, pero si se ve la factura,
+[02:13:47] la bonificación está correctamente
+[02:13:48] realizada, pero la carga que se hace en
+[02:13:51] el módulo contabilidad regulatoria a
+[02:13:53] veces arrastra estas impurezas. ¿Sí?
+[02:13:57] Ahora les voy a mostrar otra factura.
+[02:13:59] Esta factura es también de víctima de
+[02:14:01] violencia y género. Voy a hacerle un
+[02:14:03] zoom. Vemos nuevamente la leyenda
+[02:14:06] obligatoria. Sí. Em,
+[02:14:11] vemos e esta factura es una factura que
+[02:14:15] no está en cero.
+[02:14:17] Em la de pronto aparece, como no se
+[02:14:20] aplicó eh la el 100% de la bonificación,
+[02:14:23] vemos que hay algún impuesto, cosa que
+[02:14:26] habíamos dicho que la base imponible era
+[02:14:27] cero, por ende tenía que haber
+[02:14:29] impuestos. Además aparece la tasa
+[02:14:30] alumbrado, que puede aparecer la tasa
+[02:14:32] alumbrado público y aparece cuota
+[02:14:34] capital, en este caso en cero, pero
+[02:14:35] aparece el concepto y algunos otros
+[02:14:37] cargos. Sí. Em,
+[02:14:41] después les comparto otra factura de eh
+[02:14:44] víctima de violencia de género, donde
+[02:14:46] vemos que está e la bonificación,
+[02:14:49] efectivamente vemos la leyenda, pero
+[02:14:52] vemos que se cobró el ICT. que el ICT no
+[02:14:54] está bonificado erróneamente porque es
+[02:14:57] sobre el total de los conceptos
+[02:14:59] eléctricos, la bonificación y por ende
+[02:15:01] aparecen impuestos, ¿sí? Porque la base
+[02:15:03] imponible no es cero y entonces la
+[02:15:05] factura tampoco es cero. Sí, estos son
+[02:15:07] errores que a veces los vemos en las
+[02:15:09] declaraciones. Nos obliga a pedir la
+[02:15:11] factura y en la factura lo vemos
+[02:15:12] plasmado este dónde está el error y por
+[02:15:14] qué la facturación no es cero. A veces
+[02:15:16] es porque tenía conceptos ajenos o a
+[02:15:18] veces es porque no está bien impactado
+[02:15:20] el beneficio correspondiente.
+[02:15:23] Acá les voy a mostrar, esta es una
+[02:15:24] factura de bomberos. Sí, en esta factura
+[02:15:27] de bombero que también dijimos que era
+[02:15:29] una bonificación del 100% de los
+[02:15:30] conceptos eléctricos anti impuestos, con
+[02:15:32] lo cual tenemos nuevamente en cero la
+[02:15:34] base imponible, deberíamos tener en cero
+[02:15:36] los impuestos. Sí, esta factura tiene la
+[02:15:39] particularidad que de pronto vemos, si
+[02:15:41] ven en el margen izquierdo em que
+[02:15:44] aparece el ICT, que no tenía que
+[02:15:47] aparecer porque habíamos dicho que
+[02:15:48] además estaba exento de ICT, aparece sí
+[02:15:51] la leyenda de la bonificación, en este
+[02:15:53] caso haciendo referencia a la ley 15422
+[02:15:55] y aparecen de pronto impuestos que no
+[02:15:57] debería tener porque habíamos dicho que
+[02:15:58] teníamos que llegar a e la bonificación
+[02:16:02] de hasta un 100% y además sin la el ICT
+[02:16:05] o CTT. Eh, y por el otro lado vemos del
+[02:16:09] margen derecho que está distribuida esta
+[02:16:11] cooperativa, cobra algunos otros
+[02:16:13] conceptos que tienen que ver con otros
+[02:16:14] servicios, la cuota fija de agua, tasa
+[02:16:17] municipal de alumbrado que lo pone del
+[02:16:19] del lado de donde cobra el agua, pero en
+[02:16:21] particular esta factura lo que tiene es
+[02:16:23] que no lleva cero la base imponible
+[02:16:25] porque cobra el ICT y el ICT genera al
+[02:16:30] al haber un número en el subtotal de
+[02:16:33] energía genera que además le cobra
+[02:16:35] impuestos esta factura ura está mal. Sí,
+[02:16:37] nosotros acá nos obliga a tomar
+[02:16:39] decisiones. Nosotros podríamos
+[02:16:41] bonificarle eh e o reconocerle eh para
+[02:16:44] el cálculo lo que efectivamente ha
+[02:16:46] bonificado sacando el ICT. Sí, pero e
+[02:16:49] porque no nos olvidemos que el usuario e
+[02:16:52] muchas veces e cuando está mal
+[02:16:55] bonificada la factura o está en cero
+[02:16:56] pero está mal bonificada, no ve la
+[02:16:58] película de lo que está pasando. Sí,
+[02:17:00] porque aporta a veces más el estado
+[02:17:02] provincial y las distribuidoras, pero no
+[02:17:04] el usuario. En este caso que si está
+[02:17:06] pagando algo el usuario y no debería
+[02:17:08] pagarlo nosotros, en principio
+[02:17:10] deberíamos e darle de baja esta factura
+[02:17:13] y la declaración y hacerle refacturar y
+[02:17:16] redeclarar porque está mal facturado.
+[02:17:21] E esta es otra factura
+[02:17:23] de bombero. En general, los errores son
+[02:17:26] sistemáticos y se repiten. Una vez
+[02:17:28] corregido en alguna declaración o
+[02:17:29] advertido, la distribuidora eh toma nota
+[02:17:32] de esto y la en las futuras eh facturas
+[02:17:35] lo hace correctamente. Esta es otra
+[02:17:37] factura de bomberos. Si ven cuando dice
+[02:17:39] tarifa dice 97 gu bombero, es una tarifa
+[02:17:42] que no existe, o sea, tal como le
+[02:17:43] denominan. Hago esta aclaración porque
+[02:17:45] hemos visto todo tipo de tarifas. Es una
+[02:17:47] así a veces está declarado incluso en
+[02:17:49] las declaraciones. Sí, esa tarifa no
+[02:17:51] existe porque acá ellos deberían ponerle
+[02:17:53] la tarifa que corresponda, si es un T1G,
+[02:17:55] si es un T1R, lo que sea, pero nunca es
+[02:17:57] una tarifa bombero. Dice 97- bombero N1.
+[02:18:01] Sí.
+[02:18:03] Nosotros tendríamos que ir a mirar
+[02:18:05] conforme a a lo que está en el en los
+[02:18:08] conceptos eléctricos, qué tarifa le
+[02:18:10] aplicaron, qué tipo de si es un T1 R o
+[02:18:14] que y ver si está bien hecho eh el
+[02:18:17] cálculo. Sí, porque también los errores
+[02:18:19] de aplicación de cálculo tarifario, e de
+[02:18:22] cuadro tarifario, perdón, eh impactan en
+[02:18:24] las bonificaciones tanto del aporte del
+[02:18:26] Estado Provincial como en el caso de
+[02:18:27] bomberos del Patrú bonificado. Sí. E y
+[02:18:30] también tenemos que verificar que estén
+[02:18:32] bien aplicados los cuadros tarifarios,
+[02:18:33] no solo que la bonificación sea llevada
+[02:18:35] a cero. Sí, en este caso vemos que
+[02:18:38] efectivamente tiene la leyenda, en este
+[02:18:41] caso hace referencia a la ley 15 422 y
+[02:18:43] tiene este lo que llaman cuota fija, que
+[02:18:46] es el cargo fijo y el cargo variable. Y
+[02:18:49] del otro lado vemos también este algunos
+[02:18:51] conceptos eh que cobra específicamente
+[02:18:54] esta distribuidora. no está el ICT, con
+[02:18:57] lo cual está correctamente facturado,
+[02:18:58] pero el total de la factura no es cero
+[02:19:00] porque ahí lo para que lo vean e están
+[02:19:03] cobrando conceptos que no tienen que ver
+[02:19:05] con energía. Entonces, en principio está
+[02:19:06] bien bonificado, podemos decir que está
+[02:19:08] mal la denominación de la tarifa. Con
+[02:19:11] esto somos un poco más considerados y
+[02:19:13] los dejamos pasar, no obstante que le
+[02:19:16] tratamos de aclarar que que
+[02:19:19] facturen correctamente con las
+[02:19:20] denominaciones que corresponden. Sí.
+[02:19:24] Acá les voy a comprarir otra factura de
+[02:19:26] bomberos.
+[02:19:28] En esta factura de bombero aparece
+[02:19:30] nuevamente el ICT o CTT en este caso
+[02:19:32] porque ya es una factura más nueva donde
+[02:19:34] ya la denominación cambio de nombre
+[02:19:37] es una factura en periodo marzo 2026
+[02:19:40] aparece el CTT que habíamos dicho que
+[02:19:42] estaba exento de ICT o de CTT e y lo
+[02:19:46] bonifican. Efectivamente está en cero,
+[02:19:48] pero el ICT no tiene que estar. Con lo
+[02:19:49] cual nosotros tendríamos que en esto
+[02:19:52] tomar la decisión de sacar del total a
+[02:19:55] bonificar el ICT, no reconocérselo
+[02:19:58] porque está exento y y poner un tope
+[02:20:01] sobre los los restantes conceptos, ¿no?
+[02:20:03] Para poder hacer el cálculo. Aparece la
+[02:20:05] tasa de alumbra o también bonificada.
+[02:20:07] Esa es una cuestión eh netamente
+[02:20:09] municipal. Hay algunos eh municipios que
+[02:20:11] en sus ordenanzas fiscales y ordenanzas
+[02:20:14] municipales respectivas bonifican a
+[02:20:16] estos usuarios, incluso incluso a las
+[02:20:18] víctimas de violencia de género o a las
+[02:20:20] asociaciones de clubes o a los
+[02:20:21] electrodependientes, ¿no? Si fuera el
+[02:20:22] caso. Eh, pero no es algo que en este
+[02:20:25] régimen nosotros estemos mirando. Si
+[02:20:27] aparece bonificado, bienvenido que los
+[02:20:29] este los municipios se sumen a este tipo
+[02:20:32] de bonificaciones con este lo que hace
+[02:20:35] la esfera de la competencia de cada uno,
+[02:20:36] ¿no? E esta es otra factura de club.
+[02:20:40] Sí, en esta factura de club e el error
+[02:20:44] está en los días, como se toma los días.
+[02:20:47] Sí. e es ya la letra chica del análisis,
+[02:20:51] ¿no? Esto em tenemos el cargo fijo,
+[02:20:54] tenemos el ICT que no tenía que estar,
+[02:20:57] tenemos efectivamente la leyenda que
+[02:20:58] dice en este caso bonificación
+[02:21:00] asociaciones de clubes eh de asociación
+[02:21:05] y club eh
+[02:21:07] club de barrio pueblo. Hace referencia a
+[02:21:09] la resolución 464 del dos, dice, pero es
+[02:21:11] del 23. Sí. Eh, en este caso, recordemos
+[02:21:14] que habíamos hablado que la bonificación
+[02:21:16] es del 30% sobre los conceptos
+[02:21:18] eléctricos ante impuestos, o sea, que el
+[02:21:20] ICT puede estar, en este caso no es un
+[02:21:22] problema que esté. E nosotros lo que
+[02:21:25] verificamos es que efectivamente esté
+[02:21:26] bien hecho el cálculo de los cuadros
+[02:21:29] tarifarios, bien aplicado conforme a la
+[02:21:30] categoría y además la bonificación eh
+[02:21:34] esté impactada correctamente.
+[02:21:36] Bueno, estas facturas me parece que
+[02:21:37] sirven como ejemplo, como para entender
+[02:21:40] las dificultades que en general
+[02:21:42] encontramos, porque hay algo que a veces
+[02:21:44] nosotros contrastamos declaraciones con
+[02:21:47] facturas y se nos hace difícil dejar
+[02:21:50] pasar este algunos errores porque
+[02:21:55] primero impactan en los aportes que
+[02:21:57] realizan cada uno de los actores y por
+[02:21:59] otro lado, porque el los errores de
+[02:22:03] declaraciones a veces lo podemos suplir
+[02:22:06] ir eh pidiendo las redeclaraciones, pero
+[02:22:09] los de facturación nos implica la
+[02:22:11] necesidad que las distribuidas
+[02:22:12] refacturen conforme a los requisitos y
+[02:22:15] la normativa vigente para cada uno de
+[02:22:16] estos régímenes. E no sé si hay alguna
+[02:22:20] duda. Bueno, yo más o menos es todo lo
+[02:22:21] que les quería contar al respecto. E el
+[02:22:24] universo de errores e inconsistencias no
+[02:22:26] se agota acá, pero me pareció bastante
+[02:22:28] pedagógico poder ponerlos en común y
+[02:22:31] visualizarlos e a efectos de graficar,
+[02:22:34] ¿no? que en qué consiste el trabajo que
+[02:22:36] hacemos nosotros, cómo es la metodología
+[02:22:38] que tenemos implementada eh en cada uno
+[02:22:40] de estos eh regímenes especiales. Bueno,
+[02:22:43] así que muchas gracias. Si alguien tiene
+[02:22:44] alguna pregunta, estoy a disposición.
+[02:22:53] Parece que no.
+[02:22:58] No sé si dej de compartir.
+[02:23:02] Bueno, eh no tienen clarísimo, Josando
+[02:23:07] mensajitos, así que evidentemente
+[02:23:10] no hay no hay preguntas.
+[02:23:13] Bueno, queda pendiente tarifa social.
+[02:23:17] Ahí voy a compartir yo a ver si tengo
+[02:23:19] los mismos problemas que ustedes.
+[02:23:32] No,
+[02:23:34] también estoy bien. ¿O no
+[02:23:36] se ve bien?
+[02:23:37] Sí, se ve. Se ve.
+[02:23:38] Sí, se ve bien.
+[02:23:39] Yo tuve suerte. [risas]
+[02:23:41] hace eco eh el audio.
+[02:23:43] Bueno, e
+[02:23:45] tarifa asociada. Vamos a tener
+[02:23:49] cuál es. Ya me olvidé el número.
+[02:23:51] ¿Me escuchas?
+[02:23:53] Y lo vamos a ver cuando la clase 25.
+[02:23:59] Vamos a dar un general más que nada e
+[02:24:04] porque creo yo que es la principal de
+[02:24:06] las tarifas especiales, eh, por cuanto
+[02:24:10] la cantidad de beneficiarios a las que
+[02:24:12] se les aplica.
+[02:24:14] La primera cuestión a contarles es
+[02:24:20] el Estado Nacional se hacía cargo del
+[02:24:23] reconocimiento de la tarifa social hasta
+[02:24:25] la firma del pacto
+[02:24:28] del consenso fiscal 2018 que fue
+[02:24:30] aprobado por la ley 1579 en la provincia
+[02:24:33] de Buenos Aires y en ese momento eh se
+[02:24:36] reconocían los primeros 150 kW de
+[02:24:40] consumo al 100 y los siguientes 150 kW
+[02:24:44] al 50, si esa y esa bonificación,
+[02:24:47] digamos, esa suma de, digamos, en 225 kW
+[02:24:51] los pagaba el Estado Nacional
+[02:24:53] directamente a Camesa. Entonces, cada
+[02:24:55] distribuidora veía, digamos, un
+[02:24:58] descuento en la factura de compra de
+[02:25:00] energía que hacía ACESA. Una vez
+[02:25:03] producido, firmado este consenso fiscal,
+[02:25:06] la obligación de contribuir a las
+[02:25:08] tarifas este a la tarifa social, los o
+[02:25:11] subsidios de este tipo también en
+[02:25:12] transporte pasó,
+[02:25:15] fueron transferidos a cada una de las
+[02:25:16] provincias. Sí.
+[02:25:18] E la ley 1578 establece que eh la
+[02:25:23] provincia asume el costo de la tarifa
+[02:25:25] social, lo que establece también que no
+[02:25:27] solamente para todos los usuarios de las
+[02:25:29] distribuidoras provinciales y
+[02:25:31] municipales, sino también para los
+[02:25:32] usuarios que viven en territorio
+[02:25:34] provincial y eh que son abastecidos por
+[02:25:36] Edenores de Sur.
+[02:25:38] Em,
+[02:25:40] esto se continuó haciendo. Teníamos un
+[02:25:43] mecanismo de pago que nosotros pagábamos
+[02:25:46] directamente a Camesa, esa sumatoria.
+[02:25:49] Eh, en el caso de Nore de Sur venía la
+[02:25:51] validación este del Enre. En el caso del
+[02:25:54] resto de las distribuidoras venía a
+[02:25:55] través de los SEBA, se juntaba todo y se
+[02:25:57] mandaba a pagar. Hasta que el primero de
+[02:26:00] junio del 2024 los precios mayoristas
+[02:26:04] subieron en unas aproximadamente cinco
+[02:26:06] veces.
+[02:26:08] eh etapa en que el crédito
+[02:26:11] presupuestario bastante magro y no
+[02:26:13] podíamos desde la provincia continuar
+[02:26:16] sosteniendo el régimen que veníamos
+[02:26:18] haciéndolo desde el 2019. Es ahí donde
+[02:26:22] sancionamos o se aprueba o se dicta el
+[02:26:25] decreto 940
+[02:26:27] del 2024, donde se estableció que eh se
+[02:26:31] iba a modificar o nos íbamos a
+[02:26:33] desacoplar de esa de esa vinculación con
+[02:26:35] el consumo, los primeros 150 al 100 y
+[02:26:38] los segundos 150 al 50, a una
+[02:26:40] bonificación de monto fijo que podía ser
+[02:26:43] diferente según la categoría de usuario,
+[02:26:46] eh según la distribuidora y que el
+[02:26:48] decreto delega esa potestad de la
+[02:26:50] autoridad de aplicación, Ministerio de
+[02:26:52] Infraestructura, autoridad de aplicación
+[02:26:53] de la 11769.
+[02:26:57] Eh, entonces fue que ahí sale la
+[02:27:00] resolución 771 que establece todo el
+[02:27:04] mecanismo eh de implementación del nuevo
+[02:27:06] régimen, ya nuevo tiene 2 años, pero le
+[02:27:09] seguimos diciendo nuevo régimen de
+[02:27:10] tarifa social. E esta resolución 771
+[02:27:15] estableció los criterios de inclusión y
+[02:27:18] exclusión. Esos criterios son los mismos
+[02:27:21] que vienen de una resolución que tenía
+[02:27:23] el Estado Nacional eh del 2016, que era
+[02:27:27] cuando se aplicaba el régimen donde con
+[02:27:29] donde pagábamos precisamente estos
+[02:27:32] kilow, ¿sí? Y los pagábamos a los pagaba
+[02:27:35] el Estado Nacional. Mantenemos eso y es
+[02:27:37] al día de hoy que esos requisitos o
+[02:27:39] criterios de inclusión y exclusión se
+[02:27:40] siguen manteniendo.
+[02:27:42] Lo que sí se ha modificado era antes
+[02:27:45] este lo que provenía, ¿se acuerdan? del
+[02:27:48] del Cintis. Y en esta resolución no
+[02:27:50] solamente se estableció, en ese momento
+[02:27:53] estaba la segmentación N1, N2 y N3.
+[02:27:56] Eh, los tarifas social que reunieran los
+[02:27:58] requisitos de inclusión en el régimen
+[02:28:01] podían ser N2,
+[02:28:03] algunos casos N1, pero bueno, les
+[02:28:05] asistía el derecho de tener la
+[02:28:07] bonificación de tarifa social y se
+[02:28:09] estableció por la resolución 771 ampliar
+[02:28:12] al resto del universo de N2, que son los
+[02:28:15] usuarios que tenían, digamos,
+[02:28:17] condiciones de vulnerabilidad este y por
+[02:28:20] eso estaban en esa en esa nivel de
+[02:28:22] segmentación.
+[02:28:26] Al principio de este año 2026 se volvió
+[02:28:29] a modificar y solamente nos quedamos con
+[02:28:31] el universo. Además de eliminarse la
+[02:28:33] segmentación N1, N2 y N3, solamente nos
+[02:28:36] quedamos con aquellos que son
+[02:28:37] beneficiarios de la tarifa social que
+[02:28:40] vienen a través del CINTIS.
+[02:28:42] E el reconocimiento,
+[02:28:46] como ustedes van a ver en los cuadros
+[02:28:47] tarifarios, eh, y esto que se viene
+[02:28:50] aprobando todos los meses, el ajuste de
+[02:28:52] BAD o el traslado del precio mayorista,
+[02:28:55] eh, en cada cuadro que tiene ajuste de
+[02:28:57] BAD, al final de cada cuadro, el cuadro
+[02:28:59] obviamente es para los beneficiarios de
+[02:29:01] tarifa social, al final del cuadro van a
+[02:29:03] ver en la última página cuánto le
+[02:29:05] corresponde a cada este usuario, a cada
+[02:29:10] eh rango de consumo y va a ser
+[02:29:13] diferente, como ustedes van a poder ver,
+[02:29:14] si es SD, si es EDEN, si es área, ¿sí? Y
+[02:29:18] ahí están determinado la bonificación de
+[02:29:20] monto fijo que le corresponde a
+[02:29:21] cualquier beneficiario de la tarifa
+[02:29:23] social. Eh, obviamente se exige que
+[02:29:26] tenga la leyenda de que es beneficiario
+[02:29:27] de tarifa social y esa bonificación que
+[02:29:30] se digamos que asume la distribuidora y
+[02:29:33] se lo reconoce en la factura a cada uno
+[02:29:35] de los beneficiarios eh es reconocida
+[02:29:38] luego y repagada o devuelta desde la
+[02:29:41] provincia al distribuidor, eh,
+[02:29:44] diferenciándonos de antes, como les
+[02:29:46] decía, que iba el pago a camesa, ¿sí?
+[02:29:48] Ahora es el distribuidor el que da el
+[02:29:50] beneficio y tenemos un delay
+[02:29:52] aproximadamente de 3 meses en ese
+[02:29:54] reconocimiento de la tarifa social.
+[02:29:57] E es por eso, digamos, al modificarse el
+[02:30:01] régimen, hubo unos primeros meses donde
+[02:30:03] este las presentaciones de las
+[02:30:05] declaraciones juradas que hacían las
+[02:30:06] distribuidoras estaban incompletas o
+[02:30:09] estaban, digamos, con algunos errores eh
+[02:30:12] de tipeo, de de formato, así que tuvimos
+[02:30:17] ahí un delay como para hasta que nos
+[02:30:18] acomodamos un poco todos, este, como
+[02:30:21] para poder reconocerlos. Estamos ahora e
+[02:30:25] en el mes de agosto se pagó eh abril,
+[02:30:30] no, mayo, mayo, perdón. Eh, así que
+[02:30:32] estamos reconociendo 3 meses para atrás
+[02:30:36] eh la aplicación de la de la
+[02:30:38] bonificación de la tarifa social.
+[02:30:44] Acá van a ver son dos gráficos y
+[02:30:46] simplemente a modo ilustrativo que es lo
+[02:30:48] que la provincia ha pagado eh por año,
+[02:30:52] desde el 2019 hasta abril del 2026 eh
+[02:30:56] dividiendo lo que es área ENRE, área
+[02:30:58] doceva.
+[02:31:00] Eh y en esta otra eh lo van a tener por
+[02:31:03] mes, ¿sí? Como para que tengan una
+[02:31:05] identificación del costo fiscal que
+[02:31:07] implica eh esta medida.
+[02:31:10] Eh, una pregunta que salió el otro día
+[02:31:12] fue si esa bonificación de tarifa social
+[02:31:15] se actualiza. No, la verdad que es la
+[02:31:17] misma que se aprobó en junio, fin de
+[02:31:20] junio de del 2024, así que estamos con
+[02:31:23] ese mismo monto fijo, con lo cual se va
+[02:31:25] desnaturalizando frente a una a una
+[02:31:28] factura o a un cuadro tarifario que
+[02:31:30] aumenta. Eh, la bonificación ha quedado
+[02:31:33] fija.
+[02:31:36] No sé si tienen alguna pregunta, alguna
+[02:31:38] duda respecto de esto. Como les digo,
+[02:31:40] vamos a andar en los criterios de
+[02:31:42] inclusión, exclusión y las
+[02:31:44] particularidades del régimen en esa
+[02:31:46] clase de 25,
+[02:31:48] que es el 22 de octubre, falta todavía
+[02:31:50] algunas clases, pero bueno, como para
+[02:31:52] que tuvieran un pantallazo y no dejar de
+[02:31:54] mencionarla dentro de las tarifas
+[02:31:55] especiales, por esto que les decía que
+[02:31:57] es una de las que más beneficiarios este
+[02:32:01] tiene.
+[02:32:05] El SINTIS es el que hace el cruce de
+[02:32:07] información. Recuerden que, como les
+[02:32:09] decía antes, los criterios de inclusión
+[02:32:11] e exclusión son los que estableció el
+[02:32:12] Estado Nacional. Así que el SINTIS hace
+[02:32:14] eso. En algún momento eh hubo
+[02:32:18] intercambio de padrones con ARBA, con lo
+[02:32:20] cual podíamos tener una revisión más
+[02:32:22] exacta.
+[02:32:24] Eh, después como esta esto pasó a ser en
+[02:32:27] el 2024 más exclusivamente provincial,
+[02:32:31] se pensó y todavía se piensa este en la
+[02:32:34] necesidad de crear un registro
+[02:32:36] provincial
+[02:32:38] donde no dependamos de ese cruce de
+[02:32:40] información o de bases de datos que hace
+[02:32:41] el CINTIS y
+[02:32:45] el CF. Eh, pero bueno, todavía no hemos
+[02:32:48] llegado a a tener ese registro
+[02:32:51] provincial que no solamente sería para
+[02:32:54] los beneficiarios de la tarifa social de
+[02:32:55] energía eléctrica, sino para los
+[02:32:57] subsidios al transporte, otros subsidios
+[02:32:59] o que maneja el Ministerio de la
+[02:33:01] Comunidad, eh, que se dan en servicio de
+[02:33:04] agua, digamos, que abarque todos los
+[02:33:06] subsidios que la provincia de Buenos
+[02:33:07] Aires eh confiere. Entonces, la idea era
+[02:33:10] hacer algo unificado, pero bueno,
+[02:33:13] estamos en ese proceso todavía de
+[02:33:16] construcción de eso y no sé todavía
+[02:33:19] cuándo puede llegar a a implementarse,
+[02:33:21] pero bueno, es una es un deseo este y
+[02:33:26] una política pública que está en marcha
+[02:33:29] sin saberse todavía cuándo la vamos a
+[02:33:31] tener en la mano la herramienta como
+[02:33:33] para poder aplicarla.
+[02:33:36] Bueno, no sé si quieren hacer alguna
+[02:33:38] pregunta.
+[02:33:42] No, Guillermina, simplemente comentario,
+[02:33:43] pero me refiero un poquito más a la
+[02:33:45] Fabián,
+[02:33:47] ¿no me escuchas?
+[02:33:48] Escucharon
+[02:33:52] ahí me desmuteé.
+[02:33:54] ¿Me escuchas ahora?
+[02:33:55] Sí, ahora sí.
+[02:33:57] Perfecto. No, simplemente refiriéndome a
+[02:33:59] la tarifa del electrodependiente, por
+[02:34:00] ahí algunas cuestiones no son materia
+[02:34:02] para conversar acá. Simplemente lo le
+[02:34:05] tiro los temas, digamos, por ahí para
+[02:34:07] analizar en otra mesa, algunas
+[02:34:08] dificultades prácticas que encontramos
+[02:34:10] con la aplicación de esa tarifa, no en
+[02:34:12] el en el concepto en sí, sino por parte
+[02:34:14] de los usuarios. Sí, hay hay usos
+[02:34:17] abusivos, ¿no? Algunos usuarios no
+[02:34:19] entienden que eh el equipo que le tenés
+[02:34:22] que proveer debe limitarse o tiene el
+[02:34:25] sentido o la razón de ser en el
+[02:34:27] equipamiento propio eh que cuida la
+[02:34:29] salud de la persona. Entonces, exigen y
+[02:34:32] demandan mucho más en exceso que lo que
+[02:34:35] eso corresponde. Y después hemos
+[02:34:37] detectado algún caso que en su momento
+[02:34:38] lo íbamos a elevar a los SEVA y después
+[02:34:40] nos quedamos y por lo tenemos reactivar
+[02:34:42] algunos que aprovechan que como es
+[02:34:43] tarifa cero te ponen un negocio,
+[02:34:46] entonces alimentan un negocio, una
+[02:34:48] despensa, un comercio. Entonces, tal vez
+[02:34:51] se debería pensar al futuro en alguna
+[02:34:53] reglamentación para que quede claro que
+[02:34:55] realmente porque es un beneficio muy
+[02:34:56] importante,
+[02:34:58] pero que tiene que llegar como todo
+[02:34:59] beneficio a quien realmente lo necesita
+[02:35:02] y no eh y tratar de evitar por ahí estas
+[02:35:05] que es muy casuístico, pero bueno,
+[02:35:07] después viste que las excepciones
+[02:35:08] empiezan ah, como lo hace uno, la regla,
+[02:35:12] empieza a Entonces lo tiro simplemente
+[02:35:14] como iniciativas a tratar de de analizar
+[02:35:16] estas cuestiones,
+[02:35:18] nada más que por eso.
+[02:35:20] Bueno, lo levantamos.
+[02:35:24] Bueno, no sé si quieren hacer alguna
+[02:35:26] pregunta. Ya estamos casi casi un
+[02:35:29] minutito para la campana.
+[02:35:32] Eh, si quieren hacer algún comentario,
+[02:35:35] alguna pregunta, alguna duda o por ahí
+[02:35:37] viene después cuando estas ideas que
+[02:35:39] hemos tirado así como muy rápido todo,
+[02:35:43] eh, que vienen después, nos hacen
+[02:35:45] después las preguntas o quieren algún,
+[02:35:48] no sé, como ofrecí o vengo ofreciendo en
+[02:35:50] general, si hay o no está acá
+[02:35:53] precisamente la persona que se ocupa de
+[02:35:55] cargar eh los agregados tarifarios este
+[02:35:58] en las declaraciones juradas o cargar
+[02:36:01] las tarifas especiales en Oceva. Bueno,
+[02:36:03] este, levanten ustedes eh a sus
+[02:36:06] compañeros, digamos, de la distribuidora
+[02:36:08] si necesitan alguna ayuda, estamos a
+[02:36:10] disposición. Podemos hacer un un Zoom,
+[02:36:12] un tallercito mínimo y aclarar alguna
+[02:36:15] cuestión si es que hay alguien que no
+[02:36:17] está acá presenciando y por ahí no tiene
+[02:36:19] la pregunta este justa como para
+[02:36:23] hacer, pero eso ténganlo presente si lo
+[02:36:25] necesitan. Estamos acá a disposición.
+[02:36:29] eh con los que se notaron y nos veremos
+[02:36:33] el jueves en en Camesa Pérez en la
+[02:36:35] visita que vamos a hacer, eh, y si no
+[02:36:38] con el resto nos vemos el martes próximo
+[02:36:41] a la misma hora.
+[02:36:43] Bueno, gracias José, gracias Guille,
+[02:36:45] gracias Eduardo. Creo que se tuvo que ir
+[02:36:47] con un tema personal, así que no está,
+[02:36:50] pero bueno, gracias a los tres por la
+[02:36:51] dedicación, por el tiempo,
+[02:36:53] y gracias a ustedes por la escucha.
+[02:36:56] Bueno, nos vemos el martes próximo.

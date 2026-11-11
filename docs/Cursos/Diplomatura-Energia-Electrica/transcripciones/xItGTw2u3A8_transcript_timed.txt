@@ -1,0 +1,3866 @@
+[00:00:27] Eh, hoy vamos a tener la clase
+[00:00:29] número 10.
+[00:00:32] Vamos a a comenzar con los contratos de
+[00:00:34] concesión y los subanexos a los
+[00:00:37] contratos.
+[00:00:39] Eh, la clase la vamos a dar con Patricia
+[00:00:42] Lozano que está por acá.
+[00:00:43] Hola, buenos días a todos.
+[00:00:45] Así que bueno, nada, no la presento
+[00:00:47] porque ya la conocen.
+[00:00:50] E avisos tengo. El primero de ellos es
+[00:00:55] que el martes que viene, era la clase de
+[00:00:58] el subanexo de régimen de calidad y
+[00:01:01] penalizaciones y sanciones, la vamos a
+[00:01:04] postergar para el martes 14. Así que el
+[00:01:07] martes 7 no va a haber clases, nos vamos
+[00:01:10] a volver a ver el martes 14. Igual les
+[00:01:12] va a llegar un correo electrónico para
+[00:01:15] por si algunos no está en este momento
+[00:01:17] en el Zoom que que pueda tomar
+[00:01:20] conocimiento de eso. Y otra cosa es que
+[00:01:23] estamos organizando una salida a Camesa
+[00:01:26] Pérez,
+[00:01:28] que es el centro de despacho. ¿Se
+[00:01:30] acuerdan cuando tuvimos la clase con los
+[00:01:32] ingenieros de Camesa que nos mostraban
+[00:01:34] una imagen de lo que es Camesa Pérez?
+[00:01:38] Eh, así que la idea es ir eh queda a 20
+[00:01:42] km aproximadamente de Rosario y vamos a
+[00:01:46] hacer esa visita el día 3 de septiembre
+[00:01:48] y nos esperan a las 14 horas. Así que
+[00:01:51] bueno, después vamos a mandar un
+[00:01:53] formulario para que puedan eh anotarse
+[00:01:56] quienes puedan asistir. Eh, así tenemos
+[00:02:00] un un número de la cantidad de personas
+[00:02:03] que que puedan asistir. La idea es
+[00:02:05] encontrarnos, salvo los que salgamos de
+[00:02:06] acá de La Plata, que nos vamos a juntar.
+[00:02:09] Eh, el resto este nos encontraríamos
+[00:02:12] directamente
+[00:02:14] ahí eh a las a las 2, un ratito antes de
+[00:02:18] las 2 de la tarde para poder entrar y
+[00:02:19] hacer la visita. Así que bueno, eh
+[00:02:22] obviamente no es obligatoria, es una
+[00:02:25] actividad este adicional a las clases
+[00:02:28] que estaba prevista en el programa, pero
+[00:02:31] bueno, nada, está bueno que podamos ir.
+[00:02:35] Así que en estos días les va a llegar
+[00:02:36] ese formulario para completar y que
+[00:02:38] puedan ver este y anotarse quienes
+[00:02:41] puedan y quieran y quieran ir.
+[00:02:44] Bueno, pasados esos avisos,
+[00:02:49] vamos a buscar la presentación.
+[00:03:11] Y ahí estamos. Bueno, arranca Pato.
+[00:03:15] Bueno, hola, buenos días a todos.
+[00:03:18] Bueno, vamos a ver eh los contratos de
+[00:03:20] concesión, vamos a ver este los
+[00:03:22] suanexos, algunos eh vamos a ver eh qué
+[00:03:26] digamos, cuál es el contenido, porque
+[00:03:27] algunos de de esos subanexos van a tener
+[00:03:30] este clases especiales.
+[00:03:33] Pero bueno, vamos a comenzar. y eh
+[00:03:38] los contratos de concesión. Habíamos,
+[00:03:40] bueno, habíamos dicho que este que el
+[00:03:43] título que habilitaba a la prestación
+[00:03:45] del servicio público de distribución de
+[00:03:47] energía eléctrica era precisamente una
+[00:03:49] concesión. Esto está previsto también en
+[00:03:52] la en la ley. En el marco regulatorio
+[00:03:55] establece específicamente que este que
+[00:03:58] el distribuidor lo va a prestar a través
+[00:04:00] de una concesión. Esa ese contenido que
+[00:04:03] tienen que tener los contratos de
+[00:04:05] concesión está establecido en en el
+[00:04:07] marco regulatorio que la clase pasada el
+[00:04:12] desarrollo de todos esos de ese
+[00:04:14] contenido fue expuesto. El artículo 53
+[00:04:18] establece este contenido mínimo.
+[00:04:21] El decreto 107 del año 97 que aprobó los
+[00:04:25] pliegos de bases y condiciones de la
+[00:04:27] licitación este de en ese entonces y y
+[00:04:33] que otorgó la concesión a a Edén, Edea y
+[00:04:37] Edes establece incluyó el el modelo de
+[00:04:40] ese contrato de concesión
+[00:04:43] que es el que luego se respetó. Y
+[00:04:45] asimismo eso a nivel eh contrato de
+[00:04:48] concesión provincial y en lo que hace a
+[00:04:50] la contrato de concesión municipal, el
+[00:04:53] decreto 1208, que era reglamentario de
+[00:04:57] la ley 11,769
+[00:04:59] estableció el modelo de contrato de las
+[00:05:01] concesiones municipales
+[00:05:04] que e que a grandes rasgo respeta este
+[00:05:08] también el modelo de contrato de
+[00:05:10] concesión provincial con algunas
+[00:05:13] diferencias que vamos a ir viendo.
+[00:05:16] Y asimismo, el decreto reglamentario que
+[00:05:19] en el año 2004, digamos, este lo
+[00:05:22] sustituye, este establece también eh el
+[00:05:26] modelo de contrato tanto para las
+[00:05:28] concesiones provinciales como eh
+[00:05:30] municipales. Aquí dice que en realidad
+[00:05:33] dice que esos eh los contratos tienen
+[00:05:36] que ajustarse al modelo que establece el
+[00:05:39] poder ejecutivo provincial.
+[00:05:43] Bueno, como vimos y como decía recién,
+[00:05:46] este, el título que habilita es este la
+[00:05:50] concesión. esa concesión, ese título
+[00:05:52] habilitante se da a través de un
+[00:05:54] contrato, ese contrato que es un
+[00:05:56] contrato administrativo.
+[00:05:58] Eh, la concesión se otorga es este a
+[00:06:01] través de ese contrato eh por el cual un
+[00:06:04] ente encomienda este o delega en una
+[00:06:08] persona este la prestación de ese de un
+[00:06:13] servicio público dentro de un plazo
+[00:06:14] determinado. ¿A qué personas? Bueno, a
+[00:06:18] nivel este provincia de Buenos Aires,
+[00:06:20] este va a ser una persona jurídica a
+[00:06:23] través de una sociedad anónima, que en
+[00:06:24] el caso de las concesiones
+[00:06:27] provinciales y en el caso de las
+[00:06:30] municipales a través de cooperativas o o
+[00:06:34] en el caso de la ocina de tandil o
+[00:06:36] sociedades de economía este de economía
+[00:06:39] mixta. El nuestro marco regulatorio,
+[00:06:42] digamos, reconoce especialmente la
+[00:06:45] función de las cooperativas, este, por
+[00:06:47] la naturaleza y por sus antecedentes
+[00:06:50] históricos. Las cooperativas, digamos,
+[00:06:52] son anteriores a en la prestación del
+[00:06:55] servicio a nuestro marco regulatorio,
+[00:06:58] pero debían adecuar todo su accionar
+[00:07:01] este a este marco. Por eso debían
+[00:07:04] adecuar en su momento los contratos de
+[00:07:06] concesión al establecido por el nuevo
+[00:07:08] marco regulatorio
+[00:07:10] temporalmente, porque bueno, ahora vamos
+[00:07:12] a ver que por un plazo, eso lo vamos
+[00:07:14] viendo, hay diferencias entre las
+[00:07:16] concesiones provinciales y las
+[00:07:17] municipales y le otorga el ejercicio de
+[00:07:20] una potesta pública este para que
+[00:07:23] asegurar el funcionamiento. Y lo que es
+[00:07:25] eh importante es que ese servicio
+[00:07:28] público se se efectúa bajo a costa y
+[00:07:32] riesgo del concesionario. Eso habíamos
+[00:07:35] explicado también este que era una
+[00:07:37] diferencia cuando esto era prestado por
+[00:07:39] el Estado. digamos que esa asunción del
+[00:07:42] riesgo este estaba en manos, si
+[00:07:44] queríamos decir, de toda la sociedad y
+[00:07:47] bajo la vigilancia que habíamos dicho de
+[00:07:49] los entes reguladores se de control en
+[00:07:51] la provincia de Buenos Aires también
+[00:07:53] habíamos dicho que la autoridad
+[00:07:55] regulatoria estaba en cabeza del el
+[00:07:57] Ministerio de Infraestructura y
+[00:07:58] Servicios Públicos y la actividad de
+[00:08:01] control de y fiscalización del
+[00:08:03] cumplimiento de todas las normas y todas
+[00:08:05] las obligaciones por parte de los
+[00:08:07] distribuidores a cargo del organismo de
+[00:08:09] control de energía eléctrica.
+[00:08:13] Bueno,
+[00:08:16] eh, ¿cuál es el contenido de este
+[00:08:18] contrato de concesión? Eh, como decía
+[00:08:20] recién Guillermina, vamos a ir viendo
+[00:08:22] todos los suexos. El contrato de
+[00:08:24] concesión establece todos los
+[00:08:25] lineamientos, todas las obligaciones,
+[00:08:27] los plazos, cuál es el objeto y este y
+[00:08:30] específicamente
+[00:08:32] en los suanexos va a establecer todo el
+[00:08:35] régimen que se va a ir aplicando.
+[00:08:38] Habíamos dicho también que este una de
+[00:08:41] las características de este servicio
+[00:08:43] público era la obligatoriedad de de ese
+[00:08:46] servicio, que había un máximo de
+[00:08:48] regulación por parte del Estado y en ese
+[00:08:50] máximo de regulación estaba la potestad
+[00:08:53] del Estado de fijar eh tarifas. Es por
+[00:08:57] eso que eh los subanexos vamos a tener
+[00:09:00] por un lado, los subanexos A, B y C van
+[00:09:05] a tratar fundamentalmente de todo lo
+[00:09:07] atinente al régimen tarifario. Régimen
+[00:09:10] tarifario, cómo se aplica el cuadro
+[00:09:12] tarifario,
+[00:09:14] cuál es el procedimiento de
+[00:09:16] determinación de ese cuadro tarifario.
+[00:09:18] También habíamos hablado que este que
+[00:09:21] las tarifas contenían los precios de la
+[00:09:24] energía, los precios del transporte en
+[00:09:30] en alta tensión y por distribución
+[00:09:31] troncal, que eran fijados por la nación
+[00:09:33] y que son trasladados a la tarifa a
+[00:09:36] nivel local y el valor agregado de
+[00:09:39] distribución que es el que fija la
+[00:09:42] autoridad regulatoria provincial.
+[00:09:46] Bueno, ¿cómo se van a ir dando todos
+[00:09:48] estos traslados? ¿Cómo se van a ir
+[00:09:49] evaluando
+[00:09:52] determinados en eh en estos anexos? El
+[00:09:55] A, en el B y en el C. en el séquera es
+[00:09:59] el cuadro tarifario inicial, que ya
+[00:10:02] vamos a ir viendo cuál es ese cuadro
+[00:10:04] tarifario que vamos a tener en cuenta en
+[00:10:07] este momento.
+[00:10:10] en su anexo de que establece todas las
+[00:10:12] normas de calidad que deben del servicio
+[00:10:14] público y que debe ser cumplido por
+[00:10:16] parte de los distribuidores
+[00:10:19] y el reglamento de suministro y conexión
+[00:10:22] que va a fijar los derechos y
+[00:10:24] obligaciones del los distribuidores y
+[00:10:27] también los derechos y obligaciones de
+[00:10:28] los usuarios que son los destinatarios
+[00:10:30] finales de este servicio público.
+[00:10:33] Eh, ¿y dónde se va a dar todo est
+[00:10:36] cumplir eh este servicio público? son en
+[00:10:39] las áreas de concesión que también están
+[00:10:41] delimitadas en estos subanexos
+[00:10:44] y como en el caso de eh los
+[00:10:47] concesionarios provinciales,
+[00:10:49] el toda esta garantía de cumplimiento de
+[00:10:52] las obligaciones se van a dar a través
+[00:10:53] de un contrato de prenda que ya vamos a
+[00:10:56] ver de qué acciones son las que están
+[00:10:58] prendadas.
+[00:11:01] Bueno,
+[00:11:04] eh como decía, el contrato en su cuerpo
+[00:11:06] principal establece eh cuáles son las
+[00:11:09] partes, cuáles son los plazos. Las
+[00:11:11] partes en en este contrato eh tenemos el
+[00:11:15] concedente, quién es el que delega esa
+[00:11:17] función pública y el y los
+[00:11:20] concesionarios. El concedente en los
+[00:11:22] contratos de concesión provinciales es
+[00:11:24] la provincia de Buenos Aires a través
+[00:11:26] del Ministerio de Infraestructura y
+[00:11:28] Servicios Públicos.
+[00:11:30] y el poder concedente a nivel este
+[00:11:32] municipal son eh las municipalidades que
+[00:11:36] deberán este cumplir y deberán este
+[00:11:41] eh otorgar esas concesiones respetando
+[00:11:44] el marco regulatorio eh provincial.
+[00:11:49] Y los concesionarios son los
+[00:11:51] distribuidores provinciales y los
+[00:11:52] distribuidores eh municipales. los
+[00:11:55] distribuidores provinciales, que sabemos
+[00:11:56] son hoy son cuatro, son EDEA, Eden y
+[00:12:00] EDES como consecuencia de este la
+[00:12:03] privatización de SEBA y este en el año
+[00:12:07] 2011 pasa la jurisdicción provincial
+[00:12:10] este EDELAP y los distribuidores
+[00:12:14] municipales que son todas las
+[00:12:15] cooperativas y esta sociedad de economía
+[00:12:18] mixta que presta servicios en distintos
+[00:12:21] localidades y partidos de la provincia
+[00:12:24] de Buenos.
+[00:12:27] Bueno, ¿cuál es el objeto y cuál es el
+[00:12:30] alcance de este contrato de concesión?
+[00:12:33] Es el objeto es otorgar en concepción la
+[00:12:35] prestación del servicio público, tanto
+[00:12:37] de distribución y la comercialización y
+[00:12:40] en forma exclusiva dentro del área de
+[00:12:43] concesión.
+[00:12:45] La obligación que tienen los
+[00:12:46] distribuidores es atender todo el
+[00:12:49] incremento de la demanda,
+[00:12:51] este, ya sea un nuevo servicio o un
+[00:12:54] aumento de la capacidad de suministro de
+[00:12:56] dentro del área concedida. Ya vamos a
+[00:12:58] ver eh cuando hay un una este un aumento
+[00:13:01] de la capacidad de suministro, cómo es
+[00:13:03] cómo es ese régimen, cómo cómo se va a
+[00:13:06] realizar, cómo se van a realizar todas
+[00:13:07] las ampliaaciones de tensiones, cuál es
+[00:13:09] esa regulación.
+[00:13:11] eh deben cumplir con, como había
+[00:13:13] establecido, con las normas de calidad
+[00:13:15] fijadas en el contrato
+[00:13:17] y en el contrato de concesión provincial
+[00:13:19] también le deben otorgar el suministro a
+[00:13:21] aquellos distribuidores que no son
+[00:13:23] agentes del mercado eh eléctrico
+[00:13:26] mayorista o que eh este [carraspeo]
+[00:13:29] que en definitiva como los conocemos que
+[00:13:32] son los distribuidores aguas abajo de
+[00:13:34] puede ser también de un distribuidor no
+[00:13:37] solamente de los provinciales, sino
+[00:13:38] también de eh los distribuidores
+[00:13:41] municipales.
+[00:13:46] ¿Cuál es el plazo de de ese contrato de
+[00:13:49] concesión? Bueno, en el caso de los de
+[00:13:53] los concesionarios provinciales, el
+[00:13:54] plazo se estableció en 95 años a partir
+[00:13:58] de la a contar desde la toma de
+[00:14:00] posesión. En el caso de las
+[00:14:03] distribuidoras eh edes y esta toma de
+[00:14:07] posesión fue el 2 de junio del año 1997.
+[00:14:11] Eh, el contrato eh fue aprobado por el
+[00:14:15] decreto 1315 del año 97 y en el caso de
+[00:14:19] del que dijimos que era una concesión en
+[00:14:22] principio que fue otorgada este por el
+[00:14:24] gobierno nacional, fue una concesión
+[00:14:26] nacional hasta el traspaso a la
+[00:14:29] provincia en el año 2011 por el decreto
+[00:14:32] 2449 del año 92.
+[00:14:36] Asimismo, se establece eh una prórroga
+[00:14:38] por un plazo máximo de 10 años, una
+[00:14:41] prórroga después de los 95 años.
+[00:14:45] Eh, en el caso de los contratos
+[00:14:47] municipales, tenemos un un primer un
+[00:14:50] plazo de 25 años que también se cuentan
+[00:14:53] a dentro de la firma de de cada
+[00:14:55] contrato. En general, estos contratos,
+[00:14:58] eh esta adecuación
+[00:15:00] eh de los contratos este a nivel
+[00:15:03] municipal o de este fue en el año 97, en
+[00:15:07] el año 98
+[00:15:09] eh con prórrogas, establecieron
+[00:15:11] prórrogas de dos prórrogas de 30 años a
+[00:15:15] solicitud de los del a petición de los
+[00:15:18] concesionarios a solicitud de cada uno
+[00:15:20] de los concesionarios. Ahora vamos a ver
+[00:15:22] las particularidades que tenían estas
+[00:15:24] prórrogas.
+[00:15:26] Y eh a su vez tanto los el contrato de
+[00:15:30] concesión provincial como los contratos
+[00:15:32] de concesión municipales se dividían en
+[00:15:35] eh periodos de gestión.
+[00:15:38] este periodo de gestión que se
+[00:15:40] establecía el primer periodo para los eh
+[00:15:42] de 15 años y los siguientes de de 10
+[00:15:45] años cada uno, que eh estos periodos de
+[00:15:49] gestión fueron eh prorrogados
+[00:15:51] sucesivamente y hoy eh ese primer
+[00:15:55] periodo ese periodo de el primer periodo
+[00:15:57] de gestión está prorrogado hasta que
+[00:16:00] venza el primer quinqueño luego que se
+[00:16:02] apruebe la revisión tarifaria integral
+[00:16:05] que está en trámite digamos amos que se
+[00:16:08] está eh trabajando eh como consecuencia
+[00:16:11] de la resolución 1133 del año eh 2024.
+[00:16:18] Bueno, como decía, eh ese periodo de
+[00:16:21] gestión este prorroga el el artículo 59
+[00:16:27] de la resolución 477 prorroga el
+[00:16:30] vencimiento del primer periodo de
+[00:16:31] gestión hasta el vencimiento del primer
+[00:16:33] quinqueño.
+[00:16:36] Y eh ¿qué es lo que se ve? Porque
+[00:16:38] nosotros estamos hablando acá del el del
+[00:16:41] periodo de del periodo de gestión. ¿Qué
+[00:16:43] es el el periodo de gestión? el periodo
+[00:16:45] de gestión es eh podemos verlo como un
+[00:16:49] instituto regulatorio que en realidad lo
+[00:16:51] que lo que va a hacer es convalidar la
+[00:16:53] gestión del concesionario
+[00:16:55] este y y cómo se va a dar, qué qué es lo
+[00:16:58] que va a pasar cuando venza ese periodo
+[00:17:00] de gestión. Y ese periodo de gestión que
+[00:17:03] establecemos que es de 15 años también
+[00:17:07] es coincidente
+[00:17:09] eh con la exclusividad, que ahora lo
+[00:17:12] vamos a ver, que como dijimos al al
+[00:17:14] principio que este se otorga con
+[00:17:17] exclusividad
+[00:17:19] y eh también vamos a ver que el el
+[00:17:22] régimen tarifario actual también está
+[00:17:25] atado al vencimiento del primer periodo
+[00:17:28] eh de gestión.
+[00:17:30] se se evalúa, digamos, eh la gestión del
+[00:17:34] concesionario. El concesionario podría
+[00:17:36] podría retirarse si considera que que
+[00:17:39] que ya no es via fiable ese negocio.
+[00:17:42] También dentro de ese periodo de
+[00:17:45] gestión. Ahora vamos a ver el tema de
+[00:17:47] exclusividad
+[00:17:49] que este, bueno, ahí lo importante es
+[00:17:52] que dentro de ese periodo de gestión,
+[00:17:54] digamos con una antelación de 6 meses,
+[00:17:56] en el caso de los concesionarios
+[00:17:58] provinciales se llama a una licitación.
+[00:18:00] ¿Qué es lo que se licita? Se licita el
+[00:18:03] el paquete mayoritario de esa sociedad
+[00:18:05] anónima que lo constituyen las acciones
+[00:18:07] clase A, que representan el 51%
+[00:18:11] de ese capital social. Y como decía
+[00:18:13] recién, en el en ese en ese momento
+[00:18:17] cuando seicitan estas acciones se
+[00:18:20] determina nuevamente el régimen
+[00:18:22] tarifario, porque está sujeto a ese
+[00:18:23] periodo, el procedimiento para la
+[00:18:26] determinación del cuadro tarifario,
+[00:18:29] este los parámetros tarifarios, tanto el
+[00:18:33] régimen de calidad como el reglamento de
+[00:18:35] suministro y conexión,
+[00:18:38] porque todas estas cuestiones también
+[00:18:39] van a impactar en sobre todo la calidad
+[00:18:42] al reglamento de suministro en tarifa.
+[00:18:48] Este
+[00:18:50] y también el los
+[00:18:54] eh a ver ahí en el contrato de concesión
+[00:18:59] este
+[00:19:01] eh provincial
+[00:19:03] eh tenemos que ver que eh por un cómo se
+[00:19:08] cómo se continúa la prestación del
+[00:19:10] servicio
+[00:19:13] en el caso de los vencimientos por un
+[00:19:15] plazo no mayor de 12 meses. que se
+[00:19:16] cuentan a partir del vencimiento del
+[00:19:18] plazo de concesión,
+[00:19:20] previa notificación que tiene que hacer
+[00:19:22] la autoridad de aplicación con 180 días
+[00:19:24] de anticipación y eh si se considera si
+[00:19:28] va a continuar con el servicio, va a
+[00:19:30] continuar también el mismo régimen
+[00:19:32] tarifario, las mismas normas de calidad
+[00:19:34] que se daban al momento del vencimiento
+[00:19:36] de la concesión.
+[00:19:38] Y en el caso de eh los contratos
+[00:19:40] municipales, al al vencimiento queda
+[00:19:44] obligada a seguir prestando por en este
+[00:19:46] caso por 3 años o hasta que se formalice
+[00:19:49] un nuevo contrato y eh se pueda realizar
+[00:19:52] la transferencia de eh la concesión.
+[00:19:56] En el caso de eh también la
+[00:19:59] municipalidad
+[00:20:01] podrá puede facultar al poder ejecutivo
+[00:20:03] para que eh pasen eh a partir de ese
+[00:20:06] momento, digamos, ese régimen que eh ese
+[00:20:09] poder concedente de esa concesión pase
+[00:20:11] en manos a manos de la provincia. y
+[00:20:14] también este cuando la autoridad de
+[00:20:17] aplicación podría eh gestionar ante el
+[00:20:21] poder ejecutivo el otorgamiento de una
+[00:20:22] concesión provincial o
+[00:20:25] este que un concesionario provincial o
+[00:20:29] que un concesionario municipal continúe
+[00:20:32] prestando el servicio.
+[00:20:36] Como decía recién, en ese digamos al
+[00:20:40] vencimiento de ese ese periodo de
+[00:20:42] gestión también está atado el la
+[00:20:46] exclusividad. El
+[00:20:49] el concedente, ¿qué significa? Porque
+[00:20:51] habíamos dicho que se que ese el
+[00:20:54] otorgamiento de esa concesión se da en
+[00:20:56] forma exclusiva, que el concedente no va
+[00:20:58] a poder prestar este ni conceder,
+[00:21:02] o sea, a otro a otro distribuidor el eh
+[00:21:07] servicio público en cualquier punto o en
+[00:21:10] dentro de ese área de concesión que
+[00:21:12] estaba determinado, que es el territorio
+[00:21:14] en el cual se presta ese servicio
+[00:21:15] público y que en el caso de los
+[00:21:17] concesionarios provinciales deberá
+[00:21:19] respetar el digamos el área que está
+[00:21:24] sujeta a los concesionarios
+[00:21:26] municipales
+[00:21:29] y ese
+[00:21:31] derecho de exclusividad zonal puede ser
+[00:21:33] dejado sin efecto este por innovaciones
+[00:21:37] tecnológicas,
+[00:21:39] pero siempre nunca va a poder serlo
+[00:21:41] este, sino que tiene que esperar el
+[00:21:43] vencimiento del periodo de gestión y se
+[00:21:46] debe comunicar con una anticipación de 6
+[00:21:48] meses.
+[00:21:51] Eh, cuando se produce ese cambio,
+[00:21:54] digamos, deberá eh la extinción de de
+[00:21:57] esa de digamos de esa exclusividad zonal
+[00:22:00] extingue también la obligación de
+[00:22:03] satisfacer la demanda. ¿Qué pasa cuando
+[00:22:05] se produce esta exclusividad zonal? Se
+[00:22:07] va a a rever también el diseño
+[00:22:10] regulatorio. Podrá cambiar, se puede
+[00:22:13] rever porque también vence ese periodo
+[00:22:16] de gestión.
+[00:22:21] Bueno, eh
+[00:22:24] sí,
+[00:22:26] ¿cuál es? Como veníamos diciendo, eh t
+[00:22:30] en el caso de los concesionarios
+[00:22:31] provinciales, eh
+[00:22:34] va a haber una, o sea, eh se constituyen
+[00:22:37] en una sociedad anónima. esa sociedad
+[00:22:39] anónima va a tener un un estatuto. Ese
+[00:22:43] estatuto el objeto de de estatutario va
+[00:22:46] a ser el de tener y mantener la
+[00:22:48] prestación de servicio público de
+[00:22:50] distribución y comercialización.
+[00:22:53] Eh, también eh el contrato prevé que
+[00:22:56] pasa con con el tema de acciones en qué
+[00:23:00] pasa. El
+[00:23:02] esa sociedad está constituida por
+[00:23:05] acciones clase A que van a a representar
+[00:23:09] el capital mayoritario de esa sociedad,
+[00:23:11] que es el 51% de las acciones.
+[00:23:14] en acciones clase B, que son de libre
+[00:23:16] disponibilidad y en acciones clase C,
+[00:23:19] que se encuentran en manos de los
+[00:23:22] trabajadores. ¿Qué pasa? Lo más
+[00:23:24] importante y lo que se va a relicitar es
+[00:23:26] ese capital, este esas acciones clase A
+[00:23:29] que representan el capital mayoritario y
+[00:23:32] que siempre cuando se realice alguna
+[00:23:35] alguna modificación de esas acciones
+[00:23:38] interviene la autoridad de aplicación en
+[00:23:40] cuanto a lo que se requiere a la
+[00:23:42] autorización.
+[00:23:43] Inicialmente eh esas esas acciones clase
+[00:23:47] A, el
+[00:23:49] se determinó que el operador debería
+[00:23:51] mantener un 20% de esas acciones
+[00:23:54] durante, digamos, durante los primeros 5
+[00:23:57] años de la concesión, precisamente
+[00:24:00] porque eh para poder otorgar esa esa
+[00:24:04] concesión se evaluó la capacidad que
+[00:24:06] tenía ese operador para poder prestar el
+[00:24:09] servicio tanto desde el punto de vista
+[00:24:10] económico como desde el punto de vista
+[00:24:13] técnico. Entonces, eh luego de ese
+[00:24:17] periodo de 5 años podían eh previa
+[00:24:20] comunicación a la autoridad de
+[00:24:22] aplicación podían ser eh transferidas
+[00:24:27] y si también digamos dentro de esa
+[00:24:32] de esas acciones también podía
+[00:24:34] intervenir, digamos, las acciones clase
+[00:24:36] A podían estar en manos de sociedades
+[00:24:38] inversoras. Eh, también se previó que en
+[00:24:41] ese caso se debería informar a la
+[00:24:43] autoridad de aplicación todas las
+[00:24:45] modificaciones en los estatutos o las
+[00:24:48] tenencias que modifiquen ese control
+[00:24:50] respecto del existente en el momento que
+[00:24:52] se firmó el contrato de transferencia de
+[00:24:54] acciones. Y los accionistas de esa
+[00:24:57] sociedad inversora también no podían por
+[00:24:59] 5 años debían mantener en una proporción
+[00:25:03] y cantidad que exceda al 49% de
+[00:25:06] sustenencias eh la sociedad inversora.
+[00:25:10] Y siempre la concesionaria está obligada
+[00:25:11] a informar todas estas situaciones a la
+[00:25:14] autoridad de aplicación y eh todas las
+[00:25:17] transferencias, como habíamos como había
+[00:25:19] hablado digamos este en un principio de
+[00:25:22] los subanexos, las este que las acciones
+[00:25:26] clase A están se encuentran eh sujetas a
+[00:25:31] un este a un régimen especial, digamos,
+[00:25:34] están grabadas con eh prenda de esas
+[00:25:36] acciones y que Si en el caso de
+[00:25:40] autorizarse y de realizarse la
+[00:25:42] transferencia de esas acciones, también
+[00:25:44] deberán ser grabadas por el nuevo
+[00:25:46] accionista de esa sociedad.
+[00:25:52] Eh, a nivel este concesiones eh
+[00:25:56] municipales también el objeto exclusivo
+[00:25:59] debe ser el de tener y mantener la
+[00:26:01] prestación del servicio público,
+[00:26:02] distribución y comercialización.
+[00:26:05] Y eh la concesionaria tiene la
+[00:26:07] obligación de informar a la autoridad de
+[00:26:09] aplicación cualquier eh situación eh
+[00:26:12] significativa o que impacte o que ponga
+[00:26:14] al riesgo el régimen eh cooperativo.
+[00:26:21] Ah, bueno, e
+[00:26:24] hasta acá digamos esta primer parte.
+[00:26:26] Ahora va va a seguir este Guillermina,
+[00:26:28] no sé si hay alguna pregunta. Eh,
+[00:26:34] la respondo o lo dejamos para después.
+[00:26:42] Bueno, bueno, hay hay un poquito esto
+[00:26:44] del objeto exclusivo.
+[00:26:47] Vuelvo a la filmina anterior de Pato,
+[00:26:50] que el otro día habíamos comentado este
+[00:26:52] proyecto de ley que estaba dando vueltas
+[00:26:54] que podría modificar el marco
+[00:26:56] regulatorio y que las cooperativas, si
+[00:26:59] bien tienen este
+[00:27:01] objeto exclusivo de prestar el servicio
+[00:27:04] público de distribución y
+[00:27:05] comercialización, se las habilitaría con
+[00:27:08] la misma conformación
+[00:27:10] a eh generar, ¿sí? esta generación auto,
+[00:27:14] la autogeneración comunitaria,
+[00:27:17] entonces cedería este objeto exclusivo
+[00:27:20] este de la conformación, de la misma
+[00:27:23] conformación como cooperativa, pero
+[00:27:25] bueno, es un proyecto de ley que tiene
+[00:27:26] media sanción y que aún no ha modificado
+[00:27:28] el marco regulatorio. Sí, también,
+[00:27:31] perdón, pero digo también eh relacionado
+[00:27:33] con esto que o o modificaciones que
+[00:27:35] pueden llegar a venir o que pueden
+[00:27:36] cambiar esta exclusividad, digamos, a
+[00:27:38] nivel nacional, el decreto 450 que
+[00:27:41] digamos como objetivos eh tiende a
+[00:27:44] lograr la comercialización al usuario
+[00:27:46] final. Si se diera esta situación de la
+[00:27:49] de la apertura de la de esta
+[00:27:51] comercialización, también podría haber
+[00:27:53] un rediseño regulatorio a nivel
+[00:27:55] provincial, eh, y también que establece
+[00:27:59] la libertad de de de elección de los
+[00:28:03] consumidores finales. Esto también
+[00:28:05] podría dar lugar a un cambio
+[00:28:09] en el objeto o rever, digamos, cómo los
+[00:28:12] distribuidores van a seguir prestando,
+[00:28:15] si se va a limitar a un a una función,
+[00:28:17] digamos, técnica de transporte, digamos,
+[00:28:19] solamente.
+[00:28:24] Bueno, estas son todas cuestiones
+[00:28:28] que podrían darte o que podrían haber
+[00:28:32] algunos cambios a nivel objeto y nivel
+[00:28:35] prestación del servicio.
+[00:28:38] Bueno, ahora sío.
+[00:28:45] Bueno, no que lo haga yo
+[00:28:49] se silenci. Bueno, eh
+[00:28:56] en cuanto al régimen de inversiones y
+[00:28:59] régimen de aprovisionamiento, eh ambos
+[00:29:02] contratos, tanto el provincial como
+[00:29:04] municipal, establecen las mismas
+[00:29:06] cuestiones.
+[00:29:09] Respecto de
+[00:29:11] la de la energía eléctrica, es exclusiva
+[00:29:14] responsabilidad de la concesionaria
+[00:29:16] realizar las inversiones necesarias para
+[00:29:18] asegurar la prestación del servicio
+[00:29:20] público con los niveles de calidad
+[00:29:22] exigidos. Y por otro por otra parte,
+[00:29:25] originariamente estos modelos de
+[00:29:27] contrato, que son efectivamente los los
+[00:29:29] suscriptos, establecía la posibilidad de
+[00:29:32] celebrar los contratos de compraventa de
+[00:29:33] energía en bloque que como vimos y las
+[00:29:36] modificaciones que sufrió y la evolución
+[00:29:38] que tuvo el mercado eléctrico mayorista,
+[00:29:41] eh, que lo explicaba, bueno, la gente de
+[00:29:43] Camesa y después Susana David en la otra
+[00:29:46] clase, eh, dejó, digamos, de de salir a
+[00:29:51] cada distribuidor, al menos los los
+[00:29:53] agentes del mercado a celebrar estos
+[00:29:54] contratos de compraventa para poder
+[00:29:56] volver directamente a ahora con esta
+[00:29:59] normalización. Veremos cómo transcurre,
+[00:30:02] pero la la facultad de celebrar estos
+[00:30:04] contratos de compraventa para satisfacer
+[00:30:06] el incremento de demanda está previsto
+[00:30:08] eh en los contratos de concesión.
+[00:30:12] Otra de las cuestiones eh, y obviamente
+[00:30:14] todo lo que estamos viendo que dice el
+[00:30:16] contrato es lo que la clase anterior
+[00:30:18] vimos que establece el marco
+[00:30:20] regulatorio, así que simplemente es la
+[00:30:22] implementación de lo que el marco
+[00:30:24] normativo establece bajado a nivel de
+[00:30:26] contrato y acuerdo de voluntades.
+[00:30:29] Respecto del uso del dominio público,
+[00:30:31] obviamente se habilita a los
+[00:30:33] distribuidores a utilizar el dominio
+[00:30:34] público provincial o municipal, sea
+[00:30:36] aéreo, subterráneo, todo lo que sea
+[00:30:38] necesario para la instalación o la
+[00:30:42] implantación, la colocación de
+[00:30:44] instalaciones que sean destinadas a la
+[00:30:46] prestación del servicio público que
+[00:30:48] tiene la obligación de prestar.
+[00:30:50] Obviamente asumiendo la responsabilidad
+[00:30:53] que eh cualquiera de esas instalaciones
+[00:30:55] puede generar daños a terceros. Este,
+[00:30:59] obviamente en ese caso asume el
+[00:31:01] distribuidor la responsabilidad que le
+[00:31:03] que le cabe.
+[00:31:05] Respecto de eh servidumbres o
+[00:31:08] restricciones, los contratos de
+[00:31:09] concesión también establecen ese punto.
+[00:31:13] Eh, se habilita, obviamente, a utilizar
+[00:31:16] en beneficio de la prestación los
+[00:31:17] derechos emergentes de las servidumbres
+[00:31:19] administrativas
+[00:31:20] y de las restricciones administrativas.
+[00:31:23] Como vimos la clase anterior, las
+[00:31:24] servidumbres requieren de una
+[00:31:25] indemnización eh al particular que cede
+[00:31:29] parte de su derecho este para que el
+[00:31:31] distribuidor instale un electroducto o
+[00:31:34] una estación transformadora o cualquier
+[00:31:37] elemento que requiera la utilización de
+[00:31:39] un predio de un particular. Mientras que
+[00:31:42] las restricciones, algo mucho más
+[00:31:43] genérico y que se somete quizá a todos
+[00:31:45] los usuarios a esa restricción, no
+[00:31:47] requiere una indemnización por parte del
+[00:31:49] distribuidor para la utilización de ese
+[00:31:52] espacio este perteneciente a un
+[00:31:54] particular. Eh, el contrato establece
+[00:31:57] que los distribuidores pueden acceder,
+[00:32:00] digamos, a cualquiera de estas dos este
+[00:32:03] habilitaciones para utilizar el espacio.
+[00:32:06] Obviamente establece también la
+[00:32:07] obligación del dueño del fondo o del
+[00:32:11] predio de permitir este la entrada de la
+[00:32:15] salida, porque no es que se genera o se
+[00:32:17] le limita el derecho real al dueño, no
+[00:32:20] hay una venta de ese espacio, sino una
+[00:32:22] restricción,
+[00:32:24] eh, meramente una restricción. el dueño
+[00:32:27] conserva la propiedad de ese bien, eh
+[00:32:30] simplemente tiene que permitir el acceso
+[00:32:32] al distribuidor, no construir este o no
+[00:32:37] hacer plantaciones que impidan o
+[00:32:40] perjudiquen la normal prestación del
+[00:32:42] servicio público en esa en esa área.
+[00:32:46] También el contrato establece eh qué
+[00:32:49] sucede con los trabajos en la vía
+[00:32:50] pública.
+[00:32:53] establece que deben todas las
+[00:32:54] instalaciones de cables, elementos o
+[00:32:56] equipos este vinculados a la prestación
+[00:32:58] tienen que ser ejecutados o o cumplidos
+[00:33:02] bajo la normativa vigente. En general
+[00:33:04] son normativas que imponen eh los
+[00:33:07] municipios porque cada una de estas se
+[00:33:10] desarrollan en esos lugares y obviamente
+[00:33:13] vuelve a establecer que asume la
+[00:33:14] responsabilidad por los gastos o los
+[00:33:16] daños este que genere o que ocasione a
+[00:33:20] terceros o a los bienes del dominio
+[00:33:23] público o privado.
+[00:33:25] En cuanto a la remoción,
+[00:33:29] establece que una vez que está
+[00:33:31] autorizada la instalación, no puede
+[00:33:34] obligarse al distribuidor a trasladarlo,
+[00:33:38] salvo y acá viene la particularidad,
+[00:33:41] este, cuando el interés público en la
+[00:33:43] ejecución de una obra eh supere,
+[00:33:46] digamos, a la instalación existente, ya
+[00:33:48] sea por la nación, la provincia o el
+[00:33:50] propio municipio u otro eh concesionario
+[00:33:54] de otro servicio público. público. En
+[00:33:56] ese caso, este, si hay una obra ejecutar
+[00:34:00] y debe removerse la instalación
+[00:34:01] eléctrica, debe ser requerido al
+[00:34:03] distribuidor. el distribuidor con una
+[00:34:06] anticipación suficiente,
+[00:34:08] este, el distribuidor puede remover esa
+[00:34:11] instalación y los gastos en que incurra
+[00:34:13] esa remoción debe ser reintegrados por
+[00:34:15] quien este solicita, ya sea el Estado
+[00:34:18] Provincial, municipal o cualquier otro
+[00:34:20] concesionario que requiera este la
+[00:34:23] modificación de una traza o de una de un
+[00:34:25] elemento de las instalaciones
+[00:34:27] eléctricas. Eh, también se establecen
+[00:34:30] los contratos que en caso de este
+[00:34:32] discrepancias o de controversias va a
+[00:34:35] resultar este aplicable eh la
+[00:34:38] intervención de de Oceva.
+[00:34:43] Eh, en cuanto a la responsabilidad de
+[00:34:45] los distribuidores, sean municipales o
+[00:34:46] provinciales, acá los contratos son
+[00:34:48] idénticos. Establece que les aplica
+[00:34:51] todas las responsabilidades por los
+[00:34:53] daños o perjuicios que causen a
+[00:34:55] terceros, a los bienes de propiedad de
+[00:34:57] estos terceros. o este por el
+[00:35:00] incumplimiento de las obligaciones
+[00:35:01] asumidas eh por el contrato y o la
+[00:35:04] prestación del servicio público. Y
+[00:35:06] también se aclara en los contratos de
+[00:35:08] concesión que eh bajo el título de
+[00:35:11] terceros también se considera incluido
+[00:35:14] al poder concedente. En el contrato
+[00:35:16] provincial, obviamente el concedente es
+[00:35:18] la provincia, como les decía Pato
+[00:35:21] recién, y en los contratos municipales,
+[00:35:23] obviamente, el concedente es el
+[00:35:25] municipio.
+[00:35:28] Bueno, del mismo modo que
+[00:35:31] que habíamos visto el artículo 53 decía
+[00:35:34] que los contratos debían contener las
+[00:35:35] obligaciones. Vamos a tener el detalle
+[00:35:37] de todas las obligaciones que le caben a
+[00:35:39] la concesionaria, como así también las
+[00:35:41] obligaciones que le caben al poder
+[00:35:43] concedente. En cuanto a las obligaciones
+[00:35:45] de la concesionaria y ambos contratos
+[00:35:48] son iguales, así que acá no vamos a a
+[00:35:50] notar diferencias. La primera y
+[00:35:52] principal que venimos repitiendo, creo
+[00:35:54] yo, desde la clase una es la obligación
+[00:35:56] de prestar el servicio público
+[00:35:59] eh dentro del área de concesión, área
+[00:36:03] como vimos hace un momentito, con
+[00:36:05] exclusividad
+[00:36:06] y según los niveles de calidad. Esos son
+[00:36:09] los tres pilares en los que se asienta
+[00:36:11] la prestación del servicio público
+[00:36:12] otorgado bajo el régimen de concesión.
+[00:36:15] La segunda obligación que establece es
+[00:36:17] la eh la de satisfacer toda la demanda
+[00:36:20] de suministro del servicio público en el
+[00:36:22] área eh que sea requerida por cualquier
+[00:36:26] eh usuario o digamos por quien quiera
+[00:36:29] convertirse en usuario, siempre y cuando
+[00:36:32] este tenga la capacidad para poder este
+[00:36:35] aceptar a ese a ese nuevo ese nuevo
+[00:36:38] requerimiento. tiene la obligación de
+[00:36:40] continuar prestando el servicio público
+[00:36:42] a los concesionarios municipales que no
+[00:36:45] puedan acudir al mercado eléctrico
+[00:36:46] mayorista.
+[00:36:48] tiene la obligación de suministrar la
+[00:36:50] energía eléctrica para la prestación del
+[00:36:52] servicio público a cada una de las
+[00:36:54] municipalidades, para el alumbrado
+[00:36:56] público a cada una de las
+[00:36:57] municipalidades.
+[00:36:59] Tiene la obligación de suministrar
+[00:37:01] energía eléctrica en determinadas
+[00:37:03] tensiones. un decreto, el 244 del 2006
+[00:37:07] que establece una serie de
+[00:37:09] particularidades sobre este tema,
+[00:37:11] estableciendo, digamos, en lo que les
+[00:37:12] puedo explicar, eh que aquellas líneas
+[00:37:16] en tensión de 66 deben, este una vez que
+[00:37:20] requieran, digamos, su modernización, su
+[00:37:22] adaptación, eh dejaran de prestar en 66.
+[00:37:27] Bueno, este decreto apareció, digamos,
+[00:37:29] posterior a a la privatización,
+[00:37:32] posterior a los contratos de concesión,
+[00:37:34] posterior a a los contratos,
+[00:37:38] básicamente, y establece esta
+[00:37:40] particularidad que también debe este
+[00:37:42] aplicarse, si bien no está
+[00:37:44] específicamente adaptado al contrato, si
+[00:37:46] sabemos de su existencia y sabemos que
+[00:37:49] modifica eh en esa en esa cuestión
+[00:37:51] respecto de las tensiones de la
+[00:37:53] prestación del servicio público. Después
+[00:37:56] establece también la obligación de
+[00:37:57] efectuar las inversiones y el
+[00:37:59] mantenimiento que resulte necesario para
+[00:38:02] garantizar los niveles de calidad
+[00:38:04] definidos en el subanexo D.
+[00:38:08] También le exige a la concesionaria la
+[00:38:10] obligación de aplicar el cuadro
+[00:38:11] tarifario. Estos cuadros tarifarios,
+[00:38:14] como vimos eh y vamos a ver
+[00:38:16] sucesivamente, este son los que apruebe
+[00:38:19] la autoridad de aplicación en cada
+[00:38:20] momento.
+[00:38:22] y tienen la obligación de poner en
+[00:38:24] conocimiento de los usuarios cuál es el
+[00:38:27] cuadro tarifario que les aplica este y
+[00:38:31] el que ellos, digamos, cada usuario ve
+[00:38:33] reflejado en la facturación eh de cada
+[00:38:36] uno de los meses.
+[00:38:38] Por otro lado, establece que deben
+[00:38:41] permitir el acceso no discriminado de su
+[00:38:42] de los terceros a la capacidad eh de
+[00:38:45] transporte remanente en sus sistemas.
+[00:38:50] Eh, las distribuidoras tienen la
+[00:38:52] obligación de establecer las
+[00:38:54] especificaciones mínimas para la
+[00:38:56] electricidad que se coloque en su
+[00:38:57] sistema de distribución. Esto está un
+[00:38:59] poco atado a la generación distribuida
+[00:39:02] domiciliaria, sea individual o
+[00:39:04] comunitaria, que también vamos a ver en
+[00:39:05] una clase específica.
+[00:39:08] eh tienen la obligación de facilitar la
+[00:39:12] utilización de sus redes a los grandes
+[00:39:14] usuarios, obviamente con eh la
+[00:39:18] el cobro de la tarifa de peaje.
+[00:39:22] Eh tienen la obligación de instalar,
+[00:39:24] operar, mantener sus instalaciones de
+[00:39:26] forma tal que no generen peligro para la
+[00:39:29] seguridad pública, respetando en todo
+[00:39:31] momento las normas vigentes.
+[00:39:34] tienen la obligación de adecuar su
+[00:39:36] accionar al objetivo de preservar o
+[00:39:39] mejorar
+[00:39:42] el estado de situación de mejorar el
+[00:39:45] ecosistema, cumpliendo las normas de
+[00:39:47] protección de medio ambiente existentes
+[00:39:49] y vigentes.
+[00:39:51] Deben propender y fomentar el uso
+[00:39:53] racional de la energía eléctrica,
+[00:39:55] generando campañas eh para que los
+[00:39:58] usuarios tomen conocimiento
+[00:40:00] e de cuáles son los mejores
+[00:40:03] electrodomésticos. en cuanto a la
+[00:40:04] calidad, a la eficiencia que pueden
+[00:40:06] utilizar, eh y cuáles son los
+[00:40:09] mecanismos, por ejemplo, en eficiencia
+[00:40:11] en en en las instalaciones internas eh
+[00:40:15] para mejorar el consumo eh de energía
+[00:40:19] eléctrica.
+[00:40:20] e tienen la obligación de sujetar su
+[00:40:23] accionar a los procedimientos de camesa,
+[00:40:25] sobre todo en aquellos distribuidores
+[00:40:27] que son agentes del mercado,
+[00:40:30] que son los que están directamente
+[00:40:31] vinculados en la compra de energía con
+[00:40:34] camesa, tienen la obligación de elaborar
+[00:40:37] y aprobar, de aplicar, perdón, previa
+[00:40:40] aprobación de Oceva, eh las normas que
+[00:40:43] rigen la operación de las redes de
+[00:40:45] distribución en cuanto a las
+[00:40:46] vinculaciones eléctricas con otros
+[00:40:47] distribuidores, con los transportistas,
+[00:40:50] con los generadores
+[00:40:52] tienen que eh abstenerse de abandonar
+[00:40:55] totalmente y parcialmente la prestación.
+[00:40:57] Esto está vinculado a la obligación de
+[00:40:59] prestar el servicio público, a la
+[00:41:00] delegación que hace el poder público,
+[00:41:02] que hace el Estado, que se lo delega en
+[00:41:05] un particular. Eh, entonces están
+[00:41:07] obligados a no abandonar esa prestación
+[00:41:10] que que el Estado les eh dio. También
+[00:41:15] viene a colación esto que decía Patricia
+[00:41:18] hace un ratito. Fíjense que aún cuando
+[00:41:20] se vence el contrato o se vence el
+[00:41:22] periodo de gestión, están obligados a
+[00:41:24] mantener la prestación del servicio
+[00:41:26] público, aún cuando no se haya
+[00:41:29] relicitado las acciones clase A, aún
+[00:41:31] cuando no se haya vencido eh o se haya
+[00:41:35] vencido el plazo del contrato, tienen la
+[00:41:38] obligación de mantener la prestación.
+[00:41:40] Eh, fíjense que los distribuidores
+[00:41:42] provinciales por 12 meses, manteniendo
+[00:41:44] el régimen tarifario del último periodo
+[00:41:45] de gestión, eh, o los suanexos al
+[00:41:49] contrato o los cuadros tarifarios y las
+[00:41:51] distribuidoras municipales por 3 años
+[00:41:54] luego de vencido el contrato de
+[00:41:55] concesión, aún cuando no se lo haya
+[00:41:57] renovado o o cuando el municipio no haya
+[00:42:01] vuelto a hacer un concurso para buscar
+[00:42:03] un nuevo prestador del servicio público.
+[00:42:06] Entonces, eh digamos vinculando ambas
+[00:42:09] normativas, está obligado a a no
+[00:42:12] abandonar la prestación de servicio
+[00:42:13] público. Del mismo modo, está obligado a
+[00:42:17] no abandonar total o parcialmente las
+[00:42:19] instalaciones que están afectadas a la
+[00:42:21] prestación. Y acá este aparece la figura
+[00:42:25] de la desafectación
+[00:42:27] e
+[00:42:29] que es la única excepción a esta
+[00:42:32] posibilidad de dejar sin efecto la
+[00:42:34] utilización de determinado bien afectado
+[00:42:36] del servicio público. Una vez que ese
+[00:42:38] bien, eh digamos todos los bienes que
+[00:42:41] que hacen a la prestación del servicio
+[00:42:43] público integran lo que llamamos la
+[00:42:45] unidad de afectación al servicio público
+[00:42:48] eh como una única cosa destinada a la
+[00:42:52] prestación, debe ser operada en su
+[00:42:54] integralidad. Ahora bien, alguno de esos
+[00:42:56] bienes, independientemente sea
+[00:42:58] provincial o sea municipal, si es
+[00:43:01] digamos independiente a a ambas
+[00:43:03] cuestiones, sino genérica, algún bien
+[00:43:06] que no resulte necesario, este se que la
+[00:43:11] continuidad de la operación, la
+[00:43:13] continuidad de la utilización e puede
+[00:43:17] ser desafectado de esa unidad de
+[00:43:20] afectación al servicio público.
+[00:43:22] desafectación requiere la previa
+[00:43:25] autorización de los EVA, puede ser
+[00:43:27] desafectado, puede ser enajenado,
+[00:43:30] eh pero requiere de este procedimiento
+[00:43:32] previo con intervención de los EVA.
+[00:43:35] Otra de las obligaciones que establecen
+[00:43:37] los contratos es abstenerse de ofrecer
+[00:43:40] ventajas o preferencias en el acceso a
+[00:43:43] las instalaciones. Sí, esta capacidad
+[00:43:45] remanente que veíamos antes como una
+[00:43:48] obligación eh permitir el acceso. Ese
+[00:43:52] acceso a cualquier tercero
+[00:43:55] tiene la contracara de que no sean este
+[00:43:59] seleccionados en tanto y en cuanto les
+[00:44:01] genere una ventaja o una preferencia. al
+[00:44:05] distribuidor.
+[00:44:08] Otra de las obligaciones que establecen
+[00:44:10] los contratos es que eh y por esto que
+[00:44:13] les venía diciendo constituye una unidad
+[00:44:15] de afectación.
+[00:44:16] Esta unidad de afectación impide eh
+[00:44:20] estos bienes están afectados a la
+[00:44:21] prestación de un servicio público. Con
+[00:44:23] lo que venimos contando, digamos, de la
+[00:44:26] de la condición de esencia de la
+[00:44:28] prestación. No se pueden constituir
+[00:44:30] derechos reales de hipoteca, prenda, ni
+[00:44:33] ningún otro gravamen
+[00:44:35] sobre esos bienes afectados a la
+[00:44:37] prestación del del servicio público.
+[00:44:40] solamente, como les decía antes, la
+[00:44:42] libre disponibilidad en caso que fueran
+[00:44:45] desafectados la unidad de afectación,
+[00:44:48] tuvieran la habilitación por parte de
+[00:44:50] los EVA y son bienes que son inadecuados
+[00:44:53] para la prestación, que se han vuelto
+[00:44:55] obsoletos y que no se van a requerir eh
+[00:44:58] en la posterioridad, digamos, para la
+[00:45:00] continuidad de la prestación.
+[00:45:02] Sí, se admite, y así lo establecen los
+[00:45:04] contratos, la constitución de un derecho
+[00:45:06] real, siempre que sea garantía de pago
+[00:45:10] en el caso que las concesionarias
+[00:45:12] adquieran nuevos bienes este para la
+[00:45:15] prestación del servicio público. En ese
+[00:45:17] caso, sí se admite la Constitución del
+[00:45:19] derecho real.
+[00:45:22] Eh, otra de las obligaciones es eh y
+[00:45:25] como lo lo comentábamos el otro día que
+[00:45:28] establece el marco regulatorio, es
+[00:45:30] abstenerse de realizar actos que
+[00:45:31] impliquen eh acciones de competencia
+[00:45:34] desleal o una posición dominante en el
+[00:45:37] mercado. Ahí habíamos visto que la ley
+[00:45:40] de defensa de la competencia este a
+[00:45:43] nivel nacional
+[00:45:45] define que la autoridad de aplicación es
+[00:45:48] el estado,
+[00:45:51] la dirección de defensa de la
+[00:45:53] competencia a nivel nacional, establece
+[00:45:56] cuáles son las conductas que configuran
+[00:45:59] esta esta situación y también cuáles son
+[00:46:03] las sanciones que le caben ante esas
+[00:46:05] conductas. No obstante eso, que la
+[00:46:06] autoridad de aplicación sea nacional y
+[00:46:09] que las conductas estén tipificadas en
+[00:46:11] esa norma, OCEVA puede aplicar
+[00:46:13] sanciones, este para intimar a que estas
+[00:46:18] conductas cesen en su configuración y
+[00:46:21] pueda aplicar sanciones que están
+[00:46:22] previstas en el subanexo de ante esa
+[00:46:25] situación.
+[00:46:27] Otra de las obligaciones que establecen
+[00:46:28] los contratos de concesión es abonar la
+[00:46:31] tasa de inspección y control que fije
+[00:46:33] los SEBA, que les notifique a cada uno
+[00:46:36] de los distribuidores,
+[00:46:38] eh, que sean cumplidas y sean ingresadas
+[00:46:40] en los plazos que OSEVA establece por
+[00:46:44] los montos que allí se determinan y que
+[00:46:47] en caso de
+[00:46:49] mora en el ingreso de esa tasa de
+[00:46:51] fiscalización
+[00:46:53] establece también la tasa de interés que
+[00:46:55] le aplica.
+[00:46:56] Y en caso de no ser abonada en plazo o
+[00:46:59] con las moras automáticas que le aplican
+[00:47:01] o sea puede aplicar este sanciones por
+[00:47:04] la falta de ingreso de esa tasa de
+[00:47:06] fiscalización.
+[00:47:08] Otra de las obligaciones que establece
+[00:47:10] la concesionaria y es el deber de
+[00:47:12] información, como veíamos el otro día,
+[00:47:14] que es determinante y es el más
+[00:47:16] importante respecto a eh poder cumplir
+[00:47:20] las funciones de control y de
+[00:47:22] fiscalización que tiene asignado el
+[00:47:24] OCEVA por marco regulatorio y para hacer
+[00:47:26] el seguimiento de las concesiones.
+[00:47:30] Y por último, estas dos más genéricas,
+[00:47:33] este, que es cumplir toda la norma
+[00:47:35] dictada por la autoridad de aplicación y
+[00:47:36] que se vaya dictando a medida que que
+[00:47:38] vamos este continuando con la vida de
+[00:47:41] los contratos de concesión y todas las
+[00:47:44] leyes, regulaciones eh de orden laboral,
+[00:47:47] de seguridad social, ambiental, que se
+[00:47:51] digamos que están vigentes, las que se
+[00:47:52] vayan dictando con posterioridad y todas
+[00:47:54] aquellas que dicte el organismo de
+[00:47:56] control que también resultan de
+[00:47:58] aplicación a digamos ambos tipos de
+[00:48:01] concesionarios, provinciales o
+[00:48:02] municipales.
+[00:48:05] Los contratos de concesión también
+[00:48:07] establecen obligaciones de ambas
+[00:48:10] concesionarias eh de tipo tributario.
+[00:48:14] Las concesionarias están obligadas al
+[00:48:15] pago de todo tipo de tributo, sean
+[00:48:17] provincial, nacionales, provinciales o
+[00:48:19] municipales.
+[00:48:21] Eh, eso lo establece así como de tipo
+[00:48:24] genérico, sin identificar uno a uno
+[00:48:26] cuáles son los que los que se aplican.
+[00:48:29] Eh, también están obligados a cumplir
+[00:48:32] con la contabilidad regulatoria.
+[00:48:34] Recordemos que la contabilidad
+[00:48:36] regulatoria aparece
+[00:48:38] eh con la modificación al marco
+[00:48:40] regulatorio, como les contaba el otro
+[00:48:41] día en el 2004 por la ley 13173
+[00:48:46] eh que modifica el artículo 34 del marco
+[00:48:49] regulatorio y aparece como una figura
+[00:48:52] para e
+[00:48:55] establecer este control exante que que
+[00:48:58] veíamos como una un aditamento o una
+[00:49:01] modificación al control este indirecto.
+[00:49:04] y el control por e
+[00:49:07] calidad del servicio, sino para
+[00:49:09] anticipar las desviaciones. Esta
+[00:49:11] contabilidad regulatoria se aprobó por
+[00:49:13] la resolución 60 del 2021, tuvo una
+[00:49:16] serie de modificaciones, tiene
+[00:49:18] determinadas cuestiones que se soportan
+[00:49:20] en esa contabilidad regulatoria de tipo
+[00:49:22] económico, de tipo técnico, de tipo este
+[00:49:26] jurídico que deben ser completados y ahí
+[00:49:29] hay plazos. Bueno, vamos a tener una
+[00:49:31] clase especial de contabilidad
+[00:49:32] regulatoria, así que este ahí vamos a
+[00:49:34] poder a
+[00:49:36] ahondar en todos estos detalles.
+[00:49:40] Otras de las obligaciones que que
+[00:49:42] establecen los contratos y acá es
+[00:49:44] específico de los contratos de concesión
+[00:49:48] municipal,
+[00:49:50] es la obligación de eh informar el
+[00:49:54] estado del inventario y el estado del
+[00:49:56] balance. Los contratos de concesión
+[00:49:58] municipal establecen que cada
+[00:50:00] cooperativa, cada distribuidor municipal
+[00:50:02] debe informarle al municipio anualmente
+[00:50:05] el balance con su memoria, así como el
+[00:50:08] inventario, con las altas y las bajas
+[00:50:11] que hayan operado en el año calendario
+[00:50:14] inmediatamente anterior. Así que es una
+[00:50:16] obligación, digamos, diferente que no
+[00:50:19] contiene el contrato de concesión
+[00:50:21] provincial. Si bien estas cuestiones
+[00:50:23] obviamente están contenidas dentro de la
+[00:50:25] contabilidad regulatoria, no lo dice sí
+[00:50:27] específicamente el contrato de concesión
+[00:50:29] provincial
+[00:50:34] en cuanto
+[00:50:36] y acrancas vos, patito.
+[00:50:38] Sí.
+[00:50:40] No, esta era mía.
+[00:50:41] Pero [risas]
+[00:50:43] esta era mía. Me perdí.
+[00:50:47] Sí, sí, sí.
+[00:50:49] No, no, sigo, sigo. Este, yo seguí hasta
+[00:50:52] el final del contrato.
+[00:50:54] Bueno, respecto del régimen tarifario,
+[00:50:57] los contratos de concesión establecen
+[00:50:59] que eh los cuadros tarifarios
+[00:51:03] son valores máximos que deben aplicar
+[00:51:05] los los distribuidores.
+[00:51:07] Estos cuadros tarifarios y ahora vamos a
+[00:51:09] ver en el subanexo, e son los aprobados
+[00:51:12] por la autoridad de aplicación.
+[00:51:14] Recordemos la autoridad de aplicaciones
+[00:51:15] el Ministerio de Infraestructura.
+[00:51:17] Eh, los contratos, los cuadros
+[00:51:20] tarifarios, obviamente los recálculos
+[00:51:22] los hace y la potestad la tiene OSEVA de
+[00:51:25] efectuar tanto el recálculo conforme a
+[00:51:27] la instrucción en cuanto a los ajustes
+[00:51:30] del valor agregado de distribución que
+[00:51:31] le da la autoridad de aplicación.
+[00:51:34] Eh, y si en estos cuadros tarifarios
+[00:51:37] bajo el mecanismo de Pfruc también vamos
+[00:51:39] a ver eh trasladar el precio eh de la
+[00:51:43] energía, de la potencia, del transporte,
+[00:51:46] los servicios auxiliares que ahora
+[00:51:48] aparecieron hace poquito,
+[00:51:50] eh el Fondo Nacional de la Energía
+[00:51:52] Eléctrica, conforme la programación
+[00:51:54] estacional que aprueba
+[00:51:58] la Secretaría de Energía eh y los
+[00:52:01] ajustes que cada vez o cada cada momento
+[00:52:04] establece la Secretaría de Energía son
+[00:52:05] volcados mediante el mecanismo de Pathrú
+[00:52:07] en estos cuadros tarifarios.
+[00:52:10] E el contrato de concesión establecía
+[00:52:14] ajustes periódicos conforme el subanexo
+[00:52:16] B del contrato de concesión. Eh, este su
+[00:52:20] anexo B establece eh este ajuste
+[00:52:24] periódico en el mes de agosto de cada
+[00:52:28] año calendario.
+[00:52:30] En la revisión tarifaria integral
+[00:52:32] aprobada por la resolución 419 del 2017
+[00:52:36] se mantuvo ese ajuste se producía cada
+[00:52:39] primero de agosto conforme la
+[00:52:42] polinómica, también establecida en el
+[00:52:44] anexo 149 de esa resolución eh que
+[00:52:48] aprobó la RTI eh del 17.
+[00:52:52] Eh, y acá vale explicar eh que nos
+[00:52:57] encontramos en una etapa de transición
+[00:52:58] tarifaria. esa revisión tarifaria que se
+[00:53:01] aprobó por la resolución 419
+[00:53:04] eh en el año
+[00:53:09] 2019 se estableció que el cuadro
+[00:53:11] tarifario que se ajustaba a partir del
+[00:53:12] primero de agosto del 19 se iba a
+[00:53:15] aplicar a partir de enero del 2020. En
+[00:53:18] ese interín,
+[00:53:21] en el momento que debía aplicarse ese
+[00:53:24] ajuste tarifario, aparecen las leyes de
+[00:53:27] emergencia energética y económica en la
+[00:53:31] provincia de Buenos Aires a través de la
+[00:53:33] Ley 15165,
+[00:53:35] que suspendían por 180 días eh la
+[00:53:40] aplicación de cualquier incremento en
+[00:53:42] materia de energía eléctrica eh y de
+[00:53:45] otros servicios públicos en la provincia
+[00:53:47] de Buenos Buenos Aires es una ley
+[00:53:48] provincial.
+[00:53:50] Eh,
+[00:53:52] ahí también le confirió eh facultades a
+[00:53:55] la autoridad de aplicación para revisar
+[00:53:59] esa revisión tarifaria integral eh del
+[00:54:04] 2017. eh y también generar una comisión
+[00:54:09] para eh en su caso adaptar el marco
+[00:54:12] regulatorio en caso que hubiera
+[00:54:16] eh necesidades de adaptarlo en función
+[00:54:19] de esta emergencia o de los resultados
+[00:54:21] de ese análisis de la revisión tarifaria
+[00:54:23] integral. cuestión que esa emergencia
+[00:54:25] energética y esos 180 días comenzaron a
+[00:54:29] eh prorrogarse.
+[00:54:32] El congelamiento tarifario, en
+[00:54:34] consecuencia se comenzó a a postergar, a
+[00:54:36] ampliar hasta que a través de la
+[00:54:39] resolución 439 del 2021 del Ministerio
+[00:54:42] de Infraestructura comenzó una etapa de
+[00:54:45] transición tarifaria,
+[00:54:47] la cual este todavía nos encontramos eh
+[00:54:51] transitándola.
+[00:54:54] hasta la implementación de la próxima
+[00:54:56] RTI. Esta etapa de transición tarifaria
+[00:55:00] de de la resolución 439 fue convalidada
+[00:55:05] por sucesivas también leyes. Hoy está
+[00:55:07] vigente la ley 1557,
+[00:55:09] que es la que aprobó el presupuesto 2026
+[00:55:12] y estableció que va a estar vigente
+[00:55:14] hasta la implementación de la próxima
+[00:55:16] RTI. RTI que estamos en ese proceso
+[00:55:20] transcurriéndolo que se implementó y se
+[00:55:22] aprobó eh a través de la resolución 1133
+[00:55:26] del 2024. Después se aprobaron dos
+[00:55:29] resoluciones, este que establecieron un
+[00:55:32] convenio con eh el Seare, este centro de
+[00:55:36] energía eh que pertenece a la UBA, es
+[00:55:39] quien nos asiste al Estado Provincial, a
+[00:55:43] la Subsecretaría de Energía, a llevar
+[00:55:45] adelante el proceso de RTI. Recordemos
+[00:55:48] también vamos a tener una clase especial
+[00:55:50] de la RTI. Esta
+[00:55:53] esta RTI no es solamente un o no está
+[00:55:58] prevista este o considerada como un este
+[00:56:01] una revisión de los ingresos necesarios
+[00:56:04] o los ingresos requeridos para poder
+[00:56:06] prestar el servicio, sino que es una
+[00:56:07] revisión tarifaria eh integral. Si bien
+[00:56:11] la otra también se llamaba revisión
+[00:56:12] tarifaria integral, esta pretende ser
+[00:56:14] mucho más a fondo que la anterior. La
+[00:56:17] anterior, eh, fíjense que se aprobó por
+[00:56:20] la 419 un cuadro tarifario. No se había
+[00:56:23] aprobado en esa oportunidad este los
+[00:56:26] subanexos al contrato. Se terminó
+[00:56:28] aprobando el e, el D y el E, este, y no
+[00:56:33] los anteriores, A, B, C. Bueno, el C es
+[00:56:35] el cuadro tarifario, el A y el B.
+[00:56:38] Entonces, en esta revisión se pretende
+[00:56:40] hacer un análisis y también eh era
+[00:56:43] estaba direccionada o estuvo
+[00:56:45] direccionada
+[00:57:05] ni una revisión de lo que es el fondo.
+[00:57:08] Eh, ¿me escuchan? Dice que tengo una
+[00:57:11] conexión inestable a internet.
+[00:57:14] ¿Me escuchan
+[00:57:17] bien? Sí, sí, se escucha
+[00:57:19] perfecto. E no así respecto de eh
+[00:57:25] si bien el cuadro tarifario que les
+[00:57:27] aplica a cada una de las distribuidoras
+[00:57:28] provinciales pasa a ser el cuadro del
+[00:57:31] área, las diferencias de costo se
+[00:57:34] reintegran a cada uno de los
+[00:57:35] distribuidores municipales a través del
+[00:57:37] fondo compensador tarifario, que también
+[00:57:40] vamos a tener una clase.
+[00:57:43] Los mecanismos de distribución del fondo
+[00:57:45] compensador no se modifican, no se
+[00:57:47] revisan desde el año 2001, motivo por el
+[00:57:51] cual en esta revisión tarifaria integral
+[00:57:54] que estamos llevando adelante, vamos a
+[00:57:55] hacer todo esto que les estoy contando,
+[00:57:58] eh
+[00:58:00] la revisión del fondo compensador, por
+[00:58:02] eso se ha pedido la información a cada
+[00:58:04] uno de los distribuidores municipales,
+[00:58:06] han aportado esa información. se había
+[00:58:08] comenzado en este análisis en el año
+[00:58:11] 2021, 2020, 2021, eh, y no era, digamos,
+[00:58:15] como para arrancar con esto, se fue
+[00:58:17] atrasando un poco todo. Entonces, ahora
+[00:58:19] volvimos a pedir la actualización de esa
+[00:58:21] información para poder hacer la revisión
+[00:58:23] del fondo compensador y poder revisar
+[00:58:25] cuál es el el estudio de costos.
+[00:58:27] Obviamente la ruralidad modificó los
+[00:58:29] parámetros de de reintegro de ese fondo
+[00:58:31] compensador con el paso de 25 años se
+[00:58:34] han modificado. Así que esta etapa de
+[00:58:37] transición tarifaria que les comento que
+[00:58:39] se ha alargado y que se va a culminar
+[00:58:41] con la implementación de la próxima RTI
+[00:58:43] tiene todo este proceso en marcha este
+[00:58:46] que estamos trabajando.
+[00:58:49] Preguntas, dudas, chicos, interrumpan,
+[00:58:51] por favor. Esto no es un monólogo.
+[00:58:55] Bueno, otra de las cuestiones que
+[00:58:58] establece el contrato, los contratos de
+[00:59:01] concesión y que el artículo 53 indicaba,
+[00:59:04] cada contrato de concesión o los
+[00:59:06] contratos de concesión provincial o
+[00:59:07] municipal deberían establecer
+[00:59:10] una garantía a ese contrato. Y acá hay
+[00:59:13] otra de las diferencias entre el
+[00:59:14] contrato de concesión provincial y
+[00:59:16] municipal. Los contratos de concesión
+[00:59:19] provincial establece que las acciones
+[00:59:21] clase A, la mayoría de las acciones, el
+[00:59:25] control, gracias Pato, el control de las
+[00:59:28] este
+[00:59:29] de la sociedad que se da con estas
+[00:59:31] acciones clase A, el 51% ese 51% de las
+[00:59:36] acciones están prendadas en favor del
+[00:59:39] concedente. Estas acciones prendadas
+[00:59:42] eh
+[00:59:43] implica, digamos, para el contrato de
+[00:59:45] concesión provincial que cualquier
+[00:59:47] aumento de capital de las acciones,
+[00:59:50] cualquier aumento este de capitalización
+[00:59:52] de utilidades, ajustes, dividendos que
+[00:59:55] modifique este 51%
+[00:59:58] eh deba ser prendada en cualquier
+[01:00:00] momento de la concesión.
+[01:00:04] Eh, y acá me viene a la cabeza la
+[01:00:06] anécdota de cuando hubo que ir a [risas]
+[01:00:10] aprender las acciones al momento de la
+[01:00:12] privatización. Bueno, ¿dónde se guardan
+[01:00:14] estas acciones? Y ahí con Pato fuimos a
+[01:00:18] la bóveda del Banco Provincia [risas]
+[01:00:21] a una oscuridad horrorosa y con cinco
+[01:00:24] puertas, este, nos metimos ahí a dejar
+[01:00:28] este las acciones clase A prendadas,
+[01:00:32] este, así que bueno, nada, anécdotas que
+[01:00:35] nos llevan a otro a otro tiempo.
+[01:00:39] Obviamente
+[01:00:40] están seguras ahí,
+[01:00:41] sí, están seguras ahí guardadas. Este,
+[01:00:44] así que bueno, nada, e, obviamente estas
+[01:00:49] acciones tienen que ir ajustándose si
+[01:00:51] hubiera un aumento del capital social
+[01:00:53] que modifique este 51%, estas nuevas
+[01:00:57] acciones deben también ser prendadas.
+[01:00:59] Eh, como les digo, rige durante todo el
+[01:01:01] plazo de la concesión
+[01:01:03] y en caso que hubiera transferencia de
+[01:01:06] esas acciones, el nuevo accionista le
+[01:01:08] cabe la misma responsabilidad de prender
+[01:01:11] ese 51% de las acciones.
+[01:01:15] El contrato de concesión municipal
+[01:01:19] establece la obligación de tener una
+[01:01:22] póliza de caución o un aval similar a
+[01:01:26] consideración o a satisfacción de la
+[01:01:28] municipalidad concedente
+[01:01:30] para garantizar esas obligaciones
+[01:01:32] contractuales. Este monto de la póliza
+[01:01:35] de caución no puede ser superior a dos
+[01:01:38] facturaciones mensuales promedio en un
+[01:01:40] monto bruto.
+[01:01:42] Así que ahí es una una diferencia en el
+[01:01:45] tipo de garantía que cada uno de los
+[01:01:46] contratos de concesión contienen.
+[01:01:51] E también el marco regulatorio
+[01:01:54] estableció
+[01:01:56] que eh los contratos debían contener que
+[01:01:59] pasaba ante los incumplimientos a las
+[01:02:02] obligaciones contractuales.
+[01:02:05] La primer
+[01:02:06] respuesta al incumplimiento de las
+[01:02:08] obligaciones contractuales es que OSEVA
+[01:02:11] va a aplicar sanciones este o
+[01:02:14] penalizaciones establecidas en el
+[01:02:15] subanexo D.
+[01:02:18] Eh, y por otro lado, y acá nos vamos a
+[01:02:22] distinguir según sea la ejecución de la
+[01:02:25] de la garantía del contrato provincial o
+[01:02:28] municipal. Como les decía, son
+[01:02:29] diferentes las garantías. Entonces, son
+[01:02:31] diferentes eh el procedimiento de
+[01:02:34] ejecución de esas garantías. Para el
+[01:02:37] contrato de concesión provincial, la
+[01:02:39] ejecución de la prenda, el contrato
+[01:02:41] establece eh cuáles son las causales.
+[01:02:45] Entre las causales
+[01:02:47] establece que eh se puede ejecutar la
+[01:02:49] prenda ante incumplimientos para lo
+[01:02:51] establecido en las transferencias o en
+[01:02:53] las modificaciones accionarias. Si se
+[01:02:56] dieran alguno de los supuestos que
+[01:02:58] contaba hace un ratito Pato, eh, de
+[01:03:01] estas transferencias de acciones sin,
+[01:03:04] digamos dentro de los 5 años, sin la
+[01:03:06] autorización del de la autoridad de
+[01:03:09] aplicación, sin la comunicación a la
+[01:03:12] autoridad de aplicación, eh el
+[01:03:15] incumplimiento de las obligaciones
+[01:03:16] contractuales requieren, obviamente una
+[01:03:19] previa intimación a su cumplimiento por
+[01:03:21] acumulación de multas que fueran
+[01:03:23] aplicadas por el organismo de control
+[01:03:25] cuando superen el 20% de su facturación
+[01:03:27] anual. Si los garantes grabaran o
+[01:03:31] permitieran que se graben las acciones
+[01:03:32] prendadas o impidieran o dificultaran
+[01:03:36] este la venta en la licitación pública
+[01:03:39] de esas acciones clase al vencimiento
+[01:03:41] del periodo de gestión o reformaran los
+[01:03:44] estatutos sociales sin la intervención
+[01:03:46] de la autoridad de aplicación o
+[01:03:49] alteraran este o impidieren o digamos
+[01:03:54] alteraran esa proporción del 51% del
+[01:03:56] capital con derecho a voto.
+[01:03:58] dentro de la reforma de ese estatuto
+[01:04:00] social
+[01:04:03] y también establecen cuál es el
+[01:04:05] procedimiento que se va a aplicar para
+[01:04:06] ejecutar estas acciones. En todos los
+[01:04:09] casos, para ejecutar las acciones se
+[01:04:10] llama a una licitación pública nacional
+[01:04:13] o internacional por parte del Estado
+[01:04:16] Provincial.
+[01:04:18] E en el caso de ejecución de las
+[01:04:21] garantías de los contratos de concesión
+[01:04:23] municipal, el concedente, que es el
+[01:04:25] municipio, como decíamos antes, va a
+[01:04:27] ejecutar este seguro de caución u aval
+[01:04:31] ante dos incumplimientos que están
+[01:04:33] establecidos en los contratos, que es el
+[01:04:35] incumplimiento de las obligaciones
+[01:04:36] contractuales, previción a su
+[01:04:39] cumplimiento, obviamente, y después si
+[01:04:41] se diera la acumulación de multas
+[01:04:43] aplicadas por el Oceva, cuando supere el
+[01:04:45] 20% de la facturación anual del
+[01:04:47] concesionario.
+[01:04:53] Así como se establecen la ejecución de
+[01:04:56] las garantías o los incumplimientos del
+[01:04:59] concesionario, también se establecen
+[01:05:01] día, ¿cómo estás? Los incumplimientos
+[01:05:03] del concedente.
+[01:05:07] ¿Hay alguien quiere preguntar o hay un
+[01:05:13] se le disparó el micrófono. Buen eh si
+[01:05:17] hubiera algún incumplimiento del
+[01:05:18] concedente,
+[01:05:21] eh el concesionario lo va a informar a
+[01:05:23] Oceva el supuesto incumplimiento que
+[01:05:26] alega. le va a solicitar al concedente
+[01:05:29] que regularice este la el incumplimiento
+[01:05:33] que que considera eh en el plazo de 90
+[01:05:36] días.
+[01:05:38] Si se vence ese plazo de 90 días, la
+[01:05:40] concesionaria le va a requerir al
+[01:05:41] concedente que eh convoque a una
+[01:05:45] licitación internacional para
+[01:05:47] seleccionar un consultor que va a
+[01:05:48] realizar la evaluación del 100% de las
+[01:05:51] acciones. Este consultor va a presentar
+[01:05:56] tanto al concesionario como al
+[01:05:58] concedente el valor o la evaluación como
+[01:06:01] monto en dinero de esa de esa concesión.
+[01:06:06] Una vez que está que es conocido por la
+[01:06:07] concesionaria, la concesionaria puede
+[01:06:09] exigir la resisión del contrato de
+[01:06:11] concesión al concedente. Una vez que se
+[01:06:13] produce la resisión del contrato, el
+[01:06:16] concedente va a tener que abonar a la
+[01:06:17] concesionaria este valor eh fijado por
+[01:06:21] el consultor, pero le va a deducir todos
+[01:06:24] los créditos que tengan con el
+[01:06:26] concedente. por ejemplo, multas que
+[01:06:28] hayan sido impagas, penalizaciones,
+[01:06:31] deudas, por ejemplo, el agregado
+[01:06:33] tarifario, tasa de fiscalización, fondo
+[01:06:36] compensador, según se trate del
+[01:06:38] distribuidor que estemos este
+[01:06:41] eh en consideración.
+[01:06:45] Por otra parte, si se diera la el
+[01:06:48] rescate de la concesión por parte del
+[01:06:50] concedente o la quiebra de la
+[01:06:52] concesionaria, se pueden este el
+[01:06:55] contrato de concesión establece este
+[01:06:58] acciones a adoptar. En este caso, el
+[01:07:01] concedente puede optar por determinar la
+[01:07:04] continuidad por un plazo específico. Si
+[01:07:06] se ha producido la quiebra, le va a
+[01:07:08] requerir al juez competente
+[01:07:10] eh la continuidad de la prestación y en
+[01:07:13] ese plazo va a tener que considerar cómo
+[01:07:16] va a llamar a licitación para poder este
+[01:07:21] buscar o adjudicar eh la prestación a
+[01:07:24] otro a otro concesionario.
+[01:07:27] o bien este puede declarar rescindido
+[01:07:30] ese contrato y en ambos casos va a
+[01:07:33] llamar a concurso público. El precio de
+[01:07:36] la venta de las acciones deducido los
+[01:07:38] créditos del mismo modo que si se
+[01:07:40] produjera
+[01:07:42] la resisión le será devuelto como única
+[01:07:45] y total contraprestación a la
+[01:07:47] concesionaria.
+[01:07:49] Eh, y así de ese modo va a tener derecho
+[01:07:52] a e la transferencia de la totalidad de
+[01:07:55] los bienes afectados a la prestación del
+[01:07:56] servicio. Por su parte, establece eh el
+[01:08:00] contrato que en caso de quiebra de la
+[01:08:02] concesionaria, eso también es
+[01:08:04] considerado incumplimiento grave de la
+[01:08:06] concesionaria y por ende también da
+[01:08:09] lugar a la ejecución de la prenda.
+[01:08:13] Y ahora ya vamos a entrar a los
+[01:08:15] subanexos al contrato de concesión.
+[01:08:18] Hacemos, si quieren un
+[01:08:21] recreíto ahora para arrancar con los
+[01:08:23] suanexos, eh, así ya después no
+[01:08:26] no cortamos. 10 minutitos y
+[01:08:33] y seguimos. Sí. [resoplido]
+[01:08:48] Bueno,
+[01:08:50] seguimos.
+[01:08:53] Voy a compartir
+[01:09:05] pantalla completa. Sí,
+[01:09:07] sí.
+[01:09:09] Bueno,
+[01:09:11] ahí estamos.
+[01:09:18] Bueno, ahora eh vamos a ver eh vamos a
+[01:09:22] empezar con los subanexos. Hay e
+[01:09:27] hay clases especiales con relación al
+[01:09:30] régimen tarifario, eh con relación a las
+[01:09:34] normas de calidad también. Pero bueno,
+[01:09:36] vamos a ver los aspectos más importantes
+[01:09:38] que tienen estos suanexos.
+[01:09:41] El, como había dicho en un principio, el
+[01:09:44] suanexo A, el suanexo B y el suanexo C
+[01:09:49] eh regulan todo lo que tiene que ver,
+[01:09:53] está relacionado con el régimen
+[01:09:55] tarifario.
+[01:09:57] También había dicho que el régimen
+[01:09:59] tarifario que está establecido en el
+[01:10:00] subanexo A del de los contratos de
+[01:10:04] concesión, que son las normas de
+[01:10:06] aplicación también del de los cuadros
+[01:10:07] tarifarios, coincide
+[01:10:11] con el primer periodo de gestión. Esa
+[01:10:13] sería su vigencia. Entonces, este su
+[01:10:16] anexo A se encuentra vigente. Este que
+[01:10:19] vamos a analizar es el que se encuentra
+[01:10:21] vigente desde el inicio de la concesión.
+[01:10:26] Este suane anexo, este régimen
+[01:10:28] tarifario, establece distintas o
+[01:10:30] reconoce distintas categorías tarifarias
+[01:10:32] que son las que todos conocemos, las T1,
+[01:10:37] que son las pequeñas demandas, que son
+[01:10:40] eh la son aquellas cuya demanda máxima
+[01:10:43] de potencia es inferior a 10 kW.
+[01:10:48] las TEDO2 conocidas como T2 o medianas
+[01:10:51] demandas, que son aquellas cuya demanda
+[01:10:54] máxima de potencia
+[01:10:56] este
+[01:10:58] es mayor o igual a 10 kW y menor de 50
+[01:11:01] kW. Ahora vamos a ver que en el caso de
+[01:11:04] las medianas demandas también es
+[01:11:06] independiente de la finalidad para no
+[01:11:09] interesa el consumo al que están
+[01:11:11] destinadas y sí el consumo a la que
+[01:11:14] están destinadas sí es importante para
+[01:11:17] las pequeñas demandas que ahora vamos a
+[01:11:19] ver. Este, ahora vamos a analizar
+[01:11:23] las T3, que son las grandes demandas
+[01:11:26] también son las eh las que tienen la
+[01:11:29] demanda máxima de potencia. también en
+[01:11:31] estas es independiente del del destino
+[01:11:34] del consumo es mayor o igual a 10 kW. Y
+[01:11:39] las pequeñas demandas rurales eh que son
+[01:11:42] aquellas cuya demanda máxima de potencia
+[01:11:45] es inferior a 10 kW, pero se encuentran
+[01:11:48] servidas eh en una línea de media
+[01:11:51] tensión y en ningún caso están eh
+[01:11:53] vinculadas a una red pública urbana o
+[01:11:56] suburbana de eh baja tensión. y la T5 y
+[01:12:00] la T6, que es el servicio de peaje, que
+[01:12:02] el distribuidor tiene la obligación de
+[01:12:04] eh permitir el acceso a su capacidad
+[01:12:07] remanente de transporte, que también
+[01:12:09] están reguladas, el eh la T5 para
+[01:12:14] grandes demandas y T6 para eh medianas
+[01:12:17] demandas.
+[01:12:19] Bueno, no pasa,
+[01:12:24] no sé, se tira.
+[01:12:25] A ver, perdona, no me deja pasar. Dejo
+[01:12:27] de compartir y volvemos a compartir a
+[01:12:30] ver qué pasa.
+[01:12:47] A ver,
+[01:12:49] ahí está.
+[01:12:51] Bueno, como decía, eh las T1, la
+[01:12:54] categoría T1, pequeñas demandas, sí
+[01:12:56] tienen consideración el destino para el
+[01:12:58] cual están destinadas y tienen distintos
+[01:13:01] encuadramientos. Esos encuadramientos
+[01:13:04] vamos a tener primero T1R,
+[01:13:07] eh T1 residencial, pequeñas demandas de
+[01:13:09] uso residencial donde fundamentalmente
+[01:13:12] se hace una descripción de los distintos
+[01:13:14] usos, pero esos usos siempre lo que
+[01:13:17] tenemos que tener en cuenta es que son
+[01:13:19] usos eh domésticos, digamos. Lo
+[01:13:22] principal en ese uso es el uso doméstico
+[01:13:26] y eso es lo que determina ese
+[01:13:29] encuadramiento tarifario.
+[01:13:32] Asimismo,
+[01:13:34] en la provincia de Buenos Aires se
+[01:13:36] reconoce dentro del de esta este
+[01:13:39] encuadramiento y esta categoría, el
+[01:13:42] suministro cuando es estacional,
+[01:13:46] que en otros regímenes no está previsto
+[01:13:48] y que es que eh son usuarios
+[01:13:51] residenciales
+[01:13:52] que sería la T1R eh estacional,
+[01:13:56] residencial estacional,
+[01:13:58] que son, si bien son usuarios
+[01:14:00] residenciales, pero es el El consumo
+[01:14:02] máximo de energía en un periodo de
+[01:14:05] facturación cualquiera del año anterior
+[01:14:10] no supere en al menos del 75% el
+[01:14:13] promedio de los consumos facturados en
+[01:14:15] ese año calendario. En ese caso se va a
+[01:14:18] aplicar esta este encuadramiento que es
+[01:14:21] el estacional, que generalmente se da en
+[01:14:24] aquellos usos, por ejemplo, que se dan
+[01:14:26] en una segunda casa, en casas que están
+[01:14:30] en en la costa, donde es no es habitual
+[01:14:33] el el uso, digamos, de de
+[01:14:38] este de la energía. Entonces, en estos
+[01:14:40] casos, si bien eh va a ser encuadrado
+[01:14:44] dentro de esta categoría que es
+[01:14:46] estacional, si el usuario prueba que ese
+[01:14:49] uso es residencial, pasa el distribuidor
+[01:14:53] deberá reencuadrarlo en tarifa uno
+[01:14:56] residencial.
+[01:14:59] Después tenemos también de acuerdo que
+[01:15:01] decimos que es fundamental las pequeñas
+[01:15:03] demandas, el destino para el cual se
+[01:15:05] utiliza ese consumo, las T1G, que son
+[01:15:09] las pequeñas demandas uso general que es
+[01:15:11] una categoría que podemos decir que es
+[01:15:12] residual, que todo lo que no ingresa en
+[01:15:15] las demás categorías ingresa en estas
+[01:15:17] categorías que principalmente
+[01:15:19] es para el uso comercial, para
+[01:15:22] instalaciones para el bombeo de agua y
+[01:15:25] líquidos cloacales, dependencias
+[01:15:27] administrativas as en todas las
+[01:15:29] reparticiones
+[01:15:31] eh asociaciones civiles y entidades de
+[01:15:33] bien público, que ahora vamos a ver que
+[01:15:36] que este es el encuadramiento, digamos,
+[01:15:40] propio de estas entidades, pero que al
+[01:15:42] tener un régimen especial eh se va a
+[01:15:45] facturar aquel este aquel
+[01:15:48] encuadramiento, aquella categoría que
+[01:15:50] sea más beneficiosa para esa entidad.
+[01:15:55] Y como decía recién, este, esta tarifa
+[01:15:58] se aplica a todas aquellos casos en que
+[01:16:00] no corresponda un encuadramiento
+[01:16:02] determinado, va a ir a la T1G, pequeñas
+[01:16:05] demandas uso general.
+[01:16:08] También en las pequeñas demandas uso
+[01:16:11] general también se se prevé el
+[01:16:14] suministro estacional eh que son eh que
+[01:16:19] se van a quedar encuadrados aquellos
+[01:16:20] usuarios del servicio general cuyo
+[01:16:22] consumo máximo de energía en un periodo
+[01:16:25] de facturación cualquiera del año
+[01:16:27] calendario anterior superen al menos en
+[01:16:29] vez de ser un 75% que es lo que
+[01:16:32] corresponde al residencial en un 50% el
+[01:16:35] promedio de los consumos en en ese año
+[01:16:37] calendario
+[01:16:39] y eh la tarifa 1 AP que es alumbrado
+[01:16:43] público que se va a aplicar al servicio
+[01:16:45] público de de alumbrado, señalamientos
+[01:16:48] luminosos, también eh para iluminación
+[01:16:51] de caminos, avenidas, calles,
+[01:16:54] alimentación de sistemas eléctricos de
+[01:16:55] señalización de tránsito, iluminación de
+[01:16:58] fuentes, monumentos
+[01:17:01] a nivel de propiedad, bueno, de los
+[01:17:05] regímenes estatales. nacional,
+[01:17:07] provincial y eh municipal
+[01:17:13] y eh las pequeñas demandas rurales que
+[01:17:16] también en el año 2017 eh se reconoció
+[01:17:20] porque las pequeñas demandas rurales en
+[01:17:23] el régimen este digamos inicial solo
+[01:17:26] teníamos eh las pequeñas eh demandas
+[01:17:29] rurales sin distinguir el uso eh que se
+[01:17:33] aplica, como dijimos, a todos aquellos
+[01:17:35] usuarios que eh cuya cuya demanda sea
+[01:17:37] este no exceda a los 10 kW, se
+[01:17:40] encuentren servidos a través de una
+[01:17:41] línea de media tensión en forma directa
+[01:17:44] a través de puestos de transformación en
+[01:17:47] media tensión a baja tensión
+[01:17:49] individuales o compartidos. Y a partir
+[01:17:52] del año 2017, eh producto de las
+[01:17:56] audiencias públicas que que fueron
+[01:17:58] realizadas y a propuesta del organismo
+[01:18:00] de control, se reconoció que también en
+[01:18:04] las pequeñas demandas rurales el uso
+[01:18:06] residencial y aparece este nuevo
+[01:18:09] encuadramiento no previsto eh, como
+[01:18:11] decía en el suanexoa
+[01:18:14] inicial.
+[01:18:17] y eh qué características tienen eh los
+[01:18:22] distintos eh
+[01:18:24] las distintas categorías tarifarias.
+[01:18:27] En el caso de las pequeñas demandas, el
+[01:18:30] suministro siempre es en baja tensión y
+[01:18:33] podemos decir que en estos casos estamos
+[01:18:35] frente eh a tarifas eh que los
+[01:18:39] denominamos o categorías monómicas. Es
+[01:18:42] decir, que en estas tarifas lo que se va
+[01:18:46] a a reconocer es un cargo fijo mensual y
+[01:18:51] un cargo variable va a ser por energía
+[01:18:54] consumida en kilw horas mes. Van a tener
+[01:18:58] distintos rangos de consumos y estos
+[01:19:00] rangos de consumos van a variar en el
+[01:19:02] costo también eh no solo de la del cargo
+[01:19:05] variable, sino también en el cargo fijo.
+[01:19:08] Y como decía, no se distingue entre
+[01:19:11] energía y potencia, es decir, el usuario
+[01:19:13] no va a contratar potencia.
+[01:19:18] Eh, en el caso de la tarifa residencial
+[01:19:22] también vamos a tener que eh producto de
+[01:19:26] eh los subsidios que son reconocidos eh
+[01:19:29] a nivel nacional, vamos a tener una
+[01:19:31] tarifa residencial eh con y sin
+[01:19:33] subsidios producto de el reconocimiento
+[01:19:36] del eh del régimen de subsidios
+[01:19:38] energéticos focalizados, el Recep,
+[01:19:42] siempre que se cumplan con los recaudos
+[01:19:45] establecidos en el decreto 943. Ahora
+[01:19:49] vamos a volver un poquito sobre esto. Y
+[01:19:51] también en la tarifa residencial va a
+[01:19:54] haber un reconocimiento de la tarifa
+[01:19:57] social provincial
+[01:19:59] que está cuyos recaudos y requisitos
+[01:20:02] están establecidos en la resolución 771
+[01:20:06] del 2024.
+[01:20:08] Desde el año 2019, esta tarifa social es
+[01:20:12] eh si bien se reconoce desde el año
+[01:20:15] 2016.
+[01:20:17] Eh, en el año 2019 está a cargo de la
+[01:20:20] provincia de de Buenos Aires este
+[01:20:22] reconocimiento y a diferencia de los
+[01:20:25] subsidios nacionales, la tarifa social
+[01:20:27] se otorga de manera automática también
+[01:20:31] eh en caso de cumplir requisitos y que
+[01:20:33] no sea es no exista ese reconocimiento,
+[01:20:36] digamos, automático, sí pueden eh
+[01:20:39] solicitarla eh probando el cumplimiento
+[01:20:41] de los recaudos establecidos en esta
+[01:20:43] resolución ante los C.
+[01:20:47] Y eh las características
+[01:20:50] eh de las medianas y las grandes
+[01:20:52] demandas son que en en las tarifas
+[01:20:55] contempla un cargo fijo,
+[01:20:58] un cargo por potencia en pico y y fuera
+[01:21:01] de pico en kilwatt mes y un cargo
+[01:21:04] variable por energía demandada en pico y
+[01:21:08] fuera de pico kilw hora mes en el caso
+[01:21:11] de las medianas demandas y en las
+[01:21:14] grandes demandas Esta distinción va a
+[01:21:16] ser en pico, en valle y el resto. Y como
+[01:21:20] decía, estas tarifas son binómicas y los
+[01:21:23] usuarios comprendidos en estas
+[01:21:24] categorías van a tener que contratar
+[01:21:27] potencia. van a contratar una capacidad
+[01:21:29] de suministro que está regulada
+[01:21:32] dentro del suanexo y cuya contratación
+[01:21:35] va a ser por 12 meses. Si en esos 12
+[01:21:39] meses utilizan menos esa potencia, que
+[01:21:41] va a ser la potencia contratada, este,
+[01:21:43] siempre se le va a facturar por esa
+[01:21:46] potencia, la potencia contratada. Si
+[01:21:48] exceden de esa potencia contratada, el
+[01:21:51] suanexo establece penalidades por exceso
+[01:21:55] de potencia.
+[01:21:59] Estas son los lineamientos generales.
+[01:22:02] Eh, va a haber una clase específica que
+[01:22:05] se van a a
+[01:22:08] cómo es, analizar y eh todo lo que tiene
+[01:22:11] que ver con las tarifas, cómo se
+[01:22:12] aplican, cuáles eh todo esto va a ser eh
+[01:22:17] producto de va a tener una clase
+[01:22:18] especial.
+[01:22:21] Y bueno, y como les decía recién también
+[01:22:24] este si bien no está contemplado en el
+[01:22:26] suanexo A, sí, en el transcurso de todos
+[01:22:29] los años que venimos transitando, si eh
+[01:22:33] la provincia de Buenos Aires este tiene
+[01:22:35] en cuenta, digamos, eh como habíamos
+[01:22:39] dicho, la ley dice que todos los
+[01:22:41] habitantes tienen que tener, digamos,
+[01:22:43] reconoce el acceso a la energía a todos
+[01:22:45] los habitantes de la provincia de Buenos
+[01:22:46] Aires, teniendo en cuenta precisamente
+[01:22:49] estas estas realidades económicas y
+[01:22:52] estas realidades sociales de los
+[01:22:54] habitantes de la provincia de Buenos
+[01:22:55] Aires, se empezaron a reconocer
+[01:22:58] regímenes especiales,
+[01:23:01] además de los regímenes especiales o del
+[01:23:04] régimen de subsidios a nivel nacional. A
+[01:23:07] nivel nacional sabemos que hasta hasta
+[01:23:11] el dictado del decreto 943 y que todo
+[01:23:14] estas y la resolución 13 de Secretaría
+[01:23:18] de Energía y se comienza a implementar
+[01:23:20] en en febrero del año 2026, teníamos el
+[01:23:25] régimen que de segmentación
+[01:23:28] eh que fue dejado de lado por este
+[01:23:31] régimen de subsidios energéticos
+[01:23:33] focalizados que fue establecido por el
+[01:23:36] este decreto.
+[01:23:38] eh 943
+[01:23:40] que se establecieron eh a nivel nacional
+[01:23:43] bonificaciones generales aplicar al
+[01:23:45] precio estacional de la electricidad.
+[01:23:49] Conforme todos los requisitos eh allí
+[01:23:52] establecidos. Se elimina, como decía
+[01:23:54] recién, eh todo el el criterio de
+[01:23:57] segmentación en los en los tres niveles
+[01:23:59] que tenía ese régimen y aplica solamente
+[01:24:03] a usuarios residenciales.
+[01:24:05] Y en este régimen se unifican eh todos
+[01:24:08] los beneficiarios en una sola categoría
+[01:24:10] de usuarios residenciales y eh se va a
+[01:24:13] reconocer
+[01:24:14] eh si tiene o no subsidios. Es es con y
+[01:24:19] sin subsidios. Y lo que sí se requiere
+[01:24:21] para reconocimiento de estos es su
+[01:24:23] inscripción a nivel nacional.
+[01:24:27] Y eh en este caso también en el régimen
+[01:24:30] de subsidios energéticos focalizados
+[01:24:32] también todo este régimen especial va a
+[01:24:34] tener una clase especial, pero eh lo que
+[01:24:37] tenemos que tener en cuenta es que va a
+[01:24:38] haber un consumo base a subsidiar.
+[01:24:42] Se establecen eh bloques de consumo de
+[01:24:44] energía que se fijan en 300 kW horas en
+[01:24:48] los meses para va a haber diferencias
+[01:24:50] entre los distintos meses en los meses
+[01:24:53] de enero, febrero, mayo, junio, julio,
+[01:24:55] agosto y diciembre de cada año y un
+[01:24:58] reconocimiento de 150 kW hh para los
+[01:25:02] meses de marzo, abril, septiembre,
+[01:25:04] octubre y noviembre de cada año.
+[01:25:08] lo que respecta a entidades de bien
+[01:25:10] público y clubes de barrio, ahí se
+[01:25:13] reconoce, se establece que estas
+[01:25:15] bonificaciones se aplica sin límites
+[01:25:18] de consumo, es decir, al al a la
+[01:25:21] totalidad del los volúmenes consumidos.
+[01:25:25] Y estas bonificaciones se establece una
+[01:25:27] bonificación para el año para está
+[01:25:31] establecida en el en el decreto del 50%
+[01:25:36] y una bonificación extraordinaria que eh
+[01:25:39] que puede llegar hasta el 25% en el año
+[01:25:42] 2026 y que fluctúa y va variando. Eh, la
+[01:25:46] de julio se estableció en 10,97 por
+[01:25:49] sobre el 50% que es reconocido.
+[01:25:53] Después a nivel nacional también tenemos
+[01:25:56] el reconocimiento y que la provincia de
+[01:25:58] Buenos Aires adhiere a la ley nacional,
+[01:26:01] a los electrodependientes por cuestiones
+[01:26:03] de salud, que se reconoce la la
+[01:26:06] gratuidad en la tarifa
+[01:26:08] y el beneficio va a alcanzar al titular
+[01:26:11] del servicio en estos casos o a uno de
+[01:26:13] sus convivientes. También en el régimen
+[01:26:15] de subsidios energéticos focalizados
+[01:26:19] no se requiere el cambio de titularidad
+[01:26:21] para el reconocimiento de los subsidios.
+[01:26:23] Eso también es un
+[01:26:26] es una característica.
+[01:26:28] Y en el caso de los electrodependientes
+[01:26:30] por cuestiones de salud, se deben
+[01:26:33] inscribir en el registro
+[01:26:35] electrodependiente por cuestiones de
+[01:26:36] salud en el Rex que está en el en el
+[01:26:40] ámbito del Ministerio de Salud de la
+[01:26:43] Nación.
+[01:26:45] También, como veníamos diciendo y que
+[01:26:47] establece la ley eh 11769,
+[01:26:51] el reconocimiento de una tarifa social a
+[01:26:54] nivel provincial, se encuentra nuestra
+[01:26:56] tarifa social provincial eh cuyos
+[01:26:59] requisitos o requisitos tanto de
+[01:27:02] inclusión como de exclusión están
+[01:27:03] establecidos en la resolución 771 del
+[01:27:07] 2024 y su modificatoria también. eh y eh
+[01:27:14] consiste en una bonificación de un monto
+[01:27:16] fijo mensual por bloque de consumo.
+[01:27:21] Eh, otro régimen especial es el de la
+[01:27:24] bonificación de víctimas de de violencia
+[01:27:26] de género, que es está establecido por
+[01:27:29] una resolución conjunta entre la
+[01:27:31] autoridad de aplicación, Ministerio de
+[01:27:33] Infraestructura y Servicios Públicos y
+[01:27:35] el Ministerio de las Mujeres. Este, esta
+[01:27:39] bonificación es una bonificación que te
+[01:27:41] otorga a, como decía, las víctimas de
+[01:27:44] violencia de género, una bonificación
+[01:27:46] del del 100% sobre los conceptos
+[01:27:49] eléctricos facturados
+[01:27:51] y eh se otorga en principio por 6 meses
+[01:27:56] y puede ser prorrogada. Eh, se deben
+[01:27:59] anotar, el listado es eh es este
+[01:28:03] comunicado y notificado a OCEBA a través
+[01:28:06] del Ministerio de las Mujeres y también
+[01:28:08] este nos notifica las prórrogas que se
+[01:28:11] van dando, así como altas y bajas.
+[01:28:15] Eh, las bonif también se reconoce eh una
+[01:28:20] bonificación a las asociaciones civiles
+[01:28:22] y clubes de barrio. Eh, la ley eh 15310
+[01:28:28] establece una una bonificación
+[01:28:30] equivalente al 30% de los conceptos
+[01:28:33] eléctricos. esta ley
+[01:28:36] eh incluye, digamos, a las asociaciones
+[01:28:38] civiles porque los clubes de barrio ya
+[01:28:40] tenían esta bonificación del 30% a nivel
+[01:28:43] provincial, pero eso lo que nosotros
+[01:28:47] conocíamos como tarifa cero pasó a ser
+[01:28:49] una bonificación de el del 30%
+[01:28:54] y esto se tramita ante ante Oceva,
+[01:28:57] digamos, este todo lo que es eh este
+[01:29:01] régimen y este reconocimiento.
+[01:29:04] El régimen de bomberos voluntarios
+[01:29:07] también es reconocido eh y establece eh
+[01:29:11] la gratuidad eh del servicio. Este
+[01:29:14] régimen eh es reconocido por la ley
+[01:29:17] 15422.
+[01:29:19] Eh hay una parte de este de este
+[01:29:21] reconocimiento que es reconocido a nivel
+[01:29:25] nacional y una parte a nivel eh
+[01:29:27] provincial.
+[01:29:29] Y eh como decía hace un ratito, eh las
+[01:29:33] entidades de bien público que tienen un
+[01:29:35] régimen especial eh que se le va a
+[01:29:38] aplicar aquella tarifa que sea más
+[01:29:40] beneficiosa para esa entidad y va eh
+[01:29:44] entre cuáles son las dos tarifas que se
+[01:29:47] comparan es la tarifa uno residencial y
+[01:29:50] la tarifa uno servicio general que es la
+[01:29:53] propia de esta entidad.
+[01:29:55] La tarifa que mejor, digamos, que sea
+[01:29:57] más beneficiosa es la tarifa que se debe
+[01:30:00] aplicar. Todo el régimen de aplicación a
+[01:30:02] estas entidades de bien público está
+[01:30:04] establecido en la resolución Oceva 213
+[01:30:07] del año 2016.
+[01:30:16] ¿Me
+[01:30:29] escuchan
+[01:30:31] ahí? Sí, parece [carraspeo]
+[01:30:33] se había cortado recién.
+[01:30:37] Sí, me parecía.
+[01:30:40] Eh,
+[01:30:41] ahí estamos.
+[01:30:43] Sí, se escuchame.
+[01:30:45] Bien.
+[01:30:47] Bueno, había, no sé si había explicado
+[01:30:50] lo que son los regímenes especiales, eh,
+[01:30:54] todas estas cuestiones que atañen al
+[01:30:56] régimen tarifario, que están previstas
+[01:30:58] en el suexo A. No sé si esa parte se
+[01:31:00] escuchó o no.
+[01:31:02] Sí, sí.
+[01:31:05] Cuando comenzaba ahora con el su anexo
+[01:31:08] B.
+[01:31:10] que como decía el el A, el B y el C este
+[01:31:14] regulan toda eh regulan toda la lo
+[01:31:17] atinente a eh las tarifas.
+[01:31:22] El subanexo E establece cómo se calcula
+[01:31:24] ese cuadro tarifario. Como habíamos
+[01:31:26] dicho, las tarifas tienen
+[01:31:34] Me escuchan. No,
+[01:31:36] no,
+[01:31:37] no, no se
+[01:31:41] esto. Vamos a apagar el imagen
+[01:31:45] acá.
+[01:31:50] Esperen que vamos a conectar otra red.
+[01:31:54] Ahí, ahí. Vamos a sacar el video quizá.
+[01:32:01] Ah,
+[01:32:02] ahí.
+[01:32:04] Ahora volvemos a compartir.
+[01:32:08] Ahí me escuchan.
+[01:32:11] Sí, sí, ahora sí.
+[01:32:11] Sí, sí [risas] se escucha.
+[01:32:13] Sí, que se corta a veces, ¿no? No es que
+[01:32:15] no se escuch.
+[01:32:16] Bueno, sacamos la imagen a ver si
+[01:32:21] a ver si ahora tenemos más suerte.
+[01:32:30] Ahí estamos, Pato. Bueno, ahora sí me
+[01:32:32] escuchan.
+[01:32:36] escucha.
+[01:32:37] Sí, se escucha.
+[01:32:38] Bueno, eh entonces como les decía, e
+[01:32:43] el suanexo B, o sea, todo el suanexo A,
+[01:32:46] el B y el C, este regula eh y reconoce,
+[01:32:51] digamos, todo lo atinente a a las
+[01:32:54] tarifas.
+[01:32:56] Y el suanexo B establece cómo se calcula
+[01:32:59] este cuadro tarifario. Como habíamos
+[01:33:01] explicado, eh la tarifa tiene distintos
+[01:33:04] componentes. El precio, los precios de
+[01:33:07] la de la energía que están fijados a
+[01:33:11] nivel nacional, este por la Secretaría
+[01:33:14] de Energía que establece los precios eh
+[01:33:17] estacionales, el transporte en alta
+[01:33:19] tensión y distribución troncal que es
+[01:33:22] reconocido en esa tarifa. el valor
+[01:33:26] agregado de distribución a nivel
+[01:33:28] provincial junto con eh la expansión del
+[01:33:31] transporte que se eh reconoce y se
+[01:33:34] calcula a través del agregado eh
+[01:33:36] tarifario
+[01:33:39] en sus distintos componentes. Bueno, el
+[01:33:42] suanexo B establece ese esas pautas. El
+[01:33:46] cálculo es realizado por el Oceva y es
+[01:33:49] aprobado por la autoridad de aplicación,
+[01:33:51] que es eh quien tiene la facultad
+[01:33:53] exclusiva de fijar esas tarifas.
+[01:33:57] Eh,
+[01:33:59] actualmente digamos el el su anexo B
+[01:34:02] establece que eh ese cálculo va a
+[01:34:04] reflejar, como decía recién, todas las
+[01:34:07] variaciones que se establecen a nivel
+[01:34:09] nacional de los precios de la potencia
+[01:34:11] de energía en el mercado eléctrico
+[01:34:12] mayorista, en el transporte de alta
+[01:34:14] tensión y distribución truscal y las
+[01:34:17] actualizaciones
+[01:34:18] eh de los valores del costo propio de
+[01:34:21] distribución y de la expansión del
+[01:34:24] transporte.
+[01:34:26] Eh, se establece,
+[01:34:28] ¿qué pasa? Eh, el suanexo B establece
+[01:34:33] un una periodicidad para realizar esas
+[01:34:37] esas esos traslados, como explicaba
+[01:34:40] recién este
+[01:34:42] eh Guillermina,
+[01:34:44] eh en la provincia de Buenos Aires nos
+[01:34:48] encontramos en una etapa de transición
+[01:34:50] tarifaria.
+[01:34:53] Entonces, e en una etapa de transición
+[01:34:56] tarifaria que fue determinada por los
+[01:34:58] decretos 439 y los artículos 54 y 55 de
+[01:35:02] la Ley de Presupuestos este provincial,
+[01:35:06] en esta etapa que va a estar vigente
+[01:35:08] hasta la implementación del primer
+[01:35:10] cuadro tarifario de la próxima revisión
+[01:35:12] eh tarifaria integral, se van realizando
+[01:35:16] una actualización transitoria del valor
+[01:35:19] agregado de distribución
+[01:35:21] en cuando lo fije la autoridad de
+[01:35:24] aplicación.
+[01:35:26] ¿Qué pasa? El cuadro tarifario que
+[01:35:30] vigente y el que establece el que hoy
+[01:35:33] tenemos que tener en cuenta, el subanexo
+[01:35:35] C es el que se estableció en el año 2017
+[01:35:38] con la revisión tarifaria integral de
+[01:35:41] ese momento. ese esa revisión tarifaria
+[01:35:45] preveía este
+[01:35:48] eh como es ajustes en ese valor agregado
+[01:35:51] de distribución de manera anual y
+[01:35:55] también reconocía, bueno, el cuando se
+[01:35:58] el los precios, tanto los precios de la
+[01:36:00] energía como del transporte en la
+[01:36:02] oportunidad que fije la autoridad
+[01:36:04] nacional que eso se realiza. Pero al
+[01:36:08] estar en una etapa de transición
+[01:36:09] tarifaria, es anualidad, digamos, esos
+[01:36:12] ajustes están suspendidos, pero sí la
+[01:36:16] autoridad de aplicación e
+[01:36:19] instruye al organismo de control
+[01:36:23] eh el recálculo de los cuadros
+[01:36:25] tarifarios con aumentos que eh o
+[01:36:28] actualizaciones que van dando en ese
+[01:36:30] valor agregado de distribución, que
+[01:36:32] puede ser mensual o cuando ellos lo
+[01:36:34] fijen y en función de esos ajustes que
+[01:36:39] determina la autoridad de aplicación,
+[01:36:41] este, se van aprobando las tarifas que
+[01:36:44] se encuentran vigentes.
+[01:36:47] Y lo que tenemos que tener en cuenta es
+[01:36:49] que el cuadro inicial que establece el
+[01:36:51] subanexo C y que este que fue el inicial
+[01:36:55] del periodo de concesión este hoy
+[01:36:58] digamos ese no está vigente. Tenemos que
+[01:37:00] tener en cuenta que el vigente es el de
+[01:37:02] la el del año 2017 que estableció un
+[01:37:06] cuadro tarifario con la esa revisión
+[01:37:09] tarifaria integral y sobre la base de
+[01:37:11] ese es que se vienen haciendo las
+[01:37:13] actualización dentro de esta etapa de
+[01:37:16] transición tarifaria.
+[01:37:20] Bueno,
+[01:37:21] eh ahora bien, dijimos que eh los
+[01:37:25] distribuidores este que venimos
+[01:37:28] diciendo, digamos, como recién
+[01:37:30] Guillermina hablaba de cuáles son las
+[01:37:32] obligaciones de los distribuidores y una
+[01:37:34] de las obligaciones de los
+[01:37:35] distribuidores eh creemos que una de las
+[01:37:38] más importantes es cumplir con el
+[01:37:41] régimen de eh calidad, establecer deben
+[01:37:44] prestar el servicio público de acuerdo a
+[01:37:47] ciertos niveles niveles de calidad
+[01:37:49] mínimos que deben ser reconocidos y
+[01:37:52] cumplidos por los distribuidores y ese
+[01:37:56] incumplimiento va a generar sanciones.
+[01:37:58] Todo este régimen de normas de calidad
+[01:38:01] están previstos en el subanexo D, que
+[01:38:04] como decía Guillermina, va a haber una
+[01:38:05] clase especial que está establecida para
+[01:38:07] el día 14 de julio. Van a explicar,
+[01:38:12] digamos, este régimen. Pero lo que hoy
+[01:38:16] digamos no vamos a llevar es que en este
+[01:38:19] régimen de calidad se establece un
+[01:38:22] régimen de calidad en base a
+[01:38:24] indicadores. ¿Qué cuáles son esos
+[01:38:27] indicadores? son indicadores de eh
+[01:38:31] calidad de producto suministrados, que
+[01:38:34] lo que lo que se va a tener en cuenta
+[01:38:36] son eh los niveles de tensión y las
+[01:38:38] perturbaciones que pudieran que se
+[01:38:40] pudieran afectar a a ese servicio
+[01:38:42] público. El servicio técnico prestado
+[01:38:46] que va a ser eh va a estar relacionado
+[01:38:49] con todo lo que tiene que ver con los
+[01:38:52] cortes de suministros, o sea, con la
+[01:38:54] continuidad del servicio. Sabemos que el
+[01:38:56] servicio público, como habíamos dicho,
+[01:38:59] tiene que ser no puede ser interrumpido
+[01:39:03] por decisión del distribuidor,
+[01:39:06] pero eh precisamente ese indicador van a
+[01:39:10] controlar tanto e los cortes como la
+[01:39:13] duración de esos cortes. Hay dos
+[01:39:15] indicadores, el SID y el SIFI, que van a
+[01:39:18] controlar estas cuestiones que y la
+[01:39:22] calidad del servicio comercial también
+[01:39:25] se controla a través de este régimen de
+[01:39:27] calidad. ¿Y qué vamos a evaluar? Se van
+[01:39:30] a evaluar la atención comercial, se van
+[01:39:32] a evaluar eh los errores que pudieran
+[01:39:34] haber en la facturación, los plazos de
+[01:39:37] respuestas en conexiones cuando se pide
+[01:39:39] un suministro, cuando se haya suspendido
+[01:39:42] el suministro y y tenga que ser
+[01:39:44] rehabilitado,
+[01:39:46] cuál es el los plazos para los reclamos,
+[01:39:49] eh si se cumplen o no esos reclamos y el
+[01:39:53] incumplimiento de estos parámetros de
+[01:39:55] calidad van a generar sanciones.
+[01:39:59] sanciones que son pecunarias, que son de
+[01:40:01] naturaleza contractual
+[01:40:03] y que digamos cuál es el fin de esta de
+[01:40:07] estas penalidades que llamamos nosotros
+[01:40:10] es que están orientadas a que el
+[01:40:13] distribuidor realice inversiones para
+[01:40:16] evitar eh incumplimientos en estos eh
+[01:40:19] indicadores de calidad, ¿no es cierto? O
+[01:40:21] sea, esa penalidad debería ser eh en la
+[01:40:25] evaluación que hace el distribuidor. El
+[01:40:27] distribuidor va a decir, "O invierto o
+[01:40:29] pago la penalidad." Entonces, debería
+[01:40:31] ser orientadas a que prefiera invertir y
+[01:40:34] realizar esas inversiones para poder
+[01:40:37] cumplir con esto y no eh eh
+[01:40:41] generar, digamos, este una penalidad.
+[01:40:45] Y el destino de estas penalizaciones,
+[01:40:48] eh, digamos como principio va a ir a
+[01:40:52] esos usuarios, a los usuarios que
+[01:40:54] estuvieran afectados por eh por el
+[01:40:57] desvío en estos indicadores de calidad.
+[01:41:01] Ahora bien, eh cómo el el es el
+[01:41:05] organismo el que hace este control de
+[01:41:07] estos niveles de calidad, cómo lo
+[01:41:09] realiza a través de información. Como
+[01:41:12] también decía Guillermine, que venimos
+[01:41:13] diciendo, el deber de información es
+[01:41:15] fundamental
+[01:41:16] eh por parte de los distribuidores de
+[01:41:19] dar cumplimiento a ese deber de
+[01:41:21] información y el
+[01:41:25] esa información
+[01:41:27] lo va a dar eh tienen que eh los
+[01:41:30] distribuidores semestralmente
+[01:41:32] este régimen se da con un control
+[01:41:34] sistemático, un control semestral
+[01:41:37] que se va dando. hay una resolución que
+[01:41:39] es la 151 del año 2011, donde se
+[01:41:43] establece cómo tienen que presentar esa
+[01:41:45] información, cómo se van a a a controlar
+[01:41:50] estas estos aspectos del servicio
+[01:41:53] público. Y eh luego de los 6 meses
+[01:41:57] tienen 45 días, deben se van a
+[01:42:00] determinar para ese cumplimiento. Los
+[01:42:02] semestres comienzan en diciembre y
+[01:42:04] terminan el 30 de mayo, uno y el otro
+[01:42:07] empieza el primero de junio y termina el
+[01:42:08] 30 de noviembre,
+[01:42:12] tanto eh a nivel de producto, servicio
+[01:42:15] técnico como eh calidad comercial. Eh,
+[01:42:18] anteriormente con antes de la revisión
+[01:42:21] tarifaria del 2017, los el servicio
+[01:42:24] comercial controlaba trimestralmente,
+[01:42:26] pero para que mantengan el mismo el
+[01:42:29] mismo régimen a partir del 2017, el
+[01:42:31] régimen de calidad comercial también se
+[01:42:34] controla semestralmente.
+[01:42:38] Ahora, ese incumplimiento del deber de
+[01:42:42] información también, no solo esta
+[01:42:45] obligación que tienen los distribuidores
+[01:42:47] de informar, ese incumpliento del deber
+[01:42:48] de información va a dar lugar también y
+[01:42:52] además como todas las obligaciones que
+[01:42:55] eh del marco regulatorio también a
+[01:42:57] sanciones complementarias.
+[01:42:59] Estas sanciones complementarias van a
+[01:43:02] tener como destino el fortalecimiento
+[01:43:05] del servicio público.
+[01:43:07] Y estas sanciones complementarias,
+[01:43:09] digamos, es el ejercicio del poder de
+[01:43:12] policía que tiene el Estado y a
+[01:43:15] diferencia del régimen de penalizaciones
+[01:43:19] requieren de un procedimiento para su
+[01:43:22] aplicación. Este procedimiento también
+[01:43:25] este requieren de la instrucción de un
+[01:43:27] sumario donde se van a evaluar eh se van
+[01:43:30] a determinar los incumplimientos
+[01:43:33] este y el y se va a determinar si eh
+[01:43:38] realmente se ha se ha incumplido o no.
+[01:43:41] Se va a dar traslado a los
+[01:43:43] distribuidores para que realicen sus
+[01:43:45] descargos. se van a hacer las
+[01:43:46] evaluaciones y podrá terminar ese
+[01:43:48] sumario en la aplicación o no de esta
+[01:43:50] sanción complementaria, que todo esto va
+[01:43:52] a ser explicado en la siguiente clase. Y
+[01:43:55] otra cuestión que también va a ser
+[01:43:57] explicada, pero que que
+[01:44:01] sería bueno ahora también exponer es que
+[01:44:05] producto de esta transición tarifaria
+[01:44:09] como consecuencia también del digamos
+[01:44:12] que estamos transitando la revisión
+[01:44:14] tarifaria, el proceso de revisión
+[01:44:15] tarifaria integral, este
+[01:44:19] el año pasado este se dictó la
+[01:44:22] resolución 921 del año 25,
+[01:44:26] que con respecto a las sanciones, tanto
+[01:44:29] las penalizaciones como las sanciones
+[01:44:31] complementarias, estableció que eh iban
+[01:44:35] a estar eh que iban a estar eh
+[01:44:39] registradas en una cuenta contable. Se
+[01:44:42] posterga el cumplimiento de las
+[01:44:45] penalizaciones
+[01:44:47] hasta eh
+[01:44:50] hasta la revisión hasta que se apruebe
+[01:44:52] la revisión tarifaria integral.
+[01:44:55] Se prevé también una actualización de
+[01:44:58] esas penalizaciones de acuerdo a las
+[01:45:00] variaciones que eh hay en el costo de la
+[01:45:03] energía no suministrada. Y con respecto
+[01:45:06] a las sanciones complementarias,
+[01:45:09] la ejecución de esas sanciones
+[01:45:11] complementarias y el pago también queda
+[01:45:13] suspendido
+[01:45:16] hasta que se apruebe la revisión
+[01:45:18] tarifaria integral y también se prevé eh
+[01:45:22] un régimen de actualización de estas
+[01:45:25] sanciones complementarias que se
+[01:45:26] apliquen, este, que estas sí van a ser
+[01:45:30] ajustadas a través de las variaciones
+[01:45:32] que pudiera tener el valor valor
+[01:45:34] agregado de distribución dentro de esta
+[01:45:36] etapa.
+[01:45:38] Si bien eh no se van a hacer efectivas,
+[01:45:41] como decíamos, se postergan o se
+[01:45:43] suspenden el cumplimiento de estas eh de
+[01:45:47] estas sanciones, eso no implica que el
+[01:45:50] organismo no deje de aplicar tanto las
+[01:45:53] penalizaciones como las sanciones
+[01:45:56] complementarias y que las mismas tienen
+[01:45:58] que estar registradas en una cuenta
+[01:46:01] contable que podrá ser auditada. tanto
+[01:46:04] por la autoridad de aplicación como por
+[01:46:07] el organismo eh de control.
+[01:46:10] Bueno, esto en líneas generales es lo
+[01:46:13] que se establece en el su anexo de en
+[01:46:16] estas normas de calidad que como decía,
+[01:46:18] va a tener eh una clase especial donde
+[01:46:21] va a ser desarrollada inextenso. Y
+[01:46:24] bueno, ahora va a continuar Guillermina
+[01:46:26] con el subanexo e que establece todo el
+[01:46:29] reglamento de suministro y conexión,
+[01:46:30] derechos y obligaciones del distribuidor
+[01:46:32] y también de los usuarios.
+[01:46:36] Gracias, Pato.
+[01:46:40] Bueno, e como veíamos eh en el contrato
+[01:46:46] estaban determinadas todas las
+[01:46:47] obligaciones concesionario concedente,
+[01:46:50] ¿no? Independientemente provincial o
+[01:46:52] municipal. Ahora vamos a ir a la
+[01:46:54] contracara, digamos, el distribuidor
+[01:46:56] frente al usuario.
+[01:46:59] El suexo E, como les decía Pato,
+[01:47:01] establece y aprueba el reglamento de
+[01:47:03] suministro y conexión. El suanexo indica
+[01:47:07] a qué aplica. Aplica a los usuarios
+[01:47:09] finales, aquellos servicios de peaje y a
+[01:47:12] los prestadores del servicio público en
+[01:47:14] lo que les resulte. La excepción a la
+[01:47:17] aplicabilidad de este suanexo está dada
+[01:47:20] al T3, T5 y T6 que tengan contratos
+[01:47:22] especiales donde vamos a aplicar o las
+[01:47:25] distribuidoras tienen la obligación de
+[01:47:26] aplicar y los usuarios también el el
+[01:47:29] contenido de ese contrato especial y
+[01:47:31] supletoriamente en lo no allí previsto,
+[01:47:34] obviamente les va a aplicar el suanexo
+[01:47:36] E, pero rige primeramente ese contrato
+[01:47:39] especial.
+[01:47:40] El subanexo E establece qué tipos de
+[01:47:43] titulares del suministro podemos
+[01:47:45] encontrar y hace una tipificación y una
+[01:47:48] denominación para cada uno de ellos. e
+[01:47:51] le llama titular a cualquier persona
+[01:47:53] humana o jurídica que tenga posesión o
+[01:47:56] tenencia legal del bien, es decir, que
+[01:47:58] puedan acreditar mediante un título este
+[01:48:04] efectivamente la titularidad o la
+[01:48:06] posesión del bien.
+[01:48:08] El titular precario, por oposición al
+[01:48:10] anterior, es aquel que no puede
+[01:48:11] acreditar, digamos, la titularidad, un
+[01:48:13] contrato de alquiler,
+[01:48:15] escritura de propiedad del bien, sino
+[01:48:18] que solamente pueden acreditar la
+[01:48:19] posesión y se hace a través de un
+[01:48:21] certificado de RENABAP o una
+[01:48:23] constatación de domicilio.
+[01:48:27] El titular provisorio es aquel que va a
+[01:48:30] ejecutar alguna obra. Entonces, la
+[01:48:33] titularidad del suministro se le otorga
+[01:48:35] al propietario y o puede dársele también
+[01:48:38] a quien ejerza la dirección de esa obra
+[01:48:41] y establece su anexo que ambos van a ser
+[01:48:43] responsables solidarios.
+[01:48:47] El titular transitorio es aquel que
+[01:48:49] tiene un requerimiento del suministro
+[01:48:52] que no es permanente, es decir, para una
+[01:48:55] actividad puntual, como puede ser una
+[01:48:57] exposición, una feria, un circo. Eh, y
+[01:49:01] en ese caso va a tener que cuando va a
+[01:49:03] solicitar el suministro va a tener que
+[01:49:05] acreditar la habilitación para el
+[01:49:07] funcionamiento de esa actividad para la
+[01:49:09] cual requiere el suministro.
+[01:49:12] Eh, el suanexo E también establece eh
+[01:49:15] cómo se efectiviza la el cambio de
+[01:49:17] titularidad
+[01:49:19] e indica que titular y usuario son
+[01:49:22] palabras equivalentes.
+[01:49:24] Eh, el titular registrado y el usuario
+[01:49:27] no titular van a ser siempre
+[01:49:29] solidariamente responsables ante la
+[01:49:31] titularidad del suministro.
+[01:49:34] En cuanto a las condiciones de
+[01:49:35] habilitación, el el subanexo establece
+[01:49:39] que el usuario tiene la obligación de
+[01:49:41] presentar eh una serie de datos en un
+[01:49:44] formulario de solicitud que el
+[01:49:46] distribuidor le va a hacer completar y
+[01:49:48] ese formulario tiene que ser completado
+[01:49:50] con carácter de declaración jurada, es
+[01:49:52] decir, está obligado a no falsear
+[01:49:54] ninguno de los datos que allí este
+[01:49:58] suministre y en su caso le caberán las
+[01:50:01] responsabilidades este a ese tipo de
+[01:50:03] falsedades. declaración jurada o bien va
+[01:50:06] a completar y suscribir un contrato de
+[01:50:08] potencia, como le explicaba Pato, eh
+[01:50:11] para determinados categorías tarifarias.
+[01:50:14] Para poder habilitar un suministro se
+[01:50:16] requiere que eh el usuario no tenga
+[01:50:20] deudas pendientes a su nombre. También
+[01:50:22] si las tuviera las puede cancelar a este
+[01:50:25] momento. Tiene que hacer un depósito en
+[01:50:28] garantía y abonar un derecho de conexión
+[01:50:30] por esa titularidad de suministro.
+[01:50:34] En caso de requerirse servicio para un
+[01:50:36] uso industrial o comercial, van a tener
+[01:50:39] que acreditar la habilitación municipal
+[01:50:42] o el inicio de esa tramitación ante el
+[01:50:44] municipio, ante la dependencia municipal
+[01:50:47] correspondiente.
+[01:50:49] En el caso de desarrollos de espacios
+[01:50:51] colectivos requiere una previa
+[01:50:53] factibilidad técnica económica de la
+[01:50:56] distribuidora para el abastecimiento del
+[01:50:58] suministro.
+[01:51:00] Eh, respecto del centro de
+[01:51:02] transformación o maniobra, para una toma
+[01:51:06] primaria, el titular del suministro está
+[01:51:09] obligado a poner a disposición un
+[01:51:11] espacio gratuito
+[01:51:13] donde eh se va a instalar esa centro de
+[01:51:17] transformación. Eh, ahí los otros días
+[01:51:20] preguntaban si eh opera como una especie
+[01:51:23] de servidumbre, ¿no? En realidad eh
+[01:51:26] sigue siendo del usuario y el usuario
+[01:51:28] está obligado a disponer de ese espacio,
+[01:51:30] a entregárselo a la distribuidora
+[01:51:32] precisamente para para que pueda
+[01:51:34] instalar el centro de transformación.
+[01:51:38] En cuanto al punto de suministro, eh el
+[01:51:41] reglamento
+[01:51:43] establece eh la posibilidad de instalar
+[01:51:46] o de tener un solo punto de suministro
+[01:51:49] por parcela. Sí. Eh,
+[01:51:53] si hubiera condiciones técnicas o
+[01:51:54] razones técnicas que fueran aprobadas
+[01:51:56] por el Oceva, se puede habilitar un
+[01:51:58] nuevo punto de suministro. Esto,
+[01:52:01] recordémoslo,
+[01:52:03] porque hay una excepción cuando veamos
+[01:52:04] la clase de de generación distribuida
+[01:52:08] este comunitaria específicamente, donde
+[01:52:10] se habilita y y funciona como una
+[01:52:12] excepción a este punto eh de su anexo e
+[01:52:17] en cuanto a
+[01:52:20] a las tensiones, eh el subanexo
+[01:52:23] establece que cada categoría tiene que
+[01:52:25] utilizar la tensión del suministro
+[01:52:27] precisamente conforme a la categoría a
+[01:52:29] la cual accede de el usuario.
+[01:52:32] Respecto de las protecciones, e se les
+[01:52:36] exige a los distribuidores que instalen
+[01:52:39] determinado tipo de equipamiento técnico
+[01:52:42] para que actúe, digamos, como protección
+[01:52:44] respecto de su instalación interna o
+[01:52:47] también de los efectos que puede causar
+[01:52:48] en la red este y dañar el servicio o la
+[01:52:52] red de distribución o el efecto respecto
+[01:52:55] de los usuarios lindantes.
+[01:52:58] Este, así que pueden están determinados
+[01:53:01] en el subanexo cuáles serían las
+[01:53:03] protecciones que debe contener el
+[01:53:04] sumino.
+[01:53:07] Como hablábamos hoy, eh acá se contienen
+[01:53:10] eh las obligaciones eh del titular del
+[01:53:13] suministro.
+[01:53:15] Eh, como decíamos antes, tienen la
+[01:53:17] obligación de completar el formulario de
+[01:53:19] solicitud cuando van a a requerirlo ante
+[01:53:21] la distribuidora y lo deben completar
+[01:53:23] con carácter de declaración jurada.
+[01:53:26] tienen la obligación de abonar las
+[01:53:28] facturas en el plazo al vencimiento que
+[01:53:31] le fije la distribuidora.
+[01:53:33] En caso de que no lo pague el
+[01:53:34] vencimiento, les aplica la mora
+[01:53:37] automática
+[01:53:38] e y las penalizaciones y o las
+[01:53:41] penalidades por pago. ¿Están escuchando?
+[01:53:47] Perfecto. Sí, se escucha.
+[01:53:49] Bárbaro.
+[01:53:53] En cuanto al derecho que le asiste al
+[01:53:56] titular, más allá de la obligación de
+[01:53:58] pagar esa factura, tiene la el derecho
+[01:54:00] de recibirlo con una anticipación de 4
+[01:54:02] días hábiles.
+[01:54:04] Eh, esa factura le va a llegar a su
+[01:54:06] elección por medios digitales o en
+[01:54:09] factura papel. siempre es a criterio o a
+[01:54:12] elección del usuario.
+[01:54:15] También le debe ser notificado de un
+[01:54:18] modo fiaciente el caso de que incurra en
+[01:54:22] en situación que le puedan suspender o
+[01:54:25] cortar el suministro
+[01:54:28] eh como otras obligaciones del titular y
+[01:54:31] como decíamos antes, instalar los
+[01:54:33] dispositivos de protección o maniobra en
+[01:54:35] la instalación eh propia, en la
+[01:54:37] instalación interna que hagan a la
+[01:54:39] característica o tipo de su categoría
+[01:54:42] tarifaria, de su suministro. tiene la
+[01:54:45] obligación de ejecutar las instalaciones
+[01:54:47] internas a su exclusivo cargo y
+[01:54:49] cumpliendo la normativa municipal de la
+[01:54:52] Asociación Electrotécnica Argentina, las
+[01:54:55] que impone el fabricante y o las reglas
+[01:54:57] del buen arte eh que resultan aplicables
+[01:55:00] a este tipo de de instalación. También
+[01:55:03] el usuario, el titular del suministro es
+[01:55:06] responsable por los daños que ocasione.
+[01:55:11] También tiene la obligación de denunciar
+[01:55:13] el equipamiento de autogeneración que
+[01:55:15] tiene instalado o utilizar elementos
+[01:55:17] adicionales adecuados para la operación
+[01:55:20] del mismo. Esto, fíjense que apareció en
+[01:55:23] el subanexo e con anterioridad a lo que
+[01:55:26] es la reglamentación de la generación
+[01:55:28] distribuida domiciliaria individual y
+[01:55:30] comunitaria. Sí.
+[01:55:32] Después vamos a verlo. Eso eh
+[01:55:34] puntualmente en esa clase. También tiene
+[01:55:36] la obligación de mantener las
+[01:55:38] instalaciones propias en perfecto estado
+[01:55:40] de conservación.
+[01:55:42] Eh, y en caso de que así no lo haga, eh,
+[01:55:45] tiene la obligación, digamos, de que
+[01:55:48] genere un daño a la red o a terceros,
+[01:55:50] está obligado a abonar el costo de esa
+[01:55:52] reparación o de la reposición.
+[01:55:55] tiene la obligación de comunicar al
+[01:55:57] distribuidor si advierte alguna anomalía
+[01:56:00] entre la conexión y el el seccionamiento
+[01:56:04] y el tablero que le pertenece al
+[01:56:06] usuario. Tiene la obligación de no
+[01:56:08] manipular, de no reparar, de no remover,
+[01:56:11] de no modificar
+[01:56:13] nada que tenga que ver con las
+[01:56:14] instalaciones por sí o por intermedio de
+[01:56:16] terceros en todo lo que hace al eh al a
+[01:56:20] lo que está en el Pilar cometida y que
+[01:56:21] le corresponde a la distribuidora.
+[01:56:25] tiene la obligación de garantizar eh
+[01:56:30] el acceso. Perdonen, no sé qué hice.
+[01:56:35] Se salió de pantalla completa, ¿no? Ahí
+[01:56:38] tiene la obligación de
+[01:56:41] de garantizar el acceso a los medidores,
+[01:56:45] a los equipos de medición.
+[01:56:47] Eh, caso contrario, el distribuidor lo
+[01:56:49] puede lo puede intimar. Esta puede ser
+[01:56:53] una causal para suspender el la
+[01:56:56] provisión del suministro.
+[01:56:58] Eh, el distribuidor le puede exigir que
+[01:57:01] las mismas estén en un lugar accesible y
+[01:57:04] esta situación en tanto y en cuanto el
+[01:57:06] usuario no responda a esta exigencia, no
+[01:57:10] de respuesta a la intimación que le haga
+[01:57:12] el distribuidor, el distribuidor estará
+[01:57:14] habilitado a estimar el consumo porque
+[01:57:17] no puede acceder al equipo de medición.
+[01:57:19] Y en este caso esta estimación no le va
+[01:57:22] a a ser pasible de las aplicaciones de
+[01:57:26] las penalizaciones de su anexo de eh
+[01:57:29] porque es, digamos, la responsabilidad
+[01:57:31] del usuario de habilitar el acceso al
+[01:57:33] medidor. Después el titular de
+[01:57:35] suministro tiene la obligación de usar
+[01:57:37] la potencia que ha contratado conforme
+[01:57:40] las condiciones técnicas que combino en
+[01:57:42] ese contrato que suscribió con el
+[01:57:44] distribuidor.
+[01:57:46] Está prohibido eh suministrar el
+[01:57:50] servicio a terceros, cederlo total o
+[01:57:53] parcialmente en forma gratuita o
+[01:57:55] onerosa. Esto tiene que ver y también lo
+[01:57:57] vamos a ver eh
+[01:58:00] con lo que es hoy la movilidad
+[01:58:02] eléctrica. Si uno cargara, digamos, su
+[01:58:04] vehículo en su hogar, digamos, no estoy
+[01:58:06] suministrándolo a terceros, pero por
+[01:58:08] ejemplo, una estación de servicio que
+[01:58:11] tiene un cargador le estaría haciendo
+[01:58:14] una especie de subdistribución a un
+[01:58:16] tercero. Eh, cuestión que por los
+[01:58:18] contratos está prohibido. Esta cuestión
+[01:58:20] también estamos analizando en el seno de
+[01:58:22] la RTI a efectos de, bueno, nada, es
+[01:58:25] algo que sobreviene
+[01:58:27] eh, y que hay que regularlo
+[01:58:31] también, digamos, un poquito con todo.
+[01:58:32] Vicente Serra, tenemos un paper este
+[01:58:36] subido a la plataforma de esa clase, no
+[01:58:38] me acuerdo si es la la cinco o la seis,
+[01:58:42] eh, pero bueno, ahí lo van a encontrar.
+[01:58:44] Y también Pablo San Miguel en la próxima
+[01:58:47] clase del 14 también al final hace un
+[01:58:50] cierre sobre este tema que es muy
+[01:58:52] interesante. Así que bueno, lo vamos a
+[01:58:55] volver a leer y después al final del o
+[01:58:57] las últimas clases también tenemos una
+[01:58:58] de movilidad eléctrica, así que es un
+[01:59:00] tema este que vamos a volver sobre ello.
+[01:59:05] Otra de las obligaciones del titular que
+[01:59:07] se establecen es que el titular debe
+[01:59:10] requerir la cancelación de la
+[01:59:11] titularidad en caso de que haya otro que
+[01:59:14] está utilizando el servicio de
+[01:59:15] suministro y en su caso, si no lo hace
+[01:59:18] puede dar lugar al cese de suministro o
+[01:59:22] y en su caso es solidariamente
+[01:59:24] responsable con quien está utilizando el
+[01:59:27] servicio y no ha cambiado la
+[01:59:29] titularidad.
+[01:59:31] Otra de las obligaciones es que no eh no
+[01:59:34] debe provocar perturbaciones en las
+[01:59:36] instalaciones o en las de otros eh
+[01:59:40] usuarios.
+[01:59:43] tiene la obligación de cumplir con
+[01:59:44] normas de la IEC para los equipos de
+[01:59:47] autogeneración que instale en su
+[01:59:49] domicilio.
+[01:59:51] Eh, después la el subanexo establece que
+[01:59:54] debe abstenerse y cometer todo tipo de
+[01:59:56] transgresión
+[01:59:58] que impliquen un perjuicio real o
+[02:00:00] potencial para el distribuidor y define
+[02:00:03] qué se entiende por transgresión.
+[02:00:04] Utiliza esta palabra.
+[02:00:07] Las transgresiones pueden ser el
+[02:00:08] suministro a terceros cuando está
+[02:00:10] prohibido, la violación o alteración de
+[02:00:12] los precintos como para violar o
+[02:00:14] violentar eh el funcionamiento del
+[02:00:18] medidor, cualquier falta o
+[02:00:20] incumplimiento de los deberes que están
+[02:00:22] asignados por este subanexo.
+[02:00:25] Y en ese caso, la distribuidora una vez
+[02:00:27] que los detecta puede aplicar un cargo
+[02:00:30] equivalente hasta 20 veces el valor
+[02:00:33] vigente para el cargo fijo de la
+[02:00:35] categoría de este usuario.
+[02:00:39] Otra de las obligaciones que establece
+[02:00:40] el subanexo es la necesidad de que haga
+[02:00:44] un uso racional y consciente de la
+[02:00:46] electricidad,
+[02:00:47] procurando dentro de las posibilidades
+[02:00:50] utilizar un equipamiento eléctrico
+[02:00:52] considerado de los de mayor eficiencia o
+[02:00:53] de los mejor de los de eficiencia A. En
+[02:00:57] definitiva, el subanexo no establece qué
+[02:00:59] qué eficiencia es la que se requiere,
+[02:01:02] pero bueno, cuando uno va a adquirir un
+[02:01:04] un electrodoméstico, digamos, ese
+[02:01:05] etiquetado ese que nos permite advertir
+[02:01:08] que vamos a tener un consumo más
+[02:01:10] eficiente o menor cantidad de consumo.
+[02:01:15] En cuanto a los derechos que le asisten
+[02:01:16] al titular del suministro
+[02:01:19] y la contracara de la obligación de la
+[02:01:21] distribuidora de prestar el servicio
+[02:01:22] público, el usuario tiene el derecho a
+[02:01:25] recibirlo conforme a los niveles de
+[02:01:26] calidad que están establecidos en el
+[02:01:29] subanexo
+[02:01:31] de eh tiene el derecho de controlar las
+[02:01:35] lecturas a su medidor, tiene el derecho
+[02:01:38] a exigir el control sobre el
+[02:01:40] funcionamiento del medidor, le puede
+[02:01:42] pedir a la distribuidora cuando advierte
+[02:01:44] oferta que tiene medición de consumo que
+[02:01:46] no se condice con su utilización de del
+[02:01:50] servicio,
+[02:01:51] eh que haga un contraste initu o en su
+[02:01:56] caso si es a más menos 5% de
+[02:01:59] funcionamiento no termina de cerrar
+[02:02:01] respecto de la de la facturación o del
+[02:02:04] funcionamiento del del medidor, pueden
+[02:02:07] retirar el medidor y llevarlo al
+[02:02:09] laboratorio en caso y así lo establece
+[02:02:11] el subanexo, en caso que se detectar con
+[02:02:14] el contraste in situaste en el
+[02:02:17] laboratorio, que este más menos C5 este
+[02:02:20] es en favor de digamos que funciona
+[02:02:22] adecuadamente,
+[02:02:24] que tiene un esa tolerancia digamos que
+[02:02:26] está por debajo de la tolerancia mínima
+[02:02:28] de funcionamiento. Obviamente el costo y
+[02:02:30] cargo de esa de esa de ese control o ese
+[02:02:34] contraste o o verificación de
+[02:02:36] funcionamiento del medidor será con
+[02:02:38] cargo al usuario. Si efectivamente el
+[02:02:41] medidor funciona mal por encima de ese
+[02:02:44] límite de tolerancia, estará a cargo de
+[02:02:46] la distribuidora correr con el costo de
+[02:02:49] hacer la inspección, de hacer el
+[02:02:52] contraste, de retirarlo, de reinstalarlo
+[02:02:55] luego de de retirado este y de su
+[02:02:58] análisis en laboratorio.
+[02:03:02] El titular del suministro tiene el
+[02:03:04] derecho a formular reclamos y quejas
+[02:03:07] ante el distribuidor y el distribuidor
+[02:03:09] está obligado a responderlo.
+[02:03:14] Sí, el que haya levantado la manito que
+[02:03:16] vemos por acá.
+[02:03:18] Alejandro,
+[02:03:18] yo te quería consultar, Guillermina,
+[02:03:20] viste, tuvimos un caso, estamos teniendo
+[02:03:22] casos que la gente no cambia la
+[02:03:24] titularidad porque fallece o por x
+[02:03:26] motivo y y nos pasa que cuando queremos
+[02:03:30] cobrar la deuda, eh, la persona que está
+[02:03:33] viviendo obviamente dice, "No, yo no
+[02:03:35] sabía o o lo que sea, van a los Eva y
+[02:03:38] Lova como que eh le da la derecha al a
+[02:03:42] la persona como diciendo, "Che, no tené
+[02:03:44] contato de alquiler." Hubo una persona
+[02:03:45] habitando, los hijos saben que hubo
+[02:03:47] alguien viviendo, hubo un consumo y
+[02:03:50] nosotros nunca nos llegó, por ejemplo,
+[02:03:52] que la persona falleció y como que queda
+[02:03:55] la deuda nada porque la persona ya está
+[02:03:57] fallecida, ¿viste? Entonces, bueno, el
+[02:04:00] tema es ese, como yo como distribuidora,
+[02:04:02] o sea, a mí los usuarios me tienen que
+[02:04:04] yo no soy adivino. En esos casos, ¿cómo
+[02:04:06] se puede acceder? Porque, o sea, queda
+[02:04:09] la deuda, la persona falleció y hay
+[02:04:12] personas viviendo por ahí porque no hay
+[02:04:13] un contrato alquiler de por medio, puede
+[02:04:15] un amigo vivir ahí y el consumo y
+[02:04:17] después no se quieren hacer cargo de la
+[02:04:19] deuda. ¿Cómo comprobas vos que hubo otra
+[02:04:22] persona viviendo? ¿Cómo haces vos como
+[02:04:24] distribuidora en esos casos?
+[02:04:28] Ahí tenés el tenés que, o sea, cuando
+[02:04:31] vos sabés que el titular que
+[02:04:33] supuestamente seguramente que es lo que
+[02:04:35] hacen, porque el cuando el titular
+[02:04:38] digamos
+[02:04:39] te enteras que falleció, tenés que
+[02:04:41] intimarlo a
+[02:04:43] al cambio
+[02:04:43] al cambio de titularidad y podés podrías
+[02:04:47] dejar o suspender o cortar el servicio.
+[02:04:49] Y eso es lo que prevé el contrato en
+[02:04:53] caso que este
+[02:04:54] sí, el tema que yo me me
+[02:04:58] noticias rápidamente o
+[02:05:00] Claro, yo me entero después de capaz que
+[02:05:02] un año, che, hace un año que esta
+[02:05:04] persona falleció, por ahí hubo una
+[02:05:06] persona viviendo en el medio, después
+[02:05:09] vino otra que vino a hacer las cosas
+[02:05:10] bien y en el medio hubo alguien viviendo
+[02:05:12] que nunca apagó la luz y bueno y echa la
+[02:05:14] deuda no va a cobrarsela, o sea, no se
+[02:05:16] la puedo poner a nadie, por ejemplo,
+[02:05:18] [carraspeo] un caso así.
+[02:05:19] Sí, también. Bueno, eh un poco eso es
+[02:05:23] obligación del distribuidor, no entiendo
+[02:05:26] la
+[02:05:28] Sí, digamos, como está establecido en la
+[02:05:30] norma,
+[02:05:32] digamos el usuario también tiene la
+[02:05:34] obligación de cambiar la titularidad.
+[02:05:36] Claro, no ha pasado caso que hemos ido a
+[02:05:38] suspender el suministro. Vos suspend el
+[02:05:40] suministro, queda un suministro
+[02:05:41] suspendido en un en un en un país donde
+[02:05:45] somos todas personas buenas, quedaría el
+[02:05:46] suministro supervido, suspendido por
+[02:05:48] vida, pero va una persona, se
+[02:05:50] autorreconecta y el medor sigue
+[02:05:52] corriendo y y después cuando vos le le
+[02:05:56] querés cobrar porque hubo un consumo de
+[02:05:57] energía, te dicen, "No, los te dice,
+[02:05:59] "No, la culpa es tuya porque dejaste el
+[02:06:01] medidor." Sí, pero yo lo dejé
+[02:06:02] suspendido. No, no es que
+[02:06:04] claro vi una otra persona, se
+[02:06:06] automanipuló, escribió consumiendo la
+[02:06:08] energía. Está bien, vos lo debería.
+[02:06:10] Lo que pasa que ahí a los ahí la
+[02:06:12] obligación del distribuidor en 15 días
+[02:06:14] si no regularizó la deuda, si no cambió
+[02:06:16] la titularidad, ahora lo vamos a ver
+[02:06:17] cómo lo establece el suanexo, hay que
+[02:06:19] retirar medidor.
+[02:06:20] Claro,
+[02:06:21] son 15 días, digamos, y después de
+[02:06:22] retirar el medidor, ya está, ¿eh? O
+[02:06:25] sevirtieras que se reconecta también.
+[02:06:27] Sí, ahí es responsabilidad,
+[02:06:28] ahí es responsabilidad de la
+[02:06:29] distribuidora. La otra sí te entiendo
+[02:06:32] perfectamente y la verdad es como ser
+[02:06:34] adivino, decir, bueno, falleció y cómo
+[02:06:35] me entero este en ese caso, más allá de
+[02:06:40] por ahí lo que haya respondido los y lo
+[02:06:43] que está establecido acá,
+[02:06:44] que ver el caso particular. Eh, deberían
+[02:06:47] ser responsables este solidariamente el
+[02:06:51] titular. Voy a decir, "Bueno, falleció.
+[02:06:52] Voy a ir a verificar, no sé, presentarme
+[02:06:55] en la sucesión para recuperar
+[02:06:58] pesía.
+[02:07:00] También es engorroso para la
+[02:07:01] distribuidora poder perseguir a un
+[02:07:03] titular que falleció porque salvo,
+[02:07:06] digamos, en una sucesión, si no como lo
+[02:07:08] recuperas,
+[02:07:09] ¿no? Sí, vale.
+[02:07:10] No, no, no tenés manera que el único que
+[02:07:13] sería solidario con el que ocupó y no
+[02:07:15] hubo cambio de titularidad es el es el
+[02:07:17] titular anterior, digamos.
+[02:07:20] Entonces ahí es el único lugar donde
+[02:07:21] puedes ir a recuperar lo adeudado
+[02:07:24] y si no hay sucesión perdiste.
+[02:07:28] Pero bueno, eh
+[02:07:32] sí, hay que ver,
+[02:07:33] hay que ver el caso concreto
+[02:07:34] cada uno. Sí. Eh, cualquier cosa después
+[02:07:38] nos decís y y lo buscábamos. Sí, lo que
+[02:07:40] me preocupa a mí el tema de los cambios
+[02:07:42] de titoridad, que por ahí se alquilan
+[02:07:44] casas sin contrato y alguien vive en el
+[02:07:46] medio y después deja una deuda porque
+[02:07:49] generalmente la dejan un mes o dos meses
+[02:07:51] antes de irse. Es acá es la dejan la
+[02:07:53] deuda antes de dos meses antes de irse.
+[02:07:55] Cuando vos después vas y te enteras que,
+[02:07:56] "Che, no, la persona esta falleció hace
+[02:07:58] dos años atrás, vivió una persona en el
+[02:08:00] medio sin un contrato, nadie se presentó
+[02:08:02] y dos meses antes de irse porque ya se
+[02:08:04] iba de la casa, te deja una deuda o te o
+[02:08:08] el tipo fue especulando, dejándote deuda
+[02:08:10] y vos no se la puede reclamar porque no
+[02:08:11] hubo un contrato, no hubo nada en el
+[02:08:13] medio. Es un tema. Sí,
+[02:08:17] sí, son situaciones situaciones de hecho
+[02:08:19] que se complican.
+[02:08:21] A ver,
+[02:08:22] discúlpame. Ahí no es donde entraría en
+[02:08:25] juego justamente si la titularidad que
+[02:08:27] se otorgó fue precaria porque en es un
+[02:08:29] contrato sin sellar o sin certificar o
+[02:08:32] un certificado de domicilio, no entraría
+[02:08:34] en juego el depósito en garantía que
+[02:08:36] justamente en un futuro te sirve para
+[02:08:38] poder cubrir la deuda que quedó en ese
+[02:08:40] suministro.
+[02:08:42] Pero él está diciendo que no hay un
+[02:08:44] cambio de de titular.
+[02:08:46] Ah, el usuario nunca se Claro.
+[02:08:48] CL. No, no, porque ahí sí es distinto
+[02:08:50] porque ahí si si es usuario con
+[02:08:53] titularidad precaria, digamos, va a ser
+[02:08:55] ese usuario el responsable frente a la a
+[02:08:57] la distribuidora y va a perseguir a ese
+[02:08:59] usuario. Él está diciendo
+[02:09:02] en su momento también hubo toda una
+[02:09:04] campaña para este relevamiento que es
+[02:09:06] desde Oceva para los cambios de
+[02:09:09] titularidad o para que releve el
+[02:09:10] distribuidor este tipo de
+[02:09:12] y para gozar de los de los de los de las
+[02:09:15] bonificaciones.
+[02:09:17] Capaz queamientos reordenaron un poco,
+[02:09:20] quizá
+[02:09:21] por ahí lo que considero que por ahí en
+[02:09:23] ese caso debería, a lo que voy yo,
+[02:09:25] cuando una persona fallece, calculo que
+[02:09:27] alguien a nivel estatal presenta un
+[02:09:29] certificado de función, sabe que una
+[02:09:31] persona fallecida en provincia, en algún
+[02:09:32] lado debe haber y eso creo que ese es
+[02:09:35] ese cómo diría yo, como un ese listado
+[02:09:39] de personas fallecidas para mí debería
+[02:09:41] ir hacia la distribuidora, un ejemplo,
+[02:09:44] decir, "Che, tenés todas estas personas
+[02:09:46] fallecidas, fíjate. Como entonces yo con
+[02:09:48] eso puedo intimar a los titulares, che,
+[02:09:50] esta persona ya no vive, intimámelo,
+[02:09:52] tené un plazo, no sé de un mes todas las
+[02:09:55] veces que yo te voy informando este
+[02:09:56] listado. Entonces por ahí lo llevaríamos
+[02:09:58] más cortito entre todos porque lo que
+[02:10:00] uno lamenta no es que, bueno, perdí
+[02:10:02] plata, lo que sea, que bueno, esto es
+[02:10:03] energía, consumo energía, la energía la
+[02:10:06] termina pagando. en este caso pagar el
+[02:10:08] distribuidor y no reía ser así porque
+[02:10:10] hubo una persona que uso de esa energía
+[02:10:14] y creo que bueno, todosamos por el por
+[02:10:16] lo mismo.
+[02:10:17] El certificado de función te lo te lo
+[02:10:19] otorga el registro de las personas de la
+[02:10:21] provincia de Buenos Aires.
+[02:10:23] Hay cruce con ANC. Con eso sí,
+[02:10:25] sí, hay cruces con con ANC. Este, en el
+[02:10:29] CEF, por ejemplo, todo eso sale cruzado,
+[02:10:32] con lo cual,
+[02:10:33] perdón, cuando vienen cruzados lo de
+[02:10:35] Tarifa Social y todo el CP, viene todos
+[02:10:37] fallecidos, aparece.
+[02:10:38] Sí, claro, ahí se les informace, ahí se
+[02:10:41] les informa. Eh, por eso digo, en el CF
+[02:10:43] ya es una buena herramienta, decir,
+[02:10:45] bueno, si ahí ya te aparece fallecido
+[02:10:47] con el cruce que directamente se da,
+[02:10:49] digamos, también
+[02:10:50] poris, por tarifa social, si fuera
+[02:10:53] beneficiario de tarifa social, si no lo
+[02:10:54] es, aplica el CEF y ahí ya están todos
+[02:10:57] estos cruces. Eh, con lo cual ese podría
+[02:11:01] ser un dato como para decir, bueno,
+[02:11:03] reviso ese padrón porque me puede servir
+[02:11:05] para detectar estas situaciones y no
+[02:11:07] enterarte un año después. No sé,
+[02:11:09] digamos, con qué rapidez aparece el
+[02:11:12] fallecido en ese padrón, digamos, si es
+[02:11:14] al mes siguiente o tarda un poco más.
+[02:11:17] Eso por ahí te lo debo, pero por ahí
+[02:11:20] podría ser una buena herramienta.
+[02:11:22] Bueno, está bien.
+[02:11:24] No sé, eh, nada, es algo para también
+[02:11:27] para repensar, para pensar entre todos,
+[02:11:29] ¿no? No, no es que tengamos la [risas]
+[02:11:32] solución mágica. Este,
+[02:11:36] entiendo, sí, que es un problema. Pero
+[02:11:40] bueno, los residen vienen los los que
+[02:11:43] están fallecidos.
+[02:11:44] Sí, ahí sí habrá que ver un poco ese
+[02:11:47] padrón y
+[02:11:50] a ver si si podés mejorar eh tu base de
+[02:11:54] usuarios,
+[02:11:55] pero sí lo tomamos
+[02:11:56] y ahí sí lo tomamos. Este vamos a mirar
+[02:11:59] después pasarnos si querés el expediente
+[02:12:00] o el reclamo que tenía Anto Sebas. Así
+[02:12:02] también lo miramos
+[02:12:04] e
+[02:12:07] para para evaluar también acciones a a
+[02:12:10] hacer o o regulaciones o incluir nuevas
+[02:12:13] condiciones ahora que estamos revisando
+[02:12:14] precisamente en el marco de la RTI eh
+[02:12:17] los suanexos, ¿no?
+[02:12:21] Excelente.
+[02:12:23] Bueno, seguimos.
+[02:12:27] Eh,
+[02:12:31] también tienen como derecho eh
+[02:12:38] en caso, bueno, formular los reclamos
+[02:12:40] ante el distribuidor, este lo debe
+[02:12:42] responder en forma rápida, tanto los
+[02:12:44] reclamos personales efectuados en forma
+[02:12:47] telefónica o por correspondencia ese
+[02:12:49] suanexo, no sé si se da el caso en algún
+[02:12:51] momento, pero bueno. y dentro de los
+[02:12:53] plazos que están establecidos para que
+[02:12:55] el distribuidor este le otorgue la
+[02:12:57] respuesta. Otro de los derechos que
+[02:12:59] tiene el titular es que ante la falta de
+[02:13:01] respuesta o la respuesta que le da la
+[02:13:03] distribuidora no le satisface acudir en
+[02:13:05] segunda instancia aceva para que atienda
+[02:13:09] este su reclamo. El subanexo también
+[02:13:11] establece eh la modalidad de pago
+[02:13:14] anticipado o el sistema de facturación
+[02:13:16] prepaga y ahí voy a hacer este un
+[02:13:19] entrecomillado. Algunas distribuidoras
+[02:13:21] municipales lo han implementado
+[02:13:23] a su modo, a su forma, porque esto no ha
+[02:13:26] sido este reglamentado a la fecha, no
+[02:13:29] hay ningún régimen vigente,
+[02:13:32] eh cosa que sí vamos a hacer o vamos a
+[02:13:34] establecer dentro de la del esta etapa
+[02:13:38] de de RTI para que en la próximo
+[02:13:40] quinqueenño exista un régimen específico
+[02:13:43] de esta facturación.
+[02:13:45] Eh, obviamente en algunos casos los
+[02:13:47] usuarios lo piden y las distribuidoras
+[02:13:49] municipales ante la ausencia de
+[02:13:50] regulación lo han implementado y cada
+[02:13:52] una lo implementado como mejor le
+[02:13:54] pareció para poder darle la respuesta al
+[02:13:57] usuario que lo requería.
+[02:14:00] Eh, también tiene derecho a que se le
+[02:14:02] resarzan los daños sobre las
+[02:14:04] instalaciones o los artefactos de uso
+[02:14:06] doméstico, excepto aquellos que eh los
+[02:14:09] daños fueran provocados por fallas en su
+[02:14:11] propia instalación o a su propia
+[02:14:14] responsabilidad, digamos. También tienen
+[02:14:17] el derecho a recibir una compensación
+[02:14:18] económica o este reparación en un plazo
+[02:14:22] mayor, no mayor a 30 días.
+[02:14:24] Eh, y en caso contrario le aplica al
+[02:14:26] distribuidor una multa del 10% del monto
+[02:14:28] establecido por cada día de mora
+[02:14:32] en la devolución.
+[02:14:35] El suanexo como contracara a las
+[02:14:37] derechos del usuario establece las
+[02:14:39] obligaciones del distribuidor. Como
+[02:14:42] venimos diciendo, el primero y esencial
+[02:14:44] de una concesión de servicio público es
+[02:14:46] la obligación de prestar el servicio y
+[02:14:48] de mantenerlo con la calidad mínima
+[02:14:51] indicada en el su anexo de tiene la
+[02:14:53] obligación de promover campañas de
+[02:14:56] concientización,
+[02:14:57] de difusión masiva, entrega de material,
+[02:15:01] eh sean medios digitales o en sus
+[02:15:03] propias oficinas comerciales que
+[02:15:06] informen a los usuarios para fomentar el
+[02:15:09] uso racional y eficiente de la energía.
+[02:15:12] tienen la obligación de facturar la
+[02:15:15] prestación del servicio público en base
+[02:15:17] a lecturas reales
+[02:15:20] con sustento en el cuadro tarifario que
+[02:15:22] aplica para ese periodo. Tienen la
+[02:15:25] obligación de respetar la periodicidad
+[02:15:27] prefijada para la facturación y tienen
+[02:15:30] la obligación de utilizar una factura
+[02:15:33] conforme el diseño que está
+[02:15:35] preestablecido por OCEVA.
+[02:15:38] El distribuidor también tiene que
+[02:15:40] informar los lugares y horarios de
+[02:15:41] atención al público de sus oficinas.
+[02:15:44] tiene que entregar la factura papel o
+[02:15:46] factura digital luego de ofrecer la
+[02:15:49] alternativa y elección del usuario. Como
+[02:15:50] decíamos antes, tienen la obligación de
+[02:15:53] establecer este sistema de facturación
+[02:15:56] prepaga con esta condición de que no es
+[02:15:58] algo que todavía esté reglamentado.
+[02:16:01] tiene la obligación de reintegrar los
+[02:16:03] aportes eh importes, perdón, e de esta
+[02:16:08] del
+[02:16:10] conización de más de más del 25%,
+[02:16:13] perdón, eh que es la tasa establecida en
+[02:16:16] el suexo. Tiene la obligación de
+[02:16:18] determinar una tarjeta de identificación
+[02:16:21] para que su personal
+[02:16:23] visita un usuario en su domicilio pueda
+[02:16:27] exhibir.
+[02:16:29] tiene la obligación de establecer
+[02:16:30] cartelería o contenido en la página web
+[02:16:33] que tenga toda la información que el
+[02:16:35] usuario requiere respecto de la
+[02:16:37] prestación de su servicio público.
+[02:16:39] También tiene que tener en su página web
+[02:16:41] un link que le lleve al usuario
+[02:16:43] directamente a acceder a la página de
+[02:16:46] los
+[02:16:48] tiene la obligación de atender los
+[02:16:50] reclamos, de poner a disposición en las
+[02:16:53] oficinas comerciales el libro de quejas.
+[02:16:55] tiene que tener locales apropiados para
+[02:16:57] la atención al público con accesibilidad
+[02:17:00] para discapacitados.
+[02:17:02] Tiene la obligación de mantener un
+[02:17:04] servicio de llamadas telefónicas para
+[02:17:06] reclamos por falta de suministro
+[02:17:09] y emergencias y separadamente una línea
+[02:17:13] alternativa ante emergencias y destinada
+[02:17:17] únicamente a usuarios
+[02:17:18] electrodependientes por condiciones de
+[02:17:20] salud.
+[02:17:23] En cuanto a los derechos del
+[02:17:24] distribuidor, le asiste el derecho al
+[02:17:26] recupero de los montos por aplicación
+[02:17:28] indebida de tarifas ante la inexactitud
+[02:17:33] de los datos que brindó el titular
+[02:17:35] cuando completó el formulario. esto que
+[02:17:37] decíamos de la declaración jurada, si
+[02:17:41] los datos cargados allí son erróneos o
+[02:17:44] inexactos, le aplica el le asiste el
+[02:17:47] derecho al distribuidor eh de aplicar
+[02:17:50] los montos por un plazo no mayor un año
+[02:17:53] con más los intereses y una penalidad
+[02:17:55] eh del 20%. Obviamente va a tener que
+[02:17:58] otorgarle cuotas que no impliquen una un
+[02:18:02] 20% de la factura mensual.
+[02:18:05] Eh, ante las facturas impagas le aplica
+[02:18:08] la mora o el interés previsto en el
+[02:18:10] artículo 11 del suanexo E. Esta falta de
+[02:18:15] pago habilita la suspensión del
+[02:18:17] suministro, obviamente previa
+[02:18:19] comunicación fiaciente al usuario.
+[02:18:24] Él tiene el derecho a requerir un
+[02:18:25] depósito de garantía para que para
+[02:18:27] quienes tengan más de una suspensión en
+[02:18:29] el plazo de 12 meses. en caso del
+[02:18:32] titular precario, titular provisorio o
+[02:18:34] titular transitorio, no
+[02:18:38] se requiere o no se puede exigir el
+[02:18:40] depósito de garantía para los
+[02:18:41] beneficiarios de la tarifa social o
+[02:18:43] electrodependientes.
+[02:18:48] Ahí el subanexo establece que aquellos
+[02:18:51] que tengan un depósito en garantía, que
+[02:18:54] tengan la habilitación para retirarlo
+[02:18:56] una vez que terminan de ser titulares,
+[02:18:59] se va a listar y se va a colgar de la
+[02:19:01] web de la distribuidora ese listado como
+[02:19:04] para que cada usuario vaya y este
+[02:19:07] recupere ese depósito de garantía que ha
+[02:19:11] eh dejado e y en caso que el usuario no
+[02:19:15] lo retire en un plazo determinado, que
+[02:19:18] creo que eran 12 meses, eh la
+[02:19:21] distribuidora puede utilizarlo con fines
+[02:19:24] sociales conforme una previa
+[02:19:25] autorización que le otorgue los SEBA
+[02:19:28] respecto de esos de esos fondos.
+[02:19:31] En cuanto a la inspección y verificación
+[02:19:33] del medidor, se establece el
+[02:19:34] procedimiento.
+[02:19:37] Ahí el distribuidor puede eh obviamente
+[02:19:40] acceder al al a la a la medición o al
+[02:19:45] sistema de medición instalado.
+[02:19:48] puede realizar un acta de comprobación
+[02:19:49] notarial o con autoridad policial a
+[02:19:51] efectos de determinar si hubo hurto o si
+[02:19:53] hubo manipulación,
+[02:19:56] extracción del precinto, cualquier
+[02:19:58] condición que implique este alguna
+[02:20:01] situación que sea eh desfavorable para
+[02:20:05] el distribuidor.
+[02:20:06] Eh, otro de los derechos del
+[02:20:08] distribuidor es la autolectura que se da
+[02:20:11] para las demandas rurales, para los
+[02:20:13] usuarios con demandas rurales. En este
+[02:20:15] caso puede acordar la autolectura.
+[02:20:18] Fíjense que la regla era la medición
+[02:20:20] real de los consumos para poder
+[02:20:23] facturarlo. En este caso se puede
+[02:20:25] acordar la autolectura de los estados
+[02:20:26] del medidor y una única lectura al año
+[02:20:30] debe ser real. En este caso hay un
+[02:20:33] procedimiento donde el usuario hace la
+[02:20:35] autolectura del medidor, le comunica al
+[02:20:37] distribuidor cuál es la lectura para que
+[02:20:40] el distribuidor pueda facturarle el
+[02:20:42] suministro.
+[02:20:44] Después eh se definen y detallan
+[02:20:48] distintos tipos de irregularidades de
+[02:20:50] carácter intencional por parte del
+[02:20:52] titular de suministro,
+[02:20:55] que en caso adviertan en las
+[02:20:58] instalaciones y que alteren o impidan
+[02:21:01] parcialmente la registración, le eh dan
+[02:21:04] derecho al distribuidor a a
+[02:21:06] materializarlas precisamente para poder
+[02:21:08] facturar esos montos eh que con esas
+[02:21:13] irregularidades le impiden facturar.
+[02:21:16] Ahí vamos con los derechos del
+[02:21:17] distribuidor en cuanto a la desconexión
+[02:21:20] del suministro, el corte de suministro o
+[02:21:23] el cese de suministro. La desconexión
+[02:21:25] del suministro, el subanexo E establece
+[02:21:27] que no se produce el retiro del medidor
+[02:21:30] ni de las instalaciones
+[02:21:32] eh de medición. La excepción que se
+[02:21:35] produce en este caso es con los
+[02:21:38] electrodependientes por cuestiones de
+[02:21:39] salud o en caso de disconformidad entre
+[02:21:42] el monto facturado y el abonado, siempre
+[02:21:44] que hubieran abonado el equivalente al
+[02:21:47] consumo facturado en el mes anterior.
+[02:21:50] No aplica tampoco en el caso de los
+[02:21:52] servicios esenciales donde tiene su
+[02:21:54] procedimiento especial y en el caso de
+[02:21:56] la desconexión del suministro se factura
+[02:21:59] el cargo fijo hasta tanto el usuario
+[02:22:01] resuelva la situación. o le da derecho
+[02:22:04] al distribuidor a proceder al corte.
+[02:22:09] El subanexo establece que esta
+[02:22:10] desconexión del suministro procede sin
+[02:22:12] intervención de los SEBA en los
+[02:22:14] siguientes casos. cuando hay falta de
+[02:22:16] pago de la del suministro o de la
+[02:22:20] factura complementaria por recuperación
+[02:22:22] de la demanda de los consumos que no
+[02:22:23] habían sido registrados, por
+[02:22:25] incumplimiento en el uso de la potencia
+[02:22:27] o si se advierte un suministro de
+[02:22:30] terceros previo, obviamente a intimarlo
+[02:22:34] al usuario a normalizar la anomalía
+[02:22:37] cuando hay razones de riesgo o eventos
+[02:22:40] de inseguridad en la vía pública
+[02:22:43] cuando hay impedimentos para acceder al
+[02:22:46] equipo de medición. ¿Se acuerdan que
+[02:22:48] tenía la obligación el usuario de
+[02:22:50] ponerlos en un lugar que sea accesible
+[02:22:52] para el distribuidor o cuando hay se
+[02:22:55] pueda el distribuidor pueda comprobar la
+[02:22:57] conexión de equipos de autogeneración
+[02:22:59] que no están declarados y que inyectenía
+[02:23:02] a la red de distribución. En esos casos
+[02:23:04] procede la desconexión sin ningún tipo
+[02:23:06] de intervención de Oceva. Directamente
+[02:23:08] la distribuidora tiene el derecho a
+[02:23:10] desconectar. previa notificación,
+[02:23:12] obviamente, al usuario.
+[02:23:15] ¿Qué sucede eh con el corte del
+[02:23:19] servicio? El corte del servicio opera
+[02:23:20] los 15 días de suspendido.
+[02:23:23] Esto que decimos que se advierte que no
+[02:23:25] hay, por ejemplo, el cambio de
+[02:23:27] titularidad no se produjo, le notifiqué
+[02:23:31] que voy a desconectar. A los 15 días no
+[02:23:33] resuelve, no cambia la titularidad. La
+[02:23:36] distribuidora está habilitado al corte
+[02:23:38] del servicio. Esto implica así el retiro
+[02:23:41] del medidor y del equipo de medición.
+[02:23:45] En este caso, la distribuidora no va a
+[02:23:47] poder facturar concepto alguno vinculado
+[02:23:49] al servicio público y procede,
+[02:23:53] específicamente establece su anexo e
+[02:23:55] cuando no se cumpla con el cambio de
+[02:23:56] titularidad. Así que acá está plasmado y
+[02:23:58] responde un poco a la pregunta que
+[02:24:00] decíamos hoy. Y por otro lado, cuando
+[02:24:02] está suspendido y se comprobara que el
+[02:24:05] titular se ha reconectado por motú
+[02:24:07] propio, digamos, ¿no? Violentando este
+[02:24:11] las obligaciones que tiene que cumplir.
+[02:24:14] Y por último, el cese de suministro es
+[02:24:16] cuando se produce la extinción del
+[02:24:19] contrato de suministro que tiene un
+[02:24:22] usuario con la distribuidora.
+[02:24:24] eh y se puede dar en alguna de las
+[02:24:26] siguientes situaciones. Por ejemplo, en
+[02:24:28] el caso de incumplimiento de las
+[02:24:29] obligaciones referidas a los usuarios eh
+[02:24:33] que veíamos recién de de cambiar la
+[02:24:36] titularidad, de denunciar el equipo de
+[02:24:39] generación distribuida, eh bueno, un
+[02:24:41] poquito de lo que vimos recién. Cuando
+[02:24:44] no hay cambio de titularidad, eh cuando
+[02:24:46] hay cambio, perdón, cuando sí hay cambio
+[02:24:48] de titularidad, el el usuario, digamos,
+[02:24:50] que sale de la que termina de ser
+[02:24:53] usuario de la distribuidora, cesa en el
+[02:24:56] vínculo, cesa el suministro. Cuando se
+[02:24:59] da un cambio en la categoría tarifaria,
+[02:25:01] cesa ese contrato y nace uno nuevo,
+[02:25:04] aunque sea el mismo titular, pero cesa
+[02:25:07] en el suministro anterior por una
+[02:25:09] decisión fundada al distribuidor, previa
+[02:25:11] notificación al usuario, casos fuerza,
+[02:25:13] casos bortuito, o fuerza mayor, eh, o
+[02:25:17] por decisión del usuario que decide,
+[02:25:19] digamos, no sé, una mudanza, deja de ser
+[02:25:21] usuario de la distribuidora y obviamente
+[02:25:23] previamente va a tener que cumplir sus
+[02:25:25] obligaciones comerciales.
+[02:25:27] cancelación de deuda que tenga con la
+[02:25:29] distribuidora y en ese caso va a cesar
+[02:25:31] el domicilio y ese punto de suministro
+[02:25:33] va a quedar este abierto para que
+[02:25:35] alguien nuevo vaya a darle una nueva
+[02:25:38] alta.
+[02:25:42] Bueno, ahora vamos a entrar en este
+[02:25:44] régimen y
+[02:25:47] y va a hablar Pato. Bueno,
+[02:25:50] eh dentro del su anexo e como veníamos
+[02:25:56] diciendo, el
+[02:26:00] veníamos viendo todo lo que tiene que
+[02:26:01] ver con el con los contratos de
+[02:26:03] concesión, los subanexos, dijimos que eh
+[02:26:06] muchos de los subanexos son los
+[02:26:09] subanexos este iniciales de la concesión
+[02:26:13] y cuando se realizó la revisión
+[02:26:15] tarifaria integral en el año 2017 sí
+[02:26:18] hubo modifica
+[02:26:19] tanto en el subanexo D, régimen de
+[02:26:21] calidad y sanciones, como en el subanexo
+[02:26:24] E, que es el que el que rige hasta ahora
+[02:26:27] y que también, como recién explicaba
+[02:26:30] Guillermina, este, en este proceso de
+[02:26:33] revisión tarifaria también se van a a
+[02:26:35] reevaluar estos dos subanexos. Eh, su
+[02:26:39] anexo e en su artículo 14 establece eh
+[02:26:43] el régimen de ampliación y extensión de
+[02:26:45] redes que que tienen que hacer los
+[02:26:49] eh los distribuidores. Y en este caso,
+[02:26:52] digamos, este, a diferencia de lo que se
+[02:26:55] venía este previendo, estableció
+[02:26:59] producto de la revisión tarifaria
+[02:27:01] integral dos áreas, un área
+[02:27:04] rentabilizada
+[02:27:06] y un área no rentabilizada.
+[02:27:09] el principio general que nosotros
+[02:27:11] tenemos que tener en cuenta y que
+[02:27:13] después vamos a a analizar, digamos,
+[02:27:15] casos particulares, pero lo principal eh
+[02:27:18] que nos tiene que que tenemos que saber
+[02:27:21] es que en el área rentabilizada
+[02:27:24] eh las obras eh que deben ser
+[02:27:26] ejecutadas, ampliaciones o extensiones
+[02:27:28] de redes dentro del área rentabilizada
+[02:27:30] están a cargo del distribuidor.
+[02:27:34] Y en casos particulares, en los casos
+[02:27:36] que están previstos, el distribuidor
+[02:27:39] puede aplicar y puede solicitar al
+[02:27:41] usuario un régimen de contribución de
+[02:27:43] obra reembolsable. O sea, va a ser eh
+[02:27:47] luego eh puede solicitar ese
+[02:27:49] financiamiento por parte del usuario,
+[02:27:51] pero debe ser reintegrado. Vamos a ver
+[02:27:54] eh a medida que avancemos. Y en el área
+[02:27:57] no rentabilizada,
+[02:27:59] las obras que tienen que ser ejecutadas
+[02:28:01] van a estar a cargo de los usuarios.
+[02:28:05] Esto fue así porque en la en la revisión
+[02:28:08] tarifaria lo que se reconoció es que la
+[02:28:12] en en las tarifas se reconoció que la la
+[02:28:15] amortización y la rentabilidad de los
+[02:28:17] activos dentro de este área
+[02:28:18] rentabilizada fue reconocida. Por eso es
+[02:28:21] que la renovación y expansión quedó a
+[02:28:24] cargo exclusivo del distribuidor. En
+[02:28:27] cambio, en el área no rentabilizada,
+[02:28:30] este, en la revisión tarifaria se
+[02:28:32] reconoció respecto de los activos solo
+[02:28:34] la amortización. Consecuencia de esto es
+[02:28:37] que la renovación va a estar a cargo del
+[02:28:40] distribuidor y la expansión en el área
+[02:28:43] no rentabilizada a cargo de los
+[02:28:45] usuarios. Hay excepciones en este área
+[02:28:48] no rentabilizadas, con excepción de las
+[02:28:50] obras internas en barrios de interés
+[02:28:52] social, que ahora lo vamos a ver, que
+[02:28:54] van a estar a cargo del distribuidor y
+[02:28:57] bueno, y lo que se establece en las dos
+[02:28:59] áreas para eh los casos particulares.
+[02:29:06] Bueno, como decía, en el área
+[02:29:08] rentabilizada y en los supuestos que
+[02:29:10] vamos a ir viendo, se permite que el
+[02:29:13] distribuidor queda facultado a solicitar
+[02:29:16] una contribución por obra reembolsable,
+[02:29:19] que es un aporte inerario que que van a
+[02:29:22] hacer este eh los usuarios que
+[02:29:25] solicitado por el distribuidor este y
+[02:29:29] que es eh cuando bueno, se pide un nuevo
+[02:29:32] suministro, un incremento eh del
+[02:29:35] actualmente convenido esta contribución.
+[02:29:38] ¿Puedo hacer una consulta?
+[02:29:40] Sí.
+[02:29:41] Ahí tema área rentabilizada es el cuando
+[02:29:44] está a cuántos metros de un
+[02:29:45] transformador.
+[02:29:48] Sí. Bueno, ahí este cómo se define ese
+[02:29:51] área ese área rentabilizada.
+[02:29:54] Eh, son eh un macizo de 5 hareas o hasta
+[02:30:00] 400 m lineales, pero no de un
+[02:30:03] transformador, no está eh delimitada,
+[02:30:06] digamos, a lo que tiene que ver con eh
+[02:30:09] infraestructura
+[02:30:11] existente.
+[02:30:13] Eso eso no es así, sino que es este
+[02:30:17] dentro siempre del de ese área de
+[02:30:19] concesión,
+[02:30:21] de ese área rentabilizada. Los 5 son más
+[02:30:25] 400 m lineales.
+[02:30:27] Pero 400 m, lo que yo no entiendo, 400 m
+[02:30:30] lineales de qué, porque digo esto porque
+[02:30:33] a veces no vemos que estamos, no sé, a
+[02:30:35] 350 m de un transformador y la tensión
+[02:30:37] que si me meten 20 casas, la tensión no
+[02:30:40] va a estar buena. O sea, por eso 400 m,
+[02:30:43] no, no entiendo esa parte. 400 m de qué.
+[02:30:47] Bueno, eso eso va a ser el de los de los
+[02:30:51] macizos. Ahí le siguen los 400 m. Eh,
+[02:30:57] pero no, vos, vos, ¿qué decís ahí? En
+[02:30:59] ese caso vas a poder, va a ser área
+[02:31:01] rentabilizada. El que vos me estás
+[02:31:03] diciendo también,
+[02:31:06] eh, el que yo te estoy diciendo, sí,
+[02:31:08] pero va a requerir una obra a eso.
+[02:31:11] Sí, sí, sí. Por eso te digo, eso en ese
+[02:31:15] va a requerir de una obra, pero el tema
+[02:31:17] es esa obra a cargo de quién está y si
+[02:31:21] vos podés solicitar si va a ser área
+[02:31:23] rentabilizada, vas a poder pedir una
+[02:31:26] contribución al usuario,
+[02:31:31] ese aporte que después se lo vas a tener
+[02:31:33] que reembolsar en distintos. Pero a ver,
+[02:31:37] si es un T1, si es un T1 eh residencial,
+[02:31:42] digamos,
+[02:31:44] vas a tener, no vas a poder pedir esa
+[02:31:46] contribución de obra. Vas a pedirla, por
+[02:31:49] ejemplo, bueno, ahora vamos a ver los
+[02:31:51] casos particulares en la cual v
+[02:31:53] solicitar esa contribución de obra
+[02:31:55] reembolsable.
+[02:31:57] Sí,
+[02:31:57] claro. Pero a lo que voy yo, por
+[02:31:59] ejemplo, está a 400 m de la área urbana,
+[02:32:02] por así decirlo. Tengo un usuario 400 m.
+[02:32:05] Ese caso sería
+[02:32:08] yo lo puedo tomar como porque si es
+[02:32:10] rural lo puedo tomar como rural y ahora
+[02:32:11] rentabilizada.
+[02:32:13] Bueno, pero ahí ahí vas a tener que ver.
+[02:32:17] Bueno, no necesari es lo que yo te
+[02:32:18] decía, que no está atado, no está atado
+[02:32:22] al área servida, al área, digamos, con
+[02:32:26] eh infraestructura existente,
+[02:32:29] ¿me entendés?
+[02:32:31] Eso es lo que se define como área
+[02:32:33] rentabilizada. No tengo acá bien cómo
+[02:32:35] está definido, pero
+[02:32:38] este vos lo que hacés es determinar que
+[02:32:42] la el macizo eh, ¿cómo que se dice?
+[02:32:45] Este,
+[02:32:47] área eh infraestructura existente más
+[02:32:51] 400 m. Eso es lo que vos decís. Bueno,
+[02:32:54] no es así. Por lo menos se oye en el
+[02:32:57] régimen vigente.
+[02:32:58] Bien. Y entonces esos 400 m de qué sería
+[02:33:00] entonces
+[02:33:02] dentro. Te digo porque generalmente,
+[02:33:04] ¿por qué? ¿Por qué vamos al tema? Porque
+[02:33:05] generalmente las ciudades se expanden,
+[02:33:08] van acercándose del casco urbano hacia
+[02:33:10] afuera. Es la lo que tiene lógica, ¿no?
+[02:33:13] No no no muy poco el ciudad agarran
+[02:33:15] hacen una un barrio a 500 m de la
+[02:33:18] ciudad. Generalmente se va expandiendo
+[02:33:20] porque se va creciendo y la ciudad va
+[02:33:23] tendiendo a crecerse cerca de la del
+[02:33:25] urbano. Eh, entonces eh es ese es el
+[02:33:29] tema, ¿viste? cuando,
+[02:33:31] o sea, yo esa área, esa nueva zona que
+[02:33:35] no la puedo abastecer porque ahí van a
+[02:33:37] poner 50 casa, eh, ¿qué la considero?
+[02:33:41] Rentalizada, no rentalizada, porque es
+[02:33:43] el tema porque yo hoy no estoy sirviendo
+[02:33:45] a esa área y no la pienso servir por
+[02:33:47] algo como yo como distribuidor, pero la
+[02:33:49] tendría que servir porque, bueno, va
+[02:33:51] creciendo a eso. Pero, ¿cómo la
+[02:33:52] consideras en ese gris? Bueno, en el
+[02:33:54] gris, eso es lo que te quería decir, eh,
+[02:33:57] cuando cuando existe un gris, este, ahí
+[02:34:01] vos podés solicitar que lo seba porque
+[02:34:03] está está previsto en el artículo 14, en
+[02:34:06] 14, bueno, no me acuerdo ahora el el la
+[02:34:10] creo que es 1413, sí está previsto o
+[02:34:13] 143, está previsto que cuando existan
+[02:34:16] dudas sobre eh los límites o qué
+[02:34:19] comprende el área rentabilizada,
+[02:34:22] digamos, la extensión
+[02:34:23] o cuando a cargo de quién está o eh este
+[02:34:29] todas cuestiones que hagan a o a la
+[02:34:31] procedencia o no de esa contribución de
+[02:34:33] obra, eh sí lo pueden solicitar al a los
+[02:34:38] eh que intervenga eso lo cuando los
+[02:34:42] casos grises o los casos en que no pueda
+[02:34:44] determinarse lo puedes llevar
+[02:34:46] [resoplido] a decisión del organismo.
+[02:34:49] Eh, aún así, dentro del área
+[02:34:51] rentabilizada
+[02:34:53] te eh digamos se define que
+[02:34:57] que hay zonas que si bien tienen
+[02:34:59] características de áreas rentabilizadas,
+[02:35:01] pero que se encuentren aisladas en más
+[02:35:03] de ese límite en ese caso y que no
+[02:35:05] tengan infraestructura eléctrica, serán
+[02:35:07] son tratadas como, por ejemplo, en el
+[02:35:09] caso que vos decís, 50 casas como
+[02:35:11] desarrollos urbanísticos dentro del área
+[02:35:14] no rentabilizada. Entonces, si está
+[02:35:16] dentro del área no rentabilizada, va a
+[02:35:18] estar a cargo de los usuarios. Habrá que
+[02:35:21] ver también el caso concreto,
+[02:35:26] pero tenés previsto situaciones, como
+[02:35:28] vos decís, eh,
+[02:35:29] no, generalmente pasa lo siguiente. La
+[02:35:31] línea pasa por el los límites, la línea
+[02:35:33] pasa por los últimos usuarios de la vera
+[02:35:35] de enfrente. Hay un nuevo proyecto
+[02:35:37] inmobiliario porque pegado la ciudad
+[02:35:39] generalmente un nuevo proyecto
+[02:35:40] inmobiliario
+[02:35:41] se va a hacer un barrio.
+[02:35:43] Eh, ¿qué hace en ese caso? Porque yo si
+[02:35:45] hago cruce de calle todo bien, te
+[02:35:46] abastezco uno, o dos usuarios, pero
+[02:35:48] cuando te quedan más 50 casas o algo de
+[02:35:50] eso y ya pasa a ser, che, yo no tenía
+[02:35:52] previsto como distribuidor a esto, esta
+[02:35:54] área no la estaba escribiendo yo, o sea,
+[02:35:56] eh independientemente de la cantidad,
+[02:35:58] porque sé que que algo de lo que define
+[02:36:00] son las cantidad de hectárea, el límite
+[02:36:02] de la hectárea. Claro, por eso es lo que
+[02:36:03] te digo, tiene que estar si el área si
+[02:36:05] si están si ese área, digamos que donde
+[02:36:08] se va a hacer ese desarrollo está
+[02:36:09] elimitada, como dice el el la
+[02:36:13] definición, por calles con superficies
+[02:36:15] no mayores a 5 haáreas como hace una
+[02:36:18] franja de 400 m, eh ahí es área
+[02:36:22] rentabilizada. Pero como yo te decía, si
+[02:36:24] esas esas zonas que tienen
+[02:36:27] características de área rentabilizada,
+[02:36:29] pero que están aisladas ahí podríamos
+[02:36:33] llegar a considerar y que se va a hacer
+[02:36:34] un desarrollo urbanístico podría llegar
+[02:36:36] a ser considerada área no rentabilizada.
+[02:36:42] Pero bueno, hay que ver implica lo que
+[02:36:44] implica que los usuarios se tienen que
+[02:36:45] hacer cargo.
+[02:36:46] Exacto. Sí, ahí estaría cargo del
+[02:36:48] usuario. Si esía no rentabilizada, tanto
+[02:36:51] la ampliación como la expansión está a
+[02:36:54] cargo eh de los usuarios, no así la
+[02:36:56] renovación porque se reconoce la tarifa
+[02:36:59] de esa amortización.
+[02:37:03] Este,
+[02:37:05] bueno, no sé si si te hemos te despejé
+[02:37:10] la duda, pero
+[02:37:11] sí, sí, algo algo creo, o sea, ya te
+[02:37:14] digo como siempre pasa
+[02:37:15] no entiendo porque porque vienen muchos
+[02:37:18] casos donde eh precisamente están estas
+[02:37:21] estas zonas donde hay que ver este si es
+[02:37:25] un área o es el otro y eh generalmente
+[02:37:29] cuando existen estas dudas se plantea el
+[02:37:32] caso ante el organismo.
+[02:37:35] Bien. Y después nos caso, que por
+[02:37:36] ejemplo un área rentabilizada, un tipo
+[02:37:38] que tiene, no sé, una manzana,
+[02:37:41] una manzana enorme y la quiere quiere
+[02:37:43] lotear y todo ese tema dentro de un área
+[02:37:45] que no estaba hoy previsto, eh, tipo,
+[02:37:49] vamos a poner que es un emprendimiento
+[02:37:51] inmobiliario porque tipo te vende los
+[02:37:53] terrenos en dólares y todo y yo tengo
+[02:37:54] que salir a correr a hacer la ahora.
+[02:37:56] Entonces,
+[02:37:57] claro, si es si es dentro del área
+[02:37:59] rentabilizada, que es ahora vamos a ver,
+[02:38:02] digamos, según lo que se haga este ahí
+[02:38:04] vas a tener eh vas a poder o no eh eh
+[02:38:09] pedir o no este la esta contribución por
+[02:38:12] obra.
+[02:38:16] Está bien. La contribución por hora
+[02:38:17] puede ser igual al monto de la obra.
+[02:38:20] Bueno, ahora eh eso es lo que iba a
+[02:38:22] decir en la en el caso de la
+[02:38:24] contribución por obra reembolsable. Vos
+[02:38:26] ahí hay un régimen que está también
+[02:38:28] establecido acá en el artículo 14, donde
+[02:38:31] vos vas a establecer, digamos, eh
+[02:38:33] ciertos eh valores iniciales de de esta
+[02:38:36] contribución por obra que establecen
+[02:38:39] esas pautas hasta dónde podés pedir sin
+[02:38:42] autorización de los EVA.
+[02:38:45] De todas maneras,
+[02:38:47] eh si esos cargos que están previstos en
+[02:38:51] el en el contrato de concesión fueran
+[02:38:54] inferior al valor de la obra, vos
+[02:38:57] podrías solicitar autorización a los
+[02:39:00] eh para que te autorice a solicitar
+[02:39:03] hasta el monto de la obra. Nunca la Cor
+[02:39:05] va a ser mayor al monto de la obra, que
+[02:39:08] sea necesaria, porque también hay que
+[02:39:10] tener en cuenta eso, que sea necesaria
+[02:39:13] este para suministrar energía o hacer
+[02:39:15] esa ampliación a ese usuario
+[02:39:17] determinado.
+[02:39:19] Todo esto está previsto en tanto los
+[02:39:23] valores iniciales en la en el este
+[02:39:27] artículo 14 que estamos explicando como
+[02:39:30] en la resolución Oceva 115 del 2024 que
+[02:39:33] establece cómo es ese régimen de
+[02:39:35] contribución por obra que pueden
+[02:39:37] solicitar.
+[02:39:42] Eh, no sé si
+[02:39:45] si está claro. Sigo. Eh,
+[02:39:49] sí, seguí porque est mal de tiempo.
+[02:39:52] Consulto lo ú
+[02:39:53] ya tenemos Sí, ya tenemos
+[02:39:55] ese valor de obra, esa cor que yo puedo
+[02:39:57] solicitar igual con autorización de los
+[02:39:59] el valor de la obra ser puede ser la
+[02:40:01] obra total o solamente de la obra de
+[02:40:03] baja. ¿Cómo es el tema? decir, porque
+[02:40:05] no ahí, bueno, eso es que en el área en
+[02:40:09] el área rentabilizada todo lo que tiene
+[02:40:11] que ver con la obra de vinculación va a
+[02:40:13] estar a cargo del eh del distribuidor y
+[02:40:16] la todo lo que hace a la obra interna va
+[02:40:18] a estar a cargo del usuario. Eso es así.
+[02:40:20] Y cuando yo te explicaba recién los
+[02:40:22] valores iniciales de la COR que están
+[02:40:24] establecidos en el en el contrato, por
+[02:40:27] ejemplo, si es una pequeña demanda, van
+[02:40:30] a ser, vos vas a estar autorizado a
+[02:40:31] cobrar seis cargos por conexión del tipo
+[02:40:34] subterránea trifásica por usuario de la
+[02:40:36] categoría tarifaria C en cuadrado. esto
+[02:40:39] en los supuestos especiales, porque si
+[02:40:41] es un usuario que te pide una
+[02:40:44] ampliación, una extensión, vos no
+[02:40:45] podrías hacerle lugar a, o sea, vos no
+[02:40:48] podrías no estarías autorizado solicitar
+[02:40:52] la COR. La Core vas a estar en el área
+[02:40:54] rentabilizada. Eh, las condiciones
+[02:40:57] particulares van a ser usuarios de
+[02:41:00] tarifa uno pequeñas demandas e integrado
+[02:41:02] un desarrollo inmobiliario bajo el
+[02:41:04] régimen de propiedad horizontal que
+[02:41:06] soliciten suministros de energía
+[02:41:08] eléctrica hasta nueve unidades.
+[02:41:11] Eh, condiciones generales es a cargo
+[02:41:13] exclusivo del distribuidor, no va a
+[02:41:15] poder solicitar esta COR. Y si estuviera
+[02:41:17] conformada por más de 10 unidades, el
+[02:41:19] distribuidor sí puede solicitar la COR,
+[02:41:21] pero como te decía recién, el costo del
+[02:41:24] desarrollo de esa infraestructura
+[02:41:25] interna, que son las instalaciones
+[02:41:27] realizadas desde el punto de medición de
+[02:41:29] energía hasta cada una de las unidades
+[02:41:31] funcionales y la responsabilidad en
+[02:41:34] estos casos eh de la operación
+[02:41:36] mantenimiento y renovación está a cargo
+[02:41:38] del usuario. Estos eh en el caso de
+[02:41:41] desarrollos inmobiliarios bajo el
+[02:41:43] régimen de propiedad horizontal. si
+[02:41:45] fueran barrios cerrados
+[02:41:48] eh u otros emprendimientos
+[02:41:50] inmobiliarios, ahí eh también eh en esos
+[02:41:55] casos van a estar la operación les le va
+[02:41:59] a ser cedido al distribuidor para la
+[02:42:01] operación y mantenimiento y la
+[02:42:03] renovación, que es en este caso, eh no
+[02:42:07] así en los que hacen a la propiedad
+[02:42:08] horizontal. Hasta nueve unidades no vas
+[02:42:10] a poder solicitar esta contribución y
+[02:42:12] más de 10 unidades sí.
+[02:42:15] Este
+[02:42:17] y en el caso del área rentabilizada en
+[02:42:19] los barrios de desarrollo de interés
+[02:42:22] social que tienen que tener ciertas
+[02:42:24] características sin fines de lucro
+[02:42:26] implementados por el Estado nacional,
+[02:42:27] provincial, eh entidades intermedias eh
+[02:42:31] que tienen que ser destinados a vivienda
+[02:42:33] única, permanente con adjudicación
+[02:42:36] inmediata que sí solicite, también se
+[02:42:38] rigen por las condiciones generales
+[02:42:40] estando a cargo del distribuidor esa
+[02:42:42] obra y El costo del desarrollo de la
+[02:42:45] infraestructura interna en estos casos
+[02:42:48] también va a estar a cargo del
+[02:42:50] distribuidor, salvo que en el
+[02:42:51] presupuesto de esa obra que se haga a
+[02:42:53] través del Estado estuviera incluido en
+[02:42:55] esa partida presupuestaria. Bueno, en
+[02:42:57] ese caso se hará cargo el el Estado
+[02:43:02] nacional provincial de la de la
+[02:43:04] infraestructura interna, pero si no en
+[02:43:07] los barrios de interés social no se hace
+[02:43:09] distinción entre la obra de vinculación
+[02:43:11] y la obra interna.
+[02:43:14] Y eh
+[02:43:16] también eh esto es respecto de eh en los
+[02:43:20] casos usuarios de esto eh lo que decía
+[02:43:23] recién es en el caso del encuadrados en
+[02:43:26] pequeñas demandas, en medianas demandas
+[02:43:28] o en grandes demandas y en las tarifas
+[02:43:30] de peaje eh y se constituyan como
+[02:43:34] demandas individuales, el distribuidor
+[02:43:37] este en esos casos podrá solicitar core
+[02:43:40] en los casos de usuarios de de T2 2 y T3
+[02:43:44] también que se encuentren en un
+[02:43:46] agrupamiento industrial y soliciten uno,
+[02:43:49] el distribuidor podrá solicitar la
+[02:43:51] contribución por obra reembolsables.
+[02:43:54] Todo lo que tiene que ver también en
+[02:43:56] estos casos con el desarrollo de la
+[02:43:57] infraestructura interna, eso va a estar
+[02:44:00] a cargo de los usuarios o a o quien
+[02:44:04] solicite el desarrollo de ese
+[02:44:06] emprendimiento. Y en estos casos también
+[02:44:09] eh van a ser eh cedidas eh para la
+[02:44:11] operación al distribuidor
+[02:44:14] y en el área no rentabilizada, que era
+[02:44:16] lo que veníamos diciendo, que en estos
+[02:44:19] casos, que era eh un poco lo que vos
+[02:44:22] decías, las obras de alimentación a ser
+[02:44:24] ejecutadas dentro de un área no
+[02:44:26] rentabilizada
+[02:44:27] eh van a estar a cargo de los usuarios.
+[02:44:30] Acá, a diferencia de la de la anterior
+[02:44:33] eh del área eh rentabilizada, estas
+[02:44:36] obras de alimentación pueden ser
+[02:44:38] ejecutadas por el distribuidor o también
+[02:44:40] pueden ser ejecutadas por eh un tercero
+[02:44:44] o digamos por el usuario a través de un
+[02:44:45] tercero, este, pero siempre tiene que
+[02:44:48] estar reconocido por el distribuidor y
+[02:44:51] eh de acuerdo al proyecto que realiza el
+[02:44:53] distribuidor, porque él va a operar esas
+[02:44:55] e esas este esas líneas, esa obra Y en
+[02:45:00] el caso que el usuario se conecte a una
+[02:45:02] línea de media tensión, este, que haya
+[02:45:05] sido ejecutada previamente por otros,
+[02:45:08] por uno o más usuarios, en ese caso, eh
+[02:45:11] tiene que contribuir este con la parte
+[02:45:13] proporcional del costo de la obra. Esto
+[02:45:15] estaba previsto en una resolución de
+[02:45:17] Oceva eh en ese momento para todo lo que
+[02:45:20] tenía que ver con áreas rurales, que es
+[02:45:22] la resolución 192 del año eh 99.
+[02:45:28] Y en el caso de en el área no
+[02:45:31] rentabilizada, acá eh tenemos también
+[02:45:33] que en el caso de usuarios eh eh que
+[02:45:38] sean de pequeñas demandas y que estén
+[02:45:40] integrados a un desarrollo de clubes de
+[02:45:42] barrios cerrados o privados, otro
+[02:45:45] emprendimiento urbanístico que se que
+[02:45:48] sea como eh encarado como un desarrollo
+[02:45:51] inmobiliario
+[02:45:52] y que haga necesario hacer esta obra de
+[02:45:55] extensión o ampliación de la red de
+[02:45:57] distribución está a cargo del usuario.
+[02:46:00] El costo del desarrollo de la
+[02:46:02] infraestructura interna eh también eh
+[02:46:05] para su uso exclusivo
+[02:46:07] va a estar a cargo del eh del usuario y
+[02:46:10] también van a tener que estar, digamos,
+[02:46:11] de conformidad a deberá ser ejecutada de
+[02:46:15] acuerdo a normas vigentes y conformidad
+[02:46:16] del distribuidor. Y como decía también
+[02:46:19] en estos casos le tiene que ser cedido
+[02:46:21] al mismo para la operación mantenimiento
+[02:46:24] y renovación y podrá el distribuidor
+[02:46:28] realizar la supervisión de la obra, pero
+[02:46:31] no puede percibir remuneración por ese
+[02:46:33] concepto.
+[02:46:36] Y en el caso de que sean barrios de
+[02:46:37] interés social, en este caso la obra de
+[02:46:40] vinculación va a estar a cargo del
+[02:46:42] usuario, pero la obra infraestructura
+[02:46:44] interna, aún cuando sea área no
+[02:46:47] rentabilizada, va a estar a cargo del
+[02:46:49] distribuidor en estos casos.
+[02:46:53] Eh, bueno, lo mismo digo, no sé, es la
+[02:46:56] hora o
+[02:46:56] sí, ya pasado unos minutitos. Eh, lo
+[02:46:59] mismo va a pasar con los casos de eh las
+[02:47:02] categorías tarifarias de T2, T3, T5 y
+[02:47:05] T6, que también van a estar a cargo del
+[02:47:08] distribuidor eh
+[02:47:11] y van a ser eh eh tienen el el mismo
+[02:47:15] criterio. Va a estar a cargo de los
+[02:47:17] usuarios también el desarrollo de la
+[02:47:18] infraestructura interna eh y tiene que
+[02:47:21] ser ejecutada de acuerdo con a las
+[02:47:23] normas vigentes y a la conformidad del
+[02:47:25] distribuidor. y también en estos casos
+[02:47:27] le va a ser cedida de forma gratuita al
+[02:47:30] distribuidor para la operación
+[02:47:32] mantenimiento y renovación. Y acá el
+[02:47:35] distribuidor también va a realizar la
+[02:47:37] supervisión de la obra sin remuneración
+[02:47:40] por el por el caso de eh para por
+[02:47:43] inspección de obra.
+[02:47:45] Y lo que lo que comentaba recién que hay
+[02:47:48] eh supuestos eh especiales que en el
+[02:47:51] caso de que hubiera dudas o en el caso
+[02:47:52] de suministro que no permitan el
+[02:47:54] encuadramiento a ninguno de estos
+[02:47:56] supuestos, en estos casos se se puede
+[02:47:58] llevar el caso el organismo de control
+[02:48:00] tiene la facultad de que para determinar
+[02:48:03] los criterios aplicar en lo que tiene
+[02:48:05] que ver con el costo, el carácter de la
+[02:48:07] obra, si es interna o externa o el
+[02:48:10] carácter de la obra respecto si se
+[02:48:12] encuentra en área rentabilizada con
+[02:48:14] posibilidad de pedir un acor en los
+[02:48:16] casos establecidos o si es área no
+[02:48:18] rentabilizada a cargo de los usuarios.
+[02:48:22] Eh, y también eh bueno, eh cuando no hay
+[02:48:26] acuerdo se somete a esta decisión del
+[02:48:29] organismo. Hay varios casos de que
+[02:48:32] encuadran o que han sido traídos a los
+[02:48:34] SEO para su decisión. Y en el caso de
+[02:48:38] las relaciones entre distribuidores, eso
+[02:48:42] pueden pedir COR y en estos casos este
+[02:48:45] será acordado al monto de la COR en
+[02:48:47] estos solo en estos casos entre las
+[02:48:49] partes. y la falta de acuerdo entre el
+[02:48:52] distribuidor
+[02:48:54] habilitará al distribuidor proveedor a
+[02:48:57] requerir
+[02:48:59] la intervención del organismo para la
+[02:49:01] resolución de esa controversia que
+[02:49:03] pudiera suscitarse entre distribuidores.
+[02:49:07] Bueno, eh lo dije rápido, pero por el
+[02:49:10] tiempo y bueno, no sé si
+[02:49:13] habrá otra pregunta, alguna duda,
+[02:49:16] comentario.
+[02:49:18] Estamos excedidos de tiempo, perdonen,
+[02:49:20] pero bueno,
+[02:49:20] pero bueno,
+[02:49:21] era largo y tratamos de de ser
+[02:49:24] sintéticos porque, bueno, esta parte por
+[02:49:26] ahí no se vuelve a repetir la del
+[02:49:28] subanexo e entonces
+[02:49:29] igual si tienen dudas, preguntas, este
+[02:49:31] nos las hacen nos las hacen llegar
+[02:49:35] eh, y las vemos o tomamos un pedacito de
+[02:49:37] alguna otra clase, no no no se
+[02:49:39] preocupen. Lo único que queremos es que
+[02:49:41] no se queden con dudas o cosas que les
+[02:49:44] queden ahí dando vueltas y que las
+[02:49:45] podamos resolver o conversar. Sí.
+[02:49:49] Bueno, si no hay
+[02:49:51] comentarios, nada.
+[02:49:55] Gracias por la escucha, por la paciencia
+[02:49:57] y no no no nos vemos el martes próximo,
+[02:50:00] nos vemos directamente el 14
+[02:50:04] con Sergio Fernández y con Pablo San
+[02:50:07] Miguel, que van a dar régimen de calidad
+[02:50:09] y régimen de
+[02:50:11] sanciones y penalizaciones. Así que una
+[02:50:13] clase más que interesante, con mucho
+[02:50:15] contenido y larga también. Así que
+[02:50:18] bueno, nada, vienen clases
+[02:50:20] lindas, va, nos parece a nosotros.
+[02:50:23] [risas]
+[02:50:23] Esperemos que que sean de utilidad para
+[02:50:25] todos
+[02:50:26] para que junten energía 15.
+[02:50:27] Claro, junten energías 15 días. Eh, nos
+[02:50:30] volvemos a encontrar en 14.

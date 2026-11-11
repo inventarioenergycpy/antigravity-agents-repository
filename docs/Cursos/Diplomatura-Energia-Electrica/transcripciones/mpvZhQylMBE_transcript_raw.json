@@ -1,0 +1,8467 @@
+[
+  {
+    "start": 21.96,
+    "duration": 4.2,
+    "text": "Buenos días, ¿cómo están?"
+  },
+  {
+    "start": 27.039,
+    "duration": 6.281,
+    "text": "Vamos a arrancar. Hoy tenemos la clase"
+  },
+  {
+    "start": 31.16,
+    "duration": 4.0,
+    "text": "cinco."
+  },
+  {
+    "start": 33.32,
+    "duration": 3.84,
+    "text": "Vamos a ver proyección de la demanda de"
+  },
+  {
+    "start": 35.16,
+    "duration": 4.559,
+    "text": "energía eléctrica, la determinación de"
+  },
+  {
+    "start": 37.16,
+    "duration": 5.2,
+    "text": "los factores de factores de ajuste y"
+  },
+  {
+    "start": 39.719,
+    "duration": 6.121,
+    "text": "curvas de carga. [resoplido]"
+  },
+  {
+    "start": 42.36,
+    "duration": 5.64,
+    "text": "La clase la va a dictar Vicente Serra"
+  },
+  {
+    "start": 45.84,
+    "duration": 5.559,
+    "text": "Marchese."
+  },
+  {
+    "start": 48.0,
+    "duration": 6.52,
+    "text": "Vicente es ingeniero electromecánico de"
+  },
+  {
+    "start": 51.399,
+    "duration": 5.601,
+    "text": "la UBA, es especialista en energía,"
+  },
+  {
+    "start": 54.52,
+    "duration": 4.76,
+    "text": "regulación, infraestructura crítica,"
+  },
+  {
+    "start": 57.0,
+    "duration": 4.199,
+    "text": "políticas públicas."
+  },
+  {
+    "start": 59.28,
+    "duration": 3.919,
+    "text": "Es un ingeniero con más de 40 años de"
+  },
+  {
+    "start": 61.199,
+    "duration": 3.841,
+    "text": "trayectoria en el sector energético, con"
+  },
+  {
+    "start": 63.199,
+    "duration": 4.161,
+    "text": "amplia experiencia en regulación en"
+  },
+  {
+    "start": 65.04,
+    "duration": 4.0,
+    "text": "mercados de gas y electricidad,"
+  },
+  {
+    "start": 67.36,
+    "duration": 4.92,
+    "text": "planificación de infraestructura,"
+  },
+  {
+    "start": 69.04,
+    "duration": 6.079,
+    "text": "políticas públicas, privatizaciones,"
+  },
+  {
+    "start": 72.28,
+    "duration": 4.68,
+    "text": "auditorías técnicas y económicas y"
+  },
+  {
+    "start": 75.119,
+    "duration": 5.401,
+    "text": "asesoramiento estratégico a organismos"
+  },
+  {
+    "start": 76.96,
+    "duration": 7.159,
+    "text": "públicos y privado. Ha ocupado diversos"
+  },
+  {
+    "start": 80.52,
+    "duration": 5.279,
+    "text": "cargos directivos nacionales."
+  },
+  {
+    "start": 84.119,
+    "duration": 4.561,
+    "text": "Ha sido asesor de la intervención del"
+  },
+  {
+    "start": 85.799,
+    "duration": 5.481,
+    "text": "Energ, director nacional de refinación y"
+  },
+  {
+    "start": 88.68,
+    "duration": 6.96,
+    "text": "comercialización en hidrocarburos,"
+  },
+  {
+    "start": 91.28,
+    "duration": 7.56,
+    "text": "asesor de la presidencia de la nación"
+  },
+  {
+    "start": 95.64,
+    "duration": 5.839,
+    "text": "y hace pocos días se publicó el decreto"
+  },
+  {
+    "start": 98.84,
+    "duration": 5.12,
+    "text": "que lo designa como vicepresidente del"
+  },
+  {
+    "start": 101.479,
+    "duration": 5.0,
+    "text": "nuevo ente fusionado"
+  },
+  {
+    "start": 103.96,
+    "duration": 4.64,
+    "text": "regulador del gas y de la electricidad"
+  },
+  {
+    "start": 106.479,
+    "duration": 5.161,
+    "text": "del ente nacional."
+  },
+  {
+    "start": 108.6,
+    "duration": 5.28,
+    "text": "es eh profesor universitario, autor de"
+  },
+  {
+    "start": 111.64,
+    "duration": 4.32,
+    "text": "numerosos artículos técnicos y de"
+  },
+  {
+    "start": 113.88,
+    "duration": 6.199,
+    "text": "opinión"
+  },
+  {
+    "start": 115.96,
+    "duration": 8.159,
+    "text": "con una formación académica extensísima."
+  },
+  {
+    "start": 120.079,
+    "duration": 7.281,
+    "text": "Así que bueno, gracias Vicente,"
+  },
+  {
+    "start": 124.119,
+    "duration": 6.92,
+    "text": "te escuchamos cuando quieras."
+  },
+  {
+    "start": 127.36,
+    "duration": 5.68,
+    "text": "Eh, bueno, buenos días a todos. Eh,"
+  },
+  {
+    "start": 131.039,
+    "duration": 5.601,
+    "text": "gracias por participar de esta"
+  },
+  {
+    "start": 133.04,
+    "duration": 7.36,
+    "text": "diplomatura. Espero que sea de utilidad"
+  },
+  {
+    "start": 136.64,
+    "duration": 6.319,
+    "text": "todas las lo que ha sido todas las"
+  },
+  {
+    "start": 140.4,
+    "duration": 4.88,
+    "text": "asignaturas que han tenido hasta ahora y"
+  },
+  {
+    "start": 142.959,
+    "duration": 6.241,
+    "text": "bueno, le deseo el mejor de los éxitos y"
+  },
+  {
+    "start": 145.28,
+    "duration": 7.08,
+    "text": "y los animo y los impulso a"
+  },
+  {
+    "start": 149.2,
+    "duration": 8.039,
+    "text": "perfeccionarse día por día."
+  },
+  {
+    "start": 152.36,
+    "duration": 4.879,
+    "text": "Bien, vamos a hacer la presentación."
+  },
+  {
+    "start": 163.0,
+    "duration": 3.2,
+    "text": "Un segundo."
+  },
+  {
+    "start": 166.56,
+    "duration": 3.28,
+    "text": "Ahí está."
+  },
+  {
+    "start": 177.239,
+    "duration": 4.201,
+    "text": "Se ve perfecto."
+  },
+  {
+    "start": 179.44,
+    "duration": 3.879,
+    "text": "Se ve perfecto."
+  },
+  {
+    "start": 181.44,
+    "duration": 4.879,
+    "text": "Sí."
+  },
+  {
+    "start": 183.319,
+    "duration": 3.0,
+    "text": "Bien."
+  },
+  {
+    "start": 190.319,
+    "duration": 3.881,
+    "text": "Bueno, vamos a entrar en lo que se"
+  },
+  {
+    "start": 191.72,
+    "duration": 6.599,
+    "text": "denomina caracterización de la demanda y"
+  },
+  {
+    "start": 194.2,
+    "duration": 4.119,
+    "text": "campañas de curva de carga."
+  },
+  {
+    "start": 199.36,
+    "duration": 4.2,
+    "text": "Los principales aspectos que tenemos que"
+  },
+  {
+    "start": 201.239,
+    "duration": 4.841,
+    "text": "tener en cuenta en el mercado eléctrico"
+  },
+  {
+    "start": 203.56,
+    "duration": 5.72,
+    "text": "para abastecer son"
+  },
+  {
+    "start": 206.08,
+    "duration": 5.799,
+    "text": "las posiciones y la geografía de la"
+  },
+  {
+    "start": 209.28,
+    "duration": 4.959,
+    "text": "demanda donde uno debe atender. Ustedes"
+  },
+  {
+    "start": 211.879,
+    "duration": 5.041,
+    "text": "saben muy bien por estar en cooperativas"
+  },
+  {
+    "start": 214.239,
+    "duration": 5.08,
+    "text": "o en grandes distribuidoras, que no es"
+  },
+  {
+    "start": 216.92,
+    "duration": 5.879,
+    "text": "lo mismo abastecer en una localidad muy"
+  },
+  {
+    "start": 219.319,
+    "duration": 6.401,
+    "text": "concentrada que en otra que es dispersa"
+  },
+  {
+    "start": 222.799,
+    "duration": 4.881,
+    "text": "y tiene mucho componente rural. Para"
+  },
+  {
+    "start": 225.72,
+    "duration": 4.239,
+    "text": "todo eso se necesita hacer una"
+  },
+  {
+    "start": 227.68,
+    "duration": 3.8,
+    "text": "segmentación de la modalidad del consumo"
+  },
+  {
+    "start": 229.959,
+    "duration": 3.241,
+    "text": "eléctrico."
+  },
+  {
+    "start": 231.48,
+    "duration": 3.88,
+    "text": "Si no, uno no podría hacer una"
+  },
+  {
+    "start": 233.2,
+    "duration": 4.72,
+    "text": "planificación de largo plazo ni hacer"
+  },
+  {
+    "start": 235.36,
+    "duration": 5.56,
+    "text": "estudio de adaptación de las redes"
+  },
+  {
+    "start": 237.92,
+    "duration": 4.519,
+    "text": "existentes versus las nuevas demandas"
+  },
+  {
+    "start": 240.92,
+    "duration": 6.039,
+    "text": "que voy a tener que abastecer en el"
+  },
+  {
+    "start": 242.439,
+    "duration": 6.601,
+    "text": "futuro y en todo caso ver qué manera"
+  },
+  {
+    "start": 246.959,
+    "duration": 3.721,
+    "text": "puedo llegar a hacerlo de una manera"
+  },
+  {
+    "start": 249.04,
+    "duration": 5.36,
+    "text": "técnicoeconómica"
+  },
+  {
+    "start": 250.68,
+    "duration": 5.799,
+    "text": "que eh me permita realizarlo a mínimo"
+  },
+  {
+    "start": 254.4,
+    "duration": 5.04,
+    "text": "costo."
+  },
+  {
+    "start": 256.479,
+    "duration": 5.361,
+    "text": "La distribución de las de la geográfica"
+  },
+  {
+    "start": 259.44,
+    "duration": 3.92,
+    "text": "de la demanda está basada básicamente"
+  },
+  {
+    "start": 261.84,
+    "duration": 3.6,
+    "text": "por"
+  },
+  {
+    "start": 263.36,
+    "duration": 6.6,
+    "text": "características que tiene que ver con la"
+  },
+  {
+    "start": 265.44,
+    "duration": 7.199,
+    "text": "densidad, que suele medirse en megw hh"
+  },
+  {
+    "start": 269.96,
+    "duration": 5.92,
+    "text": "por kilómetro cuad,"
+  },
+  {
+    "start": 272.639,
+    "duration": 5.801,
+    "text": "el estado de carga de las instalaciones"
+  },
+  {
+    "start": 275.88,
+    "duration": 7.159,
+    "text": "y la evolución de la demanda que vaya a"
+  },
+  {
+    "start": 278.44,
+    "duration": 4.599,
+    "text": "tener a lo largo del tiempo."
+  },
+  {
+    "start": 284.479,
+    "duration": 5.881,
+    "text": "La caracterización de la demanda en"
+  },
+  {
+    "start": 286.6,
+    "duration": 6.039,
+    "text": "diferentes segmentos la podemos ver que"
+  },
+  {
+    "start": 290.36,
+    "duration": 4.8,
+    "text": "es un área acotada"
+  },
+  {
+    "start": 292.639,
+    "duration": 6.681,
+    "text": "que conviene realizarla de manera"
+  },
+  {
+    "start": 295.16,
+    "duration": 7.24,
+    "text": "homogénea para que pueda ser fácil de de"
+  },
+  {
+    "start": 299.32,
+    "duration": 5.159,
+    "text": "aplicar. A partir de ahí uno puede hacer"
+  },
+  {
+    "start": 302.4,
+    "duration": 6.76,
+    "text": "una proyección de los distintos"
+  },
+  {
+    "start": 304.479,
+    "duration": 8.201,
+    "text": "segmentos y hay una tasa estimada de"
+  },
+  {
+    "start": 309.16,
+    "duration": 5.08,
+    "text": "crecimiento que lleva a dos cuestiones"
+  },
+  {
+    "start": 312.68,
+    "duration": 4.56,
+    "text": "distintas."
+  },
+  {
+    "start": 314.24,
+    "duration": 5.36,
+    "text": "Una puede ser un ajuste exponencial con"
+  },
+  {
+    "start": 317.24,
+    "duration": 5.72,
+    "text": "valores históricos. Anteriormente se"
+  },
+  {
+    "start": 319.6,
+    "duration": 6.84,
+    "text": "usaba eh una correlación que había entre"
+  },
+  {
+    "start": 322.96,
+    "duration": 6.519,
+    "text": "el PIB y la demanda residencial"
+  },
+  {
+    "start": 326.44,
+    "duration": 5.84,
+    "text": "y por otro lado puede tenerse una tasa"
+  },
+  {
+    "start": 329.479,
+    "duration": 5.0,
+    "text": "de crecimiento con una elasticidad"
+  },
+  {
+    "start": 332.28,
+    "duration": 4.52,
+    "text": "precio, tarifas que tienen que ver con"
+  },
+  {
+    "start": 334.479,
+    "duration": 4.56,
+    "text": "la demanda industrial."
+  },
+  {
+    "start": 336.8,
+    "duration": 4.88,
+    "text": "Por lo regular, la demanda residencial"
+  },
+  {
+    "start": 339.039,
+    "duration": 5.121,
+    "text": "es un poco inelástica a las variaciones"
+  },
+  {
+    "start": 341.68,
+    "duration": 6.92,
+    "text": "de precio."
+  },
+  {
+    "start": 344.16,
+    "duration": 6.84,
+    "text": "El mado más simple de ver lo que es la"
+  },
+  {
+    "start": 348.6,
+    "duration": 5.0,
+    "text": "potencia máxima en un área de de"
+  },
+  {
+    "start": 351.0,
+    "duration": 5.919,
+    "text": "distribución eléctrica"
+  },
+  {
+    "start": 353.6,
+    "duration": 6.439,
+    "text": "es hacer un corte vertical u horizontal"
+  },
+  {
+    "start": 356.919,
+    "duration": 6.241,
+    "text": "en las áreas urbanas, que eso tiene que"
+  },
+  {
+    "start": 360.039,
+    "duration": 6.241,
+    "text": "ver con eh discriminar en baja en"
+  },
+  {
+    "start": 363.16,
+    "duration": 5.8,
+    "text": "alimentaciones de baja tensión."
+  },
+  {
+    "start": 366.28,
+    "duration": 4.919,
+    "text": "eh subestaciones transformadoras,"
+  },
+  {
+    "start": 368.96,
+    "duration": 5.48,
+    "text": "alimentadores de media tensión y"
+  },
+  {
+    "start": 371.199,
+    "duration": 5.84,
+    "text": "subestaciones de distribución."
+  },
+  {
+    "start": 374.44,
+    "duration": 5.0,
+    "text": "El crecimiento horizontal siempre se da"
+  },
+  {
+    "start": 377.039,
+    "duration": 5.88,
+    "text": "por la aparición de nuevos usuarios y el"
+  },
+  {
+    "start": 379.44,
+    "duration": 5.52,
+    "text": "crecimiento vertical será se da por un"
+  },
+  {
+    "start": 382.919,
+    "duration": 4.56,
+    "text": "aumento del aumento del consumo de los"
+  },
+  {
+    "start": 384.96,
+    "duration": 7.079,
+    "text": "usuarios existentes, donde el factor de"
+  },
+  {
+    "start": 387.479,
+    "duration": 7.72,
+    "text": "simultaneidad se va cerrando."
+  },
+  {
+    "start": 392.039,
+    "duration": 6.361,
+    "text": "Si voy de eh para hacer más ágiles, si"
+  },
+  {
+    "start": 395.199,
+    "duration": 6.28,
+    "text": "alguno quiere pararme y preguntar"
+  },
+  {
+    "start": 398.4,
+    "duration": 5.48,
+    "text": "directamente lo hacemos. Creo que eso es"
+  },
+  {
+    "start": 401.479,
+    "duration": 4.881,
+    "text": "mucho más enriquecedor y podemos este"
+  },
+  {
+    "start": 403.88,
+    "duration": 5.0,
+    "text": "sacarle mucho más provecho a la"
+  },
+  {
+    "start": 406.36,
+    "duration": 4.36,
+    "text": "presentación."
+  },
+  {
+    "start": 408.88,
+    "duration": 4.52,
+    "text": "Caracterización de la demanda. Entonces,"
+  },
+  {
+    "start": 410.72,
+    "duration": 4.28,
+    "text": "habíamos visto radicación de ampliación"
+  },
+  {
+    "start": 413.4,
+    "duration": 3.76,
+    "text": "de industrias, polos, parques"
+  },
+  {
+    "start": 415.0,
+    "duration": 4.36,
+    "text": "industriales, cambio de las tendencias"
+  },
+  {
+    "start": 417.16,
+    "duration": 4.64,
+    "text": "en usos energéticos, nuevos usos"
+  },
+  {
+    "start": 419.36,
+    "duration": 5.119,
+    "text": "eléctricos, incremento del confort."
+  },
+  {
+    "start": 421.8,
+    "duration": 6.239,
+    "text": "Piénsense, piensen ustedes que"
+  },
+  {
+    "start": 424.479,
+    "duration": 7.041,
+    "text": "básicamente las redes se diseñan para"
+  },
+  {
+    "start": 428.039,
+    "duration": 6.801,
+    "text": "tener una requerimiento de potencia a"
+  },
+  {
+    "start": 431.52,
+    "duration": 9.2,
+    "text": "nivel residencial de aproximadamente 10"
+  },
+  {
+    "start": 434.84,
+    "duration": 8.32,
+    "text": "KBA en zona muy urbana y de 5 KBA a 8 en"
+  },
+  {
+    "start": 440.72,
+    "duration": 5.52,
+    "text": "zonas suburbanas."
+  },
+  {
+    "start": 443.16,
+    "duration": 5.4,
+    "text": "Eh, piensen ustedes que con el nuevo uso"
+  },
+  {
+    "start": 446.24,
+    "duration": 3.84,
+    "text": "y apariciones, por ejemplo, del aire"
+  },
+  {
+    "start": 448.56,
+    "duration": 4.079,
+    "text": "acondicionado,"
+  },
+  {
+    "start": 450.08,
+    "duration": 5.16,
+    "text": "una familia tipo que puede tener un aire"
+  },
+  {
+    "start": 452.639,
+    "duration": 6.28,
+    "text": "acondicionado en su en cada una de sus"
+  },
+  {
+    "start": 455.24,
+    "duration": 8.04,
+    "text": "piezas, pongamos cuatro ambientes, ahí"
+  },
+  {
+    "start": 458.919,
+    "duration": 6.72,
+    "text": "solamente ya tenemos casi 8 KBA. Si uno"
+  },
+  {
+    "start": 463.28,
+    "duration": 4.599,
+    "text": "le agrega otros elementos de confort, la"
+  },
+  {
+    "start": 465.639,
+    "duration": 5.0,
+    "text": "computadora, el lavarropa, la ladera,"
+  },
+  {
+    "start": 467.879,
+    "duration": 5.641,
+    "text": "etcétera, ya estamos excediéndonos sobre"
+  },
+  {
+    "start": 470.639,
+    "duration": 5.081,
+    "text": "los 10 KBA. Entonces, ya es hora de ir"
+  },
+  {
+    "start": 473.52,
+    "duration": 4.92,
+    "text": "repensando que tenemos que poner un"
+  },
+  {
+    "start": 475.72,
+    "duration": 4.4,
+    "text": "nuevo estándar."
+  },
+  {
+    "start": 478.44,
+    "duration": 3.199,
+    "text": "Otra de las cuestiones es la expansión"
+  },
+  {
+    "start": 480.12,
+    "duration": 3.479,
+    "text": "inmobiliaria en zonas urbanas"
+  },
+  {
+    "start": 481.639,
+    "duration": 4.801,
+    "text": "existentes,"
+  },
+  {
+    "start": 483.599,
+    "duration": 4.88,
+    "text": "parques industriales y por último"
+  },
+  {
+    "start": 486.44,
+    "duration": 4.68,
+    "text": "promoción de nuevas zonas comerciales,"
+  },
+  {
+    "start": 488.479,
+    "duration": 7.481,
+    "text": "puede ser un polo gastronómico,"
+  },
+  {
+    "start": 491.12,
+    "duration": 4.84,
+    "text": "otro polo industrial, etcétera."
+  },
+  {
+    "start": 496.199,
+    "duration": 5.601,
+    "text": "Bueno, aquí tenemos una infografía que a"
+  },
+  {
+    "start": 498.879,
+    "duration": 6.121,
+    "text": "nivel de de distintas distribuidoras"
+  },
+  {
+    "start": 501.8,
+    "duration": 6.0,
+    "text": "podemos ver cómo está distribuido"
+  },
+  {
+    "start": 505.0,
+    "duration": 5.319,
+    "text": "cada uno de los segmentos."
+  },
+  {
+    "start": 507.8,
+    "duration": 4.52,
+    "text": "Como vemos, tanto"
+  },
+  {
+    "start": 510.319,
+    "duration": 3.84,
+    "text": "el nor y el de Sur son los que contienen"
+  },
+  {
+    "start": 512.32,
+    "duration": 3.399,
+    "text": "la mayor cantidad de usuarios"
+  },
+  {
+    "start": 514.159,
+    "duration": 4.68,
+    "text": "residenciales. Estamos hablando en"
+  },
+  {
+    "start": 515.719,
+    "duration": 5.481,
+    "text": "términos de porcentaje, no de potencia."
+  },
+  {
+    "start": 518.839,
+    "duration": 5.281,
+    "text": "Y el caso de DET, por ser la provincia"
+  },
+  {
+    "start": 521.2,
+    "duration": 5.96,
+    "text": "más chica del país, está concentrada y"
+  },
+  {
+    "start": 524.12,
+    "duration": 6.719,
+    "text": "ahí también la demanda residencial tiene"
+  },
+  {
+    "start": 527.16,
+    "duration": 3.679,
+    "text": "mayor peso."
+  },
+  {
+    "start": 533.2,
+    "duration": 4.0,
+    "text": "Luego vamos a esto que es la"
+  },
+  {
+    "start": 535.04,
+    "duration": 5.799,
+    "text": "distribución"
+  },
+  {
+    "start": 537.2,
+    "duration": 6.199,
+    "text": "ahora sií en en megwtios de distintos"
+  },
+  {
+    "start": 540.839,
+    "duration": 4.361,
+    "text": "segmentos de de un área y para una"
+  },
+  {
+    "start": 543.399,
+    "duration": 4.921,
+    "text": "distribuidora"
+  },
+  {
+    "start": 545.2,
+    "duration": 5.28,
+    "text": "especialmente de sur y donde también"
+  },
+  {
+    "start": 548.32,
+    "duration": 6.199,
+    "text": "podemos ver ahí cómo se distribuye la"
+  },
+  {
+    "start": 550.48,
+    "duration": 6.24,
+    "text": "demanda entre la industrial, la"
+  },
+  {
+    "start": 554.519,
+    "duration": 5.88,
+    "text": "comercial y la residencial. Y ahí se"
+  },
+  {
+    "start": 556.72,
+    "duration": 6.799,
+    "text": "puede ver la variabilidad que tiene el"
+  },
+  {
+    "start": 560.399,
+    "duration": 5.841,
+    "text": "consumo residencial, básicamente. Y"
+  },
+  {
+    "start": 563.519,
+    "duration": 4.721,
+    "text": "podemos ver que tiene dos picos bien"
+  },
+  {
+    "start": 566.24,
+    "duration": 3.92,
+    "text": "acentuados y que prácticamente, a"
+  },
+  {
+    "start": 568.24,
+    "duration": 4.599,
+    "text": "contrario de lo que sucedía en el"
+  },
+  {
+    "start": 570.16,
+    "duration": 7.96,
+    "text": "pasado, ya prácticamente el invierno y"
+  },
+  {
+    "start": 572.839,
+    "duration": 5.281,
+    "text": "el verano tienen casi el mismo consumo."
+  },
+  {
+    "start": 579.279,
+    "duration": 5.12,
+    "text": "Bueno, ahora"
+  },
+  {
+    "start": 581.399,
+    "duration": 5.481,
+    "text": "vamos a un aspecto que ya empezamos a"
+  },
+  {
+    "start": 584.399,
+    "duration": 4.521,
+    "text": "complejizar esta proyección de demanda"
+  },
+  {
+    "start": 586.88,
+    "duration": 4.0,
+    "text": "que tiene que ver la incidencia de la"
+  },
+  {
+    "start": 588.92,
+    "duration": 4.28,
+    "text": "temperatura."
+  },
+  {
+    "start": 590.88,
+    "duration": 5.84,
+    "text": "En estos mapas de punto lo que podemos"
+  },
+  {
+    "start": 593.2,
+    "duration": 7.84,
+    "text": "ver es la energía requerida en megwti hh"
+  },
+  {
+    "start": 596.72,
+    "duration": 6.799,
+    "text": "para distintas este provincias y eh en"
+  },
+  {
+    "start": 601.04,
+    "duration": 4.919,
+    "text": "función de la temperatura media diaria"
+  },
+  {
+    "start": 603.519,
+    "duration": 5.121,
+    "text": "donde se ubica"
+  },
+  {
+    "start": 605.959,
+    "duration": 8.241,
+    "text": "cada uno de los de los mapas. Vemos que"
+  },
+  {
+    "start": 608.64,
+    "duration": 7.92,
+    "text": "prácticamente es lo mismo"
+  },
+  {
+    "start": 614.2,
+    "duration": 4.759,
+    "text": "y vemos los picos, tanto los de calor"
+  },
+  {
+    "start": 616.56,
+    "duration": 5.76,
+    "text": "como los de frío, mientras que los"
+  },
+  {
+    "start": 618.959,
+    "duration": 7.601,
+    "text": "medios tienen una y si uno analiza el"
+  },
+  {
+    "start": 622.32,
+    "duration": 7.8,
+    "text": "punto máximo y el punto mínimo,"
+  },
+  {
+    "start": 626.56,
+    "duration": 6.76,
+    "text": "la dispersión es de uno a cuatro veces."
+  },
+  {
+    "start": 630.12,
+    "duration": 3.2,
+    "text": "¿Se entiende"
+  },
+  {
+    "start": 633.92,
+    "duration": 5.56,
+    "text": "bien?"
+  },
+  {
+    "start": 636.2,
+    "duration": 3.28,
+    "text": "Modelos económicos."
+  },
+  {
+    "start": 640.32,
+    "duration": 6.0,
+    "text": "para hacer este eh las proyecciones de"
+  },
+  {
+    "start": 643.519,
+    "duration": 4.721,
+    "text": "demanda. Entonces, ya vimos, solamente"
+  },
+  {
+    "start": 646.32,
+    "duration": 6.56,
+    "text": "tenemos las variaciones, tenemos la"
+  },
+  {
+    "start": 648.24,
+    "duration": 7.2,
+    "text": "temperatura y tenemos la, por último,"
+  },
+  {
+    "start": 652.88,
+    "duration": 4.36,
+    "text": "eh, el comportamiento de la demanda en"
+  },
+  {
+    "start": 655.44,
+    "duration": 5.36,
+    "text": "los distintos"
+  },
+  {
+    "start": 657.24,
+    "duration": 5.76,
+    "text": "eh meses del año."
+  },
+  {
+    "start": 660.8,
+    "duration": 5.12,
+    "text": "Ahora, para poder aproximar a proyectar"
+  },
+  {
+    "start": 663.0,
+    "duration": 7.2,
+    "text": "la demanda se usan modelos econométricos"
+  },
+  {
+    "start": 665.92,
+    "duration": 8.28,
+    "text": "que utilizan los cuadrados mínimos"
+  },
+  {
+    "start": 670.2,
+    "duration": 7.56,
+    "text": "y con eso podemos estimar el pico del"
+  },
+  {
+    "start": 674.2,
+    "duration": 6.16,
+    "text": "impacto de la demanda diaria, tomándonos"
+  },
+  {
+    "start": 677.76,
+    "duration": 4.12,
+    "text": "como como correlación las variables"
+  },
+  {
+    "start": 680.36,
+    "duration": 3.12,
+    "text": "explicativas, como puede ser la"
+  },
+  {
+    "start": 681.88,
+    "duration": 5.6,
+    "text": "temperatura media, si es un día"
+  },
+  {
+    "start": 683.48,
+    "duration": 6.32,
+    "text": "laborable o no, eh actos fijos que se"
+  },
+  {
+    "start": 687.48,
+    "duration": 6.08,
+    "text": "pueden dar el mes, este, calificación de"
+  },
+  {
+    "start": 689.8,
+    "duration": 6.12,
+    "text": "días fríos, o calientes. Y por último,"
+  },
+  {
+    "start": 693.56,
+    "duration": 6.36,
+    "text": "un efecto tendencial en cuanto al"
+  },
+  {
+    "start": 695.92,
+    "duration": 4.0,
+    "text": "crecimiento de las variables."
+  },
+  {
+    "start": 702.279,
+    "duration": 4.24,
+    "text": "Todo esto se puede hacer en un modelo"
+  },
+  {
+    "start": 704.32,
+    "duration": 4.88,
+    "text": "estructural básico, que es la fórmula"
+  },
+  {
+    "start": 706.519,
+    "duration": 5.681,
+    "text": "fórmula que estamos mirando a"
+  },
+  {
+    "start": 709.2,
+    "duration": 6.92,
+    "text": "continuación. Es un modelo que se puede"
+  },
+  {
+    "start": 712.2,
+    "duration": 6.52,
+    "text": "escribir mediante esta polinómica que eh"
+  },
+  {
+    "start": 716.12,
+    "duration": 7.08,
+    "text": "está representado por tres variables"
+  },
+  {
+    "start": 718.72,
+    "duration": 7.6,
+    "text": "donde uno es el el mu es define como un"
+  },
+  {
+    "start": 723.2,
+    "duration": 6.16,
+    "text": "polinomio del tiempo. El I se especifica"
+  },
+  {
+    "start": 726.32,
+    "duration": 5.88,
+    "text": "a través de variables eh dumi que quiere"
+  },
+  {
+    "start": 729.36,
+    "duration": 5.68,
+    "text": "decir si hay ese calor o no, si es si es"
+  },
+  {
+    "start": 732.2,
+    "duration": 4.6,
+    "text": "verano, invierno, etcétera. Y por"
+  },
+  {
+    "start": 735.04,
+    "duration": 4.159,
+    "text": "último,"
+  },
+  {
+    "start": 736.8,
+    "duration": 5.0,
+    "text": "eh,"
+  },
+  {
+    "start": 739.199,
+    "duration": 4.361,
+    "text": "la dispersión a través de los valores en"
+  },
+  {
+    "start": 741.8,
+    "duration": 3.719,
+    "text": "función"
+  },
+  {
+    "start": 743.56,
+    "duration": 4.959,
+    "text": "de distintas variables de serie de"
+  },
+  {
+    "start": 745.519,
+    "duration": 3.0,
+    "text": "tiempo."
+  },
+  {
+    "start": 752.399,
+    "duration": 6.361,
+    "text": "Y eso tiene más que ver con"
+  },
+  {
+    "start": 755.72,
+    "duration": 5.52,
+    "text": "la temperatura."
+  },
+  {
+    "start": 758.76,
+    "duration": 5.879,
+    "text": "Aquí podemos ver la ecuación detallada"
+  },
+  {
+    "start": 761.24,
+    "duration": 3.399,
+    "text": "con los coeficientes"
+  },
+  {
+    "start": 764.8,
+    "duration": 4.2,
+    "text": "donde tenemos que t es la temperatura"
+  },
+  {
+    "start": 766.8,
+    "duration": 5.159,
+    "text": "media diaria,"
+  },
+  {
+    "start": 769.0,
+    "duration": 5.399,
+    "text": "ten el componente de tendencia anual que"
+  },
+  {
+    "start": 771.959,
+    "duration": 4.88,
+    "text": "habíamos hablado si es verano, invierno,"
+  },
+  {
+    "start": 774.399,
+    "duration": 5.361,
+    "text": "de L, que es una variable binaria que"
+  },
+  {
+    "start": 776.839,
+    "duration": 5.961,
+    "text": "indica si el día es laborable o no."
+  },
+  {
+    "start": 779.76,
+    "duration": 6.96,
+    "text": "Eh, y puede ser y después la temperatura"
+  },
+  {
+    "start": 782.8,
+    "duration": 7.399,
+    "text": "final o eh la temperatura fría o la"
+  },
+  {
+    "start": 786.72,
+    "duration": 5.6,
+    "text": "temperatura calurosa, que es un efecto"
+  },
+  {
+    "start": 790.199,
+    "duration": 4.64,
+    "text": "de empuntamiento de la demanda. O sea,"
+  },
+  {
+    "start": 792.32,
+    "duration": 6.92,
+    "text": "si el día va a ser muy caluroso, pero"
+  },
+  {
+    "start": 794.839,
+    "duration": 7.201,
+    "text": "amanece con con temperaturas bajas y y"
+  },
+  {
+    "start": 799.24,
+    "duration": 5.719,
+    "text": "escala de 10 a 25ºC,"
+  },
+  {
+    "start": 802.04,
+    "duration": 5.4,
+    "text": "que es lo que suele suceder casi siempre"
+  },
+  {
+    "start": 804.959,
+    "duration": 4.161,
+    "text": "en ambas. Entonces, eso me permite"
+  },
+  {
+    "start": 807.44,
+    "duration": 4.6,
+    "text": "establecer a mí cómo va a ser la"
+  },
+  {
+    "start": 809.12,
+    "duration": 6.519,
+    "text": "pendiente en el día y qué generación voy"
+  },
+  {
+    "start": 812.04,
+    "duration": 6.52,
+    "text": "a necesitar como respaldo."
+  },
+  {
+    "start": 815.639,
+    "duration": 7.56,
+    "text": "Y por último es la variable binaria del"
+  },
+  {
+    "start": 818.56,
+    "duration": 7.48,
+    "text": "mes, donde ahí se permite cuantificar"
+  },
+  {
+    "start": 823.199,
+    "duration": 5.361,
+    "text": "los efectos específicos de cada uno, o"
+  },
+  {
+    "start": 826.04,
+    "duration": 5.239,
+    "text": "sea, teniendo como referencia los meses"
+  },
+  {
+    "start": 828.56,
+    "duration": 5.719,
+    "text": "de abril y octubre en el modelo de"
+  },
+  {
+    "start": 831.279,
+    "duration": 3.0,
+    "text": "verano."
+  },
+  {
+    "start": 838.279,
+    "duration": 4.56,
+    "text": "Esta es la misma ecuación para pero"
+  },
+  {
+    "start": 840.839,
+    "duration": 5.12,
+    "text": "solamente el logaritmo natural, que esto"
+  },
+  {
+    "start": 842.839,
+    "duration": 6.761,
+    "text": "permite después cuando uno grafica"
+  },
+  {
+    "start": 845.959,
+    "duration": 8.32,
+    "text": "visualizarlo mejor, mucho mejor. Y por"
+  },
+  {
+    "start": 849.6,
+    "duration": 4.679,
+    "text": "último tenemos el modelo cuadrático."
+  },
+  {
+    "start": 861.36,
+    "duration": 5.8,
+    "text": "Si yo hago estos cálculos y me va agarro"
+  },
+  {
+    "start": 864.759,
+    "duration": 5.241,
+    "text": "ese mapa de nubes que había visto"
+  },
+  {
+    "start": 867.16,
+    "duration": 5.039,
+    "text": "anteriormente donde tenía la correlación"
+  },
+  {
+    "start": 870.0,
+    "duration": 4.68,
+    "text": "temperatura y empiezo a jugar con estas"
+  },
+  {
+    "start": 872.199,
+    "duration": 5.08,
+    "text": "ecuaciones tratando de ver cuál es la"
+  },
+  {
+    "start": 874.68,
+    "duration": 5.56,
+    "text": "que se ajusta más,"
+  },
+  {
+    "start": 877.279,
+    "duration": 7.041,
+    "text": "tenemos el siguiente resultado."
+  },
+  {
+    "start": 880.24,
+    "duration": 5.959,
+    "text": "Eh, los beta0, beta 1, delta 1, delta 2,"
+  },
+  {
+    "start": 884.32,
+    "duration": 5.4,
+    "text": "delta 3"
+  },
+  {
+    "start": 886.199,
+    "duration": 6.801,
+    "text": "y alfa lo vemos en el siguiente cuadro."
+  },
+  {
+    "start": 889.72,
+    "duration": 5.359,
+    "text": "depende si el modelo es cuadrático o no,"
+  },
+  {
+    "start": 893.0,
+    "duration": 5.88,
+    "text": "eh,"
+  },
+  {
+    "start": 895.079,
+    "duration": 6.041,
+    "text": "y la estacionalidad invierno verano."
+  },
+  {
+    "start": 898.88,
+    "duration": 5.16,
+    "text": "Y ahí podemos ver esto es en manera"
+  },
+  {
+    "start": 901.12,
+    "duration": 6.04,
+    "text": "lineal y esto es mediante logaritmos. Y"
+  },
+  {
+    "start": 904.04,
+    "duration": 6.64,
+    "text": "estos coeficientes"
+  },
+  {
+    "start": 907.16,
+    "duration": 6.72,
+    "text": "que estamos viendo son los coeficientes"
+  },
+  {
+    "start": 910.68,
+    "duration": 5.079,
+    "text": "que de la ecuación"
+  },
+  {
+    "start": 913.88,
+    "duration": 4.879,
+    "text": "que están correlacionados con estos"
+  },
+  {
+    "start": 915.759,
+    "duration": 3.0,
+    "text": "deltas."
+  },
+  {
+    "start": 920.56,
+    "duration": 5.36,
+    "text": "Así, por ejemplo, este vemos que tenemos"
+  },
+  {
+    "start": 923.759,
+    "duration": 5.481,
+    "text": "un nivel de confianza que se logra"
+  },
+  {
+    "start": 925.92,
+    "duration": 6.719,
+    "text": "aproximadamente del 95% entre el 90 y el"
+  },
+  {
+    "start": 929.24,
+    "duration": 5.839,
+    "text": "99% significa que ya el modelo ajusta."
+  },
+  {
+    "start": 932.639,
+    "duration": 5.481,
+    "text": "Acá abajo podemos ver la correlación de"
+  },
+  {
+    "start": 935.079,
+    "duration": 7.88,
+    "text": "estas simulaciones"
+  },
+  {
+    "start": 938.12,
+    "duration": 4.839,
+    "text": "que están cerca del 80%."
+  },
+  {
+    "start": 944.639,
+    "duration": 4.56,
+    "text": "Por último, la cantidad de observaciones"
+  },
+  {
+    "start": 946.88,
+    "duration": 7.92,
+    "text": "que se han utilizado son las que se"
+  },
+  {
+    "start": 949.199,
+    "duration": 5.601,
+    "text": "muestran en en la última fila."
+  },
+  {
+    "start": 955.92,
+    "duration": 3.919,
+    "text": "Bien,"
+  },
+  {
+    "start": 957.6,
+    "duration": 4.799,
+    "text": "acá lo único que determinamos con estas"
+  },
+  {
+    "start": 959.839,
+    "duration": 5.281,
+    "text": "ecuaciones es la simulación de la de la"
+  },
+  {
+    "start": 962.399,
+    "duration": 6.92,
+    "text": "demanda que vamos a tener en el día,"
+  },
+  {
+    "start": 965.12,
+    "duration": 8.0,
+    "text": "viendo la prospectiva que de climática"
+  },
+  {
+    "start": 969.319,
+    "duration": 6.0,
+    "text": "y la tendencia del día."
+  },
+  {
+    "start": 973.12,
+    "duration": 4.04,
+    "text": "Eso es un solo día del año. Esto con"
+  },
+  {
+    "start": 975.319,
+    "duration": 6.681,
+    "text": "esto podemos hacer para todos los días"
+  },
+  {
+    "start": 977.16,
+    "duration": 4.84,
+    "text": "del año en función de la historía"
+  },
+  {
+    "start": 985.92,
+    "duration": 7.24,
+    "text": "ahora basarme en la última etapa, que es"
+  },
+  {
+    "start": 990.519,
+    "duration": 5.641,
+    "text": "la potencia que yo voy a necesitar está"
+  },
+  {
+    "start": 993.16,
+    "duration": 6.2,
+    "text": "dada por una"
+  },
+  {
+    "start": 996.16,
+    "duration": 5.84,
+    "text": "por una tasa de crecimiento en función"
+  },
+  {
+    "start": 999.36,
+    "duration": 5.44,
+    "text": "de la cantidad de años."
+  },
+  {
+    "start": 1002.0,
+    "duration": 6.12,
+    "text": "Así, por ejemplo, en este ejemplo que es"
+  },
+  {
+    "start": 1004.8,
+    "duration": 6.8,
+    "text": "solamente un ejemplo, eh vemos que la"
+  },
+  {
+    "start": 1008.12,
+    "duration": 9.199,
+    "text": "demanda residencial crece al 5%, la"
+  },
+  {
+    "start": 1011.6,
+    "duration": 7.56,
+    "text": "general a 1,26 y la industrial a 4,72."
+  },
+  {
+    "start": 1017.319,
+    "duration": 4.041,
+    "text": "Yo diría que esto más o menos se"
+  },
+  {
+    "start": 1019.16,
+    "duration": 6.44,
+    "text": "aproxima cuando tenemos un crecimiento"
+  },
+  {
+    "start": 1021.36,
+    "duration": 7.0,
+    "text": "del PI anual aproximadamente del 2%."
+  },
+  {
+    "start": 1025.6,
+    "duration": 5.199,
+    "text": "Y cuando el"
+  },
+  {
+    "start": 1028.36,
+    "duration": 5.24,
+    "text": "que el PIB llega a crecer"
+  },
+  {
+    "start": 1030.799,
+    "duration": 5.481,
+    "text": "aproximadamente apenas el cero o es"
+  },
+  {
+    "start": 1033.6,
+    "duration": 6.319,
+    "text": "estático, la demanda residencial"
+  },
+  {
+    "start": 1036.28,
+    "duration": 5.88,
+    "text": "solamente baja un 1% a 4 3% que es el"
+  },
+  {
+    "start": 1039.919,
+    "duration": 6.361,
+    "text": "crecimiento vegetativo"
+  },
+  {
+    "start": 1042.16,
+    "duration": 7.12,
+    "text": "y el resto este prácticamente no tiene"
+  },
+  {
+    "start": 1046.28,
+    "duration": 3.0,
+    "text": "aumento."
+  },
+  {
+    "start": 1050.32,
+    "duration": 4.08,
+    "text": "Aquí tenemos un ejemplo."
+  },
+  {
+    "start": 1055.96,
+    "duration": 4.12,
+    "text": "¿Alguien quiere preguntar algo?"
+  },
+  {
+    "start": 1057.52,
+    "duration": 5.36,
+    "text": "Te piste conectar."
+  },
+  {
+    "start": 1060.08,
+    "duration": 6.92,
+    "text": "Intenteng"
+  },
+  {
+    "start": 1062.88,
+    "duration": 4.12,
+    "text": "podríaarse, por favor."
+  },
+  {
+    "start": 1068.679,
+    "duration": 5.681,
+    "text": "Bien, gracias. Eh, bueno,"
+  },
+  {
+    "start": 1072.52,
+    "duration": 4.639,
+    "text": "ahora vamos a las proyecciones de"
+  },
+  {
+    "start": 1074.36,
+    "duration": 5.88,
+    "text": "energía. vender grupo y por grupo de"
+  },
+  {
+    "start": 1077.159,
+    "duration": 5.921,
+    "text": "consumo. Estas son"
+  },
+  {
+    "start": 1080.24,
+    "duration": 5.4,
+    "text": "este un ejemplo y la estructura de"
+  },
+  {
+    "start": 1083.08,
+    "duration": 5.8,
+    "text": "participación que tiene en los distintos"
+  },
+  {
+    "start": 1085.64,
+    "duration": 6.64,
+    "text": "segmentos en porcentual y en energía"
+  },
+  {
+    "start": 1088.88,
+    "duration": 5.48,
+    "text": "facturada en megwti hora. Esto es anual,"
+  },
+  {
+    "start": 1092.28,
+    "duration": 4.8,
+    "text": "pero todo esto lo podemos llevar a"
+  },
+  {
+    "start": 1094.36,
+    "duration": 6.52,
+    "text": "mensual y hasta día, haciendo lo que se"
+  },
+  {
+    "start": 1097.08,
+    "duration": 6.8,
+    "text": "denomina ingeniería inversa."
+  },
+  {
+    "start": 1100.88,
+    "duration": 3.0,
+    "text": "Bien."
+  },
+  {
+    "start": 1106.799,
+    "duration": 5.681,
+    "text": "Ahora vamos a a"
+  },
+  {
+    "start": 1109.52,
+    "duration": 6.519,
+    "text": "otros aspectos que tienen eh mucha"
+  },
+  {
+    "start": 1112.48,
+    "duration": 7.559,
+    "text": "trascendencia y sugiero que lo vayan"
+  },
+  {
+    "start": 1116.039,
+    "duration": 6.76,
+    "text": "este madurando y asimilando"
+  },
+  {
+    "start": 1120.039,
+    "duration": 4.361,
+    "text": "que son los factores que se usan para el"
+  },
+  {
+    "start": 1122.799,
+    "duration": 4.481,
+    "text": "diseño"
+  },
+  {
+    "start": 1124.4,
+    "duration": 5.24,
+    "text": "de una red. Entonces tenemos el factor"
+  },
+  {
+    "start": 1127.28,
+    "duration": 5.36,
+    "text": "de simultaneidad"
+  },
+  {
+    "start": 1129.64,
+    "duration": 5.64,
+    "text": "que que lo único que hace es determinar"
+  },
+  {
+    "start": 1132.64,
+    "duration": 7.2,
+    "text": "la cantidad de equipos que eh los"
+  },
+  {
+    "start": 1135.28,
+    "duration": 4.56,
+    "text": "usuarios demandan al mismo tiempo"
+  },
+  {
+    "start": 1141.0,
+    "duration": 6.48,
+    "text": "y el factor de carga que significa la"
+  },
+  {
+    "start": 1144.64,
+    "duration": 6.64,
+    "text": "demanda promedio versus la demanda"
+  },
+  {
+    "start": 1147.48,
+    "duration": 5.48,
+    "text": "máxima en un periodo determinado."
+  },
+  {
+    "start": 1151.28,
+    "duration": 4.96,
+    "text": "Ahí tenemos un ejemplo de 10"
+  },
+  {
+    "start": 1152.96,
+    "duration": 6.64,
+    "text": "departamentos de 5 kW cada uno. Si el"
+  },
+  {
+    "start": 1156.24,
+    "duration": 6.08,
+    "text": "factor de simultaneidad es 60%, la"
+  },
+  {
+    "start": 1159.6,
+    "duration": 5.84,
+    "text": "demanda simultánea media va a ser de 30"
+  },
+  {
+    "start": 1162.32,
+    "duration": 5.8,
+    "text": "kW. Ese es un dato que yo voy a poder"
+  },
+  {
+    "start": 1165.44,
+    "duration": 5.68,
+    "text": "usar después para poder hacer"
+  },
+  {
+    "start": 1168.12,
+    "duration": 3.0,
+    "text": "dimensionamiento."
+  },
+  {
+    "start": 1172.08,
+    "duration": 7.44,
+    "text": "Así no pongo eh equipos o"
+  },
+  {
+    "start": 1175.6,
+    "duration": 6.04,
+    "text": "transformadores de más."
+  },
+  {
+    "start": 1179.52,
+    "duration": 5.84,
+    "text": "En cuanto al factor de carga, me está"
+  },
+  {
+    "start": 1181.64,
+    "duration": 7.32,
+    "text": "dando a mí una indicación de cuánto es"
+  },
+  {
+    "start": 1185.36,
+    "duration": 9.319,
+    "text": "el tiempo útil que yo lo estoy usando, o"
+  },
+  {
+    "start": 1188.96,
+    "duration": 10.839,
+    "text": "mejor dicho, eh, significaría que el en"
+  },
+  {
+    "start": 1194.679,
+    "duration": 7.24,
+    "text": "un en en un mes de 30 días trabajando a"
+  },
+  {
+    "start": 1199.799,
+    "duration": 4.281,
+    "text": "máxima potencia,"
+  },
+  {
+    "start": 1201.919,
+    "duration": 5.321,
+    "text": "¿en cuánto tiempo consumo la misma"
+  },
+  {
+    "start": 1204.08,
+    "duration": 5.52,
+    "text": "energía que a lo largo durante el a lo"
+  },
+  {
+    "start": 1207.24,
+    "duration": 4.52,
+    "text": "largo del mes?"
+  },
+  {
+    "start": 1209.6,
+    "duration": 4.52,
+    "text": "Esto permite evaluar la eficiencia de"
+  },
+  {
+    "start": 1211.76,
+    "duration": 6.159,
+    "text": "los grandes consumidores"
+  },
+  {
+    "start": 1214.12,
+    "duration": 5.799,
+    "text": "y eh sirve para definir tarifas y"
+  },
+  {
+    "start": 1217.919,
+    "duration": 4.481,
+    "text": "penalizaciones"
+  },
+  {
+    "start": 1219.919,
+    "duration": 4.281,
+    "text": "por baja eficiencia."
+  },
+  {
+    "start": 1222.4,
+    "duration": 3.639,
+    "text": "Es clave en el planeamiento de las redes"
+  },
+  {
+    "start": 1224.2,
+    "duration": 4.479,
+    "text": "urbanas como la de Buenos Aires, donde"
+  },
+  {
+    "start": 1226.039,
+    "duration": 4.921,
+    "text": "la variabilidad horaria es muy alta,"
+  },
+  {
+    "start": 1228.679,
+    "duration": 5.88,
+    "text": "como vimos en los mapas de dispersión de"
+  },
+  {
+    "start": 1230.96,
+    "duration": 7.24,
+    "text": "temperatura la vez pasada."
+  },
+  {
+    "start": 1234.559,
+    "duration": 5.841,
+    "text": "Bien, entonces el factor de carga"
+  },
+  {
+    "start": 1238.2,
+    "duration": 5.68,
+    "text": "podemos"
+  },
+  {
+    "start": 1240.4,
+    "duration": 5.92,
+    "text": "terminar como concepto, sirve para medir"
+  },
+  {
+    "start": 1243.88,
+    "duration": 5.039,
+    "text": "la eficiencia del uso y el factor de"
+  },
+  {
+    "start": 1246.32,
+    "duration": 5.2,
+    "text": "simultaneidad para dimensionar la"
+  },
+  {
+    "start": 1248.919,
+    "duration": 6.441,
+    "text": "potencia instalada. Y el impacto final"
+  },
+  {
+    "start": 1251.52,
+    "duration": 6.2,
+    "text": "es por el lado del factor de simultanead"
+  },
+  {
+    "start": 1255.36,
+    "duration": 5.12,
+    "text": "económica que uno tiene que llevar para"
+  },
+  {
+    "start": 1257.72,
+    "duration": 5.48,
+    "text": "evitar sobredimensionar equipos y redes."
+  },
+  {
+    "start": 1260.48,
+    "duration": 5.36,
+    "text": "Y con respecto al factor de carga,"
+  },
+  {
+    "start": 1263.2,
+    "duration": 5.16,
+    "text": "tarifas para la planificación de la"
+  },
+  {
+    "start": 1265.84,
+    "duration": 4.8,
+    "text": "capacidad, especialmente en lo que se"
+  },
+  {
+    "start": 1268.36,
+    "duration": 6.76,
+    "text": "refiere a los cargos fijos, que es donde"
+  },
+  {
+    "start": 1270.64,
+    "duration": 6.08,
+    "text": "se usa el factor de carga básicamente."
+  },
+  {
+    "start": 1275.12,
+    "duration": 4.439,
+    "text": "Bien,"
+  },
+  {
+    "start": 1276.72,
+    "duration": 5.68,
+    "text": "ahora vamos a otros conceptos que"
+  },
+  {
+    "start": 1279.559,
+    "duration": 5.0,
+    "text": "también se usan. O sea, ahora vimos y"
+  },
+  {
+    "start": 1282.4,
+    "duration": 4.04,
+    "text": "vuelvo para atrás un segundo, ejemplos"
+  },
+  {
+    "start": 1284.559,
+    "duration": 4.841,
+    "text": "prácticos a nivel de usuario"
+  },
+  {
+    "start": 1286.44,
+    "duration": 7.0,
+    "text": "domiciliario de una punta. Ahora, todo"
+  },
+  {
+    "start": 1289.4,
+    "duration": 7.159,
+    "text": "esto, yo puedo unar varios"
+  },
+  {
+    "start": 1293.44,
+    "duration": 5.28,
+    "text": "demandas individuales, pero ya no de"
+  },
+  {
+    "start": 1296.559,
+    "duration": 3.72,
+    "text": "edificio de departamento, sino de varios"
+  },
+  {
+    "start": 1298.72,
+    "duration": 3.52,
+    "text": "edificios."
+  },
+  {
+    "start": 1300.279,
+    "duration": 3.681,
+    "text": "Y también puedo hacer la misma cuenta"
+  },
+  {
+    "start": 1302.24,
+    "duration": 4.76,
+    "text": "para el factor de carga. Eso es lo que"
+  },
+  {
+    "start": 1303.96,
+    "duration": 5.44,
+    "text": "vamos a ver ahora en la siguiente que"
+  },
+  {
+    "start": 1307.0,
+    "duration": 6.159,
+    "text": "tiene que ver por el tiempo de"
+  },
+  {
+    "start": 1309.4,
+    "duration": 6.639,
+    "text": "utilización muy que se usa mucho que son"
+  },
+  {
+    "start": 1313.159,
+    "duration": 5.64,
+    "text": "otros otros factores que expresa el"
+  },
+  {
+    "start": 1316.039,
+    "duration": 4.401,
+    "text": "número que la estación que la zona de la"
+  },
+  {
+    "start": 1318.799,
+    "duration": 4.561,
+    "text": "instalación estaría funcionando a su"
+  },
+  {
+    "start": 1320.44,
+    "duration": 5.68,
+    "text": "potencia máxima para consumir la energía"
+  },
+  {
+    "start": 1323.36,
+    "duration": 4.679,
+    "text": "registrada. es muy parecido al factor de"
+  },
+  {
+    "start": 1326.12,
+    "duration": 3.88,
+    "text": "carga,"
+  },
+  {
+    "start": 1328.039,
+    "duration": 3.721,
+    "text": "nada más que el factor de carga es en"
+  },
+  {
+    "start": 1330.0,
+    "duration": 4.559,
+    "text": "porcentaje y aquí el tiempo de"
+  },
+  {
+    "start": 1331.76,
+    "duration": 4.76,
+    "text": "utilización lo estamos ya mensurando en"
+  },
+  {
+    "start": 1334.559,
+    "duration": 3.761,
+    "text": "horas."
+  },
+  {
+    "start": 1336.52,
+    "duration": 4.6,
+    "text": "Por otro lado, tenemos el factor de"
+  },
+  {
+    "start": 1338.32,
+    "duration": 5.2,
+    "text": "coincidencia, o sea, el edificio A, el"
+  },
+  {
+    "start": 1341.12,
+    "duration": 4.88,
+    "text": "edificio B y el edificio C a su vez"
+  },
+  {
+    "start": 1343.52,
+    "duration": 5.48,
+    "text": "también entre ellos tienen un factor de"
+  },
+  {
+    "start": 1346.0,
+    "duration": 3.0,
+    "text": "simultaneidad."
+  },
+  {
+    "start": 1349.2,
+    "duration": 6.0,
+    "text": "En el caso de estos ejemplos prácticos"
+  },
+  {
+    "start": 1351.12,
+    "duration": 7.96,
+    "text": "que vemos acá, este vemos que para una"
+  },
+  {
+    "start": 1355.2,
+    "duration": 6.92,
+    "text": "energía consumida de 57,200 kWh y una"
+  },
+  {
+    "start": 1359.08,
+    "duration": 8.719,
+    "text": "demanda máxima de 436"
+  },
+  {
+    "start": 1362.12,
+    "duration": 9.08,
+    "text": "kW, el tiempo es de 130 horas y en el"
+  },
+  {
+    "start": 1367.799,
+    "duration": 4.88,
+    "text": "caso del factor de coincidencia de 071."
+  },
+  {
+    "start": 1371.2,
+    "duration": 4.479,
+    "text": "Si cre alguien quiere hacer una"
+  },
+  {
+    "start": 1372.679,
+    "duration": 3.0,
+    "text": "pregunta."
+  },
+  {
+    "start": 1377.24,
+    "duration": 3.439,
+    "text": "Bien."
+  },
+  {
+    "start": 1379.159,
+    "duration": 3.4,
+    "text": "Entonces,"
+  },
+  {
+    "start": 1380.679,
+    "duration": 3.441,
+    "text": "eh las distribuidoras usan el tiempo de"
+  },
+  {
+    "start": 1382.559,
+    "duration": 3.441,
+    "text": "uso para los planes de expansión y"
+  },
+  {
+    "start": 1384.12,
+    "duration": 4.28,
+    "text": "mantenimiento"
+  },
+  {
+    "start": 1386.0,
+    "duration": 6.559,
+    "text": "y en la industria permite evaluar cómo"
+  },
+  {
+    "start": 1388.4,
+    "duration": 7.04,
+    "text": "invertir para corregir picos de demanda"
+  },
+  {
+    "start": 1392.559,
+    "duration": 6.321,
+    "text": "y a nivel de residencial y comercializar"
+  },
+  {
+    "start": 1395.44,
+    "duration": 5.479,
+    "text": "y comercial ayudas para ver la vida útil"
+  },
+  {
+    "start": 1398.88,
+    "duration": 5.0,
+    "text": "de los transformadores y calcular"
+  },
+  {
+    "start": 1400.919,
+    "duration": 6.961,
+    "text": "tarifas más justas. Aquí me detengo un"
+  },
+  {
+    "start": 1403.88,
+    "duration": 7.44,
+    "text": "segundo en cuanto a los transformadores."
+  },
+  {
+    "start": 1407.88,
+    "duration": 5.76,
+    "text": "Eh, los transformadores cuando funcionan"
+  },
+  {
+    "start": 1411.32,
+    "duration": 4.32,
+    "text": "con sobrecarga, o sea, pueden funcionar"
+  },
+  {
+    "start": 1413.64,
+    "duration": 6.12,
+    "text": "por sobrecarga por cortos periodos de"
+  },
+  {
+    "start": 1415.64,
+    "duration": 7.44,
+    "text": "tiempo, eh cuando no pueden, más allá"
+  },
+  {
+    "start": 1419.76,
+    "duration": 8.88,
+    "text": "del 20 no pueden."
+  },
+  {
+    "start": 1423.08,
+    "duration": 10.04,
+    "text": "Tengan en presente que un 10% por arriba"
+  },
+  {
+    "start": 1428.64,
+    "duration": 7.96,
+    "text": "de el consumo normal durante 2 horas"
+  },
+  {
+    "start": 1433.12,
+    "duration": 7.4,
+    "text": "significa agotar la vida útil en más o"
+  },
+  {
+    "start": 1436.6,
+    "duration": 6.439,
+    "text": "menos 5 años"
+  },
+  {
+    "start": 1440.52,
+    "duration": 7.44,
+    "text": "para un transformador. Así que empiecen"
+  },
+  {
+    "start": 1443.039,
+    "duration": 9.041,
+    "text": "a ver este visualizar un poco la lo que"
+  },
+  {
+    "start": 1447.96,
+    "duration": 8.16,
+    "text": "es tener una histo de los componentes"
+  },
+  {
+    "start": 1452.08,
+    "duration": 6.199,
+    "text": "que pertenecen a la red de distribución"
+  },
+  {
+    "start": 1456.12,
+    "duration": 5.08,
+    "text": "para poder evaluar"
+  },
+  {
+    "start": 1458.279,
+    "duration": 5.28,
+    "text": "la vida útil que eh técnica que le"
+  },
+  {
+    "start": 1461.2,
+    "duration": 4.599,
+    "text": "queda, no confundir con la vida útil"
+  },
+  {
+    "start": 1463.559,
+    "duration": 5.24,
+    "text": "contable, que son dos cosas totalmente"
+  },
+  {
+    "start": 1465.799,
+    "duration": 3.0,
+    "text": "distintas."
+  },
+  {
+    "start": 1472.039,
+    "duration": 7.64,
+    "text": "Bien,"
+  },
+  {
+    "start": 1474.2,
+    "duration": 5.479,
+    "text": "en el caso de el factor de coincidencia,"
+  },
+  {
+    "start": 1479.799,
+    "duration": 4.36,
+    "text": "el factor de coincidencia externa se usa"
+  },
+  {
+    "start": 1481.96,
+    "duration": 5.48,
+    "text": "para calcular la potencia real que debe"
+  },
+  {
+    "start": 1484.159,
+    "duration": 5.961,
+    "text": "soportar un transformador que al cual"
+  },
+  {
+    "start": 1487.44,
+    "duration": 5.359,
+    "text": "dependen múltiples edificios. En la"
+  },
+  {
+    "start": 1490.12,
+    "duration": 4.52,
+    "text": "industria permite eh estimar la"
+  },
+  {
+    "start": 1492.799,
+    "duration": 4.36,
+    "text": "capacidad de alimentación cuando, por"
+  },
+  {
+    "start": 1494.64,
+    "duration": 5.6,
+    "text": "ejemplo, varias industrias comparten una"
+  },
+  {
+    "start": 1497.159,
+    "duration": 6.681,
+    "text": "misma subestación y en a nivel"
+  },
+  {
+    "start": 1500.24,
+    "duration": 5.64,
+    "text": "residencial esto evita tener"
+  },
+  {
+    "start": 1503.84,
+    "duration": 5.04,
+    "text": "sobredimensionar cables y"
+  },
+  {
+    "start": 1505.88,
+    "duration": 3.0,
+    "text": "transformadores."
+  },
+  {
+    "start": 1512.44,
+    "duration": 6.0,
+    "text": "Bien, y aquí tenemos una infografía"
+  },
+  {
+    "start": 1516.08,
+    "duration": 4.64,
+    "text": "donde lo tenemos los cuatro conceptos,"
+  },
+  {
+    "start": 1518.44,
+    "duration": 5.88,
+    "text": "carga, simultaneidad, coincidencia"
+  },
+  {
+    "start": 1520.72,
+    "duration": 6.199,
+    "text": "externa y diversidad, que eh para qué se"
+  },
+  {
+    "start": 1524.32,
+    "duration": 4.479,
+    "text": "usa, ¿no?, No, cada uno"
+  },
+  {
+    "start": 1526.919,
+    "duration": 3.24,
+    "text": "el factor de carga para la eficiencia de"
+  },
+  {
+    "start": 1528.799,
+    "duration": 3.6,
+    "text": "uso, el simultaneidad para el"
+  },
+  {
+    "start": 1530.159,
+    "duration": 3.801,
+    "text": "dimensionamiento interno, el de"
+  },
+  {
+    "start": 1532.399,
+    "duration": 4.16,
+    "text": "coincidencia externa para"
+  },
+  {
+    "start": 1533.96,
+    "duration": 5.8,
+    "text": "dimensionamiento entre subsistemas y el"
+  },
+  {
+    "start": 1536.559,
+    "duration": 6.081,
+    "text": "diversidad es un complemento del factor"
+  },
+  {
+    "start": 1539.76,
+    "duration": 5.0,
+    "text": "de coincidencia que tiene que ver con la"
+  },
+  {
+    "start": 1542.64,
+    "duration": 6.08,
+    "text": "suma de demandas máximas sobre la"
+  },
+  {
+    "start": 1544.76,
+    "duration": 3.96,
+    "text": "demanda máxima coincidente."
+  },
+  {
+    "start": 1550.279,
+    "duration": 4.52,
+    "text": "Este es un concepto importante de la"
+  },
+  {
+    "start": 1552.279,
+    "duration": 5.201,
+    "text": "diversidad porque ayuda junto con el de"
+  },
+  {
+    "start": 1554.799,
+    "duration": 7.161,
+    "text": "coincidencia a ver la dispersión del"
+  },
+  {
+    "start": 1557.48,
+    "duration": 7.0,
+    "text": "área. Por eso es este cuando uno está"
+  },
+  {
+    "start": 1561.96,
+    "duration": 4.439,
+    "text": "estableciendo, acuérdese que partimos de"
+  },
+  {
+    "start": 1564.48,
+    "duration": 5.0,
+    "text": "haber agarrado"
+  },
+  {
+    "start": 1566.399,
+    "duration": 6.081,
+    "text": "la geografía y dividirlo en segmentos de"
+  },
+  {
+    "start": 1569.48,
+    "duration": 6.96,
+    "text": "en kilómetros cuadrados megwh por"
+  },
+  {
+    "start": 1572.48,
+    "duration": 7.16,
+    "text": "kilómetro cuadrado y entonces ahí estas"
+  },
+  {
+    "start": 1576.44,
+    "duration": 4.839,
+    "text": "significancias. Adquiere este el tema de"
+  },
+  {
+    "start": 1579.64,
+    "duration": 4.399,
+    "text": "diversidad que tiene que ver con la"
+  },
+  {
+    "start": 1581.279,
+    "duration": 7.12,
+    "text": "dispersión este adquiere relevarse junto"
+  },
+  {
+    "start": 1584.039,
+    "duration": 4.36,
+    "text": "con el factor de coincidencia."
+  },
+  {
+    "start": 1589.08,
+    "duration": 6.4,
+    "text": "los riesgos de un cálculo incorrecto,"
+  },
+  {
+    "start": 1591.72,
+    "duration": 6.0,
+    "text": "que es el el subdimensionamiento, si se"
+  },
+  {
+    "start": 1595.48,
+    "duration": 6.04,
+    "text": "sobreestima la coincidencia y puede"
+  },
+  {
+    "start": 1597.72,
+    "duration": 6.8,
+    "text": "haber sobrecargas y y cortes."
+  },
+  {
+    "start": 1601.52,
+    "duration": 6.12,
+    "text": "Eh, sobredimensionamiento,"
+  },
+  {
+    "start": 1604.52,
+    "duration": 6.08,
+    "text": "si se subestima, se invierte mucho más"
+  },
+  {
+    "start": 1607.64,
+    "duration": 5.519,
+    "text": "en equipos y en capacidad ociosa. Y por"
+  },
+  {
+    "start": 1610.6,
+    "duration": 4.679,
+    "text": "último, el impacto tarifario,"
+  },
+  {
+    "start": 1613.159,
+    "duration": 4.601,
+    "text": "este, que hacen que los cargos por"
+  },
+  {
+    "start": 1615.279,
+    "duration": 5.721,
+    "text": "potencia contratada"
+  },
+  {
+    "start": 1617.76,
+    "duration": 7.279,
+    "text": "sean más mayores o menores a lo que me"
+  },
+  {
+    "start": 1621.0,
+    "duration": 7.12,
+    "text": "exige a mí la red. Y en función de si la"
+  },
+  {
+    "start": 1625.039,
+    "duration": 7.601,
+    "text": "subdimensioné o lo sobredimensioné, voy"
+  },
+  {
+    "start": 1628.12,
+    "duration": 7.96,
+    "text": "a tener un un una incidencia en sobre el"
+  },
+  {
+    "start": 1632.64,
+    "duration": 3.44,
+    "text": "impacto tarifario."
+  },
+  {
+    "start": 1638.52,
+    "duration": 6.96,
+    "text": "Bien, acá tenemos un ejemplos sobre este"
+  },
+  {
+    "start": 1642.88,
+    "duration": 6.56,
+    "text": "varios edificios que están conectados a"
+  },
+  {
+    "start": 1645.48,
+    "duration": 7.199,
+    "text": "un transformador de 315 KBA, donde la"
+  },
+  {
+    "start": 1649.44,
+    "duration": 6.92,
+    "text": "demanda máxima medida en la historia fue"
+  },
+  {
+    "start": 1652.679,
+    "duration": 3.681,
+    "text": "de 200 kW."
+  },
+  {
+    "start": 1658.039,
+    "duration": 7.161,
+    "text": "La demanda coincidente es de 200 kW y el"
+  },
+  {
+    "start": 1661.679,
+    "duration": 6.761,
+    "text": "factor de coincidencia externa es 07."
+  },
+  {
+    "start": 1665.2,
+    "duration": 5.599,
+    "text": "Esto es simplemente un ejemplo. Uno en"
+  },
+  {
+    "start": 1668.44,
+    "duration": 4.8,
+    "text": "cada área de distribución esto lo debe"
+  },
+  {
+    "start": 1670.799,
+    "duration": 4.88,
+    "text": "tiene que contar con estos datos para"
+  },
+  {
+    "start": 1673.24,
+    "duration": 5.0,
+    "text": "calcular realmente cuáles son los"
+  },
+  {
+    "start": 1675.679,
+    "duration": 5.961,
+    "text": "factores que tenemos. Esto es un ejemplo"
+  },
+  {
+    "start": 1678.24,
+    "duration": 6.279,
+    "text": "del factor de eh de coincidencia para"
+  },
+  {
+    "start": 1681.64,
+    "duration": 5.279,
+    "text": "que ustedes puedan visualizarlo mejor."
+  },
+  {
+    "start": 1684.519,
+    "duration": 6.721,
+    "text": "Fíjense que cada uno de los edificios"
+  },
+  {
+    "start": 1686.919,
+    "duration": 4.321,
+    "text": "tiene su propio factor de simultaneidad."
+  },
+  {
+    "start": 1692.76,
+    "duration": 5.44,
+    "text": "Y aquí eh es la comparación de los"
+  },
+  {
+    "start": 1696.08,
+    "duration": 4.16,
+    "text": "factores que hemos visto cuando el"
+  },
+  {
+    "start": 1698.2,
+    "duration": 5.44,
+    "text": "factor de coincidencia está cerca de"
+  },
+  {
+    "start": 1700.24,
+    "duration": 5.76,
+    "text": "090, o sea, prácticamente no tengo casi"
+  },
+  {
+    "start": 1703.64,
+    "duration": 5.639,
+    "text": "reserva en el transformador, o sea, que"
+  },
+  {
+    "start": 1706.0,
+    "duration": 5.32,
+    "text": "estoy teniendo un riesgo de sobrecarga,"
+  },
+  {
+    "start": 1709.279,
+    "duration": 8.681,
+    "text": "mientras que en los otros trabajo mucho"
+  },
+  {
+    "start": 1711.32,
+    "duration": 8.56,
+    "text": "más holgado y eh a nivel de eh de"
+  },
+  {
+    "start": 1717.96,
+    "duration": 6.4,
+    "text": "dimensionamiento"
+  },
+  {
+    "start": 1719.88,
+    "duration": 9.399,
+    "text": "acá Hay un truco que es por qué 077."
+  },
+  {
+    "start": 1724.36,
+    "duration": 8.319,
+    "text": "Bien, el 077 es por lo siguiente. Se"
+  },
+  {
+    "start": 1729.279,
+    "duration": 6.081,
+    "text": "calcula que si yo tengo una"
+  },
+  {
+    "start": 1732.679,
+    "duration": 5.321,
+    "text": "falla en este transformador"
+  },
+  {
+    "start": 1735.36,
+    "duration": 7.24,
+    "text": "y tengo una estación con tres"
+  },
+  {
+    "start": 1738.0,
+    "duration": 7.08,
+    "text": "transformadores de 315 KBA, dos pueden"
+  },
+  {
+    "start": 1742.6,
+    "duration": 5.559,
+    "text": "absorber la potencia del tercero que"
+  },
+  {
+    "start": 1745.08,
+    "duration": 7.24,
+    "text": "pierde. Si pierdo uno más, me quedo con"
+  },
+  {
+    "start": 1748.159,
+    "duration": 7.961,
+    "text": "uno y abastezco la demanda por las redes"
+  },
+  {
+    "start": 1752.32,
+    "duration": 5.959,
+    "text": "de baj de nivel inferior, que también"
+  },
+  {
+    "start": 1756.12,
+    "duration": 6.679,
+    "text": "las tengo que diseñar para que puedan"
+  },
+  {
+    "start": 1758.279,
+    "duration": 6.361,
+    "text": "soportar la demanda de un de"
+  },
+  {
+    "start": 1762.799,
+    "duration": 5.24,
+    "text": "un barrio"
+  },
+  {
+    "start": 1764.64,
+    "duration": 8.96,
+    "text": "contiguo o de una zona contigua."
+  },
+  {
+    "start": 1768.039,
+    "duration": 5.561,
+    "text": "¿Se entiende este el concepto?"
+  },
+  {
+    "start": 1775.519,
+    "duration": 3.0,
+    "text": "Bien,"
+  },
+  {
+    "start": 1780.08,
+    "duration": 5.52,
+    "text": "bueno, después una manera de calcular"
+  },
+  {
+    "start": 1782.84,
+    "duration": 5.199,
+    "text": "los factores de simultanea interna es"
+  },
+  {
+    "start": 1785.6,
+    "duration": 5.559,
+    "text": "usando esta ecuación de los grandes"
+  },
+  {
+    "start": 1788.039,
+    "duration": 5.401,
+    "text": "números, donde también podemos este usar"
+  },
+  {
+    "start": 1791.159,
+    "duration": 6.281,
+    "text": "la dispersión"
+  },
+  {
+    "start": 1793.44,
+    "duration": 7.16,
+    "text": "y vemos que eh para depende de la"
+  },
+  {
+    "start": 1797.44,
+    "duration": 5.56,
+    "text": "cantidad de usuarios cómo va bajando el"
+  },
+  {
+    "start": 1800.6,
+    "duration": 4.559,
+    "text": "factor de simultaneidad."
+  },
+  {
+    "start": 1803.0,
+    "duration": 4.88,
+    "text": "A medida que aumenta la cantidad de"
+  },
+  {
+    "start": 1805.159,
+    "duration": 7.041,
+    "text": "usuarios, el factor de simultaneidad"
+  },
+  {
+    "start": 1807.88,
+    "duration": 4.32,
+    "text": "cada vez va siendo más pequeño."
+  },
+  {
+    "start": 1824.48,
+    "duration": 5.799,
+    "text": "Bueno, y ahora entramos en otro aspecto"
+  },
+  {
+    "start": 1827.6,
+    "duration": 5.679,
+    "text": "que tiene que ver con la caracterización"
+  },
+  {
+    "start": 1830.279,
+    "duration": 3.0,
+    "text": "geográfica."
+  },
+  {
+    "start": 1836.399,
+    "duration": 7.241,
+    "text": "Eh, esto vuelvo acá"
+  },
+  {
+    "start": 1839.72,
+    "duration": 3.92,
+    "text": "que lo vean de vuelta"
+  },
+  {
+    "start": 1844.36,
+    "duration": 5.919,
+    "text": "y tengan presente como otra vez la"
+  },
+  {
+    "start": 1847.279,
+    "duration": 3.0,
+    "text": "ecuación"
+  },
+  {
+    "start": 1850.679,
+    "duration": 5.441,
+    "text": "y y esto se aplica"
+  },
+  {
+    "start": 1853.12,
+    "duration": 3.0,
+    "text": "siempre."
+  },
+  {
+    "start": 1857.76,
+    "duration": 4.2,
+    "text": "Bueno, la caracterización geográfica,"
+  },
+  {
+    "start": 1862.6,
+    "duration": 5.76,
+    "text": "aquí empezamos con otro aspecto que es"
+  },
+  {
+    "start": 1864.639,
+    "duration": 7.201,
+    "text": "bastante medular, que es la que puede"
+  },
+  {
+    "start": 1868.36,
+    "duration": 5.919,
+    "text": "ser urbano o rural."
+  },
+  {
+    "start": 1871.84,
+    "duration": 4.679,
+    "text": "Dentro de Urbano tenemos el residencial,"
+  },
+  {
+    "start": 1874.279,
+    "duration": 5.321,
+    "text": "residencial comercial,"
+  },
+  {
+    "start": 1876.519,
+    "duration": 6.681,
+    "text": "residencial industry y pyme y polígonos"
+  },
+  {
+    "start": 1879.6,
+    "duration": 5.959,
+    "text": "que son áreas específicas que puede ser,"
+  },
+  {
+    "start": 1883.2,
+    "duration": 6.079,
+    "text": "por ejemplo, un country o directamente"
+  },
+  {
+    "start": 1885.559,
+    "duration": 7.72,
+    "text": "un parque industrial. Y después, bueno,"
+  },
+  {
+    "start": 1889.279,
+    "duration": 8.161,
+    "text": "este, la distribución rural es puede ser"
+  },
+  {
+    "start": 1893.279,
+    "duration": 8.4,
+    "text": "a través de la planicie o a nivel del"
+  },
+  {
+    "start": 1897.44,
+    "duration": 8.719,
+    "text": "campo o insular en una isla como puede"
+  },
+  {
+    "start": 1901.679,
+    "duration": 4.48,
+    "text": "ser el delta del tigre."
+  },
+  {
+    "start": 1907.0,
+    "duration": 6.24,
+    "text": "Bien,"
+  },
+  {
+    "start": 1909.399,
+    "duration": 6.0,
+    "text": "acá tenemos una"
+  },
+  {
+    "start": 1913.24,
+    "duration": 5.799,
+    "text": "infografía"
+  },
+  {
+    "start": 1915.399,
+    "duration": 6.321,
+    "text": "donde se se puede visualizar"
+  },
+  {
+    "start": 1919.039,
+    "duration": 4.921,
+    "text": "la concentración"
+  },
+  {
+    "start": 1921.72,
+    "duration": 6.04,
+    "text": "de lo que es el área residencial,"
+  },
+  {
+    "start": 1923.96,
+    "duration": 3.8,
+    "text": "segmentos no carenciados,"
+  },
+  {
+    "start": 1933.36,
+    "duration": 5.799,
+    "text": "polígonos que son"
+  },
+  {
+    "start": 1935.76,
+    "duration": 8.08,
+    "text": "lugares específicamente comerciales,"
+  },
+  {
+    "start": 1939.159,
+    "duration": 8.88,
+    "text": "rurales y y áreas verdes."
+  },
+  {
+    "start": 1943.84,
+    "duration": 4.199,
+    "text": "Esto pertenece a Edenor"
+  },
+  {
+    "start": 1950.08,
+    "duration": 4.719,
+    "text": "para que ustedes puedan ver cómo se"
+  },
+  {
+    "start": 1951.799,
+    "duration": 3.0,
+    "text": "concentra."
+  },
+  {
+    "start": 1955.32,
+    "duration": 6.079,
+    "text": "Entonces, yo debería"
+  },
+  {
+    "start": 1957.519,
+    "duration": 5.4,
+    "text": "hacer este una"
+  },
+  {
+    "start": 1961.399,
+    "duration": 3.28,
+    "text": "dimensionamiento."
+  },
+  {
+    "start": 1962.919,
+    "duration": 4.0,
+    "text": "Todas estas figuras no tienen nada que"
+  },
+  {
+    "start": 1964.679,
+    "duration": 4.281,
+    "text": "ver con términos municipales, sino es el"
+  },
+  {
+    "start": 1966.919,
+    "duration": 5.72,
+    "text": "área"
+  },
+  {
+    "start": 1968.96,
+    "duration": 8.959,
+    "text": "eléctrica que abastece cada una de estas"
+  },
+  {
+    "start": 1972.639,
+    "duration": 9.64,
+    "text": "zonas en donde yo he hecho tratado de"
+  },
+  {
+    "start": 1977.919,
+    "duration": 7.24,
+    "text": "buscar que los megwti hh por kilómetro"
+  },
+  {
+    "start": 1982.279,
+    "duration": 5.321,
+    "text": "cuadrado"
+  },
+  {
+    "start": 1985.159,
+    "duration": 5.64,
+    "text": "la densidad de energías vayan siendo"
+  },
+  {
+    "start": 1987.6,
+    "duration": 6.48,
+    "text": "similares. La única diferencia es que es"
+  },
+  {
+    "start": 1990.799,
+    "duration": 3.281,
+    "text": "la dispersión."
+  },
+  {
+    "start": 1995.48,
+    "duration": 4.52,
+    "text": "Entonces, aquí tenemos una"
+  },
+  {
+    "start": 2000.88,
+    "duration": 6.639,
+    "text": "infografía donde por cuál es el rango"
+  },
+  {
+    "start": 2003.72,
+    "duration": 3.799,
+    "text": "que uno toma,"
+  },
+  {
+    "start": 2008.519,
+    "duration": 5.561,
+    "text": "siempre hablando de megwti por kilómetro"
+  },
+  {
+    "start": 2011.36,
+    "duration": 5.439,
+    "text": "cuad para baja densidad, densidad"
+  },
+  {
+    "start": 2014.08,
+    "duration": 5.079,
+    "text": "urbana, media, alta. Esto cada"
+  },
+  {
+    "start": 2016.799,
+    "duration": 5.801,
+    "text": "distribuidora puede tener distintas"
+  },
+  {
+    "start": 2019.159,
+    "duration": 7.921,
+    "text": "variaciones y bueno, es típico de cómo"
+  },
+  {
+    "start": 2022.6,
+    "duration": 7.48,
+    "text": "quieren hacer la este"
+  },
+  {
+    "start": 2027.08,
+    "duration": 5.16,
+    "text": "la el dimensionamiento de su red. Y por"
+  },
+  {
+    "start": 2030.08,
+    "duration": 4.88,
+    "text": "último tenemos también una, esta es la"
+  },
+  {
+    "start": 2032.24,
+    "duration": 5.2,
+    "text": "primera división por densidad y la"
+  },
+  {
+    "start": 2034.96,
+    "duration": 5.16,
+    "text": "segunda es un subrango"
+  },
+  {
+    "start": 2037.44,
+    "duration": 5.479,
+    "text": "que eh que es un factor multiplicador"
+  },
+  {
+    "start": 2040.12,
+    "duration": 7.32,
+    "text": "que para los distintos segmentos puede"
+  },
+  {
+    "start": 2042.919,
+    "duration": 11.24,
+    "text": "variar de 0 a 5, de 0,5 a 1, de 1 a 2, 2"
+  },
+  {
+    "start": 2047.44,
+    "duration": 6.719,
+    "text": "a 3, depende de eh de la incidencia."
+  },
+  {
+    "start": 2054.96,
+    "duration": 5.52,
+    "text": "Fíjese acá un aspecto que entre la"
+  },
+  {
+    "start": 2057.879,
+    "duration": 7.561,
+    "text": "residencial y carenciada la dispersión"
+  },
+  {
+    "start": 2060.48,
+    "duration": 4.96,
+    "text": "es el subrango mucho mayor."
+  },
+  {
+    "start": 2067.119,
+    "duration": 6.0,
+    "text": "Bien,"
+  },
+  {
+    "start": 2069.24,
+    "duration": 5.48,
+    "text": "entonces con esto entramos lo que es"
+  },
+  {
+    "start": 2073.119,
+    "duration": 4.601,
+    "text": "hablar de un área típica de"
+  },
+  {
+    "start": 2074.72,
+    "duration": 3.0,
+    "text": "distribución."
+  },
+  {
+    "start": 2084.72,
+    "duration": 6.199,
+    "text": "Y esto es importante"
+  },
+  {
+    "start": 2087.48,
+    "duration": 3.439,
+    "text": "por lo siguiente."
+  },
+  {
+    "start": 2096.119,
+    "duration": 8.121,
+    "text": "Aquí tenemos el área típica de"
+  },
+  {
+    "start": 2097.72,
+    "duration": 9.359,
+    "text": "distribución 1, la 21, 2.1, 2.2 y 3."
+  },
+  {
+    "start": 2104.24,
+    "duration": 5.68,
+    "text": "es una nomenclatura nada más y el rango"
+  },
+  {
+    "start": 2107.079,
+    "duration": 5.76,
+    "text": "de lo que veníamos hablando."
+  },
+  {
+    "start": 2109.92,
+    "duration": 4.6,
+    "text": "Entonces, vamos a las ecuaciones ahora."
+  },
+  {
+    "start": 2112.839,
+    "duration": 4.841,
+    "text": "Entonces, tenemos una densidad de"
+  },
+  {
+    "start": 2114.52,
+    "duration": 5.12,
+    "text": "consumo eléctrico que, como siempre les"
+  },
+  {
+    "start": 2117.68,
+    "duration": 4.2,
+    "text": "venía diciendo, es en kilow hh por"
+  },
+  {
+    "start": 2119.64,
+    "duration": 5.4,
+    "text": "kilómetro cuadrad, la energía consumida"
+  },
+  {
+    "start": 2121.88,
+    "duration": 6.8,
+    "text": "en el área y la superficie. una ecuación"
+  },
+  {
+    "start": 2125.04,
+    "duration": 5.88,
+    "text": "simple, pero me sirve a mí para"
+  },
+  {
+    "start": 2128.68,
+    "duration": 5.96,
+    "text": "dimensionar el mapa que vimos antes con"
+  },
+  {
+    "start": 2130.92,
+    "duration": 3.72,
+    "text": "los distintos colores."
+  },
+  {
+    "start": 2134.839,
+    "duration": 4.401,
+    "text": "Entonces, aquí a partir de ahora vemos"
+  },
+  {
+    "start": 2137.2,
+    "duration": 5.6,
+    "text": "cómo se empiezan a utilizar los"
+  },
+  {
+    "start": 2139.24,
+    "duration": 6.68,
+    "text": "diferentes factores y uno es el factor"
+  },
+  {
+    "start": 2142.8,
+    "duration": 5.2,
+    "text": "de este de utilización que habíamos"
+  },
+  {
+    "start": 2145.92,
+    "duration": 4.199,
+    "text": "visto en horas."
+  },
+  {
+    "start": 2148.0,
+    "duration": 5.24,
+    "text": "Entonces, la potencia necesaria en una"
+  },
+  {
+    "start": 2150.119,
+    "duration": 5.48,
+    "text": "cuadrícula está dada por la energía"
+  },
+  {
+    "start": 2153.24,
+    "duration": 5.839,
+    "text": "consumida en la cuadrícula"
+  },
+  {
+    "start": 2155.599,
+    "duration": 6.121,
+    "text": "y el tiempo de utilización"
+  },
+  {
+    "start": 2159.079,
+    "duration": 5.161,
+    "text": "y multiplicado todo ello por el factor"
+  },
+  {
+    "start": 2161.72,
+    "duration": 5.32,
+    "text": "de simultaneidad interna o externa, que"
+  },
+  {
+    "start": 2164.24,
+    "duration": 7.0,
+    "text": "es un factor adimensional, que son los"
+  },
+  {
+    "start": 2167.04,
+    "duration": 6.52,
+    "text": "que hemos calculado antes."
+  },
+  {
+    "start": 2171.24,
+    "duration": 5.079,
+    "text": "Esto me permite a mí establecer cuál es"
+  },
+  {
+    "start": 2173.56,
+    "duration": 7.12,
+    "text": "la potencia máxima que voy a necesitar"
+  },
+  {
+    "start": 2176.319,
+    "duration": 4.361,
+    "text": "tener en cuenta por cada cuadrícula."
+  },
+  {
+    "start": 2181.8,
+    "duration": 6.08,
+    "text": "Entonces, supongamos que una cuadrícula"
+  },
+  {
+    "start": 2184.68,
+    "duration": 6.08,
+    "text": "urbana de 1 km de 1 km cuad en Buenos"
+  },
+  {
+    "start": 2187.88,
+    "duration": 6.4,
+    "text": "Aires, la energía anual es de 1,200, el"
+  },
+  {
+    "start": 2190.76,
+    "duration": 5.96,
+    "text": "tiempo de utilización 450 horas y el"
+  },
+  {
+    "start": 2194.28,
+    "duration": 5.0,
+    "text": "factor de utilización es 07. Entonces,"
+  },
+  {
+    "start": 2196.72,
+    "duration": 6.24,
+    "text": "aquí tenemos que la potencia de la"
+  },
+  {
+    "start": 2199.28,
+    "duration": 6.559,
+    "text": "cuadrícula es de 1867"
+  },
+  {
+    "start": 2202.96,
+    "duration": 5.76,
+    "text": "kW."
+  },
+  {
+    "start": 2205.839,
+    "duration": 5.561,
+    "text": "Entonces, necesito una potencia de"
+  },
+  {
+    "start": 2208.72,
+    "duration": 5.399,
+    "text": "aproximadamente 1. Para cubrir la"
+  },
+  {
+    "start": 2211.4,
+    "duration": 4.679,
+    "text": "demanda máxima. Ahora, ¿qué pasa si el"
+  },
+  {
+    "start": 2214.119,
+    "duration": 3.681,
+    "text": "factor de simultaneidad tiene otros"
+  },
+  {
+    "start": 2216.079,
+    "duration": 4.0,
+    "text": "valores?"
+  },
+  {
+    "start": 2217.8,
+    "duration": 4.92,
+    "text": "Fíjense que la dispersión pasamos de"
+  },
+  {
+    "start": 2220.079,
+    "duration": 6.201,
+    "text": "133, siguiendo el ejemplo del"
+  },
+  {
+    "start": 2222.72,
+    "duration": 6.2,
+    "text": "transformador a 2400."
+  },
+  {
+    "start": 2226.28,
+    "duration": 4.799,
+    "text": "O sea, que tenemos una diferencia del"
+  },
+  {
+    "start": 2228.92,
+    "duration": 5.6,
+    "text": "más menos 20%."
+  },
+  {
+    "start": 2231.079,
+    "duration": 6.401,
+    "text": "Por eso es muy importante ajustar"
+  },
+  {
+    "start": 2234.52,
+    "duration": 7.079,
+    "text": "siempre el factor de simultaneidad y"
+  },
+  {
+    "start": 2237.48,
+    "duration": 4.119,
+    "text": "tenerlo bien calculado."
+  },
+  {
+    "start": 2248.96,
+    "duration": 6.32,
+    "text": "Eh, ¿quieren hacer un intervalo de 5"
+  },
+  {
+    "start": 2251.8,
+    "duration": 3.48,
+    "text": "minutos para"
+  },
+  {
+    "start": 2256.8,
+    "duration": 1.88,
+    "text": "Bueno,"
+  },
+  {
+    "start": 2257.16,
+    "duration": 3.12,
+    "text": "hola?"
+  },
+  {
+    "start": 2258.68,
+    "duration": 4.0,
+    "text": "Dale, dale, Vicente."
+  },
+  {
+    "start": 2260.28,
+    "duration": 3.039,
+    "text": "Sí, sí, está bien."
+  },
+  {
+    "start": 2262.68,
+    "duration": 2.639,
+    "text": "Cortamos un"
+  },
+  {
+    "start": 2263.319,
+    "duration": 5.641,
+    "text": "Bueno, para que para que no sea tan"
+  },
+  {
+    "start": 2265.319,
+    "duration": 6.28,
+    "text": "aburrido este y no correr tanto. Bueno,"
+  },
+  {
+    "start": 2268.96,
+    "duration": 4.04,
+    "text": "en retomamos en 5 minutos, entonces."
+  },
+  {
+    "start": 2271.599,
+    "duration": 4.401,
+    "text": "Dale, gracias."
+  },
+  {
+    "start": 2273.0,
+    "duration": 3.0,
+    "text": "Perfecto."
+  },
+  {
+    "start": 2279.52,
+    "duration": 3.24,
+    "text": "Bueno, continuamos."
+  },
+  {
+    "start": 2283.44,
+    "duration": 3.679,
+    "text": "Dale no más, Vicente."
+  },
+  {
+    "start": 2287.52,
+    "duration": 5.88,
+    "text": "Bueno,"
+  },
+  {
+    "start": 2289.599,
+    "duration": 3.801,
+    "text": "criterios principales."
+  },
+  {
+    "start": 2294.88,
+    "duration": 4.239,
+    "text": "A mayor potencia requerida se necesita"
+  },
+  {
+    "start": 2297.119,
+    "duration": 4.24,
+    "text": "un nivel de tensión más alto para"
+  },
+  {
+    "start": 2299.119,
+    "duration": 4.761,
+    "text": "reducir la corriente"
+  },
+  {
+    "start": 2301.359,
+    "duration": 5.24,
+    "text": "y las pérdidas. Ejemplo, un el"
+  },
+  {
+    "start": 2303.88,
+    "duration": 7.0,
+    "text": "transformador famoso que vimos que suele"
+  },
+  {
+    "start": 2306.599,
+    "duration": 6.641,
+    "text": "trabajar de 315 a 13 eh perdón, que"
+  },
+  {
+    "start": 2310.88,
+    "duration": 3.959,
+    "text": "suele trabajar a media tensión a 13,2"
+  },
+  {
+    "start": 2313.24,
+    "duration": 4.48,
+    "text": "kV."
+  },
+  {
+    "start": 2314.839,
+    "duration": 6.881,
+    "text": "la distancia del transporte, cuanto más"
+  },
+  {
+    "start": 2317.72,
+    "duration": 7.24,
+    "text": "larga es la línea eh para disminuir las"
+  },
+  {
+    "start": 2321.72,
+    "duration": 6.879,
+    "text": "pérdidas por efecto Jul, el reactivo"
+  },
+  {
+    "start": 2324.96,
+    "duration": 6.879,
+    "text": "tiene que ser eh acorde y ahí empieza a"
+  },
+  {
+    "start": 2328.599,
+    "duration": 8.161,
+    "text": "jugar el tema del coseno fi."
+  },
+  {
+    "start": 2331.839,
+    "duration": 7.441,
+    "text": "Dado que a su vez el coseno fi más bajo,"
+  },
+  {
+    "start": 2336.76,
+    "duration": 5.28,
+    "text": "más alto, perdón, o sea, de 0,8"
+  },
+  {
+    "start": 2339.28,
+    "duration": 5.88,
+    "text": "tendiendo a uno, eh tenemos la"
+  },
+  {
+    "start": 2342.04,
+    "duration": 5.76,
+    "text": "minimización de las pérdidas por efecto"
+  },
+  {
+    "start": 2345.16,
+    "duration": 5.32,
+    "text": "en las líneas de transporte."
+  },
+  {
+    "start": 2347.8,
+    "duration": 6.16,
+    "text": "Así que esto es vital también manejar"
+  },
+  {
+    "start": 2350.48,
+    "duration": 6.119,
+    "text": "bien la demanda para no subir reactivo"
+  },
+  {
+    "start": 2353.96,
+    "duration": 4.8,
+    "text": "desde las partes inferiores del consumo"
+  },
+  {
+    "start": 2356.599,
+    "duration": 5.161,
+    "text": "residencial hacia las redes de alta"
+  },
+  {
+    "start": 2358.76,
+    "duration": 3.0,
+    "text": "tensión."
+  },
+  {
+    "start": 2361.96,
+    "duration": 7.08,
+    "text": "Bien, entonces aquí eh"
+  },
+  {
+    "start": 2366.04,
+    "duration": 6.2,
+    "text": "puedo les pregunto a todos ustedes, a"
+  },
+  {
+    "start": 2369.04,
+    "duration": 4.88,
+    "text": "ver quién lo puede responder, es"
+  },
+  {
+    "start": 2372.24,
+    "duration": 6.04,
+    "text": "dónde está en todo lo que estuvimos"
+  },
+  {
+    "start": 2373.92,
+    "duration": 4.36,
+    "text": "hablando ahora, la calidad de servicio,"
+  },
+  {
+    "start": 2383.839,
+    "duration": 6.24,
+    "text": "eh diseñar unas buenas redes o unas"
+  },
+  {
+    "start": 2387.44,
+    "duration": 5.08,
+    "text": "adecuadas"
+  },
+  {
+    "start": 2390.079,
+    "duration": 5.441,
+    "text": "da pensando en esa demanda y en la"
+  },
+  {
+    "start": 2392.52,
+    "duration": 4.96,
+    "text": "caracterización de esa demanda puede dar"
+  },
+  {
+    "start": 2395.52,
+    "duration": 3.4,
+    "text": "un buen servicio, una calidad buena"
+  },
+  {
+    "start": 2397.48,
+    "duration": 3.359,
+    "text": "energía."
+  },
+  {
+    "start": 2398.92,
+    "duration": 4.399,
+    "text": "Bien, ahí nos estamos aproximando el"
+  },
+  {
+    "start": 2400.839,
+    "duration": 5.441,
+    "text": "tema. En todas estas cosas que se hablan"
+  },
+  {
+    "start": 2403.319,
+    "duration": 7.481,
+    "text": "de área típica de distribución y todo,"
+  },
+  {
+    "start": 2406.28,
+    "duration": 6.96,
+    "text": "hay este hay una discrepancia en de dos"
+  },
+  {
+    "start": 2410.8,
+    "duration": 5.68,
+    "text": "escuelas distintas."
+  },
+  {
+    "start": 2413.24,
+    "duration": 4.96,
+    "text": "Una es eh hacer un área típica de"
+  },
+  {
+    "start": 2416.48,
+    "duration": 3.879,
+    "text": "distribución"
+  },
+  {
+    "start": 2418.2,
+    "duration": 5.96,
+    "text": "donde el cual la calidad de servicio ya"
+  },
+  {
+    "start": 2420.359,
+    "duration": 6.24,
+    "text": "está dada por los componentes del área y"
+  },
+  {
+    "start": 2424.16,
+    "duration": 5.199,
+    "text": "que se supone que no vas a tener"
+  },
+  {
+    "start": 2426.599,
+    "duration": 4.681,
+    "text": "problemas de abastecimiento a nivel de"
+  },
+  {
+    "start": 2429.359,
+    "duration": 5.0,
+    "text": "potencia."
+  },
+  {
+    "start": 2431.28,
+    "duration": 6.16,
+    "text": "Pero sí podes, pero no se ve si puede"
+  },
+  {
+    "start": 2434.359,
+    "duration": 6.081,
+    "text": "tener problemas a nivel de control de"
+  },
+  {
+    "start": 2437.44,
+    "duration": 3.0,
+    "text": "tensión."
+  },
+  {
+    "start": 2440.52,
+    "duration": 5.839,
+    "text": "Entonces, [carraspeo]"
+  },
+  {
+    "start": 2442.56,
+    "duration": 6.0,
+    "text": "aquí empieza uno eh a discernir porque"
+  },
+  {
+    "start": 2446.359,
+    "duration": 5.0,
+    "text": "una cosa es un modelo teórico como el"
+  },
+  {
+    "start": 2448.56,
+    "duration": 4.48,
+    "text": "que estamos viendo ahora y y otro es el"
+  },
+  {
+    "start": 2451.359,
+    "duration": 4.441,
+    "text": "modelo real que yo tengo en el"
+  },
+  {
+    "start": 2453.04,
+    "duration": 5.36,
+    "text": "desarrollo de las redes, porque no"
+  },
+  {
+    "start": 2455.8,
+    "duration": 4.24,
+    "text": "siempre en el desarrollo de las redes se"
+  },
+  {
+    "start": 2458.4,
+    "duration": 4.08,
+    "text": "respeta"
+  },
+  {
+    "start": 2460.04,
+    "duration": 5.24,
+    "text": "la cuestión del área típica de"
+  },
+  {
+    "start": 2462.48,
+    "duration": 5.4,
+    "text": "distribución. ¿Y por qué no se respeta?"
+  },
+  {
+    "start": 2465.28,
+    "duration": 6.76,
+    "text": "Bueno, lamentablemente en nuestro país"
+  },
+  {
+    "start": 2467.88,
+    "duration": 6.64,
+    "text": "por eh falta de tarifa o por lo que sea,"
+  },
+  {
+    "start": 2472.04,
+    "duration": 5.36,
+    "text": "entonces la muchas de las redes de"
+  },
+  {
+    "start": 2474.52,
+    "duration": 7.04,
+    "text": "distribución en vez de ser anilladas,"
+  },
+  {
+    "start": 2477.4,
+    "duration": 7.48,
+    "text": "por ejemplo, terminan convirtiéndose en"
+  },
+  {
+    "start": 2481.56,
+    "duration": 6.24,
+    "text": "áreas donde llega un transformador y se"
+  },
+  {
+    "start": 2484.88,
+    "duration": 5.52,
+    "text": "disparan cables en forma radial."
+  },
+  {
+    "start": 2487.8,
+    "duration": 5.12,
+    "text": "Entonces, la pérdida de un cable no hay"
+  },
+  {
+    "start": 2490.4,
+    "duration": 4.439,
+    "text": "manera de reponer el servicio si no es"
+  },
+  {
+    "start": 2492.92,
+    "duration": 3.64,
+    "text": "reparando el cable."
+  },
+  {
+    "start": 2494.839,
+    "duration": 4.28,
+    "text": "Eh,"
+  },
+  {
+    "start": 2496.56,
+    "duration": 4.759,
+    "text": "mientras que si estuviera un anillo en"
+  },
+  {
+    "start": 2499.119,
+    "duration": 5.361,
+    "text": "el punto donde tengo yo el foco, lo"
+  },
+  {
+    "start": 2501.319,
+    "duration": 5.881,
+    "text": "podría aislar y abastecer al menos,"
+  },
+  {
+    "start": 2504.48,
+    "duration": 4.56,
+    "text": "salvo en el punto del foco que tengo"
+  },
+  {
+    "start": 2507.2,
+    "duration": 5.2,
+    "text": "definido, que tengo la falta de"
+  },
+  {
+    "start": 2509.04,
+    "duration": 7.2,
+    "text": "servicio, el resto podría volver a darle"
+  },
+  {
+    "start": 2512.4,
+    "duration": 7.56,
+    "text": "este eh servicio."
+  },
+  {
+    "start": 2516.24,
+    "duration": 5.52,
+    "text": "Y entonces aquí es donde aparecen las"
+  },
+  {
+    "start": 2519.96,
+    "duration": 4.32,
+    "text": "dos bibliografías. Para determinar"
+  },
+  {
+    "start": 2521.76,
+    "duration": 4.04,
+    "text": "tarifa siempre se usa el área típica de"
+  },
+  {
+    "start": 2524.28,
+    "duration": 4.44,
+    "text": "distribución."
+  },
+  {
+    "start": 2525.8,
+    "duration": 5.96,
+    "text": "Yo no comparto mucho esa idea porque eso"
+  },
+  {
+    "start": 2528.72,
+    "duration": 4.92,
+    "text": "no me permite a mí reflejar en cierta"
+  },
+  {
+    "start": 2531.76,
+    "duration": 4.4,
+    "text": "manera la calidad de servicio que estoy"
+  },
+  {
+    "start": 2533.64,
+    "duration": 5.6,
+    "text": "entregando porque es enmascarada."
+  },
+  {
+    "start": 2536.16,
+    "duration": 7.88,
+    "text": "Eh, no es lo mismo un barrio periférico"
+  },
+  {
+    "start": 2539.24,
+    "duration": 7.76,
+    "text": "que un barrio este ya consolidado,"
+  },
+  {
+    "start": 2544.04,
+    "duration": 4.6,
+    "text": "donde este las redes están en vías de"
+  },
+  {
+    "start": 2547.0,
+    "duration": 4.72,
+    "text": "desarrollo."
+  },
+  {
+    "start": 2548.64,
+    "duration": 7.32,
+    "text": "Entonces, eh una de las tendencias que"
+  },
+  {
+    "start": 2551.72,
+    "duration": 6.639,
+    "text": "se usa es partir de la tipografía de la"
+  },
+  {
+    "start": 2555.96,
+    "duration": 4.0,
+    "text": "red existente."
+  },
+  {
+    "start": 2558.359,
+    "duration": 4.801,
+    "text": "Uno podría hacer cálculos de"
+  },
+  {
+    "start": 2559.96,
+    "duration": 5.639,
+    "text": "confiabilidad en el cual significa que"
+  },
+  {
+    "start": 2563.16,
+    "duration": 5.199,
+    "text": "cada elemento compositivo de la red"
+  },
+  {
+    "start": 2565.599,
+    "duration": 5.601,
+    "text": "tiene su propio índice de falla y eso es"
+  },
+  {
+    "start": 2568.359,
+    "duration": 6.0,
+    "text": "histórico y uno no tiene relevado."
+  },
+  {
+    "start": 2571.2,
+    "duration": 8.08,
+    "text": "Entonces uno podría agarrar una una red,"
+  },
+  {
+    "start": 2574.359,
+    "duration": 7.081,
+    "text": "simularla y ver qué es lo que pasa si eh"
+  },
+  {
+    "start": 2579.28,
+    "duration": 4.079,
+    "text": "se comporta empezando por aquel"
+  },
+  {
+    "start": 2581.44,
+    "duration": 5.32,
+    "text": "componente que tiene mayor índice de"
+  },
+  {
+    "start": 2583.359,
+    "duration": 7.441,
+    "text": "falla e ir bajando y ver cómo impacta en"
+  },
+  {
+    "start": 2586.76,
+    "duration": 6.2,
+    "text": "la red. Entonces ese impacto en la red"
+  },
+  {
+    "start": 2590.8,
+    "duration": 4.68,
+    "text": "me va a decir a mí la calidad de"
+  },
+  {
+    "start": 2592.96,
+    "duration": 5.639,
+    "text": "servicios de productos técnico que estoy"
+  },
+  {
+    "start": 2595.48,
+    "duration": 5.44,
+    "text": "que estoy ofreciendo, tanto sea como en"
+  },
+  {
+    "start": 2598.599,
+    "duration": 6.321,
+    "text": "durabilidad,"
+  },
+  {
+    "start": 2600.92,
+    "duration": 7.199,
+    "text": "en energía y en y en niveles de eh"
+  },
+  {
+    "start": 2604.92,
+    "duration": 6.199,
+    "text": "tensión adecuados."
+  },
+  {
+    "start": 2608.119,
+    "duration": 3.0,
+    "text": "Eh"
+  },
+  {
+    "start": 2611.16,
+    "duration": 5.84,
+    "text": "creo que se entendió, ¿no?, lo que"
+  },
+  {
+    "start": 2614.0,
+    "duration": 6.559,
+    "text": "expliqué. ¿O tiene alguna duda, quiere"
+  },
+  {
+    "start": 2617.0,
+    "duration": 3.559,
+    "text": "hacer alguna pregunta?"
+  },
+  {
+    "start": 2624.24,
+    "duration": 5.56,
+    "text": "Esta"
+  },
+  {
+    "start": 2625.599,
+    "duration": 6.281,
+    "text": "el estos cálculos o"
+  },
+  {
+    "start": 2629.8,
+    "duration": 4.6,
+    "text": "pensando la caracterización de esta"
+  },
+  {
+    "start": 2631.88,
+    "duration": 5.239,
+    "text": "demanda y las redes para esa demanda,"
+  },
+  {
+    "start": 2634.4,
+    "duration": 5.439,
+    "text": "¿qué pasa ahora con con esto este nuevo"
+  },
+  {
+    "start": 2637.119,
+    "duration": 7.0,
+    "text": "usuario que puede inyectar a la red?"
+  },
+  {
+    "start": 2639.839,
+    "duration": 6.72,
+    "text": "¿Cómo se cómo toda esta esta eh demanda"
+  },
+  {
+    "start": 2644.119,
+    "duration": 4.841,
+    "text": "típica y esta redes típicas de las"
+  },
+  {
+    "start": 2646.559,
+    "duration": 5.441,
+    "text": "cuales estamos hablando ya con ese nuevo"
+  },
+  {
+    "start": 2648.96,
+    "duration": 6.96,
+    "text": "usuario debe influir? Eh, no soy"
+  },
+  {
+    "start": 2652.0,
+    "duration": 6.52,
+    "text": "ingeniero, eh, pero"
+  },
+  {
+    "start": 2655.92,
+    "duration": 4.76,
+    "text": "considerablemente en la en"
+  },
+  {
+    "start": 2658.52,
+    "duration": 4.799,
+    "text": "proyección de esas redes."
+  },
+  {
+    "start": 2660.68,
+    "duration": 4.36,
+    "text": "Bueno, muy buena, muy buena pregunta"
+  },
+  {
+    "start": 2663.319,
+    "duration": 4.161,
+    "text": "porque todo esto que estuvimos viendo"
+  },
+  {
+    "start": 2665.04,
+    "duration": 4.48,
+    "text": "hasta ahora es la parte de venta de"
+  },
+  {
+    "start": 2667.48,
+    "duration": 4.28,
+    "text": "energía por parte del usuario, no lo"
+  },
+  {
+    "start": 2669.52,
+    "duration": 3.92,
+    "text": "estamos tocando, o venta de energía por"
+  },
+  {
+    "start": 2671.76,
+    "duration": 4.0,
+    "text": "parte de un usuario industrial que le"
+  },
+  {
+    "start": 2673.44,
+    "duration": 5.32,
+    "text": "sobra energía en un determinado momento"
+  },
+  {
+    "start": 2675.76,
+    "duration": 5.24,
+    "text": "y la quiere volcar al mercado."
+  },
+  {
+    "start": 2678.76,
+    "duration": 6.319,
+    "text": "Uno en las consideraciones que tiene que"
+  },
+  {
+    "start": 2681.0,
+    "duration": 7.52,
+    "text": "hacer, eso lo puede evaluar a través del"
+  },
+  {
+    "start": 2685.079,
+    "duration": 5.28,
+    "text": "factor de uso, que es el"
+  },
+  {
+    "start": 2688.52,
+    "duration": 3.599,
+    "text": "el"
+  },
+  {
+    "start": 2690.359,
+    "duration": 3.881,
+    "text": "uno de los aspectos, y el otro es el"
+  },
+  {
+    "start": 2692.119,
+    "duration": 5.72,
+    "text": "factor de carga. Con esos dos parámetros"
+  },
+  {
+    "start": 2694.24,
+    "duration": 7.4,
+    "text": "uno puede ver o incidir"
+  },
+  {
+    "start": 2697.839,
+    "duration": 7.28,
+    "text": "cómo va a ser o el resultado."
+  },
+  {
+    "start": 2701.64,
+    "duration": 5.12,
+    "text": "Eh, fíjense, ahora les tengo como"
+  },
+  {
+    "start": 2705.119,
+    "duration": 4.881,
+    "text": "ejemplo."
+  },
+  {
+    "start": 2706.76,
+    "duration": 6.68,
+    "text": "En España hay que ustedes saben que es"
+  },
+  {
+    "start": 2710.0,
+    "duration": 6.359,
+    "text": "prácticamente hoy está almacenado por un"
+  },
+  {
+    "start": 2713.44,
+    "duration": 7.2,
+    "text": "sin número de parques fotovoltaicos."
+  },
+  {
+    "start": 2716.359,
+    "duration": 6.681,
+    "text": "En algunas zonas tienen problemas porque"
+  },
+  {
+    "start": 2720.64,
+    "duration": 4.719,
+    "text": "eh, por ejemplo,"
+  },
+  {
+    "start": 2723.04,
+    "duration": 4.92,
+    "text": "en una cuadra, supongo, pues hagamos un"
+  },
+  {
+    "start": 2725.359,
+    "duration": 6.521,
+    "text": "ejercicio mental nada más. Supongamos"
+  },
+  {
+    "start": 2727.96,
+    "duration": 6.2,
+    "text": "que en una cuadra tenemos 10 usuarios y"
+  },
+  {
+    "start": 2731.88,
+    "duration": 5.12,
+    "text": "ocho de ellos"
+  },
+  {
+    "start": 2734.16,
+    "duration": 5.12,
+    "text": "prácticamente este se autoabastecen de"
+  },
+  {
+    "start": 2737.0,
+    "duration": 5.359,
+    "text": "energía y lo venden a la y lo ofrecen a"
+  },
+  {
+    "start": 2739.28,
+    "duration": 4.839,
+    "text": "la red. Lo la energía por ahí la toman"
+  },
+  {
+    "start": 2742.359,
+    "duration": 3.921,
+    "text": "los dos usuarios restantes. Entonces,"
+  },
+  {
+    "start": 2744.119,
+    "duration": 6.72,
+    "text": "¿qué es lo que va a suceder? Y es un"
+  },
+  {
+    "start": 2746.28,
+    "duration": 4.559,
+    "text": "cable que pasa a estar sobredimensionado"
+  },
+  {
+    "start": 2754.559,
+    "duration": 4.361,
+    "text": "porque está pensando para altas cargas."
+  },
+  {
+    "start": 2756.68,
+    "duration": 4.32,
+    "text": "Ahora bien, ahí aparece un problema"
+  },
+  {
+    "start": 2758.92,
+    "duration": 4.88,
+    "text": "tarifario."
+  },
+  {
+    "start": 2761.0,
+    "duration": 4.76,
+    "text": "¿Por qué? Porque si yo le entrego a la"
+  },
+  {
+    "start": 2763.8,
+    "duration": 4.6,
+    "text": "red, ¿quién me paga el costo? ¿Quién le"
+  },
+  {
+    "start": 2765.76,
+    "duration": 5.24,
+    "text": "paga al distribuidor el costo fijo de"
+  },
+  {
+    "start": 2768.4,
+    "duration": 7.12,
+    "text": "mantenimiento? Si todo el mundo es"
+  },
+  {
+    "start": 2771.0,
+    "duration": 4.52,
+    "text": "usuario ofertante y no demandante."
+  },
+  {
+    "start": 2778.359,
+    "duration": 4.161,
+    "text": "Esos son los problemas que están"
+  },
+  {
+    "start": 2779.64,
+    "duration": 5.479,
+    "text": "teniendo en España ahora. Y para alguno"
+  },
+  {
+    "start": 2782.52,
+    "duration": 5.559,
+    "text": "que haya leído alguna vez, es uno de los"
+  },
+  {
+    "start": 2785.119,
+    "duration": 6.521,
+    "text": "conceptos por el cual en algunos"
+  },
+  {
+    "start": 2788.079,
+    "duration": 6.561,
+    "text": "momentos los precios de energía han sido"
+  },
+  {
+    "start": 2791.64,
+    "duration": 3.0,
+    "text": "negativos."
+  },
+  {
+    "start": 2798.079,
+    "duration": 6.24,
+    "text": "Eh, pero no conozco la legislación"
+  },
+  {
+    "start": 2800.4,
+    "duration": 6.64,
+    "text": "española, pero que la distribución eh no"
+  },
+  {
+    "start": 2804.319,
+    "duration": 4.081,
+    "text": "se renumera en cuanto al uso por este"
+  },
+  {
+    "start": 2807.04,
+    "duration": 5.319,
+    "text": "usuario."
+  },
+  {
+    "start": 2808.4,
+    "duration": 3.959,
+    "text": "Claro. Exactamente."
+  },
+  {
+    "start": 2818.4,
+    "duration": 6.24,
+    "text": "Y acá la figura de"
+  },
+  {
+    "start": 2822.599,
+    "duration": 4.441,
+    "text": "de"
+  },
+  {
+    "start": 2824.64,
+    "duration": 6.36,
+    "text": "de este nuevo usuario presumidor,"
+  },
+  {
+    "start": 2827.04,
+    "duration": 6.68,
+    "text": "digamos, que va inyectando la red, eh"
+  },
+  {
+    "start": 2831.0,
+    "duration": 5.72,
+    "text": "cómo cómo se evitarían esos problemas,"
+  },
+  {
+    "start": 2833.72,
+    "duration": 4.399,
+    "text": "eh pensando que todavía no los tenemos y"
+  },
+  {
+    "start": 2836.72,
+    "duration": 4.04,
+    "text": "que"
+  },
+  {
+    "start": 2838.119,
+    "duration": 5.44,
+    "text": "no no no está por digamos que es una"
+  },
+  {
+    "start": 2840.76,
+    "duration": 5.319,
+    "text": "foto que está por venir."
+  },
+  {
+    "start": 2843.559,
+    "duration": 6.0,
+    "text": "Lo usual es cobrarle al usuario que"
+  },
+  {
+    "start": 2846.079,
+    "duration": 6.201,
+    "text": "venda un tarifa de peaje"
+  },
+  {
+    "start": 2849.559,
+    "duration": 7.241,
+    "text": "para poder para porque está usando la"
+  },
+  {
+    "start": 2852.28,
+    "duration": 4.52,
+    "text": "red para vender su energía."
+  },
+  {
+    "start": 2858.64,
+    "duration": 5.8,
+    "text": "Perdón, eh, Lis,"
+  },
+  {
+    "start": 2861.76,
+    "duration": 4.48,
+    "text": "perdón."
+  },
+  {
+    "start": 2864.44,
+    "duration": 3.119,
+    "text": "Aguárdenme un minuto que lo cierro al"
+  },
+  {
+    "start": 2866.24,
+    "duration": 4.56,
+    "text": "perro."
+  },
+  {
+    "start": 2867.559,
+    "duration": 3.241,
+    "text": "Sí, sí,"
+  },
+  {
+    "start": 2871.76,
+    "duration": 5.839,
+    "text": "estábamos por acá. Bueno, decía, eh,"
+  },
+  {
+    "start": 2875.04,
+    "duration": 5.279,
+    "text": "entonces"
+  },
+  {
+    "start": 2877.599,
+    "duration": 4.801,
+    "text": "cuando uno le pone el valor del agregado"
+  },
+  {
+    "start": 2880.319,
+    "duration": 4.961,
+    "text": "de distribución para vender al mercado,"
+  },
+  {
+    "start": 2882.4,
+    "duration": 7.6,
+    "text": "ya la ecuación, digamos, ya no eh ya no"
+  },
+  {
+    "start": 2885.28,
+    "duration": 8.44,
+    "text": "cierra mucho, o sea, eh el la venta es"
+  },
+  {
+    "start": 2890.0,
+    "duration": 7.119,
+    "text": "al costo de la del mercado eléctrico"
+  },
+  {
+    "start": 2893.72,
+    "duration": 6.72,
+    "text": "mayorista, es lo que sería remunerado"
+  },
+  {
+    "start": 2897.119,
+    "duration": 6.401,
+    "text": "aquel usuario que oferta energía al"
+  },
+  {
+    "start": 2900.44,
+    "duration": 5.919,
+    "text": "mercado. Si a eso le sumamos el valor"
+  },
+  {
+    "start": 2903.52,
+    "duration": 7.36,
+    "text": "agregado de distribución, le queda muy"
+  },
+  {
+    "start": 2906.359,
+    "duration": 8.401,
+    "text": "poquito margen. O sea, no es el que lo"
+  },
+  {
+    "start": 2910.88,
+    "duration": 7.959,
+    "text": "está viendo esto como un negocio eh se"
+  },
+  {
+    "start": 2914.76,
+    "duration": 8.64,
+    "text": "equivoca. Eh, piensen que más o menos en"
+  },
+  {
+    "start": 2918.839,
+    "duration": 7.161,
+    "text": "una factura el la división es"
+  },
+  {
+    "start": 2923.4,
+    "duration": 5.76,
+    "text": "eh 45"
+  },
+  {
+    "start": 2926.0,
+    "duration": 5.4,
+    "text": "45 el valor del mercado eléctrico, 45 el"
+  },
+  {
+    "start": 2929.16,
+    "duration": 4.52,
+    "text": "valor agregado de distribución y"
+  },
+  {
+    "start": 2931.4,
+    "duration": 5.28,
+    "text": "aproximadamente un 10% el costo de"
+  },
+  {
+    "start": 2933.68,
+    "duration": 3.0,
+    "text": "transporte."
+  },
+  {
+    "start": 2940.599,
+    "duration": 5.2,
+    "text": "Así que eh si lo obligo si tienen que"
+  },
+  {
+    "start": 2943.4,
+    "duration": 5.76,
+    "text": "pagar el 10%"
+  },
+  {
+    "start": 2945.799,
+    "duration": 7.56,
+    "text": "y lo remunero con el 45, ya lo estoy"
+  },
+  {
+    "start": 2949.16,
+    "duration": 7.399,
+    "text": "sacando fuera de lugar. Entonces es una"
+  },
+  {
+    "start": 2953.359,
+    "duration": 8.0,
+    "text": "zona gris que va a haber que estudiarla."
+  },
+  {
+    "start": 2956.559,
+    "duration": 4.8,
+    "text": "La única ventaja que hay es"
+  },
+  {
+    "start": 2963.2,
+    "duration": 4.76,
+    "text": "pagar lo del mercado eléctrico"
+  },
+  {
+    "start": 2964.96,
+    "duration": 5.52,
+    "text": "mayorista, o sea, ahorrarse el 45%"
+  },
+  {
+    "start": 2967.96,
+    "duration": 5.599,
+    "text": "con su propia energía de lo del mercado"
+  },
+  {
+    "start": 2970.48,
+    "duration": 5.0,
+    "text": "eléctrico, pero para nada debería dejar"
+  },
+  {
+    "start": 2973.559,
+    "duration": 4.361,
+    "text": "de pagar el valor agregado de"
+  },
+  {
+    "start": 2975.48,
+    "duration": 4.599,
+    "text": "distribución porque cuando su eh"
+  },
+  {
+    "start": 2977.92,
+    "duration": 5.96,
+    "text": "generación no funciona, se tiene que"
+  },
+  {
+    "start": 2980.079,
+    "duration": 6.161,
+    "text": "tener eh el abastecimiento de la red y"
+  },
+  {
+    "start": 2983.88,
+    "duration": 4.56,
+    "text": "eso con el abastecimiento de la redene"
+  },
+  {
+    "start": 2986.24,
+    "duration": 4.04,
+    "text": "tiene que tiene que pagar aunque sea la"
+  },
+  {
+    "start": 2988.44,
+    "duration": 4.48,
+    "text": "disponibilidad por la cual está"
+  },
+  {
+    "start": 2990.28,
+    "duration": 4.48,
+    "text": "conectado. Por eso se dice que tiene que"
+  },
+  {
+    "start": 2992.92,
+    "duration": 3.84,
+    "text": "pagar el valor agregado de distribución"
+  },
+  {
+    "start": 2994.76,
+    "duration": 5.92,
+    "text": "de cualquiera de las dos maneras,"
+  },
+  {
+    "start": 2996.76,
+    "duration": 3.92,
+    "text": "vendiendo o consumiendo."
+  },
+  {
+    "start": 3001.44,
+    "duration": 4.679,
+    "text": "Y eso sería una alternativa."
+  },
+  {
+    "start": 3008.799,
+    "duration": 8.961,
+    "text": "Así que a nivel de uso, como decía"
+  },
+  {
+    "start": 3014.0,
+    "duration": 7.799,
+    "text": "recién, uno podría simular si empiezan a"
+  },
+  {
+    "start": 3017.76,
+    "duration": 6.64,
+    "text": "instalarse varios parques solares o o o"
+  },
+  {
+    "start": 3021.799,
+    "duration": 4.921,
+    "text": "mejora, digamos, la incidencia a través"
+  },
+  {
+    "start": 3024.4,
+    "duration": 8.04,
+    "text": "de un generador"
+  },
+  {
+    "start": 3026.72,
+    "duration": 8.56,
+    "text": "este eólico, lo único que hace es este"
+  },
+  {
+    "start": 3032.44,
+    "duration": 6.08,
+    "text": "bajando carga del cable. O sea,"
+  },
+  {
+    "start": 3035.28,
+    "duration": 5.36,
+    "text": "supongamos que en un extremo yo tengo la"
+  },
+  {
+    "start": 3038.52,
+    "duration": 6.839,
+    "text": "estación transformadora"
+  },
+  {
+    "start": 3040.64,
+    "duration": 9.52,
+    "text": "y en el otro extremo yo tengo un usuario"
+  },
+  {
+    "start": 3045.359,
+    "duration": 6.921,
+    "text": "de que consume 20 kW, por ejemplo."
+  },
+  {
+    "start": 3050.16,
+    "duration": 4.48,
+    "text": "Vamos a hablar de la última milla, ¿no?"
+  },
+  {
+    "start": 3052.28,
+    "duration": 6.799,
+    "text": "Este, 20 kW"
+  },
+  {
+    "start": 3054.64,
+    "duration": 6.52,
+    "text": "y este se abastece con solar. Entonces"
+  },
+  {
+    "start": 3059.079,
+    "duration": 4.201,
+    "text": "el cable ese prácticamente me queda"
+  },
+  {
+    "start": 3061.16,
+    "duration": 4.52,
+    "text": "vacío"
+  },
+  {
+    "start": 3063.28,
+    "duration": 4.72,
+    "text": "porque no hay demanda,"
+  },
+  {
+    "start": 3065.68,
+    "duration": 4.6,
+    "text": "el usuario se autobastece"
+  },
+  {
+    "start": 3068.0,
+    "duration": 4.119,
+    "text": "y entonces ahí lo que con la"
+  },
+  {
+    "start": 3070.28,
+    "duration": 3.799,
+    "text": "consecuencia de eso es que el factor de"
+  },
+  {
+    "start": 3072.119,
+    "duration": 4.96,
+    "text": "carga, como decía antes, baja"
+  },
+  {
+    "start": 3074.079,
+    "duration": 3.0,
+    "text": "drásticamente."
+  },
+  {
+    "start": 3078.52,
+    "duration": 3.16,
+    "text": "¿Se entiende?"
+  },
+  {
+    "start": 3082.96,
+    "duration": 4.08,
+    "text": "O sea, quiero decir, Vicente,"
+  },
+  {
+    "start": 3085.68,
+    "duration": 2.84,
+    "text": "eh,"
+  },
+  {
+    "start": 3087.04,
+    "duration": 4.84,
+    "text": "sí, sí, se entiende."
+  },
+  {
+    "start": 3088.52,
+    "duration": 7.599,
+    "text": "Ah, bueno, bueno. Entonces, eso es el el"
+  },
+  {
+    "start": 3091.88,
+    "duration": 7.32,
+    "text": "nivel y en algunos casos o o por ejemplo"
+  },
+  {
+    "start": 3096.119,
+    "duration": 5.041,
+    "text": "en Noruega que prácticamente tienen todo"
+  },
+  {
+    "start": 3099.2,
+    "duration": 4.24,
+    "text": "definido redes eléctricas, si no fuera"
+  },
+  {
+    "start": 3101.16,
+    "duration": 4.88,
+    "text": "por los autos eléctricos, las redes de"
+  },
+  {
+    "start": 3103.44,
+    "duration": 5.6,
+    "text": "distribución estarían prácticamente sin"
+  },
+  {
+    "start": 3106.04,
+    "duration": 3.0,
+    "text": "cargas."
+  },
+  {
+    "start": 3113.319,
+    "duration": 6.641,
+    "text": "para ver el otro extremo al que se ve a"
+  },
+  {
+    "start": 3117.559,
+    "duration": 5.8,
+    "text": "futuro."
+  },
+  {
+    "start": 3119.96,
+    "duration": 6.56,
+    "text": "Hablando de autos eléctricos,"
+  },
+  {
+    "start": 3123.359,
+    "duration": 5.801,
+    "text": "es un tema no menor, ahora que esto si"
+  },
+  {
+    "start": 3126.52,
+    "duration": 6.2,
+    "text": "está a la vuelta de la esquina, porque"
+  },
+  {
+    "start": 3129.16,
+    "duration": 7.159,
+    "text": "tanto en la ciudad como en algunas"
+  },
+  {
+    "start": 3132.72,
+    "duration": 6.839,
+    "text": "eh localidades que tienen"
+  },
+  {
+    "start": 3136.319,
+    "duration": 6.8,
+    "text": "más de 100,000 habitantes están"
+  },
+  {
+    "start": 3139.559,
+    "duration": 6.52,
+    "text": "planificando poner eh"
+  },
+  {
+    "start": 3143.119,
+    "duration": 6.68,
+    "text": "cargadores rápidos para poder hacer el"
+  },
+  {
+    "start": 3146.079,
+    "duration": 6.76,
+    "text": "uso de cargos de autos eléctricos."
+  },
+  {
+    "start": 3149.799,
+    "duration": 6.56,
+    "text": "Eh, entonces veamos el impacto que tiene"
+  },
+  {
+    "start": 3152.839,
+    "duration": 11.361,
+    "text": "eso. Le tiro algunos datos. Un cargador"
+  },
+  {
+    "start": 3156.359,
+    "duration": 11.24,
+    "text": "rápido de eh dos picos son 150 kg"
+  },
+  {
+    "start": 3164.2,
+    "duration": 7.44,
+    "text": "rápido de eh cuatro picos está alrededor"
+  },
+  {
+    "start": 3167.599,
+    "duration": 5.881,
+    "text": "entre 300 y 500 KBA."
+  },
+  {
+    "start": 3171.64,
+    "duration": 4.8,
+    "text": "Entonces, si yo tengo una estación de"
+  },
+  {
+    "start": 3173.48,
+    "duration": 7.16,
+    "text": "servicio y quiero poner para abastecer"
+  },
+  {
+    "start": 3176.44,
+    "duration": 6.28,
+    "text": "autos eléctricos, tengo que poner un"
+  },
+  {
+    "start": 3180.64,
+    "duration": 5.12,
+    "text": "transformador para mí en la estación de"
+  },
+  {
+    "start": 3182.72,
+    "duration": 5.28,
+    "text": "servicio de 315 kba."
+  },
+  {
+    "start": 3185.76,
+    "duration": 5.4,
+    "text": "Entonces, piensen ustedes el impacto que"
+  },
+  {
+    "start": 3188.0,
+    "duration": 6.119,
+    "text": "puede tener en la red si yo tengo que"
+  },
+  {
+    "start": 3191.16,
+    "duration": 8.48,
+    "text": "poner un transformador"
+  },
+  {
+    "start": 3194.119,
+    "duration": 8.96,
+    "text": "este por por cada estación de servicio"
+  },
+  {
+    "start": 3199.64,
+    "duration": 7.32,
+    "text": "o 10 usuarios que viven a lo largo de"
+  },
+  {
+    "start": 3203.079,
+    "duration": 7.601,
+    "text": "una calle, 10 este 10 personas que todo"
+  },
+  {
+    "start": 3206.96,
+    "duration": 6.639,
+    "text": "quieren cargar su vehículo a la noche."
+  },
+  {
+    "start": 3210.68,
+    "duration": 7.48,
+    "text": "Los cargadores los cargadores lentos son"
+  },
+  {
+    "start": 3213.599,
+    "duration": 6.921,
+    "text": "de 15 k. cada uno. Entonces, sobre la"
+  },
+  {
+    "start": 3218.16,
+    "duration": 6.88,
+    "text": "demanda que ya tiene, la demanda"
+  },
+  {
+    "start": 3220.52,
+    "duration": 6.559,
+    "text": "residencial por sus electrointensivos,"
+  },
+  {
+    "start": 3225.04,
+    "duration": 4.6,
+    "text": "por sus electrodomésticos, se le suman"
+  },
+  {
+    "start": 3227.079,
+    "duration": 4.961,
+    "text": "otros 15 cavidad para la carga a la"
+  },
+  {
+    "start": 3229.64,
+    "duration": 5.959,
+    "text": "noche del auto. En una en una cuadra de"
+  },
+  {
+    "start": 3232.04,
+    "duration": 4.759,
+    "text": "10 ya estamos hablando de 150 KBA, o"
+  },
+  {
+    "start": 3235.599,
+    "duration": 3.881,
+    "text": "sea, voy a tener que poner un"
+  },
+  {
+    "start": 3236.799,
+    "duration": 6.881,
+    "text": "transformador adicional solamente para"
+  },
+  {
+    "start": 3239.48,
+    "duration": 6.4,
+    "text": "que se pueda cargar el auto a la noche."
+  },
+  {
+    "start": 3243.68,
+    "duration": 6.48,
+    "text": "Se entiende la complejidad que a la que"
+  },
+  {
+    "start": 3245.88,
+    "duration": 4.28,
+    "text": "estamos yendo, ¿no es cierto?"
+  },
+  {
+    "start": 3252.68,
+    "duration": 5.159,
+    "text": "Y digo para que tengan idea un poco de"
+  },
+  {
+    "start": 3255.24,
+    "duration": 5.599,
+    "text": "la magnitud,"
+  },
+  {
+    "start": 3257.839,
+    "duration": 3.0,
+    "text": "eh,"
+  },
+  {
+    "start": 3261.28,
+    "duration": 4.88,
+    "text": "verano"
+  },
+  {
+    "start": 3262.799,
+    "duration": 6.961,
+    "text": "en Mar de Plata, supongamos que hay este"
+  },
+  {
+    "start": 3266.16,
+    "duration": 6.24,
+    "text": "ya cargadores eléctricos y en Buenos"
+  },
+  {
+    "start": 3269.76,
+    "duration": 4.839,
+    "text": "Aires hay cargadores eléctricos."
+  },
+  {
+    "start": 3272.4,
+    "duration": 4.199,
+    "text": "Entonces hago el viaje y por el tema de"
+  },
+  {
+    "start": 3274.599,
+    "duration": 3.881,
+    "text": "la autonomía todo el mundo va a tener"
+  },
+  {
+    "start": 3276.599,
+    "duration": 3.921,
+    "text": "que hacer en algún momento una recarga."
+  },
+  {
+    "start": 3278.48,
+    "duration": 4.319,
+    "text": "En este caso, elijamos Dolores, que es"
+  },
+  {
+    "start": 3280.52,
+    "duration": 4.44,
+    "text": "el lugar típico."
+  },
+  {
+    "start": 3282.799,
+    "duration": 4.161,
+    "text": "Durante el verano circulan 2000 autos"
+  },
+  {
+    "start": 3284.96,
+    "duration": 4.2,
+    "text": "por hora. Para que tengan una idea,"
+  },
+  {
+    "start": 3286.96,
+    "duration": 5.2,
+    "text": "supongamos que los 2000 se conviertan en"
+  },
+  {
+    "start": 3289.16,
+    "duration": 3.0,
+    "text": "eléctrico"
+  },
+  {
+    "start": 3293.559,
+    "duration": 5.841,
+    "text": "y cada uno quiere parar en dolores para"
+  },
+  {
+    "start": 3295.72,
+    "duration": 7.16,
+    "text": "tener una carga rápida de 20 minutos."
+  },
+  {
+    "start": 3299.4,
+    "duration": 6.24,
+    "text": "Entonces tenemos 2000"
+  },
+  {
+    "start": 3302.88,
+    "duration": 6.56,
+    "text": "dividido. Vamos a hacerlo más fácil para"
+  },
+  {
+    "start": 3305.64,
+    "duration": 7.32,
+    "text": "hacer la cuenta. Pongamos 200 KBA"
+  },
+  {
+    "start": 3309.44,
+    "duration": 6.879,
+    "text": "de cargador rápido. dividido este me"
+  },
+  {
+    "start": 3312.96,
+    "duration": 3.359,
+    "text": "quedan 10"
+  },
+  {
+    "start": 3316.52,
+    "duration": 6.559,
+    "text": "en en una hora"
+  },
+  {
+    "start": 3320.319,
+    "duration": 4.601,
+    "text": "y este"
+  },
+  {
+    "start": 3323.079,
+    "duration": 5.841,
+    "text": "quiere decir que yo voy a necesitar,"
+  },
+  {
+    "start": 3324.92,
+    "duration": 6.96,
+    "text": "perdón, este 200 por eh 2000, o sea, que"
+  },
+  {
+    "start": 3328.92,
+    "duration": 7.399,
+    "text": "voy a necesitar 40 meg solamente para"
+  },
+  {
+    "start": 3331.88,
+    "duration": 4.439,
+    "text": "cargar autos eléctricos en dóes,"
+  },
+  {
+    "start": 3339.96,
+    "duration": 4.639,
+    "text": "o sea, tengo que construir una estación"
+  },
+  {
+    "start": 3341.88,
+    "duration": 5.0,
+    "text": "transformadora para que la gente en"
+  },
+  {
+    "start": 3344.599,
+    "duration": 4.321,
+    "text": "verano pueda ir de Buenos Aires a Mar"
+  },
+  {
+    "start": 3346.88,
+    "duration": 4.32,
+    "text": "del Plata."
+  },
+  {
+    "start": 3348.92,
+    "duration": 5.399,
+    "text": "El pico de la demanda durante dos meses"
+  },
+  {
+    "start": 3351.2,
+    "duration": 6.04,
+    "text": "y el resto de los de los meses"
+  },
+  {
+    "start": 3354.319,
+    "duration": 5.76,
+    "text": "y nada"
+  },
+  {
+    "start": 3357.24,
+    "duration": 6.04,
+    "text": "plancha. Entonces, eh se da cuenta de la"
+  },
+  {
+    "start": 3360.079,
+    "duration": 5.28,
+    "text": "incidencia que tiene eh estas cosas que"
+  },
+  {
+    "start": 3363.28,
+    "duration": 4.319,
+    "text": "estamos hablando de la venta de energía,"
+  },
+  {
+    "start": 3365.359,
+    "duration": 5.24,
+    "text": "de los autos eléctricos, no es un tema"
+  },
+  {
+    "start": 3367.599,
+    "duration": 3.0,
+    "text": "menor."
+  },
+  {
+    "start": 3371.28,
+    "duration": 7.839,
+    "text": "y y más en el caso de Argentina por un"
+  },
+  {
+    "start": 3374.92,
+    "duration": 6.72,
+    "text": "tema de uso horario, porque en Europa"
+  },
+  {
+    "start": 3379.119,
+    "duration": 5.72,
+    "text": "digamos que se desarrolla"
+  },
+  {
+    "start": 3381.64,
+    "duration": 4.84,
+    "text": "a lo largo de los meridianos y acá este"
+  },
+  {
+    "start": 3384.839,
+    "duration": 4.0,
+    "text": "se desarrolla a lo largo del uso"
+  },
+  {
+    "start": 3386.48,
+    "duration": 5.16,
+    "text": "horario."
+  },
+  {
+    "start": 3388.839,
+    "duration": 6.081,
+    "text": "Entonces allá pueden compensarse por el"
+  },
+  {
+    "start": 3391.64,
+    "duration": 6.52,
+    "text": "las diferencias horarias"
+  },
+  {
+    "start": 3394.92,
+    "duration": 5.24,
+    "text": "los momentos de carga acá, ¿no?"
+  },
+  {
+    "start": 3398.16,
+    "duration": 4.639,
+    "text": "Más el problema que tienen ya las redes"
+  },
+  {
+    "start": 3400.16,
+    "duration": 4.48,
+    "text": "de distribución. para para hacer esto."
+  },
+  {
+    "start": 3402.799,
+    "duration": 4.401,
+    "text": "Las últimas novedades que tengo, por"
+  },
+  {
+    "start": 3404.64,
+    "duration": 6.0,
+    "text": "ejemplo, de España, en Madrid, eh han"
+  },
+  {
+    "start": 3407.2,
+    "duration": 7.56,
+    "text": "puesto cargadores rápidos en"
+  },
+  {
+    "start": 3410.64,
+    "duration": 6.199,
+    "text": "en en los hipermercados y y los"
+  },
+  {
+    "start": 3414.76,
+    "duration": 3.799,
+    "text": "españoles están haciendo por el tema de"
+  },
+  {
+    "start": 3416.839,
+    "duration": 4.081,
+    "text": "que no se puede entrar al centro con"
+  },
+  {
+    "start": 3418.559,
+    "duration": 5.121,
+    "text": "motores de combustión interna, los"
+  },
+  {
+    "start": 3420.92,
+    "duration": 4.919,
+    "text": "españoles están haciendo cola de 2 horas"
+  },
+  {
+    "start": 3423.68,
+    "duration": 5.399,
+    "text": "en el hipermercado para tener un lugar"
+  },
+  {
+    "start": 3425.839,
+    "duration": 6.441,
+    "text": "para una carga rápida."
+  },
+  {
+    "start": 3429.079,
+    "duration": 5.801,
+    "text": "O sea, es más o menos como acá cuando no"
+  },
+  {
+    "start": 3432.28,
+    "duration": 4.559,
+    "text": "hay nafta y entonces se arman colas de"
+  },
+  {
+    "start": 3434.88,
+    "duration": 4.32,
+    "text": "cuadras y cuadras para poder conseguir"
+  },
+  {
+    "start": 3436.839,
+    "duration": 4.0,
+    "text": "combustible. Bueno, allá está pasando lo"
+  },
+  {
+    "start": 3439.2,
+    "duration": 3.28,
+    "text": "mismo pero con pero con el tema de"
+  },
+  {
+    "start": 3440.839,
+    "duration": 4.641,
+    "text": "energía"
+  },
+  {
+    "start": 3442.48,
+    "duration": 3.0,
+    "text": "eléctrica."
+  },
+  {
+    "start": 3447.839,
+    "duration": 7.841,
+    "text": "Bien, entonces sigamos un poco más."
+  },
+  {
+    "start": 3453.079,
+    "duration": 4.52,
+    "text": "Bueno, entonces lo que se busca con"
+  },
+  {
+    "start": 3455.68,
+    "duration": 3.8,
+    "text": "todas estas cosas y el dimensionamiento"
+  },
+  {
+    "start": 3457.599,
+    "duration": 5.561,
+    "text": "de las redes es buscar un costo de"
+  },
+  {
+    "start": 3459.48,
+    "duration": 3.68,
+    "text": "infraestructura equilibrado"
+  },
+  {
+    "start": 3464.839,
+    "duration": 3.641,
+    "text": "entre los componentes y las pérdidas"
+  },
+  {
+    "start": 3466.52,
+    "duration": 5.24,
+    "text": "técnicas que voy a tener. Si las"
+  },
+  {
+    "start": 3468.48,
+    "duration": 7.24,
+    "text": "pérdidas este técnicas son muy altas"
+  },
+  {
+    "start": 3471.76,
+    "duration": 6.359,
+    "text": "porque la red trabaja en un estadío,"
+  },
+  {
+    "start": 3475.72,
+    "duration": 4.839,
+    "text": "acuérdense que las pérdidas aumentan"
+  },
+  {
+    "start": 3478.119,
+    "duration": 3.96,
+    "text": "cuadráticamente con el uso de la"
+  },
+  {
+    "start": 3480.559,
+    "duration": 3.881,
+    "text": "infraestructura."
+  },
+  {
+    "start": 3482.079,
+    "duration": 4.641,
+    "text": "Por lo tanto, este, tengo que tener"
+  },
+  {
+    "start": 3484.44,
+    "duration": 4.72,
+    "text": "mucho cuidado ahí. Voy a tener un"
+  },
+  {
+    "start": 3486.72,
+    "duration": 5.72,
+    "text": "óptimo. Como toda ecuación cuadrática,"
+  },
+  {
+    "start": 3489.16,
+    "duration": 5.639,
+    "text": "saben que voy a tener un mínimo y eh en"
+  },
+  {
+    "start": 3492.44,
+    "duration": 5.84,
+    "text": "el cual ese es el posicionamiento que me"
+  },
+  {
+    "start": 3494.799,
+    "duration": 6.76,
+    "text": "voy a tener que parar. Para los que no"
+  },
+  {
+    "start": 3498.28,
+    "duration": 6.64,
+    "text": "son matemáticos, no están asum ecuación"
+  },
+  {
+    "start": 3501.559,
+    "duration": 7.641,
+    "text": "cuadrática, es como una parábola inversa"
+  },
+  {
+    "start": 3504.92,
+    "duration": 6.84,
+    "text": "mirando hacia abajo. Entonces, eh yo me"
+  },
+  {
+    "start": 3509.2,
+    "duration": 5.76,
+    "text": "voy a tener que plantar en el lugar"
+  },
+  {
+    "start": 3511.76,
+    "duration": 4.96,
+    "text": "donde yo tenga la mínima pérdida técnica"
+  },
+  {
+    "start": 3514.96,
+    "duration": 6.119,
+    "text": "en función de la infraestructura que"
+  },
+  {
+    "start": 3516.72,
+    "duration": 4.359,
+    "text": "estoy este dimensionando."
+  },
+  {
+    "start": 3524.16,
+    "duration": 5.08,
+    "text": "Aquí tenemos un ejemplo aplicado."
+  },
+  {
+    "start": 3530.48,
+    "duration": 5.639,
+    "text": "Una cuadrícula de 1,9 se alimenta"
+  },
+  {
+    "start": 3532.72,
+    "duration": 6.639,
+    "text": "básicamente en media tensión."
+  },
+  {
+    "start": 3536.119,
+    "duration": 5.68,
+    "text": "Ya para 20 meg se requiere 132 kV y"
+  },
+  {
+    "start": 3539.359,
+    "duration": 5.44,
+    "text": "después tenemos la red nacional ya 500"
+  },
+  {
+    "start": 3541.799,
+    "duration": 6.56,
+    "text": "MW. Esto para que más o menos se vean"
+  },
+  {
+    "start": 3544.799,
+    "duration": 6.641,
+    "text": "los guarismos cuándo cómo se divide en"
+  },
+  {
+    "start": 3548.359,
+    "duration": 6.44,
+    "text": "las distintas capas entre media, alta y"
+  },
+  {
+    "start": 3551.44,
+    "duration": 3.359,
+    "text": "baja tensión."
+  },
+  {
+    "start": 3555.68,
+    "duration": 5.24,
+    "text": "Aquí tenemos los niveles de tensión"
+  },
+  {
+    "start": 3558.64,
+    "duration": 7.88,
+    "text": "también y rangos típicos de potencia"
+  },
+  {
+    "start": 3560.92,
+    "duration": 5.6,
+    "text": "transportar por cada una de las redes."
+  },
+  {
+    "start": 3566.799,
+    "duration": 5.361,
+    "text": "Y este"
+  },
+  {
+    "start": 3569.16,
+    "duration": 5.04,
+    "text": "y aquí tenemos el tema de media tensión,"
+  },
+  {
+    "start": 3572.16,
+    "duration": 5.0,
+    "text": "que es por lo regular el que mismo se"
+  },
+  {
+    "start": 3574.2,
+    "duration": 6.0,
+    "text": "usa por el tema de la distancia para las"
+  },
+  {
+    "start": 3577.16,
+    "duration": 7.28,
+    "text": "áreas para abastecer áreas rurales. Casi"
+  },
+  {
+    "start": 3580.2,
+    "duration": 4.24,
+    "text": "todas son en 13,2 kV."
+  },
+  {
+    "start": 3584.48,
+    "duration": 7.599,
+    "text": "para poder tener eh mínima"
+  },
+  {
+    "start": 3588.52,
+    "duration": 5.799,
+    "text": "caída de tensión, básicamente."
+  },
+  {
+    "start": 3592.079,
+    "duration": 7.361,
+    "text": "Con lo cual, si bien la capacidad del"
+  },
+  {
+    "start": 3594.319,
+    "duration": 7.921,
+    "text": "cable puede transportar muchos megwtios,"
+  },
+  {
+    "start": 3599.44,
+    "duration": 6.0,
+    "text": "por ahí termina transportando 100 KBA"
+  },
+  {
+    "start": 3602.24,
+    "duration": 7.44,
+    "text": "nada más o o 30 KBA, que es lo que"
+  },
+  {
+    "start": 3605.44,
+    "duration": 6.52,
+    "text": "consume el barrio, pero digo, el el"
+  },
+  {
+    "start": 3609.68,
+    "duration": 5.56,
+    "text": "usuario rural, pero no hay otra manera"
+  },
+  {
+    "start": 3611.96,
+    "duration": 6.0,
+    "text": "que llevarle en alta en media tensión"
+  },
+  {
+    "start": 3615.24,
+    "duration": 7.319,
+    "text": "por el tema de la caída."
+  },
+  {
+    "start": 3617.96,
+    "duration": 4.599,
+    "text": "Es impensable darle en baja."
+  },
+  {
+    "start": 3626.28,
+    "duration": 8.16,
+    "text": "Y ahora vamos con un tema"
+  },
+  {
+    "start": 3629.599,
+    "duration": 9.2,
+    "text": "que tiene que ver con"
+  },
+  {
+    "start": 3634.44,
+    "duration": 10.879,
+    "text": "la elasticidad precio de la demanda."
+  },
+  {
+    "start": 3638.799,
+    "duration": 9.32,
+    "text": "La ecuación general es la es la"
+  },
+  {
+    "start": 3645.319,
+    "duration": 4.441,
+    "text": "división entre la variación porcentual o"
+  },
+  {
+    "start": 3648.119,
+    "duration": 3.401,
+    "text": "es la relación entre la variación"
+  },
+  {
+    "start": 3649.76,
+    "duration": 5.52,
+    "text": "porcentual de la cantidad de energía"
+  },
+  {
+    "start": 3651.52,
+    "duration": 6.2,
+    "text": "demandada y la variación porcentual con"
+  },
+  {
+    "start": 3655.28,
+    "duration": 6.24,
+    "text": "respecto a la tarifa. Entonces, uno"
+  },
+  {
+    "start": 3657.72,
+    "duration": 7.399,
+    "text": "puede dar pequeñas variaciones y el"
+  },
+  {
+    "start": 3661.52,
+    "duration": 6.839,
+    "text": "delta Q tiene que eh de la cantidad"
+  },
+  {
+    "start": 3665.119,
+    "duration": 7.041,
+    "text": "empieza a a variar. De esa manera uno"
+  },
+  {
+    "start": 3668.359,
+    "duration": 5.521,
+    "text": "podría este establecer en función de la"
+  },
+  {
+    "start": 3672.16,
+    "duration": 6.8,
+    "text": "variación de cada uno de estos"
+  },
+  {
+    "start": 3673.88,
+    "duration": 8.159,
+    "text": "parámetros cómo es la relación. Entonces"
+  },
+  {
+    "start": 3678.96,
+    "duration": 6.32,
+    "text": "eh si es menor que cero, que significa"
+  },
+  {
+    "start": 3682.039,
+    "duration": 5.481,
+    "text": "que si sube el precio baja la demanda."
+  },
+  {
+    "start": 3685.28,
+    "duration": 5.2,
+    "text": "Si es menor que uno, se trata de una"
+  },
+  {
+    "start": 3687.52,
+    "duration": 5.2,
+    "text": "demanda inelástica, o sea, entre 0 y"
+  },
+  {
+    "start": 3690.48,
+    "duration": 4.8,
+    "text": "uno. Quiere decir que el consumo apenas"
+  },
+  {
+    "start": 3692.72,
+    "duration": 4.52,
+    "text": "cambia por el cambio de precio y si es"
+  },
+  {
+    "start": 3695.28,
+    "duration": 4.92,
+    "text": "mayor que uno, se trata de una demanda"
+  },
+  {
+    "start": 3697.24,
+    "duration": 5.52,
+    "text": "elástica. Esto sirve para caracterizar"
+  },
+  {
+    "start": 3700.2,
+    "duration": 4.879,
+    "text": "distintos segmentos de usuarios,"
+  },
+  {
+    "start": 3702.76,
+    "duration": 9.079,
+    "text": "especialmente los industriales o no, que"
+  },
+  {
+    "start": 3705.079,
+    "duration": 9.441,
+    "text": "es lo que tienen la mayor este eh"
+  },
+  {
+    "start": 3711.839,
+    "duration": 4.361,
+    "text": "la el mayor comportamiento a las"
+  },
+  {
+    "start": 3714.52,
+    "duration": 5.4,
+    "text": "variaciones de precio, ya que está"
+  },
+  {
+    "start": 3716.2,
+    "duration": 8.639,
+    "text": "buscando permanentemente su óptimo de"
+  },
+  {
+    "start": 3719.92,
+    "duration": 7.32,
+    "text": "consumo y este de ahí que trata de hacer"
+  },
+  {
+    "start": 3724.839,
+    "duration": 6.561,
+    "text": "la mayoría de su consumo durante el día"
+  },
+  {
+    "start": 3727.24,
+    "duration": 6.839,
+    "text": "y no sobre las horas pico, por ejemplo."
+  },
+  {
+    "start": 3731.4,
+    "duration": 5.439,
+    "text": "Bueno, los números aquí son estos están"
+  },
+  {
+    "start": 3734.079,
+    "duration": 6.321,
+    "text": "basados en la realidad."
+  },
+  {
+    "start": 3736.839,
+    "duration": 6.601,
+    "text": "Eh, básicamente es lo que se toma para"
+  },
+  {
+    "start": 3740.4,
+    "duration": 5.08,
+    "text": "hacer la planificación energética a"
+  },
+  {
+    "start": 3743.44,
+    "duration": 6.28,
+    "text": "nivel nacional."
+  },
+  {
+    "start": 3745.48,
+    "duration": 6.24,
+    "text": "H y eh hay una comparación con los"
+  },
+  {
+    "start": 3749.72,
+    "duration": 4.2,
+    "text": "mercados europeos donde las"
+  },
+  {
+    "start": 3751.72,
+    "duration": 8.079,
+    "text": "elasticidades"
+  },
+  {
+    "start": 3753.92,
+    "duration": 10.72,
+    "text": "eh varían entre -0,2 a -0,5 en segmentos"
+  },
+  {
+    "start": 3759.799,
+    "duration": 4.841,
+    "text": "expuestos a precio horarios,"
+  },
+  {
+    "start": 3765.52,
+    "duration": 5.799,
+    "text": "que es prácticamente comparable con las"
+  },
+  {
+    "start": 3767.799,
+    "duration": 3.52,
+    "text": "industrias argentinas."
+  },
+  {
+    "start": 3771.799,
+    "duration": 4.681,
+    "text": "Bueno, aquí tenemos una ecuación o una"
+  },
+  {
+    "start": 3774.119,
+    "duration": 5.16,
+    "text": "infografía donde nos permite ver la"
+  },
+  {
+    "start": 3776.48,
+    "duration": 5.96,
+    "text": "variación"
+  },
+  {
+    "start": 3779.279,
+    "duration": 6.84,
+    "text": "de eh la demanda en función del del"
+  },
+  {
+    "start": 3782.44,
+    "duration": 3.679,
+    "text": "aumento del precio."
+  },
+  {
+    "start": 3794.44,
+    "duration": 6.599,
+    "text": "Bien, y aquí estamos llegando ya al al"
+  },
+  {
+    "start": 3797.039,
+    "duration": 6.24,
+    "text": "final y disculpen que tuve que correr"
+  },
+  {
+    "start": 3801.039,
+    "duration": 3.961,
+    "text": "para presentar"
+  },
+  {
+    "start": 3803.279,
+    "duration": 4.641,
+    "text": "y dejar un poco de espacio para las"
+  },
+  {
+    "start": 3805.0,
+    "duration": 4.839,
+    "text": "preguntas, pero me están esperando la"
+  },
+  {
+    "start": 3807.92,
+    "duration": 6.159,
+    "text": "Secretaría de Energía dentro de una hora"
+  },
+  {
+    "start": 3809.839,
+    "duration": 6.361,
+    "text": "y media, así que eh vamos a hacerlo a"
+  },
+  {
+    "start": 3814.079,
+    "duration": 4.921,
+    "text": "meno esta última parte, que es la parte"
+  },
+  {
+    "start": 3816.2,
+    "duration": 4.8,
+    "text": "más densa."
+  },
+  {
+    "start": 3819.0,
+    "duration": 5.92,
+    "text": "Todo el mundo ha oído hablar de cuando"
+  },
+  {
+    "start": 3821.0,
+    "duration": 5.44,
+    "text": "de habla de costo marginal, costo medio,"
+  },
+  {
+    "start": 3824.92,
+    "duration": 5.679,
+    "text": "etcétera."
+  },
+  {
+    "start": 3826.44,
+    "duration": 6.08,
+    "text": "El costo marginal es el de entregar una"
+  },
+  {
+    "start": 3830.599,
+    "duration": 4.2,
+    "text": "unidad más del producto que estoy"
+  },
+  {
+    "start": 3832.52,
+    "duration": 6.039,
+    "text": "vendiendo."
+  },
+  {
+    "start": 3834.799,
+    "duration": 5.56,
+    "text": "Acá hay una diferencia muy sustantiva"
+  },
+  {
+    "start": 3838.559,
+    "duration": 4.52,
+    "text": "cuando hablamos del mercado de"
+  },
+  {
+    "start": 3840.359,
+    "duration": 5.041,
+    "text": "generación y del mercado de distribución"
+  },
+  {
+    "start": 3843.079,
+    "duration": 4.441,
+    "text": "eléctrica. En realidad, hablar de costo"
+  },
+  {
+    "start": 3845.4,
+    "duration": 4.199,
+    "text": "marginal es un error. Hay que hablar de"
+  },
+  {
+    "start": 3847.52,
+    "duration": 5.759,
+    "text": "costo incremental."
+  },
+  {
+    "start": 3849.599,
+    "duration": 6.361,
+    "text": "Y les y les hago la siguiente pregunta."
+  },
+  {
+    "start": 3853.279,
+    "duration": 6.201,
+    "text": "Si yo tengo una, vamos, primero el"
+  },
+  {
+    "start": 3855.96,
+    "duration": 3.52,
+    "text": "ejemplo de generación,"
+  },
+  {
+    "start": 3859.559,
+    "duration": 5.321,
+    "text": "eh, para que se vea bien la diferencia."
+  },
+  {
+    "start": 3861.799,
+    "duration": 5.721,
+    "text": "Si yo tengo una máquina de 10 meg"
+  },
+  {
+    "start": 3864.88,
+    "duration": 8.56,
+    "text": "y justo la demanda me está consumiendo"
+  },
+  {
+    "start": 3867.52,
+    "duration": 10.96,
+    "text": "10 meg, ¿cuál es el costo de eh"
+  },
+  {
+    "start": 3873.44,
+    "duration": 9.2,
+    "text": "de marginal de producir una unidad más?"
+  },
+  {
+    "start": 3878.48,
+    "duration": 4.16,
+    "text": "Quisiera que alguien me lo responda."
+  },
+  {
+    "start": 3893.68,
+    "duration": 5.119,
+    "text": "La unidad más en este caso no, yo sé que"
+  },
+  {
+    "start": 3897.16,
+    "duration": 4.439,
+    "text": "están pensando bien cuál es la"
+  },
+  {
+    "start": 3898.799,
+    "duration": 4.881,
+    "text": "respuesta, pero la unidad más en este"
+  },
+  {
+    "start": 3901.599,
+    "duration": 4.361,
+    "text": "caso no existe"
+  },
+  {
+    "start": 3903.68,
+    "duration": 5.159,
+    "text": "porque no hay infraestructura. Entonces"
+  },
+  {
+    "start": 3905.96,
+    "duration": 5.76,
+    "text": "el sistema no puede ofrecer a costo"
+  },
+  {
+    "start": 3908.839,
+    "duration": 4.76,
+    "text": "unitario una unidad más porque tengo que"
+  },
+  {
+    "start": 3911.72,
+    "duration": 4.48,
+    "text": "poner otra máquina de generación para"
+  },
+  {
+    "start": 3913.599,
+    "duration": 5.801,
+    "text": "abastecer ese mega."
+  },
+  {
+    "start": 3916.2,
+    "duration": 3.2,
+    "text": "¿Se entiende?"
+  },
+  {
+    "start": 3920.68,
+    "duration": 3.0,
+    "text": "Sí, se entiende."
+  },
+  {
+    "start": 3922.24,
+    "duration": 3.96,
+    "text": "Sí, sí."
+  },
+  {
+    "start": 3923.68,
+    "duration": 4.08,
+    "text": "O sea, que el precio es infinito."
+  },
+  {
+    "start": 3926.2,
+    "duration": 5.359,
+    "text": "Ahora"
+  },
+  {
+    "start": 3927.76,
+    "duration": 6.599,
+    "text": "vayamos al ejemplo de distribución."
+  },
+  {
+    "start": 3931.559,
+    "duration": 4.121,
+    "text": "Yo puedo también usar el costo marginal."
+  },
+  {
+    "start": 3934.359,
+    "duration": 5.041,
+    "text": "Hm."
+  },
+  {
+    "start": 3935.68,
+    "duration": 5.879,
+    "text": "Y el costo marginal significa cuánto"
+  },
+  {
+    "start": 3939.4,
+    "duration": 3.919,
+    "text": "puedo dar una unidad más. Entonces,"
+  },
+  {
+    "start": 3941.559,
+    "duration": 3.081,
+    "text": "fíjense que ahí estuvimos hablando de"
+  },
+  {
+    "start": 3943.319,
+    "duration": 3.8,
+    "text": "factor de carga, factor de"
+  },
+  {
+    "start": 3944.64,
+    "duration": 6.08,
+    "text": "simultaneidad, factor de coincidencia,"
+  },
+  {
+    "start": 3947.119,
+    "duration": 6.72,
+    "text": "factor de diversidad y tiempo de uso."
+  },
+  {
+    "start": 3950.72,
+    "duration": 6.52,
+    "text": "Entonces, yo eh prácticamente si yo"
+  },
+  {
+    "start": 3953.839,
+    "duration": 7.2,
+    "text": "tengo eh hagamos que un ejemplo"
+  },
+  {
+    "start": 3957.24,
+    "duration": 6.4,
+    "text": "sencillo, tengo una cuadra y tengo 10"
+  },
+  {
+    "start": 3961.039,
+    "duration": 5.601,
+    "text": "vecinos"
+  },
+  {
+    "start": 3963.64,
+    "duration": 5.84,
+    "text": "y se me suma uno más a la cola, yo le"
+  },
+  {
+    "start": 3966.64,
+    "duration": 4.919,
+    "text": "puedo dar una unidad más al mismo costo"
+  },
+  {
+    "start": 3969.48,
+    "duration": 6.119,
+    "text": "que los otros."
+  },
+  {
+    "start": 3971.559,
+    "duration": 8.56,
+    "text": "Porque mi infraestructura da para eso."
+  },
+  {
+    "start": 3975.599,
+    "duration": 4.52,
+    "text": "Acuérdense que yo siempre tengo un gap"
+  },
+  {
+    "start": 3980.839,
+    "duration": 5.24,
+    "text": "porque como tengo que jugar con las"
+  },
+  {
+    "start": 3982.559,
+    "duration": 5.361,
+    "text": "demandas simultáneas yo, entonces yo le"
+  },
+  {
+    "start": 3986.079,
+    "duration": 4.801,
+    "text": "puedo dar, entonces voy, le conecto y"
+  },
+  {
+    "start": 3987.92,
+    "duration": 5.8,
+    "text": "cobro una tarifa más,"
+  },
+  {
+    "start": 3990.88,
+    "duration": 5.919,
+    "text": "una conexión más. Mi costo marginal es"
+  },
+  {
+    "start": 3993.72,
+    "duration": 6.16,
+    "text": "el mismo, o sea, sigue siendo el que yo"
+  },
+  {
+    "start": 3996.799,
+    "duration": 4.56,
+    "text": "estoy este cobrando porque son todos"
+  },
+  {
+    "start": 3999.88,
+    "duration": 5.52,
+    "text": "costos fijos de operación y"
+  },
+  {
+    "start": 4001.359,
+    "duration": 7.841,
+    "text": "mantenimiento. Ahora bien, este a su vez"
+  },
+  {
+    "start": 4005.4,
+    "duration": 6.76,
+    "text": "ese otro y otro. va a llegar un momento"
+  },
+  {
+    "start": 4009.2,
+    "duration": 6.0,
+    "text": "que ahí si este no voy a poder abastecer"
+  },
+  {
+    "start": 4012.16,
+    "duration": 5.8,
+    "text": "con eso y voy a tener que invertir para"
+  },
+  {
+    "start": 4015.2,
+    "duration": 6.24,
+    "text": "poder eh"
+  },
+  {
+    "start": 4017.96,
+    "duration": 5.24,
+    "text": "abastecer esa unidad más que me piden."
+  },
+  {
+    "start": 4021.44,
+    "duration": 5.159,
+    "text": "Cuando tengo que invertir esa unidad más"
+  },
+  {
+    "start": 4023.2,
+    "duration": 6.0,
+    "text": "que me piden en el área de distribución,"
+  },
+  {
+    "start": 4026.599,
+    "duration": 6.121,
+    "text": "entonces yo ahí voy a tener un costo,"
+  },
+  {
+    "start": 4029.2,
+    "duration": 5.639,
+    "text": "pero el el costo fijo o el capex lo voy"
+  },
+  {
+    "start": 4032.72,
+    "duration": 4.68,
+    "text": "a distribuir sobre toda la demanda que"
+  },
+  {
+    "start": 4034.839,
+    "duration": 5.52,
+    "text": "yo tengo."
+  },
+  {
+    "start": 4037.4,
+    "duration": 5.04,
+    "text": "Entonces, la puedo abastecer a ese nuevo"
+  },
+  {
+    "start": 4040.359,
+    "duration": 4.76,
+    "text": "usuario haciendo inversiones porque yo"
+  },
+  {
+    "start": 4042.44,
+    "duration": 5.679,
+    "text": "sé que lo voy a recuperar"
+  },
+  {
+    "start": 4045.119,
+    "duration": 5.281,
+    "text": "a través de todo y es una este y va y lo"
+  },
+  {
+    "start": 4048.119,
+    "duration": 5.92,
+    "text": "voy haciendo escalarmente. Esa es la"
+  },
+  {
+    "start": 4050.4,
+    "duration": 7.199,
+    "text": "ventaja que tiene distribución."
+  },
+  {
+    "start": 4054.039,
+    "duration": 6.24,
+    "text": "Eh, significa escalarmente es que yo no"
+  },
+  {
+    "start": 4057.599,
+    "duration": 5.24,
+    "text": "tengo que dar un salto tan crítico de"
+  },
+  {
+    "start": 4060.279,
+    "duration": 4.28,
+    "text": "como vimos en el caso de generación de"
+  },
+  {
+    "start": 4062.839,
+    "duration": 4.161,
+    "text": "de"
+  },
+  {
+    "start": 4064.559,
+    "duration": 4.76,
+    "text": "10 meg, 1 mega más y tengo que poner"
+  },
+  {
+    "start": 4067.0,
+    "duration": 4.839,
+    "text": "otra máquina de 10 meg porque la escala"
+  },
+  {
+    "start": 4069.319,
+    "duration": 4.881,
+    "text": "no me la impide y si le pongo de 1"
+  },
+  {
+    "start": 4071.839,
+    "duration": 4.921,
+    "text": "megas, por ejemplo, para abastecer es"
+  },
+  {
+    "start": 4074.2,
+    "duration": 5.639,
+    "text": "muy ineficiente"
+  },
+  {
+    "start": 4076.76,
+    "duration": 6.44,
+    "text": "porque lo que interesa es el costo"
+  },
+  {
+    "start": 4079.839,
+    "duration": 5.0,
+    "text": "marginal. Piensen en lo siguiente,"
+  },
+  {
+    "start": 4083.2,
+    "duration": 3.8,
+    "text": "eh,"
+  },
+  {
+    "start": 4084.839,
+    "duration": 4.2,
+    "text": "para entender bien este concepto que es"
+  },
+  {
+    "start": 4087.0,
+    "duration": 5.359,
+    "text": "fundamental,"
+  },
+  {
+    "start": 4089.039,
+    "duration": 6.961,
+    "text": "eh, el cost el beneficio que tiene una"
+  },
+  {
+    "start": 4092.359,
+    "duration": 6.641,
+    "text": "empresa es igual al ingreso menos su"
+  },
+  {
+    "start": 4096.0,
+    "duration": 3.0,
+    "text": "costo."
+  },
+  {
+    "start": 4100.08,
+    "duration": 4.639,
+    "text": "Si el"
+  },
+  {
+    "start": 4102.279,
+    "duration": 6.681,
+    "text": "su costo a su vez tiene está dividido en"
+  },
+  {
+    "start": 4104.719,
+    "duration": 6.08,
+    "text": "dos, un costo fijo y un costo variable."
+  },
+  {
+    "start": 4108.96,
+    "duration": 5.48,
+    "text": "Si yo empiezo a simular esto en un"
+  },
+  {
+    "start": 4110.799,
+    "duration": 9.081,
+    "text": "programa de cálculo, esta variación de"
+  },
+  {
+    "start": 4114.44,
+    "duration": 9.08,
+    "text": "ingreso y y costo, me va a dibujar una"
+  },
+  {
+    "start": 4119.88,
+    "duration": 7.879,
+    "text": "especie de parábola"
+  },
+  {
+    "start": 4123.52,
+    "duration": 7.6,
+    "text": "donde voy a tener un un pico máximo. Ese"
+  },
+  {
+    "start": 4127.759,
+    "duration": 5.6,
+    "text": "pico máximo es el punto de equilibrio."
+  },
+  {
+    "start": 4131.12,
+    "duration": 4.119,
+    "text": "En ese pico máximo"
+  },
+  {
+    "start": 4133.359,
+    "duration": 4.641,
+    "text": "las variaciones"
+  },
+  {
+    "start": 4135.239,
+    "duration": 6.12,
+    "text": "prácticamente son"
+  },
+  {
+    "start": 4138.0,
+    "duration": 6.92,
+    "text": "inexistentes, o sea,"
+  },
+  {
+    "start": 4141.359,
+    "duration": 7.241,
+    "text": "la variación es muy pequeña. Entonces"
+  },
+  {
+    "start": 4144.92,
+    "duration": 8.12,
+    "text": "ahí voy a estar en el máximo beneficio"
+  },
+  {
+    "start": 4148.6,
+    "duration": 8.0,
+    "text": "que va a ser que es cuando el ingreso"
+  },
+  {
+    "start": 4153.04,
+    "duration": 3.56,
+    "text": "iguale al costo."
+  },
+  {
+    "start": 4157.64,
+    "duration": 4.96,
+    "text": "Y entonces lo que me va a quedar es"
+  },
+  {
+    "start": 4160.12,
+    "duration": 6.32,
+    "text": "solamente el costo variable, que es el"
+  },
+  {
+    "start": 4162.6,
+    "duration": 5.52,
+    "text": "costo de producir una unidad más. Ahora,"
+  },
+  {
+    "start": 4166.44,
+    "duration": 5.2,
+    "text": "¿qué pasó con el costo fijo?"
+  },
+  {
+    "start": 4168.12,
+    "duration": 5.44,
+    "text": "¿Desapareció o no? Eh, el tema es el"
+  },
+  {
+    "start": 4171.64,
+    "duration": 5.039,
+    "text": "siguiente. Se lo voy a explicar de otra"
+  },
+  {
+    "start": 4173.56,
+    "duration": 5.4,
+    "text": "manera ahora para que se entienda bien."
+  },
+  {
+    "start": 4176.679,
+    "duration": 5.0,
+    "text": "Teoría del hotel."
+  },
+  {
+    "start": 4178.96,
+    "duration": 4.759,
+    "text": "El precio viene fijado por un commodity"
+  },
+  {
+    "start": 4181.679,
+    "duration": 5.04,
+    "text": "del gremio de los hoteleros. Si quieren"
+  },
+  {
+    "start": 4183.719,
+    "duration": 5.801,
+    "text": "pueden tomar este soja, petróleo, lo lo"
+  },
+  {
+    "start": 4186.719,
+    "duration": 4.881,
+    "text": "que ustedes gusten. El precio viene dado"
+  },
+  {
+    "start": 4189.52,
+    "duration": 3.96,
+    "text": "por la por el mercado que es un"
+  },
+  {
+    "start": 4191.6,
+    "duration": 5.079,
+    "text": "commodity."
+  },
+  {
+    "start": 4193.48,
+    "duration": 5.16,
+    "text": "Entonces si yo quiero hacer eh meterme"
+  },
+  {
+    "start": 4196.679,
+    "duration": 5.52,
+    "text": "en ese mercado y tengo que diseñar una"
+  },
+  {
+    "start": 4198.64,
+    "duration": 6.64,
+    "text": "planta, yo la voy a diseñar para qué?"
+  },
+  {
+    "start": 4202.199,
+    "duration": 5.52,
+    "text": "Para que mi costo marginal"
+  },
+  {
+    "start": 4205.28,
+    "duration": 4.56,
+    "text": "sea igual al precio del commodity."
+  },
+  {
+    "start": 4207.719,
+    "duration": 4.841,
+    "text": "Entonces yo ahí voy a tener mi máximo"
+  },
+  {
+    "start": 4209.84,
+    "duration": 6.319,
+    "text": "beneficio."
+  },
+  {
+    "start": 4212.56,
+    "duration": 6.44,
+    "text": "Bien, entonces si bien lo tengo"
+  },
+  {
+    "start": 4216.159,
+    "duration": 5.481,
+    "text": "en en mi máximo beneficio, ahora vayamos"
+  },
+  {
+    "start": 4219.0,
+    "duration": 4.64,
+    "text": "a la realidad práctica."
+  },
+  {
+    "start": 4221.64,
+    "duration": 5.28,
+    "text": "Resulta que para tener ese máximo"
+  },
+  {
+    "start": 4223.64,
+    "duration": 6.8,
+    "text": "beneficio, yo tengo que tener el 80% del"
+  },
+  {
+    "start": 4226.92,
+    "duration": 6.799,
+    "text": "hotel ocupado y resulta que por la"
+  },
+  {
+    "start": 4230.44,
+    "duration": 7.08,
+    "text": "temporada o algo o algún percance a mí"
+  },
+  {
+    "start": 4233.719,
+    "duration": 7.241,
+    "text": "me bajó este a la mitad."
+  },
+  {
+    "start": 4237.52,
+    "duration": 8.4,
+    "text": "Entonces, eso significa"
+  },
+  {
+    "start": 4240.96,
+    "duration": 7.92,
+    "text": "que eh yo estoy eh pagando un montón de"
+  },
+  {
+    "start": 4245.92,
+    "duration": 4.96,
+    "text": "costos fijos y la ecuación no me cierra"
+  },
+  {
+    "start": 4248.88,
+    "duration": 5.44,
+    "text": "porque con los costos fijos que tengo y"
+  },
+  {
+    "start": 4250.88,
+    "duration": 6.04,
+    "text": "ese 40% de ocupación no me alcanza para"
+  },
+  {
+    "start": 4254.32,
+    "duration": 4.64,
+    "text": "pagar mis costos fijos. Entonces,"
+  },
+  {
+    "start": 4256.92,
+    "duration": 4.6,
+    "text": "ustedes como empresario, ¿qué harían si"
+  },
+  {
+    "start": 4258.96,
+    "duration": 5.56,
+    "text": "vienen tres clientes nuevos? ¿Cuánto le"
+  },
+  {
+    "start": 4261.52,
+    "duration": 3.0,
+    "text": "cobrarían?"
+  },
+  {
+    "start": 4267.32,
+    "duration": 4.52,
+    "text": "A ver si alguien se anima a responder."
+  },
+  {
+    "start": 4278.719,
+    "duration": 4.241,
+    "text": "Bueno, la respuesta es lo que el cliente"
+  },
+  {
+    "start": 4280.52,
+    "duration": 4.0,
+    "text": "esté dispuesto a pagar."
+  },
+  {
+    "start": 4282.96,
+    "duration": 3.279,
+    "text": "Entonces, si yo me adecúo a lo que el"
+  },
+  {
+    "start": 4284.52,
+    "duration": 3.56,
+    "text": "cliente esté dispuesto a pagar, yo lo"
+  },
+  {
+    "start": 4286.239,
+    "duration": 4.96,
+    "text": "que estoy haciendo no me estoy salvando,"
+  },
+  {
+    "start": 4288.08,
+    "duration": 5.72,
+    "text": "pero estoy recortando mis pérdidas"
+  },
+  {
+    "start": 4291.199,
+    "duration": 6.44,
+    "text": "porque prefiero un ingreso superior a"
+  },
+  {
+    "start": 4293.8,
+    "duration": 5.48,
+    "text": "cero antes que eh perder la plata"
+  },
+  {
+    "start": 4297.639,
+    "duration": 4.52,
+    "text": "directamente."
+  },
+  {
+    "start": 4299.28,
+    "duration": 4.68,
+    "text": "Entonces, ahora sí estamos con esto"
+  },
+  {
+    "start": 4302.159,
+    "duration": 3.48,
+    "text": "consideración, estamos en condiciones de"
+  },
+  {
+    "start": 4303.96,
+    "duration": 6.239,
+    "text": "analizar este gráfico que estamos"
+  },
+  {
+    "start": 4305.639,
+    "duration": 7.0,
+    "text": "viendo, donde acuérdense el costo es el"
+  },
+  {
+    "start": 4310.199,
+    "duration": 5.04,
+    "text": "costo variable."
+  },
+  {
+    "start": 4312.639,
+    "duration": 5.0,
+    "text": "más el costo fijo."
+  },
+  {
+    "start": 4315.239,
+    "duration": 5.361,
+    "text": "Si yo lo divido por la cantidad Q, eso"
+  },
+  {
+    "start": 4317.639,
+    "duration": 4.481,
+    "text": "me va a dar un costo medio. Si uso el"
+  },
+  {
+    "start": 4320.6,
+    "duration": 5.72,
+    "text": "costo variable, que sería el costo"
+  },
+  {
+    "start": 4322.12,
+    "duration": 8.599,
+    "text": "marginal, me va a dar un costo este"
+  },
+  {
+    "start": 4326.32,
+    "duration": 4.399,
+    "text": "más alto por la cantidad Q."
+  },
+  {
+    "start": 4333.08,
+    "duration": 4.32,
+    "text": "Entonces, aquí estamos en un punto de"
+  },
+  {
+    "start": 4335.52,
+    "duration": 5.4,
+    "text": "equilibrio que es el punto B. Se ve nota"
+  },
+  {
+    "start": 4337.4,
+    "duration": 4.72,
+    "text": "el cursor, ¿no?"
+  },
+  {
+    "start": 4340.92,
+    "duration": 2.04,
+    "text": "Sí se nota."
+  },
+  {
+    "start": 4342.12,
+    "duration": 3.44,
+    "text": "Sí."
+  },
+  {
+    "start": 4342.96,
+    "duration": 5.88,
+    "text": "Bien. Este, bueno, tenemos un punto, es"
+  },
+  {
+    "start": 4345.56,
+    "duration": 8.2,
+    "text": "el punto de equilibrio donde se situó la"
+  },
+  {
+    "start": 4348.84,
+    "duration": 8.0,
+    "text": "oferta y la demanda a un valor Q, que"
+  },
+  {
+    "start": 4353.76,
+    "duration": 6.08,
+    "text": "son coincidentes, y por lo tanto en esa"
+  },
+  {
+    "start": 4356.84,
+    "duration": 3.0,
+    "text": "intersección"
+  },
+  {
+    "start": 4360.52,
+    "duration": 5.24,
+    "text": "estoy en equilibrio."
+  },
+  {
+    "start": 4362.92,
+    "duration": 7.719,
+    "text": "Entonces aquí viene lo más importante de"
+  },
+  {
+    "start": 4365.76,
+    "duration": 8.959,
+    "text": "todo. Lo que vemos rayado en azul,"
+  },
+  {
+    "start": 4370.639,
+    "duration": 6.961,
+    "text": "que es A PB, es el excedente del"
+  },
+  {
+    "start": 4374.719,
+    "duration": 6.121,
+    "text": "consumidor. Se denomina excedente del"
+  },
+  {
+    "start": 4377.6,
+    "duration": 6.76,
+    "text": "consumidor y lo que es PBD"
+  },
+  {
+    "start": 4380.84,
+    "duration": 6.52,
+    "text": "es lo que se denomina el excedente del"
+  },
+  {
+    "start": 4384.36,
+    "duration": 3.0,
+    "text": "productor."
+  },
+  {
+    "start": 4387.92,
+    "duration": 3.0,
+    "text": "Entonces,"
+  },
+  {
+    "start": 4391.0,
+    "duration": 4.92,
+    "text": "a nivel de"
+  },
+  {
+    "start": 4393.88,
+    "duration": 6.24,
+    "text": "Entonces, significa que si yo estoy"
+  },
+  {
+    "start": 4395.92,
+    "duration": 5.88,
+    "text": "parado en el punto B, el productor capta"
+  },
+  {
+    "start": 4400.12,
+    "duration": 4.16,
+    "text": "excedente"
+  },
+  {
+    "start": 4401.8,
+    "duration": 7.2,
+    "text": "propio, el del consumidor y el de el"
+  },
+  {
+    "start": 4404.28,
+    "duration": 7.72,
+    "text": "productor, porque abarca todo el el el"
+  },
+  {
+    "start": 4409.0,
+    "duration": 5.12,
+    "text": "rect este triángulo."
+  },
+  {
+    "start": 4412.0,
+    "duration": 8.08,
+    "text": "Y ahora lo vamos a ver un poco más en"
+  },
+  {
+    "start": 4414.12,
+    "duration": 8.48,
+    "text": "detalle. El costo total es PBQ0"
+  },
+  {
+    "start": 4420.08,
+    "duration": 6.52,
+    "text": "y el valor social, o sea, lo que se"
+  },
+  {
+    "start": 4422.6,
+    "duration": 7.039,
+    "text": "tranza, digamos, subyacente en esto, es"
+  },
+  {
+    "start": 4426.6,
+    "duration": 5.84,
+    "text": "lo que tenemos acá en negro, que es el"
+  },
+  {
+    "start": 4429.639,
+    "duration": 5.441,
+    "text": "valor DQ0."
+  },
+  {
+    "start": 4432.44,
+    "duration": 5.56,
+    "text": "Entonces, ese es el valor, digamos,"
+  },
+  {
+    "start": 4435.08,
+    "duration": 7.28,
+    "text": "transaccional a nivel macroeconómico que"
+  },
+  {
+    "start": 4438.0,
+    "duration": 7.32,
+    "text": "hay entre el consumo y eh y la oferta."
+  },
+  {
+    "start": 4442.36,
+    "duration": 5.4,
+    "text": "es la resultante de el intercambio"
+  },
+  {
+    "start": 4445.32,
+    "duration": 5.0,
+    "text": "comercial de estos dos factores."
+  },
+  {
+    "start": 4447.76,
+    "duration": 4.32,
+    "text": "Entonces, si el costo marginal empieza a"
+  },
+  {
+    "start": 4450.32,
+    "duration": 6.04,
+    "text": "bajar,"
+  },
+  {
+    "start": 4452.08,
+    "duration": 5.92,
+    "text": "el valor social empieza a"
+  },
+  {
+    "start": 4456.36,
+    "duration": 4.68,
+    "text": "disminuirse."
+  },
+  {
+    "start": 4458.0,
+    "duration": 8.44,
+    "text": "Y si empieza a disminuirse, el excedente"
+  },
+  {
+    "start": 4461.04,
+    "duration": 7.84,
+    "text": "del productor empieza a ser más chico y"
+  },
+  {
+    "start": 4466.44,
+    "duration": 5.08,
+    "text": "empieza a capturar más de la del"
+  },
+  {
+    "start": 4468.88,
+    "duration": 6.56,
+    "text": "excedente del consumidor."
+  },
+  {
+    "start": 4471.52,
+    "duration": 3.92,
+    "text": "Lo vamos a ver en la siguiente."
+  },
+  {
+    "start": 4476.36,
+    "duration": 6.0,
+    "text": "Aquí podemos ver la la variación que que"
+  },
+  {
+    "start": 4479.44,
+    "duration": 5.6,
+    "text": "hablamos. Supongamos que yo paso de"
+  },
+  {
+    "start": 4482.36,
+    "duration": 5.0,
+    "text": "ahora de definir en costo medio, en"
+  },
+  {
+    "start": 4485.04,
+    "duration": 3.96,
+    "text": "costo marginal"
+  },
+  {
+    "start": 4487.36,
+    "duration": 5.4,
+    "text": "para [carraspeo] las tarifas a costo"
+  },
+  {
+    "start": 4489.0,
+    "duration": 8.36,
+    "text": "medio sin modificar nada, simplemente"
+  },
+  {
+    "start": 4492.76,
+    "duration": 7.76,
+    "text": "este hago el tarifario por costo medio."
+  },
+  {
+    "start": 4497.36,
+    "duration": 6.92,
+    "text": "Entonces, ahora tenemos que"
+  },
+  {
+    "start": 4500.52,
+    "duration": 7.679,
+    "text": "el valor se aumenta de Q a Q prima la"
+  },
+  {
+    "start": 4504.28,
+    "duration": 8.0,
+    "text": "cantidad, porque el óptimo yo hice que"
+  },
+  {
+    "start": 4508.199,
+    "duration": 7.96,
+    "text": "al bajar el costo de la energía tenga"
+  },
+  {
+    "start": 4512.28,
+    "duration": 3.879,
+    "text": "mayor demanda consumida."
+  },
+  {
+    "start": 4516.639,
+    "duration": 6.121,
+    "text": "Estamos hablando del precio, ¿no? El"
+  },
+  {
+    "start": 4518.08,
+    "duration": 9.599,
+    "text": "precio P a P prima. Bien. Y entonces"
+  },
+  {
+    "start": 4522.76,
+    "duration": 4.919,
+    "text": "este rectángulo que vemos acá en negro"
+  },
+  {
+    "start": 4528.719,
+    "duration": 7.92,
+    "text": "es la variación del valor social que se"
+  },
+  {
+    "start": 4532.44,
+    "duration": 6.44,
+    "text": "incrementa en este rectángulo."
+  },
+  {
+    "start": 4536.639,
+    "duration": 5.481,
+    "text": "Ahora, eso no es igual que el rectángulo"
+  },
+  {
+    "start": 4538.88,
+    "duration": 6.24,
+    "text": "que veo en está en verde. Entonces,"
+  },
+  {
+    "start": 4542.12,
+    "duration": 3.0,
+    "text": "analicemos."
+  },
+  {
+    "start": 4545.239,
+    "duration": 10.881,
+    "text": "El excedente del consumidor aumenta de E"
+  },
+  {
+    "start": 4551.0,
+    "duration": 8.12,
+    "text": "P prima B. es lo que está marcado en"
+  },
+  {
+    "start": 4556.12,
+    "duration": 3.0,
+    "text": "verde."
+  },
+  {
+    "start": 4559.28,
+    "duration": 6.16,
+    "text": "El excedente del productor es E"
+  },
+  {
+    "start": 4566.8,
+    "duration": 7.32,
+    "text": "P prima y F que que sería es el este"
+  },
+  {
+    "start": 4571.76,
+    "duration": 5.36,
+    "text": "nuevo punto"
+  },
+  {
+    "start": 4574.12,
+    "duration": 3.0,
+    "text": "F."
+  },
+  {
+    "start": 4577.36,
+    "duration": 3.0,
+    "text": "Así"
+  },
+  {
+    "start": 4582.08,
+    "duration": 6.119,
+    "text": "el costo total ahora es"
+  },
+  {
+    "start": 4585.56,
+    "duration": 8.32,
+    "text": "C"
+  },
+  {
+    "start": 4588.199,
+    "duration": 9.201,
+    "text": "Q prima Q E, este rectángulo en negro"
+  },
+  {
+    "start": 4593.88,
+    "duration": 6.12,
+    "text": "y el valor social aumentó."
+  },
+  {
+    "start": 4597.4,
+    "duration": 4.56,
+    "text": "¿Qué significa esto? Y esto es la el"
+  },
+  {
+    "start": 4600.0,
+    "duration": 5.239,
+    "text": "corolario que puede decir que si usamos"
+  },
+  {
+    "start": 4601.96,
+    "duration": 7.0,
+    "text": "una tarifa a nivel de costo medio"
+  },
+  {
+    "start": 4605.239,
+    "duration": 6.881,
+    "text": "favorece más a la demanda, al usuario y"
+  },
+  {
+    "start": 4608.96,
+    "duration": 6.4,
+    "text": "si usamos el costo marginal favorece más"
+  },
+  {
+    "start": 4612.12,
+    "duration": 3.24,
+    "text": "al productor."
+  },
+  {
+    "start": 4624.52,
+    "duration": 7.36,
+    "text": "Entonces, para provocar o promover"
+  },
+  {
+    "start": 4629.28,
+    "duration": 4.919,
+    "text": "mayor inserción de generación o ampliar"
+  },
+  {
+    "start": 4631.88,
+    "duration": 5.92,
+    "text": "red de distribución,"
+  },
+  {
+    "start": 4634.199,
+    "duration": 6.321,
+    "text": "el costo marginal es una buena señal, el"
+  },
+  {
+    "start": 4637.8,
+    "duration": 4.96,
+    "text": "costo medio no"
+  },
+  {
+    "start": 4640.52,
+    "duration": 5.639,
+    "text": "y viceversa."
+  },
+  {
+    "start": 4642.76,
+    "duration": 5.8,
+    "text": "Entonces, acá hay un tradeof entre el"
+  },
+  {
+    "start": 4646.159,
+    "duration": 4.321,
+    "text": "costo marginal y el costo medio. O sea,"
+  },
+  {
+    "start": 4648.56,
+    "duration": 3.8,
+    "text": "para el corto plazo favorece al"
+  },
+  {
+    "start": 4650.48,
+    "duration": 4.679,
+    "text": "consumidor el costo medio. En el largo"
+  },
+  {
+    "start": 4652.36,
+    "duration": 4.68,
+    "text": "plazo debería ser el costo marginal"
+  },
+  {
+    "start": 4655.159,
+    "duration": 5.641,
+    "text": "porque es lo que me incentiva a mí a"
+  },
+  {
+    "start": 4657.04,
+    "duration": 6.56,
+    "text": "tener ofertas o que haya inversiones"
+  },
+  {
+    "start": 4660.8,
+    "duration": 6.359,
+    "text": "para que eh en el futuro la demanda"
+  },
+  {
+    "start": 4663.6,
+    "duration": 3.559,
+    "text": "pueda estar abastecida."
+  },
+  {
+    "start": 4669.08,
+    "duration": 6.96,
+    "text": "Aquí vemos el el una situación inversa,"
+  },
+  {
+    "start": 4673.36,
+    "duration": 5.799,
+    "text": "o sea, aumenta el costo marginal."
+  },
+  {
+    "start": 4676.04,
+    "duration": 6.56,
+    "text": "Entonces ahí podemos ver exactamente el"
+  },
+  {
+    "start": 4679.159,
+    "duration": 3.441,
+    "text": "efecto contrario."
+  },
+  {
+    "start": 4686.76,
+    "duration": 4.76,
+    "text": "Fíjense que la demanda cambia porque"
+  },
+  {
+    "start": 4689.56,
+    "duration": 3.52,
+    "text": "cambia el precio y la posición de"
+  },
+  {
+    "start": 4691.52,
+    "duration": 4.52,
+    "text": "equilibrio"
+  },
+  {
+    "start": 4693.08,
+    "duration": 5.639,
+    "text": "en función de ese precio"
+  },
+  {
+    "start": 4696.04,
+    "duration": 6.0,
+    "text": "me lleva a estar en otro nivel Q. en"
+  },
+  {
+    "start": 4698.719,
+    "duration": 7.641,
+    "text": "otro nivel Q, alejándome del costo"
+  },
+  {
+    "start": 4702.04,
+    "duration": 8.76,
+    "text": "marginal y del costo medio,"
+  },
+  {
+    "start": 4706.36,
+    "duration": 4.44,
+    "text": "o sea, vendo menos cantidades"
+  },
+  {
+    "start": 4712.04,
+    "duration": 5.92,
+    "text": "inclusive al a ese costo mayor."
+  },
+  {
+    "start": 4720.36,
+    "duration": 6.24,
+    "text": "Bien."
+  },
+  {
+    "start": 4722.679,
+    "duration": 7.841,
+    "text": "Eh, ¿alguna pregunta sobre esto?"
+  },
+  {
+    "start": 4726.6,
+    "duration": 3.92,
+    "text": "sobre este último punto."
+  },
+  {
+    "start": 4735.96,
+    "duration": 4.48,
+    "text": "Bueno, dudas muchas, pero tal vez este"
+  },
+  {
+    "start": 4738.28,
+    "duration": 4.64,
+    "text": "después ahí tienen al final este"
+  },
+  {
+    "start": 4740.44,
+    "duration": 4.4,
+    "text": "bibliografía si uno quiere"
+  },
+  {
+    "start": 4742.92,
+    "duration": 4.319,
+    "text": "interiorizarse un poco más acerca de"
+  },
+  {
+    "start": 4744.84,
+    "duration": 2.399,
+    "text": "esto."
+  },
+  {
+    "start": 4747.719,
+    "duration": 4.92,
+    "text": "tarifas por"
+  },
+  {
+    "start": 4750.36,
+    "duration": 4.4,
+    "text": "una vez de esto, estamos entrando ya"
+  },
+  {
+    "start": 4752.639,
+    "duration": 5.161,
+    "text": "casi en el final, las tarifas por"
+  },
+  {
+    "start": 4754.76,
+    "duration": 5.24,
+    "text": "asignación de costos o por señales de"
+  },
+  {
+    "start": 4757.8,
+    "duration": 5.52,
+    "text": "eficiencia, que es un poco lo que"
+  },
+  {
+    "start": 4760.0,
+    "duration": 7.32,
+    "text": "estuvimos hablando recién,"
+  },
+  {
+    "start": 4763.32,
+    "duration": 7.879,
+    "text": "costos versus señales de eficiencia,"
+  },
+  {
+    "start": 4767.32,
+    "duration": 3.879,
+    "text": "costo medio versus"
+  },
+  {
+    "start": 4771.36,
+    "duration": 5.359,
+    "text": "costo marginal."
+  },
+  {
+    "start": 4774.0,
+    "duration": 5.639,
+    "text": "Bueno, tarifas de costos medios de largo"
+  },
+  {
+    "start": 4776.719,
+    "duration": 5.321,
+    "text": "plazo. Eso lleva una asignación de"
+  },
+  {
+    "start": 4779.639,
+    "duration": 4.721,
+    "text": "recursos ineficientes"
+  },
+  {
+    "start": 4782.04,
+    "duration": 4.92,
+    "text": "porque los recursos son utilizados en"
+  },
+  {
+    "start": 4784.36,
+    "duration": 5.44,
+    "text": "funciones que se valoran por debajo de"
+  },
+  {
+    "start": 4786.96,
+    "duration": 5.239,
+    "text": "sus costos. Se recupera menos que el"
+  },
+  {
+    "start": 4789.8,
+    "duration": 5.32,
+    "text": "costo de la última unidad producida,"
+  },
+  {
+    "start": 4792.199,
+    "duration": 5.44,
+    "text": "pero se recupera el costo total."
+  },
+  {
+    "start": 4795.12,
+    "duration": 4.76,
+    "text": "Esa la ventaja que tiene."
+  },
+  {
+    "start": 4797.639,
+    "duration": 5.52,
+    "text": "En este caso se maximiza el excedente"
+  },
+  {
+    "start": 4799.88,
+    "duration": 3.279,
+    "text": "del consumidor."
+  },
+  {
+    "start": 4814.28,
+    "duration": 5.16,
+    "text": "Tarifas de costos marginales de largo"
+  },
+  {
+    "start": 4816.48,
+    "duration": 4.56,
+    "text": "plazo. Eso es una asignación de recursos"
+  },
+  {
+    "start": 4819.44,
+    "duration": 5.08,
+    "text": "eficientes"
+  },
+  {
+    "start": 4821.04,
+    "duration": 6.0,
+    "text": "y es una función valorada porque nunca"
+  },
+  {
+    "start": 4824.52,
+    "duration": 5.76,
+    "text": "me voy a quedar este con una"
+  },
+  {
+    "start": 4827.04,
+    "duration": 5.159,
+    "text": "subutilización de los recursos."
+  },
+  {
+    "start": 4830.28,
+    "duration": 5.359,
+    "text": "Entonces se dice que en el largo plazo"
+  },
+  {
+    "start": 4832.199,
+    "duration": 6.681,
+    "text": "maximiza el bienestar social"
+  },
+  {
+    "start": 4835.639,
+    "duration": 6.961,
+    "text": "porque este hay gente dispuesta a"
+  },
+  {
+    "start": 4838.88,
+    "duration": 3.72,
+    "text": "ofrecer el servicio."
+  },
+  {
+    "start": 4844.88,
+    "duration": 3.92,
+    "text": "Entonces,"
+  },
+  {
+    "start": 4846.92,
+    "duration": 3.92,
+    "text": "¿cuáles son las bandas de determinación"
+  },
+  {
+    "start": 4848.8,
+    "duration": 3.56,
+    "text": "eficientes?"
+  },
+  {
+    "start": 4850.84,
+    "duration": 3.76,
+    "text": "El costo de oportunidad para el"
+  },
+  {
+    "start": 4852.36,
+    "duration": 4.279,
+    "text": "consumidor es el máximo precio que está"
+  },
+  {
+    "start": 4854.6,
+    "duration": 4.639,
+    "text": "dispuesto a pagar. El mínimo precio es"
+  },
+  {
+    "start": 4856.639,
+    "duration": 4.56,
+    "text": "el costo medio de largo plazo en"
+  },
+  {
+    "start": 4859.239,
+    "duration": 4.48,
+    "text": "ausencia de subsidio, que es el costo"
+  },
+  {
+    "start": 4861.199,
+    "duration": 4.601,
+    "text": "medio."
+  },
+  {
+    "start": 4863.719,
+    "duration": 4.081,
+    "text": "Si el costo de oportunidad es menor que"
+  },
+  {
+    "start": 4865.8,
+    "duration": 4.08,
+    "text": "el costo medio,"
+  },
+  {
+    "start": 4867.8,
+    "duration": 4.12,
+    "text": "significa que no resulta prestar un"
+  },
+  {
+    "start": 4869.88,
+    "duration": 5.319,
+    "text": "servicio público."
+  },
+  {
+    "start": 4871.92,
+    "duration": 5.48,
+    "text": "Esto se llama como test del stand along"
+  },
+  {
+    "start": 4875.199,
+    "duration": 4.321,
+    "text": "cost."
+  },
+  {
+    "start": 4877.4,
+    "duration": 5.799,
+    "text": "Esto significa que si el costo de"
+  },
+  {
+    "start": 4879.52,
+    "duration": 7.36,
+    "text": "oportunidad que yo veo como consumidor"
+  },
+  {
+    "start": 4883.199,
+    "duration": 6.241,
+    "text": "este le resulta menor que el costo medio"
+  },
+  {
+    "start": 4886.88,
+    "duration": 4.52,
+    "text": "del largo plazo del distribuidor, al"
+  },
+  {
+    "start": 4889.44,
+    "duration": 4.96,
+    "text": "distribuidor no le conviene tener este"
+  },
+  {
+    "start": 4891.4,
+    "duration": 3.0,
+    "text": "negocio."
+  },
+  {
+    "start": 4894.8,
+    "duration": 7.68,
+    "text": "Esto vale para cualquier tipo de eh de"
+  },
+  {
+    "start": 4899.04,
+    "duration": 5.36,
+    "text": "industria o negocio que uno quiera"
+  },
+  {
+    "start": 4902.48,
+    "duration": 3.8,
+    "text": "valorar."
+  },
+  {
+    "start": 4904.4,
+    "duration": 4.759,
+    "text": "El costo de oportunidad tiene que ser"
+  },
+  {
+    "start": 4906.28,
+    "duration": 5.52,
+    "text": "siempre mayor que el costo medio."
+  },
+  {
+    "start": 4909.159,
+    "duration": 4.241,
+    "text": "Equivalencia de conceptos."
+  },
+  {
+    "start": 4911.8,
+    "duration": 3.96,
+    "text": "Puede demostrarse que en equilibrio"
+  },
+  {
+    "start": 4913.4,
+    "duration": 4.4,
+    "text": "competitivo, el costo de oportunidad de"
+  },
+  {
+    "start": 4915.76,
+    "duration": 5.6,
+    "text": "un bien o servicio mayor al valor"
+  },
+  {
+    "start": 4917.8,
+    "duration": 6.359,
+    "text": "asignado a una utilización es igual al"
+  },
+  {
+    "start": 4921.36,
+    "duration": 8.16,
+    "text": "costo marginal de largo plazo. Ese es el"
+  },
+  {
+    "start": 4924.159,
+    "duration": 7.441,
+    "text": "punto en el cual eh uno tiene que que"
+  },
+  {
+    "start": 4929.52,
+    "duration": 4.6,
+    "text": "pararse,"
+  },
+  {
+    "start": 4931.6,
+    "duration": 5.599,
+    "text": "o sea, uno puede partir en la coyuntura"
+  },
+  {
+    "start": 4934.12,
+    "duration": 5.44,
+    "text": "o en el corto plazo ir a tarifas de"
+  },
+  {
+    "start": 4937.199,
+    "duration": 5.761,
+    "text": "costo medio, pero a largo plazo conviene"
+  },
+  {
+    "start": 4939.56,
+    "duration": 8.92,
+    "text": "ir al costo marginal para que haya una"
+  },
+  {
+    "start": 4942.96,
+    "duration": 7.88,
+    "text": "incentivo a la oferta a generar eh mayor"
+  },
+  {
+    "start": 4948.48,
+    "duration": 6.52,
+    "text": "provisión de servicio que me disminuya"
+  },
+  {
+    "start": 4950.84,
+    "duration": 4.16,
+    "text": "inclusive el costo marginal."
+  },
+  {
+    "start": 4955.28,
+    "duration": 5.28,
+    "text": "Bueno, y por último acá tienen la"
+  },
+  {
+    "start": 4957.76,
+    "duration": 6.439,
+    "text": "biografía"
+  },
+  {
+    "start": 4960.56,
+    "duration": 6.4,
+    "text": "que anexé. Le voy a agregar alguno sobre"
+  },
+  {
+    "start": 4964.199,
+    "duration": 6.561,
+    "text": "estos conceptos que estuvimos viendo"
+  },
+  {
+    "start": 4966.96,
+    "duration": 5.84,
+    "text": "aquí y se los voy a compartir. Así que"
+  },
+  {
+    "start": 4970.76,
+    "duration": 5.52,
+    "text": "bueno, ahora dejamos espacio para las"
+  },
+  {
+    "start": 4972.8,
+    "duration": 3.48,
+    "text": "para las preguntas."
+  },
+  {
+    "start": 4984.04,
+    "duration": 3.36,
+    "text": "Hola, ¿qué tal? Tengo una pregunta."
+  },
+  {
+    "start": 4986.4,
+    "duration": 4.68,
+    "text": "Sí."
+  },
+  {
+    "start": 4987.4,
+    "duration": 6.56,
+    "text": "Eh, yo soy de acá dea y estaba hace unos"
+  },
+  {
+    "start": 4991.08,
+    "duration": 6.76,
+    "text": "años atrás en planificación, pero en"
+  },
+  {
+    "start": 4993.96,
+    "duration": 6.44,
+    "text": "Europa se está planificando ya con estos"
+  },
+  {
+    "start": 4997.84,
+    "duration": 4.56,
+    "text": "cargadores nuevos para autos y demás y"
+  },
+  {
+    "start": 5000.4,
+    "duration": 4.759,
+    "text": "la energía que cada uno inyecta y que"
+  },
+  {
+    "start": 5002.4,
+    "duration": 6.08,
+    "text": "también va aumentando."
+  },
+  {
+    "start": 5005.159,
+    "duration": 6.121,
+    "text": "Sí, se está se está implementando, pero"
+  },
+  {
+    "start": 5008.48,
+    "duration": 6.0,
+    "text": "hay una discusión con el tema del"
+  },
+  {
+    "start": 5011.28,
+    "duration": 7.68,
+    "text": "todavía con con el tema de de del costo"
+  },
+  {
+    "start": 5014.48,
+    "duration": 6.679,
+    "text": "que se le da al cliente"
+  },
+  {
+    "start": 5018.96,
+    "duration": 4.92,
+    "text": "y el tema de si se le cobra peaje y"
+  },
+  {
+    "start": 5021.159,
+    "duration": 6.281,
+    "text": "demás también a los que generan."
+  },
+  {
+    "start": 5023.88,
+    "duration": 6.56,
+    "text": "Sí, también también. Es más, este ahí te"
+  },
+  {
+    "start": 5027.44,
+    "duration": 6.199,
+    "text": "te paso una"
+  },
+  {
+    "start": 5030.44,
+    "duration": 5.96,
+    "text": "paso un dato, eh, que es lo que está"
+  },
+  {
+    "start": 5033.639,
+    "duration": 5.04,
+    "text": "sucediendo ahora. ¿Por qué los españoles"
+  },
+  {
+    "start": 5036.4,
+    "duration": 5.96,
+    "text": "van al hipermercado? Porque el costo de"
+  },
+  {
+    "start": 5038.679,
+    "duration": 7.48,
+    "text": "venta que le dan por la energía para"
+  },
+  {
+    "start": 5042.36,
+    "duration": 5.6,
+    "text": "cargar el auto es menor que si lo carga"
+  },
+  {
+    "start": 5046.159,
+    "duration": 4.201,
+    "text": "en la casa."
+  },
+  {
+    "start": 5047.96,
+    "duration": 5.32,
+    "text": "Ah, mira vos. Y el otro tema es que acá,"
+  },
+  {
+    "start": 5050.36,
+    "duration": 5.279,
+    "text": "por ejemplo, tenemos tarifa T1, el"
+  },
+  {
+    "start": 5053.28,
+    "duration": 4.919,
+    "text": "residencial hasta 10 kW. O sea, todo el"
+  },
+  {
+    "start": 5055.639,
+    "duration": 4.721,
+    "text": "que ponga un cargador, yo tenía igual"
+  },
+  {
+    "start": 5058.199,
+    "duration": 5.801,
+    "text": "entendido que era menos de 10 kW lo que"
+  },
+  {
+    "start": 5060.36,
+    "duration": 6.48,
+    "text": "consume, pero ya una forma de"
+  },
+  {
+    "start": 5064.0,
+    "duration": 5.159,
+    "text": "compensarlo sería cobrarle"
+  },
+  {
+    "start": 5066.84,
+    "duration": 4.879,
+    "text": "el el cargo de conexión, pasar a otra"
+  },
+  {
+    "start": 5069.159,
+    "duration": 5.04,
+    "text": "tarifa y ahí también cobrarle después la"
+  },
+  {
+    "start": 5071.719,
+    "duration": 5.96,
+    "text": "expansión de nuestras redes y demás."
+  },
+  {
+    "start": 5074.199,
+    "duration": 5.96,
+    "text": "Así, así es. Eh, inclusive ahora vamos a"
+  },
+  {
+    "start": 5077.679,
+    "duration": 5.56,
+    "text": "ver si por ahí a nivel del nuevo enter"
+  },
+  {
+    "start": 5080.159,
+    "duration": 7.48,
+    "text": "regulador si no si pasamos para el"
+  },
+  {
+    "start": 5083.239,
+    "duration": 6.601,
+    "text": "dimensionamiento de 10 a 15."
+  },
+  {
+    "start": 5087.639,
+    "duration": 6.0,
+    "text": "Eh, de todas maneras cuando yo hablo del"
+  },
+  {
+    "start": 5089.84,
+    "duration": 8.64,
+    "text": "cargador hay de 5 y de 10 kW."
+  },
+  {
+    "start": 5093.639,
+    "duration": 7.321,
+    "text": "Eh, el tema es lo es el tiempo. Con el"
+  },
+  {
+    "start": 5098.48,
+    "duration": 4.84,
+    "text": "de 10 lo cargas más cargas más rápido,"
+  },
+  {
+    "start": 5100.96,
+    "duration": 4.92,
+    "text": "con el de 5 más lento. Es como un"
+  },
+  {
+    "start": 5103.32,
+    "duration": 5.24,
+    "text": "cargador de baterías, no hay no hay"
+  },
+  {
+    "start": 5105.88,
+    "duration": 5.08,
+    "text": "mucho misterio en eso. Entonces, vos"
+  },
+  {
+    "start": 5108.56,
+    "duration": 4.52,
+    "text": "tenés un cargador, digamos, el de que"
+  },
+  {
+    "start": 5110.96,
+    "duration": 4.96,
+    "text": "usan en la"
+  },
+  {
+    "start": 5113.08,
+    "duration": 5.559,
+    "text": "el la gente que repara baterías tiene un"
+  },
+  {
+    "start": 5115.92,
+    "duration": 4.6,
+    "text": "cargador rápido y el que uno compra ahí"
+  },
+  {
+    "start": 5118.639,
+    "duration": 5.321,
+    "text": "en el hipermercado para cargar en la"
+  },
+  {
+    "start": 5120.52,
+    "duration": 5.76,
+    "text": "casa es un cargador lento. Eh, y"
+  },
+  {
+    "start": 5123.96,
+    "duration": 5.96,
+    "text": "después, por supuesto, esos son valores"
+  },
+  {
+    "start": 5126.28,
+    "duration": 5.879,
+    "text": "máximos a nivel de potencia, pero"
+  },
+  {
+    "start": 5129.92,
+    "duration": 5.199,
+    "text": "depende mucho del nivel de carga que"
+  },
+  {
+    "start": 5132.159,
+    "duration": 6.48,
+    "text": "tiene la batería, es la potencia"
+  },
+  {
+    "start": 5135.119,
+    "duration": 7.641,
+    "text": "instantánea que va a requerir."
+  },
+  {
+    "start": 5138.639,
+    "duration": 4.121,
+    "text": "Perfecto. Dale. Muchas gracias."
+  },
+  {
+    "start": 5143.32,
+    "duration": 3.6,
+    "text": "¿Alguna otra pregunta?"
+  },
+  {
+    "start": 5162.88,
+    "duration": 7.04,
+    "text": "Bueno, si no hay más preguntas, Vicente,"
+  },
+  {
+    "start": 5167.44,
+    "duration": 3.719,
+    "text": "te dejamos libre. Bueno,"
+  },
+  {
+    "start": 5169.92,
+    "duration": 2.199,
+    "text": "eh, bueno,"
+  },
+  {
+    "start": 5171.159,
+    "duration": 2.841,
+    "text": "perfecto."
+  },
+  {
+    "start": 5172.119,
+    "duration": 3.761,
+    "text": "Muchas gracias por la presentación y nos"
+  },
+  {
+    "start": 5174.0,
+    "duration": 5.199,
+    "text": "vemos el martes próximo."
+  },
+  {
+    "start": 5175.88,
+    "duration": 5.319,
+    "text": "Sí, listo. Gracias. Eh, espero no tener"
+  },
+  {
+    "start": 5179.199,
+    "duration": 3.321,
+    "text": "este que ir a ningún lado también, así"
+  },
+  {
+    "start": 5181.199,
+    "duration": 2.721,
+    "text": "que me voy. [risas]"
+  },
+  {
+    "start": 5182.52,
+    "duration": 3.119,
+    "text": "No hay problema. Cualquier cosa en esta"
+  },
+  {
+    "start": 5183.92,
+    "duration": 4.199,
+    "text": "semana tenemos para acomodar ideas de lo"
+  },
+  {
+    "start": 5185.639,
+    "duration": 4.761,
+    "text": "que dijiste hoy y de última, el próximo"
+  },
+  {
+    "start": 5188.119,
+    "duration": 4.761,
+    "text": "martes surgirán preguntas."
+  },
+  {
+    "start": 5190.4,
+    "duration": 4.6,
+    "text": "Sí, sí, sí, sí. Este, después si me"
+  },
+  {
+    "start": 5192.88,
+    "duration": 5.16,
+    "text": "permitís, les voy a agregar algunas"
+  },
+  {
+    "start": 5195.0,
+    "duration": 7.0,
+    "text": "filminas para,"
+  },
+  {
+    "start": 5198.04,
+    "duration": 7.72,
+    "text": "si bien es materia de otro colega,"
+  },
+  {
+    "start": 5202.0,
+    "duration": 6.52,
+    "text": "eh distintas este tarifas que se"
+  },
+  {
+    "start": 5205.76,
+    "duration": 5.24,
+    "text": "aplican, tarifas crecientes, tarifas"
+  },
+  {
+    "start": 5208.52,
+    "duration": 4.719,
+    "text": "decrecientes y un poco asociado a lo que"
+  },
+  {
+    "start": 5211.0,
+    "duration": 4.56,
+    "text": "estuvimos hablando recién de"
+  },
+  {
+    "start": 5213.239,
+    "duration": 4.121,
+    "text": "cómo no. ¿Cómo no? Vamos a subir, ahí"
+  },
+  {
+    "start": 5215.56,
+    "duration": 3.88,
+    "text": "hay una pregunta, vamos a subir después"
+  },
+  {
+    "start": 5217.36,
+    "duration": 4.2,
+    "text": "la clase, la presentación a la"
+  },
+  {
+    "start": 5219.44,
+    "duration": 4.6,
+    "text": "plataforma de la UTN, así que de ahí la"
+  },
+  {
+    "start": 5221.56,
+    "duration": 5.599,
+    "text": "van a poder descargar. Y la otra vez nos"
+  },
+  {
+    "start": 5224.04,
+    "duration": 4.8,
+    "text": "había pasado Vicente un artículo que él"
+  },
+  {
+    "start": 5227.159,
+    "duration": 3.56,
+    "text": "escribió sobre movilidad eléctrica, así"
+  },
+  {
+    "start": 5228.84,
+    "duration": 4.44,
+    "text": "que también lo vamos a subir para"
+  },
+  {
+    "start": 5230.719,
+    "duration": 4.281,
+    "text": "compartirlo y que lo puedan mirar. Y"
+  },
+  {
+    "start": 5233.28,
+    "duration": 4.52,
+    "text": "bueno, y esto otro que está ofreciendo"
+  },
+  {
+    "start": 5235.0,
+    "duration": 5.04,
+    "text": "Vicente, este, que lo vamos a adaptar"
+  },
+  {
+    "start": 5237.8,
+    "duration": 3.439,
+    "text": "también y lo vamos a subir. Así que"
+  },
+  {
+    "start": 5240.04,
+    "duration": 1.8,
+    "text": "bueno,"
+  },
+  {
+    "start": 5241.239,
+    "duration": 2.521,
+    "text": "bueno,"
+  },
+  {
+    "start": 5241.84,
+    "duration": 3.839,
+    "text": "gracias, gracias, Vicente, gracias a"
+  },
+  {
+    "start": 5243.76,
+    "duration": 4.439,
+    "text": "todos. Gracias"
+  },
+  {
+    "start": 5245.679,
+    "duration": 6.681,
+    "text": "y disculpenos el martes próximo."
+  },
+  {
+    "start": 5248.199,
+    "duration": 7.281,
+    "text": "Si lo hice a las corridas este con pris"
+  },
+  {
+    "start": 5252.36,
+    "duration": 4.96,
+    "text": "sin pausa, así que pero espero que se"
+  },
+  {
+    "start": 5255.48,
+    "duration": 4.28,
+    "text": "haya entendido."
+  },
+  {
+    "start": 5257.32,
+    "duration": 3.72,
+    "text": "Sí, gracias Vicente. Nos vemos el martes"
+  },
+  {
+    "start": 5259.76,
+    "duration": 4.8,
+    "text": "próximo."
+  },
+  {
+    "start": 5261.04,
+    "duration": 3.52,
+    "text": "Saludos a todos."
+  }
+]

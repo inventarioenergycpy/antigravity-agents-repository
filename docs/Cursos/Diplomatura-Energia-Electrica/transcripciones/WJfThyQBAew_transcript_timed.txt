@@ -1,0 +1,3631 @@
+[00:00:24] Clase nu es la introducción al marco
+[00:00:26] regulatorio nacional, el análisis del
+[00:00:28] marco regulatorio provincial,
+[00:00:31] las implicancias y coordinación entre
+[00:00:33] ambos marcos normativos
+[00:00:36] y vamos a arrancar eh con dos clases
+[00:00:40] continuadas, marco regulatorio
+[00:00:41] provincial, contrato de concesión y los
+[00:00:43] subanexos.
+[00:00:45] Así que vamos a ir dividiendo sobre la
+[00:00:46] marcha en función de lo que lleguemos.
+[00:00:50] Hoy vamos a dar la clase eh Susana David
+[00:00:55] es abogada, tiene 18 años de experiencia
+[00:00:57] en el sector, actualmente se desempeña
+[00:01:00] como gerente de asuntos legales y
+[00:01:01] regulatorios de Delap. Tiene un posgrado
+[00:01:04] en derecho administrativo en la
+[00:01:05] Universidad Nacional de La Plata. Tiene
+[00:01:08] una carrera de especialización en
+[00:01:09] estructura jurídicoeconómica de la
+[00:01:11] regulación energética del Centro de
+[00:01:13] Estudios de la Actividad Regulatoria
+[00:01:14] energética del SEARE. SEARE un instituto
+[00:01:17] de la UVA. y tiene una carrera de
+[00:01:20] especialización en nuevas dinámicas de
+[00:01:22] la distribución en la transición
+[00:01:23] energética en Inel. También vamos a
+[00:01:26] estar, bueno, Patricia Lozano, ya la
+[00:01:29] conocen y yo. Entre las tres vamos a dar
+[00:01:31] la clase de hoy, así que bueno,
+[00:01:34] cualquier cosa como siempre van
+[00:01:35] preguntando lo que quieran. Sí, va a
+[00:01:38] arrancar Susana.
+[00:01:41] A ver si podes presentar.
+[00:01:45] Gracias. Buenos días a todos. Voy a
+[00:01:48] compartir.
+[00:02:06] Se ve bien.
+[00:02:09] ¿Quieres ver esta?
+[00:02:18] ¿Cómo se ve ahí?
+[00:02:19] Perfecto.
+[00:02:24] Ahí estamos.
+[00:02:32] Bueno, para eh arrancar en esta clase
+[00:02:35] vamos a arrancar en el marco regulatorio
+[00:02:37] nacional con el especial foco en la
+[00:02:41] articulación entre este régimen nacional
+[00:02:43] y el régimen provincial. eh entendiendo
+[00:02:46] que el marco regulatorio
+[00:02:49] eh tiene que entenderse no solo desde la
+[00:02:52] perspectiva de una sola normativa una
+[00:02:54] sola jurisdicción, sino que hay que ver
+[00:02:56] la interacción
+[00:02:58] entre ambos regímenes.
+[00:03:03] Vamos a arrancar en un primer eh estadío
+[00:03:06] con el marco regulatorio nacional.
+[00:03:09] Este bloque es necesario porque si bien
+[00:03:11] la distribución es de naturaleza
+[00:03:14] eh provincial, la compra de energía se
+[00:03:17] va a efectuar en un marco regulatorio
+[00:03:22] eh bajo normas de la nación.
+[00:03:26] ¿Qué concepto de marco regulatorio vamos
+[00:03:29] a usar para esta presentación? Si bien
+[00:03:32] la Ley 24065
+[00:03:34] en su artículo 74 utiliza un criterio
+[00:03:37] restrictivo de marco regulatorio
+[00:03:40] indicando que el marco regulatorio se
+[00:03:41] compone por eh la 1536 y la ley 24065.
+[00:03:47] Nosotros vamos a usar para esta
+[00:03:49] presentación una eh definición más
+[00:03:52] amplia de marco regulatorio,
+[00:03:53] entendiéndolo como el conjunto de
+[00:03:56] principios, reglas y contratos que
+[00:03:59] organizan el funcionamiento de una de la
+[00:04:01] industria eléctrica.
+[00:04:04] Voy a sacar, perdón,
+[00:04:08] eh esta regulación eh que incluye las
+[00:04:11] normas, los contratos a las
+[00:04:12] instituciones y los usuarios. ¿Qué hace
+[00:04:15] la regulación? traduce los objetivos
+[00:04:17] públicos en obligaciones concretas para
+[00:04:19] los prestadores y los usuarios.
+[00:04:24] Vamos a presentar ahora la arquitectura
+[00:04:27] del marco regulatorio nacional. Este
+[00:04:29] esta arquitectura del marco regulatorio
+[00:04:31] nacional arranca con la Constitución
+[00:04:34] Nacional. La Constitución nacional, en
+[00:04:36] su artículo 42, da jerarquía
+[00:04:39] constitucional al concepto de servicio
+[00:04:41] público, establece derechos de los
+[00:04:43] usuarios y como contracara establece
+[00:04:46] obligaciones
+[00:04:48] para eh los las autoridades o para el
+[00:04:50] poder ejecutivo en cuanto al control de
+[00:04:52] los monopolios naturales y garantizar la
+[00:04:54] participación
+[00:04:56] y el cumplimiento de los derechos de los
+[00:04:58] usuarios. Por otro lado, la Constitución
+[00:05:01] es base. ¿Por qué es base? porque define
+[00:05:04] las competencias o la diición de
+[00:05:06] competencias entre lo que es la nación y
+[00:05:10] la provincia. El artículo 75 faculta al
+[00:05:13] Congreso a eh a faculta al Congreso a
+[00:05:19] interactuar en todo lo que es o lo
+[00:05:21] reglar todo lo que es el comercio
+[00:05:23] interjurisdiccional.
+[00:05:25] Esto es la base del mercado eléctrico
+[00:05:27] mayorista. Y por otro lado, eh el 121 y
+[00:05:32] el 124 determinan que las provincias se
+[00:05:35] conservan todo el poder que no han
+[00:05:37] delegado y eso hace que pengan el poder
+[00:05:39] de policía sobre los contratos de
+[00:05:42] concesión y puedan otorgar las
+[00:05:44] concesiones dentro del territorio de la
+[00:05:47] provincia.
+[00:05:49] Por otro lado, el 75 inciso 22 da
+[00:05:53] jerarquía constitucional a aquellos eh a
+[00:05:56] distintos acuerdos eh o tratados
+[00:05:59] internacionales que garantizan el acceso
+[00:06:01] a los servicios públicos y ponen en
+[00:06:03] cabeza del Estado eh proveer todo para
+[00:06:07] lo conducente para que eh las personas
+[00:06:10] puedan acceder eh al servicio público,
+[00:06:13] entre ellos el servicio de electricidad.
+[00:06:17] Por otro lado está la ley 15336.
+[00:06:20] Esta ley es una ley de energía eléctrica
+[00:06:23] y federalización.
+[00:06:26] es la primera que introduce el concepto
+[00:06:28] de eh de interjurisdiccional para darle
+[00:06:33] competencia al al Estado nacional y a
+[00:06:37] las provincias, como dijimos, todo eh lo
+[00:06:40] que es la competencia en el eh de todas
+[00:06:44] las actividades que se desarrollen
+[00:06:46] dentro de su territorio. Por otro lado,
+[00:06:49] conceptualiza la energía eléctrica como
+[00:06:51] cosa. Esto genera que sea un bien
+[00:06:56] susceptible de actos del comercio y del
+[00:06:58] comercio los las actividades, las ventas
+[00:07:02] o las, ¿cómo se llama? Los este actos
+[00:07:07] que tengan como objeto la energía son de
+[00:07:10] las normativas del derecho civil y
+[00:07:12] comercial.
+[00:07:15] Asimismo, la 24065
+[00:07:18] lo que va a hacer va a segmentar la
+[00:07:20] actividad en lo que es generación
+[00:07:24] transporte y distribución. Esta
+[00:07:26] normativa fue reglamentada por el
+[00:07:29] decreto 1398 1398 del 92
+[00:07:34] e y recientemente fue modificada por el
+[00:07:36] decreto 450 del 25.
+[00:07:39] Los eh procedimientos del mercado
+[00:07:42] eléctrico
+[00:07:44] eh fueron aprobados por la resolución
+[00:07:45] 61. Estos eh procedimientos lo que hacen
+[00:07:49] van a traducen reglas comerciales y
+[00:07:53] técnicas que son la base del
+[00:07:55] funcionamiento del mercado. Los
+[00:07:58] procedimientos han sido pasibles de
+[00:07:59] numerosas reformas, especialmente la
+[00:08:03] última y más significativa ha sido la
+[00:08:05] resolución 400.
+[00:08:10] Ahora vamos a repasar eh los conceptos
+[00:08:13] de cómo se estructura en la 24065
+[00:08:17] eh el mercado eléctrico.
+[00:08:22] Establece la, como dijimos hace unos
+[00:08:23] minutos, la 24065
+[00:08:26] establece una segmentación vertical y
+[00:08:28] una horizontal de la industria. Eh,
+[00:08:31] divídela de manera vertical en
+[00:08:33] generación, transporte y distribución.
+[00:08:35] Esta segmentación tiene una lógica
+[00:08:38] jurídica y también económica. lo que
+[00:08:41] trata de hacer es que las eh quien sea
+[00:08:43] eh quien participe en una de los
+[00:08:45] estadíos de esta cadena no intervenga en
+[00:08:48] otra para garantizar la competencia, el
+[00:08:51] acceso
+[00:08:53] eh y evitar distorsiones del mercado.
+[00:08:55] Por otro lado, la segmentación
+[00:08:58] horizontal lo que evita es la
+[00:09:00] concentración en el mismo segmento de la
+[00:09:02] actividad, ya sea generación, transporte
+[00:09:04] y distribución. evita las
+[00:09:06] concentraciones en un mismo segmento. La
+[00:09:09] ley lo que hace para garantizar esta que
+[00:09:11] se respeten esta segmentación, tanto
+[00:09:14] vertical como horizontal, establece en
+[00:09:17] su capítulo siete distintas limitaciones
+[00:09:19] que vamos a ver más adelante.
+[00:09:24] Vamos ahora a entrar en las
+[00:09:25] características principales de estas
+[00:09:27] tres eh de estas tres cadenas del
+[00:09:30] mercado. En principio tenemos la
+[00:09:33] generación eléctrica. La generación es
+[00:09:35] una actividad de interés general
+[00:09:37] afectada al servicio público, no es
+[00:09:40] servicio público, no requiere eh
+[00:09:43] concesión, excepto lo que es la
+[00:09:46] generación hidráulica mayor a 500 kW,
+[00:09:50] pero sí tienen que cumplir la totalidad
+[00:09:52] de los requisitos establecidos en los
+[00:09:54] procedimientos y anexos técnicos de
+[00:09:57] Camesa para poder ingresar al mercado y
+[00:09:59] para poder irse del mercado
+[00:10:03] ¿Por qué la generación no fue
+[00:10:05] categorizada como servicio público?
+[00:10:08] Porque no es un servicio de red, por lo
+[00:10:09] cual no se da la característica de
+[00:10:12] monopolio natural, por lo cual no ha
+[00:10:14] tenido tampoco una clasificación de
+[00:10:16] monopolio legal.
+[00:10:19] Por otro lado está el transporte. El
+[00:10:22] transporte sí es un servicio público, la
+[00:10:24] titularidad del Estado y se lo da en
+[00:10:27] concesión a un tercero. Eh, es
+[00:10:30] fundamental dos conceptos que rigen el
+[00:10:32] transporte. la neutralidad, es decir, el
+[00:10:35] transportista no puede comprar ni vender
+[00:10:38] energía para garantizar y tiene que
+[00:10:40] garantizar el acceso abierto siempre que
+[00:10:43] haya capacidad disponible en la red, no
+[00:10:47] puede negar al acceso a terceros. Hay un
+[00:10:50] tema clave en el transporte que no tiene
+[00:10:53] el transportista la obligación de hacer
+[00:10:57] expansiones de red. El transportista
+[00:10:59] garantiza la disponibilidad de la red.
+[00:11:03] en sí. ¿Qué ha pasado a lo largo de la
+[00:11:07] historia? La 24065
+[00:11:10] establecía que los contratos de de
+[00:11:13] concesión del transporte podían incluir
+[00:11:16] las obligación de
+[00:11:18] hacer expansiones. Esto no fue así, no
+[00:11:21] se incluyó y los dos contratos no
+[00:11:23] establecen esta obligación. ¿A qué llevó
+[00:11:26] esta situación? a que se saturen las
+[00:11:28] redes de transporte y a una necesidad de
+[00:11:31] reforma o de de prever nuevos mecanismos
+[00:11:34] que incentiven la inversión a nivel de
+[00:11:38] transporte. En sí, tenemos hoy eh con la
+[00:11:42] con la modificación de la de la del
+[00:11:45] decreto 450, se establece que la
+[00:11:48] secretaría puede eh incluir dentro de
+[00:11:51] los contratos de transporte obligaciones
+[00:11:54] de expansión, siempre y cuando eso no
+[00:11:56] rompa el equilibrio de la transportista.
+[00:11:59] Es decir, que estas inversiones tienen
+[00:12:00] que ser recuperadas a través de las
+[00:12:03] tarifas de transporte. Y por otro lado,
+[00:12:06] estableció un nuevo mecanismo
+[00:12:09] eh a través de la resolución 83 que
+[00:12:13] establece el contrato por concesión de
+[00:12:15] obra pública. Este contrato de concesión
+[00:12:18] de obra pública, ¿en qué consiste? La
+[00:12:22] secretaría va a llamar a licitación para
+[00:12:25] determinadas obras. Estas obras se van a
+[00:12:28] presentar, obviamente oferentes. El
+[00:12:30] elegido va a poder hacer la ampliación
+[00:12:32] de transporte.
+[00:12:34] esta ampliación de transporte eh se va a
+[00:12:37] firmar un contrato. Este contrato va a
+[00:12:39] tener dos partes, uno que es lo que hace
+[00:12:41] a la a la ejecución de la obra y la
+[00:12:44] supervisión y la otra que va a ser a la
+[00:12:46] posterior operación y mantenimiento.
+[00:12:50] Por esta actividad va a recibir, va a
+[00:12:52] recuperar esta inversión con una
+[00:12:54] remuneración eh quien haga la obra y va
+[00:12:57] a cobrar una tarifa de operación y
+[00:13:00] mantenimiento.
+[00:13:03] ¿Cuánto puede llegar a durar esta figura
+[00:13:06] quien tome esas obras para operación y
+[00:13:10] mantenimiento? El plazo máximo que lo
+[00:13:12] puede hacer es por 30 años y al vencer
+[00:13:15] ese plazo, esas obras pasan al estado a
+[00:13:17] costo cero. Ya les digo, estos son
+[00:13:20] nuevos mecanismos que se prevén a partir
+[00:13:22] de la reforma para tratar de sortear
+[00:13:24] todo aquello que es la este saturación
+[00:13:28] del sistema de transporte.
+[00:13:31] Por otro lado está la última cadena que
+[00:13:33] es la distribución. La distribuidora
+[00:13:35] obviamente tiene el objeto de abastecer
+[00:13:37] a los usuarios finales dentro de su área
+[00:13:39] de concesión. La distribución tiene una
+[00:13:42] doble cara, una moneda que es por un
+[00:13:44] lado tiene una exclusividad zonal y por
+[00:13:47] el otro lado tiene la obligación como
+[00:13:49] contrapartida, la obligación de
+[00:13:51] abastecer toda la demanda que está
+[00:13:54] dentro de su área de concesión. La
+[00:13:56] distribución obviamente es un servicio
+[00:13:58] público, como servicio público se otorga
+[00:14:01] en concesión y tiene todos los
+[00:14:03] caracteres del servicio público de
+[00:14:05] continuidad, regularidad, igualdad,
+[00:14:07] generalidad. ¿Cómo se va a medir esta?
+[00:14:10] Si bien cómo se va a medir la calidad,
+[00:14:12] se va a medir en tres en tres aspectos.
+[00:14:15] Va a tener una calidad de producto
+[00:14:17] técnico, calidad de servicio y calidad
+[00:14:20] comercial. lo que es calidad de producto
+[00:14:22] es todo lo que significa los niveles de
+[00:14:24] tensión, perturbaciones,
+[00:14:27] la calidad de servicio son la frecuencia
+[00:14:28] y la duración de las interrupciones y la
+[00:14:31] calidad de servicio comercial son todo
+[00:14:33] lo que es la atención e la facturación,
+[00:14:36] la atensión, las conexiones, los plazos
+[00:14:38] de conexión y el cumplimiento específico
+[00:14:42] de las obligaciones referidas a la
+[00:14:45] vinculación comercial. Y aquí sí existe
+[00:14:48] por parte del distribuidor una
+[00:14:49] obligación de realizar inversiones en su
+[00:14:53] red, de hacer lo que se lo que se
+[00:14:55] denomina la expansión de sus redes.
+[00:14:57] ¿Para qué? Para abastecer toda esa
+[00:14:58] demanda.
+[00:15:01] Si la distribución se va a componer
+[00:15:02] entonces de la energía que se compra en
+[00:15:04] el mercado, un servicio de red y una
+[00:15:06] relación directa con el usuario a través
+[00:15:08] de los contratos de concesión que ya son
+[00:15:10] aprobados por en este caso, por las
+[00:15:12] autoridades
+[00:15:14] o por las jurisdicciones locales,
+[00:15:16] excepto para Nor de Sur que están bajo
+[00:15:19] jurisdicción nacional eh todavía y creo
+[00:15:23] que van a seguir así porque tienen eh
+[00:15:25] obviamente trascienden las fronteras de
+[00:15:27] una provincia a su servicio público.
+[00:15:32] Hace unos minutos hablamos de la
+[00:15:34] segmentación tanto vertical como
+[00:15:37] horizontal. Bueno, ¿cómo se garantiza
+[00:15:40] esta el cumplimiento de esta
+[00:15:41] segmentación? A través de limitaciones
+[00:15:44] impuestas por la ley. En este cuadro las
+[00:15:47] eh las categorizamos para un mejor
+[00:15:51] entendimiento. Es decir, el transporte
+[00:15:54] no puede ni comprar ni vender eh
+[00:15:56] energía, como ya dijimos, y no hay
+[00:15:58] ninguna excepción.
+[00:15:59] la propiedad y el control. Los
+[00:16:01] distribuidores y los generadores no
+[00:16:03] pueden ser propietarios ni accionistas
+[00:16:06] mayoritarios de una transportista. Es
+[00:16:08] decir, puede aprobarlo eh si no afecta
+[00:16:11] eh el
+[00:16:14] si no afecta el la competencia, lo
+[00:16:17] podría llegar a aprobar el poder
+[00:16:19] ejecutivo. En cuanto a la estructura de
+[00:16:22] capital eh tienen que las acciones ser
+[00:16:26] nominativas no endosables. ¿Qué es
+[00:16:29] nominativa no endosable? Que figure
+[00:16:30] expresamente quién es el titular de esas
+[00:16:32] acciones. ¿Para qué? para eh sí, para
+[00:16:35] poder ha existir una transparencia de
+[00:16:38] quiénes son los verdaderos accionistas
+[00:16:40] de cada una de las sociedades.
+[00:16:43] Las fusiones y las consolidaciones
+[00:16:45] tienen que estar eh aprobadas
+[00:16:47] expresamente si te tienen que convocar
+[00:16:51] eh audiencias públicas para poder
+[00:16:53] hacerlo.
+[00:16:54] En cuanto a una fusión, si la fusión
+[00:16:57] para para que todos entendamos es la
+[00:16:58] absorción de una empresa por otra y las
+[00:17:02] y que da la que absorbe queda como
+[00:17:04] empresa vigente y la consolidación son
+[00:17:07] dos empresas que se fusionan y nace una
+[00:17:10] nueva.
+[00:17:12] Es decir, eh cómo va eh a controlar
+[00:17:16] el ENRE que realmente todas estas
+[00:17:19] limitaciones se cumplan. Lenre tiene un
+[00:17:21] régimen de información que es una
+[00:17:24] información trimestral, tiene dos
+[00:17:27] resoluciones, la 548
+[00:17:30] y la eh 499. Son dos resoluciones por
+[00:17:35] las cuales eh los agentes del mercado
+[00:17:39] tienen que remitir información tanto de
+[00:17:41] sus balances como sus composiciones
+[00:17:42] accionarias o cambios en su estructura
+[00:17:44] accionaria
+[00:17:46] para eh poder el ENRE eh supervisar el
+[00:17:50] cumplimiento de estas limitaciones.
+[00:17:57] Habiendo recorrido las tres actividades
+[00:17:58] y las principales características de
+[00:18:00] estas tres actividades, vamos a
+[00:18:03] introducirnos en el mercado eléctrico eh
+[00:18:05] mayorista. El mercado eléctrico
+[00:18:07] mayorista es el ámbito donde se produce
+[00:18:11] la compra y venta de la energía y la
+[00:18:13] potencia.
+[00:18:16] En esta filmina vamos a ver la
+[00:18:18] estructura básica del mercado eléctrico
+[00:18:21] mayorista. Por un lado tenemos la
+[00:18:23] generación que es la oferta de la
+[00:18:26] energía y la potencia puesta a
+[00:18:28] disposición en sí con las distintas
+[00:18:30] tecnologías que hay, térmica,
+[00:18:31] hidroeléctrica, nuclear. Del otro lado
+[00:18:34] está la demanda, que son los
+[00:18:35] distribuidores, los hudis y en el medio
+[00:18:37] como coordinador de ese mercado está
+[00:18:41] Camesa. ¿Qué hace Camesa? Hace el
+[00:18:44] despacho de cargas en tiempo real. ¿Qué
+[00:18:48] es el despacho de cargas? es un
+[00:18:50] mecanismo técnico y económico por el
+[00:18:54] cual K mesa elige cuál va a ser la
+[00:18:58] generación que va a inyectar en cada
+[00:19:01] momento. Lo evalúa en tiempo real y lo
+[00:19:04] evalúa considerando el menor costo que
+[00:19:08] tenga esa generación que despache y
+[00:19:11] además en condiciones de seguridad y de
+[00:19:14] calidad y que vincula la generación. Y
+[00:19:18] la demanda es el sistema argentino de
+[00:19:20] interconexión, que son las empresas de
+[00:19:22] transporte en alta tensión. Y los puntos
+[00:19:24] de interconexión se llaman e los nodos.
+[00:19:28] Si cuando escuchen nodos, estamos
+[00:19:29] hablando de puntos de interconexión
+[00:19:31] entre la oferta y la demanda.
+[00:19:33] Bueno, ¿por qué es clave conocer o
+[00:19:36] entender la estructura del mercado
+[00:19:38] eléctrico mayorista? Va tanto para las
+[00:19:40] distribuidoras como para las
+[00:19:41] cooperativas.
+[00:19:42] ¿Por qué? Porque el mercado eléctrico
+[00:19:44] mayallorista va a definir los costos de
+[00:19:46] compras y el regulador provincial va a
+[00:19:48] tener que trasladar ese costo de compra
+[00:19:51] tarifa y además va a considerar todo lo
+[00:19:53] que es el valor agregado de
+[00:19:55] distribución, que eso ya el valor
+[00:19:57] agregado de distribución, la
+[00:19:58] determinación del mismo ya está bajo la
+[00:20:00] órbita o bajo la competencia provincial.
+[00:20:06] ¿Qué organismos tienen eh funciones
+[00:20:10] vitales para el mercado eléctrico
+[00:20:12] mayayorista? En principio tenemos la
+[00:20:15] Secretaría de Energía que va a definir
+[00:20:17] todo lo que es los lineamientos
+[00:20:19] políticos, la el dictado de normas
+[00:20:22] establece cómo se va a contratar, cuál
+[00:20:24] va a ser el precio
+[00:20:26] de esa energía, cuál va a ser el precio
+[00:20:28] estacional en el mercado, la política
+[00:20:30] tarifaria va a tiene una función que es
+[00:20:34] la autorización de los actores. Es lo
+[00:20:36] que hablamos, ¿no? No cualquiera es
+[00:20:38] agente del mercado, sino que tiene que
+[00:20:40] cumplir determinados requisitos y esos
+[00:20:43] requisitos son validados y aprobados eh
+[00:20:45] por la Secretaría de Energía y a veces
+[00:20:47] con intervención de camesa y con el ENRA
+[00:20:49] y todo un procedimiento para acceder al
+[00:20:51] mercado.
+[00:20:55] Y quien cumple un rol clave, como vimos
+[00:20:58] recién en la estructura básica que
+[00:20:59] mostramos es Camesa. Camesa eh fue
+[00:21:02] creada por el decreto 1192 del 92. ¿Para
+[00:21:06] qué? para cumplir las funciones que
+[00:21:09] prevé la 24065
+[00:21:11] para el órgano de despacho. Camisa no
+[00:21:14] fue creada por la 24065, sino que fue
+[00:21:17] creada por este decreto. Es una sociedad
+[00:21:20] anónima sin fines de lucro y articula o
+[00:21:24] muestra perfectamente la articulación
+[00:21:26] entre lo que es lo público y lo privado.
+[00:21:29] Su directorio se compone en partes
+[00:21:31] iguales por el Estado nacional y las
+[00:21:33] asociaciones tanto de generadores,
+[00:21:35] transportistas, distribuidores y grandes
+[00:21:38] usuarios.
+[00:21:39] ¿Quién es el presidente de CAMESA? es el
+[00:21:41] secretario de energía y tiene el derecho
+[00:21:43] a veto de las decisiones que se tomen en
+[00:21:46] el en el ámbito de su directorio.
+[00:21:48] La mesa tiene eh no es, a ver, tiene dos
+[00:21:52] funciones que son las técnicas y las
+[00:21:54] comerciales. No es eh una simple
+[00:21:57] empresa, es un administrador del
+[00:21:59] mercado. ¿Por qué decimos que es un
+[00:22:00] administrador del mercado? Primero
+[00:22:02] porque tiene esta operación del despacho
+[00:22:04] de carga que les comentaba recién. En
+[00:22:06] sí, va a ser quien elija atento a la
+[00:22:09] demanda y a la generación disponible y a
+[00:22:11] la condición del SADI, cuáles son las
+[00:22:15] este generadoras que se van a ir
+[00:22:17] despachando y lo y va a supervisar en
+[00:22:20] tiempo real todo lo que es la red de
+[00:22:22] transporte para que la generación que
+[00:22:24] despacha llegue a los puntos.
+[00:22:27] Pero además de eso tiene una función,
+[00:22:29] esto es esta [carraspeo] función técnica
+[00:22:30] es en tiempo real y además tiene una
+[00:22:32] función comercial, va a administrar
+[00:22:35] todas las transacciones económicas del
+[00:22:37] mercado eléctrico, que eso es lo que
+[00:22:38] nuestra cara visible, que seguramente
+[00:22:40] todos sabemos, la famosa factura de
+[00:22:43] camesa, va a calcular además eh lo que
+[00:22:46] es el cálculo del precio spot y
+[00:22:48] estacional y lo va a elevar para que la
+[00:22:50] secretaría apruebe finalmente mediante
+[00:22:52] una resolución estos precios y va a
+[00:22:55] administrar la cobranza y los pagos de
+[00:22:57] los agentes
+[00:22:59] eh del mercado.
+[00:23:03] En esta estructura de red o en este
+[00:23:05] sistema o mercado eléctrico mayorista
+[00:23:09] conviven dos mercados, el mercado spot y
+[00:23:12] el mercado a termino. El mercado spot,
+[00:23:14] los precios se van a definir por este
+[00:23:16] despacho económico que realiza Camesa en
+[00:23:19] determinada franja horaria. Es decir,
+[00:23:21] cuando yo compro en el mercado spot, le
+[00:23:23] compro al mercado, no tengo identificado
+[00:23:26] a quién le compro. En cambio, cuando
+[00:23:28] compro al mercado a término, son
+[00:23:30] contratos libremente negociados entre
+[00:23:33] agentes que este sabemos a quién le
+[00:23:37] estamos contrando, tiene una garantía de
+[00:23:38] abastecimiento.
+[00:23:40] Eh, y este últimamente con las
+[00:23:43] modificaciones que hay, vamos a ver más
+[00:23:45] adelante que hay una una eh vuelta o
+[00:23:48] puesta en marcha de este mercado a
+[00:23:50] término. se reactiva el mercado a
+[00:23:51] término. Es decir, vamos hacia ese
+[00:23:53] camino ahora con las nuevas
+[00:23:55] modificaciones. Y por otro lado tenemos
+[00:23:58] el sistema de estabilización, que son
+[00:24:00] los famosos precios estacionales que
+[00:24:03] todos recibimos de la secretaría y vemos
+[00:24:05] publicado, que después la provincia los
+[00:24:08] va a trasladar algunos cuadros
+[00:24:10] tarifarios para que nosotros podamos
+[00:24:12] percibirlos de los usuarios.
+[00:24:15] En sí, por qué es importante entender
+[00:24:17] cómo funciona este mercado. Repetimos,
+[00:24:19] porque la compra mayorista impacta
+[00:24:21] directamente en los cuadros tarifarios
+[00:24:24] que va a aprobar la provincia de Buenos
+[00:24:26] Aires.
+[00:24:28] Este mercado ha tenido distintas etapas
+[00:24:32] o ha evolucionado desde la 24065
+[00:24:35] que era descentralizado,
+[00:24:38] que apuntaba la competencia, la
+[00:24:39] contratación, al impacto que tuvo la
+[00:24:42] emergencia del 2002, que se empezó a
+[00:24:44] suspender los contratos, empezamos a
+[00:24:46] tener precios administrados, precios eh
+[00:24:49] subsidiados. Camesa del 2003 al 23
+[00:24:53] concentra sus funciones, se suspende el
+[00:24:55] mercado a término, ya no hay más
+[00:24:56] contratos, sino que Camesa centraliza la
+[00:25:00] contractualización del mercado y la
+[00:25:02] gestión de los combustibles también para
+[00:25:04] los generadores.
+[00:25:06] Y en 2024 comienza este cambio o
+[00:25:09] reordenamiento con la ley bases y la
+[00:25:12] resolución 400 del 2025, que van a
+[00:25:16] tender a una señales de precio, a la
+[00:25:19] libre contratación
+[00:25:21] e a reducir gradualmente todo lo que es
+[00:25:24] las distorsiones que tiene el mercado a
+[00:25:26] partir o tuvo el mercado a partir de la
+[00:25:28] emergencia. Es decir, ¿qué va a hacer?
+[00:25:31] Vamos a estar en una transición regulada
+[00:25:33] porque todavía, si bien se quiere volver
+[00:25:36] a la lógica de eficiencia que tuvo en su
+[00:25:39] momento la 24065, esto no se puede hacer
+[00:25:41] de un día para otro dado que hay
+[00:25:42] contratos vigentes de camesa, es decir,
+[00:25:45] eh hay que ir de a poco.
+[00:25:48] La secretaría va a tener 24 meses según
+[00:25:51] la normativa para ir dictando todas
+[00:25:53] aquellas normativas que apunten o que
+[00:25:56] conlleven o que lleven, dirijan el
+[00:25:58] camino hacia esta lógica de eficiencia o
+[00:26:01] a la normalización del mercado.
+[00:26:06] En si, como dijimos, el todo el
+[00:26:09] procedimiento de camisa tuvo un impacto
+[00:26:11] con la resolución 400 que aprueba las
+[00:26:14] reglas de normalización del mercado
+[00:26:16] eléctrico y su adaptación progresiva.
+[00:26:19] En sí, no vamos a ver en detalle la 400,
+[00:26:23] lo resolución 400. Lo que vamos a ver es
+[00:26:25] cómo impacta en los tres componentes
+[00:26:28] básicos del mercado eléctrico. Es decir,
+[00:26:30] como tres ejes principales que tiene la
+[00:26:32] resolución 400 son, como dijimos,
+[00:26:35] promover nuevamente la libre
+[00:26:37] contratación, es decir, vuelve el
+[00:26:38] mercado a término y todo el que pueda
+[00:26:41] contratar tiene que contratar. Es decir,
+[00:26:44] ya nuevo se corre ese rol de camisa de
+[00:26:47] centralizar todo lo que es eh la oferta
+[00:26:50] y y lo que es la contratación. Por otro
+[00:26:53] lado, la descentralización de los
+[00:26:55] combustibles. Es decir, Camesa en el
+[00:26:57] 2002 eh empieza eh un poquito más
+[00:27:01] adelante del 2000 empieza a centralizar
+[00:27:02] todo lo que es la compra de
+[00:27:03] combustibles. Eso llegó hasta una
+[00:27:05] modificación del objeto social de camesa
+[00:27:07] que no lo preveía.
+[00:27:10] Y ahora lo que se va a hacer, se va
+[00:27:12] hasta 2029, hasta enero de 2029 va a
+[00:27:15] empezar una transición hacia la
+[00:27:18] absorción de esa responsabilidad por
+[00:27:20] parte de los generadores. Y otro y otro
+[00:27:23] de los objetivos que tiene la resolución
+[00:27:25] 400 es precios eh spot reales. Sí, ya eh
+[00:27:31] se quieren eliminar todas aquellas
+[00:27:34] distorsiones del mercado y vamos a
+[00:27:36] volver al esquema de los costos
+[00:27:38] marginales sin topes artificiales.
+[00:27:44] ¿Cómo clasificó la resolución 400
+[00:27:49] eh a la generación?
+[00:27:51] dividió la generación en una generación
+[00:27:53] asignada con unidades que ya tenían
+[00:27:56] contratos vigentes y esa eh generación
+[00:27:59] asignada va a tener un abastecimiento
+[00:28:02] prioritario, que es la demanda
+[00:28:04] estacionalizada. ¿Qué es la demanda
+[00:28:06] estacionalizada? Son los usuarios
+[00:28:08] residenciales y los usuarios no
+[00:28:10] residenciales, pero no los goodis. En
+[00:28:13] sí, ¿por qué esta generación asignada eh
+[00:28:17] apunta a este abastecimiento prioritario
+[00:28:19] a la demanda estacionalizada?
+[00:28:21] Porque lo que intenta hacer es
+[00:28:22] amortiguar el impacto que va a tener
+[00:28:25] esta transición hacia una quita de
+[00:28:28] subsidios en si quiere que el impacto en
+[00:28:29] tarifa final de los usuarios sea
+[00:28:32] progresivo. Y por otro lado está la
+[00:28:34] generación spot, que es la no asignada,
+[00:28:36] que son eh de abastecimiento es
+[00:28:39] competitivo. Y lo que trata de apunta a
+[00:28:43] todo lo que es los grandes usuarios de
+[00:28:45] la distribuidora,
+[00:28:47] es decir, trata de hacer es el fomento a
+[00:28:51] las transacciones libres, ¿sí? Y a
+[00:28:54] través de acuerdos bilaterales.
+[00:29:01] ¿Cuál es el un cambio fundamental de la
+[00:29:03] resolución y del decreto 450?
+[00:29:07] pone en cabeza de las distribuidoras la
+[00:29:09] obligación de contratar al menos el 75%
+[00:29:13] de la demanda estacionalizada.
+[00:29:15] En sí, todo lo que no cubra con la
+[00:29:17] generación asignada lo va a tener que
+[00:29:19] salir a contratar al mercado a término.
+[00:29:22] Es decir, el distribuidor debe
+[00:29:24] garantizar eh el abastecimiento, ya sea
+[00:29:27] por la generación asignada o por los
+[00:29:30] contratos a término.
+[00:29:35] El mercado a término tenemos dos eh dos
+[00:29:39] tipos de mercado, el mercado de energía
+[00:29:42] y el mercado de potencia. En sí, como
+[00:29:45] dijimos, el mercado a término había sido
+[00:29:49] suspendido por la resolución 95 del 2013
+[00:29:53] y fue rehabilitado a partir de la
+[00:29:55] reforma del decreto 450.
+[00:29:59] En sí,
+[00:30:00] ¿cuál es el objetivo? En sí, la mayoría
+[00:30:03] de las de las contrataciones tienen que
+[00:30:05] darse en el mercado a término. Es decir,
+[00:30:07] el mercado spot tiene que ser un mercado
+[00:30:10] destinado a los saldos. Es decir, ¿por
+[00:30:12] qué a los saldos? van a ser los precios
+[00:30:14] más elevados en la el costo de compra de
+[00:30:16] energía.
+[00:30:23] Acá eh como habíamos dicho, el otro tema
+[00:30:27] que había quedado como eje del de la
+[00:30:30] reforma era lo que es el combustible.
+[00:30:33] Camesa hoy tenía centralizada toda la
+[00:30:35] gestión del combustible y esto se va a
+[00:30:38] revertir poco a poco a los generadores.
+[00:30:41] ¿Cuál va a ser eh la diferencia de aquel
+[00:30:43] generador que genere su propio
+[00:30:46] combustible? Va a poder operar en los
+[00:30:48] dos mercados, tanto en el mercado a
+[00:30:50] término como eh y obtener el mercado en
+[00:30:53] el mercado, perdón, a término y en el
+[00:30:55] mercado spot. Es decir, va a poder
+[00:30:58] obtener una renta a través de una compra
+[00:31:01] eficiente del combustible. ¿Por qué?
+[00:31:03] Porque se le van a reconocer los precios
+[00:31:05] por el costo marginal. Entonces, la
+[00:31:07] diferencia entre ese costo marginal que
+[00:31:09] se le va a reconocer
+[00:31:11] y el costo que efectivamente le le
+[00:31:14] genere el costo de combustible que él
+[00:31:17] mismo se provee, va a ser un fi que
+[00:31:21] puede ganar el generador que gestione su
+[00:31:26] eh su propio combustible. Es decir,
+[00:31:30] ¿cuándo se prevé que termine o que los
+[00:31:34] generadores absorban en su totalidad
+[00:31:37] que es la generación de la la compra de
+[00:31:40] combustible? Aparte la fecha límite es
+[00:31:43] prevista, por lo menos de forma
+[00:31:44] original, es el primero de enero del
+[00:31:47] 2029. ¿Qué pasa con el que no gestione
+[00:31:50] su combustible? Camisa va a continuar
+[00:31:52] adquiriendo y va a continuar
+[00:31:55] proveyéndolo. No es que Camesa se corre
+[00:31:57] al 100%, sino que va a acompañar esta
+[00:31:59] transición abasteciendo de combustible a
+[00:32:02] aquellos generadores que hoy no estén en
+[00:32:05] condiciones de adquirirlo.
+[00:32:12] Bueno, con esto terminamos el repaso de
+[00:32:14] lo que es el a grandes rasgos los
+[00:32:17] principales ejes de la normativa
+[00:32:19] nacional.
+[00:32:21] Es decir, repetimos porque es
+[00:32:22] fundamental, porque si bien la
+[00:32:25] distribución es local, la energía se
+[00:32:29] compra en en un mercado eléctrico
+[00:32:32] mayorista
+[00:32:34] que se rige por normas nacionales y un
+[00:32:39] que también se rige por normas
+[00:32:41] nacionales e esta compra de energía
+[00:32:44] impacta en forma directa no solo en los
+[00:32:47] cuadros tarifarios eh de los usuarios
+[00:32:49] finales de la provincia, sino también en
+[00:32:52] las reglas que la provincia luego
+[00:32:54] traduce a través de su normativa y sus
+[00:32:57] contratos. Bueno, le doy las
+[00:33:00] Bueno, gracias Susana
+[00:33:03] silenciarte si queres sacar la
+[00:33:06] presentación.
+[00:33:10] ¿Alguna duda, pregunta, comentarios?
+[00:33:14] Buen día.
+[00:33:15] No se te escucha, Gabriela.
+[00:33:17] No se escucha ahí.
+[00:33:23] Quiero preguntar. Se escucha
+[00:33:25] ahí, Gabi.
+[00:33:26] Ahí sí.
+[00:33:27] Ahora sí.
+[00:33:28] Buen día. ¿Cómo está?
+[00:33:30] Buen día,
+[00:33:30] Susana, ¿cómo estás? Felicitaciones.
+[00:33:32] Excelente. Una preguntita.
+[00:33:35] Cuando hablaste ampliación de de obras
+[00:33:37] para transporte, si después me pueden
+[00:33:39] recordar cuál es la normativa o la
+[00:33:41] resolución y demás, que no la tengo muy
+[00:33:43] clara. Y si esas obras están y y la
+[00:33:47] última, si esas obras están
+[00:33:49] preestablecidas antes, entiendo que si
+[00:33:51] hay prioridades o
+[00:33:53] Sí, dos cuestiones. Está el decreto 921.
+[00:33:57] Gracias.
+[00:33:59] Eh,
+[00:34:01] perdón que no estamos para no
+[00:34:03] acoplarnos. Vamos cambiando. Estamos las
+[00:34:05] tres juntas. Eh, ahí me escuchas, Gabi.
+[00:34:08] Gabriela. Sí, perfecto. Gabriel.
+[00:34:11] Eh, tenemos la el decreto 921,
+[00:34:16] el después está la resolución 75,
+[00:34:20] gracias,
+[00:34:20] de la secretaría y la resolución 83.
+[00:34:23] Esas son las tres eh resoluciones que
+[00:34:27] fueron regulando el tema de lo que es e
+[00:34:30] la obra por eh por obra pública,
+[00:34:32] concesión por obra pública.
+[00:34:35] Las obras, la resolución eh sí lo que
+[00:34:38] establece es una una nómina o una lista
+[00:34:41] de obras que en principio son las que se
+[00:34:45] definieron desde la secretaría como
+[00:34:47] prioritarias.
+[00:34:49] En sí, de hecho, eh la semana pasada ya
+[00:34:52] se no se lanzó una de las primeras
+[00:34:54] licitaciones de esas obras.
+[00:34:57] Bárbaro. Gracias. Gracias, Susana.
+[00:35:04] Recordemos ahí como complemento,
+[00:35:08] eh, espérate que yo me parece que estoy
+[00:35:10] acá silenciada.
+[00:35:11] No, no
+[00:35:12] ahí.
+[00:35:13] e
+[00:35:16] como mecanismo regulatorio, digamos, no
+[00:35:18] solamente transporte a nivel nacional,
+[00:35:20] sino también provincial respecto de
+[00:35:23] Trasba que tiene jurisdicción, digamos,
+[00:35:25] eh se acuerdan que les contábamos la
+[00:35:27] otra vez que había estado, digamos, el
+[00:35:29] activo de la provincia eh transferido
+[00:35:32] por la provincia, pero esta ley que
+[00:35:34] determinó hasta tanto se se determina el
+[00:35:37] carácter de intra o interjurisdiccional,
+[00:35:39] quedó en jurisdicción nacional, lo mismo
+[00:35:41] sucede con ese contrato de trasb No
+[00:35:43] están obligados a hacer obras, es un
+[00:35:45] contrato de operación de las obras de
+[00:35:47] transporte por distribución troncal y
+[00:35:49] ahí la provincia lo que hizo es la
+[00:35:52] creación del agregado tarifario en el
+[00:35:54] año 2000, que luego eh adopta rango de
+[00:35:59] marco regulatorio con la modificación
+[00:36:01] del año 2004 en el artículo 43.
+[00:36:04] Entonces, las obras de transporte por
+[00:36:06] distribución troncal se ejecutan en
+[00:36:09] parte con ese agregado tarifario a
+[00:36:10] través del feedback y por otro lado a
+[00:36:13] través de las obras que ejecuta la
+[00:36:15] Dirección Provincial de Energía, que
+[00:36:18] también una vez terminadas, ya sea con
+[00:36:19] financiamiento del impuesto eléctrico
+[00:36:21] 7290 o con impuest o con financiamiento
+[00:36:25] de CAF o algún organismo internacional.
+[00:36:28] Una vez concluidas esas obras,
+[00:36:30] obviamente se transfieren a costo cero,
+[00:36:34] este, no amortizable dentro de la
+[00:36:36] ecuación eh de trasba. Sí. Así que el
+[00:36:40] régimen aplica a todas las
+[00:36:42] transportistas.
+[00:36:46] Vamos a arrancar ahora con el marco
+[00:36:48] regulatorio provincial. va a arrancar
+[00:36:50] Pato,
+[00:36:52] así que ahí estamos con Pato.
+[00:36:58] Está bien ahí mejor.
+[00:37:00] Hola, buenos días a todos.
+[00:37:06] Igual ahí
+[00:37:08] está.
+[00:37:09] Sí.
+[00:37:12] Eh, bueno, ahora ya puesto por Susana lo
+[00:37:16] que hace al marco regulatorio nacional.
+[00:37:19] Ahora vamos a comenzar con el marco
+[00:37:21] regulatorio
+[00:37:23] provincial.
+[00:37:25] E
+[00:37:27] la provincia de Buenos Aires, digamos,
+[00:37:29] siguió en la estructura este del marco
+[00:37:32] regulatorio nacional, también a nivel
+[00:37:36] provincial con el dictado, cómo cómo se
+[00:37:38] compone ese marco regulatorio a la
+[00:37:41] provincia de Buenos Aires, cuál es el
+[00:37:44] régimen normativo que se aplica el marco
+[00:37:46] regulatorio es la ley que todos
+[00:37:49] conocemos, la ley 11769
+[00:37:53] con las modificaciones de introduc
+[00:37:54] conocidas en el año 2004 por la ley
+[00:37:56] 13173
+[00:37:59] y su decreto reglamentario también el
+[00:38:02] inicialmente fue el decreto 1208 y luego
+[00:38:05] fue modificado en el año 2004 por el
+[00:38:08] decreto 2479.
+[00:38:12] Este eh marco regulatorio este
+[00:38:18] también respetó la segmentación tanto
+[00:38:21] horizontal eh como vertical de las
+[00:38:24] actividades.
+[00:38:26] Regula las actividades de generación,
+[00:38:28] transporte y distribución eh de energía
+[00:38:31] eléctrica en la provincia de Buenos
+[00:38:34] Aires.
+[00:38:36] Y asimismo en lo que hace en materia
+[00:38:39] propia de distribución también eh marco
+[00:38:43] regulatorio lo integran. Habíamos dicho
+[00:38:46] la anterior clase, bueno, también lo
+[00:38:48] repitió Susana, que eh la actividad de
+[00:38:50] distribución es un servicio público.
+[00:38:54] Este y como servicio público es esta
+[00:38:58] norma, la ley 11769,
+[00:39:00] la que la declara Servicio Público a
+[00:39:03] través de su artículo 10 y también,
+[00:39:05] bueno, consecuencia de ello se dicta eh
+[00:39:08] se va a regir por un contrato de
+[00:39:10] concesión. Ese contrato de concesión
+[00:39:13] tanto va a ser para los distribuidores
+[00:39:15] provinciales, este, como para los
+[00:39:17] distribuidores municipales y y tiene
+[00:39:21] distintos subanexos que también reúnen o
+[00:39:25] tratan eh de eh reflejar esa definición
+[00:39:29] que vinimos venimos dando de servicio
+[00:39:31] público. Por un lado, vamos a tener eh
+[00:39:36] el régimen tarifario.
+[00:39:39] Por otro lado, vamos a tener las normas
+[00:39:40] de calidad que van a guiar y que van a
+[00:39:42] hacer que el distribuidor preste ese
+[00:39:44] servicio con obligatoriedad de acuerdo a
+[00:39:47] ciertos niveles de calidad y eso va a
+[00:39:50] implicar eh la realización de
+[00:39:52] inversiones por parte del distribuidor y
+[00:39:55] asimismo la protección de los derechos
+[00:39:57] de los usuarios que van a estar
+[00:39:59] determinada en el reglamento de
+[00:40:02] suministro y conexión.
+[00:40:05] Asimismo, eh integran dentro del marco
+[00:40:08] de la de la distribución las licencias
+[00:40:10] técnicas correspondientes y habilitantes
+[00:40:13] de ese servicio público.
+[00:40:17] las decisiones emanadas de la autoridad
+[00:40:19] de aplicación en el marco de las
+[00:40:21] competencias que tiene regulatorias, eh
+[00:40:24] las decisiones del organismo de control
+[00:40:26] que controla ese servicio público que ya
+[00:40:28] lo vamos a ir avanzando, y todas las
+[00:40:30] leyes, decretos, resoluciones,
+[00:40:32] disposiciones, tanto a nivel provincial
+[00:40:35] como a nivel nacional, como venía
+[00:40:36] diciendo Susana, también todo el régimen
+[00:40:39] de de la de la generación, de la compra
+[00:40:43] de energía, cómo se va trasladando eso
+[00:40:45] tarifa, todas estas decisiones a nivel
+[00:40:47] nacional también impactan en eh en
+[00:40:51] nuestro marco regulatorio y resultan
+[00:40:53] aplicable.
+[00:40:56] Eh, bueno, el ámbito de aplicación como
+[00:40:58] como acabo de decir está dado por las
+[00:41:02] actividades eh de generación eh
+[00:41:04] transporte y distribución de energía en
+[00:41:06] la provincia de Buenos Aires. Cuando
+[00:41:09] hablamos de distribución de energía,
+[00:41:11] también tenemos que ver que tiene una
+[00:41:13] limitante, que es que
+[00:41:15] la ley 14772
+[00:41:18] declaró como servicios interconectados a
+[00:41:20] los que se prestaban en Capital Federal
+[00:41:22] Oicaba y algunos partidos de la
+[00:41:24] provincia de Buenos Aires. Entonces
+[00:41:26] estas concesiones fueron dadas por la
+[00:41:30] nación, que sabemos que es de la
+[00:41:34] segmentación que se hizo con los
+[00:41:36] servicios eléctricos del Gran Buenos
+[00:41:38] Aires, surgieron las los concesionarios
+[00:41:40] nacionales Edenor, Edur y Edelap. eh de
+[00:41:44] nor siguen bajo jurisdicción nacional y
+[00:41:47] sabemos que de pasó en el año 2011 a
+[00:41:50] jurisdicción de la provincia de Buenos
+[00:41:52] Aires y hoy también está regulado por eh
+[00:41:56] regulado por la provincia y controlado
+[00:41:58] por el organismo de control de la
+[00:42:00] provincia de Buenos Aires. Y es lo que
+[00:42:02] hace en materia de transporte, como
+[00:42:04] recién acaba de decir este Guillermina,
+[00:42:08] el transporte hoy está sujeto al control
+[00:42:12] y regulación a nivel nacional, hasta
+[00:42:16] tanto se determina el carácter intra o
+[00:42:19] interjurisdiccional
+[00:42:21] eh de esta actividad.
+[00:42:28] V.
+[00:42:31] Bueno, entonces tenemos el servicio
+[00:42:32] público, que es un poco lo que venimos
+[00:42:34] diciendo, que el servicio público de
+[00:42:35] distribución, eh la prestación de
+[00:42:37] servicio está sujeta a regulación y
+[00:42:39] control eh provincial.
+[00:42:42] Eh,
+[00:42:44] esto hace que eh todas las atribuciones
+[00:42:46] referentes a la a la determinación de la
+[00:42:49] tarifa en la provincia de Buenos Aires
+[00:42:51] está sujeta a nivel local, así como la
+[00:42:55] expansión de transportes que también
+[00:42:57] acaba de definir Guillermín, esa
+[00:42:58] expansión del transporte que se
+[00:43:00] incorpora, que también es reconocida y
+[00:43:05] es a través del agregado tarifario,
+[00:43:07] tiene reconocimiento legal en a través
+[00:43:09] del artículo 43.
+[00:43:12] ese y se debe incorporar ese agregado
+[00:43:15] tarifario que tiene distintos
+[00:43:17] componentes, tanto en transporte,
+[00:43:19] generación distribuida y el adicional
+[00:43:21] costo de generación distribuida se
+[00:43:23] incorpora un fideicomiso y en función de
+[00:43:26] ese de todo lo que se recauda en ese
+[00:43:29] fideicomiso que está compuesto,
+[00:43:31] los fiduciantes son los distribuidores
+[00:43:33] provinciales y los distribuidores este
+[00:43:36] municipales, se realizan todas las obras
+[00:43:39] de expansión eh de distribución Tronca.
+[00:43:43] La generación, como venimos diciendo,
+[00:43:45] del transporte de energía eléctrica es
+[00:43:47] lo que hace a la fijación del precio de
+[00:43:49] la energía es del dominio exclusivo de
+[00:43:51] jurisdicción federal, no de las
+[00:43:52] provincias. Sí se traslada y se reconoce
+[00:43:55] en la tarifa que van a aplicar los
+[00:43:56] concesionarios provinciales y los
+[00:43:58] concesionarios municipales y también se
+[00:44:00] fijan a nivel nacional este el
+[00:44:03] transporte en alta tenensión y por
+[00:44:05] distribución troncal. Eh, también, sin
+[00:44:08] embargo, tenemos que la provincia de
+[00:44:11] Buenos Aires sabemos que la actividad de
+[00:44:13] generación también está incluida en
+[00:44:16] nuestro marco regulatorio provincial y
+[00:44:18] sí tenemos eh todas las obras que se
+[00:44:20] realicen eh todas las todas las obras
+[00:44:23] que se realicen en materia de
+[00:44:25] generación, plantas generadoras, así
+[00:44:28] como su repotenciación,
+[00:44:30] eh sí está regulado eh a nivel
+[00:44:33] provincial, así como como todas Las
+[00:44:36] obras que o emprendimientos de
+[00:44:38] generación en el marco de las energías
+[00:44:40] renovables están también reguladas por
+[00:44:42] la provincia de Buenos Aires.
+[00:44:45] todas las autorizaciones es la
+[00:44:47] resolución 477 del año 2000 que las
+[00:44:50] autoriza la Dirección Provincial de
+[00:44:52] Energía y en lo que hace a las horas en
+[00:44:56] relacionadas con los proyectos de
+[00:44:58] energías renovables, también está
+[00:45:00] regulado a nivel provincial a través de
+[00:45:02] la creación del RUER, el Registro Único
+[00:45:04] de Energías Renovables, que tiene su
+[00:45:07] marco normativo específico, la Ley
+[00:45:10] 14,838
+[00:45:12] y el decreto 1293. 3 del 18. Sí. Este es
+[00:45:17] lo que hace eh a la provincia en materia
+[00:45:19] de generación.
+[00:45:21] Bueno, eh este marco regulatorio,
+[00:45:26] nuestra ley 11769 establece cuáles son
+[00:45:29] eh la cuáles son los objetivos de lo que
+[00:45:32] hace a la política regulatoria y a la
+[00:45:34] política de control en la provincia de
+[00:45:36] Buenos Aires.
+[00:45:38] dentro de de esos objetivos que los
+[00:45:41] vamos a ver luego trasladados a los
+[00:45:45] distintos organismos que que inciden y
+[00:45:49] que regulan la materia, eso tenemos
+[00:45:52] proteger los derechos de los usuarios,
+[00:45:55] eh principalmente el acceso a la energía
+[00:45:57] de todo habitante de la provincia de
+[00:45:59] Buenos Aires. Eso está expresamente
+[00:46:01] determinado en nuestro marco
+[00:46:03] regulatorio.
+[00:46:05] establecer un régimen tarifario que sea
+[00:46:06] único para todo para todo el ámbito de
+[00:46:09] la provincia y asegurar importes que los
+[00:46:13] importes finales sean equivalentes para
+[00:46:15] las distintas categorías de usuarios.
+[00:46:18] Alentar inversiones para asegurar el
+[00:46:20] abastecimiento de energía,
+[00:46:22] garantizar la operación, la
+[00:46:24] confiabilidad, la igualdad, libre acceso
+[00:46:27] y regular y asegurar que las tarifas
+[00:46:29] sean justas y razonables. Es decir, ¿qué
+[00:46:32] debemos lograr? debemos lograr un
+[00:46:34] equilibrio, un equilibrio entre la
+[00:46:36] obligatoriedad de prestar ese servicio
+[00:46:39] público de acuerdo a ciertas eh normas
+[00:46:41] de calidad, que esas tarifas eh sean eh
+[00:46:45] justas y razonables, que se reconozca,
+[00:46:47] que haya uniformidad en a nivel
+[00:46:50] tarifario, que ya vamos a avanzar
+[00:46:51] también en eso, y la de fundamentalmente
+[00:46:54] proteger esos derechos de usuario, es
+[00:46:57] decir, que tenemos niveles de calidad
+[00:47:00] que deben cumplir los distribuidores,
+[00:47:02] inversión
+[00:47:03] y tarifa harían al equilibrio de las
+[00:47:07] prestaciones.
+[00:47:10] Bueno, eh como decía recién, ¿cómo vamos
+[00:47:13] avanzando? ¿Cómo cómo se establece, cómo
+[00:47:16] se presta o cómo se regula toda esta eh
+[00:47:20] esta cuestión a nivel eh
+[00:47:24] distribución? La tenemos facultades
+[00:47:26] regulatorias y facultades de control.
+[00:47:29] Para poder lograr esos objetivos, la
+[00:47:31] provincia hace esta distinción que es es
+[00:47:34] diferente eh a nivel nacional y también
+[00:47:37] en otras provincias donde la actividad
+[00:47:40] regulatoria y de control se encuentra en
+[00:47:41] un mismo organismo. Bueno, en la
+[00:47:43] provincia de Buenos Aires esas funciones
+[00:47:45] están divididas. La función regulatoria
+[00:47:47] está reconocida y es prestada por el
+[00:47:49] Ministerio de Infraestructura y
+[00:47:51] Servicios Públicos y la función de
+[00:47:53] control a través de el organismo de
+[00:47:55] control de energía de la provincia de
+[00:47:57] Buenos Aires.
+[00:48:00] El en lo que hace el Ministerio de
+[00:48:02] Infraestructura y Servicios Públicos es
+[00:48:04] la autoridad de aplicación de la ley
+[00:48:06] quien ejerce la función regulatoria.
+[00:48:10] Y en esa función regulatoria, en cuanto
+[00:48:13] a a la organización administrativa, eh
+[00:48:16] dependen de ellos dependen eh del
+[00:48:19] Ministerio la Subsecretaría de Energía
+[00:48:22] eh a través que se conforma a través de
+[00:48:24] tres direcciones, la Dirección
+[00:48:26] Provincial de Regulación cargo de la
+[00:48:28] doctora Cinti, eh la Dirección
+[00:48:31] Provincial de Energía y la Dirección
+[00:48:33] Provincial de Política Energética y
+[00:48:36] Tarifaria. En
+[00:48:39] en este marco, digamos, se cumplen las
+[00:48:42] distintas funciones. ¿Qué establece eh
+[00:48:45] la ley? La ley establece a cargo del del
+[00:48:49] Ministerio de Infraestructura el diseño
+[00:48:51] y la implementación de políticas en
+[00:48:54] materia de energía eléctrica y en
+[00:48:57] particular en intervenir en el
+[00:48:58] otorgamiento de concesiones
+[00:49:00] provinciales. la provincia de Buenos
+[00:49:02] Aires la que otorga y la que ha otorgado
+[00:49:04] las concesiones provinciales este
+[00:49:08] la facultad exclusiva que tiene para
+[00:49:11] para aprobar eh tarifas tanto de
+[00:49:14] distribuidoras provinciales como de
+[00:49:16] distribuidoras municipales. La ley
+[00:49:18] 11,769 se aplica tanto a nivel
+[00:49:21] provincial como a nivel municipal. Ahora
+[00:49:23] vamos a ver que los municipios eh
+[00:49:26] debieron adecuar esos los contratos de
+[00:49:28] concesión y las concesiones que
+[00:49:29] otorgaban a este marco regulatorio
+[00:49:32] y que este y que asimismo el
+[00:49:37] las municipalidades y a nivel este
+[00:49:42] municipal y local
+[00:49:44] deben eh eh reconocer el control a cargo
+[00:49:48] del organismo, pero sí pueden eh avanzar
+[00:49:52] en ese control y eh hacer una actividad
+[00:49:54] en forma coordinada, pero siempre
+[00:49:56] respetando el marco regulatorio
+[00:49:58] provincial. A su vez eh decimos que
+[00:50:01] dentro de esas facultades regulatorias y
+[00:50:03] de política regulatoria eh propone las
+[00:50:05] normas de funcionamiento del Fondo
+[00:50:07] Provincial de Compensaciones Tarifarias,
+[00:50:09] que también además de haber una clase
+[00:50:12] especial, eh digamos, vamos a avanzar un
+[00:50:14] poquito más adelante, determina la
+[00:50:16] alíquuota de ese fondo provincial
+[00:50:20] y asimismo eh determina el contenido de
+[00:50:26] las licencias técnicas. dijimos que las
+[00:50:27] licencias técnicas es el título
+[00:50:29] habilitante para el otorgamiento para
+[00:50:31] poder prestar ese servicio público a
+[00:50:34] nivel provincial es esa licencia técnica
+[00:50:37] o esa evaluación de los aspectos que
+[00:50:39] deberían tener los distribuidores, tanto
+[00:50:43] en los aspectos técnicos como los
+[00:50:45] aspectos económicos fueron evaluados en
+[00:50:49] el momento de la licitación eh en el año
+[00:50:53] 96 y bueno, el 97 azul resumen las
+[00:50:57] distribuidoras provinciales y en lo que
+[00:50:59] hace en materia municipal se otorgaron
+[00:51:03] licencias en el año 97 también hubo un
+[00:51:07] régimen específico y que iban a durar eh
+[00:51:10] digamos durante el plazo de la
+[00:51:13] concesión, que también el plazo de la
+[00:51:16] concesión de los distribuidores
+[00:51:17] municipales fue de 25 años con prórrogas
+[00:51:21] de 30 años cada uno. Al vencimiento del
+[00:51:23] primer del plazo de concesión de los 25
+[00:51:26] años debieron renovar esas licencias
+[00:51:29] técnicas. Esas licencias técnicas se
+[00:51:31] renovaron y salieron las determinación
+[00:51:34] de el contenido, qué deberían contener
+[00:51:37] esas licencias a través de la resolución
+[00:51:39] 600 del año 2022, con lo cual hoy
+[00:51:43] todavía algunas siguen en ese proceso de
+[00:51:46] de renovación y de otorgamiento de
+[00:51:49] licencias técnicas. también eh
+[00:51:53] administra el producido de todo
+[00:51:55] impuesto, contribución nacional y
+[00:51:56] provincial relacionado con la actividad
+[00:51:59] eléctrica. Como decía recién
+[00:52:01] Guillermina, todo lo que hace al
+[00:52:02] impuesto de eh de obras del decreto 7290
+[00:52:07] define los regímenes tarifarios y cómo
+[00:52:11] los los procedimientos para su
+[00:52:12] determinación.
+[00:52:14] Eh, el régimen tarifario está previsto y
+[00:52:17] esa determinación del régimen tarifario
+[00:52:19] que va a estar establecido por eh 15
+[00:52:23] años que coincide va a coincidir con el
+[00:52:26] periodo de gestión.
+[00:52:29] Eh,
+[00:52:31] y el [carraspeo] procedimiento de
+[00:52:32] determinación están previsto tanto en el
+[00:52:35] subanexo A, que habíamos mencionado este
+[00:52:38] recién, y en los subanexos B, este que
+[00:52:42] establece cómo se determina ese régimen,
+[00:52:45] cuáles son esos parámetros. Y dentro de
+[00:52:48] también de estos regímenes tarifarios eh
+[00:52:51] debemos reconocer el sistema prepago que
+[00:52:53] también el el la autoridad de aplicación
+[00:52:56] debe regular eh el cómo cómo va a poder
+[00:53:02] aplicarse esta tarifa, cómo va a poder
+[00:53:04] aplicarse este sistema de eh sistema
+[00:53:08] prepago que siempre va a ser eh facultad
+[00:53:11] del usuario este adherir o no a esto. la
+[00:53:15] determinación de una tarifa social, que
+[00:53:18] también vamos a ver, no solamente se
+[00:53:21] determina, digamos, esa potestad de
+[00:53:24] determinar la tarifa de interés social,
+[00:53:26] también tiene la potestad de establecer
+[00:53:29] o de reconocer algunas bonificaciones
+[00:53:32] teniendo en cuenta eh no solamente la
+[00:53:34] realidad, digamos, económica, sino
+[00:53:36] también la realidad social que tienen eh
+[00:53:39] que tienen los usuarios de la provincia
+[00:53:42] de Buenos Aires. En ese marco también
+[00:53:46] hay reconocimiento, por ejemplo, la
+[00:53:49] provincia de Buenos Aires se estableció,
+[00:53:51] entre otras una bonificación para las
+[00:53:53] víctimas de violencia de género.
+[00:53:56] También se reconoció una bonificación
+[00:53:58] para los para los clubes de barrio, para
+[00:54:00] los bomberos voluntarios, entre otros.
+[00:54:05] Eh, la también la elaboración de un plan
+[00:54:08] director de servicios de transporte y
+[00:54:10] distribución de energía. Esto lo hace a
+[00:54:12] través de la Dirección Provincial eh de
+[00:54:15] Energía, dictar reglamentos en materia
+[00:54:17] de seguridad, medio ambiente, eh normas
+[00:54:20] y procedimientos técnicos, de medición,
+[00:54:23] facturación de consumo, por ejemplo, el
+[00:54:27] este el en lo que hace medición y
+[00:54:30] facturación eh de consumo, se puede
+[00:54:32] pedir autorización y se puede autorizar
+[00:54:35] eh por ejemplo el la facturación eh que
+[00:54:40] el su anexo A establece que para los
+[00:54:42] usuarios residenciales la facturación
+[00:54:44] sea bimestral. Con autorización se puede
+[00:54:47] que de hecho tanto los a nivel de
+[00:54:50] concesionarios provinciales como
+[00:54:52] municipales reconocen que esa
+[00:54:54] facturación sea mensual sin perjuicio de
+[00:54:58] que la lectura sea eh bimestral.
+[00:55:01] Asimismo, en cuanto dijimos que eh el
+[00:55:05] que en esta facultad regulatoria se
+[00:55:08] apoya tanto en las bueno, la
+[00:55:10] subsecretaría de energía a través de las
+[00:55:12] distintas direcciones. En esas
+[00:55:14] direcciones también en en lo que hace a
+[00:55:17] la Dirección Provincial de Regulación
+[00:55:19] propone todas las normas regulatorias,
+[00:55:22] tiene competencia sobre todo los
+[00:55:23] aspectos eh jurídicos y económicos de la
+[00:55:26] regulación, participa en todo lo que
+[00:55:28] hace el otorgamiento de las licencias
+[00:55:30] técnicas. interviene en todos los
+[00:55:33] regímenes especiales establecidos.
+[00:55:36] El la dirección provincial de energía,
+[00:55:39] como decíamos recién, establece los
+[00:55:40] planes directores. También lo que
+[00:55:43] determina es la financiabilidad de todas
+[00:55:45] las obras que están destinadas a la
+[00:55:47] expansión de la red de transporte que
+[00:55:49] recién veíamos a través de la
+[00:55:51] recaudación del agregado tarifario.
+[00:55:54] Este también cuando no se hacen los
+[00:55:59] aportes de ese agregado tarifario al fid
+[00:56:01] comiso, la Dirección Provincial de
+[00:56:02] Regulación tiene todos los mecanismos
+[00:56:04] para controlar y realizar todas las
+[00:56:06] auditorías a ese agregado eh tarifario.
+[00:56:11] También habíamos dicho que la Dirección
+[00:56:13] Provincial de Energía eh determina todo
+[00:56:16] lo que hace la factibilidad de las obras
+[00:56:17] eléctricas de la provincia de Buenos
+[00:56:20] Aires y en lo que hace a la Dirección
+[00:56:22] Provincial de Política Energética y
+[00:56:24] Tarifaria, diseña el contenido de la
+[00:56:27] tarifa social, eh todo lo que hace la
+[00:56:30] transición energética, así como
+[00:56:32] establece el balance energético
+[00:56:35] provincial.
+[00:56:40] Bueno, eh esto a grandes rasgos, sin
+[00:56:43] perjuicio de de todas aquellas este
+[00:56:45] facultades que que hacen a a su
+[00:56:49] este a sus competencias.
+[00:56:53] Y en lo que hace las facultades de
+[00:56:55] control, eh como sabemos en la las
+[00:56:59] facultades de control la ejerce el
+[00:57:01] organismo eh de control de energía
+[00:57:04] eléctrica de la provincia de Buenos
+[00:57:05] Aires, este que es un ente autárquico
+[00:57:09] que se encuentra la órbita, bueno, del
+[00:57:11] Ministerio de de Infraestructura y
+[00:57:13] Servicios Públicos y está compuesto por
+[00:57:15] un directorio de cinco miembros y bueno,
+[00:57:19] debe ajustar este sus objetivos, como
+[00:57:21] dijimos, a a los objetivos que estaban
+[00:57:23] que que están establecidos en la ley de
+[00:57:26] marcos.
+[00:57:28] Eh, y la competencia está en las áreas
+[00:57:31] sujetas a concesión provincial y
+[00:57:33] municipal, con excepción, como venimos
+[00:57:35] diciendo, de eh la competencia que
+[00:57:38] ejerce eh la nación hasta que esas
+[00:57:41] concesiones sigan eh vigentes eh de
+[00:57:44] Edenor y Edú.
+[00:57:49] Bueno, ¿cómo cumple o qué qué controla
+[00:57:53] el organismo? ¿Dónde digamos en qué
+[00:57:55] interviene? ¿Cuál es la competencia del
+[00:57:57] organismo de control de energía
+[00:57:58] eléctrica?
+[00:58:01] controla fundamentalmente la prestación
+[00:58:03] del Servicio Público de Distribución de
+[00:58:05] Energía eléctrica y habíamos dicho que
+[00:58:09] eh una de sus funciones principales es
+[00:58:11] la de proteger los intereses y los
+[00:58:13] derechos de de los usuarios y reconocer
+[00:58:16] eh en todo de todo habitante en la
+[00:58:18] provincia de Buenos Aires y reconocer
+[00:58:20] ese acceso a la energía eléctrica.
+[00:58:24] En este sentido hace cumplir eh para la
+[00:58:28] para el control de la prestación del
+[00:58:29] servicio público que hace a la esencia
+[00:58:31] de de este servicio público. Hace
+[00:58:33] cumplir la ley, la reglamentación, todas
+[00:58:35] las disposiciones, fiscaliza el
+[00:58:37] cumplimiento de los parámetros de
+[00:58:39] calidad.
+[00:58:41] Eh, también se reconoce un control y un
+[00:58:43] cumplimiento del sistema de contabilidad
+[00:58:45] regulatoria. Este, porque lo de acuerdo
+[00:58:48] al marco regulatorio, el artículo 34
+[00:58:51] establece la obligación de los
+[00:58:54] distribuidores, tanto provinciales como
+[00:58:55] municipales, de llevar una contabilidad
+[00:58:57] regulatoria.
+[00:58:59] Es todo el régimen eh de la contabilidad
+[00:59:02] regulatoria fue establecido por la
+[00:59:05] autoridad de aplicación a través de la
+[00:59:06] resolución 60 del año 2021 y permite un
+[00:59:10] control este concomitante
+[00:59:13] y que eh a través de este régimen que se
+[00:59:17] se viene implementando este se pueden eh
+[00:59:20] permite advertir desvíos y eh también va
+[00:59:24] a permitir el seguimiento de inversiones
+[00:59:26] que resulta importante para este
+[00:59:28] control, el control de todas las
+[00:59:31] obligaciones asumidas, tanto en los
+[00:59:33] contratos eh en los contratos de
+[00:59:35] concesión y en todas las normas que
+[00:59:38] vienen siendo dictadas, este, en
+[00:59:40] consecuencia, atiende y resuelve
+[00:59:42] reclamos de los usuarios y aplica
+[00:59:44] sanciones. Esto en términos generales y
+[00:59:47] vamos a ir desarrollando. En materia
+[00:59:49] tarifaria sabemos que en materia
+[00:59:52] tarifaria la facultad exclusiva de fijar
+[00:59:54] tarifas es del Ministerio, es de la
+[00:59:56] autoridad de aplicación. Sin perjuicio
+[00:59:58] de eso, el organismo de control lo que
+[01:00:01] hace es realiza estudios, determina la
+[01:00:04] base de cálculo, calcula los cuadros
+[01:00:06] tarifarios.
+[01:00:07] los esos cuadros tarifarios eh lo que
+[01:00:10] digamos el el Oceva lo que hace es todos
+[01:00:13] los ajustes que se realicen en el marco
+[01:00:16] eh de las tarifas, que en principio
+[01:00:20] tenemos que tener en cuenta que eh las
+[01:00:23] tarifas tienen periodos conforme
+[01:00:26] al artículo 44, periodos de este
+[01:00:29] ordinarios de de fijación de esas
+[01:00:31] tarifas
+[01:00:33] que se hacen cada 5 años. Hoy estamos
+[01:00:36] debemos aclarar esto que hoy y en el año
+[01:00:39] 2017 se hizo la revisión tarifaria
+[01:00:41] integral. este se fijó un cuadro
+[01:00:43] tarifario por 5 años con ajustes
+[01:00:45] anuales, que es los que establecen los
+[01:00:47] subanexos, subanexo e,
+[01:00:50] pero en el año 2021 consecuencia, bueno,
+[01:00:54] de la pandemia además este y y todas las
+[01:00:58] emergencias este tanto bueno,
+[01:01:01] energéticas y
+[01:01:03] tarifarias, estamos en un periodo de
+[01:01:06] transición tarifaria. En ese periodo de
+[01:01:08] transición tarifaria se realizan ajustes
+[01:01:10] tanto por el los traslados de los
+[01:01:13] precios mayoristas que se van eh va
+[01:01:16] fijando la nación, así como reajustes en
+[01:01:18] el valor agregado de distribución.
+[01:01:20] Eh, conforme a esas instrucciones, el
+[01:01:23] Ocea [carraspeo]
+[01:01:24] que imparte la autoridad de aplicación,
+[01:01:26] el OSEBA hace los cálculos
+[01:01:27] correspondientes y eh posteriormente la
+[01:01:30] autoridad de aplicación eh aprueba estos
+[01:01:34] cuatros tarifarios y administra y
+[01:01:37] distribuye el fondo provincial de
+[01:01:39] compensaciones tarifarias. dijimos que
+[01:01:43] este fondo las alí cuotas son fijadas
+[01:01:46] por la autoridad de aplicación y el
+[01:01:47] Oceva lo que hace es administrar y
+[01:01:49] distribuir ese fondo que tiene como
+[01:01:51] destino o como objetivo este reconocer
+[01:01:54] las diferencias por eh los costos
+[01:01:57] propios de distribución no reconocidos.
+[01:01:59] Porque hay un principio que que lo vamos
+[01:02:03] a ver, pero bueno, lo vamos a adelantar,
+[01:02:05] que es el que la provincia este
+[01:02:08] determina, digamos, que los precios de
+[01:02:10] las tarifas tiene que haber uniformidad
+[01:02:12] tarifaria. Eh, fija eh tarifas a a las
+[01:02:18] cuatro áreas de concesión que se
+[01:02:19] establecen, que son el área Río de La
+[01:02:21] Plata, el área atlántica, el área norte
+[01:02:24] y el área sur. Y en función de eso, esos
+[01:02:28] eh que son fijados para las
+[01:02:31] concesionarias provinciales es
+[01:02:32] trasladado a cada área, sabemos que eh a
+[01:02:35] nivel eh municipal no van a tener,
+[01:02:38] digamos, el por sus particularidades,
+[01:02:42] por su geografía, por sus mercados, eh
+[01:02:46] no van a tener los mismos costos. Estos
+[01:02:48] costos, estas diferencias de costos son
+[01:02:50] reconocidas a través de este Fondo
+[01:02:53] Provincial de Compensaciones Tarifarias,
+[01:02:55] pero los usuarios van a pagar tarifas
+[01:02:58] equivalentes en toda la provincia de
+[01:02:59] Buenos Aires.
+[01:03:02] Ahora bien, en materia medioambiental
+[01:03:04] fiscaliza [carraspeo]
+[01:03:05] el cumplimiento de normas de seguridad y
+[01:03:09] eh preservación del medio ambiente. En
+[01:03:12] este sentido,
+[01:03:14] el Oceva tiene una resolución, la
+[01:03:17] resolución 595
+[01:03:19] del año 2006, que establece un
+[01:03:22] nomenclador de anomalías en distribución
+[01:03:26] y a su vez eh a través de la resolución
+[01:03:29] 142 del 2010 establece todo el
+[01:03:32] procedimiento para la detección de estas
+[01:03:34] anomalías porque eh y en función de eso
+[01:03:38] puede o no aplicar sanciones en función
+[01:03:41] de las auditorías que se realicen, el eh
+[01:03:45] puede aplicar sanciones, porque ¿qué
+[01:03:47] pasa? Conforme que es lo que estamos
+[01:03:49] viendo el marco regulatoria, la
+[01:03:51] obligación que tienen los
+[01:03:53] distribuidores, tanto provinciales como
+[01:03:55] como municipales, es la de mantener y
+[01:03:58] operar sus instalaciones de manera de
+[01:04:01] que no constituyan un peligro para la
+[01:04:04] seguridad pública.
+[01:04:07] Y asimismo, en materia de de medio
+[01:04:10] ambiental también regula todas las
+[01:04:12] condiciones que tienen que tener los
+[01:04:14] transformadores y los capacitores. Ahí
+[01:04:16] tenemos dos resoluciones dictadas por el
+[01:04:18] organismo para poder lograr este
+[01:04:21] control. La resolución 811 del 2002, la
+[01:04:24] resolución 103
+[01:04:26] del 2013
+[01:04:29] y que establece controles del estado de
+[01:04:31] los transformadores cuatrimestrales, por
+[01:04:33] ejemplo. Eh, ¿qué se hace frente a un a
+[01:04:37] un este a una pérdida, por ejemplo, de
+[01:04:39] aceite? tienen que remediar es eh tienen
+[01:04:43] que eh eh tienen que hacer este sí,
+[01:04:46] todas las actividades de remediación
+[01:04:48] también puede implicar una aplicación de
+[01:04:51] sanciones.
+[01:04:53] Y en materia de generación distribuida,
+[01:04:57] el Oceva lleva el Registro único de
+[01:04:59] usuarios generadores, que es el Ruger,
+[01:05:02] donde los distribuidores, tanto
+[01:05:04] provinciales como municipales, deben
+[01:05:06] informar mensualmente todas las altas y
+[01:05:08] bajas que tengan en esta materia.
+[01:05:16] Bueno, eh lo que lo que vemos lo que
+[01:05:18] venimos diciendo, digamos, ¿cuál cuáles
+[01:05:21] son las acciones concretas que hace el
+[01:05:23] organismo? ¿Cómo hace el organismo para
+[01:05:25] poder fiscalizar?
+[01:05:27] Bueno, eh ahí cumple un rol
+[01:05:30] importantísimo el deber de información,
+[01:05:32] porque para poder fiscalizar debo tener
+[01:05:34] esa información que nos la va a dar los
+[01:05:37] distribuidores. Ese deber de información
+[01:05:40] el organismo tiene eh resoluciones donde
+[01:05:42] se establecen este información que deben
+[01:05:46] presentar los distribuidores en forma
+[01:05:48] periódica. Bueno, puede ser mensual,
+[01:05:51] anual, por ejemplo, eh en lo que hace a
+[01:05:55] normas de de calidad, eh tenemos la
+[01:05:59] resolución 251 del 2011, que determina
+[01:06:03] cómo deben ser eh eh cómo deben ser
+[01:06:07] informados, por ejemplo, todo lo que
+[01:06:09] hace a todo nivel de cortes, eh todo lo
+[01:06:14] que hace a la calidad de producto
+[01:06:16] técnico, servicio técnico y calidad ID
+[01:06:19] comercial. También debe informar sobre
+[01:06:22] los planes operativos de emergencia
+[01:06:24] frente a cortes. Deben informar todos
+[01:06:27] los cortes eh todos los cortes
+[01:06:29] relevantes.
+[01:06:32] deben informarimismo, sobre todas las
+[01:06:35] cuestiones que hacen a a podas, a planes
+[01:06:40] inviernos y planes veranos, de manera
+[01:06:42] tal de poder este realizar una
+[01:06:45] fiscalización que permita, digamos,
+[01:06:48] saber hacia dónde cuál cuál va a ser eh
+[01:06:51] este como es cómo va a actuar el
+[01:06:55] distribuidor y asimismo a través de esta
+[01:06:58] información y si hubiera incumplimientos
+[01:07:01] establecer las sanciones
+[01:07:02] correspondientes.
+[01:07:03] Asimismo, digamos, para poder avanzar en
+[01:07:06] esta fiscalización realiza auditorías,
+[01:07:09] inspecciones, ¿no?
+[01:07:11] Bueno, lo que acabo de decir recién,
+[01:07:14] este, también los indicadores de calidad
+[01:07:16] de producto técnico y servicio técnico y
+[01:07:19] calidad comercial, el establecimiento de
+[01:07:22] un régimen sancionatorio
+[01:07:25] y eh la resolución de reclamos en lo que
+[01:07:29] hace también a la protección de los
+[01:07:31] derechos de los usuarios. En cuanto a la
+[01:07:34] resolución de reclamos en lo que hace
+[01:07:36] específicamente
+[01:07:37] a eh a los al a los reclamos realizados
+[01:07:41] por los usuarios por daños o bienes en
+[01:07:45] la eh o bienes de los usuarios, tenemos
+[01:07:49] que tener en cuenta que el organismo de
+[01:07:52] control, este acá cabe mencionar el caso
+[01:07:56] Estrada que si bien es de el Enr digamos
+[01:07:59] hace a la delimitación de lo que es las
+[01:08:02] competencias
+[01:08:03] del el organismo de control para
+[01:08:06] intervenir en reclamos relacionados con
+[01:08:11] eh algún daño a sus a sus bienes. En
+[01:08:14] este sentido, el organismo,
+[01:08:17] los organismos de control,
+[01:08:20] la Corte ha dicho en el caso Estrada
+[01:08:24] que en ese caso determinó era un reclamo
+[01:08:27] por interrupciones del servicio e y
+[01:08:30] digamos y eh niveles eh no adecuación a
+[01:08:33] los niveles de de tensión. Ahí lo que se
+[01:08:36] reclamaba era eh el alquiler eh que
+[01:08:39] había este incurrido en la firma
+[01:08:43] Estrada.
+[01:08:44] en un equipo electrógeno y en sueldos
+[01:08:47] abonados a su personal. La Corte dijo,
+[01:08:50] cuando las controversias estén eh deban
+[01:08:54] ser fundamentadas y debe aplicarse el
+[01:08:56] derecho común, excede el marco de
+[01:08:59] competencia técnica reconocida a a los
+[01:09:03] entes, por lo cual ese eh la
+[01:09:06] determinación de un daño y perjuicio es
+[01:09:08] materia propia del poder judicial.
+[01:09:11] En cambio, y lo que puede resolver el
+[01:09:16] los entes de control es el daño, el daño
+[01:09:19] directo, el daño que pueda resolverse de
+[01:09:22] acuerdo al derecho estatutario que esté
+[01:09:23] determinado en el contrato de concesión
+[01:09:26] y en toda la competencia técnica
+[01:09:28] reconocida al a los organismos. Es por
+[01:09:32] eso que eh se habla de especialidad
+[01:09:35] técnica y a su vez deberá permitir el
+[01:09:37] control judicial eh suficiente
+[01:09:40] posterior, pero aún cuando
+[01:09:43] quede abierto ese control judicial
+[01:09:44] suficiente, lo que se dice en el caso
+[01:09:46] Estrada es que no puede resolver una
+[01:09:49] controversia cuya resolución sea por el
+[01:09:52] derecho común y no por el por las
+[01:09:54] competencias específicas eh reconocidas
+[01:09:57] a ese ente. Entonces, hay un alcance
+[01:09:59] limitado tanto en la materia como en los
+[01:10:06] Bueno, como venía diciendo, este,
+[01:10:09] ¿cuáles son el digamos el el objetivo
+[01:10:13] del del marco regulatorio eléctrico
+[01:10:16] provincial fue establecer un régimen
+[01:10:18] uniforme a todos los habitantes de la
+[01:10:20] provincia de Buenos Aires, aún cuando
+[01:10:23] sea eh reconocido, porque se reconoce
+[01:10:26] eh eh digamos la potestad de los
+[01:10:28] municipios del otorgamiento de las
+[01:10:31] concesiones municipales. No obstante
+[01:10:34] eso, eh los municipios toda su actividad
+[01:10:37] deberán reconocer este la normativa y el
+[01:10:41] marco regulatorio eh eléctrico. También
+[01:10:45] el marco regulatorio eléctrico reconoce
+[01:10:48] la actividad y reconoce a las
+[01:10:50] cooperativas que preceden a este marco
+[01:10:52] regulatorio y tiene un especial
+[01:10:56] reconocimiento a ello.
+[01:10:58] Entonces, en esa función de control que
+[01:11:01] tiene el organismo eh tiene el organismo
+[01:11:05] tiene la asistencia de eh de las eh de
+[01:11:11] los municipios en el en el ejercicio de
+[01:11:13] ese control.
+[01:11:16] Eh, con lo cual cuando generalmente en
+[01:11:19] el OCEA tenemos este contacto con la
+[01:11:22] SOMIC, la SOMIC eh reciben este toda
+[01:11:26] denuncia o reclamo formulado por los
+[01:11:28] usuarios y este respecto de la
+[01:11:31] prestación de los servicios y elevan
+[01:11:32] para su tratamiento este al organismo de
+[01:11:35] control.
+[01:11:37] Eh, así que bueno, es es importante esta
+[01:11:41] asistencia que también dan los
+[01:11:43] municipios, que está prevista en
+[01:11:46] específicamente en la ley de marco
+[01:11:49] regulatorio.
+[01:11:51] Bueno, en esta parte, digamos, yo
+[01:11:53] concluiría acá. Ahora va a seguir
+[01:11:56] Guillermina y después retomamos otro.
+[01:11:59] Vamos a hacer un recreído, ¿les parece?
+[01:12:01] Cortamos ahora.
+[01:12:02] Si tienen alguna pregunta, una pregunta,
+[01:12:04] ¿algún comentario?
+[01:12:20] Bueno, [resoplido] a ver, ahí estamos.
+[01:12:24] Bueno, vamos a a ver ahora la
+[01:12:28] determinación de los agentes de la
+[01:12:30] actividad eléctrica que indica nuestro
+[01:12:32] marco regulatorio provincial.
+[01:12:36] Eh, del mismo modo que el marco
+[01:12:37] regulatorio nacional, eh, se distinguen
+[01:12:41] quiénes serían los agentes de la
+[01:12:43] actividad eléctrica a los cuales les
+[01:12:45] aplica el marco regulatorio.
+[01:12:48] La primera distinción que hace el marco
+[01:12:50] son los generadores, autogeneradores y
+[01:12:53] cogeneradores y eh los va a ir
+[01:12:56] definiendo.
+[01:12:58] Se define como generador a quien es
+[01:13:00] titular de una central eléctrica
+[01:13:02] radicada en la provincia de Buenos Aires
+[01:13:04] que explote con la finalidad de
+[01:13:06] comercializar su producción total o
+[01:13:08] parcialmente con otros generadores, con
+[01:13:11] distribuidores o con grandes usuarios.
+[01:13:14] La norma provincial habla de grandes
+[01:13:17] consumidores
+[01:13:18] o eh a otra jurisdicción,
+[01:13:21] al autogenerador y que esta figura eh
+[01:13:25] quizá e de acá desprendemos lo que es la
+[01:13:28] generación distribuida domiciliaria,
+[01:13:31] tanto individual como comunitaria, cosa
+[01:13:33] que la norma nacional no define.
+[01:13:38] es quien resulte titular de una central
+[01:13:40] eléctrica radicada en la provincia de
+[01:13:42] Buenos Aires que produzca energía y que
+[01:13:46] la finalidad principal es el
+[01:13:48] autoconsumo, satisfacer sus propias
+[01:13:50] necesidades y en su caso eh inyectar el
+[01:13:55] posible excedente a esa producción.
+[01:13:59] El cogenerador es aquel que aprovecha
+[01:14:02] las características particulares de su
+[01:14:04] proceso productivo y como actividad
+[01:14:07] secundaria realiza una generación de
+[01:14:09] energía eh también con destino a consumo
+[01:14:13] propio y eventualmente a inyectar el
+[01:14:17] excedente.
+[01:14:19] Hay alguien que se tiene
+[01:14:23] Sí.
+[01:14:24] Em,
+[01:14:26] también es agente de la actividad
+[01:14:27] eléctrica el transportista.
+[01:14:30] Acá el marco regulatorio provincial,
+[01:14:32] acuérdense que cuando se dictó estaba eh
+[01:14:36] destinado a alcanzar a la actividad de
+[01:14:38] transporte por distribución troncal.
+[01:14:41] Entonces, define el transportista aquel
+[01:14:44] que sea titular de una concesión
+[01:14:47] provincial de transporte que esté
+[01:14:49] otorgada bajo el régimen de esta ley.
+[01:14:54] define al transporte, que es la
+[01:14:56] actividad con concesión provincial, que
+[01:14:58] tiene por objeto vincular entre sí a
+[01:15:00] generadores o distribuidores y grandes
+[01:15:02] consumidores ubicados en la provincia de
+[01:15:05] Buenos Aires y a estos con sistemas de
+[01:15:08] otras jurisdicciones, incluida la
+[01:15:10] jurisdicción nacional, posibilitando de
+[01:15:12] ese modo el libre flujo de energía entre
+[01:15:16] eh los transportistas
+[01:15:18] e o entre los agentes a los cuales este
+[01:15:23] También acá cuando se define el
+[01:15:26] transporte eh se establece esta
+[01:15:29] restricción regulatoria que el
+[01:15:31] transportista no puede comprar ni vender
+[01:15:34] energía eléctrica. Sí, un poco lo que
+[01:15:37] comentaba Susana más temprano, que
+[01:15:39] también establece la normativa nacional
+[01:15:42] y esta este restricción a efectos eh
+[01:15:48] también de la Ley de Defensa de la
+[01:15:50] Competencia, no solamente en la
+[01:15:54] concesión, en la concesionaria, en la
+[01:15:56] sociedad concesionaria de transportes,
+[01:15:58] sino también en sus controlantes en su
+[01:16:01] caso.
+[01:16:04] La norma también define a los
+[01:16:06] distribuidores como agentes de la
+[01:16:08] actividad eléctrica. El distribuidor es
+[01:16:09] quien sea titular de una concesión de
+[01:16:11] distribución otorgada bajo el régimen de
+[01:16:14] esta de esta ley. Y es aquí donde
+[01:16:16] mayormente aplicamos el marco
+[01:16:18] regulatorio a todos los distribuidores,
+[01:16:20] sean estos provinciales o municipales.
+[01:16:25] La ley también define a los grandes
+[01:16:27] consumidores. Nosotros en general los
+[01:16:29] llamamos grandes usuarios. Eh, pero
+[01:16:32] bueno, el marco regulatorio los definió
+[01:16:33] de esa manera y es quien contrata en
+[01:16:36] forma independiente y para consumo
+[01:16:38] propio su abastecimiento de energía
+[01:16:41] eléctrica, ya sea con un generador
+[01:16:43] directamente o bien directamente a
+[01:16:46] través del distribuidor.
+[01:16:49] El marco regulatorio también incluye a
+[01:16:51] los comercializadores,
+[01:16:53] que es quien compra la energía,
+[01:16:57] la compra o la vende en bloque a través
+[01:17:00] de contratos a términos, pero por cuenta
+[01:17:02] y orden de uno o más demandantes. Sí,
+[01:17:06] esta figura de comercializador
+[01:17:09] eh fue utilizada, digamos,
+[01:17:11] considerablemente al momento de la
+[01:17:13] privatización y cuando los contratos a
+[01:17:15] términos, digamos, como contaba eh
+[01:17:17] Susana, el régimen originario de la
+[01:17:20] 24065,
+[01:17:21] hasta tanto se limitó la posibilidad en
+[01:17:24] el 2003 de hacer estos contratos a
+[01:17:26] término. Esta figura de comercializador,
+[01:17:29] así textual como está establecido en el
+[01:17:31] marco regulatorio provincial, no es la
+[01:17:34] nueva figura que introduce las
+[01:17:37] modificaciones del decreto 450, donde
+[01:17:40] aparece la figura del comercializador
+[01:17:42] como un sujeto distinto que se va a
+[01:17:44] ocupar o se ocuparía
+[01:17:47] e de hacer la venta eh de la energía, de
+[01:17:51] la facturación y venta de la energía
+[01:17:54] separadamente de la actividad de
+[01:17:55] distribución. Sí. Eh, este
+[01:17:58] comercialización, este comercializador
+[01:18:00] conforme nuestro marco regulatorio es
+[01:18:02] aquel que compra y vende energía, pero
+[01:18:04] por cuenta y orden de varios
+[01:18:06] demandantes.
+[01:18:13] En cuanto a las disposiciones comunes
+[01:18:15] que establece el marco regulatorio a
+[01:18:17] todos los agentes de la actividad
+[01:18:18] eléctrica, es decir, a todos los que
+[01:18:20] acabemos acabamos de de mencionar, eh
+[01:18:23] todos tienen la obligación en materia de
+[01:18:25] seguridad pública. Se establece que
+[01:18:28] tanto los agentes como los usuarios, no
+[01:18:30] solamente los agentes de la actividad,
+[01:18:31] sino también los usuarios, están
+[01:18:32] obligados a mantener y operar sus
+[01:18:34] instalaciones y equipos de modo tal que
+[01:18:37] eh no afecten la seguridad de los bienes
+[01:18:42] de la red de distribución en el caso de
+[01:18:44] los usuarios o perjudique a otros
+[01:18:46] usuarios. Eh, es el Oceva el que tiene a
+[01:18:49] su cargo la revisión, la inspección y la
+[01:18:52] producción de pruebas para verificar el
+[01:18:54] cumplimiento de estas condiciones de
+[01:18:56] seguridad en las redes.
+[01:18:58] Eh, en caso que se detectare alguna
+[01:19:01] alteración, eh se puede suspender el
+[01:19:05] servicio, se puede ordenar la reparación
+[01:19:07] o el reemplazo de las instalaciones, de
+[01:19:09] modo tal de proteger precisamente la
+[01:19:12] seguridad pública.
+[01:19:14] Otra de las
+[01:19:16] condiciones generales que deben cumplir
+[01:19:19] todos los agentes de la actividad
+[01:19:20] eléctrica es esta abstención de generar
+[01:19:23] o de realizar actos o conductas que
+[01:19:26] impliquen e
+[01:19:29] competencia desleal.
+[01:19:32] Acá la norma de defensa de la
+[01:19:33] competencia, la Ley Nacional 27442
+[01:19:36] estableció cuáles son las conductas que
+[01:19:38] pueden generar eh
+[01:19:42] alteraciones en esta materia. También
+[01:19:45] establece cuáles son las sanciones que
+[01:19:46] se le aplica, quién es la autoridad de
+[01:19:48] aplicación que la va a a controlar. Sin
+[01:19:52] perjuicio de lo cual el tanto el
+[01:19:54] contrato como el marco regulatorio le
+[01:19:56] ordenan a los que pueda aplicar
+[01:19:59] sanciones en caso que estas conductas o
+[01:20:01] estos hechos o estos actos se dieran eh
+[01:20:04] en la práctica.
+[01:20:07] Otras de las este disposiciones comunes
+[01:20:10] a todos los agentes son eh el punto de
+[01:20:13] la construcción o inicio de nuevas eh
+[01:20:16] instalaciones, la extensión, la
+[01:20:18] ampliación de las existentes cuando
+[01:20:20] cuando no estuvieran este previstas como
+[01:20:23] obligatorias.
+[01:20:24] En este caso, el marco regulatorio en
+[01:20:26] los artículos 1618
+[01:20:29] establece que requieren la previa
+[01:20:32] autorización
+[01:20:34] de la autoridad de aplicación. Estas
+[01:20:36] competencias han sido atribuidas a la
+[01:20:38] Dirección Provincial de Energía.
+[01:20:41] Eh, hay una resolución del año 2000 que
+[01:20:43] hoy Pato la la mencionó, que es la 477.
+[01:20:47] Esta resolución establece una serie de
+[01:20:51] condiciones y de requisitos que cada uno
+[01:20:53] de los agentes que va a construir, sea
+[01:20:56] una eh una obra de transporte, de
+[01:21:00] generación
+[01:21:01] eh o de distribución debe requerir esta
+[01:21:05] habilitación. no están eh acá
+[01:21:07] comprendidas específicamente
+[01:21:09] las obras este de distribución eh
+[01:21:13] específicamente que hacen el
+[01:21:14] mantenimiento de la red.
+[01:21:17] Em, sí, requiere una autorización. Este,
+[01:21:21] también esta esta parte de de generación
+[01:21:25] renovable a través del del RUER, eh que
+[01:21:29] es otro de los registros que que
+[01:21:30] administra OSEBA, eh también se
+[01:21:33] estableció que deben cumplir con esta
+[01:21:35] normativa de la 477 para todo tipo de
+[01:21:38] parque de generación sin distinción,
+[01:21:40] digamos, originariamente hablaba de la
+[01:21:42] generación, digamos, por los mecanismos
+[01:21:45] este anteriores al momento del marco
+[01:21:48] regulatorio, cuando aparece el auge de
+[01:21:49] las energías renov renovables también se
+[01:21:51] alcanza bajo esta normativa de
+[01:21:53] autorización a las este a la generación
+[01:21:57] de origen renovable en cualquiera de sus
+[01:21:59] formas. También tienen que requerir
+[01:22:01] autorización y se entra, digamos, a
+[01:22:03] través de la plataforma del RUER.
+[01:22:07] respecto de la construcción de nuevas
+[01:22:08] instalaciones o ampliación, cuando estas
+[01:22:10] no estuvieran este previstas como
+[01:22:13] obligatorias para para el distribuidor,
+[01:22:16] el marco regulatorio establece criterios
+[01:22:18] este generales. Eh, luego cuando veamos
+[01:22:22] el subanexo
+[01:22:24] e eh vamos a ver el artículo 14. Así que
+[01:22:27] en esa clase vamos a hablar un poquito,
+[01:22:29] vamos a andar de este de este tema.
+[01:22:32] Em,
+[01:22:34] en cuanto
+[01:22:36] a la última condición que establece el
+[01:22:39] marco regulatoria es que los
+[01:22:41] distribuidores, eh, en realidad habla de
+[01:22:43] los agentes, también estaba destinado al
+[01:22:45] transporte, como les decía antes, deben
+[01:22:48] abonar la tasa de fiscalización y
+[01:22:50] control. Esta tasa es determinada
+[01:22:53] anualmente [carraspeo] por OSEVA. Oceva
+[01:22:55] se lo notifica a cada uno de los
+[01:22:57] distribuidores y establece cuál es el
+[01:22:59] monto que tienen que ingresar.
+[01:23:02] este este esta tasa de fiscalización eh
+[01:23:05] y control es el sustento o son los
+[01:23:08] ingresos que tiene el organismo
+[01:23:10] regulador, el organismo, perdón, de
+[01:23:12] control como para poder ejercer todas
+[01:23:14] las funciones que le están asignadas por
+[01:23:16] el marco regulatorio en caso que eh no
+[01:23:19] se ingrese esa tasa de fiscalización y
+[01:23:22] controle en plazo, eh obviamente tiene
+[01:23:25] una tasa de interés prefijada y eh
+[01:23:28] también en caso de incumplimiento y
+[01:23:30] demor Ora eh le resultan de aplicación
+[01:23:33] sanciones a través del mismo eh
+[01:23:35] organismo de control.
+[01:23:42] El marco regulatorio define a los
+[01:23:45] concesionarios provinciales y
+[01:23:47] municipales.
+[01:23:50] El concesionario
+[01:23:51] provincial
+[01:23:53] eh del servicio público de distribución
+[01:23:56] es aquel que es responsable de la
+[01:23:58] prestación del servicio. Estaba
+[01:24:00] destinado, como les dije antes, a la
+[01:24:02] distribución y al transporte. Entonces,
+[01:24:05] en ese caso es amplio para los dos.
+[01:24:09] Mientras que para los concesionarios
+[01:24:10] municipales son responsables de la
+[01:24:12] prestación solamente del servicio de
+[01:24:14] distribución. Sí. Eh, el marco normativo
+[01:24:18] también establece que es requisito
+[01:24:20] previo, como vinimos contándoles desde
+[01:24:22] la otra clase, el requisito previo a
+[01:24:25] obtener esta concesión, la obtención de
+[01:24:27] la licencia técnica habilitante que que
+[01:24:30] es expedida por la autoridad de
+[01:24:31] aplicación. En el caso de los
+[01:24:33] distribuidores provinciales fue al
+[01:24:35] momento de la privatización y la
+[01:24:37] reválida de esas condiciones va a ser en
+[01:24:40] el vencimiento de los periodos de
+[01:24:41] gestión cuando se haga la relicitación
+[01:24:43] de las acciones clase A. Mientras que
+[01:24:45] para los concesionarios municipales fue
+[01:24:48] en el momento de eh adaptar sus
+[01:24:50] contratos al modelo contenido en el
+[01:24:53] decreto 1208 del año 97 con estas
+[01:24:56] licencias técnicas que otorgó el EPRE
+[01:24:58] año 97 98.
+[01:25:01] Eh, vencido. Los el plazo de esos
+[01:25:05] contratos de concesión eran de 25 años
+[01:25:07] con dos prórrogas de 30. Al vencimiento
+[01:25:10] de ese primer plazo de 25 años se eh
+[01:25:13] hizo una reválida de estas licencias
+[01:25:15] técnicas que es la resolución 600 del
+[01:25:17] 22.
+[01:25:19] A la fecha hay alrededor de 182
+[01:25:22] 83 183 este distribuidoras municipales
+[01:25:26] que han obtenido su licencia técnica,
+[01:25:28] motivo por el cual están en condiciones
+[01:25:30] de prorrogar esos contratos de
+[01:25:32] concesión. Eh, quedan muy poquitas eh
+[01:25:35] que ya están en trámite, sobre todo les
+[01:25:38] e digamos la actividad que más cuesta
+[01:25:41] que logren o que obtengan es eh la
+[01:25:44] actualización del GIS. Eh, esa es una de
+[01:25:47] las cuestiones este que más cuesta que
+[01:25:49] las cooperativas más pequeñas puedan
+[01:25:51] lograr y que se requiere para poder
+[01:25:53] otorgar luego la licencia, además de
+[01:25:55] alguna documentación que por ahí falta.
+[01:25:57] Pero bueno, estamos en ese proceso y
+[01:26:00] como les digo, la gran mayoría 183 de
+[01:26:04] 200 estamos casi próximos a a lograrlo.
+[01:26:11] [carraspeo]
+[01:26:15] ¿Qué establece el marco regulatorio
+[01:26:18] respecto de los concesionarios
+[01:26:19] municipales?
+[01:26:21] en cuanto a qué normativas eh del mismo
+[01:26:25] le aplican en una cuestión o bajo el
+[01:26:28] criterio de la uniformidad normativa
+[01:26:31] regulatoria y de control les aplica el
+[01:26:33] marco regulatorio en su completitud.
+[01:26:37] Digamos e
+[01:26:40] todo lo que establece el marco
+[01:26:41] regulatorio para un concesionario
+[01:26:43] provincial es replicado para un
+[01:26:45] concesionario municipal.
+[01:26:47] Es decir, que todas las obligaciones,
+[01:26:49] derechos que le rigen o le aplican a un
+[01:26:52] concesionario provincial le rigen y le
+[01:26:54] aplican a un concesionario municipal.
+[01:26:58] Sí, tenemos ahí esta diferencia del
+[01:27:01] régimen de calidad este óptimo o el
+[01:27:05] régimen de calidad diferencial, donde
+[01:27:07] que por el tamaño, por la dimensión, por
+[01:27:10] la ruralidad que tienen algunas
+[01:27:11] cooperativas tienen algunas licencias
+[01:27:14] que vamos a ver en la clase siguiente
+[01:27:17] que tienen como una especie de régimen
+[01:27:19] de calidad diferencial, como el mismo
+[01:27:21] nombre lo indica, que tiene algunas
+[01:27:23] consideraciones especiales por esa
+[01:27:25] condición de cooperativas más pequeñas.
+[01:27:28] Pero en definitiva, el marco regulatorio
+[01:27:30] y todas las normativas le aplican del
+[01:27:32] mismo modo a ambas a ambos tipos de
+[01:27:35] concesionarios provinciales o
+[01:27:36] municipales.
+[01:27:40] Obviamente
+[01:27:42] las partes son diferentes porque en una
+[01:27:45] concesión municipal la parte es el
+[01:27:47] municipio concedente
+[01:27:49] y la cooperativa, pero no obstante eso
+[01:27:52] como parte delega la potestad de
+[01:27:54] regulación y de control en la provincia
+[01:27:56] de Buenos Aires, que se cumple del mismo
+[01:27:58] modo que para un concesionario
+[01:28:00] provincial, donde la parte de ese
+[01:28:01] contrato es la provincia de Buenos Aires
+[01:28:04] y la contraparte la empresa
+[01:28:06] concesionaria.
+[01:28:08] Em,
+[01:28:13] acá un poquito lo que ya les les había
+[01:28:15] comentado antes, este requerimiento
+[01:28:17] previo de la licencia técnica.
+[01:28:20] Eh, respecto de los de los
+[01:28:23] concesionarios municipales,
+[01:28:25] como venimos comentándoles y es el caso
+[01:28:28] de la cooperativa de Puntaalta, que está
+[01:28:30] próxima a cumplir 100 años.
+[01:28:33] Eh, las cooperativas en la provincia de
+[01:28:35] Buenos Aires son preexistentes
+[01:28:37] a toda esta normativa que venimos
+[01:28:39] viendo. Fíjense que la ley 336, que es
+[01:28:42] el primer marco normativo nacional eh en
+[01:28:45] materia de energía eléctrica, es del año
+[01:28:48] 60 y estamos diciendo que la cooperativa
+[01:28:50] de Punta Alta tiene 100 años. Eh,
+[01:28:53] entonces las cooperativas salieron a
+[01:28:55] cubrir una necesidad este pública,
+[01:28:58] propia, individual en cada uno de los
+[01:29:00] lugares donde se fueron constituyendo.
+[01:29:03] Eh, en ese caso, cada cooperativa tenía
+[01:29:06] hasta una fuente de generación de
+[01:29:08] energía que era la que distribuían este
+[01:29:11] individualmente sin estar en un sistema
+[01:29:13] interconectado.
+[01:29:16] Motivo por el cual se exigió al momento
+[01:29:19] del dictado del marco regulatorio de la
+[01:29:20] ley 11769 que las cooperativas debían
+[01:29:24] adaptar su prestación a este marco
+[01:29:26] normativo y por ende a un modelo de
+[01:29:29] contrato. Modelo de contrato que se
+[01:29:32] aprobó por el anexo 1 del decreto 1208
+[01:29:35] del 97. El decreto 1208 del 97 fue el
+[01:29:39] decreto reglamentario originario de la
+[01:29:43] ley 11769.
+[01:29:45] Eh, entonces todas las distribuidoras
+[01:29:48] municipales debieron adaptar y los
+[01:29:50] municipios obviamente debieron adaptar
+[01:29:52] ese contrato de concesión o ese permiso
+[01:29:55] que tenían originariamente
+[01:29:57] e la prestación a esta normativa. Lo
+[01:30:00] hicieron a través de ese modelo de
+[01:30:01] contrato y obviamente con la licencia
+[01:30:04] técnica que obtuvieron en el año 97 y
+[01:30:06] que en aquella en aquel momento se los
+[01:30:09] otorgaba este el Epre, que muchos de
+[01:30:12] ustedes lo habrán escuchado nombrar.
+[01:30:16] El EPRE cumplía las funciones este
+[01:30:18] regulatorias originariamente era un ente
+[01:30:21] autárquico hasta que este pasaron a el
+[01:30:24] EPRE se disuelve y quedan en cabeza de
+[01:30:27] la Dirección Provincial de Energía. La
+[01:30:29] Dirección Provincial de Energía pasó a
+[01:30:31] ser una dirección dentro de esta
+[01:30:33] subsecretaría de energía, dentro del
+[01:30:35] Ministerio de Infraestructura. Sí.
+[01:30:37] eh y quien originariamente hasta que
+[01:30:39] aparece la Dirección Provincial de
+[01:30:40] Regulación dentro, digamos de del de la
+[01:30:43] estructura o la conformación actual, era
+[01:30:45] quien tenía estas facultades este de
+[01:30:48] regulación hasta que aparece la la
+[01:30:50] Dirección Provincial de Regulación.
+[01:30:52] Em, entonces adecúan los contratos. Esa
+[01:30:56] adecuación de contratos al marco
+[01:30:58] normativo provincial genera esta
+[01:31:01] uniformidad de derechos e obligaciones
+[01:31:03] en la prestación del servicio,
+[01:31:05] precisamente para todos los
+[01:31:06] distribuidores provinciales,
+[01:31:09] municipales, todos tienen la misma
+[01:31:11] uniformidad de derechos y obligaciones
+[01:31:13] en pos de precisamente de proteger al
+[01:31:15] usuario porque el usuario no importa si
+[01:31:18] es usuario de una distribuidora
+[01:31:19] municipal o de una distribuidora
+[01:31:21] provincial. debe gozar eh de los mismos
+[01:31:24] derechos que cualquier otro,
+[01:31:26] independientemente donde esté ubicado
+[01:31:27] dentro de la provincia de Buenos Aires.
+[01:31:35] En cuanto a las cuestiones particulares
+[01:31:39] sobre los concesionarios municipales,
+[01:31:43] el marco regulatorio establece que
+[01:31:47] pueden ser unificados servicios
+[01:31:49] prestados por más por dos o más
+[01:31:51] distribuidores este municipales. En este
+[01:31:54] caso siempre es a requerimiento de las
+[01:31:56] municipalidades,
+[01:31:58] de los poderes concedentes de esos de
+[01:32:01] esos prestadores y el poder ejecutivo
+[01:32:03] provincial podría a requerimiento de de
+[01:32:07] la autoridad de aplicación, es decir,
+[01:32:08] del Ministerio de Infraestructura, más
+[01:32:10] que requerimiento a recomendación de la
+[01:32:12] autoridad de aplicación, podría
+[01:32:14] autorizar la unificación de dos o más
+[01:32:16] servicios municipales
+[01:32:19] e que operen con concesiones
+[01:32:23] diferentes. Sí.
+[01:32:25] Eh, en este caso también puede unificar
+[01:32:29] esa prestación del servicio y dársela o
+[01:32:31] otorgársela a otro concesionario
+[01:32:34] municipal o a un concesionario
+[01:32:36] provincial. Digamos, esto estaba
+[01:32:37] previsto en el marco regulatorio ante
+[01:32:39] alguna situación donde el concesionario
+[01:32:42] municipal no pudiera continuar prestando
+[01:32:44] el servicio. Obviamente el marco
+[01:32:46] regulatorio en el artículo 20, lo
+[01:32:48] venimos este repitiendo en varias este
+[01:32:51] oportunidades, protege especialmente a
+[01:32:54] las cooperativas
+[01:32:56] eh por el fin social que que las rige,
+[01:33:00] eh por precisamente por esta historia eh
+[01:33:03] que traen este por esta preexistencia al
+[01:33:07] marco regulatorio, por esta
+[01:33:08] preexistencia a las concesiones
+[01:33:10] provinciales.
+[01:33:12] Fíjense que el único momento en donde
+[01:33:15] cede este principio de la exclusividad
+[01:33:18] del área de concesión que tienen las
+[01:33:20] distribuidoras provinciales es
+[01:33:22] precisamente este colador vendría a ser
+[01:33:26] donde están todas estas este
+[01:33:28] distribuidoras municipales. Sí. Eh, no
+[01:33:32] así lo estableció el marco regulatorio
+[01:33:35] nacional. Cuando el marco regulatorio
+[01:33:38] nacional este SEGBA, se privatiza y se
+[01:33:42] crean las tres sociedades Edenor, de Sur
+[01:33:44] y Edelap, en ningún momento, digamos
+[01:33:47] este se consideró la posibilidad de eh
+[01:33:52] que las cooperativas en esas tres áreas
+[01:33:55] eh permanecieran o continuaran en su
+[01:33:57] preexistencia.
+[01:33:59] de modo tal y como también ya les hemos
+[01:34:02] comentado, el caso de Escobar Norte, el
+[01:34:05] caso el caso de las ceras o mismo las
+[01:34:08] cooperativas en el área de Delap, eh los
+[01:34:12] distribuidores nacionales eh comenzaron
+[01:34:15] a digamos a querer adoptar esos
+[01:34:19] servicios, a sumarlos a su prestación y
+[01:34:21] a convertirlos en EDOR e de Sur, eh
+[01:34:25] porque así estaba previsto en el pliego,
+[01:34:27] digamos, motivo por el cual hasta
+[01:34:29] acciones judiciales se han iniciado, han
+[01:34:32] llegado a la corte
+[01:34:34] y en el caso de Escobar Norte, como les
+[01:34:36] decíamos la otra vez, no hubo
+[01:34:38] posibilidad de que e
+[01:34:41] el municipio de Escobar le otorgara la
+[01:34:45] concesión a la cooperativa Escobar
+[01:34:46] Norte, motivo por el cual Escobar Norte
+[01:34:49] tiene una concesión provincial que fue
+[01:34:50] aprobada por el decreto 2828 del año
+[01:34:52] 2005.
+[01:34:54] Eh,
+[01:34:56] y en el caso de las ceras eh, fue un
+[01:34:59] contrato de concesión, si bien adopta el
+[01:35:02] modelo eh aprobado por el decreto 1208,
+[01:35:07] no en su totalidad tiene modificaciones
+[01:35:10] o cambios, entonces es un contrato este
+[01:35:13] su generis. Eh, sí están bajo la órbita
+[01:35:17] de la provincia de Buenos Aires, sí
+[01:35:18] deben aplicar toda la normativa que
+[01:35:21] dicta la autoridad de aplicación, como
+[01:35:23] por ejemplo los cuadros tarifarios.
+[01:35:25] Eh,
+[01:35:27] si también perciben el Fondo Compensador
+[01:35:30] Tarifario, el Fondo Provincial de
+[01:35:32] Compensaciones Tarifarias, lo ingresan a
+[01:35:34] OSEBA, OSEVA también les distribuye ese
+[01:35:39] fondo compensador, motivo por el cual se
+[01:35:41] sujetan a todas estas normativas, pero
+[01:35:43] digamos esa especial consideración que
+[01:35:45] tuvo el marco regulatorio provincial no
+[01:35:47] fue así considerado en el marco
+[01:35:49] regulatorio nacional.
+[01:35:53] También el marco regulatorio establece
+[01:35:56] que ante la finalización de cualquier
+[01:35:58] concesión municipal, eh el municipio
+[01:36:01] como concedente debe asegurar la
+[01:36:04] prestación del servicio público, motivo
+[01:36:06] por el cual está obligado a llevar
+[01:36:08] adelante los procedimientos de selección
+[01:36:11] de un este prestador para para el
+[01:36:15] satisfacer esa distribución del servicio
+[01:36:18] público.
+[01:36:20] En ese caso,
+[01:36:23] los digamos los municipios están
+[01:36:26] obligados a llamar a concurso público en
+[01:36:28] el marco de la ley de
+[01:36:32] eh
+[01:36:35] bueno, ahí fue en el marco del del marco
+[01:36:39] regulatorio y la ley este de los
+[01:36:40] municipios. Ahí va de la ley de los
+[01:36:42] municipios, la ley orgánica de los
+[01:36:44] municipios. se va eh en digamos
+[01:36:47] conjugando los dos marcos, el municipio
+[01:36:49] debería llamar a un concurs. Obviamente
+[01:36:52] los contratos si adoptaron el modelo,
+[01:36:55] que ya les digo, la mayoría de los
+[01:36:56] municipios ya lo hizo en el año 97 98,
+[01:36:59] tienen un contrato de concesión por 25
+[01:37:01] años con dos prórrogas de 30. E con lo
+[01:37:05] cual, digamos, hasta que no finalicen en
+[01:37:07] esos en esa cantidad de años, no va a
+[01:37:09] ser necesario este concurso a cargo de
+[01:37:12] los municipios.
+[01:37:16] En cuanto a la prestación de los
+[01:37:18] servicios, también establecen este
+[01:37:22] obligaciones a cargo de los
+[01:37:23] concesionarios. Como venimos diciendo,
+[01:37:25] la principal obligación es satisfacer
+[01:37:28] toda la demanda. El requerimiento que
+[01:37:30] hagan todos los usuarios este dentro del
+[01:37:33] área de concesión debe ser satisfecha
+[01:37:35] por el concesionario, sea provincial o
+[01:37:37] sea municipal. Digamos, acá no hay
+[01:37:39] distinción eh en cuanto a los
+[01:37:41] concesionarios, como les decía, le
+[01:37:43] aplican los mismos derechos y las mismas
+[01:37:45] obligaciones para ambos. E los
+[01:37:48] concesionarios son los únicos
+[01:37:50] responsables de atender el incremento de
+[01:37:51] la demanda, para lo cual deben
+[01:37:53] asegurarse el aprovisionamiento
+[01:37:55] arbitrando todos los mecanismos que que
+[01:37:59] requieran para poder satisfacer esa
+[01:38:01] demanda que les sea requerida. tienen la
+[01:38:03] obligación de permitir un acceso
+[01:38:05] indiscriminado de terceros a su
+[01:38:06] capacidad remanente eh dentro de sus
+[01:38:09] sistemas. Eh, están obligados a evitar
+[01:38:14] otorgar ventajas o preferencias en el
+[01:38:16] acceso de los terceros. Es decir, si hay
+[01:38:19] un usuario que consume más que otro,
+[01:38:21] darle acceso a ese en detrimento de
+[01:38:24] otro. Eh, evidentemente el marco
+[01:38:28] regulatorio protege esa situación y
+[01:38:30] digamos este la sanciona de modo tal que
+[01:38:33] podrían aplicarse sanciones por parte
+[01:38:35] del organismo de control. eh cuando y en
+[01:38:40] ese caso el OSE va eh va a intervenir
+[01:38:42] cuando precisamente eh se den esa
+[01:38:45] situaciones. También va a intervenir el
+[01:38:47] el OCEVA cuando no existe acuerdo sobre
+[01:38:49] las condiciones eh de ese servicio
+[01:38:51] requerido y haya discrepancias entre un
+[01:38:54] agente de la actividad eléctrica, un
+[01:38:56] distribuidor y algún usuario que está
+[01:38:58] requiriendo el acceso. También tienen la
+[01:39:01] obligación de operar y mantener las
+[01:39:02] instalaciones. Eh, recuerden que todos
+[01:39:06] los bienes que se utilizan para prestar
+[01:39:08] el servicio público constituyen una
+[01:39:10] unidad de afectación al servicio
+[01:39:12] público. Esa unidad de afectación tiene
+[01:39:15] que reunir determinadas características
+[01:39:16] que deben ser operadas y mantenidas, de
+[01:39:19] modo tal de poder asegurar una
+[01:39:21] prestación del servicio adecuado a los
+[01:39:24] usuarios. Este servicio tiene que
+[01:39:27] cumplir determinadas metas o niveles de
+[01:39:29] calidad. lo vamos a ver con el el
+[01:39:32] suanexo de al contrato
+[01:39:36] y tiene que ser operado de modo tal de
+[01:39:38] que sea confiable y que brinde seguridad
+[01:39:41] este tanto a las instalaciones como eh a
+[01:39:44] los bienes de los usuarios. E todo esto
+[01:39:48] se fija obviamente en los contratos y en
+[01:39:50] los subanexos, que es lo que vamos a ir
+[01:39:52] viendo en la clase que viene. E vamos a
+[01:39:57] pasar a la otra.
+[01:40:00] En cuanto a esta unidad de afectación,
+[01:40:03] como les decía, eh están obligados a
+[01:40:08] utilizar estos bienes, no pueden este
+[01:40:12] abandonar las instalaciones que están
+[01:40:14] afectadas al servicio público, no pueden
+[01:40:17] dejar de prestar el servicio público.
+[01:40:20] En cuanto
+[01:40:22] a estas instalaciones, en el caso que se
+[01:40:25] consideren que no satisfacen ya las
+[01:40:29] necesidades para las cuales fueron
+[01:40:31] construidas,
+[01:40:32] eh, o pueden ser desafectadas de esa
+[01:40:35] prestación, pueden ser enajenadas hasta
+[01:40:38] ese momento, mientras constituyan esta
+[01:40:39] unidad de afectación y estén afectadas
+[01:40:41] al servicio público, no pueden ser
+[01:40:43] enajenadas, no pueden ser embargadas,
+[01:40:46] este no pueden eh como les decía, ser
+[01:40:50] enajenadas, salvo que fueran
+[01:40:52] desafectadas de la prestación del
+[01:40:53] servicio público. Esta desafectación
+[01:40:56] requiere que no sea momentáneo. Sí, en
+[01:40:59] caso que no vaya a ser utilizado,
+[01:41:01] digamos, por delante, eh, sí se puede
+[01:41:04] desafectar. Lo único que requiere, y así
+[01:41:06] lo establece el marco normativo, es que
+[01:41:09] una el OCEVA dicte una autorización de
+[01:41:13] desafectación de determinado bien para
+[01:41:15] su posterior enajenación.
+[01:41:18] Eh, esto implica, digamos, en esta
+[01:41:20] seguridad de que la unidad de afectación
+[01:41:22] va a satisfacer la prestación del
+[01:41:23] servicio público, para lo cual este se
+[01:41:26] le ha otorgado la concesión.
+[01:41:28] Otras de las este obligaciones que que
+[01:41:31] tienen los concesionarios,
+[01:41:34] que acá más que obligación, el marco
+[01:41:35] regulatorio lo habla, digamos, lo
+[01:41:38] menciona como una obligación, sería un
+[01:41:39] derecho que es el corte del servicio
+[01:41:42] ante la falta de pago.
+[01:41:45] La falta de pago por parte de un usuario
+[01:41:47] o gran usuario habilita al distribuidor
+[01:41:50] a la interrupción o desconexión
+[01:41:52] del suministro, pero esa facultad o esa
+[01:41:56] habilitación no este lo exime de la
+[01:42:00] obligatoriedad de la prestación del
+[01:42:01] servicio y el mantenimiento de los
+[01:42:03] servicios esenciales.
+[01:42:05] Otra de las este condiciones que
+[01:42:07] establece el marco regulatorio
+[01:42:10] es la posibilidad de ejecutar la deuda
+[01:42:13] que mantengan los usuarios, los grandes
+[01:42:15] usuarios o este los agentes aguas abajo
+[01:42:19] por eh la compra de la energía.
+[01:42:23] eh es a ejecutar esa deuda por la vía de
+[01:42:26] el procedimiento ejecutivo, por la vía
+[01:42:29] de premio. Ahora bien, el marco
+[01:42:32] regulatorio establece que ese título de
+[01:42:34] deuda eh es la constancia que se
+[01:42:36] requiere para poder ejecutarlo y eh hay
+[01:42:39] un procedimiento establecido por OSEVA
+[01:42:42] donde eh hay que determinar la deuda y
+[01:42:44] esa deuda es conformada por el Oceva y
+[01:42:48] eso va es lo que se convierte en el
+[01:42:50] título ejecutivo para darle inicio al
+[01:42:52] procedimiento de apremio.
+[01:42:56] Otra de las este garantías que establece
+[01:42:59] el marco regulatorio es el otorgamiento
+[01:43:02] de los derechos de servidumbre de
+[01:43:04] electroducto y restricciones al dominio.
+[01:43:07] Esto habilita a los distribuidores a
+[01:43:10] poder utilizar el espacio público para
+[01:43:13] eh la instalación de postes, de redes,
+[01:43:17] de estaciones transformadoras, de todo
+[01:43:19] tipo de instalación eléctrica que
+[01:43:21] resulta necesaria para la prestación del
+[01:43:23] servicio público.
+[01:43:26] En cuanto a las restricciones, las
+[01:43:27] restricciones son genéricas,
+[01:43:31] afectan a todos los propietarios como
+[01:43:33] digamos de una misma categoría. son
+[01:43:36] restricciones al dominio que no eh
+[01:43:39] implican una indemnización por parte eh
+[01:43:43] del distribuidor. En el cambio, en
+[01:43:46] cambio, en el caso de las servidumbres,
+[01:43:49] las servidumbres si si bien no generan
+[01:43:52] este una eliminación del derecho real
+[01:43:55] respecto del dueño del fondo si eh
+[01:43:58] requiere de una una indemnización y de
+[01:44:02] determinadas limitaciones al titular del
+[01:44:04] fundo. por ejemplo, no puede hacer
+[01:44:06] construcciones, no puede adterar este
+[01:44:11] la red, no puede tiene la obligación de
+[01:44:15] podar, no puede poner plantas cerca de
+[01:44:19] donde está la instalación eléctrica. Eh,
+[01:44:22] puede seguir haciendo uso de su es
+[01:44:24] titular, sigue siendo titular, pero
+[01:44:26] limita el uso y goce que ese propietario
+[01:44:29] del fondo tiene respecto este de la
+[01:44:32] instalación eléctrica.
+[01:44:34] La principal este
+[01:44:37] diferencia es que en la restricción no
+[01:44:39] implica una indemnización económica,
+[01:44:40] mientras que en la servidumbre de
+[01:44:42] electroducto sí se da la misma.
+[01:44:47] Eh,
+[01:44:51] bueno, eh, otra de las e obligaciones
+[01:44:57] que se establecen respecto tanto de los
+[01:45:00] concesionarios provinciales como
+[01:45:01] municipales
+[01:45:03] y que esta es una modificación
+[01:45:05] precisamente introducida marco
+[01:45:07] regulatorio
+[01:45:09] en el año 2004 por la ley 13173
+[01:45:14] y que pasó a en el texto ordenado del
+[01:45:17] marco regulatorio por el decreto 1868
+[01:45:20] del año 2004 es el control exante y y
+[01:45:24] expost.
+[01:45:26] Eh, el marco originario era un régimen
+[01:45:30] de control indirecto donde eh la calidad
+[01:45:35] del servicio se revisaba, digamos, o la
+[01:45:38] prestación del servicio público se
+[01:45:39] revisaba a través del control de la
+[01:45:42] calidad del servicio. En un control,
+[01:45:44] digamos, semestral. Al fin del semestre
+[01:45:47] veíamos cómo estaba el servicio y se
+[01:45:49] aplicaban penalizaciones por esa
+[01:45:50] deficiencia de calidad de producto o
+[01:45:53] calidad de servicio o calidad comercial.
+[01:45:56] Este, mientras que en el 2004, como les
+[01:45:59] digo, aparece esta introducción en el
+[01:46:02] marco regulatorio de una norma de
+[01:46:05] carácter preventivo que viene a instalar
+[01:46:08] un control exante con la necesidad,
+[01:46:11] digamos, de evitar futuros
+[01:46:14] incumplimientos o desvíos. en la
+[01:46:16] prestación del servicio público. Esto
+[01:46:19] tiene su origen, eh, y acá lo vamos a
+[01:46:23] hacer la simetría con la prestación del
+[01:46:25] servicio de agua y desagües cloacales.
+[01:46:29] Eh, en el año 2002 se resinde el la
+[01:46:35] privatización, digamos, de del
+[01:46:38] servicio de agua que estaba a cargo de
+[01:46:39] Azurix. Se rescinde ese contrato de
+[01:46:41] concesión, se crea APSA y en ese momento
+[01:46:45] eh se autoriza legislativamente adaptar
+[01:46:49] el marco regulatorio de agua y es ahí
+[01:46:51] donde aparece el Estado que puede
+[01:46:54] prestar el servicio público. Recuerden
+[01:46:56] que esto era solamente el privado.
+[01:46:59] Se resciende el contrato de agua y el
+[01:47:01] estado no podía salir a cubrir esa
+[01:47:02] necesidad y había que salir a prestarlo.
+[01:47:05] Entonces, el la modificación del marco
+[01:47:08] regulatorio de agua donde se introduce
+[01:47:09] nuevamente la titularidad a cargo del
+[01:47:12] Estado, que también modifica esto en el
+[01:47:14] marco regulatorio provincial de energía
+[01:47:16] eléctrica, aparece para los dos y esta
+[01:47:19] este anticipación o este control exante
+[01:47:22] también aparece para el marco
+[01:47:24] regulatorio de energía eléctrica, pero
+[01:47:26] digamos el origen o digamos fue pensado
+[01:47:30] más por esta situación que se da en el
+[01:47:32] servicio de agua y desagües eh que
+[01:47:35] específicamente en el marco normativo de
+[01:47:37] energía eléctrica o en la situación de
+[01:47:39] la prestación del servicio público de
+[01:47:41] energía eléctrica. Recuerden que ahí
+[01:47:43] habamos salido en la convertibilidad en
+[01:47:44] el año 2001, este las condiciones de
+[01:47:47] prestación, este
+[01:47:50] la emergencia y eh allí es donde aparece
+[01:47:54] esta norma precisamente de anticipar los
+[01:47:57] desvíos.
+[01:47:59] Eh, bajo esta consideración aparece eh o
+[01:48:02] se introduce en el marco regulatorio la
+[01:48:05] obligación de llevar una contabilidad
+[01:48:06] regulatoria.
+[01:48:08] Eh, fíjense que esto es 2004 y recién en
+[01:48:11] el 2022 aparece la normativa donde se
+[01:48:14] aprueba eh
+[01:48:16] el contenido de la contabilidad
+[01:48:18] regulatoria, este la los tipos de
+[01:48:21] presentaciones, las este las etapas.
+[01:48:26] También se comenzó con los
+[01:48:27] concesionarios provinciales, después se
+[01:48:29] fueron introduciendo los concesionarios
+[01:48:31] municipales, los concesionarios
+[01:48:33] municipales también en este bloque, los
+[01:48:35] que estaban en régimen, los que no están
+[01:48:36] en régimen, eh como para poder ver eh a
+[01:48:40] través de la contabilidad regulatoria
+[01:48:41] determinados indicadores que permitan
+[01:48:44] anticipar desviaciones en la prestación
+[01:48:45] del servicio, no solamente técnico, sino
+[01:48:48] también económico financiero. Ahí
+[01:48:50] aparecen estas este condiciones de
+[01:48:52] carácter económico financiero como el
+[01:48:54] nivel de endeudamiento, el
+[01:48:55] apalancamiento, la relación de deuda y
+[01:48:57] venta. Esto está más direccionado a los
+[01:49:01] distribuidores este provinciales eh
+[01:49:04] donde tienen la obligación de subir
+[01:49:07] trimestralmente eh los balances de sumas
+[01:49:09] y saldos y de ese modo poder anticipar
+[01:49:12] desviaciones también desde el punto de
+[01:49:14] vista económico. Entonces, eh también
+[01:49:17] hacer el seguimiento de las inversiones,
+[01:49:18] que fue otra de las condiciones este
+[01:49:21] establecidas que por el decreto 393
+[01:49:24] del 2024 es una de las competencias que
+[01:49:27] está atribuida a la Dirección Provincial
+[01:49:30] de Energía eh para hacer el seguimiento
+[01:49:33] de las inversiones que cada uno de los
+[01:49:36] distribuidores seleccione
+[01:49:38] para cumplir los niveles de calidad
+[01:49:40] establecidos en el subanexo D contrato
+[01:49:42] de concesión. Sí.
+[01:49:46] Bueno, ¿alguna pregunta, algún
+[01:49:47] comentario, chicos? No nos dejen hacer
+[01:49:48] esto como un monólogo, por favor.
+[01:49:52] O están todos dormidos y noqueados, no
+[01:49:54] sé.
+[01:49:56] Los estamos agotando.
+[01:49:59] Bueno, espero que no, porque todavía el
+[01:50:01] año es largo.
+[01:50:03] Este, no llegamos, estamos en el tercio
+[01:50:05] recién
+[01:50:07] y seguimos.
+[01:50:09] Bueno,
+[01:50:10] eh estas esta filmina es un poquito
+[01:50:13] repetición. está, digamos, la secuencia
+[01:50:16] del del PPT eh sigue un poco la lógica
+[01:50:19] del marco regulatorio, así que por ahí
+[01:50:20] en algunas cuestiones se repiten. E el
+[01:50:24] marco regulatorio establece la gestión
+[01:50:25] privada en la prestación de los
+[01:50:26] servicios públicos, obviamente
+[01:50:29] efectuados por personas este jurídicas
+[01:50:33] e
+[01:50:35] sí o sí a las que el poder ejecutivo les
+[01:50:37] haya dado la concesión para obtener esa
+[01:50:39] concesión previo a la licencia técnica.
+[01:50:41] Así que no voy a andar ahí porque ya lo
+[01:50:43] repetimos 50 veces. Em,
+[01:50:49] y obviamente, como dice el último
+[01:50:50] párrafo, en caso de extinción por
+[01:50:53] cualquier causa, este, el poder
+[01:50:55] ejecutivo a través de organismos entes o
+[01:50:58] personas jurídicas de derecho público o
+[01:51:00] privado puede prestar esos servicios
+[01:51:02] públicos, salir a cubrir la necesidad de
+[01:51:04] prestación del servicio público.
+[01:51:06] Recordemos que eh la titularidad del
+[01:51:09] servicio público siempre lo conserva el
+[01:51:10] Estado. ¿Se acuerda que lo comentábamos
+[01:51:12] la otra clase o hace un par de clases? e
+[01:51:15] es una delegación del poder público que
+[01:51:17] tiene el Estado en un privado. ¿Sí?
+[01:51:20] Entonces, el Estado ante cualquier este
+[01:51:23] extinción de cualquiera de estos
+[01:51:24] contratos, sea municipal o sea
+[01:51:26] provincial, depende de quién estemos
+[01:51:28] hablando, recupera esa delegación que
+[01:51:31] hizo en el privado y puede salir a
+[01:51:33] prestar de cualquiera de estas formas,
+[01:51:35] digamos, por sí, por terceros, a través
+[01:51:37] de una persona jurídica, un ente, un
+[01:51:39] organismo que constituya para poder
+[01:51:41] prestarlo.
+[01:51:45] Vamos ahora con el contenido mínimo que
+[01:51:48] deben tener los contratos de concesión.
+[01:51:50] La próxima clase vamos a entrar en cada
+[01:51:52] uno de los contratos y cada una de estas
+[01:51:53] condiciones que establece el artículo 53
+[01:51:56] del marco regulatorio lo vamos a ver
+[01:51:57] plasmado en cada uno de los contratos.
+[01:52:00] Eh, los contratos son similares, voy a
+[01:52:03] espolearlo. [risas] Bueno, este, con
+[01:52:06] alguna mínima diferencia, pero bueno,
+[01:52:08] estas son las condiciones que vamos a
+[01:52:10] ver la próxima clase en cada contrato.
+[01:52:12] Obviamente, como cada como todo contrato
+[01:52:14] tiene que establecer condiciones
+[01:52:16] generales y especiales, las obligaciones
+[01:52:18] y los derechos de cada una de las
+[01:52:19] partes, el plazo de duración de cada una
+[01:52:23] de las concesiones, las condiciones de
+[01:52:25] uso de ocupación de los bienes del
+[01:52:27] Estado, ya sea provincial o municipal.
+[01:52:31] Eh, el ámbito territorial es
+[01:52:33] fundamental, la determinación del ámbito
+[01:52:35] de concesión, del área de concesión, eh
+[01:52:39] precisando los límites físicos donde
+[01:52:41] cada uno de los distribuidores tienen la
+[01:52:43] obligación de prestar el servicio
+[01:52:45] público que se les concede. También eh
+[01:52:49] el contrato según el marco regulatorio
+[01:52:51] tiene que contener las inversiones
+[01:52:53] obligatorias que cada distribuidor tiene
+[01:52:55] que hacer en materia de infraestructura,
+[01:52:57] de instalaciones.
+[01:52:59] Obviamente, como es un contrato a tan
+[01:53:01] largo plazo, las inversiones luego se
+[01:53:03] ven plasmadas más dentro de la revisión
+[01:53:06] tarifaria integral de las obligaciones
+[01:53:07] de inversión que cada uno de estos este
+[01:53:10] de estas revisiones establecen en cuanto
+[01:53:12] a mont de inversión.
+[01:53:17] Otra de las condiciones que deben reunir
+[01:53:19] los contratos eh son las condiciones
+[01:53:21] técnicas y económicas eh tanto de las
+[01:53:25] ampliaciones o de las extensiones de las
+[01:53:28] redes, el régimen de calidad del
+[01:53:30] servicio y de la confiabilidad del
+[01:53:32] sistema, eh los procedimientos para la
+[01:53:36] tramitación de las quejas, de los
+[01:53:37] reclamos de los usuarios, las garantías
+[01:53:40] que deben dar los prestadores, este
+[01:53:43] tanto provinciales como municipales. Si
+[01:53:45] ahí tenemos una diferencia entre ambos
+[01:53:47] contratos, las condiciones en que al
+[01:53:50] vencimiento de cada uno de estos
+[01:53:52] contratos van a ser transferidos los
+[01:53:54] bienes al Estado Provincial o al Estado
+[01:53:56] Municipal o al nuevo concesionario.
+[01:53:59] Eh, no solamente al vencimiento del
+[01:54:01] contrato también, sino eh se establecen
+[01:54:04] las condiciones en caso de caducidad, de
+[01:54:06] revocación o de pérdida de la licencia
+[01:54:09] técnica. Las causales que establece cada
+[01:54:12] contrato de esa caducidad o revocación.
+[01:54:15] Eh, las causales tanto digamos de de
+[01:54:18] vencimiento del contrato.
+[01:54:21] Boca internet. ¿Se escucha? ¿Se ve?
+[01:54:25] Sí. Bueno,
+[01:54:27] sí se escucha
+[01:54:28] bien. Em,
+[01:54:31] está como lento.
+[01:54:33] Sí.
+[01:54:36] Bueno, las causales, como les decía, eh
+[01:54:39] de resisión del contrato, de caducidad
+[01:54:42] de la concesión, de revocación, de la
+[01:54:45] pérdida de la licencia técnica por
+[01:54:47] cualquiera de los concesionarios, sean
+[01:54:48] provinciales o municipales.
+[01:54:52] E por adelante.
+[01:54:58] Sí.
+[01:55:00] Eh, también eh establece el derecho a
+[01:55:04] constituir servidumbres eh para poder
+[01:55:08] prestar el servicio público. Los
+[01:55:10] contratos de concesión también tienen
+[01:55:12] este deben contener el régimen tarifario
+[01:55:15] que les resulta aplicable.
+[01:55:18] Eh, la adhesión, obviamente, al régimen
+[01:55:21] tarifario establecido en el marco
+[01:55:22] regulatorio. Recordemos que el marco
+[01:55:24] regulatorio tiene esta adhesión al
+[01:55:27] artículo 40 y 41 del marco regulatorio
+[01:55:30] nacional,
+[01:55:32] donde eh cada jurisdicción está obligada
+[01:55:36] a trasladar a cuadros tarifarios el
+[01:55:39] precio mayorista de la energía, de la
+[01:55:41] potencia, del transporte, el Fondo
+[01:55:44] Nacional de la Energía Eléctrica. Eh,
+[01:55:47] ahora apareció un concepto de los
+[01:55:48] servicios especiales donde cada uno de
+[01:55:51] los conceptos que hacen el precio de la
+[01:55:53] energía deben ser trasladados a los
+[01:55:55] cuadros tarifarios y son una de las
+[01:55:57] obligaciones que eh tiene eh la
+[01:56:00] provincia de trasladar,
+[01:56:03] independientemente, digamos, eso es como
+[01:56:05] una digamos un paquete cerrado que no
+[01:56:07] tenemos injerencia en la determinación y
+[01:56:09] así como lo aprueban, como lo determinan
+[01:56:12] como con las bonificaciones
+[01:56:15] este o la segment
+[01:56:16] N1, N2, N3 o luego de eso determinado el
+[01:56:20] que tiene subsidios este energéticos
+[01:56:23] focalizados o el que no lo tiene. Sí,
+[01:56:25] todas esas determinaciones que tiene el
+[01:56:27] Estado Nacional en el la potestad eh de
+[01:56:31] la determinación de esos precios de la
+[01:56:32] energía, la provincia de Buenos Aires
+[01:56:34] tiene la obligación de trasladarlo a
+[01:56:35] cuadro y dentro, digamos, de este
+[01:56:38] régimen tarifario que tiene que estar
+[01:56:39] incluido en los contratos de concesión.
+[01:56:42] también este la adhesión al Fondo
+[01:56:46] Provincial de Compensaciones Tarifarios,
+[01:56:48] es decir, es un componente que la
+[01:56:50] autoridad de aplicación determina el
+[01:56:51] porcentaje que debe trasladarse y
+[01:56:53] recaudar todos los distribuidores de la
+[01:56:55] provincia de Buenos Aires, eh, bajo
+[01:56:58] jurisdicción, obviamente, de del marco
+[01:57:01] 11769, no de nor de sur, recaudar e
+[01:57:04] ingresar al OCEVA para que Oceva pueda
+[01:57:07] distribuir y cubrir las diferencias de
+[01:57:09] costos respecto de todos los
+[01:57:10] distribuidores municip municipales
+[01:57:11] conforme a las normativas este que
+[01:57:14] tenemos al respecto. Em también el marco
+[01:57:19] regulatorio establece la obligación que
+[01:57:21] tienen los distribuidores de poner a
+[01:57:23] conocimiento, este, dar a publicidad los
+[01:57:26] cuadros tarifarios.
+[01:57:28] No solamente eh la provincia una vez que
+[01:57:31] los aprueba la autoridad de aplicación,
+[01:57:33] se publican en el boletín oficial, se
+[01:57:35] cargan en la web del Ministerio de
+[01:57:37] Infraestructura, se cargan en la web de
+[01:57:39] los EVBA, sino que el distribuidor tiene
+[01:57:41] la obligación de ponerlos a disposición
+[01:57:43] del usuario en la oficina comercial y en
+[01:57:46] la página web.
+[01:57:49] También el marco regulatorio establece
+[01:57:51] que el contrato o los contratos de
+[01:57:53] concesión deben contener el régimen
+[01:57:55] sancionatorio por faltas o
+[01:57:58] incumplimientos cometidos por los
+[01:57:59] concesionarios respecto de las
+[01:58:01] obligaciones que emergen de la
+[01:58:02] concesión.
+[01:58:04] Eh, establece también el encuadre
+[01:58:07] convencional que debe tener el personal,
+[01:58:09] que se destine tanto a la prestación del
+[01:58:10] servicio como a las modificaciones de la
+[01:58:12] planta de personal ante el avance
+[01:58:14] tecnológico que se produzca. Eh,
+[01:58:17] recordemos que esto es una de las
+[01:58:19] condiciones que se revisan en eh las
+[01:58:22] licencias técnicas, es decir, la
+[01:58:24] dotación mínima de personal que debe
+[01:58:26] tener el prestador, el distribuidor para
+[01:58:28] poder prestar el servicio público que
+[01:58:30] conforma, digamos, la concesión.
+[01:58:34] Eh, y finalmente, el marco regulatorio
+[01:58:37] indica que deben incorporarse las
+[01:58:40] cláusulas que obliguen a extender o
+[01:58:42] ampliar las instalaciones cuando
+[01:58:44] resulten convenientes para la necesidad
+[01:58:46] de la prestación del servicio público,
+[01:58:48] obviamente con el reintegro de tarifas o
+[01:58:51] bajo la metodología que se establezca,
+[01:58:53] que lo vamos a ver luego en el suanexo
+[01:58:55] al contrato de concesión.
+[01:59:01] Bueno, ahora sigue Pato.
+[01:59:04] Hay preguntas, comentarios.
+[01:59:09] Creo que los estamos noqueando mal.
+[01:59:17] Eh,
+[01:59:20] es porque todo eso.
+[01:59:25] No sé
+[01:59:27] ahí.
+[01:59:31] No, no importa.
+[01:59:43] Ahí, ahí.
+[01:59:46] Bueno, leyendo
+[01:59:47] ahí. Sí.
+[01:59:54] Bueno, ahora continuamos con el marco
+[01:59:57] regulatorio, un poco como
+[02:00:00] Bueno,
+[02:00:01] decía Guillermina, hay temas que que
+[02:00:05] ya vinimos desarrollando.
+[02:00:06] No sé qué hice.
+[02:00:07] A ver, que toqué
+[02:00:11] acá.
+[02:00:19] Ah, está la presentación. Sí, pero
+[02:00:21] sí se ve bien.
+[02:00:23] Ahora no.
+[02:00:24] Lo que pasa no ahí. Ya no.
+[02:00:27] Tranqui.
+[02:00:29] Un recrédito,
+[02:00:31] un respiro, chicos.
+[02:00:36] Ahí está.
+[02:00:36] Ahí, ahí.
+[02:00:37] Pero quedó acá. No, pero acá
+[02:00:39] no
+[02:00:40] no no se ve. Esto es lo que se ve. Ahí,
+[02:00:43] ahí, ahí.
+[02:00:44] Pero que esto acá
+[02:00:46] corrido. Ahí está.
+[02:00:47] Ahí
+[02:00:49] ahí.
+[02:00:49] Ahí está. Quedó arriba. De casualidad
+[02:00:52] quedó arriba.
+[02:00:55] Bueno, eh
+[02:00:59] como recién veníamos viendo eh venimos
+[02:01:01] algunas cosas que se van repitiendo,
+[02:01:03] pero seguimos, digamos, cómo cómo está
+[02:01:05] redactado la ley, este
+[02:01:08] y bueno, todo porque todo tiene que ver
+[02:01:10] con todo, porque precisamente los
+[02:01:12] objetivos, entre los objetivos de de la
+[02:01:14] ley está la protección de de los
+[02:01:18] derechos de los usuarios. Entre las
+[02:01:20] obligaciones que tienen los EVA,
+[02:01:21] precisamente está la de proteger el
+[02:01:23] derecho de los usuarios y bueno, la
+[02:01:26] norma lo que establece es cuáles son
+[02:01:27] esos derechos mínimos que tienen que
+[02:01:29] tener los usuarios de servicio público
+[02:01:31] en la provincia de Buenos Aires. Vamos a
+[02:01:34] repetir un poquito lo que ya vinimos
+[02:01:35] diciendo, pero es el lo dice
+[02:01:38] específicamente el acceso a la
+[02:01:40] electricidad como un derecho inherente a
+[02:01:43] toda habitante de la provincia,
+[02:01:45] eh garantizándose un abastecimiento
+[02:01:47] mínimo y vital. En este sentido, este,
+[02:01:51] ese derecho que tiene todo habitante de
+[02:01:54] de ese derecho al acceso a la
+[02:01:57] electricidad, también ahí tenemos que
+[02:01:59] tener en cuenta que la provincia de
+[02:02:01] Buenos Aires establece un régimen de
+[02:02:03] tarifa social. teniendo en cuenta estas
+[02:02:05] cuestiones, también eh hay regímenes
+[02:02:09] especiales. Por un lado, como recién
+[02:02:13] comentaba Guillermina, tenemos un
+[02:02:14] reconocimiento que está en nuestra
+[02:02:17] tarifa de el reconocimiento de subsidios
+[02:02:20] que da el Estado nacional a la energía,
+[02:02:24] eh que en un momento fue la segmentación
+[02:02:26] y que ahora a través del decreto 943 del
+[02:02:30] año 2025 es los subsidios energéticos eh
+[02:02:34] focalizados, que establece una un
+[02:02:37] reconocimiento respecto de la energía de
+[02:02:41] un consumo base y
+[02:02:45] un porcentaje de bonificación que va a
+[02:02:48] variar de acuerdo a la estacionalidad y
+[02:02:51] que eh ese tenemos el con relación a
+[02:02:56] establece ciertos requisitos para
+[02:02:57] acceder. Y en en este tema de subsidios
+[02:03:01] también hay que tener en cuenta que los
+[02:03:02] usuarios deben inscribirse a nivel
+[02:03:05] nacional para obtener el régimen de
+[02:03:08] subsidios vigentes y que eh respecto de
+[02:03:11] las bonificaciones se establece en un
+[02:03:14] 50% del consumo base, que ya digo que
+[02:03:17] varía de acuerdo a los a los meses del
+[02:03:20] año y que tiene una bonificación
+[02:03:22] extraordinaria que también mes a mes eh
+[02:03:25] va variando y todo eso es reconocido en
+[02:03:27] en la tarea tarifo trasladado con el
+[02:03:29] precio de la energía y por lo cual
+[02:03:31] tenemos eh tarifas con y tarifas sin
+[02:03:35] subsidio. A su vez, a nivel nacional
+[02:03:38] tenemos eh eh también reconocido eh los
+[02:03:42] electrodependientes por cuestiones de
+[02:03:44] salud, que el Ministerio de Salud eh eh
+[02:03:48] lleva todo el registro de quiénes se
+[02:03:50] anotan y se inscriben y a quién se les
+[02:03:52] reconoce, digamos, la gratuidad en esa
+[02:03:55] tarifa.
+[02:03:57] Eh, y a nivel provincial, la tarifa
+[02:04:00] social, que a diferencia del subsidio a
+[02:04:03] nivel nacional es automática. esa tarifa
+[02:04:05] social está el régimen de tarifa social,
+[02:04:08] si bien pasó a la provincia en el año
+[02:04:11] 2019, eh está establecido un el régimen
+[02:04:16] en la resolución 771
+[02:04:19] del 2024
+[02:04:21] y eh ya digo, es automática, pero si hay
+[02:04:24] ciertos requisitos para acceder, si esos
+[02:04:27] requisitos, digamos eh si quedan
+[02:04:30] excluidos, alguna persona considera que
+[02:04:32] debe ser reconocida, también puede venir
+[02:04:35] a OCEVA a solicitar esa inclusión, se
+[02:04:38] evalúa y también eh esa tarifa social
+[02:04:41] puede ser otorgada por OSEVA eh con el
+[02:04:44] cumplimiento de esos requisitos. Después
+[02:04:46] tenemos eh como un régimen especial que
+[02:04:48] ya lo había nombrado, el régimen de
+[02:04:50] víctimas de violencia de género a través
+[02:04:53] de la resolución conjunta con el
+[02:04:55] Ministerio de Mujeres desde la
+[02:04:56] resolución 5, creo que es 2023, 24,
+[02:05:00] 23
+[02:05:00] 23
+[02:05:01] del 2023 este que también frente al
+[02:05:05] listado que nos manda el Ministerio de
+[02:05:07] las Mujeres se reconoce este esta
+[02:05:10] orificación que también va a ser tratada
+[02:05:12] en una clase especial que en principio
+[02:05:15] principio es por 6 meses, pero es
+[02:05:17] prorrogable de acuerdo a las altas y
+[02:05:19] bajas o prórrogas que nos notifiquen a
+[02:05:21] los EVA en Ministerio de Mujeres. Eh,
+[02:05:24] también hay un reconocimiento
+[02:05:27] especial para los bomberos voluntarios,
+[02:05:29] una tarifa de gratuidad
+[02:05:32] a las entidades de bien público que se
+[02:05:35] va a aplicar la tarifa que deben ser
+[02:05:38] deben inscribirse. También hay un
+[02:05:39] régimen especial que establecido por la
+[02:05:41] resolución 213 del 2017 y a estas
+[02:05:45] entidades se le va a reconocer aquella
+[02:05:47] tarifa que sea más conveniente, ya sea
+[02:05:50] la tarifa uno residencial o la tarifa
+[02:05:54] uno eh general.
+[02:05:57] Y también tenemos un régimen, este,
+[02:06:01] un régimen especial para las
+[02:06:03] asociaciones eh y clubes de barrio, que
+[02:06:06] es una bonificación eso a nivel
+[02:06:08] provincial de un 30%
+[02:06:11] en en las en las tarifas, sin perjuicio
+[02:06:15] también del reconocimiento del de la
+[02:06:19] tarifa especial que tienen los clubes de
+[02:06:21] barrio respecto del listado que y el
+[02:06:24] reconocimiento que hace a nivel
+[02:06:27] nacional.
+[02:06:28] Bueno, todo esto es para ver, digamos
+[02:06:31] que entre esos derechos tenemos el
+[02:06:33] acceso a la electricidad.
+[02:06:35] Patri, una consulta, perdón.
+[02:06:38] Sí.
+[02:06:38] Eh, tema clubes lo vamos a ver más
+[02:06:40] adelante. Sí,
+[02:06:42] sí, sí. Hay una clase especial de
+[02:06:45] regímenes, tarifa social y regímenes
+[02:06:48] especiales. CL algo. No, no, no tengo.
+[02:06:51] No, no, no. Era como jugaba el subsidio
+[02:06:54] de nación con el de provincia. Eso.
+[02:06:57] Ay, no se escucha.
+[02:06:58] No se escucha el Ahí va. No tengo el
+[02:07:02] micrófono.
+[02:07:04] Lo pongo en el chat. Lo pongo en el
+[02:07:05] chat.
+[02:07:06] Se escucha. Eh, ustedes deben tener el
+[02:07:08] micrófono apagado o el audio apagado,
+[02:07:11] digamos.
+[02:07:16] Creo que quedaron congeladas. Sí,
+[02:07:19] yo puedo.
+[02:07:21] Está
+[02:07:22] Ah, sí, ahí escucha.
+[02:07:24] No, de no de ahí sí, ahí se escucha.
+[02:07:26] Espera que tengo esto. Con esto conecto.
+[02:07:31] Igual no se preocupen, lo vemos después.
+[02:07:33] Bueno, como vos quieras.
+[02:07:34] Sí, sí, no se preocupen, no se
+[02:07:36] preocupen. En la clase específica, pero
+[02:07:39] no
+[02:07:39] no no era como jugaba, era como jugaba
+[02:07:41] el el subsidio de nación con el de
+[02:07:43] provincia. Era eso que hemos charlado en
+[02:07:45] algunas oportunidades.
+[02:07:47] Sí, ahí. Eh, bueno, a nivel eh nacional
+[02:07:51] hay un reconocimiento
+[02:07:54] eh
+[02:07:55] y por precisamente el la tarifa
+[02:07:59] provincial eh reconoce un cuadro
+[02:08:01] tarifario especial para los clubes de
+[02:08:04] barrio y y son el listado que nos envía
+[02:08:07] o que reconoce eh la nación y que es
+[02:08:10] publicado eh por el Oceva o es este más
+[02:08:14] que publicado, digamos, informado por
+[02:08:17] Loa y por otro lado, sin perjuicio de
+[02:08:20] ese reconocimiento, también la
+[02:08:23] provincia, digamos, reconoce una
+[02:08:25] bonificación que esa es especial, o sea,
+[02:08:27] que podría haber clubes de barrio con el
+[02:08:30] la aplicación del cuadro tarifario
+[02:08:32] específico más una bonificación del 30%
+[02:08:35] que serían las asociaciones, no
+[02:08:37] solamente ahí va clubes de barrios, sino
+[02:08:39] va asociaciones y los clubes de barrios
+[02:08:41] reconocidos por la resolución uno del
+[02:08:44] conjunta del 2019, o sea, que Tenemos
+[02:08:48] dos
+[02:08:50] sí,
+[02:08:51] el precio de la energía
+[02:08:53] es uno y que así está trasladado a
+[02:08:55] cuadro,
+[02:08:56] sí, pero es respecto del listado, eso lo
+[02:08:58] que digo. Y a su vez aquellos que no
+[02:09:00] entren dentro del listado van a tener un
+[02:09:02] 30,
+[02:09:04] van a tener la otra bonificación
+[02:09:07] siempre que estén reconocidas.
+[02:09:09] Puede que haya algunos que tengan las
+[02:09:10] dos.
+[02:09:10] Exactamente. Y o puede estar
+[02:09:12] o puede ser solo una.
+[02:09:15] Gracias.
+[02:09:17] Sí, sí, sí. Gracias, gracias.
+[02:09:19] Bueno, eh a recibir un suministro
+[02:09:22] continuo continuo, como vimos como
+[02:09:24] venimos diciendo, ¿no? Eh, primero que
+[02:09:27] en materia de distribución digamos
+[02:09:29] sabemos que es un servicio público que
+[02:09:32] tiene la mayor regulación, digamos, que
+[02:09:35] que tiene el servicio público es la
+[02:09:37] mayor regulación por parte del Estado y
+[02:09:41] tiene que cumplir ciertos caracteres.
+[02:09:43] tiene que tener la obligatoriedad por
+[02:09:46] parte del prestador y
+[02:09:50] reúne acá están reconocidos los
+[02:09:52] caracteres del servicio público, un
+[02:09:54] suministro que tiene que ser continuo,
+[02:09:56] es decir, ese suministro no tiene que
+[02:09:57] ser interrumpible. Es decir, el
+[02:09:59] distribuidor no puede decir, "Bueno, no,
+[02:10:02] no hay energía, decido cortarles a los
+[02:10:04] usuarios residenciales." No, eso no
+[02:10:06] significa que no haya cortes o que
+[02:10:08] ciertos cortes no penalicen. Es
+[02:10:11] diferente. Pero el servicio tiene que
+[02:10:12] ser continuo, el servicio tiene que ser
+[02:10:15] regular, es decir, de acuerdo a normas,
+[02:10:18] el servicio tiene que ser uniforme, ¿no?
+[02:10:20] También tiene que haber la igualdad de
+[02:10:23] trato entre todos los usuarios por las
+[02:10:26] diferencias de cada una de las
+[02:10:28] categorías, pero tiene que haber
+[02:10:30] igualdad de trato y general que tiene
+[02:10:33] que ser para todos. Tampoco puedo elegir
+[02:10:35] a quién se lo presto o a quién no. Eh,
+[02:10:38] también eh tienen derecho a que se le
+[02:10:40] facturen sus consumos en base a valores
+[02:10:42] realmente medidos. Eh, dentro de la
+[02:10:44] periodicidad establecida que veníamos
+[02:10:45] diciendo, cuando se realizan es la las
+[02:10:49] lecturas son bimestrales y en muchos
+[02:10:51] casos la facturación es mensual.
+[02:10:53] Hay regulación específica respecto de de
+[02:10:57] estas cuestiones, así como el
+[02:10:58] reconocimiento tanto en el suanexo D
+[02:11:01] como en el subanexo del reglamento de
+[02:11:04] suministro y conexión. Cuando hablamos
+[02:11:07] también de los en base a valores
+[02:11:09] realmente medidos, también hacemos
+[02:11:11] referencia a que eh no puede haber
+[02:11:14] facturación estimada. Si bien hay un
+[02:11:16] límite que puede ser se puede estimar
+[02:11:18] por parte del distribuidor, siempre
+[02:11:20] tiene que ser una medición real. Eh, la
+[02:11:23] falta de cumplimiento de esto también
+[02:11:25] traerá aparejado un un régimen de
+[02:11:28] sanciones
+[02:11:30] y eh la tarifa que se aplique este tiene
+[02:11:33] que ser las que surjan de aplicar las
+[02:11:35] tarifas que están contenidas en los
+[02:11:36] cuadros tarifarios que son eh precios
+[02:11:38] máximos. Podría el distribuidor dar una
+[02:11:42] bonificación si quisiera. Siempre
+[02:11:43] tenemos que tener en cuenta que son
+[02:11:45] precios máximos a reconocer y a recibir
+[02:11:49] una información clara y precisa que
+[02:11:51] también lo venía diciendo, lo venimos
+[02:11:54] diciendo, lo decía recién Guillermina
+[02:11:56] que tienen que tener sobre las todo lo
+[02:11:58] que venimos diciendo de derechos y
+[02:11:59] obligaciones, cuáles son las condiciones
+[02:12:01] de esa prestación, deben mantener en las
+[02:12:04] oficinas comerciales una copia de su
+[02:12:06] anexo e que establece como el reglamento
+[02:12:09] de suministro de conexión de y que
+[02:12:12] establece todos los derechos y
+[02:12:13] obligaciones del tanto del usuario como
+[02:12:16] de los distribuidores al tratamiento de
+[02:12:19] los reclamos, que es lo que venimos
+[02:12:20] diciendo. Y ahora vemos cómo vamos a ver
+[02:12:23] cómo este cómo eh se resuelven eh
+[02:12:28] efectuar reclamos ante Oceva. Tenemos
+[02:12:30] que tener en cuenta que SEVA actúa
+[02:12:31] siempre en segunda instancia. Primero va
+[02:12:33] a ser eh ante el prestador y después
+[02:12:37] ante eh ante los EVA, salvo en materia
+[02:12:40] de seguridad pública, en el cual sí
+[02:12:43] puede ser tratados directamente o pueden
+[02:12:45] ser denunciados a los Eva y y bueno, los
+[02:12:47] SEBA da un traslado inmediato al
+[02:12:49] distribuidor y a ser compensados por los
+[02:12:52] daños producidos a a sus bienes, a los
+[02:12:55] bienes de su de la propiedad, que es lo
+[02:12:57] que venimos hablando, hasta dónde está
+[02:13:00] el límite o cuál es la competencia
+[02:13:01] específica que recién habíamos citado el
+[02:13:05] caso Estrada eh en materia de este
+[02:13:10] de intervención o de competencia por
+[02:13:12] parte del de los EVA. Esto no significa
+[02:13:15] que no pueda el usuario realizar un
+[02:13:18] reclamo de daños y perjuicios ante la
+[02:13:20] justicia. Eso no queda inhabilitado por
+[02:13:22] eso, sino a cuál es la competencia de
+[02:13:25] los SEBA en materia de eh reclamos
+[02:13:28] de daños.
+[02:13:31] Eh, y como venimos diciendo, venimos
+[02:13:34] repitiendo que eh lo que tenemos es un
+[02:13:38] espejo, un, o sea, el cumplimiento de
+[02:13:41] niveles de calidad por parte, ¿qué es lo
+[02:13:44] que nosotros controlamos? Cuando
+[02:13:45] hablamos, el distribuidor debe realizar
+[02:13:47] o deber prestar un servicio público de
+[02:13:49] acuerdo a los niveles de calidad
+[02:13:51] establecidos en el contrato de
+[02:13:53] concesión, específicamente de en el su
+[02:13:56] anexo de y eso a qué va a llevar, qué es
+[02:13:58] lo que le interesa al usuario tener un
+[02:14:00] suministro continuo, regular, uniforme,
+[02:14:03] eh, y es lo que lo que va a percibir ese
+[02:14:07] usuario. ¿Qué es lo que se controla? eh
+[02:14:10] se controla el la calidad del producto
+[02:14:13] técnico, que son los niveles de tensión
+[02:14:16] a nivel de puntos de suministro,
+[02:14:19] eh que es lo que venimos diciendo y
+[02:14:21] repitiendo, eh,
+[02:14:24] la calidad del servicio técnico prestado
+[02:14:29] que abarca tanto que hace también a la
+[02:14:31] continuidad del servicio a a y se van a
+[02:14:35] controlar los indicadores tanto eh sfi
+[02:14:39] que va a se va a controlar la cantidad
+[02:14:42] de cortes semestrales, sin perjuicio de
+[02:14:44] la información eh mensual que que van a
+[02:14:47] ir dando los distribuidores. Y el sid la
+[02:14:50] duración de los cortes eh a nivel este
+[02:14:54] también se realiza eh semestralmente.
+[02:14:57] trimestralmente es porque
+[02:15:00] porque terminado el semestre y si eh eh
+[02:15:03] diera digamos eh no cumplieran con estos
+[02:15:06] niveles de calidad, se aplica eh una
+[02:15:09] penalización que ahora vamos a ver como
+[02:15:11] y va a haber también una clase
+[02:15:13] específica de cómo todo es todo ese
+[02:15:15] régimen de penalización
+[02:15:18] que revierte en estos casos eh a
+[02:15:21] usuarios.
+[02:15:22] Y también vamos a tener un ¿Qué se va a
+[02:15:25] controlar? se va a controlar el servicio
+[02:15:27] comercial. ¿Qué voy a controlar? la
+[02:15:29] atención que se le va a dar, cuál es el
+[02:15:31] trato que se le va a dar a la atención
+[02:15:33] del usuario, cuáles son los tiempos que
+[02:15:36] van a tener o eh o que va a incurrir el
+[02:15:40] distribuidor para los pedidos de
+[02:15:41] conexión del servicio.
+[02:15:45] ¿Qué errores existen en la facturación?
+[02:15:49] ¿Cuándo? Lo que venía diciendo recién,
+[02:15:51] si hay facturación estimada, si pasan
+[02:15:53] los límites admisibles, este, o no, el
+[02:15:56] tiempo de restitución del suministro en
+[02:15:58] los casos de eh digamos de un corte o
+[02:16:02] una suspensión eh por falta de pago.
+[02:16:05] Todas estas cuestiones van a ser eh
+[02:16:08] hacen a la calidad comercial. Algunas
+[02:16:10] van a ir por el régimen de
+[02:16:11] penalizaciones y otras van a ir frente a
+[02:16:15] incumplimientos por el régimen de
+[02:16:17] sanciones complementarias. Y como
+[02:16:19] veníamos diciendo, yo lo había dicho eh
+[02:16:23] hoy eh digamos en la primera parte,
+[02:16:25] después lo lo reafirmó Guillermina, este
+[02:16:28] que la obligación del distribuidor es la
+[02:16:31] obligación de mantener y operar sus
+[02:16:33] instalaciones de manera tal que no eh
+[02:16:36] impliquen un peligro para la seguridad
+[02:16:38] pública y también en este caso eh todo
+[02:16:42] el régimen, todos los las cuestiones
+[02:16:44] digamos eh de incumplimientos en este
+[02:16:47] sentido y los incumplimientos que puede
+[02:16:49] haber de toda la regulación que da el
+[02:16:51] organismo, ya sea para el régimen de
+[02:16:53] instalaciones, para la lo que venía
+[02:16:56] diciendo las anomalías que puede, o sea,
+[02:16:58] tenemos un nomenclador de anomalías en
+[02:16:59] la vía pública, el procedimiento de
+[02:17:01] detección de esas anomalías, cómo es el
+[02:17:04] régimen de podas, riesgos eléctricos,
+[02:17:07] cómo es toda la eh prevención de
+[02:17:09] accidentes, todas estas cuestiones
+[02:17:11] frente a eh hacen a la prestación del
+[02:17:15] servicio, hacen a la calidad esos
+[02:17:17] incumplimientos. van a eh generar la
+[02:17:20] aplicación de sanciones, ya sea bajo
+[02:17:22] régimen de penalizaciones o bien de
+[02:17:26] sanciones complementarias, pero lo que
+[02:17:28] vemos acá es que la calidad del servicio
+[02:17:31] y la protección del usuario, digamos,
+[02:17:33] serían las dos caras de de una misma
+[02:17:36] cuestión.
+[02:17:41] Bueno, como venimos también eh venimos
+[02:17:44] hablando las controversias,
+[02:17:46] procedimiento, la la ley también
+[02:17:48] establece un procedimiento eh eh que
+[02:17:52] debe ser tenido en cuenta. Hay las
+[02:17:54] controversias entre agentes de la
+[02:17:56] actividad eléctrica, todos los agentes
+[02:17:57] que hoy decía de la actividad eléctrica
+[02:17:59] que establecía Guillermina, que reconoce
+[02:18:04] nuestra ley, si hubiera un conflicto
+[02:18:06] entre estos agentes tiene que ser
+[02:18:08] sometido en este caso en forma previa y
+[02:18:10] obligatoria a instancias de el Oceva.
+[02:18:13] Ahí actúa eh directamente el organismo.
+[02:18:17] Y en el caso de usuarios, como recién
+[02:18:22] decía, tiene que haber un reclamo previo
+[02:18:24] ante el prestador y contra esa
+[02:18:26] resolución denegatoria o el silencio del
+[02:18:28] prestador, ahí sí interviene el el
+[02:18:32] organismo, pero es facultativo el la el
+[02:18:35] paso el reclamo ante el organismo. el
+[02:18:38] usuario podría tendría tiene la facultad
+[02:18:41] de poder recurrir directamente a la
+[02:18:43] justicia.
+[02:18:45] El Ocea también puede implementar
+[02:18:47] audiencias o o mediaciones que de hecho
+[02:18:50] lo hace. Muchas veces se solucionan los
+[02:18:52] conflictos a través de de audiencias, de
+[02:18:55] mediaciones que realiza entre el
+[02:18:57] prestador y los usuarios.
+[02:18:59] Y
+[02:19:01] bueno, en este procedimiento, digamos,
+[02:19:05] ¿cómo se realiza? digamos, en líneas
+[02:19:07] generales, digamos, en los el
+[02:19:09] procedimiento tenemos un reclamo, el
+[02:19:11] trámite que se realiza, lo que venía
+[02:19:13] diciendo ante el prestador, a través de
+[02:19:14] los canales de atención se realizan,
+[02:19:17] digamos, se presenta toda la prueba,
+[02:19:19] ¿cuál en el caso de interrupciones?
+[02:19:21] ¿Cuáles son los registros? la medición,
+[02:19:23] cómo la facturación
+[02:19:26] y el Oceva posteriormente ante esta eh
+[02:19:30] tiene el en el caso de reclamos, el
+[02:19:32] distribuidor tiene 15 días hábiles y eh
+[02:19:37] y si y si no fuera así eh digamos puede
+[02:19:40] hacer la presentación ante ante el
+[02:19:42] organismo, interviene el organismo, el
+[02:19:45] organismo hace un traslado de 10 días
+[02:19:48] corridos y luego de esto vuelve a dar
+[02:19:51] intervención al usuario. y
+[02:19:53] posteriormente este se resuelve eh
+[02:19:57] muchas veces, como decía, se resuelve a
+[02:19:59] través de mediaciones, también se puede
+[02:20:01] resolver a través todas estas
+[02:20:03] cuestiones. Interviene el SEO a través
+[02:20:05] del centro de atención usuarios.
+[02:20:08] Puede también el Centro de Atención
+[02:20:10] Usuarios establecer eh digamos una
+[02:20:13] disposición o bien eh el cierre por el
+[02:20:16] acuerdo eh con intervención de los SEBA
+[02:20:19] entre el distribuidor y los usuarios.
+[02:20:25] Eh, ahora bien, los incumplimientos,
+[02:20:28] como venimos
+[02:20:31] diciendo también que el de las
+[02:20:32] obligaciones contractuales son eh
+[02:20:34] sancionados
+[02:20:36] por el en el con el régimen de
+[02:20:38] penalidades y con el régimen de
+[02:20:40] sanciones complementarias.
+[02:20:43] el que va a tener una clase especial
+[02:20:45] también este eh cuando se trate todo el
+[02:20:49] régimen de calidad también se va a a
+[02:20:51] tratar el régimen de penalidades y
+[02:20:53] sanciones complementarias. Lo que sí
+[02:20:55] tenemos que tener en cuenta es que el
+[02:20:57] régimen de penalidades eh tiene
+[02:21:00] naturaleza contractual y económica y el
+[02:21:03] objetivo es orientar las inversiones.
+[02:21:05] ¿Para qué? Para cumplir con los niveles
+[02:21:07] de calidad. Hoy habíamos dicho que
+[02:21:09] precisamente eh en la prestación del
+[02:21:12] servicio teníamos que tener el
+[02:21:13] distribuidor tiene la obligación de
+[02:21:15] prestar con ciertos niveles de eh de
+[02:21:17] calidad que el eh también tiene el
+[02:21:20] derecho a a que se le reconozca una
+[02:21:23] tarifa y precisamente para cumplir ese
+[02:21:26] régimen de calidad tiene que realizar eh
+[02:21:29] inversiones
+[02:21:32] y eh
+[02:21:34] y para en ese sentido se establece este
+[02:21:37] régimen de penalidades de manera tal de
+[02:21:39] que la idea, digamos, de toda la lógica
+[02:21:42] del régimen de calidad o del régimen
+[02:21:45] regulatorio establecido
+[02:21:48] eh en en tanto en la ley y esto también
+[02:21:51] ha sido en la ley nacional y que está
+[02:21:53] reconocidos los contratos de concesión,
+[02:21:55] es que el distribuidor, digamos, en la
+[02:21:58] opción prefiera, digamos, realizar la
+[02:22:00] inversión que eh penalizar.
+[02:22:04] y el régimen de sanciones
+[02:22:05] complementarias, que también está
+[02:22:07] previsto, este régimenes tiene
+[02:22:09] naturaleza dissuasiva, digamos, y sería
+[02:22:12] el ejercicio propio del poder de policía
+[02:22:14] que tiene el el Estado, tiene el el el
+[02:22:19] organismo de control, eh, ¿no es cierto?
+[02:22:21] y que eh se va a dar frente a
+[02:22:24] incumplimientos
+[02:22:25] eh al marco regulatorio. El el suexo de
+[02:22:29] establece un régimen de sanciones
+[02:22:32] complementarias, pero eh en tenemos en
+[02:22:37] en el en el artículo 7 que está
+[02:22:39] establecido cómo se van a a aplicar
+[02:22:42] estas sanciones. estas sanciones eh ya
+[02:22:44] no son automáticas como las penalidades,
+[02:22:47] como ese régimen, sino que requiere de
+[02:22:49] la instrucción de un sumario que va a
+[02:22:50] ser eh específicado
+[02:22:53] estas cuestiones también
+[02:22:57] en el régimen sancionatorio, en en lo
+[02:22:59] que hace a las sanciones complementarias
+[02:23:01] eh se van a traducir en multas y también
+[02:23:04] en eh en apercibimiento.
+[02:23:07] Y en el caso de las sanciones, con en el
+[02:23:10] caso de las penalidades, el destino es
+[02:23:12] el usuario y en el caso de las sanciones
+[02:23:15] complementarias, el destino es el
+[02:23:17] fortalecimiento del servicio público.
+[02:23:20] Ahora bien,
+[02:23:22] también esto va a ser explicado, pero si
+[02:23:26] la producto del como consecuencia de la
+[02:23:30] de la transición tarifaria que que
+[02:23:33] estamos transitando en el año 2025
+[02:23:37] salió, digamos, se dictó la resolución
+[02:23:40] 921 del 2025 que establece la
+[02:23:43] postergación
+[02:23:46] eh de las penalizaciones
+[02:23:50] para eh la postergación este sí de las
+[02:23:54] penalizaciones y del pago de las
+[02:23:57] penalizaciones
+[02:23:58] hasta eh hasta el primer hasta sí, hasta
+[02:24:03] el primer quinqueño,
+[02:24:05] hasta el primer cuadro tarifario.
+[02:24:06] Hasta el primer cuadro, claro, hasta el
+[02:24:07] primer cuadro tarifario, producto de la
+[02:24:10] revisión tarifaria integral que se está
+[02:24:13] desarrollando conforme la resolución
+[02:24:16] 1133 del 2024. No.
+[02:24:19] Hm.
+[02:24:20] Este,
+[02:24:22] ¿qué penalizaciones abarca? Abarca todas
+[02:24:24] las penalizaciones que no hubieran sido
+[02:24:27] cumplidas desde el 2017 hasta la hasta
+[02:24:31] la fecha de corte que se den con la
+[02:24:34] revisión tarifaria.
+[02:24:37] Eh, lo cual no quiere decir que que no,
+[02:24:41] o sea, que no se apliquen o que no se
+[02:24:43] determinen esas penalidades. Las
+[02:24:45] penalidades se siguen determinando,
+[02:24:46] simplemente que van a una cuenta
+[02:24:48] contable que tiene que llevar eh el los
+[02:24:51] distribuidores y esas cuentas contables
+[02:24:53] están sujetas a auditorías por parte del
+[02:24:55] organismo, también de la autoridad de
+[02:24:57] aplicación, si así lo lo quisiera
+[02:25:01] determinar o lo exigiera.
+[02:25:04] Y en el caso de las sanciones
+[02:25:07] complementarias también la ejecución o
+[02:25:09] el cobro, la persecución de cobro de
+[02:25:11] esas sanciones complementarias también
+[02:25:13] quedan suspendidas
+[02:25:16] siempre que estén firmes, bueno, en sede
+[02:25:18] administrativa, digamos, aquellas que
+[02:25:20] estén firmes en sede administrativa y
+[02:25:21] también como en el caso de las
+[02:25:24] penalizaciones no implica que el
+[02:25:25] organismo nos siga aplicando,
+[02:25:27] determinando frente a incumplimiento de
+[02:25:29] estas sanciones complementarias, pero
+[02:25:32] esas sanciones también se van a
+[02:25:34] registrar. entrar en una cuenta
+[02:25:35] específica que va a llevar el eh los
+[02:25:38] distribuidores
+[02:25:40] y que eh en los dos casos van a eh tener
+[02:25:44] al momento del corte van a tener eh
+[02:25:48] actualizaciones en el caso de las
+[02:25:49] penalidades. Un un tema que sí hay que
+[02:25:52] destacar es que en el caso de las
+[02:25:54] penalizaciones, esta postergación del
+[02:25:57] pago de las penalizaciones
+[02:25:59] solo abarca
+[02:26:01] a las eh penalidades eh que se
+[02:26:05] determinen
+[02:26:07] relacionadas con la calidad del producto
+[02:26:09] técnico y la calidad del servicio
+[02:26:10] técnico. Las penalidades referidas a la
+[02:26:14] calidad del servicio comercial no están
+[02:26:16] incluidas en esta postergación, deben
+[02:26:18] ser cumplidas por los distribuidores y
+[02:26:21] como decía, tienen una actualización,
+[02:26:23] van a tener una actualización que está
+[02:26:25] prevista en esta norma de acuerdo al eh
+[02:26:28] al al costo de la energía no
+[02:26:30] suministrada y en el caso de las
+[02:26:33] acciones complementarias va a
+[02:26:35] actualizarse de acuerdo a las
+[02:26:37] variaciones o a los ajustes de BAT que
+[02:26:39] se van reconociendo.
+[02:26:41] como consecuencia de la transición
+[02:26:44] tarifaria.
+[02:26:46] Pero de todas maneras eh esto va a tener
+[02:26:49] una explicación en una clase especial,
+[02:26:53] pero lo digo porque el otro día justo
+[02:26:54] vino una consulta respecto de este
+[02:26:57] régimen de Entonces, bueno, lo
+[02:27:00] aclaramos.
+[02:27:03] Eh, como también como venimos diciendo
+[02:27:06] eh los aspectos
+[02:27:08] también la la ley de marco regulatorio
+[02:27:10] establece, digamos, todos los aspectos
+[02:27:13] referidos a a tarifas. también este las
+[02:27:17] tarifas y todos los aspectos tarifarios
+[02:27:19] van a tener una clase especial, pero sí
+[02:27:22] eh lo que por ahí digamos debemos ahora
+[02:27:25] decir y que tengan en cuenta es que ya
+[02:27:27] lo también lo venimos diciendo, que la
+[02:27:30] ley lo que busca es la uniformidad
+[02:27:32] tarifaria en todas las áreas de
+[02:27:34] concesión establecidas en eh
+[02:27:36] jurisdicción provincial, con excepción
+[02:27:38] de de nor que tienen el régimen
+[02:27:40] nacional.
+[02:27:43] Eh,
+[02:27:44] en estos aspectos tarifarios, la norma,
+[02:27:48] el artículo 40 dice que eh en las
+[02:27:50] tarifas deberá considerarse, deberá
+[02:27:52] incluirse una tarifa social para
+[02:27:55] usuarios residenciales con escasos
+[02:27:57] recursos económicos, lo cual recién
+[02:28:00] explicaba que todo el régimen de tarifa
+[02:28:02] social está establecido en la resolución
+[02:28:05] 771 del 2024 y las normas que la han
+[02:28:10] modificado.
+[02:28:12] Eh, y además estas tarifas deben
+[02:28:16] reconocer eh que deben deben reconocer
+[02:28:19] eh deben proveer a los distribuidores y
+[02:28:21] deben reconocer los costos del servicio.
+[02:28:23] Serán este que operen los recursos,
+[02:28:26] deben reconocerle los recursos
+[02:28:28] suficientes para cubrir todos sus costos
+[02:28:31] de explotación, capital, impuestos.
+[02:28:34] ¿Cuál va a ser? Como decía hoy, digamos,
+[02:28:36] eh las revisiones eh son periódicas cada
+[02:28:40] 5 años. Luego de ese periodo se
+[02:28:44] recalcula el cuadro tarifario para el
+[02:28:46] siguiente periodo.
+[02:28:48] El cuadro, digamos, la revisión
+[02:28:50] tarifaria, la última y el cuadro
+[02:28:52] tarifario, eh que se establece por 5
+[02:28:54] años es el cuadro tarifario de previsto
+[02:28:57] la resolución 419 del 17.
+[02:29:02] Eh, posteriormente este entramos en un
+[02:29:05] periodo producto de tanto de las
+[02:29:07] emergencias sanitarias como las
+[02:29:09] emergencias económicas y la emergencia
+[02:29:11] energética. entramos en en una etapa de
+[02:29:15] transición tarifaria
+[02:29:17] y a su vez por la resolución 1133 del
+[02:29:22] 2024 comenzamos a transitar un eh un
+[02:29:25] periodo de revisión tarifaria integral
+[02:29:28] este y allí se va a fijar precisamente
+[02:29:31] un nuevo eh cuadro tarifario.
+[02:29:38] y
+[02:29:40] eh el cuadro el el este cuadro, digamos,
+[02:29:45] dentro de este periodo de transición y
+[02:29:47] cuando se fijó el cuadro tarifario del
+[02:29:49] 2017, también en ese momento lo que se
+[02:29:52] postergó también es el periodo de
+[02:29:54] gestión. periodo de gestión que como
+[02:29:56] explicaba Guillermina es el periodo en
+[02:29:59] el cual se hace un rediseño del del un
+[02:30:03] rediseño regulatorio donde se van a
+[02:30:05] establecer este se va a volver a a
+[02:30:08] hablar o a a reevaluar el régimen
+[02:30:12] tarifario, los anexos, eh todas las
+[02:30:15] cuestiones y se va a revalidar esa
+[02:30:17] licencia, digamos, en el caso de los
+[02:30:20] distribuidores eh provinciales. se vino
+[02:30:22] postergando. También va a coincidir
+[02:30:25] estas con eh luego de la transición
+[02:30:29] tarifal cuando se cuando se determine el
+[02:30:34] nuevo la nueva revisión tarifaria
+[02:30:36] integral, cuando se apruebe esta va este
+[02:30:38] primer periodo de gestión que vi viene
+[02:30:41] siendo postergado se va a realizar al
+[02:30:44] finalizar el primer quinqueño, o sea, al
+[02:30:47] finalizar el cuadro tarifario, que se
+[02:30:50] apruebe en la revisión tarifari.
+[02:30:52] integral.
+[02:30:53] Y como vinimos diciendo, también las
+[02:30:55] tarifas tienen que reflejar eh tanto los
+[02:30:58] costos de adquisición que son fijados
+[02:31:00] por la nación, eh los de transportes que
+[02:31:04] también son fijados por la nación, que
+[02:31:06] implican eh tanto el el reconocimiento
+[02:31:10] de las tarifas en en el precio de en
+[02:31:13] alta tensión, en distribución troncal,
+[02:31:16] el costo de la energía de servicios
+[02:31:19] adicionales de Fondo Nacional de la
+[02:31:21] Energía, el digamos digamos, el precio
+[02:31:23] de la energía y de la potencia que
+[02:31:25] determina la Secretaría de Energía. Y
+[02:31:28] esa aprobación de tarifa con el valor
+[02:31:31] agregado de distribución, que es el que
+[02:31:32] el que sí tiene la facultad en la
+[02:31:35] provincia, es eh
+[02:31:38] es facultad exclusiva del eh la
+[02:31:42] autoridad de aplicación, es decir, del
+[02:31:43] Ministerio de Infraestructura y
+[02:31:45] Servicios Públicos.
+[02:31:50] Eh, no sé qué hora cómo está.
+[02:31:52] Las 5.
+[02:31:53] Bueno,
+[02:31:53] las 5.
+[02:31:54] Bueno, y
+[02:31:57] como venimos diciendo, el Fondo
+[02:31:59] Provincial de Compensaciones Tarifarias,
+[02:32:01] consecuencia de esa uniformidad
+[02:32:03] tarifaria que está prevista en la ley de
+[02:32:07] marco regulatorio, se crea este fondo
+[02:32:10] con el propósito de compensar las
+[02:32:11] diferencias de costos propios de
+[02:32:13] distribución reconocidos a los distintos
+[02:32:15] concesionarios. como sabemos eh de esta
+[02:32:18] manera
+[02:32:20] el quién eh digamos cómo se integra
+[02:32:29] eh bueno, como decían o o no sé lo que
+[02:32:32] escucharon, pero digo que como
+[02:32:34] consecuencia de de la uniformidad,
+[02:32:36] digamos, tarifaria que reconoce la ley
+[02:32:39] de marco regulatorio, se crea al Fondo
+[02:32:41] Provincial de Compensaciones Tarifarias,
+[02:32:43] que también volvemos a repetir, va a
+[02:32:45] tener una clase más específica,
+[02:32:47] este,
+[02:32:49] para explicar, digamos, cómo funciona,
+[02:32:51] cómo se administra fundamentalmente este
+[02:32:53] fondo. Este se crea con el propósito de
+[02:32:58] compensar las diferencias de costos
+[02:32:59] propios de distribución reconocidos a
+[02:33:01] los distintos concesionarios. Como
+[02:33:03] sabemos, los cuadros tarifarios se van
+[02:33:06] eh ¿cómo se integra? Se integra con un
+[02:33:08] aporte. Ese aporte, ¿quién lo realiza?
+[02:33:10] lo realizan todos los usuarios
+[02:33:12] localizados en el área de concesión, eh
+[02:33:14] sujetos a a la jurisdicción provincial y
+[02:33:17] en las distintas áreas de concesión,
+[02:33:20] eh que también estas áreas de concesión
+[02:33:22] pueden ir variando de acuerdo al a las
+[02:33:25] propuestas que puede realizar el
+[02:33:26] organismo y que también las va a
+[02:33:28] reconocer eh la autoridad de aplicación,
+[02:33:31] por ejemplo, en el caso del área Río de
+[02:33:33] la Plata, que eh integran el APP y las
+[02:33:37] cooperativas que se encuentran dentro de
+[02:33:39] ese ámbito fue reconocida o fue creada
+[02:33:42] este en el año 2017 con la revisión
+[02:33:45] tarifaria integral, de manera tal que
+[02:33:48] precisamente eh las las cooperativas o
+[02:33:51] los usuarios precisamente que entren
+[02:33:53] dentro de esa zona tengan tarifas eh
+[02:33:57] iguales a las que tenía en ese momento
+[02:33:59] del y que no haya diferencias eh tantas
+[02:34:03] diferencias en el área. Se crea el área
+[02:34:04] del Río de La Plata, ya estaban
+[02:34:06] reconocidas el área atlántica, la norte
+[02:34:08] y en el sur. Bueno, todos estos usuarios
+[02:34:10] aportan en un porcentaje que está
+[02:34:12] establecido en por la autoridad de
+[02:34:14] aplicación. No se ve.
+[02:34:21] ¿Nos escucha? ¿Nos ven?
+[02:34:23] Sí, los escuchamos, pero no estamos
+[02:34:25] viendo la presentación.
+[02:34:35] Ahí vamos.
+[02:34:40] Eh,
+[02:34:45] y si no terminó, no sé
+[02:34:48] si no que queda,
+[02:34:49] no queda queda un poco, pero bueno, ya
+[02:34:51] es la hora. Eh eh termino termino de
+[02:34:54] explicar esto, digamos, aunque no tenga
+[02:34:56] la la diapositiva. Eh bueno, eh se
+[02:35:01] aprueban este fondo porque se digamos
+[02:35:04] reconoce estas eh estas diferencias
+[02:35:07] entre concesionarios. Se crean estas eh
+[02:35:09] como decías eh se crearon estas áreas y
+[02:35:13] todos estos usuarios aportan a este
+[02:35:16] fondo de acuerdo a la alíquota que fija
+[02:35:20] eh la autoridad de aplicación.
+[02:35:22] Entonces, además forma parte, tienen
+[02:35:25] naturaleza tarifaria, con lo cual en las
+[02:35:27] facturas de energía también está el
+[02:35:29] Fondo Provincial de Compensaciones
+[02:35:31] Tarifarias reconocido en la alíquuota
+[02:35:33] según las categorías hoy. Eh,
+[02:35:37] y eh se aprueban entonces se aprueban eh
+[02:35:40] tarifas para los distribuidores
+[02:35:41] provinciales y para las de las áreas y
+[02:35:44] esas diferencias que hay entre los
+[02:35:46] costos de cada uno de ellos son
+[02:35:47] reconocidas a través de este fondo. Se
+[02:35:50] reconocen no solo las diferencias de BAT
+[02:35:53] de valor agregado de distribución, es
+[02:35:55] decir, aquellos que están establecidos
+[02:35:57] por la provincia de Buenos Aires, que es
+[02:35:59] facultad de la provincia fijarlo, sino
+[02:36:01] también costos de abastecimiento. Toda
+[02:36:04] esta ingeniería y toda esta distribución
+[02:36:06] del fondo y ese reconocimiento de
+[02:36:09] acuerdo alícotas que fija la autoridad
+[02:36:11] de aplicación es administrado por el
+[02:36:13] OSEBA y distribuido por el Oceva según
+[02:36:17] los porcentajes fijados en lo que hace a
+[02:36:19] compensaciones tarifarias por la
+[02:36:22] autoridad de aplicación.
+[02:36:24] Y este fondo también está está, ¿cómo se
+[02:36:28] dice? Analizándose dentro del proceso de
+[02:36:31] revisión tarifaria integral.
+[02:36:34] Bueno, creo que por la hora llegamos
+[02:36:36] hasta acá. Me quedan dos cuestiones,
+[02:36:38] pero que también hacen, termino de decir
+[02:36:40] esto así rápido, que lo que hace al al
+[02:36:43] principio de uniformidad triunfaria,
+[02:36:45] digamos, para lograr esta uniformidad
+[02:36:47] también implica un principio de
+[02:36:50] uniformidad impositiva. Tenemos dos
+[02:36:52] contribuciones que deben pagar tanto a
+[02:36:54] nivel provincial, la contribución
+[02:36:55] provincial que hoy está fijada en una
+[02:36:57] alícota que en su momento es el 0,01,
+[02:37:01] pero de todas maneras está regulado,
+[02:37:03] ¿podría el poder ejecutivo elevar esa
+[02:37:06] esa alíquuota que era del 6 por 1000 en
+[02:37:08] su momento y una contribución municipal
+[02:37:11] que eh que tiene como destino las
+[02:37:13] municipalidades, pero es para evitar,
+[02:37:15] digamos, estas estas discriminaciones
+[02:37:18] que puede haber en un municipio más eh
+[02:37:20] más impuestos estos que en otros se
+[02:37:22] estableció esta contribución municipal
+[02:37:25] que es del 6 eh% que también se recauda
+[02:37:29] en a través de la facturación.
+[02:37:33] Bueno, eh ahí nos queda una cuestión que
+[02:37:36] es que las facturas, como dijimos, deben
+[02:37:38] tener los valores medidos, pero nuestro
+[02:37:40] régimen consecuencia de cómo está dado,
+[02:37:44] digamos, por las eh digamos la idea del
+[02:37:47] reconocimiento de cooperativas, de de
+[02:37:49] cuestiones propias de la provincia de
+[02:37:51] Buenos Aires, también reconoció la
+[02:37:54] facultad de con el cumplimiento de
+[02:37:56] ciertos requisitos de incorporar
+[02:37:58] conceptos ajenos con autorización de los
+[02:38:01] EVA.
+[02:38:02] y siempre que se permita su pago por
+[02:38:04] separado. Todas estas cuestiones,
+[02:38:06] digamos, están siendo implementadas y
+[02:38:08] hay hay conceptos que se permiten
+[02:38:11] incorporar y siempre están evaluados por
+[02:38:14] el organismo de control.
+[02:38:16] Bueno, eh
+[02:38:17] estamos terminamos con la ley
+[02:38:19] y bueno, seguimos
+[02:38:21] el martes próximo. Seguimos con los
+[02:38:23] contratos de concesión, con los
+[02:38:25] subanexos.
+[02:38:27] Si hubo algo de esto último que quieran
+[02:38:29] preguntar, este, porque fuimos un
+[02:38:31] poquito rápido y quieren, no sé, hacer
+[02:38:34] una pregunta o lo que quieran, este,
+[02:38:36] bueno,
+[02:38:37] tenemos la clase,
+[02:38:38] tenemos la clase que viene, así que ahí
+[02:38:40] nos volvemos a ver y cualquier cosa nos
+[02:38:42] nos preguntan y y lo vemos, eh, sin
+[02:38:45] ningún tipo de problema. Igual si hay
+[02:38:47] algún tema, como siempre les digo, si
+[02:38:48] hay algún tema de otra clase y que les
+[02:38:50] surge en el momento y tengan ganas de
+[02:38:52] preguntarlo, preguntan. Esto no es tan
+[02:38:54] estructurado como para decir, "No, el
+[02:38:56] tema de la clase de hoy no es." Así que
+[02:38:59] siéntanse en la libertad y no les dé
+[02:39:01] vergüenza preguntar lo que necesiten eh
+[02:39:04] en cada día. Eh, bueno,
+[02:39:07] bueno, gracias.
+[02:39:08] Gracias.

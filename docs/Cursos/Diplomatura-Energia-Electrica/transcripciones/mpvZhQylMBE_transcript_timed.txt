@@ -1,0 +1,1693 @@
+[00:00:21] Buenos días, ¿cómo están?
+[00:00:27] Vamos a arrancar. Hoy tenemos la clase
+[00:00:31] cinco.
+[00:00:33] Vamos a ver proyección de la demanda de
+[00:00:35] energía eléctrica, la determinación de
+[00:00:37] los factores de factores de ajuste y
+[00:00:39] curvas de carga. [resoplido]
+[00:00:42] La clase la va a dictar Vicente Serra
+[00:00:45] Marchese.
+[00:00:48] Vicente es ingeniero electromecánico de
+[00:00:51] la UBA, es especialista en energía,
+[00:00:54] regulación, infraestructura crítica,
+[00:00:57] políticas públicas.
+[00:00:59] Es un ingeniero con más de 40 años de
+[00:01:01] trayectoria en el sector energético, con
+[00:01:03] amplia experiencia en regulación en
+[00:01:05] mercados de gas y electricidad,
+[00:01:07] planificación de infraestructura,
+[00:01:09] políticas públicas, privatizaciones,
+[00:01:12] auditorías técnicas y económicas y
+[00:01:15] asesoramiento estratégico a organismos
+[00:01:16] públicos y privado. Ha ocupado diversos
+[00:01:20] cargos directivos nacionales.
+[00:01:24] Ha sido asesor de la intervención del
+[00:01:25] Energ, director nacional de refinación y
+[00:01:28] comercialización en hidrocarburos,
+[00:01:31] asesor de la presidencia de la nación
+[00:01:35] y hace pocos días se publicó el decreto
+[00:01:38] que lo designa como vicepresidente del
+[00:01:41] nuevo ente fusionado
+[00:01:43] regulador del gas y de la electricidad
+[00:01:46] del ente nacional.
+[00:01:48] es eh profesor universitario, autor de
+[00:01:51] numerosos artículos técnicos y de
+[00:01:53] opinión
+[00:01:55] con una formación académica extensísima.
+[00:02:00] Así que bueno, gracias Vicente,
+[00:02:04] te escuchamos cuando quieras.
+[00:02:07] Eh, bueno, buenos días a todos. Eh,
+[00:02:11] gracias por participar de esta
+[00:02:13] diplomatura. Espero que sea de utilidad
+[00:02:16] todas las lo que ha sido todas las
+[00:02:20] asignaturas que han tenido hasta ahora y
+[00:02:22] bueno, le deseo el mejor de los éxitos y
+[00:02:25] y los animo y los impulso a
+[00:02:29] perfeccionarse día por día.
+[00:02:32] Bien, vamos a hacer la presentación.
+[00:02:43] Un segundo.
+[00:02:46] Ahí está.
+[00:02:57] Se ve perfecto.
+[00:02:59] Se ve perfecto.
+[00:03:01] Sí.
+[00:03:03] Bien.
+[00:03:10] Bueno, vamos a entrar en lo que se
+[00:03:11] denomina caracterización de la demanda y
+[00:03:14] campañas de curva de carga.
+[00:03:19] Los principales aspectos que tenemos que
+[00:03:21] tener en cuenta en el mercado eléctrico
+[00:03:23] para abastecer son
+[00:03:26] las posiciones y la geografía de la
+[00:03:29] demanda donde uno debe atender. Ustedes
+[00:03:31] saben muy bien por estar en cooperativas
+[00:03:34] o en grandes distribuidoras, que no es
+[00:03:36] lo mismo abastecer en una localidad muy
+[00:03:39] concentrada que en otra que es dispersa
+[00:03:42] y tiene mucho componente rural. Para
+[00:03:45] todo eso se necesita hacer una
+[00:03:47] segmentación de la modalidad del consumo
+[00:03:49] eléctrico.
+[00:03:51] Si no, uno no podría hacer una
+[00:03:53] planificación de largo plazo ni hacer
+[00:03:55] estudio de adaptación de las redes
+[00:03:57] existentes versus las nuevas demandas
+[00:04:00] que voy a tener que abastecer en el
+[00:04:02] futuro y en todo caso ver qué manera
+[00:04:06] puedo llegar a hacerlo de una manera
+[00:04:09] técnicoeconómica
+[00:04:10] que eh me permita realizarlo a mínimo
+[00:04:14] costo.
+[00:04:16] La distribución de las de la geográfica
+[00:04:19] de la demanda está basada básicamente
+[00:04:21] por
+[00:04:23] características que tiene que ver con la
+[00:04:25] densidad, que suele medirse en megw hh
+[00:04:29] por kilómetro cuad,
+[00:04:32] el estado de carga de las instalaciones
+[00:04:35] y la evolución de la demanda que vaya a
+[00:04:38] tener a lo largo del tiempo.
+[00:04:44] La caracterización de la demanda en
+[00:04:46] diferentes segmentos la podemos ver que
+[00:04:50] es un área acotada
+[00:04:52] que conviene realizarla de manera
+[00:04:55] homogénea para que pueda ser fácil de de
+[00:04:59] aplicar. A partir de ahí uno puede hacer
+[00:05:02] una proyección de los distintos
+[00:05:04] segmentos y hay una tasa estimada de
+[00:05:09] crecimiento que lleva a dos cuestiones
+[00:05:12] distintas.
+[00:05:14] Una puede ser un ajuste exponencial con
+[00:05:17] valores históricos. Anteriormente se
+[00:05:19] usaba eh una correlación que había entre
+[00:05:22] el PIB y la demanda residencial
+[00:05:26] y por otro lado puede tenerse una tasa
+[00:05:29] de crecimiento con una elasticidad
+[00:05:32] precio, tarifas que tienen que ver con
+[00:05:34] la demanda industrial.
+[00:05:36] Por lo regular, la demanda residencial
+[00:05:39] es un poco inelástica a las variaciones
+[00:05:41] de precio.
+[00:05:44] El mado más simple de ver lo que es la
+[00:05:48] potencia máxima en un área de de
+[00:05:51] distribución eléctrica
+[00:05:53] es hacer un corte vertical u horizontal
+[00:05:56] en las áreas urbanas, que eso tiene que
+[00:06:00] ver con eh discriminar en baja en
+[00:06:03] alimentaciones de baja tensión.
+[00:06:06] eh subestaciones transformadoras,
+[00:06:08] alimentadores de media tensión y
+[00:06:11] subestaciones de distribución.
+[00:06:14] El crecimiento horizontal siempre se da
+[00:06:17] por la aparición de nuevos usuarios y el
+[00:06:19] crecimiento vertical será se da por un
+[00:06:22] aumento del aumento del consumo de los
+[00:06:24] usuarios existentes, donde el factor de
+[00:06:27] simultaneidad se va cerrando.
+[00:06:32] Si voy de eh para hacer más ágiles, si
+[00:06:35] alguno quiere pararme y preguntar
+[00:06:38] directamente lo hacemos. Creo que eso es
+[00:06:41] mucho más enriquecedor y podemos este
+[00:06:43] sacarle mucho más provecho a la
+[00:06:46] presentación.
+[00:06:48] Caracterización de la demanda. Entonces,
+[00:06:50] habíamos visto radicación de ampliación
+[00:06:53] de industrias, polos, parques
+[00:06:55] industriales, cambio de las tendencias
+[00:06:57] en usos energéticos, nuevos usos
+[00:06:59] eléctricos, incremento del confort.
+[00:07:01] Piénsense, piensen ustedes que
+[00:07:04] básicamente las redes se diseñan para
+[00:07:08] tener una requerimiento de potencia a
+[00:07:11] nivel residencial de aproximadamente 10
+[00:07:14] KBA en zona muy urbana y de 5 KBA a 8 en
+[00:07:20] zonas suburbanas.
+[00:07:23] Eh, piensen ustedes que con el nuevo uso
+[00:07:26] y apariciones, por ejemplo, del aire
+[00:07:28] acondicionado,
+[00:07:30] una familia tipo que puede tener un aire
+[00:07:32] acondicionado en su en cada una de sus
+[00:07:35] piezas, pongamos cuatro ambientes, ahí
+[00:07:38] solamente ya tenemos casi 8 KBA. Si uno
+[00:07:43] le agrega otros elementos de confort, la
+[00:07:45] computadora, el lavarropa, la ladera,
+[00:07:47] etcétera, ya estamos excediéndonos sobre
+[00:07:50] los 10 KBA. Entonces, ya es hora de ir
+[00:07:53] repensando que tenemos que poner un
+[00:07:55] nuevo estándar.
+[00:07:58] Otra de las cuestiones es la expansión
+[00:08:00] inmobiliaria en zonas urbanas
+[00:08:01] existentes,
+[00:08:03] parques industriales y por último
+[00:08:06] promoción de nuevas zonas comerciales,
+[00:08:08] puede ser un polo gastronómico,
+[00:08:11] otro polo industrial, etcétera.
+[00:08:16] Bueno, aquí tenemos una infografía que a
+[00:08:18] nivel de de distintas distribuidoras
+[00:08:21] podemos ver cómo está distribuido
+[00:08:25] cada uno de los segmentos.
+[00:08:27] Como vemos, tanto
+[00:08:30] el nor y el de Sur son los que contienen
+[00:08:32] la mayor cantidad de usuarios
+[00:08:34] residenciales. Estamos hablando en
+[00:08:35] términos de porcentaje, no de potencia.
+[00:08:38] Y el caso de DET, por ser la provincia
+[00:08:41] más chica del país, está concentrada y
+[00:08:44] ahí también la demanda residencial tiene
+[00:08:47] mayor peso.
+[00:08:53] Luego vamos a esto que es la
+[00:08:55] distribución
+[00:08:57] ahora sií en en megwtios de distintos
+[00:09:00] segmentos de de un área y para una
+[00:09:03] distribuidora
+[00:09:05] especialmente de sur y donde también
+[00:09:08] podemos ver ahí cómo se distribuye la
+[00:09:10] demanda entre la industrial, la
+[00:09:14] comercial y la residencial. Y ahí se
+[00:09:16] puede ver la variabilidad que tiene el
+[00:09:20] consumo residencial, básicamente. Y
+[00:09:23] podemos ver que tiene dos picos bien
+[00:09:26] acentuados y que prácticamente, a
+[00:09:28] contrario de lo que sucedía en el
+[00:09:30] pasado, ya prácticamente el invierno y
+[00:09:32] el verano tienen casi el mismo consumo.
+[00:09:39] Bueno, ahora
+[00:09:41] vamos a un aspecto que ya empezamos a
+[00:09:44] complejizar esta proyección de demanda
+[00:09:46] que tiene que ver la incidencia de la
+[00:09:48] temperatura.
+[00:09:50] En estos mapas de punto lo que podemos
+[00:09:53] ver es la energía requerida en megwti hh
+[00:09:56] para distintas este provincias y eh en
+[00:10:01] función de la temperatura media diaria
+[00:10:03] donde se ubica
+[00:10:05] cada uno de los de los mapas. Vemos que
+[00:10:08] prácticamente es lo mismo
+[00:10:14] y vemos los picos, tanto los de calor
+[00:10:16] como los de frío, mientras que los
+[00:10:18] medios tienen una y si uno analiza el
+[00:10:22] punto máximo y el punto mínimo,
+[00:10:26] la dispersión es de uno a cuatro veces.
+[00:10:30] ¿Se entiende
+[00:10:33] bien?
+[00:10:36] Modelos económicos.
+[00:10:40] para hacer este eh las proyecciones de
+[00:10:43] demanda. Entonces, ya vimos, solamente
+[00:10:46] tenemos las variaciones, tenemos la
+[00:10:48] temperatura y tenemos la, por último,
+[00:10:52] eh, el comportamiento de la demanda en
+[00:10:55] los distintos
+[00:10:57] eh meses del año.
+[00:11:00] Ahora, para poder aproximar a proyectar
+[00:11:03] la demanda se usan modelos econométricos
+[00:11:05] que utilizan los cuadrados mínimos
+[00:11:10] y con eso podemos estimar el pico del
+[00:11:14] impacto de la demanda diaria, tomándonos
+[00:11:17] como como correlación las variables
+[00:11:20] explicativas, como puede ser la
+[00:11:21] temperatura media, si es un día
+[00:11:23] laborable o no, eh actos fijos que se
+[00:11:27] pueden dar el mes, este, calificación de
+[00:11:29] días fríos, o calientes. Y por último,
+[00:11:33] un efecto tendencial en cuanto al
+[00:11:35] crecimiento de las variables.
+[00:11:42] Todo esto se puede hacer en un modelo
+[00:11:44] estructural básico, que es la fórmula
+[00:11:46] fórmula que estamos mirando a
+[00:11:49] continuación. Es un modelo que se puede
+[00:11:52] escribir mediante esta polinómica que eh
+[00:11:56] está representado por tres variables
+[00:11:58] donde uno es el el mu es define como un
+[00:12:03] polinomio del tiempo. El I se especifica
+[00:12:06] a través de variables eh dumi que quiere
+[00:12:09] decir si hay ese calor o no, si es si es
+[00:12:12] verano, invierno, etcétera. Y por
+[00:12:15] último,
+[00:12:16] eh,
+[00:12:19] la dispersión a través de los valores en
+[00:12:21] función
+[00:12:23] de distintas variables de serie de
+[00:12:25] tiempo.
+[00:12:32] Y eso tiene más que ver con
+[00:12:35] la temperatura.
+[00:12:38] Aquí podemos ver la ecuación detallada
+[00:12:41] con los coeficientes
+[00:12:44] donde tenemos que t es la temperatura
+[00:12:46] media diaria,
+[00:12:49] ten el componente de tendencia anual que
+[00:12:51] habíamos hablado si es verano, invierno,
+[00:12:54] de L, que es una variable binaria que
+[00:12:56] indica si el día es laborable o no.
+[00:12:59] Eh, y puede ser y después la temperatura
+[00:13:02] final o eh la temperatura fría o la
+[00:13:06] temperatura calurosa, que es un efecto
+[00:13:10] de empuntamiento de la demanda. O sea,
+[00:13:12] si el día va a ser muy caluroso, pero
+[00:13:14] amanece con con temperaturas bajas y y
+[00:13:19] escala de 10 a 25ºC,
+[00:13:22] que es lo que suele suceder casi siempre
+[00:13:24] en ambas. Entonces, eso me permite
+[00:13:27] establecer a mí cómo va a ser la
+[00:13:29] pendiente en el día y qué generación voy
+[00:13:32] a necesitar como respaldo.
+[00:13:35] Y por último es la variable binaria del
+[00:13:38] mes, donde ahí se permite cuantificar
+[00:13:43] los efectos específicos de cada uno, o
+[00:13:46] sea, teniendo como referencia los meses
+[00:13:48] de abril y octubre en el modelo de
+[00:13:51] verano.
+[00:13:58] Esta es la misma ecuación para pero
+[00:14:00] solamente el logaritmo natural, que esto
+[00:14:02] permite después cuando uno grafica
+[00:14:05] visualizarlo mejor, mucho mejor. Y por
+[00:14:09] último tenemos el modelo cuadrático.
+[00:14:21] Si yo hago estos cálculos y me va agarro
+[00:14:24] ese mapa de nubes que había visto
+[00:14:27] anteriormente donde tenía la correlación
+[00:14:30] temperatura y empiezo a jugar con estas
+[00:14:32] ecuaciones tratando de ver cuál es la
+[00:14:34] que se ajusta más,
+[00:14:37] tenemos el siguiente resultado.
+[00:14:40] Eh, los beta0, beta 1, delta 1, delta 2,
+[00:14:44] delta 3
+[00:14:46] y alfa lo vemos en el siguiente cuadro.
+[00:14:49] depende si el modelo es cuadrático o no,
+[00:14:53] eh,
+[00:14:55] y la estacionalidad invierno verano.
+[00:14:58] Y ahí podemos ver esto es en manera
+[00:15:01] lineal y esto es mediante logaritmos. Y
+[00:15:04] estos coeficientes
+[00:15:07] que estamos viendo son los coeficientes
+[00:15:10] que de la ecuación
+[00:15:13] que están correlacionados con estos
+[00:15:15] deltas.
+[00:15:20] Así, por ejemplo, este vemos que tenemos
+[00:15:23] un nivel de confianza que se logra
+[00:15:25] aproximadamente del 95% entre el 90 y el
+[00:15:29] 99% significa que ya el modelo ajusta.
+[00:15:32] Acá abajo podemos ver la correlación de
+[00:15:35] estas simulaciones
+[00:15:38] que están cerca del 80%.
+[00:15:44] Por último, la cantidad de observaciones
+[00:15:46] que se han utilizado son las que se
+[00:15:49] muestran en en la última fila.
+[00:15:55] Bien,
+[00:15:57] acá lo único que determinamos con estas
+[00:15:59] ecuaciones es la simulación de la de la
+[00:16:02] demanda que vamos a tener en el día,
+[00:16:05] viendo la prospectiva que de climática
+[00:16:09] y la tendencia del día.
+[00:16:13] Eso es un solo día del año. Esto con
+[00:16:15] esto podemos hacer para todos los días
+[00:16:17] del año en función de la historía
+[00:16:25] ahora basarme en la última etapa, que es
+[00:16:30] la potencia que yo voy a necesitar está
+[00:16:33] dada por una
+[00:16:36] por una tasa de crecimiento en función
+[00:16:39] de la cantidad de años.
+[00:16:42] Así, por ejemplo, en este ejemplo que es
+[00:16:44] solamente un ejemplo, eh vemos que la
+[00:16:48] demanda residencial crece al 5%, la
+[00:16:51] general a 1,26 y la industrial a 4,72.
+[00:16:57] Yo diría que esto más o menos se
+[00:16:59] aproxima cuando tenemos un crecimiento
+[00:17:01] del PI anual aproximadamente del 2%.
+[00:17:05] Y cuando el
+[00:17:08] que el PIB llega a crecer
+[00:17:10] aproximadamente apenas el cero o es
+[00:17:13] estático, la demanda residencial
+[00:17:16] solamente baja un 1% a 4 3% que es el
+[00:17:19] crecimiento vegetativo
+[00:17:22] y el resto este prácticamente no tiene
+[00:17:26] aumento.
+[00:17:30] Aquí tenemos un ejemplo.
+[00:17:35] ¿Alguien quiere preguntar algo?
+[00:17:37] Te piste conectar.
+[00:17:40] Intenteng
+[00:17:42] podríaarse, por favor.
+[00:17:48] Bien, gracias. Eh, bueno,
+[00:17:52] ahora vamos a las proyecciones de
+[00:17:54] energía. vender grupo y por grupo de
+[00:17:57] consumo. Estas son
+[00:18:00] este un ejemplo y la estructura de
+[00:18:03] participación que tiene en los distintos
+[00:18:05] segmentos en porcentual y en energía
+[00:18:08] facturada en megwti hora. Esto es anual,
+[00:18:12] pero todo esto lo podemos llevar a
+[00:18:14] mensual y hasta día, haciendo lo que se
+[00:18:17] denomina ingeniería inversa.
+[00:18:20] Bien.
+[00:18:26] Ahora vamos a a
+[00:18:29] otros aspectos que tienen eh mucha
+[00:18:32] trascendencia y sugiero que lo vayan
+[00:18:36] este madurando y asimilando
+[00:18:40] que son los factores que se usan para el
+[00:18:42] diseño
+[00:18:44] de una red. Entonces tenemos el factor
+[00:18:47] de simultaneidad
+[00:18:49] que que lo único que hace es determinar
+[00:18:52] la cantidad de equipos que eh los
+[00:18:55] usuarios demandan al mismo tiempo
+[00:19:01] y el factor de carga que significa la
+[00:19:04] demanda promedio versus la demanda
+[00:19:07] máxima en un periodo determinado.
+[00:19:11] Ahí tenemos un ejemplo de 10
+[00:19:12] departamentos de 5 kW cada uno. Si el
+[00:19:16] factor de simultaneidad es 60%, la
+[00:19:19] demanda simultánea media va a ser de 30
+[00:19:22] kW. Ese es un dato que yo voy a poder
+[00:19:25] usar después para poder hacer
+[00:19:28] dimensionamiento.
+[00:19:32] Así no pongo eh equipos o
+[00:19:35] transformadores de más.
+[00:19:39] En cuanto al factor de carga, me está
+[00:19:41] dando a mí una indicación de cuánto es
+[00:19:45] el tiempo útil que yo lo estoy usando, o
+[00:19:48] mejor dicho, eh, significaría que el en
+[00:19:54] un en en un mes de 30 días trabajando a
+[00:19:59] máxima potencia,
+[00:20:01] ¿en cuánto tiempo consumo la misma
+[00:20:04] energía que a lo largo durante el a lo
+[00:20:07] largo del mes?
+[00:20:09] Esto permite evaluar la eficiencia de
+[00:20:11] los grandes consumidores
+[00:20:14] y eh sirve para definir tarifas y
+[00:20:17] penalizaciones
+[00:20:19] por baja eficiencia.
+[00:20:22] Es clave en el planeamiento de las redes
+[00:20:24] urbanas como la de Buenos Aires, donde
+[00:20:26] la variabilidad horaria es muy alta,
+[00:20:28] como vimos en los mapas de dispersión de
+[00:20:30] temperatura la vez pasada.
+[00:20:34] Bien, entonces el factor de carga
+[00:20:38] podemos
+[00:20:40] terminar como concepto, sirve para medir
+[00:20:43] la eficiencia del uso y el factor de
+[00:20:46] simultaneidad para dimensionar la
+[00:20:48] potencia instalada. Y el impacto final
+[00:20:51] es por el lado del factor de simultanead
+[00:20:55] económica que uno tiene que llevar para
+[00:20:57] evitar sobredimensionar equipos y redes.
+[00:21:00] Y con respecto al factor de carga,
+[00:21:03] tarifas para la planificación de la
+[00:21:05] capacidad, especialmente en lo que se
+[00:21:08] refiere a los cargos fijos, que es donde
+[00:21:10] se usa el factor de carga básicamente.
+[00:21:15] Bien,
+[00:21:16] ahora vamos a otros conceptos que
+[00:21:19] también se usan. O sea, ahora vimos y
+[00:21:22] vuelvo para atrás un segundo, ejemplos
+[00:21:24] prácticos a nivel de usuario
+[00:21:26] domiciliario de una punta. Ahora, todo
+[00:21:29] esto, yo puedo unar varios
+[00:21:33] demandas individuales, pero ya no de
+[00:21:36] edificio de departamento, sino de varios
+[00:21:38] edificios.
+[00:21:40] Y también puedo hacer la misma cuenta
+[00:21:42] para el factor de carga. Eso es lo que
+[00:21:43] vamos a ver ahora en la siguiente que
+[00:21:47] tiene que ver por el tiempo de
+[00:21:49] utilización muy que se usa mucho que son
+[00:21:53] otros otros factores que expresa el
+[00:21:56] número que la estación que la zona de la
+[00:21:58] instalación estaría funcionando a su
+[00:22:00] potencia máxima para consumir la energía
+[00:22:03] registrada. es muy parecido al factor de
+[00:22:06] carga,
+[00:22:08] nada más que el factor de carga es en
+[00:22:10] porcentaje y aquí el tiempo de
+[00:22:11] utilización lo estamos ya mensurando en
+[00:22:14] horas.
+[00:22:16] Por otro lado, tenemos el factor de
+[00:22:18] coincidencia, o sea, el edificio A, el
+[00:22:21] edificio B y el edificio C a su vez
+[00:22:23] también entre ellos tienen un factor de
+[00:22:26] simultaneidad.
+[00:22:29] En el caso de estos ejemplos prácticos
+[00:22:31] que vemos acá, este vemos que para una
+[00:22:35] energía consumida de 57,200 kWh y una
+[00:22:39] demanda máxima de 436
+[00:22:42] kW, el tiempo es de 130 horas y en el
+[00:22:47] caso del factor de coincidencia de 071.
+[00:22:51] Si cre alguien quiere hacer una
+[00:22:52] pregunta.
+[00:22:57] Bien.
+[00:22:59] Entonces,
+[00:23:00] eh las distribuidoras usan el tiempo de
+[00:23:02] uso para los planes de expansión y
+[00:23:04] mantenimiento
+[00:23:06] y en la industria permite evaluar cómo
+[00:23:08] invertir para corregir picos de demanda
+[00:23:12] y a nivel de residencial y comercializar
+[00:23:15] y comercial ayudas para ver la vida útil
+[00:23:18] de los transformadores y calcular
+[00:23:20] tarifas más justas. Aquí me detengo un
+[00:23:23] segundo en cuanto a los transformadores.
+[00:23:27] Eh, los transformadores cuando funcionan
+[00:23:31] con sobrecarga, o sea, pueden funcionar
+[00:23:33] por sobrecarga por cortos periodos de
+[00:23:35] tiempo, eh cuando no pueden, más allá
+[00:23:39] del 20 no pueden.
+[00:23:43] Tengan en presente que un 10% por arriba
+[00:23:48] de el consumo normal durante 2 horas
+[00:23:53] significa agotar la vida útil en más o
+[00:23:56] menos 5 años
+[00:24:00] para un transformador. Así que empiecen
+[00:24:03] a ver este visualizar un poco la lo que
+[00:24:07] es tener una histo de los componentes
+[00:24:12] que pertenecen a la red de distribución
+[00:24:16] para poder evaluar
+[00:24:18] la vida útil que eh técnica que le
+[00:24:21] queda, no confundir con la vida útil
+[00:24:23] contable, que son dos cosas totalmente
+[00:24:25] distintas.
+[00:24:32] Bien,
+[00:24:34] en el caso de el factor de coincidencia,
+[00:24:39] el factor de coincidencia externa se usa
+[00:24:41] para calcular la potencia real que debe
+[00:24:44] soportar un transformador que al cual
+[00:24:47] dependen múltiples edificios. En la
+[00:24:50] industria permite eh estimar la
+[00:24:52] capacidad de alimentación cuando, por
+[00:24:54] ejemplo, varias industrias comparten una
+[00:24:57] misma subestación y en a nivel
+[00:25:00] residencial esto evita tener
+[00:25:03] sobredimensionar cables y
+[00:25:05] transformadores.
+[00:25:12] Bien, y aquí tenemos una infografía
+[00:25:16] donde lo tenemos los cuatro conceptos,
+[00:25:18] carga, simultaneidad, coincidencia
+[00:25:20] externa y diversidad, que eh para qué se
+[00:25:24] usa, ¿no?, No, cada uno
+[00:25:26] el factor de carga para la eficiencia de
+[00:25:28] uso, el simultaneidad para el
+[00:25:30] dimensionamiento interno, el de
+[00:25:32] coincidencia externa para
+[00:25:33] dimensionamiento entre subsistemas y el
+[00:25:36] diversidad es un complemento del factor
+[00:25:39] de coincidencia que tiene que ver con la
+[00:25:42] suma de demandas máximas sobre la
+[00:25:44] demanda máxima coincidente.
+[00:25:50] Este es un concepto importante de la
+[00:25:52] diversidad porque ayuda junto con el de
+[00:25:54] coincidencia a ver la dispersión del
+[00:25:57] área. Por eso es este cuando uno está
+[00:26:01] estableciendo, acuérdese que partimos de
+[00:26:04] haber agarrado
+[00:26:06] la geografía y dividirlo en segmentos de
+[00:26:09] en kilómetros cuadrados megwh por
+[00:26:12] kilómetro cuadrado y entonces ahí estas
+[00:26:16] significancias. Adquiere este el tema de
+[00:26:19] diversidad que tiene que ver con la
+[00:26:21] dispersión este adquiere relevarse junto
+[00:26:24] con el factor de coincidencia.
+[00:26:29] los riesgos de un cálculo incorrecto,
+[00:26:31] que es el el subdimensionamiento, si se
+[00:26:35] sobreestima la coincidencia y puede
+[00:26:37] haber sobrecargas y y cortes.
+[00:26:41] Eh, sobredimensionamiento,
+[00:26:44] si se subestima, se invierte mucho más
+[00:26:47] en equipos y en capacidad ociosa. Y por
+[00:26:50] último, el impacto tarifario,
+[00:26:53] este, que hacen que los cargos por
+[00:26:55] potencia contratada
+[00:26:57] sean más mayores o menores a lo que me
+[00:27:01] exige a mí la red. Y en función de si la
+[00:27:05] subdimensioné o lo sobredimensioné, voy
+[00:27:08] a tener un un una incidencia en sobre el
+[00:27:12] impacto tarifario.
+[00:27:18] Bien, acá tenemos un ejemplos sobre este
+[00:27:22] varios edificios que están conectados a
+[00:27:25] un transformador de 315 KBA, donde la
+[00:27:29] demanda máxima medida en la historia fue
+[00:27:32] de 200 kW.
+[00:27:38] La demanda coincidente es de 200 kW y el
+[00:27:41] factor de coincidencia externa es 07.
+[00:27:45] Esto es simplemente un ejemplo. Uno en
+[00:27:48] cada área de distribución esto lo debe
+[00:27:50] tiene que contar con estos datos para
+[00:27:53] calcular realmente cuáles son los
+[00:27:55] factores que tenemos. Esto es un ejemplo
+[00:27:58] del factor de eh de coincidencia para
+[00:28:01] que ustedes puedan visualizarlo mejor.
+[00:28:04] Fíjense que cada uno de los edificios
+[00:28:06] tiene su propio factor de simultaneidad.
+[00:28:12] Y aquí eh es la comparación de los
+[00:28:16] factores que hemos visto cuando el
+[00:28:18] factor de coincidencia está cerca de
+[00:28:20] 090, o sea, prácticamente no tengo casi
+[00:28:23] reserva en el transformador, o sea, que
+[00:28:26] estoy teniendo un riesgo de sobrecarga,
+[00:28:29] mientras que en los otros trabajo mucho
+[00:28:31] más holgado y eh a nivel de eh de
+[00:28:37] dimensionamiento
+[00:28:39] acá Hay un truco que es por qué 077.
+[00:28:44] Bien, el 077 es por lo siguiente. Se
+[00:28:49] calcula que si yo tengo una
+[00:28:52] falla en este transformador
+[00:28:55] y tengo una estación con tres
+[00:28:58] transformadores de 315 KBA, dos pueden
+[00:29:02] absorber la potencia del tercero que
+[00:29:05] pierde. Si pierdo uno más, me quedo con
+[00:29:08] uno y abastezco la demanda por las redes
+[00:29:12] de baj de nivel inferior, que también
+[00:29:16] las tengo que diseñar para que puedan
+[00:29:18] soportar la demanda de un de
+[00:29:22] un barrio
+[00:29:24] contiguo o de una zona contigua.
+[00:29:28] ¿Se entiende este el concepto?
+[00:29:35] Bien,
+[00:29:40] bueno, después una manera de calcular
+[00:29:42] los factores de simultanea interna es
+[00:29:45] usando esta ecuación de los grandes
+[00:29:48] números, donde también podemos este usar
+[00:29:51] la dispersión
+[00:29:53] y vemos que eh para depende de la
+[00:29:57] cantidad de usuarios cómo va bajando el
+[00:30:00] factor de simultaneidad.
+[00:30:03] A medida que aumenta la cantidad de
+[00:30:05] usuarios, el factor de simultaneidad
+[00:30:07] cada vez va siendo más pequeño.
+[00:30:24] Bueno, y ahora entramos en otro aspecto
+[00:30:27] que tiene que ver con la caracterización
+[00:30:30] geográfica.
+[00:30:36] Eh, esto vuelvo acá
+[00:30:39] que lo vean de vuelta
+[00:30:44] y tengan presente como otra vez la
+[00:30:47] ecuación
+[00:30:50] y y esto se aplica
+[00:30:53] siempre.
+[00:30:57] Bueno, la caracterización geográfica,
+[00:31:02] aquí empezamos con otro aspecto que es
+[00:31:04] bastante medular, que es la que puede
+[00:31:08] ser urbano o rural.
+[00:31:11] Dentro de Urbano tenemos el residencial,
+[00:31:14] residencial comercial,
+[00:31:16] residencial industry y pyme y polígonos
+[00:31:19] que son áreas específicas que puede ser,
+[00:31:23] por ejemplo, un country o directamente
+[00:31:25] un parque industrial. Y después, bueno,
+[00:31:29] este, la distribución rural es puede ser
+[00:31:33] a través de la planicie o a nivel del
+[00:31:37] campo o insular en una isla como puede
+[00:31:41] ser el delta del tigre.
+[00:31:47] Bien,
+[00:31:49] acá tenemos una
+[00:31:53] infografía
+[00:31:55] donde se se puede visualizar
+[00:31:59] la concentración
+[00:32:01] de lo que es el área residencial,
+[00:32:03] segmentos no carenciados,
+[00:32:13] polígonos que son
+[00:32:15] lugares específicamente comerciales,
+[00:32:19] rurales y y áreas verdes.
+[00:32:23] Esto pertenece a Edenor
+[00:32:30] para que ustedes puedan ver cómo se
+[00:32:31] concentra.
+[00:32:35] Entonces, yo debería
+[00:32:37] hacer este una
+[00:32:41] dimensionamiento.
+[00:32:42] Todas estas figuras no tienen nada que
+[00:32:44] ver con términos municipales, sino es el
+[00:32:46] área
+[00:32:48] eléctrica que abastece cada una de estas
+[00:32:52] zonas en donde yo he hecho tratado de
+[00:32:57] buscar que los megwti hh por kilómetro
+[00:33:02] cuadrado
+[00:33:05] la densidad de energías vayan siendo
+[00:33:07] similares. La única diferencia es que es
+[00:33:10] la dispersión.
+[00:33:15] Entonces, aquí tenemos una
+[00:33:20] infografía donde por cuál es el rango
+[00:33:23] que uno toma,
+[00:33:28] siempre hablando de megwti por kilómetro
+[00:33:31] cuad para baja densidad, densidad
+[00:33:34] urbana, media, alta. Esto cada
+[00:33:36] distribuidora puede tener distintas
+[00:33:39] variaciones y bueno, es típico de cómo
+[00:33:42] quieren hacer la este
+[00:33:47] la el dimensionamiento de su red. Y por
+[00:33:50] último tenemos también una, esta es la
+[00:33:52] primera división por densidad y la
+[00:33:54] segunda es un subrango
+[00:33:57] que eh que es un factor multiplicador
+[00:34:00] que para los distintos segmentos puede
+[00:34:02] variar de 0 a 5, de 0,5 a 1, de 1 a 2, 2
+[00:34:07] a 3, depende de eh de la incidencia.
+[00:34:14] Fíjese acá un aspecto que entre la
+[00:34:17] residencial y carenciada la dispersión
+[00:34:20] es el subrango mucho mayor.
+[00:34:27] Bien,
+[00:34:29] entonces con esto entramos lo que es
+[00:34:33] hablar de un área típica de
+[00:34:34] distribución.
+[00:34:44] Y esto es importante
+[00:34:47] por lo siguiente.
+[00:34:56] Aquí tenemos el área típica de
+[00:34:57] distribución 1, la 21, 2.1, 2.2 y 3.
+[00:35:04] es una nomenclatura nada más y el rango
+[00:35:07] de lo que veníamos hablando.
+[00:35:09] Entonces, vamos a las ecuaciones ahora.
+[00:35:12] Entonces, tenemos una densidad de
+[00:35:14] consumo eléctrico que, como siempre les
+[00:35:17] venía diciendo, es en kilow hh por
+[00:35:19] kilómetro cuadrad, la energía consumida
+[00:35:21] en el área y la superficie. una ecuación
+[00:35:25] simple, pero me sirve a mí para
+[00:35:28] dimensionar el mapa que vimos antes con
+[00:35:30] los distintos colores.
+[00:35:34] Entonces, aquí a partir de ahora vemos
+[00:35:37] cómo se empiezan a utilizar los
+[00:35:39] diferentes factores y uno es el factor
+[00:35:42] de este de utilización que habíamos
+[00:35:45] visto en horas.
+[00:35:48] Entonces, la potencia necesaria en una
+[00:35:50] cuadrícula está dada por la energía
+[00:35:53] consumida en la cuadrícula
+[00:35:55] y el tiempo de utilización
+[00:35:59] y multiplicado todo ello por el factor
+[00:36:01] de simultaneidad interna o externa, que
+[00:36:04] es un factor adimensional, que son los
+[00:36:07] que hemos calculado antes.
+[00:36:11] Esto me permite a mí establecer cuál es
+[00:36:13] la potencia máxima que voy a necesitar
+[00:36:16] tener en cuenta por cada cuadrícula.
+[00:36:21] Entonces, supongamos que una cuadrícula
+[00:36:24] urbana de 1 km de 1 km cuad en Buenos
+[00:36:27] Aires, la energía anual es de 1,200, el
+[00:36:30] tiempo de utilización 450 horas y el
+[00:36:34] factor de utilización es 07. Entonces,
+[00:36:36] aquí tenemos que la potencia de la
+[00:36:39] cuadrícula es de 1867
+[00:36:42] kW.
+[00:36:45] Entonces, necesito una potencia de
+[00:36:48] aproximadamente 1. Para cubrir la
+[00:36:51] demanda máxima. Ahora, ¿qué pasa si el
+[00:36:54] factor de simultaneidad tiene otros
+[00:36:56] valores?
+[00:36:57] Fíjense que la dispersión pasamos de
+[00:37:00] 133, siguiendo el ejemplo del
+[00:37:02] transformador a 2400.
+[00:37:06] O sea, que tenemos una diferencia del
+[00:37:08] más menos 20%.
+[00:37:11] Por eso es muy importante ajustar
+[00:37:14] siempre el factor de simultaneidad y
+[00:37:17] tenerlo bien calculado.
+[00:37:28] Eh, ¿quieren hacer un intervalo de 5
+[00:37:31] minutos para
+[00:37:36] Bueno,
+[00:37:37] hola?
+[00:37:38] Dale, dale, Vicente.
+[00:37:40] Sí, sí, está bien.
+[00:37:42] Cortamos un
+[00:37:43] Bueno, para que para que no sea tan
+[00:37:45] aburrido este y no correr tanto. Bueno,
+[00:37:48] en retomamos en 5 minutos, entonces.
+[00:37:51] Dale, gracias.
+[00:37:53] Perfecto.
+[00:37:59] Bueno, continuamos.
+[00:38:03] Dale no más, Vicente.
+[00:38:07] Bueno,
+[00:38:09] criterios principales.
+[00:38:14] A mayor potencia requerida se necesita
+[00:38:17] un nivel de tensión más alto para
+[00:38:19] reducir la corriente
+[00:38:21] y las pérdidas. Ejemplo, un el
+[00:38:23] transformador famoso que vimos que suele
+[00:38:26] trabajar de 315 a 13 eh perdón, que
+[00:38:30] suele trabajar a media tensión a 13,2
+[00:38:33] kV.
+[00:38:34] la distancia del transporte, cuanto más
+[00:38:37] larga es la línea eh para disminuir las
+[00:38:41] pérdidas por efecto Jul, el reactivo
+[00:38:44] tiene que ser eh acorde y ahí empieza a
+[00:38:48] jugar el tema del coseno fi.
+[00:38:51] Dado que a su vez el coseno fi más bajo,
+[00:38:56] más alto, perdón, o sea, de 0,8
+[00:38:59] tendiendo a uno, eh tenemos la
+[00:39:02] minimización de las pérdidas por efecto
+[00:39:05] en las líneas de transporte.
+[00:39:07] Así que esto es vital también manejar
+[00:39:10] bien la demanda para no subir reactivo
+[00:39:13] desde las partes inferiores del consumo
+[00:39:16] residencial hacia las redes de alta
+[00:39:18] tensión.
+[00:39:21] Bien, entonces aquí eh
+[00:39:26] puedo les pregunto a todos ustedes, a
+[00:39:29] ver quién lo puede responder, es
+[00:39:32] dónde está en todo lo que estuvimos
+[00:39:33] hablando ahora, la calidad de servicio,
+[00:39:43] eh diseñar unas buenas redes o unas
+[00:39:47] adecuadas
+[00:39:50] da pensando en esa demanda y en la
+[00:39:52] caracterización de esa demanda puede dar
+[00:39:55] un buen servicio, una calidad buena
+[00:39:57] energía.
+[00:39:58] Bien, ahí nos estamos aproximando el
+[00:40:00] tema. En todas estas cosas que se hablan
+[00:40:03] de área típica de distribución y todo,
+[00:40:06] hay este hay una discrepancia en de dos
+[00:40:10] escuelas distintas.
+[00:40:13] Una es eh hacer un área típica de
+[00:40:16] distribución
+[00:40:18] donde el cual la calidad de servicio ya
+[00:40:20] está dada por los componentes del área y
+[00:40:24] que se supone que no vas a tener
+[00:40:26] problemas de abastecimiento a nivel de
+[00:40:29] potencia.
+[00:40:31] Pero sí podes, pero no se ve si puede
+[00:40:34] tener problemas a nivel de control de
+[00:40:37] tensión.
+[00:40:40] Entonces, [carraspeo]
+[00:40:42] aquí empieza uno eh a discernir porque
+[00:40:46] una cosa es un modelo teórico como el
+[00:40:48] que estamos viendo ahora y y otro es el
+[00:40:51] modelo real que yo tengo en el
+[00:40:53] desarrollo de las redes, porque no
+[00:40:55] siempre en el desarrollo de las redes se
+[00:40:58] respeta
+[00:41:00] la cuestión del área típica de
+[00:41:02] distribución. ¿Y por qué no se respeta?
+[00:41:05] Bueno, lamentablemente en nuestro país
+[00:41:07] por eh falta de tarifa o por lo que sea,
+[00:41:12] entonces la muchas de las redes de
+[00:41:14] distribución en vez de ser anilladas,
+[00:41:17] por ejemplo, terminan convirtiéndose en
+[00:41:21] áreas donde llega un transformador y se
+[00:41:24] disparan cables en forma radial.
+[00:41:27] Entonces, la pérdida de un cable no hay
+[00:41:30] manera de reponer el servicio si no es
+[00:41:32] reparando el cable.
+[00:41:34] Eh,
+[00:41:36] mientras que si estuviera un anillo en
+[00:41:39] el punto donde tengo yo el foco, lo
+[00:41:41] podría aislar y abastecer al menos,
+[00:41:44] salvo en el punto del foco que tengo
+[00:41:47] definido, que tengo la falta de
+[00:41:49] servicio, el resto podría volver a darle
+[00:41:52] este eh servicio.
+[00:41:56] Y entonces aquí es donde aparecen las
+[00:41:59] dos bibliografías. Para determinar
+[00:42:01] tarifa siempre se usa el área típica de
+[00:42:04] distribución.
+[00:42:05] Yo no comparto mucho esa idea porque eso
+[00:42:08] no me permite a mí reflejar en cierta
+[00:42:11] manera la calidad de servicio que estoy
+[00:42:13] entregando porque es enmascarada.
+[00:42:16] Eh, no es lo mismo un barrio periférico
+[00:42:19] que un barrio este ya consolidado,
+[00:42:24] donde este las redes están en vías de
+[00:42:27] desarrollo.
+[00:42:28] Entonces, eh una de las tendencias que
+[00:42:31] se usa es partir de la tipografía de la
+[00:42:35] red existente.
+[00:42:38] Uno podría hacer cálculos de
+[00:42:39] confiabilidad en el cual significa que
+[00:42:43] cada elemento compositivo de la red
+[00:42:45] tiene su propio índice de falla y eso es
+[00:42:48] histórico y uno no tiene relevado.
+[00:42:51] Entonces uno podría agarrar una una red,
+[00:42:54] simularla y ver qué es lo que pasa si eh
+[00:42:59] se comporta empezando por aquel
+[00:43:01] componente que tiene mayor índice de
+[00:43:03] falla e ir bajando y ver cómo impacta en
+[00:43:06] la red. Entonces ese impacto en la red
+[00:43:10] me va a decir a mí la calidad de
+[00:43:12] servicios de productos técnico que estoy
+[00:43:15] que estoy ofreciendo, tanto sea como en
+[00:43:18] durabilidad,
+[00:43:20] en energía y en y en niveles de eh
+[00:43:24] tensión adecuados.
+[00:43:28] Eh
+[00:43:31] creo que se entendió, ¿no?, lo que
+[00:43:34] expliqué. ¿O tiene alguna duda, quiere
+[00:43:37] hacer alguna pregunta?
+[00:43:44] Esta
+[00:43:45] el estos cálculos o
+[00:43:49] pensando la caracterización de esta
+[00:43:51] demanda y las redes para esa demanda,
+[00:43:54] ¿qué pasa ahora con con esto este nuevo
+[00:43:57] usuario que puede inyectar a la red?
+[00:43:59] ¿Cómo se cómo toda esta esta eh demanda
+[00:44:04] típica y esta redes típicas de las
+[00:44:06] cuales estamos hablando ya con ese nuevo
+[00:44:08] usuario debe influir? Eh, no soy
+[00:44:12] ingeniero, eh, pero
+[00:44:15] considerablemente en la en
+[00:44:18] proyección de esas redes.
+[00:44:20] Bueno, muy buena, muy buena pregunta
+[00:44:23] porque todo esto que estuvimos viendo
+[00:44:25] hasta ahora es la parte de venta de
+[00:44:27] energía por parte del usuario, no lo
+[00:44:29] estamos tocando, o venta de energía por
+[00:44:31] parte de un usuario industrial que le
+[00:44:33] sobra energía en un determinado momento
+[00:44:35] y la quiere volcar al mercado.
+[00:44:38] Uno en las consideraciones que tiene que
+[00:44:41] hacer, eso lo puede evaluar a través del
+[00:44:45] factor de uso, que es el
+[00:44:48] el
+[00:44:50] uno de los aspectos, y el otro es el
+[00:44:52] factor de carga. Con esos dos parámetros
+[00:44:54] uno puede ver o incidir
+[00:44:57] cómo va a ser o el resultado.
+[00:45:01] Eh, fíjense, ahora les tengo como
+[00:45:05] ejemplo.
+[00:45:06] En España hay que ustedes saben que es
+[00:45:10] prácticamente hoy está almacenado por un
+[00:45:13] sin número de parques fotovoltaicos.
+[00:45:16] En algunas zonas tienen problemas porque
+[00:45:20] eh, por ejemplo,
+[00:45:23] en una cuadra, supongo, pues hagamos un
+[00:45:25] ejercicio mental nada más. Supongamos
+[00:45:27] que en una cuadra tenemos 10 usuarios y
+[00:45:31] ocho de ellos
+[00:45:34] prácticamente este se autoabastecen de
+[00:45:37] energía y lo venden a la y lo ofrecen a
+[00:45:39] la red. Lo la energía por ahí la toman
+[00:45:42] los dos usuarios restantes. Entonces,
+[00:45:44] ¿qué es lo que va a suceder? Y es un
+[00:45:46] cable que pasa a estar sobredimensionado
+[00:45:54] porque está pensando para altas cargas.
+[00:45:56] Ahora bien, ahí aparece un problema
+[00:45:58] tarifario.
+[00:46:01] ¿Por qué? Porque si yo le entrego a la
+[00:46:03] red, ¿quién me paga el costo? ¿Quién le
+[00:46:05] paga al distribuidor el costo fijo de
+[00:46:08] mantenimiento? Si todo el mundo es
+[00:46:11] usuario ofertante y no demandante.
+[00:46:18] Esos son los problemas que están
+[00:46:19] teniendo en España ahora. Y para alguno
+[00:46:22] que haya leído alguna vez, es uno de los
+[00:46:25] conceptos por el cual en algunos
+[00:46:28] momentos los precios de energía han sido
+[00:46:31] negativos.
+[00:46:38] Eh, pero no conozco la legislación
+[00:46:40] española, pero que la distribución eh no
+[00:46:44] se renumera en cuanto al uso por este
+[00:46:47] usuario.
+[00:46:48] Claro. Exactamente.
+[00:46:58] Y acá la figura de
+[00:47:02] de
+[00:47:04] de este nuevo usuario presumidor,
+[00:47:07] digamos, que va inyectando la red, eh
+[00:47:11] cómo cómo se evitarían esos problemas,
+[00:47:13] eh pensando que todavía no los tenemos y
+[00:47:16] que
+[00:47:18] no no no está por digamos que es una
+[00:47:20] foto que está por venir.
+[00:47:23] Lo usual es cobrarle al usuario que
+[00:47:26] venda un tarifa de peaje
+[00:47:29] para poder para porque está usando la
+[00:47:32] red para vender su energía.
+[00:47:38] Perdón, eh, Lis,
+[00:47:41] perdón.
+[00:47:44] Aguárdenme un minuto que lo cierro al
+[00:47:46] perro.
+[00:47:47] Sí, sí,
+[00:47:51] estábamos por acá. Bueno, decía, eh,
+[00:47:55] entonces
+[00:47:57] cuando uno le pone el valor del agregado
+[00:48:00] de distribución para vender al mercado,
+[00:48:02] ya la ecuación, digamos, ya no eh ya no
+[00:48:05] cierra mucho, o sea, eh el la venta es
+[00:48:10] al costo de la del mercado eléctrico
+[00:48:13] mayorista, es lo que sería remunerado
+[00:48:17] aquel usuario que oferta energía al
+[00:48:20] mercado. Si a eso le sumamos el valor
+[00:48:23] agregado de distribución, le queda muy
+[00:48:26] poquito margen. O sea, no es el que lo
+[00:48:30] está viendo esto como un negocio eh se
+[00:48:34] equivoca. Eh, piensen que más o menos en
+[00:48:38] una factura el la división es
+[00:48:43] eh 45
+[00:48:46] 45 el valor del mercado eléctrico, 45 el
+[00:48:49] valor agregado de distribución y
+[00:48:51] aproximadamente un 10% el costo de
+[00:48:53] transporte.
+[00:49:00] Así que eh si lo obligo si tienen que
+[00:49:03] pagar el 10%
+[00:49:05] y lo remunero con el 45, ya lo estoy
+[00:49:09] sacando fuera de lugar. Entonces es una
+[00:49:13] zona gris que va a haber que estudiarla.
+[00:49:16] La única ventaja que hay es
+[00:49:23] pagar lo del mercado eléctrico
+[00:49:24] mayorista, o sea, ahorrarse el 45%
+[00:49:27] con su propia energía de lo del mercado
+[00:49:30] eléctrico, pero para nada debería dejar
+[00:49:33] de pagar el valor agregado de
+[00:49:35] distribución porque cuando su eh
+[00:49:37] generación no funciona, se tiene que
+[00:49:40] tener eh el abastecimiento de la red y
+[00:49:43] eso con el abastecimiento de la redene
+[00:49:46] tiene que tiene que pagar aunque sea la
+[00:49:48] disponibilidad por la cual está
+[00:49:50] conectado. Por eso se dice que tiene que
+[00:49:52] pagar el valor agregado de distribución
+[00:49:54] de cualquiera de las dos maneras,
+[00:49:56] vendiendo o consumiendo.
+[00:50:01] Y eso sería una alternativa.
+[00:50:08] Así que a nivel de uso, como decía
+[00:50:14] recién, uno podría simular si empiezan a
+[00:50:17] instalarse varios parques solares o o o
+[00:50:21] mejora, digamos, la incidencia a través
+[00:50:24] de un generador
+[00:50:26] este eólico, lo único que hace es este
+[00:50:32] bajando carga del cable. O sea,
+[00:50:35] supongamos que en un extremo yo tengo la
+[00:50:38] estación transformadora
+[00:50:40] y en el otro extremo yo tengo un usuario
+[00:50:45] de que consume 20 kW, por ejemplo.
+[00:50:50] Vamos a hablar de la última milla, ¿no?
+[00:50:52] Este, 20 kW
+[00:50:54] y este se abastece con solar. Entonces
+[00:50:59] el cable ese prácticamente me queda
+[00:51:01] vacío
+[00:51:03] porque no hay demanda,
+[00:51:05] el usuario se autobastece
+[00:51:08] y entonces ahí lo que con la
+[00:51:10] consecuencia de eso es que el factor de
+[00:51:12] carga, como decía antes, baja
+[00:51:14] drásticamente.
+[00:51:18] ¿Se entiende?
+[00:51:22] O sea, quiero decir, Vicente,
+[00:51:25] eh,
+[00:51:27] sí, sí, se entiende.
+[00:51:28] Ah, bueno, bueno. Entonces, eso es el el
+[00:51:31] nivel y en algunos casos o o por ejemplo
+[00:51:36] en Noruega que prácticamente tienen todo
+[00:51:39] definido redes eléctricas, si no fuera
+[00:51:41] por los autos eléctricos, las redes de
+[00:51:43] distribución estarían prácticamente sin
+[00:51:46] cargas.
+[00:51:53] para ver el otro extremo al que se ve a
+[00:51:57] futuro.
+[00:51:59] Hablando de autos eléctricos,
+[00:52:03] es un tema no menor, ahora que esto si
+[00:52:06] está a la vuelta de la esquina, porque
+[00:52:09] tanto en la ciudad como en algunas
+[00:52:12] eh localidades que tienen
+[00:52:16] más de 100,000 habitantes están
+[00:52:19] planificando poner eh
+[00:52:23] cargadores rápidos para poder hacer el
+[00:52:26] uso de cargos de autos eléctricos.
+[00:52:29] Eh, entonces veamos el impacto que tiene
+[00:52:32] eso. Le tiro algunos datos. Un cargador
+[00:52:36] rápido de eh dos picos son 150 kg
+[00:52:44] rápido de eh cuatro picos está alrededor
+[00:52:47] entre 300 y 500 KBA.
+[00:52:51] Entonces, si yo tengo una estación de
+[00:52:53] servicio y quiero poner para abastecer
+[00:52:56] autos eléctricos, tengo que poner un
+[00:53:00] transformador para mí en la estación de
+[00:53:02] servicio de 315 kba.
+[00:53:05] Entonces, piensen ustedes el impacto que
+[00:53:08] puede tener en la red si yo tengo que
+[00:53:11] poner un transformador
+[00:53:14] este por por cada estación de servicio
+[00:53:19] o 10 usuarios que viven a lo largo de
+[00:53:23] una calle, 10 este 10 personas que todo
+[00:53:26] quieren cargar su vehículo a la noche.
+[00:53:30] Los cargadores los cargadores lentos son
+[00:53:33] de 15 k. cada uno. Entonces, sobre la
+[00:53:38] demanda que ya tiene, la demanda
+[00:53:40] residencial por sus electrointensivos,
+[00:53:45] por sus electrodomésticos, se le suman
+[00:53:47] otros 15 cavidad para la carga a la
+[00:53:49] noche del auto. En una en una cuadra de
+[00:53:52] 10 ya estamos hablando de 150 KBA, o
+[00:53:55] sea, voy a tener que poner un
+[00:53:56] transformador adicional solamente para
+[00:53:59] que se pueda cargar el auto a la noche.
+[00:54:03] Se entiende la complejidad que a la que
+[00:54:05] estamos yendo, ¿no es cierto?
+[00:54:12] Y digo para que tengan idea un poco de
+[00:54:15] la magnitud,
+[00:54:17] eh,
+[00:54:21] verano
+[00:54:22] en Mar de Plata, supongamos que hay este
+[00:54:26] ya cargadores eléctricos y en Buenos
+[00:54:29] Aires hay cargadores eléctricos.
+[00:54:32] Entonces hago el viaje y por el tema de
+[00:54:34] la autonomía todo el mundo va a tener
+[00:54:36] que hacer en algún momento una recarga.
+[00:54:38] En este caso, elijamos Dolores, que es
+[00:54:40] el lugar típico.
+[00:54:42] Durante el verano circulan 2000 autos
+[00:54:44] por hora. Para que tengan una idea,
+[00:54:46] supongamos que los 2000 se conviertan en
+[00:54:49] eléctrico
+[00:54:53] y cada uno quiere parar en dolores para
+[00:54:55] tener una carga rápida de 20 minutos.
+[00:54:59] Entonces tenemos 2000
+[00:55:02] dividido. Vamos a hacerlo más fácil para
+[00:55:05] hacer la cuenta. Pongamos 200 KBA
+[00:55:09] de cargador rápido. dividido este me
+[00:55:12] quedan 10
+[00:55:16] en en una hora
+[00:55:20] y este
+[00:55:23] quiere decir que yo voy a necesitar,
+[00:55:24] perdón, este 200 por eh 2000, o sea, que
+[00:55:28] voy a necesitar 40 meg solamente para
+[00:55:31] cargar autos eléctricos en dóes,
+[00:55:39] o sea, tengo que construir una estación
+[00:55:41] transformadora para que la gente en
+[00:55:44] verano pueda ir de Buenos Aires a Mar
+[00:55:46] del Plata.
+[00:55:48] El pico de la demanda durante dos meses
+[00:55:51] y el resto de los de los meses
+[00:55:54] y nada
+[00:55:57] plancha. Entonces, eh se da cuenta de la
+[00:56:00] incidencia que tiene eh estas cosas que
+[00:56:03] estamos hablando de la venta de energía,
+[00:56:05] de los autos eléctricos, no es un tema
+[00:56:07] menor.
+[00:56:11] y y más en el caso de Argentina por un
+[00:56:14] tema de uso horario, porque en Europa
+[00:56:19] digamos que se desarrolla
+[00:56:21] a lo largo de los meridianos y acá este
+[00:56:24] se desarrolla a lo largo del uso
+[00:56:26] horario.
+[00:56:28] Entonces allá pueden compensarse por el
+[00:56:31] las diferencias horarias
+[00:56:34] los momentos de carga acá, ¿no?
+[00:56:38] Más el problema que tienen ya las redes
+[00:56:40] de distribución. para para hacer esto.
+[00:56:42] Las últimas novedades que tengo, por
+[00:56:44] ejemplo, de España, en Madrid, eh han
+[00:56:47] puesto cargadores rápidos en
+[00:56:50] en en los hipermercados y y los
+[00:56:54] españoles están haciendo por el tema de
+[00:56:56] que no se puede entrar al centro con
+[00:56:58] motores de combustión interna, los
+[00:57:00] españoles están haciendo cola de 2 horas
+[00:57:03] en el hipermercado para tener un lugar
+[00:57:05] para una carga rápida.
+[00:57:09] O sea, es más o menos como acá cuando no
+[00:57:12] hay nafta y entonces se arman colas de
+[00:57:14] cuadras y cuadras para poder conseguir
+[00:57:16] combustible. Bueno, allá está pasando lo
+[00:57:19] mismo pero con pero con el tema de
+[00:57:20] energía
+[00:57:22] eléctrica.
+[00:57:27] Bien, entonces sigamos un poco más.
+[00:57:33] Bueno, entonces lo que se busca con
+[00:57:35] todas estas cosas y el dimensionamiento
+[00:57:37] de las redes es buscar un costo de
+[00:57:39] infraestructura equilibrado
+[00:57:44] entre los componentes y las pérdidas
+[00:57:46] técnicas que voy a tener. Si las
+[00:57:48] pérdidas este técnicas son muy altas
+[00:57:51] porque la red trabaja en un estadío,
+[00:57:55] acuérdense que las pérdidas aumentan
+[00:57:58] cuadráticamente con el uso de la
+[00:58:00] infraestructura.
+[00:58:02] Por lo tanto, este, tengo que tener
+[00:58:04] mucho cuidado ahí. Voy a tener un
+[00:58:06] óptimo. Como toda ecuación cuadrática,
+[00:58:09] saben que voy a tener un mínimo y eh en
+[00:58:12] el cual ese es el posicionamiento que me
+[00:58:14] voy a tener que parar. Para los que no
+[00:58:18] son matemáticos, no están asum ecuación
+[00:58:21] cuadrática, es como una parábola inversa
+[00:58:24] mirando hacia abajo. Entonces, eh yo me
+[00:58:29] voy a tener que plantar en el lugar
+[00:58:31] donde yo tenga la mínima pérdida técnica
+[00:58:34] en función de la infraestructura que
+[00:58:36] estoy este dimensionando.
+[00:58:44] Aquí tenemos un ejemplo aplicado.
+[00:58:50] Una cuadrícula de 1,9 se alimenta
+[00:58:52] básicamente en media tensión.
+[00:58:56] Ya para 20 meg se requiere 132 kV y
+[00:58:59] después tenemos la red nacional ya 500
+[00:59:01] MW. Esto para que más o menos se vean
+[00:59:04] los guarismos cuándo cómo se divide en
+[00:59:08] las distintas capas entre media, alta y
+[00:59:11] baja tensión.
+[00:59:15] Aquí tenemos los niveles de tensión
+[00:59:18] también y rangos típicos de potencia
+[00:59:20] transportar por cada una de las redes.
+[00:59:26] Y este
+[00:59:29] y aquí tenemos el tema de media tensión,
+[00:59:32] que es por lo regular el que mismo se
+[00:59:34] usa por el tema de la distancia para las
+[00:59:37] áreas para abastecer áreas rurales. Casi
+[00:59:40] todas son en 13,2 kV.
+[00:59:44] para poder tener eh mínima
+[00:59:48] caída de tensión, básicamente.
+[00:59:52] Con lo cual, si bien la capacidad del
+[00:59:54] cable puede transportar muchos megwtios,
+[00:59:59] por ahí termina transportando 100 KBA
+[01:00:02] nada más o o 30 KBA, que es lo que
+[01:00:05] consume el barrio, pero digo, el el
+[01:00:09] usuario rural, pero no hay otra manera
+[01:00:11] que llevarle en alta en media tensión
+[01:00:15] por el tema de la caída.
+[01:00:17] Es impensable darle en baja.
+[01:00:26] Y ahora vamos con un tema
+[01:00:29] que tiene que ver con
+[01:00:34] la elasticidad precio de la demanda.
+[01:00:38] La ecuación general es la es la
+[01:00:45] división entre la variación porcentual o
+[01:00:48] es la relación entre la variación
+[01:00:49] porcentual de la cantidad de energía
+[01:00:51] demandada y la variación porcentual con
+[01:00:55] respecto a la tarifa. Entonces, uno
+[01:00:57] puede dar pequeñas variaciones y el
+[01:01:01] delta Q tiene que eh de la cantidad
+[01:01:05] empieza a a variar. De esa manera uno
+[01:01:08] podría este establecer en función de la
+[01:01:12] variación de cada uno de estos
+[01:01:13] parámetros cómo es la relación. Entonces
+[01:01:18] eh si es menor que cero, que significa
+[01:01:22] que si sube el precio baja la demanda.
+[01:01:25] Si es menor que uno, se trata de una
+[01:01:27] demanda inelástica, o sea, entre 0 y
+[01:01:30] uno. Quiere decir que el consumo apenas
+[01:01:32] cambia por el cambio de precio y si es
+[01:01:35] mayor que uno, se trata de una demanda
+[01:01:37] elástica. Esto sirve para caracterizar
+[01:01:40] distintos segmentos de usuarios,
+[01:01:42] especialmente los industriales o no, que
+[01:01:45] es lo que tienen la mayor este eh
+[01:01:51] la el mayor comportamiento a las
+[01:01:54] variaciones de precio, ya que está
+[01:01:56] buscando permanentemente su óptimo de
+[01:01:59] consumo y este de ahí que trata de hacer
+[01:02:04] la mayoría de su consumo durante el día
+[01:02:07] y no sobre las horas pico, por ejemplo.
+[01:02:11] Bueno, los números aquí son estos están
+[01:02:14] basados en la realidad.
+[01:02:16] Eh, básicamente es lo que se toma para
+[01:02:20] hacer la planificación energética a
+[01:02:23] nivel nacional.
+[01:02:25] H y eh hay una comparación con los
+[01:02:29] mercados europeos donde las
+[01:02:31] elasticidades
+[01:02:33] eh varían entre -0,2 a -0,5 en segmentos
+[01:02:39] expuestos a precio horarios,
+[01:02:45] que es prácticamente comparable con las
+[01:02:47] industrias argentinas.
+[01:02:51] Bueno, aquí tenemos una ecuación o una
+[01:02:54] infografía donde nos permite ver la
+[01:02:56] variación
+[01:02:59] de eh la demanda en función del del
+[01:03:02] aumento del precio.
+[01:03:14] Bien, y aquí estamos llegando ya al al
+[01:03:17] final y disculpen que tuve que correr
+[01:03:21] para presentar
+[01:03:23] y dejar un poco de espacio para las
+[01:03:25] preguntas, pero me están esperando la
+[01:03:27] Secretaría de Energía dentro de una hora
+[01:03:29] y media, así que eh vamos a hacerlo a
+[01:03:34] meno esta última parte, que es la parte
+[01:03:36] más densa.
+[01:03:39] Todo el mundo ha oído hablar de cuando
+[01:03:41] de habla de costo marginal, costo medio,
+[01:03:44] etcétera.
+[01:03:46] El costo marginal es el de entregar una
+[01:03:50] unidad más del producto que estoy
+[01:03:52] vendiendo.
+[01:03:54] Acá hay una diferencia muy sustantiva
+[01:03:58] cuando hablamos del mercado de
+[01:04:00] generación y del mercado de distribución
+[01:04:03] eléctrica. En realidad, hablar de costo
+[01:04:05] marginal es un error. Hay que hablar de
+[01:04:07] costo incremental.
+[01:04:09] Y les y les hago la siguiente pregunta.
+[01:04:13] Si yo tengo una, vamos, primero el
+[01:04:15] ejemplo de generación,
+[01:04:19] eh, para que se vea bien la diferencia.
+[01:04:21] Si yo tengo una máquina de 10 meg
+[01:04:24] y justo la demanda me está consumiendo
+[01:04:27] 10 meg, ¿cuál es el costo de eh
+[01:04:33] de marginal de producir una unidad más?
+[01:04:38] Quisiera que alguien me lo responda.
+[01:04:53] La unidad más en este caso no, yo sé que
+[01:04:57] están pensando bien cuál es la
+[01:04:58] respuesta, pero la unidad más en este
+[01:05:01] caso no existe
+[01:05:03] porque no hay infraestructura. Entonces
+[01:05:05] el sistema no puede ofrecer a costo
+[01:05:08] unitario una unidad más porque tengo que
+[01:05:11] poner otra máquina de generación para
+[01:05:13] abastecer ese mega.
+[01:05:16] ¿Se entiende?
+[01:05:20] Sí, se entiende.
+[01:05:22] Sí, sí.
+[01:05:23] O sea, que el precio es infinito.
+[01:05:26] Ahora
+[01:05:27] vayamos al ejemplo de distribución.
+[01:05:31] Yo puedo también usar el costo marginal.
+[01:05:34] Hm.
+[01:05:35] Y el costo marginal significa cuánto
+[01:05:39] puedo dar una unidad más. Entonces,
+[01:05:41] fíjense que ahí estuvimos hablando de
+[01:05:43] factor de carga, factor de
+[01:05:44] simultaneidad, factor de coincidencia,
+[01:05:47] factor de diversidad y tiempo de uso.
+[01:05:50] Entonces, yo eh prácticamente si yo
+[01:05:53] tengo eh hagamos que un ejemplo
+[01:05:57] sencillo, tengo una cuadra y tengo 10
+[01:06:01] vecinos
+[01:06:03] y se me suma uno más a la cola, yo le
+[01:06:06] puedo dar una unidad más al mismo costo
+[01:06:09] que los otros.
+[01:06:11] Porque mi infraestructura da para eso.
+[01:06:15] Acuérdense que yo siempre tengo un gap
+[01:06:20] porque como tengo que jugar con las
+[01:06:22] demandas simultáneas yo, entonces yo le
+[01:06:26] puedo dar, entonces voy, le conecto y
+[01:06:27] cobro una tarifa más,
+[01:06:30] una conexión más. Mi costo marginal es
+[01:06:33] el mismo, o sea, sigue siendo el que yo
+[01:06:36] estoy este cobrando porque son todos
+[01:06:39] costos fijos de operación y
+[01:06:41] mantenimiento. Ahora bien, este a su vez
+[01:06:45] ese otro y otro. va a llegar un momento
+[01:06:49] que ahí si este no voy a poder abastecer
+[01:06:52] con eso y voy a tener que invertir para
+[01:06:55] poder eh
+[01:06:57] abastecer esa unidad más que me piden.
+[01:07:01] Cuando tengo que invertir esa unidad más
+[01:07:03] que me piden en el área de distribución,
+[01:07:06] entonces yo ahí voy a tener un costo,
+[01:07:09] pero el el costo fijo o el capex lo voy
+[01:07:12] a distribuir sobre toda la demanda que
+[01:07:14] yo tengo.
+[01:07:17] Entonces, la puedo abastecer a ese nuevo
+[01:07:20] usuario haciendo inversiones porque yo
+[01:07:22] sé que lo voy a recuperar
+[01:07:25] a través de todo y es una este y va y lo
+[01:07:28] voy haciendo escalarmente. Esa es la
+[01:07:30] ventaja que tiene distribución.
+[01:07:34] Eh, significa escalarmente es que yo no
+[01:07:37] tengo que dar un salto tan crítico de
+[01:07:40] como vimos en el caso de generación de
+[01:07:42] de
+[01:07:44] 10 meg, 1 mega más y tengo que poner
+[01:07:47] otra máquina de 10 meg porque la escala
+[01:07:49] no me la impide y si le pongo de 1
+[01:07:51] megas, por ejemplo, para abastecer es
+[01:07:54] muy ineficiente
+[01:07:56] porque lo que interesa es el costo
+[01:07:59] marginal. Piensen en lo siguiente,
+[01:08:03] eh,
+[01:08:04] para entender bien este concepto que es
+[01:08:07] fundamental,
+[01:08:09] eh, el cost el beneficio que tiene una
+[01:08:12] empresa es igual al ingreso menos su
+[01:08:16] costo.
+[01:08:20] Si el
+[01:08:22] su costo a su vez tiene está dividido en
+[01:08:24] dos, un costo fijo y un costo variable.
+[01:08:28] Si yo empiezo a simular esto en un
+[01:08:30] programa de cálculo, esta variación de
+[01:08:34] ingreso y y costo, me va a dibujar una
+[01:08:39] especie de parábola
+[01:08:43] donde voy a tener un un pico máximo. Ese
+[01:08:47] pico máximo es el punto de equilibrio.
+[01:08:51] En ese pico máximo
+[01:08:53] las variaciones
+[01:08:55] prácticamente son
+[01:08:58] inexistentes, o sea,
+[01:09:01] la variación es muy pequeña. Entonces
+[01:09:04] ahí voy a estar en el máximo beneficio
+[01:09:08] que va a ser que es cuando el ingreso
+[01:09:13] iguale al costo.
+[01:09:17] Y entonces lo que me va a quedar es
+[01:09:20] solamente el costo variable, que es el
+[01:09:22] costo de producir una unidad más. Ahora,
+[01:09:26] ¿qué pasó con el costo fijo?
+[01:09:28] ¿Desapareció o no? Eh, el tema es el
+[01:09:31] siguiente. Se lo voy a explicar de otra
+[01:09:33] manera ahora para que se entienda bien.
+[01:09:36] Teoría del hotel.
+[01:09:38] El precio viene fijado por un commodity
+[01:09:41] del gremio de los hoteleros. Si quieren
+[01:09:43] pueden tomar este soja, petróleo, lo lo
+[01:09:46] que ustedes gusten. El precio viene dado
+[01:09:49] por la por el mercado que es un
+[01:09:51] commodity.
+[01:09:53] Entonces si yo quiero hacer eh meterme
+[01:09:56] en ese mercado y tengo que diseñar una
+[01:09:58] planta, yo la voy a diseñar para qué?
+[01:10:02] Para que mi costo marginal
+[01:10:05] sea igual al precio del commodity.
+[01:10:07] Entonces yo ahí voy a tener mi máximo
+[01:10:09] beneficio.
+[01:10:12] Bien, entonces si bien lo tengo
+[01:10:16] en en mi máximo beneficio, ahora vayamos
+[01:10:19] a la realidad práctica.
+[01:10:21] Resulta que para tener ese máximo
+[01:10:23] beneficio, yo tengo que tener el 80% del
+[01:10:26] hotel ocupado y resulta que por la
+[01:10:30] temporada o algo o algún percance a mí
+[01:10:33] me bajó este a la mitad.
+[01:10:37] Entonces, eso significa
+[01:10:40] que eh yo estoy eh pagando un montón de
+[01:10:45] costos fijos y la ecuación no me cierra
+[01:10:48] porque con los costos fijos que tengo y
+[01:10:50] ese 40% de ocupación no me alcanza para
+[01:10:54] pagar mis costos fijos. Entonces,
+[01:10:56] ustedes como empresario, ¿qué harían si
+[01:10:58] vienen tres clientes nuevos? ¿Cuánto le
+[01:11:01] cobrarían?
+[01:11:07] A ver si alguien se anima a responder.
+[01:11:18] Bueno, la respuesta es lo que el cliente
+[01:11:20] esté dispuesto a pagar.
+[01:11:22] Entonces, si yo me adecúo a lo que el
+[01:11:24] cliente esté dispuesto a pagar, yo lo
+[01:11:26] que estoy haciendo no me estoy salvando,
+[01:11:28] pero estoy recortando mis pérdidas
+[01:11:31] porque prefiero un ingreso superior a
+[01:11:33] cero antes que eh perder la plata
+[01:11:37] directamente.
+[01:11:39] Entonces, ahora sí estamos con esto
+[01:11:42] consideración, estamos en condiciones de
+[01:11:43] analizar este gráfico que estamos
+[01:11:45] viendo, donde acuérdense el costo es el
+[01:11:50] costo variable.
+[01:11:52] más el costo fijo.
+[01:11:55] Si yo lo divido por la cantidad Q, eso
+[01:11:57] me va a dar un costo medio. Si uso el
+[01:12:00] costo variable, que sería el costo
+[01:12:02] marginal, me va a dar un costo este
+[01:12:06] más alto por la cantidad Q.
+[01:12:13] Entonces, aquí estamos en un punto de
+[01:12:15] equilibrio que es el punto B. Se ve nota
+[01:12:17] el cursor, ¿no?
+[01:12:20] Sí se nota.
+[01:12:22] Sí.
+[01:12:22] Bien. Este, bueno, tenemos un punto, es
+[01:12:25] el punto de equilibrio donde se situó la
+[01:12:28] oferta y la demanda a un valor Q, que
+[01:12:33] son coincidentes, y por lo tanto en esa
+[01:12:36] intersección
+[01:12:40] estoy en equilibrio.
+[01:12:42] Entonces aquí viene lo más importante de
+[01:12:45] todo. Lo que vemos rayado en azul,
+[01:12:50] que es A PB, es el excedente del
+[01:12:54] consumidor. Se denomina excedente del
+[01:12:57] consumidor y lo que es PBD
+[01:13:00] es lo que se denomina el excedente del
+[01:13:04] productor.
+[01:13:07] Entonces,
+[01:13:11] a nivel de
+[01:13:13] Entonces, significa que si yo estoy
+[01:13:15] parado en el punto B, el productor capta
+[01:13:20] excedente
+[01:13:21] propio, el del consumidor y el de el
+[01:13:24] productor, porque abarca todo el el el
+[01:13:29] rect este triángulo.
+[01:13:32] Y ahora lo vamos a ver un poco más en
+[01:13:34] detalle. El costo total es PBQ0
+[01:13:40] y el valor social, o sea, lo que se
+[01:13:42] tranza, digamos, subyacente en esto, es
+[01:13:46] lo que tenemos acá en negro, que es el
+[01:13:49] valor DQ0.
+[01:13:52] Entonces, ese es el valor, digamos,
+[01:13:55] transaccional a nivel macroeconómico que
+[01:13:58] hay entre el consumo y eh y la oferta.
+[01:14:02] es la resultante de el intercambio
+[01:14:05] comercial de estos dos factores.
+[01:14:07] Entonces, si el costo marginal empieza a
+[01:14:10] bajar,
+[01:14:12] el valor social empieza a
+[01:14:16] disminuirse.
+[01:14:18] Y si empieza a disminuirse, el excedente
+[01:14:21] del productor empieza a ser más chico y
+[01:14:26] empieza a capturar más de la del
+[01:14:28] excedente del consumidor.
+[01:14:31] Lo vamos a ver en la siguiente.
+[01:14:36] Aquí podemos ver la la variación que que
+[01:14:39] hablamos. Supongamos que yo paso de
+[01:14:42] ahora de definir en costo medio, en
+[01:14:45] costo marginal
+[01:14:47] para [carraspeo] las tarifas a costo
+[01:14:49] medio sin modificar nada, simplemente
+[01:14:52] este hago el tarifario por costo medio.
+[01:14:57] Entonces, ahora tenemos que
+[01:15:00] el valor se aumenta de Q a Q prima la
+[01:15:04] cantidad, porque el óptimo yo hice que
+[01:15:08] al bajar el costo de la energía tenga
+[01:15:12] mayor demanda consumida.
+[01:15:16] Estamos hablando del precio, ¿no? El
+[01:15:18] precio P a P prima. Bien. Y entonces
+[01:15:22] este rectángulo que vemos acá en negro
+[01:15:28] es la variación del valor social que se
+[01:15:32] incrementa en este rectángulo.
+[01:15:36] Ahora, eso no es igual que el rectángulo
+[01:15:38] que veo en está en verde. Entonces,
+[01:15:42] analicemos.
+[01:15:45] El excedente del consumidor aumenta de E
+[01:15:51] P prima B. es lo que está marcado en
+[01:15:56] verde.
+[01:15:59] El excedente del productor es E
+[01:16:06] P prima y F que que sería es el este
+[01:16:11] nuevo punto
+[01:16:14] F.
+[01:16:17] Así
+[01:16:22] el costo total ahora es
+[01:16:25] C
+[01:16:28] Q prima Q E, este rectángulo en negro
+[01:16:33] y el valor social aumentó.
+[01:16:37] ¿Qué significa esto? Y esto es la el
+[01:16:40] corolario que puede decir que si usamos
+[01:16:41] una tarifa a nivel de costo medio
+[01:16:45] favorece más a la demanda, al usuario y
+[01:16:48] si usamos el costo marginal favorece más
+[01:16:52] al productor.
+[01:17:04] Entonces, para provocar o promover
+[01:17:09] mayor inserción de generación o ampliar
+[01:17:11] red de distribución,
+[01:17:14] el costo marginal es una buena señal, el
+[01:17:17] costo medio no
+[01:17:20] y viceversa.
+[01:17:22] Entonces, acá hay un tradeof entre el
+[01:17:26] costo marginal y el costo medio. O sea,
+[01:17:28] para el corto plazo favorece al
+[01:17:30] consumidor el costo medio. En el largo
+[01:17:32] plazo debería ser el costo marginal
+[01:17:35] porque es lo que me incentiva a mí a
+[01:17:37] tener ofertas o que haya inversiones
+[01:17:40] para que eh en el futuro la demanda
+[01:17:43] pueda estar abastecida.
+[01:17:49] Aquí vemos el el una situación inversa,
+[01:17:53] o sea, aumenta el costo marginal.
+[01:17:56] Entonces ahí podemos ver exactamente el
+[01:17:59] efecto contrario.
+[01:18:06] Fíjense que la demanda cambia porque
+[01:18:09] cambia el precio y la posición de
+[01:18:11] equilibrio
+[01:18:13] en función de ese precio
+[01:18:16] me lleva a estar en otro nivel Q. en
+[01:18:18] otro nivel Q, alejándome del costo
+[01:18:22] marginal y del costo medio,
+[01:18:26] o sea, vendo menos cantidades
+[01:18:32] inclusive al a ese costo mayor.
+[01:18:40] Bien.
+[01:18:42] Eh, ¿alguna pregunta sobre esto?
+[01:18:46] sobre este último punto.
+[01:18:55] Bueno, dudas muchas, pero tal vez este
+[01:18:58] después ahí tienen al final este
+[01:19:00] bibliografía si uno quiere
+[01:19:02] interiorizarse un poco más acerca de
+[01:19:04] esto.
+[01:19:07] tarifas por
+[01:19:10] una vez de esto, estamos entrando ya
+[01:19:12] casi en el final, las tarifas por
+[01:19:14] asignación de costos o por señales de
+[01:19:17] eficiencia, que es un poco lo que
+[01:19:20] estuvimos hablando recién,
+[01:19:23] costos versus señales de eficiencia,
+[01:19:27] costo medio versus
+[01:19:31] costo marginal.
+[01:19:34] Bueno, tarifas de costos medios de largo
+[01:19:36] plazo. Eso lleva una asignación de
+[01:19:39] recursos ineficientes
+[01:19:42] porque los recursos son utilizados en
+[01:19:44] funciones que se valoran por debajo de
+[01:19:46] sus costos. Se recupera menos que el
+[01:19:49] costo de la última unidad producida,
+[01:19:52] pero se recupera el costo total.
+[01:19:55] Esa la ventaja que tiene.
+[01:19:57] En este caso se maximiza el excedente
+[01:19:59] del consumidor.
+[01:20:14] Tarifas de costos marginales de largo
+[01:20:16] plazo. Eso es una asignación de recursos
+[01:20:19] eficientes
+[01:20:21] y es una función valorada porque nunca
+[01:20:24] me voy a quedar este con una
+[01:20:27] subutilización de los recursos.
+[01:20:30] Entonces se dice que en el largo plazo
+[01:20:32] maximiza el bienestar social
+[01:20:35] porque este hay gente dispuesta a
+[01:20:38] ofrecer el servicio.
+[01:20:44] Entonces,
+[01:20:46] ¿cuáles son las bandas de determinación
+[01:20:48] eficientes?
+[01:20:50] El costo de oportunidad para el
+[01:20:52] consumidor es el máximo precio que está
+[01:20:54] dispuesto a pagar. El mínimo precio es
+[01:20:56] el costo medio de largo plazo en
+[01:20:59] ausencia de subsidio, que es el costo
+[01:21:01] medio.
+[01:21:03] Si el costo de oportunidad es menor que
+[01:21:05] el costo medio,
+[01:21:07] significa que no resulta prestar un
+[01:21:09] servicio público.
+[01:21:11] Esto se llama como test del stand along
+[01:21:15] cost.
+[01:21:17] Esto significa que si el costo de
+[01:21:19] oportunidad que yo veo como consumidor
+[01:21:23] este le resulta menor que el costo medio
+[01:21:26] del largo plazo del distribuidor, al
+[01:21:29] distribuidor no le conviene tener este
+[01:21:31] negocio.
+[01:21:34] Esto vale para cualquier tipo de eh de
+[01:21:39] industria o negocio que uno quiera
+[01:21:42] valorar.
+[01:21:44] El costo de oportunidad tiene que ser
+[01:21:46] siempre mayor que el costo medio.
+[01:21:49] Equivalencia de conceptos.
+[01:21:51] Puede demostrarse que en equilibrio
+[01:21:53] competitivo, el costo de oportunidad de
+[01:21:55] un bien o servicio mayor al valor
+[01:21:57] asignado a una utilización es igual al
+[01:22:01] costo marginal de largo plazo. Ese es el
+[01:22:04] punto en el cual eh uno tiene que que
+[01:22:09] pararse,
+[01:22:11] o sea, uno puede partir en la coyuntura
+[01:22:14] o en el corto plazo ir a tarifas de
+[01:22:17] costo medio, pero a largo plazo conviene
+[01:22:19] ir al costo marginal para que haya una
+[01:22:22] incentivo a la oferta a generar eh mayor
+[01:22:28] provisión de servicio que me disminuya
+[01:22:30] inclusive el costo marginal.
+[01:22:35] Bueno, y por último acá tienen la
+[01:22:37] biografía
+[01:22:40] que anexé. Le voy a agregar alguno sobre
+[01:22:44] estos conceptos que estuvimos viendo
+[01:22:46] aquí y se los voy a compartir. Así que
+[01:22:50] bueno, ahora dejamos espacio para las
+[01:22:52] para las preguntas.
+[01:23:04] Hola, ¿qué tal? Tengo una pregunta.
+[01:23:06] Sí.
+[01:23:07] Eh, yo soy de acá dea y estaba hace unos
+[01:23:11] años atrás en planificación, pero en
+[01:23:13] Europa se está planificando ya con estos
+[01:23:17] cargadores nuevos para autos y demás y
+[01:23:20] la energía que cada uno inyecta y que
+[01:23:22] también va aumentando.
+[01:23:25] Sí, se está se está implementando, pero
+[01:23:28] hay una discusión con el tema del
+[01:23:31] todavía con con el tema de de del costo
+[01:23:34] que se le da al cliente
+[01:23:38] y el tema de si se le cobra peaje y
+[01:23:41] demás también a los que generan.
+[01:23:43] Sí, también también. Es más, este ahí te
+[01:23:47] te paso una
+[01:23:50] paso un dato, eh, que es lo que está
+[01:23:53] sucediendo ahora. ¿Por qué los españoles
+[01:23:56] van al hipermercado? Porque el costo de
+[01:23:58] venta que le dan por la energía para
+[01:24:02] cargar el auto es menor que si lo carga
+[01:24:06] en la casa.
+[01:24:07] Ah, mira vos. Y el otro tema es que acá,
+[01:24:10] por ejemplo, tenemos tarifa T1, el
+[01:24:13] residencial hasta 10 kW. O sea, todo el
+[01:24:15] que ponga un cargador, yo tenía igual
+[01:24:18] entendido que era menos de 10 kW lo que
+[01:24:20] consume, pero ya una forma de
+[01:24:24] compensarlo sería cobrarle
+[01:24:26] el el cargo de conexión, pasar a otra
+[01:24:29] tarifa y ahí también cobrarle después la
+[01:24:31] expansión de nuestras redes y demás.
+[01:24:34] Así, así es. Eh, inclusive ahora vamos a
+[01:24:37] ver si por ahí a nivel del nuevo enter
+[01:24:40] regulador si no si pasamos para el
+[01:24:43] dimensionamiento de 10 a 15.
+[01:24:47] Eh, de todas maneras cuando yo hablo del
+[01:24:49] cargador hay de 5 y de 10 kW.
+[01:24:53] Eh, el tema es lo es el tiempo. Con el
+[01:24:58] de 10 lo cargas más cargas más rápido,
+[01:25:00] con el de 5 más lento. Es como un
+[01:25:03] cargador de baterías, no hay no hay
+[01:25:05] mucho misterio en eso. Entonces, vos
+[01:25:08] tenés un cargador, digamos, el de que
+[01:25:10] usan en la
+[01:25:13] el la gente que repara baterías tiene un
+[01:25:15] cargador rápido y el que uno compra ahí
+[01:25:18] en el hipermercado para cargar en la
+[01:25:20] casa es un cargador lento. Eh, y
+[01:25:23] después, por supuesto, esos son valores
+[01:25:26] máximos a nivel de potencia, pero
+[01:25:29] depende mucho del nivel de carga que
+[01:25:32] tiene la batería, es la potencia
+[01:25:35] instantánea que va a requerir.
+[01:25:38] Perfecto. Dale. Muchas gracias.
+[01:25:43] ¿Alguna otra pregunta?
+[01:26:02] Bueno, si no hay más preguntas, Vicente,
+[01:26:07] te dejamos libre. Bueno,
+[01:26:09] eh, bueno,
+[01:26:11] perfecto.
+[01:26:12] Muchas gracias por la presentación y nos
+[01:26:14] vemos el martes próximo.
+[01:26:15] Sí, listo. Gracias. Eh, espero no tener
+[01:26:19] este que ir a ningún lado también, así
+[01:26:21] que me voy. [risas]
+[01:26:22] No hay problema. Cualquier cosa en esta
+[01:26:23] semana tenemos para acomodar ideas de lo
+[01:26:25] que dijiste hoy y de última, el próximo
+[01:26:28] martes surgirán preguntas.
+[01:26:30] Sí, sí, sí, sí. Este, después si me
+[01:26:32] permitís, les voy a agregar algunas
+[01:26:35] filminas para,
+[01:26:38] si bien es materia de otro colega,
+[01:26:42] eh distintas este tarifas que se
+[01:26:45] aplican, tarifas crecientes, tarifas
+[01:26:48] decrecientes y un poco asociado a lo que
+[01:26:51] estuvimos hablando recién de
+[01:26:53] cómo no. ¿Cómo no? Vamos a subir, ahí
+[01:26:55] hay una pregunta, vamos a subir después
+[01:26:57] la clase, la presentación a la
+[01:26:59] plataforma de la UTN, así que de ahí la
+[01:27:01] van a poder descargar. Y la otra vez nos
+[01:27:04] había pasado Vicente un artículo que él
+[01:27:07] escribió sobre movilidad eléctrica, así
+[01:27:08] que también lo vamos a subir para
+[01:27:10] compartirlo y que lo puedan mirar. Y
+[01:27:13] bueno, y esto otro que está ofreciendo
+[01:27:15] Vicente, este, que lo vamos a adaptar
+[01:27:17] también y lo vamos a subir. Así que
+[01:27:20] bueno,
+[01:27:21] bueno,
+[01:27:21] gracias, gracias, Vicente, gracias a
+[01:27:23] todos. Gracias
+[01:27:25] y disculpenos el martes próximo.
+[01:27:28] Si lo hice a las corridas este con pris
+[01:27:32] sin pausa, así que pero espero que se
+[01:27:35] haya entendido.
+[01:27:37] Sí, gracias Vicente. Nos vemos el martes
+[01:27:39] próximo.
+[01:27:41] Saludos a todos.

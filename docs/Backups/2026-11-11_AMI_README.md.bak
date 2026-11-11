@@ -1,0 +1,175 @@
+# ⚡ Despliegue Masivo de Medidores Inteligentes AMI - EPEC
+
+[![Licitación Pública](https://img.shields.io/badge/Licitación_Pública-N°_5573-005691?style=for-the-badge)](https://www.epec.com.ar)
+[![Resolución](https://img.shields.io/badge/Adjudicación-Res._0653%2F2026-success?style=for-the-badge)]()
+[![Medidores AMI](https://img.shields.io/badge/Volumen_Total-400.000_Medidores-orange?style=for-the-badge)]()
+[![Concentradores PLC](https://img.shields.io/badge/Concentradores_PLC-6.000_Cabeceras-blue?style=for-the-badge)]()
+[![Mano de Obra](https://img.shields.io/badge/Contratistas-188.000_USE-purple?style=for-the-badge)]()
+[![Organización](https://img.shields.io/badge/PROTELEM-EPEC-red?style=for-the-badge)](https://github.com/PROTELEM-EPEC)
+
+Sistema centralizado de planificación, cronogramas de disponibilidad física (`Disp.`), curvas de avance con Verificación Primitiva (`VP 20d`), matriz de compatibilidad por Subestación Transformadora (SET) y plan de trabajo de cuadrillas en campo para el despliegue de **Infraestructura Avanzada de Medición (AMI)** en la Provincia de Córdoba.
+
+---
+
+## 📌 Resumen Ejecutivo de la Licitación N° 5573
+
+| Orden de Provisión | Proveedor / Adjudicatario | Objeto de la Contratación | Cantidad Adjudicada | Monto Adjudicado | Plazo Límite / Condición |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| **OP 27131** | **SANFORD GLOBAL TRADE LLC** | Medidores Monofásicos + Trifásicos + Concentradores | 160.000 Mono + 40.000 Tri + 3.000 Concentradores | USD 11.688.100 ($17.315 M ARS) | 7 Entregas (DAP Ferreyra) |
+| **OP 27133** | **NICEMA S.A.** | Medidores Monofásicos (PLC+GPRS) + Trifásicos + Concentradores | 160.000 Mono + 40.000 Tri + 3.000 Concentradores | USD 11.688.100 ($17.315 M ARS) | 4 Entregas (DAP Ferreyra) |
+| **OP 27132** | **ROWING S.A.** | Mano de Obra, Normalización y Cambio de Medidor (USE) | 94.000 USE (25 cuadrillas mínimas) | $10.583.507.000 ARS (c/ IVA) | 25-01-2028 (Anexo D PET) |
+| **OP 27134** | **CONECTAR S.R.L.** | Mano de Obra, Normalización y Cambio de Medidor (USE) | 94.000 USE (25 cuadrillas mínimas) | $10.583.507.000 ARS (c/ IVA) | 27-03-2028 (Anexo D PET) |
+| **TOTALES** | **Consolidado AMI EPEC** | **Equipamiento + Mano de Obra** | **400.000 Medidores + 6.000 SET + 188.000 USE** | **$55.798.854.300 ARS** | **Despliegue 2027 - 2028** |
+
+---
+
+## 📊 Tablero de Gráficas Ejecutivas: Simulación 307k EPEC vs. 93k Cooperativas (Horizonte 22 Meses)
+
+A partir del modelo oficial de cálculo [`data/Simulacion_Despliegue_AMI_EPEC_307k_Interior_22m.xlsx`](data/Simulacion_Despliegue_AMI_EPEC_307k_Interior_22m.xlsx), se integran las curvas de avance provincial, flujos de entrega y el balance de stock en almacén:
+
+### Curva de Instalación Acumulada, Entregas y Descenso de Stock Remanente
+> **Foco:** Balance consolidado provincial, visualización del pico de acopio (+125.066 u. en Mayo-2027), agotamiento en Febrero-2028 y proyección del déficit de -96.137 unidades en amarillo-naranja.
+![Curva de Instalación Acumulada, Entregas y Descenso de Stock Remanente](assets/img/grafica_01_curva_acumulada_entregas_stock_remanente.png)
+
+### Ritmo Mensual de Instalación: Zona A (Capital) vs. Interior
+> **Foco:** Comparativa de intensidades operativas: Córdoba Capital con 20.000 u./mes por 10 meses (200.000 u. en 2027) vs. Interior provincial con 9.233,5 u./mes sostenido por 22 meses.
+![Ritmo Mensual de Instalación: Zona A (Capital) vs. Interior](assets/img/grafica_02_ritmo_mensual_zona_a_vs_interior.png)
+
+---
+
+## 📅 Cronograma de Disponibilidad Real en Campo (`Disp.`)
+
+Conforme a la **Resolución 247/2019 de la Secretaría de Comercio**, todo lote ingresado a Almacén Ferreyra debe superar el periodo de **Verificación Primitiva (VP = 20 días corridos)** para control metrológico de laboratorio antes de liberarse a las cuadrillas de campo.
+
+![Cronograma de Entregas y Verificación Primitiva](assets/img/cronograma_gantt_entregas_vp.png)
+
+### Curva de Disponibilidad por Lotes:
+
+| Marca / Lote | Cantidad | Días Contractuales | Verificación Primitiva | Fecha Disponible en Campo (`Disp.`) | Destino Estratégico Asignado |
+| :---: | :---: | :---: | :---: | :---: | :--- |
+| **Sanxing E1** | **34.000** | 120 d | VP 20 d | **18/02/2027** | 🚀 **Arranque Despliegue**: Plan 18 (Capital) + San Francisco Lote 1 |
+| **Sanxing E2** | **31.000** | 148 d | VP 20 d | **18/03/2027** | Completamiento San Francisco (28.000 puntos totales) |
+| **CLOU E1** | **42.000** | 155 d | VP 20 d | **25/03/2027** | 🚀 **Arranque CLOU**: Plan 6 (Continuidad con Plan 4) |
+| **Sanxing E3** | **45.000** | 176 d | VP 20 d | **15/04/2027** | Plan 17 (Zona Aérea) + extensiones |
+| **Sanxing E4** | **45.000** | 211 d | VP 20 d | **20/05/2027** | Distrito Río Cuarto (13.000 puntos) |
+| **Sanxing E5** | **45.000** | 239 d | VP 20 d | **17/06/2027** | Distrito Villa María (6.000 puntos) + Cierre 100% Sanxing |
+| **CLOU E2** | **41.500** | 330 d | VP 20 d | **16/09/2027** | Plan 8 (Post-relevamiento de acometidas) |
+| **CLOU E3** | **41.500** | 351 d | VP 20 d | **07/10/2027** | Plan 12 + Villa Allende (800) |
+| **CLOU E4** | **75.000** | 421 d | VP 20 d | **16/12/2027** | Zona Centro Subterránea (Planes 14 y 15 GPRS) + Cierre Total |
+
+---
+
+## 🗺️ Mapa de Sectorización: Córdoba Capital (Zona A)
+
+![Mapa de Planes Zona A](assets/img/mapa_planes_zona_a_cordoba.png)
+
+### Diagnóstico de Planes y Reglas de Compatibilidad:
+1. **GRL_19**: Ya cuenta con casi **10.000 medidores NANSEN** instalados. Se debe mantener la homogeneidad con concentradores Nansen existentes mediante stock remanente o aislamiento riguroso por subestación (SET).
+2. **GRL_6**: Último en ser relevado. Asignado a **CLOU** por colindancia y continuidad con el **Plan 4**.
+3. **GRL_18**: Relevado al 100%. Asignado a **SANXING** para absorber el primer lote disponible el **18/02/2027**.
+4. **GRL_17**: Relevado en red aérea. Requiere auditoría de acometidas en edificios y galerías subterráneas hacia el límite con Nueva Córdoba.
+5. **GRL_12**: Relevado parcial. Requiere auditoría inmediata en la frontera con el Plan 17 para completarlo.
+6. **GRL_8**: Posee subestaciones y parcelas dibujadas en GIS; **urgente relevamiento de campo de acometidas**.
+7. **GRL_14 y 15 (Centro)**: **CONSIDERADOS con Salvedad Estricta de Red Subterránea** (cámaras de transformación, atenuación PLC y antenas remotas a nivel de vereda). Clave para la absorción de **6.339 medidores trifásicos directos** y articulados con el lote **CLOU E4**.
+
+### Auditoría de Relevamiento de Acometidas y Nueva Asignación Tecnológica Zona A:
+> **Frentes Críticos:** Plan 8 (99,7% virgen, urgencia máxima de catastro) y Plan 17 (19.100 acometidas subterráneas pendientes). Asignación armónica: CLOU (Planes 6, 8, 17) y NANSEN (Planes 18, 19, 12).
+
+![Zona A: Suministros Relevados vs. Pendientes de Relevamiento por Plan](assets/img/grafica_05_zona_a_relevados_vs_pendientes_por_plan.png)
+
+![Zona A: Despliegue por Plan con Nueva Tecnología (CLOU: 8,6,17 | NANSEN: 18,19,12)](assets/img/grafica_06_zona_a_despliegue_por_plan_nueva_tecnologia.png)
+
+---
+
+## 🌾 Estado en Zona Interior de la Provincia
+
+| Distrito | Puntos Relevados | Marca Recomendada | Lote de Stock | Acción Previa Requerida |
+| :--- | :---: | :---: | :---: | :--- |
+| **San Francisco** | **28.000** | **SANXING** | E1 y E2 (Feb-Mar 2027) | Dibujo de polígonos de plan por subestación |
+| **Río Cuarto** | **13.000** | **SANXING** | E4 (Mayo 2027) | Dibujo de polígonos de plan por subestación |
+| **Villa María** | **6.000** | **SANXING** | E5 (Junio 2027) | Dibujo de polígonos de plan por subestación |
+| **Villa Allende** | **800** | **CLOU** | E1 (Abril 2027) | Integración con corredor Gran Córdoba |
+| **TOTAL INTERIOR** | **47.800** | — | — | **Base relevada sólida lista para ejecutar** |
+
+### Desglose y Evolución Distrital del Interior (Río Cuarto, Villa María, San Francisco y Villa Allende):
+> **Distribución Proporcional 22 Meses:** Cobertura de 203.137 suministros con un ritmo de 9.233,5 u./mes hasta agotar el cupo de 107.000 unidades en Febrero 2028 (cobertura uniforme del 52,67% por ciudad).
+
+![Interior: Ritmo Mensual Proporcional por Distrito (22 Meses Sostenido)](assets/img/grafica_03_interior_ritmo_mensual_proporcional_distritos.png)
+
+![Interior: Curvas Acumuladas por Distrito (100% Cobertura Sostenida 22 Meses)](assets/img/grafica_04_interior_curvas_acumuladas_distritos.png)
+
+---
+
+## 📦 Plan Maestro Contractual de Despliegue (360.000 Medidores Netos)
+
+Con la aplicación de la **reserva técnica del 10%** (40.000 medidores en custodia en Almacén Ferreyra para garantías, roturas y amortiguación de `VP 20d`), el lote neto a instalar asciende a **360.000 medidores inteligentes** con fecha límite improrrogable al **25 de enero de 2028** (12 meses: Febrero 2027 a Enero 2028).
+
+### Distribución Territorial Aprobada:
+* **Zona A (Córdoba Capital)**: **316.980 medidores** (88,05%).
+* **Interior de la Provincia**: **43.020 medidores** (11,95%):
+  * **Río Cuarto**: **13.000 medidores** (**100% completo** de la cuenca asignada).
+  * **San Francisco**: **24.154 medidores** (proporcional, Sanxing E1 + E2).
+  * **Villa María**: **5.176 medidores** (proporcional, Sanxing E5).
+  * **Villa Allende**: **690 medidores** (proporcional, CLOU E3).
+
+### Regla de Relevamiento Anticipado ($\ge$ 15 días):
+Todo frente de obra se releva con **1 mes de antelación** (Enero 2027 a Diciembre 2027), garantizando un colchón de 15 a 30 días con subestaciones **"SET OK"** antes de la llegada de las cuadrillas.
+
+---
+
+## 📋 Propuesta Operativa de Despliegue MI 2027 (Escenarios 14k vs. 21k u./mes y Matriz de 24 Decisiones)
+
+Conforme al dictamen técnico emitido el **28/10/2026** ([`docs/09_propuesta_despliegue_mi_2027_operativa_escenarios_contratistas.md`](docs/09_propuesta_despliegue_mi_2027_operativa_escenarios_contratistas.md) y [`docs/licitacion_5573/Propuesta-despliegue-MI-2027.pdf`](docs/licitacion_5573/Propuesta-despliegue-MI-2027.pdf)), se modela el plan operativo de campo bajo las siguientes directivas estratégicas:
+
+1. **Prioridad Absoluta a Córdoba Capital (Zona A)**: Cupo bruto de 200.000 medidores (180.000 netos aplicando la reserva dinámica del 10%). Se consume CLOU disponible y se completa con NANSEN.
+2. **El Interior es 100% NANSEN**: Se alimenta del excedente que deja Capital tras abastecer su meta. Cuotas escalonadas: Río Cuarto (Julio 2027), Villa María (Octubre 2027), San Francisco (Enero 2028) y Villa Allende (Enero 2028).
+3. **Comparativa de Escenarios de Ritmo**:
+   * **2 Contratistas (14.000 u./mes - Capacidad actual)**: Capital termina en **Abril de 2028** (acumula 136k a Dic-27). Al Interior le quedan **96.299 NANSEN** (termina en Agosto 2028).
+   * **3 Contratistas (21.000 u./mes - Ampliación sugerida)**: Capital termina en **Noviembre de 2027** (completa los 180k en el año). Al Interior le quedan **60.571 NANSEN** (termina en Abril 2028).
+4. **Desbalance Estructural de Fases**:
+   * **Sobrante de Trifásicos**: Entran 80.000 u. (70.700 netos EPEC), pero la demanda real es del 9% en Capital y 11-14% en Interior. El cronograma sólo utiliza entre 23.597 (33%) y 28.141 (40%).
+   * **Tensión en Monofásicos**: Con 2 contratistas se exige el **105%** de los monofásicos que ingresan.
+5. **Dudas y Decisiones Críticas**: Se formaliza el pliego de **24 preguntas estratégicas** sobre discrepancias de lotes (5 vs. 7 en Nansen), destino de trifásicos, mix de Cooperativas y capacidad contractual.
+6. **Incorporación de Planes 14 y 15 (Centro Subterráneo)**: Considerados formalmente bajo protocolo especial (espacios confinados, antenas uplink remotas, pre-requisito de dibujo GIS y absorción de 6.339 trifásicos directos) enlazados a la llegada del Lote CLOU E4.
+
+---
+
+## 🛠️ Estructura del Repositorio
+
+```
+despliegue-medidores-inteligentes-ami/
+├── README.md                                 # Memoria técnica y lineamientos contractuales
+├── index.html                                # Tablero interactivo SPA ejecutivo
+├── style.css                                 # Estilos ejecutivos Dark Mode
+├── app.js                                    # Lógica interactiva de simulación y filtros
+├── data/
+│   ├── cronograma_entregas_ami.json          # Matriz de entregas, VP y fechas disponibles
+│   ├── diagnostico_planes_capital.json       # Datos por plan de Capital
+│   ├── relevamiento_interior.json            # Puntos censados por distrito interior
+│   ├── conteo_medidores_mi_sigec.csv         # Universo de suministros SIGEC
+│   ├── tasas_instalacion_relevamiento.json   # Tasas reales históricas de campo
+│   ├── simulacion_equilibrio_zona_a.csv      # Simulación de equilibrio Zona A
+│   └── plan_maestro_despliegue_360k.csv      # Plan Maestro Contractual mensual y acumulado
+├── docs/
+│   ├── 01_analisis_licitacion_5573_ordenes_provision.md
+│   ├── 02_metodologia_despliegue_set_concentradores_plc.md
+│   ├── 03_compatibilidad_marcas_y_fronteras_electricas.md
+│   ├── 04_plan_de_accion_cuadrillas_y_relevamientos.md
+│   ├── 05_equilibrio_relevamiento_instalacion_stock_zona_a.md
+│   ├── 06_plan_maestro_despliegue_contractual_360k.md
+│   ├── 07_simulacion_epec_307k_cooperativas_97k_prioridades_interior.md
+│   ├── 08_graficas_ejecutivas_flujo_mensual_y_balance_stock.md
+│   ├── 09_propuesta_despliegue_mi_2027_operativa_escenarios_contratistas.md
+│   └── licitacion_5573/                      # Pliegos, OPs oficiales y Propuesta 2027 en PDF
+├── scripts/
+│   ├── consulta_sigec_medidores_mi_telemedibles.sql
+│   ├── analisis_tasas_instalacion_relevamiento.py
+│   ├── simulacion_equilibrio_zona_a.py
+│   ├── plan_maestro_despliegue_360k.py
+│   └── exportar_excel_simulacion_ami.py      # Generador del modelo oficial Excel 307k
+└── assets/img/                               # Cartografía GIS y gráficos ejecutivos
+```
+
+---
+
+*© 2026 EPEC · PROTELEM · Gerencia de Distribución · División Medidores y Conexiones.*

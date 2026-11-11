@@ -1,0 +1,4106 @@
+[00:00:25] [suspiro] Bueno, como les decía, clase
+[00:00:27] 12. [carraspeo]
+[00:00:31] La primera pregunta, consideración
+[00:00:35] es, ¿qué es la generación distribuida
+[00:00:37] domiciliaria por oposición a la
+[00:00:39] generación distribuida
+[00:00:42] eh
+[00:00:45] como varios, por ejemplo, el plan verano
+[00:00:48] donde hay equipos de generación diésel
+[00:00:50] que vienen a paliar una situación de
+[00:00:52] déficit del transporte que también la
+[00:00:54] llamamos generación distribuida, como
+[00:00:56] por ejemplo los parques que hace
+[00:00:58] Prinhead, eh, y que están instalados y
+[00:01:00] que están operados
+[00:01:02] y mantenidos por las cooperativas o las
+[00:01:04] distribuidoras que tienen área de
+[00:01:06] concesión donde ese parque está
+[00:01:08] instalado. A eso también lo llamamos
+[00:01:10] generación distribuida.
+[00:01:12] Eh, no obstante eso, dentro de la
+[00:01:14] generación distribuida nos vamos a a
+[00:01:17] centrar en esta clase a la domiciliaria.
+[00:01:20] Respecto de la domiciliaria es aquel
+[00:01:23] sistema donde un usuario de energía
+[00:01:25] eléctrica a partir de fuentes de origen
+[00:01:27] renovable en su punto de de consumo o de
+[00:01:32] suministro genera eh para su autoconsumo
+[00:01:36] y eventualmente inyectar el excedente a
+[00:01:40] la redistribución del prestador que le
+[00:01:42] brinda el servicio público.
+[00:01:45] Esta definición va a ser exactamente la
+[00:01:49] misma, independientemente que estemos
+[00:01:52] hablando de la generación distribuida
+[00:01:53] domiciliaria individual o la
+[00:01:55] comunitaria, que son los dos regímenes
+[00:01:58] que tenemos en provincia hasta el
+[00:02:00] momento eh aprobados y vigentes.
+[00:02:04] Vamos a comenzar con eh el régimen en la
+[00:02:06] normativa eh nacional. La ley 27424
+[00:02:12] estableció el régimen de fomento y ese
+[00:02:15] decreto reglamentario 986 del 2018 y
+[00:02:18] tuvo su modificatorio por el 471.
+[00:02:22] Vamos a ver respecto de la normativa
+[00:02:24] nacional eh con condiciones o parámetros
+[00:02:29] bien macro eh limitados porque esta
+[00:02:32] normativa no nos aplica en provincia de
+[00:02:34] Buenos Aires. Así que es simplemente
+[00:02:35] como para introducir el tema y nosotros
+[00:02:38] tenemos una adhesión parcial a esta
+[00:02:39] normativa. Desde ese lugar es que se los
+[00:02:42] voy a a poner a consideración, ¿no? así
+[00:02:44] como el marco regulatorio nacional o la
+[00:02:46] ley 1536,
+[00:02:48] eh donde la provincia, digamos, se
+[00:02:50] inserta dentro de ese marco normativo o
+[00:02:53] sistema eléctrico interconectado
+[00:02:54] nacional, ¿no? Es en este caso
+[00:02:58] el objetivo de la ley 27424. Fija
+[00:03:01] políticas tendientes a establecer
+[00:03:02] condiciones y jurídicas contractuales
+[00:03:05] para la generación de origen renovable
+[00:03:07] por parte de los usuarios a la red de
+[00:03:09] distribución. lo mismo para autoconsumo
+[00:03:11] y eventualmente insertar esos excedentes
+[00:03:14] en la red de distribución.
+[00:03:16] Establece la obligación de los
+[00:03:17] prestadores de facilitar esa inyección.
+[00:03:20] tiende a diversificar la matriz
+[00:03:23] energética nacional, a mejorar las
+[00:03:25] condiciones de seguridad del
+[00:03:26] abastecimiento y esta normativa declara
+[00:03:28] de interés nacional la generación
+[00:03:31] distribuida de energía eléctrica a
+[00:03:33] partir de fuentes renovables para
+[00:03:34] autoconsumo y eventual inyección de esos
+[00:03:37] excedentes.
+[00:03:39] Los objetivos de esta normativa nacional
+[00:03:41] fueron, al momento de su dictado, que
+[00:03:43] data del 2018,
+[00:03:47] la eficiencia energética,
+[00:03:49] la pretensión de reducir pérdidas en el
+[00:03:51] sistema interconectado, la reducción de
+[00:03:54] costos en el sistema eléctrico en su
+[00:03:56] conjunto, la protección ambiental
+[00:03:59] prevista en el artículo 41 de la
+[00:04:01] Constitución Nacional y la protección de
+[00:04:03] los derechos de usuarios en cuanto a la
+[00:04:05] equidad, la no discriminación
+[00:04:08] eh y la libre instalación, la libre
+[00:04:11] participación en los servicios en
+[00:04:13] instalación de transporte y
+[00:04:14] distribución.
+[00:04:16] La metodología que utiliza esta ley
+[00:04:18] nacional, que si ustedes la leen o
+[00:04:21] algunos quizás ya la haya leído,
+[00:04:24] tiene un nivel de detalle tal que tiene
+[00:04:27] quizá una naturaleza más de tipo
+[00:04:30] reglamentaria para los que nos dedicamos
+[00:04:32] al derecho.
+[00:04:35] Quizá tiene un nivel de detalle que no
+[00:04:37] es propio de una de una ley, si es más
+[00:04:40] de una reglamentación
+[00:04:42] casi no de un decreto, sino más de una
+[00:04:45] este detalle o desagregado de cómo tiene
+[00:04:48] que facturar, de cómo tiene el usuario
+[00:04:50] que pedir eh al distribuidor. Es un
+[00:04:54] nivel de detalle tal que es más de una
+[00:04:56] autoridad de aplicación, eh una
+[00:04:58] autoridad regulatoria más que de una
+[00:05:01] ley.
+[00:05:03] Esta normativa nacional utiliza el
+[00:05:05] mecanismo del balance neto de
+[00:05:07] facturación
+[00:05:08] e que nosotros precisamente no es el
+[00:05:12] mecanismo que utilizamos y por eso lo
+[00:05:14] menciono. Este balance neto de
+[00:05:16] facturación utiliza el mecanismo del
+[00:05:19] único medidor, de un medidor
+[00:05:21] bidireccional. El balance neto de
+[00:05:23] facturación es un sistema que compensa
+[00:05:25] la facturación los costos de la energía
+[00:05:28] demandada de la red con la inyectada a
+[00:05:31] la red, digamos, hace el valor neto
+[00:05:33] entre ambas cosas y eso es lo que
+[00:05:35] factura en la reglamentación. eh ese
+[00:05:39] decreto 986 eh que se publicaron ambos
+[00:05:44] el mismo día, es decir, se atrasó tanto
+[00:05:47] eh la aprobación de la ley 27424 que la
+[00:05:50] reglamentación por el decreto 986 del
+[00:05:53] 2018 ya estaba listo, que ambas normas
+[00:05:56] se publicaron el mismo día.
+[00:05:59] Entonces, lo que la ley no alcanzó a
+[00:06:01] decir, lo dijo el decreto y aparece todo
+[00:06:03] como un bloque único normativo.
+[00:06:06] La reglamentación establece que este
+[00:06:08] sistema de balance neto eh el
+[00:06:11] distribuidor tiene que efectuar el
+[00:06:13] cálculo de esa compensación y lo factura
+[00:06:15] en forma discriminada. el volumen de la
+[00:06:17] energía demandada, la inyectada, los
+[00:06:20] precios de cada uno por kilw hh y
+[00:06:23] determina el valor a pagar por el
+[00:06:24] usuario generador. Como les decía, es el
+[00:06:27] resultante, el cálculo neto entre el
+[00:06:29] valor monetario de la energía demandada
+[00:06:31] y la energía inyectada. Y el medior
+[00:06:34] bidireccional no aparece en la ley como
+[00:06:36] tal, pero sí aparece en el decreto
+[00:06:38] reglamentario. Como les decía, todo en
+[00:06:40] el mismo día de publicación como único
+[00:06:43] sistema. Sí. Y ahí es donde tenemos la
+[00:06:45] principal diferencia.
+[00:06:47] Eh, esta metodología que utiliza la ley
+[00:06:50] nacional,
+[00:06:52] que es obviamente la que aplica eh
+[00:06:54] cualquier usuario generador que se
+[00:06:56] instale en el área de de Nora y de sur
+[00:06:59] eh
+[00:07:01] bajo jurisdicción, la distribución bajo
+[00:07:02] jurisdicción nacional.
+[00:07:05] tiene la particularidad de que, como les
+[00:07:08] decía, este balance neto no determina
+[00:07:12] cuál es la categoría tarifaria para
+[00:07:14] proteger el BAD, es decir, que el
+[00:07:17] usuario generador paga una categoría de
+[00:07:19] BAD diferente por el cuadro tarifario
+[00:07:22] diferente que tiene de Nore de Sur. E y
+[00:07:25] ahí es donde nosotros quisimos
+[00:07:27] principalmente diferenciarnos.
+[00:07:29] Esta ley 27424
+[00:07:32] invita a todas las las provincias a
+[00:07:35] adherir al régimen de la generación
+[00:07:38] distribuida domiciliaria que implementa
+[00:07:40] esta ley, tanto a las provincias como a
+[00:07:42] CABA, que con la reforma del año 94 de
+[00:07:45] la Constitución Nacional, Cava pasó a
+[00:07:47] ser una provincia, digamos, la autonomía
+[00:07:49] que se le confiere a la a la ciudad
+[00:07:51] autónoma de Buenos Aires pasa a ser como
+[00:07:53] una provincia más.
+[00:07:57] El decreto reglamentario
+[00:07:59] del año 2018, como les decía, publicado
+[00:08:02] el mismo día que la ley,
+[00:08:05] reglamenta en el artículo 25 del anexo 1
+[00:08:08] esta invitación a herir que cada
+[00:08:11] provincia podía hacer y tuvo esta
+[00:08:14] particularidad
+[00:08:16] eh indicando que
+[00:08:20] todos las provincias ICAVA debíamos
+[00:08:23] adherir íntegramente al régimen de la 27
+[00:08:26] 424. Y esta palabra es la que determinó
+[00:08:30] que la provincia de Buenos Aires no lo
+[00:08:32] hiciera.
+[00:08:36] Se pensó, digamos, y como venimos
+[00:08:39] diciendo desde la clases anteriores, en
+[00:08:43] esta cuestión de que el artículo 121 de
+[00:08:46] la Constitución Nacional
+[00:08:48] establece que cada provincia conserva el
+[00:08:51] poder no delegado a la nación, que en
+[00:08:54] virtud de ese poder no delegado
+[00:08:56] expresamente a la nación o el que por
+[00:08:58] pactos especiales nos hubiéramos
+[00:08:59] reservado como provincia, como todas las
+[00:09:02] provincias, ¿no? no solamente la
+[00:09:03] provincia de Buenos Aires.
+[00:09:05] Eh, y por lo que por lo que considera el
+[00:09:08] artículo 11 de la Ley 1536, cada
+[00:09:11] provincia es la que tiene la competencia
+[00:09:13] y jurisdicción para eh establecer lo que
+[00:09:16] considere necesario para el servicio de
+[00:09:19] distribución de energía eléctrica.
+[00:09:22] La ley 27424 en esta naturaleza tan
+[00:09:25] detallada, tan reglamentaria, establecía
+[00:09:27] condiciones de distribución que eran
+[00:09:30] solamente aplicables en nuestro modo de
+[00:09:32] ver y en salvaguarda precisamente este
+[00:09:35] artículo 121 de la Constitución que le
+[00:09:38] eran de aplicación únicamente para de
+[00:09:40] nor de sur, no así para la provincia de
+[00:09:42] Buenos Aires. Si nosotros adheríamos
+[00:09:44] como provincia en forma íntegra a esa
+[00:09:47] normativa, estábamos perdiendo esta
+[00:09:50] potestad que expresamente había
+[00:09:51] reservado la Constitución Nacional para
+[00:09:53] cada provincia y nuestra propia
+[00:09:55] Constitución Provincial. En función de
+[00:09:57] eso, la provincia de Buenos Aires
+[00:10:00] adhiere parcialmente
+[00:10:02] a esta este ley 27424
+[00:10:05] y adhiere solamente a los beneficios
+[00:10:07] impositivos y promocionales que
+[00:10:09] establece esa o estableció. Ahora vamos
+[00:10:13] a ver por qué digo estableció esta la
+[00:10:15] E27424.
+[00:10:17] Eso valió que desde el 2022 que la
+[00:10:21] provincia de Buenos Aires adhiere,
+[00:10:24] no se sabía muy bien si podíamos gozar
+[00:10:27] de estos beneficios impositivos que
+[00:10:29] establecía la ley, porque la normativa
+[00:10:30] nacional decía que teníamos que adherir
+[00:10:32] íntegramente.
+[00:10:35] Ahí está como desfasado este en esto que
+[00:10:38] les estoy contando respecto de la
+[00:10:39] normativa. El decreto 471 del 23
+[00:10:43] modifica este artículo 25 del anexo 1
+[00:10:47] del decreto 986 y dice que los
+[00:10:50] beneficios promocionales e impositivos
+[00:10:53] que estaban disponibles para el régimen
+[00:10:55] nacional podían ser aplicados por los
+[00:10:58] usuarios de las jurisdicciones que
+[00:10:59] hubieran adherido íntegra o parcialmente
+[00:11:02] al régimen de esta ley 27424.
+[00:11:05] digamos, este decreto del 18 hasta el 23
+[00:11:08] estuvimos con los que adherían eh
+[00:11:10] íntegramente por 5 años y acá con este
+[00:11:14] decreto se modifica y digamos se respeta
+[00:11:18] lo que el artículo 121 de la
+[00:11:19] Constitución Nacional establece en
+[00:11:21] materia de distribución donde cada
+[00:11:23] provincia tiene la potestad de
+[00:11:25] establecer el régimen que cada uno
+[00:11:27] decida.
+[00:11:29] Estos beneficios impositivos
+[00:11:31] promocionales que establecía la ley
+[00:11:33] 27424
+[00:11:35] son de estos tres tipos que vemos en
+[00:11:37] esta filmina. Tenemos beneficios
+[00:11:39] promocionales, impositivos y fiscales
+[00:11:41] que actuaban o funcionaban como una
+[00:11:43] especie de certificado de crédito
+[00:11:46] fiscal. Podía ser aplicado para la
+[00:11:49] cancelación por cualquier usuario de
+[00:11:52] cualquier este categoría tarifaria,
+[00:11:53] cualquier usuario individual o
+[00:11:55] comunitario también.
+[00:11:57] eh
+[00:11:59] contra impuestos nacionales como IVA,
+[00:12:02] ganancias, anticipos a las ganancias,
+[00:12:06] este tenían determinado un valor hasta
+[00:12:08] qué monto podía un usuario, este
+[00:12:11] generador domiciliario utilizar ese
+[00:12:14] certificado.
+[00:12:16] Eh, ese monto se fue modificando con el
+[00:12:19] paso del tiempo.
+[00:12:22] Después también establecía esta
+[00:12:24] normativa dos fondos fiduciarios, dos
+[00:12:27] fideicomisos. El primero, el FODIS, que
+[00:12:30] estaba destinado al desarrollo de la
+[00:12:31] generación distribuida, con la finalidad
+[00:12:33] de otorgar créditos, garantías,
+[00:12:35] incentivos para adquirir este
+[00:12:40] instrumentos, para adquirir este
+[00:12:43] sistemas de generación distribuida y
+[00:12:46] también para financiar, difusión,
+[00:12:49] desarrollo de metodologías, tecnologías
+[00:12:52] para implementar este tipo de de
+[00:12:54] régimen. Y por último, eh esta normativa
+[00:12:58] también estableció la creación del Fancy
+[00:13:00] Head, que era eh un régimen de fomento
+[00:13:02] específicamente para fabricación
+[00:13:04] nacional de equipos, insumos para que
+[00:13:08] esta generación distribuida domiciliaria
+[00:13:11] pudiera explotar eh en la manera en que
+[00:13:14] se pensó que iba a hacerlo. digo y hablo
+[00:13:18] en tiempo pasado porque todos estos
+[00:13:20] beneficios impositivos y fiscales
+[00:13:23] eh por el decreto por el DNU 70 del 2023
+[00:13:27] en el artículo 176 fueron derogados.
+[00:13:30] Entonces hoy no existen beneficios
+[00:13:34] promocionales, impositivos o fiscales
+[00:13:37] vigentes a nivel nacional. Sí.
+[00:13:42] la la generación distribuida de tipo
+[00:13:44] domiciliaria en la provincia de Buenos
+[00:13:46] Aires. Ahora nos vamos a centrar
+[00:13:48] específicamente en lo que es propio, en
+[00:13:50] lo que tenemos que aplicar nosotros,
+[00:13:52] digamos, los regulador, el regulador, el
+[00:13:54] organismo de control y cada una de las
+[00:13:56] distribuidoras
+[00:13:58] que conforman y que estamos bajo la
+[00:13:59] jurisdicción de la provincia de Buenos
+[00:14:00] Aires. El marco normativo, bueno, ahí
+[00:14:03] van a tener un la cita normativa, no voy
+[00:14:05] a empezar con cada una de ellas porque
+[00:14:07] ahora lo vamos a ver específicamente en
+[00:14:08] cada una de las filminas.
+[00:14:11] Empezamos con el marco regulatorio
+[00:14:12] provincial. El marco regulatorio
+[00:14:14] provincial, como hablábamos el otro día
+[00:14:17] en la clase cuando hablábamos de los
+[00:14:19] agentes de la actividad eléctrica que
+[00:14:21] nomina nuestro marco regulatorio y a
+[00:14:23] diferencia del marco regulatorio
+[00:14:25] nacional, habla del autogenerador. Y yo
+[00:14:28] les dije, recuerden esta definición que
+[00:14:30] la vamos a usar en la próxima clase.
+[00:14:32] Bueno, ¿qué es el autogenerador? Es
+[00:14:34] aquel que tiene una central, dice la
+[00:14:36] norma. Fíjense que esta norma del año 96
+[00:14:39] en su redacción originaria ya tenía esta
+[00:14:41] definición titular de una central
+[00:14:43] eléctrica radicada en la provincia de
+[00:14:45] Buenos Aires que está destinada a
+[00:14:47] satisfacer sus propias necesidades, el
+[00:14:49] autoconsumo y eventualmente insertar en
+[00:14:53] la red excedentes de esa autoproducción
+[00:14:56] y autoconsumo.
+[00:14:58] Esto nos permitió que al salir la 27424
+[00:15:05] estando en la legislatura provincial
+[00:15:07] diversos proyectos de ley, unos adherían
+[00:15:10] íntegramente, no tenían el visto bueno
+[00:15:12] del poder ejecutivo porque cualquier
+[00:15:14] proyecto de ley nos piden, más allá de
+[00:15:16] la información o de los avales que tiene
+[00:15:19] y de los análisis que tiene cada
+[00:15:21] comisión parlamentaria, piden siempre un
+[00:15:24] informe al poder ejecutivo. los
+[00:15:26] proyectos de ley que venían desde que
+[00:15:28] salió la ley 27424
+[00:15:30] al ejecutivo preguntando, "Che,
+[00:15:32] adherimos plenamente y nuestros informes
+[00:15:36] obviamente no eran consistentes con esa
+[00:15:39] adhesión plena. Eh, queríamos adherir
+[00:15:41] parcialmente por esto que les comentaba
+[00:15:44] antes. Entonces, empezaron a salir
+[00:15:46] diversos proyectos este en la en la
+[00:15:49] legislatura, depende, digamos, la
+[00:15:51] orientación política de cada diputado,
+[00:15:53] senador que presentaba estos proyectos.
+[00:15:56] perdían estado parlamentario.
+[00:15:58] Eh, motivo por el cual recién en el 2022
+[00:16:02] eh el 10 de mayo del 2022 se dicta la
+[00:16:06] ley 15325.
+[00:16:08] Esta ley
+[00:16:10] es la que crea un régimen de fomento
+[00:16:12] provincial a la generación distribuida
+[00:16:15] eh como régimen propio. Declara de
+[00:16:19] interés provincial la generación
+[00:16:21] distribuida a partir del uso de fuentes
+[00:16:22] renovables para autoconsumo y eventual
+[00:16:25] eh inyección de excedentes.
+[00:16:28] Adiere solo a los beneficios
+[00:16:31] promocionales, impositivos y fiscales de
+[00:16:33] la normativa de la 27424.
+[00:16:37] Esta ley faculta al poder ejecutivo a
+[00:16:39] determinar quién iba a ser la autoridad
+[00:16:41] de aplicación de la normativa. Le exige
+[00:16:45] que esa autoridad de aplicación
+[00:16:47] reglemente en 180 días todo el
+[00:16:49] funcionamiento este y la normativa y a
+[00:16:53] coordinar con la autoridad nacional, esa
+[00:16:55] autoridad de aplicación provincial con
+[00:16:57] la nacional los detalles que debiéramos
+[00:17:00] este acordar eh con la autoridad
+[00:17:02] nacional.
+[00:17:04] Como les decía, establece un régimen
+[00:17:06] propio provincial y en ese régimen
+[00:17:08] propio provincial establece esta
+[00:17:10] normativa propios eh exenciones
+[00:17:13] impositivas propias este de titularidad
+[00:17:16] provincial. En este caso, las exenciones
+[00:17:19] impositivas se establecen por un plazo
+[00:17:22] de 12 años a contar a partir de la
+[00:17:25] reglamentación,
+[00:17:27] prorrogables por otro, en forma
+[00:17:29] automática, por otro periodo idéntico.
+[00:17:32] Es decir, que por 24 años tenemos a
+[00:17:35] través de este marco normativo
+[00:17:36] exenciones a dos impuestos. impuesto de
+[00:17:39] de ingresos brutos, que es eh la
+[00:17:43] exención que se da o se aplica respecto
+[00:17:46] de la inyección de los excedentes de un
+[00:17:49] usuario generador a la red de
+[00:17:50] distribución y la exención del impuesto
+[00:17:52] de sellos como todo tipo de contrato que
+[00:17:55] se suscriba en el ámbito de la provincia
+[00:17:56] de Buenos Aires, tribute impuesto de
+[00:17:58] sellos. El contrato que deba suscribir
+[00:18:01] la distribuidora provincial o municipal
+[00:18:04] indistinto con el usuario generador,
+[00:18:07] obviamente tributaba sellos. La
+[00:18:08] normativa dijo, está exento de ese
+[00:18:11] impuesto de sellos. Esta ley provincial
+[00:18:14] establece la promoción a través del
+[00:18:16] Banco Provincia de líneas de créditos
+[00:18:18] tendientes a financiar el desarrollo de
+[00:18:20] tecnologías o la posibilidad de líneas
+[00:18:23] de compra de este paneles solares,
+[00:18:26] inversores y todo lo que haga la
+[00:18:28] instalación renovable que un usuario
+[00:18:30] generador pueda requerir para poder
+[00:18:33] convertirse en usuario generador. Y por
+[00:18:36] último, invita a los a los municipios,
+[00:18:39] perdón, de la provincia de Buenos Aires
+[00:18:41] adherir a esta norma
+[00:18:44] para que eh dispongan sus propias este
+[00:18:48] consejos deliberante a través de de
+[00:18:50] normativas propias municipales,
+[00:18:52] exenciones
+[00:18:54] que tengan que ver con las tasas
+[00:18:56] municipales que puede cualquier
+[00:18:58] municipio este establecer. Y bueno,
+[00:19:00] acoplándose a esta este a este régimen
+[00:19:03] de fomento provincial, se ha requerido.
+[00:19:06] Algunos municipios ya tienen alguna
+[00:19:07] normativa, alguna ordenanza declarando
+[00:19:10] de interés municipal este
+[00:19:13] el régimen de fomento establecido por
+[00:19:15] esta ley, pero son muy pocos a la fecha
+[00:19:18] los municipios que que lo han hecho.
+[00:19:22] Y lo más importante, que ya se los dije
+[00:19:24] antes, es esta adhesión parcial en
+[00:19:26] salvaguarda precisamente de la
+[00:19:28] jurisdicción y competencia de la
+[00:19:29] provincia en materia de distribución del
+[00:19:32] servicio público de distribución. Y esto
+[00:19:34] es lo que vamos a ver ahora en esta
+[00:19:37] protección y por qué hicimos eh esta
+[00:19:40] salvaguarda.
+[00:19:43] Respecto de esta ley 15325,
+[00:19:47] Ley Provincial de Adhesión y Régimen de
+[00:19:49] Fomento Propio.
+[00:19:51] Este decreto 2371
+[00:19:54] determina que la autoridad de aplicación
+[00:19:56] de este marco normativo es el Ministerio
+[00:19:59] de Infraestructura y Servicios Públicos.
+[00:20:01] Precisamente por qué. Porque el marco el
+[00:20:04] perdón, el Ministerio de Infraestructura
+[00:20:05] y Servicios Públicos es la autoridad de
+[00:20:07] aplicación del marco regulatorio de
+[00:20:10] energía eléctrica en la provincia.
+[00:20:11] Entonces debíamos concentrar en la misma
+[00:20:14] autoridad de aplicación, obviamente, eh
+[00:20:17] ambas normativas, no solamente porque
+[00:20:20] se, digamos, ahí también se discutió,
+[00:20:22] pero mira, hay cuestiones que hacen al
+[00:20:24] ambiente, entonces podría ser
+[00:20:25] concurrente. En realidad, digamos, como
+[00:20:28] usuario, generador era un usuario de la
+[00:20:31] actividad eléctrica. Entonces,
+[00:20:33] necesariamente eh no digo que no tuviera
+[00:20:36] que ver lo ambiental o el Ministerio de
+[00:20:38] la Producción por el equipamiento, este,
+[00:20:42] pero la autoridad de aplicación
+[00:20:43] necesariamente debía ser el Ministerio
+[00:20:45] de Infraestructura de Servicio, de
+[00:20:47] infraestructur servicios públicos,
+[00:20:49] precisamente por esto, por ser la
+[00:20:51] autoridad de aplicación del marco
+[00:20:52] regulatorio de energía eléctrica.
+[00:20:54] Este decreto le habilita al Ministerio
+[00:20:57] establecer las condiciones técnicas,
+[00:20:59] jurídicas y contractuales y tarifarias
+[00:21:01] para establecer que esta generación
+[00:21:02] distribuida domiciliaria,
+[00:21:03] independientemente si es individual o
+[00:21:05] comunitaria, este
+[00:21:08] dicte la normativa específica y le da
+[00:21:11] las atribuciones para, en todo caso,
+[00:21:13] vincularse con el Estado nacional para
+[00:21:15] la implementación de cualquier actividad
+[00:21:16] que, digamos, que no fuera
+[00:21:18] específicamente esto propio de
+[00:21:20] distribución.
+[00:21:24] Este decreto reglamentario ya define qué
+[00:21:27] se entiende por usuario generador.
+[00:21:29] Usuario generador, como les digo, es
+[00:21:31] genérico a si es individual o si es
+[00:21:34] comunitario.
+[00:21:36] ¿Qué es un usuario generador? Es el
+[00:21:38] usuario del Servicio Público de
+[00:21:40] Distribución de Energía eléctrica, sea
+[00:21:42] de una distribuidora provincial o de una
+[00:21:44] distribuidora municipal, siempre bajo el
+[00:21:46] amparo de la ley 11769. lo que no está
+[00:21:48] bajo el amparo, es decir, de nor de sur
+[00:21:51] se rige por aquella normativa. Tenemos
+[00:21:52] que bajarlo sí o sí a un usuario de la
+[00:21:55] ley 11769 que instala en su en su
+[00:21:58] domicilio, en el punto de suministro,
+[00:22:01] eh equipamiento de origen renovable
+[00:22:03] tendiente a autogenerarse para su propio
+[00:22:06] autoconsumo y eventualmente eh inyectar
+[00:22:09] a la red.
+[00:22:11] Eh, obviamente siempre y cuando respete
+[00:22:14] o cumpla los requisitos técnicos que se
+[00:22:16] va a exigir en cada una de las
+[00:22:17] normativas que vamos a ir viendo en esta
+[00:22:19] clase.
+[00:22:21] Eh, la solicitud de este usuario
+[00:22:23] generador se limita a la potencia que
+[00:22:26] tenga contratada. Es decir, cada usuario
+[00:22:28] generador no puede en ese punto de
+[00:22:30] suministro eh generar más que la
+[00:22:34] potencia que tenga, depende su categoría
+[00:22:36] tarifaria contratada con su
+[00:22:38] distribuidor. Vamos a ver luego la
+[00:22:40] excepción en la comunitaria.
+[00:22:42] No están comprendidos y lo dice el
+[00:22:44] decreto para el usuario generador, como
+[00:22:46] les digo, en forma genérica, los
+[00:22:48] usuarios, los grandes usuarios o
+[00:22:50] autogeneradores que compran directamente
+[00:22:53] en el mercado eléctrica muallarista.
+[00:22:55] Todo ese todo ese tipo de usuario no
+[00:22:57] aplica esta normativa.
+[00:23:00] Este decreto reglamentario también crea
+[00:23:02] el registro de usuarios generadores de
+[00:23:04] energía renovable de la provincia de
+[00:23:06] Buenos Aires. Lo van a escuchar
+[00:23:08] sucesivamente en esta clase. Ruger.
+[00:23:11] Eh, este Ruger, este registro e el
+[00:23:15] decreto reglamentario estableció que iba
+[00:23:17] a ser la autoridad de aplicación la que
+[00:23:20] determine las condiciones, dónde iba a
+[00:23:22] funcionar. eh funciona en la órbita de
+[00:23:25] Oceva. Después vamos a ver. Pablo este
+[00:23:28] va a hablar un poquito de un poco
+[00:23:30] bastante del registro e y permite
+[00:23:34] digamos la inscripción en el registro en
+[00:23:36] el Ruger permite que cada uno de los
+[00:23:39] usuarios acceda las extensiones
+[00:23:41] impositivas que establece eh nuestra
+[00:23:44] ley.
+[00:23:45] Y acá, independientemente si el usuario
+[00:23:48] es usuario de las distribuidoras
+[00:23:50] provinciales o municipales y tiene todo
+[00:23:52] el procedimiento específico, sino
+[00:23:53] también para los usuarios en territorio
+[00:23:57] provincial desde Nores de Sur y que
+[00:23:58] aplican aquella normativa que estuvimos
+[00:24:01] hablando antes. Sí, también esos
+[00:24:03] usuarios que son de Nores de Sur gozar
+[00:24:06] de estas extensiones impositivas creadas
+[00:24:09] para todo el territorio provincial.
+[00:24:12] eh y determina un poco el procedimiento
+[00:24:14] para la inscripción y obtención de estos
+[00:24:16] beneficios.
+[00:24:19] ¿Cómo van hasta acá? ¿Alguna pregunta,
+[00:24:21] duda? ¿Van bien?
+[00:24:25] Bueno, espero que sí veo algunas
+[00:24:27] manitos, así que
+[00:24:29] bien, bien.
+[00:24:33] Vamos a entrar ahora eh en esta
+[00:24:37] resolución 463 que es ya la domiciliaria
+[00:24:41] individual. Sí.
+[00:24:44] E
+[00:24:47] esta resolución es la que, fíjense que
+[00:24:49] el decreto le dio la potestad a la
+[00:24:51] autoridad de aplicación, definió que la
+[00:24:53] autoridad de aplicación era el
+[00:24:54] ministerio. Entonces el ministerio tiene
+[00:24:56] que determinar las condiciones
+[00:24:58] económicas, jurídicas, contractuales,
+[00:25:00] tarifarias para que esto, esta
+[00:25:02] generación distribuida eh domiciliaria
+[00:25:05] tenga aplicación. para el individual
+[00:25:08] dictó esta resolución 463
+[00:25:11] eh que ahora vamos a ir desglosando
+[00:25:13] punto por punto.
+[00:25:16] Establece cuestiones generales de
+[00:25:18] procedimiento,
+[00:25:20] sobre todo vinculado a la instalación y
+[00:25:22] conexión de estos equipos de generación
+[00:25:24] distribuida que deben efectuarse
+[00:25:27] conforme a esta normativa,
+[00:25:30] principalmente porque el usuario va a
+[00:25:32] operar un sistema en paralelo a la red.
+[00:25:35] Entonces esta instalación no debe
+[00:25:38] comprometer de ningún modo la seguridad
+[00:25:41] del usuario, de las instalaciones de los
+[00:25:44] usuarios, ni de la red, eh, ni
+[00:25:48] obviamente los usuarios lindantes, este,
+[00:25:51] que la conforman.
+[00:25:53] Eh, establece cuál es el procedimiento,
+[00:25:57] tanto la individual como la comunitaria.
+[00:25:59] Se inicia siempre a solicitud del
+[00:26:01] usuario ante la distribuidora.
+[00:26:04] [carraspeo]
+[00:26:05] Eh, se requiere que todo este tipo de
+[00:26:08] instalación esté a cargo de un técnico o
+[00:26:11] profesional que sea responsable
+[00:26:13] matriculado, es decir, que se haga cargo
+[00:26:16] con su firma de lo que está haciendo,
+[00:26:19] ¿no? Eh, sobre todo frente a estas
+[00:26:22] condiciones de seguridad, eh, no
+[00:26:25] solamente internas de la instalación,
+[00:26:27] que sería un resguardo propio del
+[00:26:28] usuario, sino para la red del
+[00:26:30] distribuidor y para el resto de los
+[00:26:32] usuarios.
+[00:26:34] Eh, y además establece también que
+[00:26:36] obviamente deben, digamos seguirse los
+[00:26:39] criterios que se establecen en la
+[00:26:40] normativa respecto de los equipos eh y
+[00:26:43] la instalación que debe realizarse.
+[00:26:47] Esta solicitud a requerimiento del
+[00:26:49] usuario eh siempre es el titular del
+[00:26:52] suministro frente a la distribuidora que
+[00:26:55] va a solicitar la factibilidad técnica
+[00:26:58] de la conexión. ¿Qué significa esta
+[00:27:01] factibilidad técnica? El usuario va a
+[00:27:03] presentar en esta solicitud serie de
+[00:27:05] datos identificatorios
+[00:27:07] que hacen, digamos, a su condición de
+[00:27:09] usuario, eh la tecnología que va a
+[00:27:12] utilizar o qué tipo de de equipamiento
+[00:27:15] quiere instalar, los planos de
+[00:27:16] instalaciones, los correspondientes y
+[00:27:19] estudios eléctricos, la potencia que
+[00:27:21] quiere instalar, los datos del
+[00:27:23] responsable de la instalación, este
+[00:27:26] instalador matriculado que va a ejecutar
+[00:27:28] la obra, eh que obviamente debe reunir
+[00:27:32] el conocimiento, la experiencia
+[00:27:34] necesaria para poder este convertirse
+[00:27:37] en el responsable de esta instalación.
+[00:27:41] Una vez que la distribuidora recibe esta
+[00:27:44] solicitud y que está completa, que
+[00:27:45] contiene toda esta listado de cosas que
+[00:27:50] exige la normativa, la distribuidora
+[00:27:53] está obligada a hacer el estudio de
+[00:27:55] factibilidad.
+[00:27:56] sobre esa documentación puede pedir este
+[00:27:59] información adicional, está claro, si es
+[00:28:01] que faltará algo o no terminara de poder
+[00:28:03] realizar este el análisis y tiene eh la
+[00:28:06] obligación de responder a la solicitud
+[00:28:08] del usuario. Esta solicitud puede ser
+[00:28:11] autorizada o rechazada por la
+[00:28:14] distribuidora. En el caso que
+[00:28:17] rechace, va a tener que eh informar cuál
+[00:28:21] es la causa del rechazo. Eh, puede ser
+[00:28:24] porque la información sea en exacta,
+[00:28:26] errónea, incompleta, que en ese caso
+[00:28:29] puede pedirle, bueno, completala y no
+[00:28:31] comienzan a correr los plazos para
+[00:28:32] evaluar,
+[00:28:34] pero puede ser rechazada por cuestiones
+[00:28:36] técnicas que hagan al punto de
+[00:28:38] suministro.
+[00:28:42] Leonardo levantó la mano. Puede ser.
+[00:28:45] Buen día. ¿Cómo estás, Guillermina?
+[00:28:47] Hola, Ezequiel. Buen día.
+[00:28:49] Tengo una consulta respecto de algo que
+[00:28:52] acabas de mencionar, que es eh
+[00:28:54] instaladores [carraspeo] matriculados.
+[00:28:57] ¿Existe una matrícula especial para el
+[00:28:59] caso de generación distribuida o es un
+[00:29:02] técnico o ingeniero matriculado en el
+[00:29:05] colegio correspondiente?
+[00:29:09] Eh, estamos, digamos, es una deuda
+[00:29:12] pendiente.
+[00:29:14] [carraspeo] muchos colegios
+[00:29:15] profesionales o digamos cursos están
+[00:29:18] dando, sería como una especie de
+[00:29:21] posgrado, si le podemos llamar así,
+[00:29:23] respecto del técnico electricista
+[00:29:26] eh que está inscripto en el Colegio de
+[00:29:28] Técnicos, está trabajando con el Colegio
+[00:29:30] de Técnicos para que habiliten
+[00:29:33] este con incumbencias a un matriculado,
+[00:29:36] digamos, a un a un instalador, eh porque
+[00:29:40] el técnico electricista tiene los
+[00:29:42] conocimientos eléctricos, pero por ahí
+[00:29:43] necesita
+[00:29:44] una especialización
+[00:29:47] puntualmente por esta normativa. Eh,
+[00:29:50] entonces se está trabajando con el
+[00:29:51] Colegio de Técnicos para que esto
+[00:29:53] suceda.
+[00:29:54] Eh, por otro lado, respecto de el
+[00:29:57] Colegio de Ingenieros, el ingeniero
+[00:30:00] electricista obviamente tiene
+[00:30:02] incumbencias para hacer esto, eh, y está
+[00:30:05] claro que sí. las otras ingenierías, una
+[00:30:08] ingeniería civil quizá no, motivo por el
+[00:30:11] cual también se estuvo hablando y
+[00:30:13] trabajando y varias reuniones con el
+[00:30:15] Colegio de Ingenieros. Eh, no sé qué
+[00:30:18] está qué grado de avance tengan eh en
+[00:30:21] estos colegios eh esto por el momento,
+[00:30:25] pero bueno, nada, esa es la idea y eso
+[00:30:28] es lo que debería suceder.
+[00:30:31] Bien. Y te repreunto en el mientras
+[00:30:34] tanto, ¿cómo cómo se resuelve?
+[00:30:36] Ingeniero, el ingeniero electricista lo
+[00:30:38] puede resolver
+[00:30:39] absolutamente tiene la incumbencia para
+[00:30:41] hacerlo.
+[00:30:42] Bien. eh el técnico electricista, a
+[00:30:45] nuestro modo de ver le estaría faltando,
+[00:30:46] digamos, no es que no tenga el
+[00:30:47] conocimiento eléctrico, sí lo puede
+[00:30:49] tener, pero bueno, nada, tiene
+[00:30:51] especificaciones que esta norma hace que
+[00:30:54] eh debiera conocer, sobre todo, digamos
+[00:30:57] e recuerden ustedes que en algún
+[00:31:01] momento, digamos, los técnicos
+[00:31:03] electricistas o el electricista
+[00:31:05] matriculado
+[00:31:07] eh son los que surgen del colegio de de
+[00:31:10] técnicos de la provincia de Buenos Aires
+[00:31:12] En algunos casos hay distribuidoras que
+[00:31:15] tienen un listado de ese electricista
+[00:31:17] matriculado que un usuario puede
+[00:31:19] levantar de la cooperativa y decir,
+[00:31:20] "Bueno, voy voy a llamar a este para que
+[00:31:22] me haga la instalación interna, para que
+[00:31:24] me aprueben eh el plano de instalación
+[00:31:28] con el que tengo que presentar al
+[00:31:29] municipio para que me autoricen,
+[00:31:32] digamos, o me den final de obra
+[00:31:34] en algún momento de la historia
+[00:31:36] eléctrica, no me acuerdo si fue en el
+[00:31:37] 2099
+[00:31:39] por ahí,
+[00:31:42] Se estableció que lo hicieran los
+[00:31:43] municipios. Los municipios no querían
+[00:31:46] correr con esa responsabilidad.
+[00:31:48] esa normativa se dejó sin efecto.
+[00:31:52] motivo por el cual, digamos, en general
+[00:31:56] varias varias cooperativas, varios
+[00:31:58] distribuidores tienen esos listados o
+[00:31:59] linkean directamente con este los
+[00:32:03] técnicos o electricistas matriculados
+[00:32:05] que tienen el colegio de técnicos de la
+[00:32:06] provincia, motivo por el cual es ahí
+[00:32:09] donde eh creo yo que estamos con el foco
+[00:32:11] en este momento como para que eso suceda
+[00:32:14] y el Colegio de Técnicos lo tenga y
+[00:32:16] podamos, digamos, dar cumplimiento
+[00:32:18] específico a esto.
+[00:32:20] Yo creo que hoy el ingeniero
+[00:32:22] electricista es el que, digamos, si bien
+[00:32:24] encarece un poco el proyecto, porque
+[00:32:27] obviamente
+[00:32:28] va a subir sus honorarios respecto de un
+[00:32:30] electricista matriculado, es el que hoy
+[00:32:32] tendría todas las incumbencias y no
+[00:32:34] habría este inconveniente. Pablo,
+[00:32:38] eh,
+[00:32:38] lo que vos quieras, cuando quieras.
+[00:32:39] Bueno, ahí les voy a aportar porque del
+[00:32:41] otro lado entiendo que hay muchos
+[00:32:43] distribuidores que lo que intentan es
+[00:32:46] saber [resoplido] hasta dónde tienen que
+[00:32:47] requerir información y visados sobre los
+[00:32:50] proyectos. Eh, la provincia entendió que
+[00:32:54] que el instalador matriculado tiene que
+[00:32:57] tener las competencias que otorga eh el
+[00:33:00] Ministerio de Educación de la Nación. En
+[00:33:02] los planes de estudio de cada carrera
+[00:33:03] están las competencias definidas para
+[00:33:05] para cada tipo de carreras y entendemos
+[00:33:09] que quien vela y quien tiene poder de
+[00:33:13] policía sobre esas competencias son los
+[00:33:15] colegios de técnicos, de ingenieros, de
+[00:33:18] profesionales. Por lo tanto, cualquier
+[00:33:21] proyecto debería ser visado para que el
+[00:33:23] colegio avale que ese profesional tiene
+[00:33:26] las competencias suficiente para
+[00:33:28] desarrollar la tarea que está
+[00:33:29] presentando ante el distribuidor. Y esa
+[00:33:32] es la tranquilidad que tiene el
+[00:33:34] distribuidor de que el equipo que está
+[00:33:36] generando en paralelo a la red cumple
+[00:33:38] con las normas mínimas y las reglas del
+[00:33:42] buen arte para estar instalado en
+[00:33:44] condiciones de seguridad, no falla y no
+[00:33:46] tenga inconvenientes.
+[00:33:48] ni para la red, ni para los empleados
+[00:33:51] que están trabajando por parte del
+[00:33:52] distribuidor en la red. Por eso se dejó
+[00:33:56] esa
+[00:33:58] competencia para que sea evaluada por el
+[00:34:01] colegio en el cual está matriculado ese
+[00:34:04] profesional. Creo que Fabián está
+[00:34:06] levantando la mano que debe estar en
+[00:34:08] consonancia con lo que estoy aportando,
+[00:34:10] pero pero bueno, si querés aportar algo
+[00:34:13] más
+[00:34:15] [carraspeo] ahí. Sí, sí, tal cual,
+[00:34:16] Pablo. Ahí para sumar.
+[00:34:19] Eh, y como mencionaba Guillermina,
+[00:34:22] eh, el problema por ahí se da en tarifas
+[00:34:25] T1, eh, que si tienen que contratar a un
+[00:34:28] ingeniero eléctrico o electromecánico
+[00:34:30] que tienen la las incumbencias en el
+[00:34:33] tema. eh por ahí realmente en lo
+[00:34:36] económico eh sube bastante el costo,
+[00:34:39] pero eh sí también como decía Pablo, el
+[00:34:42] tema de que la las incumbencias
+[00:34:44] definidas por el Ministerio de los
+[00:34:46] Técnicos hasta cierta potencia,
+[00:34:48] obviamente más limitado que que el
+[00:34:49] ingeniero en este caso sí aplica e y
+[00:34:54] obviamente validado por eh los colegios
+[00:34:57] respectivos en cuanto a la vigencia de
+[00:34:59] la matrícula, las circumbencias que que
+[00:35:02] estén validadas También nos ha pasado
+[00:35:04] desde la distribuidora encontrarnos con
+[00:35:07] errores por ahí, por eso está bueno
+[00:35:09] controlarlo de parte nuestra, de visados
+[00:35:12] de instalaciones eléctricas a
+[00:35:15] ingenierías que no correspondían, por
+[00:35:16] ejemplo, la mecánica directamente, ni
+[00:35:18] siquiera electromecánica, la mecánica.
+[00:35:20] Eh, entonces, bueno, nada, también hay
+[00:35:22] diferentes títulos eh, tanto de técnicos
+[00:35:25] como ingenieros que dependiendo el plan
+[00:35:28] y dónde fue y qué es lo las incumbencias
+[00:35:31] que se definieron para ese título en su
+[00:35:33] momento, eh te agranda o te achiga un
+[00:35:36] poquito eh ese nivel de incumbencia.
+[00:35:40] Entonces, en cuanto a potencia
+[00:35:41] instalada, por ejemplo, o cuestiones
+[00:35:43] eléctricas, tengo, por ejemplo, algunos
+[00:35:45] casos particulares de, qué sé yo, eh, en
+[00:35:49] cierto franja de años de Universidad de
+[00:35:52] La Plata para ingenieros mecánicos que
+[00:35:55] tenían competencia electromecánica eh
+[00:35:58] hasta cierta potencia. Eh, es muy
+[00:36:00] puntual y hay que verlo con cada
+[00:36:01] colegio, pero nada, el ministerio los
+[00:36:04] avala, con lo cual uno no puede ir
+[00:36:06] tampoco en contra de eso. Estaría
+[00:36:09] buenísimo que el día de mañana haya algo
+[00:36:12] que eh defina un curso, por ejemplo,
+[00:36:14] para para más que nada para los técnicos
+[00:36:17] eh que también nada les dé las
+[00:36:19] herramientas eh o sea mejores
+[00:36:21] herramientas para hacer mejor su tarea,
+[00:36:22] ¿no? Obviamente, porque nos hemos
+[00:36:24] encontrado con nosotros, obviamente
+[00:36:26] damos soporte desde la distribuidora,
+[00:36:28] pero nos hemos encontrado muchas veces
+[00:36:31] con cuestiones de de reglas del arte que
+[00:36:33] no se cumplen, ¿no? Eh, más que nada
+[00:36:35] relacionadas a todo lo que es la EA, por
+[00:36:38] ejemplo, que para este tipo de sistema
+[00:36:40] fotovoltaico, la sección 712, por
+[00:36:42] ejemplo. Pero bueno, eso es capítulo
+[00:36:45] aparte.
+[00:36:47] Ahí lo tomamos, se lo encomendamos a la
+[00:36:49] directora de carrera para que organice
+[00:36:51] [risas]
+[00:36:52] a través de del IDE y de la UTN.
+[00:36:55] Bueno, nos ponemos nos ponemos a
+[00:36:57] trabajar e
+[00:36:59] San Cayetano.
+[00:37:00] Sí. Eh, no, estamos estamos en eso. Eh,
+[00:37:03] ya tenemos algo algo
+[00:37:07] pensado, eh, precisamente para cubrir
+[00:37:11] esta esta deficiencia.
+[00:37:15] También les cuento, por ejemplo, la
+[00:37:18] provincia de Córdoba creó un registro de
+[00:37:21] instaladores matriculados,
+[00:37:23] este, precisamente para hacer esto, lo
+[00:37:25] establece la propia normativa provincial
+[00:37:29] y ese registro eh se comparte entre el
+[00:37:33] Estado y la Universidad eh de Córdoba.
+[00:37:36] Entonces, digamos, directamente es como
+[00:37:39] que la la incumbencia se la da el título
+[00:37:42] que saca la universidad. están allí
+[00:37:44] directamente y de ahí levantas los
+[00:37:46] distribuidores de la provincia de
+[00:37:47] Córdoba. Eh, nosotros nos parecía que
+[00:37:51] nuestro territorio provincial, habiendo
+[00:37:52] tantas entidades universitarias de
+[00:37:55] distintos, digamos, provinciales,
+[00:37:56] municipal provinciales o nacionales,
+[00:37:59] este, con un colegio de técnicos, un
+[00:38:02] colegio de ingenieros, nos parecía
+[00:38:03] abordar una situación que que no
+[00:38:07] correspondía. eh motivo por el cual nos
+[00:38:09] pareció mucho mejor dejarlo abierto y
+[00:38:11] que cada colegio matriculara previamente
+[00:38:14] con al digamos con quienes tuvieran esa
+[00:38:17] incumbencia digamos o ese curso
+[00:38:19] adoptado. Así que no lo hicimos igual
+[00:38:21] que otras provincias, que es el caso de
+[00:38:23] de Córdoba, al menos el que me viene a
+[00:38:25] la cabeza en este en este momento. Pero
+[00:38:27] bueno, quizás eso hubiera resuelto un
+[00:38:29] poco más esto, eh, pero bueno, decidimos
+[00:38:32] no hacerlo de esa manera.
+[00:38:35] Perdón, Guillermina, tengo una consulta
+[00:38:37] por ahí con respecto a lo normativo. que
+[00:38:40] tenés la ley 27424 a nivel nacional,
+[00:38:45] tenés la eh la otra a nivel provincial,
+[00:38:49] la 15 323 si mal no recuerdo, eh que
+[00:38:52] adhiere y después tenés una serie de
+[00:38:54] resoluciones que digamos sobre la
+[00:38:57] nacional, eh muchas de las cuales eh
+[00:39:00] tienen que ver con cuestiones también
+[00:39:02] técnicas que están buenas, si se quiere,
+[00:39:05] que por ahí no están en el detalle de
+[00:39:07] las provinciales, como digamos digamos,
+[00:39:11] interactúan, digamos, la aplicación de
+[00:39:14] esas resoluciones
+[00:39:16] nacionales sobre la ley 27424
+[00:39:22] dentro de la provincia, siendo que
+[00:39:24] nosotros adherimos parcialmente.
+[00:39:28] Te doy un ejemplo por ahí,
+[00:39:30] te doy un ejemplo. está la eh
+[00:39:33] [resoplido] la 919/23,
+[00:39:35] es una resolución que tiene que ver con
+[00:39:39] eh no sé, regulación de protecciones
+[00:39:41] eléctricas eh dentro del inversor eh
+[00:39:45] para lo que son este tipo de
+[00:39:47] instalaciones y digamos dentro de la
+[00:39:50] provincial no hay ninguna que lo
+[00:39:52] especifique.
+[00:39:55] Entonces digo, ¿cómo lo tomamos
+[00:39:58] nosotros? Porque esa aplica la 27 424.
+[00:40:01] Sí, ahí eh
+[00:40:04] hay dos partes. La normativa que aplica
+[00:40:07] es la de la provincia de Buenos Aires.
+[00:40:10] Por lo tanto,
+[00:40:11] ahora si la si la provincia de Buenos
+[00:40:12] Aires no tiene una norma que especifique
+[00:40:14] determinado aspecto, bueno, podéis ir
+[00:40:18] por las reglas del buen arte
+[00:40:22] nacional o la normativa de la EA,
+[00:40:24] que porque ambas normas, tanto la 463
+[00:40:28] como la 17, tienen párrafos dicen que
+[00:40:32] adoptes las normas eh las normas IRAM y
+[00:40:37] todas
+[00:40:40] No,
+[00:40:41] sí, sí, sí. Tal cual. La provincia no
+[00:40:43] contempló que podría
+[00:40:46] por ese lado
+[00:40:49] mejora de la normativa. La cu
+[00:40:56] suficiente y
+[00:41:01] nos dimos cuenta que habí
+[00:41:07] una
+[00:41:16] Sí, pensé que era yo, pero se escucha
+[00:41:17] bastante entrecortado, ¿verdad?
+[00:41:20] Sí, yo ya no lo escuché. Escucha
+[00:41:22] entrecortado. Se
+[00:41:23] quedaron congelados
+[00:41:25] bastante, ¿no? Todo [risas]
+[00:41:29] aparte ahora está muteado Pablo, no sé
+[00:41:31] si se dio cuenta.
+[00:41:34] Capaz que estaba hablando a través del
+[00:41:35] micrófono de
+[00:41:37] Me parece que te escuch
+[00:41:40] ahí. Ahí me escuchan.
+[00:41:41] Ahí sí está.
+[00:41:43] Ahí sí. Pablo, ¿se
+[00:41:44] escucha bien? Lisandro estáado.
+[00:41:46] Sí, sí, sí.
+[00:41:47] Ahora sí,
+[00:41:48] ahora sí. Pero se habían quedado me
+[00:41:49] parece se fue Guille, se le fue la
+[00:41:50] presentación a Guille. Con sonido.
+[00:41:52] Sí.
+[00:41:52] Ah,
+[00:41:53] bueno, lo que lo que les comentaba es
+[00:41:56] eso, es que el aporte de los
+[00:41:58] distribuidores acá del otro lado y un
+[00:41:59] montón de distribuidores, un montón de
+[00:42:01] gente que sabe del tema con mucha
+[00:42:03] expertiz nos viene super bien para
+[00:42:06] corregir. Eh, si hay cosas que faltan,
+[00:42:09] hay que incorporarlas, hay que corregir
+[00:42:11] y se se evolucionará sobre la norma.
+[00:42:15] Ah, está perfecto. No, no, más que nada,
+[00:42:18] digamos, nosotros eh cierta forma
+[00:42:20] adoptamos lo que está, digamos, no está
+[00:42:23] totalmente definido porque obviamente
+[00:42:25] tenemos que controlar contra algo y
+[00:42:27] asegurarnos de que esté eh y hasta ahí
+[00:42:30] vamos bien. Eh, para tener un marco por
+[00:42:32] ahí de referencia general en lo que es
+[00:42:35] por ahí eh ya que está definido a nivel
+[00:42:38] nacional de esa manera. Nosotros en
+[00:42:41] particular estamos de acuerdo por ahí eh
+[00:42:44] decir, bueno, cómo interactuaban eh en
+[00:42:46] la parte reglamentaria
+[00:42:49] estos decretos a nivel nación sobre una
+[00:42:53] ley que eh nosotros adheríamos desde
+[00:42:55] provincia en forma parcial como para
+[00:42:57] tener el marco. Obviamente nosotros lo
+[00:42:59] mencionamos a modo de referencia porque
+[00:43:02] digamos puntualmente hay ciertas cosas
+[00:43:03] que que digamos aplican al la regla del
+[00:43:06] arte que por ahí no están tan definidas
+[00:43:08] en la EA, o sea, porque la EA te da por
+[00:43:10] ahí un rango e o cosas por el estilo,
+[00:43:13] ¿no? Pero bueno, nada, era para tener en
+[00:43:15] claro ese ese detalle reglamentario más
+[00:43:17] que nada. Desde el punto de vista
+[00:43:19] jurídico, Fabián,
+[00:43:21] eh aplican y pueden aplicar por las
+[00:43:23] reglas del buen arte, pero no porque
+[00:43:25] hayamos adherido parcialmente o no no
+[00:43:28] nos aplican directamente de ninguna
+[00:43:30] manera. Ahora bien, si complementan algo
+[00:43:32] que nosotros como provincia no tenemos,
+[00:43:34] obviamente eh están para para ser
+[00:43:37] usadas. Perfecto.
+[00:43:39] Y está buenísimo esto que dice Pablo,
+[00:43:40] que nos aporten todo lo que ustedes
+[00:43:43] consideren para mejorar la la normativa.
+[00:43:46] Quizá, digamos, en el reglamento de
+[00:43:48] acometidas que que falta dictar se puede
+[00:43:50] ahí adaptar o modificar lo existente o
+[00:43:53] complementar. Así que nada, todos
+[00:43:55] bienvenidos siempre.
+[00:43:57] Sí, símina.
+[00:43:58] Venimos trabajando en eso. Venimos
+[00:44:00] trabajando.
+[00:44:01] Esperamos la presentación. Entonces,
+[00:44:02] ya presentaron. [risas]
+[00:44:03] Ah, bueno,
+[00:44:04] la tengo. La ya la mandamos a los Sebas.
+[00:44:06] la tiene, así que
+[00:44:07] Ah, bueno,
+[00:44:08] en [risas] parte
+[00:44:09] estoy atrasada de noticias.
+[00:44:11] Armina, si les sirve un tema, nosotros
+[00:44:13] en Valla Blanca hace muchos años
+[00:44:16] eh tenemos la eh eh el Colegio de
+[00:44:20] Técnicos y de Ingenieros en su momento
+[00:44:22] trabajaron sobre una resolución
+[00:44:26] que eh
+[00:44:29] que emite un certificado de actitud
+[00:44:31] eléctrica a los clientes y eso deslinda
+[00:44:35] de la responsabilidad no sola de la
+[00:44:37] distribuidora, ¿no?, sino de lo del
+[00:44:40] cumplimiento de las reglas del buen
+[00:44:41] arte. Obviamente eso se hizo por medio
+[00:44:44] de una ordenanza. Trabajó muy bien el
+[00:44:47] Colegio Técnico Ingeniero, pero es el
+[00:44:48] único, creo, en la provincia que tiene
+[00:44:51] que tiene este avance. De hecho, está
+[00:44:54] escrito y y lo hemos ido trabajando y
+[00:44:57] hoy el Colegio de Técnico y de Ingeniero
+[00:44:59] siguen trabajando con eso. Lo que sí hay
+[00:45:01] que tener en cuenta que tiene un costo,
+[00:45:03] ¿no? Y esos costos se los trasladamos a
+[00:45:06] los usuarios.
+[00:45:08] Obviamente porque la relación es con el
+[00:45:11] técnico, es es es con el usuario en
+[00:45:14] principio cuando tiene que habilitar una
+[00:45:16] cometida, pero pero deslindamos todas
+[00:45:19] estas responsabilidades que que después
+[00:45:22] clar ahí digamos evidentemente fue la
+[00:45:24] participación superactiva del municipio
+[00:45:28] exactamente por esta por esta resolución
+[00:45:30] del 99 2000 que yo les digo del
+[00:45:32] Ministerio de Infraestructura donde lo
+[00:45:33] había delegado el municipio, ese
+[00:45:35] municipio lo levantó mientras que los
+[00:45:37] otros vinieron a quejarse, no, no, no,
+[00:45:38] por favor, sácame esto. Y evidentemente
+[00:45:41] algunos totalmente. Y esa modificación
+[00:45:46] se hizo en la ordenanza administrativa
+[00:45:48] de la municipalidad y hoy se implementa
+[00:45:50] y es una cosa que nosotros tenemos que
+[00:45:53] exigir a nuestros usuarios dado que la
+[00:45:55] municipalidad lo exige y funciona muy
+[00:45:58] bien y y también eh le da claridad a un
+[00:46:01] montón de cuestiones que los chicos
+[00:46:02] estaban comentando, ¿no? y y también de
+[00:46:06] linda responsabilidad de de la
+[00:46:08] distribuidora, ¿no? Porque
+[00:46:09] yorción
+[00:46:12] interna no es responsabilidad de la
+[00:46:13] distribuidora, pero si nadie lo toma
+[00:46:16] termina
+[00:46:18] termina siendo
+[00:46:20] exactamente exactamente [carraspeo]
+[00:46:22] como pasa con la municipalidad también,
+[00:46:24] ¿no?
+[00:46:24] Tal cual. Escúchame, Sergio, lo que
+[00:46:27] tengas de eso, mandanos. Lo tenemos, lo
+[00:46:29] tenemos vigente. Se lo se los mando. Es
+[00:46:33] una muy buena herramienta y
+[00:46:35] y por ahí está bueno paraísimo,
+[00:46:38] pero sí hay que tener en cuenta que
+[00:46:39] tiene un costo alto en determinado
+[00:46:42] en algunas cuestiones, ¿no?
+[00:46:44] eh
+[00:46:45] hacemos muchas reuniones con municipios
+[00:46:47] en general, digamos, donde vamos y
+[00:46:49] exponemos este nuevo régimen, este y por
+[00:46:52] ahí está bueno, digamos en esto que hace
+[00:46:53] la ley de invitar a los municipios a que
+[00:46:56] den extensiones impositivas o de tasas.
+[00:46:59] Este, bueno, también pueden intervenir o
+[00:47:01] levantar esto aunque sea para el
+[00:47:04] instalador matriculado, no digo ya para
+[00:47:06] todo tipo de técnico electricista, pero
+[00:47:08] bueno, eh por ahí es una cosa que
+[00:47:10] podamos empezar a a transmitir. Fíjate
+[00:47:13] que que el gas que que en teoría es más
+[00:47:16] peligroso, ¿o no? En teoría por ahí es
+[00:47:18] más peligroso, ¿no?
+[00:47:20] tiene ha sido muy duro en decisiones de
+[00:47:24] cortar suministros, sacar servicio y
+[00:47:27] todo, que eso de en definitiva terminó
+[00:47:30] cayendo sobre las distribuidoras, que
+[00:47:33] nosotros tenemos edificios que son
+[00:47:34] completamente eléctricos por esas
+[00:47:36] cuestiones que hubo con el tema del gas
+[00:47:38] en su momento
+[00:47:40] y y tuvimos que asumir esa
+[00:47:42] responsabilidad también con con los
+[00:47:44] costos y con las cuestiones en el el
+[00:47:47] servicio que lleva, pero Pero también
+[00:47:49] está bien, pero ellos tienen sus
+[00:47:50] matriculados y lo tienen bien bien
+[00:47:53] trabajado eso. Y creo que a nivel
+[00:47:57] eléctrico falta una vuelta de tuerca de
+[00:47:59] eso eh, para deslindar responsabilidades
+[00:48:02] y para que también el usuario esté
+[00:48:04] tranquilo del que le hace el trabajo,
+[00:48:05] sea una persona idónea y que cumpla con
+[00:48:08] las reglas del buen arte.
+[00:48:09] Tal cual, tal cual.
+[00:48:11] Bueno, buenísimo. Nada más que eso era
+[00:48:13] ese comentario.
+[00:48:14] Bárbaro. Gracias.
+[00:48:16] Sigo.
+[00:48:17] No está la present. Ahí voy, voy, voy.
+[00:48:25] Ahí está, ¿no?
+[00:48:28] Ahí está.
+[00:48:29] Ahora sí.
+[00:48:29] Bueno, una vez que eh la distribuidora
+[00:48:32] autoriza esa instalación después que
+[00:48:34] hizo el análisis o el estudio de
+[00:48:35] factibilidad, entra a trabajar
+[00:48:37] precisamente este instalador
+[00:48:39] responsable. El instalador es el que la
+[00:48:41] debe ejecutar conforme los
+[00:48:43] procedimientos que para cada tecnología
+[00:48:45] existen, las reglas del buen arte, como
+[00:48:47] veníamos diciendo antes. Una vez que el
+[00:48:50] instalador termina de ejecutar la la
+[00:48:52] instalación, es el usuario el que va a
+[00:48:54] solicitar a la distribuidora la conexión
+[00:48:56] del medidor bidireccional. Esta e la
+[00:49:01] normativa establece que no aplica ningún
+[00:49:02] tipo de cargo respecto de la conexión
+[00:49:05] para este medidor bidireccional,
+[00:49:07] solamente que le puede cobrar el medidor
+[00:49:10] bidireccional que sí o sí está a cargo
+[00:49:12] del usuario. Los plazos que tiene la
+[00:49:15] distribuidora
+[00:49:16] para poder instalar este medidor
+[00:49:18] bidireccional están establecidos o se
+[00:49:20] remite en la normativa el 46 del
+[00:49:22] subanexo D contrato de concesión, que
+[00:49:24] acá se los e recuerdo, que es si no hay
+[00:49:27] modificaciones a la red existente y
+[00:49:29] hasta 50 kW tiene 5 días hábiles, más de
+[00:49:32] 50 10 días hábiles y en caso que se
+[00:49:35] requieran modificaciones a la red
+[00:49:37] existente y más de 50 kW pueden convenir
+[00:49:41] el plazo con el usuario o dentro de un
+[00:49:44] máximo, digamos, ese acuerdo no puede
+[00:49:45] superar los 150 días.
+[00:49:50] Eh, en ese en esa situación, una vez que
+[00:49:52] está instalado este medidor
+[00:49:54] bidireccional por parte de la
+[00:49:56] distribuidora, ahí se produce la
+[00:49:58] suscripción del contrato de generación
+[00:50:01] distribuida eléctrica
+[00:50:03] entre la distribuidora y el usuario que
+[00:50:05] pasa a convertirse en usuario generador.
+[00:50:08] Ese es el instante, ese es el hito en
+[00:50:10] que el usuario se convierte en usuario
+[00:50:12] generador.
+[00:50:14] Este contrato, tanto en individual como
+[00:50:16] la comunitaria, funciona como un
+[00:50:17] contrato accesorio
+[00:50:19] al contrato tipo y único y primero que
+[00:50:22] tiene el usuario como usuario común y y
+[00:50:26] normal de la distribuidora, digamos. E
+[00:50:30] una vez que está suscrpto este contrato,
+[00:50:32] la distribuidora eh provincial o
+[00:50:34] municipal tiene la obligación de
+[00:50:36] ingresar al Ruger. El Ruger obviamente
+[00:50:39] funciona en la página de los EVBA. Ahí
+[00:50:42] se exige el cumplimiento de una serie de
+[00:50:44] de información a completar. Una vez que
+[00:50:47] Oseva lo revisa, eh expide lo que
+[00:50:50] llamamos el certificado de usuario
+[00:50:52] generador. Después Pablo va a entrar en
+[00:50:55] detalles, así que no voy a andar ahora.
+[00:50:56] Este certificado de usuario generador es
+[00:50:58] el que le permite obtener los beneficios
+[00:51:00] impositivos que establece la ley 15325,
+[00:51:03] ingresos brutos, sellos. Eh, como conté
+[00:51:06] antes,
+[00:51:08] esta normativa también establece los
+[00:51:10] derechos y obligaciones tanto del
+[00:51:12] usuario generador como de la
+[00:51:13] distribuidora.
+[00:51:16] Eh, en cuanto a los derechos del usuario
+[00:51:18] generador, el usuario generador puede
+[00:51:20] instalar el equipamiento o modificarlo
+[00:51:23] siempre que la distribuidora le
+[00:51:25] notifique que puede hacerlo. Es decir,
+[00:51:28] previo estudio de factibilidad, no lo
+[00:51:30] puede hacer antes. Ahí tenemos el caso
+[00:51:32] de la preexistencia de equipamiento ya
+[00:51:34] instalado antes de que se dicte esta
+[00:51:36] normativa y ahora lo vamos a ver.
+[00:51:39] el derecho del usuario a inyectar la
+[00:51:41] energía eh generada y que le resulta
+[00:51:43] excedente a su autoconsumo siempre hasta
+[00:51:47] la potencia que tenga contratada para su
+[00:51:49] propia categoría tarifaria. Tiene el
+[00:51:51] derecho a percibir la retribución por
+[00:51:53] esa energía que va a inyectar mediante
+[00:51:55] un monto a su favor en la factura. Puede
+[00:51:58] requerir la liquidación, si es que no
+[00:52:00] alcanza a compensar con los consumos.
+[00:52:02] puede requerir la liquidación y pago a
+[00:52:04] la distribuidora en dos veces al año,
+[00:52:07] febrero y agosto, de los saldos que
+[00:52:09] tenga a su favor. eh en caso e así no lo
+[00:52:13] hiciera, puede también este quedar
+[00:52:16] acumulado y eso tiene que convertirse a
+[00:52:18] kilw, no tiene que quedar en pesos en la
+[00:52:21] cuenta contable que tenga la la
+[00:52:23] distribuidora respecto de ese usuario.
+[00:52:25] Eh, puede solicitar la sesión de ese
+[00:52:28] saldo a su favor respecto de otro
+[00:52:29] usuario, siempre un usuario de la misma
+[00:52:32] distribuidora, si no sería inviable o
+[00:52:34] imposible de imposible cumplimiento.
+[00:52:38] También ante la falta de respuesta que
+[00:52:40] el de la distribuidora o falta de
+[00:52:42] aprobación de su solicitud tiene derecho
+[00:52:44] en los plazos del del artículo 4.6 del
+[00:52:47] suanexo tiene derecho a acudir a los
+[00:52:50] SEBA. Obviamente en segunda instancia,
+[00:52:52] como venimos diciendo, nunca el reclamo
+[00:52:54] ante los es directo, siempre tiene que
+[00:52:56] haber una un vínculo con la
+[00:52:57] distribuidora. Primeramente eso se
+[00:52:59] respeta acá, o sea, rechazo de la
+[00:53:01] distribuidora va recién acude a los para
+[00:53:03] que pueda intervenir.
+[00:53:06] Y esta normativa este establece que
+[00:53:08] hubiera, si hubiera diferencias de
+[00:53:10] origen técnico, la asistencia de la
+[00:53:12] Dirección Provincial de Energía.
+[00:53:15] En cuanto a las obligaciones que tiene
+[00:53:17] el usuario generador, el usuario
+[00:53:18] generador es responsable de la operación
+[00:53:20] y mantenimiento de las instalaciones
+[00:53:21] internas. Obviamente incluye y está
+[00:53:25] obligado a que esta instalación, que va
+[00:53:28] a ser el instalador matriculado,
+[00:53:30] contengan dispositivos de protección,
+[00:53:31] maniobra, de conexión y de medición
+[00:53:34] necesarios y que hagan a esta generación
+[00:53:36] un poquito vinculado a lo que veníamos
+[00:53:38] diciendo de la seguridad de la red, de
+[00:53:39] la seguridad a los otros usuarios y de
+[00:53:41] la seguridad a la propia instalación
+[00:53:43] interna.
+[00:53:44] En caso que hubiera cambio de
+[00:53:46] titularidad de un punto de suministro,
+[00:53:49] este, que hubiera este equipamiento de
+[00:53:51] generación de renovable, responsable
+[00:53:54] también renovable, este cambio de
+[00:53:57] titularidad lo que genera es que el
+[00:53:59] nuevo titular de ese nuevo punto de
+[00:54:01] suministro queda o asume las
+[00:54:03] responsabilidades de ese usuario
+[00:54:04] generador, digamos. Se va a a tener que
+[00:54:07] hacer en ese cambio de titularidad. Se
+[00:54:09] entera, se notifica que este nuevo
+[00:54:11] titular tiene todas las
+[00:54:12] responsabilidades de un usuario
+[00:54:13] generador que era el anterior.
+[00:54:17] El equipamiento
+[00:54:19] solamente se puede instalar hasta la
+[00:54:21] potencia equivalente a la que tenga
+[00:54:23] contratada, como ya veníamos diciendo,
+[00:54:26] no puede inyectar a la red cuando se
+[00:54:27] encuentre desenergizada o haya salido de
+[00:54:31] servicio por alguna cuestión técnica,
+[00:54:34] por mantenimiento,
+[00:54:35] este, o actuó alguna de las protecciones
+[00:54:38] y saltó la conexión. La normativa
+[00:54:42] establece que el usuario debe contar con
+[00:54:43] dispositivos tales como interruptor
+[00:54:45] gendiz, elementos de maniobra y
+[00:54:47] protección. Ahí aplica, digamos, o cita
+[00:54:50] las normativas que estábamos viendo hace
+[00:54:52] un ratito con Fabián o algunas de las
+[00:54:55] que aplican.
+[00:54:57] Este dispositivo eh tiene que ser de
+[00:54:59] sincronización automática, de
+[00:55:00] acoplamiento y desconexión para inhibir
+[00:55:02] la inyección cuando se encuentran
+[00:55:04] desenergizadas las redes. Eh, y el
+[00:55:07] equipo de de inversor eh es el que
+[00:55:11] establece ahí con la cita de las
+[00:55:12] normativas que deben cumplirse.
+[00:55:15] Esta parte, chicos, técnicas se las debo
+[00:55:18] el ingeniero en todo caso podrá
+[00:55:20] responder.
+[00:55:23] Continuando con las obligaciones del
+[00:55:24] usuario generador, esto que decíamos, la
+[00:55:27] potencia a inyectar nunca puede superar
+[00:55:29] la categoría que tiene contratada. Si se
+[00:55:32] trata de un usuario T1 o T4, no puede
+[00:55:35] inyectar,
+[00:55:37] no puede instalar equipamiento mayor a
+[00:55:40] los 10 kW, mientras que en el T2 o T3
+[00:55:43] será eh el límite será la potencia que
+[00:55:46] tiene en su contrato de potencia
+[00:55:47] celebrado con cada una de las
+[00:55:48] distribuidoras.
+[00:55:50] Eh, y ese será también el tope de lo que
+[00:55:52] puede, obviamente, inyectar.
+[00:55:55] Obviamente está obligado a presentar
+[00:55:57] absolutamente toda la documentación
+[00:55:58] técnica con carácter de declaración
+[00:56:00] jurada, los planos unifilares
+[00:56:03] eléctricos, los datos técnicos en esa
+[00:56:05] solicitud que va a hacer a la
+[00:56:06] distribuidora.
+[00:56:08] Eh, también una vez que está el estudio
+[00:56:10] de factibilidad hecho, una vez que está
+[00:56:12] habilitado, una vez que está autorizado,
+[00:56:14] una vez que está instalado y
+[00:56:15] funcionando, si el usuario generador
+[00:56:17] decidiera hacer una modificación a su
+[00:56:19] equipamiento, tiene que reiniciar el
+[00:56:22] trámite, es decir, tiene que lograr una
+[00:56:24] nueva autorización de la distribuidora
+[00:56:26] para cualquier modificación. Es decir,
+[00:56:28] no puedo hacer modificaciones sin paso
+[00:56:31] previo por ante la distribuidora.
+[00:56:34] Y acá la aclaración que les hacía antes,
+[00:56:36] hay usuarios que tenían instalaciones
+[00:56:38] este preexistentes al listado de esta
+[00:56:41] normativa en general o muchas veces el
+[00:56:44] Estado este dicta normativas y vamos
+[00:56:47] atrás de los de los problemas o de las
+[00:56:49] situaciones. Así que la normativa
+[00:56:51] estableció que hubiera un usuario
+[00:56:53] generador preexistente debe adaptar
+[00:56:56] debe adaptarse a esta normativa. En ese
+[00:56:59] caso deben presentar toda la
+[00:57:01] documentación que exige esta norma al
+[00:57:03] distribuidor. El distribuidor tiene que
+[00:57:04] hacer la el análisis, la factibilidad.
+[00:57:09] Eh, si hubiera situaciones o condiciones
+[00:57:11] o dispositivos este como estbamos viendo
+[00:57:14] que no tenían la
+[00:57:17] construcción anterior o la instalación
+[00:57:19] anterior, obviamente la tiene que
+[00:57:20] cumplir, la tiene que adaptar, tiene que
+[00:57:21] adaptarse el usuario generador a todo lo
+[00:57:23] que establece esta normativa, eh adecuar
+[00:57:26] las instalaciones y ahí recién este
+[00:57:29] pueden darse el derecho a cobrar el
+[00:57:32] crédito por la inyección. Eh, todos los
+[00:57:34] otros derechos que hacen a que esta
+[00:57:36] situación se pueda dar. Primero,
+[00:57:37] adaptarse a la normativa para poder
+[00:57:39] recién tener los derechos que le asisten
+[00:57:42] por la norma. En este caso
+[00:57:46] eh como obligaciones del usuario es
+[00:57:48] esto, contar, digamos, ya el el subanexo
+[00:57:52] E en el artículo 2 inciso C y J como
+[00:57:55] obligaciones del usuario ya establecía
+[00:57:57] con anterioridad esta norma, porque este
+[00:57:59] su anexo e es el que se dictó y aprobó
+[00:58:02] en el 19 con motivo de la RTI, es el que
+[00:58:05] está vigente. hablaba del autogenerador,
+[00:58:07] que debía tener dispositivos eh
+[00:58:12] de maniobra, de digamos de de asegurar
+[00:58:15] la instalación interna, de no perjudicar
+[00:58:17] o no generar riesgos a la red, con lo
+[00:58:20] cual ya estaba previsto. Pero bueno, eh
+[00:58:22] más allá de esa previsión este genérica
+[00:58:25] que tenía el suanexo
+[00:58:28] e o que tiene el sueanexo E porque
+[00:58:29] todavía está vigente hasta la próxima
+[00:58:31] RTI, eh acá se especifican cuestiones.
+[00:58:34] Entonces, el que tiene preexistencia
+[00:58:35] tiene que adaptarse sí o sí. Y también
+[00:58:38] rige el artículo 7 del subanexo e que lo
+[00:58:41] vimos eh en la clase hace dos clases
+[00:58:44] atrás, este, cuando se los comentábamos
+[00:58:46] en la clase que tuvimos con Pato Lozano,
+[00:58:48] eh el distribuidor puede desconectar de
+[00:58:51] la red a este usuario generador que
+[00:58:53] precisamente no cumple con todas estas
+[00:58:56] exigencias, este
+[00:58:59] en pos, digamos, o en seguridad de de la
+[00:59:02] red y del riesgo que puede producir. Así
+[00:59:05] que ese derecho le asiste a la
+[00:59:06] distribuidora.
+[00:59:08] Además de eso que ya estaba contenido en
+[00:59:10] su anexo de e perdón, los derechos que
+[00:59:14] la 463 le otorga a la distribuidora y
+[00:59:17] específicos para la generación
+[00:59:19] distribuida individual. Obviamente más
+[00:59:21] que derecho, es una obligación de
+[00:59:22] atender en forma ágil solicitud de
+[00:59:24] instalación que requiera el usuario.
+[00:59:27] Obviamente cumpliendo los plazos del 46
+[00:59:29] tiene que realizar este estudio de
+[00:59:30] factibilidad técnica y emitir una
+[00:59:32] respuesta al usuario. En su caso,
+[00:59:33] aprobando la factibilidad en caso que
+[00:59:36] así suceda. Eh, puede denegar el
+[00:59:39] estudio, como veníamos diciendo antes,
+[00:59:40] fundado en criterios técnicos. Siempre
+[00:59:42] le tiene que decir por qué le deniega la
+[00:59:44] solicitud. Eh, en ese caso, cuando hay
+[00:59:48] denegación, tiene la obligación de
+[00:59:49] notificárselo al usuario generador o al
+[00:59:51] usuario solicitante h para convertirse
+[00:59:54] en usuario generador, a los y a la DPE.
+[00:59:58] Eh, tiene la posibilidad de desconectar
+[01:00:00] ante una normalidad técnica cuando dio
+[01:00:02] la factibilidad, cuando está todo
+[01:00:03] funcionando, pero advierte que hay una
+[01:00:05] normalidad, puede desconectar el
+[01:00:07] servicio, obviamente lo notifica al
+[01:00:10] usuario, a los y a la DP.
+[01:00:13] Eh, tiene que mantener actualizada la
+[01:00:14] información sobre la capacidad técnica
+[01:00:16] de sus instalaciones como para que los
+[01:00:18] estudios de factibilidad técnica sean
+[01:00:20] más ágiles eh y puedan responder a los
+[01:00:23] plazos preestablecidos.
+[01:00:26] Eh, luego tiene cuando ya está este
+[01:00:28] terminada la instalación por parte del
+[01:00:30] instalador matriculado y solicita el
+[01:00:32] usuario la el instalador en la
+[01:00:34] instalación del medidor bidireccional,
+[01:00:36] tiene que realizar esa conexión a la
+[01:00:38] red.
+[01:00:40] Luego eh convertido ya en usuario
+[01:00:42] generador tiene la obligación de
+[01:00:44] reconocer la energía inyectada a ese
+[01:00:46] usuario haciendo la bonificación en la
+[01:00:48] factura, pagar los saldos, este, o ceder
+[01:00:51] si el usuario así lo decide o si no dice
+[01:00:54] nada, convertirlos en kilowatt sin fecha
+[01:00:57] de caducidad y dejarlos ahí en una
+[01:00:58] cuenta contable en caso que no fuera,
+[01:01:00] este en caso que fuera teniendo saldos
+[01:01:03] positivos en su facturación, digamos, en
+[01:01:05] el tiempo. Y por último, tiene que
+[01:01:09] ingresar al Ruger, cargar el contrato la
+[01:01:12] serie de documentación que carga o que
+[01:01:14] que exige el Ruger. Ahí solamente entra
+[01:01:17] la distribuidora, no entra el usuario.
+[01:01:19] En esta acá sí, como veíamos la
+[01:01:22] solicitud o el inicio de la solicitud de
+[01:01:25] convertirse en usuario generador
+[01:01:26] individual o comunitario es del usuario.
+[01:01:29] En el caso de el registro, si o si la
+[01:01:31] actividad es del distribuidor
+[01:01:35] para que pueda obtener los beneficios
+[01:01:37] impositivos y se convierta en usuario
+[01:01:39] generador con un certificado. Sí.
+[01:01:43] Ahora vamos a entrar a los aspectos
+[01:01:45] tarifarios y de medición.
+[01:01:47] Perdón, mi Germina, ¿te puedo hacer una
+[01:01:49] consulta antes de que pases a esta
+[01:01:51] firmina?
+[01:01:52] Sí, sí,
+[01:01:52] sí. en en la anterior en en el ítem que
+[01:01:56] es reconocer la la energía inyectada que
+[01:01:59] dice pagar los saldos o efectuar la
+[01:02:00] sesión que decide o convertirlos en
+[01:02:03] kilow hh y sin fecha de caducidad. Eh,
+[01:02:07] freno ahí en convertirlos en kilow hh y
+[01:02:09] sin fecha de caducidad al ser un esquema
+[01:02:12] de eh balance de facturación,
+[01:02:17] ¿cómo es la conversión a kilw h? Porque
+[01:02:21] si fuera un balance neto de energía, eh,
+[01:02:24] está claro. Ahora, cuando es balance
+[01:02:27] neto de facturación que tiene distinto
+[01:02:29] costo, eh, la energía que genera el
+[01:02:32] usuario con respecto a la que adquiere
+[01:02:34] de la red, ¿cómo se hace esa
+[01:02:36] equivalencia?
+[01:02:40] Eh, ahí eh pasa esto. Eh, lo que
+[01:02:45] nosotros intentamos evitar eh en ese
+[01:02:48] balance fue que las facturas se hagan
+[01:02:50] negativas.
+[01:02:51] Eh, cuando el usuario genera más de lo
+[01:02:56] que le da su cuenta de facturación
+[01:02:57] mensual, si vos le aplicaste el crédito,
+[01:02:59] termina generando una factura negativa.
+[01:03:02] Nosotros entendemos que eso no es
+[01:03:03] conveniente y creo que tampoco está
+[01:03:04] permitido emitir facturas negativas. Eh,
+[01:03:08] por lo tanto, le quedaba un crédito
+[01:03:10] acumular. ese crédito si lo acumula en
+[01:03:12] el largo plazo con facturas de de
+[01:03:17] muy baja de muy bajo monto, perdía por
+[01:03:21] el momento en el que se dictó la norma y
+[01:03:23] la inflación que había, perdía mucho eh
+[01:03:26] valor económico. Por lo tanto, lo que se
+[01:03:28] hizo se dijo que se acumule en kilow y
+[01:03:31] al momento de ser reconocido se
+[01:03:32] transforme ese kilow en pesos al valor
+[01:03:36] vigente de reconocimiento de la energía
+[01:03:38] generada en el momento en que se va a
+[01:03:40] aplicar como un crédito. No sé si si
+[01:03:43] respondí tu pregunta, te di mucha
+[01:03:45] vuelta.
+[01:03:46] Bien. O sea, que al momento de
+[01:03:48] aplicarlo, esos kilow h vuelven a,
+[01:03:52] digamos, a unidad monetaria al precio
+[01:03:56] que él eh lo estaría inyectando a la
+[01:03:59] red. Sería una cosa así. A ver si te
+[01:04:01] seguí bien, bien, bien. Perfecto.
+[01:04:03] Es para evitar es para evitar eso, dejar
+[01:04:06] eh emitir una factura negativa que no no
+[01:04:09] no es posible por norma contable.
+[01:04:12] Bien, bien. O sea, en el caso extremo,
+[01:04:15] eh, la factura sería cero. Eso sería el
+[01:04:19] Bien,
+[01:04:20] bien, bien. Perfecto, perfecto.
+[01:04:22] [carraspeo] Bueno, gracias.
+[01:04:24] Por nada.
+[01:04:27] Eh, en cuanto a los aspectos tarifarios
+[01:04:30] y medición y facturación, como veíamos
+[01:04:32] el doble medidor, eh, la 463 fue la
+[01:04:36] primera condición que que estableció
+[01:04:38] precisamente y fundamentalmente para
+[01:04:40] diferenciarnos de la nación y por qué,
+[01:04:43] para sostener el eh bad de la
+[01:04:45] distribuidora. Eh, nosotros exigimos en
+[01:04:49] esta resolución un mediador
+[01:04:51] unidireccional para determinar la la
+[01:04:54] categoría de consumo, el escalón de
+[01:04:58] consumo, mejor dicho, ¿no? La categoría
+[01:04:59] dentro de la categoría tarifaria, el
+[01:05:01] escalón de consumo. Por ejemplo, un
+[01:05:03] usuario T1 o T4 en la categoría T7 me lo
+[01:05:08] determina el volumen total de energía,
+[01:05:10] independientemente que lo tome de la red
+[01:05:13] o lo genere. Sí, eso me permite
+[01:05:15] determinar en qué categoría o en qué
+[01:05:17] escalón de consumo voy a este colocar a
+[01:05:20] ese usuario, independientemente que
+[01:05:22] luego el saldo me diga, "No, está en la
+[01:05:24] categoría R1, pero la totalidad me me lo
+[01:05:27] dejan en el R7." Y esa es la categoría
+[01:05:29] tarifaria que le permite al distribuidor
+[01:05:31] cobrar el B que corresponde para
+[01:05:34] sostenerlo. Consideramos eso por la
+[01:05:36] sencilla razón que si el equipamiento no
+[01:05:38] anda, la red tiene que estar este
+[01:05:40] sostenida y mantenida del modo tal que
+[01:05:43] el usuario reciba esos 10 kW. Entonces,
+[01:05:46] independientemente que lo tome de la red
+[01:05:48] o lo autogenere, consideramos que esa
+[01:05:50] era nuestro principio rector al momento
+[01:05:53] de celebrar este o de dictar la
+[01:05:55] resolución 463.
+[01:05:58] Eh,
+[01:06:00] obviamente tuvimos una cater [risas]
+[01:06:03] impresionante de quejas, este, y
+[01:06:07] después, digamos, lo empezamos a
+[01:06:09] analizar y consideramos que en los en el
+[01:06:11] caso de los usuarios T2 y T3 con
+[01:06:13] contrato de potencia, esta situación
+[01:06:15] podía estar salvada. Entonces, en el
+[01:06:18] caso del T2 y T3, la resolución 1313 del
+[01:06:22] 2024 modifica y dice que hasta tanto
+[01:06:25] tengamos una categoría tarifaria
+[01:06:27] específica para un usuario generador.
+[01:06:30] Recuerden que esto salió, digamos, con
+[01:06:32] una RTI ya vigente. Nos pareció que
+[01:06:35] crear una categoría tarifaria específica
+[01:06:37] para usuario generador fuera de una RTI
+[01:06:39] no era este lo razonable ni adecuado
+[01:06:41] jurídicamente, motivo por el cual con lo
+[01:06:44] existente tratamos de ver de qué modo se
+[01:06:46] facturaba.
+[01:06:47] Entonces, la resolución 1313 dijo, hasta
+[01:06:49] tanto tengamos una categoría tarifaria
+[01:06:51] como vamos a tener en la próxima RTI,
+[01:06:54] eh, o estamos trabajando para que eso
+[01:06:56] suceda, este el T2 y el T3 va a tener un
+[01:07:00] único medidor y el medidor, en ese caso,
+[01:07:03] este, la medición bidireccional, se va a
+[01:07:05] tomar el contrato de potencia. El
+[01:07:06] fundamento es que el BAT está
+[01:07:08] contemplado en los cargos de potencia en
+[01:07:10] pico y fuera de pico. Entonces, de ese
+[01:07:12] modo no violábamos este criterio rector
+[01:07:14] que tuvimos al momento de dictar la
+[01:07:16] resolución 463.
+[01:07:18] Entonces, eh T1 y T4 siguen bajo el
+[01:07:22] régimen del doble medidor. El medidor
+[01:07:24] unidireccional es el que me determina el
+[01:07:26] escalón de consumo para poder elegir a
+[01:07:29] qué categoría lo voy a facturar.
+[01:07:31] Eh,
+[01:07:33] y el T2 y el T3 estamos con un único
+[01:07:36] medidor. Sí.
+[01:07:39] Y acá está el resumen de cómo habría que
+[01:07:42] facturar. También tuvo otro cambio el
+[01:07:44] antes antes de impuestos y después de
+[01:07:46] impuestos. La 463 establecía que el
+[01:07:48] cargo de inyección o la devolución o la
+[01:07:50] bonificación por la inyección de la
+[01:07:52] energía era después de impuestos. Cuando
+[01:07:54] sacamos la resolución de la comunitaria
+[01:07:57] vimos que esto tenía que ser antes de
+[01:07:59] impuestos. Entonces ahí se modificó
+[01:08:01] también este régimen. Entonces la
+[01:08:03] categoría T1 y T4, la energía consumida
+[01:08:06] total, según el mediador
+[01:08:11] eh unidireccional, que es para fijar la
+[01:08:14] categoría de consumo, el escalón de
+[01:08:17] consumo y la energía demandada de la red
+[01:08:19] para determinar el volumen de la energía
+[01:08:21] facturar. Se le descuenta antes de
+[01:08:23] impuestos la valorización de la energía
+[01:08:24] inyectada y ahí se realiza la
+[01:08:26] compensación. En el caso de la T2 y T3,
+[01:08:29] se toma la energía demandada de la red
+[01:08:30] para determinar el volumen a la que se
+[01:08:32] le descuenta antes de impuestos la
+[01:08:33] valorización de la energía inyectada.
+[01:08:36] Eh, en ambos casos, el fondo compensador
+[01:08:40] se va a calcular sobre todos los
+[01:08:42] conceptos sin considerar el descuento de
+[01:08:45] la inyección. Esto y antes de impuestos
+[01:08:47] fue modificado por esta resolución 17.
+[01:08:50] ¿Cómo se hace el cálculo? Digamos, cada
+[01:08:53] distribuidor tiene que aplicar el cuadro
+[01:08:55] tarifario de inyección de energía. cada
+[01:08:57] mes, digamos, esto que estamos diciendo
+[01:08:59] que hay precio mayorista todos los meses
+[01:09:01] o si no hay precio mayorista hay bad o
+[01:09:04] modificación de alguna bonificación.
+[01:09:05] Entonces, estamos con cuadros tarifarios
+[01:09:07] todos los meses. En cada cuadro hay un
+[01:09:09] cuadro tarifario de inyección de
+[01:09:12] energía. Para cada categoría de usuarios
+[01:09:14] se establece el precio de la energía de
+[01:09:16] inyección. Así que esa ese cuadro es el
+[01:09:19] que cada distribuidor tiene que aplicar
+[01:09:21] para poder valorizar este esta tarifa de
+[01:09:24] inyección, este componente de inyección
+[01:09:26] dentro de la factura. Y esa tarifa de
+[01:09:29] inyección, ¿cómo se calcula, digamos, el
+[01:09:31] trabajo que hace o el recálculo que hace
+[01:09:33] el el OCEVA para poder aprobar eh luego
+[01:09:36] la autoridad de aplicación recálculo se
+[01:09:38] hace a través del mecanismo de PTHU que
+[01:09:40] se aprobó por el anexo 2 de la
+[01:09:42] resolución 463. esa ese mecanismo de la
+[01:09:45] 463 anexo 2 se modificó luego por la
+[01:09:48] 743. Pero bueno, eso es una tarea
+[01:09:50] interna de cómo hacemos ese passw y
+[01:09:52] podemos determinar esa tarifa de
+[01:09:54] inyección. Al distribuidor lo que le
+[01:09:55] importa es que agarre o levante del
+[01:09:58] cuadro tarifario cuál es la tarifa de
+[01:10:00] inyección que aplica en cada mes este
+[01:10:03] que en que le tenga que facturar, así
+[01:10:05] como le tiene que facturar conforme el
+[01:10:06] cuadro tarifario, el BAT que le aplica,
+[01:10:09] la el valor de la energía que que toma
+[01:10:11] de la red, bueno, de ese mismo de otro
+[01:10:13] anexo, de ese cuadro tarifario, toma
+[01:10:16] este la tarifa de inyección.
+[01:10:19] Vamos ahora eh
+[01:10:21] perdón Guille, te molesto de vuelta ahí.
+[01:10:24] hiciste una mención que con el la
+[01:10:26] resolución 17 este año [carraspeo] se
+[01:10:29] justamente se modificaba lo de antes de
+[01:10:31] impuestos para ambas categorías.
+[01:10:34] Eh,
+[01:10:36] yo tenía como presente igual si bien
+[01:10:38] estoy más en lo técnico, eh, que eso era
+[01:10:41] solo para el caso de usuarios
+[01:10:44] generadores comunitarios. No sé si ahí
+[01:10:46] Pablo no eh
+[01:10:48] eh digamos salió dentro de la norma de
+[01:10:51] la resolución 17 donde regulamos todo
+[01:10:54] esto específicamente, pero en el
+[01:10:56] articulado de la resolución 17 vas a
+[01:10:58] encontrar un artículo que modifica
+[01:10:59] precisamente este artículo de la 463 y
+[01:11:03] lo hace extensivo
+[01:11:04] a todo el régimen de distribución, o
+[01:11:06] sea, el individual o el comunitario, no
+[01:11:09] importa de qué estemos hablando, es
+[01:11:10] antes de impuestos y dejamos a salvo
+[01:11:12] esto del fondo compensador. Sí, para
+[01:11:14] todo.
+[01:11:15] Exacto.
+[01:11:16] Perfecto.
+[01:11:16] Artículo 5, resolución 17.
+[01:11:19] Artículo 5. Perfecto.
+[01:11:22] Listo. La llamadita.
+[01:11:25] Sí, sí.
+[01:11:26] Ah, decía el artículo 5. Ahí está. Sí,
+[01:11:27] sí.
+[01:11:28] Modificación introducida por el 5 de la
+[01:11:29] 17. Antes de impuestos lo del fondo
+[01:11:31] provincial. Esas dos cosas modificamos y
+[01:11:33] para todo. Sí.
+[01:11:34] Buenísimo. Muchas gracias.
+[01:11:37] Por nada. ¿Cómo estamos de tiempo? Me
+[01:11:38] parece que me 20.
+[01:11:40] ¡Uf! Buen eh una clase larga.
+[01:11:43] Bueno, vamos ahora con la comunitaria.
+[01:11:46] La resolución 17 del 26, lo mismo, le
+[01:11:49] las facultades atribuidas al Ministerio
+[01:11:51] de Infraestructura para que edite las
+[01:11:53] condiciones técnicas, jurídicas,
+[01:11:54] económicas, tarifarias para aplicar la
+[01:11:56] generación al usuario generador. Dio la
+[01:11:59] 463 la individual, la 17 del 26 la
+[01:12:02] comunitaria. ¿Qué se entiende por
+[01:12:03] generación domiciliaria comunitaria?
+[01:12:06] Y acá está como nominado sencillito.
+[01:12:09] Agrupación de varios usuarios.
+[01:12:12] Se requiere que esos usuarios tengan
+[01:12:13] suministros, puntos de suministros eh
+[01:12:16] independientes.
+[01:12:18] O bien es un mismo titular, un mismo
+[01:12:20] usuario que tiene puntos de suministros
+[01:12:22] independientes entre sí. Todos tienen
+[01:12:25] que estar dentro de la misma área de
+[01:12:27] concesión de la misma distribuidora
+[01:12:30] necesariamente, sea provincial o
+[01:12:32] municipal.
+[01:12:34] Estos se asocian para producir energía a
+[01:12:36] partir de fuentes renovables.
+[01:12:38] El sistema de generación tiene que ser
+[01:12:40] potencia mayor a 10 en un punto de
+[01:12:43] suministro
+[01:12:45] o bien eh ya existente o en uno nuevo.
+[01:12:49] Obviamente para autoconsumo o inyectar
+[01:12:52] los excedentes y obviamente obtener el
+[01:12:55] crédito en dinero que esa inyección le
+[01:12:57] va a producir. Como en la individual, no
+[01:12:59] están comprendidos los grandes usuarios
+[01:13:01] o autogeneradores del mercado eléctrico
+[01:13:02] mayorista.
+[01:13:06] Hay en la normativa alguna serie de
+[01:13:08] definiciones y por ahí de acá para
+[01:13:09] adelante van a ver el UGC, el UGC-T,
+[01:13:12] este que parece un chino, pero muy
+[01:13:14] simple. El UGC es cualquier integrante
+[01:13:17] de este grupo, de esta asociación,
+[01:13:18] cualquiera de los integrantes es un
+[01:13:21] usuario generador comunitario.
+[01:13:23] Sí o sí necesita que este usuario
+[01:13:25] integrante tenga un suministro activo en
+[01:13:28] la distribuidora. Siempre todos, como
+[01:13:31] dije antes, tienen que pertenecer a la
+[01:13:32] misma distribuidora. Si no, es imposible
+[01:13:34] que una distribuidora le devuelva un
+[01:13:36] crédito a un usuario de otra
+[01:13:37] distribuidora. Así que ese esa es la
+[01:13:40] principal limitante.
+[01:13:42] Después
+[01:13:43] tenemos el usuario comunitario titular.
+[01:13:46] ¿Quién es el titular? Es aquel
+[01:13:48] integrante que va a actuar como
+[01:13:50] representante y va a unificar la
+[01:13:52] representación ante la distribuidora y
+[01:13:54] es donde se asienta el punto de conexión
+[01:13:57] del equipamiento. Es decir, cualquiera
+[01:14:00] de los integrantes, uno de ellos va a
+[01:14:02] tener el equipo en su casa, en su punto
+[01:14:04] de suministro. Y ese punto de suministro
+[01:14:06] es lo que me va a determinar quién es el
+[01:14:08] titular. ¿Sí? ¿Qué es el punto de
+[01:14:10] conexión? El punto de conexión donde
+[01:14:12] acomete el equipo de generación puede
+[01:14:14] ser un punto de suministro ya existente
+[01:14:17] este de uno de los integrantes de este
+[01:14:19] de esta asociación o puede ser un nuevo
+[01:14:22] punto de suministro dentro del mismo
+[01:14:24] lote. ¿Se acuerdan cuando vimos el
+[01:14:26] subanexo E que decíamos que una parcela,
+[01:14:31] un este una propiedad no podía tener más
+[01:14:34] que un solo punto de suministro? Bueno,
+[01:14:36] esta es una excepción. podía darse, pero
+[01:14:40] había que pedir autorización
+[01:14:42] a Oceva. Bueno, esta es la primera
+[01:14:44] excepción que tiene ese artículo y que
+[01:14:47] en el mismo lote, en el mismo
+[01:14:50] domicilio, puede haber dos puntos de
+[01:14:52] suministro. Y ahora vamos a ver por qué.
+[01:14:55] Eh, la comunitaria también establece
+[01:14:57] exactamente que la individual la
+[01:14:59] necesidad de un responsable de
+[01:15:01] instalación que esté matriculado. Tiene
+[01:15:03] a cargo el desarrollo del proyecto, la
+[01:15:05] instalación del del
+[01:15:08] equipamiento de generación distribuida.
+[01:15:09] Dependiendo de la tecnología, los rangos
+[01:15:11] de potencia, los niveles de tensión,
+[01:15:14] pueden ser profesionales de distintos
+[01:15:16] niveles de formación técnica. Esto lo
+[01:15:17] que lo que hablábamos antes, que tenga
+[01:15:19] matrícula habilitante por cada uno de
+[01:15:21] los colegios respectivos y que
+[01:15:23] obviamente la competencia o las
+[01:15:24] incumbencias necesarias para este tipo
+[01:15:26] de de actividad. La norma también eh
+[01:15:30] define la potencia máxima de acople, que
+[01:15:32] es la sumatoria de potencias a inyectar
+[01:15:35] de estos equipos inversores,
+[01:15:36] independientemente de la potencia de las
+[01:15:38] fuentes de generación instaladas,
+[01:15:41] no pueden exceder la potencia máxima
+[01:15:44] contratada por el UGCT. Sí, el UGST es
+[01:15:48] el que me va a dar la potencia máxima a
+[01:15:50] instalar en ese punto, en cualquiera de
+[01:15:53] las bandas horarias, salvo, y acá viene
+[01:15:55] la excepción, que la distribuidora
+[01:15:58] confiere la factibilidad de conexión de
+[01:16:00] una potencia mayor. En caso esa potencia
+[01:16:04] sea mayor, el límite va a ser la
+[01:16:06] sumatoria de las potencias contratadas
+[01:16:09] de cada uno, digamos, de los integrantes
+[01:16:12] de esta asociación. Podemos tener
+[01:16:14] asociados un T1, un T2, un T3, un T4,
+[01:16:18] digamos, distintas categorías
+[01:16:19] tarifarias. No todos tienen que tener la
+[01:16:22] misma categoría tarifaria para poder
+[01:16:24] este asociarse.
+[01:16:26] Eh,
+[01:16:28] pero bueno, este punto, el punto de
+[01:16:31] acople, la potencia te la da la
+[01:16:33] categoría del usuario titular. puede, si
+[01:16:36] la factibilidad de la distribuidora
+[01:16:38] accede a a recibir mayor potencia, no
+[01:16:40] puede superar la sumatoria de todos los
+[01:16:42] integrantes.
+[01:16:44] ¿Cuál es la forma de asociación de este
+[01:16:47] grupo?
+[01:16:48] Puede ser por un convenio, un acuerdo
+[01:16:50] privado, un acuerdo de voluntades, o
+[01:16:52] bien pueden constituir una persona
+[01:16:54] jurídica específicamente para esta
+[01:16:57] actividad. Eh, eso elección del de la
+[01:17:01] agrupación
+[01:17:03] eh de usuarios. ¿Qué contenido debe
+[01:17:05] tener este convenio? La normativa, este,
+[01:17:08] y muchos nos han preguntado, ¿por qué no
+[01:17:11] damos un modelo de contrato este no de
+[01:17:15] de este acuerdo o convenio de voluntades
+[01:17:17] porque sí o sí es privado, sino un
+[01:17:19] modelo de contrato de generación
+[01:17:21] distribuida que deba firmar el usuario
+[01:17:22] con la distribuidora? Como no existe un
+[01:17:24] modelo de contrato para, digamos, de
+[01:17:26] usuario común, tampoco lo existe ni
+[01:17:29] tenemos la competencia, nos parece que
+[01:17:31] es una actividad propia y privada de la
+[01:17:33] distribuidora. este accesorio del
+[01:17:35] principal, como se considera este
+[01:17:37] contrato de generación distribuida.
+[01:17:40] Eh, pero sí establece qué condiciones
+[01:17:43] debe contener este acuerdo de
+[01:17:44] voluntades, este, que debe celebrar
+[01:17:47] entre los usuarios que quieran
+[01:17:48] conformarse. Primero, obviamente, toda
+[01:17:50] la información identificatoria como
+[01:17:53] nombre, apellido, DNI, quid, números de
+[01:17:56] suministro, este, todos los datos que
+[01:17:58] hacen a cada uno de los usuarios que lo
+[01:18:00] integran. Después, el punto de conexión
+[01:18:03] eh de suministro tiene que estar
+[01:18:05] georreferenciado para que la
+[01:18:07] distribuidora lo identifique fácilmente.
+[01:18:11] La identificación de la potencia máxima
+[01:18:13] de acople, la designación de quién de
+[01:18:15] todos esos va a ser el titular, que como
+[01:18:16] les decía antes, va a ser donde esté
+[01:18:17] instalado el equipamiento, va a
+[01:18:19] representar a los integrantes y asume
+[01:18:20] todas las responsabilidades frente a la
+[01:18:23] al distribuidor. en caso de requerir su
+[01:18:26] nuevo punto de suministro con la
+[01:18:28] presentación, ahí va a requerir el alta
+[01:18:30] dentro de ese lote este de ese nuevo
+[01:18:33] punto de suministro. Y lo más importante
+[01:18:36] y fundamental de este acuerdo es que
+[01:18:40] definan cuál es el porcentaje de
+[01:18:42] participación en el proyecto. ¿Por qué?
+[01:18:45] Porque esta participación puede ser, no
+[01:18:48] sé, diferente entre los integrantes en
+[01:18:50] función de lo que aportan al proyecto,
+[01:18:52] digamos, un aporte económico al
+[01:18:54] proyecto. Entonces, esta participación
+[01:18:57] va a tener distintas ponderaciones, lo
+[01:18:59] cual me va a determinar o le va a
+[01:19:01] determinar a la distribuidora qué es eh
+[01:19:04] la energía inyectada que le va a tener
+[01:19:06] que reconocer a cada uno de ellos.
+[01:19:08] Entonces, este porcentaje de
+[01:19:09] participación en el acuerdo de
+[01:19:10] voluntades es determinante al momento de
+[01:19:13] presentarse a la distribuidora.
+[01:19:16] Además, van a tener que definir cuáles
+[01:19:17] son las causales de suspensión o
+[01:19:19] extinción de este contrato. No sé si
+[01:19:20] fallece el titular o hay cambio de
+[01:19:22] titular de titular de titular este o hay
+[01:19:26] un contrato de locación. Eh, también
+[01:19:29] debe eximir, los usuarios en este
+[01:19:32] acuerdo tienen que eximir a las
+[01:19:33] distribuidoras de responsabilidades
+[01:19:34] frente a posibles conflictos que
+[01:19:36] existieran en ese acuerdo entre
+[01:19:38] privados.
+[01:19:40] Eh, también este tienen la obligación el
+[01:19:43] UGCT de informar a la distribuidora
+[01:19:46] cualquier cambio, tanto en el vínculo,
+[01:19:49] en la conformación,
+[01:19:51] puede que uno de los este usuarios este
+[01:19:54] que integran esa asociación salga, no
+[01:19:56] sé, se muda, deja de ser integrante, con
+[01:19:59] lo cual ya no va a recibir más
+[01:20:00] participación, entonces esa
+[01:20:02] participación en la factura se
+[01:20:05] redistribuye. Entonces, cualquier
+[01:20:07] modificación en esa conformación, en ese
+[01:20:09] acuerdo de voluntades, tiene que ser
+[01:20:11] notificado inmediatamente a la
+[01:20:12] distribuidora.
+[01:20:16] Del mismo modo que el individual, la
+[01:20:17] solicitud factividad técnica de la
+[01:20:19] conexión lo inicia con presentación el
+[01:20:22] propio usuario, sí o sí el titular ante
+[01:20:25] la distribuidora. tiene que presentar el
+[01:20:27] acuerdo de voluntades, tiene que
+[01:20:28] presentar una memoria técnica en la
+[01:20:30] normativa, detalla absolutamente todo lo
+[01:20:32] que tiene que contener. Por ahí no nos
+[01:20:34] vamos a detener, pero es un poquito todo
+[01:20:36] lo que venimos hablando. Digo, por lo
+[01:20:39] por la hora, más que nada. Eh, es
+[01:20:42] bastante detallada la norma,
+[01:20:46] así que con toda esa presentación, el
+[01:20:48] usuario titular inicia el trámite ante
+[01:20:51] la distribuidora. la distribuidora hace
+[01:20:53] este
+[01:20:55] la evaluación técnica,
+[01:20:58] eh realiza este estudio de factibilidad
+[01:21:00] técnica, previa corroboración,
+[01:21:02] obviamente de la potencia máxima de
+[01:21:04] acople, de la capacidad en el punto de
+[01:21:05] suministro o en el punto de conexión de
+[01:21:07] este equipamiento, si puede inyectar a
+[01:21:09] la red, este si le va a dar la capacidad
+[01:21:12] de acople o el punto de acople que tiene
+[01:21:15] este esa digamos esa
+[01:21:19] que le corresponde a la categoría
+[01:21:20] tarifaria de ese usuario titular. ular o
+[01:21:22] va a aceptar más. En ese caso va a ver
+[01:21:25] cuáles son las categorías o la sumatoria
+[01:21:26] de los usuarios individuales, este, si
+[01:21:29] puede o no puede y en ese caso va a
+[01:21:31] aceptar esa solicitud. Obviamente el
+[01:21:33] plazo, la norma establece que son 20
+[01:21:35] días, la individual no dijo, no
+[01:21:38] estableció plazo para ese análisis o
+[01:21:40] estudio de factibilidad. Acá se
+[01:21:41] establecen 20 días hábiles. El cómputo,
+[01:21:44] obviamente, desde que la presentación
+[01:21:45] está completa, si hay errores
+[01:21:47] incompleta, obviamente le devuelve.
+[01:21:49] Este, hasta que no está completa, no
+[01:21:51] comienzan a correr los 20 días. puede
+[01:21:53] rechazar por incompleta, inexacta y
+[01:21:55] errónea, este, con fundamento en
+[01:21:58] cuestiones técnicas de los estudios
+[01:21:59] realizados, este, o cuando la potencia
+[01:22:01] de acople sea mayor a la contratada por
+[01:22:03] el usuario, este, o no pueda darle o no
+[01:22:07] admita esta potencia mayor, este, y con
+[01:22:10] el límite hasta la sumatoria de los
+[01:22:11] usuarios y ahí la distribuidora le va a
+[01:22:13] tener que informar cuál es la obra que
+[01:22:15] se requiere este a realizar para poder
+[01:22:18] inyectar esa sumatoria si es que así lo
+[01:22:21] decida. En ese caso, eh,
+[01:22:24] si hay, digamos, cuestionamientos a la a
+[01:22:27] la decisión de la distribuidora, lo
+[01:22:28] mismo, va, el OSA le va a resolver, le
+[01:22:32] va a conferir traslado a ambos. Eh, si
+[01:22:35] es respons digamos eh favorable al
+[01:22:38] usuario generador, puede continuar con
+[01:22:41] la instalación y la distribuidora está
+[01:22:42] obligada a a cumplir con lo que indica
+[01:22:44] OSBA. Y si el OSEVA rechaza el reclamo,
+[01:22:47] obviamente está ratificando la postura
+[01:22:48] de la distribuidora.
+[01:22:51] En cuanto a los equipos de instalación,
+[01:22:53] bueno, una vez que está autorizada, del
+[01:22:54] mismo modo, recién ahí entra. Una vez
+[01:22:56] autorizada, únicamente está el derecho
+[01:22:58] del usuario a instalar. Va a instalar
+[01:23:00] este el equipamiento a través del
+[01:23:03] responsable matriculado, ejecuta la
+[01:23:06] obra. Una vez que termina le notifica a
+[01:23:08] la distribuidora. La distribuidora ahí
+[01:23:11] va a instalar el medidor bidireccional.
+[01:23:13] Acá una aclaración que me olvidé de
+[01:23:15] hacerlo. ¿Por qué
+[01:23:18] en la definición tiene que ser mayor a
+[01:23:21] 10?
+[01:23:23] Menor a 10, aunque haya asociación o
+[01:23:26] agrupamiento de usuarios,
+[01:23:29] lo consideramos que aplica la
+[01:23:30] individual. Sí, hay asociación, pero
+[01:23:33] como no supera los 10, aplica la
+[01:23:36] individual. Sí, es un detalle. Entonces,
+[01:23:39] si aplica la individual, tenemos el el
+[01:23:41] doble medidor para el T1 y el T2. Y si
+[01:23:45] en todo caso van a ser acá en la
+[01:23:47] comunitaria todos T2 o T3, ¿sí? Entonces
+[01:23:49] por eso es solamente aplica el mediador
+[01:23:51] bidireccional.
+[01:23:53] Una vez que está lista la obra, se lo
+[01:23:55] notifica la distribuidora, pide la
+[01:23:57] instalación del bidireccional. ¿Qué
+[01:23:59] cargo corre? Corre con el costo del
+[01:24:01] mediador bidireccional y el cargo de
+[01:24:02] conexión. Si el bidireccional ya está
+[01:24:04] instalado en ese punto de suministro,
+[01:24:07] solamente es una especie de
+[01:24:08] reconfiguración para la distribuidora,
+[01:24:10] por lo cual solo puede cobrar el cargo
+[01:24:11] de conexión y no eh el medior
+[01:24:14] bidireccional.
+[01:24:15] Si hay una cometida independiente a
+[01:24:18] requerimiento del usuario, este esto que
+[01:24:20] decíamos, la excepción del solo punto de
+[01:24:22] suministro, eh obviamente debe pagar el
+[01:24:24] cargo de conexión correspondiente a ese
+[01:24:26] nuevo punto de suministro.
+[01:24:29] Finalizada la instalación, lo va a
+[01:24:32] comunicar a la distribuidora. Este
+[01:24:34] procede a instalar, bueno, esto es un
+[01:24:35] poquito lo que dije, los plazos ya
+[01:24:37] estaban establecidos en el 46.
+[01:24:39] Ahí, del mismo modo que el individual se
+[01:24:41] firma el contrato. A partir de ahí es eh
+[01:24:45] usuario, se convierte en usuario
+[01:24:46] generador comunitario en este caso. Este
+[01:24:50] y acá es este donde tienen que estar
+[01:24:53] todas estas cuestiones que decíamos este
+[01:24:55] que que hacen al al contrato accesorio
+[01:24:59] al principal.
+[01:25:01] Y creo que es la última. Sí. Eh, no sé
+[01:25:03] si tienen alguna duda, pregunta, hacemos
+[01:25:05] un mini recreíto y sigue Pablo que
+[01:25:08] también tiene una
+[01:25:10] presentación más extensa, más extensa
+[01:25:12] que la mía.
+[01:25:13] va a ser más entretenido, capaz porque
+[01:25:16] eh tiene más imágenes, pero
+[01:25:20] tiene bastante contenido, así que si
+[01:25:22] quieren encigen el mate.
+[01:25:24] Sí.
+[01:25:37] Buenos días [resoplido] a todos.
+[01:25:41] A ver si avanza esto. Ahí está. Bueno,
+[01:25:44] pequeño resumen de todo lo que dijo
+[01:25:46] Guille, este
+[01:25:48] resumen de la normativa. Yo se las dejé
+[01:25:51] ahí en un cuadrito para que sea más
+[01:25:53] fácil después al momento de buscarla.
+[01:25:56] Eh,
+[01:25:59] y vamos a comenzar con con algunas
+[01:26:01] partes un poquito técnicas. Hay
+[01:26:04] ingenieros con mucho conocimiento.
+[01:26:05] Tengan paciencia porque tratamos de
+[01:26:07] hacerlo explicativo para todos. y muchos
+[01:26:09] abogados también que ya lo entienden,
+[01:26:11] entonces sepan eh comprender que hay que
+[01:26:14] dar la explicación para que todos lo
+[01:26:16] entiendan. Buen, principalmente
+[01:26:18] generaciones.
+[01:26:20] La norma abarca cualquier tipo de fuente
+[01:26:22] de generación renovable.
+[01:26:24] Lo más propagado eh es la generación
+[01:26:29] solar. Por lo tanto, eh muchas veces van
+[01:26:32] a ver que terminamos hablando de solar
+[01:26:33] porque es lo más barato, lo más
+[01:26:35] instalado, lo que está avanzando eh
+[01:26:37] rápidamente, pero bueno, puede ser
+[01:26:38] cualquier tipo de fuente de generación
+[01:26:40] renovable.
+[01:26:42] Esa esos tipos de generación o esas
+[01:26:44] conexiones con la red pueden ser del
+[01:26:46] tipo grid, que es eh una fuente de
+[01:26:50] generación que a través de un inversor
+[01:26:52] se conecta a la red. Cuando eh la red
+[01:26:56] está en funcionamiento, el equipo opera.
+[01:26:58] Cuando la red está desenergizada, el
+[01:27:00] equipo no opera, por lo tanto, el equipo
+[01:27:03] on grid no sirve de backup para el
+[01:27:05] usuario. Después tenemos el equipo
+[01:27:07] Offgrid. En el equipo OffGrid está
+[01:27:09] desconectada de la red la fuente.
+[01:27:14] Este, por lo tanto, es un usuario
+[01:27:17] aislado. En ese caso no tiene
+[01:27:19] intervención con el distribuidor, por lo
+[01:27:21] tanto no hay mucho que opinar. Y por
+[01:27:23] último está el tipo de generación o los
+[01:27:25] inversores híbridos que están conectados
+[01:27:28] a la red, pero también ante la ausencia
+[01:27:32] de de tensión en la red tienen un
+[01:27:35] backup. Ese backup puede ser por un
+[01:27:37] banco de baterías, por un grupo
+[01:27:39] electrógeno
+[01:27:40] u otros.
+[01:27:43] Yo les dejé las características de cada
+[01:27:45] uno de los sistemas. Después ustedes con
+[01:27:48] tranquilidad las leen, eh, para no
+[01:27:50] perder tiempo yendo en cada uno de de
+[01:27:53] los equipos. Pero bueno, si vamos a la
+[01:27:55] primera conexión de red, el sistema on
+[01:27:57] grid está conectado a la red, sí opera
+[01:27:59] junto a los parámetros. Cuando no
+[01:28:01] detectas los parámetros de red
+[01:28:02] desconectas tanto la generación como la
+[01:28:05] inyección. El offgrid no funciona de
+[01:28:07] manera completamente independiente y el
+[01:28:09] híbrido sí, pero tiene un respaldo con
+[01:28:12] baterías o con grupo electrógeno que es
+[01:28:13] lo que le acabo decir. Después les dejo
+[01:28:15] ventaja, costos iniciales y demás.
+[01:28:19] Bueno, charlábamos hace un ratito qué
+[01:28:21] pasa con eh aquellos eh generadores que
+[01:28:25] no inyectan a la red. Tienen obligación
+[01:28:27] de informar al distribuidor. Sí, tienen
+[01:28:29] obligación de informar al distribuidor
+[01:28:32] cuando hay un grupo electrógeno puesto
+[01:28:33] del otro lado, cuando hay paneles, por
+[01:28:35] más de que ese usuario no inyecta la
+[01:28:37] red, está previsto en el suexo e en el
+[01:28:39] artículo 2, que debe dar aviso al
+[01:28:42] distribuidor sobre esa condición. ¿Por
+[01:28:44] qué? Porque al operar en paralelo a la
+[01:28:47] red, si el distribuidor tiene que hacer
+[01:28:49] maniobra sobre su red, bueno, puede
+[01:28:51] haber una cuestión de seguridad que no
+[01:28:53] se esté contemplando y eh y debe ser
+[01:28:56] contemplada. E es importante que sea
+[01:28:59] contemplada.
+[01:29:01] Bueno, requisitos técnicos para
+[01:29:03] generación distribuidas. ¿Dónde vamos a
+[01:29:05] buscar todas las normas que nosotros le
+[01:29:07] mencionamos? En la página web de la
+[01:29:08] provincia, normas.gba.
+[01:29:11] En acá yo les dejo el ejemplo de la
+[01:29:13] resolución 463 del 23, que es la de GD
+[01:29:18] domiciliaria.
+[01:29:20] Después pueden hacer lo mismo, pero con
+[01:29:21] la 17 del 26, que es la de comunitaria.
+[01:29:24] Dentro de esa resolución, ¿qué es lo que
+[01:29:26] nos interesa ahondar en este momento? el
+[01:29:29] reglamento de conexión para usuarios,
+[01:29:31] generadores, domiciliarios, que es el
+[01:29:32] anexo uno, en donde están las
+[01:29:34] especificaciones técnicas de cómo tiene
+[01:29:37] que ser la instalación y cuáles son las
+[01:29:38] tareas que tienen que ejecutar los
+[01:29:40] distribuidores para permitir la conexión
+[01:29:42] de esa instalación.
+[01:29:44] ¿Cómo se compone ese anexo
+[01:29:46] reglamentario?
+[01:29:48] Eh, se compone de de seis capítulos.
+[01:29:51] Muchos de estos capítulos ya los
+[01:29:52] mencionó Guille, así que no vamos a
+[01:29:54] profundizar y yo les voy a comentar
+[01:29:57] algunas cuestiones un poco más técnicas
+[01:30:00] [carraspeo]
+[01:30:01] eh para facilitar la lectura de esa
+[01:30:04] norma y que ustedes la puedan
+[01:30:05] interpretar correctamente.
+[01:30:08] Bueno, lo primero que hay que mencionar
+[01:30:10] es una diferencia entre el sistema de
+[01:30:12] generación domiciliaria de nación y el
+[01:30:14] sistema de generación domiciliaria de
+[01:30:16] provincia.
+[01:30:17] La nación determinó que para todos sus
+[01:30:21] usuarios se coloque eh se reemplace el
+[01:30:24] medidor unidireccional que tenía cada
+[01:30:27] usuario por un medidor bidireccional.
+[01:30:31] Eso eh en la provincia no pudo
+[01:30:34] ejecutarse porque bueno, había algunas
+[01:30:36] eh eh algunas cuestiones tarifarias y
+[01:30:39] demás que dificultaban, por lo tanto se
+[01:30:42] adoptó otro esquema y se dispuso de un
+[01:30:45] interruptor general para eh el segmento
+[01:30:49] de generación, para la fuente de
+[01:30:50] generación.
+[01:30:53] Bueno, dentro de de la reglamentación
+[01:30:55] del anexo 1 de la 463, el elemento que
+[01:30:58] está trayendo mayor controversia entre
+[01:31:00] usuarios y distribuidores
+[01:31:02] es eh un equipo Gendiz que básicamente
+[01:31:07] para reducirlo después de todas las
+[01:31:08] discusiones que hemos tomado de debiera
+[01:31:11] ser un seccionador bajo carga de
+[01:31:13] apertura visible. Es un elemento
+[01:31:16] adicional al inversor
+[01:31:19] que cumple las funciones de dispositivo
+[01:31:21] de seguridad y maniobra, permite cortar
+[01:31:24] el flujo de corriente, permite
+[01:31:25] desvincular la instalación renovable de
+[01:31:29] la red de distribución, permite la
+[01:31:31] apertura visible y está ubicado en el
+[01:31:34] pilar de acometida.
+[01:31:36] Acá yo les dejé remarcado
+[01:31:39] en en amarillo que cuando el
+[01:31:43] distribuidor detecta
+[01:31:46] algún inconveniente
+[01:31:48] en el usuario que tiene instalado un
+[01:31:51] equipo de generación, se encuentra
+[01:31:53] habilitado para operar este interruptor
+[01:31:55] gendiz y aislar al usuario generador de
+[01:31:58] la red de distribución. Eso se encuentra
+[01:32:01] en el anexo 1 de la resolución 463.
+[01:32:06] Vamos a ver más adelante ese gendiz que
+[01:32:08] hay algunas propuestas para modificarlo,
+[01:32:10] simplificarlo y hacerlo de otra manera,
+[01:32:14] pero todavía no llegamos, así que denme
+[01:32:16] un ratito.
+[01:32:17] Bueno,
+[01:32:19] Guille ya les mencionó que los esquemas
+[01:32:22] del doble medidor en las tarifas T1 y
+[01:32:23] T4, que son las pequeñas
+[01:32:25] Pablo, perdón.
+[01:32:26] Sí,
+[01:32:27] ese gendis hoy por hoy, ¿qué sería? Un
+[01:32:30] seccionador de a fusibles tipo tapa de
+[01:32:32] horno, por ejemplo.
+[01:32:33] Ahora lo vamos a ver. Ahora cuando
+[01:32:35] lleguemos a la parte cometida, yo te lo
+[01:32:37] explico.
+[01:32:38] Bueno,
+[01:32:40] bueno, eh,
+[01:32:43] seguimos. Entonces, ¿por qué eh se tuvo
+[01:32:46] que pensar esa estructura de doble
+[01:32:48] medidor para las pequeñas demandas?
+[01:32:51] Bueno, porque eh el BAT en los usuarios
+[01:32:55] residenciales, parte de ese Bad está en
+[01:32:57] los cargos variables. Por lo tanto, si
+[01:33:00] se neteaba energía en los cargos
+[01:33:02] variables,
+[01:33:04] se perdía bad. El distribuidor perdía,
+[01:33:06] por lo tanto perdía ingresos para operar
+[01:33:08] y mantener la red y eso no era
+[01:33:11] conveniente.
+[01:33:13] Por eso se estableció un esquema de dos
+[01:33:15] medidores para poder medir el consumo
+[01:33:18] total de la vivienda y con ese consumo
+[01:33:21] total el distribuidor tiene el dato de
+[01:33:25] qué dimensión tiene que tener la red que
+[01:33:27] abastece a ese usuario, porque el día
+[01:33:30] que el equipo no anda, eh, el
+[01:33:32] distribuidor tiene que tener la red en
+[01:33:34] condiciones para poder brindarle
+[01:33:36] suministro a ese usuario que antes
+[01:33:38] generaba su energía y ahora no la genera
+[01:33:40] más.
+[01:33:42] El el esquema entonces eh queda de la
+[01:33:45] siguiente manera. Tenemos el equipo de
+[01:33:47] generación, tenemos protecciones de ese
+[01:33:50] equipo de generación, el inversor que
+[01:33:52] básicamente lo que hace en un esquema
+[01:33:55] solar fotovoltaico es convertir la
+[01:33:57] energía continua de los paneles en
+[01:33:58] energía alterna que se inyecta la red.
+[01:34:01] Protecciones y acá este es equipo gendiz
+[01:34:03] que hace la desconexión de red. El
+[01:34:05] equipo Gendiz va a un nodo
+[01:34:08] en el cual de ese nodo puede la energía
+[01:34:11] generada ser autoconsumida
+[01:34:15] por el usuario o ser inyectada a la red.
+[01:34:18] Toda esta parte de la derecha es la
+[01:34:20] parte de generación. Por otro lado,
+[01:34:22] cuando el equipo no está generando, este
+[01:34:25] usuario va a demandar de la red, por lo
+[01:34:28] tanto va a tomar kilw h de la red. Si
+[01:34:32] ustedes se fijan, el medidor
+[01:34:34] unidireccional va a contabilizar lo que
+[01:34:37] se autoconsume más lo que toma de red.
+[01:34:40] Esto, ¿qué nos permite? nos permite
+[01:34:42] determinar cuántos kilw h mes consume
+[01:34:46] este usuario residencial y con eso
+[01:34:48] determinar la categoría y el escalón de
+[01:34:51] consumo, si sigue siendo un T1 y qué
+[01:34:54] escalón del cuadro tarifario debe
+[01:34:58] determinarse para facturarle el cargo
+[01:35:00] fijo, el cargo variable y demás
+[01:35:02] componentes que tiene eh la factura
+[01:35:05] final.
+[01:35:07] ¿Qué energía le vamos a facturar a este
+[01:35:09] usuario? y le vamos a facturar la que
+[01:35:12] tomó de red, no el total que se
+[01:35:15] autoconsumió porque una parte se la
+[01:35:16] generó él. Entonces, esto es importante
+[01:35:19] tenerlo claro, que se genera, se factura
+[01:35:23] la energía que toma de red. Esa energía
+[01:35:25] se factura a la categoría y al escalón
+[01:35:28] que se determinó por medio del medidor
+[01:35:30] unidireccional.
+[01:35:32] Y por otro lado tenemos la energía
+[01:35:33] inyectada, que también la vamos a tomar
+[01:35:35] del medidor bidireccional
+[01:35:38] y la vamos a valorizar.
+[01:35:40] a el cuadro tarifario de inyección de
+[01:35:43] generación distribuida.
+[01:35:45] ¿Qué genera esa valorización? Un
+[01:35:47] crédito. Ese crédito se impacta en la
+[01:35:50] factura. Antes se impactaba después de
+[01:35:52] impuesto y ahora a partir del artículo 5
+[01:35:54] de la resolución 17 se impacta antes de
+[01:35:57] impuesto.
+[01:36:00] Bueno, vamos al caso de los T2 y los T3.
+[01:36:03] Los T2 y los T3, como el valor agrego de
+[01:36:05] distribución lo tienen en los cargos de
+[01:36:07] potencia,
+[01:36:08] nos permitió por medio de la resolución
+[01:36:10] 1313 del 24
+[01:36:13] simplificar ese esquema de doble medidor
+[01:36:17] y llevarlo un esquema de medidor único.
+[01:36:20] Por lo tanto, el esquema se simplifica
+[01:36:22] bastante. Queda el equipo de generación,
+[01:36:23] el interruptor Gendíis, un único medidor
+[01:36:26] bidireccional, la energía que inyecta
+[01:36:29] pasa por el medidor bidireccional, la
+[01:36:31] que toma de red pasa por el medidor
+[01:36:33] bidireccional, el autoconsumo va directo
+[01:36:37] al usuario. Acá nosotros como
+[01:36:39] reguladores y ustedes como
+[01:36:40] distribuidores sufren una pérdida de
+[01:36:43] información, pero bueno, fue a costo de
+[01:36:46] simplificar
+[01:36:48] el esquema de medición y el esquema de
+[01:36:50] facturación. Después la facturación es
+[01:36:52] lo mismo, son los kilow consumidos de
+[01:36:54] red por el cuadro tarifario de demanda
+[01:36:57] va a la factura y los kilw inyectados
+[01:37:00] por el cuadro tarifario de generación
+[01:37:02] van al crédito que debe impactarse en la
+[01:37:04] factura.
+[01:37:06] Bien, vamos a la parte de eh acometidas
+[01:37:10] ahora eh que están normadas según la
+[01:37:13] resolución 52 deva del año eh 24.
+[01:37:19] Si van a la página web de Losva, la
+[01:37:20] parte de normativa resoluciones, la
+[01:37:23] pueden buscar de esta manera y ahí les
+[01:37:25] va a traer la resolución y el anexo, que
+[01:37:27] es donde están las condiciones técnicas.
+[01:37:31] Bueno, básicamente
+[01:37:33] acá lo que les quiero decir que está en
+[01:37:34] proceso de revisión porque tiene un
+[01:37:36] montón de cosas eh que pueden ser
+[01:37:40] mejoradas y que en el momento de
+[01:37:42] emitirla, como era la primer versión, eh
+[01:37:45] eran perfectibles. Y ahora les explico
+[01:37:47] algunas cosas que se pensaron en ese
+[01:37:50] momento de por qué se hicieron así.
+[01:37:53] principalmente eh ese interruptor gendiz
+[01:37:58] que acá dice seccionador bajo carga, se
+[01:38:00] pensó para desvincular solo la
+[01:38:02] generación distribuida
+[01:38:05] eh y que el usuario pueda seguir
+[01:38:07] consumiendo de la red
+[01:38:11] aún cuando la generación distribuida
+[01:38:13] falla.
+[01:38:14] Bueno, ese ese esquema no es del todo
+[01:38:17] óptimo. En algunos usuarios como los T4
+[01:38:19] trae muchos problemas porque hay que
+[01:38:22] hacer un cableo muy extenso, encarece
+[01:38:24] mucho la las instalaciones y demás. Por
+[01:38:28] lo tanto, eh se está trabajando en el
+[01:38:30] proceso de revisión. Lo mismo en la
+[01:38:33] medición indirecta de los T3. Esto ya
+[01:38:35] fue resuelto, ya no este medidor
+[01:38:39] unidireccional
+[01:38:41] ya no está más contemplado a través de
+[01:38:44] la resolución 1313,
+[01:38:46] pero nos permitía tener estadísticas de
+[01:38:49] la demanda. Bueno, vamos a perder un
+[01:38:51] dato a fin de simplificar todo este
+[01:38:53] esquema y también se había contemplado
+[01:38:55] desvincular solo la generación y que el
+[01:38:58] usuario pueda seguir tomando de red aún
+[01:39:01] cuando el equipo de generación no
+[01:39:03] funcione óptimamente.
+[01:39:06] ¿Qué cambios eh se han recibido de la
+[01:39:09] propuesta en esta propuesta? han
+[01:39:11] participado gente del colegio ingeniero,
+[01:39:13] gente de las distribuidoras, a la cual
+[01:39:15] agradecemos mucho, eh instaladores y por
+[01:39:19] parte de los reguladores profesionales
+[01:39:21] eh de la provincia. ¿Qué es lo que lo
+[01:39:25] que contemplaría esta propuesta que se
+[01:39:28] está analizando? Admitir que las
+[01:39:29] protecciones son aseguradas por el
+[01:39:32] inversor a través de las certificaciones
+[01:39:34] que cuenta ese inversor. Incorporar
+[01:39:36] reglas técnicas que hace un ratito las
+[01:39:38] mencionaba Fabián de la resolución de
+[01:39:40] secretaría 919 del 23 y de la EA 92,559.
+[01:39:46] un corte único, es decir, que ya no
+[01:39:50] exista más ese interruptor gendíis que
+[01:39:52] separe solo la generación, sino que
+[01:39:54] cuando hay un inconveniente en el
+[01:39:55] suministro vaya al corte total hasta que
+[01:39:58] el usuario resuelva esa situación. Y es
+[01:40:01] lo que se ve en estos esquemas. ¿Ven que
+[01:40:03] el esquema ahora está mucho más
+[01:40:04] simplificado? Antes teníamos eh varias
+[01:40:08] eh derivaciones y en este caso con este
+[01:40:11] seccionador bajo carga resolveríamos
+[01:40:15] esta situación. Esto simplifica la
+[01:40:18] instalación de los usuarios, reduce los
+[01:40:20] costos y para el distribuidor es un
+[01:40:23] elemento de apertura visible y de corte
+[01:40:27] bajo carga que cumple la misma función
+[01:40:29] que lo que se había determinado
+[01:40:31] anteriormente, que tenía mayor
+[01:40:32] complejidad.
+[01:40:35] Bueno, después respecto de los visados,
+[01:40:37] los visados hacen una propuesta de
+[01:40:39] diferenciación de de proyecto y
+[01:40:41] dirección técnica o de obra para
+[01:40:44] proyectos menores a 30 kg y para
+[01:40:48] proyectos mayores a 30 kg le agregan
+[01:40:50] también el visado de la dirección
+[01:40:52] ejecutiva. Acá, ¿cuál es la diferencia?
+[01:40:54] Bueno, el costo del profesional
+[01:40:56] interviniente en el visado se encarece
+[01:40:58] al haber un proyecto mayor potencia que
+[01:41:01] requiere una tarea adicional que esté
+[01:41:02] visada. ¿Qué se propone también? Creo
+[01:41:05] que Sergio lo mencionaba, se propone
+[01:41:07] solicitar al instalador un certificado
+[01:41:10] de aptitud técnica de la instalación que
+[01:41:13] ayer se llama está determinado eh por
+[01:41:16] los colegios técnicos.
+[01:41:18] Eh, bueno, en Valía Blanca tiene la
+[01:41:20] suerte de este certificado quizás ya
+[01:41:22] tenerlo, pero en el resto de la
+[01:41:24] provincia la tarea de las instalaciones
+[01:41:27] internas y de la comprobación de que
+[01:41:30] esas instalaciones internas cumplen con
+[01:41:32] las normas técnicas y demás está en
+[01:41:34] cabeza de los municipios.
+[01:41:38] Este está en cabeza de los municipios.
+[01:41:40] Así que bueno, acá sería eh quizás
+[01:41:43] avanzar un poco en ese sentido junto a
+[01:41:45] los municipios para poder eh contemplar
+[01:41:49] también este certificado.
+[01:41:52] También, ¿qué proponen? que el
+[01:41:53] distribuidor tenga un derecho a aplicar
+[01:41:55] un cargo al detectar transgresiones
+[01:41:58] respecto del proyecto original, que
+[01:42:01] resulta bastante razonable toda vez que
+[01:42:04] hay un equipo trabajando en paralelo con
+[01:42:06] la red y ese equipo trabajando en
+[01:42:07] paralelo con la red si sufrió alguna
+[01:42:09] modificación o está generando algún
+[01:42:13] problema de seguridad, bueno, puede
+[01:42:15] llegar a traer inconvenientes muy
+[01:42:16] graves.
+[01:42:18] ¿Qué propone también? propone eliminar
+[01:42:20] redundancias de equipamiento de cero
+[01:42:22] tensión y obligaciones del croqui 5 de
+[01:42:24] esta resolución 52 del 24, que eh
+[01:42:28] básicamente lo que hace es eh tiene una
+[01:42:31] lógica en ese interruptor gendiz y tiene
+[01:42:33] un equipamiento adicional que que muchas
+[01:42:37] distribuidoras lo han propuesto a través
+[01:42:38] de contactores eh de cero tensión de
+[01:42:41] cero tenensión que es redundante de las
+[01:42:44] protecciones que ya tiene el inversor y
+[01:42:47] que no haría falta con estos nuevas
+[01:42:49] propuestas, nuevos esquemas y nuevos
+[01:42:51] controles que se están intentando
+[01:42:53] impulsar.
+[01:42:55] ¿Qué más propone? Eh, propone definir
+[01:42:58] requerimientos normativos para equipos
+[01:43:00] híbridos y baterías. ¿Qué
+[01:43:01] certificaciones tienen que cumplir las
+[01:43:03] baterías? Y como en la resolución de
+[01:43:06] generación distribuida comunitaria se
+[01:43:08] permitió la instalación de equipos
+[01:43:10] híbridos, siempre y cuando cuente con la
+[01:43:13] aprobación y factibilidad del
+[01:43:14] distribuidor,
+[01:43:16] con buen tino, proponen definir qué
+[01:43:18] características técnicas tienen que
+[01:43:20] cumplir esas instalaciones para poder
+[01:43:22] ser aprobadas.
+[01:43:24] Y por último, la documentación
+[01:43:27] eh en instalaciones que no inyectan
+[01:43:30] debiera ser similar a la de un proyecto
+[01:43:34] eh de generación distribuida,
+[01:43:37] pero sin el visado y contar con el
+[01:43:41] taller, que es la inspección de esa
+[01:43:43] instalación que no inyecta para que el
+[01:43:45] distribuidor tenga tranquilidad de que
+[01:43:47] un profesional intervino y aseguró las
+[01:43:49] condiciones técnicas eh de esa
+[01:43:53] instalación
+[01:43:55] para que opere de forma segura. Creo que
+[01:43:58] era, no me acuerdo que me hizo una
+[01:44:00] pregunta
+[01:44:01] sobre el gendiz. Ezequiel, Ezequiel, acá
+[01:44:04] tenés la respuesta. Eh, la idea es ese
+[01:44:09] gendiz reemplazarlo por un una caja
+[01:44:12] portafusibles y fusibles NH. Eh,
+[01:44:15] bien, perfecto.
+[01:44:16] Depende la la
+[01:44:18] potencia contratada por el usuario y la
+[01:44:20] corriente de la instalación. Así que
+[01:44:22] perfecto, gracias.
+[01:44:23] Fíjense que la propuesta,
+[01:44:26] les voy a ir una filmina para atrás,
+[01:44:27] pero para mostrarle cuánto simplifica
+[01:44:30] respecto a la versión original. Esta es
+[01:44:32] la versión original. Fíjense que hay dos
+[01:44:34] mededores, que hay seccionadores bajo
+[01:44:37] carga para la parte de la para los
+[01:44:39] tableros de generación distribuida y en
+[01:44:43] la propuesta ya todo eso se simplifica y
+[01:44:45] queda un solo fusible en el cual el
+[01:44:47] distribuidor desde la cometida hace la
+[01:44:49] apertura de ese de ese seccionador bajo
+[01:44:52] carga y desconecta al usuario de la red
+[01:44:54] para cualquier inconveniente y para sus
+[01:44:55] trabajos sobre la red. Así que es un
+[01:45:01] eh son todas propuestas que que han
+[01:45:02] trabajado los instaladores y los
+[01:45:04] distribuidores
+[01:45:06] y nosotros la realidad que las mayorías
+[01:45:09] de ellas las vemos con bueno. Solamente
+[01:45:11] nos falta poder traducirlas en algún
+[01:45:13] documento técnico y ponernos de acuerdo
+[01:45:15] a las reparticiones del Estado.
+[01:45:17] Pablo, una consultita. Eh, en T1 es
+[01:45:21] imposible simplificarlo un medidor, ¿no?
+[01:45:23] Todavía
+[01:45:24] en T1 eh,
+[01:45:26] RTI,
+[01:45:27] porque eso genera problemas para que el
+[01:45:29] cliente normalice, ¿viste? le le le
+[01:45:31] genera un engorro y un costo altísimo
+[01:45:34] para
+[01:45:35] te digo las propuestas las propuestas
+[01:45:37] que hemos tenido la propuesta que hemos
+[01:45:39] tenido de CADER, que es la Cámara de
+[01:45:41] Energía Renovable de Argentina, fue eh
+[01:45:44] que
+[01:45:45] se le facture la demanda al usuario en
+[01:45:48] en el escalón más más alto
+[01:45:52] de la de las pequeñas demandas, es
+[01:45:54] decir, en no sé, en EDA y demás, un R7,
+[01:45:57] en el un R9. Bueno, eso va en contra de
+[01:46:01] facturar correctamente la energía
+[01:46:04] demandada por el usuario y estamos
+[01:46:07] prácticamente violando un derecho que
+[01:46:08] tiene el usuario que se le facture por
+[01:46:09] lo que consume como corresponde. Por lo
+[01:46:12] tanto, hasta que no se desenergice,
+[01:46:15] hasta que no se desenergice el BAT, que
+[01:46:17] no se saque ese BAT que está dando
+[01:46:19] vuelta en el variable y se lo lleve al
+[01:46:21] cargo fijo o algún cargo de potencia en
+[01:46:23] residenciales, si hacemos tarifas que no
+[01:46:26] sean monómicas, eh, no va no va a poder
+[01:46:28] ser.
+[01:46:30] Sí, Pablo, y otra consulta, porque otras
+[01:46:33] en otras provincias creo que está la
+[01:46:35] posibilidad de un solo medio, no sé cómo
+[01:46:36] lo manejarán por ahí. Porque
+[01:46:39] porque tienen el el bad, ¿no? Eh, porque
+[01:46:42] no tienen el B en el variable.
+[01:46:44] Ah, perfecto.
+[01:46:45] Eh, eh, la limitación está en el B del
+[01:46:48] variable. Nosotros como regulador no
+[01:46:50] podemos permitir que el distribuidor
+[01:46:52] pierda ingreso para mantener la red.
+[01:46:55] Clarísimo. [carraspeo]
+[01:46:56] Eh, entre que el usuario tenga que
+[01:46:59] abonar un medidor más y que el
+[01:47:01] distribuidor no tenga recursos para
+[01:47:03] mantener la red, adoptamos eh la
+[01:47:06] decisión de que el distribuidor no
+[01:47:08] pierda recursos.
+[01:47:09] Y en el T1 no se puede hacer por
+[01:47:11] potencia también, al igual que T2, T3
+[01:47:14] para no llevarlo a cargo variable
+[01:47:17] también. Bueno, [resoplido]
+[01:47:18] eh la modificación de las categorías
+[01:47:20] tarifarias y de la estructura tarifaria
+[01:47:22] requiere de una revisión tarifaria
+[01:47:23] integral porque hay una eh distribución
+[01:47:27] distinta de los costos de mantenimiento
+[01:47:29] y operación de la red.
+[01:47:31] Por eso, hasta tanto no se haga una RTI,
+[01:47:34] nosotros no vamos a poder tener una
+[01:47:36] categoría tarifaria específica para
+[01:47:38] usuarios generadores
+[01:47:40] y y ahí
+[01:47:41] RTI RTI que está en marcha, ¿no?
+[01:47:43] Eso, eso, ¿cuál es la previsión, Guille,
+[01:47:46] con eso más o menos este año, por
+[01:47:48] ejemplo,
+[01:47:50] y la idea es que estemos cerca de fin de
+[01:47:52] año con un
+[01:47:55] todo [carraspeo] medianamente listo,
+[01:47:56] veremos. Este, un buen proceso,
+[01:47:59] audiencia pública, procedimiento
+[01:48:00] administrativo, no requiere de todo eso
+[01:48:03] para poder implementarse, pero los
+[01:48:05] análisis al menos eh pretendemos que
+[01:48:07] estén durante este año.
+[01:48:09] Yo me estiraría fines del año que viene,
+[01:48:11] es un año y medio, tampoco tanto, pero
+[01:48:13] ya venimos conviviendo con esto. Eh,
+[01:48:16] pero bueno, eh, yo creo que para fines
+[01:48:19] del año que viene esto tiene que estar y
+[01:48:21] está contemplado, digamos, el el tema de
+[01:48:23] la categoría de usuarios generador,
+[01:48:25] categoría especial. Sí, sí, sí, sí, sí.
+[01:48:27] Perfecto, perfecto.
+[01:48:29] Genial.
+[01:48:30] Bueno, continú.
+[01:48:30] Lo cual ahí va a ser sí o sí para todo
+[01:48:32] el mundo un único medior.
+[01:48:36] Bueno, continúo.
+[01:48:37] Eh, bueno, acá está el croquis 5, que en
+[01:48:39] la propuesta se pide simplificar. Este
+[01:48:41] croquis e
+[01:48:44] fue determinado por la Dirección
+[01:48:45] Provincial de Energía que habla de la
+[01:48:47] lógica de del Gendí, de contactos
+[01:48:50] auxiliares normalmente abiertos y demás.
+[01:48:53] y hay un proceso de de desacople de eh
+[01:48:57] de borne por medios de relé y demás.
+[01:48:59] Tiene una lógica. Esto es lo que estamos
+[01:49:01] intentando simplificar y que en la
+[01:49:03] resolución nueva de acometida eh no esté
+[01:49:05] más porque la realidad que trajo muchos
+[01:49:07] inconvenientes, así que está en
+[01:49:09] análisis, yo se los tengo que mostrar
+[01:49:12] porque está en la norma.
+[01:49:14] Bien, vamos a seguir entonces con el
+[01:49:16] próximo tema, con el que es el Ruger que
+[01:49:19] Guille habló. El Ruger es ese registro.
+[01:49:22] en donde deben registrarse todos los
+[01:49:24] proyectos de generación distribuida,
+[01:49:26] tanto domiciliaria como comunitaria, y
+[01:49:29] que está en cabeza del distribuidor, los
+[01:49:32] que están dentro del ámbito eh dentro de
+[01:49:35] la jurisdicción de control provincial,
+[01:49:38] está en cabeza el distribuidor. Los que
+[01:49:40] están en la órbita de de Nor y de Sur,
+[01:49:43] eso los tiene que hacer el usuario a
+[01:49:45] través de un botoncito particular que
+[01:49:47] está en la página web de los EVA.
+[01:49:50] Entonces, para usuarios desde norte y de
+[01:49:51] sur, van a ese botoncito que está en la
+[01:49:53] página web, que es Ruger, pinchan ahí y
+[01:49:57] ahí les va a aparecer la siguiente el
+[01:49:59] siguiente requerimiento de información,
+[01:50:01] el distribuidor que va a ser de norte o
+[01:50:04] de sur, el número de de socio cuenta
+[01:50:07] NIS,
+[01:50:09] datos del usuario generador, quid
+[01:50:11] domicilio, código postal y demás para
+[01:50:12] poderlo. [carraspeo]
+[01:50:14] Datos de la instalación, ¿qué tipo de
+[01:50:16] instalación es? solar, biomasia, eólica.
+[01:50:19] Recuerden que yo les dije que la norma
+[01:50:20] alcanzaba cualquier tipo de fuente de
+[01:50:22] generación renovable. La marca, el
+[01:50:24] modelo, potencias, eh me parece la marca
+[01:50:28] era de del inversor. Ah, si acá lo dice
+[01:50:31] bien, puede haber más de un inversor,
+[01:50:33] por lo tanto, hay que listarlo, hay que
+[01:50:35] listarlos a todos.
+[01:50:37] Datos del certificado emitido por
+[01:50:39] Nación. Nación tiene una gestión de
+[01:50:41] estos certificados a través de trámites
+[01:50:43] a distancias. Esos trámites a distancia
+[01:50:46] al finalizarlo emiten un certificado de
+[01:50:48] usuarios generadores en nación. Bueno,
+[01:50:50] ese certificado el que se es el que se
+[01:50:52] tiene que cargar en esta solapa. Se le
+[01:50:54] da a confirmar y el Oceva ya recibe
+[01:50:57] todos los datos de su usuario de nor de
+[01:50:58] sur.
+[01:51:00] Bueno, ahora vamos al paso de las
+[01:51:02] distribuidoras provinciales o
+[01:51:04] municipales, pero en en la órbita de
+[01:51:06] jurisdicción provincial. La página web
+[01:51:08] de los tienen que ir al extranet. En
+[01:51:11] extranet entran con su clave y usuario,
+[01:51:14] hay un botón que se llama Ruger
+[01:51:17] y hay un instructivo de carga. Es muy
+[01:51:19] muy simple, es muy intuitivo, pero
+[01:51:23] bueno, acá tienen el instructivo por si
+[01:51:24] quieren saber cómo completarlo mayor
+[01:51:26] detalle. Y lo que tienen que hacer es
+[01:51:28] nuevo usuario. Tienen que darle clic a
+[01:51:29] nuevo usuario. Después esa solicitud es
+[01:51:32] analizada por la gerencia de mercados en
+[01:51:34] el Oceva y queda en pendiente, aprobadas
+[01:51:38] o rechazadas. Eh, hemos rechazado
+[01:51:40] bastante porque faltaban datos estaban
+[01:51:43] incompletas,
+[01:51:44] eh, pero bueno, es un trámite bastante
+[01:51:46] sencillo, tiene exactamente la misma
+[01:51:48] información que se les pidió que se les
+[01:51:50] pide los usuarios de Nor y de Sur, así
+[01:51:52] que no tiene mayores eh complicaciones.
+[01:51:56] ¿Para qué se hace esa carga en el
+[01:51:57] Rugero? Bueno, se hace para que el
+[01:52:00] usuario pueda obtener el certificado de
+[01:52:03] usuario generador.
+[01:52:05] Ese certificado de usuario generador le
+[01:52:07] permite acceder a ciertos beneficios eh
+[01:52:10] impositivos para que básicamente ARBA no
+[01:52:14] le exija eh impuestos por la
+[01:52:17] compraaventa de energía que está
+[01:52:18] ejecutando con el distribuidor, porque
+[01:52:21] está ejecutando una actividad eh en ese
+[01:52:24] sentido. Para eximirlo, dispensarlo de
+[01:52:27] esa presentación de impuesto, es
+[01:52:29] necesario que obtenga este certificado.
+[01:52:32] Y para obtener este certificado depende
+[01:52:34] de los distribuidores. Así que nosotros
+[01:52:35] les decimos siempre a ustedes, por favor
+[01:52:38] cárguenlos porque el usuario no tiene
+[01:52:40] problema hasta que un día lo tiene. ¿Qué
+[01:52:43] tiene que tener ese certificado? Bueno,
+[01:52:44] apellido y nombre o razón social del
+[01:52:46] usuario generador, quit, el código de la
+[01:52:48] actividad, cuál es la modalidad en la
+[01:52:50] que está generando y si la modalidad no
+[01:52:53] está prevista, eh, porque no la pusimos
+[01:52:56] dentro del formulario, bueno, tiene que
+[01:52:59] utilizar el nomenclador NIP 18 aprobado
+[01:53:02] por ARBA. Y en todo caso si no está eh
+[01:53:07] en el nomenclador de ARBA, bueno,
+[01:53:09] utilizar el nomenclador del sistema
+[01:53:11] federal de recaudación.
+[01:53:13] ¿Qué más dice? Eh, el certificado dice
+[01:53:16] la exención y plazo por el cual se
+[01:53:18] otorga con indicación de las fechas de
+[01:53:20] inicio y c del beneficio.
+[01:53:23] ¿Cómo es un modelo de certificado?
+[01:53:25] Bueno, surge de esta manera. Eh,
+[01:53:27] certificado de usuario generador, el
+[01:53:29] distribuidor,
+[01:53:30] el nombre. Fíjense acá yo les traje uno
+[01:53:33] de la municipalidad de Alberti en el
+[01:53:35] distribuidor Edén que se emitió el 23
+[01:53:37] del 4 al 24. E dencha tiene varios
+[01:53:40] cargados, tiene varios usuarios cargados
+[01:53:42] y la municipalidad
+[01:53:45] eh pedía también obtener este
+[01:53:47] certificado porque le serviría por
+[01:53:49] alguna cuestión.
+[01:53:51] Bueno, beneficios impositivos y
+[01:53:53] fiscales. El usuario generador este para
+[01:53:57] acceder a al régimen de fomento
+[01:53:59] dispuesto por la ley 27,424
+[01:54:01] tiene que cumplir con los requisitos
+[01:54:03] establecidos por esta norma.
+[01:54:05] Lamentablemente el decreto 70 al 23
+[01:54:08] eliminó muchos de los beneficios que
+[01:54:10] tenía la 27424, como dijo Guille. Eh,
+[01:54:16] pero bueno, eh, siempre es bueno tenerlo
+[01:54:18] porque hoy están dado desbaje, quizás
+[01:54:20] mañana puedan ser restituidos.
+[01:54:24] La exención eh de que que otorga ese
+[01:54:29] certificado que es comunicado por el
+[01:54:31] Oceva a la Agencia de Recaudación de la
+[01:54:34] Provincia, alcanza el impuesto a los
+[01:54:37] sellos. Acá, como yo les mencioné, en el
+[01:54:40] contrato de compra y venta de energía, a
+[01:54:42] los impuestos sobre ingresos brutos,
+[01:54:45] alcanza la inyección de los excedentes y
+[01:54:47] el plazo es por el término de 12 años.
+[01:54:51] e a contar, si mal no recuerdo, Guille,
+[01:54:54] desde la publicación del boletín acá,
+[01:54:56] eh, desde el 11 del 1 del 23,
+[01:54:59] próroga, ya vencieron los 12 años y
+[01:55:01] estamos en la prórroga por igual término
+[01:55:03] en forma automática.
+[01:55:04] Bien, continuamos entonces. Eh, bueno,
+[01:55:09] vamos a hablar un poco de las tarifas
+[01:55:10] que que habló Guille, del esquema que se
+[01:55:14] pensó en la provincia de Buenos Aires.
+[01:55:16] La provincia de Buenos Aires eligió un
+[01:55:18] esquema independiente de lo que se hacía
+[01:55:20] en nación e independiente de lo que se
+[01:55:22] hacía, por ejemplo, en la provincia de
+[01:55:23] Santa Fe. La provincia de Santa Fe tenía
+[01:55:26] un esquema de prosumidores que utilizab
+[01:55:27] este este sistema que es Feding Tarif,
+[01:55:30] en el cual
+[01:55:33] el reconocimiento sobre la inyección iba
+[01:55:36] por encima
+[01:55:37] de el valor de compra de de energía de
+[01:55:42] ese usuario. O sea, que era
+[01:55:44] superconveniente para ese usuario
+[01:55:46] instalar paneles porque le pagaban más
+[01:55:49] que lo que es lo que lo que le costaba
+[01:55:50] demandar de red. Esto tiene un objetivo
+[01:55:54] claramente que es eh fomentar la
+[01:55:58] generación. Es por eso se dan las etapas
+[01:56:01] más tempranas de estas políticas de
+[01:56:03] generación distribuida. Ahora ya estamos
+[01:56:05] en una etapa un poco más madura,
+[01:56:08] por lo tanto se está mudando a otros
+[01:56:10] esquemas. El segundo esquema, Netmering
+[01:56:13] es la compensación de kilowatt. Este
+[01:56:16] esquema
+[01:56:18] eh lo utiliza Brasil, por ejemplo. ¿Y
+[01:56:20] qué es lo que hace? dice, "Lo que vos
+[01:56:23] inyectas a la red tiene el mismo valor
+[01:56:25] que lo que demandas de la red." Bueno, y
+[01:56:27] acá empiezan a aparecer los problemas
+[01:56:30] porque en lo que yo inyecto tengo esta G
+[01:56:33] es el compro la la compra de energía en
+[01:56:36] el mercado mayorista y esto es el otro
+[01:56:40] componente que está en la tarifa que es
+[01:56:41] el VAD. Entonces, a ese usuario que está
+[01:56:44] inyectando le están reconociendo el
+[01:56:46] costo de la energía más el VAD. ¿Y quién
+[01:56:48] pierde acá? Bueno, pierde el
+[01:56:50] distribuidor. ¿Qué hace Brasil? Compensa
+[01:56:54] a través de subsidio los distribuidores
+[01:56:56] la pérdida de banco. Bueno, y por
+[01:56:59] último, ¿qué es lo que hace la provincia
+[01:57:00] de Buenos Aires? hace el balance neto de
+[01:57:03] facturación, que en inglés se llama
+[01:57:05] netbilling, y lo que hace es reconocer a
+[01:57:08] la inyección el costo evitado de compra
+[01:57:11] del distribuidor. Es decir, que busca la
+[01:57:14] indiferencia para el distribuidor entre
+[01:57:16] comprarle a un usuario residencial en su
+[01:57:18] casa o un domiciliar o un comunitario o
+[01:57:22] comprar en el mercado eléctrico
+[01:57:24] mayorista. Esto hoy a través de la
+[01:57:26] resolución 400 cada vez vamos a tener
+[01:57:28] más problemas porque no va a haber un
+[01:57:30] costo único sobre el cual eh descontar
+[01:57:33] precios de compra, pero en su momento
+[01:57:36] fue el esquema que eligió la provincia
+[01:57:37] de Buenos Aires y hoy eh es el esquema
+[01:57:40] que eligen la mayoría de los países y de
+[01:57:44] las provincias para evitar
+[01:57:46] inconvenientes.
+[01:57:49] Bueno,
+[01:57:50] sí, no sé si hay alguna pregunta ahí en
+[01:57:52] el camino, pero si no continúo.
+[01:57:56] Bueno, continúo. Bueno, hablamos de
+[01:57:58] tarifa. Entonces, ya les dije que
+[01:58:00] utilizamos un sistema Neting. Ese
+[01:58:02] sistema Net Builling hay que
+[01:58:04] valorizarlo. Digo, ¿cuál es el costo que
+[01:58:07] le tengo que reconocer al usuario?
+[01:58:09] Bueno, entonces en la web de los EVA, en
+[01:58:11] la parte de tarifas están publicados los
+[01:58:13] cuadros tarifarios y en esos cuadros
+[01:58:15] tarifarios se publica un anexo
+[01:58:18] particular que es de generación
+[01:58:19] distribuida y se llama tarifas de
+[01:58:21] inyección. Está para las distribuidoras
+[01:58:24] que siempre estuvieron dentro del área
+[01:58:26] de la de control de la provincia de
+[01:58:27] Buenos Aires y después para delel y Río
+[01:58:30] de la Plata que tiene una estructura
+[01:58:31] tarifaria distinta.
+[01:58:33] Cuando vamos a mirar cuánto se reconoce,
+[01:58:36] eh, fíjense qué diferencia importante
+[01:58:39] que hay. Eh, como el costo
+[01:58:43] que se le reconoce al usuario tiene que
+[01:58:45] ser el costo evitado por el distribuidor
+[01:58:48] de comprar en el mercado mayorista, para
+[01:58:51] aquellos usuarios que están subsidiados
+[01:58:53] por el eh los subsidios energéticos
+[01:58:55] focalizados, esa energía sale más barata
+[01:58:58] comprarla en el MEM que para un usuario
+[01:59:00] que no está subsidiado. Bueno, esa
+[01:59:03] previsión tiene que estar dentro de los
+[01:59:05] cuadros y de los precios que se le debe
+[01:59:08] remunerar a ese usuario inyector. Por lo
+[01:59:10] tanto, yo les marqué acá la diferencia
+[01:59:12] que hay entre un usuario que tiene
+[01:59:16] subsidios energéticos focalizados y un
+[01:59:18] usuario que no, que tiene el precio
+[01:59:20] pleno, que va de 54 a 116.
+[01:59:24] Eso es para que el distribuidor no pague
+[01:59:27] de más esa energía, porque si no
+[01:59:28] teníamos también esa discusión siempre
+[01:59:31] de cómo se le reconocía la energía que
+[01:59:33] inyectaba un usuario que tenía subsidio.
+[01:59:35] Esto comenzó con con la segmentación
+[01:59:38] anterior que era el N1, N2 y N3, pero
+[01:59:40] bueno, continúa acá con los subsidios
+[01:59:42] energéticos focalizados.
+[01:59:45] Bueno, ¿dónde deben incluirse ese
+[01:59:48] reconocimiento de inyección?
+[01:59:51] Hasta antes de la resolución 17 al 26
+[01:59:55] iba como un crédito debajo de la factura
+[01:59:57] de demanda. A partir del artículo 5 de
+[01:59:59] la resolución 17 se hace la facturación
+[02:00:03] de los conceptos tradicionales, las
+[02:00:04] bonificaciones y demás y se reconoce, se
+[02:00:08] descuenta el crédito por inyección. Por
+[02:00:11] lo tanto, a el subtotal eléctrico por
+[02:00:15] demanda se le resta el crédito de
+[02:00:16] inyección y después se le aplican
+[02:00:19] impuestos. Acá la única salvedad a hacer
+[02:00:23] es lo que mencionó Guille, que eh el
+[02:00:27] Fondo Provincial Compensador Tarifario
+[02:00:30] no sufre descuentos de inyección, se
+[02:00:33] calcula sobre el subtotal eléctrico de
+[02:00:36] demanda.
+[02:00:39] Bueno, facturación de la energía
+[02:00:40] inyectada. La distribuidora emite, acá
+[02:00:43] les voy a hablar eh principalmente de la
+[02:00:46] generación distribuida comunitaria,
+[02:00:48] porque la distribución la generación
+[02:00:51] domiciliaria es muy simple de facturar,
+[02:00:53] como vimos recién, lo que mide en el
+[02:00:55] domicilio se le descuenta en la factura.
+[02:00:57] Ahora, los comunitarios debe emitirse
+[02:01:00] una factura o un crédito en la factura
+[02:01:02] de cada participante del proyecto. Ese
+[02:01:05] crédito, como mencionó Guille, va en
+[02:01:08] proporción al acuerdo que hayan arribado
+[02:01:11] los participantes del proyecto.
+[02:01:14] Y lo que les mencionaba recién, el Fondo
+[02:01:16] Provincial Compensador Tarifario se
+[02:01:18] calculará sobre el total de los
+[02:01:19] conceptos eléctricos de energía
+[02:01:21] demandada sin sin considerar descuentos
+[02:01:23] de inyección. Eso tiene que ver por la
+[02:01:26] naturaleza del Fondo Prov. inicial
+[02:01:27] compensador y para no desfinanciar ese
+[02:01:30] fondo compensador.
+[02:01:33] Bueno, acá hay otra aclaración de cómo
+[02:01:35] se factura cuando un usuario generador
+[02:01:37] comunitario titular tenga una cometida
+[02:01:39] independiente para el proyecto. En ese
+[02:01:42] caso, en ese punto de solo inyección, se
+[02:01:45] emitirá una memoria de cálculo mensual
+[02:01:47] en dicho NIS. no se emitirá una factura
+[02:01:49] porque es emitir una nota de crédito en
+[02:01:51] ese punto y esa nota de crédito después
+[02:01:53] repartir en la factura de todos los
+[02:01:55] participantes. Por lo tanto, es eh es
+[02:01:58] algo que no tiene mucho sentido de hacer
+[02:02:00] y no era conveniente y se previó en la
+[02:02:03] norma de esta manera. Saldos monetarios
+[02:02:07] eh a requerimiento del usuario generador
+[02:02:09] comunitario titular debe ser liquidado y
+[02:02:11] pagado en dos instancias anuales fijas,
+[02:02:13] febrero y agosto, mediante canales de
+[02:02:15] pago que tenga habilitado la
+[02:02:16] distribuidora. Acá lo que se pretende es
+[02:02:18] que aquellos excedentes eh valorizados
+[02:02:22] que fueron imputados a cada una de la
+[02:02:25] factura, pero si aún así sigue
+[02:02:28] existiendo algún crédito, puedan ser
+[02:02:30] cobrados por ese usuario generador
+[02:02:32] titular monetariamente, eh,
+[02:02:35] requiriéndolo en esos dos meses.
+[02:02:39] Bueno, ¿cómo venimos hasta acá? Venimos
+[02:02:41] bien. No sé qué hora es, 10:20. Nos
+[02:02:44] queda 40 minutos. Tengo un par de
+[02:02:46] cositas más. Eh,
+[02:02:48] bien, Pablo, impecable,
+[02:02:50] bárbaro. Bueno, les voy a hablar un poco
+[02:02:52] ahora más en profundidad de la
+[02:02:53] resolución 17 del 26,
+[02:02:56] que es la de generación distribuida
+[02:02:58] comunitaria.
+[02:03:00] La pueden buscar de la misma manera. Van
+[02:03:02] a las normas de la provincia de Buenos
+[02:03:04] Aires, la buscan. Ahí lo que es
+[02:03:05] importante de ver es la parte, bueno, es
+[02:03:08] importante leerla toda, ¿no? Pero para
+[02:03:10] poder aplicarla eh las definiciones
+[02:03:14] técnicas están en el anexo.
+[02:03:17] Acá
+[02:03:19] ya empezamos a hablar un poco más de de
+[02:03:22] protecciones de la instalación. ¿Qué
+[02:03:23] protecciones tienen que existir? No es
+[02:03:26] que no estén en la 463, también están.
+[02:03:28] Lo que pasa es que en esta norma quizás
+[02:03:30] están un poquito más claras. Tienen que
+[02:03:32] haber protecciones por subtención, por
+[02:03:34] sobretensión, por subfrecuencia,
+[02:03:36] sobrefrecuencia,
+[02:03:37] detección del funcionamiento en isla y
+[02:03:40] por descarga tierra. Y acá que es
+[02:03:42] importante, que es esta partecita que
+[02:03:44] cambia respecto a la 463, es que estas
+[02:03:48] protecciones deberán estar integradas en
+[02:03:50] el inversor o en un tablero
+[02:03:52] independiente.
+[02:03:54] Básicamente, ¿qué es lo que hace esa
+[02:03:56] frase? Y elimina el gendiz.
+[02:04:00] Eh, acá en esta norma ya nos dimos
+[02:04:02] cuenta que ese equipo que nosotros le
+[02:04:04] llamamos Gendis comercialmente era muy
+[02:04:07] difícil de adquirir. Por lo tanto,
+[02:04:10] permitimos que esas protecciones estén
+[02:04:12] en el inversor y si el inversor no las
+[02:04:15] tiene, bueno, eh conformar un tablero
+[02:04:18] independiente para cubrir cada una de
+[02:04:20] ellas o las que no tenga el propio
+[02:04:22] inversor.
+[02:04:24] ¿Qué tomamos? También tomamos o
+[02:04:27] establecimos las variaciones o las
+[02:04:30] desviaciones respecto de parámetros
+[02:04:32] nominales
+[02:04:34] que permitan
+[02:04:36] operar y configurar el inversor de
+[02:04:37] manera correcta.
+[02:04:40] Fabián eh hoy nos mencionaba, "Che, ¿por
+[02:04:43] qué no toman algunas cuestiones técnicas
+[02:04:45] de la normativa nacional que están
+[02:04:46] buenas?" Bueno, esta es una de las
+[02:04:48] partes que la provincia [carraspeo]
+[02:04:50] se alñó con la normativa nacional para
+[02:04:52] que tengamos la misma configuración de
+[02:04:54] parámetros.
+[02:04:57] Bueno, funcionamiento en isla. Esta la
+[02:05:00] normativa de comunitaria permitió
+[02:05:03] equipos híbridos,
+[02:05:05] es decir, eh que acá tendimos un
+[02:05:09] requerimiento de los instaladores y de
+[02:05:11] los usuarios que nos decían con toda
+[02:05:14] lógica, "Che, yo instalo un equipo de
+[02:05:18] energía renovable, generación
+[02:05:19] fotovoltaico para el día que no tengo
+[02:05:21] servicio de red poder tener una fuente
+[02:05:24] de backapa alternativa de la cual
+[02:05:25] abastecerme.
+[02:05:27] Por lo tanto, en esta norma se previó,
+[02:05:30] en la norma en la 17 26 se previó eso,
+[02:05:33] pero
+[02:05:35] limitamos esa aprobación al análisis de
+[02:05:39] la distribuidora.
+[02:05:40] Cuando la distribuidora
+[02:05:43] lo considere factible en la memoria
+[02:05:46] técnica porque las condiciones del
+[02:05:48] proyecto, así lo permitan, podrá
+[02:05:50] habilitar
+[02:05:52] equipos híbridos.
+[02:05:54] Esos equipos híbridos eh hay que
+[02:05:57] definirle algunas características que
+[02:05:58] son las que nos propusieron
+[02:06:00] posteriormente
+[02:06:02] eh para modificar el reglamento de
+[02:06:04] acometidas y que las tenemos que que
+[02:06:07] evaluar y y ver cuál de ellas se toman y
+[02:06:09] cuáles no. Pero bueno, es importante que
+[02:06:11] ustedes sepan que en la 17, el 26 puede
+[02:06:14] haber equipos híbridos.
+[02:06:16] Pablo,
+[02:06:17] sí,
+[02:06:18] solo en el caso de usuarios generadores
+[02:06:21] comunitarios, ¿verdad? usuarios
+[02:06:23] generadores particulares, ¿no?
+[02:06:25] Por el momento la tenés solo en la 17
+[02:06:27] del 26 que para generadores
+[02:06:29] comunitarios. Para particulares hay que
+[02:06:31] incorporar esta misma modificación en la
+[02:06:34] 463
+[02:06:35] porque en la 463 no está permitido,
+[02:06:38] permite solo equipos on grid.
+[02:06:40] [carraspeo]
+[02:06:40] Si se acuerdan la primer filmina que yo
+[02:06:42] les di, estaban los equipos on grid, los
+[02:06:45] equipos offgrid híbridos. Bueno, la 463
+[02:06:49] es el primer caso ONG y la comunitaria
+[02:06:54] puede ser on grid o puede ser híbrido.
+[02:06:58] Así que para el domiciliario todavía no
+[02:07:00] está ese esta situación no está
+[02:07:03] alcanzada.
+[02:07:06] Bien,
+[02:07:06] bien, gracias.
+[02:07:08] Entonces, ¿cómo quedaría el esquema de
+[02:07:11] de distribución comunitaria y de
+[02:07:14] inyección en una cometida existente?
+[02:07:16] Ustedes imaginen que cuando
+[02:07:20] nosotros empezamos a trabajar en esta
+[02:07:22] norma, nuestra prioridad era pensar
+[02:07:26] generación comunitaria en parques
+[02:07:28] industriales.
+[02:07:29] Por lo tanto, se pensaron un montón de
+[02:07:33] las características de la generación
+[02:07:34] comunitaria para parques industriales.
+[02:07:38] Y ahí hubo una decisión por detrás de
+[02:07:41] limitar para los usuarios residenciales
+[02:07:43] los menos de 10 kil porque ya contaban
+[02:07:46] con una norma y también para el
+[02:07:48] distribuidor era un caos incorporar
+[02:07:51] proyectos de de menos de 10 kg como
+[02:07:54] generación comunitaria. Así que ahí hubo
+[02:07:57] una decisión eh de tomar solo para eh
+[02:08:02] proyectos comunitarios aquellos que
+[02:08:04] tengan más de 10 kg
+[02:08:06] y como tienen más de 10 kg, sí o sí
+[02:08:08] tienen que ser un usuario T2 o T3.
+[02:08:12] En ese usuario T2 o T3, vamos a imaginar
+[02:08:16] un un galpón de un supermercado que ya
+[02:08:19] tiene contratada una potencia. Esa
+[02:08:22] contratación de potencia permite
+[02:08:24] determinar la dimensión de la cometida
+[02:08:27] que lo está abasteciendo. Por lo tanto,
+[02:08:29] esa dimensión de esa cometida, así como
+[02:08:32] puede demandar, también puede receptar
+[02:08:34] la inyección de su usuario. Y esa es una
+[02:08:37] de las limitantes de los proyectos, la
+[02:08:40] dimensión
+[02:08:42] de la cometida que nosotros la
+[02:08:44] observamos a través de la contratación
+[02:08:46] de potencia que que establece ese
+[02:08:49] usuario. Después el ejema es muy simple,
+[02:08:51] tiene el equipo de generación, acá
+[02:08:52] faltan las protecciones y demás, pero
+[02:08:54] tiene el autoconsumo, el inyectado y el
+[02:08:56] medidor bidireccional
+[02:08:59] a cometida de inyección igual a kilw
+[02:09:01] contratados. Y se aplica el mismo
+[02:09:03] esquema, solamente que al en la
+[02:09:06] determinación de créditos, como lo tiene
+[02:09:09] que repartir en más de un usuario,
+[02:09:11] aparece un porcentual. Bueno, ¿cuál es
+[02:09:14] el porcentaje que le corresponde a este
+[02:09:17] usuario de esta cometida? cuál es el que
+[02:09:19] le corresponde al otro socio del
+[02:09:21] proyecto y demás. Y eso está en el
+[02:09:25] acuerdo de voluntades que les mencionaba
+[02:09:27] Guille, que debían presentar ante el
+[02:09:29] distribuidor dentro de la información de
+[02:09:32] la memoria del proyecto.
+[02:09:34] Cuando hay una cometida independiente,
+[02:09:37] que puede ser otro caso, bueno, nosotros
+[02:09:40] no tenemos un lugar donde instalarlo,
+[02:09:42] pero queremos
+[02:09:45] eh colocarlo en otro punto.
+[02:09:49] Entonces, en ese caso, si hay que hacer
+[02:09:51] alguna ampliación o extensión de red,
+[02:09:53] bueno, ahí está a cargo de los usuarios,
+[02:09:57] salvo que el distribuidor interprete que
+[02:09:59] en el punto en el que quieren colocar el
+[02:10:01] proyecto de generación es beneficioso
+[02:10:03] para la red y se los bonifique.
+[02:10:07] Eh, por lo tanto, acá en este en este
+[02:10:11] nuevo esquema, ¿por qué ponemos un
+[02:10:14] medidor bidireccional? Bueno, porque por
+[02:10:16] lo general las granjas de generación o
+[02:10:19] los pequeños parquecitos tienen consumos
+[02:10:22] auxiliares durante la noche de luces, de
+[02:10:25] cámaras y demás. Entonces, demandan
+[02:10:27] cierta energía de red y cuando hay sol y
+[02:10:32] demás en un equipo solar fotovoltaico
+[02:10:34] inyectan a la red. Acá lo que se previó
+[02:10:37] es que estos consumos auxiliares que
+[02:10:38] demandan de red se descuenten kilow a
+[02:10:41] kilw contra la energía inyectada. para
+[02:10:45] evitar hacer facturaciones de lo que
+[02:10:47] está tomando
+[02:10:48] eh el punto de solo inyección y lo que
+[02:10:51] está inyectando.
+[02:10:54] Bueno, potencia coplet.
+[02:10:58] Acá yo les muestro UGC. UGC, ¿qué son?
+[02:11:02] Usuarios generadores comunitarios.
+[02:11:04] Participar de un proyecto entendemos que
+[02:11:07] le da esta categoría de usuario
+[02:11:08] generador comunitario. En este proyecto
+[02:11:11] hay cuatro usuarios generadores
+[02:11:13] comunitarios. 1, dos, 3 y cu. Cada uno
+[02:11:16] de ellos está en una categoría tarifaria
+[02:11:18] distinta. El primero está en la T2 baja
+[02:11:21] tensión, en la T1 eh residencial
+[02:11:24] estacional y así sucesivamente.
+[02:11:27] Tienen una potencia contratada.
+[02:11:29] Permítanme la licencia para para las
+[02:11:32] pequeñas demandas. Por ejemplo, el T2
+[02:11:34] tiene 20 kg, el residencial hasta 10 kg,
+[02:11:38] el el T3 tiene 120 kg y así
+[02:11:41] sucesivamente.
+[02:11:43] En ese proyecto, ¿qué dijeron? Dijeron,
+[02:11:46] "Vamos a aprovechar la potencia que vos
+[02:11:48] tenés contratada como usuario T3 y vamos
+[02:11:52] a instalar el proyecto en tu predio."
+[02:11:56] ¿Por qué? Porque tu acometida está eh
+[02:12:00] diseñada de tal manera que como vos
+[02:12:02] demandas 120 kg, podríamos inyectar como
+[02:12:06] potencia cople hasta 120 kg.
+[02:12:10] Entonces este es el caso uno, el más
+[02:12:12] simple, en el cual la cometida tiene las
+[02:12:15] características eh o o no tiene
+[02:12:18] limitación hasta la potencia que tiene
+[02:12:20] contratada el usuario titular.
+[02:12:23] El usuario titular, recuerden que es
+[02:12:24] aquel en el cual actúa como punto de
+[02:12:28] inyección,
+[02:12:30] pero puede suceder
+[02:12:33] otra particularidad. Puede suceder que
+[02:12:35] quieren instalar más potencia que la que
+[02:12:37] tiene contratada este usuario titular
+[02:12:40] y ahí ya requiere una aprobación del
+[02:12:43] distribuidor. ¿Ven que acá yo les dejo
+[02:12:45] lo que hay del distribuidor?
+[02:12:47] Bueno, pero no pueden instalar lo que se
+[02:12:49] les ocurre. puedan instalar hasta la
+[02:12:52] sumatoria de las potencias que tienen
+[02:12:55] contratadas o el límite de categoría de
+[02:12:59] cada uno de los usuarios que componen el
+[02:13:01] proyecto.
+[02:13:03] Este límite, que es un límite que
+[02:13:06] nosotros establecimos normativamente,
+[02:13:09] tiene la intención de que,
+[02:13:13] por ejemplo, un usuario residencial
+[02:13:16] no genere más que la potencia que le da
+[02:13:18] su propia categoría tarifaria para que
+[02:13:20] no se generen esos problemas de mayor
+[02:13:23] crédito que la factura de demanda que
+[02:13:26] está teniendo, que hablábamos hace un
+[02:13:27] ratito. dijimos, "Che, no queremos que
+[02:13:30] la factura de los residenciales se
+[02:13:32] vuelva negativa porque tiene un montón
+[02:13:34] de potencia asignada de un proyecto de
+[02:13:36] distribución, de un proyecto de
+[02:13:38] generación, perdón. Entonces,
+[02:13:40] establecimos este límite. Eh, puede
+[02:13:43] haber casos muy particulares en los
+[02:13:45] cuales las distribuidoras le interesa
+[02:13:48] que un grupo de usuarios coloque un
+[02:13:50] parque de generación en un en un en un
+[02:13:55] punto muy radial de la red, porque eso
+[02:13:57] le permite mejorar algunos parámetros
+[02:13:59] técnicos de calidad, de tensión y demás.
+[02:14:03] Eh, entonces, pero siempre requiere el
+[02:14:07] okay del distribuidor. Y acá es lo que
+[02:14:10] yo les dejo como esta suma de acople. Y
+[02:14:12] hay otro concepto importante por detrás
+[02:14:15] que diferencia a la resolución 17, la
+[02:14:18] 463, que es la potencia máxima de
+[02:14:21] acople. ¿Y por qué se hizo esa
+[02:14:25] diferencia? Porque en la 463 era muy
+[02:14:28] limitativo respecto de cuánta potencia
+[02:14:32] podía instalar el usuario. El usuario
+[02:14:34] podía instalar potencia hasta el límite
+[02:14:38] de su categoría tarifaria. Sin embargo,
+[02:14:41] en la GD comunitaria,
+[02:14:44] eh, ese límite lo corrimos y dijimos,
+[02:14:47] "Bueno, no, el límite que nosotros
+[02:14:49] interpretamos está en la cometida, en
+[02:14:51] cuánto puede inyectar, no cuánto puede
+[02:14:53] instalar dentro de su predio, porque si
+[02:14:56] ese usuario quiere instalar mucha
+[02:14:58] energía
+[02:15:00] renovable dentro de su predio y se la
+[02:15:02] quiere autoconsumir y va a inyectar
+[02:15:04] solamente una partecita de esa energía
+[02:15:07] que está generando,
+[02:15:09] Nosotros estamos en el caso de la de la
+[02:15:13] 463 estamos estableciendo un límite que
+[02:15:15] no está bueno. Eh, por lo tanto se
+[02:15:21] corrigió, se intentó mejorar ese
+[02:15:24] concepto y se determinó que la potencia
+[02:15:27] es la de acople, que es la potencia que
+[02:15:29] se pretende inyectar a la red y no la
+[02:15:33] potencia que instale el usuario.
+[02:15:36] Bueno, hay que facturarle esa energía.
+[02:15:39] Por lo tanto, tenemos que hacer una
+[02:15:41] memoria de cálculo mensual. Eh, esta
+[02:15:44] memoria de cálculo lo que intenta hacer
+[02:15:46] es reemplazar facturaciones
+[02:15:48] innecesarias.
+[02:15:49] Eh, en esa memoria de cálculo, ¿qué es
+[02:15:52] lo que tiene que aparecer? Tiene que
+[02:15:53] aparecer el detalle de la energía
+[02:15:54] inyectada, la demanda en el punto de
+[02:15:57] inyección. Recuerden el gráfico que yo
+[02:15:59] les mostré recién que se compensaban
+[02:16:01] entre sí lo que tomaba para los
+[02:16:03] servicios auxiliares y la energía que se
+[02:16:06] inyectaba.
+[02:16:09] ese punto de de inyección independiente
+[02:16:12] del consumo del usuario también fue
+[02:16:14] importante porque ¿qué pasa si hay un
+[02:16:18] usuario T3 que pone su acometida y se
+[02:16:21] autoconsume parte de la generación
+[02:16:23] después para repartir esos créditos
+[02:16:25] entre el resto de los usuarios iba a ser
+[02:16:26] un caos? Por lo tanto, se habilitó que
+[02:16:30] los usuarios tengan una cometida
+[02:16:32] independiente solo para inyección, para
+[02:16:35] que sea bien claro cuánto se está
+[02:16:36] inyectando a red. y se lo independice
+[02:16:40] de el consumo del usuario que actúa como
+[02:16:43] titular y está poniendo la cometida.
+[02:16:46] El resultado neto entre ambas y la
+[02:16:49] asignación a cada uno de los de los
+[02:16:51] integrantes del porcentaje de
+[02:16:53] participación y el crédito que le toca.
+[02:16:55] La valorización de esa energía debe
+[02:16:57] hacerse según la categoría de cada
+[02:16:59] usuario. Yo les voy a mostrar un
+[02:17:01] ejemplo. Acuérdense que teníamos los
+[02:17:03] cuatro participantes del proyecto.
+[02:17:05] Tenemos un porcentaje de participación
+[02:17:07] en ese proyecto y tenemos un total de
+[02:17:10] inyección. ¿Cuánto inyectó ese proyecto?
+[02:17:14] 150 kW horas en ese mes. Ahora, ese
+[02:17:20] parquecito también consumió 150 kg para
+[02:17:23] luminarias, cámaras y demás. Por lo
+[02:17:26] tanto, el neteo entre la inyección y las
+[02:17:29] demandas auxiliares en el punto de
+[02:17:31] inyección da 1000 kwh a repartir. Esos
+[02:17:35] 1000 kW horas como costo evitado
+[02:17:39] no es lo mismo para un T2 en baja
+[02:17:41] tensión que para un T1, para un T3 y
+[02:17:44] demás. Por lo tanto,
+[02:17:47] ¿qué es lo que se hace? Se dice 1000 kWh
+[02:17:50] por el porcentaje de participación me da
+[02:17:52] cuántos kilw de inyección le tengo que
+[02:17:54] dar a cada participante.
+[02:17:56] Estos kilw de inyección deben ser
+[02:17:58] multiplicados por el costo evitado
+[02:18:02] del distribuidor para esa categoría de
+[02:18:05] tariuflaria, para ese usuario. Y ese es
+[02:18:07] el monto a reconocer como crédito en la
+[02:18:09] factura de cada uno de los usuarios.
+[02:18:12] Esto se hizo porque eh como los
+[02:18:16] proyectos son para usuarios T2 o
+[02:18:19] usuarios T3,
+[02:18:21] si nosotros reconocíamos el valor
+[02:18:23] inyectado como un T2 o como un T3, ese
+[02:18:27] valor quizás era mayor que lo que le
+[02:18:31] sale comprar la energía para un T1.
+[02:18:34] Por lo tanto, no representaba el costo
+[02:18:37] evitado de la totalidad de los
+[02:18:39] participantes del proyecto, sino
+[02:18:41] solamente de aquel que ponía eh la
+[02:18:44] cometida para inyectar. Para evitar o
+[02:18:47] para lograr la indiferencia para el
+[02:18:49] distribuidor, se buscó este esquema que
+[02:18:52] intenta reconocer a cada participante el
+[02:18:55] costo evitado en su categoría tarifaria.
+[02:18:59] Bueno, acá les dejo un pequeño ejemplo
+[02:19:00] de cómo es todo el procedimiento que que
+[02:19:03] dijo Guille.
+[02:19:04] eh como para que lo tengan un poco más
+[02:19:06] resumido
+[02:19:08] y eh quería hablarles, no sé cuánto
+[02:19:11] tenemos, tenemos un ratito más. Bueno,
+[02:19:13] quería hablarle un poco de vehículos
+[02:19:14] eléctricos.
+[02:19:16] Eh, no sé si hay hasta acá alguna
+[02:19:17] pregunta o venimos bien.
+[02:19:19] Sí, Pablo. Sí, Fabián, acá te hago una
+[02:19:21] consultita rápida.
+[02:19:23] Eh, ahí mencionaste que, bueno,
+[02:19:25] obviamente en el en este caso de
+[02:19:27] comunitaria el si la distribuidora lo
+[02:19:30] aprobaba, eh, digamos la potencia máxima
+[02:19:33] de acople podía ser la sumatoria de
+[02:19:36] todos los suministros incluidos, ¿no?
+[02:19:38] Entonces, en ese caso, eh, digamos, si
+[02:19:42] la cometida de donde está instalado en
+[02:19:45] particular por ahí un T2, un T3 es de
+[02:19:48] 100, para seguir un ejemplo y la suma te
+[02:19:51] da, por decir 200,
+[02:19:54] ¿cómo digamos eh se la distribuidora se
+[02:19:58] asegura que eh lo que va a inyectar, o
+[02:20:01] sea, porque por ahí lo usa para
+[02:20:03] autoconsumo, lo que va a inyectar no
+[02:20:05] supere
+[02:20:07] que tiene contratados el usuario y para
+[02:20:10] los cuales está dimensionada la cometida
+[02:20:13] eh a través de protecciones
+[02:20:16] internas del, o sea, eh
+[02:20:18] no no le podés instalar vos protecciones
+[02:20:21] a la demanda.
+[02:20:23] Okay.
+[02:20:23] Bicamente las mismas protecciones que
+[02:20:25] que le ponés para que no demande más de
+[02:20:27] la potencia que tiene contratada, se las
+[02:20:29] pones para que no inyecte más de lo que
+[02:20:30] te declaró como potencia. Okay.
+[02:20:33] Entonces, no necesariamente si eso no lo
+[02:20:35] va a inyectar, que tranquilamente lo
+[02:20:36] podría programar, por ejemplo, en el
+[02:20:38] inversor como límite,
+[02:20:40] esa es la idea,
+[02:20:41] eh mutuo, digamos, en ese caso nos
+[02:20:44] aseguraríamos de eso y podrían instalar
+[02:20:46] algo más grande. Okay.
+[02:20:48] La idea fue esa porque la realidad es
+[02:20:50] que
+[02:20:50] Exacto, esa es la pregunta. Sí, sí.
+[02:20:51] ¿Cuál fue la idea?
+[02:20:52] El inversor te permite programar la o
+[02:20:54] limitar la potencia que vos querés
+[02:20:55] inyectar. Entonces, la idea fue esa,
+[02:20:58] permitirle eso, que programen y como
+[02:21:01] última, como última instancia vos le
+[02:21:02] podrías hacer una auditoría a ver si
+[02:21:05] estás respetando lo que te declaró en la
+[02:21:07] memoria técnica. Sí, no, más que nada la
+[02:21:09] pregunta venía a que por ahí desde
+[02:21:11] digamos la si digo vas a hacer uso, el
+[02:21:14] usuario va a hacer uso en ese punto de
+[02:21:16] una inyección mayor en la red,
+[02:21:18] obviamente le tendrías que cobrar por
+[02:21:20] el, o sea, por ese incremento de
+[02:21:22] potencia, pero si no lo va a hacer, no.
+[02:21:25] Entonces ahí había como un gris por ahí
+[02:21:26] que no está tan claro y está buena la
+[02:21:28] aclaración. Genial. Gracias, Pablo.
+[02:21:31] Por nada, Ezequiel, tenés la manito
+[02:21:33] levantada.
+[02:21:34] Sí. Una consulta respecto de lo que
+[02:21:37] mencionaste de la demanda auxiliar en el
+[02:21:40] caso de los eh usuarios generadores
+[02:21:43] comunitarios.
+[02:21:44] Sí,
+[02:21:44] ahí me surge la duda de vos decías que
+[02:21:47] se hacía un neteo eh de energía,
+[02:21:51] digamos, un balance de energía.
+[02:21:55] Ahora, eso es independientemente de
+[02:21:57] dónde sale esa demanda auxiliar, ¿a qué
+[02:22:00] me refiero? Por ahí tiene un sistema de
+[02:22:02] baterías eh que que abastece esa demanda
+[02:22:06] auxiliar porque entiendo, vamos, vamos
+[02:22:08] al caso que es un parque solar, vos
+[02:22:10] nombraste cámara, eh iluminación,
+[02:22:13] etcétera. Eh, ponerle que es de noche
+[02:22:16] ese consumo mayoritario.
+[02:22:18] Eh, es independiente si se abastece con
+[02:22:21] un banco de baterías o si se abastece de
+[02:22:23] la redeo,
+[02:22:26] ¿no? La norma dice así, dice servicios
+[02:22:28] auxiliares. Está pensado para cubrir esa
+[02:22:32] iluminación, esas cámaras, alguna bomba,
+[02:22:35] algún alguna garita que cuide el
+[02:22:37] parquecito solar. Eh, si se si le está
+[02:22:40] dando otro uso que no sé, esos servicios
+[02:22:42] auxiliares, bueno, ahí el distribuidor
+[02:22:44] ya dispone de la facultad de delimitar
+[02:22:47] ese punto de inscción.
+[02:22:49] Bien, bien, bien. Perfecto.
+[02:22:52] Esto está pensado. El distribuidor tiene
+[02:22:54] mucha autoridad sobre lo que permite y
+[02:22:56] lo que no permite. Eh, está eh y de
+[02:22:59] hecho pensamos en esa memoria de cálculo
+[02:23:02] para simplificarle al distribuidor
+[02:23:06] la forma en que hace los cálculos y
+[02:23:08] reparte los créditos y también
+[02:23:12] eh limitamos su intervención entre las
+[02:23:14] partes. Hay un acuerdo de privado. Si
+[02:23:17] esos créditos el usuario que está
+[02:23:19] poniendo la cometida se los consume todo
+[02:23:21] y no inyecta nada a la red. Bueno, es un
+[02:23:23] problema entre privados. El distribuidor
+[02:23:26] va desde el medidor para la calle, no
+[02:23:30] del medidor para dentro. O sea, los
+[02:23:31] problemas del proyecto son de los
+[02:23:33] proyectos y de los usuarios generadores
+[02:23:34] comunitarios, no del distribuidor. Eso
+[02:23:37] en esta norma de comunitaria lo lo
+[02:23:40] trabajamos bastante, lo tuvimos bastante
+[02:23:41] presente para no trasladar, porque si no
+[02:23:44] el distribuidor termina siendo el juez
+[02:23:47] del proyecto de generación distribuida
+[02:23:49] comunitaria y termina tomando decisiones
+[02:23:52] respecto de voluntades que acordaron
+[02:23:53] entre privados y eso no lo veíamos
+[02:23:56] conveniente. Por eso cuando vimos ahí el
+[02:23:58] contenido de ese contrato, de ese
+[02:24:00] acuerdo, decía esa eximente de
+[02:24:03] responsabilidad respecto de los
+[02:24:05] distribuidores por cualquier conflicto
+[02:24:06] interno, entre ellos este, si no separan
+[02:24:10] el punto de suministro por uno nuevo que
+[02:24:12] solamente vaya a inyectar, salvo estos
+[02:24:14] servicios auxiliares, se puede
+[02:24:16] autoconsumir todo. Entonces, ¿qué va a
+[02:24:17] repartir? Bueno, entonces eh esa
+[02:24:20] situación que quede bien eh clara en
+[02:24:23] este acuerdo de voluntades y
+[02:24:25] precisamente cualquier conflicto entre
+[02:24:27] ellos queda entre ellos y no lo traslada
+[02:24:29] a la distribuidora. Así que es una de
+[02:24:31] las cosas puntuales que la norma
+[02:24:33] estableció y que creo yo que los
+[02:24:34] distribuidores tienen que revisar al
+[02:24:36] momento de que se presente alguna
+[02:24:37] solicitud.
+[02:24:40] Bueno, continuamos con el último tema.
+[02:24:42] Les prometo ser cortito. Eh,
+[02:24:44] ¿te te puedo hacer una una cortita más
+[02:24:46] para sacarme la dudas? Eh, hablaste
+[02:24:50] ¿Cómo estás, Mauro? De DEA. E ahí
+[02:24:54] hablaste sobre el híbrido de las de las
+[02:24:57] comunitarias.
+[02:24:59] Eh, la idea del híbrido tiene, me pierdo
+[02:25:03] en la parte técnica, ¿tiene algún método
+[02:25:06] de corte eh visible para el coso o lo sé
+[02:25:11] que hay sistemas híbridos que vienen
+[02:25:12] ahora directamente que te desconecta la
+[02:25:14] red y en el momento que te desconecta la
+[02:25:16] red habilita las baterías y hace todo
+[02:25:19] automáticamente.
+[02:25:20] Entonces es como que la tecnología nos
+[02:25:22] va pasando un poco el trapo en que
+[02:25:26] venimos con una reglamentación y de
+[02:25:28] repente ya la tecnología pasa a otro a
+[02:25:30] otro estado. Y para mí es muy importante
+[02:25:33] la seguridad de la red, ¿no? De que
+[02:25:35] tanto el operario que está en la red
+[02:25:37] como eh alguien que que esté trabajando
+[02:25:40] o un vecino tenga seguridad de que esa
+[02:25:44] esa red no tiene tensión porque estamos
+[02:25:46] trabajando en una cosa peligrosa.
+[02:25:49] ¿Cómo cómo lo tenían planificado? ¿Cómo
+[02:25:51] lo ven?
+[02:25:52] Eso te lo da la certificación técnica
+[02:25:55] del equipo híbrido a través de normas
+[02:25:57] internacionales que debe ser declarada
+[02:26:00] en la memoria técnica que analice el
+[02:26:02] distribuidor para darle la factibilidad.
+[02:26:04] Si vos en las certificaciones de ese
+[02:26:08] equipo que te declaran la memoria
+[02:26:10] técnica entendés que no son suficientes
+[02:26:13] para permitirlo porque generan un punto
+[02:26:17] inseguro al momento de que tu padrilla
+[02:26:18] vaya a trabajar. Bueno, expondrás los
+[02:26:21] fundamentos del rechazo de esa
+[02:26:23] factibilidad técnica.
+[02:26:25] Perfecto. Gracias.
+[02:26:27] Por nada.
+[02:26:29] Bueno, si si no hay nada más dando
+[02:26:31] vuelta, eh vamos al último punto que es
+[02:26:33] más entretenido. Está fuera de la
+[02:26:35] normativa de GD distribuida, pero a mí
+[02:26:38] me parecía que estaba bueno traerlo
+[02:26:40] porque hay alguna conclusión por detrás
+[02:26:42] que vamos a tener que tener en cuenta.
+[02:26:44] Eh, entonces, lo primero que yo les
+[02:26:46] quería traer es qué tipo de coches
+[02:26:47] eléctricos hay.
+[02:26:50] principalmente les traigo esto porque
+[02:26:51] están apareciendo un montón de coches de
+[02:26:53] BID y cada vez nos van a consumir más
+[02:26:56] energía de la red y eso hay que
+[02:26:58] contemplarlo. Entonces tenemos los
+[02:27:01] coches
+[02:27:03] BEB, coches eléctricos de batería, los
+[02:27:06] coches eléctricos híbridos enchufables y
+[02:27:09] los coches eléctricos híbridos.
+[02:27:12] Vamos a concentrarnos en esta parte de
+[02:27:14] coches eléctricos que se se alimentan
+[02:27:17] únicamente batería eléctrica y no de los
+[02:27:18] híbridos y demás, este porque no tienen
+[02:27:21] motores de combustión y tienen un
+[02:27:24] funcionan de otra manera. Por lo tanto,
+[02:27:26] este es el el que me interesa traerle el
+[02:27:28] ejemplo.
+[02:27:30] Y vamos a ver eh estas camionetitas. Eh
+[02:27:35] las tomé de una presentación que hizo la
+[02:27:37] gente de PEC, que es la distribuidora de
+[02:27:39] la provincia de Córdoba. Ellos tienen
+[02:27:41] una cangú eléctrica y mencionaban que
+[02:27:43] tenían un consumo de 17 kWh cada 100 km
+[02:27:47] versus un naftero 7,6 L cada 100 km y un
+[02:27:50] gasolero 49.
+[02:27:53] Esta ficha técnica que yo les puse acá
+[02:27:55] abajo es de Bid Dolphin Mini y nos dice
+[02:27:59] lo siguiente. Nos dice eh GS tiene dos
+[02:28:02] tipos de batería. Dice la capacidad de
+[02:28:04] la batería es de 30,08 o de 43,2.
+[02:28:09] eh tiene posibilidad a través de su
+[02:28:11] cargador interno de cargar a través de
+[02:28:13] 11 hasta 11 kW de potencia y tiene una
+[02:28:19] una autonomía, vaya a saber uno qué
+[02:28:21] cálculos de velocidad, condiciones de
+[02:28:24] rozamiento y más establecieron, pero
+[02:28:26] dice que esta esta batería de 43,2
+[02:28:31] kWh
+[02:28:33] les permite hacer 380 km. Esa sería la
+[02:28:36] autonomía. Entonces acá yo les hice la
+[02:28:39] cuentita, digo, bueno, la comparación,
+[02:28:40] si tiene 43,2 kWh
+[02:28:44] en 100 km, 100 sobre 380, me permite
+[02:28:47] determinar que hace o recorre 11,37 km
+[02:28:52] cada 100.
+[02:28:54] Este es un dato de color, ¿no? Pero para
+[02:28:57] que ustedes vean después eh otros
+[02:29:00] cálculos que vamos a hacer de
+[02:29:01] monetarios, a ver qué tan conveniente
+[02:29:03] es.
+[02:29:05] Entonces yo me puse a pensar y digo,
+[02:29:07] bueno, la capacidad de esta batería que
+[02:29:08] es de 43,3,
+[02:29:10] si yo utilizo una instalación
+[02:29:13] tradicional, un toma corriente de 2,5 mm
+[02:29:17] de sección de esa instalación, que me
+[02:29:20] permitiría hasta 16 amp en un suministro
+[02:29:24] monofásico de 220 V, me dice que la
+[02:29:27] potencia que me está requiriendo ese
+[02:29:30] consumo es de 3520 W o 3,52. KW. Esos
+[02:29:35] 3,52 kW, si yo quiero cargar la
+[02:29:38] totalidad de la batería, me dice que me
+[02:29:40] va a demandar 12,3 horas.
+[02:29:44] Dato de color también, ¿no? Pero como
+[02:29:46] para saber cuánto tiempo demandaría la
+[02:29:48] carga de un auto eléctrico de estas
+[02:29:50] características, eh, para llenar 100% la
+[02:29:53] batería. Ahora, si tengo un Walbox, que
+[02:29:56] es un un equipo de carga ya de mayor eh
+[02:30:00] de mayor corriente y mayor potencia,
+[02:30:03] con un acá voy a tener que utilizar o
+[02:30:06] voy a tener que hacer un circuito ya
+[02:30:08] independiente de 6 mm de sección para
+[02:30:11] permitirme 32 amp y esos 32 amp me van a
+[02:30:17] dar más o menos 7 kg de potencia
+[02:30:19] aproximada, que es eh un potencia
+[02:30:22] estándar para estos equipos de carga de
+[02:30:24] carga rápida.
+[02:30:26] Esos 7 kg de potencia para cargar la
+[02:30:30] batería de 43 kW hor me tardan 6,2
+[02:30:34] horas.
+[02:30:36] Bueno, entonces lleva un rato cargar una
+[02:30:38] batería de un autito eléctrico y además
+[02:30:41] me está demandando 7 kg de potencia de
+[02:30:43] red.
+[02:30:45] Eh, por lo general, si bien al usuario
+[02:30:49] residencial se le permite una demanda
+[02:30:51] hasta 10 kg, bueno, los factores de
+[02:30:53] simultaneidad de la demanda están
+[02:30:56] calculados aproximadamente 3 kg por
+[02:30:59] eh suministro. Por lo tanto, si nosotros
+[02:31:03] tenemos muchos autos eléctricos que
+[02:31:05] proliferan en el corto plazo, esos
+[02:31:07] diseños de redes ya nos van a empezar a
+[02:31:10] quedar bastante ajustados, porque
+[02:31:13] cualquier casa que intente instalar un
+[02:31:16] Walbox para cargar su vehículo
+[02:31:18] eléctrico, ya me va a estar requiriendo
+[02:31:20] siete, o sea, está superando en más del
+[02:31:22] doble de los promedios que se han
+[02:31:24] utilizado para el diseño de redes de los
+[02:31:26] últimos años.
+[02:31:28] Bueno, ¿qué más me dice? Voy a la a la
+[02:31:31] página de Simone y me dice que bueno que
+[02:31:33] esta batería carga entre el 30 y el 80
+[02:31:36] en 30 minutos, pero que necesita un
+[02:31:37] cargador de 6,6 kg. O sea, que está
+[02:31:42] bastante en consonancia con lo que yo le
+[02:31:44] acabo de mostrar. Me está diciendo,
+[02:31:46] "Che, instalá un equipo de carga, no lo
+[02:31:48] enchufes a la pared de tu casa."
+[02:31:51] Perdón, eh, buen día, Pablo. Perdón que
+[02:31:53] te interrumpa. Juan Manuel de de te
+[02:31:55] habla e en consonancia con lo que vos
+[02:31:58] estás diciendo, digamos, para un
+[02:32:00] vehículo, un caso real, digamos, que
+[02:32:02] observé y lo vi este en el lugar, eh, BD
+[02:32:06] Song Pro, digamos que ni siquiera es
+[02:32:08] eléctrico, como vos te posicionaste
+[02:32:09] correctamente en el caso más
+[02:32:10] desfavorable, vehículo 100% eléctrico,
+[02:32:12] este es este híbrido enchufable. Eh, la
+[02:32:15] instalación que hace Bid domiciliaria
+[02:32:18] requiere [resoplido] de una térmica de
+[02:32:19] 40 de 40 amp cuando la térmica de en
+[02:32:24] este caso fue en Mendoza que lo observé
+[02:32:26] este la térmica exterior era de 32 amp.
+[02:32:30] O sea, que claramente lo que vos estás
+[02:32:31] diciendo este va a requerir de algún
+[02:32:35] tipo de intervención, regulación o
+[02:32:36] impacto en la red, digamos. Exactamente,
+[02:32:39] que es lo y por eso lo traigo, por eso
+[02:32:42] lo traigo acá, que hay muchos
+[02:32:43] distribuidores del otro lado, porque me
+[02:32:45] preocupa la proliferación de esta
+[02:32:47] tecnología sin el acompañamiento
+[02:32:50] normativo y técnico que requiere. Este,
+[02:32:54] no
+[02:32:54] va a terminar siendo un T2 un usuario
+[02:32:56] que tenga un auto de este tipo
+[02:32:57] y en cualquier momento este
+[02:32:59] porque la en definitiva la tarifa lo el
+[02:33:02] encuadre tarifario lo define la
+[02:33:03] potencia, Pablo.
+[02:33:04] Exactamente. Bueno, pero no termina ahí.
+[02:33:07] Ahora va sigue empeorando.
+[02:33:10] Este, acá les traigo algunos cargadores
+[02:33:12] de EPEC. EPEC está colocando cargadores
+[02:33:15] y tiene cargadores. Yo les dije que el
+[02:33:18] más común de los Wbox era de 7 kg, 7,2
+[02:33:20] me parece que tienen, pero eh tiene de
+[02:33:23] corriente alterna de 22 kg. ¿Por qué?
+[02:33:26] Porque entre más potencia menos tiempo
+[02:33:28] de me lleva cargar la batería. Pero
+[02:33:32] después ya pasa otra tecnología. me
+[02:33:33] dice, "Cheete, voy a requerir 25 kg en
+[02:33:36] corriente continua o 50 kg en corriente
+[02:33:39] continua más 22 de corriente alterna que
+[02:33:41] tiene los dos." Por lo tanto, ustedes se
+[02:33:43] imaginen que les instalan
+[02:33:47] un cargador de esto cada dos o tres
+[02:33:49] cuadras. Es como tener un T2 y ya casi
+[02:33:51] hasta un T3 cada dos o tres cuadras. Eh,
+[02:33:55] eso qué nos está advirtiendo? nos está
+[02:33:57] advirtiendo que eh la evolución de la
+[02:34:01] electromovilidad va a impactar sobre el
+[02:34:04] dimensionamiento de las redes casi de
+[02:34:06] manera eh unívoca. Bien, este problema
+[02:34:10] ya lo tenemos, ya hay que empezar a
+[02:34:11] pensar en esto porque la red no va a dar
+[02:34:13] abasto.
+[02:34:15] Y y fíjense eh la potencia que
+[02:34:17] requieren. Es más, eh hace poquito yo
+[02:34:21] utilizo bastante LinkedIn para compartir
+[02:34:23] cosas que me parecen interesantes. Eh
+[02:34:26] mostraba el caso de una carga super
+[02:34:30] rápida de un auto de aproximadamente 10
+[02:34:32] minutos de VIID, pero que requería un
+[02:34:36] cargador de 1500 kg.
+[02:34:38] Entonces, eh imaginen, 100 kg es una
+[02:34:42] cosa impensada para la situación de la
+[02:34:45] infraestructura que tenemos nosotros en
+[02:34:46] la provincia de Buenos Aires y creo que
+[02:34:47] hasta en el país,
+[02:34:50] pero ya se está proyectando.
+[02:34:52] Por lo tanto, tenemos que estar
+[02:34:54] advertidos de que esta situación está
+[02:34:55] pasando y va a pasar porque ya está
+[02:34:57] proliferando y los vehículos son
+[02:34:59] superbatos y nadie está teniendo en
+[02:35:02] cuenta que después no va a haber con qué
+[02:35:03] alimentarlos
+[02:35:05] o nos va a requerir a nosotros como como
+[02:35:09] regulador y a ustedes como distribuidor
+[02:35:11] adaptar sus redes lo antes posible para
+[02:35:13] cubrir esto. Bueno, y por último les
+[02:35:17] hice un análisis de precios. Pablito,
+[02:35:20] una, perdóname que te interrumpa porque
+[02:35:21] es muy interesante este tema y también
+[02:35:24] lo vas a tener, ponerle que esto
+[02:35:25] creciera. Esperemos que cambien el tipo
+[02:35:27] de baterías, por eso no hay que comprar
+[02:35:29] entrada estos bichos.
+[02:35:31] Eh, por lo menos en la Argentina, en
+[02:35:32] otro lado, por ahí el costo de vida es
+[02:35:34] más llevadero, pero eh eh después las
+[02:35:39] estaciones de servicio también, porque
+[02:35:41] lo hemos charlado en alguna de las
+[02:35:42] charlas, son inviables porque cuánto va
+[02:35:45] a necesitar para cargar tres, cuatro
+[02:35:46] bichos de estos más el tiempo que mora,
+[02:35:49] ¿no? Porque si queres que sea más rápido
+[02:35:51] a necesitar más potencia. O sea,
+[02:35:53] estaciones de servicio con que te
+[02:35:55] ofrezcan cargado de baterías de este
+[02:35:57] tipo también son inviables porque van a
+[02:35:59] manejar una potencia que tampoco se la
+[02:36:01] va a poder entregar. Entiendo.
+[02:36:03] Bueno, ahora vamos a ver un poco más,
+[02:36:05] pero
+[02:36:05] esto condice un poco. ¿Se acuerdan la
+[02:36:07] clase que dio Vicente Serra?
+[02:36:10] Exacto.
+[02:36:10] Vamos a vamos a Mar del Plata desde
+[02:36:13] Capital en Dolores, una estación
+[02:36:15] transformadora increíble para poder
+[02:36:18] abastecer o alimentar a estos autos en
+[02:36:19] ese viaje, ¿no? Era una inversión
+[02:36:23] terrible.
+[02:36:25] Bueno, yo le les
+[02:36:29] dejé acá un análisis comparativo
+[02:36:31] económico
+[02:36:32] de gasto de consumo de un eléctrico
+[02:36:36] versus
+[02:36:38] un aftero. ¿Qué es lo que le puse? Le
+[02:36:40] dije, "Bueno, recorre 100 km diarios, va
+[02:36:43] de Buenos Aires a La Plata y de vuelta."
+[02:36:46] Perdón, en la localía, no, nosotros
+[02:36:48] estamos acá, entonces hicimos un ejemplo
+[02:36:49] que nos quedaba cómodo. Tiene una
+[02:36:51] autonomía esa batería de 300 km. Yo les
+[02:36:55] dejo el comentario, digo, "La penalizo
+[02:36:56] en un 20% porque en la ficha técnica del
+[02:36:59] fabricante me dice que con una carga
+[02:37:01] recorre 380 km, pero por varios videítos
+[02:37:05] que estuve viendo, eso no es cierto."
+[02:37:08] Pero bueno, vamos a a cederle que
+[02:37:11] recorre 300 km con una carga, por lo
+[02:37:13] tanto, eh, carga cada dos días, esto
+[02:37:16] está mal, debe cargar su batería al 100%
+[02:37:19] cada 3 días y gasta 100 km por día. En
+[02:37:22] un mes de 30 días hace 10 cargas al mes
+[02:37:26] para recorrer 3,000 km.
+[02:37:30] Si utilizamos un cargador de 7 kg, como
+[02:37:32] vimos recién, y tarda 6,2 horas en
+[02:37:36] cargar esa batería, vamos a consumir
+[02:37:39] 43,4
+[02:37:41] kWh por carga.
+[02:37:43] Por lo tanto, vamos a consumir 434 kW hh
+[02:37:47] por mes para cargar ese vehículo por
+[02:37:49] todos los viajes y kilómetros que tiene
+[02:37:50] que hacer.
+[02:37:52] Esos 434 kg deben sumarse a un promedio
+[02:37:56] estándar de consumo del resto de la
+[02:37:58] vivienda, 200 kg. Por lo tanto, nos da
+[02:38:00] que esa vivienda con el auto más con sus
+[02:38:02] consumos habituales va a consumir 684
+[02:38:06] kWh.
+[02:38:07] Esos 684 kWh evaluados en una tarifa T1
+[02:38:13] de la distribuidora del app tiene un
+[02:38:15] costo más o menos de 187. Este este
+[02:38:17] valor no me acuerdo si estaba bien, pero
+[02:38:19] bueno, lo pueden hacer con la
+[02:38:21] distribuidora, con lo que ustedes les
+[02:38:22] parezca y y tiene un cargo fijo de
+[02:38:26] 49,500es
+[02:38:27] aproximadamente. Por lo tanto, ese
+[02:38:30] usuario antes de impuesto va a gastar
+[02:38:32] 130,000 pes. Si le agregamos la la carga
+[02:38:34] impositiva del 36,5,
+[02:38:38] va a gastar 178000 pesos para el consumo
+[02:38:41] en su casa, más el del auto. Bueno, y
+[02:38:43] ahora toca compararlo contra cuánto
+[02:38:45] gastaría en combustible en un aftero.
+[02:38:48] Yo supuse un valor de 2070 pesos el
+[02:38:51] litro de combustible,
+[02:38:53] una autonomía de o un promedio de de
+[02:38:56] gasto de 7 L cada 100 km, que era la
+[02:38:59] comparación que decía el EPEC. Por lo
+[02:39:01] tanto, va a consumir 210 L al mes
+[02:39:04] valorizados a 20,070ES gasta 434,000 pes
+[02:39:09] en combustible por mes para ir todos los
+[02:39:11] días y de vuelta a capital en 100 km. La
+[02:39:15] diferencia entre estos 434 y los 178 son
+[02:39:18] 256,
+[02:39:20] que es la cuenta que está haciendo todo
+[02:39:21] el mundo. Pero che, el vehículo
+[02:39:23] eléctrico me sale baratísimo versus un
+[02:39:25] naftero. Por lo tanto, esto es otro
+[02:39:28] factor para que los vehículos eléctricos
+[02:39:30] proliferen porque comparativamente
+[02:39:33] su energía para trasladarse es más
+[02:39:36] barata.
+[02:39:38] Así que ahonda el problema que tuvimos y
+[02:39:41] que acabamos de mencionar. Eh, yo se los
+[02:39:44] traigo y le quise hacer el ejemplo para
+[02:39:46] que vean que vamos a tener un problema
+[02:39:49] con este tema si las cosas no se
+[02:39:50] corrigen de alguna manera.
+[02:39:53] Bueno, hasta ahí y acá les dejo algunas
+[02:39:56] preguntas después de todo lo que
+[02:39:57] estuvimos charlando, que es estamos en
+[02:40:00] un cambio tecnológico, ¿no? más algunas
+[02:40:03] otras cuestiones que es la resolución
+[02:40:06] 425, cómo impactan la uniformidad
+[02:40:09] tarifaria, cómo van a impactar los
+[02:40:11] almacenistas, cómo van a impactar los
+[02:40:13] comercializadores,
+[02:40:14] la generación domiciliaria,
+[02:40:17] digo, si cada usuario se empieza a
+[02:40:18] generar su energía, che, se mantiene la
+[02:40:21] curva de carga que nosotros establecimos
+[02:40:23] en las tarifas o tiene una curva de
+[02:40:26] demanda distinta a la que nosotros
+[02:40:29] siempre utilizamos para determinar los
+[02:40:30] parámetros tarifarios.
+[02:40:34] Smart Grid, los distribuidores, ¿están
+[02:40:35] preparados para hacer telemedición?
+[02:40:38] ¿Cómo es la estabilidad de la red si
+[02:40:40] tengo muchos puntos que están inyectando
+[02:40:42] y tengo que hacer eh una coordinación de
+[02:40:45] oferta y demanda como si fuese un
+[02:40:47] operador de despacho tipo camisa?
+[02:40:50] ¿Estamos preparados para operar y
+[02:40:52] despachar esa red? ¿A quién le vamos a
+[02:40:54] dar prioridad de inyección en nuestra
+[02:40:57] red? Porque si todos empiezan a inyectar
+[02:41:00] en algún momento no va a haber más a
+[02:41:01] quién suministrarles esa energía que se
+[02:41:04] esté inyectando y vamos a tener que
+[02:41:05] fijar probabilidades.
+[02:41:07] Después el BAT, los distribuidores
+[02:41:10] van a seguir siendo distribuidores que
+[02:41:13] compran energía por orden de orden y
+[02:41:16] cuenta de y además ponen la instalación
+[02:41:19] por donde se transmite esa energía o
+[02:41:21] solamente van a ser transportistas en un
+[02:41:24] segmento de distribución.
+[02:41:26] van a alquilar sus instalaciones como
+[02:41:28] transporte y como resguardo de la
+[02:41:31] generación que el usuario no puede hacer
+[02:41:34] o no se puede contratar. Se van a
+[02:41:36] transformar en comercializadores.
+[02:41:40] La electromovilidad, ¿cómo vamos a
+[02:41:42] tratar los cargadores de corriente
+[02:41:44] continua? ¿Quién va a ser la inversión
+[02:41:46] sobre la red? Y se presenta el dilema de
+[02:41:50] la subdistribución.
+[02:41:52] Las estaciones de servicio al vender
+[02:41:55] energía a un particular no están
+[02:41:58] ejecutando una tarea de subdistribución,
+[02:42:01] no le están dando a un tercero algo que
+[02:42:03] deben consumir para sí.
+[02:42:06] Esto hay que resolverlo. La secretaría.
+[02:42:10] Exactamente.
+[02:42:11] Esto está prohibido. Digamos, un usuario
+[02:42:13] no puede comprar energía para
+[02:42:14] revendérsela a otro. Hay que resolverlo.
+[02:42:17] Y la Secretaría de Energía dice, "Bueno,
+[02:42:20] que lo vendan las estaciones de
+[02:42:21] servicio." Y yo digo, "Bueno, ¿y por qué
+[02:42:22] no lo venden las distribuidoras
+[02:42:24] en vez de las estaciones de servicio?
+[02:42:26] ¿Por qué las
+[02:42:26] Exacto? Estaba pensando exactamente lo
+[02:42:28] mismo, como una como la figura de una
+[02:42:30] comercializadora. Pablo, hago una una
+[02:42:35] observación ahí que en realidad el
+[02:42:38] método que están utilizando la mayoría
+[02:42:40] de las de las petroleras o o de quienes
+[02:42:43] están dando servicio de de cargadores,
+[02:42:44] pues ya existen, eh utilizan algún tipo
+[02:42:47] de servicio de suscripción y o de
+[02:42:50] alquiler del estacionamiento. Entonces,
+[02:42:53] en su facturación no factura en la
+[02:42:55] subdistribución, eh, es un gris o es un
+[02:42:59] una un engaño a la a la normativa.
+[02:43:03] Eh, pero bueno, nada, es el método de
+[02:43:07] práctica que están haciendo. Mientras no
+[02:43:10] te cobren específicamente por la
+[02:43:11] cantidad de energía y no te la facturen,
+[02:43:14] eh,
+[02:43:16] no sé, ahí ya es más legal.
+[02:43:18] Ingeniero, Charlot, Charlot con vos.
+[02:43:22] Está bien. Digo, si vamos, vamos a
+[02:43:23] traerle un caso.
+[02:43:24] Tampoco tenemos una tarifa para la
+[02:43:26] movilidad eléctrica que debería tener su
+[02:43:28] propia categoría tarifaria, deberíamos
+[02:43:30] habilitarlo en todo caso, ¿a quién puede
+[02:43:32] suministrar esa energía para el auto?
+[02:43:34] Para cargar el auto eléctrico. Bueno,
+[02:43:35] son modificaciones normativas que, como
+[02:43:38] decía antes, quizás los hechos pasan y
+[02:43:41] después venimos atrás con las
+[02:43:42] normativas. Y bueno, y sobre la marcha
+[02:43:45] vamos sacando.
+[02:43:45] Sí, este tema, la subdistribución, digo,
+[02:43:48] che, todo el mundo puede poner un
+[02:43:50] cargador en cualquier café, cargarse el
+[02:43:51] celular y nadie interpreta que está
+[02:43:53] haciendo una subdistribución de energía
+[02:43:55] el café, ¿no? Donde lo está conectando.
+[02:43:58] Bueno, esto podría ser similar a una
+[02:44:00] mayor escala, pero hay que mirarlo
+[02:44:03] totalmente.
+[02:44:04] Pongámonos de acuerdo porque si no va a
+[02:44:05] ser un desastre. Y después
+[02:44:07] almacenamiento.
+[02:44:09] Digo, che, ¿qué qué normas tienen que
+[02:44:11] cumplir esas baterías? ¿Qué normativa
+[02:44:13] tiene que cumplir? De la EA, de del
+[02:44:15] regulador, digo, de certificaciones IEC.
+[02:44:19] ¿Cómo aseguramos que esto sea seguro por
+[02:44:22] valga la redundancia, no? Eh, la gestión
+[02:44:25] de la demanda,
+[02:44:26] ¿cómo gestionamos esa demanda para
+[02:44:29] mostrarle incentivo para que vaya o
+[02:44:32] consuma esa energía en determinados
+[02:44:33] momentos del día? Porque si no va a
+[02:44:34] colapsar tanto la generación como el
+[02:44:36] transporte como la distribución y el
+[02:44:39] tema de tarifas horarias. Así que bueno,
+[02:44:41] todos interrogantes y después una última
+[02:44:44] pregunta que yo me hago es, "Che, la
+[02:44:46] gestión de la demanda individual
+[02:44:49] eh eh va a priorizar por sobre la
+[02:44:51] eficiencia colectiva o es mejor ir a un
+[02:44:53] esquema de eficiencia colectiva y no
+[02:44:54] tanto individual
+[02:44:57] porque hoy parece que va todo a una
+[02:44:59] gestión de demanda individual. Ahora
+[02:45:01] digo, no estoy tan convencido que sea lo
+[02:45:03] más eficiente para un sistema eléctrico.
+[02:45:07] Así que bueno, ahí les dejo la las
+[02:45:09] preguntas, las bombas se las tiré en la
+[02:45:11] última filmina como para irme y dejarlos
+[02:45:14] pensando.
+[02:45:15] Así que bueno, muchas gracias. Hasta acá
+[02:45:16] la presentación.
+[02:45:22] Bueno,
+[02:45:23] gracias Pablo. Impable.
+[02:45:26] ¿Algún comentario, alguna cosa final o
+[02:45:28] ya nos vamos?
+[02:45:31] No, lo único que espero es que
+[02:45:34] que que esto siga caro y que todavía la
+[02:45:37] gente no lo adopte masivamente, por
+[02:45:40] favor.
+[02:45:42] [risas]
+[02:45:44] Bueno,
+[02:45:45] como las bicicletas eléctricas siguen
+[02:45:47] siendo caras, no tienen el impacto a
+[02:45:50] nivel potencia que tendría un auto, pero
+[02:45:53] siguen siendo caras, entonces no las
+[02:45:54] tiene todo el mundo y bueno, y eso va a
+[02:45:58] hacer que nos dé tiempo a repensar qué
+[02:46:01] vamos a hacer con todos estos temas.
+[02:46:03] Tal cual.
+[02:46:06] Bueno, gracias a todos por la paciencia,
+[02:46:08] por la escucha. Cualquier cosa, duda,
+[02:46:11] queden pensando y nos la harán. Vamos a
+[02:46:14] la próxima. Traigan soluciones, no solo
+[02:46:16] preguntas. [risas]
+[02:46:20] Todos bienvenidos. Todos bienvenidos.
+[02:46:22] Bueno, nos queda una última clase antes
+[02:46:25] del receso de invierno, así que próximo
+[02:46:29] jueves e vamos a escuchar a un juez
+[02:46:32] camarista,
+[02:46:34] así que va a estar muy interesante.
+[02:46:37] Así que bueno, nada, nos vemos el
+[02:46:39] próximo jueves.

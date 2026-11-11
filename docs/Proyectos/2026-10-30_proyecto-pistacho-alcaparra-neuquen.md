@@ -80,3 +80,4 @@ tags:
 Consultar el archivo detallado [`docs/ROADMAP_CONTINUACION_ETAPA5.md`](file:///D:/Proyectos/proyecto-pistacho-alcaparra-neuquen/docs/ROADMAP_CONTINUACION_ETAPA5.md) en el repositorio dedicado para retomar:
 1. **`[ ]` Etapa 5A — Google Workspace (`inventario.energycpy@gmail.com`)**: Scripts `generar_informe_google_docs.gs` y `generar_presentacion_google_slides.gs` + archivos `.docx` y `.pptx`.
 2. **`[ ]` Etapa 5B — Showroom Web Interactivo**: `DESIGN.md` + `index.html` con simulador dinámico `200–500 ha`, curvas del puente Alcaparra/Pistacho, visor **One-Pager A4** y despliegue en GitHub Pages.
+

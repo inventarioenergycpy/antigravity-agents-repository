@@ -1,0 +1,498 @@
+
+// Tab Navigation
+document.querySelectorAll('.nav-item').forEach(button => {
+  button.addEventListener('click', () => {
+    document.querySelectorAll('.nav-item').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+
+    button.classList.add('active');
+    const tabId = button.getAttribute('data-tab');
+    document.getElementById(tabId).classList.add('active');
+  });
+});
+
+// Load Cronograma Data
+async function loadData() {
+  try {
+    const cronResp = await fetch('data/cronograma_entregas_ami.json');
+    const cronData = await cronResp.json();
+    renderCronograma(cronData.entregas);
+    renderSimulator(cronData.entregas);
+
+    const planesResp = await fetch('data/diagnostico_planes_capital.json');
+    const planesData = await planesResp.json();
+    renderPlanes(planesData);
+
+    const interiorResp = await fetch('data/relevamiento_interior.json');
+    const interiorData = await interiorResp.json();
+    renderInterior(interiorData);
+
+    // Cargar simulación provincial sostenida (Capital 200k + Interior 203.1k con déficit en amarillo-naranja)
+    const simResp = await fetch('data/simulacion_sostenida_capital_interior_22m.json');
+    const simData = await simResp.json();
+    renderStockChart(simData);
+    renderStockTable(simData);
+  } catch (err) {
+    console.error('Error fetching data:', err);
+  }
+}
+
+function renderCronograma(entregas) {
+  const tbody = document.getElementById('cronograma-tbody');
+  tbody.innerHTML = '';
+  entregas.forEach(item => {
+    const tr = document.createElement('tr');
+    const tagClass = item.marca === 'Sanxing' ? 'tag-sanxing' : 'tag-clou';
+    tr.innerHTML = `
+      <td><span class="tag-badge ${tagClass}">${item.marca} E${item.entrega_nro}</span></td>
+      <td><strong>${item.cantidad.toLocaleString('es-AR')} u.</strong></td>
+      <td>${item.dias_contractuales} d</td>
+      <td><span class="status-pill" style="background: rgba(255,255,255,0.08); font-size: 11px;">VP ${item.vp_dias} d</span></td>
+      <td><strong style="color: #38bdf8">${item.fecha_disponible}</strong></td>
+      <td>${item.acumulado_total.toLocaleString('es-AR')} u.</td>
+      <td style="color: #94a3b8; font-size: 12.5px;">${item.destino_principal}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function renderPlanes(planes) {
+  const container = document.getElementById('planes-grid');
+  container.innerHTML = '';
+  for (const [key, p] of Object.entries(planes)) {
+    const card = document.createElement('div');
+    card.className = 'plan-card';
+    card.innerHTML = `
+      <div class="plan-header">
+        <h3>${p.nombre}</h3>
+        <span class="tag-badge" style="background: rgba(56, 189, 248, 0.15); color: #38bdf8;">${p.prioridad}</span>
+      </div>
+      <div class="plan-body">
+        <p><strong>Estado:</strong> ${p.estado_relevamiento}</p>
+        <p><strong>Tecnología:</strong> <span style="color: #f59e0b;">${p.tecnologia_recomendada}</span></p>
+        <p style="margin-top: 8px; font-size: 12px;">${p.notas}</p>
+      </div>
+    `;
+    container.appendChild(card);
+  }
+}
+
+function renderInterior(distritos) {
+  const container = document.getElementById('interior-grid');
+  container.innerHTML = '';
+  for (const [key, d] of Object.entries(distritos)) {
+    const card = document.createElement('div');
+    card.className = 'plan-card';
+    card.innerHTML = `
+      <div class="plan-header">
+        <h3>Distrito ${d.distrito}</h3>
+        <span class="tag-badge tag-sanxing">${d.marca_asignada}</span>
+      </div>
+      <div class="plan-body">
+        <p><strong>Puntos Relevados:</strong> <span style="font-size: 18px; font-weight: bold; color: #fff;">${d.puntos_relevados.toLocaleString('es-AR')}</span></p>
+        <p><strong>Lote Asignado:</strong> ${d.lote_sugerido}</p>
+        <p><strong>Estado Cartográfico:</strong> ${d.estado_poligonos}</p>
+      </div>
+    `;
+    container.appendChild(card);
+  }
+}
+
+function renderSimulator(entregas) {
+  const btn = document.getElementById('btn-recalcular');
+  btn.addEventListener('click', () => {
+    const cuadrillas = parseInt(document.getElementById('input-cuadrillas').value) || 50;
+    const rend = parseInt(document.getElementById('input-rendimiento').value) || 14;
+    const porDia = cuadrillas * rend;
+    const porMes = porDia * 22; // 22 días hábiles
+
+    const output = document.getElementById('simulador-resultado');
+    output.innerHTML = `
+      <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.25); padding: 18px; border-radius: 8px; margin-top: 10px;">
+        <h4 style="color: #10b981; margin-bottom: 8px;">Capacidad Mensual de Cuadrillas: ${porMes.toLocaleString('es-AR')} medidores/mes</h4>
+        <p style="font-size: 13.5px; color: #cbd5e1;">Con <strong>${cuadrillas} cuadrillas</strong> activas instalando <strong>${rend} medidores/día</strong> cada una, se instalan <strong>${porDia.toLocaleString('es-AR')} equipos/día</strong>.</p>
+        <p style="font-size: 13px; color: #94a3b8; margin-top: 6px;">En los primeros 5 meses (Feb - Jun 2027) ingresan 242.000 medidores. Las cuadrillas consumirán aproximadamente 75.000 - 85.000 equipos en dicho periodo, generando un stock de reserva de <strong>+150.000 medidores en almacenes</strong> para sostener el invierno sin quiebres.</p>
+      </div>
+    `;
+  });
+  btn.click();
+}
+
+function renderStockChart(data) {
+  const svg = document.getElementById('svg-stock-chart');
+  if (!svg || !data || data.length === 0) return;
+
+  const tooltip = document.getElementById('chart-tooltip');
+  const svgWidth = 1000;
+  const svgHeight = 480;
+  const margin = { top: 40, right: 75, bottom: 65, left: 65 };
+  const width = svgWidth - margin.left - margin.right; // 860px
+  const height = svgHeight - margin.top - margin.bottom; // 375px
+  const n = data.length; // 23
+  const step = width / n; // ~37.4px
+
+  // Scales (Leveled with Zero at the exact same horizontal gridline: 1/6 from bottom)
+  const minLineVal = -100000;
+  const maxLineVal = 500000;
+  const lineRange = maxLineVal - minLineVal; // 600000
+  const getYLine = val => margin.top + height - ((val - minLineVal) / lineRange) * height;
+  const yZero = getYLine(0); // Exactly at 5/6 height (1/6 from bottom)
+
+  // Scales (Leveled with Zero at the exact same horizontal gridline: 1/6 from bottom)
+  const minLineVal = -100000;
+  const maxLineVal = 500000;
+  const lineRange = maxLineVal - minLineVal; // 600000
+  const getYLine = val => margin.top + height - ((val - minLineVal) / lineRange) * height;
+  const yZero = getYLine(0); // Exactly at 5/6 height (1/6 from bottom)
+
+  // Column scale: 0 to 100,000 u./mes mapped to the positive span above yZero
+  const maxColVal = 100000;
+  const positiveSpan = yZero - margin.top;
+  const getColH = val => (val / maxColVal) * positiveSpan;
+
+  let html = `
+    <defs>
+      <linearGradient id="deficitGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.35"/>
+        <stop offset="100%" stop-color="#ea580c" stop-opacity="0.12"/>
+      </linearGradient>
+      <linearGradient id="ingresoGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#0284c7"/>
+      </linearGradient>
+      <linearGradient id="capGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#c084fc"/>
+        <stop offset="100%" stop-color="#8b5cf6"/>
+      </linearGradient>
+      <linearGradient id="intGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#38bdf8"/>
+        <stop offset="100%" stop-color="#0284c7"/>
+      </linearGradient>
+      <filter id="glowDeficit" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+
+    <!-- Negative Deficit Zone Background (below yZero) -->
+    <rect x="${margin.left}" y="${yZero}" width="${width}" height="${margin.top + height - yZero}" fill="url(#deficitGradient)" />
+    <line x1="${margin.left}" y1="${margin.top + height}" x2="${margin.left + width}" y2="${margin.top + height}" stroke="#233152" stroke-width="1.5" />
+  `;
+
+  // Shared Gridlines (both axes share the exact same 6 intervals / 7 lines)
+  // Left Axis (Y1): Flujo Mensual (0 a 100.000 u./mes)
+  // Right Axis (Y2): Curvas Acumuladas y Stock (-100k a 500k)
+  const sharedTicks = [
+    { valY2: 500000, valY1: 100000 },
+    { valY2: 400000, valY1: 80000 },
+    { valY2: 300000, valY1: 60000 },
+    { valY2: 200000, valY1: 40000 },
+    { valY2: 100000, valY1: 20000 },
+    { valY2: 0,      valY1: 0, isZero: true },
+    { valY2: -100000, valY1: null, isNegative: true }
+  ];
+
+  sharedTicks.forEach(tick => {
+    const yPos = getYLine(tick.valY2);
+    const isZero = tick.isZero;
+    const strokeColor = isZero ? '#f59e0b' : '#1e293b';
+    const strokeDash = isZero ? 'none' : '2 3';
+    const strokeW = isZero ? 2 : 1;
+
+    html += `
+      <line x1="${margin.left}" y1="${yPos}" x2="${margin.left + width}" y2="${yPos}" stroke="${strokeColor}" stroke-dasharray="${strokeDash}" stroke-width="${strokeW}" />
+      <!-- Right Axis Label (Curvas Acumuladas y Stock) -->
+      <text x="${margin.left + width + 8}" y="${yPos + 4}" fill="${isZero ? '#f59e0b' : '#38bdf8'}" font-size="${isZero ? 11 : 9.5}" font-weight="${isZero ? 700 : 500}" font-family="JetBrains Mono, monospace">
+        ${tick.valY2 < 0 ? tick.valY2.toLocaleString('es-AR') : (tick.isZero ? '0 (Quiebre)' : '+' + tick.valY2.toLocaleString('es-AR'))}
+      </text>
+    `;
+
+    // Left Axis Label (Flujo Mensual: Ingresos e Instalación)
+    if (tick.valY1 !== null) {
+      html += `
+        <text x="${margin.left - 8}" y="${yPos + 4}" fill="${isZero ? '#cbd5e1' : '#94a3b8'}" font-size="${isZero ? 10.5 : 9}" font-weight="${isZero ? 700 : 500}" text-anchor="end" font-family="JetBrains Mono, monospace">
+          ${tick.valY1.toLocaleString('es-AR')}
+        </text>
+      `;
+    }
+  });
+
+  html += `
+    <text x="${margin.left - 8}" y="${margin.top - 10}" fill="#94a3b8" font-size="8.5" font-weight="600" text-anchor="end">Flujo Mensual u./mes (Y1)</text>
+    <text x="${margin.left + width + 8}" y="${margin.top - 10}" fill="#38bdf8" font-size="8.5" font-weight="600">Total / Stock (Y2)</text>
+  `;
+
+  // Draw 3 Clustered Monthly Columns (Ingreso Mes EPEC, Inst Capital, Inst Interior)
+  const barW = 8;
+  data.forEach((item, i) => {
+    const cx = margin.left + (i + 0.5) * step;
+    const hIng = getColH(item.ing_mes);
+    const hCap = getColH(item.inst_cap);
+    const hInt = getColH(item.inst_int);
+
+    // 1. Ingreso Mes EPEC Bar (Celeste) - sits ON yZero and rises upwards
+    if (item.ing_mes > 0) {
+      const yIng = yZero - hIng;
+      html += `
+        <rect x="${cx - 1.5 * barW - 1}" y="${yIng}" width="${barW}" height="${hIng}" rx="2" fill="url(#ingresoGradient)" stroke="#0284c7" stroke-width="1" opacity="0.95" />
+      `;
+    }
+
+    // 2. Capital Bar (purple) - sits ON yZero and rises upwards
+    if (item.inst_cap > 0) {
+      const yCap = yZero - hCap;
+      html += `
+        <rect x="${cx - 0.5 * barW}" y="${yCap}" width="${barW}" height="${hCap}" rx="2" fill="url(#capGradient)" stroke="#7c3aed" stroke-width="1" opacity="0.95" />
+      `;
+    }
+
+    // 3. Interior Bar (blue/cyan) - sits ON yZero and rises upwards
+    if (item.inst_int > 0) {
+      const yInt = yZero - hInt;
+      html += `
+        <rect x="${cx + 0.5 * barW + 1}" y="${yInt}" width="${barW}" height="${hInt}" rx="2" fill="url(#intGradient)" stroke="#0284c7" stroke-width="1" opacity="0.95" />
+      `;
+    }
+
+    // X-Axis Month Label
+    const isQuiebre = item.mes === '2028-02';
+    const labelColor = isQuiebre ? '#f59e0b' : (item.mes.startsWith('2028') ? '#e2e8f0' : '#94a3b8');
+    const labelWeight = isQuiebre ? 'bold' : 'normal';
+    const shortMes = item.mes.substring(2);
+    html += `
+      <text x="${cx}" y="${margin.top + height + 18}" fill="${labelColor}" font-weight="${labelWeight}" font-size="9" text-anchor="middle" font-family="Outfit, sans-serif">
+        ${shortMes}
+      </text>
+    `;
+    if (isQuiebre) {
+      html += `
+        <text x="${cx}" y="${margin.top + height + 32}" fill="#ea580c" font-size="8.5" font-weight="700" text-anchor="middle">QUIEBRE</text>
+      `;
+    }
+  });
+
+  // Polyline Points for Lines (Cumulative provincial and Stock)
+  const acumPoints = [];
+  const stockPosPoints = [];
+  const stockNegPoints = [];
+
+  data.forEach((item, i) => {
+    const cx = margin.left + (i + 0.5) * step;
+    const yAcum = getYLine(item.inst_tot_acum);
+    const yStk = getYLine(item.stk_remanente);
+
+    acumPoints.push(`${cx.toFixed(1)},${yAcum.toFixed(1)}`);
+
+    if (item.stk_remanente >= 0) {
+      stockPosPoints.push({ x: cx, y: yStk, val: item.stk_remanente, mes: item.mes, idx: i });
+    } else {
+      stockNegPoints.push({ x: cx, y: yStk, val: item.stk_remanente, mes: item.mes, idx: i });
+    }
+  });
+
+  // Calculate exact zero-crossing point where stock runs out and transitions to negative deficit
+  let zeroCross = null;
+  const lastPosIdx = data.findLastIndex(d => d.stk_remanente >= 0);
+  if (lastPosIdx >= 0 && lastPosIdx < data.length - 1) {
+    const p1 = data[lastPosIdx];
+    const p2 = data[lastPosIdx + 1];
+    const cx1 = margin.left + (lastPosIdx + 0.5) * step;
+    const cx2 = margin.left + (lastPosIdx + 1 + 0.5) * step;
+    const t = (0 - p1.stk_remanente) / (p2.stk_remanente - p1.stk_remanente);
+    const cxZero = cx1 + t * (cx2 - cx1);
+    zeroCross = { x: cxZero, y: yZero };
+  }
+
+  // 1. Cumulative Line (Blue #2563eb)
+  html += `
+    <polyline points="${acumPoints.join(' ')}" fill="none" stroke="#2563eb" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  `;
+
+  // 2. Línea de Stock Remanente Positivo (Verde esmeralda estricto hasta el quiebre)
+  const greenPoints = stockPosPoints.map(p => `${p.x.toFixed(1)},${p.y.toFixed(1)}`);
+  if (zeroCross) {
+    greenPoints.push(`${zeroCross.x.toFixed(1)},${zeroCross.y.toFixed(1)}`);
+  }
+  html += `
+    <polyline points="${greenPoints.join(' ')}" fill="none" stroke="#10b981" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" />
+  `;
+
+  // 3. Línea de Déficit de Stock Faltante (Amarillo-Naranja vibrante desde el quiebre con valores negativos)
+  if (stockNegPoints.length > 0) {
+    const orangePoints = [];
+    if (zeroCross) {
+      orangePoints.push(`${zeroCross.x.toFixed(1)},${zeroCross.y.toFixed(1)}`);
+    } else if (stockPosPoints.length > 0) {
+      const lastPos = stockPosPoints[stockPosPoints.length - 1];
+      orangePoints.push(`${lastPos.x.toFixed(1)},${lastPos.y.toFixed(1)}`);
+    }
+    stockNegPoints.forEach(p => orangePoints.push(`${p.x.toFixed(1)},${p.y.toFixed(1)}`));
+
+    html += `
+      <polyline points="${orangePoints.join(' ')}" fill="none" stroke="#ea580c" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glowDeficit)" opacity="0.8" />
+      <polyline points="${orangePoints.join(' ')}" fill="none" stroke="#f59e0b" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+    `;
+  }
+
+  // 4. Quiebre de Stock Zero Point Marker
+  if (zeroCross) {
+    html += `
+      <circle cx="${zeroCross.x.toFixed(1)}" cy="${zeroCross.y.toFixed(1)}" r="5.5" fill="#f59e0b" stroke="#ffffff" stroke-width="2" />
+      <text x="${zeroCross.x.toFixed(1)}" y="${(zeroCross.y - 12).toFixed(1)}" fill="#f59e0b" font-size="9" font-weight="700" text-anchor="middle" font-family="Outfit, sans-serif">
+        Quiebre (0 u.)
+      </text>
+    `;
+  }
+
+  // Draw Line Markers
+  data.forEach((item, i) => {
+    const cx = margin.left + (i + 0.5) * step;
+    const yAcum = getYLine(item.inst_tot_acum);
+    const yStk = getYLine(item.stk_remanente);
+    const isNeg = item.stk_remanente < 0;
+
+    // Cumulative installation marker (square/circle blue)
+    html += `
+      <circle cx="${cx}" cy="${yAcum}" r="3" fill="#2563eb" stroke="#fff" stroke-width="1" />
+    `;
+
+    // Stock marker (emerald green or orange deficit)
+    if (isNeg) {
+      html += `
+        <circle cx="${cx}" cy="${yStk}" r="5" fill="#f59e0b" stroke="#ea580c" stroke-width="2" />
+        <circle cx="${cx}" cy="${yStk}" r="2" fill="#fff" />
+      `;
+    } else {
+      html += `
+        <circle cx="${cx}" cy="${yStk}" r="3.5" fill="#10b981" stroke="#fff" stroke-width="1.5" />
+      `;
+    }
+  });
+
+  // Callout for Plateau of Meter Deliveries (Oct-2027: 307.000 u.)
+  const octIdx = data.findIndex(d => d.mes === '2027-10');
+  if (octIdx >= 0) {
+    const octX = margin.left + (octIdx + 0.5) * step;
+    const octY = getYLine(307000);
+    html += `
+      <g transform="translate(${(octX - 65).toFixed(1)}, ${(octY - 26).toFixed(1)})">
+        <rect x="0" y="0" width="130" height="20" rx="4" fill="#082f49" stroke="#38bdf8" stroke-width="1.2" opacity="0.95" />
+        <text x="65" y="14" fill="#7dd3fc" font-size="9" font-weight="700" text-anchor="middle" font-family="Outfit, sans-serif">
+          Tope Entregas: 307.000 u.
+        </text>
+      </g>
+    `;
+  }
+
+  // Callout for the Final Deficit Point (-96.137 u.)
+  const lastItem = data[data.length - 1];
+  const lastX = margin.left + (data.length - 0.5) * step;
+  const lastY = getYLine(lastItem.stk_remanente);
+  html += `
+    <g transform="translate(${lastX - 90}, ${lastY - 28})">
+      <rect x="0" y="0" width="85" height="22" rx="4" fill="#78350f" stroke="#f59e0b" stroke-width="1.2" />
+      <text x="42.5" y="15" fill="#fef08a" font-size="10.5" font-weight="700" text-anchor="middle" font-family="JetBrains Mono, monospace">
+        -96.137 u.
+      </text>
+    </g>
+  `;
+
+  // Transparent Interactive Hover Hit-Boxes
+  data.forEach((item, i) => {
+    const x0 = margin.left + i * step;
+    html += `
+      <rect class="chart-hover-bar" data-index="${i}" x="${x0}" y="${margin.top}" width="${step}" height="${height}" fill="transparent" style="cursor: pointer;" />
+    `;
+  });
+
+  // Dynamic Indicator Line
+  html += `<line id="chart-indicator-line" x1="0" y1="${margin.top}" x2="0" y2="${margin.top + height}" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" style="display: none;" />`;
+
+  svg.innerHTML = html;
+
+  // Add Hover Interactions
+  const indicator = document.getElementById('chart-indicator-line');
+  svg.querySelectorAll('.chart-hover-bar').forEach(rect => {
+    rect.addEventListener('mouseenter', e => {
+      const idx = parseInt(rect.getAttribute('data-index'));
+      const item = data[idx];
+      const cx = margin.left + (idx + 0.5) * step;
+
+      indicator.setAttribute('x1', cx);
+      indicator.setAttribute('x2', cx);
+      indicator.style.display = 'block';
+
+      const isDeficit = item.stk_remanente < 0;
+      const stockColor = isDeficit ? '#f59e0b' : '#10b981';
+      const stockBadge = isDeficit
+        ? '<span style="color:#ea580c; font-weight:bold;">⚠️ DÉFICIT DE STOCK (FALTANTE)</span>'
+        : '<span style="color:#10b981; font-weight:bold;">🟢 Stock Disponible en Almacén</span>';
+
+      const entregaMesTxt = item.ing_mes > 0
+        ? `<strong style="color: #38bdf8;">+${item.ing_mes.toLocaleString('es-AR')} u.</strong>`
+        : `<span style="color: #64748b;">0 u.</span>`;
+
+      tooltip.innerHTML = `
+        <div class="tt-title">📅 Periodo: ${item.mes} (Mes N° ${item.mes_nro})</div>
+        <div class="tt-row"><span>📦 Ingreso Mes EPEC:</span> ${entregaMesTxt}</div>
+        <div class="tt-row"><span>🟣 Inst. Capital Mensual:</span> <strong>${item.inst_cap.toLocaleString('es-AR')} u.</strong></div>
+        <div class="tt-row"><span>🔵 Inst. Interior Mensual (Sostenida):</span> <strong>${item.inst_int.toLocaleString('es-AR')} u.</strong></div>
+        <div class="tt-row"><span>Instalación Total Mes:</span> <strong>${item.inst_tot_mes.toLocaleString('es-AR')} u.</strong></div>
+        <div class="tt-row"><span>🟦 Total Provincial Acumulado:</span> <strong>${item.inst_tot_acum.toLocaleString('es-AR')} u.</strong></div>
+        <div class="tt-row"><span>📦 Stock Licitación Acumulado:</span> <strong>${item.stk_ing_acum.toLocaleString('es-AR')} u.</strong></div>
+        <div class="tt-row" style="margin-top: 6px; padding-top: 6px; border-top: 1px solid rgba(255,255,255,0.15);">
+          <span>Stock Remanente:</span>
+          <strong style="color: ${stockColor}; font-size: 13.5px;">${item.stk_remanente < 0 ? item.stk_remanente.toLocaleString('es-AR') : '+' + item.stk_remanente.toLocaleString('es-AR')} u.</strong>
+        </div>
+        <div style="font-size: 11px; margin-top: 4px; text-align: right;">${stockBadge}</div>
+      `;
+
+      tooltip.style.display = 'block';
+    });
+
+    rect.addEventListener('mousemove', e => {
+      const wrapperRect = svg.parentElement.getBoundingClientRect();
+      const x = e.clientX - wrapperRect.left + 15;
+      const y = e.clientY - wrapperRect.top + 10;
+      tooltip.style.left = `${Math.min(x, wrapperRect.width - 240)}px`;
+      tooltip.style.top = `${y}px`;
+    });
+
+    rect.addEventListener('mouseleave', () => {
+      indicator.style.display = 'none';
+      tooltip.style.display = 'none';
+    });
+  });
+}
+
+function renderStockTable(data) {
+  const tbody = document.getElementById('simulacion-sostenida-tbody');
+  if (!tbody || !data) return;
+  tbody.innerHTML = '';
+
+  data.forEach(item => {
+    const tr = document.createElement('tr');
+    const isDeficit = item.stk_remanente < 0;
+    const stockClass = isDeficit ? 'stock-deficit-cell' : '';
+    const estadoHtml = isDeficit
+      ? `<span class="badge-deficit-tag">⚠️ DÉFICIT: ${item.stk_remanente.toLocaleString('es-AR')} u.</span>`
+      : `<span class="status-pill" style="background: rgba(16, 185, 129, 0.12); color: #34d399; font-size: 11px;">${item.estado_int}</span>`;
+
+    tr.innerHTML = `
+      <td><strong>${item.mes}</strong></td>
+      <td style="text-align: center; color: #94a3b8;">${item.mes_nro}</td>
+      <td>${item.ing_mes.toLocaleString('es-AR')} u.</td>
+      <td style="color: #38bdf8;">${item.stk_ing_acum.toLocaleString('es-AR')} u.</td>
+      <td style="color: #c084fc;">${item.inst_cap.toLocaleString('es-AR')} u.</td>
+      <td style="color: #38bdf8; font-weight: 600;">${item.inst_int.toLocaleString('es-AR')} u.</td>
+      <td><strong>${item.inst_tot_mes.toLocaleString('es-AR')} u.</strong></td>
+      <td style="color: #60a5fa; font-weight: 700;">${item.inst_tot_acum.toLocaleString('es-AR')} u.</td>
+      <td class="${stockClass}">${item.stk_remanente.toLocaleString('es-AR')} u.</td>
+      <td>${estadoHtml}</td>
+      <td style="text-align: center; font-size: 12px; color: #cbd5e1;">${item.cuad_tot} cuad.</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+document.addEventListener('DOMContentLoaded', loadData);

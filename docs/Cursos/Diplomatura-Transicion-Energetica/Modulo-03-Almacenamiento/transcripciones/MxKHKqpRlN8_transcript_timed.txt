@@ -1,0 +1,2494 @@
+[00:00:09] vuelve a todos como les va como
+[00:00:12] arrancaron ese lunes dos tranquilos mi
+[00:00:15] nombre es gastarás soft y soy del aseo
+[00:00:18] de la secretaria de extensión
+[00:00:19] universitaria y hoy estamos en la clase
+[00:00:22] 4 del módulo 3 de almacenamiento de lo
+[00:00:25] que esta
+[00:00:27] diplomatura en transición energética hoy
+[00:00:30] estamos con la profe de vuelta maria
+[00:00:32] jose pescadores de ingeniería como
+[00:00:34] elevado profe
+[00:00:36] hades
+[00:00:39] me alegro que me vienen profe bueno ahí
+[00:00:42] están su vida las clases la de hoy
+[00:00:44] también incluso está su vida
+[00:00:47] digno de donde nos están viendo también
+[00:00:50] y bueno si tienen alguna duda la dejan
+[00:00:52] en el chat y la vamos a ir diciendo las
+[00:00:55] propias y se las va contestando así así
+[00:00:59] que bueno me ahora de salvar es colores
+[00:01:02] jalen profe hoy estará atrás porque cosa
+[00:01:05] profe todos sus
+[00:01:07] éxitos
+[00:01:10] hola cómo están buenas tardes hoy me
+[00:01:14] tienen de nuevo
+[00:01:15] nuevamente a mí vamos a continuar con la
+[00:01:17] clase la segunda parte más bien diríamos
+[00:01:20] de el tema hidrógeno
+[00:01:24] la clase pasada yo les había puse el
+[00:01:28] power point entero ustedes van a ver que
+[00:01:31] gastón les ha cargado ahí el material es
+[00:01:34] un solo pdf donde tiene las
+[00:01:37] presentaciones todo en una sola parte
+[00:01:39] tanto de lo que se ha visto la clase
+[00:01:42] pasada del viernes con lo que se va a
+[00:01:44] dar hoy
+[00:01:45] lo puse desde un principio como para que
+[00:01:48] recordemos algunas cositas antes de
+[00:01:51] empezar con esta clase porque vamos a
+[00:01:53] usar muchos términos que dije el viernes
+[00:01:56] entonces para que no sea lion y se torne
+[00:01:59] confuso mínimo repaso
+[00:02:02] bien entonces
+[00:02:03] hidrógeno la clase pasada vimos que en
+[00:02:07] algunas propiedades que tenía que ver
+[00:02:10] toda esta evolución de los combustibles
+[00:02:13] de acuerdo al nivel de emisiones de
+[00:02:15] gases de efecto invernadero y todo el
+[00:02:17] tema del cambio climático
+[00:02:19] el hidrógeno emergía como como un vector
+[00:02:22] energético ante todo esto que bueno
+[00:02:26] tenía muchas probabilidades para el
+[00:02:29] futuro ese es uno de los partícipes
+[00:02:32] principales en lo que es la matriz
+[00:02:34] energética global
+[00:02:38] en todo es no esperen que voy pasando
+[00:02:43] y vimos que el hidrógeno no lo
+[00:02:47] encontrábamos como un recurso natural
+[00:02:50] en la tierra del planeta tierra sino que
+[00:02:52] había que producirlo
+[00:02:54] porque porque se formaba formaba parte
+[00:02:57] de los hidrocarburos del agua de la
+[00:02:59] biomasa pero no encontrábamos solo así
+[00:03:02] como h2 y entonces había que producirlo
+[00:03:05] y para eso ya diferentes procesos
+[00:03:08] entonces vimos un poco también lo que
+[00:03:10] eran los diferentes métodos
+[00:03:15] vamos a
+[00:03:17] los métodos habíamos visto el reformado
+[00:03:21] gas natural reformado del metano que era
+[00:03:24] el proceso digamos que gobernada en la
+[00:03:27] actualidad como el proceso que más lista
+[00:03:30] después de ese mismo proceso de
+[00:03:32] reformado de gas natural se le podría
+[00:03:36] acoplar una unidad de captura de dióxido
+[00:03:39] de carbono porque el proceso por sí solo
+[00:03:41] emite mucha mucho gas de efecto
+[00:03:44] invernadero entonces para minimizar un
+[00:03:47] poco esa contaminación
+[00:03:49] se podía agregar este proceso de
+[00:03:52] secuestro de dióxido de carbono que
+[00:03:54] consistía en capturó el dióxido del que
+[00:03:58] se generan en el reformado
+[00:04:01] y luego hay que almacenarlo sí y para
+[00:04:04] eso lo almacena vamos durante 100 años
+[00:04:05] generalmente en
+[00:04:08] lugares geológicos adaptados para esto
+[00:04:12] teníamos otros procesos que eran la
+[00:04:14] gasificación del carbón también bastante
+[00:04:16] contaminante porque emite mucho el
+[00:04:18] dióxido de carbono la electrólisis del
+[00:04:21] agua que era la ruptura de la molécula
+[00:04:23] de agua utilizando una corriente
+[00:04:25] eléctrica ya que habíamos visto
+[00:04:27] diferencias que si la corriente
+[00:04:29] eléctrica que utilizábamos era de origen
+[00:04:32] fósil o de derivados fósiles o derivados
+[00:04:36] del petróleo entonces
+[00:04:38] es como un proceso limpio porque estoy
+[00:04:40] utilizando digamos agua para generar
+[00:04:43] solamente hidrógeno y oxígeno no emito
+[00:04:47] desde ese lado contaminantes pero si los
+[00:04:50] emitía en la quema del combustible fósil
+[00:04:53] para generar esa electricidad entonces
+[00:04:56] habíamos visto que si es electrólisis
+[00:04:58] del agua se acoplaba con una fuente
+[00:05:02] renovable que podía hacer
+[00:05:05] olic a energía solar podía obtener esa
+[00:05:09] energía necesaria o esa electricidad
+[00:05:11] necesaria para lograr
+[00:05:13] descomponer la molécula de agua y de
+[00:05:16] manera que el proceso cierre digamos y
+[00:05:19] termine siendo ambientalmente amigable
+[00:05:22] limpio y en lo que conocíamos como el
+[00:05:25] hidrógeno verde
+[00:05:28] había otros procesos
+[00:05:31] como también en la gasificación de la
+[00:05:33] biomasa serológicas ciclos termos
+[00:05:37] químicos foto foto electrólisis o
+[00:05:40] fotocatálisis que tenían que ver un poco
+[00:05:43] digamos con procesos que utilizaban
+[00:05:48] altas temperaturas pero todavía estaban
+[00:05:51] en estudio no están disponibles
+[00:05:52] actualmente como para un proceso o una
+[00:05:55] producción en masa sino más bien están
+[00:05:57] en proceso de investigación para ver la
+[00:06:00] viabilidad las ventajas desventajas
+[00:06:03] y por último habíamos visto la bio foto
+[00:06:06] lisis y la vía fermentativa que también
+[00:06:09] eran procesos muy nuevos
+[00:06:13] que tenían que ver con la obtención del
+[00:06:15] hidrógeno de manera biológica y
+[00:06:18] recuerden que yo les había contado yo
+[00:06:21] soy ingeniera química pero hice mi
+[00:06:22] doctorado en producción de hidrógeno
+[00:06:25] pero de qué manera hacerlo de una manera
+[00:06:28] nueva que era mediante esta vía
+[00:06:30] fermentativa en mi tesis había tratado
+[00:06:34] de
+[00:06:35] producir hidrógeno obviamente a pequeña
+[00:06:39] escala en el laboratorio pero era
+[00:06:41] utilizando carbohidratos o compuestos
+[00:06:45] orgánicos que los microorganismos pueden
+[00:06:47] utilizar para su metabolismo esos
+[00:06:49] carbohidratos derivaban de residuos
+[00:06:52] residuos orgánicos
+[00:06:54] entonces los microorganismos degradaban
+[00:06:57] esos residuos y al mismo tiempo que
+[00:07:00] estábamos tratando la basura o los
+[00:07:03] residuos entonces al mismo tiempo se
+[00:07:06] estaba generando una energía limpia como
+[00:07:08] el hidrógeno obviamente es un proceso
+[00:07:11] super nuevo si bien en mi tesis tuve
+[00:07:14] buenos resultados
+[00:07:16] obviamente no es lo que en la actualidad
+[00:07:18] se está charlando en la actualidad lo
+[00:07:21] que se está digamos
+[00:07:24] poniendo énfasis para financiar para
+[00:07:27] hacer proyectos para
+[00:07:29] construir plantas piloto tiene que ver
+[00:07:32] con esto de generar el hidrógeno de
+[00:07:33] manera limpia pero a través de la
+[00:07:36] electrólisis que es un proceso que ya
+[00:07:38] está instalado no está en etapa de
+[00:07:40] estudio sino más bien tal vez de
+[00:07:43] investigaciones para mejorar la
+[00:07:45] eficiencia pero el proceso ya está
+[00:07:47] instalado está disponible lo que si se
+[00:07:50] trata de acoplarlo con energías de
+[00:07:54] fuentes
+[00:07:55] renovables
+[00:07:56] ya sean con parques eólicos o con
+[00:07:59] parques que tengan células fotovoltaicas
+[00:08:02] de manera de generar ese hidrógeno verde
+[00:08:06] se conoce en la actualidad y que también
+[00:08:09] es una energía limpia
+[00:08:13] bien para cortar el tema del repaso
+[00:08:16] recordemos el tema de los colores del
+[00:08:18] hidrógeno porque ahora es más vamos a
+[00:08:20] hablar de temas donde solamente nos
+[00:08:22] vemos el color si era la gasificación
+[00:08:24] del carbón era el hidrógeno marrón si
+[00:08:27] era el reformado del gas natural en el
+[00:08:31] hidrógeno gris si es reformado tenían
+[00:08:34] esta unidad acoplada de secuestro de
+[00:08:37] dióxido de carbono el hidrógeno azul
+[00:08:40] esto los pasamos y vamos a esta parte
+[00:08:43] donde se utilizábamos electrólisis de
+[00:08:45] fuentes renovables entonces era el
+[00:08:48] hidrógeno ver hagan hincapié en eso
+[00:08:50] porque ahora en adelante vamos a estar
+[00:08:52] viendo muchas comparaciones entre lo que
+[00:08:55] es el hidrógeno betis que es parecido al
+[00:08:59] marrón en cuanto a amigos a digamos a
+[00:09:01] disponibilidad de la tecnología en
+[00:09:03] cuanto a costos en cuanto a
+[00:09:05] contaminante si el hidrógeno azul y el
+[00:09:08] hidrógeno gárate
+[00:09:10] bien
+[00:09:13] pasamos entonces a lo que vamos a ver
+[00:09:15] hoy que es desde aquí vamos a ver
+[00:09:18] potencias del hidrógeno que me refiero
+[00:09:21] con esto los costos de producción de
+[00:09:23] esos procesos que estuvimos repasando
+[00:09:24] recién rápidamente bueno qué costos
+[00:09:28] tiene producir el hidrógeno
+[00:09:30] de manera que utilicemos el reformado o
+[00:09:35] qué proceso nos perdonó que el precio
+[00:09:37] que costó va a tener si en ese proceso
+[00:09:39] de reformado le agregó una unidad de
+[00:09:41] secuestro si o si hay mucha diferencia
+[00:09:44] con respecto a producido por
+[00:09:46] electrólisis obviamente vamos a ver esos
+[00:09:48] tres tipos en cuanto a costos porque son
+[00:09:51] las tecnologías que están actualmente
+[00:09:52] disponibles no podemos devolver costos
+[00:09:54] de las otras tecnologías como las vías
+[00:09:57] biológicas o las vías
+[00:09:59] termo químicas porque al ser
+[00:10:02] digamos procesos o desarrollos muy
+[00:10:06] nuevos muy a escala laboratorio todavía
+[00:10:09] entonces es difícil por ahí sacar un
+[00:10:12] costo que suene digamos de manera
+[00:10:16] comparativo con los otros que ya están
+[00:10:18] bien instalados de manera industrial
+[00:10:22] bueno en esta parte también vamos a
+[00:10:24] estar un poco hablando de cómo puede
+[00:10:26] llegar a ser la transición de este
+[00:10:28] hidrógeno gris que en la actualidad es
+[00:10:30] que el mayor porcentaje se produce ya
+[00:10:33] hemos dicho que elin a nivel global el
+[00:10:36] 96% del hidrógeno generado es
+[00:10:40] prácticamente derivado de combustibles
+[00:10:42] fósiles
+[00:10:43] entre ellos el mayor porcentaje era
+[00:10:45] hidrógeno gris y la idea es ver cómo en
+[00:10:48] estos próximos años se hace esa
+[00:10:51] transición del hidrógeno gris al
+[00:10:53] hidrógeno ver de acuerdo a las
+[00:10:55] convenciones de cambio climático se
+[00:10:58] espera que para el 2050 haya una
+[00:11:02] drástica reducción de lo que son las
+[00:11:05] emisiones de gases de invernadero se
+[00:11:08] utiliza generalmente el lema de
+[00:11:10] emisiones cero así como de manera de
+[00:11:13] utilizar combustibles limpios por eso se
+[00:11:16] espera que para el 2050 el hidrógeno ya
+[00:11:19] esté prácticamente gobernando lo que es
+[00:11:25] en la matriz energética
+[00:11:27] después vamos a ver el nicho de mercado
+[00:11:30] que tiene esto de utilizo de la
+[00:11:33] utilización de hidrógeno y las
+[00:11:34] oportunidades que conlleva
+[00:11:39] vamos a empezar con lo que son los
+[00:11:40] costos de producción los datos que
+[00:11:42] conseguís son todos datos fíjense que
+[00:11:45] hasta azules de gestos de y mentira esa
+[00:11:49] es la agencia internacional de energía
+[00:11:51] son las siglas en inglés
+[00:11:53] entonces son datos de la agencia
+[00:11:55] internacional de energía del año 2000
+[00:11:57] que es lo más en lo más nuevo que
+[00:12:00] encontré lo más actual vamos a ver
+[00:12:03] primero el tema del hidrógeno gris 6 el
+[00:12:06] hidrógeno mary's cuál es su costo actual
+[00:12:08] vemos que el costo de producción del
+[00:12:12] hidrógeno gris
+[00:12:15] está entre
+[00:12:19] 09 y 18 dólares por kilo
+[00:12:25] si lo llevamos a lo que es la generación
+[00:12:27] de energía tiene que ver con un costo
+[00:12:31] entre 27 y 54 dólares mega wats ahora
+[00:12:36] obviamente vamos a estar viendo en estas
+[00:12:39] tres diapositivas que vamos a comparar
+[00:12:40] el tema costos vamos a ver que los
+[00:12:43] costos de producción de hidrógeno varían
+[00:12:45] mucho en función de la ruta obviamente
+[00:12:47] porque utilizamos equipamiento diferente
+[00:12:51] que eso va a recaer digamos en aumentar
+[00:12:54] o no un proceso u otro
+[00:12:57] al día de hoy vamos a ver que lo que
+[00:12:59] tiene que ver con nitrógeno gris es
+[00:13:02] decir este reformado de gas natural sin
+[00:13:04] la captura de dióxido de carbono
+[00:13:07] es el más económico
+[00:13:10] pero igualmente vamos a estar viendo de
+[00:13:13] qué manera se puede entrar en
+[00:13:15] competencia con este tipo de hidrógeno y
+[00:13:17] vamos a estar desarrollando entonces los
+[00:13:19] precios con los costos del hidrógeno
+[00:13:21] beige azul y verde
+[00:13:24] decíamos que el hidrógeno gris tiene
+[00:13:25] actualmente ese costo y ahora bien de
+[00:13:30] donde se calcula o de dónde viene
+[00:13:33] ese costo final bueno decimos que entre
+[00:13:36] el 45 y el 75 por ciento de los costos
+[00:13:40] provienen de la adquisición de la
+[00:13:42] materia prima por este caso el gas
+[00:13:44] natural acá vamos a tener diferencias
+[00:13:48] porque porque hay países que tienen
+[00:13:50] grandes reservas de gas natural o
+[00:13:53] grandes reservas de petróleo entonces el
+[00:13:55] costo de producción en esos en esos
+[00:13:58] países
+[00:13:59] seguramente va a rondar en un precio o
+[00:14:02] en un costo o mejor dicho menor a 1.5
+[00:14:05] dólares porque obra
+[00:14:08] países como quien rusia estados unidos
+[00:14:11] oriente medio oriente medio irán qatar
+[00:14:15] arabia saudita así que tienes muchas
+[00:14:17] reservas de gas natural y de petróleo
+[00:14:19] ahora bien hay países que deben importar
+[00:14:23] el gas porque porque no tienen
+[00:14:25] vastas reservas como puede ser todo lo
+[00:14:28] que es la unión europea china o india
+[00:14:31] entonces en ese caso estos países que
+[00:14:34] deben importar la materia prima si
+[00:14:36] quisieran producir lo van a tener
+[00:14:38] seguramente un costo de producción que
+[00:14:41] va a ser superior a 17 dólares porque
+[00:14:44] obra
+[00:14:46] e
+[00:14:48] generalmente el costo de producción del
+[00:14:51] hidrógeno gris es muy similar al del
+[00:14:54] hidrógeno marrón
+[00:14:57] y todas las variables dependen más o
+[00:14:59] menos lo mismo nada más que en el otro
+[00:15:00] caso la materia prima el carbono si
+[00:15:03] entonces también aquellos países que
+[00:15:05] tengan grandes reservas de carbono
+[00:15:07] seguramente van a ver más favorecidos
+[00:15:10] para ese proceso pero digamos a lo que
+[00:15:14] voy con el porcentaje que ocupa el costo
+[00:15:19] de adquisición de la materia prima es
+[00:15:21] muy similar ya sea con gas o con o con
+[00:15:23] carbón
+[00:15:25] bien después tenemos que los costos del
+[00:15:30] proceso también es una variable
+[00:15:31] importante
+[00:15:33] para producirlo necesitamos el costo de
+[00:15:36] la materia prima y el costo del proceso
+[00:15:37] en sí el costo del proceso en sí va a
+[00:15:41] ser la suma de los costos de inversión y
+[00:15:44] de operación en este caso el costo es
+[00:15:48] muy poco sensible a la localización de
+[00:15:50] la planta que me refiero con eso aunque
+[00:15:52] no importa si estamos en un país de
+[00:15:55] grandes reservas o no como hacíamos la
+[00:15:56] diferencia en la parte de la materia
+[00:15:59] prima en este caso la inversión digamos
+[00:16:03] va a ser la misma en cualquier parte
+[00:16:07] lo que sí hay una tercera variable y por
+[00:16:10] ahí le puedes jugar un poco en contra lo
+[00:16:12] que el hidrógeno gris que en europa hay
+[00:16:15] una tasa impositiva sobre el carbono que
+[00:16:18] sería esto le cobran o es un costo que
+[00:16:22] hay que tener en cuenta que sobre las
+[00:16:24] emisiones de gases de efecto invernadero
+[00:16:25] en este momento esa tasa o este costo de
+[00:16:30] emisión está entre los 22 y 28 dólares
+[00:16:34] por tonelada de dióxido de carbono
+[00:16:37] porque creo que hay que tenerlo en
+[00:16:38] cuenta porque vamos a ver en la próxima
+[00:16:39] diapositiva que voy a vamos a empezar a
+[00:16:42] hablar un poco de los precios a futuro
+[00:16:43] del hidrógeno y esa tasa impositiva
+[00:16:46] recuerden la porque vamos a ver que va a
+[00:16:49] tener un impacto o qué va a hacer que el
+[00:16:52] hidrógeno gris empiece a aumentar su
+[00:16:54] precio y entonces ya no va a hacerlo más
+[00:16:56] barato como es ahora
+[00:17:00] bien
+[00:17:02] vamos ahora a ver un poco cómo es el
+[00:17:04] tema de los costos en el hidrógeno azul
+[00:17:08] el hidrógeno azul recordamos que la red
+[00:17:10] es formado de gas natural pero tenía
+[00:17:12] acoplado esta unidad de secuestro de
+[00:17:15] hidrógeno el perdón de dióxido de
+[00:17:17] carbono entonces obviamente los costos
+[00:17:21] de producción van a ser mayores que los
+[00:17:23] de gris en la actualidad porque porque
+[00:17:25] el proceso aumenta su complejidad
+[00:17:27] propiamente de esta unidad de captura
+[00:17:30] almacenamiento y transporte desde opción
+[00:17:33] árbol
+[00:17:34] vemos acá miren que para convertir el
+[00:17:37] hidrógeno de gris azul es decir para
+[00:17:41] poder
+[00:17:43] transformar la planta digamos de
+[00:17:47] reformado de gas
+[00:17:49] unirle esta esta unidad de secuestro de
+[00:17:53] dióxido vamos a ver que el costo de
+[00:17:55] inversión aumenta un 50% el costo del
+[00:17:59] combustible o sea el gas natural en este
+[00:18:02] caso aumentar un 10%
+[00:18:05] y el costo a ver uno diría porque
+[00:18:07] combustible aumenta bueno porque tiene
+[00:18:09] que ver con esta unidad
+[00:18:11] recuerden que eso he explicado que a
+[00:18:13] veces hace una captura del dióxido y
+[00:18:15] para eso necesitábamos bajas y altas
+[00:18:17] temperaturas generalmente esos momentos
+[00:18:20] donde necesitamos calor o energía esa
+[00:18:22] energía se lograba con la misma quema
+[00:18:25] del gas natural o sea natural servía
+[00:18:28] para dar aquí la temperatura necesaria
+[00:18:30] para el proceso y a la vez como materia
+[00:18:32] prima entonces al necesitar un poco más
+[00:18:35] de ese combustible para para lograr
+[00:18:38] energía requerida por el proceso
+[00:18:40] obviamente va a aumentar la demanda de
+[00:18:43] este combustible y aumenta el impi costo
+[00:18:45] un 10 por ciento el costo de operación
+[00:18:48] se va a duplicar porque porque ahora
+[00:18:51] tengo esta gestión de dióxido de carbono
+[00:18:53] incluyendo todo lo que es transporte y
+[00:18:55] almacenamiento
+[00:18:59] también podemos ver que va a haber una
+[00:19:02] diferencia de acuerdo a las zonas como
+[00:19:05] habíamos estado clasificando antes
+[00:19:08] las zonas favorables me refiero
+[00:19:10] nuevamente a zonas donde las reservas de
+[00:19:14] gas natural sean importantes en ese caso
+[00:19:17] el precio va a estar alrededor de
+[00:19:20] 1,4 dólares por kilogramo y en zonas
+[00:19:24] desfavorables aquellas que no son ricas
+[00:19:27] es natural que no tienen reservas sino
+[00:19:29] más bien que tienen que importarlo como
+[00:19:30] la primera europea por ejemplo entonces
+[00:19:33] es de hidrógeno azul les va a costar
+[00:19:36] producirlo alrededor de 24 dólares por
+[00:19:40] kilo si vamos a la anterior que acá
+[00:19:44] estábamos entre 0 9 y 18 y acá sabemos
+[00:19:49] que estamos entre 14 y 2.4 en este caso
+[00:19:52] si tuvieran que competir entre el
+[00:19:55] hidrógeno gris y el azul obviamente que
+[00:19:57] el hidrógeno gris gana
+[00:19:59] más barato menos complejo el proceso
+[00:20:02] ahora bien decimos que para el 2030 el
+[00:20:05] hidrógeno azul sería competitivo con el
+[00:20:08] hidrógeno veréis por qué porque bueno
+[00:20:10] esta tasa de las emisiones que yo les
+[00:20:13] hablaba antes
+[00:20:15] y de ese costo impositivo
+[00:20:17] fíjense qué
+[00:20:19] en la actualidad la tasa impositiva
+[00:20:22] ronda los 22 28 dólares por tonelada de
+[00:20:26] dióxido de carbono mientras que con esto
+[00:20:29] de incentivar las políticas digamos de
+[00:20:33] energía verde los procesos de energía
+[00:20:37] limpia entonces
+[00:20:39] se prevé ese costo de emisión va a subir
+[00:20:42] en los próximos años hasta
+[00:20:44] 33 a 78 dólares por tonelada de dióxido
+[00:20:49] de carbono muy mucho va a subir esta
+[00:20:52] tasa de emisión por lo tanto si esto
+[00:20:55] sube el costo de producción del
+[00:20:57] hidrógeno gris podría ascender hasta los
+[00:21:00] 2 dólares por kilogramos siendo entonces
+[00:21:03] que el hidrógeno azul podría competir
+[00:21:06] digamos
+[00:21:08] a la par de lo que es el hidrógeno gris
+[00:21:15] vamos ahora el hidrógeno verde
+[00:21:18] obviamente hasta la materia prima
+[00:21:20] diferente el proceso es diferente
+[00:21:25] y vamos a ver entonces cómo pueden
+[00:21:27] llegar a variar los post
+[00:21:30] qué sucede acá hay algunas tecnologías
+[00:21:33] utilizadas digamos
+[00:21:35] como les decía antes todas las
+[00:21:37] tecnologías nuevas no están
+[00:21:39] implementadas a nivel industrial por eso
+[00:21:41] es difícil por ahí calcular los costos y
+[00:21:45] por eso se calcula
+[00:21:46] el costo de la electrólisis y de este
+[00:21:50] proceso electrolítico que ya está
+[00:21:53] instalado si bien no es el que más
+[00:21:55] utiliza pero ya es una tecnología que
+[00:21:57] está desarrollada y permite poder hacer
+[00:22:02] los cálculos
+[00:22:04] en este caso el hidrógeno verde
+[00:22:06] actualmente bueno a datos del 2019 el
+[00:22:11] costo de producción es mayor a 6 dólares
+[00:22:15] por kilogramo fíjense que es casi tres
+[00:22:18] veces más o un poquito más
+[00:22:21] o seis o sea de tres a seis veces más de
+[00:22:24] lo que sale el hidrógeno gris
+[00:22:27] esto equivale a 180 dólares cada
+[00:22:31] megawatt hora
+[00:22:33] actualmente es muy caro y obviamente que
+[00:22:36] es resulta
+[00:22:38] con muchas desventajas en cuanto a lo
+[00:22:41] económico al lado del hidrógeno gris y
+[00:22:44] en el caso de que uno quisiera tratar de
+[00:22:47] fabricar o generar este hidrógeno limpio
+[00:22:49] en este momento conviene más el
+[00:22:52] hidrógeno azul sí que el hidrógeno verde
+[00:22:55] que está bastante elevado los costos
+[00:23:00] como es el tema de la suma de los costos
+[00:23:04] del hidrógeno verde bueno en este caso
+[00:23:06] en los costos de producción por
+[00:23:08] electrólisis se deben a la alta
+[00:23:11] inversión inicial sí que tiene que ver
+[00:23:14] con los electrolizadores y de elevado
+[00:23:17] consumo eléctrico que se utiliza para la
+[00:23:19] operación en la actualidad el costo de
+[00:23:23] los electrolizadores es aproximadamente
+[00:23:26] 1300 dólares por kilo watt
+[00:23:29] se dice que a largo plazo de acá a 10
+[00:23:32] años seguramente
+[00:23:33] van a reducir este precio porque porque
+[00:23:38] bueno se dice que hay digamos un amplio
+[00:23:41] consenso en todo lo que tiene que ver
+[00:23:43] los costos de inversión para este tipo
+[00:23:45] de energía hay cuatro factores que van a
+[00:23:48] permitir
+[00:23:50] que este precio disminuya uno va a ser
+[00:23:52] las mejores tecnológicas porque porque
+[00:23:54] los materiales van a ser menos costosos
+[00:23:56] las tecnologías de acuerdo al avance de
+[00:23:59] la investigación va a ser más eficiente
+[00:24:02] el aprendizaje tecnológico porque se van
+[00:24:05] a reducir los costos a partir de este
+[00:24:08] aumento en la experiencia las economías
+[00:24:11] de escala
+[00:24:12] porque se van a reducir los costos
+[00:24:14] asociados a una producción en masa
+[00:24:16] porque se va a necesitar producir más
+[00:24:18] electrolizadores porque se va a tratar
+[00:24:19] de incentivar este tipo de producción y
+[00:24:23] a una mayor competencia obviamente
+[00:24:25] porque va a haber más empresas que
+[00:24:26] quieran comercializar esta tecnología
+[00:24:29] entonces de acuerdo a estos cuatro
+[00:24:31] puntos se estima que estos costos de
+[00:24:33] inversión se van a reducir entre un 60 y
+[00:24:37] un 80 por ciento a largo plazo llegando
+[00:24:39] a bajar los costos de los
+[00:24:41] electrolizadores a menos de 500 dólares
+[00:24:44] por kilo watt
+[00:24:47] si hablamos del costo de la electricidad
+[00:24:49] bueno obviamente varía mucho entre
+[00:24:52] países entonces no se puede ser un dato
+[00:24:56] certero y es más hay muchos países que
+[00:24:59] también tienen costos diferenciados y
+[00:25:03] costos diferenciados de acuerdo al día
+[00:25:05] oa la noche de acuerdo a cierta época
+[00:25:07] del año pero bueno vemos que la
+[00:25:10] combinación de menores costos de
+[00:25:12] inversión con esta caída abrupta que van
+[00:25:15] a sufrir los electrolizadores que se
+[00:25:16] prevee y en vez de utilizar electricidad
+[00:25:20] de origen fósil sino que se podría
+[00:25:23] utilizar energía
+[00:25:25] renovable entonces podríamos estimar que
+[00:25:29] los puestos de producción del hidrógeno
+[00:25:31] verde hacia el año 2030 no queda mucho 8
+[00:25:34] años podría alcanzar este precio miren
+[00:25:38] 14 dólares por kilogramo fíjense lo que
+[00:25:42] estábamos viendo al principio que eran
+[00:25:44] seis dólares pasaría a 1,4
+[00:25:47] la reducción sería tan drástica que
+[00:25:50] haría que el hidrógenos verde podría
+[00:25:53] llegar a ser el
+[00:25:55] combustible más económico es que
+[00:25:58] inclusive el hidrógeno azul entre el año
+[00:26:01] 2025 y 2035 así que decimos con esto qué
+[00:26:09] a corto plazo podríamos decir que el
+[00:26:11] hidrógeno azul se podría podría ser más
+[00:26:13] competitivo con este hidrógeno gris que
+[00:26:16] prevalece en la actualidad
+[00:26:18] pero a largo plazo fíjense que cuando
+[00:26:22] hablamos de largo plazo no me refiero a
+[00:26:24] 50 años sino a 10-15 años más tal vez
+[00:26:28] entonces el hidrógeno verde podría
+[00:26:31] resultar como el más económico
+[00:26:33] posicionándose ahí
+[00:26:35] como un combustible muy competitivo
+[00:26:41] le puse un
+[00:26:44] un gráfico está en inglés pero la idea
+[00:26:49] era un poco mientras tanto en detalles y
+[00:26:52] no ver vieron que yo les hablaba mucho
+[00:26:53] de las zonas hay zonas que
+[00:26:58] conviene más cierto tipo de producción
+[00:27:00] tipo de hidrógeno gris o conviene más el
+[00:27:03] hidrógeno azul conviene más el idea de
+[00:27:05] que depende esas zonas buenas depende de
+[00:27:08] a ver si quiero producir hidrógeno gris
+[00:27:10] seguramente va a depender de que yo
+[00:27:13] tenga buenas reservas de gas natural
+[00:27:16] como se está incentivando que el
+[00:27:18] hidrógeno derivado del origen de los
+[00:27:21] fósiles o de los combustibles fósiles
+[00:27:23] vaya quedando a un lado y se promueva
+[00:27:26] está esta producción de hidrógeno bajo
+[00:27:30] en carbono es decir el azul o el verde
+[00:27:32] entonces
+[00:27:34] va a depender digamos de la zona si nos
+[00:27:38] referimos al tema del hidrógeno verde
+[00:27:41] tendríamos que ver aquellas zonas que
+[00:27:44] tengan buenos recursos renovables es
+[00:27:47] decir que se pueden instalar parques
+[00:27:48] eólicos y parques solares porque puedan
+[00:27:51] gozar de buenas características de estas
+[00:27:54] energías si nos encontráramos en una
+[00:27:56] zona donde no se pudiera aprovechar ni
+[00:27:59] la energía eólica y la energía solar y
+[00:28:01] bueno sería un poco difícil
+[00:28:02] producir el el hidrógeno verde si
+[00:28:06] entonces vamos a ver un poco acá las
+[00:28:08] zonas vemos acá que por ejemplo
+[00:28:13] lo que es eeuu
+[00:28:15] fíjense que dice que tiene condiciones
+[00:28:18] favorables de lo que es
+[00:28:20] fotovoltaica y vientos
+[00:28:24] está pintado de un color celeste claro
+[00:28:26] si nos vamos para casa difícil esté
+[00:28:28] claro dice como que tiene fuentes bajas
+[00:28:31] en carbono promedio si promedio no es de
+[00:28:35] lo mejor que lo tiene quienes tienen
+[00:28:37] buena una buena cantidad porque porque
+[00:28:39] tiene estas fuentes digamos renovables
+[00:28:42] pero también es uno de los países que
+[00:28:44] tiene buenas reservas de gas entonces se
+[00:28:47] podría digamos promover la formación o
+[00:28:51] la generación de hidrógeno azul
+[00:28:53] después si vemos con lo que es la unión
+[00:28:56] europea si toda la parte de europa
+[00:28:59] fijemos lo que estaba pintado en verde
+[00:29:02] claro dice que podría tener algún
+[00:29:04] recurso renovable
+[00:29:06] promedio pero si lo vemos todo lo que la
+[00:29:09] unión europea vendría a ser una
+[00:29:11] localización que en alta demanda alta
+[00:29:13] demanda en todo esto del hidrógeno verde
+[00:29:17] el tema hasta qué
+[00:29:19] y sus energías renovables por ahí serían
+[00:29:22] un poco difíciles de poder aprovecharlas
+[00:29:24] por un tema de limitación de espacio y
+[00:29:26] disponibilidades entonces este se podría
+[00:29:30] llegar a ver con un potencial
+[00:29:33] digamos comprador de lo que es el
+[00:29:36] hidrógeno verde
+[00:29:39] es más ya vamos a ver más adelante que
+[00:29:41] muchos países de europa están
+[00:29:44] financiando proyectos de hidrógeno
+[00:29:47] verdes algunos tratan de promover los de
+[00:29:50] sus propios territorios pero varios
+[00:29:52] vamos a ver que no es en su territorio
+[00:29:54] es en otros países donde si se puedan
+[00:29:56] aprovechar al máximo estas energías
+[00:29:59] renovadas
+[00:30:01] después vemos por acá por ejemplo japón
+[00:30:03] y korea tienen estrategias para el
+[00:30:07] escalado de consumo de hidrógeno es
+[00:30:09] decir que aumente esta escala pero que
+[00:30:12] tiene el espacio y las fuentes que tiene
+[00:30:16] digamos están restringidas o sea debería
+[00:30:20] importar hidrógeno otro de los posibles
+[00:30:23] digamos grandes compradores
+[00:30:27] después vemos que china china tiene
+[00:30:29] mucha inversión se está haciendo en todo
+[00:30:32] lo que es la economía del hidrógeno y es
+[00:30:36] como que está tratando de avanzar lo más
+[00:30:38] que pueda para hacer autosuficiente en
+[00:30:40] todo lo que es el hidrógeno
+[00:30:43] vemos acá
+[00:30:45] esto es como oriente medio y oriente
+[00:30:48] medio tiene también un alto potencial
+[00:30:49] híbrido a qué me refiero híbrido porque
+[00:30:51] tiene las dos cosas esto de la energía
+[00:30:53] solar y de energía
+[00:30:56] chile por ejemplo en lo que es
+[00:30:58] latinoamérica es una de las zonas en más
+[00:31:02] favorables
+[00:31:03] que tiene para estas condiciones de la
+[00:31:06] energía solar y energía arónica si bien
+[00:31:08] argentina también es una zona fíjense
+[00:31:11] que está pintado de verde claro o sea
+[00:31:12] tenemos recursos renovables promedio
+[00:31:14] digamos
+[00:31:16] ya vamos a ver que hay algunos proyectos
+[00:31:18] que se están desarrollando o se van a
+[00:31:20] empezar a desarrollar acá pero vamos a
+[00:31:23] estar viendo que lo que es latinoamérica
+[00:31:25] chile es como que está liderando un poco
+[00:31:28] esto de
+[00:31:30] y la producción de hidrógeno verde
+[00:31:33] y me falta por este lado australia y
+[00:31:36] también ya lo vamos a ver más adelante
+[00:31:38] como uno de los líderes en todo lo que
+[00:31:39] es el financiamiento y los proyectos
+[00:31:42] para la producción de hidrógeno verde
+[00:31:44] tiene potencial para una escala alta una
+[00:31:50] mayor escala de lo que es todo lo que
+[00:31:53] tiene que ver con energía solar lo que
+[00:31:55] obviamente iría de la mano para poder
+[00:31:58] acoplarlo un proceso de electrólisis de
+[00:32:01] generación de hidrógeno
+[00:32:05] para que les puse otro gráfico también
+[00:32:07] del mapa global
+[00:32:10] qué tiene que ver con los costos miremos
+[00:32:12] un poco que de acuerdo al color vieron
+[00:32:14] que yo les hablaba de las diferentes
+[00:32:16] zonas
+[00:32:17] esas zonas tienen que ver con las
+[00:32:19] reservas hacia las reservas derivadas
+[00:32:21] del petróleo o reservas naturales de
+[00:32:23] estos recursos más bien naturales para
+[00:32:27] poder aprovechar entonces si hablamos
+[00:32:30] del hidrógeno verde
+[00:32:32] y vemos qué
+[00:32:35] fíjense esta zona que es como si fuera
+[00:32:37] el norte de chile
+[00:32:40] esta parte donde está china si un poco
+[00:32:44] ahí de india podríamos decir que un poco
+[00:32:47] al norte de lo que es áfrica si a esta
+[00:32:51] parte de oriente medio tienen un color
+[00:32:54] bien fuerte si un rojo fuerte naranja
+[00:32:57] fuerte que es lo que significa que el
+[00:33:00] precio débil del hidrógeno verde en esas
+[00:33:04] zonas podría localizarse acá entre este
+[00:33:06] valor entre 16 hasta 2 dólares por
+[00:33:11] kilogramos de hidrógeno
+[00:33:16] y otras zonas fíjense un una donde haya
+[00:33:19] un naranja y tomás claro tipo amarillito
+[00:33:22] sí como podría ser acá en eeuu parte de
+[00:33:26] brasil en argentina también está
+[00:33:28] bastante naranja
+[00:33:30] pero en esa parte más clarita podría
+[00:33:32] rondar un precio entre 2,5 y 3 dólares
+[00:33:35] por kilogramo de hidrógeno y ya en las
+[00:33:38] zonas azules
+[00:33:39] vemos que hay un poco más difícil de
+[00:33:43] poder aprovechar los recursos eólicos o
+[00:33:46] solares porque tal vez no gozan de buena
+[00:33:49] irradiación solar o no lo gozan de los
+[00:33:53] vientos potenciales para este tipo de
+[00:33:56] fuente renovable entonces ahí obviamente
+[00:33:59] si se quisiera el precio que voy si se
+[00:34:02] quisiera producir supongan en rusia el
+[00:34:05] hidrógeno y bueno lo más probable es que
+[00:34:07] salga mucho más caro si es que alrededor
+[00:34:09] de cuatro dólares por kilogramo
+[00:34:12] este es el costo
+[00:34:13] que saldría producir el hidrógeno verde
+[00:34:17] en esas zonas
+[00:34:18] obviamente cuáles son las zonas
+[00:34:19] potenciales por poseer buenos recursos
+[00:34:22] esa que les nombraba lo que es china
+[00:34:25] oriente medio si vemos acá australia
+[00:34:28] norte de áfrica y esta parte de chile y
+[00:34:32] parte de argentina también
+[00:34:34] bueno acá hay una parte también de eeuu
+[00:34:37] y méxico también se lo ve que tiene una
+[00:34:41] zona bastante favorable
+[00:34:45] bien
+[00:34:48] seguimos ahora y vamos a ver ahora el
+[00:34:51] tema de la transición energética en la
+[00:34:53] industria del hidrógeno si el tema de
+[00:34:57] cómo se podría pasar de este hidrógeno
+[00:35:00] gris al hidrógeno verde obvio mucho
+[00:35:03] tiene que ver esto de los costos que
+[00:35:05] hablamos especial el tema de los costos
+[00:35:07] es fundamental para que esa transición
+[00:35:09] se pueda realizar
+[00:35:12] decimos que actualmente la producción
+[00:35:13] mundial de hidrógeno bajo en carbono es
+[00:35:16] mínima si todo lo que vimos era derivado
+[00:35:19] de combustibles fósiles
+[00:35:20] el costo de este hidrógeno bajo en
+[00:35:22] carbono aún no es competitivo
+[00:35:26] y no tiene un uso muy prometedor ahora
+[00:35:30] sí o sea el uso lo que es los
+[00:35:33] transportes muy limitados se acuerdan
+[00:35:36] que habíamos visto que era un mínimo
+[00:35:37] porcentaje que se usaba en la industria
+[00:35:40] aerospacial como energía pero muy
+[00:35:44] se dice que dependiendo de los precios
+[00:35:47] del gas natural de la electricidad
+[00:35:48] renovable producir hidrógeno a partir de
+[00:35:51] energías renovables podría costar como
+[00:35:54] les dije antes entre 2 y 6 veces más
+[00:35:56] caro
+[00:35:58] que producirlo a partir de gas natural
+[00:36:00] sin captura es decir ese hidrógeno gris
+[00:36:07] qué es lo que lo que nos interesa a
+[00:36:09] nosotros
+[00:36:10] ahora a mediano plazo el hidrógeno azul
+[00:36:14] se podría decir que podría llegar a
+[00:36:17] hacer este gran impulsor del crecimiento
+[00:36:19] del mercado del hidrógeno en este corto
+[00:36:22] y mediano plazo
+[00:36:25] porque porque la tecnología ya está
+[00:36:27] aprobada o sea esa tecnología del
+[00:36:29] reformado con vapor ya está disponible
+[00:36:31] es simplemente que garantizar
+[00:36:34] que se acople de la captura del
+[00:36:37] hidrógeno
+[00:36:38] perdón de la captura del dióxido de
+[00:36:41] carbono y entonces de esa manera este
+[00:36:45] hidrógeno azul va a ser competitivo y va
+[00:36:48] a ser competitivo no no solamente a
+[00:36:50] nivel económico sino también a nivel de
+[00:36:52] impacto ambiental porque va a ser mucho
+[00:36:54] más amigable con el ambiente
+[00:36:57] ahora bien lo que necesitamos es que el
+[00:37:00] mercado del hidrógeno a escala global
+[00:37:05] tenga ciertos incentivos es decir que la
+[00:37:08] política de los países acuerden
+[00:37:10] incentivos para el uso de este hidrógeno
+[00:37:12] verde ya sea a nivel local
+[00:37:16] que haya esquemas que promuevan esta
+[00:37:18] producción y el comercio internacional
+[00:37:21] también de este combustible de manera
+[00:37:24] que haya cooperación
+[00:37:26] multilateral para que haya un mercado
+[00:37:29] creciente del hidrógeno que si no hay
+[00:37:32] mercado creciente del hidrógeno verde
+[00:37:33] para que lo vamos a fabricar si a ver si
+[00:37:36] lo vamos a fabricar para reducir las
+[00:37:38] emisiones del calentamiento global y
+[00:37:40] toda la cuestión pero si los fabricamos
+[00:37:42] y no genera el rédito económico a esas
+[00:37:44] empresas oa esos países obviamente no va
+[00:37:47] a servir entonces necesitamos que se
+[00:37:50] propicie digamos el desarrollo de esta
+[00:37:53] tecnología de producción de hidrógeno
+[00:37:54] verde que se pueda contribuir a la baja
+[00:37:57] de costos que puedan permitir esta
+[00:37:59] transición suave entre el hidrógeno azul
+[00:38:02] y el verde sí y obviamente se puedan
+[00:38:05] cumplir efectivamente estas metas de
+[00:38:07] mitigación
+[00:38:09] la contaminación ambiental
+[00:38:12] los costos de energía
+[00:38:15] dijimos que representan hasta el 70% del
+[00:38:20] precio de vidro gente bien o sea que los
+[00:38:23] países que tengan el mejor acceso a
+[00:38:25] estas fuentes de energía son obviamente
+[00:38:28] los mejores posicionados para promover
+[00:38:31] el crecimiento de la oferta obviamente
+[00:38:34] con precios más competitivos esto
+[00:38:36] resulta de estos gráficos que les mostré
+[00:38:38] recién de estos mapas globales de que
+[00:38:40] obviamente hay países que se encuentran
+[00:38:42] mejor posicionados
+[00:38:44] eso no quiere decir por ejemplo hay
+[00:38:47] países que no tienen recursos naturales
+[00:38:49] y no significa que tiene que quedar
+[00:38:51] sentados esperando que alguien les venda
+[00:38:53] el hidrógeno esos países vamos a ver más
+[00:38:56] adelante son muchos de los que están
+[00:38:59] invirtiendo y financiando en otras zonas
+[00:39:02] favorables proyectos para producción
+[00:39:04] directos
+[00:39:06] viernes acá yo les puse como bueno un
+[00:39:10] gráfico como para que nos quede ahí de
+[00:39:12] ayuda memoria entonces cómo era este
+[00:39:15] hidrógeno gris el azul y el verde como
+[00:39:17] silvia haciendo la transición
+[00:39:19] hacia procesos más limpios
+[00:39:22] combustibles más limpios
+[00:39:29] ahora bien
+[00:39:30] por esto vamos a suponer que
+[00:39:33] que se incentiva esta producción de
+[00:39:36] hidrógeno se propician los desarrollos
+[00:39:38] tecnológicos
+[00:39:39] bajan los costos y el uso del hidrógeno
+[00:39:44] verde crece entonces vamos a ver qué se
+[00:39:48] va a ser competitivo y va a tener
+[00:39:50] ciertos usos potenciales porque en la
+[00:39:52] actualidad el hidrógeno solo se utiliza
+[00:39:53] mayoritariamente para lo que es la
+[00:39:55] industria química y la petroquímica
+[00:39:57] la idea es utilizado con un vector
+[00:39:59] energético y que se pueda utilizar
+[00:40:02] digamos como combustible también para
+[00:40:05] uso residencial sí y obviamente
+[00:40:08] continuar con su uso en la industria
+[00:40:10] entonces cuáles son los usos potenciales
+[00:40:15] que tiene el hidrógeno bueno abarcan
+[00:40:17] desde la industria si la movilidad la
+[00:40:20] producción de compuestos químicos la
+[00:40:23] generación de calor
+[00:40:25] etcétera
+[00:40:27] y esos son los que se deberían apuntar
+[00:40:30] como un nuevo nicho de mercado para este
+[00:40:32] nuevo hidrógeno ahora bien
+[00:40:37] que podemos decir que todo lo que tiene
+[00:40:40] que ver con estas estas aplicaciones de
+[00:40:43] la industria la movilidad en la
+[00:40:45] actualidad se utilizan combustibles
+[00:40:48] derivados de digamos del petróleo
+[00:40:52] y representan más del 60 por ciento de
+[00:40:54] las emisiones de gases de efecto
+[00:40:56] invernadero en la actualidad obviamente
+[00:40:59] que el hidrógeno va a ser muy favorable
+[00:41:02] con respecto al uso de esas otras
+[00:41:05] fuentes de energía en todo esto que es
+[00:41:08] el camino la descarbonización por lo
+[00:41:10] tanto si se promueve el uso del
+[00:41:12] hidrógeno esos justos potenciales
+[00:41:14] seguramente se van a cubrir con este
+[00:41:16] nuevo combustible ver
+[00:41:19] ahora bien hay aplicaciones donde ya se
+[00:41:22] usa el hidrógeno sí o sea que en ese
+[00:41:25] caso no se espera que haya otro
+[00:41:26] competidor más adecuado simplemente lo
+[00:41:29] que hay que hacer es apurarse y tratar
+[00:41:32] de emular esa generación
+[00:41:36] de ruta contaminante hacia rutas baja en
+[00:41:39] carbono a qué me refiero por ejemplo
+[00:41:42] el hidrógeno es la materia prima o el
+[00:41:46] mayor destino está en la producción de
+[00:41:48] amoniaco bueno ahí no va a haber otro
+[00:41:52] otro componente que pueda desplazar va a
+[00:41:54] ser el hidrógeno esa materia prima
+[00:41:57] importante lo que se trata acá es de
+[00:41:59] decir en vez de generarse mediante el
+[00:42:02] proceso de reformado tratemos de mudar
+[00:42:04] ese proceso hacia el hidrógeno verde y
+[00:42:07] ese hidrógeno que sirva como la materia
+[00:42:09] prima para ese tipo de industria química
+[00:42:14] ahora bien
+[00:42:16] podemos decir también que va a resultar
+[00:42:19] competitivo o menos competitivo en
+[00:42:22] ciertas aplicaciones
+[00:42:24] en que me refiero en esto por ejemplo
+[00:42:27] puede competir como alternativa de
+[00:42:31] descarbonización en algunas rutas o en
+[00:42:33] algunas aplicaciones como son la
+[00:42:35] producción del metanol la producción de
+[00:42:38] fertilizante mezclas de la red de gas
+[00:42:41] natural para transporte ferroviario
+[00:42:43] transporte terrestre de grandes
+[00:42:46] distancias transporte pesado de
+[00:42:48] mercancías para colectivos regionales
+[00:42:51] demanda de calor no electrifica blé todo
+[00:42:55] eso que ahora se está usando derivados
+[00:42:58] de petróleo ya sea para la producción de
+[00:43:01] hidrógeno o para la combustión
+[00:43:04] en esas aplicaciones de hidrógeno verde
+[00:43:07] va a resultar más competitivo o sea que
+[00:43:09] ahí habría un nicho de mercado donde se
+[00:43:11] podría vender este nuevo producto
+[00:43:15] pero también hay que ver que
+[00:43:16] considerando el costo actual que tienen
+[00:43:20] las emisiones de dióxido de carbono
+[00:43:22] va a haber aplicaciones donde el
+[00:43:24] hidrógeno va a costarle un poco más
+[00:43:26] penetrar en el mercado y por lo tanto va
+[00:43:28] a ser un poco menos competitivo como ser
+[00:43:31] en calderas turbinas materia prima
+[00:43:33] industrial o combustible de aviación
+[00:43:36] esto nos referimos en la actualidad si
+[00:43:39] en la actualidad hablamos del estos
+[00:43:41] cursos potenciales hablamos de esta
+[00:43:43] competitividad obviamente si de acá 20
+[00:43:46] años
+[00:43:48] el costo disminuye y el tema de las
+[00:43:50] emisiones de carbono de esa tasa
+[00:43:53] impositiva de la que hablábamos al
+[00:43:55] principio
+[00:43:55] aumenta obviamente estas actividades
+[00:43:59] vueltas aplicaciones donde el hidrógeno
+[00:44:01] ahora es menos competitivo podría ganar
+[00:44:03] tanto y llegar a también hacer un nicho
+[00:44:06] de mercado para su utilización
+[00:44:13] con todo este crecimiento que suponemos
+[00:44:15] que va a haber de acá a 10 15 años en el
+[00:44:18] tema producción de hidrógeno verde
+[00:44:20] entonces vamos a tener oportunidades de
+[00:44:23] mercado a qué me refiero con esto en el
+[00:44:26] futuro digamos tanto la generación como
+[00:44:29] el transporte y las aplicaciones del
+[00:44:31] hidrógeno van a cambiar
+[00:44:32] significativamente
+[00:44:33] es decir la cadena de valor del
+[00:44:36] hidrógeno va a requerir nuevas
+[00:44:38] tecnologías nuevos sectores
+[00:44:40] manufactureros como que los solventes
+[00:44:43] para la captura de carbono en el caso de
+[00:44:45] se fabrique hidrógeno azul membranas de
+[00:44:47] celdas de combustible para electrólisis
+[00:44:50] tanques de almacenamiento para este
+[00:44:53] hidrógeno producido
+[00:44:54] materiales de tuberías quemadores
+[00:44:58] estas son todas oportunidades donde el
+[00:45:00] mercado va a crecer porque se va a
+[00:45:02] necesitar estos componentes en mayor
+[00:45:04] cantidad que lo estamos comercializando
+[00:45:06] en este momento m
+[00:45:09] ahora bien a medida que aumenta esa
+[00:45:12] demanda de hidrógeno en todos los
+[00:45:13] sectores de la economía habrá una
+[00:45:15] necesidad creciente de que de personal
+[00:45:18] si ese personal seguramente vamos a
+[00:45:21] necesitar personal capacitado
+[00:45:22] experimentado como pueden ser algún
+[00:45:24] técnico de mantenimiento calificado
+[00:45:27] ingenieros instaladores fabricadores
+[00:45:31] capacitadores todo esto tiene que ver
+[00:45:34] con el aumento de la demanda del
+[00:45:37] hidrógeno se prevé hay un estudio que
+[00:45:40] dice que en eeuu se prevé la creación de
+[00:45:44] un millón de nuevos empleos para el 2030
+[00:45:48] que va a estar asociado con todo este
+[00:45:52] tema de la producción de hidrógeno
+[00:45:54] se dice que los beneficios laborales
+[00:45:57] van a tener asociado tres empleos
+[00:46:00] indirectos por cada directo si a qué me
+[00:46:05] refiero con esto
+[00:46:06] directo decimos el que está asociado ahí
+[00:46:09] directamente a la propia producción del
+[00:46:12] hidrógeno verde sí pero ese empleo va a
+[00:46:15] generar tres más que la mayor parte va a
+[00:46:17] destinarse lo que es la generación de
+[00:46:19] energías renovables es decir la gente
+[00:46:21] que se trabajando en el parque eólico o
+[00:46:22] en el parque es solar o si fuera una
+[00:46:27] represa hidroeléctrica o algún otro tipo
+[00:46:29] de energía de red
+[00:46:31] renovables que se utilizan
+[00:46:33] también
+[00:46:35] esos puestos de trabajo que se va a
+[00:46:37] necesitar va a tener que ver también con
+[00:46:39] lo que es la ingeniería y las
+[00:46:40] construcciones de equipos y equipos como
+[00:46:43] los electrónica dores las plantas en sí
+[00:46:45] y en menor medida puede tener que ver
+[00:46:48] con el requerimiento de personal para la
+[00:46:52] operación de line para saber por qué
+[00:46:53] digo en menor medida porque bueno la
+[00:46:55] tecnología de avances está tanto que por
+[00:46:58] ahí muchas operaciones ya están más
+[00:47:00] mecanizadas
+[00:47:01] pero bueno vemos que no solamente el
+[00:47:05] hidrógeno trae consigo esto de el
+[00:47:08] combustible del futuro limpio amigable
+[00:47:11] emisiones cero sino que trae también
+[00:47:13] esto de los puestos de trabajo que va
+[00:47:16] alrededor de su producción
+[00:47:21] bien vamos a pasar a la segunda parte de
+[00:47:26] la clase de hoy pero antes gastón decime
+[00:47:29] si hay alguna pregunta como para ver si
+[00:47:33] podemos resolverlo antes de pasarla al
+[00:47:35] segundo tema
+[00:47:38] hay varias consultas sí
+[00:47:42] mariano pregunto qué hacen y cómo hacen
+[00:47:46] la captura del co2 gracias bien bueno
+[00:47:49] mariano eso lo vimos la clase pasada te
+[00:47:53] la puedo explicar rápidamente que vas a
+[00:47:56] ver cuando pérez es un poco él
+[00:47:59] como se dice el power point o el archivo
+[00:48:01] que les mande el pdf ahí va a estar la
+[00:48:03] captura de hidrógeno perdón de dióxido
+[00:48:06] carbono siempre vengo con
+[00:48:08] tiene que ver con en el reformado del
+[00:48:11] gas natural hay todo un proceso de
+[00:48:13] reacción donde el gas natural se
+[00:48:15] transforma en monóxido de hidrógeno
+[00:48:17] después vuelve a reaccionar con vapor de
+[00:48:19] agua para formar dióxido imagino
+[00:48:24] ese gas rico en hidrógeno y dióxido de
+[00:48:26] carbono se manda a una etapa de
+[00:48:28] purificación donde se logra una
+[00:48:30] corriente rica de hidrógeno el 99% o
+[00:48:33] superior
+[00:48:35] pero qué pasa el el dióxido de carbono
+[00:48:37] que sacamos de esa purificación se vende
+[00:48:41] a la atmósfera
+[00:48:43] entonces lo que se hace con esta unidad
+[00:48:46] de captura es que antes de este paso de
+[00:48:49] purificación se captura el dióxido de
+[00:48:52] carbono en la actualidad se produce
+[00:48:55] utilizando a minas se hace una reacción
+[00:48:58] donde se absorbe el dióxido de carbono y
+[00:49:01] luego se desordene con un tema de es
+[00:49:04] subo temperatura baja temperaturas y de
+[00:49:07] manera que ahí puedo capturar y dióxido
+[00:49:10] de carbono y ese dióxido de carbono
+[00:49:12] después se debe almacenar en algún lugar
+[00:49:15] durante un período de 100 años porque
+[00:49:18] porque si yo lo captura pero por el
+[00:49:20] divino lo único que hice fue purificar
+[00:49:23] la corriente de hidrógeno que no cumplía
+[00:49:25] ese objetivo
+[00:49:28] de la reducción de las emisiones de
+[00:49:30] efecto invernadero entonces lo que se
+[00:49:32] hace es lo captura lo ideal sería que
+[00:49:35] tenga un mercado para ese dióxido de
+[00:49:37] carbono por ahí puede haber un mercado
+[00:49:38] que ya vamos a ver ahora cuando veamos
+[00:49:41] los emprendimientos hay empresas que lo
+[00:49:43] utilizan para venderlo o para utilizarlo
+[00:49:46] en otro proceso si tuviéramos eso es
+[00:49:48] literal porque entonces le damos un uso
+[00:49:51] y tal vez una ganancia económica ahora
+[00:49:53] si no se puede destinar para otro uso
+[00:49:55] entonces se debe almacenar generalmente
+[00:49:58] en pozos geológicos
+[00:50:01] durante 100 años de esa manera se
+[00:50:03] estaría digamos minimizando lo que son
+[00:50:06] las emisiones de dióxido de carbono yo
+[00:50:09] no se los explico de manera tan profunda
+[00:50:12] al el proceso en sí porque bueno esto no
+[00:50:16] es una diplomatura de producción de
+[00:50:19] hidrógeno sino que es digamos tener un
+[00:50:21] panorama
+[00:50:23] igualmente ahí está descripto en el pdf
+[00:50:25] que les descargado
+[00:50:27] bien como es la reacción a qué
+[00:50:29] temperatura sí
+[00:50:35] [Música]
+[00:50:38] y alguna otra consulta razón
+[00:50:42] prof stick
+[00:50:45] después otra dice es factible esa bajada
+[00:50:48] del costo del hidrógeno verde en tan
+[00:50:50] sólo 8 años
+[00:50:51] bueno en realidad
+[00:50:54] este es dato que yo lo saqué lo saqué
+[00:50:56] todo lo que es la agencia internacional
+[00:50:58] de energía después lo saqué de otro que
+[00:51:01] es la agencia internacional de energías
+[00:51:03] renovables y después de algunas
+[00:51:05] papers que son trabajos científicos y
+[00:51:08] que tiene que ver con todo esto de los
+[00:51:11] aspectos económicos del hidrógeno en
+[00:51:13] realidad
+[00:51:15] se prevé esta baja de costos para el
+[00:51:18] 2030 pero no quiere que baje del todo
+[00:51:21] para el 2020 sino que a partir del 2030
+[00:51:23] se empiece con esta reducción de costos
+[00:51:26] sí y como que más o menos para el 2035
+[00:51:29] ya se podría decir que es un combustible
+[00:51:32] digamos competitivo o barato es como que
+[00:51:36] desde el 2030 el que estaría ahí
+[00:51:39] posicionándose como como el más
+[00:51:42] competitivo sería el hidrógeno azul
+[00:51:45] y ocho años ya van a ver la frase que
+[00:51:48] les puse de conclusión pero me parece
+[00:51:51] que se viene un cambio importante vieron
+[00:51:54] como a ver como no sé la edad de la
+[00:51:57] gente que está conectada pero en el caso
+[00:51:59] mío pasó de que yo vine a estudiar a
+[00:52:02] córdoba no tenías no había celular
+[00:52:05] entonces para comunicarme con mi familia
+[00:52:07] teníamos que ir a una a ver no hace 100
+[00:52:10] años que viven y después del año 2000
+[00:52:12] bien pero había que ir a una vida sana y
+[00:52:17] sale el nombre al locutorio que se
+[00:52:19] llamaba muy joven y sabe
+[00:52:23] a una telefonía para llamar por teléfono
+[00:52:25] y pasaron dos o tres años y ya andábamos
+[00:52:28] todos con celular y de repente dos o
+[00:52:31] tres años y los celulares ahora cuanto
+[00:52:34] 510 años pasaron y tenemos celulares
+[00:52:37] digamos que es prácticamente una
+[00:52:38] computadora en el celular no el celular
+[00:52:41] el primero que teníamos que teníamos que
+[00:52:44] andar tratando de ahorrar el mensaje de
+[00:52:46] texto sí porque escribía solo algunas
+[00:52:49] palabras el cambio fue muy grande en ese
+[00:52:51] aspecto
+[00:52:52] por ejemplo bueno parece que con todo
+[00:52:55] esto del hidrógeno verde y las energías
+[00:52:57] que no va a recibir un cambio del estilo
+[00:52:59] que ahora estamos hablando de la
+[00:53:01] transición y capaz dentro de 10 15 años
+[00:53:05] ya estemos totalmente en otro tipo de
+[00:53:09] de uso sí de lo que tiene que ver con la
+[00:53:12] matriz energética valora
+[00:53:17] sí
+[00:53:19] qué pasa con el agua cuando se capture
+[00:53:22] el hidrógeno creo que es seria
+[00:53:29] no entiendo la pregunta
+[00:53:32] en el proceso de reforma 2 era lo que se
+[00:53:36] captura por las dudas que no siempre me
+[00:53:39] haya quitado bien lo que se captura es
+[00:53:40] el dióxido de carbono en todo ese
+[00:53:43] proceso se usa vapor de agua el vapor de
+[00:53:45] agua obviamente forma parte de la
+[00:53:48] reacción entonces si queda algo de vapor
+[00:53:50] de agua que no reaccionó se vertía no
+[00:53:52] hay problema
+[00:53:55] y dióxido de carbono es el que se
+[00:53:57] captura y el hidrógeno después sale con
+[00:54:00] una corriente limpia todo esto en el
+[00:54:02] proceso del hidrógeno gris
+[00:54:06] acá hay otra profe que dice
+[00:54:09] hay plantas de hidrógeno azul de cuántos
+[00:54:13] metros
+[00:54:15] en cúbicos son los almacenamientos
+[00:54:17] subterráneos de co2 100 años se utilizan
+[00:54:22] para almacenar el co2
+[00:54:25] bien las plantas vamos a ver ahora
+[00:54:27] fíjense que en esta
+[00:54:29] segunda parte de la clase de hoy vamos a
+[00:54:32] ver lo que son los tipos de
+[00:54:33] emprendimiento vamos a ver algunas
+[00:54:34] plantas de hidrógeno azul que hay
+[00:54:36] obviamente vamos a dedicarle más tiempo
+[00:54:39] todos los proyectos de hidrógeno verde y
+[00:54:41] los puestos asociados que hay por esto
+[00:54:43] y ahí vamos a ver las plantas
+[00:54:46] pues la capacidad que tiene para que lo
+[00:54:48] utilizan y el tema de el dióxido de
+[00:54:51] carbono que se almacena si no se va a
+[00:54:54] utilizar de manera comercial se tiene
+[00:54:56] que almacenar 100 años de dónde saqué
+[00:54:58] datos de 100 años bueno en realidad es
+[00:55:00] se han hecho estudios de impacto
+[00:55:03] ambiental y se dice que
+[00:55:05] almacenándolo durante 100 años se
+[00:55:08] disminuiría todo este impacto ambiental
+[00:55:10] de la emisión
+[00:55:13] no hay problema con el tema de
+[00:55:16] del almacenamiento o sea en depósitos
+[00:55:19] geológicos
+[00:55:21] porque son depósitos que ya existen si
+[00:55:24] se puede inyectar tranquilamente y no
+[00:55:26] hay problema no habría problema con el
+[00:55:30] tema de esto de la captura y el
+[00:55:32] almacenamiento de algo ya está
+[00:55:34] desarrollado nada más que en este
+[00:55:37] momento no sé a ver no se estaba
+[00:55:39] propiciando esta producción de hidrógeno
+[00:55:42] azul porque obviamente es más cara
+[00:55:43] unidad agregar esa unidad de captura era
+[00:55:46] más cara y entonces las empresas
+[00:55:47] obviamente que siempre
+[00:55:50] al fabricó lo que más me conviene
+[00:55:51] pero toda la tecnología de lo que es el
+[00:55:54] hidrógeno azul ya está desarrollada y la
+[00:55:55] está disponibles por eso lo que se trata
+[00:55:57] un poco es de que sea más competitivo y
+[00:56:00] la única manera que sea más competitivo
+[00:56:02] con el gris es aumentar esa tasa
+[00:56:04] impositiva de las emisiones de manera
+[00:56:07] que el gris se haga más caro y se pueda
+[00:56:10] amortizar este costo de inversión que va
+[00:56:13] a vender con el hidrógeno hasta azul por
+[00:56:15] por el equipamiento adicional y por todo
+[00:56:17] esto del almacenamiento del dióxido de
+[00:56:19] manera que se equipare el precio y
+[00:56:21] termine siendo más conveniente entre
+[00:56:24] dirigí el azul obviamente la azul
+[00:56:28] y alguna otra
+[00:56:30] si profe el agua que se utiliza para la
+[00:56:33] producción de h2 verde es salada
+[00:56:36] hidrógeno 2a
+[00:56:38] yo pensé que era la guatemala del
+[00:56:40] reformado y el agua que puede ser de
+[00:56:44] cualquier digamos el cuerpo de agua se
+[00:56:47] poesía y que sea un lago cerca se usa el
+[00:56:50] lago si hay un mar sus animar obviamente
+[00:56:53] toda ocasión de como un proceso si se
+[00:56:56] usa el agua salada hay que hacer un
+[00:56:57] proceso de desalinización antes de
+[00:57:00] entonces por ahí también hay que ver
+[00:57:02] si ese costo
+[00:57:05] impacta demasiado en el proceso o no
+[00:57:07] pero eso volvemos a lo mismo todos estos
+[00:57:10] electrolizadores que estaban caros van a
+[00:57:12] ir disminuyendo el precio por esa es una
+[00:57:14] competencia del mercado esa fabricación
+[00:57:17] en masa bueno es lo mismo para los
+[00:57:20] tratamientos de agua para utilizado en
+[00:57:23] el electro del izado con el tiempo si
+[00:57:26] esto prospera si esto carece de manera
+[00:57:29] escalada
+[00:57:30] todos esos precios van a ir disminuyendo
+[00:57:35] obviamente se usa el agua de mar
+[00:57:39] que eso es como un ciclo cerrado porque
+[00:57:41] porque se usa el agua del mar
+[00:57:45] pasa por electrolizador se genera
+[00:57:47] hidrógeno por un lado y oxígeno por el
+[00:57:49] otro bien el oxígeno se vende al
+[00:57:52] ambiente no hay problema ese hidrógeno
+[00:57:55] que es este vector energético
+[00:57:56] si lo utilizamos como combustible que es
+[00:58:00] la idea si ya sea para generar
+[00:58:02] electricidad o para transporte de
+[00:58:05] cualquiera de las dos formas se va a
+[00:58:07] quemar y cuando se queme lo que genera
+[00:58:10] como producto es solamente vapor de agua
+[00:58:13] o sea que la misma agua que utilizamos
+[00:58:15] para fabricarlos es el agua que vamos a
+[00:58:18] devolver nuevamente cuando el
+[00:58:21] combustible esté sea utilizado sea jose
+[00:58:23] que ve así
+[00:58:29] profe hay otra que dice
+[00:58:32] puede ser que haya un adaptador para que
+[00:58:34] un actor un automóvil lada hidrógeno
+[00:58:37] verde la semana pasada bien artículo
+[00:58:39] pero no me quedó nada claro gracias
+[00:58:42] vuelve a nosotros acá en este tema que
+[00:58:45] yo voy no vemos las aplicaciones en sí
+[00:58:49] supuestamente la idea d
+[00:58:53] de los combustibles utilizados en
+[00:58:55] transporte
+[00:58:57] puede ser que el mismo transporte tenga
+[00:59:00] con una pila de combustible y ahí un
+[00:59:02] poco se podría estar como no generando
+[00:59:07] sino como que esa misma o sea no sea en
+[00:59:10] el ciclo térmico común de la combustión
+[00:59:13] sino que se utilice esta pila de
+[00:59:15] combustible que hay diferentes tipos que
+[00:59:17] son más eficientes en cuestión a los
+[00:59:19] ciclos energéticos y eso pasaría a tener
+[00:59:23] los autos todo todo lo que tiene ahora
+[00:59:25] eso no tendrían más y ahí mismo se haría
+[00:59:27] la quema vamos a poner desde de
+[00:59:30] combustible que sería utilizado de
+[00:59:31] diferente manera
+[00:59:33] no andamos acá en ese tipo de cosas
+[00:59:36] porque me parece si no me equivoco el
+[00:59:38] próximo tema no mío sino con otro profe
+[00:59:41] pero de la diplomatura van a ver algo de
+[00:59:44] todo lo que es las pilas o las baterías
+[00:59:47] sí entonces no quiero sacarle tema y a
+[00:59:50] lo mejor algo estén viendo ahí desde lo
+[00:59:52] que tiene que ver con el almacenamiento
+[00:59:54] del hidrógeno para utilizarlo de
+[00:59:56] combustible sí
+[01:00:00] acá profe y otra prueba de que dicen
+[01:00:02] proyectos de dispositivos para uso
+[01:00:04] doméstico
+[01:00:05] bueno ahora esta parte todos los
+[01:00:09] proyectos que tienen que ver vamos a ver
+[01:00:12] el uso que se le va a dar y por ahora no
+[01:00:15] es para uso residencial sino que se
+[01:00:17] quiere llevar todo como
+[01:00:19] para uso industrial o sea el mismo uso
+[01:00:23] industrial que se le da ahora si tratar
+[01:00:25] de cubrirlo como les decía ante el tema
+[01:00:27] del nicho del nicho de mercado es decir
+[01:00:30] lo que se está usando ahora hidrógeno lo
+[01:00:32] usemos del hidrógeno verde o sea como
+[01:00:34] que primero van por esa parte cómo
+[01:00:36] reemplazar lo que ya estoy usando
+[01:00:38] después se quiere ir por todo el tema
+[01:00:40] transporte
+[01:00:42] y yo creo que lo que sea el uso
+[01:00:44] doméstico qué es
+[01:00:46] a ver qué tiene que ver con toda la
+[01:00:47] electrificación de las ciudades
+[01:00:50] localidades entonces pero que eso va a
+[01:00:53] ser como como no sé si lo último pero
+[01:00:56] después de todos esos grandes usos que
+[01:00:58] tienen que ver con el transporte y la
+[01:00:59] industria
+[01:01:01] en este momento los proyectos que hay
+[01:01:03] que vamos a ver ninguno lo va a generar
+[01:01:06] para una casita o para un pueblo sino
+[01:01:09] que es más bien para es como les digo
+[01:01:12] estos grandes sus
+[01:01:16] bueno profesor parece que no hay ninguna
+[01:01:18] otra pregunta bueno le dice que les
+[01:01:21] quedó claro todas las explicaciones de
+[01:01:23] sus preguntas que es muy claro que está
+[01:01:25] siendo muy claras y que se lo agradecen
+[01:01:27] así que bueno vamos con la segunda parte
+[01:01:29] profe que le parecía bueno me alegro
+[01:01:33] entonces que estén entendiendo que sea
+[01:01:35] llevadera entonces la clase de hoy me
+[01:01:39] gusta esta clase está como más pregunta
+[01:01:40] ahora que la clase del viernes capaz que
+[01:01:43] la del viernes no sé o había menos gente
+[01:01:45] conectada o por ahí eran temas que por
+[01:01:48] ahí cuando uno habla de los procesos si
+[01:01:51] no está mucho en tema basta que uno lo
+[01:01:53] lee de nuevo por ahí cuesta entenderlo
+[01:01:56] pero bueno esta parte tiene que ver un
+[01:01:58] poco más con la actualidad
+[01:02:00] de qué proyecto bueno lo que nos queda
+[01:02:03] por ver ahora es que emprendimientos hay
+[01:02:06] ahora si en la actualidad los datos que
+[01:02:09] tengo si no me equivoco son desde el
+[01:02:11] 2020 adelante
+[01:02:13] plantas de hidrógeno azul vamos a ver
+[01:02:16] que hay
+[01:02:17] proyectos de hidrógeno verde y que
+[01:02:19] costos asociados tienen estos y vamos a
+[01:02:22] ver los proyectos de hidrógeno verde
+[01:02:24] vamos a estar viendo los 6 países que
+[01:02:26] lideran todo este tema y también vamos a
+[01:02:29] ver argentinas que si bien no es no está
+[01:02:32] dentro de los líderes en la cuestión del
+[01:02:34] crecimiento del hidrógeno verde pero
+[01:02:36] cambiar está incursionando ahí con
+[01:02:38] algunas cositas
+[01:02:41] bien vamos a ver entonces ahora el tema
+[01:02:46] de los tipos de emprendimientos vamos a
+[01:02:48] ver un poco el tema del hidrógeno azul
+[01:02:54] actualmente hay una planta en alberta
+[01:02:58] canadá que produce hidrógeno para
+[01:03:01] refinería ven que este es para un uso
+[01:03:03] industrial el hidrógeno lo produce la
+[01:03:05] refinería y una planta de hidrógeno azul
+[01:03:08] captura un
+[01:03:10] megatón en una mega tonelada de dióxido
+[01:03:12] de carbono al año como lo hace con una
+[01:03:15] absorción con aminas el mismo proceso
+[01:03:17] que yo les había descrito porque también
+[01:03:19] se puede hacer mediante otros procesos
+[01:03:21] pero este en que está actualmente el
+[01:03:23] desarrollo y lo almacena en este caso no
+[01:03:27] lo utilizan sino que lo almacenan en una
+[01:03:29] formación salina si podría ser un
+[01:03:31] depósito geológico en este caso con una
+[01:03:34] formación salina capaz que en esa zona
+[01:03:37] sea lo más factible
+[01:03:39] después también hay una refinería en
+[01:03:42] eeuu que tiene en sus instalaciones
+[01:03:48] esta planta de hidrógeno azul donde el
+[01:03:51] hidrógeno perdón el bióxido de carbono
+[01:03:53] capturado se utiliza en la misma planta
+[01:03:56] para recuperación mejorada de petróleo o
+[01:03:59] sea es como para refinar el petróleo que
+[01:04:02] ellos mismos generan o sea está bueno en
+[01:04:04] este caso porque ellos necesitan la
+[01:04:06] materia prima que el hidrógeno para el
+[01:04:08] refinado pero lo obtienen de esta manera
+[01:04:10] si para poder entonces utilizarlos ellos
+[01:04:13] mismos en este caso no encontré qué es
+[01:04:16] lo que hacían con él con el dióxido pero
+[01:04:18] si no lo encontré eso me imagino que lo
+[01:04:20] que hacen es esto que ya está plasmado
+[01:04:23] de un depósito geológico
+[01:04:27] y después también hay una planta de
+[01:04:29] reformado de gas natural que está en
+[01:04:31] francia es un proyecto piloto donde está
+[01:04:35] actúa el dióxido de carbono la planta de
+[01:04:38] producción de hidrógeno es de cuatro mil
+[01:04:40] quinientos kilogramos por hora de
+[01:04:43] hidrógeno y se va capturando todos de
+[01:04:46] dióxido en este caso el hidrógeno lo
+[01:04:48] usan para la mina refinería bengasi
+[01:04:50] usando para la industria petroquímica
+[01:04:52] pero fíjense en este caso a diferencia
+[01:04:54] de los otros el dióxido lo utilizan para
+[01:04:58] venderlo a la industria alimentaria y
+[01:05:00] para el tratamiento de aguas con todo lo
+[01:05:02] que tiene que ver el control de ph si
+[01:05:04] generalmente puede utilizarse como
+[01:05:08] dióxido de carbono o para formar algunos
+[01:05:12] carbonatos que permiten entonces
+[01:05:14] utilizarlo como base para fer son
+[01:05:17] sustancias para el que no sabe son
+[01:05:19] sustancias que permiten amar o
+[01:05:20] amortiguar cambios de ph entonces en
+[01:05:24] este caso todo lo que son las plantas
+[01:05:26] depuradoras de agua cuando me refiero a
+[01:05:29] agua no hay agua limpia es agua cloacal
+[01:05:32] o aguas industriales siempre necesitan
+[01:05:35] una parte donde tiene que haber un ph
+[01:05:38] cercano al neutro se utilizan muchas de
+[01:05:40] estas sustancias amortiguadores de ph y
+[01:05:42] bueno acá le han encontrado entonces ese
+[01:05:45] nicho o ese esta utilización para evitar
+[01:05:49] por ahí los costos de almacenamiento y
+[01:05:50] en este caso están ganando unos pesos
+[01:05:53] lados
+[01:05:54] acá no no no encontré muchos más datos
+[01:05:58] porque en realidad también la idea de
+[01:06:01] este tema era enfocarnos directamente al
+[01:06:04] hidrógeno verde que vendría a ser el
+[01:06:07] revolucionador de los próximos años
+[01:06:11] vemos acá que en cuanto a los
+[01:06:14] emprendimientos que hay de hidrógeno
+[01:06:16] verde dice que en los últimos cinco años
+[01:06:19] la capacidad global de los
+[01:06:21] electrolizadores ya se duplicó si hay
+[01:06:24] cerca de 350 proyectos actualmente en
+[01:06:27] desarrollo y otros 40 proyectos están en
+[01:06:30] etapas tempranas de desarrollo a qué me
+[01:06:32] refiero suele ser etapas donde se están
+[01:06:35] evaluando factibilidades viabilidad es
+[01:06:38] ya sea económica ya sea de por ejemplo
+[01:06:42] si se va a poner en una zona x bueno ver
+[01:06:45] si
+[01:06:46] el tema de los vientos para la energía
+[01:06:49] eólica funcionan o no o si fuera la
+[01:06:52] irradiación solar
+[01:06:53] cuando me refiero a etapas tempranas
+[01:06:55] como están en todo eso es aquí está ese
+[01:06:58] estudio
+[01:07:00] dice que si todos estos proyectos se
+[01:07:02] concretan estos que están en desarrollo
+[01:07:05] y en etapas tempranas de investigación
+[01:07:08] en suministro mundial de hidrógeno verde
+[01:07:11] alcanzaría los 8 millones de toneladas
+[01:07:14] para el 2030 es un gran aumento si lo
+[01:07:18] comparamos con el nivel actual que en
+[01:07:20] este momento se están
+[01:07:22] generando menos de 50 mil toneladas si
+[01:07:26] así que es un montón el avance que
+[01:07:30] habría en esto de la próxima década
+[01:07:34] y el que les puse acá
+[01:07:38] fíjense que acá les puso otro otro
+[01:07:40] gráfico que tiene que ver con un mapa
+[01:07:42] global un poco van a ver en diferentes
+[01:07:45] colores fíjense en verde dice 13 acá
+[01:07:50] dice disponible que que significa bueno
+[01:07:53] eso tiene que ver con la financiación
+[01:07:55] de los proyectos de hidrógeno verde bien
+[01:07:58] financiación no significa que lo estén
+[01:08:00] produciendo en su propio territorio
+[01:08:02] algunos países se tienen demasiado
+[01:08:04] dinero pero tal vez no cuentan con las
+[01:08:06] óptimas condiciones
+[01:08:08] entonces financian proyectos a veces no
+[01:08:11] son los países a veces empresas privadas
+[01:08:14] en esos países que ya les voy a nombrar
+[01:08:17] cuáles son las las mayores financiadoras
+[01:08:20] están en todo esto de
+[01:08:22] financiar nuevos proyectos por ejemplo
+[01:08:25] todo lo que tiene que ver canadá europa
+[01:08:27] en mira en europa australia es chile sí
+[01:08:32] y también vemos acá latinoamérica tiene
+[01:08:35] que ver con esta tienen financiación
+[01:08:37] disponible
+[01:08:39] para los proyectos
+[01:08:41] después el 11 dice que hay 11 en
+[01:08:43] preparación que este es el estilo sí
+[01:08:47] como si fuera rusia ven acá china
+[01:08:49] digamos que están preparando proyectos o
+[01:08:53] están preparando como les decía rusia se
+[01:08:56] acuerdan los gráficos anteriores que
+[01:08:58] vivimos que no tiene buenas condiciones
+[01:09:00] no es un país potencial para generar lo
+[01:09:03] mismo que acá que japón por ejemplo pero
+[01:09:07] si ellos pueden financiar
+[01:09:10] proyectos en áreas donde sí sean óptimas
+[01:09:13] para esta proceso después también
+[01:09:16] tenemos 14 países donde tienen proyectos
+[01:09:19] piloto ya
+[01:09:21] como es en eeuu si en realidad que
+[01:09:25] financian proyectos piloto perdón no
+[01:09:27] quiero confundir con estados unidos está
+[01:09:30] financiando proyectos piloto brasil lo
+[01:09:32] mismo
+[01:09:33] después hay otros países que están en
+[01:09:36] discusión política inicial
+[01:09:39] por ejemplo argentina ven acá yo no lo
+[01:09:42] pude cambiar porque encima del celeste
+[01:09:44] veo padecido este es el escritor porque
+[01:09:46] está más utilización que tiene argentina
+[01:09:49] vendría a ser que están en el inicio
+[01:09:52] si bien argentina como se les contaba
+[01:09:54] ahora les voy a mostrar que tiene
+[01:09:55] algunos proyectos están iniciándose pero
+[01:09:57] están muy iniciándose y vemos que hay
+[01:10:01] otros países que ya han puesto
+[01:10:03] todas las financiaciones ya han puesto y
+[01:10:06] vamos a estar los proyectos para
+[01:10:08] construirse sin igual y después ahí hay
+[01:10:11] países que en nada tienen de actividad
+[01:10:14] ni siquiera están evaluando nada ni
+[01:10:17] están financiando ni nada están al
+[01:10:19] margen totalmente porque puede ser bueno
+[01:10:21] puede ser porque no tengan digamos
+[01:10:24] recursos
+[01:10:25] para poder financiarse no tienen
+[01:10:28] recursos económicos ni tampoco tienen
+[01:10:30] estos recursos renovables para poder
+[01:10:32] permitirse digamos ser financiados para
+[01:10:35] estos desarrollos y tal vez también
+[01:10:38] porque a lo mejor la actividad
+[01:10:41] académico de investigación por ahí va
+[01:10:44] por otro lado porque por ese país es
+[01:10:46] rico en otras cosas sí y no va para este
+[01:10:49] lado energético
+[01:10:53] vienen acá acá les contaba esto de las
+[01:10:56] empresas se saca un poco los los logos
+[01:11:01] de cada una fíjense y se a finales del
+[01:11:03] 2020 siete empresas internacionales que
+[01:11:06] desarrollan proyectos de hidrógeno verde
+[01:11:09] lanzaron una iniciativa como parte de la
+[01:11:12] campaña emisiones a cero les recuerdo
+[01:11:15] que esta campaña o está digamos
+[01:11:17] emisiones a cero es
+[01:11:20] como un lema que se ha puesto en la
+[01:11:23] convención de las naciones unidas sobre
+[01:11:25] cambio climático que para el 2050 se
+[01:11:29] tiene que haber reducido las emisiones
+[01:11:31] de efecto invernadero de gases de efecto
+[01:11:33] invernadero
+[01:11:34] entonces hay siete empresas que parece
+[01:11:37] que le han puesto el hombro esto y están
+[01:11:40] realizando esquemas de inversión y de
+[01:11:44] iniciativas para que esto pueda crecer
+[01:11:46] fijemos no acá que hay una de estas
+[01:11:49] empresas es de grupos sauditas de
+[01:11:51] energía limpia que es este agua power
+[01:11:54] y yo de estas por ejemplo miren que la
+[01:11:58] verdad es que estoy en el tema tampoco
+[01:11:59] una cosa que estoy ahí
+[01:12:02] en la actualidad total pero uno está más
+[01:12:05] o menos en este tema de hidrógeno y
+[01:12:07] había empresas y no las había escuchado
+[01:12:08] salvar ahora sí después está el
+[01:12:11] desarrollador australiano wp un
+[01:12:15] fabricante chino de turbinas eólicas en
+[01:12:17] visión obviamente dice este fabricante
+[01:12:20] dice tengo turbinas eólicas
+[01:12:22] fabuloso para los parques eólicos y
+[01:12:25] también como empresas
+[01:12:28] que lanzaron esta iniciativa tan en los
+[01:12:31] gigantes energéticos europeos
+[01:12:33] iberdrola y georges
+[01:12:35] el grupo de gas italianos unam uno dice
+[01:12:38] pero es un grupo de gas porque está
+[01:12:41] incentivando esto bueno porque aunque
+[01:12:44] sea un grupo de gas por ahí puede servir
+[01:12:46] para generar el hidrógeno azul sí
+[01:12:50] o también pueden cuántas empresas hay
+[01:12:52] que se reconvierten con el tiempo sí y a
+[01:12:55] lo mejor este grupo que era generador de
+[01:12:57] gas ahora termina o sea cuando hable de
+[01:13:00] gas gas natural no y ahora termina
+[01:13:02] haciéndose partícipe de la generación de
+[01:13:04] hidrógeno y también el productor de
+[01:13:06] fertilizantes noruegos al porque este
+[01:13:09] fertilizante es porque uno de los
+[01:13:11] usos más competitivos del hidrógeno es
+[01:13:15] también para producir fertilizantes se
+[01:13:17] utiliza mucho como materia prima
+[01:13:18] entonces bueno por eso también está ahí
+[01:13:22] qué hacen esta
+[01:13:24] gente o estas empresas bueno lo que
+[01:13:27] tratan es buscar que la industria
+[01:13:31] del hidrógeno bajo en carbono se
+[01:13:34] multiplique por 50 en los próximos seis
+[01:13:37] años pero que les dije antes me parece
+[01:13:39] que a ver si todo esto se concreta si
+[01:13:43] todo esto se hace realidad digamos yo
+[01:13:45] creo que para el 2030 vamos a haber
+[01:13:47] vivido un cambio muy grande como ha sido
+[01:13:52] el cambio de la tecnología y de lo que
+[01:13:54] tiene que ver con los celulares la
+[01:13:56] computadora bueno creo que este cambio
+[01:13:59] así repentino y muy grande tiene que ver
+[01:14:02] con todo esto de la energía en los
+[01:14:03] próximos años entonces estas empresas
+[01:14:06] enormes buscan esto que se multiplique
+[01:14:09] por 50 en los próximos seis años y se
+[01:14:12] reduzca a la mitad el costo actual del
+[01:14:14] hidrógeno de renovables o sea que salgan
+[01:14:16] menos de dos dólares por kilogramos
+[01:14:19] o sea súper competitivo sería con lo que
+[01:14:23] es el hidrógeno gris en la actualidad
+[01:14:28] también el banco de inversiones goldman
+[01:14:30] sachs estimó que el mercado del
+[01:14:33] hidrógeno verde superará los 11 billones
+[01:14:36] de dólares para el 2050 bueno números
+[01:14:40] que el estilo de costos lejanos para
+[01:14:44] nosotros pero para que vean la gran masa
+[01:14:46] económica
+[01:14:48] que se están manejando se prevé manejar
+[01:14:50] con toda esta industria
+[01:14:54] ahora sí a ver los megaproyectos
+[01:14:57] porque me refiero al mega porque el
+[01:14:59] proyecto en sí hay un montón vieron que
+[01:15:03] una o dos ya positivas antes vimos que
+[01:15:06] había alrededor de 350 proyectos hasta
+[01:15:09] lo que vamos a ver son los mega
+[01:15:10] proyectos los más grandes ya sean
+[01:15:12] capacidad y en cuestión de
+[01:15:15] financiamiento si estos megaproyectos
+[01:15:19] planear una enorme expansión del mercado
+[01:15:21] del hidrógeno verde ampliando la
+[01:15:23] capacidad actual de unos 80 gb a más de
+[01:15:27] 140 giles aguadas
+[01:15:30] vamos a ver entonces los seis países con
+[01:15:32] los mayores proyectos de producción de
+[01:15:34] hidrógeno
+[01:15:35] y ojo
+[01:15:37] y lo que yo quiero decir acá es que
+[01:15:39] estás en estos proyectos o estás medidas
+[01:15:41] por estas obras han sido anunciadas en
+[01:15:44] la mayoría de los casos están en fase de
+[01:15:45] planificación las que ya están
+[01:15:47] produciendo y planificando están
+[01:15:49] haciendo todas estas análisis de
+[01:15:53] viabilidad para la construcción
+[01:15:56] bien arrancamos con lo que es australia
+[01:16:00] australia ustedes vieron en los gráficos
+[01:16:03] que les mostré los mapas esos globales
+[01:16:05] siempre figuras como el que más financia
+[01:16:08] el que tiene uno de los sectores digamos
+[01:16:11] óptimo en cuanto a energías renovables
+[01:16:13] porque no solo tiene buena irradiación y
+[01:16:17] para digamos óptimo para la energía
+[01:16:19] fotovoltaica sino que vieron que decía
+[01:16:21] que tenía un buen potencial para generar
+[01:16:24] lo agradezca la porque porque tiene una
+[01:16:26] buena superficie también para poder
+[01:16:28] aprovechar bueno en australia
+[01:16:31] el país líder en todos estos planes de
+[01:16:35] producción de hidrógeno tiene
+[01:16:38] propuestas para construir 5 mega
+[01:16:41] proyectos porque como les decía recién
+[01:16:43] dado a sus enormes recursos de energías
+[01:16:46] renovables como la eólica y la zona el
+[01:16:49] proyecto hoy se mejora bueno el proyecto
+[01:16:52] más grande en este que se conoce como
+[01:16:55] hacían renovables energy hub es en
+[01:16:59] australia occidental sí donde se planea
+[01:17:02] una serie de plantas con
+[01:17:03] electrolizadores de una capacidad total
+[01:17:06] ahí veo que tienen bolsito en una
+[01:17:08] capacidad total de 14 gigabytes si el
+[01:17:12] proyecto tiene una financiación de 36
+[01:17:16] mil millones de dólares y se prevé que
+[01:17:19] puede estar listo para el 2027 y 2028
+[01:17:24] estos son datos como les decía del 2020
+[01:17:26] o sea nosotros sacamos 2022
+[01:17:30] 56 años y australia tendría esta mega
+[01:17:34] proyecto puesto en marcha sí
+[01:17:37] tiene también otros cuatro proyectos que
+[01:17:40] todavía están en fase inicial de
+[01:17:42] planificación que es la fase inicial y
+[01:17:44] esta fase de viabilidad análisis de
+[01:17:47] costos y que de aprobarse sumarían otros
+[01:17:51] 13 casi 13 gigawatts digamos a lo que
+[01:17:55] ellos van a producir
+[01:17:57] después tenemos como también país líder
+[01:18:00] en todo lo que es los proyectos los
+[01:18:03] países bajos
+[01:18:05] anteriormente lo conocíamos como holanda
+[01:18:07] ahora son los países bajos bueno este es
+[01:18:10] un proyecto
+[01:18:13] qué se va a hacer en el puerto de ems en
+[01:18:15] el norte de los países bajos en este
+[01:18:18] caso los que llevan adelante la del
+[01:18:20] financiamiento es la petrolera anglo
+[01:18:22] dama de esta ley
+[01:18:24] y otros desarrolladores obviamente a ver
+[01:18:28] esta es una opinión mía todo lo que son
+[01:18:30] las petroleras que les quedaba o
+[01:18:32] quedarse a ver como dejaban de usar los
+[01:18:35] derivados del petróleo o acoplarse a
+[01:18:37] todo esto y utilizar esas grandes
+[01:18:39] ganancias que tienen para volcarse a
+[01:18:42] este nuevo combustible sí que se va a
+[01:18:45] desarrollar y bueno por lo que vemos en
+[01:18:47] este caso él ya está poniendo manos a la
+[01:18:49] obra y está financiando uno de los más
+[01:18:52] grandes proyectos también en este caso
+[01:18:55] se prevé la construcción de al menos 10
+[01:18:58] gb de electrolizadores el objetivo es
+[01:19:00] tener dicen un sí la uat para el 2027 y
+[01:19:04] cuatro más para el 2030 lo que se va a
+[01:19:07] utilizar acá en energía eólica
+[01:19:08] 'offshore' que sería esto en un parque
+[01:19:12] eólico en marino sino en la tierra
+[01:19:15] porque países bajos holanda si uno más o
+[01:19:18] menos lo ubica no tiene grandes
+[01:19:21] superficies para poder aprovechar pero
+[01:19:24] se ve que en el mar cercano tienen
+[01:19:27] buenos vientos de forma que se puede
+[01:19:30] armar un parque eólico offshore o
+[01:19:32] marítimo también se llama de manera de
+[01:19:35] aprovechar esa energía
+[01:19:37] la electrónica
+[01:19:40] electrolizador digamos para la
+[01:19:42] producción de hidrógeno
+[01:19:44] en este caso es el hidrógeno que van a
+[01:19:46] generar se va a utilizar para potenciar
+[01:19:48] la industria pesada tanto en los mismos
+[01:19:51] países bajos como en alemania cuando me
+[01:19:54] refiero a industria pesada suele ser la
+[01:19:56] industria siderúrgica metalúrgica y las
+[01:19:58] mismas refinerías de petróleo sí o sea
+[01:20:01] en este caso vemos que el uso directo
+[01:20:04] que le van a dar estos proyectos es
+[01:20:06] industrias como les decía cuál es el uso
+[01:20:09] principal del hidrógeno en este momento
+[01:20:10] en la industria que hacemos tratamos de
+[01:20:13] desplazar o de mudar ese proyecto pero
+[01:20:16] con esta generación de hidrógeno gris a
+[01:20:18] esta generación de hidrógeno verde pero
+[01:20:20] con que ese uso que actualmente
+[01:20:23] se lleva el mercado
+[01:20:26] tenemos otro grande que también lidera
+[01:20:30] el mercado es alemania si el proyecto
+[01:20:34] más grande es el de agua ventus en la
+[01:20:37] isla que queda en una isla en el mar del
+[01:20:40] norte de alemania si en este caso
+[01:20:43] planean construir 10.000 hour de
+[01:20:45] capacidad para el 2035
+[01:20:48] todo ese consorcio de financiadores de
+[01:20:52] está formado por 27 empresas también por
+[01:20:56] instituciones de investigación y
+[01:20:57] organizaciones incluyendo cel y él
+[01:20:59] también está ahí que van a impulsar este
+[01:21:02] proyecto que va a utilizar los vientos
+[01:21:05] de la región como fuente energética en
+[01:21:07] este caso también vamos a ver dijeron
+[01:21:09] acá
+[01:21:10] y tienen un segundo proyecto también un
+[01:21:12] poco más pequeño que lo van a hacer en
+[01:21:15] la costa norte de alemania
+[01:21:17] donde el grupo está liberado por una
+[01:21:20] empresa energética local y va a prever
+[01:21:22] la construcción de un giga watts más
+[01:21:27] después tenemos el cuarto lugar china
+[01:21:30] uno dice china porque porque uno le
+[01:21:34] puede sonar raro al primero que los
+[01:21:35] chinos están entonces vieron que ellos
+[01:21:37] están siempre ahí al pie del cañón
+[01:21:38] con todo lo último pero por qué digo a
+[01:21:42] veces uno le pueden sonar raro porque
+[01:21:43] china y el principal productor mundial
+[01:21:46] de hidrógeno derivados de hidrocarburos
+[01:21:48] china tiene las mayores reservas de gas
+[01:21:52] de gas no perdón de carbón mineral
+[01:21:55] entonces china tiene mucha mina de
+[01:21:59] carbón es el principal productor del
+[01:22:02] hidrógeno beige y del hidrógeno marrón y
+[01:22:05] el zumo dice porque se mete en esto
+[01:22:08] bueno como les decía recién te estás
+[01:22:09] siempre al pie del cañón con todo lo
+[01:22:11] nuevo entonces va a tratar de
+[01:22:15] volcar digamos o
+[01:22:17] generar esta transición de ese hidrógeno
+[01:22:20] contaminante en ese proceso generador de
+[01:22:23] hidrógeno contaminante a estos procesos
+[01:22:26] limpios de hidrógeno si en este caso
+[01:22:30] china que tiene china y vieron ellos uno
+[01:22:34] de los mapas globales que les mostré que
+[01:22:36] dice que china tenía ese potencial de
+[01:22:37] querer ser autosuficiente por el tema
+[01:22:40] del hidrógeno es decir abastecerse son
+[01:22:42] bien entonces tienen buena superficie y
+[01:22:45] también habíamos visto que tenía
+[01:22:47] digamos óptimas condiciones en lo que es
+[01:22:50] renovable de solar y eólica en este caso
+[01:22:54] dice que en cuanto al hidrógeno verde
+[01:22:57] china esté incursionando con la
+[01:22:59] construcción de un megaproyecto en la
+[01:23:01] región autónoma de mongolia interior que
+[01:23:03] al norte del país este proyecto está
+[01:23:06] liderado por la empresa de servicios
+[01:23:07] públicos estatal
+[01:23:09] invertirá 3 mil millones de dólares para
+[01:23:12] generar 5 si la uat a partir de energía
+[01:23:15] eólica y solar
+[01:23:20] tenemos también arabia saudita y acá lo
+[01:23:22] mismo me surge el interrogante digo pero
+[01:23:25] arabia saudita es el país con las
+[01:23:26] mayores reservas de petróleo
+[01:23:28] volvemos a lo mismo como el caso de
+[01:23:31] china tiene las mayores reservas de
+[01:23:33] petróleo pero se va a introducir también
+[01:23:36] en lo que es el mercado del hidrógeno
+[01:23:39] verde en este caso tiene un proyecto que
+[01:23:42] va a estar ubicado en la ciudad
+[01:23:44] inteligente del león o sea en su propio
+[01:23:47] territorio a orillas del mar rojo que es
+[01:23:50] al noroeste del país este proyecto tiene
+[01:23:54] una financiación de 5 mil millones de
+[01:23:56] dólares y se van a instalar 4 gb de
+[01:23:59] electrolizadores para el 2025 o sea nada
+[01:24:02] cerramos los ojos y en tres años a
+[01:24:05] devesa vuelta ya tiene su proyecto
+[01:24:07] instalado
+[01:24:09] y después
+[01:24:11] chile chile que uno le parece a una una
+[01:24:17] superficie tan delgadita si está pasando
+[01:24:21] la cordillera bueno chile lo que tiene
+[01:24:24] es que en cuestión de irradiación solar
+[01:24:26] todo lo que es el desierto de atacama en
+[01:24:28] la parte norte de chile tiene de los
+[01:24:31] mejores índices de radiación solar del
+[01:24:33] mundo entonces ellos pueden aprovechar
+[01:24:37] imagínense el rendimiento que le puede
+[01:24:40] dar un panel fotovoltaico ubicado en
+[01:24:42] chile con ese índice de irradiación
+[01:24:45] comparado con algún país donde tal vez
+[01:24:47] ese índice de radiación sea un poco
+[01:24:50] menor tienen esa alta eficiencia
+[01:24:51] entonces en chile
+[01:24:54] que digamos está dando los primeros
+[01:24:56] pasos en lo que son los países
+[01:24:58] latinoamericanos y fíjense que si bien
+[01:25:01] es uno de los primeros latinoamericanos
+[01:25:03] está dentro de los 6
+[01:25:05] líderes del mundo en este caso tiene dos
+[01:25:09] proyectos que ya están en desarrollo
+[01:25:11] uno de estos proyectos es de la
+[01:25:14] energética francesa o sea una empresa de
+[01:25:17] energía de francia que está financiando
+[01:25:19] y otra empresa chilena de servicios
+[01:25:23] mineros entre las dos están financiando
+[01:25:25] uno de los proyectos que está el norte
+[01:25:27] de chile en antofagasta y va a utilizar
+[01:25:30] energía solar para potenciar
+[01:25:32] electrolizadores de 16 gigabytes este
+[01:25:36] hidrógeno verde se va a utilizar en la
+[01:25:37] minería si la prueba piloto inicial se
+[01:25:41] prevé que va a instalar 16 mega watts un
+[01:25:43] poco menos
+[01:25:45] un 10% y bastante menos y va a estar
+[01:25:49] para el 2024 o sea nada en dos años este
+[01:25:53] proyecto ya va a estar digamos
+[01:25:56] instalando sea prueba piloto que es
+[01:25:57] bastante más chica para ver si funciona
+[01:26:00] para luego darle paso digamos a la
+[01:26:02] planta más y después tienen otro otro
+[01:26:06] proyecto éste sí que éste es
+[01:26:10] de todas estas empresas son las que lo
+[01:26:13] que lo financian amena en enel green
+[01:26:17] power por siemens y bueno estas empresas
+[01:26:22] que no son chilenas digamos
+[01:26:26] para financiar este proyecto en la
+[01:26:28] región de magallanes o sea en la
+[01:26:30] antártica chilena al sur porque porque
+[01:26:32] va a utilizar los potentes vientos de
+[01:26:34] esa región va a usar esa energía eólica
+[01:26:36] para generar combustibles a base de
+[01:26:39] hidrógeno verde en esa prueba piloto se
+[01:26:41] va a usar un electrolizador de 125 mega
+[01:26:44] watts y en fases comerciales ya se va a
+[01:26:48] ampliar esa capacidad más de un si la
+[01:26:50] watts
+[01:26:53] bien hasta ahí habíamos visto lo que
+[01:26:57] tiene que ver con los proyectos que hay
+[01:26:59] en el mundo y como les decía yo recién a
+[01:27:03] veces uno piensa decimos ebro para eeuu
+[01:27:06] no lo nombres muchos si europa nombre de
+[01:27:09] países bajos alemania pero estamos
+[01:27:12] unieron los nombres russian un hombre
+[01:27:14] bueno porque porque en realidad tal vez
+[01:27:16] en sus territorios por ahí es más
+[01:27:19] difícil lograr una planta porque a lo
+[01:27:22] mejor las condiciones no son las óptimas
+[01:27:23] pero si sus empresas o sea empresas de
+[01:27:26] esos países de europa de eeuu son las
+[01:27:30] empresas que actualmente están
+[01:27:32] financiando digamos parte de estos
+[01:27:36] proyectos enormes que por lo que vemos
+[01:27:39] fíjense que todos lo están nombrando
+[01:27:41] para fines del 20 de la década o sea que
+[01:27:44] para el 2030
+[01:27:46] varios de estos ya van a estar
+[01:27:48] funcionando
+[01:27:50] obviamente como les dije recién van a
+[01:27:51] estar funcionando fíjense que los usos
+[01:27:53] que quieren nombres son todos que tienen
+[01:27:55] que ver para la industria pero yo creo
+[01:27:56] que si eso ya
+[01:27:58] arranca y sirve entonces ahí va a ser
+[01:28:02] como una bola de nieve cada vez más cada
+[01:28:03] vez más a medida que todos estos años
+[01:28:05] más países van a generar proyectos más
+[01:28:08] financiamiento y al cabo de pocos años
+[01:28:12] como si fuera para el 2050 yo creo que
+[01:28:15] esto ya va a estar totalmente
+[01:28:16] el mercado abarcado de vídeo
+[01:28:20] bien vamos a ver argentina qué posición
+[01:28:23] tiene argentina en esto de la producción
+[01:28:26] del hidrógeno verde bueno argentina
+[01:28:28] tiene ventajas competitivas en energías
+[01:28:32] renovables por qué porque en el norte se
+[01:28:34] puede aprovechar la energía
+[01:28:35] fotovoltaica que en el mismo caso de
+[01:28:39] chile tiene muy buenos índices de
+[01:28:41] variación solar mayor a la media del
+[01:28:44] planeta
+[01:28:46] en todo lo que es el nea si el noroeste
+[01:28:49] argentino
+[01:28:50] tiene muchos recursos de biomasa
+[01:28:52] entonces si bien ahí no se haría el
+[01:28:57] proceso de la electrólisis se podría
+[01:29:00] generar otro tipo de hidrógeno bajo en
+[01:29:02] carbono con procesos que utilicen
+[01:29:04] biomasa si en la patagonia como ya se
+[01:29:09] conoce el potencial de los vientos y en
+[01:29:12] cuyo también hay un poco de posibilidad
+[01:29:15] de poder aprovechar sol y viento
+[01:29:18] obviamente siempre hay que ver de todas
+[01:29:20] estas regiones cuál tiene las
+[01:29:22] condiciones óptimas de manera de que el
+[01:29:25] parque solar o el parque eólico que se
+[01:29:28] desarrolle tenga digamos la eficiencia
+[01:29:32] porque también de eso depende costo de
+[01:29:35] la producción del hidrógeno bien que
+[01:29:38] otra ventaja tiene argentina que tiene
+[01:29:41] la cercanía al atlántico y yo digo para
+[01:29:43] qué me sirve bueno por un lado
+[01:29:45] a extraer la materia prima si necesito
+[01:29:47] el agua de ahí y también para las
+[01:29:49] exportaciones hacia los grandes centros
+[01:29:51] consumidores que como nombramos antes va
+[01:29:53] a ser todo lo que es la unión europea
+[01:29:55] japón y todas esas zonas donde tal vez
+[01:29:59] no necesitan o no la necesitan perdón no
+[01:30:02] pueden ellos mismos generarlo porque no
+[01:30:05] quieren superficie porque no tienen
+[01:30:07] recursos renovables óptimos pero son los
+[01:30:11] grandes consumidores
+[01:30:13] en este caso
+[01:30:16] argentina tiene buenos muy buenos
+[01:30:18] recursos y una gran superficie para
+[01:30:20] poder aprovechar y viven para que se den
+[01:30:21] una idea
+[01:30:23] para generar un mil mega watt si de
+[01:30:29] potencias se requieren aproximadamente
+[01:30:31] 20 mil hectáreas de parque y recuerden
+[01:30:35] ese dato porque en la próxima
+[01:30:37] diapositiva les voy a nombrar un área
+[01:30:40] donde se planea en instalar un parque
+[01:30:43] eólico y van a ver la cantidad de
+[01:30:46] hectáreas que tiene ese parque hoy o sea
+[01:30:48] el potencial
+[01:30:50] se podría desarrollar así sí
+[01:30:55] y vemos qué proyectos hay en argentina
+[01:30:57] estos son datos abril 2022
+[01:31:03] bueno que tenemos acá en argentina
+[01:31:05] todavía no hay nada instalado
+[01:31:07] produciendo hidrógeno todavía no pero sí
+[01:31:09] hay algunos proyectos
+[01:31:12] obviamente en la argentina no figura
+[01:31:14] dentro de estos mega prospectos líderes
+[01:31:17] mundiales porque recién está comenzando
+[01:31:19] con todo esto pero bueno estamos
+[01:31:22] incursionando en el tema miren acá la
+[01:31:25] minera australiana
+[01:31:27] forest que es una empresa australiana
+[01:31:31] fíjense que australia el líder de los
+[01:31:33] megaproyectos y a la vez tiene empresas
+[01:31:36] de ellos que no obstante invierten en su
+[01:31:39] país sino que también van a otros si
+[01:31:42] para poder generar él entonces está mi
+[01:31:46] empresa están tener australiana va a
+[01:31:48] invertir 8 mil 400 millones de dólares
+[01:31:52] hasta el 2028 para desarrollar el
+[01:31:55] proyecto pampas que va a estar
+[01:31:57] localizado en sierra grande en la
+[01:32:00] provincia de río negro
+[01:32:02] este proyecto dice que ya comenzó la
+[01:32:04] etapa de estudio de viabilidad a qué me
+[01:32:07] refiero que se va a analizar la zona se
+[01:32:09] va a medir los vientos para ver dónde es
+[01:32:12] más eficiente
+[01:32:14] construirlo dice que si estos estudios
+[01:32:17] son positivos es decir con resultados
+[01:32:20] buenos vendrá una segunda etapa con
+[01:32:23] posibles inversiones millonarias en
+[01:32:25] parques eólicos una planta de producción
+[01:32:28] a escala industrial y obras de
+[01:32:30] infraestructura
+[01:32:31] una de las zonas a analizar es la meseta
+[01:32:35] de somuncurá
+[01:32:36] un vasto territorio vienen a esta marca
+[01:32:39] dicho mire quiero que le vuelvo a la
+[01:32:42] anterior que ya va a generar con un mega
+[01:32:46] agua mil mega watts si esto lo mismo
+[01:32:49] quiere decir un giga watts
+[01:32:52] se necesita 20.000 hectáreas
+[01:32:55] miren el área está estudiando hasta
+[01:32:58] 25 mil kilómetros cuadrados si los 25
+[01:33:02] mil kilómetros cuadrados equivale a 25
+[01:33:05] millones de hectáreas y acá estábamos
+[01:33:08] hablando de 20 mil hectáreas tendríamos
+[01:33:10] en este caso un parque eólico enorme que
+[01:33:14] es y uno más o menos lo hiciera la
+[01:33:15] cuenta nos daría un potencial bastante
+[01:33:18] importante para poder generar esta
+[01:33:22] energía a base de
+[01:33:24] los vientos y para luego generar el
+[01:33:28] hidrógeno verde bueno la zona es a que
+[01:33:30] se está cargando a analizar esta que
+[01:33:32] está pintada de amarillo si al sur de
+[01:33:34] río negro al norte
+[01:33:37] y la localidad de dios de sierra grande
+[01:33:41] mi nombre está más o menos por acá y más
+[01:33:45] más cerquita del
+[01:33:46] océano atlántico
+[01:33:49] bien
+[01:33:50] porque acá lo que puede hacer es que
+[01:33:52] esté todo el partido obligó a casi la
+[01:33:54] planta productora en esta localidad la
+[01:33:56] que después permite el almacenamiento
+[01:33:57] para de ahí
+[01:33:59] exportar si porque imagínense que sí que
+[01:34:02] está financiando una empresa australiana
+[01:34:04] y lo más probable que lo quiera exportar
+[01:34:06] sí
+[01:34:08] bien ese no es el único proyecto que hay
+[01:34:11] en la actualidad en nuestro país sino
+[01:34:13] que también hay una empresa local
+[01:34:17] que se llama ahí sea que está analizando
+[01:34:19] o sea todavía no hay financiamiento ni
+[01:34:23] edad por eso digo que argentina está en
+[01:34:25] esos países que están iniciando las
+[01:34:27] políticas o las discusiones políticas
+[01:34:30] discusiones que me refiero en esto de
+[01:34:31] veo si se debe o quién financia veo si
+[01:34:35] meto si en este caso esta empresa está
+[01:34:40] analizando poder desarrollar una planta
+[01:34:42] de hidrógeno también en la provincia de
+[01:34:44] río negro porque obvio por el tema de
+[01:34:46] los vientos con posibilidades de
+[01:34:48] producir
+[01:34:50] además o sea además de producir
+[01:34:52] hidrógeno verde además producirá
+[01:34:55] amoníaco verde para la industria de
+[01:34:57] fertilizantes uno dice pero como como
+[01:35:00] genera bueno recuerden que yo les dije
+[01:35:02] que el hidrógeno es la principal ya el
+[01:35:05] uso actual es materia prima para generar
+[01:35:07] armonía entonces en ese caso sería para
+[01:35:11] la industria de producción de amoníaco
+[01:35:14] ese hidrógeno verde por ende
+[01:35:17] generaríamos amoníaco verde en el
+[01:35:19] sentido de que su proceso no es
+[01:35:21] contaminante y se vende obviamente para
+[01:35:24] la industria los fertilizantes
+[01:35:30] y por último tenemos que el gobierno de
+[01:35:33] jujuy está buscando financiamiento con
+[01:35:35] la agencia francesa de desarrollo
+[01:35:38] para la ejecución del proyecto de
+[01:35:41] generación de hidrógeno verde el
+[01:35:42] complejo termo fotovoltaico el que
+[01:35:45] desarrolla juntamente con invac en una
+[01:35:48] en grupo de argentina un grupo de
+[01:35:53] público nacional y una planta
+[01:35:56] fotovoltaica de 200 megawatts como les
+[01:36:00] decía recién estos últimos dos están en
+[01:36:03] veremos digamos que está analizar ven y
+[01:36:06] ver si es factible si alguien puede
+[01:36:08] financiar
+[01:36:09] obviamente
+[01:36:11] vemos que en este caso una empresa
+[01:36:13] francesa o la agencia francesa de gama
+[01:36:16] francia
+[01:36:18] en este caso de esta empresa local que
+[01:36:20] está analizando seguramente si será todo
+[01:36:22] positivo va a buscar financiamiento
+[01:36:24] externo y acá esta empresa australia
+[01:36:29] como les decía recién
+[01:36:31] generalmente los que financian son todos
+[01:36:33] estos grandes países que están estables
+[01:36:35] económicamente y que por ahí
+[01:36:38] salvo australia que es uno de los
+[01:36:39] grandes en este mercado son países de la
+[01:36:44] unión europea donde por ahí se les
+[01:36:45] complica a ellos poder instalar este
+[01:36:47] tipo de plantas y invierten en zonas
+[01:36:51] favorables
+[01:36:52] no
+[01:36:55] bien por último a cada manera de
+[01:36:57] conclusión
+[01:37:00] y lo que yo quería más o menos como
+[01:37:02] cerrar era que a largo plazo la
+[01:37:05] incorporación de hidrógeno como un nuevo
+[01:37:08] vector energético ofrece un escenario
+[01:37:11] digamos en el que se puede producir
+[01:37:12] hidrógeno a partir de agua con
+[01:37:15] electricidad derivada de energías
+[01:37:18] renovables y se va a poder utilizar
+[01:37:20] tanto para las demandas actuales como
+[01:37:24] para nuevas de nuevas demandas y ya sea
+[01:37:28] con la necesidad de las demandas
+[01:37:29] industriales demandas de transporte de
+[01:37:32] uso doméstico si todo esto en el futuro
+[01:37:34] decimos que el hidrógeno puede un papel
+[01:37:37] importante como reactivo de muchos
+[01:37:39] procesos industriales por eso sigue
+[01:37:41] siendo muy importante allí
+[01:37:43] y también obviamente
+[01:37:45] trascendería como estos usos energéticos
+[01:37:48] en la que juega su nuevo papel como
+[01:37:51] portador de energía limpia
+[01:37:54] decimos que como conclusión en la región
+[01:37:58] en la región de lo que es latinoamérica
+[01:38:00] chile está muy avanzado en proyectos
+[01:38:03] piloto de hidrógeno verdes ha iniciado
+[01:38:06] ya su producción a partir de energía
+[01:38:08] fotovoltaica para 2030 escuchen esto se
+[01:38:12] podría producir hidrógeno verde más
+[01:38:14] barato del mundo en chile- vieron que en
+[01:38:17] una de las
+[01:38:18] imágenes que les mostré de global chile
+[01:38:22] tenía digamos la zona óptima en cuanto a
+[01:38:25] recursos naturales renovables y además
+[01:38:29] una de las zonas óptimas para para
+[01:38:30] generar los menores precios con los
+[01:38:32] menores costos entonces
+[01:38:36] 2030 podría estar produciendo el
+[01:38:38] hidrógeno verde más barato del mundo a
+[01:38:40] un costo menor de 15 dólares porque
+[01:38:43] ahora o sea si lo comparamos con lo que
+[01:38:47] les dije al principio de la clase de
+[01:38:48] hidrógeno gris estaríamos desplazando
+[01:38:50] totalmente al hidrógeno gris para poder
+[01:38:53] posicionarse entonces el hidrógeno verde
+[01:38:55] que está en esta matriz energética
+[01:38:59] fíjense dice que se estima que libro
+[01:39:02] verde podría ocupar hasta un 25 por
+[01:39:05] ciento de la matriz energética mundial
+[01:39:07] en el futuro y utilizarse en el
+[01:39:09] transporte residencias e industrias a
+[01:39:12] ver uno dice y el resto quién lo ocupa
+[01:39:15] bueno recuerden que seguimos teniendo la
+[01:39:17] energía nuclear
+[01:39:21] a ver la energía eólica la energía solar
+[01:39:23] también pueden usarse directamente para
+[01:39:26] generar electricidad digamos bueno
+[01:39:29] tenemos todo lo que es energía
+[01:39:31] geotérmica hidráulica si hay otros tipos
+[01:39:35] de
+[01:39:37] energías sí pero fíjense el hidrógeno de
+[01:39:39] no ocupar casi nada llegaría ocupará a
+[01:39:43] un cuarto de la matriz nariz está
+[01:39:45] y por último esta frase que les dije que
+[01:39:48] al final les iba a decir
+[01:39:51] este señor franklin chang ya les digo
+[01:39:54] quién es
+[01:39:56] es un ex astronauta de la nasa es un
+[01:40:00] ingeniero nuclear que en este momento
+[01:40:03] desarrolla una planta de hidrógeno verde
+[01:40:05] con su empresa tiene una empresa en su
+[01:40:07] país que es costa rica no figura en todo
+[01:40:10] lo que le nombre porque me imagino que
+[01:40:12] debe ser hogar una planta pequeña pero
+[01:40:15] digamos una persona estudiada académica
+[01:40:18] con empresa dedicada al tema y él dice
+[01:40:22] que considera que todo esto del
+[01:40:25] hidrógeno verde se considera un avance
+[01:40:28] tecnológico disruptor es decir cómo
+[01:40:30] fueron los aviones en su momento las
+[01:40:32] computadoras o los celulares bueno él
+[01:40:35] siente que en pocos años va a cambiar
+[01:40:36] todo eso lo que les decía un poco antes
+[01:40:39] si es como que ahora uno dice pero
+[01:40:41] hablamos mucho del hidrógeno pero ni
+[01:40:43] bueno fíjense que todos los años que
+[01:40:45] estuve nombrando es todo alrededor del
+[01:40:47] 2030 2035 o sea acá a 10 15 años más
+[01:40:51] tardar vamos a ver ha habido un cambio
+[01:40:53] en todo lo que es la energía
+[01:40:56] prácticamente en una abrir y cerrar de
+[01:40:58] ojos vamos a estar viviendo de otra
+[01:41:00] manera
+[01:41:02] bien
+[01:41:03] aquí entonces hemos terminado por lo
+[01:41:07] menos conmigo con este tema de hidrógeno
+[01:41:09] espero que les haya resultado amena
+[01:41:12] tanto la clase del viernes como esta que
+[01:41:14] les haya resultado interesante y bueno
+[01:41:18] si hay más consultas
+[01:41:19] gastón ahora me l
+[01:41:22] y bueno la próxima clase saber al otro
+[01:41:25] tema con otro profe
+[01:41:29] profe muy buenas de clase la verdad muy
+[01:41:32] interesante y hay muchas preguntas
+[01:41:35] bueno hay una que dice buenas tardes en
+[01:41:39] latinoamérica chile o brasil serían los
+[01:41:42] más avanzados en proyectos de hidrógeno
+[01:41:44] verde en realidad chile chile el más
+[01:41:47] avanzado
+[01:41:49] brasil está digamos como nosotros tiene
+[01:41:53] buena superficie tiene buenos recursos
+[01:41:56] pero están ahí
+[01:41:58] digamos chiles está un poquito mejor
+[01:41:59] porque está como un poquito más avanzado
+[01:42:01] que argentina pero digamos el que lidera
+[01:42:03] latinoamérica es chile que ya tiene el
+[01:42:06] proyecto en curso
+[01:42:10] aquí hay otra pregunta profe en
+[01:42:13] argentina con vaca muerta no sería un
+[01:42:15] potencial productor de hidrógeno azul
+[01:42:18] bueno el tema de vaca muerta
+[01:42:22] y petróleo que hay ahí es petróleo no
+[01:42:24] convencional no quiero entrar en
+[01:42:26] detalles e irme del tema pero el
+[01:42:29] petróleo se divide en convencional y no
+[01:42:31] convencional que todo tiene que ver con
+[01:42:33] el depósito diríamos en el que está
+[01:42:36] almacenado el no convencional es más
+[01:42:39] difícil de extraer porque el petróleo no
+[01:42:41] fluye solo hay que usar tecnología que
+[01:42:45] es muy costosa entonces por ahí
+[01:42:49] el costo de explorar ese pozo es mucho
+[01:42:52] más costoso que si fuera un petróleo
+[01:42:56] convencional o un pozo convencional se
+[01:42:58] habría que hacer una evaluación de si
+[01:43:01] ese hidrógeno azul con el costo que
+[01:43:03] implicaría extraer ese petróleo si sería
+[01:43:06] competitivo con otro proceso si tiene
+[01:43:09] mucho costo de extracción
+[01:43:13] aquí hay otra pregunta profe el proyecto
+[01:43:16] de la planta realizarse en rionegro el
+[01:43:19] finalista es financiado por australia en
+[01:43:22] una empresa australiana si es una
+[01:43:24] empresa australiana australia está como
+[01:43:26] muy avanzado y me parece que
+[01:43:29] como que ya ocupó digamos sus recursos y
+[01:43:33] su territorio y está buscando nuevos
+[01:43:36] territorios para poder seguir avanzando
+[01:43:38] con esto pero es una empresa minera
+[01:43:41] australiana
+[01:43:45] obviamente no es la única capaz tenga
+[01:43:48] financiamientos más pequeños de otras
+[01:43:50] pero me parece que esa es la mayoritaria
+[01:43:53] acá hay una pregunta de karina que dice
+[01:43:55] este proyecto es el más viable tiene
+[01:43:57] riesgos en los parámetros del clima me
+[01:44:00] refiero al ser solo estos proyectos en
+[01:44:03] hidrógeno los más probadores a escala
+[01:44:04] global
+[01:44:07] bueno en realidad estos proyectos
+[01:44:10] obviamente que tienen el clima porque
+[01:44:12] porque a ver no puedo instalar un parque
+[01:44:14] eólico en una zona donde a ver vieron
+[01:44:17] ese gráfico pero les puse que estaba por
+[01:44:19] por distintos colores donde había zonas
+[01:44:22] que tienen digamos
+[01:44:24] óptimos recursos naturales renovables
+[01:44:28] entonces siempre voy a tratar de buscar
+[01:44:30] la zona donde sea
+[01:44:32] más eficiente colocar la planta
+[01:44:35] fotovoltaica o eólica sino no conviene
+[01:44:38] porque si va a estar en riesgo porque no
+[01:44:41] va a ser eficiente o porque estiman nos
+[01:44:44] tiene digamos buena constancia entonces
+[01:44:46] no van con ese lado van por el lado de
+[01:44:49] buscar la zona más favorable de manera
+[01:44:51] de achicar
+[01:44:52] economía
+[01:44:56] aquí hay otra pregunta dice todas las
+[01:44:58] fuentes de energías renovables cuál es
+[01:44:59] la mejor en cuanto a costo mantenimiento
+[01:45:02] y desechos más allá de los estudios de
+[01:45:04] factibilidad recursos geografías etc
+[01:45:08] tengo un número de cada una
+[01:45:12] creo que en esta diplomatura si no me
+[01:45:16] equivoco en el módulo 2 vieron la
+[01:45:17] generación de todos los tipos de
+[01:45:19] energías se han visto desde nuclear que
+[01:45:22] la nuclear no es renovable sino que está
+[01:45:24] alternativa pero también al pistolero
+[01:45:25] eléctrica ámbito solar a mis teóricas
+[01:45:27] que calculo que en todas esas han visto
+[01:45:31] costos relacionados en cuanto a cuestión
+[01:45:35] ambiental todas las energías renovables
+[01:45:37] como dice la palabra son renovables y
+[01:45:39] ninguna emite gases de efecto
+[01:45:41] invernadero
+[01:45:42] lo que es ambiental son todas buenas por
+[01:45:46] igual todo lo que depende acá es que
+[01:45:48] como todas dependen de la naturaleza
+[01:45:50] entonces a ver
+[01:45:52] argentinas por ejemplo argentina no
+[01:45:54] puede aprovechar energía geotérmica
+[01:45:56] porque porque no tenemos fuentes
+[01:45:59] de géiseres que son los que promueve la
+[01:46:02] energía geotérmica entonces no lo puedo
+[01:46:05] aprovechar y en este caso no sería
+[01:46:06] eficiente cada zona o cada país va a
+[01:46:09] tener que aprovechar la energía que con
+[01:46:12] la fuente que más le convenga que más
+[01:46:17] disponga sí pero en cuanto a costo no te
+[01:46:20] voy a poder relacionar porque digamos no
+[01:46:22] es el tema que estuve desarrollando se
+[01:46:25] tendría que ponerme a buscar cada uno y
+[01:46:28] hacer una comparativa pero podrían
+[01:46:31] revisar el material del módulo donde la
+[01:46:34] diplomatura que seguramente guía y algo
+[01:46:36] de cada uno de esos
+[01:46:40] aquí hay otra pregunta pero fue que dice
+[01:46:42] cómo se almacena el hidrógeno en estado
+[01:46:45] gaseoso líquido
+[01:46:46] bueno no entra en detalle tampoco porque
+[01:46:50] algo de almacenamiento van a estar
+[01:46:52] viendo la clase que viene no sé qué
+[01:46:53] tanto detalle lo verán pero el hidrógeno
+[01:46:56] uno de los temas también que se está
+[01:46:58] investigando fuertemente es la
+[01:47:01] producción obvio y el tema
+[01:47:03] almacenamiento porque el tema del
+[01:47:05] hidrógeno es que es un gas digamos que
+[01:47:08] necesitamos comprimirlo si es un gas
+[01:47:11] bueno tiene su peligro digamos porque es
+[01:47:15] muy explosivo pero hay que comprimir lo
+[01:47:18] y por ahí a veces no es tan
+[01:47:20] conveniente de esa manera sino que es
+[01:47:23] más bien almacenarlo como un hidruro
+[01:47:26] metálico llame muy muy de tema pero
+[01:47:28] bueno tiene que ver con eso o
+[01:47:30] almacenarlo en nanopartículas bueno hay
+[01:47:33] todo un tema de investigación de ver
+[01:47:36] cuál es la forma más eficiente de
+[01:47:38] almacenarlo y que ocupe el menor espacio
+[01:47:40] posible
+[01:47:45] muy bien profe y bueno eso me parece fue
+[01:47:49] la última ano acá y otra que dice hay
+[01:47:52] algún porcentaje de la producción que
+[01:47:55] debe quedar en el país donde existen los
+[01:47:56] recursos o las inversiones extranjeras
+[01:47:58] son dueños de toda la producción
+[01:48:00] pregunta karina y habría que ver el
+[01:48:03] convenio que hace ahí hecha no habría
+[01:48:06] que leer la letra chica diríamos habría
+[01:48:08] que ver si digamos la empresa bien
+[01:48:10] invierte y como el recurso digamos a ver
+[01:48:15] cómo lo podría explicar no es que están
+[01:48:18] explotando una mina de carbón o un pozo
+[01:48:21] petrolero si se cruza el viento usa el
+[01:48:24] sol
+[01:48:25] parecería que no te están quitando un
+[01:48:28] recurso no pero bueno pero igual están
+[01:48:31] usando nuestro
+[01:48:32] nuestro suelo podríamos decir así que yo
+[01:48:35] creo que todo eso tiene que ver con los
+[01:48:37] convenios que hacen estas empresas
+[01:48:39] privadas con los gobiernos de cada país
+[01:48:43] para ver si
+[01:48:45] se queda algo para el uso acá o en el
+[01:48:47] caso de que sea totalmente exportación
+[01:48:49] bueno si obviamente va un porcentaje
+[01:48:51] digamos de ganancias para esos países o
+[01:48:55] para esas provincias o con estas zonas
+[01:49:00] bien profe acá juan pabló pregunta si le
+[01:49:05] pueden dejar alguna dirección de correo
+[01:49:07] para consultas profes
+[01:49:11] a ver dónde se las puedo bueno mi mail
+[01:49:15] esperen que yo voy para atrás
+[01:49:17] porque ahí está mi nombre así lo copian
+[01:49:23] no me di cuenta de dejarlo escrito en el
+[01:49:25] pdf que les pase
+[01:49:28] hoy
+[01:49:32] bien
+[01:49:33] bueno soy maría josé pascual leones de
+[01:49:35] mi email es maría pascualón es el josé
+[01:49:38] maría pascual on scene sin acento maría
+[01:49:41] pascual ones
+[01:49:43] gmail.com
+[01:49:46] así que cualquier cosa que me quieran
+[01:49:48] consultar me escriben que fueron alumnos
+[01:49:50] o que son alumnos de la diplomatura como
+[01:49:53] para meterme en idea de quién me de
+[01:49:56] consulta y no hay problema bienvenidos
+[01:50:02] ahí está profe
+[01:50:05] lo escribí igual en el chat por las
+[01:50:08] dudas
+[01:50:09] en buenos proponen
+[01:50:11] muy interesante la clase muchas gracias
+[01:50:14] muy clara
+[01:50:17] cuadro puso creo que la mejor clase que
+[01:50:20] veo muy instruida la profile
+[01:50:21] comunicación tuvo niveles
+[01:50:24] excelente muy clara da clase bueno
+[01:50:28] jeremías ante eso yo me voy a poner en
+[01:50:32] contacto con la gente que resuelve las
+[01:50:35] dudas de cuánto administra de
+[01:50:37] administrativas y bueno tendrían que
+[01:50:40] responder en instantes
+[01:50:43] y después excelente profes todas
+[01:50:46] palabras de halago así que
+[01:50:48] bueno me alegro mucho me alegro gracias
+[01:50:51] que entonces haya sido una clase amena
+[01:50:54] que haya sido entretenida que les haya
+[01:50:56] servido para cultivarse un poco y
+[01:50:58] conocer un poco más de este tema que
+[01:51:01] bueno dentro de unos años
+[01:51:03] espero que sea así como se prevé así nos
+[01:51:07] vamos a acordar de lo que les decía sí
+[01:51:09] bueno me alegro entonces les deseo
+[01:51:13] buenas tardes y nada de que les vaya
+[01:51:15] bien en en todo lo que es la diplomatura
+[01:51:17] en sí que les siga haciendo provecho
+[01:51:21] realmente bueno profe le deseo muchas
+[01:51:24] gracias también por haber participado en
+[01:51:26] este módulo no sé si después va a partir
+[01:51:28] tiene otra clase de energía nuclear y
+[01:51:33] ahora con esto ya me despido pues en
+[01:51:36] alguna otra futura diplomatura que no
+[01:51:38] por lo menos en casa me despido bueno
+[01:51:41] entonces de mi parte muchas gracias
+[01:51:43] profe la mejor predisposición de su
+[01:51:46] parte y bueno que tenga un buen día y
+[01:51:49] que le vaya bien profes y bueno muchas
+[01:51:52] gracias saludos a todos y bueno entre
+[01:51:55] ustedes chicos muchas gracias por haber
+[01:51:57] participado de clase y nos vemos el
+[01:51:59] miércoles que viene en la clase número 5
+[01:52:02] que tengan un buen día nos vemos

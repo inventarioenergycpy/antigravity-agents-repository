@@ -36,6 +36,7 @@ graph TD
         
         ProtelemFolder --> FactDocs["📘 facturacion-reverse-engineering/\n(Repo GitHub: PROTELEM-EPEC/facturacion-reverse-engineering)\nModelo SIGEC, Tarifas, Impuestos, Motor JS, Solar"]
         ProtelemFolder --> DemoDash["🖥️ demo-dashboard/\n(Repo GitHub: PROTELEM-EPEC/demo-dashboard)\nFactura Digital EPEC, Diseño y UI"]
+        ProtelemFolder --> RelevMed["💡 relevamiento-alumbrado-publico-medidores/\n(Repo GitHub: PROTELEM-EPEC/relevamiento-alumbrado-publico-medidores)\nWeb App Móvil, Medidores E/EAR/EAP/EAV/ERT & Luminarias"]
         ProtelemFolder --> ProjectsRed["🗄️ PROJECTS/ (Red srvfs01)\nNormativa, QVD Explorer, SIGEC Explorer, Oracle CIS/MDM"]
     end
 ```
@@ -101,16 +102,37 @@ graph TD
 4. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/04_plan_de_accion_cuadrillas_y_relevamientos.md|04. Plan de Acción de Cuadrillas y Relevamientos]]`
 5. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/05_equilibrio_relevamiento_instalacion_stock_zona_a.md|05. Equilibrio Relevamiento vs. Instalación vs. Stock Zona A]]`
 6. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/06_plan_maestro_despliegue_contractual_360k.md|06. Plan Maestro Contractual de Despliegue 360k]]`
+7. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/07_simulacion_epec_307k_cooperativas_97k_prioridades_interior.md|07. Simulación EPEC 307k vs. Cooperativas 93k y Prioridades Interior]]`
+8. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/08_graficas_ejecutivas_flujo_mensual_y_balance_stock.md|08. Gráficas Ejecutivas de Flujo Mensual y Balance de Stock]]`
+9. `[[docs/PROTELEM/despliegue-medidores-inteligentes-ami/09_propuesta_despliegue_mi_2027_operativa_escenarios_contratistas.md|09. Propuesta Operativa de Despliegue MI 2027 – Escenarios de Contratistas (2 vs. 3)]]`
 
 ---
 
-### D. Repositorios Solares: `SimuladorFotovoltaico` y `asesoramiento-parque-solar-fotovoltaico`
+### D. Repositorio: `relevamiento-alumbrado-publico-medidores`
+- **Repositorio Remoto**: [https://github.com/PROTELEM-EPEC/relevamiento-alumbrado-publico-medidores](https://github.com/PROTELEM-EPEC/relevamiento-alumbrado-publico-medidores)
+- **Ruta Local**: `D:\Proyectos\relevamiento-alumbrado-publico-medidores`
+- **Rama Activa**: `main` (Sincronizada con `origin/main`)
+- **Acceso Directo en Bóveda**: `[[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/|Carpeta de Documentación Viva]]`
+- **Ficha en Bóveda**: `[[docs/Proyectos/2026-11-02_relevamiento-alumbrado-publico-medidores|Ficha Técnica del Proyecto]]`
+- **Objetivo**: Sistema de relevamiento de campo para medidores instalados y luminarias conectadas de alumbrado público, desarrollado con Google Apps Script Web App, Google Sheets (modelo plano de 23 columnas) y Google Drive.
+
+#### 📋 Principales Documentos Técnicos Disponibles:
+1. `[[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/README.md|README del Proyecto]]`
+2. `[[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/INSTRUCTIVO_DESPLIEGUE_GOOGLE.md|Guía de Despliegue en Cuenta Google]]`
+3. `[[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/especificacion_funcional.md|Especificación Funcional y Diccionario de Campos]]`
+4. [[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/guia_operativa_paso_a_paso.md|Guía Operativa Ilustrada Markdown]]
+5. [[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/Guia_Paso_a_Paso_Relevamiento_Alumbrado_Publico.docx|Guía Oficial en Archivo Word (.docx)]]
+6. [[docs/PROTELEM/relevamiento-alumbrado-publico-medidores/Mensaje_Email_Relevamiento_Alumbrado.md|Plantilla de Correo Electrónico]]
+
+---
+
+### E. Repositorios Solares: `SimuladorFotovoltaico` y `asesoramiento-parque-solar-fotovoltaico`
 - **Repositorio Remoto PROTELEM**: [https://github.com/PROTELEM-EPEC/SimuladorFotovoltaico](https://github.com/PROTELEM-EPEC/SimuladorFotovoltaico) (Privado)
 - **Repositorio Satélite / Código Fuente**: [https://github.com/protelemepec-coder/asesoramiento-parque-solar-fotovoltaico](https://github.com/protelemepec-coder/asesoramiento-parque-solar-fotovoltaico)
 - **Análisis de Sinergia y Potenciación**: [[docs/PROTELEM/2026-11-03_analisis-sinergia-skill-solar-protelem-epec-simulador|Análisis Estratégico de Sinergia Multi-Skill: Simulador Solar EPEC]]
 - **Objetivo**: Simulación fotovoltaica georreferenciada on-grid con radiación satelital NASA POWER, consumos históricos de Oracle SIGEC y modelos comerciales Growatt/Huawei para dimensionamiento de autoconsumo e inyección a red (Ley 27.424 y Ley Provincial 10.604 de Córdoba).
 
-### E. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
+### F. Compendio Integrado de Proyectos de Red (`docs/PROTELEM/PROJECTS/`)
 - **Única Fuente de la Verdad (SSOT)** documentada para datos históricos de EPEC:
   1. `[[docs/PROTELEM/PROJECTS/sigec-explorer/|SIGEC Explorer]]`: Catálogo completo de 1.036 tablas del esquema Oracle comercial.
   2. `[[docs/PROTELEM/PROJECTS/qvd-explorer/|QVD Explorer]]`: Diccionario de 505 QVDs Qlik Sense con linaje de datos.

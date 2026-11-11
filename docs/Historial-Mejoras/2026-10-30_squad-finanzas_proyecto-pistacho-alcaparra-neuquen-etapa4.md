@@ -27,3 +27,4 @@ En la sesión del **30 de octubre de 2026**, el **Squad Ágil Multi-Agente `[S-C
    - **Detección y Saneamiento en Red-Teaming (Operador 2 ➔ Operador 1)**: Se detectó déficit de cobertura en el Tramo 1 en versión preliminar (`DSCR 0,65x` en Año 3) y se recalibró a **v2.0 Bancable** (3 años de gracia en Tramo 1 + **Cuenta Fiduciaria `DSRA` de `USD 370.000`**), alcanzando **`DSCR >= 1,85x`** en el 100% de los años de amortización, **`VAN Proyecto = USD 6.366.473` (`TIR 16,94%`)** y **`TIR Equity = 17,74%`**, certificado con **`8/8 tests EXIT CODE 0`**.
 3. **Checkpoint Documental y Repositorio Dedicado**:
    - Creación y publicación del repositorio dedicado [`inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen`](https://github.com/inventarioenergycpy/proyecto-pistacho-alcaparra-neuquen) con hoja de ruta lista para retomar la **Etapa 5 (Showroom Web Interactivo + Suite Google Docs/Slides)**.
+

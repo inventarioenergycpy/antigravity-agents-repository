@@ -1,0 +1,3616 @@
+[00:00:30] Bien, vamos a ver un poquito lo que es
+[00:00:32] la asignación de costos a tarifa, cómo
+[00:00:35] es que eh voy a repagar los costos y
+[00:00:38] aplicados a la tarifa, ¿no? Porque yo
+[00:00:40] voy a tener como una caja negra, que son
+[00:00:42] las distribuidoras y van a ver
+[00:00:44] determinados costos que pagar y se van a
+[00:00:46] pagar con otra composición que es
+[00:00:48] asociado a cómo se eh conforman los
+[00:00:52] distintos tipos de cliente y cuánto
+[00:00:54] demandan y en qué características tiene
+[00:00:56] esa demanda, ¿no? ¿Cómo es la curva de
+[00:00:59] demanda? ¿Cómo es la densidad
+[00:01:02] geográfica, etcétera. Entonces, acá
+[00:01:06] tenemos muchos costos, o sea, tenemos
+[00:01:09] mucha cantidad de costos que voy a tener
+[00:01:11] este asociados al a la operación de
+[00:01:14] distribución y además voy a tener muchos
+[00:01:17] tipos de demanda. ¿Sí? Y acá lo que nos
+[00:01:19] va a importar es el sostenimiento del
+[00:01:22] servicio. Por lo tanto, lo que voy a
+[00:01:25] necesitar es que esos costos se puedan
+[00:01:27] pagar y que sean eficientes de manera
+[00:01:30] tal de que haya continuidad en todos los
+[00:01:32] tipos de e obligaciones que tiene la
+[00:01:35] distribuidora. No
+[00:01:39] tomo mate por la garganta. Entonces,
+[00:01:42] ¿qué otras cosas son importantes además
+[00:01:44] de cubrir los costos? Bueno, que haya
+[00:01:46] señales de precio correctas. ¿Sí? ¿Qué
+[00:01:49] quiere decir que haya señales de precio
+[00:01:51] correctas? Quiere decir que voy a buscar
+[00:01:54] que si tengo un objetivo,
+[00:01:57] ver si con la conformación que tengo de
+[00:02:00] reconocimiento de costo y la aplicación
+[00:02:01] de tarifas, esos objetivos se cumplen.
+[00:02:05] Sí. eh no tiene que haber subsidios
+[00:02:07] cruzados o este al menos tienen que eh
+[00:02:10] eh buscar evitarse. Podría por una
+[00:02:13] cuestión de los de la metodología que se
+[00:02:16] aplique que quede algo descalzado porque
+[00:02:19] además entendamos que estos sistemas no
+[00:02:21] son tan flexibles, hay cierta rigidez.
+[00:02:25] Bueno, ya vamos a ver un poquito más la
+[00:02:27] la
+[00:02:29] que tenemos información asimétrica.
+[00:02:31] Entonces, todo eso influye, pero uno
+[00:02:33] debiera tener como objetivo este que no
+[00:02:36] haya subsidios cruzados. ¿Y por qué es
+[00:02:40] todo esto importante?
+[00:02:42] Porque yo no puedo hacer que un
+[00:02:44] residencial esté pagando parte de la
+[00:02:46] estructura de costo asociado para la
+[00:02:48] industria o viceversa.
+[00:02:50] ¿Por qué la señal de precio es
+[00:02:52] importante? Porque me va a permitir
+[00:02:54] llevar el sistema hacia mayor
+[00:02:56] eficiencia.
+[00:02:58] Eh, no tiene que haber distorsión entre
+[00:03:01] los costos y lo que ingresa porque eso
+[00:03:03] va en perjuicio de inversiones
+[00:03:06] y e incluso hay señales de precios
+[00:03:09] específicas que me pueden hacer
+[00:03:12] incentivar o desincentivar inversiones,
+[00:03:14] lo cual también tiene que ser visto.
+[00:03:16] ¿Sí? O sea, tenemos un gran desafío.
+[00:03:18] Tenemos que lograr que se den las
+[00:03:21] condiciones para que el sistema funcione
+[00:03:24] y se mantenga en una forma eficiente.
+[00:03:32] Bien. ¿Y qué tipo de costos tenemos?
+[00:03:34] Esto es como en cualquier empresa. Eh,
+[00:03:37] vamos a tener costos eh porque
+[00:03:39] convengamos que, bueno, como
+[00:03:41] recapitulando un poco, acá tenemos
+[00:03:43] distribuidoras. En en la Argentina
+[00:03:45] tenemos distribuidoras que son
+[00:03:46] provinciales, distribuidoras que son
+[00:03:49] empresas privadas y dependen de una
+[00:03:51] normativa y regulación provincial. Sí,
+[00:03:54] hay un marco general nacional, pero
+[00:03:56] después hay una bajada territorial a
+[00:03:59] cada provincia y en cada provincia, por
+[00:04:01] supuesto, tienen bajo eh la dinámica
+[00:04:04] propia de la provincia la las
+[00:04:07] condiciones y las características eh que
+[00:04:09] tengan, van va a ser una bajada y va a
+[00:04:11] haber una regulación específica para
+[00:04:14] cada una, pero al fin y al cabo estos
+[00:04:16] son todas empresas funcionando, ¿no?
+[00:04:19] Entonces, vamos a tener costos directos,
+[00:04:21] que son costos que vamos a poder
+[00:04:25] identificar a quién este están
+[00:04:28] asignados, como por ejemplo la los
+[00:04:31] medidores, las acometidas, eh los
+[00:04:34] transportes, los peajes específicos para
+[00:04:35] grandes usuarios. Después tenemos otros
+[00:04:39] costos que ya eh se pueden ya empezas a
+[00:04:42] tener acá un poco más de de un tenés que
+[00:04:45] definir un criterio, ¿sí? un técnico
+[00:04:47] económico, puedes decir, que este ya va
+[00:04:50] a estar a que v que van a aplicarle a
+[00:04:53] todos o a varios y se pueden ver de
+[00:04:56] alguna manera cómo eh ir distribuyendo,
+[00:04:58] ¿no? Por ejemplo, las pérdidas técnicas,
+[00:05:00] costos de operación, los mantenimientos
+[00:05:02] de las redes.
+[00:05:06] Bien, y después tenemos otros costos
+[00:05:09] comunes, pero que no es eh de asignación
+[00:05:13] tan así tan directa y taxativa. No hay
+[00:05:16] un criterio que sea físico, o sea, o por
+[00:05:19] energía o por potencia o por cantidad de
+[00:05:22] clientes. Bien. Y entonces acá empieza a
+[00:05:25] ver ya una se requiere una definición de
+[00:05:29] criterios, ¿sí?, que pueden estar
+[00:05:31] asociados a la regulación, a política, a
+[00:05:34] a objetivos este que se definan a nivel
+[00:05:37] provincial y que entonces se busque de
+[00:05:40] alguna manera distinta la asignación de
+[00:05:42] los costos. Sí, acá podemos tener los
+[00:05:45] costos corporativos, podemos eh lo que
+[00:05:48] todo lo que sería administración,
+[00:05:50] gestión comercial, los sistemas de
+[00:05:53] información que cada vez se tornan más
+[00:05:55] importante.
+[00:05:57] Ay, perdón, acaba de un pájaro golpear
+[00:06:00] el vidrio. Perdón, me asusté. este
+[00:06:04] e los sistemas de información, les
+[00:06:07] decía, por ejemplo, acá esto es muy
+[00:06:10] importante, cada vez más porque eh la
+[00:06:13] información eh con con la tecnología y
+[00:06:15] los avances tecnológicos en medición y
+[00:06:18] en sistemas de de de análisis de datos
+[00:06:22] cada vez son más importantes. Entonces,
+[00:06:24] por ejemplo, eh yo tengo la suerte en
+[00:06:26] este momento de estar haciendo un
+[00:06:28] trabajo a nivel país de infraestructura
+[00:06:30] y es muy interesante como más allá de
+[00:06:34] que las problemáticas técnicas
+[00:06:35] operativas son comunes, ¿sí? problemas
+[00:06:38] de de extensión de redes, de lejanía en
+[00:06:43] zonas rurales y la complejidad que tiene
+[00:06:45] todo esto, eh el tema de los robos que
+[00:06:48] les tienen los transformadores,
+[00:06:49] etcétera, pero todos están tratando de
+[00:06:53] incursionar y mejorar eh y meter dentro
+[00:06:56] de la agenda el tema de la medición
+[00:06:58] inteligente, los sistemas automáticos de
+[00:07:01] gestión, etcétera. Entonces, esto es
+[00:07:04] importante, ¿sí?
+[00:07:08] Y acá les quería dejar distintos métodos
+[00:07:11] que se usan eh para poder hacer esta
+[00:07:14] asignación de costos. Eh,
+[00:07:18] el primero que es el costo plenamente
+[00:07:21] distribuido, que lo que busca es
+[00:07:25] asegurar que se paguen todos los costos
+[00:07:27] asociados a la distribución. Entonces,
+[00:07:30] lo que va a hacer es según algún driver
+[00:07:33] específico, como les decía antes, o la
+[00:07:35] energía o la potencia o la cantidad de
+[00:07:36] clientes, alguna característica que se
+[00:07:39] pueda que pueda ser driver, voy a
+[00:07:41] repartir los costos.
+[00:07:44] Esto, ¿qué qué tiene de ventaja?
+[00:07:48] Que me garantiza que se van a cubrir
+[00:07:50] todos los costos, porque justamente lo
+[00:07:51] que estoy es agarrando los costos y
+[00:07:53] dividiéndolos, pero lo que tiene de malo
+[00:07:55] es que no genera ninguna señal. o
+[00:08:00] reflejo para la eficiencia. ¿Por qué?
+[00:08:03] Como estoy cubriendo todos los costos,
+[00:08:04] no tengo un incentivo para generar
+[00:08:06] eficiencia. Y por otro lado, voy a estar
+[00:08:10] eh no necesariamente siendo justa en la
+[00:08:13] en la en la repartición de los costos
+[00:08:15] porque puede ser que el driver no sea un
+[00:08:18] representativo completo de eh la del
+[00:08:22] efecto sobre cada tipo de demanda.
+[00:08:25] Después tenemos lo que sería el costo
+[00:08:27] marginal. Estos son, perdón, eh, estos
+[00:08:30] métodos son bien específicos. Después
+[00:08:32] tengan en cuenta que no necesariamente
+[00:08:34] es uno taxativo u otro, sino que puede
+[00:08:37] haber a veces alguna combinación o
+[00:08:39] alguna particularidad que se tenga en
+[00:08:41] cuenta, ¿no? El costo marginal a largo
+[00:08:44] plazo, que acá lo que busca es entender
+[00:08:49] marginalmente, o sea, analizar cuál es
+[00:08:52] el costo que me da a tener una unidad
+[00:08:56] más de demanda. Sí. Entonces, yo tengo
+[00:09:00] que ver qué tengo que hacer de
+[00:09:02] inversiones, de instalaciones, de gastos
+[00:09:04] del sistema para poder hacer esta
+[00:09:07] atención de una unidad adicional. Y esto
+[00:09:10] me va a dar señales más eficientes
+[00:09:14] porque acá yo analizo el adicional que
+[00:09:17] voy a hacer contra para tener esa
+[00:09:19] demanda, pero no necesariamente me va a
+[00:09:23] cubrir todos los costos y podría ser que
+[00:09:25] necesite algún tipo de ajuste para poder
+[00:09:28] asegurar el cubrimiento de los costos de
+[00:09:30] la distribuidora.
+[00:09:32] Pero bueno, este da una señal económica
+[00:09:35] bien eficiente.
+[00:09:37] Otro método es al revés, es el costo
+[00:09:39] evitado. Y acá es qué costos deja de
+[00:09:44] tener la empresa eh si no no está
+[00:09:48] atendiendo una unidad adicional. Sí. Y
+[00:09:52] en esto eh acá no hay una repartición de
+[00:09:58] costos. Acá eh es un eh esto sirve más
+[00:10:01] para análisis de de consumos de demandas
+[00:10:05] voluntarias, o sea, de situaciones que
+[00:10:08] estás analizando contra la desconexión,
+[00:10:10] ¿sí? Contra lo atiendo o si no lo
+[00:10:13] atiendo, ¿cómo me modifica los costos?
+[00:10:19] Y después está el eh este método que es
+[00:10:22] de Rams Botox, ahí ya mi pronunciación,
+[00:10:26] que este lo que busca es asignar
+[00:10:30] la mayor cantidad de costos, entre
+[00:10:33] comillas, ¿no?, a quién es más
+[00:10:35] inelástica, a la demanda que es más
+[00:10:37] inelástica y que no es tan sensible al
+[00:10:40] incremento de costos. Pero esto es eh, o
+[00:10:45] sea, lo que busca es lograr eh
+[00:10:48] eficiencia
+[00:10:49] afectando a quien menos le cambia el
+[00:10:52] bienestar por ese ese impacto del costo.
+[00:10:56] Y acá eh es complejo porque la en en la
+[00:11:01] distribución la demanda que es más
+[00:11:03] inelástica es la residencial. ¿Sí?
+[00:11:05] Entonces, es quien menos conocimiento
+[00:11:08] tiene, está cautivo porque no no puede
+[00:11:11] este eh eh cambiar de de de empresa y
+[00:11:15] por lo tanto el impacto eh político y y
+[00:11:19] el impacto sobre este tipo de de demanda
+[00:11:22] cauda es muy fuerte, por lo tanto es
+[00:11:24] este, digamos, eso es un es un problema
+[00:11:28] para este sistema. Bueno, en Argentina
+[00:11:31] lo que se usa es el primero básicamente
+[00:11:35] para repartir el valor agregado de
+[00:11:36] distribución y se hacen ajustes. Y
+[00:11:40] bueno, ustedes saben que a nivel
+[00:11:42] subsidios se se arma un programa aparte
+[00:11:45] donde una vez definido se se define una
+[00:11:48] un rango de demanda que va a poder
+[00:11:52] acceder a subsidios específicos que este
+[00:11:55] bueno, de hecho e actualmente este año
+[00:12:00] se cambió. Antes había tres niveles de
+[00:12:03] de demanda, hoy hay dos, N1 y N2. La
+[00:12:06] demanda N1 paga pleno, la demanda N2 eh
+[00:12:11] tiene subsidio,
+[00:12:12] [carraspeo] tiene un 50% en lo que es es
+[00:12:15] distinto energía eléctrica que gas
+[00:12:16] natural. Bien, pero en energía eléctrica
+[00:12:19] tiene un subsidio del 50% y además con
+[00:12:23] la el decreto 943 creo que es, le fueron
+[00:12:27] haciendo una reducción en escalera de
+[00:12:29] subsidios desde enero hasta diciembre.
+[00:12:32] Si no recuerdo mal, hace poquito salió
+[00:12:34] un ajuste para el invierno de de
+[00:12:39] eh del impacto en los subsidios, pero
+[00:12:41] básicamente eh eh esta demanda tiene que
+[00:12:43] solicitar el acceso a ese subsidio bajo
+[00:12:46] ciertos ciertas características y está
+[00:12:49] eh definido por por esta normativa.
+[00:12:53] Y para lo que es el la tarifa que se
+[00:12:57] hace passro, que ahora vamos a
+[00:12:59] profundizar, esa es está si adentro
+[00:13:02] tiene la señal marginal, si el costo de
+[00:13:05] generar el próximo megw en el sistema.
+[00:13:08] Pero ahora vamos a mirar un poquito más
+[00:13:11] eso en detalle. ¿Hasta acá, ¿cóm
+[00:13:13] estamos? ¿Vamos bien?
+[00:13:17] Sí, sí.
+[00:13:17] Tengo una pregunta. El último método que
+[00:13:19] nombraste, ¿se usan? ¿Se utilizan? Bien.
+[00:13:22] Perdón, perdón. de que es por ahí más
+[00:13:25] complejo, me pareció
+[00:13:28] el de el de Claro, el de asilarle a la
+[00:13:30] demanda.
+[00:13:31] Exacto. Es
+[00:13:32] bueno acá esto más que es lo que te
+[00:13:35] decía, como pleno así, eh no lo no lo
+[00:13:38] aplicas. El tema acá es el concepto, el
+[00:13:42] concepto de entender que si vos le
+[00:13:44] asignás un mayor costo a quienes eh no
+[00:13:48] puede digamos no va a cambiar su
+[00:13:51] demanda, o sea, yo en mi casa sigo
+[00:13:53] prendiendo las luces y si
+[00:13:56] Exacto. No tenés, podés modificar, pero
+[00:14:00] eh básicamente es inelástica, es
+[00:14:02] bastante inelástica eh la demanda.
+[00:14:04] Entonces yo podría asignarlo, pero
+[00:14:05] bueno, el peso político de esto es muy
+[00:14:07] fuerte. También depende muchísimo de la
+[00:14:10] situación en los países y las decisiones
+[00:14:13] este a nivel político, pero digamos vos
+[00:14:15] la tenés como herramienta, sabés que
+[00:14:17] esto es así, sabés, a ver, este tipo de
+[00:14:19] demanda es elástica, esta es inelástica
+[00:14:21] y por lo tanto en el momento de asignar
+[00:14:24] lo vas a tener en cuenta, lo cual no
+[00:14:25] quiere decir que esto se haga así
+[00:14:28] plenamente y solo ese ese método, ¿se
+[00:14:31] entiende?
+[00:14:32] Vale, gracias. Muchas gracias.
+[00:14:34] No, por favor.
+[00:14:38] Bien. ¿Y cómo se lleva todo esto? Porque
+[00:14:41] es lo que les decía, es como que tenemos
+[00:14:42] a al distribuidor
+[00:14:44] con este conviviendo en el sistema,
+[00:14:47] teniendo que adquirir determinadas cosas
+[00:14:49] y pagando algunos costos y tiene que
+[00:14:52] lograr que con su tarifa repague esto y
+[00:14:55] el y el regulador tiene que estar
+[00:14:57] observando y ajustando de manera tal que
+[00:15:00] esto se mantenga en equilibrio, ¿no?
+[00:15:02] Entonces,
+[00:15:03] ¿cómo es la tarifa? ¿Qué hay adentro de
+[00:15:06] la tarifa? Vamos a tener lo lo que sería
+[00:15:09] el pathú, el famoso pathr, que es lo que
+[00:15:12] la distribuidora le paga a Camesa, entre
+[00:15:15] comillas, Camesa, porque hoy eh es
+[00:15:18] Camesa y el está yéndose hacia sistema
+[00:15:21] de contratos que que ahora les
+[00:15:23] profundizo un poco más. Eh, después
+[00:15:27] tenemos el valor agregado de
+[00:15:28] distribución, que es lo que vamos a a
+[00:15:32] definir en una revisión tarifaria
+[00:15:34] integral, donde están todos los costos
+[00:15:36] de la distribuidora, la operación y
+[00:15:38] mantenimiento, inversiones, los gastos
+[00:15:40] de administración, atención,
+[00:15:42] comercialización, ¿sí? Todo lo que es la
+[00:15:44] gestión de las mediciones y por lo tanto
+[00:15:47] debe debe pagar todos estos estos
+[00:15:49] servicios.
+[00:15:51] Eh, esto es lo que está regulado.
+[00:15:54] Después tenemos los costos fijos y
+[00:15:57] variables, como son los costos que
+[00:16:00] pueden impactarme en eh los ¿cómo se
+[00:16:04] llama? la las conexiones, desconexiones,
+[00:16:08] el mantener las capacidades contratadas,
+[00:16:10] o sea, la potencia,
+[00:16:12] la demanda real de energía que va a
+[00:16:15] tener. Y esto va a ser distinto. La
+[00:16:20] composición tarifaria va a ser distinta
+[00:16:22] en función de qué tipo de demanda estoy
+[00:16:24] hablando. Sí, esto define la estructura
+[00:16:27] del cuadro tarifario y por supuesto los
+[00:16:30] impuestos y valor agregado, que esto va
+[00:16:32] a depender de de qué lugar estamos, los
+[00:16:36] impuestos que voy a tener. Acuérdense
+[00:16:38] que lo que es distribución es federal,
+[00:16:40] por lo tanto es injerencia a nivel
+[00:16:43] provincia y voy a tener en la factura
+[00:16:46] impuestos que son nacionales, impuestos
+[00:16:48] provinciales y e incluso municipales.
+[00:16:52] y el IVA. Bueno, el IVA es el impuesto
+[00:16:54] nacional. Eh, también puedo tener
+[00:16:56] fondos, tas, contribuciones especiales.
+[00:17:00] Cada provincia tiene su composición
+[00:17:04] impositiva diferente. Hay provincias que
+[00:17:06] tienen cargos que son tas fijas, eh, o
+[00:17:11] que son eh montos por por energía, otros
+[00:17:15] que son porcentaje de toda la factura.
+[00:17:17] Así que bueno, ahí tenés gran variedad y
+[00:17:20] cuando yo tengo que analizar clientes,
+[00:17:23] lo que trato de hacer es pido una
+[00:17:25] factura porque estos impuestos no están
+[00:17:27] reflejados
+[00:17:28] en los cuadros tarifarios. O sea, yo al
+[00:17:31] bajarme, por ejemplo,
+[00:17:34] voy a una cooperativa o a una
+[00:17:35] distribuidora y quiero analizar a un
+[00:17:37] cliente eh la la situación de goodie o
+[00:17:41] pasarse al mercado y bajo el tarifario,
+[00:17:45] puedo ver cuánto me es el costo fijo, lo
+[00:17:48] la potencia, la energía, pero no tengo
+[00:17:51] la composición impositiva. Y entonces
+[00:17:54] esto básicamente lo terminas resolviendo
+[00:17:57] viendo una factura. Sí, pero bueno, es
+[00:18:00] este si no tenés que ver toda la
+[00:18:02] normativa, pero no está no forma parte
+[00:18:04] del cuadro tarifario. Eso es lo que
+[00:18:05] quiero decir.
+[00:18:10] Bien, vamos a hablar de la parte de
+[00:18:13] Pathru.
+[00:18:16] Eh,
+[00:18:18] todos entienden lo que es el pathro. El
+[00:18:20] passw es lo que adquiere la
+[00:18:23] distribuidora en el sistema y que va a
+[00:18:28] abastecer a sus clientes, pero que no
+[00:18:30] está no forma parte del servicio que
+[00:18:33] presta la distribuidora.
+[00:18:35] Se pasa en forma directa, no debiera
+[00:18:38] quedar un margen para la empresa
+[00:18:41] distribuidora,
+[00:18:43] sino que tendría que ser directamente
+[00:18:45] aplicable a la demanda.
+[00:18:49] Por lo tanto, ¿qué tengo acá? Justamente
+[00:18:51] la generación de la energía,
+[00:18:54] la el uso del sistema de de transporte
+[00:18:58] de la transmisión en el sistema
+[00:19:00] argentino de interconexión, el SADI, y
+[00:19:03] voy a tener lo que es la potencia, o
+[00:19:05] sea, se se dividen esos tres ítems,
+[00:19:07] energía, potencia y transporte.
+[00:19:10] Y eh básicamente
+[00:19:14] hoy las distribuidoras eh con la nueva
+[00:19:16] normativa, la la resolución 400, que es
+[00:19:20] empezó a en noviembre del 25, las
+[00:19:23] distribuidoras tienen dentro de los EMS
+[00:19:26] eh la obligación de estar
+[00:19:29] contractualizados hasta un 75%
+[00:19:32] de su demanda estacionalizada. ¿Cuál
+[00:19:35] sería esa? la residencial y comercial,
+[00:19:38] ¿no? Así los woodíis. Sí, acuérdense que
+[00:19:42] el el la distribuidora va a estar
+[00:19:45] abasteciendo a residenciales, a
+[00:19:47] comerciales, que son como pequeños
+[00:19:50] pequeñas demandas industriales, y las
+[00:19:53] industrias que son este ya consumos eh
+[00:19:56] un poco más grandes que este hoy la
+[00:20:00] forma de asignar la energía es la
+[00:20:05] estacionalizada y tiene una cobertura
+[00:20:07] con la generación asignada. Nada, que
+[00:20:10] ahora ahora profundizo en eso, que ya lo
+[00:20:12] deben haber visto, pero después vuelvo a
+[00:20:14] repetirlo.
+[00:20:16] Y un poquito de energía del mercado
+[00:20:18] spot. Y en cambio los goody es eh se les
+[00:20:22] asigna todo eh precio de energía al
+[00:20:24] spot. Entonces, si la distribuidora eh
+[00:20:29] tiene esta obligación,
+[00:20:31] debiera salir a contractualizar, pero
+[00:20:33] hoy la generación asignada, que son
+[00:20:36] contratos que Camesa tiene con
+[00:20:39] generación que ya se habían hecho antes
+[00:20:41] de esta resolución, ¿sí? Con los
+[00:20:44] renovar, con eh contratos con generación
+[00:20:48] térmica por distintas resoluciones, la
+[00:20:50] 21, la 287,
+[00:20:52] eh, y algunas más. Eh, dije bien, creo
+[00:20:56] que sí, la 287, eh, todas esas
+[00:20:59] resoluciones que hay contratos a medida
+[00:21:02] que se vayan cayendo dejan de formar
+[00:21:04] parte de ese grupo. Además, eh, en esa
+[00:21:07] generación asignada está las
+[00:21:09] hidroeléctricas binacionales,
+[00:21:12] eh las del COMAGUE, que tienen contratos
+[00:21:15] específicos para abastecer dentro de
+[00:21:18] esta demanda. y eh la nucleoeléctrica,
+[00:21:21] sí, la lo que es eh la nuclear. Todo eso
+[00:21:26] más o menos hoy cubre más menos, depende
+[00:21:29] qué distribuidora, el 80%
+[00:21:32] de la demanda estacionalizada.
+[00:21:35] Por lo tanto, hoy las distribuidoras
+[00:21:38] no tienen una obligación de
+[00:21:40] contractualizar
+[00:21:42] porque ya está cubierto ese 75 que están
+[00:21:45] obligados, pero en un par de años ya eso
+[00:21:48] empiezan a caerse los contratos y ya sí.
+[00:21:50] Entonces, mucho lo que están haciendo
+[00:21:52] las distribuidoras, que para mí es lo
+[00:21:54] correcto, están ya eh metiéndose en todo
+[00:21:57] esto de los contratos, están eh viendo
+[00:22:01] eh cómo es la dinámica, haciendo algunos
+[00:22:04] contratos para poder entender y poder ya
+[00:22:08] empezar a participar y tienen ese 20%
+[00:22:11] adicional para contractualizar.
+[00:22:15] En cambio, la demanda que tienen de los
+[00:22:19] goodies, ¿sí?, de los grandes usuarios,
+[00:22:21] de las distribuidoras, esos no tienen
+[00:22:23] obligación y eh de base eh son eh
+[00:22:27] contractualizados, perdón, son
+[00:22:29] abastecidos por el mercado spot, pero la
+[00:22:32] distribuidora ahí sí tiene la
+[00:22:34] posibilidad de tener un rol que es el de
+[00:22:38] comercializador o agregador, así se lo
+[00:22:40] define en la norma. ¿Y qué quiere decir
+[00:22:42] esto? que puede adquirir
+[00:22:45] energía, contratos de energía y potencia
+[00:22:48] en el mercado a término para abastecer a
+[00:22:51] estos goodies. Sí. Eh, y bueno, acá
+[00:22:55] todavía hay como un gris, hay que
+[00:22:57] terminar de hacer la bajada provincial
+[00:23:00] para ver esto, cómo se traslada a los
+[00:23:03] goodies, si no cóo, de qué manera. Bien.
+[00:23:08] Eh,
+[00:23:10] bien. Eh, entonces esto es lo que está
+[00:23:12] sucediendo hoy con el pathro. Entonces
+[00:23:15] tenemos un mix entre contratos de camisa
+[00:23:17] con energía del mercado spot. Se calcula
+[00:23:21] con toda esa información, Camesa calcula
+[00:23:24] un precio estacional y eso se le informa
+[00:23:28] a la Secretaría de Energía y la
+[00:23:29] Secretaría de Energía saca una
+[00:23:32] resolución, la programación estacional y
+[00:23:35] es la que define qué se le va a cobrar a
+[00:23:39] cada distribuidora, a todas las
+[00:23:40] distribuidoras, para cada grupo
+[00:23:42] tarifario en energía y potencia. Bien,
+[00:23:45] perdón, Nadia, interrumpo. Puede ser que
+[00:23:49] continúes en la Firmina 10 y no hayas
+[00:23:52] pasado de Firmina. Estamos en la primera
+[00:23:54] de Pastr
+[00:23:56] Sí, es que estoy hablando de esto.
+[00:23:58] Ah, perdón, perdón, perdón, perdón.
+[00:24:00] Sí, ahí me ven si la paso.
+[00:24:05] Sí, sí, sí, ahí lo veo. Ahí pasé la
+[00:24:07] siguiente.
+[00:24:11] Pero, ¿se ve la siguiente o sigue en la
+[00:24:13] prim? En la 10.
+[00:24:13] Sí, sí, sí. Se ve, se ve, se ve. Tenía
+[00:24:15] eh tenía miedo que no haya pasado el
+[00:24:17] filmino. Perdón.
+[00:24:18] No, perfecto. Gracias. No, no, gracias,
+[00:24:20] gracias. La otra vez creo que me pasó
+[00:24:22] eso. Bueno, igual viene bien porque
+[00:24:24] justo justo estaba por pasarla. Eh,
+[00:24:28] bueno, y acá tenemos lo que es el precio
+[00:24:30] estacional
+[00:24:32] que vamos a tener. Acá yo les dejé en
+[00:24:34] este
+[00:24:36] en esta, ¿cómo es? este este cuadrito,
+[00:24:40] ¿qué distintos segmentos tenemos
+[00:24:41] demanda, como les decía, la residencial,
+[00:24:43] la no residencial o comercial y los
+[00:24:46] goodies, ¿ven? Y acá está el costo es un
+[00:24:50] para el residencial recibe un costo mix
+[00:24:53] entre asignada y spot. El no residencial
+[00:24:56] lo mismo y el goody es spot. Entonces,
+[00:24:59] si yo como goody le pido a la
+[00:25:02] distribuidora hacer un contrato para
+[00:25:04] poder abastecerme, lo que estoy tratando
+[00:25:07] es de protegerme de la de la volatilidad
+[00:25:11] que tiene el mercado spot y a la vez a
+[00:25:13] lo mejor conseguir algún tipo de ahorro.
+[00:25:15] Bien.
+[00:25:19] Bueno, y acá lo que les decía, la
+[00:25:20] secretaría fija el precio estacional, lo
+[00:25:23] hace primero semestral y después
+[00:25:26] trimestral y podría llegar a ser eh
+[00:25:29] mensual. Eh, Camesa va a ser la que
+[00:25:33] define y hace todos los cálculos y
+[00:25:35] factura a las distribuidoras.
+[00:25:37] Y el distribuidor esto hace un passro eh
+[00:25:41] en función de de sus tarifarios
+[00:25:45] ajustando con las pérdidas. Bien, porque
+[00:25:48] me ha pasado que me preguntan el peaje
+[00:25:51] que la tarifa del peaje que paga un gran
+[00:25:53] usuario, no los goodis, los gumas y los
+[00:25:55] gumes, ese peaje, vos decís, es es por
+[00:25:59] el uso del sistema y por lo tanto son
+[00:26:02] este dice, bueno, son gastos fijos, se
+[00:26:04] pagan a través de la potencia y me dice,
+[00:26:07] "¿Y qué estás pagando con la energía? Si
+[00:26:09] la energía se la pago a camisa o a un
+[00:26:11] contrato, lo que yo estoy pagando en
+[00:26:13] energía, en un peaje, es justamente las
+[00:26:16] pérdidas.
+[00:26:17] en el sistema de distribución. Sí, más o
+[00:26:20] menos debieran rondar entre 3 5% del
+[00:26:23] valor de la energía.
+[00:26:32] Bueno, acá para que vean más o menos eh
+[00:26:36] cómo cómo sería el caso comparando
+[00:26:40] para el gran usuario. Hoy hoy se da una
+[00:26:42] situación muy muy interesante. sé eh si
+[00:26:46] son más de acá de distribución o o de
+[00:26:50] qué rubros, pero lo que está pasando es
+[00:26:53] que los los goodies están saliendo eh
+[00:26:57] muchísimo a a participar del mercado
+[00:27:00] como Guma y Gume para poder
+[00:27:02] contractualizar y tener la flexibilidad
+[00:27:04] del mercado.
+[00:27:06] Esto está pasando y lo y pueden ver
+[00:27:09] resoluciones que salen con sábanas de de
+[00:27:12] cantidad de goodies que se pasan al
+[00:27:14] mercado. Esto se da justamente porque al
+[00:27:17] vos ser goody tenés varios temas. Uno,
+[00:27:21] te hacen un pasaje completo del del
+[00:27:24] precio spot y tenés toda la volatilidad
+[00:27:27] del sistema. Esto no es en forma
+[00:27:29] directa. La tarifa es estacionalizada, o
+[00:27:32] sea, está establecida la tarifa, pero te
+[00:27:34] viene un ajuste con la 976, con la
+[00:27:38] resolución 976, que hace que el goody
+[00:27:41] paga exactamente lo mismo que el Guma y
+[00:27:43] el Gume. Esto eh empezó esto fue a fines
+[00:27:47] del 23 y empezó a a impactar en los en
+[00:27:52] las facturas de la distribuidora en
+[00:27:54] febrero del 24. Y básicamente lo que
+[00:27:57] hace eso, es mira cuánto pagó el goody
+[00:28:00] en el precio estacional,
+[00:28:03] cuánto debiera haber pagado este en el
+[00:28:06] sistema en el mercado spot. Hace la
+[00:28:08] diferencia para los ítem energía,
+[00:28:11] potencia y transporte y se lo factura.
+[00:28:14] Normalmente la distribuidora esto lo
+[00:28:16] factura dos dos meses más tarde porque
+[00:28:19] entre que llega el DT, el documento de
+[00:28:22] transacciones económicas de Camesa y lo
+[00:28:24] puede asignar,
+[00:28:25] entonces tenés un desfasaje, pero lo ves
+[00:28:29] en la tarifa, vas a ver la factura.
+[00:28:30] Incluso hay veces que lo que se paga de
+[00:28:33] ese cargo es exactamente lo mismo que se
+[00:28:36] pagó en toda la factura de la
+[00:28:37] distribuidora.
+[00:28:38] [resoplido]
+[00:28:38] Entonces, eso impacta en que antes vos
+[00:28:42] cuando eras goody decías, bueno, si el
+[00:28:44] precio de la tarifa está atrasado y en
+[00:28:47] peso, nunca te convenía salir a al
+[00:28:50] mercado porque el mercado está
+[00:28:51] dolarizado, se ajustaba todo el tiempo,
+[00:28:54] entonces no salías.
+[00:28:56] E incluso
+[00:28:58] con la resolución 21 del de principios
+[00:29:02] del año 25 se termina de resolver las
+[00:29:06] problemáticas del goody. ¿Por qué?
+[00:29:09] Porque el goody antes si vos salías al
+[00:29:11] mercado, no podías volver a a ser goody,
+[00:29:15] a ser parte de la distribuidora. En la
+[00:29:17] resolución 21, esto se resuelve, se dice
+[00:29:19] que el goodi puede salir y entrar y en
+[00:29:21] la resolución 400 se le determina de
+[00:29:24] definir el marco de los plazos. Para
+[00:29:26] pasarte al mercado es un año y para
+[00:29:29] volver, no me acuerdo, es eh no al
+[00:29:30] revés, perdón, para pasarte no es tanto
+[00:29:33] tiempo, pero para volver necesitas un
+[00:29:35] año, pero le termina de quitar todas las
+[00:29:37] problemáticas al goody de los miedos de
+[00:29:40] salir al mercado. Por un lado, porque no
+[00:29:44] la tarifa no se queda atrasada y por el
+[00:29:46] otro porque puede entrar y salir sin
+[00:29:47] problema si quisiera.
+[00:29:51] más un mercado donde se busca la
+[00:29:54] competitividad y encima el precio spot
+[00:29:56] cada vez tiene mayor volatilidad. Eh,
+[00:30:00] que ahora si quieren profundizo un
+[00:30:02] cachito en este concepto, pero
+[00:30:04] básicamente lo que me está haciendo es
+[00:30:06] que el goodi, este fenómeno se está
+[00:30:08] dando y lo podemos ver en las
+[00:30:09] resoluciones, los goodies están saliendo
+[00:30:11] al mercado fuertemente. Y acá hay un
+[00:30:14] gran trabajo del lado de las
+[00:30:16] distribuidoras y cooperativas en caso de
+[00:30:20] querer por un tema de objetivos
+[00:30:23] empresarios retener y mantener a los
+[00:30:25] budis dentro de su scope, dentro de su
+[00:30:27] de su gestión. Entonces, ¿qué quiere
+[00:30:31] decir esto? es, hay que entender qué
+[00:30:34] valor agregado puede dar la
+[00:30:36] distribuidora a este gran usuario para
+[00:30:39] que elija quedarse bajo la protección de
+[00:30:42] la distribuidora. Sí. Y acá es eh buscar
+[00:30:46] eh situaciones de de winwin. Acá les
+[00:30:49] muestro esto
+[00:30:51] y les explico bien qué es lo que les
+[00:30:53] estoy haciendo acá. un goodie en toda su
+[00:30:57] tarifa, esto es un ejemplo, ni siquiera
+[00:30:59] eh tiene de una en particular, ¿no? Pero
+[00:31:01] para tener algunos números en la cabeza,
+[00:31:04] un goody en el sistema de la
+[00:31:06] distribuidora, por ejemplo, puede estar
+[00:31:08] pagando $10
+[00:31:10] la energía más todo más todo el servicio
+[00:31:12] completo, impuestos, etcétera. Pero
+[00:31:16] cuando este gran usuario sale al
+[00:31:18] mercado, va a poder eh con tomar energía
+[00:31:22] en el mercado spot. Pongámosle $60 eh
+[00:31:25] promedio año. Para mí este año va a
+[00:31:26] terminar un poquito más, pero eh
+[00:31:28] pongámosle 60. La potencia son eh $16,
+[00:31:33] pero por megw o en horas de remuneración
+[00:31:36] de la potencia. Esto energizado
+[00:31:39] dependiendo el factor de uso son unos
+[00:31:40] $10.
+[00:31:42] Otros servicios que se paga que también
+[00:31:46] depende dónde está ubicada. Sí, los el
+[00:31:48] transporte va a depender de dónde está
+[00:31:50] ubicada y dónde está la conexión.
+[00:31:53] [tos][risas]
+[00:31:53] Pero pongámosle [carraspeo]
+[00:31:54] $2 más,
+[00:31:57] un peaje que puede ser de 45. Ojo con
+[00:32:00] los peajes. Tenemos peajes desde 20 de
+[00:32:04] 20 y piquito de dólares hasta c0.
+[00:32:08] Eh, hay hay peajes muy onerosos. Cuando
+[00:32:11] uno analiza esta esta cuenta, a mí a
+[00:32:13] veces me dice, "Pero, ¿qué porcentaje
+[00:32:15] ahorras?" No, no es algo que vos puedas
+[00:32:18] calcular eh eh así eh eh directamente,
+[00:32:23] hay que hacer la cuenta en detalle.
+[00:32:25] Siempre vas a tener un ahorro al pasarte
+[00:32:28] de UDI a gumo agume en el impacto de eh
+[00:32:32] de los impuestos, porque tu base de
+[00:32:35] cálculo de impositiva es más chica, pero
+[00:32:39] no necesariamente todo es igual.
+[00:32:41] Entonces cada caso se tiene que analizar
+[00:32:44] en particular.
+[00:32:46] Y si yo encima a este UME o Guma que
+[00:32:49] salió al mercado
+[00:32:51] [tos]
+[00:32:53] lo hago hacer un contrato que logre
+[00:32:56] hacer un contrato de energía que me
+[00:32:58] ahorre 5 y un contrato de potencia que
+[00:33:02] me ahorre también un porcentaje,
+[00:33:04] estos otros ítem no los voy a ahorrar
+[00:33:07] porque esto se mantiene igual. Voy a
+[00:33:10] tener un mayor ahorro. Bueno, y esto lo
+[00:33:13] están viendo todos los Wiis. Y por lo
+[00:33:15] tanto, si la distribuidora quiere que el
+[00:33:19] goody quede dentro de su scope, tiene
+[00:33:21] que lograr algún tipo de beneficio o
+[00:33:24] valor agregado que haga que este ahorro
+[00:33:28] o lo o lo o lo compare o le esté dando
+[00:33:31] valor desde otro lugar,
+[00:33:34] ¿se entiende?
+[00:33:37] Porque de otra forma lo que está pasando
+[00:33:39] es que los goodies buscan salir. ¿Y qué
+[00:33:42] beneficio puede tener la distribuidora
+[00:33:44] teniendo a los goodies dentro? Acá hay
+[00:33:46] un tema de de financiero, eh, por un
+[00:33:49] lado, porque por cuándo se se cobra y se
+[00:33:52] paga, eh, que es importante la cantidad
+[00:33:55] de de de facturación, pero por otro
+[00:33:58] lado, lo que puede pasar es que haya
+[00:34:01] situaciones de desequilibrio por porque
+[00:34:04] no está ajustada la o no está hecha
+[00:34:07] completa o no está bien hecha la
+[00:34:08] revisión tarifaria y que el peaje no
+[00:34:12] termine de cubrir todos los costos de
+[00:34:15] del sistema de distribución y por lo
+[00:34:17] tanto eh eh tengas un de seguido, ¿se
+[00:34:20] entiende? O sea, que yo la tarifa plena
+[00:34:22] sí me sirva para cubrir los costos de la
+[00:34:24] distribuidora y el pathr, pero que el
+[00:34:26] peaje no esté calculado correctamente y
+[00:34:29] no cubra el 100% de los costos de
+[00:34:32] distribución. Y por lo tanto la
+[00:34:34] distribuidora va a tener solamente un
+[00:34:36] problema financiero, sino que no va a
+[00:34:38] tener el ingreso suficiente y necesario
+[00:34:41] para cubrir el costo asociado a este
+[00:34:44] gran usuario en el mercado.
+[00:34:50] Bien.
+[00:34:51] Bueno, perdón, hay que entender otra
+[00:34:54] cosa más. El gran usuario Woody recibe
+[00:34:57] una hay temas cualitativos, ¿no? El gran
+[00:34:59] usuario Woody recibe una factura de la
+[00:35:01] distribuidora y paga. No tiene nada más
+[00:35:05] que eso. En cambio, cuando vos salís al
+[00:35:08] mercado, si sos Gume, tenés un nivel de
+[00:35:12] de requerimiento. Si sos Guma, tenés
+[00:35:14] muchos más.
+[00:35:16] Pero agregar contratos, distintos
+[00:35:18] agentes, vas a tener facturas del
+[00:35:20] generador, de camesa, de la
+[00:35:22] distribuidora, vas a tener que gestionar
+[00:35:25] otros plazos de pago, van a ser en
+[00:35:27] dólares. Bueno, todas esas cosas a los
+[00:35:28] grandes usuarios les impacta y este eso
+[00:35:31] a veces los hace eh no querer pasarse,
+[00:35:34] ¿no? Ya requiere un poquito más de
+[00:35:37] estructura para para el seguimiento,
+[00:35:39] etcétera. [resoplido]
+[00:35:44] Bien, ahora vamos a lo que es este ya, o
+[00:35:47] sea, ya entendimos un poquito qué es lo
+[00:35:49] que pasa con la demanda. Vamos a mirarlo
+[00:35:51] ahora del otro lado y es la interacción,
+[00:35:54] ¿no?, del la distribuidora con el
+[00:35:55] cliente, sino que vamos a ver la
+[00:35:58] distribuidora y el regulador.
+[00:36:02] Y acá tenemos un problema que es clave
+[00:36:05] en estos sistemas regulados,
+[00:36:09] que es que este hay asimetría de
+[00:36:12] información.
+[00:36:13] Esto pasa en cualquier eh situación,
+[00:36:16] ¿no? O sea, quien está operando y
+[00:36:19] desarrollando y generando es el que
+[00:36:22] tiene el conocimiento específico de
+[00:36:25] todo, la estructura, de la dinámica, de
+[00:36:27] los costos y de toda la información.
+[00:36:30] entiende eh dónde están las necesarias
+[00:36:32] las inversiones, qué niveles de
+[00:36:34] inversiones, cuánto está siendo el
+[00:36:36] beneficio, etcétera. Pero
+[00:36:39] eh
+[00:36:41] el regulador no tiene todo este
+[00:36:42] conocimiento y no solo no lo tiene, sino
+[00:36:46] que no tiene la estructura. Imagínense
+[00:36:48] que no puede el regulador que tiene que
+[00:36:50] controlar a más de una empresa tener la
+[00:36:53] la misma cantidad de gente que la
+[00:36:54] distribuidora tiene para desarrollar la
+[00:36:57] operación del sistema propio el
+[00:37:00] regulador para controlarla. Entonces, eh
+[00:37:04] hay una simetría que eh requiere otro
+[00:37:08] tipo de acción o herramientas que le
+[00:37:11] permita al regulador tener una manera de
+[00:37:14] hacer la gestión sobre la información
+[00:37:18] para poder llevar un seguimiento
+[00:37:20] correcto de de los costos, de las
+[00:37:22] inversiones y de todo lo que está
+[00:37:24] haciendo la distribuidora con los
+[00:37:26] activos de eh del de lo que sería la
+[00:37:30] empresa en sí.
+[00:37:33] Eh,
+[00:37:34] y el regulador,
+[00:37:37] ¿qué tiene que velar? que la calidad sea
+[00:37:42] la correcta, que el sistema y los costos
+[00:37:45] sean eficientes, que eh las inversiones
+[00:37:49] que son necesarias se realicen y las que
+[00:37:51] se compromitieron se realicen.
+[00:37:54] Y la empresa, bueno, debe justamente eh
+[00:37:58] poder eh comprobar o o dar todo esto en
+[00:38:02] información a la al regulador. Pero
+[00:38:04] bueno, acá tenemos un tema de la
+[00:38:06] simetría de la información.
+[00:38:13] [tos]
+[00:38:14] Y bueno, lo que todos deben estar
+[00:38:15] pensando y es, ¿qué pasa con esto? Esto
+[00:38:19] genera distorsión y en esta distorsión
+[00:38:23] eh tenemos eh como dos instancias, una
+[00:38:26] que es antes del de lo que sería la
+[00:38:29] concesión o el contrato y otro que es
+[00:38:32] después. El antes es que cuando yo
+[00:38:36] estoy, por ejemplo, de o valuando a la
+[00:38:39] empresa o definiendo la revisión
+[00:38:41] tarifaria,
+[00:38:43] puedo llegar a tener una, o sea, inflar
+[00:38:48] números, lo las inversiones que se
+[00:38:50] necesitan, eh la los costos que vienen
+[00:38:55] asignados a cada a cada grupo tarifario.
+[00:38:58] Y por lo tanto esto podría llegar a
+[00:39:00] generar que las las tarifas sean
+[00:39:03] elevadas. Entonces por el otro lado, el
+[00:39:06] regulador, ¿qué tiene que hacer? Tiene
+[00:39:07] que ser crítico, entender este si esto
+[00:39:11] está e eh eh evaluado de más y podría
+[00:39:15] llegar a pasar que incluso [risas] esto
+[00:39:19] genera un perjuicio que es que no se
+[00:39:21] llega a cubrir los costos. El regulador
+[00:39:23] tiene que eh llegar a
+[00:39:26] no eh a poder entender qué qué cosas no
+[00:39:29] van, pero al mismo tiempo que sean lo
+[00:39:31] suficientes como para cubrir los costos,
+[00:39:33] porque de otra forma también termina
+[00:39:35] perjudicando a todo el sistema. Y
+[00:39:38] después tenemos el post. Una vez que ya
+[00:39:40] está, la empresa está trabajando, la
+[00:39:42] empresa está tiene el control de la de
+[00:39:44] la empresa y está llevando adelante la
+[00:39:47] operación del sistema y que puede ser,
+[00:39:49] por ejemplo, que eh no tenga incentivo
+[00:39:54] a realizar las inversiones.
+[00:39:57] Entonces, eh o a a hacer una reducción
+[00:40:00] de las pérdidas.
+[00:40:02] Sí. [tos]
+[00:40:05] Y todo esto
+[00:40:08] va justamente en detrimento de la
+[00:40:10] calidad y de los del servicio para los
+[00:40:14] clientes. Eh, entonces tenemos doble
+[00:40:18] desafío, el desafío de antes de poder
+[00:40:21] entender qué es y cómo se le cómo es
+[00:40:25] correctamente asignable y después es, o
+[00:40:28] sea, una vez que lo tenés, cómo lo estás
+[00:40:30] cumpliendo y cómo estás manteniendo el
+[00:40:33] sistema. Bien.
+[00:40:39] [resoplido]
+[00:40:41] Bueno, por supuesto, para poder reducir
+[00:40:44] esta simetría, hay distintas
+[00:40:47] herramientas que voy a poder tener desde
+[00:40:50] el lado de la regulación para poder eh
+[00:40:53] llevar adelante la gestión de de
+[00:40:54] control. Eh,
+[00:40:57] y son, por ejemplo, auditorías. Acá
+[00:41:00] tenemos que tener un una entidad que sea
+[00:41:04] este que no esté comprometida con las
+[00:41:06] partes y que pueda hacer una auditoría,
+[00:41:08] verificaciones initu, ver cruzar datos
+[00:41:12] de lo que lo que está indicado en los
+[00:41:14] balances contra lo que realmente está en
+[00:41:17] el cuando voy a correr la la el sistema
+[00:41:21] y poder ver que los kilómetros de líneas
+[00:41:24] que están informados estén, que la
+[00:41:26] cantidad de clientes atendidos sea la
+[00:41:28] correcta.
+[00:41:30] y poder cruzar esa información. Estas
+[00:41:33] auditorías pueden ser técnicas o
+[00:41:36] contables y o contables. Después tenemos
+[00:41:39] eh lo que serían penalización, lo que
+[00:41:42] sería la las sanciones por
+[00:41:44] incumplimientos en los niveles de
+[00:41:46] calidad, ¿no? Entonces, si yo incumplo,
+[00:41:49] por ejemplo, en cantidad de cortes o
+[00:41:52] duración de los cortes, puedo llegar la
+[00:41:54] empresa tenga que pagar
+[00:41:57] a sus clientes por este
+[00:41:59] desabastecimiento. Y esto sucede. Esto
+[00:42:01] estuvo parado mucho tiempo porque no
+[00:42:03] había eh avance en la en las tarifas,
+[00:42:06] pero eh este eso existe y a los clientes
+[00:42:10] yo les he visto que se lo terminan
+[00:42:13] pagando. Acá es importante de parte de
+[00:42:15] la demanda hacer los reclamos
+[00:42:17] pertinentes cuando no se cumple con la
+[00:42:19] calidad, ¿no? Porque tienen sus
+[00:42:20] parámetros. La la la los contratos de
+[00:42:23] concesión tienen los parámetros de
+[00:42:25] cantidad y de duración que le va a
+[00:42:27] permitir [tos]
+[00:42:29] ante [carraspeo] cierta acumulación eh
+[00:42:31] tener una penalidad que tiene que ser
+[00:42:33] pagada al cliente.
+[00:42:36] [resoplido]
+[00:42:37] me ha pasado de de charlar con con
+[00:42:39] distribuidores y decirle, "Mira, estás
+[00:42:40] teniendo problema de calidad acá, no vas
+[00:42:42] a hacer las inversiones, hay que hacer
+[00:42:43] una inversión en esto para y te dicen,
+[00:42:45] bueno, hacé el reclamo
+[00:42:49] porque eso me apalanca a mí, me repaga
+[00:42:52] la inversión, o sea, la penalidad que
+[00:42:53] tengo que pagar me repaga la inversión
+[00:42:56] que se tiene que realizar." Entonces,
+[00:42:58] les eh es importante hacer esos reclamos
+[00:43:01] para que quede registro y que que
+[00:43:04] apalanque o gatille este tipo de
+[00:43:06] inversiones necesarias para mantener y
+[00:43:08] mejorar la calidad en los en el
+[00:43:09] servicio.
+[00:43:11] Bueno, tenemos el benchmarking, que es
+[00:43:13] básicamente poder comparar. El
+[00:43:16] benchmarking lo deben conocer todos, es
+[00:43:19] eh básicamente busco a ver qué están
+[00:43:22] haciendo los demás, distinto o igual y
+[00:43:25] qué cosas puedo aplicar.
+[00:43:28] en mi sistema para poder mejorar. Bien.
+[00:43:31] Eh, y acá va a servir para lo que es no
+[00:43:34] regulación, justamente para poder decir,
+[00:43:37] bueno, a ver, vos me estás diciendo que
+[00:43:38] tenés estos costos, pero otra empresa
+[00:43:40] con la con bajo ciertas características
+[00:43:42] está con otros costos muy distintos y me
+[00:43:45] puede servir de comparación para poder
+[00:43:47] entender eh si lo que yo estoy eh
+[00:43:50] controlando está eh es eficiente.
+[00:43:55] Bueno, también tenemos eh herramientas
+[00:43:58] eh de contables y regulatorias
+[00:44:00] estandarizadas,
+[00:44:01] [tos][risas] que es [carraspeo] definir
+[00:44:03] eh una estructura que sea comparable y
+[00:44:07] que pueda entonces llevar eh e a través
+[00:44:11] de unidades constructivas comunes y todo
+[00:44:13] poder hacer controles eh y comparaciones
+[00:44:16] más definidas más paramétricamente, ¿no?
+[00:44:20] Después tenemos instancias de audiencias
+[00:44:21] públicas, consultas públicas a través de
+[00:44:24] de estas reuniones que se convocan para
+[00:44:27] que usuarios, entidades puedan dar sus
+[00:44:31] comentarios y devoluciones y reclamos
+[00:44:34] específicos antes de aprobar tarifa.
+[00:44:39] Y bueno, y después hay formas eh de
+[00:44:43] controlar que esto creo que también Fer
+[00:44:46] habla que es eh el sistema Price Cap,
+[00:44:48] que es definir un precio eh tope al cual
+[00:44:52] eh yo puedo acceder. eh Rivus CAP, que
+[00:44:56] es eh está asociado a un tope de de la
+[00:45:00] renta, de la remuneración, eh sharing
+[00:45:03] factors que bueno que acá es bueno, si
+[00:45:06] se logra una eficiencia
+[00:45:09] eh en los costos, eh una parte se la
+[00:45:12] queda la empresa y otra parte sí va a
+[00:45:15] reducción de tarifa. Entonces, la
+[00:45:17] empresa se ve eh más incentivada a hacer
+[00:45:21] un ahorro en eficiencia porque se queda
+[00:45:24] con una parte de esa eficiencia como
+[00:45:26] como renta nueva. En cambio, si si cada
+[00:45:29] eficiencia que logra se pasa al usuario,
+[00:45:33] la distribuidora podría llegar a no
+[00:45:34] estar incentivada a hacer esos
+[00:45:36] esfuerzos.
+[00:45:42] Bien,
+[00:45:45] lo que es el benchmarking de
+[00:45:47] electricidad, como les decía, es busca
+[00:45:50] eh
+[00:45:53] comparar
+[00:45:54] eh a ver, para que se den una idea, es
+[00:45:57] muy difícil cuando a vos, vos como
+[00:46:00] regulador se te presenta una empresa y
+[00:46:03] te empieza a dar información y vos tenés
+[00:46:06] que lograr entender si con esa
+[00:46:08] información que te está facilitando,
+[00:46:11] están bien o están mal. Vos tenés por un
+[00:46:13] lado
+[00:46:15] eh todo lo que sería técnico y y todo lo
+[00:46:19] que serían las instalaciones y por otro
+[00:46:21] lado tenés todos los costos y el asignar
+[00:46:24] directamente todo eso no es algo que que
+[00:46:27] sea sencillo, es muchísima información y
+[00:46:30] muchísimo ruido. ¿Qué quiere decir que
+[00:46:32] hay ruido? Quiere decir que hay
+[00:46:33] información específica que depende de
+[00:46:36] ciertas eh situaciones o características
+[00:46:40] del momento, climáticas,
+[00:46:43] locales, eh eh que me van a impactar.
+[00:46:46] Entonces, analizar pudiendo diferenciar
+[00:46:49] todo esto no es tan sencillo para poder
+[00:46:52] usarlo como una herramienta.
+[00:46:59] Bien.
+[00:47:04] Entonces, ¿qué hago con el benchmarking?
+[00:47:07] Lo que estoy buscando es lograr
+[00:47:12] eh comparar, pero pero acá el foco está
+[00:47:16] en la eficiencia. ¿Qué cuando yo comparo
+[00:47:19] es contra qué me comparo? Lo que yo voy
+[00:47:21] a buscar es, okay, quiero entender que
+[00:47:24] vos, cómo serías vos en forma eficiente
+[00:47:28] y entender cómo estás ubicado dentro de
+[00:47:32] la de las curvas para entender cuán
+[00:47:36] lejos o cerca vas a estar de ese nivel
+[00:47:38] de eficiencia que yo te voy a exigir.
+[00:47:40] Bien, entonces esto no es sencillo. Lo
+[00:47:43] que va a buscar entonces es esta
+[00:47:46] frontera de eficiencia, definir este
+[00:47:48] esta frontera de eficiencia. Y lo que
+[00:47:52] voy a intentar es
+[00:47:55] llevar a la empresa hacia esa frontera.
+[00:47:58] La voy a obligar o la voy a buscar
+[00:48:01] decir, "Bueno, esto es contra lo que te
+[00:48:02] estoy comparando. Esta es la eficiencia
+[00:48:04] que vos tendrías que tener. ¿Por qué?
+[00:48:06] Porque se logra. Bien. ¿Y cómo tengo que
+[00:48:08] decir eso? lo hago eh teniendo que
+[00:48:11] definir claramente un universo de
+[00:48:13] empresas comparables. Tengo que poder
+[00:48:16] elegir correctamente cuáles son los
+[00:48:18] inputs, ¿sí? ¿Y cuáles son los outputs?
+[00:48:21] Los input van a ser, por supuesto, el
+[00:48:23] lado de los costos, el OPEX, el capex,
+[00:48:26] todas las instalaciones, cuánta retengo,
+[00:48:28] cuántos eh cuántas ET, cuántas
+[00:48:31] estaciones transformadoras, etcétera. Y
+[00:48:33] los outputs, por supuesto, son qué
+[00:48:35] cantidad de cliente, qué tipo de
+[00:48:36] cliente, cuánta energía eh tengo
+[00:48:39] abasteciendo, cómo es la conformación de
+[00:48:43] la de la demanda residencial, eh rural,
+[00:48:47] cuánto hay urbano y cuánto hay rural.
+[00:48:49] Sí, todo eso me va a impactar en la
+[00:48:52] conformación de esta frontera de
+[00:48:54] eficiencia y en cómo voy a comparar a la
+[00:48:56] empresa. Y para esto yo, bueno, acá les
+[00:48:59] puse tres métodos. Esto es bien
+[00:49:01] matemático, pero para que se los voy a
+[00:49:03] decir muy conceptual.
+[00:49:05] El primero, el DEAP,
+[00:49:08] es un análisis no paramétrico. Lo que
+[00:49:11] hace es define eh compara empresas. Sí,
+[00:49:16] acá va a definir una empresa que es la
+[00:49:18] que eh la que va a estar haciendo las
+[00:49:21] cosas eh en forma eficiente y la que
+[00:49:23] defino como forma eficiente. Y acá el
+[00:49:27] tema es que yo no puedo distinguir estos
+[00:49:29] ruidos que les decía de cosas
+[00:49:32] específicas que me pueden estar
+[00:49:33] influyendo sobre este esta eficiencia o
+[00:49:36] estos resultados de la empresa.
+[00:49:41] Y bueno, voy a poder comparar viendo
+[00:49:43] justamente la relación entre los inputs
+[00:49:45] y los outputs. Después está el de ya el
+[00:49:49] SFA, que ya acá empieza a meterse las
+[00:49:52] herramientas estadísticas. Para este
+[00:49:55] sistema ya necesito muchos datos, ¿sí?
+[00:49:58] son muestras grandes. Y acá lo que yo
+[00:50:00] voy a poder gracias a la estadística, a
+[00:50:03] la matemática, es diferenciar qué es
+[00:50:05] ruido y qué es dato.
+[00:50:09] Entonces, voy a poder diferenciar todos
+[00:50:10] estos eventos que no tienen, no están
+[00:50:12] asociados a la eficiencia de la
+[00:50:14] operación de la distribuidora y solo
+[00:50:17] enfocarme en eso y voy a poder comparar
+[00:50:19] eh a la empresa y buscar cómo lograr esa
+[00:50:23] eficiencia. Y ya, pero se requiere mucha
+[00:50:25] información que a veces parece chiste,
+[00:50:28] pero realmente es lo que más falta. ¿Sí?
+[00:50:31] Entonces, bueno, hay sistemas, métodos
+[00:50:32] más simples como el último que les puse
+[00:50:35] que eh el Cols, el correctored ordinary
+[00:50:38] list squares, que lo que busca es un
+[00:50:41] método más simple, con regresión lineal
+[00:50:43] y con menos información y busca
+[00:50:47] ajustar este la eficiencia. Acá eh no
+[00:50:52] necesariamente se separan todos estos
+[00:50:54] efectos de ruido, pero bueno, es una
+[00:50:55] herramienta un poco más sencilla, con
+[00:50:57] menos datos se puede usar mejor. Sí. Y
+[00:51:01] es estadística.
+[00:51:05] Bueno, la idea es justamente que uno
+[00:51:08] puede con esto hacer este benchmark,
+[00:51:10] esta comparación, ¿sí? Que de otra
+[00:51:13] manera no tengo forma. Si yo les digo,
+[00:51:15] "A ver, vean las distribuidoras de la
+[00:51:17] Argentina y compárenla." ¿Y cómo la
+[00:51:20] comparás? Si sabes que son distintos
+[00:51:22] tamaños, distintas composición, tienen
+[00:51:25] eh una realidad completamente distinta.
+[00:51:27] Entonces, para poder compararlas tengo
+[00:51:29] que lograr usar estas herramientas para
+[00:51:31] poder este realmente hacer una
+[00:51:33] comparación correcta.
+[00:51:39] Bien. ¿Y dónde dónde tenemos? A ver, acá
+[00:51:42] hay algunos ejemplos. Sí. Pero estamos
+[00:51:45] hablando todo con ejemplos. [tos]
+[00:51:48] [carraspeo] Por ejemplo, en el Enre
+[00:51:50] tenés la comparación entre de nor y de
+[00:51:52] sur,
+[00:51:54] eh, que van a estar eh los distintos
+[00:51:57] indicadores de calidad, pérdidas, los
+[00:52:00] costos. Sí, en función de eso se definen
+[00:52:02] las tarifas.
+[00:52:04] En Oceva, acá en la provincia de Buenos
+[00:52:06] Aires, puede haber un benchmark entre
+[00:52:08] las distintas distribuidoras
+[00:52:10] EDEN, EDS, el app y las cooperativas. Y
+[00:52:14] acá, por supuesto, hay que tener en
+[00:52:16] cuenta los tamaños, las densidades
+[00:52:18] poblacionales, la estructura rural eh
+[00:52:21] urbana, etcétera. Después en camisa
+[00:52:24] tenés otro tipo de benchmark que se usa
+[00:52:27] para justamente la el despacho que va a
+[00:52:31] estar asociado a los costos y las
+[00:52:33] eficiencias, los consumos específicos y
+[00:52:36] la disponibilidad de la generación para
+[00:52:39] la
+[00:52:40] el despacho, ¿sí? el que se llama el
+[00:52:42] despacho eficiente, justamente.
+[00:52:45] Entonces, en función de eso, Camisa
+[00:52:46] puede elencar las máquinas y decir
+[00:52:49] cuáles son las más eficientes y más
+[00:52:51] económicas y que de esa manera estén eh
+[00:52:54] despachadas en prioridad. Bueno, hoy en
+[00:52:57] día esto que les estoy diciendo es super
+[00:52:59] teórico porque hoy en día el despacho es
+[00:53:02] muy complejo asociado a estos cambios
+[00:53:04] normativos
+[00:53:06] con la intención que ha tenido eh la
+[00:53:08] Secretaría ICA mesa eh de eh proteger y
+[00:53:13] dar legitimidad a todo este proceso de
+[00:53:16] proteger los contratos firmados. Hoy
+[00:53:18] Camesa tiene un contrato de
+[00:53:20] abastecimiento de gas natural con los
+[00:53:22] productores, que es el plan gas que
+[00:53:24] vence a fines del 2028.
+[00:53:27] Y en pos del cumplimiento de ese de eso,
+[00:53:30] hoy el despacho térmico es muy complejo,
+[00:53:33] muy complejo. Sí, se está haciendo
+[00:53:36] camino al andar. A esto se le sumó todo
+[00:53:38] el lío del del GNL del de quién se hace
+[00:53:43] cargo del de los barcos de GNL
+[00:53:44] importado. Así que bueno, todo eso lo
+[00:53:47] digo acá es muy teórico. Hoy en día la
+[00:53:49] realidad de de ese ítem, si alguno está
+[00:53:52] lo vas a ver, es muy muy complejo este y
+[00:53:55] va cambiando.
+[00:53:57] Eh,
+[00:53:59] bien. Y después tenemos eh algunas cosas
+[00:54:03] que se podrían hacer, ¿no? Mientras más
+[00:54:06] más análisis y comparativas yo puedo
+[00:54:08] hacer, puedo llegar a eh lograr eh
+[00:54:13] impulsar o definir objetivos e impulsar
+[00:54:16] determinadas acciones en las
+[00:54:19] distribuidoras que le permitan mayores
+[00:54:21] eficiencias, ¿no? lo que es la medición
+[00:54:23] inteligente, los que es esto de que les
+[00:54:25] decía de de poder [tos]
+[00:54:30] dar señales de precio correctas a la
+[00:54:32] demanda para que la demanda empiece a
+[00:54:35] tener conciencia del costo de la energía
+[00:54:38] y empiece a tener educación energética y
+[00:54:42] hacer consumos más eh que puedan
+[00:54:44] colaborar en el sistema, ¿no? Pero
+[00:54:47] bueno, tenemos benchmark
+[00:54:48] interjudicional, empezar a a mirar qué
+[00:54:51] hacen otras provincias, otros otros
+[00:54:53] centes reguladores, eh comparaciones
+[00:54:57] internacionales, ver qué están haciendo
+[00:54:59] en otros países. Fer va a hablar un poco
+[00:55:01] de de otras cosas que pasan en otros
+[00:55:02] países. Eh
+[00:55:05] eh y bueno, un poco ya les conté todo,
+[00:55:09] ¿no? en tema generación, por supuesto,
+[00:55:12] es es otro mundo porque
+[00:55:15] tenés toda la parte no regulada,
+[00:55:19] más allá de que está forman parte de un
+[00:55:22] sistema regulado y por lo tanto tienen
+[00:55:24] normativa que deben cumplir, pero bueno,
+[00:55:27] es es otro mundo al ser este
+[00:55:30] no regulada.
+[00:55:38] Bien. ¿Y por qué termina siendo
+[00:55:41] importante todo esto? Eh,
+[00:55:46] todo esto,
+[00:55:48] a ver, eh eh yo creo que cuando uno hace
+[00:55:51] este tipo de análisis, no importa en qué
+[00:55:53] lugar esté, o sea, si uno está sentado
+[00:55:55] en la distribuidora, sentado eh en la en
+[00:55:57] el ente regulador, creo que acá eh el
+[00:56:00] mensaje que les doy, que es lo que lo
+[00:56:02] que a mí me parece, es que uno tiene que
+[00:56:05] entender claramente
+[00:56:07] qué está viendo, qué está necesitando y
+[00:56:10] qué está
+[00:56:12] impactándole a la otra parte. Si cuando
+[00:56:15] yo logro entender la posición de los
+[00:56:18] distintos actores y entender las
+[00:56:21] necesidades, etcétera, puedo llegar a
+[00:56:23] armar sistemas mucho más eficientes y
+[00:56:27] que funcionen, que fluyan más, que
+[00:56:30] funcionen de una manera más dinámica,
+[00:56:33] que no tenga tantas trabas y que
+[00:56:35] requiera constantemente ajustes. ¿Sí?
+[00:56:39] Entonces, para mí siempre es muy muy
+[00:56:40] importante esto, entender lo que le está
+[00:56:43] pasando a cada una de las partes y para
+[00:56:45] eso se necesita el diálogo. Eh,
+[00:56:49] entender para un, por ejemplo, un gran
+[00:56:51] usuario, entender cómo es la asignación
+[00:56:53] de los costos, eh, cómo se conforma, eh,
+[00:56:57] del passw, qué es lo que me están
+[00:57:01] haciendo de passw, cómo es que me
+[00:57:03] impacta la volatilidad del mercado spot.
+[00:57:06] eh me conviene no me conviene migrar,
+[00:57:09] cuáles son estas ventajas, puedo generar
+[00:57:11] estos ahorros,
+[00:57:14] entender la simetría de información y
+[00:57:17] cómo eh el el que está del lado más
+[00:57:21] débil, ¿no? Eh requiere estas
+[00:57:24] herramientas. Eh, y puede ser que
+[00:57:27] sistemas como la telemedición, eh, tener
+[00:57:31] sistemas de consulta que pueda uno
+[00:57:34] acceder le puede ayudar a resolver estos
+[00:57:37] problemas de asimetría, de información y
+[00:57:39] eh desconocimiento, ¿no? A veces es es
+[00:57:42] un poco el el tema de no entender eh
+[00:57:46] hace que haya mayor disparidad.
+[00:57:50] Y como les decía antes, el tema del
+[00:57:52] benchmark, que tiene que ser muy
+[00:57:55] cuidadosamente definido para que sirva,
+[00:57:57] ten uno puede eh usar esto eh pero para
+[00:58:01] poder sacar conclusiones y acciones
+[00:58:05] correctas tiene que estar bien armado,
+[00:58:07] ¿no? Porque si yo me estoy comparando
+[00:58:09] contra algo que no es este comparable,
+[00:58:13] por supuesto, las decisiones y las
+[00:58:16] herramientas que voy a sacar de eso no
+[00:58:18] van a ser las correctas.
+[00:58:21] ¿Sí? O sea, que acá hay mucho asociado
+[00:58:24] al diálogo con la otra parte que puede
+[00:58:28] ayudar eh a a que sea eh más eficiente
+[00:58:33] todo lo que sería esto de la definición
+[00:58:36] de los costos. entender la situación
+[00:58:39] real, entender cómo definir las tarifas,
+[00:58:43] cómo impactar en los clientes eh de una
+[00:58:47] manera sana, que en la cual sea
+[00:58:49] correcta, que no haya subsidios cruzados
+[00:58:51] y que sí haya eficiencia en todos los
+[00:58:53] sentidos. tiene que haber señales de
+[00:58:55] eficiencia para el distribuidor, para
+[00:58:57] que el distribuidor esté eh incentivado
+[00:58:59] a generar eficiencia y para el cliente
+[00:59:01] lo mismo. Sí, si yo tengo una tarifa, se
+[00:59:04] acordarán ustedes en un momento que paga
+[00:59:07] eh uno eh la la factura de luz era más o
+[00:59:12] menos lo mismo que salía al kiosco a
+[00:59:14] comprar unos caramelos, eso genera
+[00:59:16] ineficiencias. ¿Quién va a cambiar a LED
+[00:59:21] en su casa o quién va a apagar las luces
+[00:59:24] si pagar la la factura es tan sencillo?
+[00:59:29] De la misma manera, si yo quiero generar
+[00:59:31] un impacto en determinadas horas,
+[00:59:34] debiera tener una diferenciación y un
+[00:59:37] aprendizaje de la demanda de que eso es
+[00:59:40] así. en Europa vayan a dejar eh una
+[00:59:43] canilla perdiendo
+[00:59:46] o la luz perdida. Eh la ahí las tarifas
+[00:59:50] son fuertes y la demanda tiene muy claro
+[00:59:53] porque por el nivel de costo que tiene.
+[00:59:55] Entonces esto de el aprendizaje, el
+[00:59:58] acompañamiento al cliente y todo también
+[01:00:01] genera eficiencias. ¿Por qué? Porque si
+[01:00:02] yo logro que la demanda consuma en forma
+[01:00:05] eficiente, o sea, no hay mejor eh
+[01:00:09] eficiencia en la demanda que el no
+[01:00:11] consumo. Si yo logro que la demanda sea
+[01:00:13] eficiente, el sistema también está menos
+[01:00:16] exigido y por lo tanto funciona mejor.
+[01:00:23] Bien. A ver, nos quedó. Ah, estamos
+[01:00:25] bárbaros de tiempo que para que tengan
+[01:00:27] el recreíto y todo.
+[01:00:29] No sé cómo cómo vieron. Si tienen
+[01:00:32] consultas, hay temas que yo pasé un poco
+[01:00:35] por arriba porque sé que también ya los
+[01:00:36] vieron de los cambios normativos que
+[01:00:40] estáendo, que eh este son hay que ir
+[01:00:44] masticándolos, son complejos. No sé si
+[01:00:46] de eso tienen alguna duda, quieren que
+[01:00:48] hable un poquito más de de eso o bueno,
+[01:00:51] lo que sea, no sé.
+[01:00:59] Ninguna duda. Wow. para romper el hielo,
+[01:01:03] Nadia. Eh,
+[01:01:05] sí,
+[01:01:05] con respecto al benchmarking, ¿qué qué
+[01:01:07] parámetros se toman en la realidad
+[01:01:09] cuando uno tiene que hacer un estudio de
+[01:01:10] comparación de distribuidoras? Eh, ¿cómo
+[01:01:12] se hace realmente esa comparación?
+[01:01:14] Porque la la base que uno toma va a
+[01:01:16] definir muchísimo lo las decisiones
+[01:01:18] posteriores.
+[01:01:20] Sí, absolutamente. Bueno, por eso es
+[01:01:22] fundamental. Hay herramientas, mientras
+[01:01:25] más datos, mejor. Y a veces lo primero
+[01:01:28] que vos tenés que asegurarte es eso, es
+[01:01:31] qué datos voy a usar o qué datos
+[01:01:33] considero que son los que realmente me
+[01:01:36] van a generar este benchmark
+[01:01:38] correctamente, porque si yo arranco con
+[01:01:40] una base de información incorrecta, ¿qué
+[01:01:43] puede salir de ahí? Entonces es muy
+[01:01:46] correcto, es muy exacto lo que vos
+[01:01:48] decís, o sea, es fundamental
+[01:01:50] entender cuál va a ser mi base de
+[01:01:52] información y poder poner en juicio y
+[01:01:55] analizar correctamente eso para definir,
+[01:01:57] o sea, acá vas a a vas a definir un eh
+[01:02:01] universo de distribuidoras eh y empresas
+[01:02:06] que puedan ser comparables. Y si no son
+[01:02:09] comparables, tenés que lograr
+[01:02:11] identificar en qué y poder llevarlas a
+[01:02:14] una instancia de comparación. Sí. Este,
+[01:02:17] pero bueno, tenés herramientas. La
+[01:02:19] estadística te ayuda. Eh, armando los
+[01:02:22] muestreos, los procesos estocásticos
+[01:02:25] requieren definir eh en función del
+[01:02:28] nivel de precisión que vos querés,
+[01:02:30] definís los tamaños de muestra y en
+[01:02:32] función de eso tenés que que ver que
+[01:02:34] cuando armá las muestras lo hagas de una
+[01:02:37] manera que sea imparcial, que vos no
+[01:02:40] estés generando un sesgo en cómo estás
+[01:02:42] tomando la la información. por decirte
+[01:02:46] una pavada, quiero analizar los
+[01:02:49] kilómetros de línea que que hay en baja
+[01:02:53] tensión y digo, bueno, pero voy a
+[01:02:56] agarrar y voy a mirar acá en este
+[01:02:58] barrio, ya estoy acá, reviso solo este
+[01:03:01] barrio y ya con eso tengo el porcentaje
+[01:03:03] de la muestra. No, vos tendrías que
+[01:03:06] hacerlo en forma aleatoria, tomando en
+[01:03:08] los distintos lugares para que sea
+[01:03:10] representativo de la muestra que vos
+[01:03:11] estás queriendo, perdón, de la
+[01:03:13] población. Es una muestra que sea eh
+[01:03:16] representativa de la población que estás
+[01:03:18] queriendo analizar.
+[01:03:18] Representativ
+[01:03:21] cómo
+[01:03:21] no no representativa de la población.
+[01:03:23] Sí, sí, sí. Me salió
+[01:03:25] la definición.
+[01:03:26] Exactamente, exactamente. O sea, pero
+[01:03:29] eso yo me acuerdo cuando estudié
+[01:03:31] estadística en la facultad, eh, es es
+[01:03:36] increíble, pero cuando claro, uno cree
+[01:03:38] que esa información está es la parte más
+[01:03:40] difícil porque después le aplicas un
+[01:03:42] modelo, es un modelo matemático y sale,
+[01:03:45] pero si lo más importante es cómo vos
+[01:03:47] generá esa muestra que va a ser la
+[01:03:50] representativa de tu población y que va
+[01:03:52] a ser la base de todo tu análisis y de
+[01:03:54] todas las conclusiones. Así que si, eso
+[01:03:56] es es lo difícil e importante que bueno,
+[01:03:59] hay que ver qué información disponés,
+[01:04:01] qué calidad de información y cómo la vas
+[01:04:04] a a parametrizar, ¿no? A definir.
+[01:04:09] Bien, muchas gracias.
+[01:04:14] Mm. Les quiero decir que todo esto que
+[01:04:17] hablamos, yo lo escribí como en un
+[01:04:20] informe que se les van se lo van a dar o
+[01:04:22] si ya no se lo dieron, van a tener la
+[01:04:24] presentación y el informecito. Entonces,
+[01:04:25] en el informe hay bastante más más cosas
+[01:04:29] y
+[01:04:30] bueno, la la los cambios, yo estoy muy
+[01:04:33] metida con los cambios normativos, eh, y
+[01:04:36] tengo bastantes cosas escritas también,
+[01:04:38] o sea, que si llegaran a precisar o lo
+[01:04:40] que sea, yo creo que acá no dejé mi
+[01:04:42] teléfono en la primera o que sea
+[01:04:45] normalmente dejo el teléfono.
+[01:04:48] Perdón, me estoy yendo a la primera.
+[01:04:51] Ah, no puse mi teléfono. Bueno, eh
+[01:04:54] después le le dejo,
+[01:04:58] ¿sí? Para que a mí [carraspeo] si
+[01:05:01] necesitan, si tienen una duda,
+[01:05:04] me mandan un WhatsApp y yo los ayudo sin
+[01:05:06] problema. Es más, me prefiero WhatsApp
+[01:05:09] antes que mail, porque a veces el mail
+[01:05:11] tardo más en contestar, el WhatsApp es
+[01:05:13] automático, o sea, que yo estoy a
+[01:05:15] disposición para ayudarlos si tienen
+[01:05:18] alguna duda o algo en particular que
+[01:05:20] pueda ayudarlos, ¿no? Por supuesto.
+[01:05:24] Nadia, yo una pregunta que me quedó de
+[01:05:26] una cosa que dijiste más atrás, esto de
+[01:05:28] salir a contractualizar para los
+[01:05:30] goodies,
+[01:05:32] sí,
+[01:05:32] eh, por cuenta y orden del goody,
+[01:05:35] sí. Si bien la Secretaría de Energía
+[01:05:37] establece un precio dentro de la
+[01:05:39] programación y que es lo que trasladamos
+[01:05:41] a a Pastr,
+[01:05:44] obviamente tiene que hacer, digamos, si
+[01:05:46] se da ese contrato,
+[01:05:48] hacen un contrato especial,
+[01:05:52] entonces la facturación no se va a basar
+[01:05:54] en ese precio que se apruebe para
+[01:05:56] trasladarlo, sino que en el precio
+[01:05:58] especial que terminen acordando en ese
+[01:06:00] en ese contrato
+[01:06:04] o no.
+[01:06:06] algo algo sí
+[01:06:09] o directamente, digamos, porque si no,
+[01:06:11] ¿qué sentido tiene para el goody decirle
+[01:06:13] al distribuidor, "¿Me compras, salís a
+[01:06:15] comprar por cuenta y orden?" Si no voy a
+[01:06:17] ver ese beneficio.
+[01:06:20] Bueno, eso eso que acaba de decir es
+[01:06:23] bueno, yo de hecho me está pasando eso
+[01:06:25] que acaba de decir, me está pasando el
+[01:06:27] goody, o sea, la normativa
+[01:06:30] nacional
+[01:06:32] no dejó. Ahí hay un gris, o sea, no está
+[01:06:35] escrito. Igual, ojo, la 400 son
+[01:06:37] lineamientos. Lo que está haciendo
+[01:06:39] Camesa es escribir los procedimientos y
+[01:06:41] las provincias tienen que hacer su
+[01:06:42] bajada provincial y etcétera, etcétera.
+[01:06:44] Así que, pero no está definida la norma.
+[01:06:46] Básicamente le dieron la opción a la
+[01:06:49] distribuidora de contractualizar y le y
+[01:06:52] le dijeron al goody que a través de la
+[01:06:55] de la distribuidora pueden
+[01:06:56] contractualizar, pero la distribuidora
+[01:06:59] por motus propio puede ir y
+[01:07:01] contractualizar en con un generador para
+[01:07:04] el abastecimiento de los goodies, pero
+[01:07:07] no está obligado en la norma a hacer un
+[01:07:10] passw de esa tarifa o potencial ahorro a
+[01:07:14] sus clientes goodies Y acá está el tema.
+[01:07:17] Cuando el goody va y se le sienta a la
+[01:07:19] distribuidora le pide,
+[01:07:22] "Perdón, yo quiero que me hagas un
+[01:07:24] contrato para mí porque quiero, no
+[01:07:26] quiero estar pagando el precio spot."
+[01:07:28] Y ahí entonces hay un temita de de de
+[01:07:32] entender bien cuáles son las
+[01:07:33] obligaciones genuinas del distribuidor y
+[01:07:37] qué posibilidades tiene el goody
+[01:07:39] respecto a esto. Si no, la otra la única
+[01:07:41] alternativa que tiene el goody es salir
+[01:07:44] al mercado.
+[01:07:46] Y este y a esto tenemos tenemos por
+[01:07:51] ejemplo en en Córdoba lo que hace EPEC,
+[01:07:55] que fue un precursor antes de la
+[01:07:57] resolución esta incluso hacer contratos
+[01:08:00] tripartitos en los cual se sientan
+[01:08:02] generador eh EPEC y la demanda y el gran
+[01:08:05] usuario y arman un contrato tripartito
+[01:08:08] directamente el generador le cobra al al
+[01:08:11] gran usuario y la distribuidora hace ahí
+[01:08:14] una especie de peaje, gestión, lo que
+[01:08:17] tenga que ver y el contrato está
+[01:08:19] conformado por las tres partes. se puede
+[01:08:21] hacer, o sea, tiene que tener, tenés que
+[01:08:23] tener el amparo, estar amparado
+[01:08:25] provincialmente con alguna normativa y
+[01:08:28] este y otra opción e es directamente
+[01:08:32] esto que la distribuidora contractualice
+[01:08:34] sus goodis y no lo
+[01:08:35] pasa que ahí en el tripartito es como
+[01:08:37] que trasladar la responsabilidad por el
+[01:08:39] abastecimiento, digamos, o coparticip en
+[01:08:41] la responsabilidad con el abastecimiento
+[01:08:43] que es del distribuidor con sus
+[01:08:45] usuarios. El estado ahí se está metiendo
+[01:08:48] en alguna actividad que por ahí
+[01:08:51] [carraspeo]
+[01:08:52] no digamos no hay normativa ni en nación
+[01:08:54] ni en ninguna provincia, al menos que yo
+[01:08:56] sepa, que que esa posibilidad, digamos,
+[01:08:59] o esa responsabilidad de la provincia
+[01:09:01] pueda asumirse.
+[01:09:03] Claro. Pero me parece raro, más allá que
+[01:09:05] no esté normado o que no esté totalmente
+[01:09:08] desarrollado,
+[01:09:10] eh, para el goodie, digamos, ir a pedir
+[01:09:13] un contrato sin tener ningún beneficio
+[01:09:15] es quédate como está, es mucho más
+[01:09:17] fácil.
+[01:09:19] Sí. Bueno, por algo es que los goodies
+[01:09:21] se están yendo.
+[01:09:22] Claro,
+[01:09:23] porque la distribuidora no le está y
+[01:09:25] está pasando, a ver, es una situación
+[01:09:28] compleja. el distribuidor recién
+[01:09:31] pensemos que que los eh al fin de cuenta
+[01:09:34] todos al atrás de todo hay personas,
+[01:09:37] ¿no? Y tenemos
+[01:09:40] la gente que está en las distribuidoras
+[01:09:42] no está con el ejercicio porque no lo
+[01:09:44] tuvo que hacer porque estuvo años y años
+[01:09:48] que en lo cual no se hizo ningún
+[01:09:49] contrato, donde está teniendo que salir
+[01:09:51] a contractualizar a un mercado donde los
+[01:09:54] generadores están ávidos de renta porque
+[01:09:57] también estuvieron frenados y fueron
+[01:10:00] fasoneros, solo operaron y mantuvieron
+[01:10:02] sus sus equipamientos, pero en realidad
+[01:10:05] la parte comercial estaba siendo
+[01:10:07] completamente camesa. Entonces tenemos
+[01:10:10] avidez del lado de los generadores a a a
+[01:10:13] renta, distribuidores que todavía a lo
+[01:10:15] mejor no están tan embebidos en cómo
+[01:10:17] armar estos contratos. Entonces se da
+[01:10:19] una disparidad ahí que hace que los
+[01:10:23] contratos capaz no estén siendo tan
+[01:10:26] eficientes y no haya mucho para darle al
+[01:10:29] goodudí tampoco. Sí. Entonces, hay que
+[01:10:31] ser muy cuidadoso. Yo ahí los invito a
+[01:10:33] los distribuidores eh a a ver bien. No
+[01:10:36] es lo mismo hacer un contrato para
+[01:10:38] cubrir la demanda estacionalizada
+[01:10:42] que requiere PASDR, autorización dentro
+[01:10:45] de de las entidades provinciales, porque
+[01:10:48] vos vas a tener que hacer un pasaje a
+[01:10:49] tarifa y eso va a tener que estar
+[01:10:51] reconocido, diferente en la tarifa
+[01:10:54] contra lo que haces con el goodie, donde
+[01:10:56] vos tenés que lograr ser atractivo para
+[01:10:59] tu Woody, lograr algún beneficio para
+[01:11:01] él, hacer algún ahorro genuino para
+[01:11:04] poder mantenerlo o no. Pero bueno,
+[01:11:06] digamos, esto va en función de los
+[01:11:08] objetivos de las distribuidoras, pero
+[01:11:09] son distintos los tratamientos y las y
+[01:11:12] la las cómo te tenés que sentar a
+[01:11:14] negociar con el generador es
+[01:11:15] absolutamente distinto una opción y la
+[01:11:17] otra se maneja distinto. Entonces, hay
+[01:11:19] que tener cuidado cuando hacen los
+[01:11:21] contratos con los generadores más que
+[01:11:24] nada. Y encima los generadores, no sé si
+[01:11:27] eso lo vieron ya en la 400, los
+[01:11:28] generadores térmicos
+[01:11:31] y y los hidroeléctricos también, pero
+[01:11:33] básicamente los térmicos, que son los
+[01:11:34] que más quieren eh, y más hay, tienen el
+[01:11:40] incentivo de contractualizar para la
+[01:11:42] demanda estacionalizada, porque si lo
+[01:11:46] hacen solo con grandes usuarios, goodis,
+[01:11:49] gumas, gumes, pueden contractualizar el
+[01:11:51] 20% de su generación y el 80% va al
+[01:11:54] mercado spot, pero si contractualizan
+[01:11:57] con distribuidoras para demanda
+[01:11:58] estacionalizada pueden ir hasta el 100.
+[01:12:01] Entonces, lo que están haciendo la
+[01:12:02] estrategia de los generadores es un 20%
+[01:12:04] a gran usuarios y el otro 80 buscan
+[01:12:07] alguna distribuidora para abastecer
+[01:12:09] demanda estacionalizada. ¿Sí? Entonces,
+[01:12:12] hay que entender es lo que les de lo que
+[01:12:14] les decía antes, cada vez que me voy a
+[01:12:16] sentar en una mesa de negociación, lo
+[01:12:18] primero que tengo que hacer es entender
+[01:12:20] cómo está viendo la ecuación
+[01:12:23] el otro lado. Entonces, hay que entender
+[01:12:25] cuáles son los costos de oportunidades
+[01:12:26] del generador, por qué me está queriendo
+[01:12:28] vender a mí, qué le interesa, por qué me
+[01:12:30] está ofreciendo esto y no lo otro. Y en
+[01:12:33] en función de eso, ubicarse en la
+[01:12:36] posición de del distribuidor, pero desde
+[01:12:38] un lugar también de negociar y conseguir
+[01:12:41] alguna eficiencia en con los contratos,
+[01:12:44] ¿no?
+[01:12:46] Pero bueno, es un mercado competitivo el
+[01:12:48] de contratos. No sé si te contesté,
+[01:12:50] Guille, pero sí, básicamente ahí tenés
+[01:12:52] un gris
+[01:12:54] que que encima encima de todo hay eh el
+[01:12:59] goody tampoco. El goody normalmente a
+[01:13:01] ver quién en las empresas chiquitas,
+[01:13:03] pero que tienen consumo de energía
+[01:13:04] importantes, pero que son chicas, ¿quién
+[01:13:06] maneja la energía? La factura de
+[01:13:08] energía. el gerente de mantenimiento o
+[01:13:11] de operación de la planta, lo que sea,
+[01:13:13] que tiene que asegurar que la planta
+[01:13:15] funcione, que todos los equipamientos
+[01:13:16] estén que bueno y tiene unos niveles de
+[01:13:18] estrés y de compromisos a nivel
+[01:13:21] productivos que hacen que la factura de
+[01:13:23] la luz sea nada más que un problema.
+[01:13:26] Entonces, vos le querés explicar que
+[01:13:28] puede hacer ahorros y a veces un yo a mí
+[01:13:31] me ha pasado, pero yo asesoro en estas
+[01:13:32] cosas que vos le decís y vos creés que
+[01:13:35] lo estás ayudando porque le estás
+[01:13:36] diciendo que tiene la posibilidad de
+[01:13:38] ahorro y le trajiste un problema porque
+[01:13:39] ahora sabe que no está ahorrando,
+[01:13:42] ¿entendés? Y que en realidad tiene una
+[01:13:44] un trabajo más que hacer. Entonces, el
+[01:13:47] goody no tiene eh a veces tiempo o no
+[01:13:50] tiene el conocimiento necesario para
+[01:13:51] participar del mercado y entonces todo
+[01:13:54] esto genera mucha distorsión. Entonces,
+[01:13:57] capaz el goody no sabe que le puede ir a
+[01:13:59] pedir eso a la distribuidora. La
+[01:14:00] distribuidora eh eh hizo un contrato que
+[01:14:04] que no le da ningún beneficio al good,
+[01:14:06] entonces ahora, ¿cómo le pasa? le hace
+[01:14:08] un passw de ahorro para beneficiarlo, no
+[01:14:10] lo puede. Entonces es todo un tema de
+[01:14:13] que todavía estamos en una dinámica en
+[01:14:15] la cual, bueno, por esto se está dando
+[01:14:16] este fenómeno con los posgrados, o sea,
+[01:14:19] hay una necesidad importantísima de
+[01:14:21] elevar el nivel de knohow. Hay que
+[01:14:23] aprender y estudiar mucho y es entender
+[01:14:26] lo que le pasa a uno y lo que le pasa a
+[01:14:28] la otra parte.
+[01:14:33] Bueno, buenísimo.
+[01:14:36] Bueno, yo creo que ah, ya es la hora. E
+[01:14:40] si quieren hacer el recrédito, no sé,
+[01:14:42] Guille, cuánto tiempo, 10 minutitos.
+[01:14:46] Si tienen alguna pregunta más y si no,
+[01:14:47] sí, vamos al al recreíto. Ya te te
+[01:14:50] liberamos, Nadia.
+[01:14:53] Estuvo supercara, super buena como
+[01:14:55] siempre.
+[01:14:58] Después vamos a subir.
+[01:14:59] ¿Quién fue la broma? Eh,
+[01:15:01] después le pasamos y el ponele si querés
+[01:15:03] el número mío de teléfono.
+[01:15:06] Dale, dale, dale. No sé por qué no lo
+[01:15:07] puse. Lo pongo e y me contactan sin
+[01:15:12] problema. Si tienen dudas, alguna cosa
+[01:15:14] que no les quedó o que no llegaron a
+[01:15:16] preguntar y que quieren preguntarme, me
+[01:15:18] me mandan mensajitos sin problema.
+[01:15:21] Después subimos la presentación, este
+[01:15:23] paper que comentó Nadia que había
+[01:15:26] armado, así que al fin de cada clase
+[01:15:29] siempre subimos todo, así que lo van a
+[01:15:31] tener en el transcurso del día.
+[01:15:34] Bueno,
+[01:15:36] muchísimas gracias, Nadia, y nosotros
+[01:15:38] nos vamosos a un recreíto
+[01:15:40] a vos.
+[01:15:42] Nos encontramos en 10 minutos, ¿les
+[01:15:44] parece? [resoplido]
+[01:15:57] Hola, Fernanda,
+[01:15:59] ¿cómo estás, Gisolmina?
+[01:16:02] Todo bien.
+[01:16:05] Bueno, cuando quieras.
+[01:16:08] Bueno, muchas gracias. Buenos días a
+[01:16:11] todos. Un placer estar aquí. Mi nombre
+[01:16:13] es Fernanda.
+[01:16:15] Al igual
+[01:16:17] que nadie. Vamos a dejar los datos
+[01:16:20] personales por si tuvieran dudas. Buenos
+[01:16:22] días, Marcelo, Fabián, Tomás, Sergio,
+[01:16:25] Gabriela,
+[01:16:27] Miguel, Juan, Nicolás, Eliana, Pablo,
+[01:16:30] Tami, Maximiliano, Francisco. Pasó
+[01:16:33] alguno, pero es como para que se
+[01:16:34] despierten. Juana, Franco, Romina, ¿cómo
+[01:16:37] están?
+[01:16:39] Bienvenidos a la cursada. Es muy
+[01:16:41] temprano en la mañana después de un día
+[01:16:43] feriado, así que nos tenemos que
+[01:16:44] levantar e
+[01:16:48] y poner onda, de eso se trata. Bueno,
+[01:16:50] gente, en general esta, mira, Carvacio
+[01:16:55] está, te hace un dedito fantástico.
+[01:16:56] Carvacio, estás despierto, no te
+[01:16:58] moriste. Muy bien, muy bien.
+[01:17:02] Es muy complicado para mí también, ¿eh?
+[01:17:04] O sea, no no no crean que difíciles.
+[01:17:10] Bueno, la clase de hoy en general es
+[01:17:12] introductoria, ¿sí? Así que como que
+[01:17:15] empezamos por eh tuvieron la clase más
+[01:17:18] concreta respecto del vínculo con el aso
+[01:17:21] argentino y en general ven la primera
+[01:17:24] parte que la damos sobre el final en
+[01:17:27] este caso particular para que se
+[01:17:29] ubiquen, ¿no? Conmigo eh van a van a
+[01:17:31] haber algunos temas de carácter teórico
+[01:17:34] y práctico que tienen que ver con qué
+[01:17:36] significa regular, por qué regulamos,
+[01:17:39] qué qué hacemos cuando intentamos
+[01:17:41] regular un
+[01:17:44] sistema de servicio
+[01:17:46] Sí,
+[01:17:48] para esto voy a traer a colación algunas
+[01:17:50] cosas que vieron con Nadia. Sí, en
+[01:17:52] general cuando uno analiza lo que se
+[01:17:54] llama las infraestructuras de red, que
+[01:17:56] así se las llama, infraestructuras de
+[01:17:58] red son todos aquellos esquemas en los
+[01:18:00] cuales hay un activo esencial que tiene
+[01:18:03] un alto costo de capital, ¿sí? Y que de
+[01:18:06] alguna manera es compartido por un
+[01:18:08] conjunto de consumidores, grandes
+[01:18:11] clientes y es eficiente que sea de ese
+[01:18:14] modo. Sí. una un esquema regulivo en
+[01:18:17] general se piensa en los sectores que
+[01:18:19] tienen estructuras en las cuales hay un
+[01:18:22] activo esencial compartido. Por ejemplo,
+[01:18:25] en la mayoría de los países la
+[01:18:27] regulación alcanza a la distribución y
+[01:18:30] al transporte de gas, al servicio
+[01:18:33] público de electricidad,
+[01:18:36] a la telefonía,
+[01:18:38] a
+[01:18:39] con sus más menos másos
+[01:18:44] el internet, servicio de cable, las
+[01:18:47] rutas, los puertos, los aeropuertos.
+[01:18:51] Eh, podríamos decir también el subtex en
+[01:18:54] algunos países el transporte público de
+[01:18:56] pasajeros eh en buses. Sí. Es decir,
+[01:19:01] toda esta literatura adquiere relevancia
+[01:19:03] importante en la mayoría de aquellos
+[01:19:05] servicios, ¿sí?, que son prestados eh
+[01:19:09] cuando existe un activo muy importante
+[01:19:12] de por medio que tiene una construcción
+[01:19:14] concentrada en el mercado, que se le
+[01:19:16] dice concentración de tipo monopólica,
+[01:19:19] por así decirlo. Sí.
+[01:19:20] Este tema fue un tema de relevancia para
+[01:19:23] todos los estados, ¿sí? Eh, y para toda
+[01:19:26] la jurisprudencia.
+[01:19:28] De hecho, hoy por hoy los servicios
+[01:19:29] públicos en general en todo el mundo
+[01:19:31] occidental y también en en
+[01:19:35] el resto de los continentes en
+[01:19:39] intervenciones por parte de los Estados
+[01:19:41] miembros porque se entiende que hay
+[01:19:42] fallas de mercado si no son
+[01:19:44] administrados con determinado marco
+[01:19:46] regulatorio. Sí. Y de eso nos vamos a
+[01:19:49] encargar hoy. En general, en general,
+[01:19:53] cuando uno lo que son eh los servicios
+[01:19:58] públicos de infraestructura de red, se
+[01:19:59] dice que son monopolios naturales y esto
+[01:20:02] es una característica muy particular de
+[01:20:04] los servicios públicos, ¿sí? de los
+[01:20:06] servicios de prestación, de cualquier
+[01:20:08] servicio, sí, que fuere público.
+[01:20:11] Y es que tienen una caracterización muy
+[01:20:15] particular. Una de las principales es
+[01:20:18] que hay una un gran activo, ¿sí?, puesto
+[01:20:22] en en valor para prestar ese servicio. Y
+[01:20:25] ese activo en general es eficiente que
+[01:20:27] lo preste un único incumbente desde el
+[01:20:29] punto de vista de los costos. Y ahora
+[01:20:30] vamos a ver por qué. Sí, les traje a
+[01:20:33] colación acá un cuadro porque en general
+[01:20:34] los economistas cuando regulamos
+[01:20:36] pensamos que partimos de una situación
+[01:20:39] que es el es un un cuadro fantástico
+[01:20:44] que está en el Prado, en el Museo del
+[01:20:46] Prado. E y los economistas cuando
+[01:20:48] intervenimos en los mercados regulados
+[01:20:50] pensamos que pasamos justamente en este
+[01:20:52] lo mismo que este cuadro, ¿sí?, de lo
+[01:20:54] que sería el infierno en el marco
+[01:20:56] derecho, a construir a través de
+[01:20:59] mecanismos regulatorios e intervenciones
+[01:21:01] estatales muy eficientes. Pasamos a lo
+[01:21:03] que sería el Edén. Sí. De alguna manera
+[01:21:06] todos los economistas consideramos de
+[01:21:08] alguna manera que cuando el sistema de
+[01:21:11] mercado no funciona o no opera
+[01:21:13] correctamente, es necesario intervenir
+[01:21:15] en estos mercados. Y da la casualidad
+[01:21:19] que lo que nos de lo que hoy estamos
+[01:21:22] discutiendo y y determinando es esa
+[01:21:25] forma que tenemos de regular. cómo
+[01:21:27] regulamos para llegar de alguna manera
+[01:21:29] interviniendo en los mercados de una
+[01:21:30] manera eficaz eh y de una manera que
+[01:21:33] verdaderamente sirva
+[01:21:36] para lograr un conjunto de objetivos que
+[01:21:38] todos los los marcos regulatorios
+[01:21:40] tienen, ¿no? La asequibilidad, tarifas
+[01:21:42] justas y racionables eh y un sistema que
+[01:21:45] se pueda autodesarrollar, que pueda
+[01:21:47] generar inversiones y que pueda operar
+[01:21:49] de una manera diligente.
+[01:21:52] Este cuadro es más o menos lo que los
+[01:21:54] economistas entendemos como la
+[01:21:55] intervención estatal cuando hay fallas
+[01:21:58] de mercado. Si usualmente usualmente
+[01:22:03] para los economistas y en el caso
+[01:22:06] específico de la electricidad y para lo
+[01:22:08] que es el mainstream del análisis
+[01:22:09] regulatorio, cuando un mercado funciona
+[01:22:11] de una manera razonablemente
+[01:22:13] competitivo, se entiende que lo más
+[01:22:15] eficaz que como decisión se puede tomar
+[01:22:19] es generar que se desarrollen las
+[01:22:21] competencias. Por eso, como explicaba
+[01:22:23] Nadia, en el segmento de generación, sí,
+[01:22:28] aún cuando son segmentos altamente
+[01:22:32] concentrados, ¿sí? porque uno no puede
+[01:22:34] evitar entender eh la participación de
+[01:22:39] determinados grupos económicos en lo que
+[01:22:41] es la generación, pero aún con esos eh
+[01:22:43] limitantes son marcados que bajo
+[01:22:46] determinadas reglas de funcionamiento
+[01:22:48] pueden funcionar, pueden eh habilitarse
+[01:22:51] a través de un esquema de precios y
+[01:22:53] funcionan bastante razonablemente a lo
+[01:22:55] largo del mundo con sus más, con sus
+[01:22:57] menos, con distintos esquemas
+[01:22:58] regulatorios. Sí, por supuesto que aún
+[01:23:00] cuando es competencia perfecta el
+[01:23:02] segmento de generación y como contaba,
+[01:23:04] tal como contaba Nadia, eh la las nuevas
+[01:23:08] resoluciones, especialmente las 400,
+[01:23:10] promueve una un paradigma deor
+[01:23:12] competencia eh y contractualización
+[01:23:15] entre demandantes y ofertantes. Lo
+[01:23:17] cierto es que en general tienen pleos
+[01:23:19] normativos. ¿Sí? ¿Por qué? Bueno, porque
+[01:23:21] son mercados que necesitan estar
+[01:23:23] habilitados bajo determinadas normas. De
+[01:23:25] alguna manera la disposición normativa
+[01:23:28] 400 es un ejemplo de ello. Algunos
+[01:23:30] países tienen esquemas de generación eh
+[01:23:34] más desarrollados con mercado a futuro,
+[01:23:36] con contractualizaciones
+[01:23:38] que son como opciones. Europa.
+[01:23:41] Por ejemplo, claro ejemplo de eso.
+[01:23:43] Yoendo que en general traten de incluir
+[01:23:46] eh
+[01:23:50] de de de las páginas web de la Unión
+[01:23:51] Europea. Ustedes [resoplido] lo que
+[01:23:53] pueden ver ahí es para dónde van los
+[01:23:55] mercados internacionales, cuáles son los
+[01:23:57] mecanismos de regulación
+[01:23:59] de alguna manera más consolidad. Sí. Eh,
+[01:24:02] pero en general, en términos generales,
+[01:24:04] la generación es entendida con un
+[01:24:06] esquema bastante competitivo, ¿sí? O
+[01:24:10] competitivo eh una competencia
+[01:24:13] polística, por decir así.
+[01:24:16] Igual hay marcos regulatorios que son
+[01:24:18] las que son los que establecen de alguna
+[01:24:20] manera las condiciones de acción
+[01:24:22] funcionan, bajo qué parámetros, cómo son
+[01:24:24] los acuerdos que deben establecerse y
+[01:24:26] demás.
+[01:24:28] Ahora bien, puesto en términos del
+[01:24:29] sector en su conjunto, normalmente lo
+[01:24:33] que hacen lo que se hace eh en estos
+[01:24:35] mercados eh que se entiende son
+[01:24:38] monopólicos es establecer marcos
+[01:24:39] regulatorios. Sí, no hay países en el
+[01:24:41] mundo que con sus más, con sus menos, no
+[01:24:44] tengan acuerdos normativas marco para
+[01:24:46] dar [resoplido] entidad cómo funciona un
+[01:24:47] mercado eh de un servicio público. Sí,
+[01:24:51] en algunos casos con regulatorios
+[01:24:53] afianzados mediante un voto
+[01:24:55] parlamentario, en otros casos con
+[01:24:57] medidas de decreto, en otros con medidas
+[01:24:59] resolutivas, cada uno tiene más margen
+[01:25:02] de riesgo, menos margen de riesgo, eh
+[01:25:04] [resoplido] pero eventualmente estos
+[01:25:06] sectores en general tienen un un un
+[01:25:10] objetivo marco por detrás.
+[01:25:13] Y la primera pregunta que nos hacemos
+[01:25:15] es, ¿por qué regulamos los servicios
+[01:25:17] públicos? Sí, en general eh los
+[01:25:22] servicios públicos tienen un alcance que
+[01:25:24] se conoce de, como les decía, monopolio
+[01:25:26] natural. ¿Qué significa esto? Significa
+[01:25:29] que
+[01:25:32] si en este ejeconista
+[01:25:34] hacemos afectos hacer gráficos, vamos a
+[01:25:36] ponerlo en términos de gráfico.
+[01:25:38] Significa que si en este eje midiéramos
+[01:25:40] la cantidad de MEGW, la energía vendida,
+[01:25:42] despachada, ¿sí? Y en este eje miríamos
+[01:25:45] en el vertical las tarifas o los
+[01:25:46] precios, significa que
+[01:25:50] la función
+[01:25:51] de costos del
+[01:25:55] incumbente de la licenciataria que
+[01:25:57] presta el servicio a lo largo de toda la
+[01:26:00] producción de energía, de la venta, de
+[01:26:02] la distribución y de la transmisión de
+[01:26:04] energía, los tiene unos costos medios
+[01:26:08] estos que están aquí que decrecen de
+[01:26:10] manera sistemática.
+[01:26:12] Cuanto más producí tenés costos totales
+[01:26:15] dividido la cantidad de energía vendida
+[01:26:17] que va disminuyendo, disminuyendo,
+[01:26:19] disminuyendo, disminuyendo. Sí, por eso
+[01:26:22] es que en general cuando uno tiene
+[01:26:25] prestadores de servicios, lo que trata
+[01:26:26] de hacer es aglutinar en un único
+[01:26:29] incumbente todos los costos de la
+[01:26:30] prestación. ¿Por qué? es los costos otra
+[01:26:34] cosa que el reflejo de cuánto cuesta una
+[01:26:37] provisión de un bien. Si esos
+[01:26:40] mandatorios y es muy importante que las
+[01:26:42] tarifas de alguna manera estén centradas
+[01:26:45] o sean parecidas a esos costos medios.
+[01:26:47] Sí, esos costos medios cubren eh lo que
+[01:26:50] serían eh los costos de los insumos, los
+[01:26:53] costos del capital, el retorno sobre el
+[01:26:55] capital, sí, la mano de obra, los costos
+[01:26:58] directos, los costos indirectos, todas
+[01:27:00] las cuestiones que y la amortización del
+[01:27:02] bien en cuestión. Sí, todos los
+[01:27:04] conceptos que fue hablando Nadia. Ahora
+[01:27:07] bien, fíjense, a lo largo de toda la
+[01:27:09] posibilidad de generación de energía,
+[01:27:11] uno lo que verifica es que ese costo
+[01:27:12] medio decrece, decrece, decrece,
+[01:27:14] decrece, decrece. Eso en economía se lo
+[01:27:16] llama economías de escala. Todos los
+[01:27:18] servicios públicos presentan esa
+[01:27:20] característica, una economía de escala.
+[01:27:23] Eso quiere decir, bueno, que es muy
+[01:27:25] razonable pensar que haya un único
+[01:27:27] proveedor del servicio que sea el que
+[01:27:29] ejecute esos costos medios. ¿Por qué los
+[01:27:32] costos medios deen en general en todo lo
+[01:27:34] que son estos monopolios naturales?
+[01:27:37] Porque el capital invertido, el costo
+[01:27:40] fijo, el costo hundido es tan grande.
+[01:27:44] Sí. Y los costos variables tienen una
+[01:27:48] menor relevancia que cuando uno lo que
+[01:27:50] hace es prratear el costo total sobre
+[01:27:54] la energía vendida, lo que hace es que
+[01:27:56] siempre decrece. Sí, lo digo en términos
+[01:27:59] de, por ejemplo, una infraestructura de
+[01:28:00] red y bueno, normalmente son inversiones
+[01:28:03] que se apalancan contra 1000 de 1,000
+[01:28:05] millones de dólares. Sí. A medida que eh
+[01:28:10] esa esa infraestructura se va
+[01:28:11] amortizando porque se consume eh un
+[01:28:14] nivel de potencia y energía determinada,
+[01:28:18] se va amortizando ese activo, se va
+[01:28:20] divid los economistas lamos rolear, ¿sí?
+[01:28:23] El costo total en una mayor cantidad de
+[01:28:25] energía.
+[01:28:26] Todos los servicios eh públicos de red
+[01:28:29] tienen esa característica principal, es
+[01:28:30] decir, que el costo medio decrece,
+[01:28:33] decrece, decrece, decrece, decrece,
+[01:28:35] decrece, decrece, decrece. Y esto es una
+[01:28:37] barrera a la entrada porque, bueno,
+[01:28:39] cualquiera que quisiera competir con
+[01:28:41] este incumbente es bastante complicado
+[01:28:43] porque cuanto más produce el incumbente
+[01:28:45] más disminuye el costo medio. Es decir,
+[01:28:48] esa economía de escala de alguna manera
+[01:28:51] hay que aprovecharla, pero es un
+[01:28:53] elemento que bueno, limita la
+[01:28:55] posibilidad de competencias. A su vez, a
+[01:28:58] su vez, los monopolios natales tienen
+[01:29:00] otra característica y es que son
+[01:29:02] factores de abastecimiento de toda la
+[01:29:05] demanda de una geográfica en cuestión.
+[01:29:08] Es decir, acá lo que vemos es la curva
+[01:29:10] de demanda, ¿sí? La típica curva de
+[01:29:12] demanda que lo que demuestra es que la
+[01:29:14] gente está dispuesta a consumir más
+[01:29:16] cuanto más bajo es la tarifa o siempre
+[01:29:18] vamos a medir la tarifa. ¿Sí? Ahora
+[01:29:21] bien, esa curva de demanda lo que
+[01:29:22] muestra son algunas cosas funcionan de
+[01:29:25] una manera
+[01:29:26] eh competitiva.
+[01:29:28] En primera instancia porque el
+[01:29:30] incumbente presta el servicio en una
+[01:29:32] zona geográfica a todos los demandantes
+[01:29:35] y esos demandantes no pueden hacer un
+[01:29:38] cambio del servicio público en cuestión
+[01:29:41] o no tiene la rapidez para hacerlo. Si
+[01:29:43] vos tenés toda tu desarrollo de
+[01:29:46] infraestructura en gasodomésticos,
+[01:29:48] bueno, si te sube la tarifa,
+[01:29:50] difícilmente puedas hacer un cambio
+[01:29:51] rápido a eléctrico o tomar GLP.
+[01:29:56] Sí, por eso se dice que estos monopolios
+[01:29:59] presentan una característica también muy
+[01:30:00] particular, que es que tienen demandas
+[01:30:03] cautivas.
+[01:30:05] Y a propósito de esto, además de ser
+[01:30:07] demandas cautivas, son demandas que se
+[01:30:09] conocen como sumamente inelásticas. ¿Qué
+[01:30:12] quiere decir? que son sumamente
+[01:30:13] enelásticas, quiere decir que este
+[01:30:15] usuario está en el peor de los mundos,
+[01:30:17] está en un mono prestado abastecido por
+[01:30:19] un monopolio eh cerrado eh y además eh
+[01:30:24] como necesita de ese servicio público es
+[01:30:28] que aún cuando le cambien la tarifa,
+[01:30:30] este usuario va a seguir abonándola
+[01:30:33] porque necesita ese servicio público de
+[01:30:35] electricidad que es casi, diríamos como
+[01:30:37] un elemento central en la actualidad
+[01:30:39] para poder subsistir.
+[01:30:41] ese usuario cautivo con esa demanda
+[01:30:43] inelástica es de alguna manera un
+[01:30:45] elemento protagónico para que el
+[01:30:48] monopolista ejerza el poder de mercado.
+[01:30:51] ¿Sí? Y entonces ahí eh digamos, es
+[01:30:53] decir, contamos con dos tres elementos
+[01:30:55] que son importantes. Un costo medio
+[01:30:58] decreciente que funciona como barrera a
+[01:30:59] la entrada, una demanda que es cautiva,
+[01:31:03] ¿sí? Y que es inelástica. Es decir,
+[01:31:05] fíjense, en la actualidad la discusión
+[01:31:07] de aumentaron bastante las tarifas y lo
+[01:31:09] que uno ve en realidad es que lo que
+[01:31:11] disminuye es el ingreso disponible de
+[01:31:12] los consumidores. Sí, el usuario sigue
+[01:31:15] pagando la tarifa porque es condición
+[01:31:16] sin ecuanón de subsistencia de alguna
+[01:31:18] manera de construcción de sentido en las
+[01:31:21] sociedades modernas. Puesto en estos
+[01:31:23] términos, ¿sí? Y esta es la
+[01:31:25] característica principal, si uno tuviera
+[01:31:27] que graficar de cómo funciona una
+[01:31:29] distribuidora de electricidad o una
+[01:31:30] transportista de electricidad.
+[01:31:34] Y lo que uno verifica es que estos
+[01:31:35] esquemas sí necesitan indudablemente de
+[01:31:38] hacernos una pregunta. ¿Cómo regulamos
+[01:31:40] esto? ¿Qué significa regular esto? Sí,
+[01:31:45] en general la regulación fue cambiando
+[01:31:46] en el tiempo. Sí, hoy regular es una
+[01:31:50] cosa
+[01:31:52] que obviamente está modificándose eh con
+[01:31:54] los avances tecnológicos
+[01:31:57] que existen. Pero si uno deja que este
+[01:32:00] este servicio público, como por ejemplo
+[01:32:02] la década del
+[01:32:05] 890,
+[01:32:07] eh como funcionaba en esa época e en
+[01:32:10] donde el servicio público de
+[01:32:11] electricidad era tomado como un bien
+[01:32:13] específicamente suntuario. En las en
+[01:32:16] determinadas ciudades había
+[01:32:17] electricidad, pero era considerado como
+[01:32:19] un elemento de eh de pertenencia y de de
+[01:32:22] de disfrute de un de un viuntuuario. Sí.
+[01:32:25] En ese momento los monopolios no se
+[01:32:28] regían por ninguna regulación. El
+[01:32:30] objetivo
+[01:32:32] era clásicamente dejar que se desempeñe
+[01:32:34] como tal. Y en general lo que termina
+[01:32:36] ocurriendo en esos casos es que aparece
+[01:32:39] una falla de mercado. Si uno tuviera que
+[01:32:41] concretamente definir dónde estaría
+[01:32:43] ubicado un monopolista, como en la
+[01:32:45] década del 1890, ¿sí? la empresa Italo
+[01:32:48] Argentina o la empresa eh alemana de
+[01:32:51] prestación del servicio,
+[01:32:53] nos encontraríamos en un punto como este
+[01:32:56] que está acá. ¿Se ve el cursor que estoy
+[01:32:57] mostrando?
+[01:32:59] Fabián,
+[01:33:01] ¿se ve el cursor?
+[01:33:03] Gracias, Tomás. Bien, estaríamos en un
+[01:33:06] punto como este. Fíjense, un punto como
+[01:33:07] este no es más que un punto en el cual
+[01:33:09] el monopolista lo que hace es decir,
+[01:33:11] "Che, mira, no importa mucho cuáles son
+[01:33:13] los costos de la prestación.
+[01:33:16] En general, como manejo todo el mercado,
+[01:33:18] lo que lo que importa es maximizar la
+[01:33:21] renta, es decir, lograr que el usuario
+[01:33:24] pague el la máxima tarifa posible. No
+[01:33:28] vamos a hacer un desarrollo acá
+[01:33:29] microeconómico de cómo este se establece
+[01:33:31] el punto de equilibrio, pero estaría en
+[01:33:33] un punto como este. Fíjense, el
+[01:33:35] monopolista lo que haría de alguna
+[01:33:37] manera es
+[01:33:39] livianamente disociar
+[01:33:42] en la demanda. En la de la demanda lo
+[01:33:44] que lo que tenemos siempre es el precio
+[01:33:46] que está dispuesto a pagar el
+[01:33:47] consumidor. Sí, eso siempre tienen que
+[01:33:49] recordarlo. A lo largo de la demanda lo
+[01:33:51] que tenemos es el sistema de precios en
+[01:33:53] una economía que está dispuesto a
+[01:33:55] compagar el demandante. Sí. y a lo largo
+[01:33:57] de la oferta
+[01:33:59] el precio que está dispuesto a vender el
+[01:34:01] ofertante. En este caso, el monopolista
+[01:34:03] lo que hace es restringir la cantidad de
+[01:34:05] energía porque cobra tarifas muy
+[01:34:07] elevadas. El problema respecto del
+[01:34:10] sistema de precios es que estas tarifas
+[01:34:12] sí, cuando las establece un monopolista
+[01:34:15] están muy disociadas de los costos.
+[01:34:17] Fíjense, el costo medio está por abajo,
+[01:34:19] por acá abajo y el costo marginal de
+[01:34:21] alguna manera, que es el costo de
+[01:34:24] producir marginalmente una unidad, 1
+[01:34:26] megw adicional, también está por muy por
+[01:34:28] debajo. Es decir, que si uno deja
+[01:34:29] funcionar al monopolista, lo primero que
+[01:34:32] hace es restringir cantidades y fijar
+[01:34:34] tarifas disociadas de los costos.
+[01:34:38] Bueno, no es que el monopolista eh sea
+[01:34:41] un ganso, por así decirlo. Sí, el
+[01:34:43] monopolista en general lo que trata de
+[01:34:45] hacer es maximizar su renta, en cuyo
+[01:34:47] caso, si uno lo deja funcionar de esta
+[01:34:48] manera, lo que va a hacer es maximizar
+[01:34:50] la amortización del capital, es decir,
+[01:34:52] lo que va a intentar es cobrar tarifas
+[01:34:54] lo más altas posibles para rápidamente
+[01:34:57] amortizar ese capital inicial que es muy
+[01:34:59] elevado en el caso de las
+[01:35:00] infraestructuras de red.
+[01:35:02] Sí,
+[01:35:04] esa estructura monopólica que surge en
+[01:35:07] el 1890 como un suntuario, cuando se
+[01:35:10] desarrolla el estado de bienestar y
+[01:35:13] empieza a entenderse que la electricidad
+[01:35:14] es un servicio que dignifica, que es una
+[01:35:18] característica propia de de los usuarios
+[01:35:21] para poder considerarse un usuario y un
+[01:35:24] participante en un país como un
+[01:35:26] mecanismo de cohesión. Piensen que en
+[01:35:27] esa época cuando surge estado de
+[01:35:29] bienestar en 1940, a partir de 1930
+[01:35:31] después de la crisis de Wall Street 1940
+[01:35:33] 1950,
+[01:35:35] los estados miembros en la mayoría del
+[01:35:37] mundo occidental, pero también en en en
+[01:35:40] otros continentes toman la gestión de
+[01:35:42] los servicios públicos. Sí. Y ahí
+[01:35:44] aparecen las empresas emblema estatales,
+[01:35:47] ¿sí? IPF, SEGBA, e Gas del Estado, pero
+[01:35:50] no, eso no pasa solamente en Argentina.
+[01:35:52] Aparece Electricidad de Francia, aparece
+[01:35:54] el Grupo Eni, aparece British Petroleum.
+[01:35:56] Eh, British Gas en Inglaterra, eh
+[01:36:00] aparece todo lo que es la intervención
+[01:36:02] de la resignificación del estado de
+[01:36:04] bienestar y dentro de los servicios
+[01:36:06] públicos que son tomados como una
+[01:36:08] cualidad muy particular de los esquemas
+[01:36:10] democráticos. Y ahí el tema de
+[01:36:15] la pregunta kit de question, que es,
+[01:36:17] ¿qué significa regular? Adquiere nueva
+[01:36:19] trascendencia. Y entonces para los
+[01:36:21] economistas y para los regulatorios y
+[01:36:23] para los estados regular implica
+[01:36:25] encontrar un esquema de tarifas que haga
+[01:36:28] que la mayor cantidad de usuarios puedan
+[01:36:30] acceder al servicio, ¿sí?
+[01:36:34] Y esas tarifas representen los costos.
+[01:36:37] Es decir, lo que se busca es una
+[01:36:38] regulación que de alguna manera que es
+[01:36:40] la que vive hoy en la actualidad, la que
+[01:36:42] regula una revisión tarifaria de
+[01:36:44] electricidad. Sí. Y es que esas tarifas
+[01:36:47] representen de alguna manera esos costos
+[01:36:49] medios. Sí, parece la idea de
+[01:36:53] nuevamente, ¿qué significa regular?
+[01:36:54] Bueno, regular significa tarificar.
+[01:36:57] Regular significa administrar con
+[01:36:59] intervención estatal estos mercados que
+[01:37:01] son constitutivos, que presentan fallas
+[01:37:04] de mercado, en los cuales es necesario
+[01:37:07] establecer un sistema de precios,
+[01:37:09] reemplazar de alguna manera el esquema
+[01:37:12] de precios natural de una economía. y
+[01:37:14] aparece una resolución inicial que es
+[01:37:16] cómo regulamos. Bueno, regulamos en un
+[01:37:18] esquema en el que los demandantes cubran
+[01:37:22] los costos medios, ¿sí? O o en otras
+[01:37:25] palabras los precios que estemos defin
+[01:37:27] las tarifas que estemos definiendo
+[01:37:29] cubran esos costos medios. Cuando una
+[01:37:32] tarifa cubre los costos medios, ¿qué
+[01:37:33] ocurre?
+[01:37:39] El sistema sostenible. Sí, estos costos
+[01:37:42] medios piensen que tiene el
+[01:37:43] amortización, los impuestos,
+[01:37:46] los costos directos, los costos
+[01:37:48] indirectos, los costos de explotación u
+[01:37:50] OPEX, los una cuota parte de la
+[01:37:52] inversión que debe realizarse
+[01:37:54] eh en en una en una revisión tarifaria
+[01:37:58] contiene una remuneración sobre la base
+[01:37:59] de capital, independientemente de cómo
+[01:38:01] calculemos esa base de capital, con el
+[01:38:03] método BNR o costo histórico. Si este
+[01:38:07] punto que está acá, que se llama segundo
+[01:38:09] mejor best en la literatura, es lo que
+[01:38:13] normalmente entendemos como regulación
+[01:38:15] por tarificación.
+[01:38:17] Sí, esta tarifa cubre todos esos costos
+[01:38:20] de alguna manera que en una revisión
+[01:38:21] tarifaria calculamos. Este puntito que
+[01:38:24] está acá es algo así como el BAT medio,
+[01:38:28] lo que ustedes calculan en un en un
+[01:38:30] balance contable o en un análisis como
+[01:38:32] BAT medio o el ingreso requerido en una
+[01:38:34] revisión tarifaria. Sí, cuando hacemos
+[01:38:37] una revisión tarifaria, lo que tratamos
+[01:38:38] de encontrar es este
+[01:38:41] es ingreso requerido y tarifas asociadas
+[01:38:44] que se llama segundo mejor. Por supuesto
+[01:38:46] que cuando hacemos la revisión tarifaria
+[01:38:48] después lo que hacemos es asignar
+[01:38:49] tarifas en un vector de precios para
+[01:38:51] distintas categorías, pero el valor
+[01:38:53] promedio del Bad es este que está acá,
+[01:38:55] este puntito que está acá. Fíjense que
+[01:38:58] comparado con lo que es una estructura
+[01:39:00] de tipo monopólica, hay una expansión
+[01:39:02] del nivel de producción, del nivel de
+[01:39:04] servicio público. Sí. A lo largo de toda
+[01:39:08] la el desarrollo, desde la década del 40
+[01:39:12] hasta la década del 80, la regulación en
+[01:39:15] general implicaba solo encontrar un
+[01:39:18] punto tarifario en el que se cubrieran
+[01:39:20] los costos totales del sistema.
+[01:39:23] Sí.
+[01:39:25] Este esquema regulatorio, por supuesto,
+[01:39:27] tiene sus deslices. En algunos casos uno
+[01:39:29] puede tratar de llevarlo casi una
+[01:39:31] situación de competencia perfecta, que
+[01:39:33] es cuando la el precio de la demanda que
+[01:39:35] está dispuesto a pagar la demanda se
+[01:39:37] iguala el costo marginal, este punto que
+[01:39:38] está acá, que se llamaría regulación de
+[01:39:41] primero mejor, cuyo caso en general,
+[01:39:44] como no se cubren todos los costos
+[01:39:45] totales, hay pérdidas y esas
+[01:39:47] regulaciones son muy particulares para
+[01:39:49] los servicios públicos de transporte.
+[01:39:51] Normalmente cuando uno regula
+[01:39:52] ferrocarriles, subtest, cuando se licita
+[01:39:55] hay una un precio de tarifa asociado a
+[01:39:57] los costos variables y el resto va por
+[01:39:59] un canon que advierte, que abona el
+[01:40:02] Estado nacional. Sí, son esquemas
+[01:40:05] regulatorios que lo que tratan de
+[01:40:06] promover es un mínimo precio en el
+[01:40:08] boleto. Sí. Eh, y que por determinados
+[01:40:12] motivos eh el Estado considero era
+[01:40:15] propicio eh abonar el diferencial entre
+[01:40:17] el costo medio y el costo variable a
+[01:40:18] través de un canon. Es decir, que
+[01:40:21] regular, ahí respondemos, regular es
+[01:40:23] tarificar y también es dar validez al
+[01:40:26] esquema regulatorio en cuanto a qué
+[01:40:28] nivel de eh precios, qué nivel de
+[01:40:31] tarifas definimos en la economía. En
+[01:40:35] general, uno se refiere a precio y
+[01:40:36] tarifa del mismo modo, es lo mismo. Un
+[01:40:39] precio se entiende desde el punto de
+[01:40:40] vista conceptual como algo que surge en
+[01:40:42] un mercado de manera libre y una tarifa
+[01:40:46] está regulada por un marco regulatorio.
+[01:40:49] Sí. ya fuera la tarifa de un servicio
+[01:40:51] público o la tarifa de un arancel.
+[01:40:54] Tarifa en general está vinculada a la
+[01:40:55] intervención estatal. Cuando escuchan la
+[01:40:58] palabra tarifa es porque hay algún
+[01:40:59] nomenclador, alguna jurisprudencia que
+[01:41:01] permite la intervención estatal. Sí,
+[01:41:05] en general este segundo mejor duró mucho
+[01:41:07] tiempo durante el estado de bienestar
+[01:41:10] hay mucha literatura respecto de cómo
+[01:41:12] conseguir tarifas que cumplan con el
+[01:41:14] segundo mejor. Ahí aparece laatura que
+[01:41:16] establece, bueno, las tarifas en
+[01:41:18] realidad eh son una apertura vectorial
+[01:41:21] de un bad medio. Sí. Y es importante
+[01:41:24] entender que tienen que tener
+[01:41:26] estacionalidad. Por esos pas
+[01:41:29] el pas de generación y el pas de gas
+[01:41:32] tienen que tener pico y valle para
+[01:41:34] demostrar las escaseces y congestiones.
+[01:41:36] Las tarifas tienen que tener un cargo
+[01:41:38] fijo y un cargo variable para remunerar
+[01:41:40] los factores productivos de una manera
+[01:41:42] equitativa. Las tarifas tienen que
+[01:41:44] incorporar un montón de conceptos que
+[01:41:46] hacen a eh factores de equidad, factores
+[01:41:49] de eficiencia. La literatura a partir de
+[01:41:53] este momento, desde la década del 70 en
+[01:41:55] adelante, va cambiando y entonces nos
+[01:41:57] vuelve sobre el esquema de qué significa
+[01:42:00] regular.
+[01:42:01] A partir de la década del 80, la mayoría
+[01:42:04] de los países del estado de bienestar ya
+[01:42:06] habían expandido sus redes. Bajo el
+[01:42:09] arbitrio de los estados se había
+[01:42:11] expandido casi todo el sistema de
+[01:42:12] electricidad y el sistema de gas. Y
+[01:42:14] entonces en la década del 80 aparece la
+[01:42:17] idea de qué significa regular. Bueno,
+[01:42:20] ahora regular, además de expandir el
+[01:42:22] sistema y cubrir los costos, significa
+[01:42:23] ser eficientes. Y empieza todo el
+[01:42:25] planteo de privatizaciones,
+[01:42:29] de esquemas regulatorios que que
+[01:42:31] buscaban el alcance de las eficiencias.
+[01:42:34] Sí. Eh, y se replantea de alguna manera
+[01:42:37] la literatura con la mirada de que
+[01:42:40] regular, además de generar soluciones de
+[01:42:44] segundo mejor que generen el
+[01:42:46] autofinanciamiento de este sector de
+[01:42:48] servicios públicos, regular también es
+[01:42:51] lograr eficiencias, es hacer
+[01:42:53] transformaciones, modernizaciones en un
+[01:42:56] esquema en el cual ya las redes estaban
+[01:42:58] expandidas, la inversión desarrollada y
+[01:42:59] entonces eh una vez que la industria
+[01:43:02] está madura, se le pide que sea
+[01:43:03] eficiente y Ahí aparece la gran
+[01:43:06] construcción del sentido de los
+[01:43:08] mecanismos de incentivos y de la
+[01:43:09] regulación por PRCAP y de la regulación
+[01:43:11] por benchmark por comparativa de costos.
+[01:43:15] Es decir, la regulación como concepto
+[01:43:18] económico va mutando en el tiempo. Sí,
+[01:43:21] depende del momento específico en el
+[01:43:23] cual uno esté parado. ¿Qué es lo que se
+[01:43:25] entiende por regulación?
+[01:43:28] Sí, es más, pasada la década del 90, la
+[01:43:33] regulación empieza a plantear la idea de
+[01:43:35] qué significa desregular. Bueno, ¿qué
+[01:43:37] significa regular? Bueno, regular en
+[01:43:39] realidad generar las condiciones para
+[01:43:41] desregular y armar todo un esquema de
+[01:43:43] terciarización con peajes.
+[01:43:46] Por supuesto que Argentina, como les
+[01:43:47] explicó hace un rato Nadia, no es un
+[01:43:50] esquema protagónico de desregulación.
+[01:43:53] Sí, hay países en los cuales, por
+[01:43:55] ejemplo, Inglaterra o España en donde
+[01:43:58] una persona puede comprar distribución,
+[01:44:02] transmisión de electriceración a un
+[01:44:04] comercializador de manera completa. Sí,
+[01:44:06] ese comercializador lo que hace es pagar
+[01:44:08] un peaje a la empresa incumbente de
+[01:44:09] central y en función de eso abastece un
+[01:44:11] determinado segmento de usuarios.
+[01:44:13] Normalmente de una manera a menores
+[01:44:16] costos. Por eso es que los usuarios
+[01:44:18] eligen irse del mercado a de un mercado
+[01:44:20] a otro. Sí.
+[01:44:22] En el caso de Argentina, normalmente lo
+[01:44:24] que tenemos solo como comercialización y
+[01:44:27] para determinados segmentos de usuarios
+[01:44:29] es la parteación. Sí, pero hay países en
+[01:44:31] los cuales se arbitran los medios para
+[01:44:33] desregular todos los mercados. Sí,
+[01:44:36] lograr que la competencia se administre.
+[01:44:38] Después vamos a discutir si realmente se
+[01:44:40] llevó a cabo. Una cosa es la gestión y
+[01:44:43] el pensamiento teórico de estos modelos
+[01:44:44] y otra cosa es lo que es la realidad.
+[01:44:47] Pero no importa. La idea es que la
+[01:44:49] regulación pasó, ha pasado desde el
+[01:44:51] punto de vista conceptual por distintas
+[01:44:53] etapas, ¿sí? Muchas de ellas en
+[01:44:55] contradicción, ¿sí?Amos de un esquema en
+[01:44:57] el cual el monopolista ejercía
+[01:44:59] libremente su tarificación a estados de
+[01:45:02] bienestar que tarifican y resignifican
+[01:45:04] la idea de intervención en los estados
+[01:45:06] porque hay fallas a través de las
+[01:45:07] tarifas a un esquema en el cual una vez
+[01:45:09] que ya está amortizado el capital, hay
+[01:45:11] madureza en el desarrollo de la
+[01:45:13] industria, pedir que sea fic lo regula.
+[01:45:16] Sí.
+[01:45:18] Estas etapas de alguna manera en la
+[01:45:19] literatura se reflejan, ¿sí?
+[01:45:23] Y no solo se reflejan, sino que les
+[01:45:26] traje a colación cómo es que uno lee los
+[01:45:29] marcos regulatorios desde el punto de
+[01:45:30] vista económico. Acá les traje a
+[01:45:31] colación la comparativa entre la ley eh
+[01:45:34] regulatoria del gas, eh la ley nacional
+[01:45:37] de 24065 de electricidad
+[01:45:41] para de alguna manera para mostrar cómo
+[01:45:43] es que esos monopolios eh desde el punto
+[01:45:46] de vista económico aparecen
+[01:45:47] perfectamente rotulados en los marcos
+[01:45:49] regulatorios.
+[01:45:50] ¿Y por qué?
+[01:45:52] Bueno, porque el sistema de mercado está
+[01:45:55] claro que no reemplaza al marco
+[01:45:57] regulatorio.
+[01:45:59] Sí. Y más allá de que seamos más
+[01:46:01] anarcocapitalistas, menos
+[01:46:03] anarcocapitalistas, más
+[01:46:04] intervencionistas, en general, como hay
+[01:46:07] fallas de mercado muy claras y
+[01:46:09] recurrentes y ese servicio público tiene
+[01:46:11] una una cualidad y una característica
+[01:46:14] que es muy propia, que no puede ser
+[01:46:16] reemplazado,
+[01:46:18] todos los países intervienen. Sí, todos
+[01:46:21] los países con marco tienen marcos
+[01:46:23] regulatorios.
+[01:46:25] ¿Qué tiene de particular un marco
+[01:46:26] regulatorio? Bueno, ¿qué es una
+[01:46:28] intervención en los mercados exantes?
+[01:46:31] Normalmente los economistas
+[01:46:32] participamos, por ejemplo, en mercados
+[01:46:34] competitivos hay organismos que regulan
+[01:46:37] cuando se verifica un mal resultado en
+[01:46:38] el mercado, cuando hay una posición
+[01:46:40] dominante y se verifica que esto genera
+[01:46:42] un efecto secundario adverso. Y los
+[01:46:44] organismos que participan en esto son
+[01:46:46] las agencias de defensa de la
+[01:46:48] competencia. En el caso de los servicios
+[01:46:50] públicos, no hay una presunción exante
+[01:46:53] de que es necesario regularlo y hay un
+[01:46:56] marco regulatorio que establece todas
+[01:46:57] las condiciones por las cuales ese
+[01:47:00] servicio público va a ser regulado.
+[01:47:02] Normalmente en todos los marcos
+[01:47:03] regulatorios lo primero que aparece es
+[01:47:06] que hay como una especie de tutel
+[01:47:08] tutelago tutela de los derechos del
+[01:47:11] consumidor. ¿Por qué? Porque esa demanda
+[01:47:13] es cautiva. ¿Por qué? Porque la demanda
+[01:47:15] es inelástica. ¿Por qué? porque está
+[01:47:17] dispuesta a pagar lo que sea necesario
+[01:47:19] para tener el servicio de electricidad.
+[01:47:21] Entonces, la mayoría de los marcos
+[01:47:22] regulatorios lo que dicen es que tienen
+[01:47:24] que proteger el derecho de los usuarios,
+[01:47:26] porque se entiende que ese usuario
+[01:47:28] cautivo difícilmente puede ejercer un
+[01:47:30] poder de un poder y un derecho en un
+[01:47:33] mercado superccentrado.
+[01:47:35] Sí, la tutela es importante. Esa tutela
+[01:47:38] nos lleva a que la regulación significa,
+[01:47:42] fíjense en este punto, en esta parte, en
+[01:47:44] el punto D de los marcos regulatorios
+[01:47:46] que les traje.
+[01:47:48] La tutela supone que establezcamos
+[01:47:50] que exista un consenso contractual entre
+[01:47:52] las empresas y los consumidores a través
+[01:47:55] del Estado, que exista tarifas justas y
+[01:47:58] razonables.
+[01:48:00] Esas tarifas justas y razonables
+[01:48:01] implican una condición de equidad entre
+[01:48:03] consumidores y ofertantes. Que el
+[01:48:06] monopolista no ejerza su poder
+[01:48:07] monopólico plenamente, pero que cubra
+[01:48:09] sus costos, sus costos medios, los
+[01:48:11] costos medios que vivimos en el
+[01:48:12] grafiquete anterior,
+[01:48:14] aprovechando las economías de escala,
+[01:48:16] por supuesto. Sí. Es decir, es como una
+[01:48:19] especie de pacto exante entre
+[01:48:21] demandantes y ofertantes. El marco
+[01:48:22] regulatorio
+[01:48:24] que trae como elemento central de qué
+[01:48:27] significa regular, tarificar.
+[01:48:30] Sí. Y tarificar incluye inclusive a los
+[01:48:33] segmentos que uno considera más
+[01:48:35] competitivos a través del Pastrú.
+[01:48:38] Sí, porque uno especifica cómo se hace
+[01:48:40] un pas también en el marco regulatorio,
+[01:48:42] con qué periodicidad, cómo se traslada
+[01:48:44] la el pico base, cómo se plantea esa
+[01:48:48] construcción de una tarifa compuesta por
+[01:48:51] transmisión, distribución eh y
+[01:48:53] generación. Adicionalmente, los marcos
+[01:48:56] regulatorios incorporan un montón de
+[01:48:58] elementos más. Sí, los marcos
+[01:49:00] regulatorios en general
+[01:49:02] superan ampliamente la imaginación eh de
+[01:49:05] un economista porque le piden
+[01:49:06] competitividad, piden tarifas que tengan
+[01:49:09] que ver con una no discriminación entre
+[01:49:12] los usuarios y entre los cargadores o
+[01:49:15] los que utilizan el sistema. Sí,
+[01:49:17] normalmente habla del libre acceso. ¿Por
+[01:49:19] qué? Bueno, porque en general hay un
+[01:49:21] incumbente que de alguna manera opera un
+[01:49:23] activo esencial. Sí. Y lo bueno es que
+[01:49:26] cualquier agente que quiera participar
+[01:49:29] en la en utilizar ese activo esencial
+[01:49:32] tenga libre acceso eh a la
+[01:49:34] infraestructura en cuestión. Por eso que
+[01:49:36] un foco importante de todos los marcos
+[01:49:37] regulatorios está puesto en el libre
+[01:49:39] acceso, en el acceso no discriminado, en
+[01:49:42] el open access que se le dice en inglés,
+[01:49:44] que es tan protagónico hablar en inglés
+[01:49:46] normalmente. Sí. Eh, básicamente porque
+[01:49:50] está claro que ese costo medio que
+[01:49:52] decrece en el tiempo, si uno no obliga
+[01:49:55] al incumbente a compartir ese activo, a
+[01:49:58] que los operadores puedan participar del
+[01:50:00] mercado, difícilmente se haga. Sí, en el
+[01:50:03] caso de la energía, los marcos
+[01:50:04] regulatorios son muy taxativos,
+[01:50:07] especifican cada estado de la naturaleza
+[01:50:09] de lo que tenemos que regular. Hay
+[01:50:11] marcos regulatorios en donde, por
+[01:50:12] ejemplo, la tecnología avanza tan
+[01:50:14] rápidamente que es disciplinadora y
+[01:50:16] entonces el marco regulatorio es más
+[01:50:17] cortito, es más Sí, por ahí ni tarifica.
+[01:50:21] tiene un objetivo de calidad, un
+[01:50:22] objetivo de cómo prestar el servicio,
+[01:50:24] pero no es tan amplio y extenso como son
+[01:50:29] los marcos regulatorios de la de centro
+[01:50:31] eléctrico. Sí,
+[01:50:34] son un montón de elementos eh de alguna
+[01:50:37] manera al vínculo entre consumidores y
+[01:50:39] el el prestatario, ¿sí?, a través de
+[01:50:42] marco regulatorio, entre otros también
+[01:50:44] que tiene que haber un uso eficiente eh
+[01:50:47] de los activos, que tiene que haber
+[01:50:48] metas de competitividad, que tiene que
+[01:50:50] haber planes de inversión para que el
+[01:50:51] sistema se expanda en el largo plazo. Y
+[01:50:54] es en lo que todos laburamos, ya estemos
+[01:50:56] del lado del regulador o del lado de la
+[01:50:59] empresa
+[01:51:00] cuando hacemos una rebifaria
+[01:51:03] o cuando planteamos casos regulatorios
+[01:51:06] de debate y de discusión.
+[01:51:08] Los servicios públicos son tan
+[01:51:10] relevantes que en general
+[01:51:12] normalmente todo tema primero tiene una
+[01:51:15] gran incidencia en la macro, ¿sí? Una
+[01:51:17] gran incidencia en en en cómo se
+[01:51:20] comandan eh procesos de crisis. Por eso
+[01:51:23] es que en general cuando todos los
+[01:51:25] estados tienen situaciones de de de
+[01:51:28] crisis económica o de eh o de una guerra
+[01:51:31] en cernes, normalmente toman mano
+[01:51:34] mediante ley de emergencia e intervienen
+[01:51:36] en estos mercados. Y no es la Argentina
+[01:51:38] solamente la que desarrolló leyes de
+[01:51:40] emergencia que pisan tarifas, como le
+[01:51:42] decimos en la jerga, eh o intervienen en
+[01:51:46] en en
+[01:51:47] el el criterio y periodicidad de ajuste
+[01:51:49] tarifario, eh, y y alteran de alguna
+[01:51:53] manera esos marcos regulatorios. Esto
+[01:51:55] pasa en todos los países del mundo. Sí.
+[01:51:56] Si uno ve lo que es la intervención de
+[01:51:58] Ucrania, eh la intervención de Ucrania
+[01:52:01] por parte de Rusia generó en la Unión
+[01:52:03] Europea, en las directivas que dicta la
+[01:52:05] Unión Europea, modificaciones, pero de
+[01:52:07] cuajo, ¿sí? Intervenciones que fueron
+[01:52:11] super importantes en la formación de
+[01:52:12] precios de la generación.
+[01:52:15] Eh, ¿por qué? Bueno, porque en general
+[01:52:17] está claro que un servicio público
+[01:52:18] intenta hacer algo que sea asequible
+[01:52:20] para los consumidores. Sí. Y más allá de
+[01:52:24] eh bueno, que uno puede entender que hay
+[01:52:26] cierto abuso o no abuso en las leyes de
+[01:52:27] emergencia, eh lo cierto es que tienen
+[01:52:32] una cualidad tan particular el servicio
+[01:52:35] que se genera, el bien que se presta,
+[01:52:37] ¿sí? Que normalmente tiende a tener
+[01:52:39] mucho debate y mucha eh discusión y
+[01:52:43] mucha intervención política. Sí, es
+[01:52:45] normal, eh, es atendible que el tema
+[01:52:49] tarifario sea un poco de instrumento
+[01:52:51] política pública, ¿sí? y de debate
+[01:52:53] político, por así decirlo.
+[01:52:55] En general, hay un tema que es relevante
+[01:52:58] en los servicios públicos y es que
+[01:53:00] tenemos un único instrumento que son las
+[01:53:02] tarifas normalmente. Sí, porque es el el
+[01:53:06] elemento el instrumento protagónico en
+[01:53:08] la prestación de un servicio.
+[01:53:10] Por supuesto que tenemos impuestos,
+[01:53:12] subsidios, pero lo protagónico para la
+[01:53:13] prestación de servicios las determinadas
+[01:53:15] tarifas. El problema es que tarifas les
+[01:53:17] pedimos un montón de cosas. Les pedimos
+[01:53:18] que tengan condiciones de financiamiento
+[01:53:20] del servicio público, que tengan
+[01:53:21] condiciones de que sea muy eficiente,
+[01:53:23] que tengan condiciones de equidad, de
+[01:53:24] asequibilidad del servicio. Es decir,
+[01:53:27] hay mucho ruido alrededor de las tarifas
+[01:53:29] porque se les piden un montón de
+[01:53:31] elementos.
+[01:53:32] Sí. Y eso es un tema de debate y de
+[01:53:35] discusión en casi todas las agendas del
+[01:53:37] mundo, porque a las tarifas se les pide
+[01:53:39] que tengan un servicio de prestación
+[01:53:41] universal, eh que además sean trasladen
+[01:53:44] las eficiencias a los consumidores, que
+[01:53:47] además generen un financiamiento de
+[01:53:48] todas las inversiones que hay que
+[01:53:49] realizar. Es decir, ya en los objetivos
+[01:53:53] que estamos proponiendo son de alguna
+[01:53:55] manera en una condición de estrés. Sí. Y
+[01:53:58] por eso que en general las tarifas o los
+[01:54:01] mercados regulados tienden a tener no
+[01:54:03] solo una gran discusión eh de
+[01:54:06] pertenencia de grupos económicos, de
+[01:54:09] discusiones acerca de cómo está
+[01:54:10] constituido ese mercado, sino también
+[01:54:12] discusiones eh casi diría de
+[01:54:14] contradicciones eventuales que se
+[01:54:16] generan, ¿sí?, en el sistema. Y esta
+[01:54:19] discusión, si ustedes se ponen a leer,
+[01:54:21] es común a todos los marcos regulatorios
+[01:54:23] en todos los países del mundo. Sí. A las
+[01:54:26] tarifas se les piden demasiadas cosas
+[01:54:30] y los instrumentos de alguna manera a
+[01:54:32] veces son pocos. Sí. De hecho, si se
+[01:54:34] ponen a leer literatura tarifaria van a
+[01:54:36] encontrar que hay papers de todo tipo,
+[01:54:38] gusto y color, algunos contradictorios
+[01:54:40] entre sí. Sí. Y dependen de las
+[01:54:43] características y de la idiosincrasia
+[01:54:45] del país. Sí. Y de las épocas, porqueada
+[01:54:50] del 40 la literatura estaba destinada a
+[01:54:51] una cosa, en la década del 90 a otra. Y
+[01:54:54] en el 2000, por ejemplo, 2010, a partir
+[01:54:56] del 2010 aparece la idea de eh la
+[01:54:59] prestación esencial del servicio, la
+[01:55:01] condición de un servicio público como la
+[01:55:03] cohesión de un país, como la pertenencia
+[01:55:05] de los hogares, independientemente de
+[01:55:08] dónde estén, en una zona pobre, en una
+[01:55:10] zona más rica, en una zona alejada,
+[01:55:11] aislada, no aislada, esa idea de que la
+[01:55:14] electricidad es de alguna manera un
+[01:55:15] elemento social de cohesión. Sí. Y ahí
+[01:55:18] va cambiando la criatura y los marcos
+[01:55:20] regulatorios.
+[01:55:22] Por eso es que entender la regulación es
+[01:55:24] entender la idiosincrasia de un país,
+[01:55:27] las características de prestación, las
+[01:55:30] características de cómo está constituido
+[01:55:31] ese país, si es federal, si es unitario,
+[01:55:33] ¿sí? Y los objetivos que se le van
+[01:55:35] pidiendo en el tiempo.
+[01:55:37] En general,
+[01:55:40] cuando uno entra a los marcos
+[01:55:41] regulatorios
+[01:55:43] es algo increíble. Todo lo que en en la
+[01:55:46] competencia perfecta o en los mercados
+[01:55:47] competitivos se define de manera
+[01:55:49] residual, es decir, por interacción
+[01:55:51] entre oferta y demanda o por resultado
+[01:55:53] de que no fuiste eficiente. En el caso
+[01:55:55] de los servicios públicos está puesto
+[01:55:56] exante. Lo primero que se dice en un
+[01:55:58] marco regulatorio y no es extra colación
+[01:56:00] en la Argentina, pero si uno lee otros
+[01:56:02] marcos regulatorios no son distintos.
+[01:56:04] Sí, es eh primero se tienen que
+[01:56:07] establecer tarifas que determinen el
+[01:56:09] ingreso requerido suficiente y razonable
+[01:56:12] para cubrir costo operativo o COPE o
+[01:56:14] costo de explotación, impuestos,
+[01:56:17] amortización, es decir, un cachito del
+[01:56:19] capital que es necesario prever para
+[01:56:21] poder recuperar el las inversiones
+[01:56:23] necesarias y una rentabilidad razonable.
+[01:56:26] Todo esto en competencia perfecta no
+[01:56:28] existe. Todo esto en competencia
+[01:56:30] perfecta, si el tipo es eficiente a los
+[01:56:33] precios del mercado, cubre todos estos
+[01:56:35] componentes de una manera independiente
+[01:56:37] y no le pide a nadie nada. En este caso,
+[01:56:39] lo que hacemos es calcular el ingreso
+[01:56:40] requerido de manera exante en una
+[01:56:42] revisión tarifaria.
+[01:56:44] Estamos garantizando el ingreso
+[01:56:46] requeridos.
+[01:56:47] ¿Sí?
+[01:56:49] Lo segundo en general es que regulamos
+[01:56:52] el mercado como funciona en sí. Y uno de
+[01:56:55] los elementos que decimos es que eh los
+[01:56:58] componentes de generación, tanto en gas,
+[01:57:00] el precio de gas en boca de pozo como el
+[01:57:03] precio de generación está desregulado en
+[01:57:05] un mercado que tiene pautas normativas
+[01:57:08] muy claras y sobre los cuales debe
+[01:57:10] hacerse un passw.
+[01:57:12] Pero además regulamos por otro lado
+[01:57:16] elementos tan centrales, ¿sí? Como
+[01:57:19] tarifas. definimos tarifas en función de
+[01:57:21] ese ingreso requerido y definimos además
+[01:57:25] que el tipo que va a prestar el
+[01:57:26] servicio, el el accionista tiene que
+[01:57:28] tener un retorno sobre el capital
+[01:57:31] invertido, un un unac,
+[01:57:34] ¿sí?, sobre el capital invertido, justo
+[01:57:36] y razonable con e que internalice el
+[01:57:39] riesgo asimilares actividad.
+[01:57:43] Esto en competencia perfecta no existe
+[01:57:45] ni a ganchos.
+[01:57:46] El tipo obtiene una rentabilidad en
+[01:57:48] función de cuán eficiente es. Y si de
+[01:57:50] repente le vino una macro adversa, la
+[01:57:52] rentabilidad es serapio.
+[01:57:56] En el caso de las actividades que son eh
+[01:57:58] de prestaciones de servicios públicos,
+[01:58:00] uno garantiza una WAC
+[01:58:03] y si eventualmente pisó tarifas y esa
+[01:58:05] WAC no se garantizó, tiene en el caso de
+[01:58:07] la Argentina a través del tratado
+[01:58:08] bilateral de inversiones
+[01:58:10] posibilidades de un tribunal
+[01:58:11] internacional para garantizar esa WAC
+[01:58:14] que le preestablecimos en el marco
+[01:58:16] regulatorio.
+[01:58:18] Por supuesto que esto es común a todas
+[01:58:20] las economías. ¿Qué quiero decir? En
+[01:58:22] todas las economías del mundo se
+[01:58:24] garantizan en los sistemas regulatorios
+[01:58:26] una determinada tasa de retorno que en
+[01:58:28] general es más un poco más alta que la
+[01:58:30] tasa eh de apalanamiento crediticia del
+[01:58:34] mercado. ¿Sí? ¿Por qué? Bueno, porque
+[01:58:36] son industrias en general que tienen una
+[01:58:38] particularidad y es que el costo está
+[01:58:40] hundido y que tienen como tienen un gran
+[01:58:43] capital asociado a diferencia de lo que
+[01:58:45] sucede en competencia perfecta, el
+[01:58:47] capital es mandatorio, tiene un
+[01:58:49] gasoducto, por ejemplo, un gasoducto
+[01:58:51] cualquiera, Greenfield. Y bueno, el
+[01:58:54] gasto de vaca muerta 1500 millones de
+[01:58:57] dólares.
+[01:58:59] Son inversiones tan grandes las que hay
+[01:59:01] que se dirimen de alguna manera en un
+[01:59:03] esquema regulatorio en el cual debe
+[01:59:05] definirse la rentabilidad que van a
+[01:59:07] obtener y cómo la van a obtener, en qué
+[01:59:09] plazo. Tengan en cuenta, además, que son
+[01:59:12] activos que se amortizan en cuántos
+[01:59:14] años, 35, 40. Y eso trae hasta un
+[01:59:16] problema de incertidumbre en el en el
+[01:59:18] mediano plazo para un inversor. Sí.
+[01:59:22] Esto de que tenga de que se tenga una
+[01:59:25] tasa de retorno exante, no existe ningún
+[01:59:27] mercado competitivo.
+[01:59:29] Sí, más bien la tasa de retorno es un
+[01:59:33] residuo en la competencia perfecta.
+[01:59:37] Adicionalmente, como si fuera poco, ya
+[01:59:39] regulamos tarifas, regulamos el ingreso
+[01:59:42] requerido, regulamos específicamente
+[01:59:45] eh como les dijera recién, eh también
+[01:59:49] regulamos
+[01:59:51] lo que es el valor de la base de capital
+[01:59:54] en competencia perfecta. A nadie le
+[01:59:56] importa cuánto vale tu empresa, salvo
+[01:59:57] que cotices en bolsas, salvo que quieras
+[02:00:00] hacer un apalancamiento, pero nadie
+[02:00:01] viene a definir cuál es el valor de tus
+[02:00:03] activos. Eso es un residuo. Sí.
+[02:00:06] Eventualmente si hiciste muchas
+[02:00:07] inversiones y capturaste mercado, tu
+[02:00:09] mercado, tu tu valor de acciones sube
+[02:00:12] profunda sube de manera importante en
+[02:00:14] una incidencia relevante. Sí, pero salvo
+[02:00:16] que quieras vender la empresa y haces un
+[02:00:18] due diligence, normalmente no está
+[02:00:20] preestablecido el valor del activo. En
+[02:00:22] el caso de las empresas de servicios
+[02:00:24] públicos, el valor del activo está
+[02:00:26] definido de manera premeditada.
+[02:00:28] En el caso del del sector eléctrico en
+[02:00:31] general por balances, contabilidad
+[02:00:33] regulatoria y actualmente en una
+[02:00:34] revisión tarifaria por el BNR,
+[02:00:38] pero en competencia perfecta, a nadie le
+[02:00:40] importa cuál es el valor de tu activo,
+[02:00:41] sino cómo lo utilizas.
+[02:00:44] Y el precio de alguna manera cumple el
+[02:00:46] rol de amortizar parte del capital que
+[02:00:47] necesitas. ¿Se entiende? En este caso le
+[02:00:50] estás garantizando cuál es el valor del
+[02:00:52] activo que le vas a
+[02:00:54] reconocer
+[02:00:56] en su base de capital y como retorno
+[02:00:58] sobre ese capital. Esto lo haces muy
+[02:01:00] particular como mercado, no existe en el
+[02:01:02] mercado competitivo. Sí, el mercado
+[02:01:05] competitivo obtenés la rentabilidad que
+[02:01:07] te corresponde en función de cómo
+[02:01:09] gestionaste tu activo. Sí. Otra cosa
+[02:01:12] adicional es que estos marcos
+[02:01:14] regulatorios con ciertas limitaciones
+[02:01:17] prohíben la inter la integración
+[02:01:19] vertical. Es decir, un tipo que labura
+[02:01:21] en dición no puede ser dueño de una
+[02:01:23] generadora, ¿no? Un tipo que labura una
+[02:01:27] distribución de gaso puede ser dueño de
+[02:01:29] un productor de gas, de un yacimiento.
+[02:01:31] ¿Sí? ¿Qué es lo que se busca? Bueno, lo
+[02:01:33] que se trata de buscar en todos los
+[02:01:34] marcos regulatorios es que de alguna
+[02:01:36] manera exista la potencialidad de que el
+[02:01:38] mercado sea competitivo. Segmentando
+[02:01:40] verticalmente lo que se hace es que no
+[02:01:42] haya una posición estérgica dominante.
+[02:01:45] Ahora bien, obviamente en la mayoría de
+[02:01:48] los países e lo que se ha verificado es
+[02:01:51] que las empresas tienen que hacer
+[02:01:52] inversiones tan grandes que en el último
+[02:01:54] tiempo los marcos regulatorios empezaron
+[02:01:56] a permitir a permear en que existan
+[02:01:58] integraciones horizontales. Sí.
+[02:02:01] Entonces, un profesa desarrolla su
+[02:02:03] actividad en el sector eléctrico, puede
+[02:02:05] desarrollarlo en el sector gasífero. Hay
+[02:02:07] cierta posibilidad de de integración,
+[02:02:09] básicamente porque son mercados muy
+[02:02:11] riesgosos, porque tienen mucho capital
+[02:02:13] invertido y porque tienen muchísima
+[02:02:15] volatilidad.
+[02:02:17] Y entonces los marcos regulatorios
+[02:02:18] empiezan a ser integrados, gas con
+[02:02:20] electricidad, por ejemplo, y defensa de
+[02:02:21] la competencia. En Europa, si se fijan,
+[02:02:24] la mayoría de los marcos regulatorios
+[02:02:26] toman a la regulación de manera
+[02:02:27] integrada
+[02:02:29] y lo que son los organismos reguladores
+[02:02:32] como en Inglaterra o como la Comisión
+[02:02:35] Nacional de Energía en España regulan
+[02:02:37] todos los segmentos de la cadena
+[02:02:38] energética porque se supone que hay
+[02:02:41] integración
+[02:02:42] horizontal en lo que sería de alguna
+[02:02:45] manera la prestación de todos los
+[02:02:47] servicios energéticos. Esto es algo que
+[02:02:49] es novedoso y que de alguna manera lo
+[02:02:51] que trata hacer es permear en regular
+[02:02:54] tal cual lo que digamos tal cual lo que
+[02:02:56] se está verificando en la realidad, ¿sí?
+[02:02:58] Que es esta integración horizontal. En
+[02:03:00] el caso de Argentina,
+[02:03:02] alguno de ustedes me dirá, pero hay un
+[02:03:04] montón de casos en los cuales hay
+[02:03:05] interacciones verticales. Sí, pero no se
+[02:03:08] pueden dar de manera natural. Es
+[02:03:10] necesario preguntar previamente defensa
+[02:03:12] de la competencia, más allá de las
+[02:03:13] miradas que cada uno de nosotros
+[02:03:15] tengamos respecto de la intervención de
+[02:03:16] defensa de la competencia, ¿no? Lo que
+[02:03:18] es que en los distintos sectores
+[02:03:19] energéticos empieza a haber una
+[02:03:21] integración de los grupos económicos.
+[02:03:24] Sí.
+[02:03:25] Cuando eso se verifica y uno quiere
+[02:03:27] desregular para generar competencias, no
+[02:03:29] necesariamente la competencia, bueno, se
+[02:03:32] puede gestar de manera protagónica. Ese
+[02:03:35] es uno de los temas, esa es una de las
+[02:03:37] cuestiones. Sí.
+[02:03:39] ¿Qué quiero decir? Si ahora querés
+[02:03:41] desregular gran concentración de grupos
+[02:03:43] económicos
+[02:03:44] con una estrategia de cierta eh
+[02:03:47] integralidad vertical y bueno, las
+[02:03:50] resultados de la competencia por ahí no
+[02:03:51] son los previstos,
+[02:03:54] ¿se entiende? Y ese es un elemento
+[02:03:56] central. Por eso los marcos regulatorios
+[02:03:59] toman aspectos respecto de limitaciones
+[02:04:01] en cuanto a la concentración que hay en
+[02:04:03] estos mercados.
+[02:04:05] Sí.
+[02:04:08] Bien. Todas estas cuestiones de alguna
+[02:04:10] manera hacen que
+[02:04:14] de alguna forma eh hacen y y no no no
+[02:04:17] nos muestran de alguna manera e estos
+[02:04:21] servicios públicos, estas
+[02:04:22] infraestructuras de red son
+[02:04:25] trascendentes porque de alguna manera
+[02:04:28] los regulamos en todos los aspectos de
+[02:04:31] de de su construcción, ¿sí? Eh, no son
+[02:04:34] solo las tarifas, sino los planes de
+[02:04:36] inversión que tienen que desarrollar,
+[02:04:38] sino cómo esos económicos eh se
+[02:04:41] integran, sino la rentabilidad que deben
+[02:04:43] obtener en un determinado plazo. Sí. Y
+[02:04:46] todo esto se define exante.
+[02:04:49] Por eso es que de alguna manera, desde
+[02:04:51] el punto de vista regulatorio, una
+[02:04:52] revisión tarifaria es un proceso
+[02:04:54] superclejo,
+[02:04:55] complejo del punto de vista de la
+[02:04:57] producción de sentido,
+[02:04:59] la discusión política que hay por
+[02:05:00] detrás. Sí. Eh, es natural que eso
+[02:05:04] ocurra. Sí, Argentina estos marcos
+[02:05:08] regulatorios que ha tomado son de la
+[02:05:10] década del 90. Parte de los de los
+[02:05:13] mecanismos regulatorios que que se toman
+[02:05:15] en estos plexos normativos e
+[02:05:19] están basados eh en buena parte en el
+[02:05:22] esquema regulatorio inglés,
+[02:05:26] tanto en electricidad como en gas. Y el
+[02:05:29] esquema regulatorio de alguna manera en
+[02:05:32] Argentina toma las bases del Price Cap.
+[02:05:36] El price Cap es un mecanismo regulatorio
+[02:05:38] que tiene de alguna manera eh cierto
+[02:05:41] esquema de incentivos a que el prestador
+[02:05:43] seaciente. Sí, como comentaba en su
+[02:05:46] momento nadie, ese pricecap lo que hace
+[02:05:48] de alguna manera es tratar de emular las
+[02:05:51] condiciones de un mercado estableciendo
+[02:05:54] tarifas tope, ¿sí? Tarifas máximas.
+[02:05:58] Argentina así lo estipula, eh, y que el
+[02:06:02] prestador del servicio, si es eficiente,
+[02:06:04] sí, pueda de alguna manera de la única
+[02:06:07] cuando tenemos tarifas máximas, la única
+[02:06:09] manera que tiene un prestador de
+[02:06:10] maximizar su renta siendo muy eficiente,
+[02:06:12] disminuyendo los costos, porque el
+[02:06:14] ingreso está fijo, tarifa por cantidad
+[02:06:16] constante. Sí, de alguna manera ese
+[02:06:20] esquema price lo que trata de hacer es
+[02:06:21] que el el prestador del servicio sea lo
+[02:06:25] más eficiente posible. Y en parte la
+[02:06:27] regulación de Argentina empezó por Price
+[02:06:29] Cap porque ya su red de infraestructura
+[02:06:32] cuando se privatiza está madura,
+[02:06:35] está desarrollada, está expandida, está
+[02:06:38] invertida. Sí,
+[02:06:43] hasta acá alguna duda
+[02:06:48] bien.
+[02:06:50] Y les traigo a colazón un poquito qué es
+[02:06:52] lo que pasa a nivel mundial respecto de
+[02:06:55] eh cómo se regula. Sí, en general uno
+[02:06:59] tiene tendencia a ver las experiencias
+[02:07:02] de los países de Europa Continental y
+[02:07:04] Estados Unidos como contrastación y les
+[02:07:07] traje colación también lo que ocurre en
+[02:07:08] Sudamérica. Sí. Eh, en Europa la
+[02:07:11] regulación, mayoría de los casos, es una
+[02:07:14] regulación similar a la Argentina. Es un
+[02:07:16] esquema que se llama
+[02:07:19] precio tope. CAP es gorra, precio gorra.
+[02:07:21] Sí. Eh, es un esquema de price CAP.
+[02:07:25] La la primera etapa de regulación en el
+[02:07:28] mundo surgen de de regulación por Price
+[02:07:31] CAP surge en el Reino Unido. El Reino
+[02:07:33] Unido es uno de los países primeros de
+[02:07:35] Europa que decide privatizar en un marco
+[02:07:38] en el cual la macro en la época de
+[02:07:41] Margaret Tcher, en el cual la macro de
+[02:07:43] de Gran Bretaña estaba muy complicada,
+[02:07:46] extremadamente complicada y una manera
+[02:07:48] de de generar eh disminución del déficit
+[02:07:52] presupuestario que tenía el Estado fue
+[02:07:54] privatizar todos los servicios públicos.
+[02:07:56] Sí. Y en ese momento se le ocurre a un
+[02:07:58] economista que se llamaba Little Child
+[02:08:00] regular por Price Cap. Hasta ese momento
+[02:08:02] la regulación era una regulación por
+[02:08:04] costo plus. ¿Qué era un costo plus?
+[02:08:07] Bueno, era registrar todos los costos,
+[02:08:09] las inversiones,
+[02:08:11] los requerimientos que tenía una empresa
+[02:08:12] y trasladar todo eso a la Sí, abrir una
+[02:08:16] especie de era hacia atrás. Lo que lo
+[02:08:18] que se hacía era verificar qué planes de
+[02:08:20] inversión había que hacer y en función
+[02:08:22] de eso dar certidumbre de que las
+[02:08:23] tarifas siguen cobertura esos planes de
+[02:08:25] inversión. Una vez que la industria se
+[02:08:29] desarrolla y madura y esas inversiones
+[02:08:30] ya fueron hechas, se le pide otras cosas
+[02:08:33] a la industria energética. Se le pide
+[02:08:35] que sea eficiente y ahí aparece esta
+[02:08:37] este pric.
+[02:08:39] Las gestas respecto de la regulación se
+[02:08:41] dan, como les digo, eh de búsquedas de
+[02:08:43] eficiencia en la regulación se dan en
+[02:08:45] Inglaterra. Inglaterra lo que privatiza
+[02:08:47] primero es telecomunicaciones
+[02:08:49] y gas. Y fue una gesta titánica porque
+[02:08:53] el emblema de Inglaterra era British
+[02:08:55] Petróleum y British Gas y hacen un
+[02:08:57] proceso de regulación de la
+[02:08:59] Después también en el sector eléctrico,
+[02:09:02] en todo el sector energético. Tuvieron
+[02:09:04] que calibrarlo porque eventualmente las
+[02:09:06] privatizaciones eran prueba y error. Lo
+[02:09:09] importante es que Reino Unido empieza a
+[02:09:10] ser la marca característica del
+[02:09:12] principio de que, che, en los monopolios
+[02:09:14] también es posible buscar eficiencias.
+[02:09:17] Inglaterra lo logró.
+[02:09:19] Europa continental más tarde llega a
+[02:09:21] estos procesos de desregulación en parte
+[02:09:24] porque también había empresas emblema.
+[02:09:27] En en Francia está el grupo Electricité
+[02:09:30] de France, está eh en Italia el Grupo
+[02:09:33] Eni, en los Países Bajos tienen la
+[02:09:36] participación de Shell y empresas
+[02:09:37] importantes eh de prestadoras de
+[02:09:40] servicios. Toda Europa continental tenía
+[02:09:42] una gran cantidad de servicios públicos
+[02:09:44] administrados por empresas o por el
+[02:09:46] sector estatal o por empresas que eran
+[02:09:48] emblema, que de alguna manera tenían
+[02:09:50] mucha participación estatal. La
+[02:09:52] gobernanza de esto se dio porque, bueno,
+[02:09:53] Europa vio que no tiene energía, es
+[02:09:56] decir, no tiene petróleo, no tiene gas y
+[02:09:59] entonces hace un gran mercado integrado
+[02:10:01] y establece marcos regulatorios todos
+[02:10:03] administrados a partir de un price cap.
+[02:10:05] Hasta ese momento no había un esquema
+[02:10:08] regulatorio por costo plus, eh, era por
+[02:10:10] costo plus y en ese momento deciden que
+[02:10:12] hay que hacer un cambio trascendente y
+[02:10:14] ponen fechas de cumplimiento. Sí, en
+[02:10:17] general las fechas fueron en el 2008, se
+[02:10:20] se plantearon, si los quieren buscar en
+[02:10:22] en en las directivas de la Unión
+[02:10:24] Europea, hay dos libros importantes, el
+[02:10:26] libro verde y el libro blanco, que lo
+[02:10:28] que hacen es establecer que un mercado
+[02:10:31] rápidamente eh desregulado y lo que
+[02:10:34] plantean es a partir de tal fecha todos
+[02:10:36] los países del 2007, todos los países
+[02:10:38] miembros tienen que incluir un esquema
+[02:10:40] de privatizaciones y price cap.
+[02:10:43] Y luego el otro elemento que establecen
+[02:10:45] es a partir del 2000, creo que era 10,
+[02:10:48] todos los usuarios eh grandes
+[02:10:51] consumidores tienen que salir a comprar
+[02:10:53] sus propias compras de electricidad al
+[02:10:56] mercado eh desregulado y quedan solo los
+[02:10:59] usuarios elegibles, ¿sí? Que son los
+[02:11:01] residenciales, pocos, no todos, sí,
+[02:11:04] porque inclusive los residenciales
+[02:11:05] pueden eh pueden efectuar sus propias
+[02:11:08] compras de energéticos.
+[02:11:10] El resultado, por supuesto que esto va
+[02:11:12] eh de manera taxativa y el beneficio que
+[02:11:16] tiene es que la Comunidad Económica
+[02:11:18] Europea integra al mercado energético
+[02:11:20] minimizando sus costos. Sí, es un
+[02:11:23] mercado que su marco regulatorio está
+[02:11:25] focalizado en cómo administrar un
+[02:11:27] mercado integrado de energía de tal
+[02:11:29] forma de que todos los países tengan un
+[02:11:31] backup dado entre sí. Esto hace que se
+[02:11:33] minimicen los costos de prestación y que
+[02:11:36] el mercado integrado garantice la
+[02:11:37] confiabilidad del sistema. Piensen que
+[02:11:40] nada, el continente europeo,
+[02:11:43] no hace falta que les diga, no, España
+[02:11:44] tiene el tamaño de la provincia de
+[02:11:45] Buenos Aires, entonces estos backups,
+[02:11:47] esta forma de integrar fue muy eficaz
+[02:11:49] para el caso europeo. Después se sumaron
+[02:11:51] el resto de los países, por ejemplo, en
+[02:11:52] este caso Polonia, que todavía está en
+[02:11:55] transición de Price Cap, ¿sí? los que
+[02:11:57] digamos los los países de Europa
+[02:11:58] continental iniciales enseguida tuvieron
+[02:12:00] que administrar el PRCAP y en la
+[02:12:02] actualidad todos los eh países de de
+[02:12:04] Europa del Este están administrando su
+[02:12:06] integración a este esquema único
+[02:12:08] regulatorio.
+[02:12:10] Si se meten en en las páginas web de la
+[02:12:13] Unión Europea, van a ver los las
+[02:12:15] discusiones que tiene la Comunidad
+[02:12:17] Económica Europea respecto de cómo
+[02:12:19] regular, respecto de cómo administrar
+[02:12:21] los renovables en su matriz e intentan
+[02:12:24] que sea cada vez mayor la matriz de
+[02:12:26] renovables, cómo manejar la
+[02:12:27] intermitencia, cómo rolear los costos.
+[02:12:30] Les recomiendo que se incorporen porque
+[02:12:31] en general todas las directivas, algunas
+[02:12:34] de ellas están en español porque como
+[02:12:36] España es país miembro, eh el debate y
+[02:12:39] la literatura que tienen es muy rico.
+[02:12:41] Sí. Y están, bueno, en discusiones mucho
+[02:12:44] más avanzadas respecto de cómo regular a
+[02:12:46] costos eficientes. El Reino Unido en la
+[02:12:49] actualidad esté aplicando un método
+[02:12:51] regulatorio que si bien es Price Cap,
+[02:12:54] tiene algunas novedades. Sí, se lo llama
+[02:12:56] el método Totex.
+[02:12:58] Es interesante porque muestra de alguna
+[02:13:00] manera están muy son muy permeables
+[02:13:03] ahora a discutir el tema de
+[02:13:07] cómo es que los incentivos están a la
+[02:13:09] disminución de tarifas y también los
+[02:13:11] temas de innovación
+[02:13:13] como mecanismo regulatorio. Es muy
+[02:13:14] interesante en cómo se abre y cómo se
+[02:13:16] presenta la a la sociedad y cómo es la
+[02:13:19] gobernanza de esto. Sí, pues están
+[02:13:21] regulando electricidad y gas a la vez y
+[02:13:23] porque tienen un esquema de eh mejora
+[02:13:26] continua. Así que aquel que quiera ver
+[02:13:28] eh un esquema regulatorio con algunas
+[02:13:30] mejoras que se pueden incorporar ya
+[02:13:32] fuera la empresa o el organismo
+[02:13:33] regulador, vale la pena pegarle una
+[02:13:35] lectura, pispiarlo, ¿sí? y buscar el
+[02:13:38] libro blanco y el libro verde, eh, y ver
+[02:13:41] algunas directivas que son interesantes
+[02:13:42] para repensar a veces qué decisiones
+[02:13:45] tomamos o cómo roleamos costos en estos
+[02:13:47] servicios públicos, porque la rueda ya
+[02:13:49] está inventada, digo yo. Sí, muchas
+[02:13:51] veces uno eh tan solo tomando
+[02:13:53] antecedentes puede plantear soluciones.
+[02:13:57] Por su parte, Estados Unidos en general
+[02:13:59] tiene una regulación muy difícil. Es
+[02:14:00] parecida a la de la Argentina. Tiene una
+[02:14:03] comisión llamada FER que regula toda la
+[02:14:05] la infraestructura
+[02:14:08] a nivel nacional. Sí. Eh, regula en
+[02:14:10] general transmisión de alta tensión, los
+[02:14:12] gasoductos de de interjurisdiccionales y
+[02:14:15] después tiene las comisiones estatales y
+[02:14:17] cada cada estado regula de una manera
+[02:14:19] distinta. Por eso lo que tienen es una
+[02:14:21] convivencia de esquemas regulatorios en
+[02:14:23] donde, bueno, qué sé yo, aparece el
+[02:14:26] costo, la prestación costo de servicio y
+[02:14:29] algunos que son del tipo price Cap. Sí.
+[02:14:32] Además, como cada estado, como cada,
+[02:14:35] digamos, cada cada zona específica eh
+[02:14:38] tiene eh marcos regulatorios
+[02:14:41] particulares dictados con su propia
+[02:14:43] jurisprudencia, tienen objetivos muy
+[02:14:44] diversos. Sí, están desde la zona de
+[02:14:47] petrolera en donde las emisiones no
+[02:14:49] importan un pomoifando
+[02:14:52] el uso de eh medición de emisiones,
+[02:14:55] minimización de la utilización de
+[02:14:57] combustibles líquidos. Sí. Entonces,
+[02:14:59] permea de una manera muy difusa Estados
+[02:15:01] Unidos. Casi les diría que hay que
+[02:15:03] estudiar cada punto en cuestión. Y en la
+[02:15:05] actualidad, obviamente, tienen una
+[02:15:07] mirada muy particular respecto de la
+[02:15:10] energía y cómo cobrarlo.
+[02:15:12] Eh, en el resto de los casos, eh,
+[02:15:14] Australia, Nueva Zelanda, eh, en la
+[02:15:17] mayoría el PRCAP ya se ha establecido
+[02:15:19] como un mecanismo regulatorio
+[02:15:22] eh
+[02:15:24] paradigmático, ¿sí? El mainstream, ¿sí?
+[02:15:27] Y en la actualidad lo que se está
+[02:15:28] discutiendo de alguna manera más que
+[02:15:30] nada en en aspectos tarifarios es
+[02:15:32] incluir todo lo que es medición
+[02:15:34] inteligente y todo lo que es la
+[02:15:35] información de las curvas de carga y
+[02:15:37] cómo consume cada usuario para que no
+[02:15:39] existan más cuadros tarifarios, que
+[02:15:41] existan propuestas del de la empresa que
+[02:15:43] prestadora hacia un perfil determinado
+[02:15:46] focalizado de usuarios. ¿Sí? Por
+[02:15:49] ejemplo, en Inglaterra el tipo puede
+[02:15:51] desde elegir comprar en en energía
+[02:15:53] eléctrica, tener una matriz verde y
+[02:15:55] comprar renovables únicamente, un
+[02:15:56] residencial, ¿sí? E minimizar de alguna
+[02:16:00] manera o o darle relevancia protagónica,
+[02:16:03] qué sé yo, al tema de de las energías
+[02:16:04] verdes, eh hasta consumir determinado
+[02:16:08] contrato que lo relaciona porque tiene
+[02:16:10] un factor de carga determinado en el
+[02:16:12] pico del sistema, ¿sí? recibe
+[02:16:14] determinadas tarifas menores. Eso es
+[02:16:16] interesante porque de alguna manera
+[02:16:18] Hola. Sí,
+[02:16:19] Fernando. Sí, Fernando, te hago una
+[02:16:21] Lisandro, te hago una consulta ahí.
+[02:16:23] cuando estábamos al principio hablando
+[02:16:24] del cálculo de los costos medios para
+[02:16:26] tarifar, ¿no?
+[02:16:27] Eh, cuando vos tenés a un uso, una de
+[02:16:29] las condiciones era que vos tenías un
+[02:16:31] público cautivo
+[02:16:32] dentro de el monopolio. Cuando vos dejas
+[02:16:35] que ese usuario que estaba cautivo pueda
+[02:16:38] elegir libremente el prestador, eh,
+[02:16:42] ¿cómo se calcula el costo medio de de
+[02:16:44] una empresa? Si puede ser que no tenga
+[02:16:46] la cantidad de clientes que uno cree que
+[02:16:48] que puede llegar a tener porque ese
+[02:16:50] usuario ya puede optar por distintas
+[02:16:52] empresas.
+[02:16:56] Bueno, a ver, buena pregunta. En
+[02:16:57] general, todo eso se trata con el
+[02:16:59] nombre, el tema del peaje. Sí. Eh,
+[02:17:03] cuando uno tarifica y avanza en proceso
+[02:17:05] de regulación, lo más relevante ya no es
+[02:17:07] fijar cuadros tarifarios finales, sino
+[02:17:09] peajes, peajes de acceso a los
+[02:17:11] operadores del sistema. Sobre ese tema
+[02:17:13] hay una discusión enorme y sobre los
+[02:17:15] resultados de de los procesos de
+[02:17:18] regulación también
+[02:17:21] en sí eh hay un único peaje, no es que
+[02:17:25] digo, en el extremo vos estudiar
+[02:17:27] tarificación para cada característica de
+[02:17:29] un usuario en particular y en general
+[02:17:31] hay peajes promedio. Sí, esto puede
+[02:17:34] generar un montón de ejemplo que se
+[02:17:36] descreme el negocio de un prestador,
+[02:17:38] ¿sí? por un mala una mala asignación de
+[02:17:40] peajes.
+[02:17:42] Em,
+[02:17:43] y en general
+[02:17:46] es un tema todavía en la agenda
+[02:17:48] regulatoria de mucho debate.
+[02:17:51] Por ejemplo, muchos de las eh algunas de
+[02:17:53] las literaturas que uno ve respecto de
+[02:17:55] lo que hizo el proceso europeo de
+[02:17:56] desregular, es decir, definir que muchos
+[02:17:58] usuarios se fueran del mercado del
+[02:18:00] incumbente a comprarle a otros
+[02:18:01] operadores, demostraron que a la larga
+[02:18:03] en realidad la competencia tampoco era
+[02:18:05] tal. Sí, porque los comercializadores
+[02:18:07] que se coptaban, por ejemplo, en el
+[02:18:09] Reino Unidos, los comercializadores que
+[02:18:11] atendían a los residenciales de mayor
+[02:18:13] consumo en general eran todos de BP, de
+[02:18:15] British Petroleum.
+[02:18:17] Sí. En el mercado europeo British eh
+[02:18:20] electricidad de France hacia lo mismo.
+[02:18:22] Entonces, la gobernanza de esa
+[02:18:24] competencia es relativa cuando uno va a
+[02:18:26] los resultados. Sí. Ahora, el poder
+[02:18:30] disuasivo que genera que haya
+[02:18:31] competencia
+[02:18:33] normalmente es visto de una manera
+[02:18:35] positiva si eso genera sí de alguna
+[02:18:39] manera cierto límite, cierta disuación
+[02:18:41] al ejercicio de poder monopólico. No sé
+[02:18:43] si respondí tu pregunta respecto de lo
+[02:18:45] que preguntabas de los costos. Es un
+[02:18:47] tema muy complejo de seguir porque
+[02:18:50] además eh cuando vos tenés eh
+[02:18:53] tarificaciones que tienen eh tarifas
+[02:18:55] iguales, en donde tenés localidades
+[02:18:57] aisladas y localidades densamente
+[02:18:59] poblacionales, en donde existe realmente
+[02:19:00] una especie de bolsa que que cubre a
+[02:19:03] esos usuarios con precios diferenciales.
+[02:19:05] Sí. Y bueno, cuando vos tratás de de
+[02:19:08] fijar peajes o de fijar situaciones en
+[02:19:10] las cuales los usuarios se pueden
+[02:19:12] retirar, te pueden generar un descreme
+[02:19:13] del negocio, eh, y y una erosión del
+[02:19:17] funcionamiento de la empresa.
+[02:19:20] Sí.
+[02:19:21] Bien. Sí, sí. Y en esto lo que Y en esto
+[02:19:23] lo que te recomiendo es que veas la
+[02:19:25] literatura y los antecedentes que hay en
+[02:19:26] Europa. Hay mucha mucho de esto. En
+[02:19:28] general el laburo es bastante eh
+[02:19:33] urticante y está provisto por a través
+[02:19:36] de audiencias públicas y no audiencias
+[02:19:37] públicas, eh distintas directivas que
+[02:19:40] que van sacando respecto de los debates
+[02:19:41] de cómo establecer eh condiciones de
+[02:19:45] dereulación que no descremen al
+[02:19:46] incumbente, porque ese es el objetivo.
+[02:19:48] Sí, eso en lo que lo regulación lo que
+[02:19:50] se llama como
+[02:19:52] sostenibid sostenibilidad del prestador,
+[02:19:57] ¿sí? Que incluye también el tema de que
+[02:20:00] el prestador no tenga ese poder de
+[02:20:02] mercado para establecer de repente nada,
+[02:20:04] cobrarle más a los residenciales que no
+[02:20:06] pueden irse para poder competir de una
+[02:20:08] manera libre en los mercados regulados,
+[02:20:09] ¿no?
+[02:20:11] Ese es un tema interesante también de
+[02:20:13] aprender y que está muy tratado en toda
+[02:20:15] la literatura regulatoria en la
+[02:20:17] actualidad. en Europa, sobre todo.
+[02:20:21] Em,
+[02:20:23] y después, bueno, cuando uno va a
+[02:20:25] Sudamérica encuentra variedades,
+[02:20:29] formas de de funcionamiento regulatorio
+[02:20:31] muy variopintas. Sí. E tenemos dos
+[02:20:34] países, Uruguay y Paraguay, que tienen
+[02:20:36] una prestación en donde las empresas
+[02:20:38] están integradas verticalmente,
+[02:20:41] son prestadas de alguna manera con una
+[02:20:44] gran con la intervención estatal. la UT
+[02:20:47] de Uruguay y ANDE de Paraguay en el y
+[02:20:50] son funcionamientos distintos. Eh, la
+[02:20:52] UTE de Uruguay tiene una empresa tiene
+[02:20:53] tiene inclusive un organismo regulador
+[02:20:55] que se llama Ursea. La tarifa es
+[02:20:57] regulada, se ajusta periódicamente eh y
+[02:21:00] funciona con sus más, con sus menos, de
+[02:21:03] una manera muy razonable. que de hecho
+[02:21:04] han logrado hacer una tarea titánica que
+[02:21:06] es desarrollar el financiamiento de los
+[02:21:08] renovables. Eh, han sostenido las
+[02:21:11] tarifas más altas, no lo digo con con
+[02:21:13] alegría, eh, pero han sostenido un
+[02:21:15] esquema de financiamiento de estos
+[02:21:17] proyectos renovables. Por supuesto, un
+[02:21:19] alto costo son las tarifas más altas de
+[02:21:20] toda Sudamica, pero siendo un esquema
+[02:21:23] regul estatal con gran participación
+[02:21:25] estatal, demuestran una destreza
+[02:21:27] importante, es decir, los logros que se
+[02:21:28] han fijado las han logrado, los han
+[02:21:30] alcanzado.
+[02:21:32] Paraguay, por su parte, tiene un esquema
+[02:21:34] también administrado. La empresa estatal
+[02:21:36] es Ande,
+[02:21:37] y ahí el tema bueno es que contra
+[02:21:40] Yasiretai y Taipú, que tienen precios de
+[02:21:43] 30 27 el megaw hora, es imposible,
+[02:21:46] digamos. No hay eficiencias que pueda
+[02:21:48] generar. Las tarifas son las más bajas
+[02:21:49] de todo el sector. Eh, y funciona de una
+[02:21:52] manera medio complicada, en donde la
+[02:21:53] administración política tiene una que no
+[02:21:56] hay ajustes tarifarios periódicos, no
+[02:21:58] hay previsión. Sin embargo, el
+[02:22:01] abastecimiento de Itaipú y y yá
+[02:22:04] de alguna manera hacen que tengan una
+[02:22:06] tarifa muy competitiva. Se entiende a lo
+[02:22:08] que voy. Cada país tiene sus
+[02:22:09] características propias de abundancias,
+[02:22:12] escaseces. La tarifa eléctrica en
+[02:22:13] Paraguay no es el tema de mayor debate.
+[02:22:16] Si bien ahora está empezando a ocurrir
+[02:22:18] que hay picos de consumo, sobre todo con
+[02:22:21] en los veranos y con el tema del cambio
+[02:22:24] eh el cambio, digamos, de de
+[02:22:26] temperaturas que que han subido mucho en
+[02:22:28] los veranos, han cambiado lo lo que es
+[02:22:30] el pico valle. El resto de los países
+[02:22:32] son un ejemplo medio variopinto. Sí. Eh,
+[02:22:35] Argentina tiene, ya lo saben, no vamos a
+[02:22:37] poner foco en esto, en general es el
+[02:22:39] Price Cap eh con incidencia de cada
+[02:22:42] provincia en los marcos regulatorios.
+[02:22:44] Colombia tiene un esquema federal y
+[02:22:46] regula una un organismo regulador que
+[02:22:47] las recomiendos se metan. CRED tiene
+[02:22:49] buena jurisprudencia regulatoria,
+[02:22:51] funciona muy razonablemente.
+[02:22:54] En el caso de Colombia, eh la regulación
+[02:22:57] es casi, diríamos un híbrido. Perú tiene
+[02:23:01] eh que también funciona muy bien. La
+[02:23:02] jurisprudencia es muy interesante. Ambos
+[02:23:05] países tienen una particularidad y es
+[02:23:06] que en estos casos el retorno sobre el
+[02:23:08] capital está fijado en el marco
+[02:23:10] regulatorio, es del orden del 10%, no se
+[02:23:12] hace ningún cálculo periódico, se lo
+[02:23:14] descinde de la de la macro y se les
+[02:23:16] plantea que el retorno sobre el capital,
+[02:23:18] la WAC calculada va a ser del 10% de
+[02:23:20] manera permanente. Chile tiene un
+[02:23:23] esquema supernovedoso. Chile regula,
+[02:23:25] privatizó en la década
+[02:23:28] en el 1982, privatizó primero telefonía
+[02:23:32] y y generación eléctrica. y regula por
+[02:23:35] un esquema que se llama de empresa
+[02:23:36] modelo eficiente. Verdaderamente es
+[02:23:39] complejo, es parecido a un BNR, pero un
+[02:23:40] poco más complicado.
+[02:23:42] Eh, y fue durante mucho tiempo el
+[02:23:45] ejemplo de Sudamérica. Sí.
+[02:23:48] Eh, y Brasil tiene una, bueno, es un
+[02:23:50] país inmenso, digo, es una economía a
+[02:23:53] nivel eh en su población, en su
+[02:23:56] extensión, tiene un esquema muy parecido
+[02:23:58] a a Estados Unidos en el sentido de que
+[02:24:00] tiene una gobernanza federal en
+[02:24:02] determinadas infraestructuras que son
+[02:24:04] interjurisdiccional, el resto de la
+[02:24:06] regulación estadual y en la mayoría de
+[02:24:09] los casos, principalmente Río de Janeiro
+[02:24:11] y y la zona de San Pablo, las
+[02:24:12] regulaciones que tienen son por price
+[02:24:14] cap. Eh,
+[02:24:17] los últimos cambios que hay son
+[02:24:19] impresionantes. Eh, son son empresas que
+[02:24:21] tienen un nivel de volumen que que las
+[02:24:23] hacen absolutamente eh sobreexpandidas
+[02:24:29] e y están en un proceso sobre todo en
+[02:24:32] las zonas eh de Mina de Geraes, Río de
+[02:24:36] Janeiro, eh y y San Pablo y Porto Alegre
+[02:24:40] en un esquema de una desregulación
+[02:24:42] feroz. se están promoviendo a colación
+[02:24:44] de las reglas de modernización que
+[02:24:46] hicieron en en el en el marco
+[02:24:49] regulatorio. Están promoviendo una
+[02:24:51] fuerte eh operación eh y modernización
+[02:24:56] de los grupos inversores que están
+[02:24:57] participando eh en el mercado. Sí,
+[02:25:01] dicho esto, les propongo
+[02:25:06] e lo primero es les voy a dejar un paper
+[02:25:08] para que que más bien teórico, para que
+[02:25:11] tengan un poquito de jerga respecto de
+[02:25:12] la regulación desde el punto de vista
+[02:25:14] económico. El paper se los va a pasar eh
+[02:25:16] Guillermina, un paper que publicó la
+[02:25:19] Universidad de Barcelona, eh que tiene
+[02:25:21] un departamento de investigación en
+[02:25:22] temas regulatorios. Les recomiendo, la
+[02:25:24] Universidad de Barcelona también es un
+[02:25:26] buen una buena opción para ver
+[02:25:27] literatura teórica, teórica o eh
+[02:25:30] literatura económica aplicada a
+[02:25:33] distintos sectores.
+[02:25:35] Y este paper es un paper cortito, no muy
+[02:25:37] largo en castellano, que les va a
+[02:25:38] permitir tener una idea general de qué
+[02:25:40] significa regular, significar
+[02:25:42] históricamente la regulación, entender
+[02:25:45] qué significa tarificar, comprender qué
+[02:25:48] qué particularidades tienen estos
+[02:25:50] mercados y finalmente discutir la
+[02:25:51] controversia entre los mecanismos
+[02:25:54] regulatorios, costo plus y prestado.
+[02:25:57] Sí, como cierre de la literatura que les
+[02:26:00] da un poquito de jergue, identidad a qué
+[02:26:02] significa regular de algún modo. Sí, a
+[02:26:05] lo largo de esta el punto de vista
+[02:26:08] económico, eh
+[02:26:11] el interés de la economía es protagónico
+[02:26:13] en los marcos regulatorios. Sí, todos
+[02:26:15] los esquemas regulatorios cuando se
+[02:26:17] ponen a trabajar en la cosa más
+[02:26:18] práctica, en una revisión tarifaria, en
+[02:26:20] un análisis más completo respecto de que
+[02:26:22] significa regular, incluye desde
+[02:26:24] herramientas microeconómicas hasta
+[02:26:26] teorías regulatorias, que es en lo que
+[02:26:28] focalizamos hoy e inclusive aspectos de
+[02:26:30] organización industrial. Cuando uno
+[02:26:32] disfute la contractualización de los
+[02:26:34] mercados de generación, discute todas
+[02:26:36] estas cosas a la vez. Sí. Es decir, que
+[02:26:40] y además discute todas estas cosas a la
+[02:26:42] vez en un en una situación o en un
+[02:26:44] contexto de modificación permanente de
+[02:26:46] los criterios eh sociales, de los
+[02:26:49] criterios económicos y de los criterios
+[02:26:52] de qué es lo que se pretende con la
+[02:26:53] regulación. Por eso que de alguna manera
+[02:26:56] genera e es un es un sector muy
+[02:26:59] provocativo en qué debatimos y cómo lo
+[02:27:02] debatimos. Sí, es natural que sea de ese
+[02:27:04] modo
+[02:27:06] para aquellos que necesiten algún Yo la
+[02:27:08] aburo también en temas de revisiones
+[02:27:09] tarifarias en en la cuestión más
+[02:27:11] práctica, ¿sí?
+[02:27:13] eh tanto en gas como en electricidad. eh
+[02:27:16] y doy clases teóricas y no tan teóricas
+[02:27:19] respecto de tema regulatorios igual que
+[02:27:21] Nadia. Les vamos a dejar los teléfonos y
+[02:27:24] los correos por si necesitan
+[02:27:25] bibliografía, formación, aportes,
+[02:27:27] jurisprudencias, literatura de de de
+[02:27:31] marcos regulatorios respecto de cómo se
+[02:27:33] solucionan determinadas cuestiones en
+[02:27:35] distintos países respecto del tema de
+[02:27:37] cómo incorporamos lo renovable, cómo
+[02:27:39] tarificamos, cómo tratamos a los
+[02:27:41] sectores vulnerables, cómo es que se
+[02:27:43] establecen eh tarifas con criterios de
+[02:27:45] acceso universal, ¿sí? Cómo se habla del
+[02:27:48] servicio esencial para los usuarios en
+[02:27:49] distintas zonas. eh temas que por
+[02:27:51] supuesto en la agenda de ustedes pueden
+[02:27:53] ser de relevancia, estén en un organismo
+[02:27:55] regulador, en una administración pública
+[02:27:57] o en una empresa prestando el servicio.
+[02:28:02] Dicho esto, llegamos a las 11 de la
+[02:28:05] mañana. Algunos no se durmieron, lo cual
+[02:28:07] ya es wow wow wow, un día martes después
+[02:28:10] de un feriado, eh, y encima hoy nos toca
+[02:28:13] el partido a las 10 de la noche, tenemos
+[02:28:15] que estar todos preparados, muy lúcidos,
+[02:28:18] ¿eh? Así que bueno, dicho esto, yo si
+[02:28:20] tienen alguna duda, si quieren hacer
+[02:28:22] algún comentario, este es el paper que
+[02:28:24] les voy a dejar que es de un montón de
+[02:28:26] de de catalanes escribiendo sobre
+[02:28:30] regulación de infraestructuras de red.
+[02:28:33] Sí, está bueno el paper. Léalo porque te
+[02:28:34] da un poquito de speech, después quedas
+[02:28:36] canchero hablando de de los temas en las
+[02:28:38] reuniones cuando cuando te llaman.
+[02:28:40] E
+[02:28:42] y bueno, nada, está bueno, está bueno
+[02:28:44] para para compartir.
+[02:28:46] Eh, así que siendo las eh 56 dejo
+[02:28:49] abierto a algún alguna observación,
+[02:28:53] alguna acotación que quieran hacer,
+[02:28:55] alguna consulta que tengan. Yo sé que
+[02:28:57] este esta charla fue un poquito más
+[02:28:58] teórica, pero está bueno para darle un
+[02:29:00] marco, ¿viste? te la pasas discutiendo
+[02:29:02] cuestiones concretas, prácticas y traer
+[02:29:04] a coción la la idea de
+[02:29:08] cómo es este de regular. Eh,
+[02:29:12] dejo los eh dejo abierto en estos 4
+[02:29:15] minutos a ustedes, a 3 minutos que
+[02:29:16] quedan eh a ustedes, ¿alguna idea
+[02:29:19] protagónica, algún vio Argentina?
+[02:29:24] Eh, bueno, entonces, ¿estás por ahí,
+[02:29:29] Guillermela? Sí, estoy acá, estoy acá.
+[02:29:32] Perfecto. Bueno, damos un cierre
+[02:29:34] entonces.
+[02:29:37] Sin mucha pregunta, veo e sin mucha
+[02:29:40] pregunta. Damos un cierre.
+[02:29:43] ¿Hay alguien quiso?
+[02:29:46] No, pareció que alguien quería se
+[02:29:48] prendió algún micrófono.
+[02:29:50] Algunos están dormidos y otros están
+[02:29:51] tomando mate y otros ya están podridos.
+[02:29:54] Estas cosas pasan. [risas] Pero bueno,
+[02:29:56] un placer haber estado, de verdad.
+[02:29:58] Gracias.
+[02:29:58] Una pregunta. Y María Fernanda,
+[02:30:00] consultas sobre bibliografía se las
+[02:30:02] hacemos después por privado, ¿no? Sí.
+[02:30:05] Consultir
+[02:30:06] a la plataforma.
+[02:30:07] Perfecto. Pero por ahí por algo
+[02:30:09] específico, por ahí les preguntamos
+[02:30:10] después porque
+[02:30:12] a ver, yo no quiero mandarles todo el
+[02:30:14] material porque realmente no viene el
+[02:30:16] caso con este paper. La verdad es que
+[02:30:17] más o menos están para
+[02:30:20] nada en rostrar.
+[02:30:21] Bárbaro. Muchas gracias.
+[02:30:22] Ahí va con esto. Ya está. Eh, y bueno,
+[02:30:26] quedamos en contacto. Un placer haberlos
+[02:30:28] conocido. Espero volverlos volvernos a
+[02:30:31] cruzar. Gracias, Guillermina, gracias a
+[02:30:34] a la UTN por esta posibilidad que nos
+[02:30:35] dieron, tanto a Nadia como a mí.
+[02:30:38] Y si piden los teléfonos o los correos,
+[02:30:40] estoy a disposición para para lo que
+[02:30:42] fuere. Sí.
+[02:30:43] Bueno, muchísimas gracias a vos,
+[02:30:45] Fernanda. Bueno, Nadia, ya le
+[02:30:47] agradecimos que se tuvo que ir, así que
+[02:30:49] sí nos estamos viendo porque tenemos
+[02:30:50] otras clases con ustedes, así que a lo
+[02:30:52] largo de la diplomatura nos nos volvemos
+[02:30:54] a ver.

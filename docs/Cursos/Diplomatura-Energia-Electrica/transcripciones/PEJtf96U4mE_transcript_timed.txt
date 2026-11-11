@@ -1,0 +1,3169 @@
+[00:00:21] Bueno,
+[00:00:23] vamos a arrancar con la clase 21. Eh,
+[00:00:27] hoy continuamos con los ingenieros
+[00:00:30] Carlos y Clemente y Ariel Albanese como
+[00:00:33] en la clase anterior, así que bueno, ya
+[00:00:35] los conocen, ya los presenté, así que
+[00:00:38] bueno, vamos a continuar. Gracias Ariel,
+[00:00:41] gracias Carlos.
+[00:00:43] Buenas.
+[00:00:43] Cuando quieran.
+[00:00:45] Bien, buenos días. ¿Qué tal? ¿Cómo
+[00:00:47] andan?
+[00:00:49] Bueno, hoy vamos a dar inicio a la a la
+[00:00:51] segunda clase que nos ocupa a nosotros
+[00:00:54] con Ariel. Eh, va a estar referida a la
+[00:00:57] planificación para la expansión de las
+[00:00:58] redes de distribución en media y baja
+[00:01:00] tensión y los planes de inversión
+[00:01:02] asociados. Bien.
+[00:01:05] Eh,
+[00:01:16] lo que ustedes ya han visto en el badaje
+[00:01:18] de la diplomatura en módulos anteriores,
+[00:01:21] han visto el marco legal de la ley 24065
+[00:01:25] de régimen nacional y la ley 11769 a
+[00:01:28] nivel provincial. Bueno, en el marco
+[00:01:30] legal a nivel nación, eh la ley 24065 y
+[00:01:36] su decreto ordenado, el 450 del 2025,
+[00:01:40] eh la ley estructura la obligación de
+[00:01:42] inversión mediante los siguientes
+[00:01:44] pilares. El contrato de concesión como
+[00:01:47] fuente directa. La ley establece eh que
+[00:01:50] el servicio de distribución es un
+[00:01:51] servicio público prestado bajo un
+[00:01:54] régimen de concesión y delega el
+[00:01:57] contrato de concesión al contrato en el
+[00:01:59] contrato de concesión, mejor dicho, eh
+[00:02:02] la obligación jurídica de la
+[00:02:03] distribuidora para presentar
+[00:02:05] periódicamente un plan de obras,
+[00:02:07] incumplir metas de calidad, continuidad
+[00:02:09] e inversión. Bien,
+[00:02:12] eh otorga, da una garantía tarifaria
+[00:02:14] para la expansión y la reposición de las
+[00:02:16] redes en el título cinco, régimen
+[00:02:18] tarifario, y tiene un mecanismo de
+[00:02:21] reconocimiento, es decir, que toda
+[00:02:22] inversión de expansión o mejora que
+[00:02:23] ejecute la distribuidora
+[00:02:26] solo se recupera económicamente si la
+[00:02:29] autoridad la reconoce como una
+[00:02:31] incorporación eficiente a la base
+[00:02:33] capital regulada dentro de los procesos
+[00:02:35] de la RTI, las revisiones integral y
+[00:02:37] tarifarias a nivel provincia.
+[00:02:40] de Buenos Aires, eh bajo la ley 11769,
+[00:02:45] eh el organismo eh control es el Oceva y
+[00:02:50] la Dirección Provincial de Energía es la
+[00:02:52] autoridad de aplicación. Eh, esta ley
+[00:02:56] instrumenta normativas más explícitas y
+[00:02:58] directas respecto a la planificación y
+[00:03:00] el control de inversiones.
+[00:03:03] dentro de la ley, las inversiones
+[00:03:05] obligatorias en el contrato de
+[00:03:06] concesión, artículo 53, inciso E y F,
+[00:03:13] estipula explícitamente
+[00:03:16] explícitamente que los contratos de
+[00:03:18] concesión provincial y municipales están
+[00:03:21] deben regular expresamente las
+[00:03:22] inversiones obligatorias en materia de
+[00:03:24] infraestructura instalaciones y las
+[00:03:26] condiciones técnicas económicas
+[00:03:28] aplicades a dichas ampliaciones. Bien.
+[00:03:31] Eh, la hay establece que debe haber una
+[00:03:34] planificación estatal indicativa, que es
+[00:03:37] un plan director quinquenal.
+[00:03:39] Eh, la norma le otorga al Estado
+[00:03:41] Provincial, bajo la autoridad de
+[00:03:43] aplicación de la DPE, la potestad de
+[00:03:45] planificar y promover el desarrollo
+[00:03:48] elroenergético mediante la elaboración
+[00:03:50] cada 5 años de un plan director de
+[00:03:53] servicios tanto de transporte como
+[00:03:54] distribución
+[00:03:56] para fijar políticas estratégicas
+[00:03:58] públicas.
+[00:03:59] Y eh en la actualidad las distribuidoras
+[00:04:03] en la provincia de Buenos Aires, tanto
+[00:04:04] provinciales como municipales, conforma
+[00:04:06] a lo establecido en la resolución 60 del
+[00:04:09] 2021 del Ministerio de Infraestructura y
+[00:04:13] la resolución 170 en el por parte de
+[00:04:15] Lenra en el 2018
+[00:04:18] eh exige que los planes de inversión
+[00:04:19] sean nominados, es decir, en forma
+[00:04:21] individualizada y detallado por proyecto
+[00:04:23] y por obra, impidiendo que se presenten
+[00:04:26] montos globales o partidas
+[00:04:28] presupuestarias genéricas. tipo bolsa.
+[00:04:31] Los planes actuales en la provincia de
+[00:04:33] Buenos Aires tienen eh
+[00:04:37] fecha cierre para la presentación el 30
+[00:04:39] de noviembre y en Nación eh el último
+[00:04:42] hábil el último día hábil del mes de
+[00:04:44] diciembre.
+[00:04:46] Y en ambos casos, tanto provincia como
+[00:04:49] nación, el contrato de concesión
+[00:04:53] es la fuente de obligación. ¿Qué
+[00:04:56] queremos decir con esto? en la fuente
+[00:04:59] jurídica directa y el instrumento
+[00:05:01] vinculante que impon las distribuidoras
+[00:05:03] tanto en jurisdicción nacional con el
+[00:05:05] nuevo ente en en Reje y OSEVA en la
+[00:05:08] provincia de Buenos Aires, OSEVA y DPE,
+[00:05:11] la obligación legal de invertir,
+[00:05:14] presentar, ejecutar y someter auditoría
+[00:05:17] a sus planes de inversión. Bien,
+[00:05:21] el contrato de concesión, por decir una
+[00:05:23] manera, es la fuente jurídica directa de
+[00:05:25] la obligación de invertir. El contrato
+[00:05:27] no dice qué cable ni qué transformador
+[00:05:30] poner y dónde ponerlo. Fija la
+[00:05:32] obligación de la calidad y la expansión
+[00:05:34] de la red que nosotros debemos o las
+[00:05:38] distributas, mejor dicho, deben traducir
+[00:05:40] en en proyectos de ingeniería. Bien,
+[00:05:46] acá vamos a introducir
+[00:05:48] la transformación conceptual central de
+[00:05:51] de este de la clase y de mejor dicho de
+[00:05:53] este módulo. Históricamente
+[00:05:56] las redes de distribución fueron
+[00:05:58] diseñadas como un sistema pasivo y
+[00:06:00] unidireccional,
+[00:06:02] es decir, que fueron conseguidos
+[00:06:03] exclusivamente para evacuar la energía
+[00:06:05] de las estaciones transformadoras
+[00:06:07] propias de la distribuidora, como el
+[00:06:09] caso del app de la transportista en el
+[00:06:11] caso de las del resto de las
+[00:06:12] provinciales y cooperativas asociadas al
+[00:06:15] agentes del MEM hacia la demanda final.
+[00:06:19] Hoy la palabra que hemos escuchado
+[00:06:21] todos, que está muy en boga, es lo que
+[00:06:23] es transición energética, altera un poco
+[00:06:25] esta esta raíz transformando a la red en
+[00:06:29] una plataforma activa bidireccional.
+[00:06:32] Este cambio viene impulsado por
+[00:06:34] fundamentalmente por tres vectores. La
+[00:06:36] generación distribuida a través de
+[00:06:38] paneles fotovoltaicos, pequeños
+[00:06:41] eh aerogeneradores,
+[00:06:43] centrales de biomasa o biogas, que está
+[00:06:46] regulada a nivel nacional por la ley
+[00:06:48] 27424 y a nivel provincia por la ley
+[00:06:51] 15,325.
+[00:06:54] El otro vector sería los sistemas de
+[00:06:57] almacenamiento con baterías en las
+[00:06:59] siglas BES, que bueno, como ya lo
+[00:07:01] dijimos en la clase anterior, hubo una
+[00:07:03] licitación a nivel nacional nacional,
+[00:07:05] primero para el GBA, Alma Alma GBA y
+[00:07:08] después para la para el resto del SADI,
+[00:07:10] Alma SADI,
+[00:07:12] eh, que generalmente se utiliza para
+[00:07:14] complementar las renovables
+[00:07:17] intermitentes.
+[00:07:19] y un tercer vector que es la la
+[00:07:22] electrificación de la de la movilidad,
+[00:07:24] es decir, los autos eléctricos y también
+[00:07:27] lo que es se conoce como una gestión
+[00:07:29] activa de la demanda, que serían los
+[00:07:31] conjuntos
+[00:07:33] de mecanismos tarifarios y contractuales
+[00:07:35] o también tecnológicos que introducen al
+[00:07:38] usuario a desplazar o reducir o modular
+[00:07:42] su consumo en el tiempo en respuesta de
+[00:07:44] una señal de precio como instrucción
+[00:07:47] operativa.
+[00:07:49] en vez de tratar la demanda como un dato
+[00:07:50] fijo, simple de la red. Eh, lo otro
+[00:07:54] hicimos una breve comentario, por
+[00:07:55] ejemplo, en Uruguay o en otros países
+[00:07:58] también tienen este estas tarifas por
+[00:08:00] por banda horaria. Eh, con eso nos
+[00:08:02] referimos a la gestión activa de la
+[00:08:04] demanda.
+[00:08:06] Eh, y bueno, como dijimos en un inicio,
+[00:08:08] pero al final con este, perdón, voy a
+[00:08:11] ver si activo el puntero,
+[00:08:14] eh, puntero, lo que tenemos acá en el
+[00:08:17] recuadrito, que entonces como colorario
+[00:08:19] hoy en función de lo que acabamos de
+[00:08:21] mencionar, estos tres vectores, la red
+[00:08:23] deja de ser unidireccional y pasa a
+[00:08:25] emitir flujos bidireccionales con
+[00:08:27] ciertas variables y inciertos. Bien,
+[00:08:33] a continuación vamos a observar esto que
+[00:08:35] acabamos de decir con este impacto
+[00:08:37] operativo, esta transición.
+[00:08:40] Por ejemplo, vamos a mostrar.
+[00:08:42] Tenemos la curva de la demanda bruta de
+[00:08:44] de un alimentador de media tensión X.
+[00:08:47] Tenemos en el eje y la potencia y en el
+[00:08:49] eje X la las horas del día.
+[00:08:53] eh
+[00:08:57] al mediodía y acá lo vamos a contraponer
+[00:08:59] con la demanda que quedaría que es la
+[00:09:01] curva verde y la en este caso que
+[00:09:04] tenemos vinculados alimentador eh una un
+[00:09:08] pequeño grupo de paneles solares.
+[00:09:11] Entonces, al mediodía, la inyección
+[00:09:12] masiva de generación distribuida solar,
+[00:09:14] como podemos ver en esta franja acá, eh
+[00:09:18] reduce la demanda neta de las estaciones
+[00:09:20] transformadoras y las estaciones y las
+[00:09:21] instalaciones agua arriba, generando lo
+[00:09:23] que se conoce como curva de pato,
+[00:09:26] que sería la verde, que es la que queda
+[00:09:29] de la la original, la demanda bruta,
+[00:09:31] menos la el impacto de la de la
+[00:09:34] generación fotovoltaica.
+[00:09:36] Bien, eh esta curva de pato eh, bueno,
+[00:09:40] cambia la la demanda neta que es
+[00:09:43] representada en la curva verde y puede
+[00:09:46] provocar de acuerdo a la demanda del
+[00:09:48] alimentador y a la al aporte de la
+[00:09:51] generación solar, inversiones en el
+[00:09:53] flujo de potencia al revés que inyecte
+[00:09:55] hacia aguas arriba y obviamente al caer
+[00:09:58] el sol se produce una rampa vespertina y
+[00:10:02] bueno, los paneles dejan de generar y
+[00:10:04] bueno, sigue abasteciendo la demanda. la
+[00:10:07] red. Eh, bien, técnicamente
+[00:10:11] esto lo que modifica es más para los
+[00:10:13] técnicos, pero la relación entre la
+[00:10:15] resistencia y la rectancia del
+[00:10:16] alimentador o de las instalaciones
+[00:10:18] altera los perfiles de tensión de las
+[00:10:20] barras, los nodos y también exige
+[00:10:22] revisar esta esta
+[00:10:25] eh este sentido de la demanda de los
+[00:10:28] flujos bidireccional, la coordinación de
+[00:10:30] las protecciones, bien, y también el los
+[00:10:34] niveles de cortocircuito de las
+[00:10:35] instalaciones.
+[00:10:38] Eh, bien.
+[00:10:41] Bueno, y acá está, me olvidé pasar la
+[00:10:42] animación donde tenemos el valle
+[00:10:44] mediodía que puedeir producirse, como le
+[00:10:47] decía, el posible flujo inverso y la
+[00:10:49] rampa vespertina a la noche.
+[00:10:52] Bien, le doy paso a Ariel.
+[00:10:56] Bueno, [carraspeo]
+[00:10:58] las dos preguntas del proceso,
+[00:11:00] planificación de la red, ¿cómo debería
+[00:11:02] ser el proceso? Eh,
+[00:11:06] por primero la planificación de la red
+[00:11:09] que vamos a desarrollar en este bloque
+[00:11:11] responde a cómo debería ser la red. Es
+[00:11:14] un ejercicio de ingeniería de sistemas a
+[00:11:17] largo plazo de unos 10 a 20 años que
+[00:11:20] diseña la red objetivo ideal bajo
+[00:11:24] escenarios de cargas especiales y
+[00:11:26] recursos distribuidos. Es decir, como
+[00:11:29] dijo recién Carlos, eh en estos tiempos
+[00:11:32] está cambiando el paradigma de cómo eh
+[00:11:37] funciona una red. Eh, antiguamente,
+[00:11:40] digamos, años atrás, era natural que la
+[00:11:44] red venía de aguas arriba, de, digamos,
+[00:11:45] de tensiones superiores la energía hacia
+[00:11:49] tensiones eh menores. Ahora con todo
+[00:11:52] este auge de las generaciones
+[00:11:55] distribuidas y y de las energías
+[00:11:57] alternativas a baja escala, esos flujos
+[00:12:01] se invierten y ya la red ahora pasa a
+[00:12:03] ser una red dinámica de eh
+[00:12:07] digamos bidireccional.
+[00:12:09] Eh, y el segundo, digamos, el plan de
+[00:12:13] inversiones eh desarroll
+[00:12:17] eh construye primero eh, perdón, a qué
+[00:12:20] se construye primero y qué se paga. Eh,
+[00:12:25] ya lo algo mencionó Carlos al comienzo,
+[00:12:27] digamos, no se va a a
+[00:12:31] reconocer nada que no que no esté en
+[00:12:33] tarifa, digamos. Las inversiones pasan
+[00:12:35] van a tener que estar reconocidas en
+[00:12:37] tarifa para que puedan ser viables.
+[00:12:38] Entonces, cuando uno hace eh un plan de
+[00:12:42] inversiones, hace planes de diversos y
+[00:12:46] algo hablamos ya en la clase anterior,
+[00:12:49] eh hace, digamos, un plan de máxima, un
+[00:12:52] plan de mínima y un plan de media en
+[00:12:55] función de las eh los distintos
+[00:12:59] escenarios de demanda que podríamos
+[00:13:01] llegar a tener. Y todos esos planes van
+[00:13:03] a tener que tener eh un una evaluación
+[00:13:08] económica asociada, la cual tiene que
+[00:13:12] estar reconocida en tarifa.
+[00:13:15] E
+[00:13:17] el plan, como dice en el punto tres, el
+[00:13:21] plan de inversión no se constituye en el
+[00:13:24] vacío acerca de la red inexistente o la
+[00:13:27] red objetivo dentro de las restricciones
+[00:13:29] que desarrollan. ¿Okay?
+[00:13:34] eh de la red objetivo al plan
+[00:13:37] ejecutable. Ahí vamos a ver un una un
+[00:13:41] diagrama, digamos, de flujo, un diagrama
+[00:13:43] de bloques, cómo se planifica.
+[00:13:45] arrancamos, digamos, como vamos como me
+[00:13:49] voy a adelantar al final, como pueden
+[00:13:50] ver, es un ciclo retroalimentado.
+[00:13:53] Primero diagnosticamos el escenario de
+[00:13:54] demanda,
+[00:13:56] eh luego establecemos con qué criterios
+[00:14:00] de diseño, es decir, todas las
+[00:14:04] las compañías, las distribuidoras, tanto
+[00:14:06] provinciales como municipales, tienen
+[00:14:08] que tener sus criterios de expansión de
+[00:14:11] red, que ese criterio de expansión de
+[00:14:13] red obedece a eh normativas y estándares
+[00:14:19] también de desarrollo y estándares de de
+[00:14:22] materiales, uno estandariza siempre para
+[00:14:25] poder disminuir los costos y poder tener
+[00:14:28] eh el stock de de reserva en almacenes
+[00:14:32] eh balanceado, adecuado. No voy a tener
+[00:14:36] infinidad de secciones de cable o
+[00:14:38] infinidad de módulos de transformadores
+[00:14:40] porque sería inviable económicamente.
+[00:14:43] Entonces uno estandariza en determinados
+[00:14:45] bloques que para eso hay todo un
+[00:14:48] análisis económico asociado de cuáles
+[00:14:50] deben ser esos esos rangos de de
+[00:14:53] estandarización.
+[00:14:56] Luego con esos eh diagnosticando
+[00:14:58] entonces la demanda y los criterios de
+[00:14:59] planificación asociados, uno realiza eh
+[00:15:03] la red objetivo que que espera tener en
+[00:15:06] el año horizonte, por ejemplo, a los 10
+[00:15:08] o 20 años, dependiendo cuál sea el
+[00:15:10] horizonte en el cual estamos analizando.
+[00:15:14] Obviamente
+[00:15:17] cumpliendo con los criterios que
+[00:15:19] hablamos la la clase anterior, los
+[00:15:21] criterios N de red de en estado
+[00:15:23] completo, en el cual uno tiene que tener
+[00:15:27] cumplir todas las normativas, dijimos,
+[00:15:29] de los procedimientos técnicos de Camesa
+[00:15:31] en cuanto a indicadores de calidad
+[00:15:33] servicio, indicadores de calidad
+[00:15:35] producto, niveles de eh eso incluye
+[00:15:38] niveles de tensión, por ejemplo, en
+[00:15:40] barra, cantidad y duración de de
+[00:15:44] interrupciones, etcétera.
+[00:15:46] Eh eh entonces tenemos el eso lo tenemos
+[00:15:50] que ir cumpliendo año a año, eh, o sea,
+[00:15:57] okay, eh, con lo cual eh uno tiene que
+[00:16:01] ir llegar al año objetivo cumpliendo y
+[00:16:04] cerrando todos estos procedimientos.
+[00:16:07] Después el el filtro de restricciones
+[00:16:10] presupuestarias que vamos a tener en
+[00:16:12] todo este proceso es ver que cada uno de
+[00:16:14] esos dentro de ese plan de inversiones,
+[00:16:16] cada una de las obras que uno va
+[00:16:18] analizando o evaluando puedan eh una que
+[00:16:23] esté reconocida, que lo reconozca el BAT
+[00:16:25] o la el agrado tarifario y otra es en la
+[00:16:28] revisión tarifaria integral que se hace
+[00:16:31] cada 5 años, ver que todas esas obras
+[00:16:35] queden incluidas.
+[00:16:37] Luego se hace una priorización
+[00:16:39] de cada una de ellas y un presupuesto
+[00:16:42] que vamos a hablar un poquito más
+[00:16:43] adelante cómo se hace esa priorización
+[00:16:45] de obras y luego tenemos la ejecución de
+[00:16:48] la obra y luego como esto es un proceso
+[00:16:52] que dijimos que era una ventana
+[00:16:54] deslizable, ¿recuerdan la clase anterior
+[00:16:56] en el tiempo? Es un proceso que se ve eh
+[00:17:00] retroalimentado y se ve año a año.
+[00:17:02] ¿Okay?
+[00:17:04] Y al abajo tenemos el color horario de
+[00:17:06] que no toda la red de objetivo pasa al
+[00:17:08] plan de inversión de obras. Solo se solo
+[00:17:12] lo ejecutable y financiable dentro del
+[00:17:14] periodo tarifario, agregado y reconocido
+[00:17:16] tarifa. Es un poco lo que la clase
+[00:17:18] anterior eh Carlos había dicho, que las
+[00:17:22] obras que no tienen financiamiento son
+[00:17:25] un mero ejercicio, digamos, académico.
+[00:17:28] Eh, si no va a estar reconocido en
+[00:17:29] tarifa, por más que querramos, no vamos
+[00:17:31] a poder ejecutarla.
+[00:17:35] Bien, y
+[00:17:38] aquí tenemos un par de disparadores de
+[00:17:41] debate respecto a esta parte de del
+[00:17:44] módulo. Eh,
+[00:17:47] por ejemplo, eh
+[00:17:50] que si la red pasa eh pasa a, por
+[00:17:55] ejemplo, el disparador dos, ¿no? Si la
+[00:17:57] red pasa a alojar eh generación
+[00:17:59] distribuida, cambia la responsabilidad
+[00:18:01] usuario generador frente a la calidad
+[00:18:03] del servicio? ¿Qué les parece?
+[00:18:08] Siéntanse libre de de de abrir los
+[00:18:11] micrófonos y y dar su opinión.
+[00:18:19] Vamos, alguno que rompa hielo.
+[00:18:21] ¿Cómo estás, Ariel?
+[00:18:23] Fabián por acá.
+[00:18:24] ¿Cómo te va?
+[00:18:25] Bien. Bueno, en principio sí y por eso
+[00:18:28] se le exigen ciertas restricciones,
+[00:18:30] ¿no?, a la a los equipos que instalan
+[00:18:32] para poder eh inyectar entre otros las
+[00:18:36] C, los límites de
+[00:18:39] eh de armónicos eh o sea, es de no solo
+[00:18:43] constructivo de seguridad, pero también
+[00:18:45] de operación,
+[00:18:48] o sea, debería hacerlo porque es
+[00:18:49] justamente compartido ya ahí la la
+[00:18:51] calidad de servicio.
+[00:18:54] Acá Ariel, yo también tengo para
+[00:18:56] aportar, coincido con lo que dice
+[00:18:57] Fabián, tiene que todo lo que es el
+[00:18:59] funcionamiento antiisla, todo, no no
+[00:19:00] puede meter perturbación en la red
+[00:19:02] porque se sacan de servicio la red de
+[00:19:04] baja, después inclusive la red de media,
+[00:19:05] o sea, que sí es compartida la
+[00:19:07] responsabilidad, no le no puede poner
+[00:19:09] cualquier cualquier inversor, cualquier
+[00:19:11] panela en la red a su gusto sin que no
+[00:19:15] impacten la distribuidora.
+[00:19:18] Bien, perdón.
+[00:19:20] La pregunta es entonces, si la red pasa
+[00:19:22] a alojar generación distribuida, cambia
+[00:19:24] la responsabilidad del usuario generador
+[00:19:25] frente a la calidad de servicio. Hoy
+[00:19:28] vamos a separar un poco la paja del
+[00:19:29] trigo porque lo que acaba decir Franco y
+[00:19:32] Fabián, pero últimamente tomo lo que
+[00:19:34] dijo Franco, eso viene más adelante, que
+[00:19:36] es la factibilidad que un distribuidor,
+[00:19:39] los requerimientos que un distribuidor
+[00:19:40] le va a pedir a determinado tipo de
+[00:19:42] usuario. Bien, acá no cambia la
+[00:19:44] responsabilidad regulatoria por calidad
+[00:19:46] de servicio, no se traslada y no debería
+[00:19:49] trasladarse porque el usuario generador
+[00:19:51] no tiene el mandato ni las herramientas
+[00:19:53] de coordinación de sistema de la
+[00:19:54] distribuidora.
+[00:19:56] Lo que cambia no es la quién es el
+[00:19:59] titular de la responsabilidad, sino el
+[00:20:00] lugar de dónde se gestiona el riesgo
+[00:20:02] técnico.
+[00:20:05] El pasa de ser un despacho centralizado
+[00:20:07] tradicional al estudio de viabilidad de
+[00:20:09] conexión punto por punto que convierte
+[00:20:12] la verdadera puerta de calidad del
+[00:20:14] sistema gestión distribuida que se va a
+[00:20:16] conectar a la red.
+[00:20:18] No sé si fui claro, después lo vamos a
+[00:20:20] ver más adelante. lo que ustedes
+[00:20:21] mencionan, lo que dice, obviamente
+[00:20:24] hoy que está interviene mucho la más
+[00:20:27] para los técnicos, porque interviene
+[00:20:28] mucho la electrónica de potencia,
+[00:20:30] incluso incluso las baterías, la la o lo
+[00:20:33] que dijimos antes, eso produce un montón
+[00:20:36] de de hecho, sin existir la generación
+[00:20:39] distribuida, sin hablar hoy de lo que
+[00:20:42] más en el sl anterior estaba con la
+[00:20:43] sigla DR, que son los recursos
+[00:20:46] energético distribuidos, que incluye
+[00:20:47] todo, eh, antes de que esto parezca
+[00:20:51] masivamente. Yo me acuerdo cuando
+[00:20:53] trabajaba en Edén en la distribuidora
+[00:20:56] estudios muy puntuales, pero hemos hecho
+[00:20:58] estudios que se han han vincul había
+[00:20:59] usuarios en la en el en lo que hoy
+[00:21:02] todavía sigue siendo bastante el
+[00:21:04] funcionamiento normal, unidireccional.
+[00:21:07] Había varios, había determinado tipo de
+[00:21:09] usuarios que inyectaban a la red,
+[00:21:11] generaban una distorsión de la calidad
+[00:21:12] de servicio que encima afectaba a otros
+[00:21:14] usuarios. Entonces tuvimos que hacer
+[00:21:17] estudios muy específicos.
+[00:21:19] Eh, bueno, interactuar también a través
+[00:21:21] de los reguladores y bueno, y exigirle
+[00:21:25] al
+[00:21:27] al usuario, en ese caso, que adapte eh
+[00:21:31] sus instalaciones para no perjudicar la
+[00:21:34] la calidad de de producto de suministro.
+[00:21:37] No sé si fui claro.
+[00:21:39] Y ahí Carlos,
+[00:21:42] [carraspeo]
+[00:21:42] consulta más. ¿Qué respuesta? Juan
+[00:21:44] Manuel Misto te habla. Eh, los objetivos
+[00:21:47] de calidad de servicio, Sifid y la
+[00:21:48] distribuidora no cambian eh, ¿verdad?
+[00:21:50] Por tener eh generación distribuida. Lo
+[00:21:53] que cambia es que la distribuidora es
+[00:21:55] responsable por velar que el usuario
+[00:21:58] generador cumpla todo lo que Fabián
+[00:22:00] Franco mencionaron, digamos.
+[00:22:03] Exactamente.
+[00:22:03] Exacto. El responsable sigue siendo la
+[00:22:05] distribuidora que tiene que, como
+[00:22:07] dijeron ellos, que que el usuario
+[00:22:09] generador eh eh ahora eh complejiza más
+[00:22:15] la operatividad. Eso es cierto. Hay que
+[00:22:17] tener criterio
+[00:22:19] más eh más controlado precisamente por
+[00:22:22] lo que dice por lo que comentaron. Por
+[00:22:23] ejemplo, cuando uno hace un
+[00:22:25] mantenimiento programado o algo y saca
+[00:22:27] instalaciones de servicio y cumplió las
+[00:22:28] cinco reglas de oro y todo respecto a la
+[00:22:32] al trabajo técnico, eh uno ahora tiene
+[00:22:35] una una mayor probabilidad. Antes no era
+[00:22:38] que no lo tenía, pero la probabilidad de
+[00:22:40] que tengamos un flujo inverso es mucho
+[00:22:41] más alta que antes. Antes quizás había
+[00:22:43] un generador perdido cada tanto en algún
+[00:22:46] eh en alguna industria puntual o algo y
+[00:22:48] estaban conocidos. Ahora ya la red está
+[00:22:52] tan dinámica y hay tanto de estos tipos
+[00:22:55] de de usuario generador que se
+[00:22:57] complejiza la operatividad de la red,
+[00:22:59] pero la responsabilidad frente a los
+[00:23:01] indicadores de calidad de de servicio
+[00:23:04] siguen siendo siempre en manos de de los
+[00:23:07] de las distribuidoras, tanto
+[00:23:09] provinciales como municipales.
+[00:23:11] A ver, no cambia la responsabilidad
+[00:23:12] regulatoria. lo que planteaba eh Marcos
+[00:23:16] eh no, Franco, perdón, eh perdón,
+[00:23:19] Franco, eh lo vamos a ver más adelante,
+[00:23:21] que es las condiciones que impone el
+[00:23:23] distribuidor, que está bien ante un un
+[00:23:26] nuevo usuario, que en este caso vamos a
+[00:23:28] entender por usuario, no solamente a al
+[00:23:32] usuario final que consume demanda
+[00:23:34] adicional, sino alguien tiene micrófono
+[00:23:36] prendido, por favor, sino también a a
+[00:23:41] estos casos de generación distribuida.
+[00:23:43] Eh, pero la responsabilidad regulatoria
+[00:23:47] no cambia. Bien. Y vamos y más adelante
+[00:23:51] vamos a ver. Lo que nos tenemos que
+[00:23:52] llevar medio de este de este bloque es
+[00:23:56] que en este marco de transición
+[00:23:59] energética que avanza en el mundo,
+[00:24:01] nosotros siempre un poquito más atrás,
+[00:24:03] pero que avanza y que sin el
+[00:24:05] distribuidor es el actor principal y si
+[00:24:09] el distribuidor no empieza a entender
+[00:24:10] que tiene que cambiar algunas
+[00:24:11] cuestiones, lo va a llevar puesto. El
+[00:24:13] distribuidor ya no es no va a ser más
+[00:24:15] como era antes, que el flujo es
+[00:24:17] unidireccional. Obviamente la
+[00:24:19] distribuidora es la que opera y mantiene
+[00:24:21] la red, pero cuando nosotros decimos que
+[00:24:22] ahora el distribuidor se tiene que
+[00:24:23] convertir
+[00:24:25] no en el operador, sino en un gestor,
+[00:24:26] porque tiene que gestionar un montón de
+[00:24:28] otras variables que antes no las
+[00:24:29] gestionaba y en esa complejidad va a
+[00:24:32] tener que nutrirse también de
+[00:24:37] tanto en lo técnico como en lo
+[00:24:38] relatorio, seguir acionándose y ampliar
+[00:24:41] sus planteles para dar respuesta a estas
+[00:24:44] cuestiones. Bien,
+[00:24:45] quedó más o menos claro.
+[00:24:47] Sí. Básicamente, digamos, si lo llevamos
+[00:24:49] a los papeles,
+[00:24:52] digamos, la que tiene el contrato de
+[00:24:54] concesión son las distribuidoras, ya sea
+[00:24:56] municipales, provinciales. Por eso la
+[00:24:59] responsabilidad recae sobre ellas, más
+[00:25:01] allá de que después uno en cascada pueda
+[00:25:03] exigir otras cosas de alinead. Exacto.
+[00:25:05] Que lo vamos a ver más adelante porque
+[00:25:06] lo que ustedes plantean, por eso la
+[00:25:08] pregunta es no es capciosa, es para para
+[00:25:12] es la pregunta es clara, que nos puede
+[00:25:14] llevar a confundir, ¿no? A ver, la
+[00:25:16] responsabilidad regulatoria para medio
+[00:25:19] no cortar, sino para yo no embarullarla,
+[00:25:21] no cambia respecto a la calidad de
+[00:25:23] servicio, bajo ningún punto de vista,
+[00:25:25] calidad de servicio de producto, pero si
+[00:25:27] el distribuidor tiene todo el derecho y
+[00:25:30] y lo y lo tiene que tener porque si no
+[00:25:32] se traslada a otros usuarios, a la
+[00:25:34] potestad, mejor dicho, eh, gracias,
+[00:25:37] Ariel, eh, que lo vamos a más adelante
+[00:25:40] en lo en dar la factibilidad de
+[00:25:42] vinculación de de esa generación
+[00:25:44] distribuida en en este caso o de un
+[00:25:46] banco de baterías. Sí,
+[00:25:50] estamos.
+[00:25:51] Sí. Y o desconectar y o desconectar se
+[00:25:55] advierte que le dio la factibilidad y
+[00:25:57] hizo otra cosa después, ¿no?
+[00:25:59] Oh, perfecto.
+[00:25:59] Esta potestad la tiene siempre el
+[00:26:01] distribuidor, precisamente para cumplir
+[00:26:03] lo que dice Carlos, la calidad frente al
+[00:26:06] Sid Scifi y a la red.
+[00:26:08] Exactamente. Gracias, Guillermina.
+[00:26:11] Bueno, vamos a dar, no lo dijimos al
+[00:26:14] inicio, más o menos vamos a tratar. El
+[00:26:16] bloque dos es el más extenso, es el que
+[00:26:18] es un poquito más técnico. En la misma
+[00:26:20] línea, en la misma línea que tratamos de
+[00:26:22] llevar la clase uno, eh, vamos a tratar
+[00:26:26] de poder lo que tratamos tratar de
+[00:26:29] llegarle a todo el público, a todo el
+[00:26:31] auditorio, pero bueno, hay cuestiones
+[00:26:33] que
+[00:26:35] son técnicas y no la podemos no la
+[00:26:37] podemos evadir. Bien, pero como este
+[00:26:39] bloque es un poquito más extenso,
+[00:26:41] seguramente no lo cerremos y dejemos,
+[00:26:44] pero le ya más o menos sabemos dónde dar
+[00:26:47] el corte para el pequeño break para
+[00:26:49] después continuar con el resto del
+[00:26:50] bloque dos y continuar con el tres, ¿sí?
+[00:26:52] Porque vamos a seccionar en tres partes
+[00:26:54] de la clase. ¿Estamos de acuerdo? Bueno,
+[00:26:57] en el bloque anterior nosotros todos
+[00:26:59] dejamos planteado que el diagnóstico de
+[00:27:01] la demanda y el marco y el marco
+[00:27:03] regulatorio. Bien, en este bloque lo que
+[00:27:05] vamos a tratar de hacer es bajar a
+[00:27:06] tierra el diseño técnico de la red
+[00:27:08] objetivo, como planteó Ariel,
+[00:27:11] cómo esas proyecciones se convierten en
+[00:27:13] decisiones concretas de topología de
+[00:27:15] red, de los elementos de protección que
+[00:27:16] vamos a utilizar, de la calidad de
+[00:27:18] servicio y producto técnico, la
+[00:27:19] generación distribuida y finalmente
+[00:27:24] recaer la pregunta, ¿quién paga cada
+[00:27:26] inversión? Bien,
+[00:27:29] entonces
+[00:27:31] el bloque
+[00:27:32] este vamos a recorrerlo en si queremos
+[00:27:34] llamarlo, en cinco pasos, eh, cada uno
+[00:27:38] apoyado en el anterior. Primero, vamos a
+[00:27:41] hablar un poco de la demanda y el
+[00:27:42] diagnóstico de la resistente. Segundo,
+[00:27:44] los criterios de diseño eléctrico
+[00:27:46] propiamente dichos, caída de tensión,
+[00:27:48] selectividad de protecciones, topología
+[00:27:50] de la red.
+[00:27:52] En tercer punto vamos a ver la calidad
+[00:27:53] del servicio y la resiliencia de lo que
+[00:27:55] construimos. La resiliencia es un
+[00:27:57] término que lo vamos a ver más adelante,
+[00:27:59] bastante nuevo en distribución y
+[00:28:01] bastante más nuevo para nosotros acá en
+[00:28:02] Argentina.
+[00:28:04] Por cuarto punto vamos a hablar de la
+[00:28:06] generación distribuida y la la
+[00:28:08] digitalización de las redes como una
+[00:28:11] variable nueva del diseño. Y quinto y
+[00:28:14] último, la pregunta de quién paga cada
+[00:28:16] conexión y los refuerzos de red.
+[00:28:19] Vamos a ir paso a paso, eh, sobre todo
+[00:28:22] en los primeros tramos que son más
+[00:28:24] técnicos y después le vamos a dar un una
+[00:28:27] aceleradita. Bien. Bueno, entonces antes
+[00:28:30] de empezar
+[00:28:32] vamos a tratar de
+[00:28:35] de bajar un poco al llano para todos y
+[00:28:37] hacer una analogía entre lo [carraspeo]
+[00:28:40] que es una red eléctrica con un sistema
+[00:28:42] de cañería, con una red hidráulica, ¿no?
+[00:28:46] Eh, que nos va a servir para el resto de
+[00:28:48] del bloque para todos. Entonces vamos a
+[00:28:50] pensar como dijimos, la red eléctrica
+[00:28:52] como una red de cañerías de agua, donde
+[00:28:54] la tensión eléctrica, eh, la variable de
+[00:28:57] tensión en electricidad es la presión
+[00:28:59] del sistema. Cuando más alta es la
+[00:29:01] presión en el punto de entrada, más
+[00:29:03] lejos y con más fuerza llega el agua al
+[00:29:07] otro extremo, sin que se noten las
+[00:29:08] pérdidas por dozamiento.
+[00:29:11] La corriente eléctrica sería el caudal,
+[00:29:13] es la cantidad de agua que efectivamente
+[00:29:15] circula por la calería en cada instante.
+[00:29:18] La impedancia de que es la resistencia
+[00:29:21] más la rectancia del conductor es el
+[00:29:23] rozamiento interno del agua en las
+[00:29:25] cañerías. Cuando más angosta o más larga
+[00:29:27] la cañería, se pierde más presión en el
+[00:29:30] camino y por y por tanto el para ese
+[00:29:33] mismo caudal. Bien. Y la potencia eh es
+[00:29:37] en definitiva la presión por el caudal,
+[00:29:39] lo que realmente eh se entrega al
+[00:29:42] usuario final.
+[00:29:44] Con esta imagen en la cabeza, eh, vamos
+[00:29:47] a tratar de avanzar en todo lo que lo
+[00:29:49] que viene después de que para entender
+[00:29:51] de por qué cae la tensión al final de un
+[00:29:53] alimentador largo, por qué conviene
+[00:29:55] subir el nivel de tensión para
+[00:29:57] transportar la misma potencia,
+[00:30:00] por qué hay que cementar la red en
+[00:30:01] tramos, protegerlos. Eh, esta analogía
+[00:30:05] no reemplaza la física eléctrica, sino
+[00:30:07] que bueno, una es una para que
+[00:30:10] intuitivamente ustedes puedan entrar en
+[00:30:12] en lo que viene. Bien,
+[00:30:15] entonces como dijimos, vamos a arrancar
+[00:30:16] con la demanda. Eh,
+[00:30:20] en el módulo en el eh de proyección de
+[00:30:23] demanda eh como ya vimos, eh se
+[00:30:26] construye una curva agregada de
+[00:30:27] crecimiento.
+[00:30:29] Acá damos unos pasos más, eh dos para
+[00:30:32] ser preciso, eh que es lo que estamos
+[00:30:35] viendo en la en el slide. Eh el primer
+[00:30:39] paso es la desagregación espacial de la
+[00:30:43] demanda. Una tasa de crecimiento
+[00:30:45] provincial o de una distribuidora no nos
+[00:30:49] dice nada sobre un alimentador en sí.
+[00:30:52] ¿Qué centro de transformación o qué
+[00:30:53] tramo específico va a estar exigido
+[00:30:55] dentro de 5 años? Eso no me lo dice la
+[00:30:57] tasa de crecimiento. Para diseñar tengo
+[00:31:00] que bajar esa proyección agregada a
+[00:31:03] nivel del alimentador y dentro de él por
+[00:31:05] categoría de usuario para que el
+[00:31:07] crecimiento residencial, comercial y y
+[00:31:10] de los grandes usuarios no se
+[00:31:11] distribuyan en forma igual en todo
+[00:31:14] el el territorio, en este caso si
+[00:31:16] cubierto por un alimentador de media
+[00:31:17] tensión.
+[00:31:19] Y en segundo lugar,
+[00:31:21] vamos a dejar de trabajar con un
+[00:31:23] escenario único y empezar a trabajar con
+[00:31:25] una con un rango de futuros eh
+[00:31:27] plausibles, es decir, un escenario bajo,
+[00:31:30] uno medio y uno alto construidos a
+[00:31:33] partir de supuestos explícitos de
+[00:31:36] electrificación, generación distribuida
+[00:31:38] y eficiencia energética.
+[00:31:41] La razón de fondo es que diseñar para un
+[00:31:44] solo número nos deja casi siempre
+[00:31:46] sobredimensionado en algunos tramos y
+[00:31:48] subdimensionado en otros.
+[00:31:51] Diseñar para una para un rango nos
+[00:31:53] permite dimensionar
+[00:31:56] la obra troncal principal para un
+[00:31:58] escenario medio y dejar previsto, pero
+[00:32:01] no necesariamente construido. Lo que
+[00:32:03] hace falta si se nos da un escenario
+[00:32:05] alto, bien, de demanda.
+[00:32:09] Bien. Ahora
+[00:32:11] eh en el siguiente slide vamos a hacer
+[00:32:14] esto eh el diagnóstico de la red. Bien,
+[00:32:17] para proyectar la demanda futura sirve
+[00:32:20] de poco si no sabemos con precisión
+[00:32:22] desde dónde partimos. Entonces el
+[00:32:25] diagnóstico de la red, como ustedes
+[00:32:26] pueden ver en la en la filmina, se
+[00:32:29] apoyan tres pilares. El primero es el
+[00:32:30] inventario de activo. ¿Qué conductores
+[00:32:32] tenemos? ¿Qué transformadores tenemos?
+[00:32:34] ¿Qué elementos de protección? Eh, ¿qué
+[00:32:36] antigüedad tienen? ¿En qué estado están?
+[00:32:38] Bien.
+[00:32:40] En segundo punto e es la relación que
+[00:32:43] tenemos entre la demanda y la capacidad.
+[00:32:46] Tenemos que comparar tramo por tramo la
+[00:32:48] demanda actual y proyectada
+[00:32:50] contra la capacidad nominal de cada
+[00:32:52] elemento para identificar
+[00:32:55] dónde el margen se está agotando. Es
+[00:32:56] decir, tengo un alimentador X, qué
+[00:32:58] sección tiene, cuál es su demanda. Eh,
+[00:33:01] lo que a veces en la jerga, la palabra
+[00:33:03] en la Real Academia Española no existe,
+[00:33:05] pero en la jerga la usamos mucho que la
+[00:33:06] palabra cargabilidad.
+[00:33:08] Y en tercer lugar son los mapas de
+[00:33:10] congestión o mapas de calor, que es una
+[00:33:12] representación geográfica de estos
+[00:33:14] cruces de demanda y capacidad de la red,
+[00:33:17] de los elementos de la red, mejor dicho,
+[00:33:19] que es lo que finalmente prioriza en qué
+[00:33:22] orden vamos a intervenir en la red.
+[00:33:24] Este diagnóstico inicial es el insumo de
+[00:33:27] entrada para todo el resto del bloque,
+[00:33:30] de este bloque, esta sección dos,
+[00:33:33] sin saber dónde está la red hoy. No hay
+[00:33:35] rango de escenarios que nosotros
+[00:33:36] proyectemos demandas que no nos sirva
+[00:33:38] para decir dónde vamos a invertir.
+[00:33:41] Bien, entonces ahora vamos a hacer un
+[00:33:43] diagnóstico visual.
+[00:33:46] Eh, no, pero este acá
+[00:33:51] eh un diagnóstico visual que esto lo que
+[00:33:53] mencionábamos de mapa de calor.
+[00:33:55] Entonces, lo que recién describimos en
+[00:33:57] estos tres puntos lo vamos a ver más
+[00:33:58] claro en este mapa georreferenciado
+[00:34:01] geográfico eléctrico. Lo que están
+[00:34:03] viendo entonces es un esquema de una red
+[00:34:05] real coloreado
+[00:34:07] según el cruce entre demanda y capacidad
+[00:34:09] de las instalaciones
+[00:34:11] en color verde
+[00:34:13] queda donde tenemos baja carga y cierto
+[00:34:15] margen en amarillo donde el margen se
+[00:34:18] está agotando. Es un intermedio, media
+[00:34:20] carga por decirlo manera y el rojo donde
+[00:34:23] la demanda ya está cerca o por encima de
+[00:34:25] la capacidad del activo, línea,
+[00:34:27] transformador, lo que fuere.
+[00:34:29] Este tipo de mapa de calor en la
+[00:34:31] práctica es la herramienta que se usa en
+[00:34:33] el área de planificación para priorizar
+[00:34:35] obras. No se interviene en toda la red
+[00:34:38] al mismo tiempo. Se interviene primero
+[00:34:40] donde aparece el rojo combinando con una
+[00:34:42] proyección de crecimiento hacia la alta.
+[00:34:45] Esta traducción visual inmediata de la
+[00:34:48] banda de la banda de señales que vimos
+[00:34:50] anteriormente eh aplica sobre la
+[00:34:52] topología concreta cada alimentador.
+[00:34:54] Ahora, este mapa de calor en este caso
+[00:34:57] está hecho para el estado de carga en la
+[00:34:59] instalación. Este mismo mapa de calor o
+[00:35:02] si quieren con otras referencias de
+[00:35:04] color, porque esto no está normalizado,
+[00:35:05] es intuitivo. Verde está todo bien, rojo
+[00:35:07] está todo mal.
+[00:35:09] Se puede hacer también con los niveles
+[00:35:11] de tensión, que también son los los
+[00:35:14] normados
+[00:35:16] por su anexo de de Oceva en la
+[00:35:18] provincia, eh, y no sé cuál es en el
+[00:35:21] Enre, no lo recuerdo en este momento,
+[00:35:23] eh, para cumplir con los niveles de
+[00:35:25] tensión que en condiciones n y n -1 que
+[00:35:27] que Ariel ya mencionó y que vimos en la
+[00:35:29] clase anterior. Bien, entonces este es
+[00:35:32] un mapa georferenciado.
+[00:35:34] Supongamos que la red que que lo que
+[00:35:36] estamos viendo acá, el inventario son
+[00:35:39] tenemos tres estaciones, esto es
+[00:35:40] esquemático, es un ejemplo, ¿no? Tenemos
+[00:35:42] tres estaciones transformador de alta
+[00:35:43] media con 128 centros de transformación
+[00:35:46] media baja, con 340 km línea media,
+[00:35:50] bueno, faltaría la, no sé, hagamos 2,000
+[00:35:52] km de red de baja y 96 elementos de
+[00:35:55] maniobra de protección. Este es el
+[00:35:57] inventario completo de este
+[00:35:58] georreferenciado. Y suponed, supongamos
+[00:36:00] hacemos un zoom en donde tenemos el
+[00:36:03] cuadrito, el circulito en amarillo para
+[00:36:06] verlo visualmente. Ahí tenemos un tramo
+[00:36:07] a la red que tiene asociado eh un
+[00:36:10] transformador, elemento de maniobra, un
+[00:36:12] ramal con un transformador y su
+[00:36:14] correspondiente elemento maniobra. Bien,
+[00:36:19] ahora vamos con un ejemplo de un
+[00:36:22] alimentador de vida de atención y con
+[00:36:23] estos escenarios futuros que decíamos.
+[00:36:26] Supongamos que en este caso tenemos para
+[00:36:28] dejar un poco más eh
+[00:36:32] un ejemplo concreto de de esto, ¿no?
+[00:36:36] Entonces, tomamos un mismo alimentador
+[00:36:37] de media atensión y lo proyectamos bajo
+[00:36:39] tres escenarios futuros. Un escenario
+[00:36:41] base, uno con mayor electrificación de
+[00:36:44] la demanda y uno eh
+[00:36:47] eh con mayor penetración de generación
+[00:36:50] distribuida. Entonces, bueno, vemos acá
+[00:36:53] los porcentuales. Eh, bueno, el metor
+[00:36:56] tiene una demanda hoy de 3,8 meg y tiene
+[00:36:57] una capacidad térmica de 5 MBA. Eh, bajo
+[00:37:02] una tasa de crecimiento X, eh, el
+[00:37:05] alimentador en 10 años va a estar en con
+[00:37:07] un escenario bajo, solamente crecimiento
+[00:37:09] vegetativo va a estar en un 97%.
+[00:37:12] Si después tenemos una mayor
+[00:37:15] electrificación de los usuarios, eh
+[00:37:17] vamos a llegar a un escenario
+[00:37:19] de un 105% para ese de carga del
+[00:37:22] alimentador y para un escenario alto
+[00:37:23] donde aparte tenemos vehículo eléctrico
+[00:37:25] y demás, bueno, estamos en un eh 111%.
+[00:37:30] La conclusión es que en los tres
+[00:37:32] escenarios que parten de supuesto, que
+[00:37:34] pueden ser defendibles hoy, eh los tres
+[00:37:37] ya están al límite, dos superan el 100%
+[00:37:39] de la capacidad nominal y el tercero
+[00:37:41] está ahí en el 97%. Ahí donde este en
+[00:37:44] ejemplo, un numerito pavo, es donde
+[00:37:47] aparece la necesidad de la obra. En este
+[00:37:49] caso puntual, la necesidad de la obra,
+[00:37:51] bueno, si bien es una procesación de
+[00:37:53] disaño, en los tres escenarios
+[00:37:54] aparecería. Bien.
+[00:37:58] Bueno, vamos a hablar de de lo que un
+[00:38:01] poco ya habíamos mencionado en la en la
+[00:38:03] clase anterior, pero muy rápidamente que
+[00:38:06] en el sistema argentino de distribución
+[00:38:08] opera con nivel de tensión normalizado
+[00:38:10] y estos niveles de detención responden a
+[00:38:13] un compromiso técnico económico entre la
+[00:38:16] capacidad de transporte, la caída de
+[00:38:17] tensión y el costo de aislamiento. En
+[00:38:19] baja tensión tenemos los 380 trifásico y
+[00:38:22] los 220 con neutro y los 220 vol para
+[00:38:26] consumo residencial y y parte comercial.
+[00:38:30] media tensión eh 13,2 kV para el
+[00:38:32] abastecimiento de zonas urbanas de
+[00:38:35] Lamba, servida por el de Nores de Sur o
+[00:38:37] la provincia de Buenos Aires, por las
+[00:38:39] distributadas provinciales y
+[00:38:40] municipales.
+[00:38:44] Generalmente, si bien no es así,
+[00:38:45] fundamentalmente mayormente en la
+[00:38:47] provincia de Buenos Aires, los
+[00:38:48] alimentadores de medio de atensión para
+[00:38:49] que funcionen dentro de los parámetros
+[00:38:52] admisibles y regulad deberían tener
+[00:38:57] distancia relativamente corta acorde a
+[00:38:59] la demanda que llevan, ¿no? Y después en
+[00:39:02] media tensión también es media tensión,
+[00:39:04] pero lo que en la provincia de Buenos
+[00:39:05] Aires, uy, hice cara, ¿no? que en la
+[00:39:08] provincia de Buenos Aires conocemos como
+[00:39:11] eh sistema de subtransmisión
+[00:39:14] que son las redes 33 k distribuidores
+[00:39:17] rurales o interurbanos eh donde hay que
+[00:39:21] elevar la elevando la tensión se reduce
+[00:39:23] la la caída de tensión y las y las
+[00:39:25] pérdidas a lo largo de las grandes
+[00:39:27] distancias.
+[00:39:28] Esta escalera de nivel de tensión, como
+[00:39:31] bueno dijimos al inicio, no es
+[00:39:32] arbitraria. Cada escalón existe porque a
+[00:39:34] partir de cierta combinación de potencia
+[00:39:36] transportanza y distancia a la que la
+[00:39:38] voy a llevar,
+[00:39:40] el nivel de tensión inferior deja de ser
+[00:39:42] viable técnica y económicamente y es lo
+[00:39:44] que vamos a cuantificar en la siguiente
+[00:39:46] diapositiva para hacer un poquito más
+[00:39:48] gráfico.
+[00:39:51] Es un análisis comparativo que es
+[00:39:52] fundamental para entender el diseño de
+[00:39:54] la red de media tensión o también de 33
+[00:39:57] kV. Una red también aplicaría, si se
+[00:40:01] quiere a nivel de transmisión.
+[00:40:03] Tenemos un alimentador de 18 km que
+[00:40:05] tiene que transportar una potencia de
+[00:40:07] 3,15 MW a un factor de potencia 0,92.
+[00:40:11] Bien, el conductor es exactamente el
+[00:40:13] mismo para los dos casos que vamos a
+[00:40:15] comparar. Lo único que vamos a cambiar
+[00:40:17] es el nivel de tensión. Lo vamos a hacer
+[00:40:19] trabajar a 13,2 kV y a 33 kV.
+[00:40:23] Para traspotar esta potencia, podemos
+[00:40:25] ver acá en la gráfica,
+[00:40:28] eh la corriente que circula por el
+[00:40:30] conductor eh si la llevamos en una línea
+[00:40:33] que está aislada en 13,2 kV es de 2,5
+[00:40:35] veces del orden de 150 amp eh
+[00:40:40] respecto a lo que serían 33 kV, que
+[00:40:43] serían 60 amp.
+[00:40:46] Como la caída de tensión en el conductor
+[00:40:48] depende directamente la corriente que
+[00:40:49] circula multiplicada por la impedancia
+[00:40:51] del conductor, esa corriente 2,5 veces
+[00:40:54] mayor en 13,2 que en 33 produce una
+[00:40:57] caída de tensión absoluta en bol,
+[00:41:02] kV. Entonces para transmitir 3,15 MW a
+[00:41:06] lo largo 18 km, vamos a optar el nivel
+[00:41:09] de 33 kV y no el de 13. Eh, no es una
+[00:41:12] preferencia de diseño, es una
+[00:41:14] consecuencia directa de que la corriente
+[00:41:16] y con ella la caída de tensión y las
+[00:41:17] pérdidas crece de for manera
+[00:41:20] inversamente proporcional al nivel de
+[00:41:22] tensión para una misma potencia
+[00:41:24] transportada. Entonces, eh si para el
+[00:41:28] nivel de tensión admisible es más -8%
+[00:41:31] sería 92 en en forma porcentual. Y acá
+[00:41:35] vemos en 33 la curva verde y en 13,2 en
+[00:41:41] y la rojitas en 13,2 kV y la gris es
+[00:41:44] límite admisible. Acá tenemos la
+[00:41:46] ecuación matemática que nos permite
+[00:41:48] calcular la cadena de tensión
+[00:41:51] en la raíz de 3, la corriente, la
+[00:41:53] resistencia del coseno fi, R y X son
+[00:41:56] propio del conductor y la longitud. En
+[00:41:59] función de eso graficamos punto a punto
+[00:42:01] y bueno y vemos que
+[00:42:04] a los 18 km para transportar esos 3
+[00:42:08] la curva verde no cae por debajo de la
+[00:42:12] línea recta gris y en 13,2 sí, más o
+[00:42:15] menos a los 12,5 13 km si se quiere, eh,
+[00:42:20] yo podía transmitir para una distancia
+[00:42:22] mayor debería cambiar el nivel de
+[00:42:23] tensión. es bastante gráfico visible
+[00:42:25] para para que lo podamos entender todo
+[00:42:27] bien.
+[00:42:29] Eh,
+[00:42:31] bueno, eh, ahora le doy paso a Ariel
+[00:42:35] nuevamente.
+[00:42:36] Bueno, eh respecto a las restricciones,
+[00:42:39] digamos, hay dos familias de
+[00:42:41] restricciones de diseño. Una es de
+[00:42:43] régimen permanente, que como vimos es eh
+[00:42:46] la calle de atención, eh se verifica en
+[00:42:50] la operación normal y continua de la
+[00:42:53] red.
+[00:42:54] Eh,
+[00:42:56] otro es el límite térmico de los
+[00:42:58] conductores, eh, corrientes máximas
+[00:43:02] continuas sin comprometer la vida útil
+[00:43:04] de ni la seguridad de las de las
+[00:43:07] instalaciones. El límit para transmisión
+[00:43:12] eh existen varios límites. Pueden ser un
+[00:43:15] límite térmico del conductor, un límite
+[00:43:17] dinámico por estabilidad de las
+[00:43:19] instalaciones.
+[00:43:22] Nosotros en este caso no estamos
+[00:43:23] entrando solamente en el límite térmico
+[00:43:25] del conductor porque en distribución es
+[00:43:27] el el dominante. E y tenemos las fallas
+[00:43:33] y régimenes transitorios, los niveles de
+[00:43:35] corto circuito, que las corrientes eh
+[00:43:38] instante de la falla franca eh
+[00:43:41] dimensiona la capacidad de ruptura de
+[00:43:42] los equipos. Es decir, cuando uno está
+[00:43:45] haciendo un una instalación y
+[00:43:48] verificando que cumpla las condiciones
+[00:43:50] de servicio en condición N, o sea, la
+[00:43:53] condición nominal de operación de la
+[00:43:55] red, después también tiene que verificar
+[00:43:58] que ante una falla eh esas instalaciones
+[00:44:02] sean capaces de eh poder eh
+[00:44:07] soportar eh las eh los esfuerzos
+[00:44:11] electrodinámicos de las instalaciones.
+[00:44:14] Eh, toda la cadena eléctrica tiene que
+[00:44:16] ser capaz de soportar la corriente de
+[00:44:18] falla eh durante un tiempo determinado.
+[00:44:21] El elemento que tiene que tener la
+[00:44:23] capacidad de poder eh abrir, digamos,
+[00:44:27] esa corriente excepcional es el
+[00:44:29] interruptor. Entonces, yo tengo que
+[00:44:31] verificar también que las instalaciones
+[00:44:33] en esas condiciones sean eh las aptas
+[00:44:37] para dicho
+[00:44:39] dicho momento, ¿no? Y la coordinación de
+[00:44:42] protecciones es que uno va a diseñar la
+[00:44:45] instalación y va a poner los elementos
+[00:44:48] de protección en la misma, de forma tal
+[00:44:51] de hacer una correcta selectividad en la
+[00:44:54] misma, en en mi red para que ante una
+[00:44:57] falla, en una determinada porción de la
+[00:45:00] red, yo aísle lo menos posible. No
+[00:45:02] tiene, digamos, es el objetivo central.
+[00:45:05] Si yo tengo una falla, por ejemplo, en
+[00:45:07] el enchufo de de 220 kV en mi casa, que
+[00:45:11] no abra eh el alimentador que viene de
+[00:45:14] 500 k del chocón. Yo voy a tratar de que
+[00:45:16] primero corte el circuito lo más cerca
+[00:45:19] de la falla posible. Es decir, si tengo
+[00:45:21] una instalación domiciliaria que está
+[00:45:23] seccionada por circuitos, que primero me
+[00:45:26] habla el circuito de tomas de ese toma y
+[00:45:29] no me abra, por ejemplo, la térmica
+[00:45:31] general de mi casa. Con el mismo
+[00:45:33] criterio se utiliza en el diseño de las
+[00:45:36] redes eh de distribución. ¿Okay?
+[00:45:45] Y un poco acá el ejemplo de selectividad
+[00:45:48] de de lo que estábamos comentando
+[00:45:49] recién, sea un un circuito, por ejemplo,
+[00:45:54] de distribución
+[00:45:55] eh donde tenemos, por ejemplo, una
+[00:45:58] salida de su estación o estación
+[00:46:00] transformadora, dependiendo la jerga que
+[00:46:02] usemos en provincia o
+[00:46:05] o o los ex SEGA es su estación. Eh,
+[00:46:08] entiendo que en la provincia esto es
+[00:46:11] estación transformadora.
+[00:46:13] eh un interruptor en la cabecera o un
+[00:46:15] reconectador, puede ser un elemento que
+[00:46:18] es posible abrir eh el circuito eh bajo
+[00:46:23] carga. Y eh luego tenemos, por ejemplo,
+[00:46:27] en con los triángulos verdes
+[00:46:29] representado eh los centros de
+[00:46:32] transformación de distribución de media
+[00:46:35] tensión a baja tensión, que son los que
+[00:46:37] tenemos, por ejemplo, en la esquina del
+[00:46:38] barrio nuestro, en nuestras en nuestras
+[00:46:40] redes, eh fusibles en los ramales y por
+[00:46:44] ejemplo acá tenemos un seccionalizador
+[00:46:46] en un determinado eh ramal de este
+[00:46:49] circuito donde este sería nuestro
+[00:46:51] troncal y estos serían circuitos los
+[00:46:53] derivados ramales ante una falla, por
+[00:46:56] ejemplo, en el centro de transformación
+[00:46:59] del ramal B, yo quiero que [resoplido]
+[00:47:02] me seccione esta parte del circuito y
+[00:47:05] que el resto de los usuarios de los
+[00:47:07] otros centros de transformación no eh
+[00:47:10] perciban precisamente que hubo una
+[00:47:12] contingencia en esta parte de la de la
+[00:47:15] red. ¿Okay?
+[00:47:17] Comúnmente e los reconectadores
+[00:47:22] van a eh
+[00:47:24] van
+[00:47:25] eh funcionan, digamos, en conjunto con
+[00:47:29] seccionalizadores.
+[00:47:31] El seccionalizador puede abrir eh
+[00:47:36] la falla. La idea es que eh con un
+[00:47:39] reconectador yo puedo poner varios
+[00:47:41] seccionalizadores, aguas abajos y el
+[00:47:43] seccionalizador lo que hace hace un
+[00:47:45] conteo de las veces que ve la corriente
+[00:47:47] de falla y en función de ello va
+[00:47:51] eh va dejando porciones del circuito
+[00:47:54] afuera en función de cómo viene el el
+[00:47:57] tema de la falla. Y eh por ejemplo acá
+[00:48:01] tenemos una curva de de un fusible con
+[00:48:05] respecto al al reconectador que tenemos
+[00:48:08] en cabecera. La idea es que eh lo que va
+[00:48:13] a proteger primero va a ser el fusible
+[00:48:16] ante una si tengo una curva que es
+[00:48:18] tiempo corriente, para una misma
+[00:48:20] corriente el tiempo de actuación del
+[00:48:22] fusible es más rápido que el del
+[00:48:26] reconectador. [carraspeo]
+[00:48:27] ¿Okay? O sea, si nosotros no moviéramos
+[00:48:30] en una línea de tiempo acá, lo primero
+[00:48:32] que va a haber es tendría que abrir este
+[00:48:35] fusible o quemar este fusible, mejor
+[00:48:37] dicho, ante una falla. Y de no ser así
+[00:48:41] por estar si está eh
+[00:48:45] mal calibrado o falló, inmediatamente
+[00:48:49] con el transcurso del tiempo lo que va a
+[00:48:50] abrir es el reconectador de que tengo en
+[00:48:53] cabecera del del alimentador.
+[00:49:00] ¿Por qué es importante la seguridad
+[00:49:01] cuando
+[00:49:03] en cuanto de la red queda sin servicio,
+[00:49:06] bueno, un poco lo que acabamos de decir
+[00:49:08] recién, si no tuviéramos selectividad
+[00:49:11] solo lo abriría solamente el interruptor
+[00:49:14] que tenemos en la cabecera de de nuestra
+[00:49:16] estación de transformadora y todos los
+[00:49:19] usuarios se verían afectados por una
+[00:49:21] falla en una determinada porción de la
+[00:49:23] red, que no es lo que estamos buscando.
+[00:49:25] Con eso es, digamos, intuitivo que
+[00:49:28] empeoríamos todos los índices de calidad
+[00:49:30] de de servicio de nuestros usuarios.
+[00:49:35] verían todos una falla en este ramal,
+[00:49:37] por ejemplo. En cambio, si nosotros
+[00:49:39] tenemos los elementos adecuados en la
+[00:49:41] red desde el punto de vista eh
+[00:49:46] tecnológicos y bien eh
+[00:49:50] ajustados del punto de vista de la
+[00:49:52] selectividad, nosotros deberíamos ver,
+[00:49:55] por ejemplo, en este caso, abrir el
+[00:49:58] ramal del el ramal C y que los otros
+[00:50:02] restos de usuarios de los ramales
+[00:50:04] linderos o vecinos no no se enterasen.
+[00:50:10] Eh, bueno, acá abajo lo lo vemos bien
+[00:50:13] numéricamente. En este caso, el 100% de
+[00:50:15] los clientes se vería afectado y en este
+[00:50:17] caso si tuviéramos cuatro ramales y
+[00:50:19] todos llevarían la misma demanda,
+[00:50:21] solamente el 25% de los usuarios se
+[00:50:24] verían afectados ante esta ante este
+[00:50:27] simple ejemplo.
+[00:50:29] Cuanto más puntos de protección y
+[00:50:31] coordinación tenemos en el alimentador
+[00:50:33] entre la falla y la suestación, menor la
+[00:50:35] porción de la red que sale de servicio,
+[00:50:38] impactando directamente los indicadores
+[00:50:40] de side y sfi. Por eso es importante
+[00:50:43] incorporar en nuestras redes eh
+[00:50:47] elementos de de maniobra y de protección
+[00:50:51] e incluso también que los mismos eh sean
+[00:50:54] tecnológicamente
+[00:50:56] modernos y adecuados para poder ser
+[00:50:58] telecomandados.
+[00:51:00] No solamente que abran y cierren, sino
+[00:51:01] si yo lo puedo hacer a distancia y
+[00:51:04] rápido, mejor esos indicadores y mis
+[00:51:07] usuarios van a estar más satisfechos
+[00:51:09] respecto a eh el servicio que le estoy
+[00:51:12] brindando. Entonces, todos esos
+[00:51:14] elementos que yo voy a incorporar en la
+[00:51:16] red son los que después vamos a evaluar
+[00:51:18] al momento de hacer una una revisión
+[00:51:22] tarifaria integral que vayan y que se
+[00:51:24] reconozcan en tarifa. ¿Okay?
+[00:51:29] tres esquemas de configuración de la red
+[00:51:31] objetivo. Por ejemplo, eh un sistema de
+[00:51:36] red eh radial se suele usar para lo que
+[00:51:38] son los alimentadores eh
+[00:51:43] rurales o alimentadores, digamos, en
+[00:51:45] zonas de baja densidad de demanda. Eh
+[00:51:51] eh es eh intuitivo ver que acá la
+[00:51:54] corriente, el el camino, digamos, de
+[00:51:57] alimentación hacia los usuarios es
+[00:51:59] único. O sea, que una falla en cualquier
+[00:52:02] tramo de la red va a dejar fuera de
+[00:52:04] servicio todo lo que puede, si yo puedo
+[00:52:07] selección
+[00:52:09] inmediatamente aguas arriba de esa
+[00:52:11] falla, va a dejar aguas abajo, todo sin
+[00:52:14] servicio eh esos clientes.
+[00:52:18] Una otro diseño que se suele hacer en
+[00:52:22] zonas urbanas y de mayor digamos
+[00:52:25] densidades son las redes anilladas que
+[00:52:30] se suelen diseñar de forma de anillo,
+[00:52:34] pero se opera eh de forma abierta. Es
+[00:52:38] decir, yo tengo la posibilidad, por
+[00:52:40] ejemplo, si esto estuviera alimentado en
+[00:52:43] este sentido y seccionado donde dice acá
+[00:52:45] normal abierto, si yo tuviera una falla
+[00:52:48] en cualquier parte de esta redar,
+[00:52:52] podría darle un camino alternativo
+[00:52:55] eh a esa red de abastecimiento.
+[00:52:57] Obviamente el cliente en este caso va a
+[00:53:00] ver el tema de de la falla, la va a
+[00:53:05] percibir en cuanto al servicio, va a
+[00:53:08] tener una interrupción, pero si yo
+[00:53:10] tengo, como dije eh asistantes,
+[00:53:13] elementos de maniobra telecomandado,
+[00:53:16] puedo hacer rápidamente una un cierre de
+[00:53:20] del alimentador alternativo y darle un
+[00:53:22] camino nuevo de abastecimiento al
+[00:53:24] cliente eh para que para reponer el
+[00:53:28] servicio lo antes posible. Y luego
+[00:53:30] tenemos las redes malladas en zonas de
+[00:53:33] muy alta densidad, como [carraspeo]
+[00:53:35] puede ser en el tipo
+[00:53:38] cava o o cercano al al GBA, donde en
+[00:53:42] este caso las redes tienen siempre
+[00:53:45] caminos alternativos para poder
+[00:53:46] abastecer eh la demanda. Estas redes,
+[00:53:50] como vamos a ver o o podemos deducir a
+[00:53:54] medida que aumenta los caminos eh
+[00:53:58] los caminos alternativos, uno tiene
+[00:54:01] redes de mayores costos. ¿Por qué?
+[00:54:04] porque tengo mayores posibilidades de
+[00:54:06] abastecimiento. Estas redes malladas
+[00:54:08] requieren también una sofisticación
+[00:54:10] mayor en cuanto a la a la coordinación
+[00:54:14] respecto a las protecciones, porque acá
+[00:54:16] ya tengo que empezar a usar protecciones
+[00:54:19] direccionales para saber de qué lado
+[00:54:21] viene la falla para poder hacer después
+[00:54:23] la selección de los elementos de
+[00:54:25] maniobra que tienen que abrir al momento
+[00:54:27] de existir una falla.
+[00:54:30] Y abajo tenemos, bueno, un una pequeña
+[00:54:34] cuadro de de comentarios respecto a los
+[00:54:37] costos. Las redes radiales son de costo
+[00:54:39] bajo, confiabilidad baja, reposición
+[00:54:43] manual, tramo a tramo. Las redes eh
+[00:54:46] anilladas eh son costos medios,
+[00:54:50] confiabilidad
+[00:54:53] media alta, la reposición de telecomando
+[00:54:57] y y alimentadores alternativos y las
+[00:55:00] redes malladas, como le comenté, son de
+[00:55:01] costo alto, de mayor, de mucha más alta
+[00:55:04] confiabilidad. la reposición automática
+[00:55:07] y elementos de pueden ser elementos de
+[00:55:10] autorreposición. Hay, digamos, todo un
+[00:55:14] tema en cuanto a protecciones y en
+[00:55:17] cuanto a equipos que pueden hacer la
+[00:55:18] reposición automática del servicio ante
+[00:55:21] una contingencia.
+[00:55:23] Eh,
+[00:55:25] muchos proveedores eh y de de equipos y
+[00:55:29] de software lo promocionan, pero eh en
+[00:55:33] la práctica no muchas compañías lo
+[00:55:36] tienen automatizado y dejar que la
+[00:55:38] máquina haga todo. Sí, por ahí lo tienen
+[00:55:40] respecto a poder eh tener una simulación
+[00:55:42] rápida de cómo sería la maniobra de
+[00:55:44] reposición, pero comúnmente se suele
+[00:55:47] dejar en la mano de un operador, o sea,
+[00:55:49] de un humano el el
+[00:55:51] la reposición del servicio por temas de
+[00:55:55] confiabilidad y seguros de de de que uno
+[00:55:58] sabe lo que está haciendo.
+[00:56:01] Sonificación por densidad de cargas y
+[00:56:03] criterios previos de topología.
+[00:56:06] Eh, sí, esto obedece a una resolución de
+[00:56:11] LENRE de la 556 del año 2001, que en
+[00:56:16] teoría era la primer revisión tarifaria
+[00:56:18] integral que se iba a hacer luego de la
+[00:56:20] privatización de de las distribuidoras.
+[00:56:24] Eh, bueno, esa revisión tarifaria quedó
+[00:56:27] truncada por los lo
+[00:56:32] que tuvimos eh a nivel país en el 2001,
+[00:56:37] pero establecía lo las densidades de
+[00:56:40] demanda eh para el tema de poder
+[00:56:45] realizar [carraspeo]
+[00:56:47] las eh redes eh adaptadas a los
+[00:56:52] distintos niveles de de densidad de
+[00:56:55] demanda en zona rural. Eh, se se define
+[00:56:59] como baja densidad aquellas que tienen
+[00:57:01] una demanda inferior a 025 MW por km².
+[00:57:06] Las suburbanas y rurales densas entre
+[00:57:08] 025 y 3 MW por km².
+[00:57:12] Las urbanas medias entre 3 y 8,
+[00:57:17] después entre 5 y 15 y mayores de 15 las
+[00:57:19] muy alta densidad.
+[00:57:22] Eh, una pequeña reseña respecto a cuando
+[00:57:27] momentos atrás habló Carlos del tema del
+[00:57:30] crecimiento de la demanda. Uno
+[00:57:32] comúnmente cuando hace un una
+[00:57:36] un cálculo de del crecimiento de la
+[00:57:39] demanda y determina una tasa de
+[00:57:41] crecimiento, luego de esa tasa de
+[00:57:43] crecimiento uno determina comúnmente eh
+[00:57:46] una tasa de crecimiento global o o total
+[00:57:49] de de por ejemplo de la distribuidora.
+[00:57:53] Pongamos un ejemplo sobre números 2 o 3%
+[00:57:57] en forma global. Luego lo que tiene que
+[00:57:59] hacer ese 2 o 3% general que tiene la
+[00:58:01] electriidoral, lo tiene que espaciar. O
+[00:58:04] sea, ¿qué significa espaciar? Yo no le
+[00:58:06] doy esa tasa de crecimiento a todos los
+[00:58:09] alimentadores, por ejemplo, de media
+[00:58:11] tensión de la red. ¿Por qué? Porque eso
+[00:58:13] es en el caso de de distribuidoras de,
+[00:58:18] por ejemplo, de de LAAP, que tiene eh
+[00:58:22] grandes centros urbanos, esos
+[00:58:24] alimentadores recorren distintos barrios
+[00:58:26] y distintas eh urbanizaciones que la
+[00:58:29] tasa que que la calidad o la densidad,
+[00:58:32] digamos, de demanda a lo largo del
+[00:58:34] alimentador no es constante. Entonces
+[00:58:37] uno va a distribuir ese 3% global en
+[00:58:41] distintas zonas y va a aplicar los
+[00:58:43] crecimientos espaciales de forma tal de
+[00:58:47] poder cumplir el crecimiento de cada uno
+[00:58:50] de esos de esos barrios o sectores y el
+[00:58:54] global cerrar con el 3% y uno hace un
+[00:58:58] porcentaje del crecimiento en forma
+[00:59:01] vegetativa y luego le agrega las
+[00:59:04] demandas puntuales que puede llegar a
+[00:59:06] tener o conocer eh
+[00:59:10] en en a anexada al crecimiento de forma
+[00:59:14] tal de que lleggaue al 3%.
+[00:59:16] Eh, no sé si fue claro. Por ejemplo, voy
+[00:59:19] a dar un ejemplo típico, un alimentador,
+[00:59:21] los que conocen la ciudad de La Plata,
+[00:59:23] por ejemplo, de Citivel, en Citivel
+[00:59:25] nosotros tenemos una estación
+[00:59:26] transformadora alta media tensión y un
+[00:59:29] alimentador de distribución puede pasar
+[00:59:31] por Citybel, Gonet y llegar hasta
+[00:59:33] Ringuel.
+[00:59:35] La demanda de ese de ese alimentador en
+[00:59:37] el paso de esos tres
+[00:59:40] eh barrios no es la misma. Entonces, uno
+[00:59:44] secciona ese crecimiento
+[00:59:47] de forma tal de que el total del
+[00:59:49] crecimiento del alimentador que uno está
+[00:59:51] esperando.
+[00:59:55] Perdón, un comentario breve no más. Eso
+[00:59:58] que citó Ariel esa es en base a esa
+[01:00:01] primera revisión integral tarifaria en
+[01:00:03] el AMBA.
+[01:00:05] para en ese momento de norte de sur y
+[01:00:06] del a través de resolución. Esas
+[01:00:09] definiciones de densidad no están a
+[01:00:12] diferencia de el más menos 5%
+[01:00:15] establecido en los procedimientos
+[01:00:16] técnicos de camesa o el más menos 8%
+[01:00:19] establecido en el suanexo de Doceva.
+[01:00:21] Esos sí, valores son hay que cumplirlos
+[01:00:24] acá. Estos valores son orientativos en
+[01:00:26] ese momento esa resolución. La provincia
+[01:00:28] de Buenos Aires podría tomar otro,
+[01:00:31] incluso dentro de la provincia de Buenos
+[01:00:32] Aires, si no aparece normado bajo una eh
+[01:00:35] resolución y demás, una cooperativa en
+[01:00:38] función de sus datos históricos podría
+[01:00:40] definir su propia zona, su zonificación.
+[01:00:42] Quizás la zona de altaad de demanda en
+[01:00:45] una ciudad como La Plata no es lo mismo
+[01:00:47] que en Junín, no es lo mismo que en
+[01:00:48] Tandil o lo mismo que en Baigorrita.
+[01:00:52] Bien, entonces eh eso es a título, esto
+[01:00:56] que mostramos recién es a título
+[01:00:57] informativo.
+[01:00:59] Eh, perdón y volviendo quizás yo le di
+[01:01:01] un ejemplo de la pero volviendo a un
+[01:01:03] ejemplo de de la provincia, eh quizás un
+[01:01:07] un alimentador, como dijo Carlos, de
+[01:01:09] subtransmisión de 33 kV que recorre dos
+[01:01:12] o tres localidades, uno le determina una
+[01:01:15] tasa de crecimiento y no es el mismo
+[01:01:17] crecimiento quizás en las tres
+[01:01:19] localidades. Entonces, por ejemplo, un
+[01:01:21] alimentador que sale Saladillo,
+[01:01:23] Alvartaqué,
+[01:01:25] no tiene las tres localidades del mismo
+[01:01:27] crecimiento, pero si yo hago cerrar el
+[01:01:29] crecimiento de forma tal de que global
+[01:01:31] sea el que yo espero y lo distribuyo
+[01:01:33] espacialmente con tasas distintas.
+[01:01:36] Perdón y una cosita más, perdón, eh para
+[01:01:39] cerrar esto,
+[01:01:41] para poder granular bien la el
+[01:01:44] crecimiento de la demanda y las
+[01:01:45] estimaciones, datos hay, datos hay. Las
+[01:01:48] distribuidoras lo tienen, la cooperativa
+[01:01:49] lo tienen, la transportista lo tiene,
+[01:01:51] está telemedido, hay mucho dato. Ahora
+[01:01:54] también tenemos muchos datos, pero hacer
+[01:01:58] gran anular esa tasa de crecimiento e eh
+[01:02:01] implica mucho procesamiento de datos.
+[01:02:03] Entonces, si nosotros tenemos los datos
+[01:02:04] y después no tenemos quién los procese
+[01:02:06] en much en muchos casos para los que
+[01:02:09] trabajamos planificación decir, bueno,
+[01:02:11] en esta zona y bueno, ponele un no digo
+[01:02:14] con un cierto criterio, pero bueno, la
+[01:02:16] tasa de crecimiento acá es un 3%.
+[01:02:19] Es muy probable. Uno ante la
+[01:02:21] incertidumbre o incapacidad de procesar
+[01:02:24] cierta información, por lo que fuere, eh
+[01:02:27] separan un caso eh más desfavorable para
+[01:02:30] quedar cubierto. Pero es como dijimos
+[01:02:32] siempre al al lo dijimos en la clase
+[01:02:35] anterior, si uno eh
+[01:02:38] subestima eh esa esa demanda, bueno,
+[01:02:42] desinvierte y puede pasar que no nos
+[01:02:45] alcance la obra proyectada y viceversa,
+[01:02:48] ¿no,
+[01:02:49] Carlos? Ariel, perdón, Juan Manuel,
+[01:02:52] consulta respecto de la filmina, el
+[01:02:55] slide anterior.
+[01:02:58] Ahí está claramente, digamos, la
+[01:03:00] referencia de Nor respecto de topología
+[01:03:01] de red. Eh, respecto de configuración de
+[01:03:04] barras o confiabilidad de barras y
+[01:03:05] esquema de interruptor para estaciones
+[01:03:08] transformadoras, centro de distribución,
+[01:03:10] referido siempre a distribución, ¿no? No
+[01:03:12] hablemos de transcender que la guía de
+[01:03:13] diseño tan es tan clara. Pero respecto
+[01:03:16] de eso, eh, ¿hay material que podamos
+[01:03:19] consultar o que se puede incluir en la
+[01:03:21] este en este apartado de de la
+[01:03:23] diplomatura? Eh, o pueden mencionar algo
+[01:03:26] al respecto
+[01:03:28] respecto a los criterios de de topología
+[01:03:32] de como comentab de barra y eso no está
+[01:03:35] normado, no está normado, pero sí quizás
+[01:03:38] cada distribuidora tiene su su criterios
+[01:03:43] de planeamiento de red. Eh, es decir, no
+[01:03:46] es obligatorio tenerlo, pero sí por una
+[01:03:48] cuestión de de de gestión de de la del
+[01:03:52] crecimiento de la red, las
+[01:03:54] distribuidoras suelen tener eh un manual
+[01:03:57] de planeamiento. ¿Qué significa eso?
+[01:03:59] Bueno, en zonas eh suburbanas de baja
+[01:04:03] densidad eh voy a usar eh tal nivel de
+[01:04:07] tensión o tal tipo de red o tal tipo de
+[01:04:10] juego de barra, simple juego de barra,
+[01:04:12] eh doble juego de barra, eh con
+[01:04:15] acoplamiento transversal o simple juego
+[01:04:17] con acoplamiento longitudinal, etcétera,
+[01:04:20] si es a lo que te referís, pero no está
+[01:04:22] eh regulado ni normado eh por ningún
+[01:04:25] organismo el tema de el los tipos de de
+[01:04:31] configuraciones de barras.
+[01:04:33] ¿Vos sos técnico, no?
+[01:04:35] Sí, sí, sí.
+[01:04:36] Bien. Bueno, eh
+[01:04:40] no voy a a lo que dice Ariel es así,
+[01:04:42] ¿no? Hoy la la forma de el marco
+[01:04:44] regulatorio eh
+[01:04:47] es es pos yo temido por cumplir o no
+[01:04:50] determinado nivel de calidad. ¿Cómo lo
+[01:04:51] hacés? Es un tema tuyo, tanto en
+[01:04:53] transmisión como en distribución. Ahora,
+[01:04:56] eh
+[01:04:58] no vamos a irnos mucho por las ramas, no
+[01:05:01] porque no por por una cuestión de del
+[01:05:03] alcance que de la diplomatura y y de y
+[01:05:07] del de este módulo. Sí, lo que podemos
+[01:05:10] hacer después a través de los correos y
+[01:05:11] demás a facilitarte información o bien
+[01:05:14] después proponer eh quizá eh algún otro,
+[01:05:18] no sé si diplomatura, porque me parece
+[01:05:20] un montón, pero sí alguna, algunos
+[01:05:22] módulos, algunas clases técnicas.
+[01:05:25] eh bien técnica eh eh para si interesa
+[01:05:30] en el en el en el entiendo que sí
+[01:05:33] siempre la formación continua y ahí sí
+[01:05:35] podemos abordar, pero doble barra,
+[01:05:37] simple barra con luxitudinal,
+[01:05:39] transversal, un montón de cosas, depende
+[01:05:41] del diseño, eh depende de la de los
+[01:05:44] criterios propios de
+[01:05:47] de la distribuidora y recordad que
+[01:05:50] también todo eso va asociado siempre a
+[01:05:52] quien lo paga, ¿eh? No se va, digamos,
+[01:05:55] vos va a aumentar la confiabilidad y la
+[01:05:57] seguridad de las instalaciones siempre y
+[01:05:59] cuando la tarifa te lo reconozca.
+[01:06:01] Eso lo vamos a ver el modo de broker.
+[01:06:05] Un bocadillo ahí, Meto. Eh, recuerden y
+[01:06:08] como siempre les digo, si hay temas que
+[01:06:10] quieren profundizar, nos mandan un mail
+[01:06:12] y hacemos un taller aparte o una clase
+[01:06:15] adicional, ¿sí? Porque por ahí no
+[01:06:17] podemos abarcar la totalidad de los
+[01:06:19] temas, digamos, en el programa que
+[01:06:20] tenemos. Pero sí, por favor, todas las
+[01:06:23] cosas que quieran extra
+[01:06:25] profundizar en alguna de las que vamos
+[01:06:27] viendo, manden correo al ID, al correo
+[01:06:30] que siempre les llega avisándole o
+[01:06:32] recordándoles la clase y vamos
+[01:06:35] generándolas. Eh, no se queden, digamos,
+[01:06:37] eh, sin mandarlo, así lo podemos
+[01:06:39] resolver.
+[01:06:41] Bien. Eh, no sé si quedó quedó. Sí,
+[01:06:44] perfecto. Me queda claro que no que no
+[01:06:46] está regulado este y que son criterios
+[01:06:49] de diseño propio de cada distribuidora,
+[01:06:51] digamos.
+[01:06:52] Son criterios propios de distribuidora.
+[01:06:53] Por ejemplo, discúlpame que sea
+[01:06:55] autorreferencial, pero del nosotros
+[01:06:58] heredamos muchas de nuestras formas de
+[01:07:01] diseñar y de operar de SECA porque somos
+[01:07:04] descendemos de la privatización de lo
+[01:07:05] que fue SECA. El app en grandes centros
+[01:07:08] urbanos, en el casco urbano y en zonas
+[01:07:11] de de densidad alta, tiene en lo que es
+[01:07:14] estaciones transformadoras módulos ya
+[01:07:17] estandarizados de 40 MBA eh para los
+[01:07:20] transformadores de alta media de 132 a
+[01:07:22] 13,2 kV y esos módulos de 40 MBA ya te
+[01:07:28] fijan cantidad de alimentadores por
+[01:07:31] barras. puede sacar ocho alimentadores
+[01:07:33] por barra porque uno estima más o menos
+[01:07:37] la potencia media del alimentador en 5A
+[01:07:41] para las longitudes que tenemos en
+[01:07:42] función de lo que dijo de lo que explicó
+[01:07:44] Carlos recién de caídas de tensión,
+[01:07:46] etcétera, etcétera. Entonces, ya ahí va
+[01:07:48] te va fijando eh criterios de diseño y
+[01:07:51] criterios de de aplicación de cada uno
+[01:07:55] de esas instalaciones y te fijas, por
+[01:07:57] ejemplo, el juego, el el tipo de
+[01:07:59] estación transformada que tenés en zonas
+[01:08:01] de menor densidad o donde tenemos que
+[01:08:05] recorrer barriedades distancia, por
+[01:08:07] ejemplo, eh lo que sería para nosotros
+[01:08:10] Magdalena o Bransen o Verónica, ahí
+[01:08:13] usamos eh alimentadores de 33 kV en ese
+[01:08:16] caso, como Como la densidad es más baja,
+[01:08:18] pero las distancias son mayores, usamos
+[01:08:20] módulo de transformadores de 20 MBA, con
+[01:08:23] lo cual admitimos por ahí dos o tres
+[01:08:25] alimentadores por cada barra. Ponemos
+[01:08:28] dos transformadores, ponerle de 20 MBA
+[01:08:30] 132 33
+[01:08:33] y para sacar 20 MBA con dos
+[01:08:36] alimentadores está sobrado. ¿Está bien?
+[01:08:39] Se entiende un poco a dónde viene el
+[01:08:41] tema ese de las criterios de diseño.
+[01:08:44] Y para cerrar este tema y no aburrir al
+[01:08:46] resto de de de la persona, eh
+[01:08:51] cuando fue la privatización, vamos,
+[01:08:53] vamos, yo no no no estaba en el sector
+[01:08:57] todavía hace muchos años. Bueno, vamos a
+[01:08:58] suponer que en el año 2001 las tarifas
+[01:09:00] eran eran correctas y una distribuidora
+[01:09:04] X tenía su guía de diseño para la para
+[01:09:07] el desarrollo de sus redes. Bien,
+[01:09:11] entonces podía eh abastecer la demanda
+[01:09:15] con esos criterios y cumplir los los
+[01:09:17] regímenes de calidad
+[01:09:20] con el paso del tiempo. Lo que sabemos
+[01:09:22] todos no vamos a meternos ni en
+[01:09:23] cuestiones políticas ni ni de la
+[01:09:25] historia.
+[01:09:27] descalces en las tarifas, los problemas
+[01:09:29] macroeconómicos y demás hacen que
+[01:09:31] después uno hace en la red
+[01:09:35] y lo que el regulador le permite. Bien,
+[01:09:38] entonces a mí me ha pasado de de
+[01:09:41] planificar una red de media tensión de
+[01:09:42] una localidad que decir cómo hicieron la
+[01:09:45] salida de los alimentadores con 70 mm de
+[01:09:48] cobre
+[01:09:49] porque ahorita estaban al rojo vivo.
+[01:09:53] Cuando uno entiende, por ejemplo, en esa
+[01:09:55] localidad o no en esa localidad, esa
+[01:09:57] distribuidora, ¿cuál eran sus criterios?
+[01:09:58] El criterio de planificación era de
+[01:09:59] hacer una segunda estación
+[01:10:00] transformadora,
+[01:10:02] apoyar esos alimentadores desde otro
+[01:10:04] lugar y partirlos. Bien, entonces el
+[01:10:07] dimensionamiento técnicoeconómico de esa
+[01:10:10] de esa sección de conductor era el
+[01:10:12] correcto. Ahora, si después
+[01:10:15] la el contexto económico no acompañó, la
+[01:10:19] tarifa no acompañó por la por lo que
+[01:10:21] fuere, eh uno no puede ir a esa red
+[01:10:23] objetivo con esos criterios. Entonces
+[01:10:27] con Ariel, que ya lo mencionamos la
+[01:10:29] primer clase, nosotros trabajamos
+[01:10:31] siempre en planificación, siempre
+[01:10:32] planificación, pero después resultan que
+[01:10:35] hacemos planifición, porque después en
+[01:10:37] realidad vos lo que hacés es como
+[01:10:38] dijimos el otro día, la diferencia no
+[01:10:40] era estado mercado y demás, qué es lo
+[01:10:42] que es planificar y la diferencia entre
+[01:10:45] lo que es un plan de obras, bien, que
+[01:10:48] eso entendemos que lo dejamos bastante
+[01:10:49] claro,
+[01:10:51] es algo cote para no distorsionar más.
+[01:10:53] Sí.
+[01:10:56] Bien, muchas gracias.
+[01:10:57] No, de nada. E
+[01:11:02] bien,
+[01:11:06] estamos en criterio de N -1. Eh,
+[01:11:10] bueno, vamos a hacer un repaso rápido.
+[01:11:12] Muchos de esto lo hablamos. por ejemplo,
+[01:11:13] red, eh tenemos a la izquierda una red
+[01:11:15] en la cual no tenemos automatización y
+[01:11:17] supongamos o asumamos tener una falla en
+[01:11:20] el tramo entre a eh y bh,
+[01:11:25] por ejemplo, una un alimentador, que en
+[01:11:29] este caso serían dos alimentadoras con
+[01:11:31] una apertura normal al medio, uno
+[01:11:33] proveniente de la subestación A y eh uno
+[01:11:36] y otro proveniente de la subestación
+[01:11:37] dos, ante una falla del alimentador de
+[01:11:41] que proveniente de la subestación
+[01:11:43] dos en el punto en cuestión. Si uno
+[01:11:47] tuviera un seccionamiento
+[01:11:49] eh inmediatamente posterior a la carga
+[01:11:53] B, uno podría eh
+[01:11:56] abrir y eh que dejar alimentado todo
+[01:11:59] desde el punto de eh su estación dos
+[01:12:03] hasta B y de su estación A hasta aquí.
+[01:12:06] Si uno hubiera tenido una falla en este
+[01:12:08] otro tramo, uno podría abrir aquí y
+[01:12:11] cerrar el normal abierto y alimentar la
+[01:12:13] carga B desde su estación uno. Okay.
+[01:12:17] Es un poco el tener los criterios de
+[01:12:21] poder darle caminos alternativos a la
+[01:12:23] demanda ante una falla en la red,
+[01:12:26] siempre y cuando con la primisa de que
+[01:12:28] tratemos de eh dejar fuera de servicio
+[01:12:30] la menor porción de la red posible. Si
+[01:12:33] uno lo hace mediante
+[01:12:36] e, ¿cómo es? Reposiciones manuales, uno
+[01:12:39] tiene que trasladar allí una cuadrilla
+[01:12:42] de personas con el tiempo de traslado,
+[01:12:44] vehículos, etcétera, etcétera, con lo
+[01:12:46] cual aumenta mucho los costos y los
+[01:12:48] tiempos de reposición. Si uno logra
+[01:12:51] tener elementos telecomandados como
+[01:12:53] pueden ser reconectadores, por ejemplo,
+[01:12:56] o interruptores con telecomando, uno eso
+[01:13:00] lo puede hacer desde un centro operativo
+[01:13:03] con mayor rapidez y agilidad y a menor
+[01:13:06] costo
+[01:13:07] es a menor costo es es digamos es una
+[01:13:11] cuestión de comparar porque tenemos el
+[01:13:12] costo inicial de realizar ese
+[01:13:13] telecomando, ¿no? Pero me refiero que a
+[01:13:15] la larga uno lo mejora, los índices de
+[01:13:19] calidad y producto del cliente. Todos
+[01:13:22] esos, todas esas evaluaciones son las
+[01:13:24] que uno hace cuando hace la la
+[01:13:30] el costo de de la inversión para ver si
+[01:13:34] va tarifa, cuánto reduzco, digamos,
+[01:13:37] todos los los costos de tiempo, multa,
+[01:13:41] imagen de la compañía, etcétera,
+[01:13:42] etcétera, etcétera. y ve si si la
+[01:13:45] inversión se repaga y la puedo eh
+[01:13:49] introducir a a tarifa.
+[01:13:56] Bien. Bueno, las métricas de control de
+[01:13:59] restricción de diseño, eh
+[01:14:05] ya se conocen el tema del s del side,
+[01:14:07] tiempo y duración de de de los cortes
+[01:14:10] del punto de vista regulatorio son
+[01:14:12] indicadores que se auditan eh a
+[01:14:16] posteriores. Es decir, la regulación
+[01:14:17] nuestra en nuestro país es una
+[01:14:19] regulación indirecta.
+[01:14:21] Eh, a diferencia de otros países, que
+[01:14:23] suele ser quizás la regulación una
+[01:14:24] regulación un poco más más mixta, eh yo
+[01:14:28] les digo cómo era cuando esto el
+[01:14:32] espíritu de de la privatización. Luego
+[01:14:34] hubo ajustes y y descalces de de esto en
+[01:14:38] función de los baivenes de de cómo fue
+[01:14:42] el mercado y el negocio energético
+[01:14:47] transcurriendo. Pero en principio acá eh
+[01:14:50] en su momento uno
+[01:14:52] la tarifa, el momento de la
+[01:14:54] privatización reconocía unos costos y eh
+[01:14:59] el organismo de control eh lo que hacía
+[01:15:03] era evaluar eh los costos en función de
+[01:15:07] eh perdón de la gestión de la compañía,
+[01:15:11] la cidad versus indicadores de calidad
+[01:15:14] de servicio y calidad de producto. Uno
+[01:15:16] tenía una norma que tenía una ventana de
+[01:15:19] de cortes y de tiempos máximos a partir
+[01:15:22] que le permitían a la distribuidora como
+[01:15:26] un margen para hacer sus mantenimientos
+[01:15:28] y sus fallas, digamos, fortuitas o eh no
+[01:15:31] no programadas dentro de una ventana. A
+[01:15:35] partir superado ese límite, la
+[01:15:38] distribuidora comenzaba a penalizar eh
+[01:15:41] con una ecuación de de penalización de
+[01:15:44] multa dada.
+[01:15:46] Eh, al momento de la privatización hubo
+[01:15:49] un periodo de adaptación, es decir, lo
+[01:15:50] que se llamaba etapa uno, que era una
+[01:15:52] etapa un poco más laxas y de transición
+[01:15:55] entre venir de la empresa estatal
+[01:15:57] privatizada que duró una ventana de
+[01:16:00] tiempo, y luego estaba lo que se llamaba
+[01:16:02] etapa dos del contrato, que ya un poco
+[01:16:04] se ajustaban un poco más todos estos
+[01:16:05] indicadores y esta regulación.
+[01:16:09] E
+[01:16:13] luego eh de esto, digamos, de de ser una
+[01:16:18] un control indirecto por indicadores,
+[01:16:22] ocurría que uno cuando controla por
+[01:16:24] indicadores le decía, "Bueno, vos hacé
+[01:16:28] eh la operatividad de la red que quieras
+[01:16:30] en función de tu tarifa. hacer el plan
+[01:16:32] de inversiones, no se metía tanto en las
+[01:16:35] inversiones, sino que te decía, "Bueno,
+[01:16:36] yo te controlo por cómo es tu calidad de
+[01:16:38] servicio. Vamos por el absurdo,
+[01:16:40] digamos." No era así. Pero para que
+[01:16:42] entendamos el concepto de forma eh
+[01:16:46] radical y pase la prueba de la risa al
+[01:16:47] ejemplo. No hagas nada si querés, a mí
+[01:16:50] no me importa,
+[01:16:52] pero yo veo en el momento de los
+[01:16:54] indicadores qué es lo que pasa.
+[01:16:56] Entonces, es eh un sistema bastante
+[01:17:01] eh
+[01:17:03] peligroso en el sentido de que cuando
+[01:17:05] uno mira los indicadores eh pasó un
+[01:17:08] tiempo respecto al momento de de de
+[01:17:11] tener que hacer las inversiones.
+[01:17:13] Entonces, había un descalce, hay un
+[01:17:14] descalce muy grande en este tipo de
+[01:17:16] regulación indirecta. En otros países
+[01:17:18] hay una regulación eh mixta que lo que
+[01:17:21] hacen es te auditan el plan de
+[01:17:23] inversiones y te auditan los
+[01:17:24] indicadores. Entonces vos le decís,
+[01:17:26] "Mira, yo para tener estos indicadores
+[01:17:29] voy a tener eh voy a realizar estas
+[01:17:31] inversiones con este cronograma de
+[01:17:34] tiempo, con este cronograma de obras
+[01:17:36] nominadas, como dijo Carlos, eh
+[01:17:38] etcétera. Entonces uno va acompañando la
+[01:17:42] regulación de lo que vas haciendo y cómo
+[01:17:44] te va dando. En el espíritu original era
+[01:17:48] directamente yo te mido, no me meto en
+[01:17:50] la gestión de la compañía, no me meto en
+[01:17:52] la gestión de tu negocio, pero yo te voy
+[01:17:54] a medir que los indicadores den bien. Se
+[01:17:57] entiende un poco. ahora está tratando de
+[01:18:01] migrar a hacer este tipo de eh
+[01:18:04] regulación
+[01:18:06] acompañada, regular eh digamos presentar
+[01:18:09] los planes de de inversión, eh gestionar
+[01:18:13] su seguimiento del punto de vista del
+[01:18:15] regulador, ver cronogramas, ver obras
+[01:18:19] nominadas, ver y a su vez también ver
+[01:18:22] los indicadores de cómo cómo dan
+[01:18:25] respecto a eh la forma de eh medirlo la
+[01:18:30] eficiencia de ese plan.
+[01:18:34] Bueno, acá vamos a hacer un cortecito
+[01:18:37] que llevamos más o menos a la mitad.
+[01:18:39] Vamos a continuar. Son las 9:30, eh,
+[01:18:43] 9:40, 9:27, 9:40. No, nos volvemos a
+[01:18:46] ver. Eh,
+[01:18:48] perfecto.
+[01:18:49] Okay, gracias.
+[01:18:52] Bueno, gracias. e un comentario, yo los
+[01:18:55] tengo que dejar después del recreito ya
+[01:18:57] no aparezco, así que tengo otra jornada.
+[01:19:01] Nos veremos el jueves de la semana que
+[01:19:02] viene. Sí, igual siguen con los profes y
+[01:19:05] con Lisandro.
+[01:19:06] Bárbaro. Chaoinaos.
+[01:19:08] Gracias.
+[01:19:27] Buenas, estamos todos
+[01:19:35] retomamos.
+[01:19:42] No, con la clase. Entonces,
+[01:19:45] dale no más. No sé, están todos. Hola.
+[01:19:48] Hola.
+[01:19:51] Hay varios deditos levantados.
+[01:19:53] Okay. Bien. Bueno,
+[01:19:57] eh en el slide anterior, bueno, vimos la
+[01:20:01] métrica de los indicadores,
+[01:20:03] la mirada regulatoria y la mirada la
+[01:20:05] mirada de ingeniería. Bien.
+[01:20:07] Vamos a continuar con este concepto eh
+[01:20:11] eh
+[01:20:13] relativamente nuevo para el ámbito de
+[01:20:15] distribución. Eh la las grandes
+[01:20:18] distribuidoras de de los países del
+[01:20:20] primer mundo ya este concepto lo tienen.
+[01:20:22] Eh, bueno, entonces vamos a cerrar este
+[01:20:25] tema de lo que es la la calidad del
+[01:20:27] suministro con este concepto de
+[01:20:28] resilencia que bueno es la capacidad no
+[01:20:31] difiere mucho del del concepto de la de
+[01:20:34] la resiliencia en sí, que es la
+[01:20:35] capacidad que tiene la red.
+[01:20:37] de resistir y recuperarse ante eventos
+[01:20:39] extremos, tormenta, vientos fuertes y
+[01:20:43] caída de arbolado. Muchas cosas en el en
+[01:20:46] el ámbito de distribución las hacemos,
+[01:20:49] pero bueno, tiene otro nombre, pero hoy
+[01:20:50] están bajo el concepto de resiliencia.
+[01:20:53] Entonces, para del lado para el
+[01:20:55] fortalecimiento de la infraestructura
+[01:20:57] física, tenemos cuatro en la
+[01:20:59] distribución tenemos cuatro medidas eh
+[01:21:03] típicas. Por ejemplo, trabajar con
+[01:21:06] conductores protegidos, entramos
+[01:21:07] expuestos a arboledas, eh la red de
+[01:21:11] compacta ya bastante implementada en las
+[01:21:14] provincias de Buenos Aires,
+[01:21:16] lo que es una poda estructural al volado
+[01:21:18] en las trazas de las líneas,
+[01:21:20] refuerzos de postación en en zonas de
+[01:21:23] viento fuerte, también hay hoy poste de
+[01:21:26] de PVC, hay hay tecnologías eh
+[01:21:32] ya implementadas en el mercado.
+[01:21:34] y después la la el soterramiento o
+[01:21:36] subterrización selectiva en zonas
+[01:21:38] críticas donde la relación costo
+[01:21:40] beneficio lo justifica.
+[01:21:43] Y por otro lado tenemos las islas de red
+[01:21:46] o micror redes, que es una combinación
+[01:21:48] de generación local con almacenamiento,
+[01:21:52] con protección y desconexión automática,
+[01:21:54] control de frecuencia y tensión propio,
+[01:21:57] pensada para mantener los servicios
+[01:21:59] esenciales, puede ser quizá en una
+[01:22:01] porción de la red eh que contenga
+[01:22:05] hospitales o estaciones de bombeo de de
+[01:22:08] una red principal que se encuentra fuera
+[01:22:10] de servicio. Bien.
+[01:22:12] Ahora, lo que sí tenemos que bien en
+[01:22:14] claro en este último concepto de
+[01:22:15] microrredes,
+[01:22:17] eh esto tiene un límite normativo que lo
+[01:22:20] tenemos dejar bien en claro. El
+[01:22:21] funcionamiento en isla no intencional
+[01:22:25] e está prohibido, está la la la IE 1547,
+[01:22:29] pero esto es algo a nivel mundial, no
+[01:22:31] está escrito en un contrato de
+[01:22:32] concesión. El funcionamiento en isla no
+[01:22:34] intencional, que no es este concepto
+[01:22:36] microrede, no es factible. un tramo de
+[01:22:39] red eh no puede quedar energizado, algo
+[01:22:42] convencionariel por generación
+[01:22:43] distribuida después de perder la
+[01:22:45] alimentación principal del alimentador,
+[01:22:47] eh si no fue diseñado expresamente para
+[01:22:50] funcionar como isla porque presenta un
+[01:22:53] riego directo para y grave para el
+[01:22:55] personal de mantenimiento que puede
+[01:22:57] estar trabajando en en ese tramo de la
+[01:23:00] red que suponía desenergizado, ¿verdad?
+[01:23:05] Bien.
+[01:23:08] Vamos a meternos un poquito en en en
+[01:23:13] esta segunda mitad del bloque
+[01:23:17] respecto a lo a lo que es el incentivo
+[01:23:19] de una obra y y la penalidad evitada.
+[01:23:22] Con este ejemplito tenemos un tramo en
+[01:23:25] línea de media atención que abastece a
+[01:23:27] 100 usuarios,
+[01:23:29] que hoy tiene una probabilidad de falla
+[01:23:31] de tres veces de tres eventos por año
+[01:23:34] durante 4 horas de reparación en cada
+[01:23:36] uno de esos. Y tenemos dos alternativas
+[01:23:38] de de inversión. Esto es un ejemplo
+[01:23:41] teórico, ¿no? La alternativa A es la
+[01:23:43] reestructuración o recalibración de del
+[01:23:46] con del del alimentador
+[01:23:49] con un costo capital que son 45 millones
+[01:23:51] de pesos y un anual esperado de en
+[01:23:55] penalidades, ¿verdad? Si no hacemos la
+[01:23:58] obra de 34 millones. Y una alternativa
+[01:24:00] B, instalar un reconectador eh con un
+[01:24:04] costo de capital que vale 18,00000es de
+[01:24:06] pesos y me ahorro multas 17,0000 de
+[01:24:09] pesos. Es decir, tengo un alimentador
+[01:24:11] que tiene malas condiciones, está
+[01:24:12] desilachado e en los cuellos muertos y
+[01:24:16] etcétera. Bueno, lo voy a lo voy a hacer
+[01:24:17] nuevo, por decir una manera. Verso la
+[01:24:20] alternativa de instalar un un elemento
+[01:24:22] de de maniobra de protección.
+[01:24:24] Lo que vamos a ver qué justifica y qué
+[01:24:26] no justifica. Lo que económicamente
+[01:24:28] justifica esta inversión no es la obra
+[01:24:30] en sí misma, sino la penalidad
+[01:24:33] regulatoria que dejó de pagar por
+[01:24:34] incumplir los régimenes de sfi, ¿verdad?
+[01:24:38] Pero por otra parte, del lado del
+[01:24:40] distribuidor, la decisión no se ajota en
+[01:24:42] en cuál recupera la inversión más
+[01:24:45] rápido. Por ejemplo, la alternativa B,
+[01:24:49] eh, la inversión se recupera antes,
+[01:24:51] claramente,
+[01:24:52] pero la alternativa nos deja a nosotros
+[01:24:56] un tramo con un margen más amplio y más
+[01:24:58] robusto para abastecer un crecimiento de
+[01:25:00] demanda proyectado. Entonces, el
+[01:25:02] criterio final para definirlo el valor
+[01:25:06] presente neto, la tasa para mejor dicho,
+[01:25:09] para determinar el criterio final de
+[01:25:11] selección, tenemos que integrar lo que
+[01:25:13] es el valor presente en neto, la tasa
+[01:25:15] interna de retorno y el el costo de los
+[01:25:17] kilw horas no suministrado evitados, no
+[01:25:21] el simple repago, ¿no? Porque si no
+[01:25:22] iríamos por la alternativa eh B. Lo
+[01:25:25] vamos a ver más adelante estos
+[01:25:27] conceptos, pero sí tener en claro esto
+[01:25:30] que acabamos de decir. Bien,
+[01:25:34] ahora vamos a hablar un poco del
+[01:25:36] concepto en función de esto que venimos
+[01:25:38] hablando de de la generación distribuida
+[01:25:40] que admite una red.
+[01:25:42] el concepto de de hot capacity, eh que
+[01:25:46] en español
+[01:25:48] y en el contexto nuestro de Argentina es
+[01:25:50] la es la capacidad de alojamiento que
+[01:25:52] tiene una red, eh es decir, cuánta
+[01:25:54] generación distribuida puede conectarse
+[01:25:57] en un punto de la red sin violar los
+[01:25:58] límites técnicos, térmico y de
+[01:26:00] protecciones, algo que bueno,
+[01:26:02] mencionamos antes, ante la pregunta de
+[01:26:03] los chicos. Eh, entonces tenemos dos
+[01:26:07] métodos para calcular esta capacidad de
+[01:26:09] alojamiento en la red. Hay un método
+[01:26:11] determinístico
+[01:26:12] de peor caso que evalúa la la
+[01:26:17] combinación más desfavorable posible.
+[01:26:19] Demanda mínima, coincidiendo con la
+[01:26:21] inyección máxima de la generación
+[01:26:22] distribuida.
+[01:26:24] Es un método simple, conservador, pero
+[01:26:26] por definición subestima
+[01:26:28] sistemáticamente la capacidad real
+[01:26:31] disponible, porque esta
+[01:26:34] combinación extrema ocurre en pocas
+[01:26:37] horas del año. Y después tenemos un
+[01:26:40] método probabilístico estocástico que en
+[01:26:42] cambio simula eh numerosas combinaciones
+[01:26:45] de demanda e inyección de generación
+[01:26:47] distribuida
+[01:26:49] mediante
+[01:26:51] los algoritmos de Montecl. Y fija un
+[01:26:54] nivel de riego aceptado en vez de
+[01:26:56] blindarse contra el peor caso absoluto.
+[01:26:59] Esto habilita a priori conectar más
+[01:27:02] generación distribuida, pero en parte de
+[01:27:05] lo que hablamos hoy, eh exige datos de
+[01:27:07] alta granulidad temporal,
+[01:27:10] que es lo que da la la digitalización de
+[01:27:13] la red. Pero al margen de eso, también
+[01:27:16] tenemos que tener la capacidad
+[01:27:19] eh humana de
+[01:27:21] de trabajar con todos esos datos. Bien.
+[01:27:23] Eh,
+[01:27:25] entonces no hay uno mejor o peor, pero
+[01:27:27] eh está bien claro cuál eh cuál
+[01:27:31] elegiríamos en función de de los datos y
+[01:27:34] de la capacidad de procesarlo. Y ahora
+[01:27:36] sí vamos un poco algo que que
+[01:27:40] Franco
+[01:27:41] eh había mencionado hoy, que son los
+[01:27:43] procedimientos de conexión. Eh,
+[01:27:47] no todos los que piden conectarse a la
+[01:27:49] red de la distribuidora pasan por el
+[01:27:51] mismo procedimiento y el mismo filtro.
+[01:27:52] Esto tiene una lógica, hay una lógica
+[01:27:54] técnica atrás de esto. Por ejemplo, un
+[01:27:56] usuario convencional sigue un
+[01:27:57] procedimiento estandalizado y de plazo
+[01:28:00] acotado porque su impacto individual en
+[01:28:02] la red es marginal y está contemplado en
+[01:28:05] la proyección vegetativa de la demanda
+[01:28:07] eh que vimos al principio, por ejemplo,
+[01:28:09] no sé,
+[01:28:10] un T1 residencial o un T2 chiquito.
+[01:28:13] Bien.
+[01:28:14] Eh, en cambio, por ejemplo, un proyecto
+[01:28:16] de generación distribuida requiere, en
+[01:28:19] cambio, que hay que verificar la
+[01:28:20] capacidad de alojamiento que antes
+[01:28:21] mencionamos y de la regla de conexión
+[01:28:24] técnica que acabamos mencionar, ¿no?,
+[01:28:26] que regla límites de tensión, límites
+[01:28:28] térmicos y las protecciones. Este es un
+[01:28:30] análisis técnico específico con plazo de
+[01:28:32] complejidad creciente según la potencia
+[01:28:35] que si se quiere vinculada a la red
+[01:28:38] y también un por ejemplo una alta
+[01:28:41] demanda que sigue otro tercer camino que
+[01:28:44] es un estudio de impacto y verificación
+[01:28:45] de los límites térmicos y que hay
+[01:28:47] tensión, que es lo que define cuándo
+[01:28:50] corresponde las obras de esfuerzos
+[01:28:51] previas autorizar esa conexión y bueno,
+[01:28:55] eh la proporcionalidad del procedimiento
+[01:28:58] al impacto real de la es el criterio que
+[01:29:01] ordena estas tres estas tres columnas,
+[01:29:02] ¿no? Perdona, no la fui pasando bien de
+[01:29:05] lo que les perdón que les comenté.
+[01:29:10] Eh, que bueno, el último caso es lo que
+[01:29:13] la distinguad es un análisis
+[01:29:16] factibilidad o prefactibilidad.
+[01:29:18] Bien, ahora se incorpora, como dijimos,
+[01:29:22] la generación
+[01:29:24] renovable, distribuida o la instalación
+[01:29:26] de de bancos de batería.
+[01:29:28] Ahora vamos al
+[01:29:32] aquí la cuestión, ¿quién paga eh el
+[01:29:34] refuerzo de la red? Eh, que es la
+[01:29:37] pregunta que va a subyacer en todo el
+[01:29:38] bloque. Es decir, ¿cuándo, perdón,
+[01:29:41] cuándo vamos a conectar a un nuevo
+[01:29:43] usuario, a un generador distribuido eh
+[01:29:45] que hay que reforzar la red? ¿Quién paga
+[01:29:47] este refuerzo? Hay dos régimen bien
+[01:29:49] marcado y puro, el de el bajo,
+[01:29:54] el régimen bajo discost, que es el
+[01:29:57] solicitante paga el refuerzo, eh
+[01:30:00] incluida las obras aguas arriba que su
+[01:30:02] conexión hace necesaria. Es una señal
+[01:30:05] económica fuerte porque desentiva la
+[01:30:08] ubicación de eh costosas
+[01:30:12] y desintensiva, perdón, la que se
+[01:30:14] instalen o generadores o o demandas por
+[01:30:18] los costos, pero también tiene un riesgo
+[01:30:20] regulatorio de ser percibido como una
+[01:30:22] barrera de entrada para la generación
+[01:30:24] distribuida y otro recurso energético
+[01:30:26] distribuido como la batería. Y después
+[01:30:30] está
+[01:30:32] el régimen de shallow [resoplido] cost,
+[01:30:35] que es el costo se trata la tarifa
+[01:30:37] general de todos los usuarios. La señal
+[01:30:40] de ubicación es débil,
+[01:30:43] eh, porque no diferencia la ubicación,
+[01:30:45] pero evita la barrera de entrada. Eh, el
+[01:30:48] ribo acá es distinto, hay sobrecostos
+[01:30:50] causados por el conjunto de usuarios que
+[01:30:53] determina trasladándose a todos, ¿no? En
+[01:30:55] la práctica de facto, en la
+[01:30:57] distribuidora de la provincia de Buenos
+[01:30:58] Aires, el régimen shallow eh se utiliza
+[01:31:03] para usuarios convencionales y
+[01:31:04] generación distribuida residencial. Y el
+[01:31:06] régimen del DIP o un híbrido eh
+[01:31:10] negociado entre partes eh es caso por
+[01:31:13] caso para grandes generadores o grandes
+[01:31:16] parques solares eh sin que todavía
+[01:31:19] existe un procedimiento público hoy. Hoy
+[01:31:21] no existe un procedimiento en el marco
+[01:31:24] regulatorio que fija antemano esta
+[01:31:25] regla, ¿no?
+[01:31:28] Y bueno, para cerrar el bloque acá
+[01:31:30] tenemos, al igual que hicimos el bloque
+[01:31:32] uno, eh,
+[01:31:34] tenemos
+[01:31:37] como es eh
+[01:31:39] algunos disparadores, eh,
+[01:31:43] nada, eh,
+[01:31:45] en fin,
+[01:31:49] no sé, podemos elegir, qué sé yo, la
+[01:31:50] demanda de diagnóstico. Con la uno,
+[01:31:52] ¿quién qué cambia en el plan de obra si
+[01:31:54] diseñamos para el escenario medio en vez
+[01:31:56] para toda la banda de escenario? Bueno,
+[01:31:59] nada, lo contestamos y elegimos ese
+[01:32:03] contestamos nosotros para diseñar para
+[01:32:05] un escenario medio traslada la mitad eh
+[01:32:09] eh de lo futuro posible eh los que
+[01:32:12] superan la media. Entonces, el riesgo de
+[01:32:14] encontrar eh la red sin margen, tenemos
+[01:32:16] ahí, ¿no? Eh este riesgo convierte se
+[01:32:19] convierte en un debido demanda. eh de
+[01:32:22] indisponibilidad no planificada, por
+[01:32:24] ejemplo. Entonces, diseñar para la banda
+[01:32:26] completa
+[01:32:27] da holgura a la capacidad y en
+[01:32:29] consecuencia
+[01:32:32] eh
+[01:32:33] y en una consecuencia de obra se acelera
+[01:32:36] o posterga según el el escenario se
+[01:32:39] confirma. Así que quizás la puedo hacer
+[01:32:41] por etapas, ¿no? Eh, qué sé yo, no sé.
+[01:32:45] Eh, ¿en qué momento del proyecto debería
+[01:32:48] aparecer el análisis de scifi? ¿Al final
+[01:32:51] como auditoría
+[01:32:52] o desde el primer que vosquejamos la
+[01:32:56] topología de la red? Eh, qué sé yo, como
+[01:32:59] el control es expos.
+[01:33:01] dice que si fallaste de después del
+[01:33:04] periodo de medición ya cerró, entonces
+[01:33:07] la decisión que determin resultado, si
+[01:33:09] si vamos a hacer una red radial versus
+[01:33:11] anillo o instalar reconectadores yadores
+[01:33:15] se toman en el proyecto. A ver, tratar
+[01:33:17] al side como una restricción de entrada
+[01:33:21] eh
+[01:33:23] es la única forma de que el diseño
+[01:33:25] realmente lo condicione, ¿verdad? Eh,
+[01:33:27] bien,
+[01:33:29] ahora vamos a dar paso
+[01:33:31] eh
+[01:33:33] al
+[01:33:35] al último bloque, al bloque tres, que
+[01:33:39] está dedicado a conectar la teoría
+[01:33:40] tarifaria con la decisión concreta de de
+[01:33:42] inversión en las red de distribución en
+[01:33:44] media baja y
+[01:33:48] y bueno, en los bloques anteriores
+[01:33:49] definimos cómo se proyecta y cómo se
+[01:33:50] dimensiona técnicamente la red objetivo
+[01:33:52] o tratamos de hacer eso y en este bloque
+[01:33:55] nos vamos a foojar a la pregunta
+[01:33:56] económico
+[01:33:57] regulatorio fundamental. Bajo qué regla
+[01:33:59] tarifaria una inversión de
+[01:34:00] infraestructura resulta remunerada,
+[01:34:02] financiable y sostenible en el tiempo
+[01:34:08] Bueno, objetivo del bloque entonces dado
+[01:34:11] el régimen tarifario, la calidad, eh ya
+[01:34:14] que se conocen, cómo se decide qué
+[01:34:18] construir, en qué orden y con qué se
+[01:34:21] paga.
+[01:34:23] Eh, bien, ya hemos visto, digamos, los
+[01:34:25] bloques anteriores de esta de de de esta
+[01:34:28] del día de hoy cómo se diseña
+[01:34:31] técnicamente la red y cómo se mide y se
+[01:34:34] sancionan la calidad de servicio. Lo que
+[01:34:36] nos falta cerrar es la pregunta que eh
+[01:34:40] que quedó pendiente es dado que este
+[01:34:42] marco tarifario y de calidad que se
+[01:34:44] conoce, ¿cómo se decide? Es decir, en la
+[01:34:47] práctica que
+[01:34:50] qué obras debo hacer o construir y en
+[01:34:53] qué orden las voy a hacer para poder
+[01:34:56] priorizarlas, ¿no? Eh, y con qué plata
+[01:35:00] la las voy a estar pagando. Esa es la
+[01:35:02] pregunta que vamos a tratar de de
+[01:35:04] responder ahora y no solo es carácter
+[01:35:07] técnico, la construcción de la tarifa y
+[01:35:09] del régimen de calidad que ya se ya es
+[01:35:11] conocido e
+[01:35:14] previamente que lo vimos no solamente en
+[01:35:17] la clase de hoy, sino a lo largo de la
+[01:35:19] diplomatura.
+[01:35:21] Ahora lo vamos a mirar desde el otro
+[01:35:23] lado, desde la decisión real de la
+[01:35:26] inversión. ¿Qué proyectos entran en en
+[01:35:29] mi plan, en lo que yo estoy eh
+[01:35:32] desarrollando, mi plan de inversiones?
+[01:35:33] ¿Con qué financiamiento se sostiene o se
+[01:35:38] apalanca y qué reconocimiento tarifario
+[01:35:43] eh va a tener, o sea, cómo voy a
+[01:35:45] recuperar esa inversión?
+[01:35:48] Eh, como se eh como vemos, organizar
+[01:35:51] esto, todo esto alrededor de lo vamos a
+[01:35:54] hacer alrededor de tres preguntas. las
+[01:35:56] eh guías que es qué construir, con qué
+[01:36:00] se paga y hasta dónde llega. Es decir,
+[01:36:02] qué construir es lo vemos acá en el en
+[01:36:05] el permiso que voy a poner punterito.
+[01:36:09] ¿Dónde está?
+[01:36:11] Eh, puntero acá. ¿Qué construir? Bueno,
+[01:36:15] ¿qué topología de inversión y qué
+[01:36:16] criterios priorizan el proyecto? valor
+[01:36:19] neto de valor nu e el
+[01:36:24] valor nuevo reposición el la TIR, eh
+[01:36:30] el los kil, digamos, el tema de de las
+[01:36:34] penalidades, el SIFI y el Sidi. estuvo
+[01:36:37] un poco de la mano con lo que veníamos
+[01:36:38] hablando recién de los criterios de
+[01:36:40] diseño y y y atados ahora a la
+[01:36:44] priorización que la vamos a ver en unos
+[01:36:46] minutos. Eh, ¿con qué se paga? Bueno,
+[01:36:49] ¿con qué financiamiento?
+[01:36:51] Acá hay que tener en cuenta un montón de
+[01:36:54] de de imponderables o o mejor dicho más
+[01:36:57] que imponderables, variables en las
+[01:36:59] cuales vamos a tener que suponer
+[01:37:01] distintos escenarios en función de la h
+[01:37:05] del margen de de variabilidad que tiene
+[01:37:08] precisamente estos valores, es decir, el
+[01:37:11] riesgo país, el valor al grado de
+[01:37:14] distribución como mecanismo para
+[01:37:16] reconocer la inversión en tarifa. Y
+[01:37:18] hasta dónde llegar es eh señales e
+[01:37:25] eh
+[01:37:27] asequidad y las señales para el el der y
+[01:37:31] la transmisión hacia
+[01:37:34] hacia el DCO. son las la DSO, son la
+[01:37:37] sigla en inglés de la de este nuevo
+[01:37:41] enfoque que tiene el distribuidora, ¿no?
+[01:37:43] de eh de no solamente
+[01:37:46] la la la distribución convencional como
+[01:37:49] la convencional como la conocemos,
+[01:37:51] perdón, sino este rol de gestor de la
+[01:37:53] demanda y de los recursos energéticos
+[01:37:56] renovables, como ya dijimos, la
+[01:37:59] generación distribuida, las vez, la
+[01:38:02] gestión de demanda.
+[01:38:04] O sea, lo que vamos a ver ahora del plan
+[01:38:05] de inversiones, ¿qué es eh realmente
+[01:38:09] concretamente un plan de inversiones en
+[01:38:11] una en una compañía, en una
+[01:38:13] distribuidora? Es decir, el plan de
+[01:38:15] inversiones no es una una mera lista de
+[01:38:19] de obras o deseos así en forma, quiero
+[01:38:22] hacer, me gustaría tener o o o
+[01:38:26] caprichosa. Eh, ni una decisión
+[01:38:29] comercial voluntaria de la empresa
+[01:38:30] distribuidora.
+[01:38:32] Es decir, el plan de inversiones es la
+[01:38:34] materialización jurídica directa de las
+[01:38:37] obligaciones de prestar el servicio
+[01:38:39] público asumiendo asumido en el contrato
+[01:38:42] de concesión eh bajo las leyes que vimos
+[01:38:46] anteriormente, la ley nacional la 2465
+[01:38:49] y la ley provincial 11,769.
+[01:38:53] Las obras se organizan eh en cinco tipos
+[01:38:56] de inversiones, es decir, van a haber eh
+[01:39:02] voces que van a responder a cinco tipos
+[01:39:04] de criterio. Por ejemplo, uno, eh obras
+[01:39:08] de expansión. Esas obras son las típicas
+[01:39:10] obras de expansión o las solemos llamar
+[01:39:12] obras estructurales, que son las que eh
+[01:39:16] por la naturaleza del negocio y del
+[01:39:18] crecimiento continuo de la demanda, hay
+[01:39:21] que hacer obras eh que son, digamos, de
+[01:39:25] base.
+[01:39:26] Eh, dos, por ejemplo, reposición y
+[01:39:28] renovación de activos agotados. Al
+[01:39:30] transcurso del tiempo, nuestros activos,
+[01:39:33] nuestros equipos físicos, nuestro fierro
+[01:39:36] llamado en la jerga, se van eh
+[01:39:39] amortizando y se van degradando los
+[01:39:41] transformadores, interruptores, las
+[01:39:43] líneas y y todos los elementos de la
+[01:39:45] cadena eléctrica se van se van agotando
+[01:39:48] y uno va teniendo un repago de ellos y
+[01:39:50] cada tantos años uno los debe ir
+[01:39:53] reponiendo. Entonces, la segunda voz que
+[01:39:56] vamos a ver es la de reposición o
+[01:39:58] renovación de activo. La tercera voz son
+[01:40:00] obras de calidad y continuidad, es
+[01:40:04] decir, obras que suelen denominarse por
+[01:40:07] calidad de servicio y calidad de
+[01:40:09] producto. ¿Qué significa esto? Dada una
+[01:40:12] porción, por ejemplo, de la red que
+[01:40:14] tengo lo
+[01:40:16] eh la cargabilidad de mis de mis
+[01:40:19] elementos de la red o el estado de de de
+[01:40:22] de carga con respecto a su valor
+[01:40:24] nominal, no son los adecuados. eh las
+[01:40:28] instalaciones no están envejecidas, por
+[01:40:30] ejemplo, este son activos que están
+[01:40:33] dentro del margen de su vida útil,
+[01:40:34] etcétera, etcétera, pero sin embargo
+[01:40:37] tienen malos indicadores de calidad,
+[01:40:38] servicio y producto que pueden deberse a
+[01:40:42] eh necesidad, por ejemplo, de tiempos de
+[01:40:45] reposición muy alto ante una ante una
+[01:40:47] contingencia. Quizás son alimentadores
+[01:40:49] que, como les digo, tienen buen margen
+[01:40:52] de de cargabilidad y tienen los activos
+[01:40:55] buenos, pero quizás son alimentadores
+[01:40:57] muy largos que no tengo, por ejemplo,
+[01:40:59] como hablamos unos minutos atrás, eh los
+[01:41:02] suficientes elementos de maniobras como
+[01:41:04] para seccionar ese alimentador ante una
+[01:41:07] contingencia o ante una falla. Y los
+[01:41:09] índices de calidad eh los tengo muy
+[01:41:12] malos, precisamente porque ante una
+[01:41:13] falla del extremo alimentador saco
+[01:41:15] quizás todo el alimentador. Entonces voy
+[01:41:18] a poner dentro de mi de mis voces de
+[01:41:22] calidad eh precisamente equipamientos de
+[01:41:26] reposición para poder hacer telecomando
+[01:41:29] eh y tele eh maniobra y medición en el
+[01:41:32] alimentador y mejorar los indicadores de
+[01:41:34] calidad. ¿Se entiende?
+[01:41:36] Eh, después tenemos otra que es
+[01:41:38] digitalización eh y Smartgrid, que es
+[01:41:42] precisamente un poco eh
+[01:41:46] también asociado al criterio este de
+[01:41:48] redes inteligentes y y
+[01:41:52] automatizaciones también. Y el quinta
+[01:41:55] voz un poco resiliencia climática, que
+[01:41:58] es lo que acaba de explicar Carlos en el
+[01:42:00] un par de slides anterior. Todas ellas
+[01:42:03] se estructuran en un horizonte
+[01:42:06] plurianual, o sea, eh alineados con los
+[01:42:10] periodos quinquenales de las revisiones
+[01:42:11] tarifarias integrales, lo que conocemos
+[01:42:14] como RTI. Es decir, yo voy a hacer todo
+[01:42:16] un plan que va a abarcar eh toda la
+[01:42:20] gestión. Uno, por ejemplo, arranca una
+[01:42:22] un plan, supongamos eh el ejemplo que
+[01:42:25] hoy se aprueba una tarifa para los
+[01:42:29] próximos 5 años. Okay. Eh, yo eh dentro
+[01:42:35] de 5 años voy a tener otra revisión
+[01:42:37] tarifaria. Bueno, en el transcurso de
+[01:42:38] estos años voy a hacer todo un plan de
+[01:42:42] inversiones de forma tal que a presentar
+[01:42:45] la nueva revisión tarifaria le voy a
+[01:42:47] decir, mira, todos mis costos para el
+[01:42:48] próximo quinqueño que tengo que
+[01:42:51] reconocer en tarifa para obtener la
+[01:42:53] calidad de servicio, calidad de
+[01:42:55] producto, etcétera, etcétera, con lo que
+[01:42:57] vos me vas a regular, incluyen todos
+[01:42:59] estos costos. Entonces, ahí es cuando eh
+[01:43:01] digamos el organismo de de control y de
+[01:43:06] gestión con las distribuidoras negocian
+[01:43:08] el tema de la la tarifa, es decir, cuál
+[01:43:12] es va a ser el costo de la tarifa y en
+[01:43:14] función de eso es lo que yo voy a poder
+[01:43:16] desarrollar de ese plan. Okay.
+[01:43:18] Bien, una cosita, tal cual lo que dice
+[01:43:20] Ariel, pero reforzando una cuestión, eh,
+[01:43:26] supongamos que la distribuora presenta
+[01:43:28] un plan ambicioso, pero espectacular,
+[01:43:30] sin falla, sin fisura. Jamás, más allá
+[01:43:33] que la, resumiendo, la revisión
+[01:43:35] tarifaria es unida y vuelta un tiro de
+[01:43:37] floje. La distora pide 10, la provincia
+[01:43:40] dice, "Le te voy a dar seis." Bueno,
+[01:43:42] terminamos en cinco. Bien. Bueno,
+[01:43:45] al margen de eso, ninguna tarifa,
+[01:43:48] ninguna revisión tarifaria
+[01:43:51] va a pagar para que, no sé cómo decirlo,
+[01:43:53] pero para que tener una red espectacular
+[01:43:56] y que nadie se vea impactado nunca en un
+[01:44:01] alguna cuestión técnica, alguna que
+[01:44:04] afecta la calidad del servicio.
+[01:44:06] Ahí es donde en para determinadas obras
+[01:44:09] para para ser claro en un
+[01:44:13] independientemente que el servicio de
+[01:44:15] distribución en la provincia de Buenos
+[01:44:17] Aires esté concesionado, no deja ser un
+[01:44:18] servicio público. Bien, ahora todos
+[01:44:21] tenemos derecho a tener un buen
+[01:44:23] suministro eléctrico. Supongamos que
+[01:44:25] tenemos una localidad remota que está
+[01:44:26] abastecida, como pasa en muchos lugares
+[01:44:28] en la provincia de Buenos Aires, por un
+[01:44:30] alimentador de media tensión de 13,2 kV
+[01:44:33] de una sección bajísima de 100 km. En el
+[01:44:36] medio abastece la demanda propia de una
+[01:44:38] distribuidora provincial y después hay
+[01:44:39] un bloc de medición y agua abajo sig
+[01:44:42] otros 30 km para
+[01:44:45] para la localidad de la cooperativa
+[01:44:47] abastecida por un distributo municipal.
+[01:44:49] Seguramente la tarifa nunca pague
+[01:44:54] la obra que realmente mejore suministro
+[01:44:56] a esa localidad.
+[01:44:58] Ahí es donde interviene a veces eh o
+[01:45:01] donde debería intervenir el estado, que
+[01:45:03] se hacen una línea de 33 kV con una
+[01:45:05] estación tendit 13 con un transformador
+[01:45:08] regulación automática de tensión y un
+[01:45:09] módulo de potencia acorde al crecimiento
+[01:45:12] de la demanda esperado cercano al al
+[01:45:15] centro de manda de esa localidad. Bien,
+[01:45:17] entonces ahí donde a veces si hay una
+[01:45:20] intervención estatal para determinado
+[01:45:22] tipo de obras. Bien, nada, esa ese esa
+[01:45:26] cuestión.
+[01:45:27] ¿Por qué digamos lo que dice Carlos, por
+[01:45:29] qué aparece el Estado? Y porque el
+[01:45:30] Estado muchas veces tiene que cumplir
+[01:45:32] funciones, digamos, que no son
+[01:45:34] rentables. El Estado no tiene que ser
+[01:45:35] rentable, pero si el Estado tiene que
+[01:45:37] ser eficiente. Tiene que ser las obras
+[01:45:39] quizás para satisfacer esa
+[01:45:43] demanda en ese lugar. Como dijo Carlos,
+[01:45:44] la ninguna tarifa lo va a reconocer
+[01:45:46] porque requeriría un costo muy muy alto.
+[01:45:49] Bueno, ahí es donde está precisamente la
+[01:45:51] función del Estado, eh, hacer obras,
+[01:45:54] pero que con eficiencia. La mejor obra
+[01:45:57] del punto de vista de la eficiencia,
+[01:45:58] quizás no rentable, pero sí eficiente
+[01:46:00] porque tiene que cumplir una función de
+[01:46:03] eh estar presente en todos los los
+[01:46:07] usuarios, o todos los
+[01:46:09] los clientes que va a tener el la
+[01:46:13] provincia. Okay.
+[01:46:15] Eh, y un ejemplo, le traduzco, era era
+[01:46:18] ocho, ¿no? Era cinco, el el donde
+[01:46:21] cortaba la tarifa.
+[01:46:24] Eh,
+[01:46:24] hos una consulta. Ese plan de obras
+[01:46:27] presentado dentro del contrato de
+[01:46:29] concesión para la RTI, ¿qué pasa si en
+[01:46:34] función de ese plan presentado a mí me
+[01:46:35] cambia un poco la demanda en una
+[01:46:37] localidad y yo no había pensado en la
+[01:46:39] expansión de la red, por decir algo, en
+[01:46:41] ese punto? Se puede cambiar. se
+[01:46:43] reconocen esos cambios, ¿eh? O hay que
+[01:46:46] seguir taxativamente el plan presentado
+[01:46:49] quinqueral. Eh,
+[01:46:50] Alisandro, te contesto yo. El el plan de
+[01:46:53] A ver, si la obra no está iniciada,
+[01:46:55] obviamente eh uno puede mandarle al la
+[01:46:58] autoridad de aplicación al regulador,
+[01:47:00] eh, decir, "Che, mira, te voy a cambiar
+[01:47:03] esta obra por esta porque el crecimiento
+[01:47:05] esperado en esta localidad no es este y
+[01:47:06] acá se me dio esto." Ahora la obra que
+[01:47:09] dejo de hacer en ese lugar no debe
+[01:47:10] impactar en la calidad del servicio de
+[01:47:13] de los usuarios de ese lugar y tengo que
+[01:47:16] más allá de la justificación técnica,
+[01:47:18] tengo que cambiar. Si acá iba a poner 10
+[01:47:22] millones de pesos, bueno, esta obra
+[01:47:24] tiene que ser 10 millones más, ¿no? Eh,
+[01:47:27] no sé si te referías a eso, Lisandro,
+[01:47:29] des el punto de vista de de las obras
+[01:47:31] siempre factibles y como dijo Carlos, si
+[01:47:33] no están hechas, poder volver a a
+[01:47:36] sentarse en una mesa de diálogo con el
+[01:47:38] regulador y precisamente decirle, "Mira,
+[01:47:40] tuve una demanda eh apareció una demanda
+[01:47:43] inesperada. Eh, hubo un cambio porque el
+[01:47:46] definir el crecimiento es un e es
+[01:47:49] bastante complejo. Ahora, no sé si te
+[01:47:51] referías a eso o te referías al cambio
+[01:47:54] de la tarifa en el medio, al al
+[01:47:56] No, no, no al cambio de la demanda
+[01:47:58] específica. Eh, dado que a dos a 2 años
+[01:48:01] de haberse aprobado la RTI, te cae una
+[01:48:04] empresa que necesita una mayor demanda
+[01:48:06] dentro de tu contrato de concesión,
+[01:48:10] dentro tu ámbito de concesión y no lo
+[01:48:11] tenías eh programado. Eh,
+[01:48:14] pero el punto de vista de los costos de
+[01:48:16] esa de ese reconocimiento o del punto de
+[01:48:19] vista de la obra. La obra la podés
+[01:48:21] cambiar y muchas veces lo que se hace
+[01:48:23] dependiendo la magnitud de la obra, si
+[01:48:25] es un cliente de de de media atención
+[01:48:29] interesante o quizás ya estamos hablando
+[01:48:30] de de alta atención, muchas veces eh al
+[01:48:34] no estar reconocida en tarifa o algo eh
+[01:48:37] se le pide una contribución al cliente
+[01:48:40] que después vos se la devolvés. Es
+[01:48:41] decir, necesito un financiamiento porque
+[01:48:43] lo que vos me estás eh planteando como
+[01:48:46] nueva demanda me descalza, me está
+[01:48:49] descalzando la tarifa, no tengo fondos
+[01:48:52] para poder hacerlo y no lo puedo
+[01:48:54] afrontar. Entonces, muchas veces eso
+[01:48:56] entra en la negociación con el con el
+[01:48:58] cliente y sí va a entrar seguramente
+[01:49:01] supuesta una vez que ponerle el cliente
+[01:49:03] te pusiste de acuerdo, ¿no? Que s yo en
+[01:49:05] la próxima revisión tarifaria todo eso,
+[01:49:08] eh esa parte de la nueva eh
+[01:49:12] eh red que hiciste va a entrar como
+[01:49:15] nuevo activo para la próxima ventana de
+[01:49:18] revisión tarifaria. ¿Me explico?
+[01:49:20] Sí, sí.
+[01:49:22] No sé si satisface satisfací tu tu
+[01:49:25] pregunta. Satisfaje.
+[01:49:26] Sí, sí, sí.
+[01:49:28] Okay.
+[01:49:31] Eh,
+[01:49:33] okay. Acá tenemos, por ejemplo,
+[01:49:34] clasificación prácticas de inversiones,
+[01:49:37] eh, por ejemplo, la práctica eh y en
+[01:49:41] virtud de lo establecido en las normas
+[01:49:43] de regulatorias eh que vamos a ver
+[01:49:47] adelante. Eh, primero, hoy se clasifica
+[01:49:49] en cada proyecto según dos ejes.
+[01:49:54] El primero es el eje rubro de donde
+[01:49:57] viene la necesidad, el crecimiento de la
+[01:49:58] demanda, la calidad de servicio, la
+[01:50:00] calidad de producto, la seguridad en la
+[01:50:02] vía pública, eh la reposición,
+[01:50:07] eh que son los
+[01:50:10] cuatro que tenemos en esta primera
+[01:50:11] tabla, eh perdón, estos cinco que
+[01:50:13] tenemos la primer tabla, el rubro y en
+[01:50:15] segundo eje la situación si es crítica o
+[01:50:19] no. Eh, por ejemplo, eh, desde el
+[01:50:23] crecimiento, el rubro de crecimiento, si
+[01:50:25] las situaciones y el nuevo suministro
+[01:50:26] crecimiento vegetativo que supera los
+[01:50:29] límites técnicos regulatorios incluyen
+[01:50:31] obras por contribución. un poco lo que
+[01:50:33] acabamos de hablar, Lisandro, y la
+[01:50:35] situación no crítica, si es el
+[01:50:37] crecimiento vegetal atractativo dentro
+[01:50:38] del límite admisible, eh
+[01:50:42] eh es de clase C o D eh discrecional, es
+[01:50:45] decir, si el tipo de crecimiento que yo
+[01:50:47] preví eh preví es un crecimiento, como
+[01:50:50] dijo Carlos, marginal, ya está incluido,
+[01:50:54] ¿se entiende? Conexión de eh los
+[01:50:57] ejemplos típicos conexión de nuevos
+[01:50:59] clientes, extensiones de redes o grandes
+[01:51:01] demandas. A ver, un una cuestión que
+[01:51:03] está medio relacionado con lo que lo que
+[01:51:05] consultó Lisandro hoy. Cuando se hace
+[01:51:07] una revisión tarifaria, vamos al ideal,
+[01:51:09] ¿no?, que
+[01:51:11] eh eh
+[01:51:13] en contexto macroeconómico que acompañe
+[01:51:16] y demás y revisiones tarifarias
+[01:51:18] periódicas y demás.
+[01:51:20] a ser un [carraspeo] servicio público,
+[01:51:22] no la estudad no vende, no es Coca-Cola,
+[01:51:25] pero tiene un margen de ganancia, es un
+[01:51:27] negocio. Entonces, la tarifa reconoce
+[01:51:30] reconoce eh la ganancia de para la
+[01:51:35] compañía y como es un negocio, la
+[01:51:38] compañía debería invertir o debe
+[01:51:41] invertir para poder seguir vendiendo más
+[01:51:43] energía, porque el negocio es vender más
+[01:51:45] energía. ¿Correcto? Bueno, entonces en
+[01:51:47] estas dos tipos de de rubros de
+[01:51:49] clasificación de las inversiones, que
+[01:51:51] son las críticas y la y la no crítica o
+[01:51:53] las mandatorias y la y las
+[01:51:54] discrecionales, supongamos que la
+[01:51:56] distribuidora dice, voy a poner todos
+[01:51:57] medidores inteligentes. Entonces es una
+[01:52:00] eso es una no es crítico, es
+[01:52:02] discrecional, pero poniendo medidores
+[01:52:03] inteligentes,
+[01:52:05] eh la distribuidora optimiza
+[01:52:08] eh costo de de empleado. Eh puede ver a
+[01:52:12] través de un de un de un XIS, ver dónde
+[01:52:14] hay un suministro y dónde mandar la
+[01:52:16] cuadrilla, donde veo todos los puntos
+[01:52:18] roscos. Entonces, reponer,
+[01:52:19] cortar y reponer a bien Ariel. Bueno,
+[01:52:22] hablame arriba mío, eh, cuando un
+[01:52:25] usuario paga o no paga. Entonces eso
+[01:52:28] hace esa inversión no discrecional,
+[01:52:31] eh, no mandatoria, perdón, discrecional
+[01:52:34] no mandatoria hace que la distribuidora
+[01:52:37] optimice su beneficio. Ahora, las que no
+[01:52:39] puede negociar nunca son las
+[01:52:40] mandatorias, las que atienden la calidad
+[01:52:42] de servicio, la seguridad en la vida
+[01:52:44] pública, eh la calidad de producto,
+[01:52:46] porque por eso es donde el regulador lo
+[01:52:47] mide y lo va a penalizar. Bien,
+[01:52:50] otro tema, Lisante, también que vos lo
+[01:52:52] viste desde el punto de vista de la
+[01:52:53] demanda. Muchas veces lo que cambia en
+[01:52:55] el medio de de alguna revisión tarifaria
+[01:52:59] son cuestiones de criterios de de
+[01:53:02] ordenanzas por ahí municipales de de
+[01:53:05] planeamiento urbano. Eh, en el medio de
+[01:53:08] una revisión te dicen, "Bueno, acá antes
+[01:53:09] que tenía línea a el municipio decretó
+[01:53:13] que estas cuadras son patrimonio de la
+[01:53:16] humanidad, no sé, no te dejo hacer más
+[01:53:17] línea aérea. Entonces ahí te descalzó
+[01:53:20] porque vos es como que en el medio te
+[01:53:22] cambió un poco las reglas de juego. Ahí
+[01:53:23] es donde también empezas a tener eh
+[01:53:27] cuestiones de que te desadapta la tarifa
+[01:53:30] de esa zona en cuanto a lo que vos
+[01:53:32] tenías por ahí quizás proyectado o
+[01:53:34] crecer, ¿se entiende? no te deja hacer
+[01:53:36] más aéreo, ahora tiene que hacer
+[01:53:37] subterráneo, con lo cual los costos
+[01:53:39] suben, etcétera, etcétera. Y ahí es
+[01:53:41] donde empieza a ver eh reuniones y
+[01:53:43] negociado del punto de vista de la
+[01:53:45] gestión para ver cómo se hace esa
+[01:53:47] desaptación en en el momento hasta la
+[01:53:50] próxima revisión.
+[01:53:53] Bien.
+[01:53:54] Eh, bien, eh,
+[01:53:57] bien. Clasificación de inversiones,
+[01:53:59] otros también otras rubros, puede ser,
+[01:54:01] por ejemplo, eh, pérdidas en medio
+[01:54:04] ambiente. Vamos a tener también quizás
+[01:54:07] por cuestiones regulatorias eh
+[01:54:09] situaciones de oblig de obligación legal
+[01:54:12] y regulatoria que son mandatorias.
+[01:54:15] Eh,
+[01:54:18] eh
+[01:54:20] y bueno, activo
+[01:54:23] o o de altas indirectas también.
+[01:54:26] Eh, una acotación la la al principio
+[01:54:29] cuando dijo cómo se clasificaban la
+[01:54:30] Mariona, que lo habíamos hecho en cinco
+[01:54:32] voces, que muchas de esas incluyen esta
+[01:54:35] esta apertura es lo que se hace más o
+[01:54:37] menos en la jerga a nivel no solamente
+[01:54:39] nacional, a nivel mundial, en la cómo se
+[01:54:41] clasifican la inversiones, en la
+[01:54:42] distribuidora. Ahora, esta clasificación
+[01:54:44] que vemos acá en dos hojas es la que,
+[01:54:48] bueno, usa Ariel o la que usé yo cuando
+[01:54:50] estaba en el ámbito privado de que
+[01:54:53] generalmente al área de planificación le
+[01:54:55] toca trabajar sobre los planes de
+[01:54:56] inversiones en una parte, pero después
+[01:54:59] generalmente planificación toma centra
+[01:55:03] concentra el resto de la información
+[01:55:05] porque estratégicamente conviene.
+[01:55:08] Y nosotros esta clasificación es lo que
+[01:55:11] nosotros hicimos un momento para
+[01:55:13] clasificar los planes de inversión.
+[01:55:15] Por ejemplo, los no eléctricos. Yo
+[01:55:16] dentro del plan de inversiones voy a
+[01:55:17] tener una voz que es no eléctrico, que
+[01:55:19] precisamente voy a tener que mi flota de
+[01:55:21] vehículos la voy a tener que reponer
+[01:55:23] porque se amortizan y casco
+[01:55:26] o depende de la tasa de amortización que
+[01:55:29] tenga la compañía, voy a que tener que
+[01:55:30] renovar mis camionetas para ir a a hacer
+[01:55:34] mis maniobras al pueblo de al lado o o
+[01:55:37] mandarlo a tal o cual dirección. los
+[01:55:39] hardware, los software, los de cálculo y
+[01:55:42] también el equipamiento eléctrico,
+[01:55:45] digamos, y el equipamiento no eléctrico
+[01:55:47] que necesito yo para que la compañía
+[01:55:49] funcione. Mi sistema de facturación, mis
+[01:55:52] temas comerciales, mis sistemas
+[01:55:53] técnicos, etcétera, etcétera, edificios.
+[01:55:56] Todo esto también entra dentro del plan
+[01:55:58] de inversiones porque hacen a la
+[01:56:00] composición de gastos o de de de insumos
+[01:56:05] que tengo para poder gestionar mi
+[01:56:06] compañía. ¿Okay?
+[01:56:11] priorización de proyectos.
+[01:56:14] Bien, bueno, acá retomo un poquito yo.
+[01:56:17] Eh, ya sabemos lo que acabo de de
+[01:56:21] comentar Alier recién, tratar de
+[01:56:23] explicar lo que nosotros eh cómo
+[01:56:27] se clasifican los tipos de inversión.
+[01:56:30] Ahora, dentro de la cartera eh de
+[01:56:32] inversiones discrecionales, podemos
+[01:56:35] para decidir qué proyecto va primero en
+[01:56:38] la práctica. Hablo las discrecionales
+[01:56:40] porque como dijimos las la las
+[01:56:42] mandatorias no hay no hay tutiva, hay
+[01:56:44] que hacerlas. Entonces, eh, ¿cómo
+[01:56:48] priorizo yo los proyectos
+[01:56:49] discrecionales? La planificación,
+[01:56:52] en la práctica, la planificación utiliza
+[01:56:54] tres criterios eh que se leen en
+[01:56:56] paralelo, no compiten entre sí. El
+[01:56:59] primero es
+[01:57:01] el valor actual neto o el o el valor
+[01:57:04] presente neto, son sinónimos. Eh,
+[01:57:06] después está la TIR, que es la tasa
+[01:57:08] interna de retorno, que miden la
+[01:57:10] rentabilidad financiera del proyecto y
+[01:57:13] se aplica naturalmente a proyecto de
+[01:57:14] expansión, eh, que generalmente
+[01:57:18] genera un ingreso identificable
+[01:57:21] eh como el B de una nueva conexión, por
+[01:57:23] ejemplo. El segundo es el costo de los
+[01:57:26] kilow kilowti obrah, es decir, la
+[01:57:28] energía no servida,
+[01:57:30] eh, que mide cuánta confiabilidad
+[01:57:33] compramos por cada peso invertido y
+[01:57:36] corresponde generalmente a proyectos de
+[01:57:38] calidad y continuidad del suministro. Y
+[01:57:40] el tercero es el impacto que tienen los
+[01:57:42] indicadores IFISID, que son los mismos
+[01:57:45] indicadores que ya vimos como métrica de
+[01:57:47] sanciones, ¿no? En en otros módulos
+[01:57:50] previo a lo que dimos nosotros, que hoy
+[01:57:53] lo usamos desde el otro lado del
+[01:57:55] mostrador, no para saber si hay que
+[01:57:57] sancionar, sino nosotros del punto de
+[01:57:59] vista de para decidir qué proyecto
+[01:58:02] ejecutar primero con el cuando tenemos
+[01:58:04] un presupuesto limitado. Entonces, estas
+[01:58:05] tres métricas son las que nos vamos a
+[01:58:09] utilizar en paralelo frente a una
+[01:58:12] cartera de proyecto con una restricción
+[01:58:16] presupuestaria. Entonces, bueno, hay que
+[01:58:17] tomar una una toma de decisión y bueno,
+[01:58:19] combinamos esto, estas tres métricas.
+[01:58:22] Eh,
+[01:58:24] en lo en lo personal, cuando trabajaba
+[01:58:27] en el ámbito privado, cuando definíamos
+[01:58:28] los planes de inversiones, después
+[01:58:30] íbamos con el gerente a sentarnos con
+[01:58:33] con el gerente general de la compañía de
+[01:58:35] decir, "Che, mira, esto es lo que el
+[01:58:37] plan de inmersiones." Entonces, siempre
+[01:58:38] estaba la pelea histórica entre los
+[01:58:40] técnicos y y los financieros. Bueno,
+[01:58:43] nosotros queremos hacer todo esto y y
+[01:58:46] bueno, el que está parado arriba de la
+[01:58:49] caja y que tiene sabe otras variables
+[01:58:51] que los técnicos a veces desconocemos
+[01:58:53] que son las del negocio de la compañía.
+[01:58:55] Eh, entonces, bueno, presupuesto, yo
+[01:58:57] quiero 1000, no, 800. Entonces, bueno,
+[01:59:00] nada. Y ahí va internamente también la
+[01:59:02] compañía negociada y vos tenés que
+[01:59:03] tratar de explicar, che, pero mira, si
+[01:59:05] dejo hacer esta, el problema es este, no
+[01:59:07] me importa. Bueno, listo. Bien, entonces
+[01:59:10] para priorizar en resumen,
+[01:59:13] dentro de la cartera de inversiones
+[01:59:15] discrecionales, tenemos estas tres voces
+[01:59:17] o estos tres, estas tres métricas. Bien,
+[01:59:21] vamos ahora a meternos en lo que
+[01:59:22] nosotros en el slide anterior,
+[01:59:24] supongamos que priorizamos un
+[01:59:26] determinado proyecto de de la del
+[01:59:29] listado que teníamos para hacer. Ahora,
+[01:59:32] ¿cómo lo vamos a pagar? Entonces, las
+[01:59:34] fuentes
+[01:59:36] son las conocidas y que también vieron
+[01:59:38] en otro entendemos por por la
+[01:59:41] por el temario que han visto en otros
+[01:59:44] módulos, es la la deuda, emisión de
+[01:59:46] bono, capital propio de la compañía y
+[01:59:49] línea de préstamo con organismos
+[01:59:51] multilaterales.
+[01:59:53] En el contexto macroeconómico del país,
+[01:59:55] como ya dijimos, el costo de capital y
+[01:59:58] el riesgo de país no son un dato, un
+[02:00:00] mero dato de contexto del país, de los
+[02:00:02] que escuchamos en la radio, en la
+[02:00:03] televisión.
+[02:00:05] En Argentina, tanto el costo de capital
+[02:00:08] como el riego país condicionan
+[02:00:10] directamente qué es parte del plan de
+[02:00:12] inversión vamos a financiar con el
+[02:00:14] mercado propio y qué queda supeditado a
+[02:00:17] que el regulador lo reconozca en tarifo
+[02:00:19] o que aparezca un fondo específico
+[02:00:20] determinado. Algún subsidio, alguna otra
+[02:00:23] cuestión. Bien, entonces en la historia
+[02:00:25] reciente hemos visto que hay se han dado
+[02:00:30] escenario de un alto riesgo país.
+[02:00:31] Entonces,
+[02:00:33] dentro de ese escenario
+[02:00:36] de riego país eh hace que la que que
+[02:00:41] está metido dentro de la fórmula del WAC
+[02:00:43] eh puede duplicar, triplicar la tasa de
+[02:00:47] descuento con la que nosotros valamos un
+[02:00:48] proyecto.
+[02:00:50] y un proyecto que es rentable con una
+[02:00:52] tasa, por ejemplo, del 10%, deja de
+[02:00:54] serlo con una tasa
+[02:00:57] del 25%. Entonces, por eso el regoí no
+[02:01:00] es una cuestión contextual, es una
+[02:01:02] variable que en la práctica decide qué
+[02:01:05] vamos a construir y qué no vamos a
+[02:01:06] construir, ¿no?
+[02:01:09] Ahora vamos a llegar al por ya se medio
+[02:01:13] cerrando a un punto flexión en este
+[02:01:15] último bloque. Acá tenemos que decidir
+[02:01:18] qué construir y cómo lo vamos a
+[02:01:20] financiar. Entonces, la pregunta que
+[02:01:22] sigue,
+[02:01:24] el plan que priorizamos es financial en
+[02:01:27] en términos lo que acabamos escribir de
+[02:01:28] escribir anteriormente y la respuesta
+[02:01:31] necesariamente pasa por el valor actual
+[02:01:33] de distribución, eh el reconocimiento de
+[02:01:36] obras o de inversiones, perdón, en
+[02:01:39] expansión, reposición, calidad de
+[02:01:41] servicio y producto, digitalización, se
+[02:01:44] hace dentro del marco de la revisión
+[02:01:45] tarifaria integral, que es la que fija
+[02:01:47] el B.
+[02:01:49] el mismo mecanismo tarifario que ya
+[02:01:50] vieron otros módulos, pero ahora también
+[02:01:53] mirado el lado de no cómo se calcula el
+[02:01:55] Bad, sino qué proyecto entra en ese
+[02:01:57] cálculo y cuál queda fuera.
+[02:02:00] Eh,
+[02:02:02] como podemos ver en acá en la filmina,
+[02:02:06] la RTI es el mecanismo, el BAT es lo que
+[02:02:09] reconoce en tarifa, lo que priorizamos,
+[02:02:11] ¿no? Lo que priorizó el planificador de
+[02:02:13] de la distribuidora.
+[02:02:16] Eh, y respecto a la reforma del año 2025
+[02:02:20] 26, eh, vamos a hacer una aclaración en
+[02:02:24] el live siguiente para que no se generen
+[02:02:25] confusiones.
+[02:02:28] en la reforma reciente de a nivel
+[02:02:30] nacional
+[02:02:32] del Ministerio de Economía, las 715 y la
+[02:02:36] resolución 311 del 2025, la 83 del 2026,
+[02:02:40] el decreto 921 2025
+[02:02:44] eh del Estado nacional regula
+[02:02:47] exclusivamente lo que es el sistema de
+[02:02:48] transporte de energía eléctrica, es
+[02:02:49] decir, el sistema de alta tensión de 500
+[02:02:51] kg operant por Transener y el
+[02:02:54] distribución Troncal por las siete
+[02:02:55] distro, trava tranea.
+[02:02:57] eh Tranoa, distrocullo, eh las distro a
+[02:03:01] nivel troncal del país que operan y
+[02:03:04] mantienen en su área de concesión las
+[02:03:05] instalaciones 13220.
+[02:03:08] Bajo ningún punto de vista
+[02:03:10] eh toca la distribución local eh de cada
+[02:03:14] de cada área de concesión
+[02:03:17] eh públicoprivada en la red de media
+[02:03:19] atensión y baja tensión.
+[02:03:22] El mecanismo de esa reforma es distinto.
+[02:03:24] Eh, para transporte las obras de
+[02:03:26] ampliación se hacen bajo concesión
+[02:03:27] pública y y se remunera una tarifa de
+[02:03:32] ampliación de transporte que camesa
+[02:03:33] recauda a los usuarios beneficiarios con
+[02:03:36] un cargo pastrulo pasa sin pasamano y no
+[02:03:39] queda un margen para nadie de ganancia.
+[02:03:42] Bien, esa es la aclaración que queremos
+[02:03:45] hacer para porque una no las reformas no
+[02:03:48] tocan, no tiene nada que ver con el B de
+[02:03:49] distribución.
+[02:03:52] Y acá tenemos un cuadrito que, bueno,
+[02:03:54] resume
+[02:03:56] resume lo que lo que comentamos en
+[02:03:59] varias de los anteriores. Eh, nada, lo
+[02:04:01] dejo ahí para para que lo tengan. No lo
+[02:04:05] voy a estar leyendo. No no no voy a
+[02:04:07] hacer ningún aporte adicional. La la
+[02:04:11] única diferencia relevante eh
+[02:04:15] y e importante es la naturaleza
+[02:04:17] económica. El es el margen propio de la
+[02:04:19] distribuidora con una tasa de
+[02:04:20] rentabilidad sobre su activo y la tarifa
+[02:04:23] de ampliación de transporte es un pastrú
+[02:04:25] que no le cambia el margen ni la tasa de
+[02:04:27] retorno a nadie. Bien,
+[02:04:31] vamos a meter un poquito a
+[02:04:34] a las preguntas que hizo hicimos al
+[02:04:36] inicio cuando arrancó el bloque Ariel,
+[02:04:38] este bloque, este último bloque, el
+[02:04:40] tres, eh, ¿hasta dónde llega la tarifa?
+[02:04:44] Eh, el B, el valor actual de
+[02:04:46] distribución reconocen la inversión,
+[02:04:48] pero bueno, eso no resuelve cómo se
+[02:04:50] recupera en el tiempo.
+[02:04:53] Eh, hay mecanismo de amortización, plazo
+[02:04:55] de recupero,
+[02:04:57] esquema de indexación que ustedes vieron
+[02:04:59] en abstracto en módulo de clases previas
+[02:05:02] y que ahora lo lo aplicamos una decisión
+[02:05:04] concreta.
+[02:05:06] Eh, a ver, financiar adecuadamente las
+[02:05:08] redes tira la tarifa para arriba,
+[02:05:12] la asequibilidad para el usuario tira la
+[02:05:14] tarifa para abajo, en el medio entran
+[02:05:15] los subsidios y los mecanismos de
+[02:05:17] protección para los usuarios
+[02:05:18] vulnerables. Bien, esta misma lógica
+[02:05:21] asignación de costo que vimos
+[02:05:23] anteriormente con el debate de si es
+[02:05:25] deep o es shallow en el bloque dos es lo
+[02:05:28] que usamos para decir dónde conviene
+[02:05:31] ubicar una nueva carga o un nuevo
+[02:05:33] genero. la señal económica que le
+[02:05:35] mandamos a quien se quiere conectar en
+[02:05:37] una red débil versus una red robusta.
+[02:05:39] Bien.
+[02:05:43] Y acá vamos eh
+[02:05:46] medio cerrando eh hacia
+[02:05:51] al al punto que deslizamos un poquito
+[02:05:55] deladamente,
+[02:05:57] eh, porque en el marco argentino actual
+[02:06:00] es una discusión prospectiva y no es una
+[02:06:02] obligación regulatoria.
+[02:06:04] que el distribuidor tradicional está
+[02:06:06] evolucionando hasta un a un rol de
+[02:06:09] operador de sistema de distribución en
+[02:06:10] las siglas de SO que contemple una
+[02:06:13] generación activa de la generación
+[02:06:15] distribuida y de la flexibilidad de
+[02:06:16] demanda, no solo no solamente los
+[02:06:18] activos de red pasivo. Entonces, acá
+[02:06:20] aparecen actores nuevos, que son los
+[02:06:24] actores emergentes, actores eh que son
+[02:06:28] los que se conoce como agregadores de
+[02:06:29] demanda, que sería una empresa que junta
+[02:06:32] la capacidad que tiene muchos usuarios
+[02:06:34] chicos o demandas chicas, integra
+[02:06:37] baterías domiciliarias, generación
+[02:06:38] solar, carga flexible y los ofrece al
+[02:06:42] sistema como si fuera una planta grande,
+[02:06:45] una planta de generación grande. Después
+[02:06:47] tenemos
+[02:06:49] la las comunidades energéticas, un
+[02:06:51] grupo, por ejemplo, de usuario, un
+[02:06:52] consorcio, un barrio cerrado o una
+[02:06:54] cooperativa X que
+[02:06:57] no una cooperativa eléctrica, me
+[02:06:58] refiero, es un un conjunto de usuarios y
+[02:07:01] demás que se forma una cooperativa que
+[02:07:03] comparten generación distribuida y
+[02:07:08] que eso está pasa cada vez más hoy y a
+[02:07:10] su vez tienen integradas baterías para
+[02:07:12] el autoconsumo
+[02:07:14] eh donde ahí las baterías es un activo
+[02:07:17] que me permite guardar el excedente
+[02:07:20] solar a la tarde y usarlo a la noche en
+[02:07:22] lugar y en lugar de volcarlo a la red. Y
+[02:07:24] después tenemos las microrredes con
+[02:07:26] teniendo en cuenta el concepto anterior
+[02:07:29] de la red no aislada en forma eh de la
+[02:07:32] red no aislada eh que es una porción de
+[02:07:35] la red que puede operar conectada al
+[02:07:36] sistema o aislada, pero que está
+[02:07:38] prevista para esto, ¿no? Con los
+[02:07:40] automatismos, protecciones y demás.
+[02:07:45] Eh, pero bueno, no hay un esquema de
+[02:07:47] remendación claro hoy para para esta
+[02:07:51] estos actores emergentes en muchos
+[02:07:53] casos, eh,
+[02:07:56] porque hoy la regulación está pensada
+[02:07:57] para un distribuidor pasivo y bueno,
+[02:07:59] está migrando a la regulación para
+[02:08:00] adaptarse a este ro activo que que es lo
+[02:08:03] que se viene.
+[02:08:06] Y bueno, para cerrar el círculo,
+[02:08:11] la priorización técnica, el
+[02:08:12] financiamiento y riesgo país, el
+[02:08:14] recorriamiento tarifario a través del
+[02:08:16] BAD y la asequibilidad para los usuarios
+[02:08:19] son cuatro piezas que juntas
+[02:08:22] realmente deciden lo que lo que se va a
+[02:08:24] construir en la red. De este último
+[02:08:26] bloque hay que llevarse, ¿no? Tenemos
+[02:08:29] que llevar grabadas dos cosas.
+[02:08:31] Primero que el B distribución quedó
+[02:08:33] completamente ajeno a esta reforma que
+[02:08:35] hablamos del transporte de 2026, 2025,
+[02:08:38] 2026. Son mecanismos distintos con
+[02:08:40] reguladores distintos.
+[02:08:42] Y segundo, el rol del operador de
+[02:08:43] sistema de distribución, el DSO, que es
+[02:08:45] la ejecución que se viene, que no la
+[02:08:47] vamos a resolver hoy, pero es lo que se
+[02:08:49] viene para las distribuidoras y con eso
+[02:08:51] arrancamos. Y bueno, le voy a dar el
+[02:08:52] paso a Ariel para que para que cierre.
+[02:08:57] Eh, no, una de las cuestiones, digamos,
+[02:09:00] fundamentales cuando cuando vemos un
+[02:09:02] plan de inversión en función de de las
+[02:09:04] preguntas que fueron subyaciendo a lo
+[02:09:06] largo de de estas dos clases, es que eh
+[02:09:11] uno cuando
+[02:09:13] analiza o ve un plan de inversiones de
+[02:09:15] de un tercero, eh hay que tener cuidado
+[02:09:19] porque uno lo que está viendo es una
+[02:09:20] foto de una película. Entonces, muchas
+[02:09:23] veces uno dice, "Y, pero ¿por qué
+[02:09:24] hicieron tal o cual obra o tal o cual eh
+[02:09:28] inversión o algo?" Muchas veces eh hay
+[02:09:31] que ver cuál fue el contexto de partida
+[02:09:34] en el cual eh eh se realizó ese plan.
+[02:09:40] Como como vimos, puede ese plan ir
+[02:09:43] sufriendo modificaciones a lo largo del
+[02:09:45] tiempo por múltiples variables, demanda,
+[02:09:48] eh riesgo país, eh problemas o o cambios
+[02:09:52] económicos dentro del de del país,
+[02:09:56] regulatoria,
+[02:09:57] eh cambios eh como dijimos, de
+[02:09:59] planificación quizás municipales o
+[02:10:02] provinciales que cambian el contexto.
+[02:10:04] Entonces, hay que tener mucho cuidado
+[02:10:06] cuando uno a veces prejuzga o o opina
+[02:10:11] sobre ciertas cuestiones sacadas de un
+[02:10:15] contexto del momento en el cual fueron
+[02:10:17] realizadas. Okay. Bueno, no sé si hay
+[02:10:21] alguna pregunta al respecto. Vamos a
+[02:10:23] prender la cámara ahora que si se corta
+[02:10:26] ya ya no hay problema cosas nos avisan y
+[02:10:28] repetimos, pero no queríamos por el tema
+[02:10:30] de del momento de realizar la
+[02:10:33] presentación que se nos vaya eh haciendo
+[02:10:35] intermitente el tema de de la pantalla.
+[02:10:39] Eh, desde ya muchas gracias y bueno,
+[02:10:42] estamos abiertos a cualquier pregunta o
+[02:10:44] consulta al respecto.
+[02:10:52] Eh,
+[02:10:55] ¿alguna consulta, alguna pregunta que
+[02:10:57] alguno quiera hacer, comentario.
+[02:11:05] Bueno, Ariel, Carlos, muchísimas gracias
+[02:11:08] por la clase. Estuvo clarísimo, eh,
+[02:11:11] [resoplido]
+[02:11:12] y muy bueno. Ahí está, hay varios
+[02:11:15] aplausos dando vueltas.
+[02:11:16] Bueno, esperamos [carraspeo] estar a la
+[02:11:18] altura, eh, haber estado a la altura,
+[02:11:21] perdón. Eh, obviamente no solamente con
+[02:11:24] con estas dos clases que en que nos tocó
+[02:11:26] participar, sino también entiendo que
+[02:11:28] con varios de los docentes que conozco
+[02:11:30] que han dado otros módulos, cada módulo
+[02:11:32] y dentro de cada módulo quizás de hecho
+[02:11:34] acá un bloque de de esta clase es un
+[02:11:37] mundo en en muchos aspectos. Esto es eh
+[02:11:41] es así. Esto es más informativo que
+[02:11:43] formativo para los que tenemos la
+[02:11:45] carrera de grado o en lo personal, todo
+[02:11:47] lo que yo he hecho posgrado más trás es
+[02:11:49] más informativo. Uno después se apropia
+[02:11:51] de determinadas cuestiones y de acuerdo
+[02:11:53] a la tesis o lo que ha hecho se mete de
+[02:11:55] lleno y ahí desarrolla. Eh, en el rubro
+[02:11:59] nuestro energético es muy amplio, es muy
+[02:12:03] amplio, es muy amplio, es lindo, pero
+[02:12:05] muy amplio. Y bueno, eh tratamos de
+[02:12:08] barrer,
+[02:12:09] eh como dijimos, eh tratamos de hacerlo
+[02:12:13] mejor con nuestra herramienta técnica y
+[02:12:16] bueno, y sí quedará abierto para el caso
+[02:12:18] de alguno de los muchachos eh pretendía
+[02:12:22] alguna cuestión más técnica que más nos
+[02:12:23] pertí si bien tenemos conocimiento
+[02:12:25] regulatorio, nosotros estamos a
+[02:12:27] disposición de del líder, la
+[02:12:28] subsecretaría, del Freeva, siempre
+[02:12:32] trabajamos mucho en el ámbito, nos gusta
+[02:12:35] mucho.
+[02:12:36] Eh,
+[02:12:38] el yo nada tanto la de la la
+[02:12:42] distribuidora provinciales como las 200
+[02:12:44] cooperativas eléctricas de la provincia
+[02:12:46] que que son la mitad del motor de la
+[02:12:49] provincia. Es un engranaje muy fuerte.
+[02:12:53] Eh, y bueno, nada, eh, un placer para
+[02:12:56] mí.
+[02:12:57] Desde ya gracias por la convocatoria y a
+[02:13:00] todos. audio queda abierta y a
+[02:13:03] disposición. Lisandro, el correo nuestro
+[02:13:05] por cualquier cuestión que tenga que ver
+[02:13:07] con esto o si tienen alguna
+[02:13:10] alguna duda, alguna necesidad o algo que
+[02:13:13] podamos compartir del punto de vista
+[02:13:14] laboral. Si les surge algún problema
+[02:13:16] técnico
+[02:13:18] o referente, siéntanse libre de de
+[02:13:21] escribir y intercambiar tanto va a ser
+[02:13:24] bidireccional. Quizás nosotros
+[02:13:26] necesitamos algo de ustedes en algún
+[02:13:28] momento, pero digo, me refiero si tienen
+[02:13:30] alguna necesidad técnica eh que podamos
+[02:13:33] darle una mano, eh, siéntanse libre de
+[02:13:36] escribir esto. Mucho de esto se basa y
+[02:13:39] un poco el e es este último slide, las
+[02:13:42] palabras de Rifaldi en que estemos,
+[02:13:44] digamos, la solidaridad entre todos, el
+[02:13:46] conocimiento es lo que no nos va a
+[02:13:48] ayudar a a salir adelante como país y a
+[02:13:51] mejorar. los amigos cooperativistas
+[02:13:54] lo entienden más que nada. Y bueno, yo
+[02:13:56] por haber estado trabajando mucho tiempo
+[02:13:58] con en el FREBA, a pesar de que me
+[02:14:00] desarrollé en Edén,
+[02:14:03] eh tuvimos mucho vínculo y tengo muchos
+[02:14:05] amigos en el sector, la verdad, amigos
+[02:14:07] en serio, el sector cooperativista, así
+[02:14:09] que hemos mamado un poco esa
+[02:14:14] impronta.
+[02:14:17] Bien. Bueno, muchísimas gracias, sobre
+[02:14:19] todo por la generosidad tanto de Ariel
+[02:14:21] como Carlos, porque de la forma que se
+[02:14:24] han abierto al conocimiento y nos han
+[02:14:27] compartido eh esto que es verdad lo que
+[02:14:30] dicen, es un mundo en cada uno de los
+[02:14:32] módulos que estábamos viendo y lo han
+[02:14:34] podido resumir de tal manera que que lo
+[02:14:36] podamos ser comprensible, por lo menos
+[02:14:38] para mí, que que no vengo de la parte
+[02:14:40] técnica, eh me fue comprensible. Así que
+[02:14:44] eh muchas gracias.
+[02:14:47] Bien.
+[02:14:48] Bueno,
+[02:14:49] bueno, nos vemos el próximo jueves. van
+[02:14:51] a mandar un glosario, así que aviso que
+[02:14:54] sí. Ah, perdón, vamos a mandar, bueno,
+[02:14:56] ya se lo comentamos el inicio de la
+[02:14:58] clase, Alisandro, tanto la clase
+[02:15:00] anterior como esta que aparecen algunas
+[02:15:03] algunas siglas, muchas son traídas de de
+[02:15:06] la jerga del inglés y demás, vamos a
+[02:15:08] agregar unos slides con con el
+[02:15:10] significado de cada una también para que
+[02:15:11] les quede de de guía, por si no lo
+[02:15:14] pudieron apuntar
+[02:15:16] más que nada, porque por ahí para unos
+[02:15:17] son cuestiones rutinarias, pero para
+[02:15:19] otros no. y quizás lo leen esto de acá
+[02:15:21] un tiempo y ni se acuerdan lo que
+[02:15:23] significa cada una de las siglas,
+[02:15:24] entonces que le queden el mismo la misma
+[02:15:27] presentación, un glosario y la
+[02:15:28] presentación.
+[02:15:31] Bueno, gracias nuevamente,
+[02:15:34] nos vemos el próximo juas.
+[02:15:36] Muchas gracias.
+[02:15:38] Chao. Gracias.
+[02:15:40] Chao. Gracias.
+[02:15:42] Gracias.

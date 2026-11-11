@@ -1,0 +1,4011 @@
+[00:00:22] Buen día a todos. Vamos arrancando
+[00:00:26] porque si no no le vamos a dejar tiempo
+[00:00:29] a Marcelo y a Emiliano para para darnos
+[00:00:33] todo lo que tienen preparado para hoy.
+[00:00:36] Bueno, e ya los había presentado el otro
+[00:00:39] día, son dos ingenieros de camesa,
+[00:00:42] Marcelo Báñez es gerente de atención
+[00:00:44] agentes, una mini mini mínima
+[00:00:46] presentación o recordatorio de lo que ya
+[00:00:47] dijimos el otro día y Emiliano Marinosi
+[00:00:50] está en la oficina de procesos y mejora
+[00:00:52] continua.
+[00:00:53] Así que bueno, Marcelo, directamente ya
+[00:00:57] arrancamos.
+[00:00:58] Bárbaro. Gracias. Eh, buen día para
+[00:01:01] todos.
+[00:01:02] Eh, antes que nada queremos agradecer a
+[00:01:04] la a la Universidad Nacional, a la
+[00:01:07] Universidad Tecnológica Nacional por
+[00:01:09] darnos este espacio. Para nosotros es
+[00:01:11] muy importante poder interactuar con
+[00:01:13] todos ustedes y de alguna forma e dar a
+[00:01:17] conocer el funcionamiento general del
+[00:01:19] mercado y en particular hoy de los
+[00:01:22] contratos en el mercado término, ¿sí?
+[00:01:24] Que vienen un poco asociados a la
+[00:01:26] implementación de la nueva normativa que
+[00:01:28] es la resolución 400 de la Secretaría de
+[00:01:30] Energía.
+[00:01:32] Por favor, interrumpan todas las veces
+[00:01:33] que crean necesario. Las consultas no
+[00:01:35] molestan, todo lo contrario, son
+[00:01:37] bienvenidas para hacer un poco más
+[00:01:38] dinámica la interacción entre todos. Sí.
+[00:01:42] Bueno, rápidamente vamos a abarcar estos
+[00:01:44] este puntos hoy. Primero vamos a hablar
+[00:01:46] de los aspectos generales del mercado
+[00:01:48] término, pero ya un poco desde la
+[00:01:50] historia del inicio del mercado, ¿sí? y
+[00:01:52] los conceptos que se mantienen a través
+[00:01:54] del tiempo. Luego de las modificaciones
+[00:01:56] que aparecieron con la la nueva
+[00:01:58] normativa,
+[00:02:00] vamos a repasar rápidamente algo que
+[00:02:02] Marcos un poco ya explicó en en la
+[00:02:04] última clase, eh, cuál es la oferta y la
+[00:02:06] demanda que es posible de contratarse,
+[00:02:10] ¿sí?, a través de los mercados de
+[00:02:11] energía y de potencia,
+[00:02:13] cuáles son las principales
+[00:02:14] características de estos contratos y eh
+[00:02:17] una herramienta que nosotros tenemos
+[00:02:19] implementada para que toda la
+[00:02:21] interacción de los contratos sea a
+[00:02:23] través de un portal, ¿sí?, Sí, de
+[00:02:25] internet en el cual actúan las
+[00:02:28] contrapartes de de forma directa y no
+[00:02:30] hay ninguna intervención de camesa en el
+[00:02:32] medio. Sí, es un es un portal para que
+[00:02:34] puedan interactuar eh libremente.
+[00:02:38] Bueno, vamos a ir a los aspectos
+[00:02:40] generales del marcado término. Sí. Eh,
+[00:02:44] tenemos dos tipos de contratos que son
+[00:02:46] totalmente independientes entre sí, los
+[00:02:48] contratos de energía y los contratos de
+[00:02:50] potencia. los contratos de energía eh se
+[00:02:54] todos los contratos son de un plazo
+[00:02:56] mínimo de un año. ¿Sí? Entonces, de
+[00:02:58] alguna forma, los contratos de energía
+[00:03:00] lo que buscan es establecer un precio
+[00:03:02] fijo o estabilizar el precio en un
+[00:03:04] periodo de tiempo eh para que de alguna
+[00:03:07] forma se sepa de antemano eh con qué
+[00:03:10] valores se van a contar para el,
+[00:03:14] digamos, para que lo tengan en cuenta en
+[00:03:16] la producción de de cualquier bien o
+[00:03:18] servicio. Y en el caso de los contratos
+[00:03:21] de potencia, lo que se busca es una
+[00:03:23] garantía eh de abastecimiento
+[00:03:27] adicional a las que ya tiene el sistema
+[00:03:29] eh ante algún inconveniente que pueda
+[00:03:31] haber eh
+[00:03:33] restricción de suministro. ¿Sí? ¿Hay
+[00:03:36] alguna analogía importante entre
+[00:03:40] los contactos? Se pueden hacer con
+[00:03:41] cualquier generador que se encuentra en
+[00:03:43] cualquier parte del país, ¿sí? No, no
+[00:03:44] tiene que haber una trazabilidad física
+[00:03:47] entre el un generador y el demandante.
+[00:03:50] Pueden estar en cualquier parte del
+[00:03:51] país. El caso de los contratos de
+[00:03:53] potencia,
+[00:03:55] sí hay una una de alguna forma una
+[00:03:59] importancia en conseguir eh hacer un
+[00:04:02] contrato con un generador que esté cerca
+[00:04:03] de la demanda, porque ante restricciones
+[00:04:06] lo que vamos a hacer nosotros, ojalá no
+[00:04:08] ocurra, es ver si realmente hay un
+[00:04:10] vínculo físico entre la demanda y el
+[00:04:12] generador para poder garantizar el
+[00:04:14] suministro ante esas situaciones tan
+[00:04:16] complicadas. Sí.
+[00:04:19] Algo que es muy importante es que los
+[00:04:20] contratos en el marcado término
+[00:04:23] no pueden afectar ni el despacho
+[00:04:25] económico, o sea, los contratos.
+[00:04:28] Un contrato realizado no implica
+[00:04:30] despacho. Sí, el despacho del de la
+[00:04:33] generación se sigue haciendo de la misma
+[00:04:36] forma. Siempre
+[00:04:38] hay algún micrófono abierto por ahí que
+[00:04:41] a ver, ahí está.
+[00:04:44] E el despacho económico se sigue
+[00:04:47] haciendo siempre de la misma forma. Sí,
+[00:04:49] los contratos son solamente un tema
+[00:04:51] administrativo. O sea, una vez que se
+[00:04:54] hace todo el despacho, a mes vencido, se
+[00:04:56] analizan qué contratos hay. Sí, no tiene
+[00:04:58] nada que ver físicamente una cosa con la
+[00:05:00] otra.
+[00:05:02] Otra cosa muy importante es que los los
+[00:05:05] contratos que se realicen no pueden eh
+[00:05:08] modificar o alterar de alguna forma la
+[00:05:11] formación del precio spot. Sí. Con el
+[00:05:14] despacho de la generación,
+[00:05:16] con el mínimo costo y todo lo que ya
+[00:05:17] explicó Marco en la última clase, se
+[00:05:20] determina un precio spot, ¿sí? Y ese
+[00:05:22] precio spot termina siendo el resultante
+[00:05:24] entre
+[00:05:26] la remuneración que perciben los
+[00:05:27] generadores hora por hora, ¿sí?, con
+[00:05:29] mecanismo de costo marginal, con las
+[00:05:31] limitaciones de renta y todo como
+[00:05:32] explicó Marcos, pero descontando todos
+[00:05:35] los contratos de que se que se realicen.
+[00:05:37] ¿Sí? Entonces, de alguna forma el precio
+[00:05:40] spot está atado al mecanismo de
+[00:05:42] contractualización
+[00:05:44] porque obviamente a medida que se van
+[00:05:45] contractualizando las máquinas más
+[00:05:47] económicas,
+[00:05:48] eh lo que va quedando para la formación
+[00:05:50] del precio son las máquinas por ahí que
+[00:05:52] tienen un costo mayor. Entonces, hay un
+[00:05:55] impacto directo entre la conformación de
+[00:05:56] contratos en el mercado termino y la
+[00:05:58] conformación del precio spot. Entonces,
+[00:06:00] no pueden estar atados de alguna forma
+[00:06:05] de forma tal que la conformación del
+[00:06:07] precio spot quede restringida a la
+[00:06:10] formalización de un contrato o no.
+[00:06:14] Bueno, ¿quiénes son los vendedores de
+[00:06:16] estos contratos? Son los generadores,
+[00:06:19] eh, que puede ser cogeneración,
+[00:06:21] autogeneración,
+[00:06:22] eh, de las de la cantidad de tecnología
+[00:06:25] que se les ocurra. Sí. Eh, los
+[00:06:27] autogeneradores solamente pueden vender,
+[00:06:29] obviamente, sus excedentes y aparece una
+[00:06:32] figura que es muy relevante ahora en el
+[00:06:33] mercado. No sé si ya han tomado
+[00:06:35] contactos con ellos, pero están
+[00:06:37] apareciendo muchos comercializadores.
+[00:06:39] Sí, los comercializadores
+[00:06:41] no son un agente formal del mercado
+[00:06:43] eléctrico mayorista, son participantes,
+[00:06:45] ¿sí? que lo que hacen de alguna forma es
+[00:06:49] eh tradear entre la generación y la
+[00:06:51] demanda, pero no brindan ningún tipo de
+[00:06:55] respaldo. Sí, son todos por cuenta y
+[00:06:57] orden. Esto quiere decir que cuando se
+[00:06:59] le compra un comercializador, lo que se
+[00:07:01] está haciendo este es comprarle a un
+[00:07:04] generador directamente. Ahora vamos a
+[00:07:05] ver algún ejemplo, pero es una figura
+[00:07:07] que acerca a las partes, pero no es
+[00:07:10] brinda ese servicio, ¿sí? y acercar a
+[00:07:11] las partes, no más que eso. Los
+[00:07:14] compradores, bueno, pueden ser los
+[00:07:16] distribuidores, que es la gran figura
+[00:07:18] que aparece mayoritariamente con la
+[00:07:20] resolución 400. Antes estaban impedidos
+[00:07:23] realizar contratos, salvo los contratos
+[00:07:25] de energía renovable. Sí. Los grandes
+[00:07:28] usuarios que ya venían este
+[00:07:32] teniendo contrato de energía y potencia
+[00:07:33] a través de la resolución 1281 que
+[00:07:36] apareció allá por el 2006.
+[00:07:38] Bueno, los autogeneradores cuando están
+[00:07:40] en la función de demandante, que acá y
+[00:07:42] para hacer alguna aclaración, sí, el
+[00:07:44] autogenerador
+[00:07:47] cuando es térmico, nosotros no
+[00:07:49] analizamos hora a hora. Sí, en una hora
+[00:07:51] definimos tres tipos de estadíos para un
+[00:07:53] autogeneror. Puede tener excedentes y
+[00:07:56] estar vendiendo al mercado o a un
+[00:07:58] contrato. Sí, puede estar demandando
+[00:08:00] energía a un contrato o al mercado
+[00:08:03] mayorista o puede estar en una condición
+[00:08:05] indistinta, ¿sí? Que está como si fuese
+[00:08:07] aislado. Entonces, en función de de esa
+[00:08:09] posición tienen excedentes o
+[00:08:12] demandantes. Cuando es un autogenero
+[00:08:14] renovable este análisis no es horario,
+[00:08:16] sino que es mensual.
+[00:08:22] Bueno, para terminar con los aspectos
+[00:08:23] generales, el plazo mínimo de
+[00:08:24] contratación es un año.
+[00:08:26] Eh, algo que que tiene muy importante el
+[00:08:28] mercado eléctrico en general y que
+[00:08:30] después lo va a mostrar Emiliano en la
+[00:08:32] segunda parte de la presentación,
+[00:08:34] toda la información de los contratos de
+[00:08:36] totalmente y público conocimiento para
+[00:08:38] todos los los que son agentes del
+[00:08:40] mercado. Sí.
+[00:08:42] Eh, una estación de servicio que tienen
+[00:08:44] frente a estación de servicio puede
+[00:08:46] conocer si es que tienen contrato los
+[00:08:48] dos, a qué precio eh comprar la energía,
+[00:08:52] compra la potencia, qué plazo de
+[00:08:54] contratación tiene, con quién tiene el
+[00:08:56] suministro. O sea, todo es totalmente
+[00:08:59] libre y público y todo el mundo puede
+[00:09:02] conocer la información eh de todos los
+[00:09:04] contratos que estarán en el mercado,
+[00:09:06] sacar sus propias conclusiones, hacer
+[00:09:07] los análisis que entiendan necesarios.
+[00:09:10] Eh, algo que es muy importante también
+[00:09:14] es el tema de cómo se va modificando en
+[00:09:16] el tiempo. Si los contratos
+[00:09:19] de alguna forma se están viabilizando
+[00:09:21] muy bien en lo que tiene que ver con los
+[00:09:23] grandes usuarios. Sí. Y con los
+[00:09:25] distribuidores van ya vamos a ver que
+[00:09:28] hay un montón ya realizados, pero eh los
+[00:09:31] generadores como que están buscando una
+[00:09:33] forma de cubrirse ante eventuales
+[00:09:35] riesgos de pago, ¿sí?, en el suministro.
+[00:09:37] Entonces, algo que es muy importante que
+[00:09:39] tengan presente es que las resisiones de
+[00:09:41] los contratos sí se pueden efectivizar
+[00:09:44] eh a partir del primer día hábil de la
+[00:09:46] notificación de un generador, por
+[00:09:48] ejemplo, cuando informa que hay un
+[00:09:49] incumplimiento en el pago de suministro.
+[00:09:51] Sí, eso algo importante que lo tengan
+[00:09:53] presente.
+[00:09:55] Yendo más a los aspectos que introdujo
+[00:09:57] la la nueva normativa,
+[00:10:00] definió claramente eh dos mercados. Sí,
+[00:10:03] previo a esto teníamos los contratos de
+[00:10:06] energía renovable, que son solamente de
+[00:10:08] energía, que son muy similares a lo que
+[00:10:10] tenemos ahora e que nosotros definimos
+[00:10:13] como mate, ¿sí? y el mercado de potencia
+[00:10:17] que de alguna forma estaba incluido
+[00:10:19] dentro de los contratos de energía plus
+[00:10:21] que venían funcionando del 2007 para
+[00:10:23] adelante.
+[00:10:25] Entonces tenemos los contratos de
+[00:10:26] energía y de potencia, dos mercados
+[00:10:28] totalmente independientes.
+[00:10:30] La normativa define, establece como
+[00:10:33] generación nueva, esto ya lo vimos en la
+[00:10:35] clase anterior, que todo el ingreso de
+[00:10:37] equipamiento que que se realiza a partir
+[00:10:40] del primero de enero del 2025 es
+[00:10:42] generación nueva y por ende va a tener
+[00:10:44] la renta completa y y algunas otras
+[00:10:47] ventajas más. Sí, no va a tener ninguna
+[00:10:48] limitación para contratar.
+[00:10:51] E con esta normativa también y en verdad
+[00:10:54] un poco después, a partir de abril, eh
+[00:10:57] salió una resolución de la Secretaría de
+[00:10:58] Energía que otorga una flexibilidad que
+[00:11:02] nunca tuvimos en el mercado mayorista.
+[00:11:04] E antes la presentación y la
+[00:11:07] modificación de los contratos era
+[00:11:09] trimestralmente y se había que hacer los
+[00:11:11] 45 días antes del inicio de cada
+[00:11:13] trimestre. Esto está de una forma atado
+[00:11:15] a la eh programación estacional que
+[00:11:18] realizamos nosotros, que vemos 6 meses
+[00:11:19] para adelante y hacemos una
+[00:11:21] reprogramación 3 meses para adelante.
+[00:11:22] Sí. Ahora, con el dinamismo que está
+[00:11:25] tomando el mercado,
+[00:11:27] la presentación de los contratos se
+[00:11:29] puede hacer hasta 5 días antes del
+[00:11:30] inicio de cada mes. O sea, todos los
+[00:11:32] meses se pueden presentar contratos
+[00:11:34] nuevos, se pueden modificar, se pueden
+[00:11:36] cancelar, se puede modificar una parte o
+[00:11:38] todo el contrato. Sí. Y todos los meses
+[00:11:40] lo pueden hacer.
+[00:11:43] Bueno, algo muy importante también que
+[00:11:45] se estableció con la nueva normativa
+[00:11:48] eh es que las las nuevas demandas que
+[00:11:51] tengan más del 0,5% de la demanda media
+[00:11:54] del MEM, eso hoy más o menos son 80 MW,
+[00:11:57] ¿sí? y que se conecten directamente al
+[00:11:59] sistema de transporte, van a tener que
+[00:12:02] conseguir el abastecimiento de al menos
+[00:12:04] del 80% de su consumo estimado energía y
+[00:12:07] el a través de un contrato mate, por
+[00:12:09] ejemplo, y el respaldo físico de al
+[00:12:12] menos del 80% de su consumo de potencia,
+[00:12:15] que esto puede hacerlo con generación
+[00:12:17] existente ya en el mercado, pero entre
+[00:12:19] alguna restricción no va a tener el
+[00:12:21] respaldo de esa máquina, ¿sí? O sea, va
+[00:12:23] a tener restricciones a su suministro o
+[00:12:26] con nueva generación, con potencia
+[00:12:28] firme, que eso sí le va a dar el
+[00:12:31] respaldo. Esto está apuntado básicamente
+[00:12:33] a la demanda de criptomonedas, que
+[00:12:35] ustedes saben que se instala muy rápido
+[00:12:38] y tiene una demanda muy importante. Sí,
+[00:12:40] en el mundo está pasando y sobre todo la
+[00:12:43] demanda de minería, que están
+[00:12:45] apareciendo muchos proyectos que se
+[00:12:47] están viendo este beneficiados por el
+[00:12:50] Ri, ¿sí? y y están ingresando demandas
+[00:12:52] del orden de 400 MW, 250. Son todos
+[00:12:55] proyectos todavía, sí, pero 400 MW, 200
+[00:12:58] MW son proyectos que están apareciendo
+[00:13:02] en el norte del país. Entonces, apunta
+[00:13:04] un poco a eso. Sí. Si viene una demanda
+[00:13:06] que es extratendencial, que va a venir a
+[00:13:08] cambiar de forma drástica el
+[00:13:10] abastecimiento de un área específica,
+[00:13:13] bueno, tiene que venir acompañado de un
+[00:13:14] abastecimiento.
+[00:13:16] E
+[00:13:18] y bueno, algo que es importante, como
+[00:13:19] mencionaba antes, los distribuidores
+[00:13:21] solo podían hacer contratos para sus
+[00:13:24] goodies.
+[00:13:26] a través de del matter, el programa
+[00:13:28] matter, que es el programa de de
+[00:13:29] abastecimiento de energía renovable para
+[00:13:31] cumplir con con los objetivos de la ley.
+[00:13:34] Eh, esto ahora se se amplió y ahora los
+[00:13:37] distribuidores pueden hacer contrato por
+[00:13:39] toda la generación que por toda su
+[00:13:41] demanda, perdón, que no tiene asignada
+[00:13:44] la energía y la potencia de la
+[00:13:46] generación asignada que habló Marcos la
+[00:13:48] otra vez. Si recuerdan rápidamente la
+[00:13:50] demanda de un distribuidor la podemos
+[00:13:52] partir en tres cosas. la demanda
+[00:13:54] residencial, el resto de la demanda que
+[00:13:56] tiene el precio estacional y la demanda
+[00:13:58] de subjudiz. ¿Sí? Entonces, los
+[00:14:00] distribuidores hoy pueden contratar la
+[00:14:03] la demanda de la generación asignada que
+[00:14:05] tienen todos los distribuidores. Es
+[00:14:06] aproximadamente el 75% de toda su
+[00:14:09] demanda que cubre toda la demanda
+[00:14:11] residencial y un poquito del resto de la
+[00:14:12] demanda. Todo el resto de la demanda
+[00:14:15] puede ser contractualizada.
+[00:14:20] Vamos un poco a contar.
+[00:14:23] eh con quién pueden hacer contratos y
+[00:14:26] qué restricciones tienen en cada uno de
+[00:14:28] los casos. Sí,
+[00:14:31] la generación térmica está dividida en
+[00:14:33] dos, en aquella que se habilitó
+[00:14:35] posterior al 20 al primero de enero del
+[00:14:37] 2025 y la que se habilitó antes, que
+[00:14:39] nosotros decimos generación vieja. La
+[00:14:41] generación vieja
+[00:14:44] puede contratar el 100% de su energía.
+[00:14:46] Estamos hablando siempre de contratos de
+[00:14:48] energía en este momento, ¿sí? con
+[00:14:50] distribuidores
+[00:14:52] para abastecer la demanda
+[00:14:53] estacionalizada no cubierta. ¿Qué sería
+[00:14:55] eso? Cuando hablamos de los tres
+[00:14:57] pedacitos, sería la diferencia entre
+[00:15:00] toda la demanda estacionalizada que
+[00:15:02] cruce la residencial y la comercial,
+[00:15:04] menos lo que cubren la generación
+[00:15:06] asignada. Ese saldito se puede contratar
+[00:15:10] 100% con cualquier generación térmica
+[00:15:12] histórica del sistema.
+[00:15:14] eh y pueden comercializar el 20%
+[00:15:18] eh con grandes usuarios, tanto del
+[00:15:20] mercado mayorista como del distribuidor.
+[00:15:23] Para el caso de una generación nueva que
+[00:15:25] viene y se instala, invierte y quiere
+[00:15:27] hacer contratos eh para apalancar la
+[00:15:29] inversión, pueden hacer contratos sin
+[00:15:32] ningún tipo de restricción.
+[00:15:37] Para el caso de la generación
+[00:15:39] hidroeléctrica,
+[00:15:40] la dividimos en dos partes. En
+[00:15:42] generación hidroeléctrica que tiene
+[00:15:43] concesiones otorgadas por por las
+[00:15:46] provincias y e generación hidroeléctrica
+[00:15:50] que tiene concesión nacional. En el caso
+[00:15:52] de la generación que tiene concesión
+[00:15:55] provincial, pueden abastecer el 100% con
+[00:15:59] el 100% de su energía a los
+[00:16:01] distribuidores para la demanda
+[00:16:02] estacionalizada no cubierta y para sus
+[00:16:04] grandes usuarios y el 20% con los
+[00:16:07] grandes usuarios del mercado. En el caso
+[00:16:09] de la nacional
+[00:16:11] no se les permite eh abastecer el 100%
+[00:16:14] de los goodies, ¿sí? y se les ponen en
+[00:16:16] el mismo escalón que los grandes
+[00:16:17] usuarios del mercado.
+[00:16:21] Ahora vamos a ver que ya hay casos, hay
+[00:16:23] casos eh donde hay alguna simbiosis
+[00:16:25] entre la generación provincial, caso
+[00:16:27] Córdoba, eh San Juan, eh Rí Negro, donde
+[00:16:31] hay generación hidráulica provincial que
+[00:16:34] de alguna forma se contrata con el
+[00:16:35] distribuidor del área y para aprovechar
+[00:16:39] este esta opción. Sí,
+[00:16:43] en el caso de la generación renovable.
+[00:16:45] Bueno, ya venía este funcionando sin
+[00:16:47] ningún inconveniente. Recuerden que para
+[00:16:49] que nosotros podamos considerar que un
+[00:16:51] generador sea renovable debe estar
+[00:16:52] inscrito en el remper, que es un trámite
+[00:16:54] que se hace en la Secretaría de Energía.
+[00:16:56] Sí. Y ellos pueden comercializar el 100%
+[00:17:00] con distribuidores para toda su demanda
+[00:17:01] y para todos los grandes usuarios. No
+[00:17:03] tiene ninguna restricción de
+[00:17:04] contratación. Toda la demanda
+[00:17:05] contratable que está definida la
+[00:17:07] normativa puede ser contractualizada con
+[00:17:10] generación renovable.
+[00:17:15] Bueno, vamos a hablar un poco e
+[00:17:19] de lo que un poco lo que pueden ir
+[00:17:21] haciendo, se pueden ir haciendo en los
+[00:17:23] contratos mate de energía. Como decía
+[00:17:26] recién, los contratos, los compradores
+[00:17:28] pueden contratualizar todo lo que está
+[00:17:29] en el spot, ¿sí? Con las restricciones
+[00:17:31] que que comentábamos recién.
+[00:17:35] El funcionamiento eh del conmercado de
+[00:17:37] energía, si ustedes recuerdan en el
+[00:17:40] pasado
+[00:17:41] estaba los contratos estaban basados en
+[00:17:43] valores horarios. Sí. Cada hora que un
+[00:17:46] generador generaba una energía o tenía
+[00:17:49] disponible una potencia, esa era la
+[00:17:51] energía que se contractualizaba. En esa
+[00:17:53] hora se analizaba la oferta y la
+[00:17:56] demanda, o sea, se miraba cuánta energía
+[00:17:58] generaba en esa hora, qué potencia
+[00:18:00] disponible tenía el generador y qué
+[00:18:03] energía demandaba en esa misma hora su
+[00:18:06] demanda, la demanda contractualizada y
+[00:18:08] qué potencia tenía y se hacía un
+[00:18:10] análisis horario. Era un mercado
+[00:18:12] horario. ¿Sí? Ahora el mercado es
+[00:18:14] mensual, ya el matter ya incorporaba
+[00:18:17] esta metodología.
+[00:18:19] Nosotros esperamos que transcurra el
+[00:18:21] mes. Sí, se hace una cuenta en donde se
+[00:18:24] mensualiza esa energía que generó el
+[00:18:26] generador y se mensualiza la demanda y
+[00:18:28] después hace un neteo, neteo final que
+[00:18:32] es simplemente una resta entre dos
+[00:18:33] conceptos. Después vamos a ver la
+[00:18:35] complejidad que esto tiene, pero no se
+[00:18:37] hace más un análisis horario como era
+[00:18:39] históricamente en el mercado.
+[00:18:43] Bueno, la normativa establece que todas
+[00:18:44] las condiciones que se pacten entre el
+[00:18:46] comprador y el vendedor son totalmente
+[00:18:48] libres en cuanto a plazo, tipo de
+[00:18:50] combustible, precios,
+[00:18:52] eh cobertura, resisión, todo es libre,
+[00:18:56] siempre y cuando sea administrable por
+[00:18:58] camisa. Sí,
+[00:19:00] la verdad que los generadores tienen
+[00:19:02] mucha mucha capacidad de dimensión. Eh,
+[00:19:05] hay muchas metodologías que se van
+[00:19:07] estableciendo de agrupamientos, de
+[00:19:09] conjuntos, de reglas, de contratos entre
+[00:19:13] generadores antes, contratos de
+[00:19:14] generadores de saldos. eh se va
+[00:19:17] generando una un mercado que es bastante
+[00:19:18] complejo, pero siempre tratamos de
+[00:19:20] respetar lo que lo que de alguna forma
+[00:19:24] acuerdan las partes. Sí, recuerden que a
+[00:19:26] nosotros la información que no llega es
+[00:19:27] una información resumida de un del
+[00:19:29] contrato que hacen entre las partes.
+[00:19:32] Nosotros no tenemos el contrato original
+[00:19:34] que firman las dos partes, que eso es
+[00:19:36] otro documento que se gestiona por
+[00:19:38] afuera. A nosotros nos tienen que hacer
+[00:19:40] una declaración básica para que podamos
+[00:19:42] administrar ese contrato y con esa
+[00:19:44] información básica nosotros lo
+[00:19:47] administramos en nuestras transacciones
+[00:19:48] económicas y devolvemos los resultados
+[00:19:50] de cada uno de esos contratos, tanto en
+[00:19:51] cantidades como en como en precio. ¿Sí?
+[00:19:56] Eh, los vendedores que son los dueños de
+[00:19:59] la energía de alguna forma establecen
+[00:20:02] cómo van a asignar la energía entre
+[00:20:05] todos los contratos que tienen. Ahora yo
+[00:20:06] les voy a mostrar un ejemplo un poco
+[00:20:08] para que lo puedan visualizar en un caso
+[00:20:10] extremo complejo, para que puedan
+[00:20:12] entender todas las posibilidades que
+[00:20:14] tienen.
+[00:20:16] Entonces, los generadores dicen, "Bueno,
+[00:20:18] yo, por ejemplo, voy a vender la mayor
+[00:20:20] cantidad de mi energía, que es la
+[00:20:22] energía más firme, que es la que
+[00:20:23] supuestamente tiene una obligación de
+[00:20:25] entrega del lado del generador y y una
+[00:20:28] obligación de compra del lado de la
+[00:20:30] demanda en la prioridad uno, que es la
+[00:20:31] prioridad principal. Ahí voy a vender
+[00:20:34] todos mis contratos que yo quiero
+[00:20:36] abastecer de forma segura todos los
+[00:20:37] meses. Después voy derramando en las
+[00:20:40] prioridades siguientes, que la prioridad
+[00:20:41] dos y tres, todos aquellos saldos que no
+[00:20:43] se fueron, que no fue tomando toda la
+[00:20:46] demanda de mis prioridades. Uno, ¿sí?
+[00:20:48] Entonces, hay un mecanismo de derrame en
+[00:20:50] el cual en la prioridad uno se
+[00:20:51] establecen todos los contratos que el
+[00:20:53] generador quiera abastecer firmemente y
+[00:20:55] después va poniendo las prioridades
+[00:20:56] subsiguientes aquellos contratos que son
+[00:20:58] más de oportunidad, ¿no? Mercado de
+[00:21:00] saldos si se quiere.
+[00:21:03] En el caso de la demanda, ¿no? En el
+[00:21:04] caso de la demanda tiene que definir
+[00:21:06] perfectamente
+[00:21:08] eh si tiene eh más de un contrato, a qué
+[00:21:11] contrato le va a comprar primero, ¿sí?
+[00:21:13] ¿Cuál le va a comprar segundo? Y no se
+[00:21:14] puede repetir esa prioridad.
+[00:21:20] ¿Cómo funciona la finalmente la
+[00:21:23] transacción de un de un generador, de un
+[00:21:25] vendedor? Bueno, ahora ahora el sistema
+[00:21:28] calcula cuál es la remuneración spot de
+[00:21:30] la máquina que genera. sin mirar los
+[00:21:32] contratos, ¿sí? Haciendo de cuenta que
+[00:21:34] no existen los contratos. Eso termina
+[00:21:36] siendo a fin de mes un valor medio,
+[00:21:40] ¿sí?, de energía generada y precio.
+[00:21:42] Recuerden que la renta marginal y el
+[00:21:43] precio spot se definen forma horaria.
+[00:21:46] Sí, todo eso se se saca un valor medio
+[00:21:50] tanto de energía como de como una
+[00:21:53] valorización de esa energía y lo que se
+[00:21:55] hace es descontarle efectivamente la
+[00:21:58] energía. Sí. eh que se entregó en el
+[00:22:02] mercado término y el saldo es lo que se
+[00:22:05] le termina remunerando en concepto de
+[00:22:07] energía spot a ese generador. Lo que no
+[00:22:09] vendieron en el mercado término se lo
+[00:22:10] termina remunerando el mercado spot con
+[00:22:12] esa lógica.
+[00:22:14] Para el caso del comprador es es
+[00:22:16] exactamente con la misma lógica. Sí. Eh,
+[00:22:20] una demanda tiene una energía que a fin
+[00:22:21] de mes
+[00:22:23] valorizar el precio spot eh tiene un
+[00:22:26] valor y se le descuentan los contratos.
+[00:22:29] Entonces, lo que no le termina
+[00:22:30] abasteciendo el contrato en energía, se
+[00:22:32] lo termina abasteciendo al mercado
+[00:22:33] mayorista a través de el precio spot.
+[00:22:37] Bueno, este es un caso extremo. Sí,
+[00:22:41] nosotros quisimos mostrarles enero, que
+[00:22:44] es todavía un mes donde vamos a tener
+[00:22:46] contratos plus, contratos matter y
+[00:22:48] contratos nuevos en el marco de la
+[00:22:49] resolución 400. Este es el caso de una
+[00:22:52] minera. Sí, acá les voy a contar un poco
+[00:22:55] qué es lo que están viendo.
+[00:22:58] Eh, están viendo, bueno, el Nemo es el
+[00:23:00] código de identificación que tenemos
+[00:23:01] nosotros para para los generadores.
+[00:23:05] Una devenida de descripción, van a ver
+[00:23:07] que hay algunas eh que son en general
+[00:23:09] conceptos
+[00:23:11] eh macro. Si bien hay alguno que está
+[00:23:13] definido como una unidad única, como un
+[00:23:14] generador, como por ejemplo este parque
+[00:23:16] eólico Rapson 3, que es una es un parque
+[00:23:18] eólico
+[00:23:20] en el caso general, como por ejemplo
+[00:23:21] parque eólicos de Pampa, probablemente
+[00:23:24] probablemente no, seguro acá dentro eh
+[00:23:27] puede haber cinco o seis parques
+[00:23:28] eólicos. Sí, los generadores
+[00:23:31] conforman un conjunto generador que
+[00:23:32] llamamos nosotros en el cual incorporan
+[00:23:35] la energía de más de una de más de un
+[00:23:38] parque que tienen. Pueden mezclar
+[00:23:39] generación térmica con generación
+[00:23:41] eólica, pero hacen un conjunto generador
+[00:23:44] donde termina siendo una bolsa de
+[00:23:46] energía. Sí, como esto se valoriza en
+[00:23:48] forma mensual, hacen una bolsa de
+[00:23:50] energía y con toda esa bolsa de energía
+[00:23:53] abastecen todos sus contratos. Sí.
+[00:23:57] También aparecen agentes
+[00:23:58] comercializadores, los que les
+[00:24:00] mencionaba antes. Sí. En este caso, por
+[00:24:01] ejemplo, la comercializadora que tiene
+[00:24:03] central puerto le está comprando la
+[00:24:06] energía a Shell. Bueno, esta es la
+[00:24:08] definición de la máquina para
+[00:24:09] entregárselo a la minera. Esta sí.
+[00:24:14] Después del lado de prioridades, como
+[00:24:16] les mencionaba, estas son las
+[00:24:17] prioridades del generador.
+[00:24:19] Fíjense que van, tenemos hasta número
+[00:24:21] seis.
+[00:24:22] Las prioridades uno, ¿sí? son las que de
+[00:24:26] alguna forma
+[00:24:29] cuando yo estoy del lado del del lado
+[00:24:30] del que compra me aseguro de que me va a
+[00:24:33] entregar primero mí antes que nadie
+[00:24:34] porque son los contratos que tienen más
+[00:24:36] prioridad, son los contratos más firmes.
+[00:24:38] Sí, a medida que la prioridad va
+[00:24:39] creciendo, tanto en dos como en tres,
+[00:24:42] como en cinco o seis, ya ahí tengo que
+[00:24:45] tener presente que son de saldo, ¿sí? O
+[00:24:48] sea, que me van a entregar energía a mí,
+[00:24:50] pero solamente si no abastecieron todos
+[00:24:52] los contratos que están antes. Ahora
+[00:24:54] después vamos a entender cómo es la
+[00:24:56] lógica de asignación de estos de de la
+[00:24:58] energía. ¿Sí? Después están las
+[00:25:00] prioridades establecidas por la demanda
+[00:25:02] que como dije no se pueden repetir. Acá
+[00:25:04] sí van a ver que hay dos tipos de que
+[00:25:06] están repetidas. Pero, ¿por qué?
+[00:25:09] Porque los estos tipos de contratos que
+[00:25:11] dicen base y excedente son contratos
+[00:25:14] plus. Si ustedes recuerdan eh
+[00:25:18] en en, o sea,
+[00:25:20] van a ver que dice Matrix, me decir, me
+[00:25:22] dijiste que era un contrato plus. Está
+[00:25:23] bien. Lo que pasa que como estaba
+[00:25:25] existiendo, como estaban coexistiendo al
+[00:25:28] mismo tiempo los contratos plus y los
+[00:25:30] contratos renovables, teníamos que
+[00:25:32] diferenciar las dos tipos de demanda. Si
+[00:25:34] ustedes recuerdan, no quiero meterme
+[00:25:36] mucho en esto porque ya es parte del
+[00:25:37] pasado, pero la resolución, la
+[00:25:40] metodología de contratos plus establecía
+[00:25:42] dos tipos de demanda para los grandes
+[00:25:43] usuarios. se sacaba una foto de la
+[00:25:45] demanda del año 2025. Esa era la demanda
+[00:25:48] base y todo lo que crecía la demanda a
+[00:25:50] partir de ahí la llamamos demanda
+[00:25:52] excedente.
+[00:25:54] Entonces, los contratos plus solo se
+[00:25:56] podían hacer con la demanda excedente,
+[00:25:57] no con la demanda base de un de un
+[00:26:00] usuario, de un demandante.
+[00:26:02] Entonces, acá
+[00:26:04] había que de alguna forma indicarle al
+[00:26:06] sistema a dónde iba a ir primero la
+[00:26:09] energía. O sea, en este caso, primero la
+[00:26:12] energía renovable de IPF tenía que ir a
+[00:26:14] la demanda base de este de esta minera y
+[00:26:17] después tiene que ir al excedente porque
+[00:26:18] está en competencia con el plus que va
+[00:26:20] solo al excedente. Si yo no le dijera al
+[00:26:22] sistema a dónde tiene que ir primero la
+[00:26:24] energía, el sistema no podría elegir
+[00:26:26] entre qué tipo de demanda le tenía que
+[00:26:28] dar. Pero bueno, de todas formas, ven
+[00:26:30] acá que no se repite. Sí, va de 1 hasta
+[00:26:32] 14.
+[00:26:34] Este este cliente hizo 14 contratos para
+[00:26:37] abastecerse en el mes de enero
+[00:26:41] y acá se muestran los plazos. Sí,
+[00:26:43] fíjense que hay plazos de 4 años, hay
+[00:26:45] plazos de 10 años, ¿sí? Eh, la verdad
+[00:26:48] que hay mucha variación de plazos, pero
+[00:26:51] por lo general
+[00:26:54] mientras más plazos es el contrato,
+[00:26:56] obviamente mejor es el precio y las
+[00:26:58] condiciones. Sí. En el mercado hay
+[00:27:01] contratos de mínimo un año, pero también
+[00:27:03] tenemos de 20, ¿sí? O sea, eh, y diría
+[00:27:07] que que hay de mucho de cinco y mucho de
+[00:27:10] 10.
+[00:27:12] Esto aparece mucho con los grandes
+[00:27:13] usuarios que necesitan de alguna forma
+[00:27:15] establecer un precio de energía a través
+[00:27:18] del tiempo, obviamente para que no le
+[00:27:20] vayan aumentando sus costos de
+[00:27:21] producción. Entonces, una eh está muy
+[00:27:24] atado a todas las empresas
+[00:27:25] multinacionales, ¿sí? Que necesitan por
+[00:27:29] restricciones de la casa matriz fijar
+[00:27:31] precios. Hay muchos bancos, minería
+[00:27:35] e
+[00:27:37] de lo que se les ocurra. tenemos desde
+[00:27:39] supermercados, caden supermercado,
+[00:27:41] bueno, todos necesitan ir estableciendo
+[00:27:44] un precio fijo, entonces salen del
+[00:27:46] mecanismo de del precio spot, que el
+[00:27:47] precio spot, como ustedes saben, tiene
+[00:27:49] un precio mensual que es más económico
+[00:27:52] en verano y en primavera y es más
+[00:27:54] costoso en invierno porque la
+[00:27:57] utilización de los combustibles líquidos
+[00:27:58] de GNL, básicamente. Entonces, con esto
+[00:28:01] estabilizan el precio, lo fijan, lo
+[00:28:03] pueden fijar en dólares, lo pueden fijar
+[00:28:05] en pesos, pueden utilizar el como
+[00:28:08] referencia al precio de energía en el
+[00:28:09] mercado menos un descuento, ¿sí? Pero se
+[00:28:12] van haciendo distintos mecanismos de
+[00:28:13] contratación.
+[00:28:15] Entonces,
+[00:28:16] algo también que es muy importante para
+[00:28:18] tener presente es que los contratos,
+[00:28:20] como cualquier tipo de contratos, se
+[00:28:21] respetan y no se pueden romper.
+[00:28:24] Entonces, los contratos que se realizan
+[00:28:25] con un de un generador, con un
+[00:28:27] demandante,
+[00:28:28] no pueden, salvo por un acuerdo entre
+[00:28:30] las partes, digamos, no pueden
+[00:28:31] rescindirse ni aballar
+[00:28:35] abasallarse. Sí.
+[00:28:38] Entonces, la resolución 400 tiene como
+[00:28:41] una condición inicial, un paquete muy
+[00:28:44] importante de contratos de que ya
+[00:28:46] estaban vigentes, los contratos matter y
+[00:28:48] los contratos de energía plus. Y esos
+[00:28:51] contratos Mat Energía Plus ya tenían
+[00:28:53] definidas para la para la demanda
+[00:28:57] e prioridades de compra, ¿sí? O sea,
+[00:29:02] como ven acá la prioridad uno de compra
+[00:29:04] de IPF con su con energía renovable, la
+[00:29:07] dos también
+[00:29:09] los contratos del Cañadón y la Rioja
+[00:29:11] también son de energía renovable Geneia,
+[00:29:13] Pampa, todo energía renovable
+[00:29:16] hasta que apareció Costanera.
+[00:29:18] hasta que apareció Costanera en el
+[00:29:19] número nueve y se coló en el medio, sí,
+[00:29:23] de de otros contratos renovables que
+[00:29:24] venían después. También apareció Ryen,
+[00:29:27] que es una máquina térmica, donde se se
+[00:29:29] metió en el puesto 12.
+[00:29:32] Entonces, ¿qué sucede? Como ya había
+[00:29:33] convivencia de los contratos
+[00:29:36] y los contratos hay que respetarlos y
+[00:29:38] ningún generador quiere perder el su
+[00:29:41] posición en la asignación de energía, sí
+[00:29:45] tuvimos que vernos forzados a generar un
+[00:29:47] mecanismo eh virtuoso en el cual, por
+[00:29:52] ejemplo, si ustedes prestan atención,
+[00:29:54] este que es 1 es obvio que va a ser el
+[00:29:56] primero que va a ser entregado, pero
+[00:29:58] después tenemos uno que es 24, ¿sí? Pero
+[00:30:01] también tenemos uno que es 19.
+[00:30:05] Entonces, la incógnita que el tema surgí
+[00:30:07] acá. ¿Para qué lado vamos? ¿Vamos a
+[00:30:10] darle prioridad a la a lo que establece
+[00:30:13] el vendedor para entregar la energía o
+[00:30:17] le vamos a dar prioridad a lo que
+[00:30:19] definió el gran usuario que quiere tomar
+[00:30:21] primero? ¿Cómo hacemos este juego de de
+[00:30:25] para definir qué energía va primero,
+[00:30:27] ¿sí? Si tenemos tanta variabilidad,
+[00:30:30] puede aparecer obviamente todos los
+[00:30:31] contratos nuevos que aparezcan con
+[00:30:33] generación térmica o hidráulica o o
+[00:30:36] generales que no podían contratar, van a
+[00:30:38] tener prioridad uno, se van a ser
+[00:30:40] firmes, pero hay muchos demandantes que
+[00:30:43] ya tienen muchos contratos antes
+[00:30:46] que son de saldos. Entonces, hay una
+[00:30:48] coexistencia en el sistema entre
+[00:30:50] contratos firmes y contratos de saldo
+[00:30:52] que van teniendo distintas prioridades.
+[00:30:55] Bueno, ¿qué solución encontramos para
+[00:30:57] esto?
+[00:31:01] ya habíamos tenía ya habíamos
+[00:31:02] implementado algo parecido para los
+[00:31:04] contratos matter, los contratos
+[00:31:05] renovables. Sí,
+[00:31:08] pero
+[00:31:10] todo lo que hagamos a través de la nueva
+[00:31:12] normativa no podía impactar en nada en
+[00:31:15] todos los contratos que estaban
+[00:31:16] previamente realizados entre las partes.
+[00:31:18] Había que respetar todo, las
+[00:31:20] condiciones, las prioridades, los
+[00:31:22] precios, todas las pautas que habían
+[00:31:24] elegido entre las dos partes. Sí.
+[00:31:28] Entonces, lo que dijimos es, okay,
+[00:31:29] bueno, vamos a vamos a mantener esta
+[00:31:31] lógica general simple, que son tres
+[00:31:33] puntitos, si lo ven acá, en el cual
+[00:31:36] todos los contratos eh tienen que tener
+[00:31:40] una prioridad de venta que se puede
+[00:31:42] repetir, como dijimos, y una prioridad
+[00:31:43] de compra que no se puede repetir. Esa
+[00:31:46] es una condición inicial. Sí.
+[00:31:50] Y el sistema había empezado a tener
+[00:31:52] ciclos, loops, ¿sí? Porque teníamos
+[00:31:55] contratos donde el eh el gran usuario
+[00:31:58] estaba en dos generadores distintos,
+[00:32:00] ¿sí? Y en uno tenía prioridad uno de
+[00:32:03] compra y dos de venta y en el otro tenía
+[00:32:07] prioridad de venta dos y prioridad de
+[00:32:09] compra uno. Entonces estaban cruzados y
+[00:32:12] eso el sistema no lo podía resolver.
+[00:32:14] Entonces, lo que tuvimos que inventar es
+[00:32:16] un sistema que sea totalmente
+[00:32:18] independiente para permitir Ahora vamos
+[00:32:20] a ver cómo se cómo se cristaliza un
+[00:32:24] contrato. Sí, estábamos teniendo
+[00:32:26] restricciones y los generales no podían
+[00:32:28] hacer cualquier tipo de contrato porque
+[00:32:30] no era administrable con nuestro
+[00:32:31] sistema. Entonces, tuvimos que generar
+[00:32:32] un sistema nuevo. Sí.
+[00:32:36] de forma tal que ahora los contratos que
+[00:32:37] se pongan de acuerdo entre las partes
+[00:32:39] sean totalmente independientes, se
+[00:32:40] juntan, se ponen de acuerdo y no tienen
+[00:32:42] que andar viendo cómo son el resto de
+[00:32:43] los contratos y y es todo automático.
+[00:32:48] Entonces, el mecanismo utilizado para
+[00:32:51] resolver este problema es el siguiente.
+[00:32:55] En primeras instancia, nosotros
+[00:32:58] analizamos al mismo tiempo todos los
+[00:33:00] generadores, si, del mercado que tienen
+[00:33:04] prioridad de venta uno. Miramos todos
+[00:33:09] los generadores del mercado con
+[00:33:10] contratos y vemos solamente sus
+[00:33:12] contratos de prioridad uno, no vemos los
+[00:33:14] que están después. Con eso lo que
+[00:33:16] hacemos es preasignarle
+[00:33:19] la energía que efectivamente generaron
+[00:33:22] en ese mes contratos. ¿Qué forma de
+[00:33:26] preasignación de energía hay?
+[00:33:29] Los generadores son los que definen cómo
+[00:33:30] van a entregar esa energía. La pueden
+[00:33:32] entregar en forma proporcional a todos
+[00:33:36] sus demandantes
+[00:33:38] por la demanda que tengan. La pueden
+[00:33:40] entregar proporcionalmente a todos los
+[00:33:43] demandantes por un valor tope que
+[00:33:46] establecen como máximo para venderle a
+[00:33:48] ese demandante.
+[00:33:50] Pueden establecer un porcentaje de
+[00:33:53] entrega que le van a dar de toda la
+[00:33:55] energía que generan. le voy a dar 5% a
+[00:33:57] este, 10 a este, 20 a este, etcétera,
+[00:33:59] etcétera. O pueden decir, bueno, yo
+[00:34:02] primero le quiero dar a este demandante,
+[00:34:04] después este otro y el sistema va
+[00:34:06] asignando este,
+[00:34:09] digamos, por la prioridad que se que
+[00:34:10] definen ellos. La que más se utiliza y
+[00:34:12] la que más recomendamos y la que tiene
+[00:34:14] el 95% de los generadores es repartir la
+[00:34:19] energía proporcionalmente a un tope o la
+[00:34:21] demanda del cliente. Esa es la que más
+[00:34:23] utiliza, es la más eficiente. ¿Sí?
+[00:34:27] Entonces, el sistema preasigna toda la
+[00:34:30] energía de los contratos de prioridad
+[00:34:32] uno, después le aplica los límites que
+[00:34:35] tiene definido cada uno de los
+[00:34:36] contratos,
+[00:34:38] que puede ser por un tope, los topes
+[00:34:40] pueden ser por mes. O sea, yo el
+[00:34:42] generador puede ponerse de acuerdo con
+[00:34:43] un demandante y decir, "Mira, yo no te
+[00:34:45] voy a vender más de 200 MWh, más que eso
+[00:34:48] no te voy a vender." Entonces es una
+[00:34:50] limitación para el contrato. Y después
+[00:34:52] también tenemos topes anuales. El
+[00:34:54] generador puede llegar a decir, "Mira,
+[00:34:55] yo al año más de 30.000 MWh no te voy a
+[00:34:57] vender." Entonces, todos los meses hay
+[00:34:59] que ir haciendo el acumulado, ¿sí?, de
+[00:35:01] cada contrato para poder establecer, eso
+[00:35:03] sucede más a fin de año, establecer un
+[00:35:06] tope también por e por el valor anual de
+[00:35:09] energía que que máxima que quieren
+[00:35:11] venderse y después por la demanda real.
+[00:35:15] Obviamente un contrato no va a asignar
+[00:35:16] más energía que la demanda que tiene el
+[00:35:18] demandante. Sí.
+[00:35:21] Bueno, una vez que hicimos esa eh
+[00:35:24] asignación que llamamos nosotros, lo que
+[00:35:27] hacemos es entrar a los que tienen
+[00:35:30] prioridad uno, ¿sí? Y asignarle, o sea,
+[00:35:33] efectivamente darle la energía del
+[00:35:35] generador a la demanda empezando por eh
+[00:35:39] de prioridad definida por el comprador.
+[00:35:42] Fíjense que en este caso está uno, pero
+[00:35:45] en el caso este hay nueve.
+[00:35:48] Entonces vamos así, vamos a ir
+[00:35:49] asignándole primero a los que tienen
+[00:35:51] uno. Sí, de esa forma
+[00:35:55] eh vamos a uno por uno, lo vamos
+[00:35:57] haciendo. Sí, una vez que terminamos de
+[00:36:00] asignar toda esa energía, obviamente va
+[00:36:02] a quedar del lado del generador saldos
+[00:36:03] de energía sin entregar y del lado de la
+[00:36:06] demanda saldos de demanda sin abastecer.
+[00:36:11] Derramamos esa información a la
+[00:36:13] prioridad dos.
+[00:36:14] Hacemos la presignación, todo igual. Sí.
+[00:36:17] Y después el sistema va iterando, itera,
+[00:36:19] itera, itera, itera, itera hasta que
+[00:36:21] resuelve todo,
+[00:36:23] hasta que no queda más, hasta que no
+[00:36:26] quedan más generadores con energía
+[00:36:29] excedente que puede ser entregada a sus
+[00:36:31] demandantes
+[00:36:33] o hasta que los demandantes ya no pueden
+[00:36:35] tomar más energía. Cualquiera de esos
+[00:36:38] dos escenarios. Sí.
+[00:36:41] ¿Qué es importante para que tengan
+[00:36:42] presente esto? Sí. Más que nada cuando
+[00:36:44] van a ir a comprar un van a ir a comprar
+[00:36:46] energía con potencia es muy similar. Sí.
+[00:36:49] ¿Qué es lo que tienen que tener
+[00:36:50] presente? Como algo muy importante,
+[00:36:53] el contrato de prioridad uno es el que
+[00:36:55] ustedes los va a dejar seguros de que la
+[00:36:56] energía les va a llegar, les va a llegar
+[00:36:59] firme. Sí. Los contratos que tienen más
+[00:37:02] prioridad
+[00:37:04] están destinados a a poder abastecerse
+[00:37:08] cuando ya abastecieron todo lo que
+[00:37:09] tenían antes. Hay algunos generadores
+[00:37:12] que tienen más firmeza en la prioridad
+[00:37:14] dos porque de alguna forma eh tienen una
+[00:37:17] cantidad de generación importante que
+[00:37:19] les permite entregar con firmeza para
+[00:37:22] las dos prioridades, pero en la mayoría
+[00:37:23] de los casos la prioridad uno es la que
+[00:37:25] tiene firmeza y el resto queda. Ustedes
+[00:37:27] saben que la generación renovable es
+[00:37:29] variable. No, mes a mes, ni hablarla
+[00:37:32] solar, ¿no? Porque depende eh una cosa
+[00:37:35] una cosa es el verano, otra cosa es el
+[00:37:37] invierno, ¿no? La radiación solar no es
+[00:37:38] la misma. Eh, el viento sopla distinto
+[00:37:42] en todos los meses. Entonces,
+[00:37:46] la disponibilidad de energía para
+[00:37:49] abastecer contratos es variable del lado
+[00:37:51] del generador
+[00:37:53] y es variable del lado de la demanda
+[00:37:54] porque la demanda de los de los agentes
+[00:37:56] demandantes no es siempre la misma.
+[00:37:58] Tampoco hay mantenimientos paradas de
+[00:38:00] planta. Eh, entonces es un sistema muy
+[00:38:03] dinámico. Sí, que es importante que se
+[00:38:08] queden con el concepto de que la
+[00:38:09] prioridad uno del generador es la que
+[00:38:10] realmente va a ser firme y yo me me voy
+[00:38:12] a me voy a asegurar de tener una energía
+[00:38:14] realmente firme que me va que me va a
+[00:38:16] ser entregada. Sí, no quiere decir que
+[00:38:18] si hacen un contrato de prioridad dos
+[00:38:19] del generador, no le van a entregar la
+[00:38:21] energía que se comprometieron, pero sí
+[00:38:23] tienen que tener presente
+[00:38:25] que
+[00:38:27] esa energía en prioridad uno, si la
+[00:38:29] sigue vendiendo el generador, cada vez
+[00:38:30] le va a dejar un poquito menos a la
+[00:38:31] prioridad dos. Sí, es un mercado más de
+[00:38:34] saltos.
+[00:38:35] ¿Te puedo hacer una pregunta, Marcelo?
+[00:38:36] Sí, sí, claro.
+[00:38:37] Todas estas variables que vos vas
+[00:38:38] mencionando, ¿no están en el contrato, o
+[00:38:41] sea, y si no te entregara el generador
+[00:38:43] no le pagas? O sea, es como algo que
+[00:38:45] puedes eh puede ser previsible o en el
+[00:38:49] dinamismo, ¿no? Puede de repente no
+[00:38:51] darte el generador lo que vos le pediste
+[00:38:53] en el contrato.
+[00:38:55] Sí.
+[00:38:55] O sea, ¿cómo te subsana?
+[00:38:56] Hay hay varias cosas.
+[00:38:59] Primero, ¿por qué es importante que el
+[00:39:00] generador te dé la energía en algunos
+[00:39:02] casos que dijo que te iba a dar? Porque
+[00:39:05] en muchos casos vos podés haber salido
+[00:39:07] de las compras conjuntas, ¿sí? en la
+[00:39:10] energía renovable, que es una
+[00:39:12] metodología que en mediante la cual el
+[00:39:14] agente demandante tiene tres
+[00:39:17] posibilidades de de cumplir con la ley
+[00:39:18] de energía renovables, que establece un
+[00:39:20] porcentaje mínimo de energía que tienen
+[00:39:22] que abastecerse los grandes usuarios,
+[00:39:25] ¿sí?
+[00:39:27] Para cumplir con los objetivos de la
+[00:39:29] ley.
+[00:39:30] Cuando vos salís de esa metodología que
+[00:39:32] que tenés tres opciones, que es
+[00:39:33] autoabastecerse,
+[00:39:35] no hacer nada, que camisa te compre la
+[00:39:37] energía o hacer un contrato de energía
+[00:39:38] renovable. Si vos optás por hacer un
+[00:39:40] contrato de energía renovable, salís de
+[00:39:41] las compras conjuntas, tenés un
+[00:39:43] descuento muy importante en el precio de
+[00:39:45] la potencia.
+[00:39:47] Pero si no cumplís con el porcentaje
+[00:39:50] establecido para la ley, sos penalizado.
+[00:39:53] Entonces es importante que si vos
+[00:39:57] saliste de las compras conjuntas y tenés
+[00:39:58] un contrato de energía renovable para
+[00:40:00] poder cumplir con la ley, para tener los
+[00:40:02] descuentos y demás, te asegures de que
+[00:40:05] te va a entregar esa energía, porque si
+[00:40:06] no puedes ser penalizado con un valor de
+[00:40:08] energía en este
+[00:40:11] de costo de gasoil, o sea, estamos
+[00:40:13] hablando de valores importantes.
+[00:40:15] Entonces, los contratos que se realizan
+[00:40:18] de un agente generador con con un agente
+[00:40:21] demandante
+[00:40:23] establecen una prioridad de venta y una
+[00:40:24] prioridad de compra y después entre las
+[00:40:27] partes se ponen de acuerdo en
+[00:40:29] obligaciones. El generador puede tener
+[00:40:31] una obligación de entregarse esa energía
+[00:40:32] o tener una penalidad y del lado de la
+[00:40:35] demanda
+[00:40:37] e puede tener una penalidad si no toma
+[00:40:39] esa energía. Sí, porque el generador yo
+[00:40:41] te la pongo en prioridad uno, pero me la
+[00:40:43] tenían que tomar porque si no eh es
+[00:40:45] energía que me derrama un contrato más
+[00:40:47] económico, a lo mejor de saldo. Sí.
+[00:40:49] Entonces, ¿hay alguna firmeneza en el
+[00:40:51] mercado para eso,
+[00:40:55] esto no quita que si hubo algún error en
+[00:40:57] el sistema, algún problema o algo, esto
+[00:40:59] después, ustedes saben, está el DTE que
+[00:41:01] sale el día 810 de cada mes. A partir de
+[00:41:05] ahí se pone toda la información de los
+[00:41:07] contratos a disposición de todos. Todo
+[00:41:09] el mundo puede observar lo que cómo se
+[00:41:11] transaccionó, puede observar los
+[00:41:13] valores, puede observar los precios,
+[00:41:15] puede observar lo que quiera, puede
+[00:41:17] hacer un reclamo, una consulta sobre
+[00:41:19] cómo salió transaccionado el contrato y
+[00:41:21] si hay algún inconveniente, eso se
+[00:41:23] ajusta, ¿sí? en el DT definitivo que
+[00:41:26] sale por el 20 y pico de de ese de ese
+[00:41:29] mismo mes, o sea, el 810 sale el DT, el
+[00:41:31] 25 por ahí sale el DT definitivo, que es
+[00:41:34] el que termina estableciendo los valores
+[00:41:35] finales, con el cual después si hay que
+[00:41:37] emitir alguna documentación comercial,
+[00:41:39] alguna nota de crédito, una nota de
+[00:41:40] débito, ¿sí? Por algún motivo eso se
+[00:41:43] acompaña con el vencimiento del mes
+[00:41:45] siguiente de la facturación.
+[00:41:49] Tengan presente que todos los contratos,
+[00:41:52] ¿sí? que se realizan
+[00:41:55] con un generador. El generador es el que
+[00:41:58] les factura eso. Sí. No va a aparecer
+[00:42:00] una factura de camisa por esa energía o
+[00:42:02] potencia. Es el generador el que les va
+[00:42:05] a emitir una factura. Les pu tener la
+[00:42:07] factura de camisa si es que no les si es
+[00:42:09] que no se abastecieron 100% con la
+[00:42:10] energía del generador. Sí. Y ustedes le
+[00:42:13] tienen que pagar directamente al
+[00:42:14] generador la factura por el contrato y a
+[00:42:16] Camesa la factura por el saldo del
+[00:42:18] mercado Sport.
+[00:42:21] No sé si ahí más o menos Milagro te
+[00:42:23] respondí. Sí, sí, perfecto. Gracias,
+[00:42:27] Marcelo.
+[00:42:29] Ya que podemos preguntar eh
+[00:42:33] cuando tenés el contrato y todas estas
+[00:42:36] prioridades, una vez que ponele no
+[00:42:39] saliste despachado como generador o al
+[00:42:42] revés sos usuario y no pusiste en tu
+[00:42:45] demanda alguno que te había puesto
+[00:42:46] primero, entonces te quedaste sin saldo
+[00:42:49] en ese en esa iteración.
+[00:42:52] Sí, por más que vos hagas negocio de
+[00:42:55] salto, después la demanda es una
+[00:42:56] físicamente es una eh lo que no te queda
+[00:43:00] acá vas directo al spot, o sea, ahí es
+[00:43:03] donde ahí es donde se termina y vas al
+[00:43:06] spot al hora a hora de lo que se
+[00:43:08] consumió y se y se eh
+[00:43:11] Exacto.
+[00:43:11] se le manda a todos. Bien. Exacto. Esto
+[00:43:14] es importante, es una buena pregunta
+[00:43:16] para aclarar algo que es importante.
+[00:43:20] El el mercado generación de venta
+[00:43:22] energía, además de tener las
+[00:43:23] restricciones que mostramos al
+[00:43:24] principio, el 20% para vender, etcétera,
+[00:43:26] etcétera, es un mercado más bien
+[00:43:28] acotado. ¿Sí? Entonces, a medida que se
+[00:43:31] van perfeccionando los contrastos con
+[00:43:33] los ciclos combinados eficientes con gas
+[00:43:34] natural, con toda la generación
+[00:43:36] renovable, que son los que tienen el
+[00:43:38] menor costo, van quedando los que son
+[00:43:40] más caros. O sea, a medida de que va
+[00:43:43] avanzando el mecanismo de contratación,
+[00:43:45] lo que va quedando, se supone, es lo
+[00:43:49] menos eficiente o lo que va a ir
+[00:43:51] conformando el precio spot en el futuro
+[00:43:53] y que se supone que puede ir aumentando.
+[00:43:54] Sí. Entonces, que no se
+[00:43:57] eh Emy,
+[00:43:59] eh, agrego una cosita más y buen día a
+[00:44:02] todos y después antes que me olvide
+[00:44:04] porque Marce me está dando el pie. Mar
+[00:44:06] hace un ratito dijo que la transacción
+[00:44:08] eh hacíamos todo, la primera evaluación
+[00:44:11] era como si todo fuera el spot. Bien,
+[00:44:14] todos hacemos una transacción como si
+[00:44:16] todas las máquinas estarían en el spot y
+[00:44:19] luego empezamos a descontar todo lo que
+[00:44:22] está contando Marce respecto a los
+[00:44:25] contratos. Bueno, lo hacemos a propósito
+[00:44:28] por esto mismo que hace Marcelo.
+[00:44:30] Evaluamos que todo si estaría todo en el
+[00:44:33] spot, ¿cuál sería el precio? justamente
+[00:44:36] resultante de ese mercado y después
+[00:44:38] evaluamos justamente el impacto que
+[00:44:41] tiene de la generación que va saliendo
+[00:44:43] por contrato. Lo que acaba de decir
+[00:44:45] Marcelo, esta eficiencia de las primeras
+[00:44:48] máquinas que se comienzan a contratar,
+[00:44:50] bueno, ¿qué impacto tiene en el mercado
+[00:44:52] spot resultante si se quiere? Bueno, por
+[00:44:55] eso hacemos la transacción de esa
+[00:44:56] manera, para tener evidencia lo que Mars
+[00:44:59] está diciendo en palabras, evaluar
+[00:45:02] realmente qué impacto tiene que todo
+[00:45:04] esté en el spot. Esa es un resultado,
+[00:45:06] mientras el resultado final cuando vamos
+[00:45:09] descontando esta energía contratada.
+[00:45:13] Seguí, Marc, me perdón que me metí, pero
+[00:45:15] bueno.
+[00:45:15] Ah, por favor,
+[00:45:16] no quería olvidarme.
+[00:45:17] Perfecto.
+[00:45:19] Bueno, Mauro, no sé si está bien o
+[00:45:20] necesita, listo.
+[00:45:24] Bueno, quiero avanzar porque no le
+[00:45:26] quiero sacar tiempo a Emi. Esto es un
+[00:45:28] pantallazo rápido e de una foto de
+[00:45:32] enero. Sí.
+[00:45:34] Esto es la cantidad de contratos que
+[00:45:37] había enero,
+[00:45:39] eh, hace muy poquito.
+[00:45:42] Acá están divididos en lo que ya venía
+[00:45:44] siendo, que es la generación renovable.
+[00:45:46] Sí, teníamos 7000 contratos que se
+[00:45:49] transaccionaban en enero. Acá hay un
+[00:45:51] poco esto para que conozcan una pregunta
+[00:45:54] muy recurrente que tenemos siempre es,
+[00:45:57] ¿con quién puedo hacer contrato? Díganme
+[00:45:58] quién está haciendo contrato quiero
+[00:46:00] saber quiénes son. Bueno, acá están. Sí.
+[00:46:03] Acá están, obviamente, toda esta
+[00:46:04] información, como dije antes, está en el
+[00:46:06] DTE, lo pueden revisar, pueden ver todos
+[00:46:08] los contratos que hay, quiénes tienen
+[00:46:09] más contrato, qué energía, quién tiene
+[00:46:11] más energía, mejor precio, no sé, todo
+[00:46:13] lo que quieran. Pero bueno, ¿quiénes son
+[00:46:15] los que tenían en ese momento más
+[00:46:18] contratos? Okay, Geneia tiene mucho
+[00:46:20] parque de generación renovable. Esto
+[00:46:21] hablando en generación renovable, ¿sí?
+[00:46:23] Eh, el V3 picos que es PCR,
+[00:46:27] MCU, eh a través de sus parques también
+[00:46:29] renovables, Pampa Energía es una figura
+[00:46:32] también muy importante, IPF con todos
+[00:46:35] los parques que tiene. Sí. Eh, Central
+[00:46:38] Puerto también tiene mucha generación
+[00:46:40] renovable. Bueno, acá tienen un poco un
+[00:46:42] pantallazo para entender quiénes son los
+[00:46:44] que los que más mueven este el mercado
+[00:46:47] renovable, ¿sí? cómo cómo tienen también
+[00:46:50] tanta variedad.
+[00:46:52] Eh, el mercado renovable va avanzando
+[00:46:56] muy bien a través de un mecanismo
+[00:46:57] virtuoso que se generó ya hace un tiempo
+[00:47:00] que se denomina prioridad despacho. Sí,
+[00:47:02] lo comento muy rápidamente. Todos los
+[00:47:04] trimestres saca una licitación
+[00:47:07] en el cual establece puntos del sistema
+[00:47:11] del transporte donde todavía queda
+[00:47:12] capacidad remanente para poder instalar
+[00:47:14] nueva generación. Sí, la todos estos
+[00:47:17] proyectos que están acá, la mayoría eh
+[00:47:20] se perfeccionan a través de ese
+[00:47:21] mecanismo donde aparece un hueco. Sí. En
+[00:47:25] el sistema de transporte ustedes saben
+[00:47:26] que el sistema de transporte está eh a
+[00:47:28] su máxima capacidad de disponible y
+[00:47:31] prácticamente no quedan eh eh
+[00:47:35] el digamos lugares para instalarse en
+[00:47:38] aquellos lugares que tienen el mayor la
+[00:47:40] mayor riqueza de recursos. Sí. El
+[00:47:42] recursos solares está en el norte del
+[00:47:43] país, en en la parte obviamente de
+[00:47:45] Mendoza, San Juan. Bueno, tenemos de ahí
+[00:47:48] para arriba y está la mayor cantidad en
+[00:47:49] Jujuy, eh hasta en Chaco tenemos parques
+[00:47:52] solares. Sí. Y entonces todo ese área
+[00:47:55] hoy presenta una restricción muy
+[00:47:57] importante para poder instalarse nueva
+[00:47:59] generación. Lo mismo en el sur, donde
+[00:48:01] está la generación eólica, eh, Bahía
+[00:48:04] Blanca, bueno, toda la zona de Puerto
+[00:48:06] Madrin, ahí está totalmente saturado el
+[00:48:09] sistema de transporte para incorporar
+[00:48:11] más generación a tal punto de que hay
+[00:48:13] momentos en el sistema donde hay 2000 MW
+[00:48:16] de energía renovable para tomar que no
+[00:48:18] pasan por el sistema de transporte. Sí,
+[00:48:20] para que se den una idea. Entonces, este
+[00:48:22] mecanismo fue evolucionando en el tiempo
+[00:48:24] y nosotros detectamos lugares puntuales
+[00:48:27] del sistema donde todavía queda alguna
+[00:48:29] capacidad ya muy remanente, ¿sí? Ya en
+[00:48:32] este momento muy remanente para poder
+[00:48:34] instalar nueva generación. Entonces es
+[00:48:36] un mecanismo de licitación donde
+[00:48:37] aparecen todos los oferentes y dicen,
+[00:48:39] "Bueno, okay, yo me quiero instalar
+[00:48:40] acá." eh ofrece una cantidad de dinero
+[00:48:43] que se paga trimestralmente para
+[00:48:44] mantener eh esa posición en ese lugar y
+[00:48:47] se le termina otorgando el que más
+[00:48:49] dinero ofertó. Sí, a través de ese
+[00:48:51] mecanismo eh eh digamos a su riesgo el
+[00:48:55] generador instala un generador, una
+[00:48:56] generación renovable y realiza este tipo
+[00:48:59] de contrato para apalancar la inversión.
+[00:49:01] Sí, eso está funcionando muy bien,
+[00:49:03] funcionó muy bien y es lo que permitió
+[00:49:05] el desarrollo de todo esto.
+[00:49:08] Sí. Por otro lado, en enero ya empezaron
+[00:49:12] a aparecer, recuerden que la resolución
+[00:49:14] 400 aplicó a partir de noviembre del año
+[00:49:18] pasado.
+[00:49:19] Ya en noviembre apareció algún contrato,
+[00:49:22] pero era muy reciente. La normativa vino
+[00:49:23] muy sobre la fecha. Entonces, ya en
+[00:49:25] enero empezamos a tener una cantidad
+[00:49:27] importante de generación que antes no
+[00:49:29] hacía contratos. Sí.
+[00:49:31] Acá aparece Pampa energía. Pampa tiene
+[00:49:34] Genelva, loma de la lata. Sí, tiene
+[00:49:36] máquina ciclo combinado muy eficiente
+[00:49:37] con gas natural. Entonces, bueno,
+[00:49:39] aprovechó esa situación. Eh, después
+[00:49:42] aparece, bueno, eh, mucha generación
+[00:49:44] provincial, sí, hidráulica, eh
+[00:49:47] potrerillos, eh bueno, la de DPA de Río
+[00:49:51] Negro, de Córdoba, e los niiles, bueno,
+[00:49:56] de EPSE, que es la la empresa de San
+[00:49:58] Juan también, Punta Negra, Caracoles,
+[00:50:00] todas esas centrales
+[00:50:02] y así un poco para que tengan un
+[00:50:04] pantallazo de que también ya pueden
+[00:50:06] salir del mercado renovable y hacer
+[00:50:08] contratos con generación térmica. Sí.
+[00:50:10] Hoy la generación térmica que está
+[00:50:12] ofreciendo
+[00:50:14] contratos de abastecimiento de energía
+[00:50:17] es solamente respaldando esos contratos
+[00:50:20] cuando generan únicamente con gas
+[00:50:21] natural, ¿sí? Eh, gas natural propio o
+[00:50:26] en el marco del, bueno, del plan gas, el
+[00:50:28] gas natural acuerdo que nosotros
+[00:50:30] definimos, que es el gas que compra
+[00:50:32] Camesa todavía en digamos en forma
+[00:50:36] general para todo el mercado y se va
+[00:50:38] abasteciendo a los distintos
+[00:50:39] generadores. Sí.
+[00:50:40] Pero hoy el abastecimiento es con gas
+[00:50:42] natural. Los valores generales de estos
+[00:50:44] contratos, en el caso de los renovables,
+[00:50:46] están en $55, valores medios a los 55 60
+[00:50:50] y la generación térmica es un poquito
+[00:50:52] más cara. Sí, por ahí,
+[00:50:55] pero más o menos son los valores para
+[00:50:57] que tengan presente. Esto es solo
+[00:50:58] energía, ¿sí? Después está potencia por
+[00:51:00] otro lado.
+[00:51:03] Bueno, un pantallazo rápido de la
+[00:51:05] demanda, ¿sí? De estos mismos contratos.
+[00:51:07] 7000 y pico y 400. Sí, son los mismos
+[00:51:09] contratos, pero este es el pantallazo de
+[00:51:12] la oferta. Vamos un pantallazo de la
+[00:51:13] demanda. ¿Quiénes están haciendo
+[00:51:15] contratos de energía
+[00:51:18] en enero? ¿Quiénes hicieron con
+[00:51:20] renovables?
+[00:51:22] Ampliamente son los grandes usuarios los
+[00:51:23] que los que están tomando toda esa
+[00:51:25] energía. Sí había pocos contratos con
+[00:51:28] distribuidoras en ese momento. Tengan
+[00:51:30] presente que ya la normativa permitía
+[00:51:33] que los los este distribuidores hagan
+[00:51:35] contratos para abastecer sus goodis con
+[00:51:36] energía renovable. Esto está un poco
+[00:51:38] atado a eso. Sí. Y después, bueno,
+[00:51:41] autogeneradores del mercado son muy
+[00:51:43] poquitos. En el caso de toda la
+[00:51:45] generación nueva que ingresó ya con la
+[00:51:46] con la resolución 400
+[00:51:49] fue abocarse también hacia hacia el
+[00:51:51] mismo lugar. Pero bueno, eh hoy en día
+[00:51:55] ya estamos con marzo consolidado en el
+[00:51:57] sistema. Esto creció mucho. Sí, empezó a
+[00:51:59] crecer mucho. Ahora vamos a ver un poco
+[00:52:00] quiénes son las distribuidoras que están
+[00:52:03] teniendo contratos de abastecimiento de
+[00:52:04] energía.
+[00:52:06] De alguna forma esto representa algo muy
+[00:52:08] parecido, ¿sí?, en este mes a lo que ya
+[00:52:12] venía siendo los contratos plus, que los
+[00:52:14] contratos plus también abastecía
+[00:52:16] energía. Sí. Entonces, un poco el
+[00:52:18] generador que tenía un contrato plus y
+[00:52:20] esa metodología dejó de de estar eh
+[00:52:23] vigente.
+[00:52:25] La misma máquina que era plus ahora pasa
+[00:52:27] a estar como mate y bueno, el contrato
+[00:52:28] por ahí siguió, ¿no? O sea, el generador
+[00:52:31] siempre tiene un acuerdo que se va
+[00:52:33] manteniendo vigente a través de los años
+[00:52:35] con con las demandas. Sí, son son los
+[00:52:37] mismos eh están los mismos de los dos
+[00:52:40] lados y se mantienen el tiempo.
+[00:52:41] Entonces, las máquinas que dejaron de
+[00:52:42] ser plus, bueno, van a estar entregando
+[00:52:44] energía a través del mecanismo de la
+[00:52:46] resolución 400.
+[00:52:49] Damos vuelta a la página. Totalmente.
+[00:52:51] Sí, totalmente. Independente. Sí.
+[00:52:53] Marcelo, buen día. Una consulta antes de
+[00:52:55] dar vuelta a la página. Como diga,
+[00:52:58] diga. Así como como indicaron que bueno
+[00:53:00] el sistema de transporte estaba saturado
+[00:53:02] para las generadoras que quieran
+[00:53:04] aportar, también desde las
+[00:53:05] distribuidoras, bueno, y de las
+[00:53:06] cooperativas estimo que también tenemos
+[00:53:09] las estaciones transformadoras
+[00:53:10] sobrecargadas y cuando viene un usuario
+[00:53:13] a demandar un mega do, que si bien para
+[00:53:15] el sistema es poco, para la red
+[00:53:16] distribución ya es una demanda
+[00:53:18] considerable,
+[00:53:20] tenemos se lo está frenando un poco y le
+[00:53:22] decimos, "Mira, si te damos la potencia
+[00:53:24] vos, hay que cortarla los usuarios que
+[00:53:26] ya están tomando."
+[00:53:27] Entonces no te podemos dar esa potencia
+[00:53:29] hasta tanto no se haga la obra de
+[00:53:30] transporte que sí daría la potencia.
+[00:53:33] Ahora bien, si el usuario ya viene con
+[00:53:36] una un contrato con Pampa, ponerle dice,
+[00:53:39] yo tengo contratado la energía con
+[00:53:41] Pampa, los 2 megas me lo da Pampa, pero
+[00:53:43] el sistema de transporte no da para que
+[00:53:45] se se conecte. Que la distributora, ¿qué
+[00:53:48] tiene que hacer ahí? ¿Se lo da y le
+[00:53:51] corta a los demás usuarios o se lo
+[00:53:52] frena? y ese contrato con la generación
+[00:53:55] que ya tiene él abastecida, que haga la
+[00:53:58] obra también.
+[00:54:00] Muy buena pregunta. Muy buena pregunta.
+[00:54:01] Está clarísima la pregunta.
+[00:54:03] Los contratos son totalmente
+[00:54:05] independientes de la realidad física.
+[00:54:07] Totalmente independientes. Esto, ¿qué
+[00:54:08] quiere decir? Para que un agente
+[00:54:10] demandante pueda ingresar
+[00:54:13] a a tu red. Sí, tanto si es como Goody,
+[00:54:17] ¿sí? Que es cliente distribuidor o como
+[00:54:19] gran usuario de los mercados mayorista,
+[00:54:21] hay dos mecanismos distintos. El
+[00:54:22] mecanismo si es Goody es una cosa que lo
+[00:54:24] arreglas vos directamente con él. Hay
+[00:54:27] que hacer una ampliación, hay que pagar
+[00:54:28] esto, lo haremos así. Bueno, con los
+[00:54:30] mecanismos habituales que ustedes
+[00:54:32] conocen perfectamente de ampliación como
+[00:54:34] con un cliente nuevo. Sí, cuando es un
+[00:54:36] gran usuario
+[00:54:38] tiene que cumplir con el requisito de
+[00:54:40] acceso a la capacidad de transporte, que
+[00:54:41] es un trámite si es una demanda
+[00:54:42] importante, ¿no? Si estamos hablando de
+[00:54:44] una demanda importante y para eso
+[00:54:46] obviamente tiene que va a tener que
+[00:54:47] hacer inversiones. Si no hace las
+[00:54:49] inversiones, no va a poder entrar. No
+[00:54:51] importa la cantidad de contratos que
+[00:54:52] haya hecho o que tenga, hay un tema
+[00:54:54] físico que es previo. Sí. Entonces,
+[00:54:58] si no puede ingresar al sistema porque
+[00:55:02] la resta saturada y no va a ser Goody
+[00:55:05] por ese por ese motivo y no va a ser el
+[00:55:06] gran usuario del MEN tampoco porque no
+[00:55:08] pudo cumplir con el otro trámite, no
+[00:55:10] puede hacer contratos. Que tenga un
+[00:55:12] preacuerdo antes con un generador está
+[00:55:15] bien o puede haber hecho un contrato con
+[00:55:17] un generador, pero a Camesa no lo va a
+[00:55:18] poder declarar. Y si no lo declaran en
+[00:55:20] camesa, porque no es ni goodi ni guma
+[00:55:23] eh no se transacciona. Entonces el
+[00:55:25] contrato es solamente un intención entre
+[00:55:27] las partes para cuando suceda el ingreso
+[00:55:30] de la sala de mando.
+[00:55:32] Bien, excelente, está clarísimo.
+[00:55:33] Gracias, Marcelo.
+[00:55:34] No, por favor.
+[00:55:38] Eh, bueno, vamos entonces al mercado de
+[00:55:40] potencia, que dijimos que es totalmente
+[00:55:42] independiente del mercado de energía. es
+[00:55:44] otro mercado. Pueden hacer todos los
+[00:55:46] contratos de energía que quieran y no
+[00:55:48] hacen nada de potencia. Pueden hacer
+[00:55:49] todos los contratos de potencia que
+[00:55:50] quieren y no hacer nada de energía.
+[00:55:52] Pueden comprarle todo al mismo grupo
+[00:55:53] empresario, al mismo generador. Pueden
+[00:55:55] hacer lo que quieran. Sí. Bueno, vamos a
+[00:55:58] las particularidades del mercado de
+[00:55:59] potencia.
+[00:56:01] La generación.
+[00:56:02] Una consulta, Marcelo, antes de de
+[00:56:04] cambiar de tema. Luciano Ceballo deedén.
+[00:56:07] en en el caso de un gran usuario que
+[00:56:09] esté vinculado al al distribuidor eh y
+[00:56:12] digamos y tenga eh un contrato eh como
+[00:56:16] los que estamos hablando recién,
+[00:56:18] entiendo que eh
+[00:56:21] le va a cerrar el precio de la energía
+[00:56:23] con el generador eh si no se cubre la
+[00:56:26] demanda esa con camisa y eh para con el
+[00:56:30] distribuidor tiene una tarifa de peaje.
+[00:56:32] Es así, una tarifa de peaje T5. Si esa
+[00:56:36] si ese gran usuario se vincula
+[00:56:38] directamente
+[00:56:40] a barras del transportista, el
+[00:56:42] transportista también le cobra una
+[00:56:44] tarifa de peaje o o se evita esa tarifa
+[00:56:47] de peaje.
+[00:56:47] Buena pregunta. Si se conecta
+[00:56:49] directamente al sistema de transporte,
+[00:56:51] ¿no pagaf el distribuidor? Sí, nosotros
+[00:56:54] lo llamamos Guma Z en nuestro nuestro
+[00:56:56] nuestra lógica. Sí, es un gran usuario
+[00:56:59] conectado directamente al sistema de
+[00:57:01] transporte. El sistema de transporte
+[00:57:03] tiene una remuneración que está
+[00:57:06] ampillada, se le dice. Sí, toda la
+[00:57:08] demanda paga el eh el sistema de
+[00:57:11] transporte a través de un cargo variable
+[00:57:13] que tiene que se divide entre toda la
+[00:57:14] demanda del mercado. O sea, no tiene un
+[00:57:16] cargo adicional, sino tiene el cargo que
+[00:57:18] pagan todos. No es que le paga un cargo
+[00:57:21] específico como un PAF al transportista.
+[00:57:25] Okay, perfecto. Gracias.
+[00:57:27] No ve nada.
+[00:57:31] E bueno, si hay tienen otra pregunta,
+[00:57:33] háganla, eh, sin ningún inconveniente,
+[00:57:35] si no pasamos a potencia.
+[00:57:37] Marcelo,
+[00:57:38] sí,
+[00:57:39] sí. Buen días, Matías Mesa de la
+[00:57:40] Cooperativa Eléctrica de Pié. E sobre la
+[00:57:43] consulta que que hizo Luciano por ahí,
+[00:57:45] yo no no tengo conocimiento de eso que
+[00:57:47] mencionas vos como Guma Z, que que
+[00:57:50] directamente el gran usuario se conecta
+[00:57:52] a las barras. ¿Qué quiere decir? Que el
+[00:57:54] usuario construyó una línea propia.
+[00:57:58] Bueno, es otra otro tema muy interesante
+[00:58:00] que tiene mucha discusión. Eh,
+[00:58:04] a ver si el si la la línea pasa por
+[00:58:07] terrenos privados, o sea, si yo estoy me
+[00:58:09] voy y me conecto al lado de una estación
+[00:58:11] de Transener, vamos a un caso puntual
+[00:58:14] y mi terreno es lindero a la estación y
+[00:58:16] yo conecto la demanda directamente al
+[00:58:19] transporte a través de una línea que
+[00:58:20] pasa por mi terreno y después de mi
+[00:58:22] terreno pasa a transcender sin pasar por
+[00:58:24] la vía pública.
+[00:58:27] Eso es es totalmente válido. Sí. Ahora,
+[00:58:30] si yo estoy a 50 km de la estación
+[00:58:32] transformadora y tengo que pasar por
+[00:58:34] terrenos públicos dentro del ámbito de
+[00:58:36] la concesión de una cooperativa, un
+[00:58:38] distribuidor, el pu levantar la mano y
+[00:58:40] decir, "Pará, estás pasando eh por la
+[00:58:44] vía pública, yo tengo un contrato de
+[00:58:45] concesión. Eh, tené que venir a hablar
+[00:58:48] conmigo primero." O sea, es una línea
+[00:58:49] que que tiene que estar dentro de mi
+[00:58:51] ámbito del contrato de concesión.
+[00:58:54] También puede haber otra figura en la
+[00:58:55] cual eh depende la jurisdicción
+[00:58:57] provincial. El gran usuario
+[00:59:00] eh o generador también, entonces puede
+[00:59:03] pasar, pide la utilización de esa línea
+[00:59:06] que va y la construye él en la mayoría
+[00:59:07] de los casos sea considerada como una
+[00:59:09] línea privada. Sí, esto depende mucho de
+[00:59:12] la regulación juridireccional provincial
+[00:59:15] de cada uno de los de de las locaciones
+[00:59:18] del país. Eso también existe y en ese
+[00:59:21] caso el el generador, el demandante
+[00:59:23] construye la línea, se conecta
+[00:59:25] directamente al sistema de transporte y
+[00:59:26] no tiene nada que hacer el distribuidor
+[00:59:28] en esa situación. Sí, son todas las
+[00:59:30] posibilidades.
+[00:59:31] Nosotros tuvimos dos casos en Edén de
+[00:59:35] instalación de generación solar en en el
+[00:59:38] cual digamos se construyó una línea de 3
+[00:59:40] 5 km y se vincula directamente al
+[00:59:43] transportista y estaba esta discusión si
+[00:59:46] esa línea se tiene que ceder al
+[00:59:47] distribuidor o no.
+[00:59:50] Todo lo que tiene que ver con eso, eh,
+[00:59:53] el que define, digamos, toda esta
+[00:59:57] metodología es el ENRE. O sea, recuerden
+[01:00:00] que todo lo que es generación en el
+[01:00:02] ámbito del mercado mayorista tiene
+[01:00:04] jurisdicción federal. Entonces, cuando
+[01:00:07] suelen haber conflictos que los hay, y
+[01:00:09] conozco las resoluciones de Enren en
+[01:00:11] varios casos puntuales de Den, cuando
+[01:00:14] hay e algún conflicto entre agentes
+[01:00:17] puntualmente lo que hay que hacer si no
+[01:00:20] hay acuerdo entre las partes, que
+[01:00:21] siempre nosotros recomendamos que que
+[01:00:24] tanto el distribuidor como el generador
+[01:00:26] o demandante llegue un acuerdo entre las
+[01:00:28] partes, ¿sí? tienen que convivir durante
+[01:00:30] toda la vida útil del de del proyecto de
+[01:00:33] generación en un en una situación o del
+[01:00:36] lado del demandante lo mismo. Entonces,
+[01:00:38] siempre hay que tratar de llegar a un
+[01:00:39] acuerdo entre las partes. Es lo que
+[01:00:40] nosotros tratamos de decir siempre. Si
+[01:00:42] eso no sucede porque obviamente hay
+[01:00:44] conflicto de intereses, bueno, hay que
+[01:00:46] ir al ENRE y el ENRE es quien termina
+[01:00:49] resolviendo acerca de esa situación.
+[01:00:53] Gracias, Marcelo.
+[01:00:55] No, nada,
+[01:00:58] eh, bueno, vamos a los contratos de
+[01:01:00] potencia.
+[01:01:02] Los contratos de potencia
+[01:01:05] eh cambian drásticamente también. ¿Por
+[01:01:08] qué cambian drásticamente? Como ya venía
+[01:01:09] sucediendo. Me voy a adelantar un
+[01:01:10] poquito para mostrarlo acá. ¿Dónde es
+[01:01:13] que lo tengo? Acá.
+[01:01:16] Ah, me había pasado una. Ahí está. ¿Por
+[01:01:18] qué cambian drásticamente de cómo venían
+[01:01:20] sucediendo eh antes? Porque los
+[01:01:22] contratos, la potencia de un generador
+[01:01:26] antes se evaluaba durante todas las
+[01:01:28] horas de un mes. Sí, todas las horas de
+[01:01:30] un mes nos fijábamos qué máquina estaba
+[01:01:32] disponible, qué máquina no estaba
+[01:01:33] disponible y se le remuneraba por ese
+[01:01:35] concepto en forma horario. Esto cambió
+[01:01:37] drásticamente. Ahora no se remunera más
+[01:01:39] así y tampoco se hacen contratos más
+[01:01:41] así. Antes los contratos eran, como
+[01:01:42] expliqué antes, en forma horaria. Ahora
+[01:01:44] no. Ahora ahí eh la normativa estableció
+[01:01:47] que se evalúan en 90 horas semanales.
+[01:01:51] ¿Cuáles son las 90 horas semanales?
+[01:01:52] Estas que están acá en el cuadrito.
+[01:01:55] Quiere decir que solamente se va a
+[01:01:57] analizar la disponibilidad de la
+[01:01:58] generación para su remuneración.
+[01:02:02] Los días hábiles de 9 de la mañana a 12
+[01:02:04] de la noche, los sábados de 8 de la
+[01:02:07] noche a 1 de la mañana y los domingos y
+[01:02:10] feriados de las 8 de la noche a las 23.
+[01:02:13] En estas 90 horas semanales, el
+[01:02:15] generador tiene que estar disponible y
+[01:02:16] tiene que tener su propio combustible.
+[01:02:18] Sí. Si no tiene su propio combustible y
+[01:02:20] no está disponible, no cobra
+[01:02:22] remuneración spot o no puede abastecer
+[01:02:24] contratos de potencia. Sí, ese es el el
+[01:02:27] cambio más grande que hay. E
+[01:02:31] también aparecen los contratos de
+[01:02:32] potencia con los distribuidores, ¿sí?
+[01:02:34] que eso no estaba disponible bajo ningún
+[01:02:37] concepto antes.
+[01:02:39] Entonces
+[01:02:42] es un mecanismo este que de alguna forma
+[01:02:44] yo contaba, bueno, acá sí hay alguna
+[01:02:47] correlación, si quieren, entre el entre
+[01:02:50] el generador, dónde está instalado y
+[01:02:52] dónde está la demanda. Si bien se puede
+[01:02:55] hacer contratos de potencia con
+[01:02:56] cualquier generador de cualquier parte
+[01:02:57] del país, sin ningún inconveniente, pues
+[01:02:59] son, acuérdense que son administrativos
+[01:03:01] los contratos. En el caso del contrato
+[01:03:03] de potencia,
+[01:03:05] mientras más cerca tenga el gener el
+[01:03:06] generador, más fuerte sea el vínculo
+[01:03:08] eléctrico que hay entre genera, ante una
+[01:03:12] eventual restricción, a mí me va a
+[01:03:13] permitir tener el respaldo asegurado de
+[01:03:15] abastecimiento. No me no me deberían
+[01:03:16] cortar el suministro si hay
+[01:03:18] inconveniente de abastecimiento, porque
+[01:03:19] yo tengo un contrato de potencia que
+[01:03:20] respalda mi abastecimiento. Sí.
+[01:03:24] Bueno, acá no hay ningún tipo de
+[01:03:25] limitación de generación nueva o vieja.
+[01:03:27] la potencia es la que hay y se sale a
+[01:03:29] contratar eh sin ningún inconveniente.
+[01:03:33] Eh,
+[01:03:36] a diferencia de los contratos eh
+[01:03:41] de energía, donde vamos a ver que hay
+[01:03:43] contratos entre generadores que como que
+[01:03:45] se respaldan entre sí para abastecer
+[01:03:47] contratos, ¿no? todo un mecanismo ahí
+[01:03:50] virtuoso que que permite que se
+[01:03:52] abastezca la máxima cantidad de
+[01:03:54] contratos posibles, que también es un
+[01:03:55] poco el objetivo que tenemos nosotros.
+[01:03:57] Eh, nosotros tenemos como objetivo
+[01:03:58] tratar de que se la normativa un poco lo
+[01:04:01] define, que tratar de que se
+[01:04:02] contractualice la mayor cantidad de
+[01:04:03] energía posible, ¿sí? y potencia lo
+[01:04:06] mismo.
+[01:04:08] Entonces, acá no, acá eh se analiza en
+[01:04:11] cada una de esas horas la disponibilidad
+[01:04:13] de potencia horaria y eso es lo que se
+[01:04:17] puede eh entregar en a través de un
+[01:04:19] contrato o eh vender al spot. Sí, tiene
+[01:04:23] que ser la disponibilidad real horaria.
+[01:04:27] Después, bueno,
+[01:04:29] ¿de qué forma se respaldan, cómo
+[01:04:30] respaldan contratos los generadores?
+[01:04:32] También se agrupan. Sí.
+[01:04:35] también eh digamos eh forman conjuntos,
+[01:04:39] pero tiene que estar bien claro el
+[01:04:42] vínculo entre el generador y la demanda,
+[01:04:44] porque nosotros tenemos que analizar
+[01:04:45] ante una eventual restricción, ¿sí?, de
+[01:04:48] suministro, ojalá no pase, eh quién es,
+[01:04:51] qué generador está está respaldando, que
+[01:04:54] demanda. Es ese vínculo tiene que ser
+[01:04:56] claro y transparente. ¿Sí? Entonces, se
+[01:04:58] puede hacer contratos con una máquina en
+[01:05:01] específica o con toda una central.
+[01:05:03] decir, bueno, yo voy a estar respaldado
+[01:05:05] por toda la central, no por una máquina.
+[01:05:06] Sí.
+[01:05:09] Eh, bueno, y como concepto general que
+[01:05:13] ya venía sucediendo, los contratos de de
+[01:05:15] generación renovable no respaldan
+[01:05:18] potencia, contrato de potencia, porque,
+[01:05:20] bueno, es una generación que varía en el
+[01:05:22] tiempo. Eh, los horares, por ejemplo, no
+[01:05:25] generan entre las entre las 7 de la
+[01:05:28] tarde y las 8 de la mañana, o sea, no
+[01:05:30] hay un montón de situaciones no tan
+[01:05:32] disponibles en estas horas para
+[01:05:34] respaldar potencia. Entonces, los
+[01:05:36] contratos de generación renovable, por
+[01:05:38] concepción, por tener una una forma de
+[01:05:40] abastecimiento que que no es predecible,
+[01:05:43] ¿sí? Como un generico, por ejemplo, que
+[01:05:45] tiene combustible en en los tanques, que
+[01:05:48] está disponible, ¿sí? No, no pueden
+[01:05:50] respaldar con no pueden respaldar
+[01:05:52] contatos de potencia.
+[01:05:54] En el caso de la generación
+[01:05:55] hidroeléctrica se establece que pueden
+[01:05:58] respaldar el 70% pueden respaldar con el
+[01:06:02] el 70% de la potencia real disponible
+[01:06:07] horaria, ¿sí? No con el 100%.
+[01:06:11] Eh, toda la potencia spot, ¿no? Que no
+[01:06:13] está cubierta por la generación asignada
+[01:06:16] puede contratarse potencia. Lo mismo que
+[01:06:18] dijimos al principio, toda la potencia
+[01:06:21] estacionalizada no cubierta y los goodis
+[01:06:24] pueden salir a contratar y todos los
+[01:06:26] grandes usuarios del mercado.
+[01:06:30] Eh,
+[01:06:33] ¿puedo hacer más de un contrato? ¿Puedo
+[01:06:34] sobrearme? Si yo demando 3 me, ¿puedo
+[01:06:37] hacer contrato por seis?
+[01:06:40] Sí, puedo hacer contrato por seis. Sí.
+[01:06:43] En el caso de el agente demandante,
+[01:06:47] ustedes saben que hay una metodología
+[01:06:49] definir la normativa de cómo se calcula
+[01:06:50] la potencia eh que va a terminar
+[01:06:53] comprando el agente demandante al
+[01:06:55] mercado o eventualmente en un contrato
+[01:06:56] de suministro y ese valor es un valor
+[01:06:59] fijo. Sí. Se por ejemplo la fórmula
+[01:07:02] termina dando 10 meg. Bueno, 10 meg
+[01:07:06] fijos en todas estas horas. 10 megas son
+[01:07:07] los que vamos a ver en todas estas horas
+[01:07:09] como la potencia demandar. Sí. o y y en
+[01:07:13] el caso de que no tengan un contrato que
+[01:07:15] va a terminar siendo abastecida a través
+[01:07:17] del mercado spot, pero es un valor fijo.
+[01:07:20] Sí. Entonces, yo puedo salir a hacer dos
+[01:07:22] contratos, uno con prioridad uno, por
+[01:07:25] ejemplo, por 3 meg y otro con prioridad
+[01:07:27] dos ante una eventualidad por otros 3
+[01:07:29] meg, por si el generador uno me falla,
+[01:07:31] entra en mantenimiento o lo que sea,
+[01:07:34] pero lo que efectivamente se va a quedar
+[01:07:36] transaccionando,
+[01:07:38] ¿sí?
+[01:07:39] es lo que el generador tenga realmente
+[01:07:41] disponible cuando ya lo compare con tres
+[01:07:43] o 3 meg o 10 meg, lo que sea. Sí.
+[01:07:46] Entonces, yo me puedo sobre contratar,
+[01:07:48] sí, pero lo que no es, pero el si a mí
+[01:07:51] me entrega la potencia el generador uno
+[01:07:53] solamente y el dos no me entrega nada,
+[01:07:54] al dos no le tengo que pagar por el
+[01:07:56] contrato porque lo que se termina
+[01:07:58] transaccionando es lo que realmente
+[01:07:59] sucede, por más que yo haga un contrato
+[01:08:02] de respaldo. Sí.
+[01:08:05] Bueno, la la potencia que se contrata es
+[01:08:07] fija, obviamente, porque el valor que
+[01:08:08] nosotros analizamos en esas 90 horas
+[01:08:10] siempre es fijo, entonces no tiene
+[01:08:11] sentido que varíe durante el mes. Sí,
+[01:08:13] porque es un solo valor.
+[01:08:15] Y funciona exactamente igual que en
+[01:08:17] Matter. Los vendedores establecen
+[01:08:18] prioridades y los demandantes también.
+[01:08:20] Sí, las prioridades de la gente
+[01:08:22] demandante no se pueden repetir. Si en
+[01:08:24] el caso de de los vendedores que
+[01:08:26] obviamente tienen que ir de un
+[01:08:30] Bueno, esto ya lo mencioné. Voy a tratar
+[01:08:31] de apurarme un poquito porque si no no
+[01:08:33] voy a terminar.
+[01:08:35] E bueno, los compradores y los
+[01:08:37] vendedores, esto es todo muy similar y
+[01:08:39] la lógica de de transacción es muy
+[01:08:41] parecida a la del M. Sí, esto es un
+[01:08:43] pantallazo de los contratos de de enero,
+[01:08:47] eh, para tratar de mantener la misma la
+[01:08:49] misma referencia con los que vimos
+[01:08:51] antes.
+[01:08:53] Bueno, eh,
+[01:08:56] hay 2400 hubo 2400 meg contratados.
+[01:09:00] Fíjense que la mayor cantidad es con
+[01:09:01] EPEC. EPEC tiene mucha generación
+[01:09:03] propia. Sí, este es el resultado de eso.
+[01:09:06] Eh, toda su generación eh la contrató
+[01:09:09] con EPEC distribuidor.
+[01:09:11] Entonces, aparece mucha potencia
+[01:09:14] contratada acá. Lo mismo que EPSE, que
+[01:09:16] tiene caracoles, Punta Negra, todas esas
+[01:09:17] máquinas que son de la provincia, se
+[01:09:20] contrataron con con la generación, con
+[01:09:22] la distribuidora provincial. Sí. Eh, y
+[01:09:25] bueno, van apareciendo distintos
+[01:09:27] contratos, obviamente Pampa, como decía
+[01:09:28] antes, que tiene ciclos combinados
+[01:09:31] eficientes con gas natural, eh, por
+[01:09:33] potencias importantes, es también otro
+[01:09:36] jugador importante en lo que son los
+[01:09:38] contratos de potencia, igual que puerto.
+[01:09:40] Sí,
+[01:09:42] Marcelo, una pregunta, esos esos medias
+[01:09:45] de potencia de los 2400 es en todo
+[01:09:48] horario o es en el pico y
+[01:09:52] no sé si me explico. La potencia,
+[01:09:54] supongo que la contrata en pico fuera de
+[01:09:56] pico en horario.
+[01:09:57] Entonces, ese es en el pico total y
+[01:10:00] sería el 10% de la potencia instalada o
+[01:10:03] algo así.
+[01:10:06] Bueno, hipotesis instalada térmica, Emy,
+[01:10:09] vos por ahí lo tenés presente, en el
+[01:10:10] mercado hay 43,000 meg térmico, puede
+[01:10:13] ser que sea el 10%. Eh, con relación a
+[01:10:16] tu pregunta de qué potencia se contrata,
+[01:10:19] recordemos esto de que el valor para una
+[01:10:23] demanda es fijo, o sea, una vez que se
+[01:10:24] establece que la demanda de potencia de
+[01:10:27] ese agente es 10 M, por ejemplo, yo voy
+[01:10:30] a ver voy a ver 10 meg todo el tiempo. O
+[01:10:32] sea, yo como demandante voy a contratar
+[01:10:34] 10 meg y el generador probablemente no
+[01:10:36] me deje contratar mucho más de 10 meg
+[01:10:39] porque sabe que más que eso no voy a
+[01:10:40] tomar. Entonces,
+[01:10:43] ¿cómo se conforma la potencia a
+[01:10:48] a digamos a definir que va a comprar
+[01:10:50] tanto el distribuidor como el usuario?
+[01:10:51] un poco lo explicó Marco la vez pasada,
+[01:10:52] son algunas fórmulas que eso
+[01:10:54] establecieron en la normativa. En el
+[01:10:56] caso de los distribuidores vieron que a
+[01:10:58] partir de ahora eh el porcentaje que
+[01:11:01] había del 50% pasa de 75, del 75 al 100,
+[01:11:04] no me acuerdo cuándo era la normativa
+[01:11:06] que salió hace muy poquito, pero bueno,
+[01:11:09] eh es un valor fijo por mes. Entonces,
+[01:11:12] este valor lo que quiere decir
+[01:11:15] que cada contrato, cada uno de estos 560
+[01:11:18] contratos tiene valores e establecidos
+[01:11:22] en cada uno de esos contratos que son
+[01:11:23] fijos en ese mes. ¿Sí? Entonces, la
+[01:11:26] sumatoria de estos de los valores fijos
+[01:11:28] de cada uno de estos de estos 560
+[01:11:30] contratos suma 2400 2406.
+[01:11:37] Del lado de la demanda. Bueno, fíjense
+[01:11:39] que empiezan a aparecer valores
+[01:11:41] importantes de en las distribuidoras.
+[01:11:46] Mucho de esto es EPC, recuerden que EPEC
+[01:11:48] eran 1000 megas y EPSE son otros 500. Y
+[01:11:51] bueno, eh ahora vamos a ver también que
+[01:11:55] ya en febrero empieza a aparecer, bueno,
+[01:11:57] Edén, que por ahí hay gente,
+[01:12:00] eh, ya tienen contratos tanto de energía
+[01:12:03] como de potencia con Central Puerto, por
+[01:12:05] ejemplo. Yo siempre hablo sin
+[01:12:08] inconvenientes de quiénes son los
+[01:12:10] contratos porque realmente son
+[01:12:11] totalmente públicos. Entonces, no hay
+[01:12:13] ningún problema en contar lo que está
+[01:12:15] sucediendo, que todo el mundo lo puede
+[01:12:16] ver eh en la información disponí en
+[01:12:19] camesa, ¿sí? E
+[01:12:23] sigue habiendo valores representativos
+[01:12:26] de de grandes usuarios más o menos en
+[01:12:29] 500, 600 meg. Eh, esto está aumentando
+[01:12:32] un poco eh ya para marzo, los
+[01:12:35] distribuidores también. Y quiénes son
+[01:12:37] los que en febrero ya distribuides
+[01:12:39] tenían contrato, que eso entiendo que
+[01:12:40] esto les puede llegar a ser de utilidad
+[01:12:42] a ustedes para que vean un poco y
+[01:12:43] empiecen a analizar la información de
+[01:12:45] cada una de estas distribuidoras en el
+[01:12:46] DTE o un poco, bueno, Emy después nos va
+[01:12:49] a contar dónde pueden ver toda esta
+[01:12:51] información y empezar a hacer análisis,
+[01:12:52] ¿sí? A ver, y tratar de ver y entender
+[01:12:55] quiénes son los que están haciendo
+[01:12:56] contratos y por qué. Nosotros siempre
+[01:12:58] decimos que
+[01:13:00] que
+[01:13:02] es virtuoso conseguir un contrato tanto
+[01:13:04] de energía como de potencia porque de
+[01:13:06] alguna forma
+[01:13:08] ustedes pueden conseguir valores que
+[01:13:09] están por abajo de lo que les colaría
+[01:13:11] Camesa. Entonces hay un ahorro que es
+[01:13:13] real y y y
+[01:13:16] digamos y no menor, ¿sí? Que ustedes
+[01:13:19] pueden ir consiguiendo a través de la
+[01:13:20] realización de contratos, ¿sí? Porque lo
+[01:13:22] que nosotros terminamos cobrándoles un
+[01:13:24] valor, eh, el generador siempre le hace
+[01:13:27] un descuento por enc por abajo de eso.
+[01:13:28] Sí. Si consiguen un generador eficiente,
+[01:13:31] si es que todavía
+[01:13:31] cuál sería el beneficio para el
+[01:13:33] generador, o sea, porque también puede
+[01:13:34] jugar a la timba y decir, "Che, a mí
+[01:13:36] siempre me despachan y no la vendo más
+[01:13:37] barata la energía."
+[01:13:39] Muy, muy buena pregunta. El generador,
+[01:13:40] ¿contra qué va a comparar? Generador va
+[01:13:42] a comparar contra la renta marginal. O
+[01:13:44] sea, el generador hora a hora que genere
+[01:13:46] cada energía tiene un precio.
+[01:13:49] Eh, o sea, ustedes recuerdan que se
+[01:13:52] ordenan todas las máquinas de menor a
+[01:13:53] mayor, se establece un costo marginal
+[01:13:56] horario, ese costo marginal horario
+[01:13:58] determina una renta, ¿sí?, para ese
+[01:14:00] generador que está topeada después
+[01:14:02] finalmente si es si es un generador este
+[01:14:06] viejo. Entonces eso hora ahora hace ese
+[01:14:08] análisis hora hora y dice, "Bueno, yo
+[01:14:10] voy a cobrar un valor medio de qué sé
+[01:14:12] yo, 45,
+[01:14:15] pero a lo mejor le puedo bandear al
+[01:14:16] distribuidor en 50." Sí, ese ese esa
+[01:14:20] ecuación
+[01:14:22] tiene márgenes chicos, no son márgenes
+[01:14:24] grandes en general. Entonces,
+[01:14:28] hay una zona, sí, que está definida por
+[01:14:31] el precio estacional
+[01:14:33] y el y la renta, el CDP más renta
+[01:14:37] marginal media de los generadores. Sí,
+[01:14:39] esa zona la voy a hacer más real. Sería
+[01:14:42] así, es una zona más corta, pero en esa
+[01:14:44] zona ganan los dos. Sí. en la zona que
+[01:14:48] está entre el precio de un contrato en
+[01:14:52] el cual está por abajo del precio
+[01:14:53] estacional, estamos hablando siempre
+[01:14:54] para demanda estacionalizada no
+[01:14:56] cubierta, ¿no? Porque para el caso de
+[01:14:58] los Woody comparan contra el precio del
+[01:15:00] mercado y eso es mucho más simple de
+[01:15:02] ver. Sí. Eh, entonces en esa franja que
+[01:15:06] está entre el precio estacionalizado, la
+[01:15:08] demanda no cubierta y el valor medio de
+[01:15:10] CP más renta marginal, esa zona es
+[01:15:13] virtuosa para las dos partes. Sí. No sé
+[01:15:17] si me expliqué, Luciano.
+[01:15:18] Sí, gracias.
+[01:15:22] Bueno, entonces acá, como ven, está la
+[01:15:24] Pampa. Bueno, todo el grupo, el grupo
+[01:15:27] completo, ¿sí?
+[01:15:29] De la Pedes, eh, está Río Negro, bueno,
+[01:15:33] está Salta, Tucumán, Juju, Córdoba,
+[01:15:36] Santiago,
+[01:15:38] San Juan. Hay varias cooperativas ahora
+[01:15:40] de la provincia de Buenos Aires que
+[01:15:41] están entrando. Eh, de a poco va va
+[01:15:45] evolucionando favorablemente todo esto.
+[01:15:48] Bueno, voy a pasar muy rápido por esto
+[01:15:50] para no sacar el tipo EMI.
+[01:15:53] Eh, pero esto es importante que lo
+[01:15:54] entiendan porque si alguno de ustedes va
+[01:15:56] a terminar un contrato un poco esta es
+[01:15:59] la herramienta que tenemos disponible
+[01:16:01] para eso. Tenemos un portal Mennet que
+[01:16:06] que permite que los contratos se se
+[01:16:09] registren independiente, digamos, lo
+[01:16:11] carga el generador y lo aprueba el
+[01:16:13] demandante y la mesa no interviene en lo
+[01:16:15] más mínimo. Sí, es totalmente autónomo
+[01:16:17] el sistema entre las partes. ¿Cómo
+[01:16:19] funciona esto? Bueno,
+[01:16:22] eh nosotros determinamos que hay líderes
+[01:16:24] corporativos, que hay empresas, ¿sí? Eh
+[01:16:29] hay muchos grupos económicos que tienen
+[01:16:32] generadores con distintos quid, ¿sí? eh
+[01:16:36] y muchos agentes de mandantes que que
+[01:16:38] también eh algunos tienen generación,
+[01:16:41] sí, hay de todo un poco. Entonces,
+[01:16:43] creamos una entidad que se llama líder
+[01:16:44] corporativo y ahí adentro de esa entidad
+[01:16:47] que se llama líder corporativo
+[01:16:49] puede haber n cantidad de empresas. Sí,
+[01:16:51] el líder corporativo puede tener
+[01:16:53] distintos quitas distintas empresas y
+[01:16:55] cada empresa a la vez puede tener
+[01:16:56] distinto tipo de de generadores, por
+[01:16:59] ejemplo. Sí, lo mismo con los
+[01:17:01] demandantes. Entonces, para no generar
+[01:17:04] un sistema que tengan que entrar con 50
+[01:17:06] claves, 50 usuarios, bueno, definimos un
+[01:17:09] líder corporativo que de alguna forma
+[01:17:11] nosotros validamos que es dueño de todo
+[01:17:13] esto y eh este líder corporativo puede
+[01:17:17] autogestionarse,
+[01:17:19] ¿sí?, crear todos los usuarios que
+[01:17:20] quiera para todas sus empresas y
+[01:17:22] establecer permisos para cada una de sus
+[01:17:24] empresas. Para puede establecer permisos
+[01:17:26] por empresa, puede establecer permisos
+[01:17:28] por generación, por gente, ¿sí? Pero
+[01:17:31] toda esa toda esa gestión es autónoma y
+[01:17:34] la hace directamente
+[01:17:36] la empresa. Camesa no tiene nada que
+[01:17:37] ver. No la vamos a no blanqueamos más
+[01:17:39] clave con no damos usuario, no damos
+[01:17:41] contraseña, no damos nada. Sí, si es una
+[01:17:43] empresa un poco más simple, es una
+[01:17:45] empresa sola y también existe esa
+[01:17:47] posibilidad. No hay que hacer un líder
+[01:17:48] corporativo. Y incorporamos también la
+[01:17:51] consultora
+[01:17:52] que eh para empresas más pequeñas, para
+[01:17:55] Gumes, sí eh hay muchos consultores que
+[01:18:00] hacen prestan servicios para hacer este
+[01:18:03] tipo de eh de trámite, ¿sí? Entonces,
+[01:18:06] también habilitamos a una empresa
+[01:18:08] tercera, ¿sí? a a una compañía que es
+[01:18:11] autorizada por la compañía para
+[01:18:13] representarla a través de TCAN.
+[01:18:17] Todo esto es muy importante porque tiene
+[01:18:18] está securitado con eh Microsoft
+[01:18:21] Authenticator. Sí, ustedes recuerdan que
+[01:18:24] en el portal MNET teníamos un usuario
+[01:18:26] una contraseña y eso era un poco
+[01:18:28] impersonal y teníamos algunos
+[01:18:29] inconvenientes. Bueno, ahora hay una
+[01:18:31] metodología que es segura. Esto funciona
+[01:18:34] con Microsoft Authenticator para poder
+[01:18:36] ingresar a este portal. Eh, cuando
+[01:18:40] alguien de la empresa le genera un
+[01:18:41] usuario, van a tener que generar un
+[01:18:43] código con Microsoft ettiqueto para
+[01:18:45] poder ingresar y de esta forma estamos
+[01:18:47] totalmente seguros que la persona que
+[01:18:49] ingresa efectivamente a través de su
+[01:18:51] teléfono celular, por supuesto, es la
+[01:18:53] persona que está habilitada para poder
+[01:18:55] hacer para poder tomar acción, ¿sí?,
+[01:18:58] sobre estas cosas. Esa y esa
+[01:19:00] habilitación fue otorgada por un
+[01:19:01] administrador de la compañía.
+[01:19:04] Después, bueno, tenemos distintos roles,
+[01:19:05] me queda muy poquito tiempo, me quiero
+[01:19:07] apurar. Eh, todo de esto se perfecciona
+[01:19:10] a través de un formulario, ¿sí? Que
+[01:19:11] administramos en Atención Agentes, ¿sí?
+[01:19:15] El mail que siempre digo es
+[01:19:16] agentes@camesa.com.ar.
+[01:19:19] Cualquier duda que quede de esta charla
+[01:19:21] o de lo que necesiten,
+[01:19:23] agentes@camesa.com.
+[01:19:25] Y bueno, se administra esto. Este,
+[01:19:28] estamos tenemos establecido con con el
+[01:19:30] área de legales todo un mecanismo legal
+[01:19:32] regulatorio que valida toda la
+[01:19:34] información que pasa por el portal. O
+[01:19:36] sea, todas las personas que toman acción
+[01:19:37] dentro del portal son empresas que están
+[01:19:39] apoderadas para poder hacerlo. Entonces,
+[01:19:41] todo lo que se cristalice a través de
+[01:19:43] todos los contratos que se cristalizan a
+[01:19:44] través del portal es como si
+[01:19:46] prácticamente como si estuvieran
+[01:19:47] firmando. Sí, tienen un contrato eh
+[01:19:51] cargado en el portal por el generador y
+[01:19:52] aceptado por la demanda, por el lado
+[01:19:54] demandante, es un contrato perfectamente
+[01:19:56] válido y administrable
+[01:19:59] y eh tiene la firmeza de un contrato
+[01:20:02] firmado en papel. Sí,
+[01:20:05] tenemos un el portal, una aplicación que
+[01:20:07] es de contratos de energía, ¿sí? Que hay
+[01:20:10] otro igual de potencia. Entonces ustedes
+[01:20:11] ingresan, van a les va a aparecer esta
+[01:20:15] esta este menú de opciones. En el lado
+[01:20:18] instructivo tienen un manual que el día
+[01:20:21] que se les cae internet no tienen
+[01:20:22] Netflix.
+[01:20:24] Si quieren leerlo lo recomendamos. Eh,
+[01:20:28] es un explicativo paso a paso cómo
+[01:20:29] funciona todo. Obviamente cualquier duda
+[01:20:32] inquietud a disposición, pero tenemos un
+[01:20:34] instructivo que que paso a paso explica
+[01:20:36] cómo funciona todo, qué tipo de
+[01:20:38] contratos tenemos. Sí,
+[01:20:41] siempre los contratos los cargan los
+[01:20:42] generadores, como dijimos. Entonces, una
+[01:20:45] opción es cuando yo le vendo nada más
+[01:20:47] que un gran usuario. Entonces, entro
+[01:20:48] como generador, le pongo fecha de
+[01:20:49] inicio, fecha de fin. Eh, como yo ya me
+[01:20:52] lo vié en el portal, el sistema
+[01:20:53] automáticamente determina quién soy yo.
+[01:20:55] Por ejemplo, Central Puerto, cuando
+[01:20:57] vengo acá y abro, me aparecen solamente
+[01:20:58] las máquinas de Central Puerto. Yo no
+[01:21:00] puedo agarrar un contrato de cualquiera.
+[01:21:02] Sí, entro acá, elijo las máquinas de
+[01:21:03] central puerto y cuando voy a elegir a
+[01:21:05] quién le voy a vender el contrato, que
+[01:21:07] es un un gran usuario, acá aparecen
+[01:21:08] todos los grandes usuarios del mercado.
+[01:21:10] Puedo elegir a, en este caso es uno
+[01:21:13] solo. Sí, elijo el comprador, por
+[01:21:15] ejemplo, Coto, sucursal, la avenida
+[01:21:17] Libertador, cualquier cosa. Elijo uno.
+[01:21:19] Sí.
+[01:21:21] Esto es muy muy importante para que lo
+[01:21:23] tengan presente. Hay definidas varias
+[01:21:25] tipos de resisiones de los para los
+[01:21:27] contratos. Sí. E el más utilizado es
+[01:21:32] entre partes más unilateral por parte
+[01:21:35] del vendedor. Si hay un inconveniente y
+[01:21:37] no le remuneran al al generador,
+[01:21:41] el contrato, el generador entra al
+[01:21:43] sistema, aprieta un botón, cancela el
+[01:21:45] contrato y listo. Sí, esto está validado
+[01:21:48] para que sea así. Entonces, ténganlo
+[01:21:50] presente que cuando K dice acuerdo en
+[01:21:52] tres partes más unilateral por parte del
+[01:21:54] vendedor, el vendedor entra acá al
+[01:21:56] portal, aprieta un botón y le llega un
+[01:21:58] correo electrónico y dice, "Se canceló
+[01:22:00] el contrato." Sí.
+[01:22:03] Después el generador puede hacer un
+[01:22:05] contrato con un grupo de demanda, ¿sí?
+[01:22:09] Es todo exactamente igual. Establece un
+[01:22:11] nombre, un grupo, ¿sí? Y después, bueno,
+[01:22:14] en otra en otra pantalla lo que hace es
+[01:22:17] elegir entre todas las empresas quiénes
+[01:22:18] van a formar ese grupo. ¿Sí? Entonces el
+[01:22:21] generador cuando reparte, cuando
+[01:22:22] decíamos, por ejemplo, en prioridad uno,
+[01:22:23] toda la energía, la mete en una bolsa y
+[01:22:26] adentro de esa bolsa después nosotros
+[01:22:27] resolvemos la bolsa, ¿sí? Que son un
+[01:22:29] montón de empresas ahí adentro.
+[01:22:34] E
+[01:22:36] bueno, acá un poco cómo funciona el
+[01:22:38] sistema. Este, esto es lo que ven en el
+[01:22:39] portal. Esto lo hace del lado, no del
+[01:22:42] lado de ustedes, sino del lado del
+[01:22:43] generador. Sí. Como carga un contrato,
+[01:22:46] el otro tipo de hay otro tipo de
+[01:22:47] opciones, pero bueno, no vale mucho la
+[01:22:49] pena entrar en en ese sentido. También
+[01:22:51] hay contratos entre generadores
+[01:22:54] que los generadores hacen contratos para
+[01:22:56] poder respaldarse. Sí, en caso de que
+[01:22:58] entren, es muy habitual que las máquinas
+[01:23:00] térmicas, sobre todo, entreno del año en
+[01:23:02] mantenimiento, que puede durar una
+[01:23:04] semana, dos semanas, tres semanas, cu
+[01:23:05] semanas. Entonces, los genones es un es
+[01:23:08] un instrumento válido y necesario para
+[01:23:11] el mercado, ¿sí? Para los generadores
+[01:23:13] que tengan un algún abastecimiento e de
+[01:23:16] respaldo, porque hay un un montón de o
+[01:23:19] se quedan sin combustible, por ejemplo,
+[01:23:20] en invierno, no sé, hay un montón de
+[01:23:22] situaciones en las cuales el generador
+[01:23:23] puede necesitar un respaldo. Sí, eso
+[01:23:25] está habilitado por la normativa. Y esto
+[01:23:28] es muy importante para ustedes, ¿sí? Que
+[01:23:30] están más del lado del distribuidor.
+[01:23:32] ¿Qué tipo de contratos pueden hacer como
+[01:23:34] distribuidores?
+[01:23:36] pueden hacer contratos para la demanda
+[01:23:38] estacionalizada no cubierta. Esta que
+[01:23:39] hablábamos que tiene que tener alguna
+[01:23:40] referencia con el precio estacional. Sí,
+[01:23:44] pueden hacer contratos para una bolsa de
+[01:23:46] goodies. Sí, esto es el generador le
+[01:23:49] vende al distribuidor una cantidad de
+[01:23:50] energía.
+[01:23:52] Sí.
+[01:23:53] Y Camesa solamente sabe eso, generador,
+[01:23:56] distribuidor, bolsa de energía para
+[01:23:58] goodis siempre, ¿no? Después lo que
+[01:24:00] hacen ustedes con esa energía,
+[01:24:02] eh, es un tema entre ustedes y el
+[01:24:04] regulador. ¿Cómo hacen para trasladar
+[01:24:06] esa energía a sus usuarios finales a su
+[01:24:09] good y si se la van a asignar
+[01:24:10] proporcionalmente? Si se la van a dar a
+[01:24:12] un en específico, eso es un tema entre
+[01:24:14] ustedes y el regulador. Nosotros
+[01:24:15] solamente vemos un paquete. Sí. Otra
+[01:24:18] opción nueva que tenemos a pedido de de
+[01:24:20] los distribuidores es, no, no, yo te
+[01:24:22] quiero decir qué goodis son los que
+[01:24:23] tienen contrato, porque a mí
+[01:24:27] algún goody me requirió que yo lo haga
+[01:24:29] un contrato y como el goody no es agente
+[01:24:31] del mercado, no puede entrar acá, no
+[01:24:33] puede hacer un contrato, tiene que venir
+[01:24:34] la distribuidora a hacérselo. Entonces
+[01:24:37] entra el distribuidor, el generador,
+[01:24:39] perdón, le carga un goodie y nosotros
+[01:24:41] utilizamos esa información como un tope
+[01:24:43] en el sistema. Sí, porque ahí el
+[01:24:46] contrato no le va a poder vender más que
+[01:24:47] la demanda que ustedes declaran, ustedes
+[01:24:49] mismos declaran de ese
+[01:24:53] bueno, para el acuerdo de
+[01:24:54] comercialización no me quiero detener
+[01:24:56] mucho en esto, pero lamentablemente
+[01:24:59] aparecieron comercializadores que le
+[01:25:01] están vendiendo a los distribuidores,
+[01:25:03] con lo cual voy a tener que pararme un
+[01:25:04] segundo. Sí, pensamos que es una figura
+[01:25:07] que no iba a suceder, pero está
+[01:25:08] sucediendo. Hay comercializadores que le
+[01:25:09] están vendiendo los distribuidores.
+[01:25:12] El comercializador no respalda nada, el
+[01:25:14] comercializador acerca las partes. Si
+[01:25:16] cuando ustedes tienen un contrato con un
+[01:25:18] comercializador, en verdad lo tienen con
+[01:25:19] un generador. El comercializador
+[01:25:21] solamente acercó las partes. El que les
+[01:25:23] da el respaldo es el generador. Sí. Y un
+[01:25:26] comercializador tiene que por sistema,
+[01:25:29] lo tiene fijado y no puede hacer otra
+[01:25:30] cosa. Vende con la misma prioridad con
+[01:25:34] la que el con la que el vendedor le
+[01:25:38] estableció que le iba a dar esa energía
+[01:25:40] para que el comercializador venda. ¿Qué
+[01:25:41] quiero decir? Si el contrato que hace el
+[01:25:44] generador como en el comercializador
+[01:25:46] tiene prioridad uno, cuando el comercial
+[01:25:49] utiliza esa misma energía para venderla,
+[01:25:51] tiene prioridad uno. Sí, solamente un
+[01:25:54] nexo.
+[01:25:57] Eh,
+[01:26:00] bueno, esto es todo muy parecido, es
+[01:26:02] exactamente lo mismo. Los contratos no
+[01:26:05] tienen muchos parámetros, son los que un
+[01:26:07] poco mencionaba, prioridad de comprador.
+[01:26:10] Esto, esta información la carga toda el
+[01:26:11] generador, ¿sí? Pero cuando el generador
+[01:26:15] la termina de cargar,
+[01:26:17] el generador carga todo un contrato,
+[01:26:19] eh, y cuando ya lo tiene terminado, de
+[01:26:23] acuerdo a las condiciones que se
+[01:26:24] pusieron de acuerdo entre las partes,
+[01:26:25] aprieta un botón y automáticamente el
+[01:26:27] sistema les envía un correo electrónico.
+[01:26:30] Sí, para que les llegue ese correo
+[01:26:32] electrónico ustedes previamente tienen
+[01:26:33] que estar, digamos, tienen que estar su
+[01:26:37] administrador de su empresa tiene que
+[01:26:39] haberlos creado un usuario para que
+[01:26:41] ustedes reciban esa información, ¿no?
+[01:26:42] Pero le lleva un correo electrónico
+[01:26:44] donde le dicen, "Bueno, Central Puerto
+[01:26:45] me le cabó un contrato, el contrato es
+[01:26:47] este." Todas estas condiciones, un
+[01:26:49] montón de condiciones. Ustedes lo
+[01:26:51] revisan y pueden tomar dos acciones, o
+[01:26:53] lo aceptan o lo rechazan. Sí, si ustedes
+[01:26:55] lo aceptan a partir de que aceptan ese
+[01:26:57] contrato, pasa automáticamente a
+[01:26:59] transaccionarse.
+[01:27:01] Sí, ya no hay vuelta atrás, vamos a
+[01:27:02] decir así. Sí,
+[01:27:04] si ustedes por algún motivo quieren
+[01:27:06] cambiar algo, no les gustó, no es el
+[01:27:08] precio pactado, no son las condiciones,
+[01:27:10] lo rechazan. Sí, al rechazarlo le vuelve
+[01:27:13] automáticamente al generador y
+[01:27:16] obviamente se van a tener que poner en
+[01:27:17] contacto con ellos para poder, bueno,
+[01:27:19] modificar lo que está incorrecto y
+[01:27:21] volver a a transaccionarlo. Pero el
+[01:27:24] concepto es este y que es muy importante
+[01:27:26] que lo tengan presente. Una vez que
+[01:27:27] ustedes aceptan un contrato, ese
+[01:27:29] contrato es válido. Sí, ya está. Va
+[01:27:31] directamente a la transacción,
+[01:27:33] se puede modificar en el mes siguiente.
+[01:27:35] Sí.
+[01:27:37] Después, bueno, dentro del y ya es lo
+[01:27:39] último y y hacemos el break, eh,
+[01:27:43] tenemos dentro de dónde pueden conseguir
+[01:27:45] la información de todos los contratos
+[01:27:47] que hay dando vueltas con todos los
+[01:27:48] parámetros, las características, lo que
+[01:27:50] ustedes necesiten conocer de cualquier
+[01:27:53] contrato que hay en el mercado. ¿Okay?
+[01:27:55] entran al portal en la en la parte de
+[01:27:58] publicaciones, sí tienen toda la
+[01:28:00] información de todos los contratos,
+[01:28:03] además de de entrar al DT, pero acá está
+[01:28:05] mucho más específico, tienen mucha más
+[01:28:08] información que la que está en el DTE
+[01:28:09] porque tienen todas las condiciones del
+[01:28:11] contrato, prioridades, topes, etcétera,
+[01:28:14] pero está todo el mercado con toda la
+[01:28:16] información que nos declaran. Sí, esto
+[01:28:18] es algo nuevo eh, que lo empezamos a
+[01:28:21] implementar a partir de de que apareció
+[01:28:23] la resolución 400, eh, que es importante
+[01:28:27] que lo que lo vean, que lo entiendan
+[01:28:28] cuando van a hacer un contrato con un
+[01:28:30] generador, que bueno, analicen qué
+[01:28:31] contratos tiene, cuántos contratos
+[01:28:32] tiene, a quién le está vendiendo, si
+[01:28:35] estás si está vendiendo todo en
+[01:28:36] prioridad uno y tiene pocos de de saldo.
+[01:28:38] Bueno, pueden sacar un montón de
+[01:28:40] información acá, incluso pueden ver los
+[01:28:41] precios también, sí, los precios que los
+[01:28:43] generadores están vendiendo toda la
+[01:28:45] energía y la potencia lo mismo. Así que
+[01:28:47] es información muy valiosa para que
+[01:28:48] puedan analizar y sacar sus propias
+[01:28:51] conclusiones para poder hacer los
+[01:28:54] contratos más eficiente posible. Sí.
+[01:28:57] Dos consultas, Marcelo.
+[01:29:00] Perdón, Guille. No, no
+[01:29:03] está primero. Guillermina,
+[01:29:07] adelante.
+[01:29:07] E pregunta, Marcelo. Cualquier tercero,
+[01:29:11] digamos, o o quien no sea agente del
+[01:29:14] mercado puede acceder esta información.
+[01:29:16] información sobre todo del precio,
+[01:29:18] ¿no?
+[01:29:18] O necesita,
+[01:29:20] no,
+[01:29:21] solamente los agentes del mercado.
+[01:29:22] Okay.
+[01:29:23] Después sí van a ver que Emi, bueno, no
+[01:29:25] no le voy a sacar espacio a Emy,
+[01:29:27] pero esa es la clave, Marc, esa es la
+[01:29:29] clave.
+[01:29:30] Después vamos a dejarlo para que vengan
+[01:29:32] este con con intriga después del break.
+[01:29:34] Después no nos cuenta Emiliano.
+[01:29:36] Emiliano se los va a contar en detalle.
+[01:29:38] Sí, hay información disponible, pero no
+[01:29:40] con este grado de detalle. Okay.
+[01:29:42] Eh, dos consultas mínimas, Marcelo. Una,
+[01:29:45] el portal este ya está vigente con todo
+[01:29:47] el reempadronamiento, etcétera, ya está
+[01:29:50] activo.
+[01:29:51] Tiene más de un año ya. Sí, sí,
+[01:29:52] perfecto. Y la y la otra consulta era,
+[01:29:55] el contrato se ve así como por
+[01:29:57] parámetros, ¿no? El contrato en sí eh
+[01:30:00] como un eh documento PDF de coso, está
+[01:30:04] son los parámetros con los que se
+[01:30:05] determina el precio y las fechas.
+[01:30:08] Claro, cuando te llega un correo
+[01:30:09] electrónico con el contrato es como un
+[01:30:11] resumen, pero es toda la información que
+[01:30:12] hay. Realmente nosotros no necesitamos
+[01:30:14] mucha información para poder
+[01:30:15] transaccionarlo. Sí, no es tanta
+[01:30:18] información. Esa información es la que
+[01:30:19] te va a llegar disponible en el correo
+[01:30:21] electrónico para que puedas validarla.
+[01:30:23] Sí, pero hay un montón de condiciones
+[01:30:26] que se ponen de acuerdo entre las partes
+[01:30:27] que a nosotros no nos son de incumbencia
+[01:30:29] y no están declaradas. Los contratos
+[01:30:31] cuando aparecen acá es una declaración
+[01:30:33] jurada de la realidad, de un contrato
+[01:30:35] que está en teoría previamente realizado
+[01:30:38] por las partes. Sí. Que que tiene un
+[01:30:40] montón de otras condiciones.
+[01:30:42] Bien, gracias.
+[01:30:44] De nada.
+[01:30:47] Bueno, vamos al break.
+[01:30:50] Vale, vale.
+[01:30:50] Marcelo. O
+[01:30:52] está bien. Sí, yo ya finalicé.
+[01:30:54] Hacemos 5 minutitos porque Emiliano
+[01:30:56] tiene un montón de cosas. ¿Puedes ser,
+[01:30:58] chicos?
+[01:31:04] Buen día de nuevo. Eh, un poco ya no nos
+[01:31:07] han presentado a Marcelo y nuevamente
+[01:31:09] reitero la el agradecimiento de de esta
+[01:31:12] de esta oportunidad porque como yo digo
+[01:31:14] eh en general cuando uno habla de los
+[01:31:17] datos no hay nada mejor que que aquel
+[01:31:19] que usa los datos como el primer el
+[01:31:22] primer control que tenemos nosotros. Así
+[01:31:24] que poder contarle un poquito dónde
+[01:31:26] están esos datos que que tanto Marcelo
+[01:31:29] como Marcos el anterior encuentro
+[01:31:33] explicaron la parte la parte de teoría.
+[01:31:35] Vamos a darle un poquito ese esos
+[01:31:37] resultados, dónde están, dónde los
+[01:31:39] pueden encontrar y demás cosas. Aparte
+[01:31:42] de contarle un poquito también otros
+[01:31:44] datos que no tienen que ver o mejor en
+[01:31:46] forma directa con la 400. Bien,
+[01:31:50] comenzamos un poquito. A ver, recorremos
+[01:31:52] un poquito. Me adelante. Ahí va un poco
+[01:31:55] qué vamos a charlar ahora y lo vamos a
+[01:31:57] tratar de hacer una horita, ¿no? No
+[01:31:58] mucho más. Eh, vamos a hacer una una
+[01:32:02] jornada o este en esta horita que
+[01:32:03] tenemos bien práctica, vamos a tratar de
+[01:32:06] justamente tantos todas las
+[01:32:08] definiciones. Marcelo hace un rato,
+[01:32:10] Marcos el anterior jueves ya estuvieron
+[01:32:13] repasándolo, con lo cual vamos a hacerlo
+[01:32:15] bien práctica, vamos a recorrer la web
+[01:32:16] directamente como cualquiera de ustedes
+[01:32:19] pueden hacer, que creo que es la mejor
+[01:32:20] forma de ir diciéndole un poquito dónde
+[01:32:23] está la información y también contándole
+[01:32:25] qué no está. Eh, ¿por qué? Porque a ver,
+[01:32:28] es un proceso que también estamos
+[01:32:31] viviendo en camesa con la 400 desde el
+[01:32:33] mes de noviembre, con lo cual estamos
+[01:32:36] también en el área de datos y demás
+[01:32:38] trabajando en esa en ese proceso.
+[01:32:41] Estamos sumando cada vez más
+[01:32:43] información, pero no sumamos información
+[01:32:45] a que no tenga todo ese proceso de
+[01:32:47] validación y demás. Por eso hoy les
+[01:32:50] puedo contar qué es lo que tenemos y
+[01:32:51] desde ya que podemos sumar más
+[01:32:54] información, podemos tomar hacer mejoras
+[01:32:56] y estamos también en ese camino de
+[01:32:58] seguir sumando nuevos datos en
+[01:33:00] particular para que se tomen mejores
+[01:33:02] decisiones del lado de los agentes del
+[01:33:05] mercado. Distintos procesos. ¿Por qué
+[01:33:07] digo que vamos a hablar un poco de los
+[01:33:08] procesos? Hoy, como Guillermina dijo al
+[01:33:10] comienzo, estoy trabajando más ligado en
+[01:33:12] los procesos con la 400 y me tocó un
+[01:33:16] poco trabajar ahí en la implementación
+[01:33:18] de la 400. No soy informático, soy
+[01:33:21] ingeniero industrial, con lo cual voy
+[01:33:23] más del lado de la gestión, eh, pero
+[01:33:26] estuve trabajando en eso y ahí un
+[01:33:27] poquito después les voy a contar los
+[01:33:29] procesos en general de camesa y sí
+[01:33:31] después sí no nos metemos lo metemos
+[01:33:33] directamente en la estadística a ver qué
+[01:33:35] datos hay, como dije hace un dato, qué
+[01:33:37] datos no hay y también de los datos que
+[01:33:39] tenemos hay distintos datos en el
+[01:33:42] sentido que unos serán físicos, otros
+[01:33:44] serán son económicos, otros son
+[01:33:46] previstos. También hay mucha información
+[01:33:48] prevista hacia adelante, como también
+[01:33:50] hay datos, por supuesto, real, de tiempo
+[01:33:52] real y también hay historia, historia
+[01:33:54] que que también por la 400 les voy a
+[01:33:58] contar en un ratito, fuimos adaptando
+[01:34:00] para no perder justamente esa historia y
+[01:34:03] que podamos entender qué pasó eh antes
+[01:34:06] de la 400 y qué pasa ahora luego de la
+[01:34:10] 400. Bien, arrancamos.
+[01:34:15] A ver. ¿Por qué arranco arranco con esta
+[01:34:18] eh con esta gráfica que ustedes están
+[01:34:21] viendo y acá un poco lo que a mí me
+[01:34:23] gusta siempre arrancar y y por dónde va
+[01:34:26] a ir el tema de datos? A ver, en camisa
+[01:34:29] eh sin entrar en detalle que esta mesa y
+[01:34:32] demás que seguramente eh alguna algunos
+[01:34:35] ya han charlado o van a charlar. A ver,
+[01:34:37] en Camesa conviven cuatro tipos de
+[01:34:39] industrias, no hay mucho más que decir,
+[01:34:41] cuatro tipos de actividades que
+[01:34:43] indirectamente Marcelo y Marcos
+[01:34:45] estuvieron estuvieron hablando cuando
+[01:34:48] hablamos de demanda, voy a voy en
+[01:34:50] particular y cuando hablamos de agentes
+[01:34:52] mayoristas, justo antes de terminar,
+[01:34:55] Marcelo, eh hicieron la pregunta,
+[01:34:57] Guillermina, un poquito de de qué
+[01:34:59] usuarios pueden tener acceso y que no.
+[01:35:02] Bueno, los agentes mayoristas, esta esta
+[01:35:04] es la clave. Los agentes mayoristas del
+[01:35:06] mercado de eléctricos tienen información
+[01:35:09] a todos los documentos, todos los
+[01:35:11] documentos y a todos los datos que hoy
+[01:35:15] Marce y Marcos repitió y estuvieron
+[01:35:18] contando un poquito. Ellos tienen
+[01:35:20] información, repito, agentes mayoristas.
+[01:35:23] Esto es muy importante
+[01:35:25] hoy. El único documento, el único
+[01:35:28] documento que tiene, digamos,
+[01:35:30] restricciones,
+[01:35:32] digamos, para acceder y no ser agente es
+[01:35:35] el documento de transacciones
+[01:35:37] económicas. Bien, el DTE. Ese es el
+[01:35:40] documento que es necesario ingresar con
+[01:35:43] un usuario y una contraseña. Marcelo
+[01:35:46] hace un ratito habló del Mernet, el
+[01:35:48] sistema donde ingresan justamente el
+[01:35:51] tema de los contratos. También ahí
+[01:35:53] Marcelo lo explicó y muy bien cómo es la
+[01:35:56] validación. Bueno, ahí también esa
+[01:35:57] validación que hacen los agentes para
+[01:36:01] ingresar. Cuando ingresan tienen la
+[01:36:03] información que Marcelo le mostró en
+[01:36:06] cuanto a ver toda la información de los
+[01:36:08] contratos. Bien, pero estas son las dos
+[01:36:11] grandes restricciones, agentes
+[01:36:13] mayoristas del MEM. Y esto es importante
+[01:36:16] porque ahora miramos un poquito la
+[01:36:18] demanda cuando hablamos de agentes
+[01:36:19] mayoristas, hablamos de los
+[01:36:21] distribuidores, ¿bien? Eh, y hablamos de
+[01:36:23] los grandes usuarios. ¿Qué grandes
+[01:36:25] usuarios? Los gumas y los gumes. Okay. A
+[01:36:29] ver, cuando digo grandes usuarios gumas
+[01:36:31] y gumes, no estoy diciendo que no es, a
+[01:36:35] ver, perdón, indirectamente estoy
+[01:36:37] diciendo que no son agentes mayoristas
+[01:36:39] los grandes usuarios que están debajo
+[01:36:41] del distribuidor. Es más, es el
+[01:36:43] distribuidor el que tiene justamente eh
+[01:36:47] la potestad como agente de participar en
+[01:36:51] nombre de Bien, un poco, repito, Marcelo
+[01:36:54] lo dijo antes en la situación de
+[01:36:56] contratos, pero en general es así, es el
+[01:36:58] distribuidor el que vemos nosotros. Y
+[01:37:01] acá un poco lo que quiero decir, qué no
+[01:37:03] tenemos y empiezo a hablar un poco de
+[01:37:05] demanda en datos porque esto es creo que
+[01:37:07] es importante. Cuando hablamos de
+[01:37:09] demanda, tenemos toda la demanda de los
+[01:37:11] distribuidores, ¿es verdad? Tenemos un
+[01:37:13] paso que hoy el paso mínimo que ustedes
+[01:37:15] van a poder encontrar, ya veremos dónde,
+[01:37:18] es la demanda horaria y también, por
+[01:37:21] supuesto, también tenemos la demanda de
+[01:37:22] los grandes usuarios, agentes
+[01:37:24] mayoristas, Gumes, Gupas y Gumes. Vamos
+[01:37:27] a agar el GUPAS también, pero digamos
+[01:37:28] grandes usuarios mayores. Eh, ¿qué no
+[01:37:32] tenemos? Cuando voy un ejemplo muy
+[01:37:34] concreto, cuando nos piden, por ejemplo,
+[01:37:37] la demanda de un Woody, eso es parte de
+[01:37:41] el mercado del distribuidor o cuando nos
+[01:37:44] piden la demanda de una ciudad en
+[01:37:47] particular. tenemos, a ver, yo estoy en
+[01:37:50] un pueblo muy chiquito, estoy en Chabaz
+[01:37:52] en este momento, estoy muy cerca de
+[01:37:53] Rosario. Eh, cuando vemos Santa Fe, sí
+[01:37:58] tengo la demanda o sí tenemos, sí tengo,
+[01:38:00] digo, porque trabajé y mucho en la parte
+[01:38:03] de estadística, eh, sí tenemos la
+[01:38:06] demanda de la provincia, pero no tenemos
+[01:38:09] la demanda de la ciudad de Rosario. ¿Qué
+[01:38:12] quiero decir con esto? es la demanda de
+[01:38:14] la ciudad de Rosario es del mercado
+[01:38:16] minorista, en este caso de la EP Santa
+[01:38:19] Fe y nosotros llegamos hasta la energía
+[01:38:23] que se le entrega a la EPE. Bien, ¿qué
+[01:38:26] si tenemos como detalle de un
+[01:38:28] distribuidor y que tiene que ver un poco
+[01:38:31] con las definiciones de la 400? Si
+[01:38:34] tenemos cuánta demanda es residencial,
+[01:38:36] cuánta demanda es no residencial y
+[01:38:40] cuando decimos no residencial hablamos
+[01:38:42] de la comercial.
+[01:38:43] Y cuánta demanda es a través de un
+[01:38:45] segmento, a través del total, cuánta
+[01:38:48] demanda es gran usuario o goodi, gran
+[01:38:51] demanda debajo del distribuidor a nivel
+[01:38:54] de segmentos sí lo tenemos. ¿Por qué?
+[01:38:56] Porque tiene que ver con la transacción,
+[01:38:58] tiene que ver cómo paga ese distribuidor
+[01:39:01] la demanda y tiene que ver un poco con
+[01:39:03] los contratos, qué demanda tiene, cómo
+[01:39:06] está compuesta y qué demanda puede o no
+[01:39:09] o debe contratar, vamos a decirlo así.
+[01:39:12] Eso es muy importante y esa es una
+[01:39:14] estadística que empezamos a mostrar a
+[01:39:16] partir de la 400. Bien, a lo voy un poco
+[01:39:20] del lado de la oferta y por supuesto
+[01:39:23] en general lo agrupamos de esa manera
+[01:39:25] los generadores y los transportistas.
+[01:39:28] Eh, esto es muy importante porque
+[01:39:30] nuestros informes lo van a ver con esta
+[01:39:33] este agrupamiento demanda a través del
+[01:39:35] distribuidor, demanda a través de los
+[01:39:36] grandes usuarios y cuando hablamos de
+[01:39:38] oferta agrupamos en generadores y en
+[01:39:41] transportistas. Desde ya que desde
+[01:39:43] noviembre la parte de generador cambió,
+[01:39:45] ya lo vamos a mostrar. Comenzamos a
+[01:39:47] clasificarlo distinto. Antes habláamos
+[01:39:49] siempre de un único mercado, el digamos
+[01:39:52] el mercado eléctrico mayorista. La 400
+[01:39:55] ya nos trajo que dentro del mercado
+[01:39:58] generador hay un mercado spot y hay un
+[01:40:00] mercado asignado, con lo cual ahí ya hay
+[01:40:02] un cambio a la hora de mostrar o armar
+[01:40:04] un indicador, ya lo veremos. Y por
+[01:40:07] supuesto, del lado del transportista, y
+[01:40:09] esto más no me meto tanto, es un dato
+[01:40:11] que en general maneja el área de
+[01:40:14] estudios eléctricos a través de las
+[01:40:16] bases de datos. Nosotros ahí como área
+[01:40:18] de estadística y área de procesos, lo
+[01:40:20] que hacemos somos tomadores eh de de esa
+[01:40:23] información, pero lo fuerte y lo veremos
+[01:40:26] en un ratito se encuentra en el área de
+[01:40:29] estudios eléctricos en la web de la
+[01:40:31] empresa. Bien, un pantallazo de cómo
+[01:40:34] arrancamos. A ver, un me pongo, yo soy
+[01:40:36] analista, no estoy no participo si se
+[01:40:39] quiere en la cadena de valor y voy un
+[01:40:42] poquito a esa cadena de valor que
+[01:40:44] muestro en este caso a través de los
+[01:40:47] procesos. Cuando soy analista quiero
+[01:40:49] decir que voy tomando datos de distintas
+[01:40:52] áreas que forman camesa. Eh, cuando digo
+[01:40:55] que soy analista, digo que no soy el
+[01:40:57] dueño de ese dato o no soy el no soy
+[01:41:00] aquel que produce esa información. Bien,
+[01:41:03] por eso les estoy mostrando en este
+[01:41:05] momento cómo es el proceso de camisa.
+[01:41:07] Cuando hablo del proceso ustedes van a
+[01:41:09] ver procesos básicos, esa cadena, esos
+[01:41:12] procesos que agregan valor a lo que es
+[01:41:15] lo que hace Camesa, las funciones y
+[01:41:17] objetivos. Y por supuesto después
+[01:41:19] ustedes pueden ver distintos procesos de
+[01:41:21] apoyo a esos procesos básicos que en
+[01:41:24] realidad es relativo porque muchos de
+[01:41:27] esos procesos de apoyos también en
+[01:41:29] muchos momentos del año participan y muy
+[01:41:32] fuertemente en la cadena de valor. ¿Qué
+[01:41:35] quiero decir? A ver, Marcelo antes lo
+[01:41:37] nombró cuando hablaban de el tema de
+[01:41:40] límite de la capacidad de transporte de
+[01:41:42] ya que estudios eléctricos es la
+[01:41:43] principal fuente a la hora de analizar
+[01:41:46] esos límites, eh, que hoy ustedes lo
+[01:41:49] están viendo en pantalla, está lo
+[01:41:52] clasifico como proceso de apoyo, pero en
+[01:41:54] realidad participa en toda la cadena de
+[01:41:56] valor muy fuertemente.
+[01:41:59] procesos básicos muy rápidos y esto
+[01:42:01] tiene que ver un poco lo que decía antes
+[01:42:04] con la calidad y la cantidad de
+[01:42:06] información. Eh, Camesa tiene un área o
+[01:42:09] mejor dicho tiene distintas procesos que
+[01:42:11] tienen que ver con la planificación.
+[01:42:13] Bien, eh está la programación
+[01:42:15] estacional, semanal y diaria y todo está
+[01:42:18] relacionado, por supuesto, con la
+[01:42:20] gestión de combustible. No voy a entrar
+[01:42:22] en detalle, no es el objetivo de hoy,
+[01:42:24] pero todo lo que tiene que ver con la
+[01:42:26] programación, ni más ni menos, es de
+[01:42:28] acuerdo a la demanda que se espera, cómo
+[01:42:31] cubrir esa demanda. Bien, la
+[01:42:33] programación estacional es una
+[01:42:34] programación de mediano y largo plazo,
+[01:42:36] semanal y diaria, ya que es corto y la
+[01:42:39] gestión de combustible interactúa eh con
+[01:42:42] las áreas de planificación justamente
+[01:42:44] con lo que es la parte de la gestión de
+[01:42:47] las máquinas térmicas. Voy con el primer
+[01:42:50] dato y Marcelo antes lo nombró y y creo
+[01:42:53] que está bueno. Eh, el sistema, la
+[01:42:56] potencia instalada de Argentina eh hoy
+[01:42:59] sigue teniendo, por supuesto, el la
+[01:43:02] parte térmica como su principal fuente,
+[01:43:05] eh hoy con algo más del 50% de
+[01:43:08] participación en la potencia instalada.
+[01:43:11] Eh, de ahí un poco lo importante de lo
+[01:43:13] que es la gestión de combustible y por
+[01:43:15] supuesto la gestión de combustible
+[01:43:17] termina dando como resultado el costo
+[01:43:19] variable que puede tener una máquina,
+[01:43:21] ¿verdad? Entonces, repito, más del 50%
+[01:43:25] de la potencia instalada de Argentina es
+[01:43:28] térmico, desde ya que los últimos años y
+[01:43:31] creciendo muy fuerte todo lo que es
+[01:43:33] renovable, eh todo lo que tiene que ver
+[01:43:35] con energía eólica y solar
+[01:43:37] principalmente. Pero bueno, la matriz
+[01:43:39] hoy sigue siendo una matriz fuertemente
+[01:43:42] térmica, segundo hidro y ahora es más
+[01:43:45] fuerte renovable. Bueno, dentro del
+[01:43:48] proceso sigo un poquito. Está la
+[01:43:49] operación, la operación en tiempo real.
+[01:43:51] eh que justamente está acá en Pérez,
+[01:43:54] donde yo estoy. Yo estoy cerca
+[01:43:56] justamente de la sede Pérez, donde se
+[01:43:58] hace el la operación, el seguimiento en
+[01:44:00] tiempo real. De ahí un poquito los datos
+[01:44:03] que también contamos y voy a repasar
+[01:44:05] rápidamente dónde pueden encontrar hoy
+[01:44:08] información en tiempo real. Eh, datos
+[01:44:11] que antes de la 400 tenían una
+[01:44:14] importancia, después de la 400 tomaron
+[01:44:17] mucho más relevanta, más relevancia como
+[01:44:19] ser el costo marginal operado. Ya lo
+[01:44:21] veremos en un ratito. Después sí viene
+[01:44:24] todas las áreas que trabajan con toda la
+[01:44:26] información que entrega planificación y
+[01:44:29] operaciones, que es el control
+[01:44:30] postoperativo. El control postoperativo
+[01:44:33] en camesa, ni más ni menos es validar
+[01:44:36] toda la información que entregaron las
+[01:44:38] áreas. principalmente física, ¿no? Eh,
+[01:44:42] pero por supuesto aparece la parte
+[01:44:44] económica con el costo marginal, aparece
+[01:44:46] la parte económica con los combustibles
+[01:44:48] y demás, pero el control postoperativo
+[01:44:51] valida todo lo que se planificó barra
+[01:44:54] operó para luego, ¿qué? y era las
+[01:44:57] transacciones económicas, ni más ni
+[01:44:58] menos que eso, las transacciones
+[01:45:00] económicas termina tomando todos los
+[01:45:02] valores validados físicos,
+[01:45:05] principalmente por lo que es la las área
+[01:45:06] de control postoperativo. Y es ahí donde
+[01:45:09] fuertemente aparecen los precios, ahí
+[01:45:12] donde aparece cómo se remunera eh a la
+[01:45:15] generación, cómo debe pagar la demanda y
+[01:45:18] además, como dije antes y lo mostré hace
+[01:45:20] un ratito,
+[01:45:22] eh ahí se remunera cuatro tipos de
+[01:45:24] actividades diferentes, es decir, se
+[01:45:26] convivan en camisa cuatro tipos, con lo
+[01:45:29] cual hay que remunerar a a la
+[01:45:30] generación, hay que remunerar al
+[01:45:32] transporte y la demanda. sea gran
+[01:45:34] usuario, distribuidor, tienen precios y
+[01:45:37] formas diferentes a la hora de calcular
+[01:45:39] el precio que deben pagar. Bien, eso es
+[01:45:42] un proceso muy importante que es la
+[01:45:44] transacción económica. Eh, repito,
+[01:45:47] validando todo lo que se hizo en la
+[01:45:49] operación y el control postoperativo.
+[01:45:51] Último, muy muy sencillo es el eh cobros
+[01:45:54] y pago, no muy sencillo en cuanto a a la
+[01:45:56] cantidad de procesos que hacen, sino que
+[01:45:58] validando todo eso, después viene
+[01:46:00] justamente eh la parte de cobros y
+[01:46:03] pagos. a través de los resultados de la
+[01:46:04] transacción económicas que que ahí se
+[01:46:07] agregan los agentes del MEN como así
+[01:46:09] también proveedores de el mercado
+[01:46:12] eléctrico mayorista.
+[01:46:14] Destaco un poco los procesos. ¿Por qué?
+[01:46:17] Porque le dije hace un ratito, mi
+[01:46:19] función como analista dentro de del
+[01:46:22] mercado, dentro del área donde estoy,
+[01:46:23] que hoy, si bien estoy en procesos,
+[01:46:26] vengo de estadística, eh es ir y
+[01:46:29] entender todo este proceso que le conté
+[01:46:32] muy rápido para luego poder interpretar
+[01:46:35] la información. eh una un dato muy
+[01:46:38] importante que hacemos nosotros eh como
+[01:46:40] estadística y lo hicimos desde que
+[01:46:42] tomamos un poquito esa responsabilidad.
+[01:46:45] En cada informe en cada informe ustedes
+[01:46:47] van a poder encontrar no solo un PDF, no
+[01:46:49] solo un PPT, en donde eh describimos un
+[01:46:52] poquito cómo se comportó el mes, los
+[01:46:55] indicadores y demás. Si no en cada una
+[01:46:58] de las bases de datos también van en
+[01:47:00] cada informe también van a poder
+[01:47:02] encontrar la base de datos. Es decir,
+[01:47:04] cada uno va a poder bajar la información
+[01:47:07] y poder hacer como mínimo los mismos
+[01:47:10] indicadores que nosotros estamos
+[01:47:12] exponiendo en los informes. Eso es eso
+[01:47:15] es un objetivo. ¿Por qué? Porque vimos
+[01:47:17] justamente para poder entender este
+[01:47:19] proceso desde los datos dejarle
+[01:47:22] disponible la mayor cantidad de
+[01:47:24] información y no solo poder clasificarla
+[01:47:27] en así en en temas como ser demanda,
+[01:47:30] generación, oferta, sino también darle
+[01:47:33] toda la información necesaria en
+[01:47:34] distintos pasos del tiempos y distintas
+[01:47:37] temporalidades. Como así también si es
+[01:47:39] el dato es provisto, perdón, previsto,
+[01:47:42] si ese dato es real o si ese dato
+[01:47:44] justamente necesita una validación.
+[01:47:46] También eso es muy importante en este
+[01:47:49] proceso de exponer la información.
+[01:47:55] A ver, eh vamos a entrar en un ratito en
+[01:47:57] la web. Eh todos estos informes, como
+[01:48:00] les dije hace un ratito, eh se
+[01:48:02] encuentran en la web de camesa,
+[01:48:03] particularmente se encuentran en
+[01:48:05] informes estadísticas. pueden comenzar a
+[01:48:08] a ingresar. Eh, la idea es hacerlo bien
+[01:48:10] práctico, la idea es entrar, empezar a
+[01:48:12] recorrer un poquito y contarles eh qué
+[01:48:15] está, qué pueden encontrar. Sin entrar
+[01:48:17] en detalle en explicar un poquito la
+[01:48:19] parte teoría. Me me sigo apoyando en
+[01:48:22] Marcelo y Marcos. Eh, desde ya que
+[01:48:25] tienen mis datos. Después podemos me
+[01:48:27] pueden hacer las preguntas que quieran,
+[01:48:29] pero mi idea es contarle dónde está la
+[01:48:31] información. Ese es mi objetivo ahora. Y
+[01:48:33] por supuesto también darle un poquito
+[01:48:35] ese puntapié de la 400, cómo lo hacíamos
+[01:48:38] antes y cómo lo hacemos ahora.
+[01:48:42] A ver, eh, informes estadísticas. Eh,
+[01:48:46] voy rápido y si se quiere voy a esta
+[01:48:48] esta hojita que está un poquito más más
+[01:48:50] clara. Distintos informes mensuales van
+[01:48:52] a encontrar en el link que le acabo de
+[01:48:54] pasar. Hay distintos informes donde
+[01:48:57] tienen distintos objetivos. Acá lo que
+[01:48:59] quiero mostrar, lo que ustedes están
+[01:49:01] viendo en pantalla, es el alcance de
+[01:49:02] cada uno. A ver, hay informes en donde
+[01:49:05] cubre toda la cadena de producción de
+[01:49:08] energía eléctrica. Bien, cuando digo
+[01:49:10] cubre todo, va de la generación a la
+[01:49:12] demanda. Entrega distinta información
+[01:49:15] donde permite entender esa cadena de
+[01:49:18] producción. Pero también tenemos
+[01:49:20] informes particulares, por ejemplo, de
+[01:49:22] la generación y hay informes
+[01:49:24] particulares de la demanda, como ustedes
+[01:49:26] están viendo. Esto es muy importante
+[01:49:28] reconocerlo porque ahí ustedes ya le
+[01:49:29] pueden dar un alcance si quieren ir de
+[01:49:32] lo general o quieren ir a lo particular.
+[01:49:35] Bien, desde ya que dentro de cada
+[01:49:37] informe también van a poder encontrar
+[01:49:40] distintas datos en algunos casos muy muy
+[01:49:44] específicos, como se como dije hace un
+[01:49:45] ratito, una demanda horaria, como
+[01:49:48] también van a poder encontrar en otros
+[01:49:50] casos datos anuales, resumen de
+[01:49:53] información. Bien, esto también es muy
+[01:49:55] importante porque a la hora de navegar,
+[01:49:58] depende lo que necesito, depende a mi
+[01:50:00] alcance, puedo ir a uno o a otro
+[01:50:02] informe. Bien.
+[01:50:06] A ver, no voy a entrar en detalle acá,
+[01:50:08] perdón. Eh, una de las cosas que que
+[01:50:12] dejo en esta presentación, que
+[01:50:13] seguramente luego ustedes la tendrán, es
+[01:50:16] un poquito la definición que contiene a
+[01:50:18] grandes rasgos cada uno de los informes
+[01:50:20] para que ustedes ya tengan un panorama
+[01:50:22] muy rápido y puedan, de acuerdo a lo que
+[01:50:24] les toque hacer o análisis que tengan
+[01:50:26] que hacer, a dónde ir. Eh, cada informe
+[01:50:30] y creo que es un dato destacar y eso es
+[01:50:32] un poco esta evolución que decía al
+[01:50:34] comienzo que también estamos eh
+[01:50:36] transformando a Camesa eh en el tema de
+[01:50:39] acceso a la información, es que van a
+[01:50:41] encontrar también Power BI. Hay mucha
+[01:50:44] información en Power BI que ustedes
+[01:50:46] puedan directamente ingresar. A lo mejor
+[01:50:48] no hace falta ni que ingrese un informe
+[01:50:50] ni que se bajen la información. Ya con
+[01:50:52] el Power BI pueden jugar, como digo yo
+[01:50:54] habitualmente y obtener la información
+[01:50:56] que necesitan. Pero en general, y esto
+[01:50:59] muy simple, también pueden bajarse la
+[01:51:01] información, la mayoría de ellas está en
+[01:51:04] Excel con una estructura, con una forma
+[01:51:07] todos los meses igual para que puedan
+[01:51:09] bajar y actualizar mes a mes.
+[01:51:13] Eh,
+[01:51:15] bueno, no voy a no voy a entrar en
+[01:51:17] detalle. Ahora recorremos en la web, así
+[01:51:19] voy avanzando ya que tenemos un ratito
+[01:51:22] de tiempo. Eh, hay informes
+[01:51:24] particulares, también hay otros informes
+[01:51:26] que en realidad eh cada uno de estos
+[01:51:29] informes y no es menor este dato, no es
+[01:51:32] que se nos ocurrió a nosotros hacerlo,
+[01:51:34] sino que en general muchos de estos
+[01:51:36] informes vienen de los agentes, vienen
+[01:51:38] de escuchar los agentes de qué
+[01:51:40] necesitan, de cómo exponer la
+[01:51:42] información. Bueno, mucho de la
+[01:51:44] información que ustedes van a encontrar
+[01:51:45] en la web es un armado en conjunto con
+[01:51:48] los agentes mayoristas.
+[01:51:52] A ver, eh, rápido y vamos a la web. La
+[01:51:57] 400 trajo cambios, no hay mucha vuelta,
+[01:52:00] digamos. Estamos hablando hace dos
+[01:52:01] jueves eh de un poquito por dónde dónde
+[01:52:04] vienen los cambios. Y acá dejo algunos
+[01:52:06] puntos, algunos fits importantes eh a
+[01:52:09] tener en cuenta. La demanda eh la
+[01:52:12] demanda hasta octubre, vamos a ponerlo
+[01:52:15] así, o antes de la 400, teníamos la
+[01:52:18] demanda residencial, la demanda no
+[01:52:20] residencial, el goodi, el BME y el
+[01:52:23] Gumas. La demanda, digamos,
+[01:52:25] estacionalizada o mejor dicho la demanda
+[01:52:27] que paga precio estacionalizar estaba en
+[01:52:31] formado por residencial, no residencial
+[01:52:33] y goody. La 400 trajo la definición y
+[01:52:37] antes también lo destacaron muy bien,
+[01:52:39] qué es la demanda estacionalizada y cuál
+[01:52:42] es la demanda no estacionalizada. Eso es
+[01:52:45] nuevo desde el desde octubre, ¿qué
+[01:52:48] hicimos? Desde noviembre, perdón, ¿qué
+[01:52:50] hicimos nosotros en nuestras bases de
+[01:52:51] datos? Como ya teníamos una
+[01:52:54] clasificación previa, como acabo de
+[01:52:56] decir, van a poder encontrar, si van a
+[01:52:59] consultar datos históricos de la
+[01:53:01] demanda, cuál hubiese sido la demanda
+[01:53:04] estacionalizada, por ejemplo, en el año
+[01:53:06] 2024, cuál hubiese sido la demanda no
+[01:53:09] estacionalizada en el año o en el mes de
+[01:53:12] enero 2024. Es decir, trasladamos este
+[01:53:16] criterio de la 400 hacia atrás para que
+[01:53:19] cualquiera pueda evaluar un escenario.
+[01:53:22] Por ejemplo, si la demanda sería similar
+[01:53:25] al 2024, cómo sería esta clasificación
+[01:53:28] entre estacionalizada y no
+[01:53:29] estacionalizada.
+[01:53:31] Vamos a la oferta
+[01:53:33] muy fuerte. Los dos mercados que designó
+[01:53:36] la 400. Tenemos el mercado asignado y el
+[01:53:39] mercado spot. Acá es un dato en donde
+[01:53:43] Marcelo lo dijo hace un ratito,
+[01:53:44] interviene dentro del mercado spot el
+[01:53:47] mercado a término, lo que es mercado
+[01:53:49] MAT, mercado a término. Lo que nosotros
+[01:53:52] empezamos a incorporar en los informes
+[01:53:54] es esta clasificación, cuánto es el
+[01:53:57] mercado asignado, cuánto es el mercado
+[01:54:00] spot y cuánto es el mercado a término.
+[01:54:03] Un dato muy importante en este caso no
+[01:54:05] es que llevamos esta información para
+[01:54:07] atrás. ¿Por qué? Porque el mercado a
+[01:54:10] término antes solo teníamos en octubre
+[01:54:13] lo que es matter o mercado a término
+[01:54:15] renovable. Bueno, lo que nosotros
+[01:54:18] estamos ahora sumando es desde noviembre
+[01:54:21] el mercado a término que es renovable
+[01:54:24] más todo lo que es térmico hidráulico,
+[01:54:27] lo que explicó hace un ratito Marcelo.
+[01:54:29] No fuimos para atrás porque directamente
+[01:54:31] esa información no estaba dentro de de
+[01:54:33] las bases de camesa, pero sí sabiendo
+[01:54:36] que hay un informe, después les voy a
+[01:54:39] mostrar rápido, que tiene que ver con el
+[01:54:41] mercado a término renovable,
+[01:54:43] particularmente.
+[01:54:45] Entonces hoy apoyado en ese informe más
+[01:54:47] la 400 van a poder ver desde noviembre
+[01:54:51] esta clasificación asignado spot y
+[01:54:53] mercado eterno
+[01:54:55] combustibles, uno de los cuellos de
+[01:54:58] botella de la 400. ¿Por qué? Porque acá
+[01:55:01] empezamos a empiezan a aparecer nuevos
+[01:55:04] subtipos de gas. Eh, gas acuerdo, gas
+[01:55:06] propio. Seguramente, no sé si lo
+[01:55:09] recuerdan ahora, Marco le explicó qué
+[01:55:11] significa cada uno o cómo se evalúa a
+[01:55:13] través de la transacción. Bueno, eh
+[01:55:15] desde ya que desde la 400 van a poder
+[01:55:18] encontrar en los informes cuánto es o
+[01:55:21] qué volumen es gas propio o qué volumen
+[01:55:23] de gas acuerdo. Y por último, no menor o
+[01:55:27] mejor dicho muy importante, empezamos a
+[01:55:30] a ver los nuevos o la nueva estructura
+[01:55:32] de costos y precios. Bien, eso van a
+[01:55:34] encontrar porque, a ver, es muy
+[01:55:37] importante a la hora de hacer contratos,
+[01:55:38] que esté bien claro la información de
+[01:55:41] costos y precios, con lo cual empezamos
+[01:55:43] a trabajar un poco con el mercado
+[01:55:45] asignado, es decir, cuál es el precio
+[01:55:47] medio de dicho mercado. Empezamos a
+[01:55:50] trabajar con el mercado spot, por
+[01:55:51] supuesto, un poco me adelante antes
+[01:55:54] viendo estos cuatro ítem, cuánto es
+[01:55:56] energía, cuánto es potencia, cuántos son
+[01:55:59] adicionales y transporte. Ya lo vamos a
+[01:56:01] ver en un ratito. Y desde ya que entra
+[01:56:04] como variable clave que no digo que
+[01:56:06] antes no estaba y antes también estaba y
+[01:56:08] la podían bajar, que es el costo
+[01:56:10] marginal operado. ¿Por qué? Porque el
+[01:56:12] costo marginal operado justamente es la
+[01:56:15] señal que tiene el mercado,
+[01:56:17] particularmente en el mercado spot, a la
+[01:56:19] hora de evaluar las rentas, como así
+[01:56:22] también a la hora de evaluar la
+[01:56:24] posibilidad de hacer un mercado a
+[01:56:25] término, justamente evaluación que
+[01:56:27] tendrán que hacer cada una de las
+[01:56:29] partes, particularmente la demanda.
+[01:56:32] Bien,
+[01:56:35] seguimos. A ver, un ejemplo muy concreto
+[01:56:38] y de demanda y entro en un ratito ya a
+[01:56:41] la web. A ver, la demanda lo dije hace
+[01:56:43] un ratito, esto es un ejemplo, es un
+[01:56:45] informe, es el informe de variables
+[01:56:47] relevantes que se encuentra en la web de
+[01:56:49] Camesa, en la parte de estadística lo
+[01:56:51] que hicimos fue la demanda dividirla
+[01:56:53] entre estacionalizada y no
+[01:56:54] estacionalizada. A la vez pusimos qué
+[01:56:57] significa cuando la demanda es
+[01:56:59] estacionalizada, residencial, no
+[01:57:01] residencial. Y ahí aparece lo que
+[01:57:03] Marcelo dijo hace un ratito. En este
+[01:57:06] mes, ¿cuánto fue cubierta? ¿Cuánto fue
+[01:57:09] cubierta de la demanda estacionalizada
+[01:57:12] por el mercado asignado? Bien, ahí
+[01:57:15] ustedes pueden ver marcado para
+[01:57:18] residencial y para no residencial cuánto
+[01:57:21] fue cubierto por el mercado asignado y
+[01:57:24] de ella, por supuesto, queda la parte de
+[01:57:27] no cubierta de la demanda
+[01:57:29] estacionalizada. Esto es importante
+[01:57:32] porque antes se nombró muy bien que la
+[01:57:35] demanda no residencial no cubierta es la
+[01:57:38] que debería salir a o podría, perdón,
+[01:57:41] contratarse. Bien, esta información está
+[01:57:44] disponible en los informes. No, no, no
+[01:57:48] estacionalizada. Gui, Gume y Guma, la
+[01:57:50] gran demanda mayor, como me gusta
+[01:57:52] decirlo a mí, ahí lo tienen también
+[01:57:54] separado por distintos segmentos barra
+[01:57:58] tipo de usuario.
+[01:58:01] Un datito de demanda.
+[01:58:03] A ver, vamos ahora como dije recién,
+[01:58:06] Power BI. Y este es un ejemplo muy claro
+[01:58:09] que pueden ver desde enero 22 a la fecha
+[01:58:14] cómo fue esta demanda estacionalizada y
+[01:58:17] no estacionalizada a lo largo del
+[01:58:19] tiempo. Repito, lo que hicimos fue
+[01:58:22] trasladar la definición de la 400 hacia
+[01:58:25] atrás. No es que perdimos información,
+[01:58:28] al contrario, sumamos nuevos campos que
+[01:58:31] nos permiten poder filtrar y decir
+[01:58:34] cuánto fue estacionalizada y cuánto fue
+[01:58:36] no estacionalizada.
+[01:58:38] Esta información es parte del informe
+[01:58:41] mensual de camisa y no solo pueden ver a
+[01:58:44] nivel total, sino que pueden ver a nivel
+[01:58:47] de agente mayorista. Bien, esto es un
+[01:58:51] dato, ya veremos en detalle.
+[01:58:55] oferta. Otro de los cambios importantes
+[01:58:57] que trajo la 400, perdón, abierto a
+[01:59:00] preguntas, yo no los veo y que cualquier
+[01:59:03] cosa me abre el micrófono y me van
+[01:59:05] diciendo, ¿eh? Así que bueno,
+[01:59:07] continuamos. La oferta, a ver, la oferta
+[01:59:10] está dividida justamente, como dije al
+[01:59:13] comienzo, asignada contrato mercado
+[01:59:15] determinado y spot. Bien, esto es nuevo
+[01:59:19] a la hora de clasificar la oferta porque
+[01:59:22] hasta octubre nosotros no agregábamos la
+[01:59:25] parte comercial o si se quiere la
+[01:59:28] clasificación de mercado a término.
+[01:59:29] Antes simplemente era todo físico, que
+[01:59:32] es esa separación que Marcelo antes dijo
+[01:59:34] entre físico, despacho y la parte
+[01:59:36] comercial. Justamente nosotros nos
+[01:59:38] enfocamos solo en la parte física y
+[01:59:41] teníamos una clasificación. desde
+[01:59:44] noviembre van a poder encontrar esta
+[01:59:47] clasificación que están viendo en
+[01:59:49] pantalla, van a poder bajar qué unidades
+[01:59:52] se encuentran en cada una de estas de
+[01:59:55] estas clasificaciones y de ya que no es
+[01:59:58] al azar estas clasificaciones, ¿por qué
+[02:00:01] la demanda asignada? Ustedes están
+[02:00:03] viendo ahí, cada uno de esas
+[02:00:05] clasificaciones que ustedes están
+[02:00:07] viendo, hay una regulación que dice de
+[02:00:09] cómo se remunera. Por eso está la
+[02:00:12] hidrobinacional. la hidronacional y
+[02:00:15] nuclear renovables PPA. Renovables es
+[02:00:19] potencia puesta a disposición. Los
+[02:00:21] térmicos potencia puesta a disposición
+[02:00:23] son los contratos que tienen con camesa,
+[02:00:25] te lo resumo rápido. Renovable es
+[02:00:27] renovar, ese es el nombre digamos común.
+[02:00:30] Y lo que es térmico son los contratos
+[02:00:32] 220, contrato 21, no sé si han si han
+[02:00:34] escuchado. Y la importación.
+[02:00:37] Esto fue lo que dijo la 400, definió qué
+[02:00:40] unidades tienen que formar parte del
+[02:00:42] mercado asignado y depu
+[02:00:46] término, no entro. Marcelo lo detalló y
+[02:00:48] muy bien, pero el mercado Spotalla
+[02:00:52] cuáles son las unidades que participan
+[02:00:54] de dicho mercado. A ver, a grandes
+[02:00:56] rasgos, no hace falta que lo diga. No
+[02:00:58] voy a explicar bien los números. Hoy
+[02:01:00] dejo abierto mi correo para cuando
+[02:01:02] quieran y hablemos de lo que lo que
+[02:01:04] necesiten. El mercado de término
+[02:01:06] mayormente hoy está armado por la
+[02:01:08] generación térmica. Bien, el mercado
+[02:01:10] spot, repito, está armado en general hoy
+[02:01:14] con el mercado térmico como su principal
+[02:01:17] fuente a la hora de generar y todo lo
+[02:01:20] que tiene relacionado con los costos
+[02:01:22] desde ya tienen que ver con el mercado
+[02:01:25] spot, el mercado térmico justamente por
+[02:01:28] el combustible y demás.
+[02:01:31] Seguimos
+[02:01:33] un poquito, bueno, un poco eh en para
+[02:01:36] que vean que no les miento, un poco lo
+[02:01:37] que venimos siguiendo de de la parte de
+[02:01:40] generación y lo que agregamos del
+[02:01:42] mercado a término, del mercado spot y
+[02:01:44] del mercado asignado a partir de
+[02:01:46] noviembre. Eh, esta información está
+[02:01:48] agrupada y también detallada. A ver, una
+[02:01:52] pregunta que viene habitualmente y
+[02:01:54] aprovecho ya que estamos acá y la
+[02:01:56] comparto. ¿Cómo hacemos para tradar
+[02:01:58] esto? esto mismo que vemos desde
+[02:02:00] noviembre hacia atrás en general, por
+[02:02:02] supuesto, la parte del mercado a término
+[02:02:04] es nueva. La parte del mercado a término
+[02:02:07] eh no tanto no tanto, no de matter, pero
+[02:02:10] sí de todas aquellas otras tecnologías
+[02:02:13] que desde la 400 se habilitaron a
+[02:02:15] contratar. Eh, lo que nosotros decimos
+[02:02:18] habitualmente es, a ver, acá están
+[02:02:20] clasificados por máquina, máquina por
+[02:02:23] máquina tiene una clasificación, sea un
+[02:02:25] mercado o el otro. esa clasificación
+[02:02:28] tranquilamente uno podría extrapolarla y
+[02:02:31] clasificar a toda la generación que se
+[02:02:34] encuentra, digamos, si yo quisiera
+[02:02:36] llegar hasta enero 2022, ¿me explico? Es
+[02:02:39] decir, con la clasificación que hoy
+[02:02:41] encuentran en los informes desde
+[02:02:43] noviembre en adelante podrían extrapolar
+[02:02:46] y los errores serán mínimos. ¿Por qué?
+[02:02:49] porque está bien marcado por qué están
+[02:02:52] clasificado la el mercado asignado y por
+[02:02:54] qué esta máquina está clasificado en el
+[02:02:55] mercado spot. Eh, Marco lo expresó muy
+[02:02:58] bien. Bueno, esas máquinas si van hacia
+[02:03:01] atrás pueden clasificar y hacer el mismo
+[02:03:03] indicador, por ejemplo, en julio del año
+[02:03:07] 2022.
+[02:03:11] Seguimos. A ver qué variable entró y con
+[02:03:15] mucha fuerza. Como dije hace un ratito,
+[02:03:17] el costo marginal operado, el costo
+[02:03:20] marginal operado es una señal de precios
+[02:03:22] particularmente para el mercado spot,
+[02:03:24] pero por supuesto que tienen, digamos,
+[02:03:26] eh ambas aristas, tanto para la oferta
+[02:03:29] como para la demanda, en particular a la
+[02:03:31] hora de pensar en hacer contratos. Para
+[02:03:34] el costo marginal operado, hay un
+[02:03:36] proceso previo en camisa que se llama
+[02:03:38] todo lo que tiene que ver con la
+[02:03:40] declaración del costo variable de
+[02:03:42] producción. El costo manejano operado es
+[02:03:44] la máquina, Marcelo lo dijo antes el
+[02:03:46] pasar, ordenamos de mayor a menor. La
+[02:03:49] última máquina despachada de mayor
+[02:03:51] precio es la que termina definiendo el
+[02:03:53] costo marginal operado. Ese costo
+[02:03:55] marginal o ese precio de esa máquina.
+[02:03:58] Hay un proceso en camisa que se llama
+[02:04:00] declaración de costos variable de
+[02:04:01] producción. Es una declaración que lo
+[02:04:03] hace la programación estacional como
+[02:04:05] responsable de ese proceso. Y en ese
+[02:04:07] proceso es se abren declaraciones
+[02:04:10] quincenales. Bien. Es decir, que en el
+[02:04:12] mes hay dos declaraciones de costo
+[02:04:14] variable de producción. ¿Por qué marco
+[02:04:17] ahí el tipo el tipo de de tasa de cambio
+[02:04:21] quincenal? Porque justamente para lo que
+[02:04:25] es el costo variable de producción, en
+[02:04:27] definitiva, para el costo marginal
+[02:04:29] operado, se utiliza una tasa de cambio
+[02:04:33] quincenal. Bien, hago esta diferencia
+[02:04:37] porque en el documento de transacciones
+[02:04:40] económicas,
+[02:04:41] los ítem que están relacionados en
+[02:04:44] dólares, voy a voy con voy con ejemplos
+[02:04:47] muy concretos, los contratos y demás, se
+[02:04:50] usa la tasa de cambio de el último día
+[02:04:54] hábil del mes para pasar de dólar a
+[02:04:58] pesos. Diferente es esto. Y esto me
+[02:05:01] explico, esto lo explico por qué. Si
+[02:05:04] vamos llevando
+[02:05:06] ambos indicadores, van a ver que
+[02:05:08] habitualmente hay una mínima diferencia
+[02:05:10] entre la tasa quincenal y la tasa que
+[02:05:13] toma las transacciones. Últimamente la
+[02:05:15] diferencia es mínima, pero sí hubo otros
+[02:05:19] meses, fíjense, diciembre 23 como un
+[02:05:21] ejemplo, ¿qué significa tomar una tasa
+[02:05:24] eh media y una cosa tomar una tasa del
+[02:05:27] último día hábil del mes. Es un detalle,
+[02:05:31] pero importante a la hora de evaluar el
+[02:05:33] costo marginal operado.
+[02:05:38] Vamos a terminar esta partecita así, una
+[02:05:40] introducción con la parte de costo
+[02:05:43] marginal, eh con perdón, con la parte de
+[02:05:45] costos. Eh, cada uno de los mercados
+[02:05:48] nosotros expresamos justamente con
+[02:05:51] cuatro íem a la hora de decir cuál fue
+[02:05:54] el costo o el precio. Y ahora un poco le
+[02:05:56] le cuento un poco el por qué. Primero, a
+[02:05:59] ver. Eh, los cuatro ítems son energía,
+[02:06:02] potencia, servicio y transporte. Bien,
+[02:06:05] son cuatro ítem en el cual hoy la
+[02:06:08] demanda también paganos cuatro ítems.
+[02:06:12] Eh, hasta octubre, a lo mejor algunos lo
+[02:06:14] conocen, algunos más, otros menos, otros
+[02:06:16] no, no tienen por qué. Había una serie
+[02:06:19] de cargos y sobre costos, no sé si
+[02:06:21] recuerdan, eh, que desde ya terminaban
+[02:06:24] formando el precio que pagaba la
+[02:06:27] demanda. Esos cargos que estamos
+[02:06:29] hablando de más o menos entre 10 y 15
+[02:06:31] cargos, hoy son cuatro. Hoy se se
+[02:06:34] simplificó mucho porque hoy son cuatro
+[02:06:37] cargos, digamos, que se traslada a la
+[02:06:40] demanda.
+[02:06:41] Estadísticamente para poder digamos
+[02:06:44] continuar con esa estadística,
+[02:06:47] lo que hicimos fue clasificar clasificar
+[02:06:50] a los sobrecostos en estos cuatro ítems.
+[02:06:54] Es decir, dijimos, a ver, lo que antes
+[02:06:55] era sobrecosto, que estaba relacionado
+[02:06:57] con energía, lo clasificamos como
+[02:06:59] energía. Lo que antes era un sobrecosto
+[02:07:02] que tenía que ver con un cargo de
+[02:07:04] potencia, lo clasificamos como potencia.
+[02:07:06] Servicio de transporte eres más sencillo
+[02:07:08] porque habitualmente cuando hablamos de
+[02:07:10] servicios son reservas, cuando hablamos
+[02:07:12] de transporte es el pago del transporte.
+[02:07:14] Eso no hubo diferencias respecto a como
+[02:07:16] veníamos antes. Entonces ustedes van a
+[02:07:19] poder encontrar en la web no el mismo
+[02:07:22] cálculo que se hace ahora, repito, no el
+[02:07:25] mismo cálculo, pero sí una tentativa de
+[02:07:29] cuánto se pagaba por energía o cuánto se
+[02:07:33] pagaba por potencia en octubre y cuánto
+[02:07:36] se paga ahora. Porque esto es muy
+[02:07:38] importante y por qué lo digo no es que
+[02:07:40] nosotros simulamos la 400 para atrás.
+[02:07:44] No, simplemente le estamos dando como
+[02:07:47] estadística una continuidad de cuánto se
+[02:07:50] pagaba en octubre y cuánto se paga a
+[02:07:53] partir de noviembre de la demanda. En
+[02:07:56] general, cuando hablo de cuánto paga,
+[02:07:59] hablo de la gran demanda. ¿Por qué hablo
+[02:08:01] de la gran demanda? Porque toda aquella
+[02:08:03] demanda que está debajo del distribuidor
+[02:08:06] tiene un precio, digamos,
+[02:08:09] estacionalizado. Es un precio definido
+[02:08:11] por una regulación. Ahí está la
+[02:08:13] diferencia. Pero muy importante esto que
+[02:08:15] quiero remarcar el tema de de los
+[02:08:18] precios que están hoy publicados,
+[02:08:20] particularmente en variables relevantes,
+[02:08:22] particularmente en informe mensual. Los
+[02:08:24] precios tienen una continuidad, es
+[02:08:26] verdad, pero no es que fuimos para atrás
+[02:08:28] y simulamos la 400, simplemente
+[02:08:31] ordenamos los cargos y sobre cargos que
+[02:08:34] sobre costos que teníamos y lo agrupamos
+[02:08:37] en estos cuatro internos.
+[02:08:40] arranco un poquito. A ver, mercado
+[02:08:42] asignado y precio del mercado spot. En
+[02:08:46] el mercado asignado, lo dije un poquito
+[02:08:47] antes, eh cada participante o cada
+[02:08:50] oferta que participa en ese mercado
+[02:08:52] tiene una regulación, una regulación que
+[02:08:54] define cómo se debe pagar a esa
+[02:08:57] generación. Por eso nosotros seguimos
+[02:08:59] manteniendo el tema de costos en ese
+[02:09:01] mercado, porque acá no interviene, por
+[02:09:04] ejemplo, la renta, precio del mercado
+[02:09:07] spot. Acá justamente viene las señales
+[02:09:10] de precio, interviene el costo marginal,
+[02:09:13] interviene el costo variable de
+[02:09:15] producción y a partir de esa definición
+[02:09:17] para energía y para energía aparece la
+[02:09:20] renta. Por eso ahí aparece la palabra de
+[02:09:23] precios en el mercado spot, justamente
+[02:09:26] por la renta eh que definen cada uno de
+[02:09:29] de de la generación que participa.
+[02:09:33] Una cosa importante y antes se se dijo
+[02:09:35] un poco al pasar cuando hablaba de los
+[02:09:38] contratos en el particular de la
+[02:09:40] potencia. A ver, eh, ¿quién gana o quién
+[02:09:44] quién gana o quién pierde o cuál es el
+[02:09:45] incentivo? Hoy la resolución 400 definió
+[02:09:49] y ustedes lo están viendo tanto en un
+[02:09:51] mercado como en otro que el precio de la
+[02:09:53] potencia, en este caso este era de enero
+[02:09:56] en particular era 16 por megwh por un
+[02:10:00] factor. Bien, en este caso era por 1,1.
+[02:10:03] Eh, no voy a entrar en explicar que ya
+[02:10:05] lo hizo Marcos. Eh, pero también si
+[02:10:08] ustedes se dan vuelta la oferta la
+[02:10:11] oferta tiene un precio diferente, es
+[02:10:14] decir, el valor de referencia de $16 por
+[02:10:18] MW hh que remunera potencia para la
+[02:10:21] demanda. Hay un hay un precio diferente
+[02:10:24] que es $
+[02:10:27] por megwh potencia para la oferta.
+[02:10:31] También hay un factor que interviene en
+[02:10:33] ese cálculo, pero esa diferencia entre
+[02:10:35] 16 y 12 es el margen que Marcelo decía
+[02:10:39] chiquito, el margen chiquito que tienen
+[02:10:41] tanto la oferta como la demanda para
+[02:10:44] digamos definir los contratos a
+[02:10:46] términos. me van siguiendo. Es decir, si
+[02:10:48] una generación logra que le paguen más
+[02:10:51] que 12 y si la demanda logra que le que
+[02:10:54] digamos pagar menos de de 16, ahí está
+[02:10:57] el margen chiquito que Marcelo decía que
+[02:11:00] por supuesto es muy fino, es muy fino
+[02:11:03] porque hay factores y demás, pero quería
+[02:11:05] contestar esa pregunta que se dijo
+[02:11:07] antes. Ahí está el margen a la hora de
+[02:11:10] hacer un contrato de potencia.
+[02:11:13] Cierro con esto. Eh, precio medio
+[02:11:15] representativo. Dije hace un momento el
+[02:11:19] la demanda que está debajo del
+[02:11:20] distribuidor residencial, no residencial
+[02:11:23] y tiene hoy un precio estabilizado,
+[02:11:25] tiene un precio que sale de una
+[02:11:27] regulación. Y otro indicador que
+[02:11:29] hacemos, y voy a la última hojita, es
+[02:11:31] justamente cuánto de ese precio que paga
+[02:11:35] la demanda debajo del distribuidor está
+[02:11:39] frente al costo real que debería o al
+[02:11:42] precio real que debería pagar. Es lo que
+[02:11:43] se llama cobertura. La cobertura no es
+[02:11:47] otra cosa. Relación de precio estacional
+[02:11:49] sobre el precio real que debería haber
+[02:11:52] pagado en un mes en particular. ¿Y por
+[02:11:55] qué ponemos esto de cobertura? Porque el
+[02:11:58] precio está estacionalizado que define
+[02:12:00] la secretaría, hay un segmento que la
+[02:12:03] mayoría puede saber, cómo no, que tienen
+[02:12:06] bonificaciones. Al tener bonificaciones
+[02:12:08] tienen una bonificación sobre el precio
+[02:12:10] mayorista y por ende pagan un valor
+[02:12:13] menor a lo que deberían pagar y por ende
+[02:12:17] uno puede evaluar cuán lejos o cuán
+[02:12:19] cerca está ese precio del costo real. Y
+[02:12:22] esto, ¿dónde se traduce? en subsidios,
+[02:12:24] ni más ni menos que eso. Mientras más
+[02:12:28] cerca esté del 100%, lo que estén tamb
+[02:12:30] viendo en pantalla, menos subsidio.
+[02:12:32] Cuando más alejado es justamente el
+[02:12:35] subsidio para poder pagar esta porción
+[02:12:38] de demanda, lo que estaría faltando para
+[02:12:39] cubrir la oferta.
+[02:12:43] Eh, entramos a la web y ahora voy a eso
+[02:12:46] en particular. Comparto la web de
+[02:12:48] camisa. Ustedes díganme si si están
+[02:12:50] viendo.
+[02:12:52] ¿Están viendo?
+[02:12:54] Sí, sí,
+[02:12:55] sí. Perfecto. Muchas gracias. Eh,
+[02:12:58] cortito. A ver, la web de camesa, eh,
+[02:13:00] también es un producto que esto, como
+[02:13:02] ustedes están viendo en pantalla, se
+[02:13:04] hizo en el año de la pandemia, casi
+[02:13:08] seguro cuando estábamos todos en casa,
+[02:13:10] diseñamos esta esta web en general, a
+[02:13:13] pedido también de los agentes
+[02:13:14] mayoristas. Eh, ustedes van a encontrar
+[02:13:17] muy rápido acá arriba.
+[02:13:18] Perdón, Emiliano, perdón, quedó. Estamos
+[02:13:20] viendo, pero estamos viendo la la
+[02:13:22] pantalla del PDF. Eh, ¿vos querés
+[02:13:25] mostrar la página? No,
+[02:13:27] ahora sí. Muchas gracias. Vamos a
+[02:13:29] compartir la web.
+[02:13:32] Vamos a dejar de compartir acá.
+[02:13:35] Acá vamos a compartir y vamos a
+[02:13:37] compartir la web.
+[02:13:40] Ahora sí me confirman, por favor.
+[02:13:46] No, aún no te vemos a vos
+[02:13:49] comparto de nuevo.
+[02:13:53] Compartir. Ahora me dicen ustedes si
+[02:13:55] ven, ven la web.
+[02:13:58] Ahora sí. Ahora sí.
+[02:13:59] Ahora sí. Muchas gracias. Eh, bueno,
+[02:14:02] seguimos un poquito con la web. Como le
+[02:14:03] decía, la web tiene muy poquitos años.
+[02:14:06] Estamos trabajando en una nueva
+[02:14:07] pantalla, en una nueva web. justamente
+[02:14:10] uno de los ítem es poder eh entregar la
+[02:14:13] información en cantidad y en calidad
+[02:14:15] como como queremos. Estamos tratando de
+[02:14:18] cambiar la plataforma, pero bueno, hoy
+[02:14:20] esta web tampoco es tan tan antigua,
+[02:14:22] quiero decir. Y muy rápido van a poder
+[02:14:24] encontrar acá arriba los procesos
+[02:14:27] principales de camesa, un poco lo que
+[02:14:29] antes estuve contando, donde estoy
+[02:14:31] marcando y a medida que bajan van a
+[02:14:34] poder ver justamente
+[02:14:37] a ver si ahora vamos
+[02:14:41] y esto puede fallar.
+[02:14:44] A ver.
+[02:14:47] Vamos a ver si puedo.
+[02:14:50] Siguen viendo, ¿verdad?
+[02:14:53] Ahí está. Eh, a medida a medida que
+[02:14:55] ustedes van digamos eh recorriendo la
+[02:14:58] web en su pantalla inicial, justamente
+[02:15:01] el cubrimiento de la demanda, eh cómo
+[02:15:03] viene la demanda hoy eh de acuerdo a la
+[02:15:06] previsión y de acuerdo a la realidad,
+[02:15:08] cómo se va abasteciendo la hora, la
+[02:15:10] última hora. Esto lo van a encontrar en
+[02:15:12] la web. Y lo último que se agregó y muy
+[02:15:15] importante como señal de precio, el
+[02:15:18] costo marginal horario. Ustedes van a
+[02:15:20] poder encontrar apenas ingresan en la
+[02:15:23] web cómo viene en el día de hoy el costo
+[02:15:26] marginal horario. ¿Okay? Esta es una
+[02:15:29] variable que antes no estaba puesta en
+[02:15:32] este lugar que ustedes están viendo.
+[02:15:34] Esto tiene que ver desde ya con la 400 y
+[02:15:36] las señales de precio. Bien, a ver, una
+[02:15:41] voy siguiendo con el costo marginal. Si
+[02:15:43] van a operaciones, operaciones es el que
+[02:15:46] termina definiendo ese costo marginal.
+[02:15:49] Voy directamente a recorrer una sección
+[02:15:52] de operaciones. Fíjense que ustedes van
+[02:15:55] a poder ver a través de un Power BI.
+[02:15:59] van a poder ver no solo el día de cómo
+[02:16:02] hoy se está abasteciendo, cuál es el
+[02:16:04] costo marginario operarlo del día de
+[02:16:06] hoy, sino que van a poder jugar un
+[02:16:07] poquito con días anteriores, bien, van a
+[02:16:10] poder ver qué máquina, qué máquina
+[02:16:12] terminó definiendo ese costo marginal y
+[02:16:15] a la vez van a poder jugar con la tasa
+[02:16:16] de cambio, es decir, van a poder jugar
+[02:16:18] ver resultados en pesos o en dólares. Y
+[02:16:21] esta tasa de cambio es justamente la
+[02:16:24] tasa de la quincena que le corresponde
+[02:16:27] en este caso al día 30 del 4. Bien, esto
+[02:16:30] es nuevo, lo sacamos hace muy poquito y
+[02:16:33] todo tiene que ver, por supuesto, con la
+[02:16:36] resolución 400. Bien,
+[02:16:40] dato dato importante y vuelvo nuevamente
+[02:16:42] a la a la pantalla de inicio.
+[02:16:46] Hoy la información que ustedes van a
+[02:16:48] encontrar apenas ingresa es del día
+[02:16:51] actual. Es del día actual. ¿Cómo se va
+[02:16:53] cubriendo la demanda en la última hora?
+[02:16:56] Esto es lo que hoy tenemos, distintas
+[02:16:58] información. Recorro así bajo. Cada una
+[02:17:01] de las de la producción de los procesos,
+[02:17:03] mejor dicho, que vimos antes también van
+[02:17:05] a poder acceder en forma individual.
+[02:17:08] Como así también tenemos sitios propios
+[02:17:11] de temas, digamos, muy relevantes. Por
+[02:17:14] ejemplo, hay un sitio de lo que es
+[02:17:16] renovable, particularmente de la parte
+[02:17:18] de operación en tiempo real energías
+[02:17:22] renovables.
+[02:17:24] Entonces, no solo van a poder ver en
+[02:17:26] general variables dentro de los
+[02:17:28] informes, si si no también van a poder
+[02:17:31] recorrer e ingresar en alguno de los
+[02:17:34] informes, particularmente en este caso
+[02:17:37] operación en tiempo real de las energías
+[02:17:39] renovables.
+[02:17:42] Vamos a lo que conozco más en detalle.
+[02:17:48] Informes y estadísticas. Informes y
+[02:17:50] estadísticas. Eh, tanto en el PDF que
+[02:17:53] dejo antes a disposición como acá
+[02:17:55] también van a poder encontrar distintos
+[02:17:58] informes mensuales. En general, esta
+[02:18:02] información tiene una actualización
+[02:18:04] mensual. ¿Cuándo se actualiza? Cuando
+[02:18:07] termina el DT. Cuando sale el DT
+[02:18:09] provisorio. Habitualmente a partir del
+[02:18:11] día 89 de cada mes. Vamos y actualizamos
+[02:18:15] todos los informes que ustedes ahora
+[02:18:18] están viendo en pantalla. Un poco la
+[02:18:20] introducción la hice antes, pero cada
+[02:18:22] uno de estos informes tienen un
+[02:18:24] objetivo. En algunos casos son más
+[02:18:25] generales, otros son más particulares.
+[02:18:28] Bien, si bien ustedes pueden leer acá lo
+[02:18:32] que más o menos contiene cada uno de los
+[02:18:35] informes, ¿okay? Usted, repito, dejo mi
+[02:18:38] correo, después lo pueden compartir y
+[02:18:39] podemos charlar, me pueden preguntar en
+[02:18:41] particular. Eh, dentro de cada informe
+[02:18:45] van a encontrar voy con síntesis
+[02:18:47] mensual, que a mi forma de ver es uno de
+[02:18:49] los informes generales que más datos van
+[02:18:52] a poder sacar a la hora de hacer un
+[02:18:55] aniten. En realidad, a ver, el informe
+[02:18:58] tiene, repito, la posibilidad de jugar
+[02:19:01] con un Power BI. Apenas ustedes ingresan
+[02:19:05] siempre tienen actualizado y acá lo
+[02:19:07] tienen bien marcado, hasta dónde llega
+[02:19:09] la información
+[02:19:11] o mejor dicho cuál es el último mes en
+[02:19:13] el cual estamos mirando con mayor
+[02:19:15] profundidad. Eh, y acá pueden ver un
+[02:19:17] PowerB y a la vez ustedes pueden bajarse
+[02:19:21] el informe. Acá, a ver, dos cosas que lo
+[02:19:24] destaco y lo dije anteriormente. tiene
+[02:19:27] un PDF donde el PDF ustedes tienen la
+[02:19:30] evaluación con algunos digamos
+[02:19:32] conclusiones del mes, es decir, cómo se
+[02:19:34] comportó la demanda, por qué la oferta,
+[02:19:36] cómo se cómo esa oferta terminó,
+[02:19:38] digamos, satisfaciendo y ya que dentro
+[02:19:40] de este informe aparecen las variables
+[02:19:43] de la resolución 400 que antes estuvimos
+[02:19:46] repasando, pero también tienen la
+[02:19:49] posibilidad de bajarse la información.
+[02:19:52] Es decir, acá hay dos formas de bajarse.
+[02:19:54] Primero, a bases informes mensuales. Acá
+[02:19:58] tienen un archivo punto zip donde van a
+[02:20:01] poder bajarse a través de Excel en un
+[02:20:05] mismo archivo comprimido toda la
+[02:20:07] información que usamos para armar ese
+[02:20:10] PDF que estoy marcando. Ustedes pueden
+[02:20:13] bajar, repito, toda la información de
+[02:20:17] todas las variables físicas y económicas
+[02:20:19] que estuvimos hablando y que se
+[02:20:21] encuentran dentro del informe. Es más,
+[02:20:23] esta base de datos ni más ni menos
+[02:20:26] alimenta al Power BI. Estamos hablando
+[02:20:29] siempre de la misma información, pero en
+[02:20:33] este informe a la vez tenemos
+[02:20:36] un descarga estadística. ¿Por qué? Y
+[02:20:38] esto fue un pedido particularmente de de
+[02:20:41] las áreas analistas de análisis de los
+[02:20:44] agentes. Cuando uno bajaba un ZIP en
+[02:20:46] general son es mucha información,
+[02:20:48] ustedes lo van a poder ver si lo bajan.
+[02:20:49] Hay muchos datos. Eh, hay un orden que
+[02:20:52] tratamos de respetar, pero la
+[02:20:53] información es mucho para que esté en un
+[02:20:55] solo archivo. Lo que hicimos acá es
+[02:20:58] poder clasificar esa misma información
+[02:21:01] en temas. Bien, temas que tienen que ver
+[02:21:05] con la demanda, la oferta, todo lo que
+[02:21:07] venimos hablando eh hasta el momento y
+[02:21:10] estos temas le va a permitir, por
+[02:21:12] ejemplo, si uno habla, uno baja el tema
+[02:21:15] de demanda o abre la carpeta de demanda,
+[02:21:18] poder bajarse la información de acuerdo
+[02:21:21] al tipo, de acuerdo al paso. Fíjense que
+[02:21:25] ya en los nombres le intentamos ya poner
+[02:21:27] una clasificación diferente para que
+[02:21:29] ustedes, che, si necesito un dato
+[02:21:31] horario, abro acá, necesito una
+[02:21:33] clasificación mensual general, abro acá.
+[02:21:35] ¿Se entienden? Descargan y es un Excel
+[02:21:38] con todo el contenido de los últimos 4
+[02:21:41] años. Bien, repito, esto es una forma de
+[02:21:44] acceder a la información dentro de una
+[02:21:48] carpeta, digamos, más ordenadita.
+[02:21:50] Ustedes no hace falta bajar todos los
+[02:21:52] datos, sino que van a bajar lo que
+[02:21:54] necesitan. Bien,
+[02:21:58] vamos a un poquito. Bueno, esto ya
+[02:22:00] repito, tienen toda la información
+[02:22:02] clasificada de la 400 en adelante.
+[02:22:06] Ustedes pueden entrar y me mandan todas
+[02:22:08] las consultas que quieran que quieran,
+[02:22:10] porque lo más importante, lo dije al
+[02:22:12] comienzo y lo repito, mientras más se
+[02:22:14] use esta información, mejoren a nosotros
+[02:22:17] para entender qué necesita el otro y
+[02:22:19] también, por supuesto, para control
+[02:22:21] propio, porque dejar la información
+[02:22:24] disponible es eso también, que el otro
+[02:22:26] la use y no hay mejor control que aquel
+[02:22:29] que termina usando la información.
+[02:22:32] Voy a informes estadística una vez más y
+[02:22:35] voy a un segundo informe que a mi
+[02:22:37] parecer este como el informe síntesis
+[02:22:40] era general,
+[02:22:42] variables relevantes es algo mucho más
+[02:22:45] particular.
+[02:22:46] Eh, variables relevantes es un informe
+[02:22:48] donde nuestra idea fue con muy poquitas,
+[02:22:52] digamos, eh hojas que forman el informe
+[02:22:55] poder entender el mercado. Este es
+[02:22:58] informe es donde ustedes van a poder
+[02:22:59] encontrar justamente, a ver, temas muy
+[02:23:02] concretos, una hoja por demanda, una
+[02:23:04] hoja de generación, una hoja de mercados
+[02:23:07] y a partir de ahí hay un desarrollo eh
+[02:23:10] en el cual ustedes pueden ingresar y
+[02:23:12] analizar particularmente.
+[02:23:15] También tienen a un informe que lo
+[02:23:18] pueden bajar y también hay una parte de
+[02:23:20] una base de datos que en este caso la
+[02:23:23] base de datos es una sola hoja con toda
+[02:23:27] la información a diferencia del informe
+[02:23:30] síntesis que estamos clasificados por
+[02:23:31] temas temporalidad, el informe variable
+[02:23:35] relevante es muy concreto. Es un informe
+[02:23:37] donde tienen eh una sola hoja con datos
+[02:23:41] generales pero particulares en donde
+[02:23:44] ustedes pueden analizar el mercado muy
+[02:23:46] rápidamente. Y en este informe hoy es
+[02:23:49] donde van a poder encontrar en
+[02:23:52] particular resultados concretos de la
+[02:23:55] resolución 400. Bien, en este informe
+[02:23:58] tiene un resumen muy muy detallado de
+[02:24:01] los mercados de la 400, la demanda y
+[02:24:05] demás. Repito, variables relevantes. Me
+[02:24:09] gustaría repasarlo, me gustaría pasar,
+[02:24:11] me gustaría entrar en uno, pero bueno,
+[02:24:12] ya lo veremos en otra oportunidad. Pero
+[02:24:15] lo que quiero decir es que en este
+[02:24:17] informe, a la hora de analizar datos de
+[02:24:19] la 400, datos generales, dato de
+[02:24:23] entender el mercado, eso es lo que
+[02:24:24] quiero decir, entender por dónde va el
+[02:24:26] precio spot, entender por dónde va el
+[02:24:29] mercado asignado, cuánto hay de de
+[02:24:31] cuánto hay energía justamente
+[02:24:33] contratada. En parte lo pueden ver de
+[02:24:36] este informe y repito, tendrían un
+[02:24:39] pantallazo general de cómo se está
+[02:24:41] comportando el mercado barra la
+[02:24:44] resolución 400. Okay,
+[02:24:49] último última cosita antes de entrar en
+[02:24:51] algo particular que también tiene la web
+[02:24:54] de la resolución 400. Bueno, como les
+[02:24:57] dije, hay distintos informes, informes
+[02:24:59] mensuales, como también hay informes en
+[02:25:02] general, no hace falta que lo digo, esto
+[02:25:04] es un informe anual en el cual estamos
+[02:25:06] teniendo estadísticas, para que ustedes
+[02:25:08] se den una idea, tenemos estadísticas
+[02:25:10] anuales desde 1994.
+[02:25:13] Bien, hay datos eh uno quisiera evaluar,
+[02:25:17] por ejemplo, la potencia disponible, por
+[02:25:19] ejemplo, la energía generado o la misma
+[02:25:21] demanda. Hay datos de 1994, paso anual.
+[02:25:25] Eh, este es un informe anual y también
+[02:25:28] tenemos distintos informes, digamos,
+[02:25:31] semanales. A ver, voy particularmente a
+[02:25:34] este informe acá, justamente ustedes
+[02:25:36] encontraron en el título que dice
+[02:25:38] semanal. Eh, cuando nos tocó hacer un
+[02:25:41] poquito eh analizar el el momento en que
+[02:25:44] lo dije antes en la pandemia, empezamos
+[02:25:47] a analizar un poquito la la demanda.
+[02:25:49] Nosotros como camisa
+[02:25:52] en tiempo real, en tiempo real tenemos
+[02:25:55] la información de los grandes usuarios
+[02:25:59] mayores gumas, el GUME y el GUPA, la
+[02:26:03] información de su demanda, ese servicio
+[02:26:05] lo realiza el distribuidor. Pero si
+[02:26:08] tenemos de aproximadamente 400 grandes
+[02:26:12] usuarios, tenemos la demanda en tiempo
+[02:26:15] real. Este informe eh, repito, nace en
+[02:26:19] la pandemia. Lo que hicimos fue
+[02:26:21] clasificar estos grandes usuarios por
+[02:26:23] actividad. Lo digamos, ¿qué es lo que
+[02:26:25] hacen? Ni más ni menos que eso, a qué se
+[02:26:27] dedican, cuál es su rama principal a la
+[02:26:30] hora de producir o dar un servicio. A
+[02:26:33] partir de eso, lo que nosotros hicimos
+[02:26:35] fue clasificar los 400 usuarios y poder
+[02:26:38] mostrar la evolución de la demanda en
+[02:26:41] paso semanal. Bien, ese informe creíamos
+[02:26:46] que iba a terminar una vez que salimos
+[02:26:48] de la coyuntura justamente de lo que fue
+[02:26:50] la pandemia, pero cuando lo quisimos
+[02:26:53] sacar de la web nos volvieron a pedir y
+[02:26:55] ahora el informe tiene otro carácter que
+[02:26:57] es un seguimiento más de corto, más
+[02:27:00] dentro del mes, eh, para ver cómo viene
+[02:27:03] las distintas actividades que tiene que
+[02:27:06] ver con la producción o servicios, por
+[02:27:08] supuesto, mirando como variable el
+[02:27:11] consumo de demanda eléctrica. Esto es un
+[02:27:14] informe muy importante que creíamos que
+[02:27:17] iba a tener su fecha de vencimiento y en
+[02:27:20] realidad ahora tiene una un nuevo
+[02:27:22] objetivo que es justamente poder seguir
+[02:27:24] la demanda semanalmente como vienen en
+[02:27:27] particular los grandes usuarios por rama
+[02:27:30] y actividad. Bien, pequeña anécdota,
+[02:27:33] pero para que ustedes vean cómo eh
+[02:27:35] tratamos de ver un poquito lo que el
+[02:27:37] mercado pide, lo que mercado consulta.
+[02:27:40] Este es un ejemplo que queríamos ponerle
+[02:27:42] una fecha de vencimiento y querer
+[02:27:44] complementar con otro, pero no es parte
+[02:27:46] de seguir mostrando este informe con
+[02:27:49] otro objetivo, por supuesto, que es
+[02:27:50] diferente a la hora de ver cuándo era el
+[02:27:53] tiempo de la pandemia.
+[02:27:57] Eh, último y voy un poquito cerrando y
+[02:28:01] cualquier cosa, repito, me pueden hacer
+[02:28:03] la pregunta que quiera, pero en este
+[02:28:04] caso yo quería hacer lo más práctico
+[02:28:06] posible para que ustedes puedan ver,
+[02:28:09] recorrer y seguramente cuando ustedes
+[02:28:11] entren a la a la web de camesa, entren
+[02:28:14] acá, surgirán muchas muchas preguntas,
+[02:28:17] muchas dudas y ahí por supuesto abierto
+[02:28:19] a lo que necesitan me escriben lo que
+[02:28:21] haga falta.
+[02:28:23] La 400. La 400 también tiene dentro de
+[02:28:27] la web un sitio en particular que es la
+[02:28:31] parte de normalización del MEM,
+[02:28:33] justamente ingresando a través de
+[02:28:35] normativa, normalización del MEM. Bien.
+[02:28:39] Eh, esto, ¿por qué lo hicimos? Bueno, ni
+[02:28:41] más ni menos que la 400 desde noviembre.
+[02:28:44] Eh, yo tengo en camesa 20 años y lo que
+[02:28:47] el cambio que trajo en la 400 eh fue un
+[02:28:50] cambio, digamos, en la organización del
+[02:28:51] mercado, ni más ni menos que eso. De ahí
+[02:28:54] que hicimos este esta parte particular
+[02:28:57] de todo lo que tiene que ver con
+[02:28:59] información relacionada a la 400.
+[02:29:02] ¿Qué van a poder encontrar acá? Bueno,
+[02:29:04] la disposición de la pantalla, todo lo
+[02:29:06] que es la parte de izquierda de su
+[02:29:09] pantalla, todo lo que tiene que ver con
+[02:29:11] normativa, ¿sí? Está, por supuesto que
+[02:29:14] está la 400 en sí, está también,
+[02:29:16] digamos, hemos hecho algunos algunos
+[02:29:18] talleres justamente explicando la 400.
+[02:29:21] Acá tienen el contenido, pueden acceder.
+[02:29:24] Acá no hace falta usuario contraseña de
+[02:29:26] ella, pero también tienen todas las
+[02:29:29] distintas regulaciones barra eh todo lo
+[02:29:33] que la secretaría fue dando y
+[02:29:35] modificando, corrigiendo, cambiando,
+[02:29:38] está puesto en el lado izquierdo de la
+[02:29:40] pantalla.
+[02:29:42] El lado derecho son datos que ayudan a
+[02:29:46] tomar decisiones. ¿Por qué digo ayudan a
+[02:29:48] tomar decisiones? Son variables que hay
+[02:29:51] que tener en cuenta y destacan por la
+[02:29:54] 400. Ejemplo, dentro del costo variable
+[02:29:57] de producción. Bien, dentro del costo
+[02:29:59] variable de producción, como dije antes,
+[02:30:01] el mercado spot mayormente está armado
+[02:30:04] por la generación térmica vieja. Vamos a
+[02:30:06] decir, esa generación térmica que no es
+[02:30:08] PPA, que es potencia puesta a
+[02:30:10] disposición. Ahí tiene un combustible
+[02:30:12] que que depende mucho ese combustible o
+[02:30:15] el costo de ese combustible hace que
+[02:30:17] termine en el costo variable de
+[02:30:19] producción de la máquina. Bueno, ese
+[02:30:21] proceso que le conté antes, ustedes
+[02:30:23] pueden acceder y ver qué resultados se
+[02:30:27] sacaron del proceso de declaración, es
+[02:30:29] decir, pueden acceder a la declaración
+[02:30:32] del costo variable y ver máquina por
+[02:30:35] máquina cuál es su costo variable de
+[02:30:37] producción. Muy importante esto porque
+[02:30:40] pueden acceder máquina por máquina.
+[02:30:44] Segundo ítem también muy importante y
+[02:30:47] esto lo hacemos particularmente con el
+[02:30:50] área de estadística,
+[02:30:52] un dato que nos venían pidiendo y decir,
+[02:30:55] bueno, a ver cómo evoluciona el mercado
+[02:30:57] durante el mismo mes. Bien, es decir, la
+[02:31:00] transacción, termina la transacción,
+[02:31:03] sale el documento y ahí tenemos los
+[02:31:04] resultados. nos pedían anticipar
+[02:31:07] anticipar resultados. En este ítem
+[02:31:10] ustedes van a poder encontrar justamente
+[02:31:12] seguimiento de valores. Eh, perdón, me
+[02:31:15] me van a poder acá ver cómo viene el
+[02:31:19] mercado casi en tiempo real. Tiene una
+[02:31:23] actualización semanal. Semanalmente
+[02:31:25] vamos completando cómo viene
+[02:31:27] evolucionando el mes actual, con lo cual
+[02:31:30] cuando termina el mes o si quiere antes
+[02:31:33] que termine el mes, por ejemplo, en el
+[02:31:35] día de hoy, van a poder ver más o menos
+[02:31:37] cómo terminarían los precios de cada uno
+[02:31:41] de los mercados para el mes de abril.
+[02:31:44] Bien, esto es un, repito, actualización
+[02:31:47] semanal de evolución del mercado según
+[02:31:50] la 400 del mes actual.
+[02:31:55] Y por último, una un un dato también muy
+[02:31:59] muy importante que fue un pedido,
+[02:32:02] digamos, este trabajito se hizo a
+[02:32:04] comienzo de este año, es ver datos de
+[02:32:07] proyección. Un poco lo dije al comienzo,
+[02:32:09] hay distintos tipos de datos. Algunos
+[02:32:11] datos tienen que ver con datos eh reales
+[02:32:15] en tiempo real, datos históricos, pero
+[02:32:17] también hay datos previstos. Bueno, acá
+[02:32:20] una señal de precio, claro en ese
+[02:32:23] momento que se hizo solicitado por los
+[02:32:26] agentes es estimar el precio spot de en
+[02:32:30] este en este 2026. Van a poder encontrar
+[02:32:34] distintos escenarios, por supuesto, a
+[02:32:36] ver, cuando uno estima, hay hipótesis,
+[02:32:39] hay escenarios, hay variables que se
+[02:32:42] pueden dar como variables que no se
+[02:32:43] pueden dar. Bueno, en este en este
+[02:32:45] archivo van a encontrar escenarios, van
+[02:32:48] a poder ver la herramienta con que se
+[02:32:50] hizo esa proyección. Eh, hay en la web
+[02:32:54] hay algún sitio particular de la
+[02:32:55] herramienta por si alguien quiere quiere
+[02:32:57] entrar y y conocer justamente con qué
+[02:33:00] herramienta se se hizo esta proyección.
+[02:33:02] Pero en este, pero muy importante
+[02:33:03] destacar esto, estos valores hay una
+[02:33:06] hipótesis atrás. Bien, esto, ¿por qué lo
+[02:33:09] digo? Cuando se hizo esta proyección van
+[02:33:13] a poder entrar. es un Excel, van a poder
+[02:33:15] bajarlo. Eh, acá está explicado más o
+[02:33:17] menos las hipótesis que se hizo y el uso
+[02:33:20] de de esta información, pero también
+[02:33:22] ahora si usted van a programación y
+[02:33:25] programación estacional,
+[02:33:27] la revista, la programación estacional,
+[02:33:29] fíjense el periodo mayo octubre ya
+[02:33:32] también está adaptada, que en ese
+[02:33:34] momento no estaba, estábamos todos con
+[02:33:36] los cambios, también van a poder
+[02:33:38] encontrar resultado de la 400, ¿verdad?
+[02:33:41] Y esta revista, por supuesto, se hizo
+[02:33:43] hace un mes, por lo cual está mucho más
+[02:33:46] cerca del invierno, está mucho más cerca
+[02:33:48] de hipótesis, más que hipótesis que sea
+[02:33:51] más de variables reales. Eh, con lo cual
+[02:33:53] una de las fuentes para ver hacia
+[02:33:56] delante de cómo se podría comportar el
+[02:33:58] mercado es la programación estacional.
+[02:34:01] La programación estacional también
+[02:34:03] ajustó todos sus resultados para
+[02:34:06] expresar los precios en energía,
+[02:34:09] potencia, servicios. y transporte.
+[02:34:12] Repito, programación estacional como
+[02:34:14] fuente principal para ver hacia delante
+[02:34:17] de cómo se puede comportar el mercado.
+[02:34:21] Con esto medio rápido, quise hacer un
+[02:34:24] recorrido eh general de de la web, no
+[02:34:27] quise dejar nada atado al azar. Eh, un
+[02:34:31] poco conté cómo trabajamos, un poco
+[02:34:33] conté el alcance que tenemos. Eh, sería
+[02:34:36] ideal meternos en algún informe y
+[02:34:38] charlar un poco de por qué se dieron
+[02:34:39] algunos resultados. El objetivo no era
+[02:34:41] ese hoy. El objetivo era enseñarles
+[02:34:43] dónde está la información, que puedan
+[02:34:45] entrar, puedan navegar. Eh, lo repito y
+[02:34:47] mil veces hace falta. disponible para lo
+[02:34:50] que necesiten. Eh, es parte un poco creo
+[02:34:53] que también de de nuestro trabajo eh
+[02:34:57] cortar, digamos, eh salir un poquito de
+[02:35:00] esto. Eh eh es un poco lo que quise
+[02:35:04] expresar en con todo este recorrido. Eh
+[02:35:07] pero nuestro trabajo también es eso,
+[02:35:08] poder recibir consultas, poder recibir
+[02:35:10] digamos recomendaciones. Estamos en un
+[02:35:13] proceso de transformación también
+[02:35:14] nosotros en el sentido de que estamos
+[02:35:16] mejorando cada vez más la cantidad de
+[02:35:18] datos y la calidad de datos. Eh, la
+[02:35:21] mayoría de la información está
+[02:35:22] disponible para todos. Sí, la clave es
+[02:35:25] hacer ser agentes mayoristas en muchos
+[02:35:27] de ellos, pero la mayoría de la
+[02:35:29] información está disponible.
+[02:35:36] No sé si
+[02:35:39] Bueno, buenísimo. Muchísimas gracias,
+[02:35:41] Emiliano. La verdad que que fue
+[02:35:43] clarísimo y bueno, muy con muchas cosas
+[02:35:47] como para aprender, para buscar, para
+[02:35:50] analizar, así que seguramente vamos a
+[02:35:52] estar molestando con consultas van a
+[02:35:55] surgir. No sé si si alguien quiere hacer
+[02:35:58] alguna pregunta sobre lo que lo que
+[02:36:00] acabó de explicar Emiliano.
+[02:36:04] Emiliano, una sola, pero es no tiene
+[02:36:07] tanto que ver con sino con la
+[02:36:09] estadística, el lo de las renovables de
+[02:36:11] la de la ley y el porcentaje que tenían
+[02:36:14] que cumplir, etcétera. Sé que hay unos
+[02:36:15] informes específicos y qué sé yo. Eh, lo
+[02:36:18] de la matriz energética de de Argentina,
+[02:36:21] cómo está compuesta y todo eso. En la
+[02:36:24] misma página, ¿en qué informe en
+[02:36:25] particular se puede ver una evolución,
+[02:36:27] digamos, de ese punto?
+[02:36:29] en el informe. A ver, primero el informe
+[02:36:31] síntesis mensual o informe mensual es el
+[02:36:33] que vos tenés ahora, el dato hoy de cómo
+[02:36:36] está compuesta esa matriz y en lo que es
+[02:36:39] la parte de la parte, si se quiere de
+[02:36:41] informe anual, tenés una evolución
+[02:36:44] digamos hasta mensual en el último caso,
+[02:36:46] pero en particular anual de los últimos
+[02:36:48] 30 años de cómo está compuesta la matriz
+[02:36:51] de potencia instalada de Argentina.
+[02:36:53] Y y ahí ves máquina por máquina las que
+[02:36:55] fueron ingresando y saliendo.
+[02:36:57] E en realidad para hacer máquina por
+[02:36:59] máquina en a ver, lo que hicimos
+[02:37:01] nosotros es dejar la base disponible.
+[02:37:03] Comparando las bases vas a poder ver
+[02:37:05] justamente máquina por máquina qué
+[02:37:08] máquina nueva ingresó comparando año
+[02:37:11] contra año.
+[02:37:12] Okay, gracias.
+[02:37:17] Bien, ¿alguna otra consulta?
+[02:37:24] Es mucho, mira, es mucha mucha
+[02:37:25] información y
+[02:37:26] demasiada información. Seguramente con
+[02:37:29] el correr de los días nos va a empezar a
+[02:37:30] caer.
+[02:37:31] Claro. Además, si nos poníamos si me
+[02:37:33] ponía a explicar algún número, no no
+[02:37:37] no no llegábamos a a mostrar un poquito
+[02:37:39] todo. Eh, lo que necesiten, por
+[02:37:42] supuesto, me pueden preguntar lo que
+[02:37:43] haga falta.
+[02:37:45] Bueno,
+[02:37:45] tenés un récord de velocidad igual,
+[02:37:47] Emiliano. Muy bien. Dijiste que llegar a
+[02:37:50] las 11 y ahí
+[02:37:54] excelente.
+[02:37:56] Bueno, si no hay más consultas, eh,
+[02:37:59] muchísimas gracias, Marcelo. Muchísimas
+[02:38:01] gracias, Emiliano. Gracias por la
+[02:38:02] disposición, por la claridad con la que
+[02:38:05] nos expusieron todo y bueno, seguramente
+[02:38:09] vayamos a molestarlos con alguna duda,
+[02:38:11] pregunta que vaya surgiendo y bueno, en
+[02:38:14] todo caso se generará alguna alguna
+[02:38:16] clase adicional.
+[02:38:19] Bien, bueno, muchas gracias a todos.
+[02:38:22] Bueno,
+[02:38:22] muchas gracias.
+[02:38:23] Muchas gracias. Yo paso un aviso al al
+[02:38:26] grupo. El martes que viene se va a dar
+[02:38:29] la clase. ¿Se acuerdan que la otra vez
+[02:38:30] tuvimos una ausencia de uno de los
+[02:38:32] profesores que era Sabino Mastrangelo en
+[02:38:34] cuestión de salud? Así que el martes que
+[02:38:37] viene se va a dar para la comisión dos
+[02:38:39] de 8 a 11, así que están todos invitados
+[02:38:41] para que la pueda presenciar y no
+[02:38:42] perderla dentro del cronograma. si bien
+[02:38:44] la usamos para otros temas, bueno, esa
+[02:38:47] clase va a estar disponible, así que
+[02:38:48] todo aquel que se quiera sumar eh, será
+[02:38:51] bienvenido. Así que bueno, los esperamos
+[02:38:54] y si no, el que no pueda, nos vemos el
+[02:38:56] próximo jueves con con nuestro programa
+[02:38:59] habitual.
+[02:39:00] Eh, perdón, Guillermina, ¿sería el mismo
+[02:39:03] link que esta reunión? El del martes, el
+[02:39:06] de la otra comisión.
+[02:39:08] Vamos a pasar el link por el mail del
+[02:39:11] ID.
+[02:39:12] Gracias.
+[02:39:14] Y una pregunta más, así ya si no la
+[02:39:17] podemos asistir el martes queda grabada
+[02:39:19] esa. Va a quedar grabada y luego se las
+[02:39:22] pasamos, no hay ningún problema. La
+[02:39:24] vamos a subir también a a la plataforma.
+[02:39:30] Bueno,
+[02:39:33] muchas gracias.
+[02:39:35] Saludos a todos.
+[02:39:40] Muchas gracias.

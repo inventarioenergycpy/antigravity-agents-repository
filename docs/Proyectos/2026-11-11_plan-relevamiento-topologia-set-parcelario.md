@@ -153,3 +153,17 @@ A partir del cruce de `georef.relevamiento` (473.762 suministros registrados en 
 - **Planes en Fase Final de Barrido (> 80% avance)**:
   - Planes 01, 02, 03, 04, 05, 06, 10, 13, 16, 18, 19 y 20 (33.376 puntos remanentes combinados).
 
+### 5. Estimación de Plazos a Régimen de 10.000 Relevamientos/Mes
+Para un despliegue operativo sostenido de **10.000 relevamientos/mes** (~476 suministros/día hábil con 16 a 20 cuadrillas en paralelo):
+
+* **Planes Vírgenes Sin Relevamiento (< 5% avance: Planes 14, 15, 08, 07, 11 y 09)**:
+  * Universo: **169.597 suministros**.
+  * Plazo Estimado: **16,96 meses (~17 meses corridos $\approx$ 1 año y 5 meses)**.
+  * Fecha estimada de finalización: **Fines de Abril / Mayo 2028**.
+* **Planes Incompletos (< 80% avance: 9 planes)**:
+  * Universo: **204.048 suministros**.
+  * Plazo Estimado: **20,40 meses (~1 año y 8,5 meses)**.
+* **Universo Total Consolidado (20 Planes al 100%)**:
+  * Universo: **237.146 suministros**.
+  * Plazo Estimado: **23,71 meses (~2 años exactos)**.
+

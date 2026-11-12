@@ -84,3 +84,4 @@ graph TD
 - Matriz Detallada de Conformidad: [matriz_conformidad_pet_v4_vs_conectar_gd654.md](file:///D:/Proyectos/aplicacion-relevamiento-mi-propuesta-conectar/docs/matriz_conformidad_pet_v4_vs_conectar_gd654.md)
 - Pliego PET Oficial: [PET SERVICIOS RELEVAMIENTO CATASTRAL.pdf](file:///D:/Proyectos/aplicacion-relevamiento-mi-propuesta-conectar/resources/PET%20SERVICIOS%20RELEVAMIENTO%20CATASTRAL.pdf)
 - Propuesta Técnica CONECTAR: [Propuesta_CONECTAR_Informe_Tecnico_Alcance_App_Medidores_EPEC.pdf](file:///D:/Proyectos/aplicacion-relevamiento-mi-propuesta-conectar/resources/Propuesta_CONECTAR_Informe_Tecnico_Alcance_App_Medidores_EPEC.pdf)
+

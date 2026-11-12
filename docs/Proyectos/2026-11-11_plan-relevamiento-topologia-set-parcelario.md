@@ -167,3 +167,13 @@ Para un despliegue operativo sostenido de **10.000 relevamientos/mes** (~476 sum
   * Universo: **237.146 suministros**.
   * Plazo Estimado: **23,71 meses (~2 años exactos)**.
 
+### 6. Caracterización Parcelaria por Plan (Fronteras SET y Parcelas a Dibujar)
+A partir del cruce tridimensional entre los 20 Planes, la capa de parcelas consolidadas y el log de excepciones de frontera:
+- **Total Parcelas Dibujadas**: `266.755` parcelas territoriales activas con suministros en los 20 planes.
+- **Parcelas en Frontera de SET (a analizar por cuadrilla)**: `88.205` parcelas (33,07% del parcelario).
+  - Máxima concentración: Plan 16 (10.039), Plan 18 (7.620), Plan 03 (7.343), Plan 20 (6.784).
+  - Mínimo conflicto: Plan 14 (21 parcelas, 0,99%) y Plan 15 (106 parcelas, 3,62%) debido a red subterránea y topología compacta.
+- **Parcelas a Dibujar (Faltantes en Cartografía)**: `26.736` parcelas identificadas a partir de la descripción catastral normalizada (`dc` / `id_suministro_catastral`) de suministros activos que carecen de polígono vectorial.
+  - Foco de digitalización: Plan 05 (3.017), Plan 09 (2.872), Plan 16 (2.834), Plan 11 (2.719), Plan 07 (2.555).
+- Reporte detallado disponible en: [`docs/07_analisis_parcelas_fronteras_y_faltantes_a_dibujar_por_plan.md`](file:///D:/Proyectos/plan-relevamiento-topologia-set-parcelario/docs/07_analisis_parcelas_fronteras_y_faltantes_a_dibujar_por_plan.md).
+

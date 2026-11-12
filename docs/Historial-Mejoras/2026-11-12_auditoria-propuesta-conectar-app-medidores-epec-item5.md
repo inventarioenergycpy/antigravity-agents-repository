@@ -35,3 +35,4 @@ responsable: "Javier Ignacio Diaz"
    - Registro de ficha técnica en `docs/Proyectos/2026-11-12_aplicacion-relevamiento-mi-propuesta-conectar.md`.
    - Actualización del índice maestro `docs/PROTELEM/00-Indice-PROTELEM-EPEC.md`.
    - Actualización del tablero principal `docs/00-Dashboard-MOC.md`.
+

@@ -111,3 +111,45 @@ En los **20 Planes Principales de Relevamiento de Córdoba Capital (Distrito 1)*
 - **`ZSLEC` (Sin Lectura / Organismos)**: 4.936 puntos (3.443 dependencias públicas/oficiales, 72.5% otros clientes).
 - **`Plan 99` (Asentamientos)**: 17.992 puntos (8.896 Tarifa Social, 51.1% otros clientes).
 
+---
+
+## 7. Plan de Relevamiento a Futuro & Auditoría de Calidad de Polígonos
+
+A partir del cruce de `georef.relevamiento` (473.762 suministros registrados en campo) con los polígonos de las 5.296 Subestaciones Transformadoras (SET) y el padrón de rutas de lectura, se obtuvieron las directrices estratégicas de despliegue:
+
+### 1. Balance de Relevamiento Distrito 1 (Córdoba Capital - 20 Planes)
+- **Puntos Totales**: **585.819 suministros**
+- **Relevamiento Histórico Efectivo**: **348.673 suministros (59,52% de avance)**
+- **Backlog Futuro a Relevar**: **237.146 suministros (40,48% pendiente)**
+  - *Pendientes Clientes Comunes (CC)*: **220.395 suministros (92,94%)**
+  - *Pendientes Tarifa Social (TSP)*: **15.947 suministros (6,72%)**
+  - *Pendientes Otros*: **804 suministros (0,34%)**
+
+### 2. Calidad Topológica de los Polígonos de Subestaciones
+- **ALTA_LIMPIO (0 parcelas cortadas)**: `963` SETs (18,18%) $\rightarrow$ 5.776 sumis pendientes. Límites viales limpios.
+- **ALTA_LEVE (1 a 10 parcelas cortadas)**: `1.278` SETs (24,13%) $\rightarrow$ 18.944 sumis pendientes. Conflicto perimetral mínimo.
+- **MEDIA_MODERADO (11 a 30 parcelas cortadas)**: `973` SETs (18,37%) $\rightarrow$ 31.294 sumis pendientes. Requiere plano de detalle en bordes.
+- **BAJA_CONFLICTO (> 30 parcelas cortadas)**: `1.923` SETs (36,31%) $\rightarrow$ 82.453 sumis pendientes. Frontera divide parcelas y manzanas al medio.
+
+### 3. Matriz de Priorización Operativa en 5 Cuadrantes
+| Cuadrante | SETs | Suministros Pendientes | Tarifa Social | Directriz de Despliegue |
+| :--- | :---: | :---: | :---: | :--- |
+| **`1_RELEVAMIENTO_INMEDIATO`** | **387** | **44.699** | 2.264 | **Despacho Inmediato**: Polígonos limpios, alta demanda CC pendiente. Máxima productividad. |
+| **`2_SENSIBILIDAD_SOCIAL`** | **105** | **7.194** | 2.546 | **Atención Comunitaria**: $\ge 20\%$ Tarifa Social. Protocolo con centros vecinales y mediadores. |
+| **`3_SANEAMIENTO_TOPOLOGICO_PREVIO`** | **449** | **78.898** | 5.822 | **BLOQUEADO EN CAMPO**: Polígonos con severo conflicto perimetral. **Ajustar límites en GIS antes de salir a campo**. |
+| **`4_AVANZADA_O_COMPLETADA`** | **3.481** | **7.676** | 26.585 | **Barrido Final**: Avance $\ge 75\%$ o remanente $< 30$ sumis (423.101 ya relevados). |
+| **`5_SIN_DEMANDA_O_ESPECIAL`** | **715** | **0** | 0 | **Especiales**: SETs industriales o sin demanda directa. |
+
+### 4. Focos Críticos de Relevamiento por Plan
+- **Prioridad 1 Masiva CC (0% a 2% avance histórico)**:
+  - **Plan 14 (Centro / Nueva Cba)**: 47.879 pendientes (47.764 CC $\rightarrow$ 99,8% CC).
+  - **Plan 15 (Centro Norte)**: 29.995 pendientes (29.751 CC $\rightarrow$ 99,2% CC).
+  - **Plan 08 (Este Residencial)**: 27.535 pendientes (27.061 CC $\rightarrow$ 98,3% CC).
+  - **Plan 17 (Centro-Sur)**: 19.496 pendientes (19.391 CC $\rightarrow$ 99,5% CC).
+- **Prioridad Sensibilidad Social**:
+  - **Plan 11**: 23.793 pendientes (5.335 Tarifa Social $\rightarrow$ 22,4% vulnerable).
+  - **Plan 07**: 24.348 pendientes (3.285 Tarifa Social).
+  - **Plan 09**: 16.047 pendientes (2.507 Tarifa Social).
+- **Planes en Fase Final de Barrido (> 80% avance)**:
+  - Planes 01, 02, 03, 04, 05, 06, 10, 13, 16, 18, 19 y 20 (33.376 puntos remanentes combinados).
+

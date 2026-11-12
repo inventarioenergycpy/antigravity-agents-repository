@@ -87,6 +87,13 @@ graph TD
 
 ---
 
+### D. Proyecto: `aplicacion-relevamiento-mi-propuesta-conectar`
+- **Ruta Local**: `D:\Proyectos\aplicacion-relevamiento-mi-propuesta-conectar`
+- **Objetivo**: Control de conformidad técnica, auditoría normativa y análisis de brechas entre el PET Versión 4 (Ítem 5: Relevamiento masivo por polígonos/SET ~20k u./mes) y la propuesta técnica de CONECTAR (Jira GD-654). Registro del correo formal de observaciones (12/11/2026).
+- **Acceso Directo en Bóveda**: `[[docs/Proyectos/2026-11-12_aplicacion-relevamiento-mi-propuesta-conectar|Ficha Técnica de Auditoría]]`
+
+---
+
 ### C. Repositorio: `despliegue-medidores-inteligentes-ami`
 - **Repositorio Remoto**: [https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami](https://github.com/PROTELEM-EPEC/despliegue-medidores-inteligentes-ami)
 - **Ruta Local**: `D:\Proyectos\despliegue-medidores-inteligentes-ami`

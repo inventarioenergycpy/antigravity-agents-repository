@@ -51,5 +51,7 @@ El relevamiento de cuadrillas comerciales y técnicas de EPEC requería:
 - **QA Usabilidad**: Tablero interactivo [`viewer/index.html`](file:///D:/Proyectos/plan-relevamiento-topologia-set-parcelario/viewer/index.html) con filtros y tablas dinámicas.
 
 ### Fase 6: Auto-Documentación, Backup e Historial
-- Respaldo preventivo `.bak` en `docs/Backups/2026-11-11_180213_00-Dashboard-MOC.md.bak`.
+- Respaldo preventivo `.bak` en `docs/Backups/2026-11-11_180213_00-Dashboard-MOC.md.bak` y `docs/Backups/2026-11-12_102800_plan-relevamiento-topologia-set-parcelario.md.bak`.
 - Nuevo repositorio creado y sincronizado en [PROTELEM-EPEC/plan-relevamiento-topologia-set-parcelario](https://github.com/PROTELEM-EPEC/plan-relevamiento-topologia-set-parcelario.git).
+- Incorporación del informe ejecutivo y dataset por plan de relevamiento (585.819 puntos de Córdoba Capital, 537.633 Clientes Comunes CC y 48.186 otros clientes) en `reports/resumen_plan_relevamiento_clientes_cc_vs_otros.csv` y `docs/04_resumen_puntos_relevamiento_por_plan_cc_vs_otros.md`.
+
